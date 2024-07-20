@@ -1,0 +1,3 @@
+Spam filtering by quantitative profiles
+
+Instead of the 'bag-of-words' representation, in the quantitative profile approach to spam filtering and email categorization, an email is represented by an m-dimensional vector of numbers, with m fixed in advance. Inspired by Sroufe et al. [Sroufe, P., Phithakkitnukoon, S., Dantu, R., and Cangussu, J. (2010). Email shape analysis. In \emph{LNCS}, 5935, pp. 18-29] two instances of quantitative profiles are considered: line profile and character profile. Performance of these profiles is studied on the TREC 2007, CEAS 2008 and a private corpuses. At low computational costs, the two quantitative profiles achieve performance that is at least comparable to that of heuristic rules and naive Bayes.

@@ -1,0 +1,3 @@
+Practical sketching algorithms for low-rank matrix approximation
+
+This paper describes a suite of algorithms for constructing low-rank approximations of an input matrix from a random linear image of the matrix, called a sketch. These methods can preserve structural properties of the input matrix, such as positive-semidefiniteness, and they can produce approximations with a user-specified rank. The algorithms are simple, accurate, numerically stable, and provably correct. Moreover, each method is accompanied by an informative error bound that allows users to select parameters a priori to achieve a given approximation quality. These claims are supported by numerical experiments with real and synthetic data.

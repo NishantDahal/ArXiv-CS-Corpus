@@ -1,0 +1,3 @@
+Simple, Decidable Type Inference with Subtyping
+
+We demonstrate a method to infer polymorphically principal and subtyping-minimal types for an ML-like core language by assigning ranges within a lattice to type variables. We demonstrate the termination and completeness of this algorithm, and proceed to show that it solves a broad special-case of the generally-undecidable semi-unification problem. Our procedure requires no type annotations, leaves no subtyping constraints in the inferred types, and produces no proof obligations. We demonstrate the practical utility of our technique by showing a type-preserving encoding of Featherweight Java into the expression calculus over which we infer types.

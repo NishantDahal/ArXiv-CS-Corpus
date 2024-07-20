@@ -1,0 +1,7 @@
+Graph Clustering using Effective Resistance
+
+$ \def\vecc#1{\boldsymbol{#1}} $We design a polynomial time algorithm that for any weighted undirected graph $G = (V, E,\vecc w)$ and sufficiently large $δ> 1$, partitions $V$ into subsets $V_1, \ldots, V_h$ for some $h\geq 1$, such that
+  $\bullet$ at most $δ^{-1}$ fraction of the weights are between clusters, i.e. \[ w(E - \cup_{i = 1}^h E(V_i)) \lesssim \frac{w(E)}δ;\]
+  $\bullet$ the effective resistance diameter of each of the induced subgraphs $G[V_i]$ is at most $δ^3$ times the average weighted degree, i.e. \[ \max_{u, v \in V_i} \mathsf{Reff}_{G[V_i]}(u, v) \lesssim δ^3 \cdot \frac{|V|}{w(E)} \quad \text{ for all } i=1, \ldots, h.\]
+  In particular, it is possible to remove one percent of weight of edges of any given graph such that each of the resulting connected components has effective resistance diameter at most the inverse of the average weighted degree.
+  Our proof is based on a new connection between effective resistance and low conductance sets. We show that if the effective resistance between two vertices $u$ and $v$ is large, then there must be a low conductance cut separating $u$ from $v$. This implies that very mildly expanding graphs have constant effective resistance diameter. We believe that this connection could be of independent interest in algorithm design.

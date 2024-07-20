@@ -1,0 +1,3 @@
+Generalizing, Decoding, and Optimizing Support Vector Machine Classification
+
+The classification of complex data usually requires the composition of processing steps. Here, a major challenge is the selection of optimal algorithms for preprocessing and classification (including parameterizations). Nowadays, parts of the optimization process are automized but expert knowledge and manual work are still required. We present three steps to face this process and ease the optimization. Namely, we take a theoretical view on classical classifiers, provide an approach to interpret the classifier together with the preprocessing, and integrate both into one framework which enables a semiautomatic optimization of the processing chain and which interfaces numerous algorithms.

@@ -1,0 +1,3 @@
+The Dynamics of AdaBoost Weights Tells You What's Hard to Classify
+
+The dynamical evolution of weights in the Adaboost algorithm contains useful information about the role that the associated data points play in the built of the Adaboost model. In particular, the dynamics induces a bipartition of the data set into two (easy/hard) classes. Easy points are ininfluential in the making of the model, while the varying relevance of hard points can be gauged in terms of an entropy value associated to their evolution. Smooth approximations of entropy highlight regions where classification is most uncertain. Promising results are obtained when methods proposed are applied in the Optimal Sampling framework.

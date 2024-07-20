@@ -1,0 +1,3 @@
+Building Space-Time Meshes over Arbitrary Spatial Domains
+
+We present an algorithm to construct meshes suitable for space-time discontinuous Galerkin finite-element methods. Our method generalizes and improves the `Tent Pitcher' algorithm of Üngör and Sheffer. Given an arbitrary simplicially meshed domain M of any dimension and a time interval [0,T], our algorithm builds a simplicial mesh of the space-time domain Mx[0,T], in constant time per element. Our algorithm avoids the limitations of previous methods by carefully adapting the durations of space-time elements to the local quality and feature size of the underlying space mesh.

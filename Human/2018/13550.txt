@@ -1,0 +1,3 @@
+Gradual Learning of Recurrent Neural Networks
+
+Recurrent Neural Networks (RNNs) achieve state-of-the-art results in many sequence-to-sequence modeling tasks. However, RNNs are difficult to train and tend to suffer from overfitting. Motivated by the Data Processing Inequality (DPI), we formulate the multi-layered network as a Markov chain, introducing a training method that comprises training the network gradually and using layer-wise gradient clipping. We found that applying our methods, combined with previously introduced regularization and optimization methods, resulted in improvements in state-of-the-art architectures operating in language modeling tasks.

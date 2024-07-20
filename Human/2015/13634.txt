@@ -1,0 +1,4 @@
+Decoding Reed-Muller codes over product sets
+
+We give a polynomial time algorithm to decode multivariate polynomial codes of degree $d$ up to half their minimum distance, when the evaluation points are an arbitrary product set $S^m$, for every $d < |S|$. Previously known algorithms can achieve this only if the set $S$ has some very special algebraic structure, or if the degree $d$ is significantly smaller than $|S|$. We also give a near-linear time randomized algorithm, which is based on tools from list-decoding, to decode these codes from nearly half their minimum distance, provided $d < (1-ε)|S|$ for constant $ε> 0$.
+  Our result gives an $m$-dimensional generalization of the well known decoding algorithms for Reed-Solomon codes, and can be viewed as giving an algorithmic version of the Schwartz-Zippel lemma.

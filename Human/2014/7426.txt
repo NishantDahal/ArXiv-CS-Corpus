@@ -1,0 +1,3 @@
+A Fast Synchronization Clustering Algorithm
+
+This paper presents a Fast Synchronization Clustering algorithm (FSynC), which is an improved version of SynC algorithm. In order to decrease the time complexity of the original SynC algorithm, we combine grid cell partitioning method and Red-Black tree to construct the near neighbor point set of every point. By simulated experiments of some artificial data sets and several real data sets, we observe that FSynC algorithm can often get less time than SynC algorithm for many kinds of data sets. At last, it gives some research expectations to popularize this algorithm.

@@ -1,0 +1,5 @@
+The Bundled Crossing Number
+
+We study the algorithmic aspect of edge bundling. A bundled crossing in a drawing of a graph is a group of crossings between two sets of parallel edges. The bundled crossing number is the minimum number of bundled crossings that group all crossings in a drawing of the graph.
+  We show that the bundled crossing number is closely related to the orientable genus of the graph. If multiple crossings and self-intersections of edges are allowed, the two values are identical; otherwise, the bundled crossing number can be higher than the genus.
+  We then investigate the problem of minimizing the number of bundled crossings. For circular graph layouts with a fixed order of vertices, we present a constant-factor approximation algorithm. When the circular order is not prescribed, we get a $\frac{6c}{c-2}$ approximation for a graph with $n$ vertices having at least $cn$ edges for $c>2$. For general graph layouts, we develop an algorithm with an approximation factor of $\frac{6c}{c-3}$ for graphs with at least $cn$ edges for $c > 3$.

@@ -1,0 +1,3 @@
+A modularity based spectral method for simultaneous community and anti-community detection
+
+In a graph or complex network, communities and anti-communities are node sets whose modularity attains extremely large values, positive and negative, respectively. We consider the simultaneous detection of communities and anti-communities, by looking at spectral methods based on various matrix-based definitions of the modularity of a vertex set. Invariant subspaces associated to extreme eigenvalues of these matrices provide indications on the presence of both kinds of modular structure in the network. The localization of the relevant invariant subspaces can be estimated by looking at particular matrix angles based on Frobenius inner products.

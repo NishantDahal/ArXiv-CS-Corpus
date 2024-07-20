@@ -1,0 +1,3 @@
+Counterexample-Guided Polynomial Loop Invariant Generation by Lagrange Interpolation
+
+We apply multivariate Lagrange interpolation to synthesize polynomial quantitative loop invariants for probabilistic programs. We reduce the computation of an quantitative loop invariant to solving constraints over program variables and unknown coefficients. Lagrange interpolation allows us to find constraints with less unknown coefficients. Counterexample-guided refinement furthermore generates linear constraints that pinpoint the desired quantitative invariants. We evaluate our technique by several case studies with polynomial quantitative loop invariants in the experiments.

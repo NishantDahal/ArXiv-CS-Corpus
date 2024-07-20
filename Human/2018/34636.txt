@@ -1,0 +1,3 @@
+Back to square one: probabilistic trajectory forecasting without bells and whistles
+
+We introduce a spatio-temporal convolutional neural network model for trajectory forecasting from visual sources. Applied in an auto-regressive way it provides an explicit probability distribution over continuations of a given initial trajectory segment. We discuss it in relation to (more complicated) existing work and report on experiments on two standard datasets for trajectory forecasting: MNISTseq and Stanford Drones, achieving results on-par with or better than previous methods.

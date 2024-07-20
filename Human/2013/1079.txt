@@ -1,0 +1,3 @@
+Fluid Model Checking
+
+In this paper we investigate a potential use of fluid approximation techniques in the context of stochastic model checking of CSL formulae. We focus on properties describing the behaviour of a single agent in a (large) population of agents, exploiting a limit result known also as fast simulation. In particular, we will approximate the behaviour of a single agent with a time-inhomogeneous CTMC which depends on the environment and on the other agents only through the solution of the fluid differential equation. We will prove the asymptotic correctness of our approach in terms of satisfiability of CSL formulae and of reachability probabilities. We will also present a procedure to model check time-inhomogeneous CTMC against CSL formulae.

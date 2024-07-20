@@ -1,0 +1,3 @@
+Floorplanning and Topology Generation for Application-Specific Network-on-Chip
+
+Network-on-chip (NoC) architectures have been proposed as a promising alternative to classical bus-based communication architectures. In this paper, we propose a two phases framework to solve application-specific NoCs topology generation problem. At floorplanning phase, we carry out partition driven floorplanning. At post-floorplanning phase, a heuristic method and a min-cost max-flow algorithm is used to insert switches and network interfaces. Finally, we allocate paths to minimize power consumption. The experimental results show our algorithm is effective for power saving.

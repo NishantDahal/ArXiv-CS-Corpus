@@ -1,0 +1,6 @@
+Sharpening Occam's Razor
+
+We provide a new representation-independent formulation of Occam's razor theorem, based on Kolmogorov complexity. This new formulation allows us to:
+  (i) Obtain better sample complexity than both length-based and VC-based versions of Occam's razor theorem, in many applications.
+  (ii) Achieve a sharper reverse of Occam's razor theorem than previous work.
+  Specifically, we weaken the assumptions made in an earlier publication, and extend the reverse to superpolynomial running times.

@@ -1,0 +1,3 @@
+Practical and fast quantum random number generation based on photon arrival time relative to external reference
+
+We present a practical high-speed quantum random number generator, where the timing of single-photon detection relative to an external time reference is measured as the raw data. The bias of the raw data can be substantially reduced compared with the previous realizations. The raw random bit rate of our generator can reach 109 Mbps. We develop a model for the generator and evaluate the min-entropy of the raw data. Toeplitz matrix hashing is applied for randomness extraction, after which the final random bits are able to pass the standard randomness tests.

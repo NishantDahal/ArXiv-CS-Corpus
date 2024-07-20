@@ -1,0 +1,3 @@
+Design of Image Matched Non-Separable Wavelet using Convolutional Neural Network
+
+Image-matched nonseparable wavelets can find potential use in many applications including image classification, segmen- tation, compressive sensing, etc. This paper proposes a novel design methodology that utilizes convolutional neural net- work (CNN) to design two-channel non-separable wavelet matched to a given image. The design is proposed on quin- cunx lattice. The loss function of the convolutional neural network is setup with total squared error between the given input image to CNN and the reconstructed image at the output of CNN, leading to perfect reconstruction at the end of train- ing. Simulation results have been shown on some standard images.

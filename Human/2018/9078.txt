@@ -1,0 +1,3 @@
+The Monge-Kantorovich Optimal Transport Distance for Image Comparison
+
+This paper focuses on the Monge-Kantorovich formulation of the optimal transport problem and the associated $L^2$ Wasserstein distance. We use the $L^2$ Wasserstein distance in the Nearest Neighbour (NN) machine learning architecture to demonstrate the potential power of the optimal transport distance for image comparison. We compare the Wasserstein distance to other established distances - including the partial differential equation (PDE) formulation of the optimal transport problem - and demonstrate that on the well known MNIST optical character recognition dataset, it achieves excellent results.

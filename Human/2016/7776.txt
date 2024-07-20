@@ -1,0 +1,3 @@
+Models for Metamath
+
+Although some work has been done on the metamathematics of Metamath, there has not been a clear definition of a model for a Metamath formal system. We define the collection of models of an arbitrary Metamath formal system, both for tree-based and string-based representations. This definition is demonstrated with examples for propositional calculus, $\textsf{ZFC}$ set theory with classes, and Hofstadter's MIU system, with applications for proving that statements are not provable, showing consistency of the main Metamath database (assuming $\textsf{ZFC}$ has a model), developing new independence proofs, and proving a form of Gödel's completeness theorem.

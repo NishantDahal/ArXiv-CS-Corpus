@@ -1,0 +1,3 @@
+Realtime Predictive Maintenance with Lambda Architecture
+
+Recently, IoT technologies have been progressed and applications of maintenance area are expected. However, IoT maintenance applications are not spread in Japan yet because of insufficient analysis of real time situation, high cost to collect sensing data and to configure failure detection rules. In this paper, using lambda architecture concept, we propose a maintenance platform in which edge nodes analyze sensing data, detect anomaly, extract a new detection rule in real time and a cloud orders maintenance automatically, also analyzes whole data collected by batch process in detail, updates learning model of edge nodes to improve analysis accuracy.

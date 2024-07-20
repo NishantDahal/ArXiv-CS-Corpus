@@ -1,0 +1,3 @@
+Deeply Learning Derivatives
+
+This paper uses deep learning to value derivatives. The approach is broadly applicable, and we use a call option on a basket of stocks as an example. We show that the deep learning model is accurate and very fast, capable of producing valuations a million times faster than traditional models. We develop a methodology to randomly generate appropriate training data and explore the impact of several parameters including layer width and depth, training data quality and quantity on model speed and accuracy.

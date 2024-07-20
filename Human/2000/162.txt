@@ -1,0 +1,3 @@
+A characterization of the set of fixed points of the Quicksort transformation
+
+The limiting distribution μof the normalized number of key comparisons required by the Quicksort sorting algorithm is known to be the unique fixed point of a certain distributional transformation T -- unique, that is, subject to the constraints of zero mean and finite variance. We show that a distribution is a fixed point of T if and only if it is the convolution of μwith a Cauchy distribution of arbitrary center and scale. In particular, therefore, μis the unique fixed point of T having zero mean.

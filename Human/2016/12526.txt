@@ -1,0 +1,3 @@
+On the Completeness of Selective Unification in Concolic Testing of Logic Programs
+
+Concolic testing is a popular dynamic validation technique that can be used for both model checking and automatic test case generation. We have recently introduced concolic testing in the context of logic programming. In contrast to previous approaches, the key ingredient in this setting is a technique to generate appropriate run-time goals by considering all possible ways an atom can unify with the heads of some program clauses. This is called "selective" unification. In this paper, we show that the existing algorithm is not complete and explore different alternatives in order to have a sound and complete algorithm for selective unification.

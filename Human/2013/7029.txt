@@ -1,0 +1,3 @@
+Towards Meta-Reasoning in the Concurrent Logical Framework CLF
+
+The concurrent logical framework CLF is an extension of the logical framework LF designed to specify concurrent and distributed languages. While it can be used to define a variety of formalisms, reasoning about such languages within CLF has proved elusive.  In this paper, we propose an extension of LF that allows us to express properties of CLF specifications. We illustrate the approach with a proof of safety for a small language with a parallel semantics.

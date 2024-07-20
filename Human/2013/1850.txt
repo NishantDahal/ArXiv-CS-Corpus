@@ -1,0 +1,4 @@
+Persistence modules: Algebra and algorithms
+
+Persistent homology was shown by Carlsson and Zomorodian to be homology of graded chain complexes with coefficients in the graded ring $\kk[t]$. As such, the behavior of persistence modules -- graded modules over $\kk[t]$ is an important part in the analysis and computation of persistent homology.
+  In this paper we present a number of facts about persistence modules; ranging from the well-known but under-utilized to the reconstruction of techniques to work in a purely algebraic approach to persistent homology. In particular, the results we present give concrete algorithms to compute the persistent homology of a simplicial complex with torsion in the chain complex.

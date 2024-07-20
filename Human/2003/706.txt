@@ -1,0 +1,3 @@
+Fine-Grained Authorization for Job Execution in the Grid: Design and Implementation
+
+In this paper we describe our work on enabling fine-grained authorization for resource usage and management. We address the need of virtual organizations to enforce their own polices in addition to those of the resource owners, in regard to both resource consumption and job management. To implement this design, we propose changes and extensions to the Globus Toolkit's version 2 resource management mechanism. We describe the prototype and the policy language that we designed to express fine-grained policies, and we present an analysis of our solution.

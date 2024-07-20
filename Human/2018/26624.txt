@@ -1,0 +1,4 @@
+Minimizing Branching Vertices in Distance-preserving Subgraphs
+
+It is $\mathsf{NP}$-hard to determine the minimum number of branching vertices needed in a single-source distance-preserving subgraph of an undirected graph. We show that this problem can be solved in polynomial time if the input graph is an interval graph.
+  In earlier work, it was shown that every interval graph with $k$ terminal vertices admits an all-pairs distance-preserving subgraph with $O(k\log k)$ branching vertices. We consider graphs that can be expressed as the strong product of two interval graphs, and present a polynomial time algorithm that takes such a graph with $k$ terminals as input, and outputs an all-pairs distance-preserving subgraph of it with $O(k^2)$ branching vertices. This bound is tight.

@@ -1,0 +1,3 @@
+On profitability of stubborn mining
+
+We compute and compare profitabilities of stubborn mining strategies that are variations of selfish mining. These are deviant mining strategies violating Bitcoin's network protocol rules. We apply the foundational set-up from our previous companion article on the profitability of selfish mining, and the new martingale techniques to get a closed-form computation for the revenue ratio, which is the correct benchmark for profitability. Catalan numbers and Catalan distributions appear in the closed-form computations. This marks the first appearance of Catalan numbers in the Mathematics of the Bitcoin protocol.

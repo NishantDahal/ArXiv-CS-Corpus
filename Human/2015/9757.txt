@@ -1,0 +1,3 @@
+On the Computation Power of Name Parameterization in Higher-order Processes
+
+Parameterization extends higher-order processes with the capability of abstraction (akin to that in lambda-calculus), and is known to be able to enhance the expressiveness. This paper focuses on the parameterization of names, i.e. a construct that maps a name to a process, in the higher-order setting. We provide two results concerning its computation capacity. First, name parameterization brings up a complete model, in the sense that it can express an elementary interactive model with built-in recursive functions. Second,  we compare name parameterization with the well-known pi-calculus, and provide two encodings between them.

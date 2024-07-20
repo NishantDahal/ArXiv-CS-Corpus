@@ -1,0 +1,3 @@
+Cluster-based MDS Algorithm for Nodes Localization in Wireless Sensor Networks with Irregular Topologies
+
+Nodes localization in Wireless Sensor Networks (WSN) has arisen as a very challenging problem in the research community. Most of the applications for WSN are not useful without a priori known nodes positions. One solution to the problem is by adding GPS receivers to each node. Since this is an expensive approach and inapplicable for indoor environments, we need to find an alternative intelligent mechanism for determining nodes location. In this paper, we propose our cluster-based approach of multidimensional scaling (MDS) technique. Our initial experiments show that our algorithm outperforms MDS-MAP[8], particularly for irregular topologies in terms of accuracy.

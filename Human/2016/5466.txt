@@ -1,0 +1,3 @@
+Cryptompress: A Symmetric Cryptography algorithm to deny Bruteforce Attack
+
+Cryptompress, a new 128-bit (initial) private-key cryptography algorithm is proposed. It uses a block size of at least 30 bits and increments prior key size to additional 32 bits on each unsuccessful attempt of any means, including bruteforcing, further changing a specific portion of the cyphertext using the reformed Feistel network. Encryption process results from a proposed compression sequence developed using lookup table and shift operations followed by key generation. Eventually, four matrixes named add-sub matrix, reduced matrix, sequence matrix and term matrix are obtained which ultimately forms a cyphertext.

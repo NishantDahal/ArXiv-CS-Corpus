@@ -1,0 +1,5 @@
+Stubborn Transaction Reduction (with Proofs)
+
+The exponential explosion of parallel interleavings remains a fundamental challenge to model checking of concurrent programs. Both partial-order reduction (POR) and transaction reduction (TR) decrease the number of interleavings in a concurrent system. Unlike POR, transactions also reduce the number of intermediate states. Modern POR techniques, on the other hand, offer more dynamic ways of identifying commutative behavior, a crucial task for obtaining good reductions.
+  We show that transaction reduction can use the same dynamic commutativity as found in stubborn set POR. We also compare reductions obtained by POR and TR, demonstrating with several examples that these techniques complement each other.
+  With an implementation of the dynamic transactions in the model checker LTSmin, we compare its effectiveness with the original static TR and two POR approaches. Several inputs, including realistic case studies, demonstrate that the new dynamic TR can surpass POR in practice.

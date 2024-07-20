@@ -1,0 +1,3 @@
+The proximal point method for a hybrid model in image restoration
+
+Models including two $L^1$ -norm terms have been widely used in image restoration. In this paper we first propose the alternating direction method of multipliers (ADMM) to solve this class of models. Based on ADMM, we then propose the proximal point method (PPM), which is more efficient than ADMM. Following the operator theory, we also give the convergence analysis of the proposed methods. Furthermore, we use the proposed methods to solve a class of hybrid models combining the ROF model with the LLT model. Some numerical results demonstrate the viability and efficiency of the proposed methods.

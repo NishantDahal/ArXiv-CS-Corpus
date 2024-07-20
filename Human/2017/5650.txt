@@ -1,0 +1,3 @@
+A linear time algorithm for a variant of the max cut problem in series parallel graphs
+
+Given a graph $G=(V, E)$, a connected sides cut $(U, V\backslash U)$ or $δ(U)$ is the set of edges of E linking all vertices of U to all vertices of $V\backslash U$ such that the induced subgraphs $G[U]$ and $G[V\backslash U]$ are connected. Given a positive weight function $w$ defined on $E$, the maximum connected sides cut problem (MAX CS CUT) is to find a connected sides cut $Ω$ such that $w(Ω)$ is maximum. MAX CS CUT is NP-hard. In this paper, we give a linear time algorithm to solve MAX CS CUT for series parallel graphs. We deduce a linear time algorithm for the minimum cut problem in the same class of graphs without computing the maximum flow.

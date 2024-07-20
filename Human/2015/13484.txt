@@ -1,0 +1,3 @@
+Quantum differential cryptanalysis to the block ciphers
+
+Differential cryptanalysis is one of the most popular methods in attacking block ciphers. However, there still some limitations in traditional differential cryptanalysis. On the other hand, researches of quantum algorithms have made great progress nowadays. This paper proposes two methods to apply quantum algorithms in differential cryptanalysis, and analysis their efficiencies and success probabilities. One method is using quantum algorithm in the high probability differential finding period for every S-Box. The second method is taking the encryption as a whole, using quantum algorithm in this process.

@@ -1,0 +1,3 @@
+A Web API ecosystem through feature-based reuse
+
+The fast-growing Web API landscape brings clients more options than ever before---in theory. In practice, they cannot easily switch between different providers offering similar functionality. We discuss a vision for developing Web APIs based on reuse of interface parts called features. Through the introduction of 5 design principles, we investigate the impact of feature-based reuse on Web APIs. Applying these principles enables a granular reuse of client and server code, documentation, and tools. Together, they can foster a measurable ecosystem with cross-API compatibility, opening the door to a more flexible generation of Web clients.

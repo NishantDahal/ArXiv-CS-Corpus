@@ -1,0 +1,3 @@
+A signaling protocol for service function localization
+
+Current proposals for combining service functions (SFs) do not address some critical management issues, such as the discovery of SF instances close to IP data paths. This information is crucial for deploying complex services both in large cloud networks, where SFs may be moved or replicated, and in the emerging fog/mobile edge computing systems. For this purpose, in this letter we propose the distributed off-path signaling protocol (OSP). We show the protocol functions and demonstrate its scalability and effectiveness by experimental results.

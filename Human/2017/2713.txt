@@ -1,0 +1,4 @@
+Intersections and Unions of Session Types
+
+Prior work has extended the deep, logical connection between the linear sequent calculus and session-typed message-passing concurrent computation with equi-recursive types and a natural notion of subtyping. In this paper, we extend this further by intersection and union types in order to express multiple behavioral properties of processes in a single type. We prove session fidelity and absence of deadlock and illustrate the expressive power of our system with some simple examples. We observe that we can represent internal and external choice by intersection and union, respectively, which was previously suggested by Padovani for a different language of session types motivated by operational rather than logical concerns.
+

@@ -1,0 +1,4 @@
+Two-Source Dispersers for Polylogarithmic Entropy and Improved Ramsey Graphs
+
+In his 1947 paper that inaugurated the probabilistic method, Erdős proved the existence of $2\log{n}$-Ramsey graphs on $n$ vertices. Matching Erdős' result with a constructive proof is a central problem in combinatorics, that has gained a significant attention in the literature. The state of the art result was obtained in the celebrated paper by Barak, Rao, Shaltiel and Wigderson [Ann. Math'12], who constructed a $2^{2^{(\log\log{n})^{1-α}}}$-Ramsey graph, for some small universal constant $α> 0$.
+  In this work, we significantly improve the result of Barak~\etal and construct $2^{(\log\log{n})^c}$-Ramsey graphs, for some universal constant $c$. In the language of theoretical computer science, our work resolves the problem of explicitly constructing two-source dispersers for polylogarithmic entropy.

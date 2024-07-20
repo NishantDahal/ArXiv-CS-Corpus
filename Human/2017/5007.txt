@@ -1,0 +1,3 @@
+Sampling and Frequency Warping
+
+Optimal sampling of non band-limited functions is an issue of great importance that has attracted considerable attention. We propose to tackle this problem through the use of a frequency warping: First, by a nonlinear shrinking of frequencies, the function is transformed into a band-limited one. One may then perform a decomposition in Fourier series. This process gives rise to new orthonormal bases of the Sobolev spaces H^alpha. When alpha is an integer, these orthonormal bases can be expressed in terms of Laguerre functions. We study the reconstruction and speed of convergence properties of the warping-based sampling. Besides theoretical considerations, numerical experiments are performed.

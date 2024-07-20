@@ -1,0 +1,3 @@
+Down the Borel Hierarchy: Solving Muller Games via Safety Games
+
+We transform a Muller game with n vertices into a safety game with (n!)^3 vertices whose solution allows to determine the winning regions of the Muller game and to compute a finite-state winning strategy for one player. This yields a novel antichain-based memory structure and a natural notion of permissive strategies for Muller games. Moreover, we generalize our construction by presenting a new type of game reduction from infinite games to safety games and show its applicability to several other winning conditions.

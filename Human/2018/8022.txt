@@ -1,0 +1,11 @@
+Principally Box-integer Polyhedra and Equimodular Matrices
+
+A polyhedron is box-integer if its intersection with any integer box $\{\ell\leq x \leq u\}$ is integer. We define principally box-integer polyhedra to be the polyhedra $P$ such that $kP$ is box-integer whenever $kP$ is integer. We characterize them in several ways, involving equimodular matrices and box-total dual integral (box-TDI) systems. A rational $r\times n$ matrix is equimodular if it has full row rank and its nonzero $r\times r$ determinants all have the same absolute value. A face-defining matrix is a full row rank matrix describing the affine hull of a face of the polyhedron. Box-TDI systems are systems which yield strong min-max relations, and the underlying polyhedron is called a box-TDI polyhedron. Our main result is that the following statements are equivalent.
+  - The polyhedron $P$ is principally box-integer.
+  - The polyhedron $P$ is box-TDI.
+  - Every face-defining matrix of $P$ is equimodular.
+  - Every face of $P$ has an equimodular face-defining matrix.
+  - Every face of $P$ has a totally unimodular face-defining matrix.
+  - For every face $F$ of $P$, lin($F$) has a totally unimodular basis.
+  Along our proof, we show that a cone $\{x:Ax\leq \mathbf{0}\}$ is box-TDI if and only if it is box-integer, and that these properties are passed on to its polar.
+  We illustrate the use of these characterizations by reviewing well known results about box-TDI polyhedra. We also provide several applications. The first one is a new perspective on the equivalence between two results about binary clutters. Secondly, we refute a conjecture of Ding, Zang, and Zhao about box-perfect graphs. Thirdly, we discuss connections with an abstract class of polyhedra having the Integer Carathéodory Property. Finally, we characterize the box-TDIness of the cone of conservative functions of a graph and provide a corresponding box-TDI system.

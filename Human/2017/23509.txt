@@ -1,0 +1,3 @@
+Counting Roots of Polynomials Over Prime Power Rings
+
+Suppose $p$ is a prime, $t$ is a positive integer, and $f\!\in\!\mathbb{Z}[x]$ is a univariate polynomial of degree $d$ with coefficients of absolute value $<\!p^t$. We show that for any fixed $t$, we can compute the number of roots in $\mathbb{Z}/(p^t)$ of $f$ in deterministic time $(d+\log p)^{O(1)}$. This fixed parameter tractability appears to be new for $t\!\geq\!3$. A consequence for arithmetic geometry is that we can efficiently compute Igusa zeta functions $Z$, for univariate polynomials, assuming the degree of $Z$ is fixed.

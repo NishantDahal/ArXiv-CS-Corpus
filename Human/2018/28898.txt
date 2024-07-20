@@ -1,0 +1,3 @@
+Deep Recurrent Neural Network for Multi-target Filtering
+
+This paper addresses the problem of fixed motion and measurement models for multi-target filtering using an adaptive learning framework. This is performed by defining target tuples with random finite set terminology and utilisation of recurrent neural networks with a long short-term memory architecture. A novel data association algorithm compatible with the predicted tracklet tuples is proposed, enabling the update of occluded targets, in addition to assigning birth, survival and death of targets. The algorithm is evaluated over a commonly used filtering simulation scenario, with highly promising results.

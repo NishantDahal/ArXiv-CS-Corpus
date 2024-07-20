@@ -1,0 +1,4 @@
+3D Well-composed Polyhedral Complexes
+
+A binary three-dimensional (3D) image $I$ is well-composed if the boundary surface of its continuous analog is a 2D manifold. Since 3D images are not often well-composed, there are several voxel-based methods ("repairing" algorithms) for turning them into well-composed ones but these methods either do not guarantee the topological equivalence between the original image and its corresponding well-composed one or involve sub-sampling the whole image.
+  In this paper, we present a method to locally "repair" the cubical complex $Q(I)$ (embedded in $\mathbb{R}^3$) associated to $I$ to obtain a polyhedral complex $P(I)$ homotopy equivalent to $Q(I)$ such that the boundary of every connected component of $P(I)$ is a 2D manifold. The reparation is performed via a new codification system for $P(I)$ under the form of a 3D grayscale image that allows an efficient access to cells and their faces.

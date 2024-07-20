@@ -1,0 +1,5 @@
+A Non-anchored Unified Naming System for Ad Hoc Computing Environments
+
+A ubiquitous computing environment consists of many resources that need to be identified by users and applications. Users and developers require some way to identify resources by human readable names. In addition, ubiquitous computing environments impose additional requirements such as the ability to work well with ad hoc situations and the provision of names that depend on context.
+  The Non-anchored Unified Naming (NUN) system was designed to satisfy these requirements. It is based on relative naming among resources and provides the ability to name arbitrary types of resources. By having resources themselves take part in naming, resources are able to able contribute their specialized knowledge into the name resolution process, making context-dependent mapping of names to resources possible. The ease of which new resource types can be added makes it simple to incorporate new types of contextual information within names.
+  In this paper, we describe the naming system and evaluate its use.

@@ -1,0 +1,3 @@
+Enumerating Vertices of $0/1$-Polyhedra associated with $0/1$-Totally Unimodular Matrices
+
+We give an incremental polynomial time algorithm for enumerating the vertices of any polyhedron $\mathcal{P}(A,\mathbf{1})=\{x\in\RR^n \mid Ax\geq \b1,~x\geq \b0\}$, when $A$ is a totally unimodular matrix. Our algorithm is based on decomposing the hypergraph transversal problem for unimodular hypergraphs using Seymour's decomposition of totally unimodular matrices, and may be of independent interest.

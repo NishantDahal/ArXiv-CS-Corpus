@@ -1,0 +1,3 @@
+Taming mismatches in inter-agent distances for the formation-motion control of second-order agents
+
+This paper presents the analysis on the influence of distance mismatches on the standard gradient-based rigid formation control for second-order agents. It is shown that, similar to the first-order case as recently discussed in the literature, these mismatches introduce two undesired group behaviors: a distorted final shape and a steady-state motion of the group formation. We show that such undesired behaviors can be eliminated by combining the standard formation control law with distributed estimators. Finally, we show how the mismatches can be effectively employed as design parameters in order to control a combined translational and rotational motion of the formation.

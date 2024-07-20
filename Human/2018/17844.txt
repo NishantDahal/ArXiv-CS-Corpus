@@ -1,0 +1,4 @@
+Specification Mining for Smart Contracts with Automatic Abstraction Tuning
+
+Smart contracts are programs that manage digital assets according to a certain protocol, expressing for instance the rules of an auction. Understanding the possible behaviors of a smart contract is difficult, which complicates development, auditing, and the post-mortem analysis of attacks.
+  This paper presents the first specification mining technique for smart contracts. Our technique extracts the possible behaviors of smart contracts from contract executions recorded on a blockchain and expresses them as finite automata. A novel dependency analysis allows us to separate independent interactions with a contract. Our technique tunes the abstractions for the automata construction automatically based on configurable metrics, for instance, to maximize readability or precision. We implemented our technique for the Ethereum blockchain and evaluated its usability on several real-world contracts.

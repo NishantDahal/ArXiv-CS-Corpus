@@ -1,0 +1,4 @@
+Heterogeneous Replica for Query on Cassandra
+
+Cassandra is a popular structured storage system with high-performance, scalability and high availability, and is usually used to store data that has some sortable attributes. When deploying and configuring Cassandra, it is important to design a suitable schema of column families for accelerating the target queries. However, one schema is only suitable for a part of queries, and leaves other queries with high latency.
+  In this paper, we propose a new replica mechanism, called heterogeneous replica, to reduce the query latency greatly while ensuring high write throughput and data recovery. With this replica mechanism, different replica has the same dataset while having different serialization on disk. By implementing the heterogeneous replica mechanism on Cassandra, we show that the read performance of Cassandra can be improved by two orders of magnitude with TPC-H data set.

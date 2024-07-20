@@ -1,0 +1,3 @@
+Linking Generative Adversarial Learning and Binary Classification
+
+In this note, we point out a basic link between generative adversarial (GA) training and binary classification -- any powerful discriminator essentially computes an (f-)divergence between real and generated samples. The result, repeatedly re-derived in decision theory, has implications for GA Networks (GANs), providing an alternative perspective on training f-GANs by designing the discriminator loss function.

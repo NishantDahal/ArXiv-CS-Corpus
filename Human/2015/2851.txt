@@ -1,0 +1,3 @@
+The Configuration Model for Partially Directed Graphs
+
+The configuration model was originally defined for undirected networks and has recently been extended to directed networks. Many empirical networks are however neither undirected nor completely directed, but instead usually partially directed meaning that certain edges are directed and others are undirected. In the paper we define a configuration model for such networks where nodes have in-, out-, and undirected degrees that may be dependent. We prove conditions under which the resulting degree distributions converge to the intended degree distributions. The new model is shown to better approximate several empirical networks compared to undirected and completely directed networks.

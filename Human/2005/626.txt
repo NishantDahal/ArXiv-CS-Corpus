@@ -1,0 +1,3 @@
+An O(n log n)-Time Algorithm for the Restricted Scaffold Assignment
+
+The assignment problem takes as input two finite point sets S and T and establishes a correspondence between points in S and points in T, such that each point in S maps to exactly one point in T, and each point in T maps to at least one point in S. In this paper we show that this problem has an O(n log n)-time solution, provided that the points in S and T are restricted to lie on a line (linear time, if S and T are presorted).

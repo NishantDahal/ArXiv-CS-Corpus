@@ -1,0 +1,3 @@
+Platform-Centric Android Monitoring---Modular and Efficient
+
+We present an add-on for the Android platform, capable of intercepting nearly all interactions between apps or apps with the platform, including arguments of method invocations in a human-readable format. A preliminary performance evaluation shows that the performance penalty of our solution is roughly comparable with similar tools in that area. The advantage of our solution, however, is that it is truly modular in the sense that we do not actually modify the Android platform itself, and can include it even with an already running system. Possible uses of such an add-on are manifold; we discuss one from the area of runtime verification that aims at improving system security.

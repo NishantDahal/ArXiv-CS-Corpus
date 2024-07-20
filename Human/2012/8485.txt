@@ -1,0 +1,3 @@
+Combining local search techniques and path following for bimatrix games
+
+Computing a Nash equilibrium (NE) is a central task in computer science. An NE is a particularly appropriate solution concept for two-agent settings because coalitional deviations are not an issue. However, even in this case, finding an NE is PPAD-complete. In this paper, we combine path following algorithms with local search techniques to design new algorithms for finding exact and approximate NEs. We show that our algorithms largely outperform the state of the art and that almost all the known benchmark game classes are easily solvable or approximable (except for the GAMUT CovariantGameRand class).

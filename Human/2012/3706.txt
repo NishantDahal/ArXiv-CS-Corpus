@@ -1,0 +1,3 @@
+New inference strategies for solving Markov Decision Processes using reversible jump MCMC
+
+In this paper we build on previous work which uses inferences techniques, in particular Markov Chain Monte Carlo (MCMC) methods, to solve parameterized control problems. We propose a number of modifications in order to make this approach more practical in general, higher-dimensional spaces. We first introduce a new target distribution which is able to incorporate more reward information from sampled trajectories. We also show how to break strong correlations between the policy parameters and sampled trajectories in order to sample more freely. Finally, we show how to incorporate these techniques in a principled manner to obtain estimates of the optimal policy.

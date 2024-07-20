@@ -1,0 +1,3 @@
+Super-resolution method using sparse regularization for point-spread function recovery
+
+In large-scale spatial surveys, such as the forthcoming ESA Euclid mission, images may be undersampled due to the optical sensors sizes. Therefore, one may consider using a super-resolution (SR) method to recover aliased frequencies, prior to further analysis. This is particularly relevant for point-source images, which provide direct measurements of the instrument point-spread function (PSF). We introduce SPRITE, SParse Recovery of InsTrumental rEsponse, which is an SR algorithm using a sparse analysis prior. We show that such a prior provides significant improvements over existing methods, especially on low SNR PSFs.

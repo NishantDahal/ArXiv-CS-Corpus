@@ -1,0 +1,3 @@
+Image Restoration and Reconstruction using Variable Splitting and Class-adapted Image Priors
+
+This paper proposes using a Gaussian mixture model as a prior, for solving two image inverse problems, namely image deblurring and compressive imaging. We capitalize on the fact that variable splitting algorithms, like ADMM, are able to decouple the handling of the observation operator from that of the regularizer, and plug a state-of-the-art algorithm into the pure denoising step. Furthermore, we show that, when applied to a specific type of image, a Gaussian mixture model trained from an database of images of the same type is able to outperform current state-of-the-art methods.

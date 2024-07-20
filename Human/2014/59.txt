@@ -1,0 +1,4 @@
+XLSearch: A Search Engine for Spreadsheets
+
+Spreadsheets are end-user programs and domain models that are heavily employed in administration, financial forecasting, education, and science because of their intuitive, flexible, and direct approach to computation. As a result, institutions are swamped by millions of spreadsheets that are becoming increasingly difficult to manage, access, and control.
+  This note presents the XLSearch system, a novel search engine for spreadsheets. It indexes spreadsheet formulae and efficiently answers formula queries via unification (a complex query language that allows metavariables in both the query as well as the index). But a web-based search engine is only one application of the underlying technology: Spreadsheet formula export to web standards like MathML combined with formula indexing can be used to find similar spreadsheets or common formula errors.

@@ -1,0 +1,3 @@
+On the union complexity of families of axis-parallel rectangles with a low packing number
+
+Let R be a family of n axis-parallel rectangles with packing number p-1, meaning that among any p of the rectangles, there are two with a non-empty intersection. We show that the union complexity of R is at most O(n+p^2), and that the (<=k)-level complexity of R is at most O(kn+k^2p^2). Both upper bounds are tight.

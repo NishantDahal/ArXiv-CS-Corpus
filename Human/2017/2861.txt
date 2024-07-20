@@ -1,0 +1,3 @@
+Generalized piggybacking codes for distributed storage systems
+
+This paper generalizes the piggybacking constructions for distributed storage systems by considering various protected instances and piggybacked instances. Analysis demonstrates that the proportion of protected instances determines the average repair bandwidth for a systematic node. By optimizing the proportion of protected instances, the repair ratio of generalized piggybacking codes approaches zero instead of 50% as the number of parity check nodes tends to infinity. Furthermore, the computational complexity for repairing a single systematic node cost by generalized piggybacking codes is less than that of the existing piggybacking designs.

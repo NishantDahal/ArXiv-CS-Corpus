@@ -1,0 +1,3 @@
+A note on Solving Parametric Polynomial Systems
+
+Lazard and Rouillier in [9], by introducing the concept of discriminant variety, have described a new and efficient algorithm for solving parametric polynomial systems. In this paper we modify this algorithm, and we show that with our improvements the output of our algorithm is always minimal and it does not need to compute the radical of ideals.

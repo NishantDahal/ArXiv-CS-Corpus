@@ -1,0 +1,5 @@
+Predicting SLA Violations in Real Time using Online Machine Learning
+
+Detecting faults and SLA violations in a timely manner is critical for telecom providers, in order to avoid loss in business, revenue and reputation. At the same time predicting SLA violations for user services in telecom environments is difficult, due to time-varying user demands and infrastructure load conditions.
+  In this paper, we propose a service-agnostic online learning approach, whereby the behavior of the system is learned on the fly, in order to predict client-side SLA violations. The approach uses device-level metrics, which are collected in a streaming fashion on the server side.
+  Our results show that the approach can produce highly accurate predictions (>90% classification accuracy and < 10% false alarm rate) in scenarios where SLA violations are predicted for a video-on-demand service under changing load patterns. The paper also highlight the limitations of traditional offline learning methods, which perform significantly worse in many of the considered scenarios.

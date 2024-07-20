@@ -1,0 +1,6 @@
+Performance comparison between iSCSI and other hardware and software solutions
+
+We report on our investigations on some technologies that can be used to build disk servers and networks of disk servers using commodity hardware and software solutions. It focuses on the performance that can be achieved by these systems and gives measured figures for different configurations.
+  It is divided into two parts : iSCSI and other technologies and hardware and software RAID solutions.
+  The first part studies different technologies that can be used by clients to access disk servers using a gigabit ethernet network. It covers block access technologies (iSCSI, hyperSCSI, ENBD). Experimental figures are given for different numbers of clients and servers.
+  The second part compares a system based on 3ware hardware RAID controllers, a system using linux software RAID and IDE cards and a system mixing both hardware RAID and software RAID. Performance measurements for reading and writing are given for different RAID levels.

@@ -1,0 +1,3 @@
+Recursive Sparse Pseudo-input Gaussian Process SARSA
+
+The class of Gaussian Process (GP) methods for Temporal Difference learning has shown promise for data-efficient model-free Reinforcement Learning. In this paper, we consider a recent variant of the GP-SARSA algorithm, called Sparse Pseudo-input Gaussian Process SARSA (SPGP-SARSA), and derive recursive formulas for its predictive moments. This extension promotes greater memory efficiency, since previous computations can be reused and, interestingly, it provides a technique for updating value estimates on a multiple timescales

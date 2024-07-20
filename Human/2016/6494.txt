@@ -1,0 +1,3 @@
+Distributed Gauss-Newton Method for AC State Estimation: A Belief Propagation Approach
+
+In this paper, we propose a solution to an AC state estimation problem in electric power systems using a fully distributed Gauss-Newton method. The proposed method is placed within the context of factor graphs and belief propagation algorithms and closed-form expressions for belief propagation messages exchanged along the factor graph are derived. The obtained algorithm provides the same solution as the conventional weighted least-squares state estimation. Using a simple example, we provide a step-by-step presentation of the proposed algorithm. Finally, we discuss the convergence behaviour using the IEEE 14 bus test case.

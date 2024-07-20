@@ -1,0 +1,3 @@
+A Note on the Convexity of $\log \det ( I + KX^{-1} )$ and its Constrained Optimization Representation
+
+This note provides another proof for the {\em convexity} ({\em strict convexity}) of $\log \det ( I + KX^{-1} )$ over the positive definite cone for any given positive semidefinite matrix $K \succeq 0$ (positive definite matrix $K \succ 0$) and the {\em strictly convexity} of $\log \det (K + X^{-1})$ over the positive definite cone for any given $K \succeq 0$. Equivalent optimization representation with linear matrix inequalities (LMIs) for the functions $\log \det ( I + KX^{-1} )$ and $\log \det (K + X^{-1})$ are presented. Their optimization representations with LMI constraints can be particularly useful for some related synthetic design problems.

@@ -1,0 +1,3 @@
+Privacy Preserving PageRank Algorithm By Using Secure Multi-Party Computation
+
+In this work, we study the problem of privacy preserving computation on PageRank algorithm. The idea is to enforce the secure multi party computation of the algorithm iteratively using homomorphic encryption based on Paillier scheme. In the proposed PageRank computation, a user encrypt its own graph data using asymmetric encryption method, sends the data set into different parties in a privacy-preserving manner. Each party computes its own encrypted entity, but learns nothing about the data at other parties.

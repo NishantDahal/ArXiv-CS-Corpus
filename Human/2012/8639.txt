@@ -1,0 +1,4 @@
+A call-by-value lambda-calculus with lists and control
+
+Calculi with control operators have been studied to reason about control in programming languages and to interpret the computational content of classical proofs. To make these calculi into a real programming language, one should also include data types.
+  As a step into that direction, this paper defines a simply typed call-by-value lambda calculus with the control operators catch and throw, a data type of lists, and an operator for primitive recursion (a la Goedel's T). We prove that our system satisfies subject reduction, progress, confluence for untyped terms, and strong normalization for well-typed terms.

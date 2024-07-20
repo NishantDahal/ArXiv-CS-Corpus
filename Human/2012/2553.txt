@@ -1,0 +1,3 @@
+FastFlow tutorial
+
+FastFlow is a structured parallel programming framework targeting shared memory multicores. Its layered design and the optimized implementation of the communication mechanisms used to implement the FastFlow streaming networks provided to the application programmer as algorithmic skeletons support the development of efficient fine grain parallel applications. FastFlow is available (open source) at SourceForge (http://sourceforge.net/projects/mc-fastflow/). This work introduces FastFlow programming techniques and points out the different ways used to parallelize existing C/C++ code using FastFlow as a software accelerator. In short: this is a kind of tutorial on FastFlow.

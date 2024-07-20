@@ -1,0 +1,3 @@
+ParFORM: Parallel Version of the Symbolic Manipulation Program FORM
+
+After an introduction to the sequential version of FORM and the mechanisms behind, we report on the status of our project of parallelization. We have now a parallel version of FORM running on Cluster- and SMP-architectures. This version can be used to run arbitrary FORM programs in parallel.

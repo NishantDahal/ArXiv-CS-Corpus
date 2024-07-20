@@ -1,0 +1,3 @@
+Quantum Circuits with Unbounded Fan-out
+
+We demonstrate that the unbounded fan-out gate is very powerful. Constant-depth polynomial-size quantum circuits with bounded fan-in and unbounded fan-out over a fixed basis (denoted by QNCf^0) can approximate with polynomially small error the following gates: parity, mod[q], And, Or, majority, threshold[t], exact[q], and Counting. Classically, we need logarithmic depth even if we can use unbounded fan-in gates. If we allow arbitrary one-qubit gates instead of a fixed basis, then these circuits can also be made exact in log-star depth. Sorting, arithmetical operations, phase estimation, and the quantum Fourier transform with arbitrary moduli can also be approximated in constant depth.

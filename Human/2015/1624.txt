@@ -1,0 +1,3 @@
+Sketch-based Shape Retrieval using Pyramid-of-Parts
+
+We present a multi-scale approach to sketch-based shape retrieval. It is based on a novel multi-scale shape descriptor called Pyramidof- Parts, which encodes the features and spatial relationship of the semantic parts of query sketches. The same descriptor can also be used to represent 2D projected views of 3D shapes, allowing effective matching of query sketches with 3D shapes across multiple scales. Experimental results show that the proposed method outperforms the state-of-the-art method, whether the sketch segmentation information is obtained manually or automatically by considering each stroke as a semantic part.

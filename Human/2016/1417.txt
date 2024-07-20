@@ -1,0 +1,4 @@
+Recovery of signals under the condition on RIC and ROC via prior support information
+
+In this paper, the sufficient condition in terms of the RIC and ROC for the stable and robust recovery of signals in both noiseless and noisy settings was established via weighted $l_{1}$ minimization when there is partial prior information on support of signals. An improved performance guarantee has been derived.
+  We can obtain a less restricted sufficient condition for signal reconstruction and a tighter recovery error bound under some conditions via weighted $l_{1}$ minimization. When prior support estimate is at least $50\%$ accurate, the sufficient condition is weaker than the analogous condition by standard $l_{1}$ minimization method, meanwhile the reconstruction error upper bound is provably to be smaller under additional conditions. Furthermore, the sufficient condition is also proved sharp.

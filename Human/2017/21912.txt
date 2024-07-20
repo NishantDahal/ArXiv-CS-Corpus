@@ -1,0 +1,3 @@
+Online and Batch Supervised Background Estimation via L1 Regression
+
+We propose a surprisingly simple model for supervised video background estimation. Our model is based on $\ell_1$ regression. As existing methods for $\ell_1$ regression do not scale to high-resolution videos, we propose several simple and scalable methods for solving the problem, including iteratively reweighted least squares, a homotopy method, and stochastic gradient descent. We show through extensive experiments that our model and methods match or outperform the state-of-the-art online and batch methods in virtually all quantitative and qualitative measures.

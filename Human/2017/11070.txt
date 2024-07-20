@@ -1,0 +1,3 @@
+Compressive optical interferometry
+
+Compressive sensing (CS) combines data acquisition with compression coding to reduce the number of measurements required to reconstruct a sparse signal. In optics, this usually takes the form of projecting the field onto sequences of random spatial patterns that are selected from an appropriate random ensemble. We show here that CS can be exploited in `native' optics hardware without introducing added components. Specifically, we show that random sub-Nyquist sampling of an interferogram helps reconstruct the field modal structure. The distribution of reduced sensing matrices corresponding to random measurements is provably incoherent and isotropic, which helps us carry out CS successfully.

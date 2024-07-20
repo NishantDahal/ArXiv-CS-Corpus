@@ -1,0 +1,3 @@
+Statistical Analysis of Metric Graph Reconstruction
+
+A metric graph is a 1-dimensional stratified metric space consisting of vertices and edges or loops glued together. Metric graphs can be naturally used to represent and model data that take the form of noisy filamentary structures, such as street maps, neurons, networks of rivers and galaxies. We consider the statistical problem of reconstructing the topology of a metric graph embedded in R^D from a random sample. We derive lower and upper bounds on the minimax risk for the noiseless case and tubular noise case. The upper bound is based on the reconstruction algorithm given in Aanjaneya et al. (2012).

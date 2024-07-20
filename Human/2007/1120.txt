@@ -1,0 +1,7 @@
+Learning Unions of $ω(1)$-Dimensional Rectangles
+
+We consider the problem of learning unions of rectangles over the domain $[b]^n$, in the uniform distribution membership query learning setting, where both b and n are "large". We obtain poly$(n, \log b)$-time algorithms for the following classes:
+  - poly$(n \log b)$-way Majority of $O(\frac{\log(n \log b)} {\log \log(n \log b)})$-dimensional rectangles.
+  - Union of poly$(\log(n \log b))$ many $O(\frac{\log^2 (n \log b)} {(\log \log(n \log b) \log \log \log (n \log b))^2})$-dimensional rectangles.
+  - poly$(n \log b)$-way Majority of poly$(n \log b)$-Or of disjoint $O(\frac{\log(n \log b)} {\log \log(n \log b)})$-dimensional rectangles.
+  Our main algorithmic tool is an extension of Jackson's boosting- and Fourier-based Harmonic Sieve algorithm [Jackson 1997] to the domain $[b]^n$, building on work of [Akavia, Goldwasser, Safra 2003]. Other ingredients used to obtain the results stated above are techniques from exact learning [Beimel, Kushilevitz 1998] and ideas from recent work on learning augmented $AC^{0}$ circuits [Jackson, Klivans, Servedio 2002] and on representing Boolean functions as thresholds of parities [Klivans, Servedio 2001].

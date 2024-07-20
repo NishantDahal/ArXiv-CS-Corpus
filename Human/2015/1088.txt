@@ -1,0 +1,3 @@
+Computing the $L_1$ Geodesic Diameter and Center of a Simple Polygon in Linear Time
+
+In this paper, we show that the $L_1$ geodesic diameter and center of a simple polygon can be computed in linear time. For the purpose, we focus on revealing basic geometric properties of the $L_1$ geodesic balls, that is, the metric balls with respect to the $L_1$ geodesic distance. More specifically, in this paper we show that any family of $L_1$ geodesic balls in any simple polygon has Helly number two, and the $L_1$ geodesic center consists of midpoints of shortest paths between diametral pairs. These properties are crucial for our linear-time algorithms, and do not hold for the Euclidean case.

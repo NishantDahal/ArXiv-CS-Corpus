@@ -1,0 +1,3 @@
+Automatic Recognition of Coal and Gangue based on Convolution Neural Network
+
+We designed a gangue sorting system,and built a convolutional neural network model based on AlexNet. Data enhancement and transfer learning are used to solve the problem which the convolution neural network has insufficient training data in the training stage. An object detection and region clipping algorithm is proposed to adjust the training image data to the optimum size. Compared with traditional neural network and SVM algorithm, this algorithm has higher recognition rate for coal and coal gangue, and provides important reference for identification and separation of coal and gangue.

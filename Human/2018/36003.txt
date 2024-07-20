@@ -1,0 +1,3 @@
+A coalgebraic treatment of conditional transition systems with upgrades
+
+We consider conditional transition systems, that model software product lines with upgrades, in a coalgebraic setting. By using Birkhoff's duality for distributive lattices, we derive two equivalent Kleisli categories in which these coalgebras live: Kleisli categories based on the reader and on the so-called lattice monad over $\mathsf{Poset}$. We study two different functors describing the branching type of the coalgebra and investigate the resulting behavioural equivalence. Furthermore we show how an existing algorithm for coalgebra minimisation can be instantiated to derive behavioural equivalences in this setting.

@@ -1,0 +1,3 @@
+Linear Dependent Types and Relative Completeness
+
+A system of linear dependent types for the lambda calculus with full higher-order recursion, called dlPCF, is introduced and proved sound and relatively complete. Completeness holds in a strong sense: dlPCF is not only able to precisely capture the functional behaviour of PCF programs (i.e. how the output relates to the input) but also some of their intensional properties, namely the complexity of evaluating them with Krivine's Machine. dlPCF is designed around dependent types and linear logic and is parametrized on the underlying language of index terms, which can be tuned so as to sacrifice completeness for tractability. 

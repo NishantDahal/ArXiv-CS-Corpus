@@ -1,0 +1,3 @@
+DNN Transfer Learning based Non-linear Feature Extraction for Acoustic Event Classification
+
+Recent acoustic event classification research has focused on training suitable filters to represent acoustic events. However, due to limited availability of target event databases and linearity of conventional filters, there is still room for improving performance. By exploiting the non-linear modeling of deep neural networks (DNNs) and their ability to learn beyond pre-trained environments, this letter proposes a DNN-based feature extraction scheme for the classification of acoustic events. The effectiveness and robustness to noise of the proposed method are demonstrated using a database of indoor surveillance environments.

@@ -1,0 +1,3 @@
+An improved bound on acyclic chromatic index of planar graphs
+
+Proper edge coloring of a graph $G$ is called acyclic if there is no bichromatic cycle in $G$. The acyclic chromatic index of $G$, denoted by $χ'_a(G)$, is the least number of colors $k$ such that $G$ has an acyclic edge $k$-coloring. Basavaraju et al. [Acyclic edge-coloring of planar graphs, SIAM J. Discrete Math. 25 (2) (2011), 463--478] showed that $χ'_a(G)\le Δ(G)+12$ for planar graphs $G$ with maximum degree $Δ(G)$. In this paper, the bound is improved to $Δ(G)+10$.

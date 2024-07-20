@@ -1,0 +1,3 @@
+On Planar Valued CSPs
+
+We study the computational complexity of planar valued constraint satisfaction problems (VCSPs), which require the incidence graph of the instance be planar. First, we show that intractable Boolean VCSPs have to be self-complementary to be tractable in the planar setting, thus extending a corresponding result of Dvorak and Kupec [ICALP'15] from CSPs to VCSPs. Second, we give a complete complexity classification of conservative planar VCSPs on arbitrary finite domains. In this case planarity does not lead to any new tractable cases and thus our classification is a sharpening of the classification of conservative VCSPs by Kolmogorov and Zivny [JACM'13].

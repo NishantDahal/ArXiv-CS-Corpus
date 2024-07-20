@@ -1,0 +1,3 @@
+A multiprecision matrix calculation library and its extension library for a matrix-product-state simulation of quantum computing
+
+A C++ library, named ZKCM, has been developed for the purpose of multiprecision matrix calculations, which is based on the GNU MP and MPFR libraries. It is especially convenient for writing programs involving tensor-product operations, tracing-out operations, and singular-value decompositions. Its extension library, ZKCM_QC, for simulating quantum computing has been developed using the time-dependent matrix-product-state simulation method. This report gives a brief introduction to the libraries with sample programs.

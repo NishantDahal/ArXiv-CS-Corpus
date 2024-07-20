@@ -1,0 +1,4 @@
+A proposal of a faster variant of known provably secure PRBGs
+
+We make a new proposal about how to use in an effective way a CSPRBG (Computationally Secure Pseudo Random Bit Generator) for cryptographic purposes. We introduce the definitions of TCSPRBG (Typical CSPRBG) and SCSPRBG (Special CSPRBG). In particular the definition of SCSPRBG synthetizes in a simple way our proposal of how to modify a CSPRBG in order to achieve a higher throughput rate, while retaining some essential features of its computational security.
+  We then summarize which should be, in our opinion, a "standard way" to use a CSPRBG for cryptographic purposes. We eventually present as an application, a particular SCSPRBG for which we can achieve throughput rates greater than $100$ Mbits/sec on current mobile devices.

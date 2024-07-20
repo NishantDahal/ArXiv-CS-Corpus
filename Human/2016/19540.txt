@@ -1,0 +1,3 @@
+Towards an Approximate Conformance Relation for Hybrid I/O Automata
+
+Several notions of conformance have been proposed for checking the behavior of cyber-physical systems against their hybrid systems models. In this paper, we explore the initial idea of a notion of approximate conformance that allows for comparison of both observable discrete actions and (sampled) continuous trajectories.  As such, this notion will consolidate two earlier notions, namely the notion of Hybrid Input-Output Conformance (HIOCO) by M. van Osch and the notion of Hybrid Conformance by H. Abbas and G.E. Fainekos. We prove that our proposed notion of conformance satisfies a semi-transitivity property, which makes it suitable for a step-wise proof of conformance or refinement.

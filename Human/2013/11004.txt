@@ -1,0 +1,3 @@
+iAQC: The Intensity-Aware Quantum Cryptography Protocol
+
+This paper reports a variant of the three-stage quantum cryptography protocol which can be used in low intensity laser output regimes. The variant, which tracks the intensity of the laser beam at the intermediate stages, makes the task of the eavesdropper harder than the standard K06 protocol. The constraints on the iAQC protocol are much less than those on BB84 and in principle it can not only be used for key distribution but also for direct bitwise encryption of data. The iAQC protocol is an improvement on the K06 protocol in that it makes it harder for the eavesdropper to monitor the channel.

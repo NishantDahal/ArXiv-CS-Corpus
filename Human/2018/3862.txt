@@ -1,0 +1,3 @@
+A Simple Object that Spans the Whole Consensus Hierarchy
+
+This paper presents a simple generalization of the basic atomic read/write register object, whose genericity parameter spans the whole set of integers and is such that its k-parameterized instance has exactly consensus number k. This object, whose definition is pretty natural, is a sliding window register of size k. Its interest lies in its simplicity and its genericity dimension which provides a global view capturing the whole consensus hierarchy. Hence, this short article must be seen as a simple pedagogical introduction to Herlihy's consensus hierarchy.

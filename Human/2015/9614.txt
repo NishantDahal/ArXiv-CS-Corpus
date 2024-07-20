@@ -1,0 +1,3 @@
+A Parallel Algorithm to Test Chordality of Graphs
+
+We present a simple parallel algorithm to test chordality of graphs which is based on the parallel Lexicographical Breadth-First Search algorithm. In total, the algorithm takes time O(N ) on N-threads machine and it performs work O(N 2 ) , where N is the number of vertices in a graph. Our implementation of the algorithm uses a GPU environment Nvidia CUDA C. The algorithm is implemented in CUDA 4.2 and it has been tested on Nvidia GeForce GTX 560 Ti of compute capability 2.1. At the end of the thesis we present the results achieved by our implementation and compare them with the results achieved by the sequential algorithm

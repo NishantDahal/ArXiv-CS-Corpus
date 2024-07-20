@@ -1,0 +1,3 @@
+On the reduction of the CSP dichotomy conjecture to digraphs
+
+It is well known that the constraint satisfaction problem over general relational structures can be reduced in polynomial time to digraphs. We present a simple variant of such a reduction and use it to show that the algebraic dichotomy conjecture is equivalent to its restriction to digraphs and that the polynomial reduction can be made in logspace. We also show that our reduction preserves the bounded width property, i.e., solvability by local consistency methods. We discuss further algorithmic properties that are preserved and related open problems.

@@ -1,0 +1,3 @@
+TRex: A Tomography Reconstruction Proximal Framework for Robust Sparse View X-Ray Applications
+
+We present TRex, a flexible and robust Tomographic Reconstruction framework using proximal algorithms. We provide an overview and perform an experimental comparison between the famous iterative reconstruction methods in terms of reconstruction quality in sparse view situations. We then derive the proximal operators for the four best methods. We show the flexibility of our framework by deriving solvers for two noise models: Gaussian and Poisson; and by plugging in three powerful regularizers. We compare our framework to state of the art methods, and show superior quality on both synthetic and real datasets.

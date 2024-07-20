@@ -1,0 +1,3 @@
+Modeling European Options
+
+Option contracts can be valued by using the Black-Scholes equation, a partial differential equation with initial conditions. An exact solution for European style options is known. The computation time and the error need to be minimized simultaneously. In this paper, the authors have solved the Black-Scholes equation by employing a reasonably accurate implicit method. Options with known analytic solutions have been evaluated. Furthermore, an overall second order accurate space and time discretization has been accomplished in this paper.

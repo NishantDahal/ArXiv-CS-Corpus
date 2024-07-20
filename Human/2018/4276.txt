@@ -1,0 +1,3 @@
+Concurrent Kleene Algebra: Free Model and Completeness
+
+Concurrent Kleene Algebra (CKA) was introduced by Hoare, Moeller, Struth and Wehrman in 2009 as a framework to reason about concurrent programs. We prove that the axioms for CKA with bounded parallelism are complete for the semantics proposed in the original paper; consequently, these semantics are the free model for this fragment. This result settles a conjecture of Hoare and collaborators. Moreover, the techniques developed along the way are reusable; in particular, they allow us to establish pomset automata as an operational model for CKA.

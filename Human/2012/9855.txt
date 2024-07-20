@@ -1,0 +1,3 @@
+PRISMA: PRoximal Iterative SMoothing Algorithm
+
+Motivated by learning problems including max-norm regularized matrix completion and clustering, robust PCA and sparse inverse covariance selection, we propose a novel optimization algorithm for minimizing a convex objective which decomposes into three parts: a smooth part, a simple non-smooth Lipschitz part, and a simple non-smooth non-Lipschitz part. We use a time variant smoothing strategy that allows us to obtain a guarantee that does not depend on knowing in advance the total number of iterations nor a bound on the domain.

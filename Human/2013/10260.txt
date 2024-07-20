@@ -1,0 +1,3 @@
+The Energetic Reasoning Checker Revisited
+
+Energetic Reasoning (ER) is a powerful filtering algorithm for the Cumulative constraint. Unfortunately, ER is generally too costly to be used in practice. One reason of its bad behavior is that many intervals are considered as relevant by the checker of ER, although most of them should be ignored. In this paper, we provide a sharp characterization that allows to reduce the number of intervals by a factor seven. Our experiments show that associating this checker with a Time-Table filtering algorithm leads to promising results.

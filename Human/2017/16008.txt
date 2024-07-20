@@ -1,0 +1,3 @@
+A Game-Theoretic Analysis of the Off-Switch Game
+
+The off-switch game is a game theoretic model of a highly intelligent robot interacting with a human. In the original paper by Hadfield-Menell et al. (2016), the analysis is not fully game-theoretic as the human is modelled as an irrational player, and the robot's best action is only calculated under unrealistic normality and soft-max assumptions. In this paper, we make the analysis fully game theoretic, by modelling the human as a rational player with a random utility function. As a consequence, we are able to easily calculate the robot's best action for arbitrary belief and irrationality assumptions.

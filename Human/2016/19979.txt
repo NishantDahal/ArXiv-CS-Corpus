@@ -1,0 +1,3 @@
+A Graph Grammar for Modelling RNA Folding
+
+We propose a new approach for modelling the process of RNA folding as a graph transformation guided by the global value of free energy. Since the folding process evolves towards a configuration in which the free energy is minimal, the global behaviour resembles the one of a self-adaptive system. Each RNA configuration is a graph and the evolution of configurations is constrained by precise rules that can be described by a graph grammar.

@@ -1,0 +1,3 @@
+One-variable word equations in linear time
+
+In this paper we consider word equations with one variable (and arbitrary many appearances of it). A recent technique of recompression, which is applicable to general word equations, is shown to be suitable also in this case. While in general case it is non-deterministic, it determinises in case of one variable and the obtained running time is O(n + #_X log n), where #_X is the number of appearances of the variable in the equation. This matches the previously-best algorithm due to Dąbrowski and Plandowski. Then, using a couple of heuristics as well as more detailed time analysis the running time is lowered to O(n) in RAM model. Unfortunately no new properties of solutions are shown.

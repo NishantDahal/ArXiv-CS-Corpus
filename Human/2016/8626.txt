@@ -1,0 +1,3 @@
+Reversible Sessions Using Monitors
+
+Much research has studied foundations for correct and reliable communication-centric systems. A salient approach to correctness uses session types to enforce structured communications; a recent approach to reliability uses reversible actions as a way of reacting to unanticipated events or failures. This note develops a simple observation: the machinery required to define asynchronous semantics and monitoring can also support reversible protocols. We propose a process framework of session communication in which monitors support reversibility. A key novelty in our approach are session types with present and past, which allow us to streamline the semantics of reversible actions.

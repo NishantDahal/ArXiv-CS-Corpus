@@ -1,0 +1,3 @@
+FieldSAFE: Dataset for Obstacle Detection in Agriculture
+
+In this paper, we present a novel multi-modal dataset for obstacle detection in agriculture. The dataset comprises approximately 2 hours of raw sensor data from a tractor-mounted sensor system in a grass mowing scenario in Denmark, October 2016. Sensing modalities include stereo camera, thermal camera, web camera, 360-degree camera, lidar, and radar, while precise localization is available from fused IMU and GNSS. Both static and moving obstacles are present including humans, mannequin dolls, rocks, barrels, buildings, vehicles, and vegetation. All obstacles have ground truth object labels and geographic coordinates.

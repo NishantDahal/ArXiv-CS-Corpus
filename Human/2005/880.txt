@@ -1,0 +1,3 @@
+Optimization of Partial Search
+
+Quantum Grover search algorithm can find a target item in a database faster than any classical algorithm. One can trade accuracy for speed and find a part of the database (a block) containing the target item even faster, this is partial search. A partial search algorithm was recently suggested by Grover and Radhakrishnan. Here we optimize it. Efficiency of the search algorithm is measured by number of queries to the oracle. The author suggests new version of Grover-Radhakrishnan algorithm which uses minimal number of queries to the oracle. The algorithm can run on the same hardware which is used for the usual Grover algorithm.

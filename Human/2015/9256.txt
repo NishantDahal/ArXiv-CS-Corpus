@@ -1,0 +1,3 @@
+On the Secrecy Exponent of the Wire-tap Channel
+
+We derive an exponentially decaying upper-bound on the unnormalized amount of information leaked to the wire-tapper in Wyner's wire-tap channel setting. We characterize the exponent of the bound as a function of the randomness used by the encoder. This exponent matches that of the recent work of Hayashi (2011) which is, to the best of our knowledge, the best exponent that exists in the literature. Our proof---like those of Han et al. (2014) and Hayashi (2015)---is exclusively based on an i.i.d. random coding construction while that of Hayashi (2011), in addition, requires the use of random universal hash functions.

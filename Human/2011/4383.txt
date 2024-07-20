@@ -1,0 +1,5 @@
+Linearization of CIF Through SOS
+
+Linearization is the procedure of rewriting a process term into a linear form, which consist only of basic operators of the process language. This procedure is interesting both from a theoretical and a practical point of view. In particular, a linearization algorithm is needed for the Compositional Interchange Format (CIF), an automaton based modeling language.
+  The problem of devising efficient linearization algorithms is not trivial, and has been already addressed in literature. However, the linearization algorithms obtained are the result of an inventive process, and the proof of correctness comes as an afterthought. Furthermore, the semantic specification of the language does not play an important role on the design of the algorithm.
+  In this work we present a method for obtaining an efficient linearization algorithm, through a step-wise refinement of the SOS rules of CIF. As a result, we show how the semantic specification of the language can guide the implementation of such a procedure, yielding a simple proof of correctness.

@@ -1,0 +1,3 @@
+Using the Johnson-Lindenstrauss lemma in linear and integer programming
+
+The Johnson-Lindenstrauss lemma allows dimension reduction on real vectors with low distortion on their pairwise Euclidean distances. This result is often used in algorithms such as $k$-means or $k$ nearest neighbours since they only use Euclidean distances, and has sometimes been used in optimization algorithms involving the minimization of Euclidean distances. In this paper we introduce a first attempt at using this lemma in the context of feasibility problems in linear and integer programming, which cannot be expressed only in function of Euclidean distances.

@@ -1,0 +1,4 @@
+Near-Optimal Distributed Approximation of Minimum-Weight Connected Dominating Set
+
+This paper presents a near-optimal distributed approximation algorithm for the minimum-weight connected dominating set (MCDS) problem. The presented algorithm finds an $O(\log n)$ approximation in $\tilde{O}(D+\sqrt{n})$ rounds, where $D$ is the network diameter and $n$ is the number of nodes.
+  MCDS is a classical NP-hard problem and the achieved approximation factor $O(\log n)$ is known to be optimal up to a constant factor, unless P=NP. Furthermore, the $\tilde{O}(D+\sqrt{n})$ round complexity is known to be optimal modulo logarithmic factors (for any approximation), following [Das Sarma et al.---STOC'11].

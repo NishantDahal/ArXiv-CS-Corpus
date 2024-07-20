@@ -1,0 +1,3 @@
+Detect adverse drug reactions for drug Pioglitazone
+
+In this study we propose a novel method to successfully detect the ADRs using feature matrix and feature selection. A feature matrix, which characterizes the medical events before patients take drugs or after patients take drugs, is created from THIN database. The feature selection method of Student's t-test is used to detect the significant features from thousands of medical events. The significant ADRs, which are corresponding to significant features, are detected. Experiments are performed on the drug Pioglitazone. Compared to other computerized methods, our proposed method achieves good performance.

@@ -1,0 +1,3 @@
+Fundamental Limits of Database Alignment
+
+We consider the problem of aligning a pair of databases with correlated entries. We introduce a new measure of correlation in a joint distribution that we call cycle mutual information. This measure has operational significance: it determines whether exact recovery of the correspondence between database entries is possible for any algorithm. Additionally, there is an efficient algorithm for database alignment that achieves this information theoretic threshold.

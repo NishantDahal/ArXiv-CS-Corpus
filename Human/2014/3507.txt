@@ -1,0 +1,3 @@
+Practical approximation of single-qubit unitaries by single-qubit quantum Clifford and T circuits
+
+We present an algorithm, along with its implementation that finds T-optimal approximations of single-qubit Z-rotations using quantum circuits consisting of Clifford and T gates. Our algorithm is capable of handling errors in approximation down to size $10^{-15}$, resulting in optimal single-qubit circuit designs required for implementation of scalable quantum algorithms. Our implementation along with the experimental results are available in the public domain.

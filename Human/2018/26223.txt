@@ -1,0 +1,3 @@
+Multivariate Cryptography with Mappings of Discrete Logarithms and Polynomials
+
+In this paper, algorithms for multivariate public key cryptography and digital signature are described. Plain messages and encrypted messages are arrays, consisting of elements from a fixed finite ring or field. The encryption and decryption algorithms are based on multivariate mappings. The security of the private key depends on the difficulty of solving a system of parametric simultaneous multivariate equations involving polynomial or exponential mappings. The method is a general purpose utility for most data encryption, digital certificate or digital signature applications.

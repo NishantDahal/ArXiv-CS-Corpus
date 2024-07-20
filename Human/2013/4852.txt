@@ -1,0 +1,8 @@
+Down the Rabbit Hole: Robust Proximity Search and Density Estimation in Sublinear Space
+
+For a set of $n$ points in $\Re^d$, and parameters $k$ and $\eps$, we present a data structure that answers $(1+\eps,k)$-\ANN queries in logarithmic time. Surprisingly, the space used by the data-structure is $\Otilde (n /k)$; that is, the space used is sublinear in the input size if $k$ is sufficiently large. Our approach provides a novel way to summarize geometric data, such that meaningful proximity queries on the data can be carried out using this sketch. Using this, we provide a sublinear space data-structure that can estimate the density of a point set under various measures, including:
+  \begin{inparaenum}[(i)]
+  \item sum of distances of $k$ closest points to the query point, and
+  \item sum of squared distances of $k$ closest points to the query point.
+  \end{inparaenum}
+  Our approach generalizes to other distance based estimation of densities of similar flavor. We also study the problem of approximating some of these quantities when using sampling. In particular, we show that a sample of size $\Otilde (n /k)$ is sufficient, in some restricted cases, to estimate the above quantities. Remarkably, the sample size has only linear dependency on the dimension.

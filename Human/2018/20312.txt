@@ -1,0 +1,3 @@
+Securing Tag-based recommender systems against profile injection attacks: A comparative study
+
+This work addresses challenges related to attacks on social tagging systems, which often comes in a form of malicious annotations or profile injection attacks. In particular, we study various countermeasures against two types of threats for such systems, the Overload and the Piggyback attacks. The studied countermeasures include baseline classifiers such as, Naive Bayes filter and Support Vector Machine, as well as a deep learning-based approach. Our evaluation performed over synthetic spam data, generated from del.icio.us, shows that in most cases, the deep learning-based approach provides the best protection against threats.

@@ -1,0 +1,3 @@
+Deep-learning-based data page classification for holographic memory
+
+We propose a deep-learning-based classification of data pages used in holographic memory. We numerically investigated the classification performance of a conventional multi-layer perceptron (MLP) and a deep neural network, under the condition that reconstructed page data are contaminated by some noise and are randomly laterally shifted. The MLP was found to have a classification accuracy of 91.58%, whereas the deep neural network was able to classify data pages at an accuracy of 99.98%. The accuracy of the deep neural network is two orders of magnitude better than the MLP.

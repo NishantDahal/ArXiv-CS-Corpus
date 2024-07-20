@@ -1,0 +1,3 @@
+Stable Cosparse Recovery via \ell_p-analysis Optimization
+
+In this paper we study the $\ell_p$-analysis optimization ($0<p\leq1$) problem for cosparse signal recovery. We establish a bound for recovery error via the restricted $p$-isometry property over any subspace. We further prove that the nonconvex $\ell_q$-analysis optimization can do recovery with a lower sample complexity and in a wider range of cosparsity than its convex counterpart. In addition, we develop an iteratively reweighted method to solve the optimization problem under a variational framework. Empirical results of preliminary computational experiments illustrate that the nonconvex method outperforms its convex counterpart.

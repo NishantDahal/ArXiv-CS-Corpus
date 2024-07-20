@@ -1,0 +1,5 @@
+The succinctness of first-order logic on linear orders
+
+Succinctness is a natural measure for comparing the strength of different logics. Intuitively, a logic L_1 is more succinct than another logic L_2 if all properties that can be expressed in L_2 can be expressed in L_1 by formulas of (approximately) the same size, but some properties can be expressed in L_1 by (significantly) smaller formulas.
+  We study the succinctness of logics on linear orders. Our first theorem is concerned with the finite variable fragments of first-order logic. We prove that:
+  (i) Up to a polynomial factor, the 2- and the 3-variable fragments of first-order logic on linear orders have the same succinctness. (ii) The 4-variable fragment is exponentially more succinct than the 3-variable fragment. Our second main result compares the succinctness of first-order logic on linear orders with that of monadic second-order logic. We prove that the fragment of monadic second-order logic that has the same expressiveness as first-order logic on linear orders is non-elementarily more succinct than first-order logic.

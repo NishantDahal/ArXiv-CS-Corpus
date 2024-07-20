@@ -1,0 +1,4 @@
+Proof complexity of intuitionistic implicational formulas
+
+We study implicational formulas in the context of proof complexity of intuitionistic propositional logic (IPC). On the one hand, we give an efficient transformation of tautologies to implicational tautologies that preserves the lengths of intuitionistic extended Frege (EF) or substitution Frege (SF) proofs up to a polynomial. On the other hand, EF proofs in the implicational fragment of IPC polynomially simulate full intuitionistic logic for implicational tautologies. The results also apply to other fragments of other superintuitionistic logics under certain conditions.
+  In particular, the exponential lower bounds on the length of intuitionistic EF proofs by Hrubeš \cite{hru:lbint}, generalized to exponential separation between EF and SF systems in superintuitionistic logics of unbounded branching by Jeřábek \cite{ej:sfef}, can be realized by implicational tautologies.

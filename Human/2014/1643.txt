@@ -1,0 +1,3 @@
+An Upper Bound on the Number of Circular Transpositions to Sort a Permutation
+
+We consider the problem of upper bounding the number of circular transpositions needed to sort a permutation. It is well known that any permutation can be sorted using at most $n(n-1)/2$ adjacent transpositions. We show that, if we allow all adjacent transpositions, as well as the transposition that interchanges the element in position 1 with the element in the last position, then the number of transpositions needed is at most $n^2/4$. This answers an open question posed by Feng, Chitturi and Sudborough (2010).

@@ -1,0 +1,3 @@
+Information-Theoretic Lower Bounds for Recovery of Diffusion Network Structures
+
+We study the information-theoretic lower bound of the sample complexity of the correct recovery of diffusion network structures. We introduce a discrete-time diffusion model based on the Independent Cascade model for which we obtain a lower bound of order $Ω(k \log p)$, for directed graphs of $p$ nodes, and at most $k$ parents per node. Next, we introduce a continuous-time diffusion model, for which a similar lower bound of order $Ω(k \log p)$ is obtained. Our results show that the algorithm of Pouget-Abadie et al. is statistically optimal for the discrete-time regime. Our work also opens the question of whether it is possible to devise an optimal algorithm for the continuous-time regime.

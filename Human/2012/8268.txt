@@ -1,0 +1,6 @@
+Efficient Instantiation of Parameterised Boolean Equation Systems to Parity Games
+
+Parameterised Boolean Equation Systems (PBESs) are sequences of Boolean fixed point equations with data variables, used for, e.g., verification of modal mu-calculus formulae for process algebraic specifications with data.
+  Solving a PBES is usually done by instantiation to a Parity Game and then solving the game. Practical game solvers exist, but the instantiation step is the bottleneck.
+  We enhance the instantiation in two steps. First, we transform the PBES to a Parameterised Parity Game (PPG), a PBES with each equation either conjunctive or disjunctive. Then we use LTSmin, that offers transition caching, efficient storage of states and both distributed and symbolic state space generation, for generating the game graph. To that end we define a language module for LTSmin, consisting of an encoding of variables with parameters into state vectors, a grouped transition relation and a dependency matrix to indicate the dependencies between parts of the state vector and transition groups.
+  Benchmarks on some large case studies, show that the method speeds up the instantiation significantly and decreases memory usage drastically.

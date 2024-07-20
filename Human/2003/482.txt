@@ -1,0 +1,3 @@
+Parallel implementation of a lattice-gauge-theory code: studying quark confinement on PC clusters
+
+We consider the implementation of a parallel Monte Carlo code for high-performance simulations on PC clusters with MPI. We carry out tests of speedup and efficiency. The code is used for numerical simulations of pure SU(2) lattice gauge theory at very large lattice volumes, in order to study the infrared behavior of gluon and ghost propagators. This problem is directly related to the confinement of quarks and gluons in the physics of strong interactions.

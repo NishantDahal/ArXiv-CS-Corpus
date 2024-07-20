@@ -1,0 +1,3 @@
+The adaptive zero-error capacity for a class of channels with noisy feedback
+
+The adaptive zero-error capacity of discrete memoryless channels (DMC) with noiseless feedback has been shown to be positive whenever there exists at least one channel output "disprover", i.e. a channel output that cannot be reached from at least one of the inputs. Furthermore, whenever there exists a disprover, the adaptive zero-error capacity attains the Shannon (small-error) capacity. Here, we study the zero-error capacity of a DMC when the channel feedback is noisy rather than perfect. We show that the adaptive zero-error capacity with noisy feedback is lower bounded by the forward channel's zero-undetected error capacity, and show that under certain conditions this is tight.

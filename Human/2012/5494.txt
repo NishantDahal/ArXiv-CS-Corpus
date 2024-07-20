@@ -1,0 +1,3 @@
+Forbidding Kuratowski Graphs as Immersions
+
+The immersion relation is a partial ordering relation on graphs that is weaker than the topological minor relation in the sense that if a graph $G$ contains a graph $H$ as a topological minor, then it also contains it as an immersion but not vice versa. Kuratowski graphs, namely $K_{5}$ and $K_{3,3}$, give a precise characterization of planar graphs when excluded as topological minors. In this note we give a structural characterization of the graphs that exclude Kuratowski graphs as immersions. We prove that they can be constructed by applying consecutive $i$-edge-sums, for $i\leq 3$, starting from graphs that are planar sub-cubic or of branch-width at most 10.

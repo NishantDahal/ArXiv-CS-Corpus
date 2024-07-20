@@ -1,0 +1,5 @@
+Dynamic Backhaul Network Configuration in SDN-based Cloud RANs
+
+The coordination of base stations in mobile access networks is an important approach to reduce harmful interference and to deliver high data rates to the users. Such coordination mechanisms, like Coordinated Multi-Point (CoMP) where multiple BSs transmit data to a user equipment, can be easily implemented when centralizing the data processing of the base stations, known as Cloud RAN.
+  This centralization also imposes significant requirements on the backhaul network for high capacities and low latencies for the connections to the base stations. These requirements can be mitigated by (a) a flexible placement of the base station data processing functionality and by (b) dynamically assigning backhaul network resources. We show how these two techniques increase the feasibility of base station coordination in dense mobile access networks by using a heuristic algorithm.
+  We furthermore present a prototype implementation of our approach based on software defined networking (SDN) with OpenDaylight and Maxinet.

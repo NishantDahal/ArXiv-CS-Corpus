@@ -1,0 +1,3 @@
+Compositional properties of crypto-based components
+
+This paper presents an Isabelle/HOL+Isar set of theories which allows to specify crypto-based components and to verify their composition properties wrt. cryptographic aspects. We introduce a formalisation of the security property of data secrecy, the corresponding definitions and proofs.

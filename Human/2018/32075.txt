@@ -1,0 +1,3 @@
+Regularized Fourier Ptychography using an Online Plug-and-Play Algorithm
+
+The plug-and-play priors (PnP) framework has been recently shown to achieve state-of-the-art results in regularized image reconstruction by leveraging a sophisticated denoiser within an iterative algorithm. In this paper, we propose a new online PnP algorithm for Fourier ptychographic microscopy (FPM) based on the fast iterative shrinkage/threshold algorithm (FISTA). Specifically, the proposed algorithm uses only a subset of measurements, which makes it scalable to a large set of measurements. We validate the algorithm by showing that it can lead to significant performance gains on both simulated and experimental data.

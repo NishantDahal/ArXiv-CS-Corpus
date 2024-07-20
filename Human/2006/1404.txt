@@ -1,0 +1,3 @@
+Learning and discrimination through STDP in a top-down modulated associative memory
+
+This article underlines the learning and discrimination capabilities of a model of associative memory based on artificial networks of spiking neurons. Inspired from neuropsychology and neurobiology, the model implements top-down modulations, as in neocortical layer V pyramidal neurons, with a learning rule based on synaptic plasticity (STDP), for performing a multimodal association learning task. A temporal correlation method of analysis proves the ability of the model to associate specific activity patterns to different samples of stimulation. Even in the absence of initial learning and with continuously varying weights, the activity patterns become stable enough for discrimination.

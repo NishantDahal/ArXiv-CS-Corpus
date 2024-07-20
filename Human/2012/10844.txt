@@ -1,0 +1,3 @@
+Decoding square-free Goppa codes over $\F_p$
+
+We propose a new, efficient non-deterministic decoding algorithm for square-free Goppa codes over $\F_p$ for any prime $p$. If the code in question has degree $t$ and the average distance to the closest codeword is at least $(4/p)t + 1$, the proposed decoder can uniquely correct up to $(2/p)t$ errors with high probability. The correction capability is higher if the distribution of error magnitudes is not uniform, approaching or reaching $t$ errors when any particular error value occurs much more often than others or exclusively. This makes the method interesting for (semantically secure) cryptosystems based on the decoding problem for permuted and punctured Goppa codes.

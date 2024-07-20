@@ -1,0 +1,3 @@
+A Note on Finding Dual Feedback Vertex Set
+
+For an edge-bicolored graph $G$ where each edge is colored either red or blue, a vertex set $S$ is a dual feedback vertex set if $S$ hits all blue cycles and red cycles of $G$. In this paper, we show that a dual feedback vertex set of size at most $k$ can be found in time $O^*(c_1^k)$ and all minimal dual feedback vertex set of size at most $k$ can be enumerated in time $O^*(c_2^{k^2 + k})$ by compact representations for constants $c_1$ and $c_2$.

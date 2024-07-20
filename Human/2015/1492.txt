@@ -1,0 +1,3 @@
+Twofold exp and log
+
+This article is about twofold arithmetic. Here I introduce algorithms and experimental code for twofold variant of C/C++ standard functions exp() and log(), and expm1() and log1p(). Twofold function $y_0+y_1 \approx f(x_0+x_1)$ is nearly 2x-precise so can assess accuracy of standard one. Performance allows assessing on-fly: twofold texp() over double is ~10x times faster than expq() by GNU quadmath.

@@ -1,0 +1,3 @@
+Exact Algorithms for the Maximum Planar Subgraph Problem: New Models and Experiments
+
+Given a graph $G$, the NP-hard Maximum Planar Subgraph problem asks for a planar subgraph of $G$ with the maximum number of edges. The only known non-trivial exact algorithm utilizes Kuratowski's famous planarity criterion and can be formulated as an integer linear program (ILP) or a pseudo-boolean satisfiability problem (PBS). We examine three alternative characterizations of planarity regarding their applicability to model maximum planar subgraphs. For each, we consider both ILP and PBS variants, investigate diverse formulation aspects, and evaluate their practical performance.

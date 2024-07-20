@@ -1,0 +1,3 @@
+Short random circuits define good quantum error correcting codes
+
+We study the encoding complexity for quantum error correcting codes with large rate and distance. We prove that random Clifford circuits with $O(n \log^2 n)$ gates can be used to encode $k$ qubits in $n$ qubits with a distance $d$ provided $\frac{k}{n} < 1 - \frac{d}{n} \log_2 3 - h(\frac{d}{n})$. In addition, we prove that such circuits typically have a depth of $O( \log^3 n)$.

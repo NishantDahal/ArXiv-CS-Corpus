@@ -1,0 +1,4 @@
+Reactive Safety
+
+The distinction between safety and liveness properties is a fundamental classification with immediate implications on the feasibility and complexity of various monitoring, model checking, and synthesis problems. In this paper, we revisit the notion of safety for reactive systems, i.e., for systems whose behavior is characterized by the interplay of uncontrolled environment inputs and controlled system outputs. We show that reactive safety is a strictly larger class of properties than standard safety. We provide algorithms for checking if a property, given as a temporal formula or as a word or tree automaton, is a reactive safety property and for translating such properties into safety automata. Based on this construction, the standard verification and synthesis algorithms for safety properties immediately extend to the larger class of reactive safety.
+

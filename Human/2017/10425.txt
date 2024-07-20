@@ -1,0 +1,4 @@
+Effective dimension in some general metric spaces
+
+We introduce the concept of effective dimension for a wide class of metric spaces that are not required to have a computable measure. Effective dimension was defined by Lutz in (Lutz 2003) for Cantor space and has also been extended to Euclidean space. Lutz effectivization uses the concept of gale and supergale, our extension of Hausdorff dimension to other metric spaces is also based on a supergale characterization of dimension, which in practice avoids an extra quantifier present in the classical definition of dimension that is based on Hausdorff measure and therefore allows effectivization for small time-bounds.
+  We present here the concept of constructive dimension and its characterization in terms of Kolmogorov complexity, for which we extend the concept of Kolmogorov complexity to any metric space defining the Kolmogorov complexity of a point at a certain precision. Further research directions are indicated.

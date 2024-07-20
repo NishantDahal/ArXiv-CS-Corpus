@@ -1,0 +1,3 @@
+Marginal multi-Bernoulli filters: RFS derivation of MHT, JIPDA and association-based MeMBer
+
+Recent developments in random finite sets (RFSs) have yielded a variety of tracking methods that avoid data association. This paper derives a form of the full Bayes RFS filter and observes that data association is implicitly present, in a data structure similar to MHT. Subsequently, algorithms are obtained by approximating the distribution of associations. Two algorithms result: one nearly identical to JIPDA, and another related to the MeMBer filter. Both improve performance in challenging environments.

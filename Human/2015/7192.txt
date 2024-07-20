@@ -1,0 +1,3 @@
+Parallel sparse interpolation using small primes
+
+To interpolate a supersparse polynomial with integer coefficients, two alternative approaches are the Prony-based "big prime" technique, which acts over a single large finite field, or the more recently-proposed "small primes" technique, which reduces the unknown sparse polynomial to many low-degree dense polynomials. While the latter technique has not yet reached the same theoretical efficiency as Prony-based methods, it has an obvious potential for parallelization. We present a heuristic "small primes" interpolation algorithm and report on a low-level C implementation using FLINT and MPI.

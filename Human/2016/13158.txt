@@ -1,0 +1,4 @@
+A Two-Phase Algorithm for Bin Stretching with Stretching Factor 1.5
+
+Online Bin Stretching is a semi-online variant of bin packing in which the algorithm has to use the same number of bins as an optimal packing, but is allowed to slightly overpack the bins. The goal is to minimize the amount of overpacking, i.e., the maximum size packed into any bin.
+  We give an algorithm for Online Bin Stretching with a stretching factor of 1.5 for any number of bins. We build on previous algorithms and use a two-phase approach. However, our analysis is technically more complicated and uses amortization over the bins with the help of two weight functions.

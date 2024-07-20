@@ -1,0 +1,3 @@
+A mixed precision semi-Lagrangian algorithm and its performance on accelerators
+
+In this paper we propose a mixed precision algorithm in the context of the semi-Lagrangian discontinuous Galerkin method. The performance of this approach is evaluated on a traditional dual socket workstation as well as on a Xeon Phi and an NVIDIA K80. We find that the mixed precision algorithm can be implemented efficiently on these architectures. This implies that, in addition to the considerable reduction in memory, a substantial increase in performance can be observed as well. Moreover, we discuss the relative performance of our implementations.

@@ -1,0 +1,3 @@
+Bayesian Sparsification of Gated Recurrent Neural Networks
+
+Bayesian methods have been successfully applied to sparsify weights of neural networks and to remove structure units from the networks, e. g. neurons. We apply and further develop this approach for gated recurrent architectures. Specifically, in addition to sparsification of individual weights and neurons, we propose to sparsify preactivations of gates and information flow in LSTM. It makes some gates and information flow components constant, speeds up forward pass and improves compression. Moreover, the resulting structure of gate sparsity is interpretable and depends on the task. Code is available on github: https://github.com/tipt0p/SparseBayesianRNN

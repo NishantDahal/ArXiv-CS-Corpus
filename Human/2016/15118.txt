@@ -1,0 +1,4 @@
+Distributed PROMPT-LTL Synthesis
+
+We consider the synthesis of distributed implementations for specifications in Prompt Linear Temporal Logic (PROMPT-LTL), which extends LTL by temporal operators equipped with parameters that bound their scope. For single process synthesis it is well-established that such parametric extensions do not increase worst-case complexities.
+  For synchronous systems, we show that, despite being more powerful, the distributed realizability problem for PROMPT-LTL is not harder than its LTL counterpart. For asynchronous systems we have to consider an assume-guarantee synthesis problem, as we have to express scheduling assumptions. As asynchronous distributed synthesis is already undecidable for LTL, we give a semi-decision procedure for the PROMPT-LTL assume-guarantee synthesis problem based on bounded synthesis.

@@ -1,0 +1,4 @@
+Deterministic Timed Finite State Machines: Equivalence Checking and Expressive Power
+
+There has been a growing interest in defining models of automata enriched with time. For instance, timed automata were introduced as automata extended with clocks. In this paper, we study models of timed finite state machines (TFSMs), i.e., FSMs enriched with time, which accept timed input words and generate timed  output words. Here we discuss some models of TFSMs with a single clock: TFSMs with timed guards, TFSMs with timeouts, and TFSMs with both timed guards and timeouts. We solve the problem of equivalence checking for all three models, and we compare their expressive power, characterizing subclasses of TFSMs with timed guards and of TFSMs with timeouts that are equivalent to each other.
+

@@ -1,0 +1,3 @@
+Circuit Evaluation for Finite Semirings
+
+The computational complexity of the circuit evaluation problem for finite semirings is considered, where semirings are not assumed to have an additive or multiplicative identity. The following dichotomy is shown: If a finite semiring is such that (i) the multiplicative semigroup is solvable and (ii) it does not contain a subsemiring with an additive identity $0$ and a multiplicative identity $1 \neq 0$, then the circuit evaluation problem for the semiring is in $\mathsf{DET} \subseteq \mathsf{NC}^2$. In all other cases, the circuit evaluation problem is $\mathsf{P}$-complete.

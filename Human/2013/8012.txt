@@ -1,0 +1,3 @@
+Refactoring Composite to Visitor and Inverse Transformation in Java
+
+We describe how to use refactoring tools to transform a Java program conforming to the Composite design pattern into a program conforming to the Visitor design pattern with the same external behavior. We also describe the inverse transformation. We use the refactoring tool provided by IntelliJ IDEA.

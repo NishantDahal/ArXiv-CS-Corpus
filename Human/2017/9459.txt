@@ -1,0 +1,3 @@
+AngularJS Performance: A Survey Study
+
+AngularJS is a popular JavaScript MVC-based framework to construct single-page web applications. In this paper, we report the results of a survey with 95 professional developers about performance issues of AngularJS applications. We report common practices followed by developers to avoid performance problems (e.g., use of third-party or custom components), the general causes of performance problems in AngularJS applications (e.g., inadequate architecture decisions taken by AngularJS users), and the technical and specific causes of performance problems (e.g., unnecessary processing included in the digest cycle, which is the internal computation that automatically updates the view with changes detected in the model).

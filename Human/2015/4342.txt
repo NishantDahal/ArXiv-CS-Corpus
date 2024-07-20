@@ -1,0 +1,3 @@
+Temporal ordering of clinical events
+
+This report describes a minimalistic set of methods engineered to anchor clinical events onto a temporal space. Specifically, we describe methods to extract clinical events (e.g., Problems, Treatments and Tests), temporal expressions (i.e., time, date, duration, and frequency), and temporal links (e.g., Before, After, Overlap) between events and temporal entities. These methods are developed and validated using high quality datasets.

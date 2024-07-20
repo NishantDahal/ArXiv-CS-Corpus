@@ -1,0 +1,3 @@
+Transfer Learning for Endoscopic Image Classification
+
+In this paper we propose a method for transfer learning of endoscopic images. For transferring between features obtained from images taken by different (old and new) endoscopes, we extend the Max-Margin Domain Transfer (MMDT) proposed by Hoffman et al. in order to use L2 distance constraints as regularization, called Max-Margin Domain Transfer with L2 Distance Constraints (MMDTL2). Furthermore, we develop the dual formulation of the optimization problem in order to reduce the computation cost. Experimental results demonstrate that the proposed MMDTL2 outperforms MMDT for real data sets taken by different endoscopes.

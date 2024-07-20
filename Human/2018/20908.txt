@@ -1,0 +1,3 @@
+Improved bounds for the RIP of Subsampled Circulant matrices
+
+In this paper, we study the restricted isometry property of partial random circulant matrices. For a bounded subgaussian generator with independent entries, we prove that the partial random circulant matrices satisfy $s$-order RIP with high probability if one chooses $m\gtrsim s \log^2(s)\log (n)$ rows randomly where $n$ is the vector length. This improves the previously known bound $m \gtrsim s \log^2 s\log^2 n$.

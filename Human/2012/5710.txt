@@ -1,0 +1,3 @@
+Top Down Approach: SIMULINK Mixed Hardware / Software Design
+
+System-level design methodologies have been introduced as a solution to handle the design complexity of mixed Hardware / Software systems. In this paper we describe a system-level design flow starting from Simulink specification, focusing on concurrent hardware and software design and verification at four different abstraction levels: System Simulink model, Transaction Simulink model, Macro architecture, and micro architecture. We used the MP3 CodeC application, to validate our approach and methodology.

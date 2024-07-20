@@ -1,0 +1,3 @@
+One-Sided Error QMA with Shared EPR Pairs -- A Simpler Proof
+
+We give a simpler proof of one of the results of Kobayashi, Le Gall, and Nishimura [arXiv:1210.1290v2], which shows that any QMA protocol can be converted to a one-sided error protocol, in which Arthur and Merlin initially share a constant number of EPR pairs and then Merlin sends his proof to Arthur. Our protocol is similar but somewhat simpler than the original. Our main contribution is a simpler and more direct analysis of the soundness property that uses well-known results in quantum information such as properties of the trace distance and the fidelity, and the quantum de Finetti theorem.

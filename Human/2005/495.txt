@@ -1,0 +1,3 @@
+The One Page Model Checker
+
+We show how standard IPC mechanisms can be used with the fork() system call to perform explicit state model checking on all interleavings of a multithreaded application. We specifically show how to check for deadlock and race conditions in programs with two threads. Our techniques are easy to apply to other languages, and require only the most rudimentary parsing of the target language. Our fundamental system fits in one page of C code.

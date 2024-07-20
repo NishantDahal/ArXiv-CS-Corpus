@@ -1,0 +1,3 @@
+A Distributed System for Storing and Processing Data from Earth-observing Satellites: System Design and Performance Evaluation of the Visualisation Tool
+
+We present a distributed system for storage, processing, three-dimensional visualisation and basic analysis of data from Earth-observing satellites. The database and the server have been designed for high performance and scalability, whereas the client is highly portable thanks to having been designed as a HTML5- and WebGL-based Web application. The system is based on the so-called MEAN stack, a modern replacement for LAMP which has steadily been gaining traction among high-performance Web applications. We demonstrate the performance of the system from the perspective of an user operating the client.

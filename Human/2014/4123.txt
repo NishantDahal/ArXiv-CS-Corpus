@@ -1,0 +1,3 @@
+On Simplex Pivoting Rules and Complexity Theory
+
+We show that there are simplex pivoting rules for which it is PSPACE-complete to tell if a particular basis will appear on the algorithm's path. Such rules cannot be the basis of a strongly polynomial algorithm, unless P = PSPACE. We conjecture that the same can be shown for most known variants of the simplex method. However, we also point out that Dantzig's shadow vertex algorithm has a polynomial path problem. Finally, we discuss in the same context randomized pivoting rules.

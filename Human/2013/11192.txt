@@ -1,0 +1,3 @@
+Robust algorithm for calibration of robotic manipulator model
+
+The paper focuses on the robust identification of geometrical and elastostatic parameters of robotic manipulator. The main attention is paid to the efficiency improvement of the identification algorithm. To increase the identification accuracy, it is proposed to apply the weighted least square technique that employs a new algorithm for assigning of the weighting coefficients. The latter allows taking into account variation of the measurement system precision in different directions and throughout the robot workspace. The advantages of the proposed approach are illustrated by an application example that deals with the elasto-static calibration of industrial robot.

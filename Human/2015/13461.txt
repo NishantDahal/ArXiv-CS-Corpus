@@ -1,0 +1,3 @@
+On-line Recognition of Handwritten Mathematical Symbols
+
+Finding the name of an unknown symbol is often hard, but writing the symbol is easy. This bachelor's thesis presents multiple systems that use the pen trajectory to classify handwritten symbols. Five preprocessing steps, one data augmentation algorithm, five features and five variants for multilayer Perceptron training were evaluated using 166898 recordings which were collected with two crowdsourcing projects. The evaluation results of these 21 experiments were used to create an optimized recognizer which has a TOP1 error of less than 17.5% and a TOP3 error of 4.0%. This is an improvement of 18.5% for the TOP1 error and 29.7% for the TOP3 error.

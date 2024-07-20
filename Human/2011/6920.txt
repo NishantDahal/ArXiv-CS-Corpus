@@ -1,0 +1,3 @@
+A local strengthening of Reed's ω, Δ, χ conjecture for quasi-line graphs
+
+Reed's $ω$, $Δ$, $χ$ conjecture proposes that every graph satisfies $χ\leq \lceil\frac 12(Δ+1+ω)\rceil$; it is known to hold for all claw-free graphs. In this paper we consider a local strengthening of this conjecture. We prove the local strengthening for line graphs, then note that previous results immediately tell us that the local strengthening holds for all quasi-line graphs. Our proofs lead to polytime algorithms for constructing colourings that achieve our bounds: $O(n^2)$ for line graphs and $O(n^3m^2)$ for quasi-line graphs. For line graphs, this is faster than the best known algorithm for constructing a colouring that achieves the bound of Reed's original conjecture.

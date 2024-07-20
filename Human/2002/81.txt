@@ -1,0 +1,3 @@
+Three Optimisations for Sharing
+
+In order to improve precision and efficiency sharing analysis should track both freeness and linearity. The abstract unification algorithms for these combined domains are suboptimal, hence there is scope for improving precision. This paper proposes three optimisations for tracing sharing in combination with freeness and linearity. A novel connection between equations and sharing abstractions is used to establish correctness of these optimisations even in the presence of rational trees. A method for pruning intermediate sharing abstractions to improve efficiency is also proposed. The optimisations are lightweight and therefore some, if not all, of these optimisations will be of interest to the implementor.

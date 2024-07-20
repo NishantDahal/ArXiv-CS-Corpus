@@ -1,0 +1,3 @@
+Navigating the Small World Web by Textual Cues
+
+Can a Web crawler efficiently locate an unknown relevant page? While this question is receiving much empirical attention due to its considerable commercial value in the search engine community [Cho98,Chakrabarti99,Menczer00,Menczer01], theoretical efforts to bound the performance of focused navigation have only exploited the link structure of the Web graph, neglecting other features [Kleinberg01,Adamic01,Kim02]. Here I investigate the connection between linkage and a content-induced topology of Web pages, suggesting that efficient paths can be discovered by decentralized navigation algorithms based on textual cues.

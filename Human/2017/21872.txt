@@ -1,0 +1,3 @@
+Scaling Algorithms for Weighted Matching in General Graphs
+
+We present a new scaling algorithm for maximum (or minimum) weight perfect matching on general, edge weighted graphs. Our algorithm runs in $O(m\sqrt{n}\log(nN))$ time, $O(m\sqrt{n})$ per scale, which matches the running time of the best cardinality matching algorithms on sparse graphs. Here $m,n,$ and $N$ bound the number of edges, vertices, and magnitude of any edge weight. Our result improves on a 25-year old algorithm of Gabow and Tarjan, which runs in $O(m\sqrt{n\log nα(m,n)} \log(nN))$ time.

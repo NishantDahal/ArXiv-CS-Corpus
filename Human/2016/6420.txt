@@ -1,0 +1,5 @@
+Approximation of barter exchanges with cycle length constraints
+
+We explore the clearing problem in the barter exchange market. The problem, described in the terminology of graph theory, is to find a set of vertex-disjoint, length-restricted cycles that maximize the total weight in a weighted digraph. The problem has previously been shown to be NP-hard. We advance the understanding of this problem by the following contributions.
+  We prove three constant inapproximability results for this problem. For the weighted graphs, we prove that it is NP-hard to approximate the clearing problem within a factor of 14/13 under general length constraints and within a factor of 434/433 when the cycle length is not longer than 3. For the unweighted graphs, we prove that this problem is NP-hard to approximate within a factor of 698/697.
+  For the unweighted graphs when the cycle length is not longer than 3, we design and implement two simple and practical algorithms. Experiments on simulated data suggest that these algorithms yield excellent performances.

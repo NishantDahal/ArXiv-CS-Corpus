@@ -1,0 +1,3 @@
+Overlapped List Successive Cancellation Approach for Hardware Efficient Polar Code Decoder
+
+This paper presents an efficient hardware design approach for list successive cancellation (LSC) decoding of polar codes. By applying path-overlapping scheme, the l instances of (l > 1) successive cancellation (SC) decoder for LSC with list size l can be cut down to only one. This results in a dramatic reduction of the hardware complexity without any decoding performance loss. We also develop novel approaches to reduce the latencyassociated with the pipeline scheme. Simulation results show that with proposed design approach the hardware efficiency is increased significantly over the recently proposed LSC decoders.

@@ -1,0 +1,3 @@
+Work-Efficient Parallel and Incremental Graph Connectivity
+
+On an evolving graph that is continuously updated by a high-velocity stream of edges, how can one efficiently maintain if two vertices are connected? This is the connectivity problem, a fundamental and widely studied problem on graphs. We present the first shared-memory parallel algorithm for incremental graph connectivity that is both provably work-efficient and has polylogarithmic parallel depth. We also present a simpler algorithm with slightly worse theoretical properties, but which is easier to implement and has good practical performance. Our experiments show a throughput of hundreds of millions of edges per second on a $20$-core machine.

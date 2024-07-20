@@ -1,0 +1,3 @@
+SGDLibrary: A MATLAB library for stochastic gradient descent algorithms
+
+We consider the problem of finding the minimizer of a function $f: \mathbb{R}^d \rightarrow \mathbb{R}$ of the finite-sum form $\min f(w) = 1/n\sum_{i}^n f_i(w)$. This problem has been studied intensively in recent years in the field of machine learning (ML). One promising approach for large-scale data is to use a stochastic optimization algorithm to solve the problem. SGDLibrary is a readable, flexible and extensible pure-MATLAB library of a collection of stochastic optimization algorithms. The purpose of the library is to provide researchers and implementers a comprehensive evaluation environment for the use of these algorithms on various ML problems.

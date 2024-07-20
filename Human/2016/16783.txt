@@ -1,0 +1,3 @@
+Online semi-parametric learning for inverse dynamics modeling
+
+This paper presents a semi-parametric algorithm for online learning of a robot inverse dynamics model. It combines the strength of the parametric and non-parametric modeling. The former exploits the rigid body dynamics equa- tion, while the latter exploits a suitable kernel function. We provide an extensive comparison with other methods from the literature using real data from the iCub humanoid robot. In doing so we also compare two different techniques, namely cross validation and marginal likelihood optimization, for estimating the hyperparameters of the kernel function.

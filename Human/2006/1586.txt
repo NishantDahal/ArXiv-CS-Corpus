@@ -1,0 +1,4 @@
+Improving Precision of Type Analysis Using Non-Discriminative Union
+
+This paper presents a new type analysis for logic programs. The analysis is performed with a priori type definitions; and type expressions are formed from a fixed alphabet of type constructors. Non-discriminative union is used to join type information from different sources without loss of precision. An operation that is performed repeatedly during an analysis is to detect if a fixpoint has been reached. This is reduced to checking the emptiness of types. Due to the use of non-discriminative union, the fundamental problem of checking the emptiness of types is more complex in the proposed type analysis than in other type analyses with a priori type definitions. The experimental results, however, show that use of tabling reduces the effect to a small fraction of analysis time on a set of benchmarks.
+  Keywords: Type analysis, Non-discriminative union, Abstract interpretation, Tabling

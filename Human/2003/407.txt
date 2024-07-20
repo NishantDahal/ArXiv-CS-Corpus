@@ -1,0 +1,7 @@
+Group Authentication Using The Naccache-Stern Public-Key Cryptosystem
+
+A group authentication protocol authenticates pre-defined groups of individuals such that:
+ - No individual is identified
+ - No knowledge of which groups can be successfully authenticated is known to the verifier
+ - No sensitive data is exposed
+  The paper presents a group authentication protocol based on splitting the private keys of the Naccache-Stern public-key cryptosystem in such a way that the Boolean expression defining the authenticable groups is implicit in the split.

@@ -1,0 +1,3 @@
+Finding long simple paths in a weighted digraph using pseudo-topological orderings
+
+Given a weighted digraph D, finding the longest simple path is well known to be NP-hard. Furthermore, even giving an approximation algorithm is known to be NP-hard. In this paper we describe an efficient heuristic algorithm for finding long simple paths, using an hybrid approach of DFS and pseudo-topological orders, a a generalization of topological orders to non acyclic graphs, via a process we call "opening edges". An implementation of this algorithm won the Oracle MDC 2015 coding competition.

@@ -1,0 +1,3 @@
+Saccadic Predictive Vision Model with a Fovea
+
+We propose a model that emulates saccades, the rapid movements of the eye, called the Error Saccade Model, based on the prediction error of the Predictive Vision Model (PVM). The Error Saccade Model carries out movements of the model's field of view to regions with the highest prediction error. Comparisons of the Error Saccade Model on Predictive Vision Models with and without a fovea show that a fovea-like structure in the input level of the PVM improves the Error Saccade Model's ability to pursue detailed objects in its view. We hypothesize that the improvement is due to poorer resolution in the periphery causing higher prediction error when an object passes, triggering a saccade to the next location.

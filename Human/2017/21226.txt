@@ -1,0 +1,5 @@
+Identifying Clickbait Posts on Social Media with an Ensemble of Linear Models
+
+The purpose of a clickbait is to make a link so appealing that people click on it. However, the content of such articles is often not related to the title, shows poor quality, and at the end leaves the reader unsatisfied.
+  To help the readers, the organizers of the clickbait challenge (http://www.clickbait-challenge.org/) asked the participants to build a machine learning model for scoring articles with respect to their "clickbaitness".
+  In this paper we propose to solve the clickbait problem with an ensemble of Linear SVM models, and our approach was tested successfully in the challenge: it showed great performance of 0.036 MSE and ranked 3rd among all the solutions to the contest.

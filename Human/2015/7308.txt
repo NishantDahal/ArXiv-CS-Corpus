@@ -1,0 +1,3 @@
+GFDM Transceiver using Precoded Data and Low-complexity Multiplication in Time Domain
+
+Future wireless communication systems are demanding a more flexible physical layer. GFDM is a block filtered multicarrier modulation scheme proposed to add multiple degrees of freedom and cover other waveforms in a single framework. In this paper, GFDM modulation and demodulation will be presented as a frequency-domain circular convolution, allowing for a reduction of the implementation complexity when MF, ZF and MMSE filters are employed in the inner and outer receiver operation. Also, precoding is introduced to further increase GFDM flexibility, addressing a wider set of applications.

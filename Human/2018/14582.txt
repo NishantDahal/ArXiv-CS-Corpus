@@ -1,0 +1,3 @@
+Reinforcement Learning using Augmented Neural Networks
+
+Neural networks allow Q-learning reinforcement learning agents such as deep Q-networks (DQN) to approximate complex mappings from state spaces to value functions. However, this also brings drawbacks when compared to other function approximators such as tile coding or their generalisations, radial basis functions (RBF) because they introduce instability due to the side effect of globalised updates present in neural networks. This instability does not even vanish in neural networks that do not have any hidden layers. In this paper, we show that simple modifications to the structure of the neural network can improve stability of DQN learning when a multi-layer perceptron is used for function approximation.

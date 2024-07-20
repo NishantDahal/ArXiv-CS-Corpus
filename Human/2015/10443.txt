@@ -1,0 +1,3 @@
+Kempe Equivalence of Colourings of Cubic Graphs
+
+Given a graph $G=(V,E)$ and a proper vertex colouring of $G$, a Kempe chain is a subset of $V$ that induces a maximal connected subgraph of $G$ in which every vertex has one of two colours. To make a Kempe change is to obtain one colouring from another by exchanging the colours of vertices in a Kempe chain. Two colourings are Kempe equivalent if each can be obtained from the other by a series of Kempe changes. A conjecture of Mohar asserts that, for $k \geq 3$, all $k$-colourings of $k$-regular graphs that are not complete are Kempe equivalent. We address the case $k=3$ by showing that all $3$-colourings of a cubic graph $G$ are Kempe equivalent unless $G$ is the complete graph $K_4$ or the triangular prism.

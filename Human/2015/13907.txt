@@ -1,0 +1,3 @@
+Counting and Generating Terms in the Binary Lambda Calculus (Extended version)
+
+In a paper entitled Binary lambda calculus and combinatory logic, John Tromp presents a simple way of encoding lambda calculus terms as binary sequences. In what follows, we study the numbers of binary strings of a given size that represent lambda terms and derive results from their generating functions, especially that the number of terms of size n grows roughly like 1.963447954. .. n. In a second part we use this approach to generate random lambda terms using Boltzmann samplers.

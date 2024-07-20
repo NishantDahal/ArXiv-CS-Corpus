@@ -1,0 +1,4 @@
+How to extract data from proprietary software database systems using TCP/IP?
+
+This document is an white paper about how to connect reverse engineering and programing skills to extract data from a proprietary implementation of a database system to build EML-Tools for data format conversion into raw data. This article shows how to access data of a source software system without any interface for data conversion. We discuss how raw data can be transfered into structural format by using XML or any other custom designed software solution. For demonstration purposes only, we will use a CRM system called Harmony(r) by Harmony(r) Software AG, the programing language Python and methods of computer security, which are used to get quick access to the raw data.
+  All trademarks are property of their owners, as Harmony(r) is of Harmony Software AG.

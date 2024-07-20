@@ -1,0 +1,3 @@
+Communication Optimalement Stabilisante sur Canaux non Fiables et non FIFO
+
+A self-stabilizing protocol has the capacity to recover a legitimate behavior whatever is its initial state. The majority of works in self-stabilization assume a shared memory model or a communication using reliable and FIFO channels. In this article, we interest in self-stabilizing systems using bounded but non reliable and non FIFO channels. We propose a stabilizing communication protocol with optimal fault resilience. In more details, this protocol simulates a reliable and FIFO channel and ensures a minimal number of looses, duplications, creations, and re-ordering of messages.

@@ -1,0 +1,3 @@
+The problem of Pi_2-cut-introduction
+
+We describe an algorithmic method of proof compression based on the introduction of Pi_2-cuts into a cut-free LK-proof. The current approach is based on an inversion of Gentzen s cut-elimination method and extends former methods for introducing Pi_1-cuts. The Herbrand instances of a cut-free proof pi of a sequent S are described by a grammar G which encodes substitutions defined in the elimination of quantified cuts. We present an algorithm which, given a grammar G, constructs a Pi_2-cut formula A and a proof phi of S with one cut on A. It is shown that, by this algorithm, we can achieve an exponential proof compression.

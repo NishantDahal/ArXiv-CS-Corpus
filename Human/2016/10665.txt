@@ -1,0 +1,3 @@
+Horn Binary Serialization Analysis
+
+A bit layout is a sequence of fields of certain bit lengths that specifies how to interpret a serial stream, e.g., the MP3 audio format. A layout with variable length fields needs to include meta-information to help the parser interpret unambiguously the rest of the stream; e.g. a field providing the length of a following variable length field. If no such information is available, then the layout is ambiguous. I present a linear-time algorithm to determine whether a layout is ambiguous or not by modelling the behaviour of a serial parser reading the stream as forward chaining reasoning on a collection of Horn clauses.

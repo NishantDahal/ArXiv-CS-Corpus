@@ -1,0 +1,6 @@
+Embedding by Normalisation
+
+This paper presents the insight that practical embedding techniques, commonly used for implementing Domain-Specific Languages, correspond to theoretical Normalisation-By-Evaluation (NBE) techniques, commonly used for deriving canonical form of terms with respect to an equational theory.
+  NBE constitutes of four components: a syntactic domain, a semantic domain, and a pair of translations between the two. Embedding also often constitutes of four components: an object language, a host language, encoding of object terms in the host, and extraction of object code from the host.
+  The correspondence is deep in that all four components in embedding and NBE correspond to each other. Based on this correspondence, this paper introduces Embedding-By-Normalisation (EBN) as a principled approach to study and structure embedding.
+  The correspondence is useful in that solutions from NBE can be borrowed to solve problems in embedding. In particular, based on NBE techniques, such as Type-Directed Partial Evaluation, this paper presents a solution to the problem of extracting object code from embedded programs involving sum types, such as conditional expressions, and primitives, such as literals and operations on them.

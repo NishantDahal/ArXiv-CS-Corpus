@@ -1,0 +1,3 @@
+Investigating the generalizability of EEG-based Cognitive Load Estimation Across Visualizations
+
+We examine if EEG-based cognitive load (CL) estimation is generalizable across the character, spatial pattern, bar graph and pie chart-based visualizations for the nback~task. CL is estimated via two recent approaches: (a) Deep convolutional neural network, and (b) Proximal support vector machines. Experiments reveal that CL estimation suffers across visualizations motivating the need for effective machine learning techniques to benchmark visual interface usability for a given analytic task.

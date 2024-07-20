@@ -1,0 +1,3 @@
+Decidability of Verification of Safety Properties of Spatial Families of Linear Hybrid Automata
+
+We consider systems composed of an unbounded number of uniformly designed linear hybrid automata, whose dynamic behavior is determined by their relation to neighboring systems. We present a class of such systems and a class of safety properties whose verification can be reduced to the verification of (small) families of neighbouring systems of bounded size, and identify situations in which such verification problems are decidable, resp. fixed parameter tractable. We illustrate the approach with an example from coordinated vehicle guidance, and describe an implementation which allows us to perform such verification tasks automatically.

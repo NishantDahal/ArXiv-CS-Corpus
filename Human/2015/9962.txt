@@ -1,0 +1,3 @@
+Computing accurate Horner form approximations to special functions in finite precision arithmetic
+
+In various applications, computers are required to compute approximations to univariate elementary and special functions such as $\exp$ and $\arctan$ to modest accuracy. This paper proposes a new heuristic for automating the design of such implementations. This heuristic takes a certain restricted specification of program structure and the desired error properties as input and takes explicit account of roundoff error during evaluation.

@@ -1,0 +1,3 @@
+Semirings for temporal network analysis
+
+In the article, we describe a new algebraic approach to the temporal network analysis based on the notion of temporal quantities. We define the semiring for computing the foremost journey and the traveling semirings for the analysis of temporal networks where the latency is given, the waiting times are arbitrary, and some other information on the links are known. We use the operations in the traveling semiring to compute a generalized temporal betweenness centrality of the nodes that corresponds to the importance of the nodes with respect to the ubiquitous foremost journeys in a temporal network.

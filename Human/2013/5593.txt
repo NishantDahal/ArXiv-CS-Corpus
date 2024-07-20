@@ -1,0 +1,3 @@
+Upper-bounding the k-colorability threshold by counting covers
+
+Let $G(n,m)$ be the random graph on $n$ vertices with $m$ edges. Let $d=2m/n$ be its average degree. We prove that $G(n,m)$ fails to be $k$-colorable with high probability if $d>2k\ln k-\ln k-1+o_k(1)$. This matches a conjecture put forward on the basis of sophisticated but non-rigorous statistical physics ideas (Krzakala, Pagnani, Weigt 2004). The proof is based on applying the first moment method to the number of "covers", a physics-inspired concept. By comparison, a standard first moment over the number of $k$-colorings shows that $\gnm$ is not $k$-colorable with high probability if $d>2k\ln k-\ln k$.

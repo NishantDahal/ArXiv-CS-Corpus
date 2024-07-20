@@ -1,0 +1,3 @@
+Exploring Geometric Property Thresholds For Filtering Non-Text Regions In A Connected Component Based Text Detection Application
+
+Automated text detection is a difficult computer vision task. In order to accurately detect and identity text in an image or video, two major problems must be addressed. The primary problem is implementing a robust and reliable method for distinguishing text vs non-text regions in images and videos. Part of the difficulty stems from the almost unlimited combinations of fonts, lighting conditions, distortions, and other variations that can be found in images and videos. This paper explores key properties of two popular and proven methods for implementing text detection; maximum stable external regions (MSER) and stroke width variation.

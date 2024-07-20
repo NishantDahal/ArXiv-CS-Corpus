@@ -1,0 +1,3 @@
+KRAB Algorithm - A Revised Algorithm for Incremental Call Graph Generation
+
+This paper is aimed to present the importance and implementation of an incremental call graph plugin. An algorithm is proposed for the call graph implementation which has better overall performance than the algorithm that has been proposed previously. In addition to this, the algorithm has been empirically proved to have excellent performance on recursive codes. The algorithm also readily checks for function skip and returns exceptions.

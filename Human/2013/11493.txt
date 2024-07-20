@@ -1,0 +1,3 @@
+Systems of Systems Modeled by a Hierarchical Part-Whole State-Based Formalism
+
+The paper presents an explicit state-based modeling approach aimed at modeling Systems of Systems behavior.  The approach allows to specify and verify incrementally safety and liveness rules without using model checking techniques.  The state-based approach allows moreover to use the system behavior directly as an interface, greatly improving the effectiveness of the recursive composition needed when assembling Systems of Systems.  Such systems are, at the same time, both parts and wholes, thus giving a formal characterization to the notion of Holon. 

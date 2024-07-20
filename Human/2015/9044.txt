@@ -1,0 +1,3 @@
+Partitioning Uncertain Workflows
+
+It is common practice to partition complex workflows into separate channels in order to speed up their completion times. When this is done within a distributed environment, unavoidable fluctuations make individual realizations depart from the expected average gains. We present a method for breaking any complex workflow into several workloads in such a way that once their outputs are joined, their full completion takes less time and exhibit smaller variance than when running in only one channel. We demonstrate the effectiveness of this method in two different scenarios; the optimization of a convex function and the transmission of a large computer file over the Internet.

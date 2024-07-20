@@ -1,0 +1,3 @@
+NeuRoute: Predictive Dynamic Routing for Software-Defined Networks
+
+This paper introduces NeuRoute, a dynamic routing framework for Software Defined Networks (SDN) entirely based on machine learning, specifically, Neural Networks. Current SDN/OpenFlow controllers use a default routing based on Dijkstra algorithm for shortest paths, and provide APIs to develop custom routing applications. NeuRoute is a controller-agnostic dynamic routing framework that (i) predicts traffic matrix in real time, (ii) uses a neural network to learn traffic characteristics and (iii) generates forwarding rules accordingly to optimize the network throughput. NeuRoute achieves the same results as the most efficient dynamic routing heuristic but in much less execution time.

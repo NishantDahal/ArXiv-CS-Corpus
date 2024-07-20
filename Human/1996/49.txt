@@ -1,0 +1,3 @@
+Restricted Parallelism in Object-Oriented Lexical Parsing
+
+We present an approach to parallel natural language parsing which is based on a concurrent, object-oriented model of computation. A depth-first, yet incomplete parsing algorithm for a dependency grammar is specified and several restrictions on the degree of its parallelization are discussed.

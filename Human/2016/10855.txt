@@ -1,0 +1,4 @@
+Computing the atom graph of a graph and the union join graph of a hypergraph
+
+The atom graph of a graph is the graph whose vertices are the atoms obtained by clique minimal separator decomposition of this graph, and whose edges are the edges of all possible atom trees of this graph. We provide two efficient algorithms for computing this atom graph, with a complexity in $O(min(n^α\log n, nm, n(n+\overline{m}))$ time, which is no more than the complexity of computing the atoms in the general case. %\par We extend our results to $α$-acyclic hypergraphs. We introduce the notion of union join graph, which is the union of all possible join trees; we apply our algorithms for atom graphs to efficiently compute union join graphs.
+  Keywords: clique separator decomposition, atom tree, atom graph, clique tree, clique graph, $α$-acyclic hypergraph.

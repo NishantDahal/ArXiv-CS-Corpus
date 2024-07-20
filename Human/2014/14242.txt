@@ -1,0 +1,3 @@
+Decidability Problems for Actor Systems
+
+We introduce a nominal actor-based language and study its expressive power. We have identified the presence/absence of fields as a crucial feature: the dynamic creation of names in combination with fields gives rise to Turing completeness. On the other hand, restricting to stateless actors gives rise to systems for which properties such as termination are decidable. This decidability result still holds for actors with states when the number of actors is bounded and the state is read-only. 

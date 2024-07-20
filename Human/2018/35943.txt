@@ -1,0 +1,3 @@
+A Model for Attribute Based Role-Role Assignment (ARRA)
+
+Administrative Role Based Access Control (ARBAC) models specify how to manage user-role assignments (URA), permission-role assignments (PRA), and role-role assignments (RRA). Many approaches have been proposed in the literature for URA, PRA, and RRA. In this paper, we propose a model for attribute-based role-role assignment (ARRA), a novel way to unify prior RRA approaches. We leverage the idea that attributes of various RBAC entities such as admin users and regular roles can be used to administer RRA in a highly flexible manner. We demonstrate that ARRA can express and unify prior RRA models.

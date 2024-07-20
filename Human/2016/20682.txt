@@ -1,0 +1,3 @@
+MathGR: a tensor and GR computation package to keep it simple
+
+We introduce the MathGR package, written in Mathematica. The package can manipulate tensor and GR calculations with either abstract or explicit indices, simplify tensors with permutational symmetries, decompose tensors from abstract indices to partially or completely explicit indices and convert partial derivatives into total derivatives. Frequently used GR tensors and a model of FRW universe with ADM type perturbations are predefined. The package is built around the philosophy to "keep it simple", and makes use of latest tensor technologies of Mathematica.

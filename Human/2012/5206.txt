@@ -1,0 +1,3 @@
+Distributed Lossy Source Coding Using Real-Number Codes
+
+We show how real-number codes can be used to compress correlated sources, and establish a new framework for lossy distributed source coding, in which we quantize compressed sources instead of compressing quantized sources. This change in the order of binning and quantization blocks makes it possible to model correlation between continuous-valued sources more realistically and correct quantization error when the sources are completely correlated. The encoding and decoding procedures are described in detail, for discrete Fourier transform (DFT) codes. Reconstructed signal, in the mean squared error sense, is seen to be better than that in the conventional approach.

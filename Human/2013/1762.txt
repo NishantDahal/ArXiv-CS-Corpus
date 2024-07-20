@@ -1,0 +1,3 @@
+Trend prediction in temporal bipartite networks: the case of Movielens, Netflix, and Digg
+
+Online systems where users purchase or collect items of some kind can be effectively represented by temporal bipartite networks where both nodes and links are added with time. We use this representation to predict which items might become popular in the near future. Various prediction methods are evaluated on three distinct datasets originating from popular online services (Movielens, Netflix, and Digg). We show that the prediction performance can be further enhanced if the user social network is known and centrality of individual users in this network is used to weight their actions.

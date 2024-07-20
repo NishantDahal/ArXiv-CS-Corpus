@@ -1,0 +1,3 @@
+A Remark on the Lasso and the Dantzig Selector
+
+This article investigates a new parameter for the high-dimensional regression with noise: the distortion. This latter has attracted a lot of attention recently with the appearance of new deterministic constructions of 'almost'-Euclidean sections of the L1-ball. It measures how far is the intersection between the kernel of the design matrix and the unit L1-ball from an L2-ball. We show that the distortion holds enough information to derive oracle inequalities (i.e. a comparison to an ideal situation where one knows the s largest coefficients of the target) for the lasso and the Dantzig selector.

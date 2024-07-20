@@ -1,0 +1,4 @@
+Unique Parallel Decomposition for the Pi-calculus
+
+A (fragment of a) process algebra satisfies unique parallel decomposition if  the definable behaviours admit a unique decomposition into indecomposable parallel components. In this paper we prove that finite processes of the pi-calculus, i.e. processes that perform no infinite executions, satisfy this property modulo strong bisimilarity and weak bisimilarity. Our results are obtained by an application of a general technique for establishing unique parallel decomposition using decomposition orders.
+

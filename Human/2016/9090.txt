@@ -1,0 +1,3 @@
+Approximation Algorithm for N-distance Minimal Vertex Cover Problem
+
+Evolution of large scale networks demand for efficient way of communication in the networks. One way to propagate information in the network is to find vertex cover. In this paper we describe a variant of vertex cover problem naming it N-distance Vertex Minimal Cover(N-MVC) Problem to optimize information propagation throughout the network. A minimum subset of vertices of a unweighted and undirected graph G = (V, E) is called N-MVC if for all v in V , v is at distance less than or equal to N from at least one of the the vertices in N-MVC. In the following paper, this problem is defined, formulated and an approximation algorithm is proposed with discussion on its correctness and upper bound.

@@ -1,0 +1,3 @@
+Physical Unclonable Function (PUF) Based Random Number Generator
+
+Physical Unclonable Functions (PUFs) are widely used to generate random Numbers. In this paper we propose a new architecture in which an Arbiter Based PUF has been employed as a nonlinear function in Nonlinear Feedback Shift Register (NFSR) to generate true random numbers. The rate of producing the output bit streams is 10 million bits per second. The proposed RNG is able to pass all NIST tests and the entropy of the output stream is 7.999837 bits per byte. The proposed circuit has very low resource usage of 193 Slices that makes it suitable for lightweight applications.

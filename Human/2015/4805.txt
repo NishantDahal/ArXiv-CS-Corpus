@@ -1,0 +1,3 @@
+Towards radio astronomical imaging using an arbitrary basis
+
+The new generation of radio telescopes, such as the Square Kilometer Array (SKA), requires dramatic advances in computer hardware and software, in order to process the large amounts of produced data efficiently. In this document, we explore a new approach to wide-field imaging. By generalizing the image reconstruction, which is performed by an inverse Fourier transform, to arbitrary transformations, we gain enormous new possibilities. In particular, we outline an approach that might allow to obtain a sky image of size P times Q in (optimal) O(PQ) time. This could be a step in the direction of real-time, wide-field sky imaging for future telescopes.

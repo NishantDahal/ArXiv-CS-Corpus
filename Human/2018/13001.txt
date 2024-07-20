@@ -1,0 +1,3 @@
+Reference-less Measure of Faithfulness for Grammatical Error Correction
+
+We propose USim, a semantic measure for Grammatical Error Correction (GEC) that measures the semantic faithfulness of the output to the source, thereby complementing existing reference-less measures (RLMs) for measuring the output's grammaticality. USim operates by comparing the semantic symbolic structure of the source and the correction, without relying on manually-curated references. Our experiments establish the validity of USim, by showing that (1) semantic annotation can be consistently applied to ungrammatical text; (2) valid corrections obtain a high USim similarity score to the source; and (3) invalid corrections obtain a lower score.

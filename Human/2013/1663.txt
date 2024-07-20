@@ -1,0 +1,3 @@
+Testing Implication of Probabilistic Dependencies
+
+Axiomatization has been widely used for testing logical implications.  This paper suggests a non-axiomatic method, the chase, to test if a new dependency follows from a given set of probabilistic dependencies. Although the chase computation may require exponential time in some cases, this technique is a powerful tool for establishing nontrivial theoretical results. More importantly, this approach  provides valuable insight into the intriguing connection between relational databases and probabilistic reasoning systems.

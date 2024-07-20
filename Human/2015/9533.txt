@@ -1,0 +1,3 @@
+A Simple Algorithm for Coloring m-Clique Holes
+
+An m-clique hole is a sequence $φ=(Φ_1,Φ_2,\dots,Φ_m)$ of $m$ distinct cliques such that $|Φ_i| \leq m$ for all $i=1,2,\ldots,m$, and whose clique graph is a hole on $m$ vertices. That is, $φ$ is an m-clique hole if for all $i\neq j$, $i,j=1,2,\ldots,m$, $Φ_i \cap Φ_{j} \neq \emptyset$ if and only if $(j-1)~\mbox{mod}~m = (j+1)~\mbox{mod}~m = i~\mbox{mod}~m$. This paper derives a sufficient and necessary condition on m-colorability of m-clique holes, and proposes a coloring algorithm that colors m-clique holes with exactly m colors.

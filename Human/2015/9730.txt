@@ -1,0 +1,4 @@
+Games for Dependent Types
+
+We present a model of dependent type theory (DTT) with Pi-, 1-, Sigma- and intensional Id-types, which is based on a slight variation of the category of AJM-games and history-free winning strategies. The model satisfies Streicher's criteria of intensionality and refutes function extensionality. The principle of uniqueness of identity proofs is satisfied.
+  We show it contains a submodel as a full subcategory which gives a faithful model of DTT with Pi-, 1-, Sigma- and intensional Id-types and, additionally, finite inductive type families. This smaller model is fully (and faithfully) complete with respect to the syntax at the type hierarchy built without Id-types, as well as at the class of types where we allow for one strictly positive occurrence of an Id-type. Definability for the full type hierarchy with Id-types remains to be investigated.

@@ -1,0 +1,9 @@
+Simplifying products of fractional powers of powers
+
+Most computer algebra systems incorrectly simplify (z - z)/(sqrt(w^2)/w^3 - 1/(w*sqrt(w^2))) to 0 rather than to 0/0. The reasons for this are:
+  1. The default simplification doesn't succeed in simplifying the denominator to 0.
+  2. There is a rule that 0 is the result of 0 divided by anything that doesn't simplify to either 0 or 0/0.
+  Try it on your computer algebra systems!
+  This article describes how to simplify products of the form w^a*(w^b1)^g1 ... (w^bn)^gn correctly and well, where w is any real or complex expression and the exponents are rational numbers.
+  It might seem that correct good simplification of such a restrictive expression class must already be published and/or built into at least one widely used computer-algebra system, but apparently this issue has been overlooked. Default and relevant optional simplification was tested with 86 examples for n=1 on Derive, Maple, Mathematica, Maxima and TI-CAS. Totaled over all five systems, 11% of the results were not equivalent to the input everywhere, 50% of the results did not simplify to 0 a result that was equivalent to 0, and at least 16% of the results exhibited one or more of four additional flaw types. There was substantial room for improvement in all five systems, including the two for which I was a co-author.
+  The good news is: These flaws are easy to fix.

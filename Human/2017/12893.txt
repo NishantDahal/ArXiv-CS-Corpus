@@ -1,0 +1,3 @@
+Updating Singular Value Decomposition for Rank One Matrix Perturbation
+
+An efficient Singular Value Decomposition (SVD) algorithm is an important tool for distributed and streaming computation in big data problems. It is observed that update of singular vectors of a rank-1 perturbed matrix is similar to a Cauchy matrix-vector product. With this observation, in this paper, we present an efficient method for updating Singular Value Decomposition of rank-1 perturbed matrix in $O(n^2 \ \text{log}(\frac{1}ε))$ time. The method uses Fast Multipole Method (FMM) for updating singular vectors in $O(n \ \text{log} (\frac{1}ε))$ time, where $ε$ is the precision of computation.

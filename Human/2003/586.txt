@@ -1,0 +1,5 @@
+Short Cycles Connectivity
+
+Short cycles connectivity is a generalization of ordinary connectivity. Instead by a path (sequence of edges), two vertices have to be connected by a sequence of short cycles, in which two adjacent cycles have at least one common vertex. If all adjacent cycles in the sequence share at least one edge, we talk about edge short cycles connectivity.
+  It is shown that the short cycles connectivity is an equivalence relation on the set of vertices, while the edge short cycles connectivity components determine an equivalence relation on the set of edges. Efficient algorithms for determining equivalence classes are presented.
+  Short cycles connectivity can be extended to directed graphs (cyclic and transitive connectivity). For further generalization we can also consider connectivity by small cliques or other families of graphs.

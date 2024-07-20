@@ -1,0 +1,3 @@
+Euclidean Shortest Paths in Simple Cube Curves at a Glance
+
+This paper reports about the development of two provably correct approximate algorithms which calculate the Euclidean shortest path (ESP) within a given cube-curve with arbitrary accuracy, defined by $ε>0$, and in time complexity $κ(ε) \cdot {\cal O}(n)$, where $κ(ε)$ is the length difference between the path used for initialization and the minimum-length path, divided by $ε$. A run-time diagram also illustrates this linear-time behavior of the implemented ESP algorithm.

@@ -1,0 +1,3 @@
+Efficient Quantum Circuits for Non-Qubit Quantum Error-Correcting Codes
+
+We present two methods for the construction of quantum circuits for quantum error-correcting codes (QECC). The underlying quantum systems are tensor products of subsystems (qudits) of equal dimension which is a prime power. For a QECC encoding k qudits into n qudits, the resulting quantum circuit has O(n(n-k)) gates. The running time of the classical algorithm to compute the quantum circuit is O(n(n-k)^2).

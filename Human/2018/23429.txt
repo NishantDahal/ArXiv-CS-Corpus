@@ -1,0 +1,3 @@
+DLO: Direct LiDAR Odometry for 2.5D Outdoor Environment
+
+For autonomous vehicles, high-precision real-time localization is the guarantee of stable driving. Compared with the visual odometry (VO), the LiDAR odometry (LO) has the advantages of higher accuracy and better stability. However, 2D LO is only suitable for the indoor environment, and 3D LO has less efficiency in general. Both are not suitable for the online localization of an autonomous vehicle in an outdoor driving environment. In this paper, a direct LO method based on the 2.5D grid map is proposed. The fast semi-dense direct method proposed for VO is employed to register two 2.5D maps. Experiments show that this method is superior to both the 3D-NDT and LOAM in the outdoor environment.

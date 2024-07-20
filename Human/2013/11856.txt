@@ -1,0 +1,3 @@
+Phase Retrieval from Coded Diffraction Patterns
+
+This paper considers the question of recovering the phase of an object from intensity-only measurements, a problem which naturally appears in X-ray crystallography and related disciplines. We study a physically realistic setup where one can modulate the signal of interest and then collect the intensity of its diffraction pattern, each modulation thereby producing a sort of coded diffraction pattern. We show that PhaseLift, a recent convex programming technique, recovers the phase information exactly from a number of random modulations, which is polylogarithmic in the number of unknowns. Numerical experiments with noiseless and noisy data complement our theoretical analysis and illustrate our approach.

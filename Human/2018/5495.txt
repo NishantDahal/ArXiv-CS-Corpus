@@ -1,0 +1,4 @@
+Generic Library Interception for Improved Performance Measurement and Insight
+
+As applications grow in capability, they also grow in complexity. This complexity in turn gets pushed into modules and libraries. In addition, hardware configurations become increasingly elaborate, too. These two trends make understanding, debugging and analyzing the performance of applications more and more difficult.
+  To enable detailed insight into library usage of applications, we present an approach and implementation in Score-P that supports intuitive and robust creation of wrappers for arbitrary C/C++ libraries. Runtime analysis then uses these wrappers to keep track of how applications interact with libraries, how they interact with each other, and record the exact timing of their functions.

@@ -1,0 +1,3 @@
+Mapping and Reducing the Brain on the Cloud
+
+The emergence of cloud computing has enabled an incredible growth in available hardware resources at very low costs. These resources are being increasingly utilized by corporations for scalable analysis of "big data" problems. In this work, we explore the possibility of using commodity hardware such as Amazon EC2 for performing large scale scientific computation. In particular, we simulate interconnected cortical neurons using MapReduce. We build and model a network of 1000 spiking cortical neurons in Hadoop, an opensource implementation of MapReduce, and present results.

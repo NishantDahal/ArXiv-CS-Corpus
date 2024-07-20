@@ -1,0 +1,3 @@
+Derandomization for k-submodular maximization
+
+Submodularity is one of the most important property of combinatorial optimization, and $k$-submodularity is a generalization of submodularity. Maximization of $k$-submodular function is NP-hard, and approximation algorithms are studied. For monotone $k$-submodular function, [Iwata, Tanigawa, and Yoshida 2016] gave $k/(2k-1)$-approximation algorithm. In this paper, we give a deterministic algorithm by derandomizing that algorithm. Derandomization scheme is from [Buchbinder and Feldman 2016]. Our algorithm is $k/(2k-1)$-approximation and polynomial-time algorithm.

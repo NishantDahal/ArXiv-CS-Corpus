@@ -1,0 +1,5 @@
+Incremental and Fully Dynamic Subgraph Connectivity For Emergency Planning
+
+During the last 10 years it has become popular to study dynamic graph problems in a emergency planning or sensitivity setting: Instead of considering the general fully dynamic problem, we only have to process a single batch update of size $d$; after the update we have to answer queries.
+  In this paper, we consider the dynamic subgraph connectivity problem with sensitivity $d$: We are given a graph of which some vertices are activated and some are deactivated. After that we get a single update in which the states of up to d vertices are changed. Then we get a sequence of connectivity queries in the subgraph of activated vertices.
+  We present the first fully dynamic algorithm for this problem which has an update and query time only slightly worse than the best decremental algorithm. In addition, we present the first incremental algorithm which is tight with respect to the best known conditional lower bound; moreover, the algorithm is simple and we believe it is implementable and efficient in practice.

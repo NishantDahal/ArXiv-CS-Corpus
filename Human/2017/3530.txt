@@ -1,0 +1,3 @@
+Quantization for uniform distributions on equilateral triangles
+
+We approximate the uniform measure on an equilateral triangle by a measure supported on $n$ points. We find the optimal sets of points ($n$-means) and corresponding approximation (quantization) error for $n\leq4$, give numerical optimization results for $n\leq 21$, and a bound on the quantization error for $n\to\infty$. The equilateral triangle has particularly efficient quantizations due to its connection with the triangular lattice. Our methods can be applied to the uniform distributions on general sets with piecewise smooth boundaries.

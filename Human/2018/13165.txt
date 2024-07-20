@@ -1,0 +1,5 @@
+Almost logarithmic-time space optimal leader election in population protocols
+
+The model of population protocols refers to a large collection of simple indistinguishable entities, frequently called {\em agents}. The agents communicate and perform computation through pairwise interactions. We study fast and space efficient leader election in population of cardinality $n$ governed by a random scheduler, where during each time step the scheduler uniformly at random selects for interaction exactly one pair of agents.
+  We propose the first $o(\log^2 n)$-time leader election protocol. Our solution operates in expected parallel time $O(\log n\log\log n)$ which is equivalent to $O(n \log n\log\log n)$ pairwise interactions. This is the fastest currently known leader election algorithm in which each agent utilises asymptotically optimal number of $O(\log\log n)$ states.
+  The new protocol incorporates and amalgamates successfully the power of assorted {\em synthetic coins} with variable rate {\em phase clocks}.

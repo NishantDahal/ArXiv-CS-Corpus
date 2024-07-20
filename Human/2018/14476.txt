@@ -1,0 +1,4 @@
+A connection between String Covers and Cover Deterministic Finite Tree Automata Minimization
+
+Data compression plays a crucial part in the cloud based systems of today. One the fundaments of compression is quasi-periodicity, for which there are several models. We build upon the most popular quasi-periodicity model for strings, i.e., covers, generalizing it to trees.
+  We introduce a new type of cover automata, which we call \textbf{D}eterministic \textbf{T}ree \textbf{A}utomata. Then, we formulate a cover problem on these DTA and study its complexity, in both sequential and parallel settings. We obtain bounds for the Cover Minimization Problem. Along the way, we uncover an interesting application, the Shortest Common Cover Problem, for which we give an optimal solution.

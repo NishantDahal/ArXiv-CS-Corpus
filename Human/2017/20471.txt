@@ -1,0 +1,3 @@
+Face Transfer with Generative Adversarial Network
+
+Face transfer animates the facial performances of the character in the target video by a source actor. Traditional methods are typically based on face modeling. We propose an end-to-end face transfer method based on Generative Adversarial Network. Specifically, we leverage CycleGAN to generate the face image of the target character with the corresponding head pose and facial expression of the source. In order to improve the quality of generated videos, we adopt PatchGAN and explore the effect of different receptive field sizes on generated images.

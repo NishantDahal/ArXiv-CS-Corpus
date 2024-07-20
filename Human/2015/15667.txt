@@ -1,0 +1,3 @@
+Exploiting Hidden Structure in Selecting Dimensions that Distinguish Vectors
+
+The NP-hard Distinct Vectors problem asks to delete as many columns as possible from a matrix such that all rows in the resulting matrix are still pairwise distinct. Our main result is that, for binary matrices, there is a complexity dichotomy for Distinct Vectors based on the maximum (H) and the minimum (h) pairwise Hamming distance between matrix rows: Distinct Vectors can be solved in polynomial time if H <= 2 ceil(h/2) + 1, and is NP-complete otherwise. Moreover, we explore connections of Distinct Vectors to hitting sets, thereby providing several fixed-parameter tractability and intractability results also for general matrices.

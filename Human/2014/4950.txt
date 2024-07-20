@@ -1,0 +1,3 @@
+A simple statistical analysis approach for Intrusion Detection System
+
+A novel approach to analyze statistically the network traffic raw data is proposed. The huge amount of raw data of actual network traffic from the Intrusion Detection System is analyzed to determine if a traffic is a normal or harmful one. Using the active ports in each host in a network as sensors, the system continuously monitors the incoming packets, and generates its average behaviors at different time scales including its variances. The average region of behaviors at certain time scale is then being used as the baseline of normal traffic. Deploying the exhaustive search based decission system, the system detects the incoming threats to the whole network under supervision.

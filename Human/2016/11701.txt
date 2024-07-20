@@ -1,0 +1,3 @@
+A Web Traffic Analysis Attack Using Only Timing Information
+
+We introduce an attack against encrypted web traffic that makes use only of packet timing information on the uplink. This attack is therefore impervious to existing packet padding defences. In addition, unlike existing approaches this timing-only attack does not require knowledge of the start/end of web fetches and so is effective against traffic streams. We demonstrate the effectiveness of the attack against both wired and wireless traffic, achieving mean success rates in excess of 90%. In addition to being of interest in its own right, this timing-only attack serves to highlight deficiencies in existing defences and so to areas where it would be beneficial for VPN designers to focus further attention.

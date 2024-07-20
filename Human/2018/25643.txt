@@ -1,0 +1,3 @@
+Signal Convolution Logic
+
+We introduce a new logic called Signal Convolution Logic (SCL) that combines temporal logic with convolutional filters from digital signal processing. SCL enables to reason about the percentage of time a formula is satisfied in a bounded interval. We demonstrate that this new logic is a suitable formalism to effectively express non-functional requirements in Cyber-Physical Systems displaying noisy and irregular behaviours. We define both a qualitative and quantitative semantics for it, providing an efficient monitoring procedure. Finally, we prove SCL at work to monitor the artificial pancreas controllers that are employed to automate the delivery of insulin for patients with type-1 diabetes.

@@ -1,0 +1,3 @@
+Adaptive Drift Analysis
+
+We show that, for any c>0, the (1+1) evolutionary algorithm using an arbitrary mutation rate p_n = c/n finds the optimum of a linear objective function over bit strings of length n in expected time Theta(n log n). Previously, this was only known for c at most 1. Since previous work also shows that universal drift functions cannot exist for c larger than a certain constant, we instead define drift functions which depend crucially on the relevant objective functions (and also on c itself). Using these carefully-constructed drift functions, we prove that the expected optimisation time is Theta(n log n). By giving an alternative proof of the multiplicative drift theorem, we also show that our optimisation-time bound holds with high probability.

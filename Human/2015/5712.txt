@@ -1,0 +1,3 @@
+A multi-criteria service selection algorithm for business process requirements
+
+The selection of the most appropriate Web services to realize business tasks still remain an open issue. We propose a multi-criteria algorithm for efficient service selection. Web services and their QoS values are stored in a Web service ontology (WSOnto) and business processes are modeled with the BPMN2.0 specifications. Our algorithm performs an instance-based ontology matching between the WSOnto and the business process ontology. The business context, functional properties and QoS values of Web services are considered. The algorithm computes the variation of QoS values over times. This strategy allows better accurate Web services ranking relevant to a user's request.

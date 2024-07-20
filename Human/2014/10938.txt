@@ -1,0 +1,3 @@
+Reasoning for ALCQ extended with a flexible meta-modelling hierarchy
+
+This works is motivated by a real-world case study where it is necessary to integrate and relate existing ontologies through meta- modelling. For this, we introduce the Description Logic ALCQM which is obtained from ALCQ by adding statements that equate individuals to concepts in a knowledge base. In this new extension, a concept can be an individual of another concept (called meta-concept) which themselves can be individuals of yet another concept (called meta meta-concept) and so on. We define a tableau algorithm for checking consistency of an ontology in ALCQM and prove its correctness.

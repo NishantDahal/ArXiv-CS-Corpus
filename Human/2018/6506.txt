@@ -1,0 +1,3 @@
+Natural Deduction and the Isabelle Proof Assistant
+
+We describe our Natural Deduction Assistant (NaDeA) and the interfaces between the Isabelle proof assistant and NaDeA. In particular, we explain how NaDeA, using a generated prover that has been verified in Isabelle, provides feedback to the student, and also how NaDeA, for each formula proved by the student, provides a generated theorem that can be verified in Isabelle.

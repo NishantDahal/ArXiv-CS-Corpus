@@ -1,0 +1,3 @@
+Efficient Semantic Segmentation for Visual Bird's-eye View Interpretation
+
+The ability to perform semantic segmentation in real-time capable applications with limited hardware is of great importance. One such application is the interpretation of the visual bird's-eye view, which requires the semantic segmentation of the four omnidirectional camera images. In this paper, we present an efficient semantic segmentation that sets new standards in terms of runtime and hardware requirements. Our two main contributions are the decrease of the runtime by parallelizing the ArgMax layer and the reduction of hardware requirements by applying the channel pruning method to the ENet model.

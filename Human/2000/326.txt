@@ -1,0 +1,3 @@
+Critical Behavior in Lossy Source Coding
+
+The following critical phenomenon was recently discovered. When a memoryless source is compressed using a variable-length fixed-distortion code, the fastest convergence rate of the (pointwise) compression ratio to the optimal $R(D)$ bits/symbol is either $O(\sqrt{n})$ or $O(\log n)$. We show it is always $O(\sqrt{n})$, except for discrete, uniformly distributed sources.

@@ -1,0 +1,6 @@
+Generalized Error Exponents For Small Sample Universal Hypothesis Testing
+
+The small sample universal hypothesis testing problem is investigated in this paper, in which the number of samples $n$ is smaller than the number of possible outcomes $m$. The goal of this work is to find an appropriate criterion to analyze statistical tests in this setting. A suitable model for analysis is the high-dimensional model in which both $n$ and $m$ increase to infinity, and $n=o(m)$. A new performance criterion based on large deviations analysis is proposed and it generalizes the classical error exponent applicable for large sample problems (in which $m=O(n)$). This generalized error exponent criterion provides insights that are not available from asymptotic consistency or central limit theorem analysis. The following results are established for the uniform null distribution:
+  (i) The best achievable probability of error $P_e$ decays as $P_e=\exp\{-(n^2/m) J (1+o(1))\}$ for some $J>0$.
+  (ii) A class of tests based on separable statistics, including the coincidence-based test, attains the optimal generalized error exponents.
+  (iii) Pearson's chi-square test has a zero generalized error exponent and thus its probability of error is asymptotically larger than the optimal test.

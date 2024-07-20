@@ -1,0 +1,3 @@
+The sufficiently smart compiler is a theorem prover
+
+That the Haskell Compiler GHC is capable of proving non-trivial equalities between Haskell code, by virtue of its aggressive optimizer, in particular the term rewriting engine in the simplifier. We demonstrate this with a surprising little code in a GHC plugin, explains the knobs we had to turn, discuss the limits of the approach and related applications of the same idea, namely testing that promises from Haskell libraries with domain-specific optimizations hold.

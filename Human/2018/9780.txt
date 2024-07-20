@@ -1,0 +1,4 @@
+On the Validity of Encodings of the Synchronous in the Asynchronous $π$-calculus
+
+Process calculi may be compared in their expressive power by means of encodings between them. A widely accepted definition of what constitutes a valid encoding for (dis)proving relative expressiveness results between process calculi was proposed by Gorla. Prior to this work, diverse encodability and separation results were generally obtained using distinct, and often incompatible, quality criteria on encodings.
+  Textbook examples of valid encoding are the encodings proposed by Boudol and by Honda & Tokoro of the synchronous choice-free $π$-calculus into its asynchronous fragment, illustrating that the latter is no less expressive than the former. Here I formally establish that these encodings indeed satisfy Gorla's criteria.

@@ -1,0 +1,3 @@
+Tight Bounds on Proper Equivalence Query Learning of DNF
+
+We prove a new structural lemma for partial Boolean functions $f$, which we call the seed lemma for DNF. Using the lemma, we give the first subexponential algorithm for proper learning of DNF in Angluin's Equivalence Query (EQ) model. The algorithm has time and query complexity $2^{(\tilde{O}{\sqrt{n}})}$, which is optimal. We also give a new result on certificates for DNF-size, a simple algorithm for properly PAC-learning DNF, and new results on EQ-learning $\log n$-term DNF and decision trees.

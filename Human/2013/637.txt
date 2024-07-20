@@ -1,0 +1,3 @@
+Towards an Application of Update Propagation on Logic Programs Representing Java Source Code
+
+Logic programs are now used as a representation of object-oriented source code in academic prototypes for about a decade. This representation allows a clear and concise implementation of analyses of the object-oriented source code. The full potential of this approach is far from being explored. In this paper, we report about an application of the well-established theory of update propagation within logic programs. Given the representation of the object-oriented code as facts in a logic program, a change to the code corresponds to an update of these facts. We demonstrate how update propagation provides a generic way to generate incremental versions of such analyses.

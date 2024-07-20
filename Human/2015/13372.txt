@@ -1,0 +1,6 @@
+Convexity in partial cubes: the hull number
+
+We prove that the combinatorial optimization problem of determining the hull number of a partial cube is NP-complete. This makes partial cubes the minimal graph class for which NP-completeness of this problem is known and improves some earlier results in the literature.
+  On the other hand we provide a polynomial-time algorithm to determine the hull number of planar partial cube quadrangulations.
+  Instances of the hull number problem for partial cubes described include poset dimension and hitting sets for interiors of curves in the plane.
+  To obtain the above results, we investigate convexity in partial cubes and characterize these graphs in terms of their lattice of convex subgraphs, improving a theorem of Handa. Furthermore we provide a topological representation theorem for planar partial cubes, generalizing a result of Fukuda and Handa about rank three oriented matroids.

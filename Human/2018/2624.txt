@@ -1,0 +1,3 @@
+The Clever Shopper Problem
+
+We investigate a variant of the so-called "Internet Shopping Problem" introduced by Blazewicz et al. (2010), where a customer wants to buy a list of products at the lowest possible total cost from shops which offer discounts when purchases exceed a certain threshold. Although the problem is NP-hard, we provide exact algorithms for several cases, e.g. when each shop sells only two items, and an FPT algorithm for the number of items, or for the number of shops when all prices are equal. We complement each result with hardness proofs in order to draw a tight boundary between tractable and intractable cases. Finally, we give an approximation algorithm and hardness results for the problem of maximising the sum of discounts.

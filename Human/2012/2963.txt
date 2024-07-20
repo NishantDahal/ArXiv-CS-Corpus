@@ -1,0 +1,3 @@
+Simple and Efficient Contract Signing Protocol
+
+In this paper, a new contract signing protocol is proposed based on the RSA signature scheme. The protocol will allow two parties to sign the same contract and then exchange their digital signatures. The protocol ensures fairness in that it offers parties greater security: either both parties receive each other's signatures or neither does. The protocol is based on offline Trusted Third Party (TTP) that will be brought into play only if one party fails to sign the contract. Otherwise, the TTP remains inactive. The protocol consists of only three messages that are exchanged between the two parties.

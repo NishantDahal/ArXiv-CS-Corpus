@@ -1,0 +1,3 @@
+A Maple Package for Computing Groebner Bases for Linear Recurrence Relations
+
+A Maple package for computing Groebner bases of linear difference ideals is described. The underlying algorithm is based on Janet and Janet-like monomial divisions associated with finite difference operators. The package can be used, for example, for automatic generation of difference schemes for linear partial differential equations and for reduction of multiloop Feynman integrals. These two possible applications are illustrated by simple examples of the Laplace equation and a one-loop scalar integral of propagator type

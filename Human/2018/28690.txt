@@ -1,0 +1,3 @@
+Centroid estimation based on symmetric KL divergence for Multinomial text classification problem
+
+We define a new method to estimate centroid for text classification based on the symmetric KL-divergence between the distribution of words in training documents and their class centroids. Experiments on several standard data sets indicate that the new method achieves substantial improvements over the traditional classifiers.

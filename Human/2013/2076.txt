@@ -1,0 +1,3 @@
+Quantum 3-SAT is QMA1-complete
+
+Quantum satisfiability is a constraint satisfaction problem that generalizes classical boolean satisfiability. In the quantum k-SAT problem, each constraint is specified by a k-local projector and is satisfied by any state in its nullspace. Bravyi showed that quantum 2-SAT can be solved efficiently on a classical computer and that quantum k-SAT with k greater than or equal to 4 is QMA1-complete. Quantum 3-SAT was known to be contained in QMA1, but its computational hardness was unknown until now. We prove that quantum 3-SAT is QMA1-hard, and therefore complete for this complexity class.

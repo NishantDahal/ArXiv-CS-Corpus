@@ -1,0 +1,5 @@
+Semantic Query Language for Temporal Genealogical Trees
+
+Computers play a crucial role in modern ancestry management, they are used to collect, store, analyze, sort and display genealogical data. However, current applications do not take into account the kinship structure of a natural language.
+  In this paper we propose a new domain-specific language KISP which is based on a formalization of English kinship system, for accessing and querying traditional genealogical trees. KISP is a dynamically typed LISP-like programming language with a rich set of features, such as kinship term reduction and temporal information expression.
+  Our solution provides a user with a coherent genealogical framework that allows for a natural navigation over any traditional family tree.

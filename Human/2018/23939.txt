@@ -1,0 +1,3 @@
+Projective Splitting with Forward Steps only Requires Continuity
+
+A recent innovation in projective splitting algorithms for monotone operator inclusions has been the development of a procedure using two forward steps instead of the customary proximal steps for operators that are Lipschitz continuous. This paper shows that the Lipschitz assumption is unnecessary when the forward steps are performed in finite-dimensional spaces: a backtracking linesearch yields a convergent algorithm for operators that are merely continuous with full domain.

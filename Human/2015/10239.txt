@@ -1,0 +1,3 @@
+Accelerating R with high performance linear algebra libraries
+
+Linear algebra routines are basic building blocks for the statistical software. In this paper we analyzed how can we can improve R performance for matrix computations. We benchmarked few matrix operations using the standard linear algebra libraries included in the R distribution and high performance libraries like OpenBLAS, GotoBLAS and MKL. Our tests showed the the best results are obtained with the MKL library, the other two libraries having similar performances, but lower than MKL

@@ -1,0 +1,3 @@
+Predictive networking and optimization for flow-based networks
+
+Artificial Neural Networks (ANNs) were used to classify neural network flows by flow size. After training the neural network was able to predict the size of a flows with 87% accuracy with a Feed Forward Neural Network. This demonstrates that flow based routers can prioritize candidate flows with a predicted large number of packets for priority insertion into hardware content-addressable memory.

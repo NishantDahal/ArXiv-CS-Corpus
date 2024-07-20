@@ -1,0 +1,3 @@
+Common greedy wiring and rewiring heuristics do not guarantee maximum assortative graphs of given degree
+
+We examine two greedy heuristics - wiring and rewiring - for constructing maximum assortative graphs over all simple connected graphs with a target degree sequence. Counterexamples show that natural greedy rewiring heuristics do not necessarily return a maximum assortative graph, even though it is known that the meta-graph of all simple connected graphs with given degree is connected under rewiring. Counterexamples show an elegant greedy graph wiring heuristic from the literature may fail to achieve the target degree sequence or may fail to wire a maximally assortative graph.

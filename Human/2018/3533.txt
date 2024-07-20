@@ -1,0 +1,3 @@
+A Complexity Theory for Labeling Schemes
+
+In a labeling scheme the vertices of a given graph from a particular class are assigned short labels such that adjacency can be algorithmically determined from these labels. A representation of a graph from that class is given by the set of its vertex labels. Due to the shortness constraint on the labels such schemes provide space-efficient representations for various graph classes, such as planar or interval graphs. We consider what graph classes cannot be represented by labeling schemes when the algorithm which determines adjacency is subjected to computational constraints.

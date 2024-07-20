@@ -1,0 +1,3 @@
+The Average Sensitivity of Bounded-Depth Formulas
+
+We show that unbounded fan-in boolean formulas of depth $d+1$ and size $s$ have average sensitivity $O(\frac{1}{d}\log s)^d$. In particular, this gives a tight $2^{Ω(d(n^{1/d}-1))}$ lower bound on the size of depth $d+1$ formulas computing the \textsc{parity} function. These results strengthen the corresponding $2^{Ω(n^{1/d})}$ and $O(\log s)^d$ bounds for circuits due to Håstad (1986) and Boppana (1997). Our proof technique studies a random process where the Switching Lemma is applied to formulas in an efficient manner.

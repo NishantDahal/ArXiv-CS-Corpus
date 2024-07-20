@@ -1,0 +1,3 @@
+CoInDiVinE: Parallel Distributed Model Checker for Component-Based Systems
+
+CoInDiVinE is a tool for parallel distributed model checking of interactions among components in hierarchical component-based systems. The tool extends the DiVinE framework with a new input language (component-interaction automata) and a property specification logic (CI-LTL). As the language differs from the input language of DiVinE, our tool employs a new state space generation algorithm that also supports partial order reduction. Experiments indicate that the tool has good scaling properties when run in parallel setting.

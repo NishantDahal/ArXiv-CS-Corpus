@@ -1,0 +1,3 @@
+Validation of Information Fusion
+
+We motivate and offer a formal definition of validation as it applies to information fusion systems. Common definitions of validation compare the actual state of the world with that derived by the fusion process. This definition conflates properties of the fusion system with properties of systems that intervene between the world and the fusion system. We propose an alternative definition where validation of an information fusion system references a standard fusion device, such as recognized human experts. We illustrate the approach by describing the validation process implemented in RAID, a program conducted by DARPA and focused on information fusion in adversarial, deceptive environments.

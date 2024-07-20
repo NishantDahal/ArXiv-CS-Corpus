@@ -1,0 +1,4 @@
+Impulsive Sound Detection by a Novel Energy Formula and its Usage for Gunshot Recognition
+
+There are many methods proposed for the detection of impulsive sounds in literature. Most of them are complex and require adaptation to ambient noise. In this paper we propose a very simple and efficient method to detect impulsive sounds. Although we use energy like most of the others to determine impulsive sounds, the way we calculate the energy is quite different. Also our calculation is immune to ambient noise and does not require any limit or adaptation. We could detect impulsive sounds embedded in various kinds of noises by using this formula.
+  As our ultimate aim is to detect gunshots, next phase of impulsive sound detection is gunshot recognition phase. Detected impulsive sounds are fed into recognition phase in which we can decide on gunshots with high success rate.

@@ -1,0 +1,3 @@
+Building a Virtual HPC Cluster with Auto Scaling by the Docker
+
+Solving the software dependency issue under the HPC environment has always been a difficult task for both computing system administrators and application scientists. This work would like to tackle the issue by introducing the modern container technology, the Docker, to be specific. By integrating the auto-scaling feature of service discovery with the light-weight virtualization tool, the Docker, the construction of a virtual cluster on top of physical cluster hardware is attempted. Thus, through the isolation of computing environment, a remedy of software dependency of HPC environment is possible.

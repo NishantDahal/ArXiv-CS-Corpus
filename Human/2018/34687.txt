@@ -1,0 +1,3 @@
+SqueezeFit: Label-aware dimensionality reduction by semidefinite programming
+
+Given labeled points in a high-dimensional vector space, we seek a low-dimensional subspace such that projecting onto this subspace maintains some prescribed distance between points of differing labels. Intended applications include compressive classification. Taking inspiration from large margin nearest neighbor classification, this paper introduces a semidefinite relaxation of this problem. Unlike its predecessors, this relaxation is amenable to theoretical analysis, allowing us to provably recover a planted projection operator from the data.

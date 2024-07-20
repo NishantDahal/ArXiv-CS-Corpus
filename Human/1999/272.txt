@@ -1,0 +1,4 @@
+Computation in an algebra of test selection criteria
+
+One of the key concepts in testing is that of adequate test sets. A test selection criterion decides which test sets are adequate. In this paper, a language schema for specifying a large class of test selection criteria is developed; the schema is based on two operations for building complex criteria from simple ones. Basic algebraic properties of the two operations are derived.
+  In the second part of the paper, a simple language-an instance of the general schema-is studied in detail, with the goal of generating small adequate test sets automatically. It is shown that one version of the problem is intractable, while another is solvable by an efficient algorithm. An implementation of the algorithm is described.

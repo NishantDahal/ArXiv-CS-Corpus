@@ -1,0 +1,6 @@
+Syntax, Parsing and Production of Natural Language in a Framework of Information Compression by Multiple Alignment, Unification and Search
+
+This article introduces the idea that "information compression by multiple alignment, unification and search" (ICMAUS) provides a framework within which natural language syntax may be represented in a simple format and the parsing and production of natural language may be performed in a transparent manner.
+  The ICMAUS concepts are embodied in a software model, SP61. The organisation and operation of the model are described and a simple example is presented showing how the model can achieve parsing of natural language.
+  Notwithstanding the apparent paradox of 'decompression by compression', the ICMAUS framework, without any modification, can produce a sentence by decoding a compressed code for the sentence. This is illustrated with output from the SP61 model.
+  The article includes four other examples - one of the parsing of a sentence in French and three from the domain of English auxiliary verbs. These examples show how the ICMAUS framework and the SP61 model can accommodate 'context sensitive' features of syntax in a relatively simple and direct manner.

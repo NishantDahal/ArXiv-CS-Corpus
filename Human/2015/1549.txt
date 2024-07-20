@@ -1,0 +1,4 @@
+Wave-Style Token Machines and Quantum Lambda Calculi
+
+Particle-style token machines are a way to interpret proofs and programs, when the latter are written following the principles of linear logic. In this paper, we show that token machines also make sense when the programs at hand are those of a simple quantum lambda-calculus with implicit qubits. This, however, requires generalising the concept of a token machine to one in which more than one particle travel around the term at the same time. The presence of multiple tokens is intimately related to entanglement and allows us to give a simple operational semantics to the calculus, coherently with the principles of quantum computation.
+

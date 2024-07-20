@@ -1,0 +1,3 @@
+Measuring the Robustness of Graph Properties
+
+In this paper, we propose a perturbation framework to measure the robustness of graph properties. Although there are already perturbation methods proposed to tackle this problem, they are limited by the fact that the strength of the perturbation cannot be well controlled. We firstly provide a perturbation framework on graphs by introducing weights on the nodes, of which the magnitude of perturbation can be easily controlled through the variance of the weights. Meanwhile, the topology of the graphs are also preserved to avoid uncontrollable strength in the perturbation. We then extend the measure of robustness in the robust statistics literature to the graph properties.

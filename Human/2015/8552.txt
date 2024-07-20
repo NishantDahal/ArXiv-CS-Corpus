@@ -1,0 +1,3 @@
+Learning Boolean functions with concentrated spectra
+
+This paper discusses the theory and application of learning Boolean functions that are concentrated in the Fourier domain. We first estimate the VC dimension of this function class in order to establish a small sample complexity of learning in this case. Next, we propose a computationally efficient method of empirical risk minimization, and we apply this method to the MNIST database of handwritten digits. These results demonstrate the effectiveness of our model for modern classification tasks. We conclude with a list of open problems for future investigation.

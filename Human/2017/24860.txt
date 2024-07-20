@@ -1,0 +1,6 @@
+Notes on complexity of packing coloring
+
+A packing $k$-coloring for some integer $k$ of a graph $G=(V,E)$ is a mapping
+  $\varphi:V\to\{1,\ldots,k\}$ such that any two vertices $u, v$ of color $\varphi(u)=\varphi(v)$ are in distance at least $\varphi(u)+1$. This concept is motivated by frequency assignment problems. The \emph{packing chromatic number} of $G$ is the smallest $k$ such that there exists a packing $k$-coloring of $G$.
+  Fiala and Golovach showed that determining the packing chromatic number for chordal graphs is \NP-complete for diameter exactly 5. While the problem is easy to solve for diameter 2, we show \NP-completeness for any diameter at least 3. Our reduction also shows that the packing chromatic number is hard to approximate within $n^{{1/2}-\varepsilon}$ for any $\varepsilon > 0$.
+  In addition, we design an \FPT algorithm for interval graphs of bounded diameter. This leads us to exploring the problem of finding a partial coloring that maximizes the number of colored vertices.

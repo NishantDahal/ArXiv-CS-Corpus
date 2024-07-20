@@ -1,0 +1,3 @@
+On the Extremal Maximum Agreement Subtree Problem
+
+Given two phylogenetic trees with the $\{1, \ldots, n\}$ leaf-set the maximum agreement subtree problem asks what is the maximum size of the subset $A \subseteq \{1, \ldots, n\}$ such that the two trees are equivalent when restricted to $A$. The long-standing extremal version of this problem focuses on the smallest number of leaves, $\mathrm{mast}(n)$, on which any two (binary and unrooted) phylogenetic trees with $n$ leaves must agree. In this work we prove that this number grows asymptotically as $Θ(\log n)$; thus closing the enduring gap between the lower and upper asymptotic bounds on $\mathrm{mast}(n)$.

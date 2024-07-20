@@ -1,0 +1,4 @@
+Efficient Algorithms for Envy-Free Stick Division With Fewest Cuts
+
+Given a set of n sticks of various (not necessarily different) lengths, what is the largest length so that we can cut k equally long pieces of this length from the given set of sticks? We analyze the structure of this problem and show that it essentially reduces to a single call of a selection algorithm; we thus obtain an optimal linear-time algorithm.
+  This algorithm also solves the related envy-free stick-division problem, which Segal-Halevi, Hassidim, and Aumann (AAMAS, 2015) recently used as their central primitive operation for the first discrete and bounded envy-free cake cutting protocol with a proportionality guarantee when pieces can be put to waste.

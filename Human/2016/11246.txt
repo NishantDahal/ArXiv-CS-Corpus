@@ -1,0 +1,3 @@
+On parametrized verification of asynchronous, shared-memory pushdown systems
+
+We consider the model of parametrized asynchronous shared-memory pushdown systems, as introduced in [Hague'11]. In a series of recent papers it has been shown that reachability in this model is PSPACE-complete [Esparza, Ganty, Majumdar'13] and that liveness is decidable in NEXPTIME [Durand-Gasselin, Esparza, Ganty, Majumdar'15]. We show here that the liveness problem is PSPACE-complete. We also introduce the universal reachability problem. We show that it is decidable, and coNEXPTIME-complete. Finally, using these results, we prove that the verifying regular properties of traces of executions, satisfying some stuttering condition, is also decidable in NEXPTIME for this model.

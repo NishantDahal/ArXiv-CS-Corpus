@@ -1,0 +1,3 @@
+Typed Linear Algebra for Efficient Analytical Querying
+
+This paper uses typed linear algebra (LA) to represent data and perform analytical querying in a single, unified framework. The typed approach offers strong type checking (as in modern programming languages) and a diagrammatic way of expressing queries (paths in LA diagrams). A kernel of LA operators has been implemented so that paths extracted from LA diagrams can be executed. The approach is validated and evaluated taking TPC-H benchmark queries as reference. The performance of the LA-based approach is compared with popular database competitors (PostgreSQL and MySQL).

@@ -1,0 +1,3 @@
+Irregular Fractional Repetition Code Optimization for Heterogeneous Cloud Storage
+
+This paper presents a flexible irregular model for heterogeneous cloud storage systems and investigates how the cost of repairing failed nodes can be minimized. The fractional repetition code, originally designed for minimizing repair bandwidth for homogeneous storage systems, is generalized to the irregular fractional repetition code, which is adaptable to heterogeneous environments. The code structure and the associated storage allocation can be obtained by solving an integer linear programming problem. For moderate sized networks, a heuristic algorithm is proposed and shown to be near-optimal by computer simulations.

@@ -1,0 +1,3 @@
+Application of classical compilation techniques for syntactic and semantic analysis of specification written in Object Z
+
+Building a parser for a formal specification language such as Object Z is not an easy task. Indeed, it requires a double competence both in the compilation field than in the field of formal specification. In this paper, we first present some tools for analyzing specifications written in Z and Object Z by showing the characteristics of each. Then, we identify some common semantic constraints in Object Z. Finally, we propose an approach for building a parser for Object Z based on the conventional techniques of compilation.

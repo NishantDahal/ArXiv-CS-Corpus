@@ -1,0 +1,4 @@
+k-Connectivity in the Semi-Streaming Model
+
+We present the first semi-streaming algorithms to determine k-connectivity of an undirected graph with k being any constant. The semi-streaming model for graph algorithms was introduced by Muthukrishnan in 2003 and turns out to be useful when dealing with massive graphs streamed in from an external storage device.
+  Our two semi-streaming algorithms each compute a sparse subgraph of an input graph G and can use this subgraph in a postprocessing step to decide k-connectivity of G. To this end the first algorithm reads the input stream only once and uses time O(k^2*n) to process each input edge. The second algorithm reads the input k+1 times and needs time O(k+alpha(n)) per input edge. Using its constructed subgraph the second algorithm can also generate all l-separators of the input graph for all l<k.

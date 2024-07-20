@@ -1,0 +1,3 @@
+Face R-CNN
+
+Faster R-CNN is one of the most representative and successful methods for object detection, and has been becoming increasingly popular in various objection detection applications. In this report, we propose a robust deep face detection approach based on Faster R-CNN. In our approach, we exploit several new techniques including new multi-task loss function design, online hard example mining, and multi-scale training strategy to improve Faster R-CNN in multiple aspects. The proposed approach is well suited for face detection, so we call it Face R-CNN. Extensive experiments are conducted on two most popular and challenging face detection benchmarks, FDDB and WIDER FACE, to demonstrate the superiority of the proposed approach over state-of-the-arts.

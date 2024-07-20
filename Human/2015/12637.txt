@@ -1,0 +1,3 @@
+Linear-Vertex Kernel for the Problem of Packing $r$-Stars into a Graph without Long Induced Paths
+
+Let integers $r\ge 2$ and $d\ge 3$ be fixed. Let ${\cal G}_d$ be the set of graphs with no induced path on $d$ vertices. We study the problem of packing $k$ vertex-disjoint copies of $K_{1,r}$ ($k\ge 2$) into a graph $G$ from parameterized preprocessing, i.e., kernelization, point of view. We show that every graph $G\in {\cal G}_d$ can be reduced, in polynomial time, to a graph $G'\in {\cal G}_d$ with $O(k)$ vertices such that $G$ has at least $k$ vertex-disjoint copies of $K_{1,r}$ if and only if $G'$ has. Such a result is known for arbitrary graphs $G$ when $r=2$ and we conjecture that it holds for every $r\ge 2$.

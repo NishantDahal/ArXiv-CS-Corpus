@@ -1,0 +1,3 @@
+Verbesserung von OS- und Service-Fingerprinting mittels Fuzzing
+
+Fingerprinting of services and operating systems is an essential part of penetration tests. In order to successfully penetrate the computing system's security measurements, preexisting fingerprinting methods are described and the paradigm of fingerprinting with mutation-based fuzzing is established. A case study about operating system and FTP server fingerprinting is presented whereby the feasibility of the approach is demonstrated. The research results show that the developed tools can be used for even more precise fingerprinting than the preexisting tools.

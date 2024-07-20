@@ -1,0 +1,5 @@
+An average-case depth hierarchy theorem for Boolean circuits
+
+We prove an average-case depth hierarchy theorem for Boolean circuits over the standard basis of $\mathsf{AND}$, $\mathsf{OR}$, and $\mathsf{NOT}$ gates. Our hierarchy theorem says that for every $d \geq 2$, there is an explicit $n$-variable Boolean function $f$, computed by a linear-size depth-$d$ formula, which is such that any depth-$(d-1)$ circuit that agrees with $f$ on $(1/2 + o_n(1))$ fraction of all inputs must have size $\exp({n^{Ω(1/d)}}).$ This answers an open question posed by Håstad in his Ph.D. thesis.
+  Our average-case depth hierarchy theorem implies that the polynomial hierarchy is infinite relative to a random oracle with probability 1, confirming a conjecture of Håstad, Cai, and Babai. We also use our result to show that there is no "approximate converse" to the results of Linial, Mansour, Nisan and Boppana on the total influence of small-depth circuits, thus answering a question posed by O'Donnell, Kalai, and Hatami.
+  A key ingredient in our proof is a notion of \emph{random projections} which generalize random restrictions.

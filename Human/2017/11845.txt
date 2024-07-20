@@ -1,0 +1,3 @@
+Sparse Rational Function Interpolation with Finitely Many Values for the Coefficients
+
+In this paper, we give new sparse interpolation algorithms for black box univariate and multivariate rational functions h=f/g whose coefficients are integers with an upper bound. The main idea is as follows: choose a proper integer beta and let h(beta) = a/b with gcd(a,b)=1. Then f and g can be computed by solving the polynomial interpolation problems f(beta)=ka and g(beta)=ka for some integer k. It is shown that the univariate interpolation algorithm is almost optimal and multivariate interpolation algorithm has low complexity in T but the data size is exponential in n.

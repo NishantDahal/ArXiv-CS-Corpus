@@ -1,0 +1,4 @@
+T-Shape Visibility Representations of 1-Planar Graphs
+
+A shape visibility representation displays a graph so that each vertex is represented by an orthogonal polygon of a particular shape and for each edge there is a horizontal or vertical line of sight between the polygons assigned to its endvertices. Special shapes are rectangles, L, T, E and H-shapes, and caterpillars. A flat rectangle is a horizontal bar of height $ε>0$. A graph is 1-planar if there is a drawing in the plane such that each edge is crossed at most once and is IC-planar if in addition no two crossing edges share a vertex.
+  We show that every IC-planar graph has a flat rectangle visibility representation and that every 1-planar graph has a T-shape visibility representation. The representations use quadratic area and can be computed in linear time from a given embedding.

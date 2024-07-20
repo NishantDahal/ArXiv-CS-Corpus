@@ -1,0 +1,3 @@
+An algorithm for multipication of Kaluza numbers
+
+This paper presents the derivation of a new algorithm for multiplying of two Kaluza numbers. Performing this operation directly requires 1024 real multiplications and 992 real additions. The proposed algorithm can compute the same result with only 512 real multiplications and 576 real additions. The derivation of our algorithm is based on utilizing the fact that multiplication of two Kaluza numbers can be expressed as a matrixvector product. The matrix multiplicand that participates in the product calculating has unique structural properties. Namely exploitation of these specific properties leads to significant reducing of the complexity of Kaluza numbers multiplication.

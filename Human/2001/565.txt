@@ -1,0 +1,3 @@
+Upgrade of Spring-8 Beamline Network with Vlan Technology Over Gigabit Ethernet
+
+The beamline network system at SPring-8 consists of three LANs; a BL-LAN for beamline component control, a BL-USER-LAN for beamline experimental users and an OA-LAN for the information services. These LANs are interconnected by a firewall system. Since the network traffic and the number of beamlines have increased, we upgraded the backbone of BL-USER-LAN from Fast Ethernet to Gigabit Ethernet. And then, to establish the independency of a beamline and to raise flexibility of every beamline, we also introduced the IEEE802.1Q Virtual LAN (VLAN) technology into the BL-USER-LAN. We discuss here a future plan to build the firewall system with hardware load balancers.

@@ -1,0 +1,3 @@
+Triggered Clause Pushing for IC3
+
+We propose an improvement of the famous IC3 algorithm for model checking safety properties of finite state systems. We collect models computed by the SAT-solver during the clause propagation phase of the algorithm and use them as witnesses for why the respective clauses could not be pushed forward. It only makes sense to recheck a particular clause for pushing when its witnessing model falsifies a newly added clause. Since this trigger test is both computationally cheap and sufficiently precise, we can afford to keep clauses pushed as far as possible at all times. Experiments indicate that this strategy considerably improves IC3's performance.

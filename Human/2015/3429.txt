@@ -1,0 +1,3 @@
+Restricted density classification in one dimension
+
+The density classification task is to determine which of the symbols appearing in an array has the majority. A cellular automaton solving this task is required to converge to a uniform configuration with the majority symbol at each site. It is not known whether a one-dimensional cellular automaton with binary alphabet can classify all Bernoulli random configurations almost surely according to their densities. We show that any cellular automaton that washes out finite islands in linear time classifies all Bernoulli random configurations with parameters close to 0 or 1 almost surely correctly. The proof is a direct application of a "percolation" argument which goes back to Gacs (1986).

@@ -1,0 +1,3 @@
+Worst-Case Analysis of Weber's Algorithm
+
+Recently, Ken Weber introduced an algorithm for finding the $(a,b)$-pairs satisfying $au+bv\equiv 0\pmod{k}$, with $0<|a|,|b|<\sqrt{k}$, where $(u,k)$ and $(v,k)$ are coprime. It is based on Sorenson's and Jebelean's "$k$-ary reduction" algorithms. We provide a formula for $N(k)$, the maximal number of iterations in the loop of Weber's GCD algorithm.

@@ -1,0 +1,3 @@
+An Elementary Fragment of Second-Order Lambda Calculus
+
+A fragment of second-order lambda calculus (System F) is defined that characterizes the elementary recursive functions. Type quantification is restricted to be non-interleaved and stratified, i.e., the types are assigned levels, and a quantified variable can only be instantiated by a type of smaller level, with a slightly liberalized treatment of the level zero.

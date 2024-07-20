@@ -1,0 +1,3 @@
+Artificial Neural Network and Rough Set for HV Bushings Condition Monitoring
+
+Most transformer failures are attributed to bushings failures. Hence it is necessary to monitor the condition of bushings. In this paper three methods are developed to monitor the condition of oil filled bushing. Multi-layer perceptron (MLP), Radial basis function (RBF) and Rough Set (RS) models are developed and combined through majority voting to form a committee. The MLP performs better that the RBF and the RS is terms of classification accuracy. The RBF is the fasted to train. The committee performs better than the individual models. The diversity of models is measured to evaluate their similarity when used in the committee.

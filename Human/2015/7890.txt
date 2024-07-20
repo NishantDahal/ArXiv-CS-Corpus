@@ -1,0 +1,3 @@
+A GPU-based parallel algorithm for enumerating all chordless cycles in graphs
+
+In a finite undirected simple graph, a chordless cycle is an induced subgraph which is a cycle. We propose a GPU parallel algorithm for enumerating all chordless cycles of such a graph. The algorithm, implemented in OpenCL, is based on a previous sequential algorithm developed by the current authors for the same problem. It uses a more compact data structure for solution representation which is suitable for the memory-size limitation of a GPU. Moreover, for graphs with a sufficiently large amount of chordless cycles, the algorithm presents a significant improvement in execution time that outperforms the sequential method.

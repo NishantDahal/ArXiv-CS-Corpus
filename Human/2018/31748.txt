@@ -1,0 +1,3 @@
+Reliable Broadcast in Dynamic Networks with Locally Bounded Byzantine Failures
+
+Ensuring reliable communication despite possibly malicious participants is a primary objective in any distributed system or network. In this paper, we investigate the possibility of reliable broadcast in a dynamic network whose topology may evolve while the broadcast is in progress. In particular, we adapt the Certified Propagation Algorithm (CPA) to make it work on dynamic networks and we present conditions (on the underlying dynamic graph) to enable safety and liveness properties of the reliable broadcast. We furthermore explore the complexity of assessing these conditions for various classes of dynamic networks.

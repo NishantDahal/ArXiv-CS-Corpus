@@ -1,0 +1,3 @@
+Event Systems and Access Control
+
+We consider the interpretations of notions of access control (permissions, interdictions, obligations, and user rights) as run-time properties of information systems specified as event systems with fairness. We give proof rules for verifying that an access control policy is enforced in a system, and consider preservation of access control by refinement of event systems. In particular, refinement of user rights is non-trivial; we propose to combine low-level user rights and system obligations to implement high-level user rights.

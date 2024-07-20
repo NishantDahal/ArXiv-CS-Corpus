@@ -1,0 +1,3 @@
+A mass-flow MILP formulation for energy-efficient supplying in assembly lines
+
+This paper focuses on the problem of supplying the workstations of assembly lines with components during the production process. For that specific problem, this paper presents a Mixed Integer Linear Program (MILP) that aims at minimizing the energy consumption of the supplying strategy. More specifically, in contrast of the usual formulations that only consider component flows, this MILP handles the mass flow that are routed from one workstation to the other.

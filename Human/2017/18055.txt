@@ -1,0 +1,3 @@
+On Dynamic Precision Scaling
+
+Based on the observation that application phases exhibit varying degrees of sensitivity to noise (i.e., accuracy loss) in computation during execution, this paper explores how Dynamic Precision Scaling (DPS) can maximize power efficiency by tailoring the precision of computation adaptively to temporal changes in algorithmic noise tolerance. DPS can decrease the arithmetic precision of noise-tolerant phases to result in power savings at the same operating speed (or faster execution within the same power budget), while keeping the overall loss in accuracy due to precision reduction bounded.

@@ -1,0 +1,3 @@
+Optimal Test Sets for Context-Free Languages
+
+A test set for a formal language (set of strings) L is a subset T of L such that for any two string homomorphisms f and g defined on L, if the restrictions of f and g on T are identical functions, then f and g are identical on the entire L. Previously, it was shown that there are context-free grammars for which smallest test sets are cubic in the size of the grammar, which gives a lower bound on tests set size. Existing upper bounds were higher degree polynomials; we here give the first algorithm to compute test sets of cubic size for all context-free grammars, settling the gap between the upper and lower bound.

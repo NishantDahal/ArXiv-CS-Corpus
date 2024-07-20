@@ -1,0 +1,3 @@
+Fast cosine transform for FCC lattices
+
+Voxel representation and processing is an important issue in a broad spectrum of applications. E.g., 3D imaging in biomedical engineering applications, video game development and volumetric displays are often based on data representation by voxels. By replacing the standard sampling lattice with a face-centered lattice one can obtain the same sampling density with less sampling points and reduce aliasing error, as well. We introduce an analog of the discrete cosine transform for the facecentered lattice relying on multivariate Chebyshev polynomials. A fast algorithm for this transform is deduced based on algebraic signal processing theory and the rich geometry of the special unitary Lie group of degree four.

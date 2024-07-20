@@ -1,0 +1,3 @@
+Approximation of dynamical systems using S-systems theory : application to biological systems
+
+In this paper we propose a new symbolic-numeric algorithm to find positive equilibria of a n-dimensional dynamical system. This algorithm implies a symbolic manipulation of ODE in order to give a local approximation of differential equations with power-law dynamics (S-systems). A numerical calculus is then needed to converge towards an equilibrium, giving at the same time a S-system approximating the initial system around this equilibrium. This algorithm is applied to a real biological example in 14 dimensions which is a subsystem of a metabolic pathway in Arabidopsis Thaliana.

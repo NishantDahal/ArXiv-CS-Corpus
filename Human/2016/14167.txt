@@ -1,0 +1,3 @@
+Relation-Changing Logics as Fragments of Hybrid Logics
+
+Relation-changing modal logics are extensions of the basic modal logic that allow changes to the accessibility relation of a model during the evaluation of a formula. In particular, they are equipped with dynamic modalities that are able to delete, add, and swap edges in the model, both locally and globally.  We provide translations from these logics to hybrid logic along with an implementation. In general, these logics are undecidable, but we use our translations to identify decidable fragments. We also compare the expressive power of relation-changing modal logics with hybrid logics.

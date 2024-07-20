@@ -1,0 +1,3 @@
+Effectiveness and detection of denial of service attacks in Tor
+
+Tor is currently one of the more popular systems for anonymizing near real-time communications on the Internet. Recently, Borisov et al. proposed a denial of service based attack on Tor (and related systems) that significantly increases the probability of compromising the anonymity provided. In this paper, we analyze the effectiveness of the attack using both an analytic model and simulation. We also describe two algorithms for detecting such attacks, one deterministic and proved correct, the other probabilistic and verified in simulation.

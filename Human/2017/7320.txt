@@ -1,0 +1,4 @@
+Optimizing Communication by Compression for Multi-GPU Scalable Breadth-First Searches
+
+The Breadth First Search (BFS) algorithm is the foundation and building block of many higher graph-based operations such as spanning trees, shortest paths and betweenness centrality. The importance of this algorithm increases each day due to it is a key requirement for many data structures which are becoming popular nowadays. When the BFS algorithm is parallelized by distributing the graph between several processors the interconnection network limits the performance. Hence, improvements on this area may benefit the overall performance of the algorithm.
+  This work presents an alternative compression scheme for communications in distributed BFS processing. It focuses on BFS processors using General-Purpose Graphics Processing Units.

@@ -1,0 +1,4 @@
+Analyzing the Performance of LRU Caches under Non-Stationary Traffic Patterns
+
+This work presents, to the best of our knowledge of the literature, the first analytic model to address the performance of an LRU (Least Recently Used) implementing cache under non-stationary traffic conditions, i.e., when the popularity of content evolves with time. We validate the accuracy of the model using Monte Carlo simulations. We show that the model is capable of accurately estimating the cache hit probability, when the popularity of content is non-stationary.
+  We find that there exists a dependency between the performance of an LRU implementing cache and i) the lifetime of content in a system, ii) the volume of requests associated with it, iii) the distribution of content request volumes and iv) the shape of the popularity profile over time.

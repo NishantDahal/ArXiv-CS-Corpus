@@ -1,0 +1,5 @@
+A unified approach to construct snarks with circular flow number 5
+
+The well-known 5-flow Conjecture of Tutte, stated originally for integer flows, claims that every bridgeless graph has circular flow number at most 5. It is a classical result that the study of the 5-flow Conjecture can be reduced to cubic graphs, in particular to snarks. However, very few procedures to construct snarks with circular flow number 5 are known.
+  In the first part of this paper, we summarise some of these methods and we propose new ones based on variations of the known constructions. Afterwards, we prove that all such methods are nothing but particular instances of a more general construction that we introduce into detail.
+  In the second part, we consider many instances of this general method and we determine when our method permits to obtain a snark with circular flow number 5. Finally, by a computer search, we determine all snarks having circular flow number 5 up to 36 vertices. It turns out that all such snarks of order at most 34 can be obtained by using our method, and that the same holds for 96 of the 98 snarks of order 36 with circular flow number 5.

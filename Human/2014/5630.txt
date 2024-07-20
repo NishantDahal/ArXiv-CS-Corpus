@@ -1,0 +1,3 @@
+Streaming Kernelization
+
+Kernelization is a formalization of preprocessing for combinatorially hard problems. We modify the standard definition for kernelization, which allows any polynomial-time algorithm for the preprocessing, by requiring instead that the preprocessing runs in a streaming setting and uses $\mathcal{O}(poly(k)\log|x|)$ bits of memory on instances $(x,k)$. We obtain several results in this new setting, depending on the number of passes over the input that such a streaming kernelization is allowed to make. Edge Dominating Set turns out as an interesting example because it has no single-pass kernelization but two passes over the input suffice to match the bounds of the best standard kernelization.

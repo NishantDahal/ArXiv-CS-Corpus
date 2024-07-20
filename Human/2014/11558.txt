@@ -1,0 +1,3 @@
+A Formal Approach to Distributed System Tests Design
+
+Deployment of distributed systems sets high requirements for procedures and tools for the complex testing of these systems. This work introduces a formal four-layered model for test generation mission on the basis of the component-based approach and the concept of layered networks. Based on this model, we describe the test generation strategy that covers every interaction from the end-user requirements on all coexisting architectural layers, and checks the internal consistency of the system technical specifications with respect to the end-user requirements. The next step introduces the Prolog-based approach to representing this model and the requirements-coverage strategy

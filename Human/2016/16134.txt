@@ -1,0 +1,4 @@
+Hardening Cassandra Against Byzantine Failures
+
+Cassandra is one of the most widely used distributed data stores these days. Cassandra supports flexible consistency guarantees over a wide-column data access model and provides almost linear scale-out performance. This enables application developers to tailor the performance and availability of Cassandra to their exact application's needs and required semantics. Yet, Cassandra is designed to withstand benign failures, and cannot cope with most forms of Byzantine attacks.
+  In this work, we present an analysis of Cassandra's vulnerabilities and propose protocols for hardening Cassandra against Byzantine failures. We examine several alternative design choices and compare between them both qualitatively and empirically by using the Yahoo! Cloud Serving Benchmark (YCSB) performance benchmark. We include incremental performance analysis for our algorithmic and cryptographic adjustments, supporting our design choices.

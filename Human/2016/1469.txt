@@ -1,0 +1,3 @@
+Approximation Complexity of Max-Cut on Power Law Graphs
+
+In this paper we study the MAX-CUT problem on power law graphs (PLGs) with power law exponent $β$. We prove some new approximability results on that problem. In particular we show that there exist polynomial time approximation schemes (PTAS) for MAX-CUT on PLGs for the power law exponent $β$ in the interval $(0,2)$. For $β>2$ we show that for some $ε>0$, MAX-CUT is NP-hard to approximate within approximation ratio $1+ε$, ruling out the existence of a PTAS in this case. Moreover we give an approximation algorithm with improved constant approximation ratio for the case of $β>2$.

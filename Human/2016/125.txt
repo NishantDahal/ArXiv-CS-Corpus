@@ -1,0 +1,3 @@
+Privacy-Aware MMSE Estimation
+
+We investigate the problem of the predictability of random variable $Y$ under a privacy constraint dictated by random variable $X$, correlated with $Y$, where both predictability and privacy are assessed in terms of the minimum mean-squared error (MMSE). Given that $X$ and $Y$ are connected via a binary-input symmetric-output (BISO) channel, we derive the \emph{optimal} random mapping $P_{Z|Y}$ such that the MMSE of $Y$ given $Z$ is minimized while the MMSE of $X$ given $Z$ is greater than $(1-ε)\mathsf{var}(X)$ for a given $ε\geq 0$. We also consider the case where $(X,Y)$ are continuous and $P_{Z|Y}$ is restricted to be an additive noise channel.

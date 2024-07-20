@@ -1,0 +1,3 @@
+Data Language Specification via Terminal Attribution
+
+Unstructured data have to be parsed in order to become usable. The complexity of grammar notations and the difficulty of grammar debugging limit the use of parsers for data preprocessing. We introduce a notation in which grammars are defined by simply dividing terminals into predefined classes and then splitting elements of some classes into multiple layered sub-groups. These LL(1) grammars are designed for data languages. They simplify the task of developing data parsers.

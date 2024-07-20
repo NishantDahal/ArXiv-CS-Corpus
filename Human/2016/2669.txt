@@ -1,0 +1,3 @@
+Flexible and Low-Complexity Encoding and Decoding of Systematic Polar Codes
+
+In this work, we present hardware and software implementations of flexible polar systematic encoders and decoders. The proposed implementations operate on polar codes of any length less than a maximum and of any rate. We describe the low-complexity, highly parallel, and flexible systematic-encoding algorithm that we use and prove its correctness. Our hardware implementation results show that the overhead of adding code rate and length flexibility is little, and the impact on operation latency minor compared to code-specific versions. Finally, the flexible software encoder and decoder implementations are also shown to be able to maintain high throughput and low latency.

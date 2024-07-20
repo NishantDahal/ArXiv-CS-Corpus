@@ -1,0 +1,3 @@
+Multi-Threaded Actors
+
+In this paper we introduce a new programming model of multi-threaded actors which feature the parallel processing of their messages. In this model an actor consists of a group of active objects which share a message queue. We provide a formal operational semantics, and a description of a Java-based implementation for the basic programming abstractions describing multi-threaded  actors. Finally, we evaluate our proposal by means of an example application.

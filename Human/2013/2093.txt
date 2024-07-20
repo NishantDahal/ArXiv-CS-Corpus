@@ -1,0 +1,3 @@
+Sparse MRI for motion correction
+
+MR image sparsity/compressibility has been widely exploited for imaging acceleration with the development of compressed sensing. A sparsity-based approach to rigid-body motion correction is presented for the first time in this paper. A motion is sought after such that the compensated MR image is maximally sparse/compressible among the infinite candidates. Iterative algorithms are proposed that jointly estimate the motion and the image content. The proposed method has a lot of merits, such as no need of additional data and loose requirement for the sampling sequence. Promising results are presented to demonstrate its performance.

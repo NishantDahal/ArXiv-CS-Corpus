@@ -1,0 +1,4 @@
+Approximating (Unweighted) Tree Augmentation via Lift-and-Project, Part II
+
+In Part II, we study the unweighted Tree Augmentation Problem (TAP) via the Lasserre (Sum~of~Squares) system. We prove that the integrality ratio of an SDP relaxation (the Lasserre tightening of an LP relaxation) is $\leq \frac{3}{2}+ε$, where $ε>0$ can be any small constant. We obtain this result by designing a polynomial-time algorithm for TAP that achieves an approximation guarantee of ($\frac32+ε$) relative to the SDP relaxation. The algorithm is combinatorial and does not solve the SDP relaxation, but our analysis relies on the SDP relaxation.
+  We generalize the combinatorial analysis of integral solutions from the previous literature to fractional solutions by identifying some properties of fractional solutions of the Lasserre system via the decomposition result of Karlin, Mathieu and Nguyen (IPCO 2011).

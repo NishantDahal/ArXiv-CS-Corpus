@@ -1,0 +1,3 @@
+Fault Detection for RC4 Algorithm and its Implementation on FPGA Platform
+
+In hardware implementation of a cryptographic algorithm, one may achieve leakage of secret information by creating scopes to introduce controlled faulty bit(s) even though the algorithm is mathematically a secured one. The technique is very effective in respect of crypto processors embedded in smart cards. In this paper few fault detecting architectures for RC4 algorithm are designed and implemented on Virtex5(ML505, LX110t) FPGA board. The results indicate that the proposed architectures can handle most of the faults without loss of throughput consuming marginally additional hardware and power.

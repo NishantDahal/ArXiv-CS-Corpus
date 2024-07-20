@@ -1,0 +1,3 @@
+Arabic documents classification using fuzzy R.B.F. classifier with sliding window
+
+In this paper, we propose a system for contextual and semantic Arabic documents classification by improving the standard fuzzy model. Indeed, promoting neighborhood semantic terms that seems absent in this model by using a radial basis modeling. In order to identify the relevant documents to the query. This approach calculates the similarity between related terms by determining the relevance of each relative to documents (NEAR operator), based on a kernel function. The use of sliding window improves the process of classification. The results obtained on a arabic dataset of press show very good performance compared with the literature.

@@ -1,0 +1,3 @@
+A New Algorithm for Double Scalar Multiplication over Koblitz Curves
+
+Koblitz curves are a special set of elliptic curves and have improved performance in computing scalar multiplication in elliptic curve cryptography due to the Frobenius endomorphism. Double-base number system approach for Frobenius expansion has improved the performance in single scalar multiplication. In this paper, we present a new algorithm to generate a sparse and joint $τ$-adic representation for a pair of scalars and its application in double scalar multiplication. The new algorithm is inspired from double-base number system. We achieve 12% improvement in speed against state-of-the-art $τ$-adic joint sparse form.

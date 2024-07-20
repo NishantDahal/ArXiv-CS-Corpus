@@ -1,0 +1,11 @@
+Weak Models of Distributed Computing, with Connections to Modal Logic
+
+This work presents a classification of weak models of distributed computing. We focus on deterministic distributed algorithms, and study models of computing that are weaker versions of the widely-studied port-numbering model. In the port-numbering model, a node of degree d receives messages through d input ports and sends messages through d output ports, both numbered with 1,2,...,d. In this work, VVc is the class of all graph problems that can be solved in the standard port-numbering model. We study the following subclasses of VVc:
+  VV: Input port i and output port i are not necessarily connected to the same neighbour.
+  MV: Input ports are not numbered; algorithms receive a multiset of messages.
+  SV: Input ports are not numbered; algorithms receive a set of messages.
+  VB: Output ports are not numbered; algorithms send the same message to all output ports.
+  MB: Combination of MV and VB.
+  SB: Combination of SV and VB.
+  Now we have many trivial containment relations, such as SB \subseteq MB \subseteq VB \subseteq VV \subseteq VVc, but it is not obvious if, for example, either of VB \subseteq SV or SV \subseteq VB should hold. Nevertheless, it turns out that we can identify a linear order on these classes. We prove that SB \subsetneq MB = VB \subsetneq SV = MV = VV \subsetneq VVc. The same holds for the constant-time versions of these classes.
+  We also show that the constant-time variants of these classes can be characterised by a corresponding modal logic. Hence the linear order identified in this work has direct implications in the study of the expressibility of modal logic. Conversely, one can use tools from modal logic to study these classes.

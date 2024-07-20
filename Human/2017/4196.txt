@@ -1,0 +1,5 @@
+Optimally solving the joint order batching and picker routing problem
+
+In this work we investigate the problem of order batching and picker routing in storage areas. These are labour and capital intensive problems, often responsible for a substantial share of warehouse operating costs. In particular, we consider the case of online grocery shopping in which orders may be composed of dozens of items.
+  We present a formulation for the problem based on an exponential number of connectivity constraints and we introduce a significant number of valid inequalities based on the standard layout of warehouses, composed of parallel aisles and two or more cross-aisles. The proposed inequalities are highly effective and greatly improve computational results.
+  Instances involving up to 20 orders are solved to proven optimality when we jointly consider order batching and picker routing. Instances involving up to 5000 orders are considered where order batching is done heuristically, but picker routing is done optimally.

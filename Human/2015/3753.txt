@@ -1,0 +1,3 @@
+High-level Counterexamples for Probabilistic Automata
+
+Providing compact and understandable counterexamples for violated system properties is an essential task in model checking. Existing works on counterexamples for probabilistic systems so far computed either a large set of system runs or a subset of the system's states, both of which are of limited use in manual debugging. Many probabilistic systems are described in a guarded command language like the one used by the popular model checker PRISM. In this paper we describe how a smallest possible subset of the commands can be identified which together make the system erroneous. We additionally show how the selected commands can be further simplified to obtain a well-understandable counterexample.

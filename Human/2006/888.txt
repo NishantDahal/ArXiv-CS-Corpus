@@ -1,0 +1,3 @@
+Sharp threshold for hamiltonicity of random geometric graphs
+
+We show for an arbitrary $\ell_p$ norm that the property that a random geometric graph $\mathcal G(n,r)$ contains a Hamiltonian cycle exhibits a sharp threshold at $r=r(n)=\sqrt{\frac{\log n}{α_p n}}$, where $α_p$ is the area of the unit disk in the $\ell_p$ norm. The proof is constructive and yields a linear time algorithm for finding a Hamiltonian cycle of $\RG$ a.a.s., provided $r=r(n)\ge\sqrt{\frac{\log n}{(α_p -ε)n}}$ for some fixed $ε> 0$.

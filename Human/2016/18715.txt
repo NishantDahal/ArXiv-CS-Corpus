@@ -1,0 +1,3 @@
+An Estimation of the Size of Non-Compact Suffix Trees
+
+A suffix tree is a data structure used mainly for pattern matching. It is known that the space complexity of simple suffix trees is quadratic in the length of the string. By a slight modification of the simple suffix trees one gets the compact suffix trees, which have linear space complexity. The motivation of this paper is the question whether the space complexity of simple suffix trees is quadratic not only in the worst case, but also in expectation.

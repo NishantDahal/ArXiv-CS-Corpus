@@ -1,0 +1,3 @@
+Image encryption with dynamic chaotic Look-Up Table
+
+In this paper we propose a novel image encryption scheme. The proposed method is based on the chaos theory. Our cryptosystem uses the chaos theory to define a dynamic chaotic Look-Up Table (LUT) to compute the new value of the current pixel to cipher. Applying this process on each pixel of the plain image, we generate the encrypted image. The results of different experimental tests, such as Key space analysis, Information Entropy and Histogram analysis, show that the proposed encryption image scheme seems to be protected against various attacks. A comparison between the plain and encrypted image, in terms of correlation coefficient, proves that the plain image is very different from the encrypted one.

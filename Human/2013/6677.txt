@@ -1,0 +1,3 @@
+h-approximation: History-Based Approximation of Possible World Semantics as ASP
+
+We propose an approximation of the Possible Worlds Semantics (PWS) for action planning. A corresponding planning system is implemented by a transformation of the action specification to an Answer-Set Program. A novelty is support for postdiction wrt. (a) the plan existence problem in our framework can be solved in NP, as compared to $Σ_2^P$ for non-approximated PWS of Baral(2000); and (b) the planner generates optimal plans wrt. a minimal number of actions in $Δ_2^P$. We demo the planning system with standard problems, and illustrate its integration in a larger software framework for robot control in a smart home.

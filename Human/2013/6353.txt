@@ -1,0 +1,3 @@
+Compressive Time Delay Estimation Using Interpolation
+
+Time delay estimation has long been an active area of research. In this work, we show that compressive sensing with interpolation may be used to achieve good estimation precision while lowering the sampling frequency. We propose an Interpolating Band-Excluded Orthogonal Matching Pursuit algorithm that uses one of two interpolation functions to estimate the time delay parameter. The numerical results show that interpolation improves estimation precision and that compressive sensing provides an elegant tradeoff that may lower the required sampling frequency while still attaining a desired estimation performance.

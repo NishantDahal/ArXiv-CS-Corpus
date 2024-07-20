@@ -1,0 +1,3 @@
+Signalling and obfuscation for congestion control
+
+We aim to reduce the social cost of congestion in many smart city applications. In our model of congestion, agents interact over limited resources after receiving signals from a central agent that observes the state of congestion in real time. Under natural models of agent populations, we develop new signalling schemes and show that by introducing a non-trivial amount of uncertainty in the signals, we reduce the social cost of congestion, i.e., improve social welfare. The signalling schemes are efficient in terms of both communication and computation, and are consistent with past observations of the congestion. Moreover, the resulting population dynamics converge under reasonable assumptions.

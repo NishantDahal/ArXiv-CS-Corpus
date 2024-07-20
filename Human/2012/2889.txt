@@ -1,0 +1,3 @@
+Decoder for Nonbinary CWS Quantum Codes
+
+We present a decoder for nonbinary CWS quantum codes using the structure of union codes. The decoder runs in two steps: first we use a union of stabilizer codes to detect a sequence of errors, and second we build a new code, called union code, that allows to correct the errors.

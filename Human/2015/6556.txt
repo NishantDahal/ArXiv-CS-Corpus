@@ -1,0 +1,3 @@
+Distinct volume subsets
+
+Suppose that $a$ and $d$ are positive integers with $a \geq 2$. Let $h_{a,d}(n)$ be the largest integer $t$ such that any set of $n$ points in $\mathbb{R}^d$ contains a subset of $t$ points for which all the non-zero volumes of the ${t \choose a}$ subsets of order $a$ are distinct. Beginning with Erdős in 1957, the function $h_{2,d}(n)$ has been closely studied and is known to be at least a power of $n$. We improve the best known bound for $h_{2,d}(n)$ and show that $h_{a,d}(n)$ is at least a power of $n$ for all $a$ and $d$.

@@ -1,0 +1,4 @@
+Formulas as Programs
+
+We provide here a computational interpretation of first-order logic based on a constructive interpretation of satisfiability w.r.t. a fixed but arbitrary interpretation. In this approach the formulas themselves are programs. This contrasts with the so-called formulas as types approach in which the proofs of the formulas are typed terms that can be taken as programs. This view of computing is inspired by logic programming and constraint logic programming but differs from them in a number of crucial aspects.
+  Formulas as programs is argued to yield a realistic approach to programming that has been realized in the implemented programming language ALMA-0 (Apt et al.) that combines the advantages of imperative and logic programming. The work here reported can also be used to reason about the correctness of non-recursive ALMA-0 programs that do not include destructive assignment.

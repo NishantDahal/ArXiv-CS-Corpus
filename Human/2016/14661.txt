@@ -1,0 +1,3 @@
+Separability of Reachability Sets of Vector Addition Systems
+
+Given two families of sets $\mathcal{F}$ and $\mathcal{G}$, the $\mathcal{F}$ separability problem for $\mathcal{G}$ asks whether for two given sets $U, V \in \mathcal{G}$ there exists a set $S \in \mathcal{F}$, such that $U$ is included in $S$ and $V$ is disjoint with $S$. We consider two families of sets $\mathcal{F}$: modular sets $S \subseteq \mathbb{N}^d$, defined as unions of equivalence classes modulo some natural number $n \in \mathbb{N}$, and unary sets. Our main result is decidability of modular and unary separability for the class $\mathcal{G}$ of reachability sets of Vector Addition Systems, Petri Nets, Vector Addition Systems with States, and for sections thereof.

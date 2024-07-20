@@ -1,0 +1,3 @@
+Camera Elevation Estimation from a Single Mountain Landscape Photograph
+
+This work addresses the problem of camera elevation estimation from a single photograph in an outdoor environment. We introduce a new benchmark dataset of one-hundred thousand images with annotated camera elevation called Alps100K. We propose and experimentally evaluate two automatic data-driven approaches to camera elevation estimation: one based on convolutional neural networks, the other on local features. To compare the proposed methods to human performance, an experiment with 100 subjects is conducted. The experimental results show that both proposed approaches outperform humans and that the best result is achieved by their combination.

@@ -1,0 +1,4 @@
+Identity Testing and Interpolation from High Powers of Polynomials of Large Degree over Finite Fields
+
+We consider the problem of identity testing and recovering (that is, interpolating) of a "hidden" monic polynomials $f$, given an oracle access to $f(x)^e$ for $x\in\mathbb F_q$, where $\mathbb F_q$ is the finite field of $q$ elements and an extension fields access is not permitted.
+  The naive interpolation algorithm needs $de+1$ queries, where $d =\max\{{\rm deg}\ f, {\rm deg }\ g\}$ and thus requires $ de<q$. For a prime $q = p$, we design an algorithm that is asymptotically better in certain cases, especially when $d$ is large. The algorithm is based on a result of independent interest in spirit of additive combinatorics. It gives an upper bound on the number of values of a rational function of large degree, evaluated on a short sequence of consecutive integers, that belong to a small subgroup of $\mathbb F_p^*$.

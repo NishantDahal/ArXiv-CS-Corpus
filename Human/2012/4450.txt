@@ -1,0 +1,3 @@
+Nonuniform Vote Aggregation Algorithms
+
+We consider the problem of non-uniform vote aggregation, and in particular, the algorithmic aspects associated with the aggregation process. For a novel class of weighted distance measures on votes, we present two different aggregation methods. The first algorithm is based on approximating the weighted distance measure by Spearman's footrule distance, with provable constant approximation guarantees. The second algorithm is based on a non-uniform Markov chain method inspired by PageRank, for which currently only heuristic guarantees are known. We illustrate the performance of the proposed algorithms on a number of distance measures for which the optimal solution may be easily computed.

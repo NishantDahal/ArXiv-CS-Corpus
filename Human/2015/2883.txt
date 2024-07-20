@@ -1,0 +1,3 @@
+Improving Runtime Overheads for detectEr
+
+We design monitor optimisations for detectEr, a runtime-verification tool synthesising systems of concurrent monitors from correctness properties for Erlang programs. We implement these optimisations as part of the existing tool and show that they yield considerably lower runtime overheads when compared to the unoptimised monitor synthesis.

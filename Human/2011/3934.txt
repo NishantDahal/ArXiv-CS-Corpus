@@ -1,0 +1,3 @@
+Rule-based query answering method for a knowledge base of economic crimes
+
+We present a description of the PhD thesis which aims to propose a rule-based query answering method for relational data. In this approach we use an additional knowledge which is represented as a set of rules and describes the source data at concept (ontological) level. Queries are posed in the terms of abstract level. We present two methods. The first one uses hybrid reasoning and the second one exploits only forward chaining. These two methods are demonstrated by the prototypical implementation of the system coupled with the Jess engine. Tests are performed on the knowledge base of the selected economic crimes: fraudulent disbursement and money laundering.

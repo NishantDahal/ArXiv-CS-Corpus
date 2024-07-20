@@ -1,0 +1,3 @@
+A New Perspective on FO Model Checking of Dense Graph Classes
+
+We study the first-order (FO) model checking problem of dense graphs, namely those which have FO interpretations in (or are FO transductions of) some sparse graph classes. We give a structural characterization of the graph classes which are FO interpretable in graphs of bounded degree. This characterization allows us to efficiently compute such an FO interpretation for an input graph. As a consequence, we obtain an FPT algorithm for successor-invariant FO model checking of any graph class which is FO interpretable in (or an FO transduction of) a graph class of bounded degree. The approach we use to obtain these results may also be of independent interest.

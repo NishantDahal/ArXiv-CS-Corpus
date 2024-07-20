@@ -1,0 +1,3 @@
+Upper-Bounding Proof Length with the Busy Beaver
+
+Consider a short theorem, i.e. one that can be written down using just a few symbols. Can its shortest proof be arbitrarily long? We answer this question in the negative. Inspired by arguments by Calude et al (1999) and Chaitin (1984) that construct an upper bound on the first counterexample of a $Π_1$ sentence as a function of the sentence's length, we present a similar argument about proof length for arbitrary statements. As with the above, our bound is uncomputable, since it uses a Busy Beaver oracle. Unlike the above, our result is not restricted to any complexity class. Finally, we combine the above search procedures into an automatic (albeit uncomputable) procedure for discovering Gödel sentences.

@@ -1,0 +1,3 @@
+Fitting Voronoi Diagrams to Planar Tesselations
+
+Given a tesselation of the plane, defined by a planar straight-line graph $G$, we want to find a minimal set $S$ of points in the plane, such that the Voronoi diagram associated with $S$ "fits" \ $G$. This is the Generalized Inverse Voronoi Problem (GIVP), defined in \cite{Trin07} and rediscovered recently in \cite{Baner12}. Here we give an algorithm that solves this problem with a number of points that is linear in the size of $G$, assuming that the smallest angle in $G$ is constant.

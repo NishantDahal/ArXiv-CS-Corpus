@@ -1,0 +1,4 @@
+Optimal probabilistic polynomial time compression and the Slepian-Wolf theorem: tighter version and simple proofs
+
+We give simplify the proofs of the 2 results in Marius Zimand's paper "Kolmogorov complexity version of Slepian-Wolf coding, proceedings of STOC 2017, p22--32". The first is a universal polynomial time compression algorithm: on input $\varepsilon > 0$, a number $k$ and a string $x$ it computes in polynomial time with probability $1-\varepsilon$ a program that outputs $x$ and has length $k + O(\log^2 (|x|/\varepsilon))$, provided that there exists such a program of length at most $k$. The second result, is a distributed compression algorithm, in which several parties each send some string to a common receiver. Marius Zimand proved a variant of the Slepian-Wolf theorem using Kolmogorov complexity (in stead of Shannon entropy).
+  With our simpler proof we improve the parameters of Zimand's result.

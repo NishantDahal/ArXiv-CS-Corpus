@@ -1,0 +1,4 @@
+Comparing 1D and 2D Real Time on Cellular Automata
+
+We study the influence of the dimension of cellular automata (CA) for real time language recognition of one-dimensional languages with parallel input. Specifically, we focus on the question of determining whether every language that can be recognized in real time on a 2-dimensional CA working on the Moore neighborhood can also be recognized in real time by a 1-dimensional CA working on the standard two-way neighborhood.
+  We show that 2-dimensional CA in real time can perform a linear number of simulations of a 1-dimensional real time CA. If the two classes are equal then the number of simulated instances can be polynomial.

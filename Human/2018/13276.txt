@@ -1,0 +1,3 @@
+A Tight Converse to the Spectral Resolution Limit via Convex Programming
+
+It is now well understood that convex programming can be used to estimate the frequency components of a spectrally sparse signal from $2m+1$ uniform temporal measurements. It is conjectured that a phase transition on the success of the total-variation regularization occurs when the distance between the spectral components of the signal to estimate crosses $1/m$. We prove the necessity part of this conjecture by demonstrating that this regularization can fail whenever the spectral distance of the signal of interest is asymptotically equal to $1/m$.

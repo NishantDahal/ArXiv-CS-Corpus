@@ -1,0 +1,3 @@
+Using Inhabitation in Bounded Combinatory Logic with Intersection Types for Composition Synthesis
+
+We describe ongoing work on a framework for automatic composition synthesis from a repository of software components. This work is based on combinatory logic with intersection types. The idea is that components are modeled as typed combinators, and an algorithm for inhabitation {\textemdash} is there a combinatory term e with type tau relative to an environment Gamma? {\textemdash} can be used to synthesize compositions. Here, Gamma represents the repository in the form of typed combinators, tau specifies the synthesis goal, and e is the synthesized program. We illustrate our approach by examples, including an application to synthesis from GUI-components.

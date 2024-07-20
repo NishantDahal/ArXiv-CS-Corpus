@@ -1,0 +1,4 @@
+Asynchronous iterations in ultrametric spaces
+
+Some iterative calculations can be carried out by parallel communicating processors, and yield the same results whether or not the processors are synchronized. We show that this is the case if and only if the iteration is a contraction that is strict on orbits, with respect to an ultrametric defined on the state space. The maximum number of independent processors is given by the dimension of the space.
+  We apply this theorem to interdomain routing, and are able to provide two advances over the previous state of the art. Firstly, multipath routing problems have unique solutions, if certain conditions are satisfied that are analogous to known correctness conditions for the single-path case. Secondly, these solutions can be computed asynchronously in a variety of ways, which go beyond methods that are currently used.

@@ -1,0 +1,3 @@
+Autonomous Ingress of a UAV through a window using Monocular Vision
+
+The use of autonomous UAVs for surveillance purposes and other reconnaissance tasks is increasingly becoming popular and convenient.These tasks requires the ability to successfully ingress through the rectangular openings or windows of the target structure.In this paper, a method to robustly detect the window in the surrounding using basic image processing techniques and efficient distance measure, is proposed.Furthermore, a navigation scheme which incorporates this detection method for performing navigation task has also been proposed.The whole navigation task is performed and tested in the simulation environment GAZEBO.

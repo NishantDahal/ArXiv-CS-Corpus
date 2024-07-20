@@ -1,0 +1,5 @@
+Efficient Completion of Weighted Automata
+
+We consider directed graphs with edge labels from a semiring. We present an algorithm that allows efficient execution  of queries for existence and weights of paths, and allows updates of the graph: adding nodes and edges, and changing weights of existing edges.
+  We apply this method in the construction of matchbound certificates for automatically proving termination of string rewriting. We re-implement the decomposition/completion algorithm of Endrullis et al. (2006) in our framework, and achieve comparable performance.
+

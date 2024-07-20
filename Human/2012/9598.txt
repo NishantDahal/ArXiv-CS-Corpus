@@ -1,0 +1,3 @@
+LAGE: A Java Framework to reconstruct Gene Regulatory Networks from Large-Scale Continues Expression Data
+
+LAGE is a systematic framework developed in Java. The motivation of LAGE is to provide a scalable and parallel solution to reconstruct Gene Regulatory Networks (GRNs) from continuous gene expression data for very large amount of genes. The basic idea of our framework is motivated by the philosophy of divideand-conquer. Specifically, LAGE recursively partitions genes into multiple overlapping communities with much smaller sizes, learns intra-community GRNs respectively before merge them altogether. Besides, the complete information of overlapping communities serves as the byproduct, which could be used to mine meaningful functional modules in biological networks.

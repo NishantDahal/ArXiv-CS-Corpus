@@ -1,0 +1,7 @@
+Dynamic Analysis can be Improved with Automatic Test Suite Refactoring
+
+Context: Developers design test suites to automatically verify that software meets its expected behaviors. Many dynamic analysis techniques are performed on the exploitation of execution traces from test cases. However, in practice, there is only one trace that results from the execution of one manually-written test case.
+  Objective: In this paper, we propose a new technique of test suite refactoring, called B-Refactoring. The idea behind B-Refactoring is to split a test case into small test fragments, which cover a simpler part of the control flow to provide better support for dynamic analysis.
+  Method: For a given dynamic analysis technique, our test suite refactoring approach monitors the execution of test cases and identifies small test cases without loss of the test ability. We apply B-Refactoring to assist two existing analysis tasks: automatic repair of if-statements bugs and automatic analysis of exception contracts.
+  Results: Experimental results show that test suite refactoring can effectively simplify the execution traces of the test suite. Three real-world bugs that could previously not be fixed with the original test suite are fixed after applying B-Refactoring; meanwhile, exception contracts are better verified via applying B-Refactoring to original test suites.
+  Conclusions: We conclude that applying B-Refactoring can effectively improve the purity of test cases. Existing dynamic analysis tasks can be enhanced by test suite refactoring.

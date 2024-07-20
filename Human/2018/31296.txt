@@ -1,0 +1,3 @@
+Benefits of Coded Placement for Networks with Heterogeneous Cache Sizes
+
+In this work, we study coded placement in caching systems where the users have unequal cache sizes and demonstrate its performance advantage. In particular, we propose a caching scheme with coded placement for three-user systems that outperforms the best caching scheme with uncoded placement. In our proposed scheme, users cache both uncoded and coded pieces of the files, and the coded pieces at the users with large memories are decoded using the unicast/multicast signals intended to serve users with smaller memories. Furthermore, we extend the proposed scheme to larger systems and show the reduction in delivery load with coded placement compared to uncoded placement.

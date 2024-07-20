@@ -1,0 +1,3 @@
+Lattices for Physical-layer Secrecy: A Computational Perspective
+
+In this paper, we use the hardness of quantization over general lattices as the basis of developing a physical layer secrecy system. Assuming that the channel state observed by the legitimate receiver and the eavesdropper are distinct, this asymmetry is used to develop a cryptosystem that resembles the McEliece cryptosystem, designed to be implemented at the physical layer. We ensure that the legitimate receiver observes a specific lattice over which decoding is known to be possible in polynomial-time. while the eavesdropper observes a lattice over which decoding will prove to have the complexity of lattice quantization over a general lattice

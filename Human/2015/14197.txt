@@ -1,0 +1,3 @@
+Improved Approximation Algorithms for Relay Placement
+
+In the relay placement problem the input is a set of sensors and a number $r \ge 1$, the communication range of a relay. In the one-tier version of the problem the objective is to place a minimum number of relays so that between every pair of sensors there is a path through sensors and/or relays such that the consecutive vertices of the path are within distance $r$ if both vertices are relays and within distance 1 otherwise. The two-tier version adds the restrictions that the path must go through relays, and not through sensors. We present a 3.11-approximation algorithm for the one-tier version and a PTAS for the two-tier version. We also show that the one-tier version admits no PTAS, assuming P $\ne$ NP.

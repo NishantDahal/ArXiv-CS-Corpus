@@ -1,0 +1,3 @@
+Lopsided Approximation of Amoebas
+
+The amoeba of a Laurent polynomial is the image of the corresponding hypersurface under the coordinatewise log absolute value map. In this article, we demonstrate that a theoretical amoeba approximation method due to Purbhoo can be used efficiently in practice. To do this, we resolve the main bottleneck in Purbhoo's method by exploiting relations between cyclic resultants. We use the same approach to give an approximation of the Log preimage of the amoeba of a Laurent polynomial using semi-algebraic sets. We also provide a SINGULAR/SAGE implementation of these algorithms, which shows a significant speedup when our specialized cyclic resultant computation is used, versus a general purpose resultant algorithm.

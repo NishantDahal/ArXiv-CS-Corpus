@@ -1,0 +1,3 @@
+Denoising Imaging Polarimetry by an Adapted BM3D Method
+
+Imaging polarimetry allows more information to be extracted from a scene than conventional intensity or colour imaging. However, a major challenge of imaging polarimetry is image degradation due to noise. This paper investigates the mitigation of noise through denoising algorithms and compares existing denoising algorithms with a new method, based on BM3D. This algorithm, PBM3D, gives visual quality superior to the state of the art across all images and noise standard deviations tested. We show that denoising polarization images using PBM3D allows the degree of polarization to be more accurately calculated by comparing it to spectroscopy methods.

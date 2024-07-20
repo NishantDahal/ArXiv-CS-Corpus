@@ -1,0 +1,3 @@
+Subtyping for Hierarchical, Reconfigurable Petri Nets
+
+Hierarchical Petri nets allow a more abstract view and reconfigurable Petri nets model dynamic structural adaptation. In this contribution we present the combination of reconfigurable Petri nets and hierarchical Petri nets yielding hierarchical structure for reconfigurable Petri nets. Hierarchies are established by substituting transitions by subnets. These subnets are themselves reconfigurable, so they are supplied with their own set of rules. Moreover, global rules that can be applied in all of the net, are provided.

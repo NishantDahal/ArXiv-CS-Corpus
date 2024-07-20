@@ -1,0 +1,3 @@
+Understanding Dropout: Training Multi-Layer Perceptrons with Auxiliary Independent Stochastic Neurons
+
+In this paper, a simple, general method of adding auxiliary stochastic neurons to a multi-layer perceptron is proposed. It is shown that the proposed method is a generalization of recently successful methods of dropout (Hinton et al., 2012), explicit noise injection (Vincent et al., 2010; Bishop, 1995) and semantic hashing (Salakhutdinov & Hinton, 2009). Under the proposed framework, an extension of dropout which allows using separate dropping probabilities for different hidden neurons, or layers, is found to be available. The use of different dropping probabilities for hidden layers separately is empirically investigated.

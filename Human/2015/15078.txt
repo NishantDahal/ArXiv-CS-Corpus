@@ -1,0 +1,3 @@
+Research on Scalability of Operating Systems on Multicore Processors
+
+Large number of cores and hardware resource sharing are two characteristics on multicore processors, which bring new challenges for the design of operating systems. How to locate and analyze the speedup restrictive factors in operating systems, how to simulate and avoid the phenomenon that speedup decreases with the number of cores because of lock contention (i.e., lock thrashing) and how to avoid the contention of shared resources such as the last level cache are key challenges for the operating system scalability research on multicore systems.

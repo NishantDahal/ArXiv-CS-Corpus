@@ -1,0 +1,3 @@
+Column subset selection is NP-complete
+
+Let $M$ be a real $r\times c$ matrix and let $k$ be a positive integer. In the column subset selection problem (CSSP), we need to minimize the quantity $\|M-SA\|$, where $A$ can be an arbitrary $k\times c$ matrix, and $S$ runs over all $r\times k$ submatrices of $M$. This problem and its applications in numerical linear algebra are being discussed for several decades, but its algorithmic complexity remained an open issue. We show that CSSP is NP-complete.

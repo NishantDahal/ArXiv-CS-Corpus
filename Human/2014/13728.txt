@@ -1,0 +1,3 @@
+A Counter-Example to Karlin's Strong Conjecture for Fictitious Play
+
+Fictitious play is a natural dynamic for equilibrium play in zero-sum games, proposed by [Brown 1949], and shown to converge by [Robinson 1951]. Samuel Karlin conjectured in 1959 that fictitious play converges at rate $O(1/\sqrt{t})$ with the number of steps $t$. We disprove this conjecture showing that, when the payoff matrix of the row player is the $n \times n$ identity matrix, fictitious play may converge with rate as slow as $Ω(t^{-1/n})$.

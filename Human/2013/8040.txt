@@ -1,0 +1,5 @@
+Algorithms for Computing Topological Invariants in 2D and 3D Digital Spaces
+
+Based on previous results of digital topology, this paper focuses on algorithms of topological invariants of objects in 2D and 3D Digital Spaces. We specifically interest in solving hole counting of 2D objects and genus of closed surface in 3D. We first prove a new formula for hole counting in 2D. The number of of holes is $h=1 + (|C_4|-|C_2|)/4$ where $C_4$ and $C_2$ are sets of inward and outward corner points, respectively.
+  This paper mainly deals with algorithm design and implementation of practical computation of topological invariants in digital space. The algorithms relating to data structures, and pathological case detection and original data modification are main issues.
+  This paper designed fast algorithms for topological invariants such as connected components, hole counting in 2D and boundary surface genus for 3D. For 2D images, we designed a linear time algorithm to solve hole counting problem. In 3D, we designed also O(n) time algorithm to get genus of the closed surface. These two algorithms are both in $O(\log n)$ space complexity.

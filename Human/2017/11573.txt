@@ -1,0 +1,3 @@
+A randomized Halton algorithm in R
+
+Randomized quasi-Monte Carlo (RQMC) sampling can bring orders of magnitude reduction in variance compared to plain Monte Carlo (MC) sampling. The extent of the efficiency gain varies from problem to problem and can be hard to predict. This article presents an R function rhalton that produces scrambled versions of Halton sequences. On some problems it brings efficiency gains of several thousand fold. On other problems, the efficiency gain is minor. The code is designed to make it easy to determine whether a given integrand will benefit from RQMC sampling. An RQMC sample of n points in $[0,1]^d$ can be extended later to a larger n and/or d.

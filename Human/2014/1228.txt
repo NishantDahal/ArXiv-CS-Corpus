@@ -1,0 +1,3 @@
+Some notes on model rotation
+
+Model rotation is an efficient technique for improving MUS finding algorithms. In previous work we have studied model rotation as an algorithm that traverses a graph which is induced by the input formula. This document introduces the notion of blocked edges, which are edges in this graph that can never be traversed. We show the existence of irredundant CNF formulas in which some clauses are unreachable by model rotation. Additionally, we proof a conjecture by Belov, Lynce and Marques-Silva.

@@ -1,0 +1,3 @@
+A Second-Order Formulation of Non-Termination
+
+We consider the termination/non-termination property of a class of loops. Such loops are commonly used abstractions of real program pieces. Second-order logic is a convenient language to express non-termination. Of course, such property is generally undecidable. However, by restricting the language to known decidable cases, we exhibit new classes of loops, the non-termination of which is decidable. We present a bunch of examples.

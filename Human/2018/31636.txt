@@ -1,0 +1,3 @@
+Kalman Filter Modifier for Neural Networks in Non-stationary Environments
+
+Learning in a non-stationary environment is an inevitable problem when applying machine learning algorithm to real world environment. Learning new tasks without forgetting the previous knowledge is a challenge issue in machine learning. We propose a Kalman Filter based modifier to maintain the performance of Neural Network models under non-stationary environments. The result shows that our proposed model can preserve the key information and adapts better to the changes. The accuracy of proposed model decreases by 0.4% in our experiments, while the accuracy of conventional model decreases by 90% in the drifts environment.

@@ -1,0 +1,3 @@
+Soap-bubble Optimization of Gaits
+
+In this paper, we present a geometric variational algorithm for optimizing the gaits of kinematic locomoting systems. The dynamics of this algorithm are analogous to the physics of a soap bubble, with the system's Lie bracket supplying an "inflation pressure" that is balanced by a "surface tension" term derived from a Riemannian metric on the system's shape space. We demonstrate this optimizer on a variety of system geometries (including Purcell's swimmer) and for optimization criteria that include maximizing displacement and efficiency of motion for both translation and turning motions.

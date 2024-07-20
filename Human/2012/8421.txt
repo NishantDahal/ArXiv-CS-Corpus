@@ -1,0 +1,3 @@
+Minimization of semilinear automata
+
+We investigate finite deterministic automata in sets with non-homogeneous atoms: integers with successor. As there are uncount- ably many deterministic finite automata in this setting, we restrict our attention to automata with semilinear transition function. The main re- sults is a minimization procedure for semilinear automata. The proof is subtle and refers to decidability of existential Presburger arithmetic with divisibility predicates. Interestingly, the minimization is not obtained by the standard partition refinement procedure, and we demonstrate that this procedure does not necessarily terminate for semilinear automata.

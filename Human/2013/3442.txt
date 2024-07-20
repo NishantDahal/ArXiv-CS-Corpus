@@ -1,0 +1,3 @@
+EasyTime++: A case study of incremental domain-specific language development
+
+EasyTime is a domain-specific language (DSL) for measuring time during sports competitions. A distinguishing feature of DSLs is that they are much more amenable to change, and EasyTime is no exception in this regard. This paper introduces two new EasyTime features: classifications of competitors into categories, and the inclusion of competitions where the number of laps must be dynamically determined. It shows how such extensions can be incrementally added into the base-language reusing most of the language specifications. Two case studies are presented showing the suitability of this approach.

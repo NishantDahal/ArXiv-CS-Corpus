@@ -1,0 +1,3 @@
+Bayesian Prediction for Artificial Intelligence
+
+This paper shows that the common method used for making predictions under uncertainty in A1 and science is in error. This method is to use currently available data to select the best model from a given class of models-this process is called abduction-and then to use this model to make predictions about future data. The correct method requires averaging over all the models to make a prediction-we call this method transduction. Using transduction, an AI system will not give misleading results when basing predictions on small amounts of data, when no model is clearly best. For common classes of models we show that the optimal solution can be given in closed form.

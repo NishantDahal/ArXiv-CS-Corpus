@@ -1,0 +1,3 @@
+The peak sidelobe level of random binary sequences
+
+Let $A_n=(a_0,a_1,\dots,a_{n-1})$ be drawn uniformly at random from $\{-1,+1\}^n$ and define \[ M(A_n)=\max_{0<u<n}\,\Bigg|\sum_{j=0}^{n-u-1}a_ja_{j+u}\Bigg|\quad\text{for $n>1$}. \] It is proved that $M(A_n)/\sqrt{n\log n}$ converges in probability to $\sqrt{2}$. This settles a problem first studied by Moon and Moser in the 1960s and proves in the affirmative a recent conjecture due to Alon, Litsyn, and Shpunt. It is also shown that the expectation of $M(A_n)/\sqrt{n\log n}$ tends to $\sqrt{2}$.

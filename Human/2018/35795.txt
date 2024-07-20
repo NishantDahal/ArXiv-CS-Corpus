@@ -1,0 +1,3 @@
+Popularity-Aware Item Weighting for Long-Tail Recommendation
+
+Many recommender systems suffer from the popularity bias problem: popular items are being recommended frequently while less popular, niche products, are recommended rarely if not at all. However, those ignored products are exactly the products that businesses need to find customers for and their recommendations would be more beneficial. In this paper, we examine an item weighting approach to improve long-tail recommendation. Our approach works as a simple yet powerful add-on to existing recommendation algorithms for making a tunable trade-off between accuracy and long-tail coverage.

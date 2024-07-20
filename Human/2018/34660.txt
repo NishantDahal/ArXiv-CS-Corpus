@@ -1,0 +1,3 @@
+Adversarial Attacks, Regression, and Numerical Stability Regularization
+
+Adversarial attacks against neural networks in a regression setting are a critical yet understudied problem. In this work, we advance the state of the art by investigating adversarial attacks against regression networks and by formulating a more effective defense against these attacks. In particular, we take the perspective that adversarial attacks are likely caused by numerical instability in learned functions. We introduce a stability inducing, regularization based defense against adversarial attacks in the regression setting. Our new and easy to implement defense is shown to outperform prior approaches and to improve the numerical stability of learned functions.

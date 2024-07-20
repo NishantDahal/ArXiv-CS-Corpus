@@ -1,0 +1,3 @@
+Entirely protecting operating systems against transient errors in space environment
+
+In this article, we propose a mainly-software hardening technique to totally protect unmodified running operating systems on COTS hardware against transient errors in heavily radiation - flooded environment like high altitude space. The technique is currently being implemented in a hypervisor and allows to control the upper layers of the software stack (operating system and applications). The rest of the system, the hypervisor, will be protected by other means, thus resulting in a completely protected system against transient errors. The induced overhead turns around 200% but this is expected to decrease with future improvements.

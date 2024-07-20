@@ -1,0 +1,3 @@
+On the relation between graph distance and Euclidean distance in random geometric graphs
+
+Given any two vertices u, v of a random geometric graph, denote by d_E(u,v) their Euclidean distance and by d_G(u,v) their graph distance. The problem of finding upper bounds on d_G(u,v) in terms of d_E(u,v) has received a lot of attention in the literature. In this paper, we improve these upper bounds for values of r=omega(sqrt(log n)) (i.e. for r above the connectivity threshold). Our result also improves the best-known estimates on the diameter of random geometric graphs. We also provide a lower bound on d_G(u,v) in terms of d_E(u,v).

@@ -1,0 +1,3 @@
+Quantum automata cannot detect biased coins, even in the limit
+
+Aaronson and Drucker (2011) asked whether there exists a quantum finite automaton that can distinguish fair coin tosses from biased ones by spending significantly more time in accepting states, on average, given an infinite sequence of tosses. We answer this question negatively.

@@ -1,0 +1,3 @@
+Diversity and Adjudication
+
+This paper takes an axiomatic and calculational view of diversity (or "N-version programming"), where multiple implementations of the same specification are executed in parallel to increase dependability. The central notion is "adjudication": once we have multiple, potential different, outcomes, how do we come to a single result? Adjudication operators are explicitly defined and some general properties for these explored.

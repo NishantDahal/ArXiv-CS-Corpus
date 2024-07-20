@@ -1,0 +1,3 @@
+A framework for designing concurrent and recoverable abstract data types based on commutativity
+
+In this paper, we try to focus the reader's interest on the problems that transactional systems have to resolve for taking advantage of commutativity in a serializable and recoverable way. Our framework is, (as others), based on the use of conditional commutativity on abstract date types. We present new features that have not been found in the literature hitherto, that both increase concurrency and simplify recovery.

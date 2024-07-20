@@ -1,0 +1,3 @@
+Weak Cost Register Automata are Still Powerful
+
+We consider one of the weakest variants of cost register automata over a tropical semiring, namely copyless cost register automata over $\mathbb{N}$ with updates using $\min$ and increments. We show that this model can simulate, in some sense, the runs of counter machines with zero-tests. We deduce that a number of problems pertaining to that model are undecidable, in particular equivalence, disproving a conjecture of Alur et al. from 2012. To emphasize how weak these machines are, we also show that they can be expressed as a restricted form of linearly-ambiguous weighted automata.

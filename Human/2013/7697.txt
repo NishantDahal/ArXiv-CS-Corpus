@@ -1,0 +1,3 @@
+A New TCP/AQM System Analysis
+
+The MGT fluid model has been used extensively to guide designs of AQM schemes aiming to alleviate adverse effects of Internet congestion. In this paper, we provide a new analysis of a TCP/AQM system that aims to improve the accuracy of the MGT fluid model especially in heavy traffic conditions. The analysis is based on the consideration of two extreme congestion scenarios that leads to the derivation of upper and lower bounds for the queue length and marking probability dynamics and showing that they approach each other in steady state. Both discrete and continuous time models are provided. Simulation results demonstrate that the new model achieves a significantly higher level of accuracy than a simplified version of the MGT fluid model.

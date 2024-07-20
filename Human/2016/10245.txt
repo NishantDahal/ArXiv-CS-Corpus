@@ -1,0 +1,4 @@
+Computing the k Nearest-Neighbors for all Vertices via Dijkstra
+
+We are given a directed graph $G = (V,E)$ with $n$ vertices and $m$ edges, with positive weights on the edges, and a parameter $k >0$. We show how to compute, for every vertex $v \in V$, its $k$ nearest-neighbors. The algorithm runs in $O( k ( n \log n + m ) )$ time, and follows by a somewhat careful modification of Dijkstra's shortest path algorithm.
+  This result is probably folklore, but we were unable to find a reference to it -- thus, this note.

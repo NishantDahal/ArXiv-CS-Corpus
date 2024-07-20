@@ -1,0 +1,3 @@
+Multi-target tracking algorithms in 3D
+
+Ladars provide a unique capability for identification of objects and motions in scenes with fixed 3D field of view (FOV). This paper describes algorithms for multi-target tracking in 3D scenes including the preprocessing (mathematical morphology and Parzen windows), labeling of connected components, sorting of targets by selectable attributes (size, length of track, velocity), and handling of target states (acquired, coasting, re-acquired and tracked) in order to assemble the target trajectories. This paper is derived from working algorithms coded in Matlab, which were tested and reviewed by others, and does not speculate about usage of general formulas or frameworks.

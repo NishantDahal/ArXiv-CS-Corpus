@@ -1,0 +1,3 @@
+Compliance for reversible client/server interactions
+
+In the setting of session behaviours, we study an extension of the concept of compliance when a disciplined form of backtracking is present.  After adding checkpoints to the syntax of session behaviours, we formalise the operational semantics via a LTS, and define a natural notion of checkpoint compliance. We then obtain a co-inductive characterisation of such compliance relation, and an axiomatic presentation that is proved to be sound and complete. As a byproduct we get a decision procedure for the new compliance, being the axiomatic system algorithmic.

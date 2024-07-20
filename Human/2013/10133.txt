@@ -1,0 +1,3 @@
+Gender Classification Using Gradient Direction Pattern
+
+A novel methodology for gender classification is presented in this paper. It extracts feature from local region of a face using gray color intensity difference. The facial area is divided into sub-regions and GDP histogram extracted from those regions are concatenated into a single vector to represent the face. The classification accuracy obtained by using support vector machine has outperformed all traditional feature descriptors for gender classification. It is evaluated on the images collected from FERET database and obtained very high accuracy.

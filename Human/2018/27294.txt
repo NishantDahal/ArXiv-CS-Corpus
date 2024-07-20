@@ -1,0 +1,3 @@
+k-RNN: Extending NN-heuristics for the TSP
+
+In this paper we present an extension of existing Nearest-Neighbor heuristics to an algorithm called k-Repetitive-Nearest-Neighbor. The idea is to start with a tour of k nodes and then perform a Nearest-Neighbor search from there on. After doing this for all permutations of k nodes the result gets selected as the shortest tour found. Experimental results show that for 2-RNN the solutions quality remains relatively stable between about 10% to 40% above the optimum.

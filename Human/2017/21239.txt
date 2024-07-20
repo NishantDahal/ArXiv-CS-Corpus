@@ -1,0 +1,3 @@
+FPT-algorithms for The Shortest Lattice Vector and Integer Linear Programming Problems
+
+In this paper, we present FPT-algorithms for special cases of the shortest vector problem (SVP) and the integer linear programming problem (ILP), when matrices included to the problems' formulations are near square. The main parameter is the maximal absolute value of rank minors of matrices included to the problem formulation. Additionally, we present FPT-algorithms with respect to the same main parameter for the problems, when the matrices have no singular rank sub-matrices.

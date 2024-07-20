@@ -1,0 +1,3 @@
+Communities unfolding in multislice networks
+
+Discovering communities in complex networks helps to understand the behaviour of the network. Some works in this promising research area exist, but communities uncovering in time-dependent and/or multiplex networks has not deeply investigated yet. In this paper, we propose a communities detection approach for multislice networks based on modularity optimization. We first present a method to reduce the network size that still preserves modularity. Then we introduce an algorithm that approximates modularity optimization (as usually adopted) for multislice networks, thus finding communities. The network size reduction allows us to maintain acceptable performances without affecting the effectiveness of the proposed approach.

@@ -1,0 +1,3 @@
+Image processing using miniKanren
+
+An integral image is one of the most efficient optimization technique for image processing. However an integral image is only a special case of delayed stream or memoization. This research discusses generalizing concept of integral image optimization technique, and how to generate an integral image optimized program code automatically from abstracted image processing algorithm. In oder to abstruct algorithms, we forces to miniKanren.

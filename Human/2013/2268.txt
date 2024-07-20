@@ -1,0 +1,4 @@
+Approximation Algorithms for Digraph Width Parameters
+
+Several problems that are NP-hard on general graphs are efficiently solvable on graphs with bounded treewidth. Efforts have been made to generalize treewidth and the related notion of pathwidth to digraphs. Directed treewidth, DAG-width and Kelly-width are some such notions which generalize treewidth, whereas directed pathwidth generalizes pathwidth. Each of these digraph width measures have an associated decomposition structure.
+  In this paper, we present approximation algorithms for all these digraph width parameters. In particular, we give an O(sqrt{logn})-approximation algorithm for directed treewidth, and an O({\log}^{3/2}{n})-approximation algorithm for directed pathwidth, DAG-width and Kelly-width. Our algorithms construct the corresponding decompositions whose widths are within the above mentioned approximation factors.

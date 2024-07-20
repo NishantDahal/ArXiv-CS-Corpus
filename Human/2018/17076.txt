@@ -1,0 +1,3 @@
+Tight Upper Bounds on the Crossing Number in a Minor-Closed Class
+
+The crossing number of a graph is the minimum number of crossings in a drawing of the graph in the plane. Our main result is that every graph $G$ that does not contain a fixed graph as a minor has crossing number $O(Δn)$, where $G$ has $n$ vertices and maximum degree $Δ$. This dependence on $n$ and $Δ$ is best possible. This result answers an open question of Wood and Telle [New York J. Mathematics, 2007], who proved the best previous bound of $O(Δ^2 n)$. We also study the convex and rectilinear crossing numbers, and prove an $O(Δn)$ bound for the convex crossing number of bounded pathwidth graphs, and a $\sum_v°(v)^2$ bound for the rectilinear crossing number of $K_{3,3}$-minor-free graphs.

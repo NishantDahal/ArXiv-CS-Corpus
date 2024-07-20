@@ -1,0 +1,3 @@
+Adaptive Seeding for Gaussian Mixture Models
+
+We present new initialization methods for the expectation-maximization algorithm for multivariate Gaussian mixture models. Our methods are adaptions of the well-known $K$-means++ initialization and the Gonzalez algorithm. Thereby we aim to close the gap between simple random, e.g. uniform, and complex methods, that crucially depend on the right choice of hyperparameters. Our extensive experiments indicate the usefulness of our methods compared to common techniques and methods, which e.g. apply the original $K$-means++ and Gonzalez directly, with respect to artificial as well as real-world data sets.

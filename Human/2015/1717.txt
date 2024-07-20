@@ -1,0 +1,3 @@
+On Distributed Density in Tuple-based Coordination Languages
+
+Inspired by the chemical metaphor, this paper proposes an extension of Linda-like languages in the aim of modeling the coordination of complex distributed systems. The new language manipulates finite sets of tuples and distributes a density among them. This new concept adds to the non-determinism inherent in the selection of matched tuples a non-determinism to the tell, ask and get primitives on the consideration of different tuples. Furthermore, thanks to de Boer and Palamidessi's notion of modular embedding, we establish that this new language strictly increases the expressiveness of the Dense Bach language introduced earlier and, consequently, Linda-like languages.

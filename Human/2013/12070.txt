@@ -1,0 +1,6 @@
+Testing Booleanity and the Uncertainty Principle
+
+Let f:{-1,1}^n -> R be a real function on the hypercube, given by its discrete Fourier expansion, or, equivalently, represented as a multilinear polynomial. We say that it is Boolean if its image is in {-1,1}.
+  We show that every function on the hypercube with a sparse Fourier expansion must either be Boolean or far from Boolean. In particular, we show that a multilinear polynomial with at most k terms must either be Boolean, or output values different than -1 or 1 for a fraction of at least 2/(k+2)^2 of its domain.
+  It follows that given oracle access to f, together with the guarantee that its representation as a multilinear polynomial has at most k terms, one can test Booleanity using O(k^2) queries. We show an Ω(k) queries lower bound for this problem.
+  Our proof crucially uses Hirschman's entropic version of Heisenberg's uncertainty principle.

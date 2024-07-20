@@ -1,0 +1,3 @@
+Local Modules in Imperative Languages
+
+We propose a notion of local modules for imperative langauges. To be specific, we introduce a new implication statement of the form $D \supset G$ where $D$ is a module (i.e., a set of procedure declarations) and $G$ is a statement. This statement tells the machine to add $D$ to the program in the course of executing $G$. Thus, $D$ acts as a local module and will be discarded after executing $G$. It therefore provides efficient module management. We illustrate our idea via C^{mod}, an extension of the core C with the new statement. In addition, we describe a new constructive module language to improve code reuse. Finally, we describe a scheme which considerably improves the heap management in traditional languages.

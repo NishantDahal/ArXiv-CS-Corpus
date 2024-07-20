@@ -1,0 +1,3 @@
+Modelling Delegation and Revocation Schemes in IDP
+
+In ownership-based access control frameworks with the possibility of delegating permissions and administrative rights, chains of delegated accesses will form. There are different ways to treat these delegation chains when revoking rights, which give rise to different revocation schemes. In this paper, we show how IDP - a knowledge base system that integrates technology from ASP, SAT and CP - can be used to efficiently implement executable revocation schemes for an ownership-based access control system based on a declarative specification of their properties.

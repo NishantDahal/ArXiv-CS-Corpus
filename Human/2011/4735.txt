@@ -1,0 +1,3 @@
+Contracts in distributed systems
+
+We present a parametric calculus for contract-based computing in distributed systems.  By abstracting from the actual contract language, our calculus generalises both the contracts-as-processes and contracts-as-formulae paradigms. The calculus features primitives for advertising contracts, for reaching agreements, and for querying the fulfilment of contracts. Coordination among principals happens via multi-party sessions, which are created once agreements are reached.  We present two instances of our calculus, by modelling contracts as (i) processes in a variant of CCS, and (ii) as formulae in a logic. With the help of a few examples, we discuss the primitives of our calculus, as well as some possible variants.

@@ -1,0 +1,4 @@
+A unified framework for designing EPTAS's for load balancing on parallel machines
+
+We consider a general load balancing problem on parallel machines. Our machine environment in particular generalizes the standard models of identical machines, and the model of uniformly related machines, as well as machines with a constant number of types, and machines with activation costs. The objective functions that we consider contain in particular the makespan objective and the minimization of the $\ell_p$-norm of the vector of loads of the machines both with possibly job rejection.
+  We consider this general model and design an efficient polynomial time approximation scheme (EPTAS) that applies for all its previously studied special cases. This EPTAS improves the current best approximation scheme for some of these cases where only a polynomial time approximation scheme (PTAS) was known into an EPTAS.

@@ -1,0 +1,4 @@
+A connected multidimensional maximum bisection problem
+
+The maximum graph bisection problem is a well known graph partition problem. The problem has been proven to be NP-hard. In the maximum graph bisection problem it is required that the set of vertices is divided into two partition with equal number of vertices, and the weight of the edge cut is maximal.
+  This work introduces a connected multidimensional generalization of the maximum bisection problem. In this problem the weights on edges are vectors of positive numbers rather than numbers and partitions should be connected. A mixed integer linear programming formulation is proposed with the proof of its correctness. The MILP formulation of the problem has polynomial number of variables and constraints.

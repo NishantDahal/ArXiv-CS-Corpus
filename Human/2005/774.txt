@@ -1,0 +1,3 @@
+Single-solution Random 3-SAT Instances
+
+We study a class of random 3-SAT instances having exactly one solution. The properties of this ensemble considerably differ from those of a random 3-SAT ensemble. It is numerically shown that the running time of several complete and stochastic local search algorithms monotonically increases as the clause density is decreased. Therefore, there is no easy-hard-easy pattern of hardness as for standard random 3-SAT ensemble. Furthermore, the running time for short single-solution formulas increases with the problem size much faster than for random 3-SAT formulas from the phase transition region.

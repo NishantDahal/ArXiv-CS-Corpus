@@ -1,0 +1,3 @@
+A Conversion Procedure for NNC Polyhedra
+
+We present an alternative Double Description representation for the domain of NNC (not necessarily topologically closed) polyhedra, together with the corresponding Chernikova-like conversion procedure. The representation differs from the ones adopted in the currently available implementations of the Double Description method in that it uses no slack variable at all: this new approach provides a solution to a few technical issues caused by the encoding of an NNC polyhedron as a closed polyhedron in a higher dimension space. A preliminary experimental evaluation shows that the new conversion algorithm is able to achieve significant efficiency improvements with respect to state-of-the-art implementations.

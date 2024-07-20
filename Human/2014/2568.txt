@@ -1,0 +1,3 @@
+POSH: Paris OpenSHMEM: A High-Performance OpenSHMEM Implementation for Shared Memory Systems
+
+In this paper we present the design and implementation of POSH, an Open-Source implementation of the OpenSHMEM standard. We present a model for its communications, and prove some properties on the memory model defined in the OpenSHMEM specification. We present some performance measurements of the communication library featured by POSH and compare them with an existing one-sided communication library. POSH can be downloaded from \url{http://www.lipn.fr/~coti/POSH}. % 9 - 67

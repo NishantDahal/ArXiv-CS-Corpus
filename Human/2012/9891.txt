@@ -1,0 +1,3 @@
+ISAR Image Formation Using Sequential Minimization of L0 and L2 Norms
+
+A sparsity-driven algorithm of inverse synthetic aperture radar (ISAR) imaging is proposed. Based on the parametric sparse representation of the received ISAR signal, the problem of ISAR image formation is converted into the joint estimation of the target rotation rate and the sparse power distribution in the spatial domain. This goal is achieved by sequential minimization of L0 and L2 norms, which ensure the sparsest ISAR image and the minimum recovery error, respectively.

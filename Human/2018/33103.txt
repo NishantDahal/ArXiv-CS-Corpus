@@ -1,0 +1,5 @@
+An Impossibility Result for Reconstruction in a Degree-Corrected Planted-Partition Model
+
+We consider the Degree-Corrected Stochastic Block Model (DC-SBM): a random graph on $n$ nodes, having i.i.d. weights $(φ_u)_{u=1}^n$ (possibly heavy-tailed), partitioned into $q \geq 2$ asymptotically equal-sized clusters. The model parameters are two constants $a,b > 0$ and the finite second moment of the weights $Φ^{(2)}$. Vertices $u$ and $v$ are connected by an edge with probability $\frac{φ_u φ_v}{n}a$ when they are in the same class and with probability $\frac{φ_u φ_v}{n}b$ otherwise.
+  We prove that it is information-theoretically impossible to estimate the clusters in a way positively correlated with the true community structure when $(a-b)^2 Φ^{(2)} \leq q(a+b)$.
+  As by-products of our proof we obtain $(1)$ a precise coupling result for local neighbourhoods in DC-SBM's, that we use in a follow up paper [Gulikers et al., 2017] to establish a law of large numbers for local-functionals and $(2)$ that long-range interactions are weak in (power-law) DC-SBM's.

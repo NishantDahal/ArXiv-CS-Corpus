@@ -1,0 +1,3 @@
+Complexity Analysis in Cyclic Tag System Emulated by Rule 110
+
+It is known that elementary cellular automaton rule 110 is capable of supporting universal computation by emulating cyclic tag system. Since the whole information necessary to perform computation is stored in the configuration, it is reasonable to investigate the complexity of configuration for the analysis of computing process. In this research we employed Lempel-Ziv complexity as a measure of complexity and calculated it during the evolution of emulating cyclic tag system by rule 110. As a result, we observed the stepwise decline of complexity during the evolution. That is caused by the transformation from table data to moving data and the elimination of table data by a rejector.

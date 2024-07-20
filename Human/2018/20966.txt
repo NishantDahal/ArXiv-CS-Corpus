@@ -1,0 +1,3 @@
+Student Cluster Competition 2017, Team University ofTexas at Austin/Texas State University: Reproducing Vectorization of the Tersoff Multi-Body Potential on the Intel Skylake and NVIDIA V100 Architectures
+
+This paper satisfies the reproducibility challenge of the Student Cluster Competition at Supercomputing 2017. We attempted to reproduce the results of Höhnerbach et al. (2016) for an implementation of a vectorized code for the Tersoff multi-body potential kernel of the molecular dynamics code Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS). We investigated accuracy, optimization performance, and scaling with our Intel CPU and NVIDIA GPU based cluster.

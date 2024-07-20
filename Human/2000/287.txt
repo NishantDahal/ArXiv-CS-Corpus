@@ -1,0 +1,5 @@
+Processor Verification Using Efficient Reductions of the Logic of Uninterpreted Functions to Propositional Logic
+
+The logic of equality with uninterpreted functions (EUF) provides a means of abstracting the manipulation of data by a processor when verifying the correctness of its control logic. By reducing formulas in this logic to propositional formulas, we can apply Boolean methods such as Ordered Binary Decision Diagrams (BDDs) and Boolean satisfiability checkers to perform the verification.
+  We can exploit characteristics of the formulas describing the verification conditions to greatly simplify the propositional formulas generated. In particular, we exploit the property that many equations appear only in positive form. We can therefore reduce the set of interpretations of the function symbols that must be considered to prove that a formula is universally valid to those that are ``maximally diverse.''
+  We present experimental results demonstrating the efficiency of this approach when verifying pipelined processors using the method proposed by Burch and Dill.

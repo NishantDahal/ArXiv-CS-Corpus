@@ -1,0 +1,3 @@
+An implementation of the relational k-means algorithm
+
+A C# implementation of a generalized k-means variant called relational k-means is described here. Relational k-means is a generalization of the well-known k-means clustering method which works for non-Euclidean scenarios as well. The input is an arbitrary distance matrix, as opposed to the traditional k-means method, where the clustered objects need to be identified with vectors.

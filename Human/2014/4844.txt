@@ -1,0 +1,3 @@
+Pixelations of planar semialgebraic sets and shape recognition
+
+We describe an algorithm that associates to each positive real number $r$ and each finite collection $C_r$ of planar pixels of size $r$ a planar piecewise linear set $S_r$ with the following additional property: if $C_r$ is the collection of pixels of size $r$ that touch a given compact semialgebraic set $S$, then the normal cycle of $S_r$ converges to the normal cycle of $S$ in the sense of currents. In particular, in the limit we can recover the homotopy type of $S$ and its geometric invariants such as area, perimeter and curvature measures. At its core, this algorithm is a discretization of stratified Morse theory.

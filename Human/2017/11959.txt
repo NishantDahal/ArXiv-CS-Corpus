@@ -1,0 +1,4 @@
+Affine maps between quadratic assignment polytopes and subgraph isomorphism polytopes
+
+We consider two polytopes. The quadratic assignment polytope $QAP(n)$ is the convex hull of the set of tensors $x\otimes x$, $x \in P_n$, where $P_n$ is the set of $n\times n$ permutation matrices. The second polytope is defined as follows. For every permutation of vertices of the complete graph $K_n$ we consider appropriate $\binom{n}{2} \times \binom{n}{2}$ permutation matrix of the edges of $K_n$. The Young polytope $P((n-2,2))$ is the convex hull of all such matrices.
+  In 2009, S. Onn showed that the subgraph isomorphism problem can be reduced to optimization both over $QAP(n)$ and over $P((n-2,2))$. He also posed the question whether $QAP(n)$ and $P((n-2,2))$, having $n!$ vertices each, are isomorphic. We show that $QAP(n)$ and $P((n-2,2))$ are not isomorphic. Also, we show that $QAP(n)$ is a face of $P((2n-2,2))$, but $P((n-2,2))$ is a projection of $QAP(n)$.

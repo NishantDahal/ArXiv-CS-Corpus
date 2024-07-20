@@ -1,0 +1,3 @@
+Feasible Depth
+
+This paper introduces two complexity-theoretic formulations of Bennett's logical depth: finite-state depth and polynomial-time depth. It is shown that for both formulations, trivial and random infinite sequences are shallow, and a slow growth law holds, implying that deep sequences cannot be created easily from shallow sequences. Furthermore, the E analogue of the halting language is shown to be polynomial-time deep, by proving a more general result: every language to which a nonnegligible subset of E can be reduced in uniform exponential time is polynomial-time deep.

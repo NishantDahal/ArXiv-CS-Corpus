@@ -1,0 +1,5 @@
+Generation of cubic graphs and snarks with large girth
+
+We describe two new algorithms for the generation of all non-isomorphic cubic graphs with girth at least $k\ge 5$ which are very efficient for $5\le k \le 7$ and show how these algorithms can be efficiently restricted to generate snarks with girth at least $k$.
+  Our implementation of these algorithms is more than 30, respectively 40 times faster than the previously fastest generator for cubic graphs with girth at least 6 and 7, respectively.
+  Using these generators we have also generated all non-isomorphic snarks with girth at least 6 up to 38 vertices and show that there are no snarks with girth at least 7 up to 42 vertices. We present and analyse the new list of snarks with girth 6.

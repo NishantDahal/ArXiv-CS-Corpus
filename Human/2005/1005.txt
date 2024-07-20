@@ -1,0 +1,3 @@
+Interest Rate Model Calibration Using Semidefinite Programming
+
+We show that, for the purpose of pricing Swaptions, the Swap rate and the corresponding Forward rates can be considered lognormal under a single martingale measure. Swaptions can then be priced as options on a basket of lognormal assets and an approximation formula is derived for such options. This formula is centered around a Black-Scholes price with an appropriate volatility, plus a correction term that can be interpreted as the expected tracking error. The calibration problem can then be solved very efficiently using semidefinite programming.

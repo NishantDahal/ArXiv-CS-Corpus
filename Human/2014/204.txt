@@ -1,0 +1,3 @@
+On Convergence of Approximate Message Passing
+
+Approximate message passing is an iterative algorithm for compressed sensing and related applications. A solid theory about the performance and convergence of the algorithm exists for measurement matrices having iid entries of zero mean. However, it was observed by several authors that for more general matrices the algorithm often encounters convergence problems. In this paper we identify the reason of the non-convergence for measurement matrices with iid entries and non-zero mean in the context of Bayes optimal inference. Finally we demonstrate numerically that when the iterative update is changed from parallel to sequential the convergence is restored.

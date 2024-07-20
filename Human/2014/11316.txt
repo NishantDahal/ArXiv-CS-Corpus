@@ -1,0 +1,3 @@
+Unified Analysis of Collapsible and Ordered Pushdown Automata via Term Rewriting
+
+We model collapsible and ordered pushdown systems with term rewriting, by encoding higher-order stacks and multiple stacks into trees. We show a uniform inverse preservation of recognizability result for the resulting class of term rewriting systems, which is obtained by extending the classic saturation-based approach. This result subsumes and unifies similar analyses on collapsible and ordered pushdown systems. Despite the rich literature on inverse preservation of recognizability for term rewrite systems, our result does not seem to follow from any previous study.

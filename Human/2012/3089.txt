@@ -1,0 +1,5 @@
+The lambda-mu-T-calculus
+
+Calculi with control operators have been studied as extensions of simple type theory. Real programming languages contain datatypes, so to really understand control operators, one should also include these in the calculus. As a first step in that direction, we introduce lambda-mu-T, a combination of Parigot's lambda-mu-calculus and Gödel's T, to extend a calculus with control operators with a datatype of natural numbers with a primitive recursor.
+  We consider the problem of confluence on raw terms, and that of strong normalization for the well-typed terms. Observing some problems with extending the proofs of Baba at al. and Parigot's original confluence proof, we provide new, and improved, proofs of confluence (by complete developments) and strong normalization (by reducibility and a postponement argument) for our system.
+  We conclude with some remarks about extensions, choices, and prospects for an improved presentation.

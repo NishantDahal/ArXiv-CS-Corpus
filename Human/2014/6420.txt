@@ -1,0 +1,3 @@
+Properties and Complexity of Fan-Planarity
+
+In a \emph{fan-planar drawing} of a graph an edge can cross only edges with a common end-vertex. Fan-planar drawings have been recently introduced by Kaufmann and Ueckerdt, who proved that every $n$-vertex fan-planar drawing has at most $5n-10$ edges, and that this bound is tight for $n \geq 20$. We extend their result, both from the combinatorial and the algorithmic point of view. We prove tight bounds on the density of constrained versions of fan-planar drawings and study the relationship between fan-planarity and $k$-planarity. Furthermore, we prove that deciding whether a graph admits a fan-planar drawing in the variable embedding setting is NP-complete.

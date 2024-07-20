@@ -1,0 +1,3 @@
+Performance Analysis of the Globus Toolkit Monitoring and Discovery Service, MDS2
+
+Monitoring and information services form a key component of a distributed system, or Grid. A quantitative study of such services can aid in understanding the performance limitations, advise in the deployment of the monitoring system, and help evaluate future development work. To this end, we examined the performance of the Globus Toolkit(reg. trdmrk) Monitoring and Discovery Service (MDS2) by instrumenting its main services using NetLogger. Our study shows a strong advantage to caching or prefetching the data, as well as the need to have primary components at well-connected sites.

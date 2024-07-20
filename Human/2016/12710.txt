@@ -1,0 +1,4 @@
+Query Answering in Resource-Based Answer Set Semantics
+
+In recent work we defined resource-based answer set semantics, which is an extension to answer set semantics stemming from the study of its relationship with linear logic. In fact, the name of the new semantics comes from the fact that in the linear-logic formulation every literal (including negative ones) were considered as a resource. In this paper, we propose a query-answering procedure reminiscent of Prolog for answer set programs under this extended semantics as an extension of XSB-resolution for logic programs with negation. We prove formal properties of the proposed procedure.
+  Under consideration for acceptance in TPLP.

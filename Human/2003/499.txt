@@ -1,0 +1,3 @@
+On the complexity of curve fitting algorithms
+
+We study a popular algorithm for fitting polynomial curves to scattered data based on the least squares with gradient weights. We show that sometimes this algorithm admits a substantial reduction of complexity, and, furthermore, find precise conditions under which this is possible. It turns out that this is, indeed, possible when one fits circles but not ellipses or hyperbolas.

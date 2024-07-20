@@ -1,0 +1,3 @@
+Analysis of a Quantum Error Correcting Code using Quantum Process Calculus
+
+We describe the use of quantum process calculus to describe and analyze quantum communication protocols, following the successful field of formal methods from classical computer science. The key idea is to define two systems, one modelling a protocol and one expressing a specification, and prove that they are behaviourally equivalent. We summarize the necessary theory in the process calculus CQP, including the crucial result that equivalence is a congruence, meaning that it is preserved by embedding in any context. We illustrate the approach by analyzing two versions of a quantum error correction system.

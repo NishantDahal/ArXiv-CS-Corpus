@@ -1,0 +1,4 @@
+Software Architecture of Code Analysis Frameworks Matters: The Frama-C Example
+
+Implementing large software, as software analyzers which aim to be used in industrial settings, requires a well-engineered software architecture in order to ease its daily development and its maintenance process during its lifecycle. If the analyzer is not only a single tool, but an open extensible collaborative framework in which external developers may develop plug-ins collaborating with each other, such a well designed architecture even becomes more important.
+  In this experience report, we explain difficulties of developing and maintaining open extensible collaborative analysis frameworks, through the example of Frama-C, a platform dedicated to the analysis of code written in C. We also present the new upcoming software architecture of Frama-C and how it aims to solve some of these issues.

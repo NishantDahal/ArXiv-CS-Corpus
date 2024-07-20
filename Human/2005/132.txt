@@ -1,0 +1,3 @@
+Proof obligations for specification and refinement of liveness properties under weak fairness
+
+In this report, we present a formal model of fair iteration of events for B event systems. The model is used to justify proof obligations for basic liveness properties and preservation under refinement of general liveness properties. The model of fair iteration of events uses the dovetail operator, an operator proposed by Broy and Nelson to model fair choice. The proofs are mainly founded in fixpoint calculations of fair iteration of events and weakest precondition calculus.

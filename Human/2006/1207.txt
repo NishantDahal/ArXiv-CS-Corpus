@@ -1,0 +1,3 @@
+A unifying framework for seed sensitivity and its application to subset seeds
+
+We propose a general approach to compute the seed sensitivity, that can be applied to different definitions of seeds. It treats separately three components of the seed sensitivity problem -- a set of target alignments, an associated probability distribution, and a seed model -- that are specified by distinct finite automata. The approach is then applied to a new concept of subset seeds for which we propose an efficient automaton construction. Experimental results confirm that sensitive subset seeds can be efficiently designed using our approach, and can then be used in similarity search producing better results than ordinary spaced seeds.

@@ -1,0 +1,3 @@
+Fully distributed PageRank computation with exponential convergence
+
+This work studies a fully distributed algorithm for computing the PageRank vector, which is inspired by the Matching Pursuit and features: 1) a fully distributed implementation 2) convergence in expectation with exponential rate 3) low storage requirement (two scalar values per page). Illustrative experiments are conducted to verify the findings.

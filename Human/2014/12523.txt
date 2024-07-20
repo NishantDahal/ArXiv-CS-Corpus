@@ -1,0 +1,4 @@
+A Language Support for Exhaustive Fault-Injection in Message-Passing System Models
+
+This paper presents an approach towards specifying and verifying adaptive distributed systems. We here take fault-handling as an example of adaptive behavior and propose a modeling language Sandal for describing fault-prone message-passing systems. One of the unique mechanisms of the language is a linguistic support for abstracting typical faults such as unexpected termination of processes and random loss of messages. The Sandal compiler translates a model into a set of NuSMV modules. During the compilation process, faults specified in the model will be woven into the output. One can thus enjoy full-automatic exhaustive fault-injection without writing faulty behaviors explicitly. We demonstrate the advantage of the language by verifying a model of the two-phase commit protocol under faulty environment.
+

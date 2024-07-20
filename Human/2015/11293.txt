@@ -1,0 +1,3 @@
+Implementation of a Wake-up Radio Cross-Layer Protocol in OMNeT++ / MiXiM
+
+This paper presents the DoRa protocol, which is a new cross-layer protocol for handling the double radio of nodes in wake-up radio scenario. The implementation details in OMNET++/MiXiM are also given, with a focus on the implemented MAC layers. The main goal of the DoRa protocol is to reduce energy consumption in wireless sensor network, by taking full advantage of the passive wake-up scheme. The performance of the DoRa protocol is then evaluated and results are compared with B-MAC and IEEE 802.15.4 protocols.

@@ -1,0 +1,3 @@
+On The Complexity of Sparse Label Propagation
+
+This paper investigates the computational complexity of sparse label propagation which has been proposed recently for processing network structured data. Sparse label propagation amounts to a convex optimization problem and might be considered as an extension of basis pursuit from sparse vectors to network structured datasets. Using a standard first-order oracle model, we characterize the number of iterations for sparse label propagation to achieve a prescribed accuracy. In particular, we derive an upper bound on the number of iterations required to achieve a certain accuracy and show that this upper bound is sharp for datasets having a chain structure (e.g., time series).

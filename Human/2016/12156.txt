@@ -1,0 +1,3 @@
+Automata Theory Approach to Predicate Intuitionistic Logic
+
+Predicate intuitionistic logic is a well established fragment of dependent types. According to the Curry-Howard isomorphism proof construction in the logic corresponds well to synthesis of a program the type of which is a given formula. We present a model of automata that can handle proof construction in full intuitionistic first-order logic. The automata are constructed in such a way that any successful run corresponds directly to a normal proof in the logic. This makes it possible to discuss formal languages of proofs or programs, the closure properties of the automata and their connections with the traditional logical connectives.

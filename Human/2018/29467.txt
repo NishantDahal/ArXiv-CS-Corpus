@@ -1,0 +1,3 @@
+Algorithms for outerplanar graph roots and graph roots of pathwidth at most 2
+
+Deciding whether a given graph has a square root is a classical problem that has been studied extensively both from graph theoretic and from algorithmic perspectives. The problem is NP-complete in general, and consequently substantial effort has been dedicated to deciding whether a given graph has a square root that belongs to a particular graph class. There are both polynomial-time solvable and NP-complete cases, depending on the graph class. We contribute with new results in this direction. Given an arbitrary input graph G, we give polynomial-time algorithms to decide whether G has an outerplanar square root, and whether G has a square root that is of pathwidth at most 2.

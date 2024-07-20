@@ -1,0 +1,3 @@
+The Effectiveness of Low-Level Structure-based Approach Toward Source Code Plagiarism Level Taxonomy
+
+Low-level approach is a novel way to detect source code plagiarism. Such approach is proven to be effective when compared to baseline approach (i.e., an approach which relies on source code token subsequence matching) in controlled environment. We evaluate the effectiveness of state of the art in low-level approach based on Faidhi \& Robinson's plagiarism level taxonomy; real plagiarism cases are employed as dataset in this work. Our evaluation shows that state of the art in low-level approach is effective to handle most plagiarism attacks. Further, it also outperforms its predecessor and baseline approach in most plagiarism levels.

@@ -1,0 +1,4 @@
+Optimal Principal Component Analysis in Distributed and Streaming Models
+
+We study the Principal Component Analysis (PCA) problem in the distributed and streaming models of computation. Given a matrix $A \in R^{m \times n},$ a rank parameter $k < rank(A)$, and an accuracy parameter $0 < ε< 1$, we want to output an $m \times k$ orthonormal matrix $U$ for which $$ || A - U U^T A ||_F^2 \le \left(1 + ε\right) \cdot || A - A_k||_F^2, $$ where $A_k \in R^{m \times n}$ is the best rank-$k$ approximation to $A$.
+  This paper provides improved algorithms for distributed PCA and streaming PCA.

@@ -1,0 +1,3 @@
+Time- and Space-Efficient Evaluation of Some Hypergeometric Constants
+
+The currently best known algorithms for the numerical evaluation of hypergeometric constants such as $ζ(3)$ to $d$ decimal digits have time complexity $O(M(d) \log^2 d)$ and space complexity of $O(d \log d)$ or $O(d)$. Following work from Cheng, Gergel, Kim and Zima, we present a new algorithm with the same asymptotic complexity, but more efficient in practice. Our implementation of this algorithm improves slightly over existing programs for the computation of $π$, and we announce a new record of 2 billion digits for $ζ(3)$.

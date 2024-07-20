@@ -1,0 +1,5 @@
+Converting Nondeterministic Automata and Context-Free Grammars into Parikh Equivalent One-Way and Two-Way Deterministic Automata
+
+We investigate the conversion of one-way nondeterministic finite automata and context-free grammars into Parikh equivalent one-way and two-way deterministic finite automata, from a descriptional complexity point of view.
+  We prove that for each one-way nondeterministic automaton with $n$ states there exist Parikh equivalent one-way and two-way deterministic automata with $e^{O(\sqrt{n \ln n})}$ and $p(n)$ states, respectively, where $p(n)$ is a polynomial. Furthermore, these costs are tight. In contrast, if all the words accepted by the given automaton contain at least two different letters, then a Parikh equivalent one-way deterministic automaton with a polynomial number of states can be found.
+  Concerning context-free grammars, we prove that for each grammar in Chomsky normal form with h variables there exist Parikh equivalent one-way and two-way deterministic automata with $2^{O(h^2)}$ and $2^{O(h)}$ states, respectively. Even these bounds are tight.

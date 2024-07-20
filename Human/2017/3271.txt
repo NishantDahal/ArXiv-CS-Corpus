@@ -1,0 +1,3 @@
+Several Proofs of Security for a Tokenization Algorithm
+
+In this paper we propose a tokenization algorithm of Reversible Hybrid type, as defined in PCI DSS guidelines for designing a tokenization solution, based on a block cipher with a secret key and (possibly public) additional input. We provide some formal proofs of security for it, which imply our algorithm satisfies the most significant security requirements described in PCI DSS tokenization guidelines. Finally, we give an instantiation with concrete cryptographic primitives and fixed length of the PAN, and we analyze its efficiency and security.

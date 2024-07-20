@@ -1,0 +1,3 @@
+Incorporating POS Tagging into Language Modeling
+
+Language models for speech recognition tend to concentrate solely on recognizing the words that were spoken. In this paper, we redefine the speech recognition problem so that its goal is to find both the best sequence of words and their syntactic role (part-of-speech) in the utterance. This is a necessary first step towards tightening the interaction between speech recognition and natural language understanding.

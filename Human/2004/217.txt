@@ -1,0 +1,3 @@
+Quantum m-out-of-n Oblivious Transfer
+
+In the m-out-of-n oblivious transfer (OT) model, one party Alice sends n bits to another party Bob, Bob can get only m bits from the n bits. However, Alice cannot know which m bits Bob received. Y.Mu[MJV02]} and Naor[Naor01] presented classical m-out-of-n oblivious transfer based on discrete logarithm. As the work of Shor [Shor94], the discrete logarithm can be solved in polynomial time by quantum computers, so such OTs are unsafe to the quantum computer. In this paper, we construct a quantum m-out-of-n OT (QOT) scheme based on the transmission of polarized light and show that the scheme is robust to general attacks, i.e. the QOT scheme satisfies statistical correctness and statistical privacy.

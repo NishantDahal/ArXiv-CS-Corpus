@@ -1,0 +1,3 @@
+Incremental Grid-like Layout Using Soft and Hard Constraints
+
+We explore various techniques to incorporate grid-like layout conventions into a force-directed, constraint-based graph layout framework. In doing so we are able to provide high-quality layout---with predominantly axis-aligned edges---that is more flexible than previous grid-like layout methods and which can capture layout conventions in notations such as SBGN (Systems Biology Graphical Notation). Furthermore, the layout is easily able to respect user-defined constraints and adapt to interaction in online systems and diagram editors such as Dunnart.

@@ -1,0 +1,3 @@
+A Multiscale Framework for Challenging Discrete Optimization
+
+Current state-of-the-art discrete optimization methods struggle behind when it comes to challenging contrast-enhancing discrete energies (i.e., favoring different labels for neighboring variables). This work suggests a multiscale approach for these challenging problems. Deriving an algebraic representation allows us to coarsen any pair-wise energy using any interpolation in a principled algebraic manner. Furthermore, we propose an energy-aware interpolation operator that efficiently exposes the multiscale landscape of the energy yielding an effective coarse-to-fine optimization scheme. Results on challenging contrast-enhancing energies show significant improvement over state-of-the-art methods.

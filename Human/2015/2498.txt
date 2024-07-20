@@ -1,0 +1,3 @@
+Strong-majority bootstrap percolation on regular graphs with low dissemination threshold
+
+Consider the following model of strong-majority bootstrap percolation on a graph. Let r be some positive integer, and p in [0,1]. Initially, every vertex is active with probability p, independently from all other vertices. Then, at every step of the process, each vertex v of degree deg(v) becomes active if at least (deg(v)+r)/2 of its neighbours are active. Given any arbitrarily small p>0 and any integer r, we construct a family of d=d(p,r)-regular graphs such that with high probability all vertices become active in the end. In particular, the case r=1 answers a question and disproves a conjecture of Rapaport, Suchan, Todinca, and Verstraete (Algorithmica, 2011).

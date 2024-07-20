@@ -1,0 +1,3 @@
+Efficient quantum circuits for binary elliptic curve arithmetic: reducing T-gate complexity
+
+Elliptic curves over finite fields GF(2^n) play a prominent role in modern cryptography. Published quantum algorithms dealing with such curves build on a short Weierstrass form in combination with affine or projective coordinates. In this paper we show that changing the curve representation allows a substantial reduction in the number of T-gates needed to implement the curve arithmetic. As a tool, we present a quantum circuit for computing multiplicative inverses in GF(2^n) in depth O(n log n) using a polynomial basis representation, which may be of independent interest.

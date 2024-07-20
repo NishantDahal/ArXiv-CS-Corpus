@@ -1,0 +1,3 @@
+Empty triangles in good drawings of the complete graph
+
+A good drawing of a simple graph is a drawing on the sphere or, equivalently, in the plane in which vertices are drawn as distinct points, edges are drawn as Jordan arcs connecting their end vertices, and any pair of edges intersects at most once. In any good drawing, the edges of three pairwise connected vertices form a Jordan curve which we call a triangle. We say that a triangle is empty if one of the two connected components it induces does not contain any of the remaining vertices of the drawing of the graph. We show that the number of empty triangles in any good drawing of the complete graph $K_n$ with $n$ vertices is at least $n$.

@@ -1,0 +1,4 @@
+Analysis of Resparsification
+
+We show that schemes for sparsifying matrices based on iteratively resampling rows yield guarantees matching classic 'offline' sparsifiers (see e.g. Spielman and Srivastava [STOC 2008]).
+  In particular, this gives a formal analysis of a scheme very similar to the one proposed by Kelner and Levin [TCS 2013].

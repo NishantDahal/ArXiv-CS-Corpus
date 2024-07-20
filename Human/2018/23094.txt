@@ -1,0 +1,3 @@
+Polar Coding for Processes with Memory
+
+We study polar coding for stochastic processes with memory. For example, a process may be defined by the joint distribution of the input and output of a channel. The memory may be present in the channel, the input, or both. We show that $ψ$-mixing processes polarize under the standard Arıkan transform, under a mild condition. We further show that the rate of polarization of the \emph{low-entropy} synthetic channels is roughly $O(2^{-\sqrt{N}})$, where $N$ is the blocklength. That is, essentially the same rate as in the memoryless case.

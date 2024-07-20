@@ -1,0 +1,3 @@
+uIP Support for the Network Simulation Cradle
+
+This paper introduces the ongoing integration of Contiki's uIP stack into the OMNeT++ port of the Network Simulation Cradle (NSC). The NSC utilizes code from real world stack implementations and allows for an accurate simulation and comparison of different TCP/IP stacks. uIP(v6) provides resource-constrained devices with an RFC-compliant TCP/IP stack and promotes the use of IPv6 in the vastly growing field of Internet of Things scenarios. This work-in-progress report discusses our motivation to integrate uIP into the NSC, our chosen approach and possible use cases for the simulation of uIP in OMNeT++.

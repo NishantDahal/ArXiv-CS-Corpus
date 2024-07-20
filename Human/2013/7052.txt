@@ -1,0 +1,3 @@
+Sampling-Based Temporal Logic Path Planning
+
+In this paper, we propose a sampling-based motion planning algorithm that finds an infinite path satisfying a Linear Temporal Logic (LTL) formula over a set of properties satisfied by some regions in a given environment. The algorithm has three main features. First, it is incremental, in the sense that the procedure for finding a satisfying path at each iteration scales only with the number of new samples generated at that iteration. Second, the underlying graph is sparse, which guarantees the low complexity of the overall method. Third, it is probabilistically complete. Examples illustrating the usefulness and the performance of the method are included.

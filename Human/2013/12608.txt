@@ -1,0 +1,5 @@
+Efficient Dynamic Access Analysis Using JavaScript Proxies
+
+JSConTest introduced the notions of effect monitoring and dynamic effect inference for JavaScript. It enables the description of effects with path specifications resembling regular expressions. It is implemented by an offline source code transformation.
+  To overcome the limitations of the JSConTest implementation, we redesigned and reimplemented effect monitoring by taking advantange of JavaScript proxies. Our new design avoids all drawbacks of the prior implementation. It guarantees full interposition; it is not restricted to a subset of JavaScript; it is self-maintaining; and its scalability to large programs is significantly better than with JSConTest.
+  The improved scalability has two sources. First, the reimplementation is significantly faster than the original, transformation-based implementation. Second, the reimplementation relies on the fly-weight pattern and on trace reduction to conserve memory. Only the combination of these techniques enables monitoring and inference for large programs.

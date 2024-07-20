@@ -1,0 +1,5 @@
+An efficient algorithm to decide periodicity of b-recognisable sets using MSDF convention
+
+Given an integer base $b>1$, a set of integers is represented in base $b$ by a language over $\{0,1,...,b-1\}$. The set is said to be $b$-recognisable if its representation is a regular language. It is known that eventually periodic sets are $b$-recognisable in every base $b$, and Cobham's theorem implies the converse: no other set is $b$-recognisable in every base $b$.
+  We are interested in deciding whether a $b$-recognisable set of integers (given as a finite automaton) is eventually periodic. Honkala showed that this problem decidable in 1986 and recent developments give efficient decision algorithms. However, they only work when the integers are written with the least significant digit first.
+  In this work, we consider the natural order of digits (Most Significant Digit First) and give a quasi-linear algorithm to solve the problem in this case.

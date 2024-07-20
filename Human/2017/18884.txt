@@ -1,0 +1,4 @@
+Improved Bounds for Drawing Trees on Fixed Points with L-shaped Edges
+
+Let $T$ be an $n$-node tree of maximum degree 4, and let $P$ be a set of $n$ points in the plane with no two points on the same horizontal or vertical line. It is an open question whether $T$ always has a planar drawing on $P$ such that each edge is drawn as an orthogonal path with one bend (an "L-shaped" edge). By giving new methods for drawing trees, we improve the bounds on the size of the point set $P$ for which such drawings are possible to: $O(n^{1.55})$ for maximum degree 4 trees; $O(n^{1.22})$ for maximum degree 3 (binary) trees; and $O(n^{1.142})$ for perfect binary trees.
+  Drawing ordered trees with L-shaped edges is harder---we give an example that cannot be done and a bound of $O(n \log n)$ points for L-shaped drawings of ordered caterpillars, which contrasts with the known linear bound for unordered caterpillars.

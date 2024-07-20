@@ -1,0 +1,3 @@
+A Hybrid Environment for Syntax-Semantic Tagging
+
+The thesis describes the application of the relaxation labelling algorithm to NLP disambiguation. Language is modelled through context constraint inspired on Constraint Grammars. The constraints enable the use of a real value statind "compatibility". The technique is applied to POS tagging, Shallow Parsing and Word Sense Disambigation. Experiments and results are reported. The proposed approach enables the use of multi-feature constraint models, the simultaneous resolution of several NL disambiguation tasks, and the collaboration of linguistic and statistical models.

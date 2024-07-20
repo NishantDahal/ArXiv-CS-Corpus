@@ -1,0 +1,3 @@
+Minimizing Flow Completion Times using Adaptive Routing over Inter-Datacenter Wide Area Networks
+
+Inter-datacenter networks connect dozens of geographically dispersed datacenters and carry traffic flows with highly variable sizes and different classes. Adaptive flow routing can improve efficiency and performance by assigning paths to new flows according to network status and flow properties. A popular approach widely used for traffic engineering is based on current bandwidth utilization of links. We propose an alternative that reduces bandwidth usage by up to at least 50% and flow completion times by up to at least 40% across various scheduling policies and flow size distributions.

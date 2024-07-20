@@ -1,0 +1,6 @@
+Disjunctive Logic Programs with Inheritance
+
+The paper proposes a new knowledge representation language, called DLP<, which extends disjunctive logic programming (with strong negation) by inheritance. The addition of inheritance enhances the knowledge modeling features of the language providing a natural representation of default reasoning with exceptions.
+  A declarative model-theoretic semantics of DLP< is provided, which is shown to generalize the Answer Set Semantics of disjunctive logic programs.
+  The knowledge modeling features of the language are illustrated by encoding classical nonmonotonic problems in DLP<.
+  The complexity of DLP< is analyzed, proving that inheritance does not cause any computational overhead, as reasoning in DLP< has exactly the same complexity as reasoning in disjunctive logic programming. This is confirmed by the existence of an efficient translation from DLP< to plain disjunctive logic programming. Using this translation, an advanced KR system supporting the DLP< language has been implemented on top of the DLV system and has subsequently been integrated into DLV.

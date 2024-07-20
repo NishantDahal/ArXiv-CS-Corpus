@@ -1,0 +1,6 @@
+A polynomial time algorithm to compute quantum invariants of 3-manifolds with bounded first Betti number
+
+In this article, we introduce a fixed parameter tractable algorithm for computing the Turaev-Viro invariants TV(4,q), using the dimension of the first homology group of the manifold as parameter.
+  This is, to our knowledge, the first parameterised algorithm in computational 3-manifold topology using a topological parameter. The computation of TV(4,q) is known to be #P-hard in general; using a topological parameter provides an algorithm polynomial in the size of the input triangulation for the extremely large family of 3-manifolds with first homology group of bounded rank.
+  Our algorithm is easy to implement and running times are comparable with running times to compute integral homology groups for standard libraries of triangulated 3-manifolds. The invariants we can compute this way are powerful: in combination with integral homology and using standard data sets we are able to roughly double the pairs of 3-manifolds we can distinguish.
+  We hope this qualifies TV(4,q) to be added to the short list of standard properties (such as orientability, connectedness, Betti numbers, etc.) that can be computed ad-hoc when first investigating an unknown triangulation.

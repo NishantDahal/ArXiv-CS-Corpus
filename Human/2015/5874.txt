@@ -1,0 +1,3 @@
+Near-optimal RNA-Seq quantification
+
+We present a novel approach to RNA-Seq quantification that is near optimal in speed and accuracy. Software implementing the approach, called kallisto, can be used to analyze 30 million unaligned paired-end RNA-Seq reads in less than 5 minutes on a standard laptop computer while providing results as accurate as those of the best existing tools. This removes a major computational bottleneck in RNA-Seq analysis.

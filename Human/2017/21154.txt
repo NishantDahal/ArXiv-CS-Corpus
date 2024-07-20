@@ -1,0 +1,3 @@
+Optimal Matroid Partitioning Problems
+
+This paper studies optimal matroid partitioning problems for various objective functions. In the problem, we are given a finite set $E$ and $k$ weighted matroids $(E, \mathcal{I}_i, w_i)$, $i = 1, \dots, k$, and our task is to find a minimum partition $(I_1,\dots,I_k)$ of $E$ such that $I_i \in \mathcal{I}_i$ for all $i$. For each objective function, we give a polynomial-time algorithm or prove NP-hardness. In particular, for the case when the given weighted matroids are identical and the objective function is the sum of the maximum weight in each set (i.e., $\sum_{i=1}^k\max_{e\in I_i}w_i(e)$), we show that the problem is strongly NP-hard but admits a PTAS.

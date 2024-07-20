@@ -1,0 +1,5 @@
+Compression for Smooth Shape Analysis
+
+Most 3D shape analysis methods use triangular meshes to discretize both the shape and functions on it as piecewise linear functions. With this representation, shape analysis requires fine meshes to represent smooth shapes and geometric operators like normals, curvatures, or Laplace-Beltrami eigenfunctions at large computational and memory costs.
+  We avoid this bottleneck with a compression technique that represents a smooth shape as subdivision surfaces and exploits the subdivision scheme to parametrize smooth functions on that shape with a few control parameters. This compression does not affect the accuracy of the Laplace-Beltrami operator and its eigenfunctions and allow us to compute shape descriptors and shape matchings at an accuracy comparable to triangular meshes but a fraction of the computational cost.
+  Our framework can also compress surfaces represented by point clouds to do shape analysis of 3D scanning data.

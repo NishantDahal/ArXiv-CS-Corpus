@@ -1,0 +1,6 @@
+Helly $\mathbf{EPT}$ graphs on bounded degree trees: forbidden induced subgraphs and efficient recognition
+
+The edge intersection graph of a family of paths in host tree is called an $EPT$ graph. When the host tree has maximum degree $h$, we say that $G$ belongs to the class $[h,2,2]$. If, in addition, the family of paths satisfies the Helly property, then $G \in$ Helly $[h,2,2]$.
+  The time complexity of the recognition of the classes
+  $[h,2,2]$ inside the class $EPT$ is open for every $h> 4$. Golumbic et al. wonder if the only obstructions for an $EPT$ graph belonging to $[h,2,2]$ are the chordless cycles $C_n$ for $n> h$. In the present paper, we give a negative answer to that question, we present a family of $EPT$ graphs which are forbidden induced subgraphs for the classes $[h,2,2]$.
+  Using them we obtain a total characterization by induced forbidden subgraphs of the classes Helly $[h,2,2]$ for $h\geq 4$ inside the class $EPT$. As a byproduct, we prove that Helly $EPT$$\cap [h,2,2]=$ Helly $[h,2,2]$. We characterize Helly $[h,2,2]$ graphs by their atoms in the decomposition by clique separators. We give an efficient algorithm to recognize Helly $[h,2,2]$ graphs.

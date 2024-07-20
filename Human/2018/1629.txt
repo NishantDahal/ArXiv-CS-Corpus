@@ -1,0 +1,3 @@
+Using KL-divergence to focus Deep Visual Explanation
+
+We present a method for explaining the image classification predictions of deep convolution neural networks, by highlighting the pixels in the image which influence the final class prediction. Our method requires the identification of a heuristic method to select parameters hypothesized to be most relevant in this prediction, and here we use Kullback-Leibler divergence to provide this focus. Overall, our approach helps in understanding and interpreting deep network predictions and we hope contributes to a foundation for such understanding of deep learning networks. In this brief paper, our experiments evaluate the performance of two popular networks in this context of interpretability.

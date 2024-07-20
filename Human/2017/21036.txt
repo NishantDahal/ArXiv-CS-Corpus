@@ -1,0 +1,3 @@
+NTRUCipher-Lattice Based Secret Key Encryption
+
+NTRU cryptosystem has allowed designing a range of cryptographic schemes due to its flexibility and efficiency. Although NTRU cryptosystem was introduced nearly two decades ago, it has not yet received any attention like designing a secret key encryption. In this paper, we propose a secret key encryption over NTRU lattices, named as NTRUCipher. This NTRUCipher is designed using modification of the NTRU public key encryption. We analyze this cipher efficiency and the space complexity with respect to security aspects, and also show that the NTRUCipher is secured under the indistinguishability chosen plaintext attack.

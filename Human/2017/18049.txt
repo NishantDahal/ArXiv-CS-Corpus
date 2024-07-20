@@ -1,0 +1,3 @@
+Blocking Versus Non-Blocking Halo Exchange
+
+This report describes the design, implementation and analysis of a non-blocking halo exchange routine as an alternative to the blocking halo exchange routine in the lattice Boltzmann code Ludwig. The alternative, non-blocking, routine is implemented in such a way to allow work-communication overlap. Detailed benchmarks in this report show that the non-blocking version is a good alternative even without any work-communication overlap. Work-Communication overlap can be used to improve the performance of the non-blocking routine. Development and benchmarking were conducted on the UK national supercomputer, ARCHER.

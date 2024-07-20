@@ -1,0 +1,3 @@
+Offline Handwritten Recognition of Malayalam District Name - A Holistic Approach
+
+Various machine learning methods for writer independent recognition of Malayalam handwritten district names are discussed in this paper. Data collected from 56 different writers are used for the experiments. The proposed work can be used for the recognition of district in the address written in Malayalam. Different methods for Dimensionality reduction are discussed. Features consider for the recognition are Histogram of Oriented Gradient descriptor, Number of Black Pixels in the upper half and lower half, length of image. Classifiers used in this work are Neural Network, SVM and RandomForest.

@@ -1,0 +1,3 @@
+An Experimental Comparison of Trust Region and Level Sets
+
+High-order (non-linear) functionals have become very popular in segmentation, stereo and other computer vision problems. Level sets is a well established general gradient descent framework, which is directly applicable to optimization of such functionals and widely used in practice. Recently, another general optimization approach based on trust region methodology was proposed for regional non-linear functionals. Our goal is a comprehensive experimental comparison of these two frameworks in regard to practical efficiency, robustness to parameters, and optimality. We experiment on a wide range of problems with non-linear constraints on segment volume, appearance and shape.

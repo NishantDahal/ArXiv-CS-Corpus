@@ -1,0 +1,3 @@
+Euler angles based loss function for camera relocalization with Deep learning
+
+Deep learning has been applied to camera relocalization, in particular, PoseNet and its extended work are the convolutional neural networks which regress the camera pose from a single image. However there are many problems, one of them is expensive parameter selection. In this paper, we directly explore the three Euler angles as the orientation representation in the camera pose regressor. There is no need to select the parameter, which is not tolerant in the previous works. Experimental results on the 7 Scenes datasets and the King's College dataset demonstrate that it has competitive performances.

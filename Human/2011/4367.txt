@@ -1,0 +1,3 @@
+A note on efficient computation of hybridization number via softwired clusters
+
+Here we present a new fixed parameter tractable algorithm to compute the hybridization number r of two rooted binary phylogenetic trees on taxon set X in time (6r)^r.poly(n), where n=|X|. The novelty of this approach is that it avoids the use of Maximum Acyclic Agreement Forests (MAAFs) and instead exploits the equivalence of the problem with a related problem from the softwired clusters literature. This offers an alternative perspective on the underlying combinatorial structure of the hybridization number problem.

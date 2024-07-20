@@ -1,0 +1,3 @@
+Distributed Computation of Mixing Time
+
+The mixing time of a graph is an important metric, which is not only useful in analyzing connectivity and expansion properties of the network, but also serves as a key parameter in designing efficient algorithms. We present an efficient distributed algorithm for computing the mixing time of undirected graphs. Our algorithm estimates the mixing time $τ_s$ (with respect to a source node $s$) of any $n$-node undirected graph in $O(τ_s \log n)$ rounds. Our algorithm is based on random walks and require very little memory and use lightweight local computations, and work in the CONGEST model. Hence our algorithm is scalable under bandwidth constraints and can be an helpful building block in the design of topologically aware networks.

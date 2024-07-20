@@ -1,0 +1,3 @@
+Amortized communication complexity of an equality predicate
+
+We study the communication complexity of a direct sum of independent copies of the equality predicate. We prove that the probabilistic communication complexity of this problem is equal to O(N); computational complexity of the proposed protocol is polynomial in size of inputs. Our protocol improves the result achieved in 1995(Feder, Kushilevitz, Naor, Nisan). Our construction is based on two techniques: Nisan's pseudorandom generator (1992) and Smith's string synchronization algorithm (2007).

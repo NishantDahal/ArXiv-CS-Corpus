@@ -1,0 +1,3 @@
+Computing the Distance between Piecewise-Linear Bivariate Functions
+
+We consider the problem of computing the distance between two piecewise-linear bivariate functions $f$ and $g$ defined over a common domain $M$. We focus on the distance induced by the $L_2$-norm, that is $\|f-g\|_2=\sqrt{\iint_M (f-g)^2}$. If $f$ is defined by linear interpolation over a triangulation of $M$ with $n$ triangles, while $g$ is defined over another such triangulation, the obvious naïve algorithm requires $Θ(n^2)$ arithmetic operations to compute this distance. We show that it is possible to compute it in $Ø(n\log^4 n)$ arithmetic operations, by reducing the problem to multi-point evaluation of a certain type of polynomials. We also present an application to terrain matching.

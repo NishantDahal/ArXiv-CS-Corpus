@@ -1,0 +1,3 @@
+Meshless Methods for Large Deformation Elastodynamics
+
+Meshless methods are a promising candidate to reliably simulate materials undergoing large deformations. Unlike mesh based methods like the FEM, meshless methods are not limited in the amount of deformation they can reproduce since there are no mesh regularity constraints to consider. However, other numerical issues like zero energy modes, the tensile instability and disorder of the discretization points due to the deformation may impose limits on the deformations possible. It is thus worthwhile to benchmark a wide array of these methods since a proper review to this end has been missing from the literature so far. In the interest of reproducibility, the complete source code of all methods considered is made public.

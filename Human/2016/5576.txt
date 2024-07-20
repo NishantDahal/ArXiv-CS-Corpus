@@ -1,0 +1,3 @@
+Variations on Noetherianness
+
+In constructive mathematics, several nonequivalent notions of finiteness exist. In this paper, we continue the study of Noetherian sets in the dependently typed setting of the Agda programming language. We want to say that a set is Noetherian, if, when we are shown elements from it one after another, we will sooner or later have seen some element twice. This idea can be made precise in a number of ways. We explore the properties and connections of some of the possible encodings. In particular, we show that certain implementations imply decidable equality while others do not, and we construct counterexamples in the latter case. Additionally, we explore the relation between Noetherianness and other notions of finiteness.

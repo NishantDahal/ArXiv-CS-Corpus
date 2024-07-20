@@ -1,0 +1,3 @@
+Identifying Avatar Aliases in Starcraft 2
+
+In electronic sports, cyberathletes conceal their online training using different avatars (virtual identities), allowing them not being recognized by the opponents they may face in future competitions. In this article, we propose a method to tackle this avatar aliases identification problem. Our method trains a classifier on behavioural data and processes the confusion matrix to output label pairs which concentrate confusion. We experimented with Starcraft 2 and report our first results.

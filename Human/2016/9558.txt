@@ -1,0 +1,3 @@
+Monocular Urban Localization using Street View
+
+This paper presents a metric global localization in the urban environment only with a monocular camera and the Google Street View database. We fully leverage the abundant sources from the Street View and benefits from its topo-metric structure to build a coarse-to-fine positioning, namely a topological place recognition process and then a metric pose estimation by local bundle adjustment. Our method is tested on a 3 km urban environment and demonstrates both sub-meter accuracy and robustness to viewpoint changes, illumination and occlusion. To our knowledge, this is the first work that studies the global urban localization simply with a single camera and Street View.

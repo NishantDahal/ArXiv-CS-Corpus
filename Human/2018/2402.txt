@@ -1,0 +1,3 @@
+Interpreting Complex Regression Models
+
+Interpretation of a machine learning induced models is critical for feature engineering, debugging, and, arguably, compliance. Yet, best of breed machine learning models tend to be very complex. This paper presents a method for model interpretation which has the main benefit that the simple interpretations it provides are always grounded in actual sets of learning examples. The method is validated on the task of interpreting a complex regression model in the context of both an academic problem -- predicting the year in which a song was recorded and an industrial one -- predicting mail user churn.

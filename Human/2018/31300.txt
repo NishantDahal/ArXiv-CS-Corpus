@@ -1,0 +1,3 @@
+A note on simultaneous representation problem for interval and circular-arc graphs
+
+In this short note, we show two NP-completeness results regarding the \emph{simultaneous representation problem}, introduced by Lubiw and Jampani. The simultaneous representation problem for a given class of intersection graphs asks if some $k$ graphs can be represented so that every vertex is represented by the same interval in each representation. We prove that it is NP-complete to decide this for the class of interval and circular-arc graphs in the case when $k$ is a part of the input and graphs are not in a sunflower position.

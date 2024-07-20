@@ -1,0 +1,3 @@
+Approximate Gaussian Elimination for Laplacians: Fast, Sparse, and Simple
+
+We show how to perform sparse approximate Gaussian elimination for Laplacian matrices. We present a simple, nearly linear time algorithm that approximates a Laplacian by a matrix with a sparse Cholesky factorization, the version of Gaussian elimination for symmetric matrices. This is the first nearly linear time solver for Laplacian systems that is based purely on random sampling, and does not use any graph theoretic constructions such as low-stretch trees, sparsifiers, or expanders. The crux of our analysis is a novel concentration bound for matrix martingales where the differences are sums of conditionally independent variables.

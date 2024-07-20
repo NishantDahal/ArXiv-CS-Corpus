@@ -1,0 +1,4 @@
+Exact Byzantine Consensus in Directed Graphs
+
+Consider a synchronous point-to-point network of n nodes connected by directed links, wherein each node has a binary input. This paper proves a tight necessary and sufficient condition on the underlying communication topology for achieving Byzantine consensus among these nodes in the presence of up to f Byzantine faults. We derive a necessary condition, and then we provide a constructive proof of sufficiency by presenting a Byzantine consensus algorithm for directed graphs that satisfy the necessary condition.
+  Prior work has developed analogous necessary and sufficient conditions for undirected graphs. It is known that, for undirected graphs, the following two conditions are together necessary and sufficient [8, 2, 6]: (i) n ? 3f + 1, and (ii) network connectivity greater than 2f. However, these conditions are not adequate to completely characterize Byzantine consensus in directed graphs.

@@ -1,0 +1,3 @@
+Quantum Convolutional BCH Codes
+
+Quantum convolutional codes can be used to protect a sequence of qubits of arbitrary length against decoherence. We introduce two new families of quantum convolutional codes. Our construction is based on an algebraic method which allows to construct classical convolutional codes from block codes, in particular BCH codes. These codes have the property that they contain their Euclidean, respectively Hermitian, dual codes. Hence, they can be used to define quantum convolutional codes by the stabilizer code construction. We compute BCH-like bounds on the free distances which can be controlled as in the case of block codes, and establish that the codes have non-catastrophic encoders.

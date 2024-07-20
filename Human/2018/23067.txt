@@ -1,0 +1,3 @@
+The recursion hierarchy for PCF is strict
+
+We consider the sublanguages of Plotkin's PCF obtained by imposing some bound k on the levels of types for which fixed point operators are admitted. We show that these languages form a strict hierarchy, in the sense that a fixed point operator for a type of level k can never be defined (up to observational equivalence) using fixed point operators for lower types. This answers a question posed by Berger. Our proof makes substantial use of the theory of nested sequential procedures (also called PCF Böhm trees) as expounded in the recent book of Longley and Normann.

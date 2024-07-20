@@ -1,0 +1,10 @@
+Fast Regression with an $\ell_\infty$ Guarantee
+
+Sketching has emerged as a powerful technique for speeding up problems in numerical linear algebra, such as regression. In the overconstrained regression problem, one is given an $n \times d$ matrix $A$, with $n \gg d$, as well as an $n \times 1$ vector $b$, and one wants to find a vector $\hat{x}$ so as to minimize the residual error $\|Ax-b\|_2$. Using the sketch and solve paradigm, one first computes $S \cdot A$ and $S \cdot b$ for a randomly chosen matrix $S$, then outputs $x' = (SA)^{\dagger} Sb$ so as to minimize $\|SAx' - Sb\|_2$.
+  The sketch-and-solve paradigm gives a bound on $\|x'-x^*\|_2$ when $A$ is well-conditioned. Our main result is that, when $S$ is the subsampled randomized Fourier/Hadamard transform, the error $x' - x^*$ behaves as if it lies in a "random" direction within this bound: for any fixed direction $a\in \mathbb{R}^d$, we have with $1 - d^{-c}$ probability that
+  \[
+  \langle a, x'-x^*\rangle \lesssim \frac{\|a\|_2\|x'-x^*\|_2}{d^{\frac{1}{2}-γ}}, \quad (1)
+  \]
+  where $c, γ> 0$ are arbitrary constants.
+  This implies $\|x'-x^*\|_{\infty}$ is a factor $d^{\frac{1}{2}-γ}$ smaller than $\|x'-x^*\|_2$. It also gives a better bound on the generalization of $x'$ to new examples: if rows of $A$ correspond to examples and columns to features, then our result gives a better bound for the error introduced by sketch-and-solve when classifying fresh examples. We show that not all oblivious subspace embeddings $S$ satisfy these properties. In particular, we give counterexamples showing that matrices based on Count-Sketch or leverage score sampling do not satisfy these properties.
+  We also provide lower bounds, both on how small $\|x'-x^*\|_2$ can be, and for our new guarantee (1), showing that the subsampled randomized Fourier/Hadamard transform is nearly optimal.

@@ -1,0 +1,3 @@
+Resiliency with Aggregate Computing: State of the Art and Roadmap
+
+One of the difficulties in developing collective adaptive systems is the challenge of simultaneously engineering both the desired resilient behaviour of the collective and the details of its implementation on individual devices. Aggregate computing simplifies this problem by separating these aspects into different layers of abstraction by means of a unifying notion of computational field and a functional computational model. We review the state of the art in aggregate computing, discuss the various resiliency properties it supports, and develop a roadmap of foundational problems still needing to be addressed in the continued development of this emerging discipline.

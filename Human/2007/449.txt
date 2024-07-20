@@ -1,0 +1,3 @@
+NLC-2 graph recognition and isomorphism
+
+NLC-width is a variant of clique-width with many application in graph algorithmic. This paper is devoted to graphs of NLC-width two. After giving new structural properties of the class, we propose a $O(n^2 m)$-time algorithm, improving Johansson's algorithm \cite{Johansson00}. Moreover, our alogrithm is simple to understand. The above properties and algorithm allow us to propose a robust $O(n^2 m)$-time isomorphism algorithm for NLC-2 graphs. As far as we know, it is the first polynomial-time algorithm.

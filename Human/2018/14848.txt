@@ -1,0 +1,3 @@
+StegNet: Mega Image Steganography Capacity with Deep Convolutional Network
+
+Traditional image steganography often leans interests towards safely embedding hidden information into cover images with payload capacity almost neglected. This paper combines recent deep convolutional neural network methods with image-into-image steganography. It successfully hides the same size images with a decoding rate of 98.2% or bpp (bits per pixel) of 23.57 by changing only 0.76% of the cover image on average. Our method directly learns end-to-end mappings between the cover image and the embedded image and between the hidden image and the decoded image. We~further show that our embedded image, while with mega payload capacity, is still robust to statistical analysis.

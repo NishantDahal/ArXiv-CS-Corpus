@@ -1,0 +1,3 @@
+Irregular Convolutional Neural Networks
+
+Convolutional kernels are basic and vital components of deep Convolutional Neural Networks (CNN). In this paper, we equip convolutional kernels with shape attributes to generate the deep Irregular Convolutional Neural Networks (ICNN). Compared to traditional CNN applying regular convolutional kernels like ${3\times3}$, our approach trains irregular kernel shapes to better fit the geometric variations of input features. In other words, shapes are learnable parameters in addition to weights. The kernel shapes and weights are learned simultaneously during end-to-end training with the standard back-propagation algorithm. Experiments for semantic segmentation are implemented to validate the effectiveness of our proposed ICNN.

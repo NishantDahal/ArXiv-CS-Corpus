@@ -1,0 +1,3 @@
+Multilingual Text Analysis for Text-to-Speech Synthesis
+
+We present a model of text analysis for text-to-speech (TTS) synthesis based on (weighted) finite-state transducers, which serves as the text-analysis module of the multilingual Bell Labs TTS system. The transducers are constructed using a lexical toolkit that allows declarative descriptions of lexicons, morphological rules, numeral-expansion rules, and phonological rules, inter alia. To date, the model has been applied to eight languages: Spanish, Italian, Romanian, French, German, Russian, Mandarin and Japanese.

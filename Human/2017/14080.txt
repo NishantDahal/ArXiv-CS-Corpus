@@ -1,0 +1,3 @@
+On the steganographic image based approach to PDF files protection
+
+Digital images can be copied without authorization and have to be protected. Two schemes for watermarking images in PDF document were considered. Both schemes include a converter to extract images from PDF pages and return the protected images back. Frequency and spatial domain embedding were used for hiding a message presented by a binary pattern. We considered visible and invisible watermarking and found that spatial domain LSB technique can be more preferable than frequency embedding using DWT.

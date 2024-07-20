@@ -1,0 +1,4 @@
+Optimal parameters for bloom-filtered joins in Spark
+
+In this paper, we present an algorithm that joins relational database tables efficiently in a distributed environment using Bloom filters of an optimal size. We propose not to use fixed-size bloom filters as in previous research, but to find an optimal size for the bloom filters, by creating a mathematical model of the join algorithm, and then finding the optimal parameters using traditional mathematical optimization.
+  This algorithm with optimal parameters beats both previous approaches using bloom filters and the default SparkSQL engine not only on star-joins, but also on traditional database schema. The experiments were conducted on a standard TPC-H database stored as parquet files on a distributed file system.

@@ -1,0 +1,3 @@
+Hollow Heaps
+
+We introduce the hollow heap, a very simple data structure with the same amortized efficiency as the classical Fibonacci heap. All heap operations except delete and delete-min take $O(1)$ time, worst case as well as amortized; delete and delete-min take $O(\log n)$ amortized time on a heap of $n$ items. Hollow heaps are by far the simplest structure to achieve this. Hollow heaps combine two novel ideas: the use of lazy deletion and re-insertion to do decrease-key operations, and the use of a dag (directed acyclic graph) instead of a tree or set of trees to represent a heap. Lazy deletion produces hollow nodes (nodes without items), giving the data structure its name.

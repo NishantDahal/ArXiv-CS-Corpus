@@ -1,0 +1,3 @@
+Localization in Wireless Sensor Grids
+
+This work reports experiences on using radio ranging to position sensors in a grid topology. The implementation is simple, efficient, and could be practically distributed. The paper describes an implementation and experimental result based on RSSI distance estimation. Novel techniques such as fuzzy membership functions and table lookup are used to obtain more accurate result and simplify the computation. An 86% accuracy is achieved in the experiment in spite of inaccurate RSSI distance estimates with errors up to 60%.

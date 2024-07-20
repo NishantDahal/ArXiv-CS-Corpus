@@ -1,0 +1,3 @@
+The Schreier-Sims algorithm for matrix groups
+
+This is the report of a project with the aim to make a new implementation of the Schreier-Sims algorithm in GAP, specialized for matrix groups. The standard Schreier-Sims algorithm is described in some detail, followed by descriptions of the probabilistic Schreier-Sims algorithm and the Schreier-Todd-Coxeter-Sims algorithm. Then we discuss our implementation and some optimisations, and finally we report on the performance of our implementation, as compared to the existing implementation in GAP, and we give benchmark results. The conclusion is that our implementation in some cases is faster and consumes much less memory.

@@ -1,0 +1,3 @@
+Random Grammar-based Testing for Covering All Non-Terminals
+
+In the context of software testing, generating complex data inputs is frequently performed using a grammar-based specification. For combinatorial reasons, an exhaustive generation of the data -- of a given size -- is practically impossible, and most approaches are either based on random techniques or on coverage criteria. In this paper, we show how to combine these two techniques by biasing the random generation in order to optimise the probability of satisfying a coverage criterion.

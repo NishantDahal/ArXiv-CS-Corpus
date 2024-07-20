@@ -1,0 +1,3 @@
+Any-gram Kernels for Sentence Classification: A Sentiment Analysis Case Study
+
+Any-gram kernels are a flexible and efficient way to employ bag-of-n-gram features when learning from textual data. They are also compatible with the use of word embeddings so that word similarities can be accounted for. While the original any-gram kernels are implemented on top of tree kernels, we propose a new approach which is independent of tree kernels and is more efficient. We also propose a more effective way to make use of word embeddings than the original any-gram formulation. When applied to the task of sentiment classification, our new formulation achieves significantly better performance.

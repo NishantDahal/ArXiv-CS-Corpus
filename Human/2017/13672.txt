@@ -1,0 +1,4 @@
+Clingo goes Linear Constraints over Reals and Integers
+
+The recent series 5 of the ASP system clingo provides generic means to enhance basic Answer Set Programming (ASP) with theory reasoning capabilities. We instantiate this framework with different forms of linear constraints, discuss the respective implementations, and present techniques of how to use these constraints in a reactive context. More precisely, we introduce extensions to clingo with difference and linear constraints over integers and reals, respectively, and realize them in complementary ways. Finally, we empirically evaluate the resulting clingo derivatives clingo[dl] and clingo[lp] on common fragments and contrast them to related ASP systems.
+  This paper is under consideration for acceptance in TPLP.

@@ -1,0 +1,3 @@
+A Simple Semantics and Static Analysis for Stack Inspection
+
+The Java virtual machine and the .NET common language runtime feature an access control mechanism specified operationally in terms of run-time stack inspection. We give a denotational semantics in "eager" form, and show that it is equivalent to the "lazy" semantics using stack inspection. We give a static analysis of safety, i.e., the absence of security errors, that is simpler than previous proposals. We identify several program transformations that can be used to remove run-time checks.  We give complete, detailed proofs for safety of the analysis and for the transformations, exploiting compositionality of the eager semantics.

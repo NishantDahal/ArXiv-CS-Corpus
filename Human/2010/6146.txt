@@ -1,0 +1,3 @@
+Non Abelian Bent Functions
+
+Perfect nonlinear functions from a finite group $G$ to another one $H$ are those functions $f: G \rightarrow H$ such that for all nonzero $α\in G$, the derivative $d_αf: x \mapsto f(αx) f(x)^{-1}$ is balanced. In the case where both $G$ and $H$ are Abelian groups, $f: G \rightarrow H$ is perfect nonlinear if and only if $f$ is bent i.e for all nonprincipal character $χ$ of $H$, the (discrete) Fourier transform of $χ\circ f$ has a constant magnitude equals to $|G|$. In this paper, using the theory of linear representations, we exhibit similar bentness-like characterizations in the cases where $G$ and/or $H$ are (finite) non Abelian groups. Thus we extend the concept of bent functions to the framework of non Abelian groups.

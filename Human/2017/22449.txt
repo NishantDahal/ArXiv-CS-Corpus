@@ -1,0 +1,10 @@
+Triangulated Surface Denoising using High Order Regularization with Dynamic Weights
+
+Recovering high quality surfaces from noisy triangulated surfaces is a fundamental important problem in geometry processing.
+  Sharp features including edges and corners can not be well preserved in most existing denoising methods except the recent total variation (TV) and $\ell_0$ regularization methods.
+  However, these two methods have suffered producing staircase artifacts in smooth regions.
+  In this paper, we first introduce a second order regularization method for restoring a surface normal vector field, and then propose a new vertex updating scheme to recover the desired surface according to the restored surface normal field.
+  The proposed model can preserve sharp features and simultaneously suppress the staircase effects in smooth regions which overcomes the drawback of the first order models.
+  In addition, the new vertex updating scheme can prevent ambiguities introduced in existing vertex updating methods.
+  Numerically, the proposed high order model is solved by the augmented Lagrangian method with a dynamic weighting strategy.
+  Intensive numerical experiments on a variety of surfaces demonstrate the superiority of our method by visually and quantitatively.

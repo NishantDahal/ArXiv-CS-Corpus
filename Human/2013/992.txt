@@ -1,0 +1,3 @@
+A dynamic data structure for counting subgraphs in sparse graphs
+
+We present a dynamic data structure representing a graph G, which allows addition and removal of edges from G and can determine the number of appearances of a graph of a bounded size as an induced subgraph of G. The queries are answered in constant time. When the data structure is used to represent graphs from a class with bounded expansion (which includes planar graphs and more generally all proper classes closed on topological minors, as well as many other natural classes of graphs with bounded average degree), the amortized time complexity of updates is polylogarithmic.

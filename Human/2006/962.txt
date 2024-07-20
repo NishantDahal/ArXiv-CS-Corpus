@@ -1,0 +1,3 @@
+On-line topological simplification of weighted graphs
+
+We describe two efficient on-line algorithms to simplify weighted graphs by eliminating degree-two vertices. Our algorithms are on-line in that they react to updates on the data, keeping the simplification up-to-date. The supported updates are insertions of vertices and edges; hence, our algorithms are partially dynamic. We provide both analytical and empirical evaluations of the efficiency of our approaches. Specifically, we prove an O(log n) upper bound on the amortized time complexity of our maintenance algorithms, with n the number of insertions.

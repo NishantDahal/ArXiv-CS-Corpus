@@ -1,0 +1,8 @@
+Jaywalking your Dog - Computing the Fréchet Distance with Shortcuts
+
+The similarity of two polygonal curves can be measured using the Fréchet distance. We introduce the notion of a more robust Fréchet distance, where one is allowed to shortcut between vertices of one of the curves. This is a natural approach for handling noise, in particular batched outliers. We compute a (3+\eps)-approximation to the minimum Fréchet distance over all possible such shortcuts, in near linear time, if the curve is c-packed and the number of shortcuts is either small or unbounded.
+  To facilitate the new algorithm we develop several new tools:
+  (A) A data structure for preprocessing a curve (not necessarily c-packed) that supports (1+\eps)-approximate Fréchet distance queries between a subcurve (of the original curve) and a line segment.
+  (B) A near linear time algorithm that computes a permutation of the vertices of a curve, such that any prefix of 2k-1 vertices of this permutation, form an optimal approximation (up to a constant factor) to the original curve compared to any polygonal curve with k vertices, for any k > 0.
+  (C) A data structure for preprocessing a curve that supports approximate Fréchet distance queries between a subcurve and query polygonal curve. The query time depends quadratically on the complexity of the query curve, and only (roughly) logarithmically on the complexity of the original curve.
+  To our knowledge, these are the first data structures to support these kind of queries efficiently.

@@ -1,0 +1,3 @@
+Global stability of the Rate Control Protocol (RCP) and some implications for protocol design
+
+The Rate Control Protocol (RCP) is a congestion control protocol that relies on explicit feedback from routers. RCP estimates the flow rate using two forms of feedback: rate mismatch and queue size. However, it remains an open design question whether queue size feedback in RCP is useful, given the presence of rate mismatch. The model we consider has RCP flows operating over a single bottleneck, with heterogeneous time delays. We first derive a sufficient condition for global stability, and then highlight how this condition favors the design choice of having only rate mismatch in the protocol definition.

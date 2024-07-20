@@ -1,0 +1,3 @@
+Space Subdivision to Speed-up Convex Hull Construction in E3
+
+Convex hulls are fundamental geometric tools used in a number of algorithms. This paper presents a fast, simple to implement and robust Smart Convex Hull (S-CH) algorithm for computing the convex hull of a set of points in E3. This algorithm is based on "spherical" space subdivision. The main idea of the S-CH algorithm is to eliminate as many input points as possible before the convex hull construction. The experimental results show that only a very small number of points are used for the final convex hull calculation. Experiments made also proved that the proposed S-CH algorithm achieves a better time complexity in comparison with other algorithms in E3.

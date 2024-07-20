@@ -1,0 +1,3 @@
+Simplified Long Short-term Memory Recurrent Neural Networks: part III
+
+This is part III of three-part work. In parts I and II, we have presented eight variants for simplified Long Short Term Memory (LSTM) recurrent neural networks (RNNs). It is noted that fast computation, specially in constrained computing resources, are an important factor in processing big time-sequence data. In this part III paper, we present and evaluate two new LSTM model variants which dramatically reduce the computational load while retaining comparable performance to the base (standard) LSTM RNNs. In these new variants, we impose (Hadamard) pointwise state multiplications in the cell-memory network in addition to the gating signal networks.

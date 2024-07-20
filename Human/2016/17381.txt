@@ -1,0 +1,3 @@
+dMath: Distributed Linear Algebra for DL
+
+The paper presents a parallel math library, dMath, that demonstrates leading scaling when using intranode, internode, and hybrid-parallelism for deep learning (DL). dMath provides easy-to-use distributed primitives and a variety of domain-specific algorithms including matrix multiplication, convolutions, and others allowing for rapid development of scalable applications like deep neural networks (DNNs). Persistent data stored in GPU memory and advanced memory management techniques avoid costly transfers between host and device. dMath delivers performance, portability, and productivity to its specific domain of support.

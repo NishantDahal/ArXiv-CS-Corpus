@@ -1,0 +1,3 @@
+On dynamics of excitation in F-actin: automaton model
+
+We represent a filamentous actin molecule as a graph of finite-state machines (F-actin automaton). Each node in the graph takes three states --- resting, excited, refractory. All nodes update their states simultaneously and by the same rule, in discrete time steps. Two rules are considered: threshold rule --- a resting node is excited if it has at least one excited neighbour and narrow excitation interval rule --- a resting node is excited if it has exactly one excited neighbour. We analyse distributions of transient periods and lengths of limit cycles in evolution of F-actin automaton, propose mechanisms for formation of limit cycles and evaluate density of information storage in F-actin automata.

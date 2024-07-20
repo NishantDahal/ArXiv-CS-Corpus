@@ -1,0 +1,3 @@
+The Powerful Model Adpredictor for Search Engine Switching Detection Challenge
+
+The purpose of the Switching Detection Challenge in the 2013 WSCD workshop was to predict users' search engine swithcing actions given records about search sessions and logs.Our solution adopted the powerful prediction model Adpredictor and utilized the method of feature engineering. We successfully applied the click through rate (CTR) prediction model Adpredicitor into our solution framework, and then the discovery of effective features and the multiple classification of different switching type make our model outperforms many competitors. We achieved an AUC score of 0.84255 on the private leaderboard and ranked the 5th among all the competitors in the competition.

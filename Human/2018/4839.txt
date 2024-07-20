@@ -1,0 +1,4 @@
+On the Diameter of Tree Associahedra
+
+We consider a natural notion of search trees on graphs, which we show is ubiquitous in various areas of discrete mathematics and computer science. Search trees on graphs can be modified by local operations called rotations, which generalize rotations in binary search trees. The rotation graph of search trees on a graph $G$ is the skeleton of a polytope called the graph associahedron of $G$.
+  We consider the case where the graph $G$ is a tree. We construct a family of trees $G$ on $n$ vertices and pairs of search trees on $G$ such that the minimum number of rotations required to transform one search tree into the other is $Ω(n\log n)$. This implies that the worst-case diameter of tree associahedra is $Θ(n\log n)$, which answers a question from Thibault Manneville and Vincent Pilaud. The proof relies on a notion of projection of a search tree which may be of independent interest.

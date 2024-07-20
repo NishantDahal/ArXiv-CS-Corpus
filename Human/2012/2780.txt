@@ -1,0 +1,3 @@
+Intelligent Database Flexible Querying System by Approximate Query Processing
+
+Database flexible querying is an alternative to the classic one for users. The use of Formal Concepts Analysis (FCA) makes it possible to make approximate answers that those turned over by a classic DataBase Management System (DBMS). Some applications do not need exact answers. However, flexible querying can be expensive in response time. This time is more significant when the flexible querying require the calculation of aggregate functions ("Sum", "Avg", "Count", "Var" etc.). In this paper, we propose an approach which tries to solve this problem by using Approximate Query Processing (AQP).

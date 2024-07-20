@@ -1,0 +1,3 @@
+A Cryptographic Mutual Authentication Scheme for Web Applications
+
+The majority of current web authentication is built on username/password. Unfortunately, password replacement offers more security, but it is difficult to use and expensive to deploy. In this paper, we propose a new mutual authentication scheme called StrongAuth which preserves most password authentication advantages and simultaneously improves security using cryptographic primitives. Our scheme not only offers webmasters a clear framework which to build secure user authentication, but it also provides almost the same conventional user experience. Security analysis shows that the proposed scheme fulfills the required user authentication security benefits, and can resist various possible attacks.

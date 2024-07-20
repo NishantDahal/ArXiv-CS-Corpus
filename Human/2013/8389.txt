@@ -1,0 +1,5 @@
+Lower bounds for oblivious subspace embeddings
+
+An oblivious subspace embedding (OSE) for some eps, delta in (0,1/3) and d <= m <= n is a distribution D over R^{m x n} such that for any linear subspace W of R^n of dimension d,
+  Pr_{Pi ~ D}(for all x in W, (1-eps) |x|_2 <= |Pi x|_2 <= (1+eps)|x|_2) >= 1 - delta.
+  We prove that any OSE with delta < 1/3 must have m = Omega((d + log(1/delta))/eps^2), which is optimal. Furthermore, if every Pi in the support of D is sparse, having at most s non-zero entries per column, then we show tradeoff lower bounds between m and s.

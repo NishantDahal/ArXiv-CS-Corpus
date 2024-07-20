@@ -1,0 +1,3 @@
+Some complexity and approximation results for coupled-tasks scheduling problem according to topology
+
+We consider the makespan minimization coupled-tasks problem in presence of compatibility constraints with a specified topology. In particular, we focus on stretched coupled-tasks, i.e. coupled-tasks having the same sub-tasks execution time and idle time duration. We study several problems in framework of classic complexity and approximation for which the compatibility graph is bipartite (star, chain,. . .). In such a context, we design some efficient polynomial-time approximation algorithms for an intractable scheduling problem according to some parameters.

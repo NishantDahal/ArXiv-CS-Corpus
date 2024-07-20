@@ -1,0 +1,4 @@
+Dynamic Loop Parallelisation
+
+Regions of nested loops are a common feature of High Performance Computing (HPC) codes. In shared memory programming models, such as OpenMP, these structure are the most common source of parallelism. Parallelising these structures requires the programmers to make a static decision on how parallelism should be applied. However, depending on the parameters of the problem and the nature of the code, static decisions on which loop to parallelise may not be optimial, especially as they do not enable the exploitation of any runtime characteristics of the execution including changes to the iterations of the loops to be parallelised.
+  We have developed a system that allows a code to make a dynamic choice, at runtime, of what parallelism is applied to nested loops. Our method for providing dynamic decisions on which loop to parallelise significantly outperforms the standard methods for acheiving this through OpenMP (using if clauses).

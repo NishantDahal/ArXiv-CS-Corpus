@@ -1,0 +1,3 @@
+Inter-component communication methods in object-oriented frameworks
+
+Modern frameworks for development of graphical interfaces are using the native controls of the operating system. Because of that they are using operating system events model for inter-component communication. We consider a method to increase inter-component communication speed by sending messages from one component to the other passing over the operating system. Besides the messages subscription helps to avoid receiving of unnecessary messages.

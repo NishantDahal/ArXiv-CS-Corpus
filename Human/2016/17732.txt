@@ -1,0 +1,3 @@
+Multipliers: comparison of Fourier transformation based method and Synopsys design technique for up to 32 bits inputs in regular and saturation arithmetics
+
+The technique for hardware multiplication based upon Fourier transformation has been introduced. The technique has the highest efficiency on multiplication units with up to 8 bit range. Each multiplication unit is realized on base of the minimized Boolean functions. Experimental data showed that this technique the multiplication process speed up to 20% higher for 2-8 bit range of input operands and up to 3% higher for 8-32 bit range of input operands than analogues designed by Synopsys technique.

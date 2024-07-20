@@ -1,0 +1,3 @@
+True Online Emphatic TD($λ$): Quick Reference and Implementation Guide
+
+This document is a guide to the implementation of true online emphatic TD($λ$), a model-free temporal-difference algorithm for learning to make long-term predictions which combines the emphasis idea (Sutton, Mahmood & White 2015) and the true-online idea (van Seijen & Sutton 2014). The setting used here includes linear function approximation, the possibility of off-policy training, and all the generality of general value functions, as well as the emphasis algorithm's notion of "interest".

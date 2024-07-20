@@ -1,0 +1,3 @@
+A feature extraction technique based on character geometry for character recognition
+
+This paper describes a geometry based technique for feature extraction applicable to segmentation-based word recognition systems. The proposed system extracts the geometric features of the character contour. This features are based on the basic line types that forms the character skeleton. The system gives a feature vector as its output. The feature vectors so generated from a training set, were then used to train a pattern recognition engine based on Neural Networks so that the system can be benchmarked.

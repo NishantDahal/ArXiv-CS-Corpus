@@ -1,0 +1,3 @@
+MONAA: A Tool for Timed Pattern Matching with Automata-Based Acceleration
+
+We present monaa, a monitoring tool over a real-time property specified by either a timed automaton or a timed regular expression. It implements a timed pattern matching algorithm that combines 1) features suited for online monitoring, and 2) acceleration by automata-based skipping. Our experiments demonstrate monaa's performance advantage, especially in online usage.

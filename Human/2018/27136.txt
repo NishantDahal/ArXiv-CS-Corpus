@@ -1,0 +1,5 @@
+Sleep Arousal Detection from Polysomnography using the Scattering Transform and Recurrent Neural Networks
+
+Sleep disorders are implicated in a growing number of health problems. In this paper, we present a signal-processing/machine learning approach to detecting arousals in the multi-channel polysomnographic recordings of the Physionet/CinC Challenge2018 dataset.
+  Methods: Our network architecture consists of two components. Inputs were presented to a Scattering Transform (ST) representation layer which fed a recurrent neural network for sequence learning using three layers of Long Short-Term Memory (LSTM). The STs were calculated for each signal with downsampling parameters chosen to give approximately 1 s time resolution, resulting in an eighteen-fold data reduction. The LSTM layers then operated at this downsampled rate.
+  Results: The proposed approach detected arousal regions on the 10% random sample of the hidden test set with an AUROC of 88.0% and an AUPRC of 42.1%.

@@ -1,0 +1,3 @@
+A Robust Variable Step Size Fractional Least Mean Square (RVSS-FLMS) Algorithm
+
+In this paper, we propose an adaptive framework for the variable step size of the fractional least mean square (FLMS) algorithm. The proposed algorithm named the robust variable step size-FLMS (RVSS-FLMS), dynamically updates the step size of the FLMS to achieve high convergence rate with low steady state error. For the evaluation purpose, the problem of system identification is considered. The experiments clearly show that the proposed approach achieves better convergence rate compared to the FLMS and adaptive step-size modified FLMS (AMFLMS).

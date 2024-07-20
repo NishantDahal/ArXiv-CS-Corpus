@@ -1,0 +1,3 @@
+Generative Adversarial Networks for Realistic Synthesis of Hyperspectral Samples
+
+This work addresses the scarcity of annotated hyperspectral data required to train deep neural networks. Especially, we investigate generative adversarial networks and their application to the synthesis of consistent labeled spectra. By training such networks on public datasets, we show that these models are not only able to capture the underlying distribution, but also to generate genuine-looking and physically plausible spectra. Moreover, we experimentally validate that the synthetic samples can be used as an effective data augmentation strategy. We validate our approach on several public hyper-spectral datasets using a variety of deep classifiers.

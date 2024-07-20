@@ -1,0 +1,4 @@
+Eigenvalue analogy for confidence estimation in item-based recommender systems
+
+Item-item collaborative filtering (CF) models are a well known and studied family of recommender systems, however current literature does not provide any theoretical explanation of the conditions under which item-based recommendations will succeed or fail.
+  We investigate the existence of an ideal item-based CF method able to make perfect recommendations. This CF model is formalized as an eigenvalue problem, where estimated ratings are equivalent to the true (unknown) ratings multiplied by a user-specific eigenvalue of the similarity matrix. Preliminary experiments show that the magnitude of the eigenvalue is proportional to the accuracy of recommendations for that user and therefore it can provide reliable measure of confidence.

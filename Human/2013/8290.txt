@@ -1,0 +1,4 @@
+Towards an Effective Decision Procedure for LTL formulas with Constraints
+
+This paper presents an ongoing work that is part of a more wide-ranging project whose final scope is to define a method to validate LTL formulas w.r.t. a program written in the timed concurrent constraint language tccp, which is a logic concurrent constraint language based on the concurrent constraint paradigm of Saraswat. Some inherent notions to tccp processes are non-determinism, dealing with partial information in states and the monotonic evolution of the information. In order to check an LTL property for a process, our approach is based on the abstract diagnosis technique. The concluding step of this technique needs to check the validity of an LTL formula (with constraints) in an effective way.
+  In this paper, we present a decision method for the validity of temporal logic formulas (with constraints) built by our abstract diagnosis technique.

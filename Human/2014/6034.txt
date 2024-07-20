@@ -1,0 +1,3 @@
+Minimal Dirichlet energy partitions for graphs
+
+Motivated by a geometric problem, we introduce a new non-convex graph partitioning objective where the optimality criterion is given by the sum of the Dirichlet eigenvalues of the partition components. A relaxed formulation is identified and a novel rearrangement algorithm is proposed, which we show is strictly decreasing and converges in a finite number of iterations to a local minimum of the relaxed objective function. Our method is applied to several clustering problems on graphs constructed from synthetic data, MNIST handwritten digits, and manifold discretizations. The model has a semi-supervised extension and provides a natural representative for the clusters as well.

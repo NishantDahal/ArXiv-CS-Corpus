@@ -1,0 +1,3 @@
+A Geometric Framework for Convolutional Neural Networks
+
+In this paper, a geometric framework for neural networks is proposed. This framework uses the inner product space structure underlying the parameter set to perform gradient descent not in a component-based form, but in a coordinate-free manner. Convolutional neural networks are described in this framework in a compact form, with the gradients of standard --- and higher-order --- loss functions calculated for each layer of the network. This approach can be applied to other network structures and provides a basis on which to create new networks.

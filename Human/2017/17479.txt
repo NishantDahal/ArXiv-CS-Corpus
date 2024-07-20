@@ -1,0 +1,3 @@
+Possibilistic Fuzzy Local Information C-Means for Sonar Image Segmentation
+
+Side-look synthetic aperture sonar (SAS) can produce very high quality images of the sea-floor. When viewing this imagery, a human observer can often easily identify various sea-floor textures such as sand ripple, hard-packed sand, sea grass and rock. In this paper, we present the Possibilistic Fuzzy Local Information C-Means (PFLICM) approach to segment SAS imagery into sea-floor regions that exhibit these various natural textures. The proposed PFLICM method incorporates fuzzy and possibilistic clustering methods and leverages (local) spatial information to perform soft segmentation. Results are shown on several SAS scenes and compared to alternative segmentation approaches.

@@ -1,0 +1,3 @@
+Engineering Functional Quantum Algorithms
+
+Suppose that a quantum circuit with K elementary gates is known for a unitary matrix U, and assume that U^m is a scalar matrix for some positive integer m. We show that a function of U can be realized on a quantum computer with at most O(mK+m^2log m) elementary gates. The functions of U are realized by a generic quantum circuit, which has a particularly simple structure. Among other results, we obtain efficient circuits for the fractional Fourier transform.

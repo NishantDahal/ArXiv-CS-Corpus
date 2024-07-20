@@ -1,0 +1,4 @@
+Repairing Reed-Solomon codes: Universally achieving the cut-set bound for any number of erasures
+
+The repair bandwidth of a code is the minimum amount of data required to repair one or several failed nodes (erasures). For MDS codes, the repair bandwidth is bounded below by the so-called cut-set bound, and codes that meet this bound with equality are said to support optimal repair of one or multiple failed nodes.
+  We consider the problem of repairing multiple failed nodes of Reed-Solomon (RS) codes. In a recent work with I. Tamo (Proc. IEEE FOCS 2017), we gave the first explicit construction of RS codes with optimal repair of any single failed node from any subset of helper nodes. In this paper, we construct explicit RS codes that universally achieve the cut-set bound for the repair of any number of failed nodes from any set of helper nodes. Moreover, the node size of our codes is close to the optimal (smallest possible) node size of codes with such property.

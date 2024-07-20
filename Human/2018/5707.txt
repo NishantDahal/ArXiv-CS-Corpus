@@ -1,0 +1,3 @@
+Glyph: Symbolic Regression Tools
+
+We present Glyph - a Python package for genetic programming based symbolic regression. Glyph is designed for usage let by numerical simulations let by real world experiments. For experimentalists, glyph-remote provides a separation of tasks: a ZeroMQ interface splits the genetic programming optimization task from the evaluation of an experimental (or numerical) run. Glyph can be accessed at http://github.com/ambrosys/glyph . Domain experts are be able to employ symbolic regression in their experiments with ease, even if they are not expert programmers. The reuse potential is kept high by a generic interface design. Glyph is available on PyPI and Github.

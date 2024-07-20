@@ -1,0 +1,3 @@
+An efficient FPGA implementation of MRI image filtering and tumor characterization using Xilinx system generator
+
+This paper presents an efficient architecture for various image filtering algorithms and tumor characterization using Xilinx System Generator (XSG). This architecture offers an alternative through a graphical user interface that combines MATLAB, Simulink and XSG and explores important aspects concerned to hardware implementation. Performance of this architecture implemented in SPARTAN-3E Starter kit (XC3S500E-FG320) exceeds those of similar or greater resources architectures. The proposed architecture reduces the resources available on target device by 50%.

@@ -1,0 +1,5 @@
+A Representation Theorem for Second-Order Functionals
+
+Representation theorems relate seemingly complex objects to concrete, more tractable ones.
+  In this paper, we take advantage of the abstraction power of category theory and provide a general representation theorem for a wide class of second-order functionals which are polymorphic over a class of functors. Types polymorphic over a class of functors are easily representable in languages such as Haskell, but are difficult to analyse and reason about. The concrete representation provided by the theorem is easier to analyse, but it might not be as convenient to implement. Therefore, depending on the task at hand, the change of representation may prove valuable in one direction or the other.
+  We showcase the usefulness of the representation theorem with a range of examples. Concretely, we show how the representation theorem can be used to show that traversable functors are finitary containers, how parameterised coalgebras relate to very well-behaved lenses, and how algebraic effects might be implemented in a functional language.

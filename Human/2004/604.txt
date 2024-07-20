@@ -1,0 +1,8 @@
+Least Dependent Component Analysis Based on Mutual Information
+
+We propose to use precise estimators of mutual information (MI) to find least dependent components in a linearly mixed signal. On the one hand this seems to lead to better blind source separation than with any other presently available algorithm. On the other hand it has the advantage, compared to other implementations of `independent' component analysis (ICA) some of which are based on crude approximations for MI, that the numerical values of the MI can be used for:
+  (i) estimating residual dependencies between the output components;
+  (ii) estimating the reliability of the output, by comparing the pairwise MIs with those of re-mixed components;
+  (iii) clustering the output according to the residual interdependencies.
+  For the MI estimator we use a recently proposed k-nearest neighbor based algorithm. For time sequences we combine this with delay embedding, in order to take into account non-trivial time correlations. After several tests with artificial data, we apply the resulting MILCA (Mutual Information based Least dependent Component Analysis) algorithm to a real-world dataset, the ECG of a pregnant woman.
+  The software implementation of the MILCA algorithm is freely available at http://www.fz-juelich.de/nic/cs/software

@@ -1,0 +1,3 @@
+Fast approximation algorithms for $p$-centres in large $δ$-hyperbolic graphs
+
+We provide a quasilinear time algorithm for the $p$-center problem with an additive error less than or equal to 3 times the input graph's hyperbolic constant. Specifically, for the graph $G=(V,E)$ with $n$ vertices, $m$ edges and hyperbolic constant $δ$, we construct an algorithm for $p$-centers in time $O(p(δ+1)(n+m)\log(n))$ with radius not exceeding $r_p + δ$ when $p \leq 2$ and $r_p + 3δ$ when $p \geq 3$, where $r_p$ are the optimal radii. Prior work identified $p$-centers with accuracy $r_p+δ$ but with time complexity $O((n^3\log n + n^2m)\log(diam(G)))$ which is impractical for large graphs.

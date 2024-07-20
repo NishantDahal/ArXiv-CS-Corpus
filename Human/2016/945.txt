@@ -1,0 +1,3 @@
+Supervised Texture Segmentation: A Comparative Study
+
+This paper aims to compare between four different types of feature extraction approaches in terms of texture segmentation. The feature extraction methods that were used for segmentation are Gabor filters (GF), Gaussian Markov random fields (GMRF), run-length matrix (RLM) and co-occurrence matrix (GLCM). It was shown that the GF performed best in terms of quality of segmentation while the GLCM localises the texture boundaries better as compared to the other methods.

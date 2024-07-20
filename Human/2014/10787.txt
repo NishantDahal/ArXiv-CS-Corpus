@@ -1,0 +1,3 @@
+Further results on the observability analysis and observer design for single range localization in 3D
+
+The issue of single range based observability analysis and observer design for the kinematics model of a 3D vehicle subject to a constant unknown drift velocity is addressed. The proposed method departs from alternative solutions to the problem and leads to the definition of a linear time invariant state equation with a linear time varying output that can be used to globally solve the original nonlinear state estimation problem with a standard Kalman filter. Simple necessary and sufficient observability conditions are derived. Numerical simulation examples are described to illustrate the performance of the method.

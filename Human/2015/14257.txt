@@ -1,0 +1,3 @@
+Traversing Grammar-Compressed Trees with Constant Delay
+
+A grammar-compressed ranked tree is represented with a linear space overhead so that a single traversal step, i.e., the move to the parent or the i-th child, can be carried out in constant time. Moreover, we extend our data structure such that equality of subtrees can be checked in constant time.

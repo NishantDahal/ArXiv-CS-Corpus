@@ -1,0 +1,5 @@
+Towards Taming Java Wildcards and Extending Java with Interval Types
+
+Of the complex features of generic nominally-typed OO type systems, wildcard types and variance annotations are probably the hardest to fully grasp. As demonstrated when adding closures (a.k.a., lambdas) and when extending type inference in Java, wildcard types and variance annotations make the development and progress of OO programming languages, and of their type systems in particular, a challenging and delicate task.
+  In this work we build on our concurrent work, in which we model Java subtyping using a partial graph product, to suggest how wildcard types in Java can be generalized, and simplified, to interval types. In particular, interval types correspond to endpoints of paths in the Java subtyping graph.
+  In addition to being a simple and more familiar notion, that is easier to grasp than wildcard types, interval types are strictly more expressive than wildcard types. As such, we believe interval types, when developed and analyzed in full, will be a welcome addition to Java and other similar generic nominally-typed OO programming languages.

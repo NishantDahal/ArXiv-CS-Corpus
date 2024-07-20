@@ -1,0 +1,3 @@
+A progressive mesh method for physical simulations using lattice Boltzmann method on single-node multi-gpu architectures
+
+In this paper, a new progressive mesh algorithm is introduced in order to perform fast physical simulations by the use of a lattice Boltzmann method (LBM) on a single-node multi-GPU architecture. This algorithm is able to mesh automatically the simulation domain according to the propagation of fluids. This method can also be useful in order to perform various types of simulations on complex geometries. The use of this algorithm combined with the massive parallelism of GPUs allows to obtain very good performance in comparison with the static mesh method used in literature. Several simulations are shown in order to evaluate the algorithm.

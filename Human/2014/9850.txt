@@ -1,0 +1,3 @@
+System Model Semantics of Statecharts
+
+In this report, semantics for Statecharts is defined based on a mathematical model of object systems called "system model". The semantics definition is detailed for UML/P Statecharts, a variant of Statecharts which restricts the use of a few methodologically and semantically difficult concepts. After transforming full UML/P Statecharts to simplified but semantically equivalent Statecharts, the semantics is defined denotationally as a mapping into the system model. It is also sketched how already existing Statechart semantics can be mapped into the system model. This report follows, in which we introduced our approach in detail and defined semantics for UML class diagrams.

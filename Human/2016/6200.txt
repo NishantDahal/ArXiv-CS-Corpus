@@ -1,0 +1,4 @@
+Consensus Game Acceptors and Iterated Transductions
+
+We study a game for recognising formal languages, in which two players with imperfect information need to coordinate on a common decision, given private input words correlated by a finite graph. The players have a joint objective to avoid an inadmissible decision, in spite of the uncertainty induced by the input.
+  We show that the acceptor model based on consensus games characterises context-sensitive languages. Further, we describe the expressiveness of these games in terms of iterated synchronous transductions and identify a subclass that characterises context-free languages.

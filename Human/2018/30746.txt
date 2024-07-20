@@ -1,0 +1,3 @@
+Spectrum graph coloring to improve Wi-Fi channel assignment in a real-world scenario via edge contraction
+
+The present work deals with the problem of efficiently assigning Wi-Fi channels in a real-world scenario, the Polytechnic School of the University of Alcalá. We first use proximity graphs to model the whole problem as an instance of spectrum graph coloring, we further obtain a simplified model using edge contraction, and we finally use simulated annealing to look for a coloring which optimizes the network throughput. As the main result, we show that the solutions we obtain outperform the de facto standard for Wi-Fi channel assignment, both in terms of network throughput and of computation time.

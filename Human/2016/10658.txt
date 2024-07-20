@@ -1,0 +1,5 @@
+On Distance-$d$ Independent Set and other problems in graphs with few minimal separators
+
+Fomin and Villanger (STACS 2010) proved that Maximum Independent Set, Feedback Vertex Set, and more generally the problem of finding a maximum induced subgraph of treewith at most a constant $t$, can be solved in polynomial time on graph classes with polynomially many minimal separators. We extend these results in two directions. Let $\Gpoly$ be the class of graphs with at most $\poly(n)$ minimal separators, for some polynomial $\poly$.
+  We show that the odd powers of a graph $G$ have at most as many minimal separators as $G$. Consequently, \textsc{Distance-$d$ Independent Set}, which consists in finding maximum set of vertices at pairwise distance at least $d$, is polynomial on $\Gpoly$, for any even $d$. The problem is NP-hard on chordal graphs for any odd $d \geq 3$.
+  We also provide polynomial algorithms for Connected Vertex Cover and Connected Feedback Vertex Set on subclasses of $\Gpoly$ including chordal and circular-arc graphs, and we discuss variants of independent domination problems.

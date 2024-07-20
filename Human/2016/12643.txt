@@ -1,0 +1,3 @@
+Weighted diffusion LMP algorithm for distributed estimation in non-uniform noise conditions
+
+This letter presents an improved version of diffusion least mean ppower (LMP) algorithm for distributed estimation. Instead of sum of mean square errors, a weighted sum of mean square error is defined as the cost function for global and local cost functions of a network of sensors. The weight coefficients are updated by a simple steepest-descent recursion to minimize the error signal of the global and local adaptive algorithm. Simulation results show the advantages of the proposed weighted diffusion LMP over the diffusion LMP algorithm specially in the non-uniform noise conditions in a sensor network.

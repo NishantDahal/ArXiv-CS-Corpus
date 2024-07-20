@@ -1,0 +1,3 @@
+Pattern matching in $(213,231)$-avoiding permutations
+
+Given permutations $σ\in S_k$ and $π\in S_n$ with $k<n$, the \emph{pattern matching} problem is to decide whether $π$ matches $σ$ as an order-isomorphic subsequence. We give a linear-time algorithm in case both $π$ and $σ$ avoid the two size-$3$ permutations $213$ and $231$. For the special case where only $σ$ avoids $213$ and $231$, we present a $O(max(kn^2,n^2\log(\log(n)))$ time algorithm. We extend our research to bivincular patterns that avoid $213$ and $231$ and present a $O(kn^4)$ time algorithm. Finally we look at the related problem of the longest subsequence which avoids $213$ and $231$.

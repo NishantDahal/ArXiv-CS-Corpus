@@ -1,0 +1,3 @@
+Modular exponentiation of matrices on FPGA-s
+
+We describe an efficient FPGA implementation for the exponentiation of large matrices. The research is related to an algorithm for constructing uniformly distributed linear recurring sequences. The design utilizes the special properties of both the FPGA and the used matrices to achieve a very significant speedup compared to traditional architectures.

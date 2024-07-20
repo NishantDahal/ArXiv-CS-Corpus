@@ -1,0 +1,3 @@
+Searching in Unstructured Overlays Using Local Knowledge and Gossip
+
+This paper analyzes a class of dissemination algorithms for the discovery of distributed contents in Peer-to-Peer unstructured overlay networks. The algorithms are a mix of protocols employing local knowledge of peers' neighborhood and gossip. By tuning the gossip probability and the depth k of the k-neighborhood of which nodes have information, we obtain different dissemination protocols employed in literature over unstructured P2P overlays. The provided analysis and simulation results confirm that, when properly configured, these schemes represent a viable approach to build effective P2P resource discovery in large-scale, dynamic distributed systems.

@@ -1,0 +1,3 @@
+On finitely ambiguous Büchi automata
+
+Unambiguous Büchi automata, i.e. Büchi automata allowing only one accepting run per word, are a useful restriction of Büchi automata that is well-suited for probabilistic model-checking. In this paper we propose a more permissive variant, namely finitely ambiguous Büchi automata, a generalisation where each word has at most $k$ accepting runs, for some fixed $k$. We adapt existing notions and results concerning finite and bounded ambiguity of finite automata to the setting of $ω$-languages and present a translation from arbitrary nondeterministic Büchi automata with $n$ states to finitely ambiguous automata with at most $3^n$ states and at most $n$ accepting runs per word.

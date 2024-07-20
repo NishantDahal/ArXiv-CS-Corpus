@@ -1,0 +1,3 @@
+ThermalSim: A Thermal Simulator for Error Analysis
+
+Researchers have extensively explored predictive control strategies for controlling heating, ventilation, and air conditioning (HVAC) units in commercial buildings. Predictive control strategies, however, critically rely on weather and occupancy forecasts. Existing state-of-the-art building simulators are incapable of analysing the influence of prediction errors (in weather and occupancy) on HVAC energy consumption and occupant comfort. In this paper, we introduce ThermalSim, a building simulator that can quantify the effect of prediction errors on the HVAC operations. ThermalSim has been implemented in C/C++ and MATLAB. We describe its design, use, and input format.

@@ -1,0 +1,3 @@
+Linear Ranking for Linear Lasso Programs
+
+The general setting of this work is the constraint-based synthesis of termination arguments. We consider a restricted class of programs called lasso programs. The termination argument for a lasso program is a pair of a ranking function and an invariant. We present the---to the best of our knowledge---first method to synthesize termination arguments for lasso programs that uses linear arithmetic. We prove a completeness theorem. The completeness theorem establishes that, even though we use only linear (as opposed to non-linear) constraint solving, we are able to compute termination arguments in several interesting cases. The key to our method lies in a constraint transformation that replaces a disjunction by a sum.

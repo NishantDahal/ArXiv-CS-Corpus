@@ -1,0 +1,6 @@
+On Locally Gabriel Geometric Graphs
+
+Let $P$ be a set of $n$ points in the plane. A geometric graph $G$ on $P$ is said to be {\it locally Gabriel} if for every edge $(u,v)$ in $G$, the disk with $u$ and $v$ as diameter does not contain any points of $P$ that are neighbors of $u$ or $v$ in $G$. A locally Gabriel graph is a generalization of Gabriel graph and is motivated by applications in wireless networks. Unlike a Gabriel graph, there is no unique locally Gabriel graph on a given point set since no edge in a locally Gabriel graph is necessarily included or excluded. Thus the edge set of the graph can be customized to optimize certain network parameters depending on the application. In this paper, we show the following combinatorial bounds on edge complexity and independent sets of locally Gabriel graphs:
+  (i) For any $n$, there exists locally Gabriel graphs with $Ω(n^{5/4})$ edges. This improves upon the previous best bound of $Ω(n^{1+\frac{1}{\log \log n}})$.
+  (ii) For various subclasses of convex point sets, we show tight linear bounds on the maximum edge complexity of locally Gabriel graphs.
+  (iii) For any locally Gabriel graph on any $n$ point set, there exists an independent set of size $Ω(\sqrt{n}\log n)$.

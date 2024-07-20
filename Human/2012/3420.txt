@@ -1,0 +1,4 @@
+Speeding up Cylindrical Algebraic Decomposition by Gröbner Bases
+
+Gröbner Bases and Cylindrical Algebraic Decomposition are generally thought of as two, rather different, methods of looking at systems of equations and, in the case of Cylindrical Algebraic Decomposition, inequalities. However, even for a mixed system of equalities and inequalities, it is possible to apply Gröbner bases to the (conjoined) equalities before invoking CAD. We see that this is, quite often but not always, a beneficial preconditioning of the CAD problem.
+  It is also possible to precondition the (conjoined) inequalities with respect to the equalities, and this can also be useful in many cases.

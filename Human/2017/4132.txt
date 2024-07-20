@@ -1,0 +1,3 @@
+Checking Properties along Multiple Reconfiguration Paths for Component-Based Systems
+
+Reconfiguration paths express sequences of successive reconfiguration operations within a component-based approach allowing dynamic reconfigurations. We use constructs from regular expressions-pin particular, alternatives-to introduce multiple reconfiguration paths. We show how to put into action procedures allowing architectural, event, and temporal properties to be proved. Our method, related to finite state automata and using marking techniques, generalises what we did within previous work, where the regular expressions we processed were more restricted. But we can only deal with a subset of first-order logic formulas.

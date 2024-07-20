@@ -1,0 +1,3 @@
+A Translational Approach to Constraint Answer Set Solving
+
+We present a new approach to enhancing Answer Set Programming (ASP) with Constraint Processing techniques which allows for solving interesting Constraint Satisfaction Problems in ASP. We show how constraints on finite domains can be decomposed into logic programs such that unit-propagation achieves arc, bound or range consistency. Experiments with our encodings demonstrate their computational impact.

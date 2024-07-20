@@ -1,0 +1,5 @@
+Minimization of Visibly Pushdown Automata Using Partial Max-SAT
+
+We consider the problem of state-space reduction for nondeterministic weakly-hierarchical visibly pushdown automata (VPA). VPA recognize a robust and algorithmically tractable fragment of context-free languages that is natural for modeling programs.
+  We define an equivalence relation that is sufficient for language-preserving quotienting of VPA. Our definition allows to merge states that have different behavior, as long as they show the same behavior for reachable equivalent stacks. We encode the existence of such a relation as a Boolean partial maximum satisfiability (PMax-SAT) problem and present an algorithm that quickly finds satisfying assignments. These assignments are sub-optimal solutions to the PMax-SAT problem but can still lead to a significant reduction of states.
+  We integrated our method in the automata-based software verifier Ultimate Automizer and show performance improvements on benchmarks from the software verification competition SV-COMP.

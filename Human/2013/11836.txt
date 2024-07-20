@@ -1,0 +1,3 @@
+A reduction of semigroup DLP to classic DLP
+
+We present a polynomial-time reduction of the discrete logarithm problem in any periodic (a.k.a. torsion) semigroup (SGDLP) to the same problem in a subgroup of the same semigroup. It follows that SGDLP can be solved in polynomial time by quantum computers, and that SGDLP has subexponential algorithms whenever the classic DLP in the corresponding groups has subexponential algorithms.

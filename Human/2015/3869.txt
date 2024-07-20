@@ -1,0 +1,3 @@
+nCk sequences and their difference sequences
+
+A nCk sequence is a sequence of n-bit numbers with k bits set. Given such a sequence C, the difference sequence D of C is subject to certain regularities that make it possible to generate D in 2|C| time, and, hence, to generate C in 3|C| time.

@@ -1,0 +1,4 @@
+An anti-incursion algorithm for unknown probabilistic adversaries on connected graphs
+
+A gambler moves on the vertices $1, \ldots, n$ of a graph using the probability distribution $p_{1}, \ldots, p_{n}$. A cop pursues the gambler on the graph, only being able to move between adjacent vertices. What is the expected number of moves that the gambler can make until the cop catches them?
+  Komarov and Winkler proved an upper bound of approximately $1.97n$ for the expected capture time on any connected $n$-vertex graph when the cop does not know the gambler's distribution. We improve this upper bound to approximately $1.95n$ by modifying the cop's pursuit algorithm.

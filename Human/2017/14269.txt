@@ -1,0 +1,3 @@
+Location Dependent Dirichlet Processes
+
+Dirichlet processes (DP) are widely applied in Bayesian nonparametric modeling. However, in their basic form they do not directly integrate dependency information among data arising from space and time. In this paper, we propose location dependent Dirichlet processes (LDDP) which incorporate nonparametric Gaussian processes in the DP modeling framework to model such dependencies. We develop the LDDP in the context of mixture modeling, and develop a mean field variational inference algorithm for this mixture model. The effectiveness of the proposed modeling framework is shown on an image segmentation task.

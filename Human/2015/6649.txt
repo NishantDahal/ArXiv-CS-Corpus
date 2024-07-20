@@ -1,0 +1,3 @@
+Automatic sensor-based detection and classification of climbing activities
+
+This article presents a method to automatically detect and classify climbing activities using inertial measurement units (IMUs) attached to the wrists, feet and pelvis of the climber. The IMUs record limb acceleration and angular velocity. Detection requires a learning phase with manual annotation to construct the statistical models used in the cusum algorithm. Full-body activity is then classified based on the detection of each IMU.

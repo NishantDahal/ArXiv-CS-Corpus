@@ -1,0 +1,3 @@
+A simpler sublinear algorithm for approximating the triangle count
+
+A recent result of Eden, Levi, and Ron (ECCC 2015) provides a sublinear time algorithm to estimate the number of triangles in a graph. Given an undirected graph $G$, one can query the degree of a vertex, the existence of an edge between vertices, and the $i$th neighbor of a vertex. Suppose the graph has $n$ vertices, $m$ edges, and $t$ triangles. In this model, Eden et al provided a $O(\poly(\eps^{-1}\log n)(n/t^{1/3} + m^{3/2}/t))$ time algorithm to get a $(1+\eps)$-multiplicative approximation for $t$, the triangle count. This paper provides a simpler algorithm with the same running time (up to differences in the $\poly(\eps^{-1}\log n)$ factor) that has a substantially simpler analysis.

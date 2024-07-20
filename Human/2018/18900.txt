@@ -1,0 +1,3 @@
+Arcades: A deep model for adaptive decision making in voice controlled smart-home
+
+In a voice-controlled smart-home, a controller must respond not only to user's requests but also according to the interaction context. This paper describes Arcades, a system which uses deep reinforcement learning to extract context from a graphical representation of home automation system and to update continuously its behavior to the user's one. This system is robust to changes in the environment (sensor breakdown or addition) through its graphical representation (scale well) and the reinforcement mechanism (adapt well). The experiments on realistic data demonstrate that this method promises to reach long life context-aware control of smart-home.

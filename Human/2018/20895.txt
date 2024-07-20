@@ -1,0 +1,3 @@
+Synthesizing Set Functions
+
+Set functions are a feature of functional logic programming to encapsulate all results of a non-deterministic computation in a single data structure. Given a function $f$ of a functional logic program written in Curry, we describe a technique to synthesize the definition of the set function of $f$. The definition produced by our technique is based on standard Curry constructs. Our approach is interesting for three reasons. It allows reasoning about set functions, it offers an implementation of set functions which can be added to any Curry system, and it has the potential of changing our thinking about the implementation of non-determinism, a notoriously difficult problem.

@@ -1,0 +1,5 @@
+Subtraction makes computing integers faster
+
+We show some facts regarding the question whether, for any number $n$, the length of the shortest Addition Multiplications Chain (AMC) computing $n$ is polynomial in the length of the shortest division-free Straight Line Program (SLP) that computes $n$.
+  If the answer to this question is "yes", then we can show a stronger upper bound for $\mathrm{PosSLP}$, the important problem which essentially captures the notion of efficient computation over the reals. If the answer is "no", then this would demonstrate how subtraction helps generating integers super-polynomially faster, given that addition and multiplication can be done in unit time.
+  In this paper, we show that, for almost all numbers, AMCs and SLPs need same asymptotic length for computation. However, for one specific form of numbers, SLPs are strictly more powerful than AMCs by at least one step of computation.

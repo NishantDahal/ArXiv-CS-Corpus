@@ -1,0 +1,3 @@
+Verification of BSF Parallel Computational Model
+
+The article is devoted to the verification of the BSF parallel computing model. The BSF-model is an evolution of the "master-slave" model and SPMD-model. The BSF-model is oriented to iterative algorithms that are implemented in cluster computing systems. The article briefly describes the basics of the BSF-model and its cost metrics. The structure of the BSF program is shown in the form of a UML activity diagram. The simulator of BSF-programs, implemented in C++ language using the MPI-library, is described. The results of computational experiments confirming the adequacy of the cost metrics of the BSF-model are presented.

@@ -1,0 +1,3 @@
+UPAL: Unbiased Pool Based Active Learning
+
+In this paper we address the problem of pool based active learning, and provide an algorithm, called UPAL, that works by minimizing the unbiased estimator of the risk of a hypothesis in a given hypothesis space. For the space of linear classifiers and the squared loss we show that UPAL is equivalent to an exponentially weighted average forecaster. Exploiting some recent results regarding the spectra of random matrices allows us to establish consistency of UPAL when the true hypothesis is a linear hypothesis. Empirical comparison with an active learner implementation in Vowpal Wabbit, and a previously proposed pool based active learner implementation show good empirical performance and better scalability.

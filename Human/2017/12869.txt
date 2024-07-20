@@ -1,0 +1,5 @@
+Rational Points on the Unit Sphere: Approximation Complexity and Practical Constructions
+
+Each non-zero point in $\mathbb{R}^d$ identifies a closest point $x$ on the unit sphere $\mathbb{S}^{d-1}$. We are interested in computing an $ε$-approximation $y \in \mathbb{Q}^d$ for $x$, that is exactly on $\mathbb{S}^{d-1}$ and has low bit size. We revise lower bounds on rational approximations and provide explicit, spherical instances.
+  We prove that floating-point numbers can only provide trivial solutions to the sphere equation in $\mathbb{R}^2$ and $\mathbb{R}^3$. Moreover, we show how to construct a rational point with denominators of at most $10(d-1)/\varepsilon^2$ for any given $ε\in \left(0,\tfrac 1 8\right]$, improving on a previous result. The method further benefits from algorithms for simultaneous Diophantine approximation.
+  Our open-source implementation and experiments demonstrate the practicality of our approach in the context of massive data sets Geo-referenced by latitude and longitude values.

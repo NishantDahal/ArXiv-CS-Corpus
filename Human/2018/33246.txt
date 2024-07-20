@@ -1,0 +1,3 @@
+Visibly Pushdown Languages over Sliding Windows
+
+We investigate the class of visibly pushdown languages in the sliding window model. A sliding window algorithm for a language $L$ receives a stream of symbols and has to decide at each time step whether the suffix of length $n$ belongs to $L$ or not. The window size $n$ is either a fixed number (in the fixed-size model) or can be controlled by an adversary in a limited way (in the variable-size model). The main result of this paper states that for every visibly pushdown language the space complexity in the variable-size sliding window model is either constant, logarithmic or linear in the window size. This extends previous results for regular languages.

@@ -1,0 +1,10 @@
+Polynomial-Time Random Oracles and Separating Complexity Classes
+
+Bennett and Gill (1981) showed that P^A != NP^A != coNP^A for a random oracle A, with probability 1. We investigate whether this result extends to individual polynomial-time random oracles. We consider two notions of random oracles: p-random oracles in the sense of martingales and resource-bounded measure (Lutz, 1992; Ambos-Spies et al., 1997), and p-betting-game random oracles using the betting games generalization of resource-bounded measure (Buhrman et al., 2000). Every p-betting-game random oracle is also p-random; whether the two notions are equivalent is an open problem.
+  (1) We first show that P^A != NP^A for every oracle A that is p-betting-game random.
+  Ideally, we would extend (1) to p-random oracles. We show that answering this either way would imply an unrelativized complexity class separation:
+  (2) If P^A != NP^A relative to every p-random oracle A, then BPP != EXP.
+  (3) If P^A = NP^A relative to some p-random oracle A, then P != PSPACE.
+  Rossman, Servedio, and Tan (2015) showed that the polynomial-time hierarchy is infinite relative to a random oracle, solving a longstanding open problem. We consider whether we can extend (1) to show that PHA is infinite relative to oracles A that are p-betting-game random. Showing that PHA separates at even its first level would also imply an unrelativized complexity class separation:
+  (4) If NP^A != coNP^A for a p-betting-game measure 1 class of oracles A, then NP != EXP.
+  (5) If PH^A is infinite relative to every p-random oracle A, then PH != EXP.

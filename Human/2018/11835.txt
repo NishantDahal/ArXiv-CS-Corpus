@@ -1,0 +1,3 @@
+Online Bandit Linear Optimization: A Study
+
+This article introduces the concepts around Online Bandit Linear Optimization and explores an efficient setup called SCRiBLe (Self-Concordant Regularization in Bandit Learning) created by Abernethy et. al.\cite{abernethy}. The SCRiBLe setup and algorithm yield a $O(\sqrt{T})$ regret bound and polynomial run time complexity bound on the dimension of the input space. In this article we build up to the bandit linear optimization case and study SCRiBLe.

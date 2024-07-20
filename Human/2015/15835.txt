@@ -1,0 +1,3 @@
+Structurally Cyclic Petri Nets
+
+A Petri net is structurally cyclic if every configuration is reachable from itself in one or more steps. We show that structural cyclicity is decidable in deterministic polynomial time. For this, we adapt the Kosaraju's approach for the general reachability problem for Petri nets.

@@ -1,0 +1,3 @@
+Deep Ptych: Subsampled Fourier Ptychography using Generative Priors
+
+This paper proposes a novel framework to regularize the highly ill-posed and non-linear Fourier ptychography problem using generative models. We demonstrate experimentally that our proposed algorithm, Deep Ptych, outperforms the existing Fourier ptychography techniques, in terms of quality of reconstruction and robustness against noise, using far fewer samples. We further modify the proposed approach to allow the generative model to explore solutions outside the range, leading to improved performance.

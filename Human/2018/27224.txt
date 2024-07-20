@@ -1,0 +1,3 @@
+Coordinated exploration for labyrinthine environments with application to the Pursuit-Evasion problem
+
+This paper introduces a multirobot cooperation approach to solve the "pursuit evasion" problem for mobile robots that have omnidirectional vision sensors. The main characteristic of this approach is to implement a real cooperation between robots based on knowledge sharing and makes them work as a team. A complete algorithm for computing a motion strategy of robots is also presented. This algorithm is based on searching critical points in the environment. Finally, the deliberation protocol which distributes the exploration task among the team and takes the best possible outcome from the robots resources is presented.

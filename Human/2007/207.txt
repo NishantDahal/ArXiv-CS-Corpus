@@ -1,0 +1,3 @@
+AICA: a New Pair Force Evaluation Method for Parallel Molecular Dynamics in Arbitrary Geometries
+
+A new algorithm for calculating intermolecular pair forces in Molecular Dynamics (MD) simulations on a distributed parallel computer is presented. The Arbitrary Interacting Cells Algorithm (AICA) is designed to operate on geometrical domains defined by an unstructured, arbitrary polyhedral mesh, which has been spatially decomposed into irregular portions for parallelisation. It is intended for nano scale fluid mechanics simulation by MD in complex geometries, and to provide the MD component of a hybrid MD/continuum simulation. AICA has been implemented in the open-source computational toolbox OpenFOAM, and verified against a published MD code.

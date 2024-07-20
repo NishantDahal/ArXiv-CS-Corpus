@@ -1,0 +1,3 @@
+Confluent Orthogonal Drawings of Syntax Diagrams
+
+We provide a pipeline for generating syntax diagrams (also called railroad diagrams) from context free grammars. Syntax diagrams are a graphical representation of a context free language, which we formalize abstractly as a set of mutually recursive nondeterministic finite automata and draw by combining elements from the confluent drawing, layered drawing, and smooth orthogonal drawing styles. Within our pipeline we introduce several heuristics that modify the grammar but preserve the language, improving the aesthetics of the final drawing.

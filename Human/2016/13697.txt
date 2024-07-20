@@ -1,0 +1,3 @@
+Depth contours in arrangements of halfplanes
+
+Let $H$ be a set of $n$ halfplanes in $\mathbb{R}^2$ in general position, and let $k<n$ be a given parameter. We show that the number of vertices of the arrangement of $H$ that lie at depth exactly $k$ (i.e., that are contained in the interiors of exactly $k$ halfplanes of $H$) is $O(nk^{1/3} + n^{2/3}k^{4/3})$. The bound is tight when $k=Θ(n)$. This generalizes the study of Dey [Dey98], concerning the complexity of a single level in an arrangement of lines, and coincides with it for $k=O(n^{1/3})$.

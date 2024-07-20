@@ -1,0 +1,4 @@
+Ark: A Real-World Consensus Implementation
+
+Ark is an implementation of a consensus algorithm similar to Paxos and Raft, designed as an improvement over the existing consensus algorithm used by MongoDB and TokuMX.
+  Ark was designed from first principles, improving on the election algorithm used by TokuMX, to fix deficiencies in MongoDB's consensus algorithms that can cause data loss. It ultimately has many similarities with Raft, but diverges in a few ways, mainly to support other features like chained replication and unacknowledged writes.

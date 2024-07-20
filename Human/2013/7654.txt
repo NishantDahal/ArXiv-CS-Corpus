@@ -1,0 +1,3 @@
+Dynamic Decremental Approximate Distance Oracles with $(1+ε, 2)$ stretch
+
+We provide a decremental approximate Distance Oracle that obtains stretch of $1+ε$ multiplicative and 2 additive and has $\hat{O}(n^{5/2})$ total cost (where $\hat{O}$ notation suppresses polylogarithmic and $n^{O(1)/\sqrt{n}}$ factors). The best previous results with $\hat{O}(n^{5/2})$ total cost obtained stretch $3+ε$.

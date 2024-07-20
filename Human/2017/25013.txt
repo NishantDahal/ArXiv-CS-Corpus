@@ -1,0 +1,3 @@
+Fusing Multifaceted Transaction Data for User Modeling and Demographic Prediction
+
+Inferring user characteristics such as demographic attributes is of the utmost importance in many user-centric applications. Demographic data is an enabler of personalization, identity security, and other applications. Despite that, this data is sensitive and often hard to obtain. Previous work has shown that purchase history can be used for multi-task prediction of many demographic fields such as gender and marital status. Here we present an embedding based method to integrate multifaceted sequences of transaction data, together with auxiliary relational tables, for better user modeling and demographic prediction.

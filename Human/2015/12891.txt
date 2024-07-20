@@ -1,0 +1,3 @@
+Reverberation time estimation on the ACE corpus using the SDD method
+
+Reverberation Time (T60) is an important measure for characterizing the properties of a room. The author's T60 estimation algorithm was previously tested on simulated data where the noise is artificially added to the speech after convolution with a impulse responses simulated using the image method. We test the algorithm on speech convolved with real recorded impulse responses and noise from the same rooms from the Acoustic Characterization of Environments (ACE) corpus and achieve results comparable results to those using simulated data.

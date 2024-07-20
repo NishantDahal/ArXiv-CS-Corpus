@@ -1,0 +1,5 @@
+Independence Properties of Algorithmically Random Sequences
+
+A bounded Kolmogorov-Loveland selection rule is an adaptive strategy for recursively selecting a subsequence of an infinite binary sequence; such a subsequence may be interpreted as the query sequence of a time-bounded Turing machine. In this paper we show that if A is an algorithmically random sequence, A_0 is selected from A via a bounded Kolmogorov-Loveland selection rule, and A_1 denotes the sequence of nonselected bits of A, then A_1 is independent of A_0; that is, A_1 is algorithmically random relative to A_0. This result has been used by Kautz and Miltersen [1] to show that relative to a random oracle, NP does not have p-measure zero (in the sense of Lutz [2]).
+  [1] S. M. Kautz and P. B. Miltersen. Relative to a random oracle, NP is not small. Journal of Computer and System Sciences, 53:235-250, 1996.
+  [2] J. H. Lutz. Almost everywhere high nonuniform complexity. Journal of Computer and System Sciences, 44:220-258, 1992.

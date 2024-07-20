@@ -1,0 +1,3 @@
+Record-replay debugging for the SCOOP concurrency model
+
+To support developers in writing reliable and efficient concurrent programs, novel concurrent programming abstractions have been proposed in recent years. Programming with such abstractions requires new analysis tools because the execution semantics often differs considerably from established models. We present a record-replay technique for programs written in SCOOP, an object-oriented programming model for concurrency. The resulting tool enables developers to reproduce the nondeterministic execution of a concurrent program, a necessary prerequisite for debugging and testing.

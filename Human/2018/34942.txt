@@ -1,0 +1,3 @@
+BSGD-TV: A parallel algorithm solving total variation constrained image reconstruction problems
+
+We propose a parallel reconstruction algorithm to solve large scale TV constrained linear inverse problems. We provide a convergence proof and show numerically that our method is significantly faster than the main competitor, block ADMM.

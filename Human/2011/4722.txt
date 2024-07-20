@@ -1,0 +1,3 @@
+All good things come in threes - Three beads learn to swim with lattice Boltzmann and a rigid body solver
+
+We simulate the self-propulsion of devices in a fluid in the regime of low Reynolds numbers. Each device consists of three bodies (spheres or capsules) connected with two damped harmonic springs. Sinusoidal driving forces compress the springs which are resolved within a rigid body physics engine. The latter is consistently coupled to a 3D lattice Boltzmann framework for the fluid dynamics. In simulations of three-sphere devices, we find that the propulsion velocity agrees well with theoretical predictions. In simulations where some or all spheres are replaced by capsules, we find that the asymmetry of the design strongly affects the propelling efficiency.

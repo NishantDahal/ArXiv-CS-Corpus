@@ -1,0 +1,3 @@
+Synthesising Choreographies from Local Session Types (extended version)
+
+Designing and analysing multiparty distributed interactions can be achieved either by means of a global view (e.g. in choreography-based approaches) or by composing available computational entities (e.g. in service orchestration). This paper proposes a typing systems which allows, under some conditions, to synthesise a choreography (i.e. a multiparty global type) from a set of local session types which describe end-point behaviours (i.e. local types).

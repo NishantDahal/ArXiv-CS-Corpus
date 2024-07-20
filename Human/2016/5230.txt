@@ -1,0 +1,3 @@
+Cooperative Network Node Positioning Techniques Using Underwater Radio Communications
+
+We analyze the problem of localization algorithms for underwater sensor networks. We first characterize the underwater channel for radio communications and adjust a linear model with measurements of real transmissions. We propose an algorithm where the sensor nodes collaboratively estimate their unknown positions in the network. In this setting, we assume low connectivity of the nodes, low data rates, and nonzero probability of lost packets in the transmission. Finally, we consider the problem of a node estimating it's position in underwater navigation. We also provide simulations illustrating the previous proposals.

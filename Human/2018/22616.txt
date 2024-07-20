@@ -1,0 +1,3 @@
+Causal Inference on Discrete Data via Estimating Distance Correlations
+
+In this paper, we deal with the problem of inferring causal directions when the data is on discrete domain. By considering the distribution of the cause $P(X)$ and the conditional distribution mapping cause to effect $P(Y|X)$ as independent random variables, we propose to infer the causal direction via comparing the distance correlation between $P(X)$ and $P(Y|X)$ with the distance correlation between $P(Y)$ and $P(X|Y)$. We infer "$X$ causes $Y$" if the dependence coefficient between $P(X)$ and $P(Y|X)$ is smaller. Experiments are performed to show the performance of the proposed method.

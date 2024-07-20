@@ -1,0 +1,4 @@
+Context Discovery for Model Learning in Partially Observable Environments
+
+The ability to learn a model is essential for the success of autonomous agents. Unfortunately, learning a model is difficult in partially observable environments, where latent environmental factors influence what the agent observes. In the absence of a supervisory training signal, autonomous agents therefore require a mechanism to autonomously discover these environmental factors, or sensorimotor contexts.
+  This paper presents a method to discover sensorimotor contexts in partially observable environments, by constructing a hierarchical transition model. The method is evaluated in a simulation experiment, in which a robot learns that different rooms are characterized by different objects that are found in them.

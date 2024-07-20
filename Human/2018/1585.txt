@@ -1,0 +1,3 @@
+Principle of Conservation of Computational Complexity
+
+In this manuscript, we derive the principle of conservation of computational complexity. We measure computational complexity as the number of binary computations (decisions) required to solve a problem. Every problem then defines a unique solution space measurable in bits. For an exact result, decisions in the solution space can neither be predicted nor discarded, only transferred between input and algorithm. We demonstrate and explain this principle using the example of the propositional logic satisfiability problem ($SAT$). It inevitably follows that $SAT \not\in P \Rightarrow P\neq NP$. We also provide an alternative explanation for the undecidability of the halting problem based on the principle.

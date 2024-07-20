@@ -1,0 +1,3 @@
+Processing Transactions in a Predefined Order
+
+In this paper we provide a high performance solution to the problem of committing transactions while enforcing a predefined order. We provide the design and implementation of three algorithms, which deploy a specialized cooperative transaction execution model. This model permits the propagation of written values along the chain of ordered transactions. We show that, even in the presence of data conflicts, the proposed algorithms are able to outperform single-threaded execution, and other baseline and specialized state-of-the-art competitors (e.g., STMLite). The maximum speedup achieved in micro benchmarks, STAMP, PARSEC and SPEC200 applications is in the range of 4.3x -- 16.5x.

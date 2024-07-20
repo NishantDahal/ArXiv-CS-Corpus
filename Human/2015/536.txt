@@ -1,0 +1,3 @@
+Non-Abelian Analogs of Lattice Rounding
+
+Lattice rounding in Euclidean space can be viewed as finding the nearest point in the orbit of an action by a discrete group, relative to the norm inherited from the ambient space. Using this point of view, we initiate the study of non-abelian analogs of lattice rounding involving matrix groups. In one direction, we give an algorithm for solving a normed word problem when the inputs are random products over a basis set, and give theoretical justification for its success. In another direction, we prove a general inapproximability result which essentially rules out strong approximation algorithms (i.e., whose approximation factors depend only on dimension) analogous to LLL in the general case.

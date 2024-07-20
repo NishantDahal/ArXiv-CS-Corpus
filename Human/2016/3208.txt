@@ -1,0 +1,3 @@
+Simplicial Complex Entropy
+
+We propose an entropy function for simplicial complices. Its value gives the expected cost of the optimal encoding of sequences of vertices of the complex, when any two vertices belonging to the same simplex are indistinguishable. We show that the proposed entropy function can be computed efficiently. By computing the entropy of several complices consisting of hundreds of simplices, we show that the proposed entropy function can be used in the analysis of the large sequences of simplicial complices that often appear in computational topology applications.

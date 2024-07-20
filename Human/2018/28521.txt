@@ -1,0 +1,3 @@
+Eigentriads and Eigenprogressions on the Tonnetz
+
+We introduce a new multidimensional representation, named eigenprogression transform, that characterizes some essential patterns of Western tonal harmony while being equivariant to time shifts and pitch transpositions. This representation is deep, multiscale, and convolutional in the piano-roll domain, yet incurs no prior training, and is thus suited to both supervised and unsupervised MIR tasks. The eigenprogression transform combines ideas from the spiral scattering transform, spectral graph theory, and wavelet shrinkage denoising. We report state-of-the-art results on a task of supervised composer recognition (Haydn vs. Mozart) from polyphonic music pieces in MIDI format.

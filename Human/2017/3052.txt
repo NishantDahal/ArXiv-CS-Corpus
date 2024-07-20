@@ -1,0 +1,3 @@
+Agglomerative Info-Clustering
+
+An agglomerative clustering of random variables is proposed, where clusters of random variables sharing the maximum amount of multivariate mutual information are merged successively to form larger clusters. Compared to the previous info-clustering algorithms, the agglomerative approach allows the computation to stop earlier when clusters of desired size and accuracy are obtained. An efficient algorithm is also derived based on the submodularity of entropy and the duality between the principal sequence of partitions and the principal sequence for submodular functions.

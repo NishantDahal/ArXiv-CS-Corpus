@@ -1,0 +1,3 @@
+Using social network graph analysis for interest detection
+
+A person's interests exist as an internal state and are difficult to define. Since only external actions are observable, a proxy must be used that represents someone's interests. Techniques like collaborative filtering, behavioral targeting, and hashtag analysis implicitly model an individual's interests. I argue that these models are limited to shallow, temporary interests, which do not reflect people's deeper interests or passions. I propose an alternative model of interests that takes advantage of a user's social graph. The basic principle is that people only follow those that interest them, so the social graph is an effective and robust proxy for people's interests.

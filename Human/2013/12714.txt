@@ -1,0 +1,3 @@
+On the difference between checking integrity constraints before or after updates
+
+Integrity checking is a crucial issue, as databases change their instance all the time and therefore need to be checked continuously and rapidly. Decades of research have produced a plethora of methods for checking integrity constraints of a database in an incremental manner. However, not much has been said about when to check integrity. In this paper, we study the differences and similarities between checking integrity before an update (a.k.a. pre-test) or after (a.k.a. post-test) in order to assess the respective convenience and properties.

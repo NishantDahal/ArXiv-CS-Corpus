@@ -1,0 +1,3 @@
+State Based Service Description
+
+In this paper we propose I/O state transition diagrams for service description In contrast to other techniques like for example Statecharts we allow to model non atomic services by sequences of transitions This is especially important in a distributed system where concurrent service invocation cannot be prohibited We give a mathematical model of object behaviour based on concurrent and sequential messages Then we give a precise semantics of the service descriptions in terms of the mathematical model.

@@ -1,0 +1,4 @@
+Towards a formal notion of impact metric for cyber-physical attacks (full version)
+
+Industrial facilities and critical infrastructures are transforming into "smart" environments that dynamically adapt to external events. The result is an ecosystem of heterogeneous physical and cyber components integrated in cyber-physical systems which are more and more exposed to cyber-physical attacks, i.e., security breaches in cyberspace that adversely affect the physical processes at the core of the systems.
+  We provide a formal compositional metric to estimate the impact of cyber-physical attacks targeting sensor devices of IoT systems formalised in a simple extension of Hennessy and Regan's Timed Process Language. Our impact metric relies on a discrete-time generalisation of Desharnais et al.'s weak bisimulation metric for concurrent systems. We show the adequacy of our definition on two different attacks on a simple surveillance system.

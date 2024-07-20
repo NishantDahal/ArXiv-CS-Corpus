@@ -1,0 +1,3 @@
+Representing Nonterminating Rewriting with $\mathbf{F}_2^μ$
+
+We specify a second-order type system $\mathbf{F}_2^μ$ that is tailored for representing nonterminations. The nonterminating trace of a term $t$ in a rewrite system $\mathcal{R}$ corresponds to a productive inhabitant $e$ such that $Γ_{\mathcal{R}} \vdash e : t$ in $\mathbf{F}_2^μ$, where $Γ_{\mathcal{R}}$ is the environment representing the rewrite system. We prove that the productivity checking in $\mathbf{F}_2^μ$ is decidable via a mapping to the $λ$-Y calculus. We develop a type checking algorithm for $\mathbf{F}_2^μ$ based on second-order matching. We implement the type checking algorithm in a proof-of-concept type checker.

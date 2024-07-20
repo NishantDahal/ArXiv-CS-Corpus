@@ -1,0 +1,3 @@
+Automatic Gain Tuning of a Momentum Based Balancing Controller for Humanoid Robots
+
+This paper proposes a technique for automatic gain tuning of a momentum based balancing controller for humanoid robots. The controller ensures the stabilization of the centroidal dynamics and the associated zero dynamics. Then, the closed-loop, constrained joint space dynamics is linearized and the controller's gains are chosen so as to obtain desired properties of the linearized system. Symmetry and positive definiteness constraints of gain matrices are enforced by proposing a tracker for symmetric positive definite matrices. Simulation results are carried out on the humanoid robot iCub.

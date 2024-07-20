@@ -1,0 +1,3 @@
+Matrix Methods for Solving Algebraic Systems
+
+We present our public-domain software for the following tasks in sparse (or toric) elimination theory, given a well-constrained polynomial system. First, C code for computing the mixed volume of the system. Second, Maple code for defining an overconstrained system and constructing a Sylvester-type matrix of its sparse resultant. Third, C code for a Sylvester-type matrix of the sparse resultant and a superset of all common roots of the initial well-constrained system by computing the eigen-decomposition of a square matrix obtained from the resultant matrix. We conclude with experiments in computing molecular conformations.

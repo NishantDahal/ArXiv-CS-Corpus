@@ -1,0 +1,3 @@
+FMS: Functional Programming as a Modelling Language
+
+In this paper we introduce the Functional Modelling System (FMS). The system introduces the Functional Modelling Language (FML), which is a modelling language for NP-complete search problems based on concepts of functional programming. Internally, we translate FML specifications to an Answer Set Program to obtain models. We give a general overview of the new FML language, and how this language is handled in the system. We give a step-by-step walkthrough of the system, pointing out what features are in place, and what improvements are still possible.

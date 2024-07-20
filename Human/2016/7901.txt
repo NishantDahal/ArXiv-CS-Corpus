@@ -1,0 +1,4 @@
+Two types of branching programs with bounded repetition that cannot efficiently compute monotone 3-CNFs
+
+It is known that there are classes of 2-CNFs requiring exponential size non-deterministic read-once branching programs to compute them. However, to the best of our knowledge, there are no superpolynomial lower bounds for branching programs of a higher repetition computing a class of 2-CNFs. This work is an attempt to make a progress in this direction.
+  We consider a class of monotone 3-CNFs that are almost 2-CNFs in the sense that in each clause there is a literal occurring in this clause only. We prove exponential lower bounds for two classes of non-deterministic branching programs. The first class significantly generalizes monotone read-$k$-times {\sc nbp}s and the second class generalizes oblivious read $k$ times branching programs. The lower bounds remain exponential for $k \leq \log n/a$ where $a$ is a sufficiently large constant.

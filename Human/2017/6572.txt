@@ -1,0 +1,3 @@
+Does Neural Machine Translation Benefit from Larger Context?
+
+We propose a neural machine translation architecture that models the surrounding text in addition to the source sentence. These models lead to better performance, both in terms of general translation quality and pronoun prediction, when trained on small corpora, although this improvement largely disappears when trained with a larger corpus. We also discover that attention-based neural machine translation is well suited for pronoun prediction and compares favorably with other approaches that were specifically designed for this task.

@@ -1,0 +1,3 @@
+Low-complexity Pruned 8-point DCT Approximations for Image Encoding
+
+Two multiplierless pruned 8-point discrete cosine transform (DCT) approximation are presented. Both transforms present lower arithmetic complexity than state-of-the-art methods. The performance of such new methods was assessed in the image compression context. A JPEG-like simulation was performed, demonstrating the adequateness and competitiveness of the introduced methods. Digital VLSI implementation in CMOS technology was also considered. Both presented methods were realized in Berkeley Emulation Engine (BEE3).

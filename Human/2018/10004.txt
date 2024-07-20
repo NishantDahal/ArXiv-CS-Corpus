@@ -1,0 +1,3 @@
+Parameter-free $\ell_p$-Box Decoding of LDPC Codes
+
+The Alternating Direction Method of Multipliers (ADMM) decoding of Low Density Parity Check (LDPC) codes has received many attentions due to its excellent performance at the error floor region. In this paper, we develop a parameter-free decoder based on Linear Program (LP) decoding by replacing the binary constraint with the intersection of a box and an $\ell_p$ sphere. An efficient $\ell_2$-box ADMM is designed to handle this model in a distributed fashion. Numerical experiments demonstrate that our decoder attains better adaptability to different Signal-to-Noise Ratio and channels.

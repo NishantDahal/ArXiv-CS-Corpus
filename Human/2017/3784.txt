@@ -1,0 +1,3 @@
+A Note on Matchings Constructed during Edmonds' Weighted Perfect Matching Algorithm
+
+We reprove that all the matchings constructed during Edmonds' weighted perfect matching algorithm are optimal among those of the same cardinality (provided that certain mild restrictions are obeyed on the choices the algorithm makes). We conclude that in order to solve a weighted matching problem it is not needed to solve a weighted perfect matching problem in an auxiliary graph of doubled size. This result was known before, e.g., posed as an exercise in see Lawler's book from 1976, but is not present in several modern books on combinatorial optimization.

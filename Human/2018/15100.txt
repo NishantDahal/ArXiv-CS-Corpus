@@ -1,0 +1,3 @@
+An Approximation-based Approach for the Random Exploration of Large Models
+
+System modeling is a classical approach to ensure their reliability since it is suitable both for a formal verification and for software testing techniques. In the context of model-based testing an approach combining random testing and coverage based testing has been recently introduced [9]. However, this approach is not tractable on quite large models. In this paper we show how to use statistical approximations to make the approach work on larger models. Experimental results, on models of communicating protocols, are provided; they are very promising, both for the computation time and for the quality of the generated test suites.

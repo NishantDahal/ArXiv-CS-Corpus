@@ -1,0 +1,3 @@
+Detection and Prevention Against RTS Attacks in Wireless LAN
+
+Widely deployed wireless network devices use a shared medium to communicate among mobile nodes. WLAN uses virtual carrier sensing mechanism to solve issues like hidden node problem, while this mechanism is vulnerable to DOS attacks e.g., RTS attack. This paper discusses RTS (Request to Send) attack where malicious nodes reserve the medium unnecessarily for overdue period of time. The effects of such attacks on performance of WLAN are observed, proposed a mitigation technique to restore network performance and analyzed the improvement in performance.

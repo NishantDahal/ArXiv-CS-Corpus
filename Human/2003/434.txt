@@ -1,0 +1,3 @@
+The ray attack, an inefficient trial to break RSA cryptosystems
+
+The basic properties of RSA cryptosystems and some classical attacks on them are described. Derived from geometric properties of the Euler functions, the Euler function rays, a new ansatz to attack RSA cryptosystems is presented. A resulting, albeit inefficient, algorithm is given. It essentially consists of a loop with starting value determined by the Euler function ray and with step width given by a function $ω_e(n)$ being a multiple of the order $\mathrm{ord}_n(e)$, where $e$ denotes the public key exponent and $n$ the RSA modulus. For $n=pq$ and an estimate $r<\sqrt{pq}$ for the smaller prime factor $p$, the running time is given by $T(e,n,r) = O((r-p)\ln e \ln n \ln r).$

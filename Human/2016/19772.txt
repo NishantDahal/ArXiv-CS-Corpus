@@ -1,0 +1,3 @@
+Non-negative Factorization of the Occurrence Tensor from Financial Contracts
+
+We propose an algorithm for the non-negative factorization of an occurrence tensor built from heterogeneous networks. We use l0 norm to model sparse errors over discrete values (occurrences), and use decomposed factors to model the embedded groups of nodes. An efficient splitting method is developed to optimize the nonconvex and nonsmooth objective. We study both synthetic problems and a new dataset built from financial documents, resMBS.

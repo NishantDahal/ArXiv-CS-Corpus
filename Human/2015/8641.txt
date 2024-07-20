@@ -1,0 +1,3 @@
+How to prove it in Natural Deduction: A Tactical Approach
+
+The motivation for this paper comes out of our experience with teaching natural deduction (ND) and with the way this formal system is implemented by the \textsc{Coq} proof assistant, namely by means of so-called tactics, which are heuristics that transform a goal formula into a sequence of subgoals whose provability implies that of the original formula. We aim at capturing some of these tactics into a system of ND for minimal logic. Our goal is twofold: formal and didactic. The former delivers a formal system with its underlying heuristics to build proofs, which in turn serves our latter purpose, that of making an ideal system for the teaching of ND at an undergraduate level in a computer science program.

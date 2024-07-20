@@ -1,0 +1,4 @@
+Optimal Index Codes with Near-Extreme Rates
+
+The min-rank of a digraph was shown by Bar-Yossef et al. (2006) to represent the length of an optimal scalar linear solution of the corresponding instance of the Index Coding with Side Information (ICSI) problem. In this work, the graphs and digraphs of near-extreme min-ranks are characterized. Those graphs and digraphs correspond to the ICSI instances having near-extreme transmission rates when using optimal scalar linear index codes. In particular, it is shown that the decision problem whether a digraph has min-rank two is NP-complete. By contrast, the same question for graphs can be answered in polynomial time.
+  Additionally, a new upper bound on the min-rank of a digraph, the circuit-packing bound, is presented. This bound is often tighter than the previously known bounds. By employing this new bound, we present several families of digraphs whose min-ranks can be found in polynomial time.

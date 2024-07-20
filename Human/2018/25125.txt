@@ -1,0 +1,3 @@
+Lipschitz Networks and Distributional Robustness
+
+Robust risk minimisation has several advantages: it has been studied with regards to improving the generalisation properties of models and robustness to adversarial perturbation. We bound the distributionally robust risk for a model class rich enough to include deep neural networks by a regularised empirical risk involving the Lipschitz constant of the model. This allows us to interpretand quantify the robustness properties of a deep neural network. As an application we show the distributionally robust risk upperbounds the adversarial training risk.

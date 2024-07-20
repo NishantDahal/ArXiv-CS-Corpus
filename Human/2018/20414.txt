@@ -1,0 +1,9 @@
+Zero-shot Transfer Learning for Semantic Parsing
+
+While neural networks have shown impressive performance on large datasets, applying these models to tasks where little data is available remains a challenging problem.
+  In this paper we propose to use feature transfer in a zero-shot experimental setting on the task of semantic parsing.
+  We first introduce a new method for learning the shared space between multiple domains based on the prediction of the domain label for each example.
+  Our experiments support the superiority of this method in a zero-shot experimental setting in terms of accuracy metrics compared to state-of-the-art techniques.
+  In the second part of this paper we study the impact of individual domains and examples on semantic parsing performance.
+  We use influence functions to this aim and investigate the sensitivity of domain-label classification loss on each example.
+  Our findings reveal that cross-domain adversarial attacks identify useful examples for training even from the domains the least similar to the target domain. Augmenting our training data with these influential examples further boosts our accuracy at both the token and the sequence level.

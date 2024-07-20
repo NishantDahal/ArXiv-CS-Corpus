@@ -1,0 +1,3 @@
+Symmetric Variational Autoencoder and Connections to Adversarial Learning
+
+A new form of the variational autoencoder (VAE) is proposed, based on the symmetric Kullback-Leibler divergence. It is demonstrated that learning of the resulting symmetric VAE (sVAE) has close connections to previously developed adversarial-learning methods. This relationship helps unify the previously distinct techniques of VAE and adversarially learning, and provides insights that allow us to ameliorate shortcomings with some previously developed adversarial methods. In addition to an analysis that motivates and explains the sVAE, an extensive set of experiments validate the utility of the approach.

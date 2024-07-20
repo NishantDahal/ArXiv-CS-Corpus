@@ -1,0 +1,4 @@
+Precision Arithmetic: A New Floating-Point Arithmetic
+
+A new deterministic floating-point arithmetic called precision arithmetic is developed to track precision for arithmetic calculations. It uses a novel rounding scheme to avoid excessive rounding error propagation of conventional floating-point arithmetic. Unlike interval arithmetic, its uncertainty tracking is based on statistics and the central limit theorem, with a much tighter bounding range. Its stable rounding error distribution is approximated by a truncated normal distribution. Generic standards and systematic methods for validating uncertainty-bearing arithmetics are discussed. The precision arithmetic is found to be better than interval arithmetic in both uncertainty-tracking and uncertainty-bounding for normal usages.
+  The precision arithmetic is available publicly at http://precisionarithm.sourceforge.net.

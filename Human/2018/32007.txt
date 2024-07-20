@@ -1,0 +1,3 @@
+Loop Optimization Framework
+
+The LLVM compiler framework supports a selection of loop transformations such as vectorization, distribution and unrolling. Each transformation is carried-out by specialized passes that have been developed independently. In this paper we propose an integrated approach to loop optimizations: A single dedicated pass that mutates a Loop Structure DAG. Each transformation can make use of a common infrastructure such as dependency analysis, transformation preconditions, etc.

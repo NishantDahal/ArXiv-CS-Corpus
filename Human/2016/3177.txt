@@ -1,0 +1,3 @@
+A note on "achieving security, robust cheating resistance, and high-efficiency for outsourcing large matrix multiplication computation to a malicious cloud"
+
+We show that the Lei et al.'s scheme [Information Sciences, 280 (2014), 205-217] fails, because the verifying equation does not hold over the infinite field R. For the field R, the computational errors should be considered seriously. We also remark that the incurred communication cost in the scheme could be overtake the computational gain, which makes it somewhat artificial.

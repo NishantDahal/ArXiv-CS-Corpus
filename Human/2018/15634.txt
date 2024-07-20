@@ -1,0 +1,3 @@
+Deep Vessel Segmentation By Learning Graphical Connectivity
+
+We propose a novel deep-learning-based system for vessel segmentation. Existing methods using CNNs have mostly relied on local appearances learned on the regular image grid, without considering the graphical structure of vessel shape. To address this, we incorporate a graph convolutional network into a unified CNN architecture, where the final segmentation is inferred by combining the different types of features. The proposed method can be applied to expand any type of CNN-based vessel segmentation method to enhance the performance. Experiments show that the proposed method outperforms the current state-of-the-art methods on two retinal image datasets as well as a coronary artery X-ray angiography dataset.

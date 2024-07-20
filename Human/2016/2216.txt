@@ -1,0 +1,6 @@
+On the power of dominated players in team competitions
+
+We investigate multi-round team competitions between two teams, where each team selects one of its players simultaneously in each round and each player can play at most once. The competition defines an extensive-form game with perfect recall and can be solved efficiently by standard methods. We are interested in the properties of the subgame perfect equilibria of this game.
+  We first show that uniformly random strategy is a subgame perfect equilibrium strategy for both teams when there are no redundant players (i.e., the number of players in each team equals to the number of rounds of the competition). Secondly, a team can safely abandon its weak players if it has redundant players and the strength of players is transitive.
+  We then focus on the more interesting case where there are redundant players and the strength of players is not transitive. In this case, we obtain several counterintuitive results. First of all, a player might help improve the payoff of its team, even if it is dominated by the entire other team. We give a necessary condition for a dominated player to be useful. We also study the extent to which the dominated players can increase the payoff.
+  These results bring insights into playing and designing general team competitions.

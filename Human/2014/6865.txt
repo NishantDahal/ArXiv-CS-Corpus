@@ -1,0 +1,4 @@
+Modeling Algorithms in SystemC and ACL2
+
+We describe the formal language MASC, based on a subset of SystemC and intended for modeling algorithms to be implemented in hardware.   By means of a special-purpose parser, an algorithm coded in SystemC is converted to a MASC model for the purpose of documentation, which in turn is translated to ACL2 for formal verification.  The parser also generates a SystemC variant that is suitable as input to a high-level synthesis tool.  As an illustration of this methodology, we describe a proof of correctness of a simple 32-bit radix-4 multiplier.
+

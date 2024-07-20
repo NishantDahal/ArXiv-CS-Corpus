@@ -1,0 +1,3 @@
+Deep learning and the Schrödinger equation
+
+We have trained a deep (convolutional) neural network to predict the ground-state energy of an electron in four classes of confining two-dimensional electrostatic potentials. On randomly generated potentials, for which there is no analytic form for either the potential or the ground-state energy, the neural network model was able to predict the ground-state energy to within chemical accuracy, with a median absolute error of 1.49 mHa. We also investigate the performance of the model in predicting other quantities such as the kinetic energy and the first excited-state energy of random potentials.

@@ -1,0 +1,3 @@
+Audio signal encryption using chaotic Hénon map and lifting wavelet transforms
+
+We propose a new audio signal encryption scheme based on the chaotic Hénon map. The scheme mainly comprises two phases: one is the preprocessing stage where the audio signal is transformed into a data by the lifting wavelet scheme and the other in which the transformed data is encrypted by chaotic data set and hyperbolic functions. Furthermore, we use dynamic keys and consider the key space size to be large enough to resist any kind of cryptographic attacks. A statistical investigation is also made to test the security and the efficiency of the proposed scheme.

@@ -1,0 +1,3 @@
+Extending and Implementing the Self-adaptive Virtual Processor for Distributed Memory Architectures
+
+Many-core architectures of the future are likely to have distributed memory organizations and need fine grained concurrency management to be used effectively. The Self-adaptive Virtual Processor (SVP) is an abstract concurrent programming model which can provide this, but the model and its current implementations assume a single address space shared memory. We investigate and extend SVP to handle distributed environments, and discuss a prototype SVP implementation which transparently supports execution on heterogeneous distributed memory clusters over TCP/IP connections, while retaining the original SVP programming model.

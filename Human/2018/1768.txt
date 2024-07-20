@@ -1,0 +1,3 @@
+Robust Semi-Cooperative Multi-Agent Coordination in the Presence of Stochastic Disturbances
+
+This paper presents a robust distributed coordination protocol that achieves generation of collision-free trajectories for multiple unicycle agents in the presence of stochastic uncertainties. We build upon our earlier work on semi-cooperative coordination and we redesign the coordination controllers so that the agents counteract a class of state (wind) disturbances and measurement noise. Safety and convergence is proved analytically, while simulation results demonstrate the efficacy of the proposed solution.

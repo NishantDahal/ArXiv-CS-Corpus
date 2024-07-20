@@ -1,0 +1,3 @@
+Simulating a die roll by flipping two coins
+
+We show how to simulate a roll of a fair $n$-sided die by one flip of a biased coin with probability $1/n$ of coming up heads, followed by $3\lfloor\log_2 n \rfloor+1$ flips of a fair coin.

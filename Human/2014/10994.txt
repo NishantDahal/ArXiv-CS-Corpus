@@ -1,0 +1,4 @@
+From Orchestration to Choreography through Contract Automata
+
+We study the relations between a contract automata and an interaction model. In the former model, distributed services are abstracted away as automata - oblivious of their partners - that coordinate with each other through an orchestrator. The interaction model relies on channel-based asynchronous communication and choreography to coordinate distributed services.
+  We define a notion of strong agreement on the contract model, exhibit a natural mapping from the contract model to the interaction model, and give conditions to ensure that strong agreement corresponds to well-formed choreography.

@@ -1,0 +1,3 @@
+An Algorithmic Framework for Labeling Network Maps
+
+Drawing network maps automatically comprises two challenging steps, namely laying out the map and placing non-overlapping labels. In this paper we tackle the problem of labeling an already existing network map considering the application of metro maps. We present a flexible and versatile labeling model. Despite its simplicity, we prove that it is NP-complete to label a single line of the network. For a restricted variant of that model, we then introduce an efficient algorithm that optimally labels a single line with respect to a given weighting function. Based on that algorithm, we present a general and sophisticated workflow for multiple metro lines, which is experimentally evaluated on real-world metro maps.

@@ -1,0 +1,3 @@
+Exact Enumeration and Sampling of Matrices with Specified Margins
+
+We describe a dynamic programming algorithm for exact counting and exact uniform sampling of matrices with specified row and column sums. The algorithm runs in polynomial time when the column sums are bounded. Binary or non-negative integer matrices are handled. The method is distinguished by applicability to non-regular margins, tractability on large matrices, and the capacity for exact sampling.

@@ -1,0 +1,3 @@
+Firebird Database Backup by Serialized Database Table Dump
+
+This paper presents a simple data dump and load utility for Firebird databases which mimics mysqldump in MySQL. This utility, fb_dump and fb_load, for dumping and loading respectively, retrieves each database table using kinterbasdb and serializes the data using marshal module. This utility has two advantages over the standard Firebird database backup utility, gbak. Firstly, it is able to backup and restore single database tables which might help to recover corrupted databases. Secondly, the output is in text-coded format (from marshal module) making it more resilient than a compressed text backup, as in the case of using gbak.

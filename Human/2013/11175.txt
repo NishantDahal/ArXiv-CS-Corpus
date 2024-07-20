@@ -1,0 +1,3 @@
+Picking Planar Edges; or, Drawing a Graph with a Planar Subgraph
+
+Given a graph $G$ and a subset $F \subseteq E(G)$ of its edges, is there a drawing of $G$ in which all edges of $F$ are free of crossings? We show that this question can be solved in polynomial time using a Hanani-Tutte style approach. If we require the drawing of $G$ to be straight-line, and allow at most one crossing along each edge in $F$, the problem turns out to be as hard as the existential theory of the real numbers.

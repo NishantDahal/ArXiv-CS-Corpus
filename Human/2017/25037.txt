@@ -1,0 +1,3 @@
+Transversals of Longest Paths
+
+Let $\lpt(G)$ be the minimum cardinality of a set of vertices that intersects all longest paths in a graph $G$. Let $ω(G)$ be the size of a maximum clique in $G$, and $\tw(G)$ be the treewidth of $G$. We prove that $ \lpt(G) \leq \max\{1,ω(G)-2\}$ when $G$ is a connected chordal graph; that $\lpt(G) =1$ when $G$ is a connected bipartite permutation graph or a connected full substar graph; and that $\lpt(G) \leq \tw(G)$ for any connected graph $G$.

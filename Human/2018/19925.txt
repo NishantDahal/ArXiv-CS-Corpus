@@ -1,0 +1,3 @@
+Permissive Finite-State Controllers of POMDPs using Parameter Synthesis
+
+We study finite-state controllers (FSCs) for partially observable Markov decision processes (POMDPs) that are provably correct with respect to given specifications. The key insight is that computing (randomised) FSCs on POMDPs is equivalent to - and computationally as hard as - synthesis for parametric Markov chains (pMCs). This correspondence allows to use tools for parameter synthesis in pMCs to compute correct-by-construction FSCs on POMDPs for a variety of specifications. Our experimental evaluation shows comparable performance to well-known POMDP solvers.

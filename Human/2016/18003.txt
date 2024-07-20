@@ -1,0 +1,3 @@
+X-ray Scattering Image Classification Using Deep Learning
+
+Visual inspection of x-ray scattering images is a powerful technique for probing the physical structure of materials at the molecular scale. In this paper, we explore the use of deep learning to develop methods for automatically analyzing x-ray scattering images. In particular, we apply Convolutional Neural Networks and Convolutional Autoencoders for x-ray scattering image classification. To acquire enough training data for deep learning, we use simulation software to generate synthetic x-ray scattering images. Experiments show that deep learning methods outperform previously published methods by 10\% on synthetic and real datasets.

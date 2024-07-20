@@ -1,0 +1,3 @@
+Lifted Variable Elimination: A Novel Operator and Completeness Results
+
+Various methods for lifted probabilistic inference have been proposed, but our understanding of these methods and the relationships between them is still limited, compared to their propositional counterparts. The only existing theoretical characterization of lifting is for weighted first-order model counting (WFOMC), which was shown to be complete domain-lifted for the class of 2-logvar models. This paper makes two contributions to lifted variable elimination (LVE). First, we introduce a novel inference operator called group inversion. Second, we prove that LVE augmented with this operator is complete in the same sense as WFOMC.

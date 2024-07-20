@@ -1,0 +1,3 @@
+Optimal Feature Selection from VMware ESXi 5.1 Feature Set
+
+A study of VMware ESXi 5.1 server has been carried out to find the optimal set of parameters which suggest usage of different resources of the server. Feature selection algorithms have been used to extract the optimum set of parameters of the data obtained from VMware ESXi 5.1 server using esxtop command. Multiple virtual machines (VMs) are running in the mentioned server. K-means algorithm is used for clustering the VMs. The goodness of each cluster is determined by Davies Bouldin index and Dunn index respectively. The best cluster is further identified by the determined indices. The features of the best cluster are considered into a set of optimal parameters.

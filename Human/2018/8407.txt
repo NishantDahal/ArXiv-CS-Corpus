@@ -1,0 +1,3 @@
+Video Compression through Image Interpolation
+
+An ever increasing amount of our digital communication, media consumption, and content creation revolves around videos. We share, watch, and archive many aspects of our lives through them, all of which are powered by strong video compression. Traditional video compression is laboriously hand designed and hand optimized. This paper presents an alternative in an end-to-end deep learning codec. Our codec builds on one simple idea: Video compression is repeated image interpolation. It thus benefits from recent advances in deep image interpolation and generation. Our deep video codec outperforms today's prevailing codecs, such as H.261, MPEG-4 Part 2, and performs on par with H.264.

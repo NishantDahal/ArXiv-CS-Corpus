@@ -1,0 +1,3 @@
+Guitar Solos as Networks
+
+This paper presents an approach to model melodies (and music pieces in general) as networks. Notes of a melody can be seen as nodes of a network that are connected whenever these are played in sequence. This creates a directed graph. By using complex network theory, it is possible to extract some main metrics, typical of networks, that characterize the piece. Using this framework, we provide an analysis on a set of guitar solos performed by main musicians. The results of this study indicate that this model can have an impact on multimedia applications such as music classification, identification, and automatic music generation.

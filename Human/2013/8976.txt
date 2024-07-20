@@ -1,0 +1,4 @@
+Improving tag recommendation by folding in more consistency
+
+Tag recommendation is a major aspect of collaborative tagging systems. It aims to recommend tags to a user for tagging an item. In this paper we present a part of our work in progress which is a novel improvement of recommendations by re-ranking the output of a tag recommender. We mine association rules between candidates tags in order to determine a more consistent list of tags to recommend.
+  Our method is an add-on one which leads to better recommendations as we show in this paper. It is easily parallelizable and morever it may be applied to a lot of tag recommenders. The experiments we did on five datasets with two kinds of tag recommender demonstrated the efficiency of our method.

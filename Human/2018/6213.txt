@@ -1,0 +1,3 @@
+Clocked Definitions in HOL
+
+Many potentially non-terminating functions cannot be directly defined in a logic of total functions, such as HOL. A well-known solution to this is to define non-terminating functions using a clock that forces termination at a certain depth of evaluation. Such clocked definitions are often frowned upon and avoided, since the clock is perceived as extra clutter. In this short paper, we explain that there are different ways to add a clock, some less intrusive than others. Our contribution is a technique by which termination proofs are kept simple even when minimising the use of the clock mechanism. Our examples are definitions of semantic interpreters for programming languages, so called functional big-step semantics.

@@ -1,0 +1,3 @@
+Successive Nonnegative Projection Algorithm for Robust Nonnegative Blind Source Separation
+
+In this paper, we propose a new fast and robust recursive algorithm for near-separable nonnegative matrix factorization, a particular nonnegative blind source separation problem. This algorithm, which we refer to as the successive nonnegative projection algorithm (SNPA), is closely related to the popular successive projection algorithm (SPA), but takes advantage of the nonnegativity constraint in the decomposition. We prove that SNPA is more robust than SPA and can be applied to a broader class of nonnegative matrices. This is illustrated on some synthetic data sets, and on a real-world hyperspectral image.

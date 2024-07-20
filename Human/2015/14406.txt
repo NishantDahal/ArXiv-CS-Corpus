@@ -1,0 +1,3 @@
+Identifying Actionable Messages on Social Media
+
+Text actionability detection is the problem of classifying user authored natural language text, according to whether it can be acted upon by a responding agent. In this paper, we propose a supervised learning framework for domain-aware, large-scale actionability classification of social media messages. We derive lexicons, perform an in-depth analysis for over 25 text based features, and explore strategies to handle domains that have limited training data. We apply these methods to over 46 million messages spanning 75 companies and 35 languages, from both Facebook and Twitter. The models achieve an aggregate population-weighted F measure of 0.78 and accuracy of 0.74, with values of over 0.9 in some cases.

@@ -1,0 +1,3 @@
+Analytical Estimation of the Scalability of Iterative Numerical Algorithms on Distributed Memory Multiprocessors
+
+This article presents a new high-level parallel computational model named BSF - Bulk Synchronous Farm. The BSF model extends the BSP model to deal with the compute-intensive iterative numerical methods executed on distributed-memory multiprocessor systems. The BSF model is based on the master-worker paradigm and the SPMD programming model. The BSF model makes it possible to predict the upper scalability bound of a BSF-program with great accuracy. The BSF model also provides equations for estimating the speedup and parallel efficiency of a BSF-program.

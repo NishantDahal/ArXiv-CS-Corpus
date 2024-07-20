@@ -1,0 +1,3 @@
+Audio Spectrogram Factorization for Classification of Telephony Signals below the Auditory Threshold
+
+Traffic Pumping attacks are a form of high-volume SPAM that target telephone networks, defraud customers and squander telephony resources. One type of call in these attacks is characterized by very low-amplitude signal levels, notably below the auditory threshold. We propose a technique to classify so-called "dead air" or "silent" SPAM calls based on features derived from factorizing the caller audio spectrogram. We describe the algorithms for feature extraction and classification as well as our data collection methods and production performance on millions of calls per week.

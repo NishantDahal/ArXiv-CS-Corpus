@@ -1,0 +1,4 @@
+Topological containment of the 5-clique minus an edge in 4-connected graphs
+
+The topological containment problem is known to be polynomial-time solvable for any fixed pattern graph $H$, but good characterisations have been found for only a handful of non-trivial pattern graphs. The complete graph on five vertices, $K_5$, is one pattern graph for which a characterisation has not been found. The discovery of such a characterisation would be of particular interest, due to the Hajós Conjecture. One step towards this may be to find a good characterisation of graphs that do not topologically contain the simpler pattern graph $K_5^-$, obtained by removing a single edge from $K_5$.
+  This paper makes progress towards achieving this, by showing that every 4-connected graph must contain a $K_5^-$-subdivision.

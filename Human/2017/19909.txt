@@ -1,0 +1,3 @@
+Lower Bounds for Higher-Order Convex Optimization
+
+State-of-the-art methods in convex and non-convex optimization employ higher-order derivative information, either implicitly or explicitly. We explore the limitations of higher-order optimization and prove that even for convex optimization, a polynomial dependence on the approximation guarantee and higher-order smoothness parameters is necessary. As a special case, we show Nesterov's accelerated cubic regularization method to be nearly tight.

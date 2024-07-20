@@ -1,0 +1,4 @@
+Reducing the Arity in Unbiased Black-Box Complexity
+
+We show that for all $1<k \leq \log n$ the $k$-ary unbiased black-box complexity of the $n$-dimensional $\onemax$ function class is $O(n/k)$. This indicates that the power of higher arity operators is much stronger than what the previous $O(n/\log k)$ bound by Doerr et al. (Faster black-box algorithms through higher arity operators, Proc. of FOGA 2011, pp. 163--172, ACM, 2011) suggests.
+  The key to this result is an encoding strategy, which might be of independent interest. We show that, using $k$-ary unbiased variation operators only, we may simulate an unrestricted memory of size $O(2^k)$ bits.

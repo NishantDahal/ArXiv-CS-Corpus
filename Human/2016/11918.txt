@@ -1,0 +1,3 @@
+An algorithm for dividing two complex numbers
+
+In this work a rationalized algorithm for calculating the quotient of two complex numbers is presented which reduces the number of underlying real multiplications. The performing of a complex number division using the naive method takes 4 multiplications, 3 additions, 2 squarings and 2 divisions of real numbers while the proposed algorithm can compute the same result in only 3 multiplications ( or multipliers in hardware implementation case), 6 additions, 2 squarings and 2 divisions of real numbers.

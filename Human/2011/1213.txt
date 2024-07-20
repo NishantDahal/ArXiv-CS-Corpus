@@ -1,0 +1,3 @@
+Sampling-rate-aware noise generation
+
+In this paper we consider the generation of discrete white noise. Despite this seems to be a simple problem, common noise generator implementations do not deliver comparable results at different sampling rates. First we define what we mean with "comparable results". From this we conclude, that the variance of the random variables shall grow proportionally to the sampling rate. Eventually we consider how noise behaves under common signal transformations, such as frequency filters, quantisation and impulse generation and we explore how these signal transformations must be designed in order generate sampling-rate-aware results when applied to white noise.

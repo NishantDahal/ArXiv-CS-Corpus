@@ -1,0 +1,3 @@
+Expressiveness of Visibly Pushdown Transducers
+
+Visibly pushdown transducers (VPTs) are visibly pushdown automata extended with outputs. They have been introduced to model transformations of nested words, i.e. words with a call/return structure. As trees and more generally hedges can be linearized into (well) nested words, VPTs are a natural formalism to express tree transformations evaluated in streaming. This paper aims at characterizing precisely the expressive power of VPTs with respect to other tree transducer models.

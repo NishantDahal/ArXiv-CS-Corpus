@@ -1,0 +1,3 @@
+Separation of Signals Consisting of Amplitude and Instantaneous Frequency RRC Pulses Using SNR Uniform Training
+
+This work presents sample mean and sample variance based features that distinguish continuous phase FSK from QAM and PSK modulations. Root raised cosine pulses are used for signal generation. Support vector machines are employed for signals separation. They are trained for only one value of SNR and used to classify the signals from a wide range of SNR. A priori information about carrier amplitude, carrier phase, carrier offset, roll-off factor and initial symbol phase is relaxed. Effectiveness of the method is tested by observing the joint effects of AWGN, carrier offset, lack of symbol and sampling synchronization, and fast fading.

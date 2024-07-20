@@ -1,0 +1,3 @@
+An Integrated Recommender Algorithm for Rating Prediction
+
+Recommender system is currently widely used in many e-commerce systems, such as Amazon, eBay, and so on. It aims to help users to find items which they may be interested in. In literature, neighborhood-based collaborative filtering and matrix factorization are two common methods used in recommender systems. In this paper, we combine these two methods with personalized weights on them. Rather than using fixed weights for these two methods, we assume each user has her/his own preference over them. Our results shows that our algorithm outperforms neighborhood-based collaborative filtering algorithm, matrix factorization algorithm and their combination with fixed weights.

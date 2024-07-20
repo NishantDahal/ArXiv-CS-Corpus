@@ -1,0 +1,3 @@
+Using Modes to Ensure Subject Reduction for Typed Logic Programs with Subtyping
+
+We consider a general prescriptive type system with parametric polymorphism and subtyping for logic programs. The property of subject reduction expresses the consistency of the type system w.r.t. the execution model: if a program is "well-typed", then all derivations starting in a "well-typed" goal are again "well-typed". It is well-established that without subtyping, this property is readily obtained for logic programs w.r.t. their standard (untyped) execution model. Here we give syntactic conditions that ensure subject reduction also in the presence of general subtyping relations between type constructors. The idea is to consider logic programs with a fixed dataflow, given by modes.

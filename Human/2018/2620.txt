@@ -1,0 +1,8 @@
+Near Isometric Terminal Embeddings for Doubling Metrics
+
+Given a metric space $(X,d)$, a set of terminals $K\subseteq X$, and a parameter $t\ge 1$, we consider metric structures (e.g., spanners, distance oracles, embedding into normed spaces) that preserve distances for all pairs in $K\times X$ up to a factor of $t$, and have small size (e.g. number of edges for spanners, dimension for embeddings). While such terminal (aka source-wise) metric structures are known to exist in several settings, no terminal spanner or embedding with distortion close to 1, i.e., $t=1+ε$ for some small $0<ε<1$, is currently known.
+  Here we devise such terminal metric structures for {\em doubling} metrics, and show that essentially any metric structure with distortion $1+ε$ and size $s(|X|)$ has its terminal counterpart, with distortion $1+O(ε)$ and size $s(|K|)+1$. In particular, for any doubling metric on $n$ points, a set of $k=o(n)$ terminals, and constant $0<ε<1$, there exists:
+  (1) A spanner with stretch $1+ε$ for pairs in $K\times X$, with $n+o(n)$ edges.
+  (2) A labeling scheme with stretch $1+ε$ for pairs in $K\times X$, with label size $\approx \log k$.
+  (3) An embedding into $\ell_\infty^d$ with distortion $1+ε$ for pairs in $K\times X$, where $d=O(\log k)$.
+  Moreover, surprisingly, the last two results apply if only $K$ is a doubling metric, while $X$ can be arbitrary.

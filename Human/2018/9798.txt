@@ -1,0 +1,3 @@
+Communication-Optimal Convolutional Neural Nets
+
+Efficiently executing convolutional neural nets (CNNs) is important in many machine-learning tasks. Since the cost of moving a word of data, either between levels of a memory hierarchy or between processors over a network, is much higher than the cost of an arithmetic operation, minimizing data movement is critical to performance optimization. In this paper, we present both new lower bounds on data movement needed for CNNs, and optimal sequential algorithms that attain these lower bounds. In most common cases, our optimal algorithms can attain significantly more data reuse than matrix multiplication.

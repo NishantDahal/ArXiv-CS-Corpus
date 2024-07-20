@@ -1,0 +1,3 @@
+Secure Multiparty Sessions with Topics
+
+Multiparty session calculi have been recently equipped with security requirements, in order to guarantee properties such as access control and leak freedom. However, the proposed security requirements seem to be overly restrictive in some cases. In particular, a party is not allowed to communicate any kind of public information after receiving a secret information. This does not seem justified in case the two pieces of information are totally unrelated. The aim of the present paper is to overcome this  restriction, by designing a type discipline for a simple multiparty session calculus, which classifies messages according to their topics and allows unrestricted sequencing of messages on independent topics.

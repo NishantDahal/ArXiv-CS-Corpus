@@ -1,0 +1,3 @@
+Semi-Supervised Radio Signal Identification
+
+Radio emitter recognition in dense multi-user environments is an important tool for optimizing spectrum utilization, identifying and minimizing interference, and enforcing spectrum policy. Radio data is readily available and easy to obtain from an antenna, but labeled and curated data is often scarce making supervised learning strategies difficult and time consuming in practice. We demonstrate that semi-supervised learning techniques can be used to scale learning beyond supervised datasets, allowing for discerning and recalling new radio signals by using sparse signal representations based on both unsupervised and supervised methods for nonlinear feature learning and clustering methods.

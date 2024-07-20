@@ -1,0 +1,5 @@
+Covers of Query Results
+
+We introduce succinct lossless representations of query results called covers. They are subsets of the query results that correspond to minimal edge covers in the hypergraphs of these results.
+  We first study covers whose structures are given by fractional hypertree decompositions of join queries. For any decomposition of a query, we give asymptotically tight size bounds for the covers of the query result over that decomposition and show that such covers can be computed in worst-case optimal time up to a logarithmic factor in the database size. For acyclic join queries, we can compute covers compositionally using query plans with a new operator called cover-join. The tuples in the query result can be enumerated from any of its covers with linearithmic pre-computation time and constant delay.
+  We then generalize covers from joins to functional aggregate queries that express a host of computational problems such as aggregate-join queries, in-database optimization, matrix chain multiplication, and inference in probabilistic graphical models.

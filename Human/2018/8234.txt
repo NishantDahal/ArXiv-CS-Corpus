@@ -1,0 +1,3 @@
+Designing Practical PTASes for Minimum Feedback Vertex Set in Planar Graphs
+
+We present two algorithms for the minimum feedback vertex set problem in planar graphs: an $O(n \log n)$ PTAS using a linear kernel and balanced separator, and a heuristic algorithm using kernelization and local search. We implemented these algorithms and compared their performance with Becker and Geiger's 2-approximation algorithm. We observe that while our PTAS is competitive with the 2-approximation algorithm on large planar graphs, its running time is much longer. And our heuristic algorithm can outperform the 2-approximation algorithm on most large planar graphs and provide a trade-off between running time and solution quality, i.e. a "PTAS behavior".

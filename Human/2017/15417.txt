@@ -1,0 +1,3 @@
+GALILEO: A Generalized Low-Entropy Mixture Model
+
+We present a new method of generating mixture models for data with categorical attributes. The keys to this approach are an entropy-based density metric in categorical space and annealing of high-entropy/low-density components from an initial state with many components. Pruning of low-density components using the entropy-based density allows GALILEO to consistently find high-quality clusters and the same optimal number of clusters. GALILEO has shown promising results on a range of test datasets commonly used for categorical clustering benchmarks. We demonstrate that the scaling of GALILEO is linear in the number of records in the dataset, making this method suitable for very large categorical datasets.

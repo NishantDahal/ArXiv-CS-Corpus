@@ -1,0 +1,3 @@
+The Complexity of Knapsack in Graph Groups
+
+Myasnikov et al. have introduced the knapsack problem for arbitrary finitely generated groups. In previous work, the authors proved that for each graph group, the knapsack problem can be solved in $\mathsf{NP}$. Here, we determine the exact complexity of the problem for every graph group. While the problem is $\mathsf{TC}^0$-complete for complete graphs, it is $\mathsf{LogCFL}$-complete for each (non-complete) transitive forest. For every remaining graph, the problem is $\mathsf{NP}$-complete.

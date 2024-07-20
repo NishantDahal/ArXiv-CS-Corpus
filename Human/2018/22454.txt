@@ -1,0 +1,3 @@
+Extending Dynamic Bayesian Networks for Anomaly Detection in Complex Logs
+
+Checking various log files from different processes can be a tedious task as these logs contain lots of events, each with a (possibly large) number of attributes. We developed a way to automatically model log files and detect outlier traces in the data. For that we extend Dynamic Bayesian Networks to model the normal behavior found in log files. We introduce a new algorithm that is able to learn a model of a log file starting from the data itself. The model is capable of scoring traces even when new values or new combinations of values appear in the log file.

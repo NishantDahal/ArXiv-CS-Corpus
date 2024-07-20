@@ -1,0 +1,10 @@
+Consistency proof of a fragment of PV with substitution in bounded arithmetic
+
+This paper presents proof that Buss's $S^2_2$ can prove the consistency of a fragment of Cook and Urquhart's $\mathrm{PV}$ from which induction has been removed but substitution has been retained.
+  This result improves Beckmann's result, which proves the consistency of such a system without substitution in bounded arithmetic $S^1_2$.
+  Our proof relies on the notion of "computation" of the terms of $\mathrm{PV}$.
+  In our work, we first prove that, in the system under consideration, if an equation is proved and either its left- or right-hand side is computed, then there is a corresponding computation for its right- or left-hand side, respectively.
+  By carefully computing the bound of the size of the computation, the proof of this theorem inside a bounded arithmetic is obtained, from which the consistency of the system is readily proven.
+  This result apparently implies the separation of bounded arithmetic because Buss and Ignjatović stated that it is not possible to prove the consistency of a fragment of $\mathrm{PV}$ without induction but with substitution in Buss's $S^1_2$.
+  However, their proof actually shows that it is not possible to prove the consistency of the system, which is obtained by the addition of propositional logic and other axioms to a system such as ours.
+  On the other hand, the system that we have considered is strictly equational, which is a property on which our proof relies.

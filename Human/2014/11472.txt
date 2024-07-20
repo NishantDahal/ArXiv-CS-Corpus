@@ -1,0 +1,4 @@
+Optimal Lower Bound for Itemset Frequency Indicator Sketches
+
+Given a database, a common problem is to find the pairs or $k$-tuples of items that frequently co-occur. One specific problem is to create a small space "sketch" of the data that records which $k$-tuples appear in more than an $ε$ fraction of rows of the database.
+  We improve the lower bound of Liberty, Mitzenmacher, and Thaler [LMT14], showing that $Ω(\frac{1}εd \log (εd))$ bits are necessary even in the case of $k=2$. This matches the sampling upper bound for all $ε\geq 1/d^{.99}$, and (in the case of $k=2$) another trivial upper bound for $ε= 1/d$.

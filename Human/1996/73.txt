@@ -1,0 +1,3 @@
+Extended Dependency Structures and their Formal Interpretation
+
+We describe two ``semantically-oriented'' dependency-structure formalisms, U-forms and S-forms. U-forms have been previously used in machine translation as interlingual representations, but without being provided with a formal interpretation. S-forms, which we introduce in this paper, are a scoped version of U-forms, and we define a compositional semantics mechanism for them. Two types of semantic composition are basic: complement incorporation and modifier incorporation. Binding of variables is done at the time of incorporation, permitting much flexibility in composition order and a simple account of the semantic effects of permuting several incorporations.

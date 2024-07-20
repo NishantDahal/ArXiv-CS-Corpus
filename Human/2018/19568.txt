@@ -1,0 +1,3 @@
+Real-Time Prediction of the Duration of Distribution System Outages
+
+This paper addresses the problem of predicting duration of unplanned power outages, using historical outage records to train a series of neural network predictors. The initial duration prediction is made based on environmental factors, and it is updated based on incoming field reports using natural language processing to automatically analyze the text. Experiments using 15 years of outage records show good initial results and improved performance leveraging text. Case studies show that the language processing identifies phrases that point to outage causes and repair steps.

@@ -1,0 +1,3 @@
+The Amortized Analysis of a Non-blocking Chromatic Tree
+
+A non-blocking chromatic tree is a type of balanced binary search tree where multiple processes can concurrently perform search and update operations. We prove that a certain implementation has amortized cost $O(\dot{c} + \log n)$ for each operation, where $\dot{c}$ is the maximum number of concurrent operations during the execution and $n$ is the maximum number of keys in the tree during the operation. This amortized analysis presents new challenges compared to existing analyses of other non-blocking data structures.

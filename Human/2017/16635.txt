@@ -1,0 +1,3 @@
+Evolutionary game of N competing AIMD connections
+
+This paper deals with modeling of network's dynamic using evolutionary games approach. Today there are many different protocols for data transmission through the Internet, providing users with better or worse service. The process of choosing better protocol could be considered as a dynamic game with players (users), trying to maximize their payoffs (eg throughput). In this work we presented the model of network's dynamic using differential equations with discontinuous right side and proved existence and uniqueness of the solution, formulated payoff matrix for a network game and found conditions of equilibrium existence depending on loss sensitivity parameter. The results are illustrated by simulations

@@ -1,0 +1,3 @@
+Textual Spatial Cosine Similarity
+
+When dealing with document similarity many methods exist today, like cosine similarity. More complex methods are also available based on the semantic analysis of textual information, which are computationally expensive and rarely used in the real time feeding of content as in enterprise-wide search environments. To address these real-time constraints, we developed a new measure of document similarity called Textual Spatial Cosine Similarity, which is able to detect similitude at the semantic level using word placement information contained in the document. We will see in this paper that two degenerate cases exist for this model, which coincide with Cosine Similarity on one side and with a paraphrasing detection model to the other.

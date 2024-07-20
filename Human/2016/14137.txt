@@ -1,0 +1,3 @@
+Liveness for Verification
+
+We explore the use of liveness for interactive program verification for a simple concurrent object language. Our experimental IDE integrates two (formally dual) kinds of continuous testing into the development environment: compatibility-checking, which verifies an object's use of other objects, and compliance-checking, which verifies an object's claim to refine the behaviour of another object. Source code errors highlighted by the IDE are not static type errors but the reflection back to the source of runtime errors that occur in some execution of the system. We demonstrate our approach, and discuss opportunities and challenges.

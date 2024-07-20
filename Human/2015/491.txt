@@ -1,0 +1,3 @@
+Ranging without time stamps exchanging
+
+We investigate the range estimate between two wireless nodes without time stamps exchanging. Considering practical aspects of oscillator clocks, we propose a new model for ranging in which the measurement errors include the sum of two distributions, namely, uniform and Gaussian. We then derive an approximate maximum likelihood estimator (AMLE), which poses a difficult global optimization problem. To avoid the difficulty in solving the complex AMLE, we propose a simple estimator based on the method of moments. Numerical results show a promising performance for the proposed technique.

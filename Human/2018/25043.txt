@@ -1,0 +1,3 @@
+Knowledge Integrated Classifier Design Based on Utility Optimization
+
+This paper proposes a systematic framework to design a classification model that yields a classifier which optimizes a utility function based on prior knowledge. Specifically, as the data size grows, we prove that the produced classifier asymptotically converges to the optimal classifier, an extended version of the Bayes rule, which maximizes the utility function. Therefore, we provide a meaningful theoretical interpretation for modeling with the knowledge incorporated. Our knowledge incorporation method allows domain experts to guide the classifier towards correctly classifying data that they think to be more significant.

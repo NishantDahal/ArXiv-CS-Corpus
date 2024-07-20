@@ -1,0 +1,3 @@
+PCANet: An energy perspective
+
+The principal component analysis network (PCANet), which is one of the recently proposed deep learning architectures, achieves the state-of-the-art classification accuracy in various databases. However, the explanation of the PCANet is lacked. In this paper, we try to explain why PCANet works well from energy perspective point of view based on a set of experiments. The impact of various parameters on the error rate of PCANet is analyzed in depth. It was found that this error rate is correlated with the logarithm of energy of image. The proposed energy explanation approach can be used as a testing method for checking if every step of the constructed networks is necessary.

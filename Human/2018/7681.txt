@@ -1,0 +1,3 @@
+A unified software framework for solving traffic assignment problems
+
+We describe a software framework for solving user equilibrium traffic assignment problems. The design is based on the formulation of the problem as a variational inequality. The software implements these as well as several numerical methods for find equilirbria. We compare the solutions obtained under several models: static, Merchant-Nemhauser, `CTM with instantaneous travel time', and `CTM with actual travel time'. Some important differences are demonstrated.

@@ -1,0 +1,3 @@
+Image enhancement using the mean dynamic range maximization with logarithmic operations
+
+In this paper we use a logarithmic model for gray level image enhancement. We begin with a short presentation of the model and then, we propose a new formula for the mean dynamic range. After that we present two image transforms: one performs an optimal enhancement of the mean dynamic range using the logarithmic addition, and the other does the same for positive and negative values using the logarithmic scalar multiplication. We present the comparison of the results obtained by dynamic ranges optimization with the results obtained using classical image enhancement methods like gamma correction and histogram equalization.

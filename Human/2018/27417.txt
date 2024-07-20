@@ -1,0 +1,3 @@
+Unambiguous Forest Factorization
+
+In this paper, we look at an unambiguous version of Simon's forest factorization theorem, a very deep result which has wide connections in algebra, logic and automata. Given a morphism $\varphi$ from $Σ^+$ to a finite semigroup $S$, we construct a universal, unambiguous automaton A which is "good" for $\varphi$. The goodness of $\Aa$ gives a very easy proof for the forest factorization theorem, providing a Ramsey split for any word in $Σ^{\infty}$ such that the height of the Ramsey split is bounded by the number of states of A. An important application of synthesizing good automata from the morphim $\varphi$ is in the construction of regular transducer expressions (RTE) corresponding to deterministic two way transducers.

@@ -1,0 +1,3 @@
+Accelerating DEM simulations on GPUs by reducing the impact of warp divergences
+
+A way to accelerate DEM calculations on the GPUs is developed. We examined how warp divergences take place in the contact detection and the force calculations taking account of the GPU architecture. Then we showed a strategy to reduce the impact of the warp divergences on the runtime of the DEM force calculations.

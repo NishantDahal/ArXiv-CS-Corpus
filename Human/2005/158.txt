@@ -1,0 +1,5 @@
+Amazons is PSPACE-complete
+
+Amazons is a board game which combines elements of Chess and Go. It has become popular in recent years, and has served as a useful platform for both game-theoretic study and AI games research. Buro showed that simple Amazons endgames are NP-equivalent, leaving the complexity of the general case as an open problem.
+  We settle this problem, by showing that deciding the outcome of an n x n Amazons position is PSPACE-hard. We give a reduction from one of the PSPACE-complete two-player formula games described by Schaefer. Since the number of moves in an Amazons game is polynomially bounded (unlike Chess and Go), Amazons is in PSPACE. It is thus on a par with other two-player, bounded-move, perfect-information games such as Hex, Othello, and Kayles. Our construction also provides an alternate proof that simple Amazons endgames are NP-equivalent.
+  Our reduction uses a number of amazons polynomial in the input formula length; a remaining open problem is the complexity of Amazons when only a constant number of amazons is used.

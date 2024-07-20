@@ -1,0 +1,3 @@
+On the Hardness of PCTL Satisfiability
+
+This paper shows that the satisfiability problem for probabilistic CTL (PCTL, for short) is undecidable. By a reduction from $1\frac{1}{2}$-player games with PCTL winning objectives, we establish that the PCTL satisfiability problem is $Σ_1^1$-hard. We present an exponential-time algorithm for the satisfiability of a bounded, negation-closed fragment of PCTL, and show that the satisfiability problem for this fragment is EXPTIME-hard.

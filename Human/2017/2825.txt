@@ -1,0 +1,5 @@
+On the Combinatorial Lower Bound for the Extension Complexity of the Spanning Tree Polytope
+
+In the study of extensions of polytopes of combinatorial optimization problems, a notorious open question is that for the size of the smallest extended formulation of the Minimum Spanning Tree problem on a complete graph with $n$ nodes. The best known lower bound is the trival (dimension) bound, $Ω(n^2)$, the best known upper bound is the extended formulation by Wong (1980) of size $O(n^3)$ (also Martin, 1991).
+  In this note we give a nondeterministic communication protocol with cost $\log_2(n^2\log n)+O(1)$ for the support of the spanning tree slack matrix.
+  This means that the combinatorial lower bounds can improve the trivial lower bound only by a factor of (at most) $O(\log n)$.

@@ -1,0 +1,4 @@
+Space-Time Diagram Generation for Profiling Multi Agent Systems
+
+Advances in Agent Oriented Software Engineering have focused on the provision of frameworks and toolkits to aid in the creation of Multi Agent Systems (MASs). However, despite the need to address the inherent complexity of such systems, little progress has been made in the development of tools to allow for the debugging and understanding of their inner workings.
+  This paper introduces a novel performance analysis system, named AgentSpotter, which facilitates such analysis. AgentSpotter was developed by mapping conventional profiling concepts to the domain of MASs. We outline its integration into the Agent Factory multi agent framework.

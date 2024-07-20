@@ -1,0 +1,3 @@
+Extraction of cylinders and cones from minimal point sets
+
+We propose new algebraic methods for extracting cylinders and cones from minimal point sets, including oriented points. More precisely, we are interested in computing efficiently cylinders through a set of three points, one of them being oriented, or through a set of five simple points. We are also interested in computing efficiently cones through a set of two oriented points, through a set of four points, one of them being oriented,  or through a set of six points. For these different interpolation problems, we give optimal bounds on the number of solutions. Moreover, we describe algebraic methods targeted to solve these problems efficiently.

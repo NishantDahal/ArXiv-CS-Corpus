@@ -1,0 +1,3 @@
+Phase retrieval from low-rate samples
+
+The paper considers the phase retrieval problem in N-dimensional complex vector spaces. It provides two sets of deterministic measurement vectors which guarantee signal recovery for all signals, excluding only a specific subspace and a union of subspaces, respectively. A stable analytic reconstruction procedure of low complexity is given. Additionally it is proven that signal recovery from these measurements can be solved exactly via a semidefinite program. A practical implementation with 4 deterministic diffraction patterns is provided and some numerical experiments with noisy measurements complement the analytic approach.

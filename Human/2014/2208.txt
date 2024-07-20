@@ -1,0 +1,3 @@
+Golden-rule capacity allocation for distributed delay management in peer-to-peer networks
+
+We describe a distributed framework for resources management in peer-to-peer networks leading to golden-rule reciprocity, a kind of one-versus-rest tit-for-tat, so that the delays experienced by any given peer's messages in the rest of the network are proportional to those experienced by others' messages at that peer.

@@ -1,0 +1,3 @@
+A Multi-Threaded Version of MCFM
+
+We report on our findings modifying MCFM using OpenMP to implement multi-threading. By using OpenMP, the modified MCFM will execute on any processor, automatically adjusting to the number of available threads. We modified the integration routine VEGAS to distribute the event evaluation over the threads, while combining all events at the end of every iteration to optimize the numerical integration. Special care has been taken that the results of the Monte Carlo integration are independent of the number of threads used, to facilitate the validation of the OpenMP version of MCFM.

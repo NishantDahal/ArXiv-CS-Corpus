@@ -1,0 +1,4 @@
+On Upward Drawings of Trees on a Given Grid
+
+Computing a minimum-area planar straight-line drawing of a graph is known to be NP-hard for planar graphs, even when restricted to outerplanar graphs. However, the complexity question is open for trees. Only a few hardness results are known for straight-line drawings of trees under various restrictions such as edge length or slope constraints. On the other hand, there exist polynomial-time algorithms for computing minimum-width (resp., minimum-height) upward drawings of trees, where the height (resp., width) is unbounded.
+  In this paper we take a major step in understanding the complexity of the area minimization problem for strictly-upward drawings of trees, which is one of the most common styles for drawing rooted trees. We prove that given a rooted tree $T$ and a $W\times H$ grid, it is NP-hard to decide whether $T$ admits a strictly-upward (unordered) drawing in the given grid.

@@ -1,0 +1,3 @@
+Certification of programs with computational effects
+
+In purely functional programming languages imperative features, more generally computational effects are prohibited. However, non-functional lan- guages do involve effects. The theory of decorated logic provides a rigorous for- malism (with a refinement in operation signatures) for proving program properties with respect to computational effects. The aim of this thesis is to first develop Coq libraries and tools for verifying program properties in decorated settings as- sociated with several effects: states, local state, exceptions, non-termination, etc. Then, these tools will be combined to deal with several effects.

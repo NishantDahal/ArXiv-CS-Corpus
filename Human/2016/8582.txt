@@ -1,0 +1,3 @@
+A Note on Efficiency of Downsampling and Color Transformation in Image Quality Assessment
+
+Several existing and successful full reference image quality assessment (IQA) models use linear color transformation and downsampling before measuring similarity or quality of images. This paper indicates to the right order of these two procedures and that the existing models have not chosen the more efficient approach. In addition, efficiency of these metrics is not compared in a fair basis in the literature.

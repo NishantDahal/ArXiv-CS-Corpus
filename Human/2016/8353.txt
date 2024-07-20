@@ -1,0 +1,3 @@
+Representing Extended Finite State Machines for SDL by A Novel Control Model of Discrete Event Systems
+
+This paper discusses EFSM for SDL and transforms EFSM into a novel control model of discrete event systems. We firstly propose a control model of discrete event systems, where the event set is made up of several conflicting pairs and control is implemented to select one event of the pair. Then we transform EFSM for SDL to the control model to clarify the control mechanism functioning in SDL flow graphs. This work views the EFSM for SDL in the perspective of supervisory control theory, and this contributes to the field of software cybernetics, which explores the theoretically justified interplay of software and the control.

@@ -1,0 +1,3 @@
+Parallel implementation of fast randomized algorithms for the decomposition of low rank matrices
+
+We analyze the parallel performance of randomized interpolative decomposition by decomposing low rank complex-valued Gaussian random matrices up to 64 GB. We chose a Cray XMT supercomputer as it provides an almost ideal PRAM model permitting quick investigation of parallel algorithms without obfuscation from hardware idiosyncrasies. We obtain that on non-square matrices performance becomes very good, with overall runtime over 70 times faster on 128 processors. We also verify that numerically discovered error bounds still hold on matrices nearly two orders of magnitude larger than those previously tested.

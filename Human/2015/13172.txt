@@ -1,0 +1,3 @@
+Event Index - an LHCb Event Search System
+
+During LHC Run 1, the LHCb experiment recorded around $10^{11}$ collision events. This paper describes Event Index - an event search system. Its primary function is to quickly select subsets of events from a combination of conditions, such as the estimated decay channel or number of hits in a subdetector. Event Index is essentially Apache Lucene optimized for read-only indexes distributed over independent shards on independent nodes.

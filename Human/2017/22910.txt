@@ -1,0 +1,3 @@
+Robust and High Fidelity Mesh Denoising
+
+This paper presents a simple and effective two-stage mesh denoising algorithm, where in the first stage, the face normal filtering is done by using the bilateral normal filtering in the robust statistics framework. Tukey's bi-weight function is used as similarity function in the bilateral weighting, which is a robust estimator and stops the diffusion at sharp edges to retain features and removes noise from flat regions effectively. In the second stage, an edge weighted Laplace operator is introduced to compute a differential coordinate. This differential coordinate helps the algorithm to produce a high-quality mesh without any face normal flips and makes the method robust against high-intensity noise.

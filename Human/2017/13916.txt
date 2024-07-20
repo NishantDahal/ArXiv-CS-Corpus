@@ -1,0 +1,4 @@
+Dynamic clustering to minimize the sum of radii
+
+In this paper, we study the problem of opening centers to cluster a set of clients in a metric space so as to minimize the sum of the costs of the centers and of the cluster radii, in a dynamic environment where clients arrive and depart, and the solution must be updated efficiently while remaining competitive with respect to the current optimal solution. We call this dynamic sum-of-radii clustering problem.
+  We present a data structure that maintains a solution whose cost is within a constant factor of the cost of an optimal solution in metric spaces with bounded doubling dimension and whose worst-case update time is logarithmic in the parameters of the problem.

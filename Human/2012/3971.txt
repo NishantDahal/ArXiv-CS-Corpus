@@ -1,0 +1,3 @@
+Using parallel processing for file carving
+
+File carving is one of the most important procedures in Digital Forensic Investigation (DFI). But it is also requires the most computational resources. Parallel processing on Graphics Processing Units have proven to be many times faster than when executed on standard CPU. This paper is inspecting the algorithms and methods to use parallel processing for development of file carving tools that will do their job much faster than the conventional DFI tools.

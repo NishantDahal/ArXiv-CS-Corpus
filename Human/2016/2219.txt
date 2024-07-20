@@ -1,0 +1,3 @@
+A fast, deterministic algorithm for computing a Hermite Normal Form of a polynomial matrix
+
+Given a square, nonsingular matrix of univariate polynomials $\mathbf{F} \in \mathbb{K}[x]^{n \times n}$ over a field $\mathbb{K}$, we give a fast, deterministic algorithm for finding the Hermite normal form of $\mathbf{F}$ with complexity $O^{\sim}\left(n^ωd\right)$ where $d$ is the degree of $\mathbf{F}$. Here soft-$O$ notation is Big-$O$ with log factors removed and $ω$ is the exponent of matrix multiplication. The method relies of a fast algorithm for determining the diagonal entries of its Hermite normal form, having as cost $O^{\sim}\left(n^ωs\right)$ operations with $s$ the average of the column degrees of $\mathbf{F}$.

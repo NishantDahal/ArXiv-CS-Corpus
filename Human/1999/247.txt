@@ -1,0 +1,3 @@
+Query Order and the Polynomial Hierarchy
+
+Hemaspaandra, Hempel, and Wechsung [cs.CC/9909020] initiated the field of query order, which studies the ways in which computational power is affected by the order in which information sources are accessed. The present paper studies, for the first time, query order as it applies to the levels of the polynomial hierarchy. We prove that the levels of the polynomial hierarchy are order-oblivious. Yet, we also show that these ordered query classes form new levels in the polynomial hierarchy unless the polynomial hierarchy collapses. We prove that all leaf language classes - and thus essentially all standard complexity classes - inherit all order-obliviousness results that hold for P.

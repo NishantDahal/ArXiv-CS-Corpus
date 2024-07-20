@@ -1,0 +1,3 @@
+Internal node bagging
+
+We introduce a novel view to understand how dropout works as an inexplicit ensemble learning method, which doesn't point out how many and which nodes to learn a certain feature. We propose a new training method named internal node bagging, it explicitly forces a group of nodes to learn a certain feature in training time, and combine those nodes to be one node in inference time. It means we can use much more parameters to improve model's fitting ability in training time while keeping model small in inference time. We test our method on several benchmark datasets and find it performs significantly better than dropout on small models.

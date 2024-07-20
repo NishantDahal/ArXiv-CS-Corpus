@@ -1,0 +1,3 @@
+Abstract Interpretation of Binary Code with Memory Accesses using Polyhedra
+
+In this paper we propose a novel methodology for static analysis of binary code using abstract interpretation. We use an abstract domain based on polyhedra and two mapping functions that associate polyhedra variables with registers and memory. We demonstrate our methodology to the problem of computing upper bounds to loop iterations in the code. This problem is particularly important in the domain of Worst-Case Execution Time (WCET) analysis of safety-critical real-time code. However, our approach is general and it can applied to other static analysis problems.

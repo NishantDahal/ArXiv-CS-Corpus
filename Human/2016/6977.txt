@@ -1,0 +1,3 @@
+A New Method for Parallel Monte Carlo Tree Search
+
+In recent years there has been much interest in the Monte Carlo tree search algorithm, a new, adaptive, randomized optimization algorithm. In fields as diverse as Artificial Intelligence, Operations Research, and High Energy Physics, research has established that Monte Carlo tree search can find good solutions without domain dependent heuristics. However, practice shows that reaching high performance on large parallel machines is not so successful as expected. This paper proposes a new method for parallel Monte Carlo tree search based on the pipeline computation pattern.

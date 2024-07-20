@@ -1,0 +1,3 @@
+Product Kernel Interpolation for Scalable Gaussian Processes
+
+Recent work shows that inference for Gaussian processes can be performed efficiently using iterative methods that rely only on matrix-vector multiplications (MVMs). Structured Kernel Interpolation (SKI) exploits these techniques by deriving approximate kernels with very fast MVMs. Unfortunately, such strategies suffer badly from the curse of dimensionality. We develop a new technique for MVM based learning that exploits product kernel structure. We demonstrate that this technique is broadly applicable, resulting in linear rather than exponential runtime with dimension for SKI, as well as state-of-the-art asymptotic complexity for multi-task GPs.

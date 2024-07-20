@@ -1,0 +1,4 @@
+Combining Insertion and Deletion in RNA-editing Preserves Regularity
+
+Inspired by RNA-editing as occurs in transcriptional processes in the living cell, we introduce an abstract notion of string adjustment, called guided rewriting. This formalism allows simultaneously inserting and deleting elements.  We prove that guided rewriting preserves regularity: for every regular language its closure under guided rewriting is regular too. This contrasts an earlier abstraction of RNA-editing separating insertion and deletion for which it was proved that regularity is not preserved. The particular automaton construction here relies on an auxiliary notion of slice sequence which enables to sweep from left to right through a completed rewrite sequence.
+

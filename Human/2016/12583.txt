@@ -1,0 +1,3 @@
+Node Overlap Removal by Growing a Tree
+
+Node overlap removal is a necessary step in many scenarios including laying out a graph, or visualizing a tag cloud. Our contribution is a new overlap removal algorithm that iteratively builds a Minimum Spanning Tree on a Delaunay triangulation of the node centers and removes the node overlaps by "growing" the tree. The algorithm is simple to implement yet produces high quality layouts. According to our experiments it runs several times faster than the current state-of-the-art methods.

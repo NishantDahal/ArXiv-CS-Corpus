@@ -1,0 +1,3 @@
+Duplicate detection methodology for IP network traffic analysis
+
+Network traffic monitoring systems have to deal with a challenging problem: the traffic capturing process almost invariably produces duplicate packets. In spite of this, and in contrast with other fields, there is no scientific literature addressing it. This paper establishes the theoretical background concerning data duplication in network traffic analysis: generating mechanisms, types of duplicates and their characteristics are described. On this basis, a duplicate detection and removal methodology is proposed. Moreover, an analytical and experimental study is presented, whose results provide a dimensioning rule for this methodology.

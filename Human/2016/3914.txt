@@ -1,0 +1,5 @@
+Compositional model checking of concurrent systems, with Petri nets
+
+Compositionality and process equivalence are both standard concepts of process algebra. Compositionality means that the behaviour of a compound system relies only on the behaviour of its components, i.e. there is no emergent behaviour. Process equivalence means that the explicit statespace of a system takes a back seat to its interaction patterns: the information that an environment can obtain though interaction. 
+  Petri nets are a classical, yet widely used and understood, model of concurrency. Nevertheless, they have often been described as a non-compositional model, and tools tend to deal with monolithic, globally-specified models. 
+  This tutorial paper concentrates on Petri Nets with Boundaries (PNB): a compositional, graphical algebra of 1-safe nets, and its applications to reachability checking within the tool Penrose. The algorithms feature the use of compositionality and process equivalence, a powerful combination that can be harnessed to improve the performance of checking reachability and coverability in several common examples where Petri nets model realistic concurrent systems.

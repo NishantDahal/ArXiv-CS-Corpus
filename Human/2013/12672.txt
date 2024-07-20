@@ -1,0 +1,4 @@
+Coinductive Big-Step Semantics for Concurrency
+
+In a paper presented at SOS 2010, we developed a framework for big-step semantics for interactive input-output in combination with divergence, based on coinductive and mixed inductive-coinductive notions of resumptions, evaluation and termination-sensitive weak bisimilarity. In contrast to standard inductively defined big-step semantics, this framework handles divergence properly; in particular, runs that produce some observable effects and then diverge, are not "lost". Here we scale this approach for shared-variable concurrency on a simple example language. We develop the metatheory of our semantics in a constructive logic.
+

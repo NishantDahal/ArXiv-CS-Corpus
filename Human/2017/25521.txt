@@ -1,0 +1,3 @@
+Comparative analysis of criteria for filtering time series of word usage frequencies
+
+This paper describes a method of nonlinear wavelet thresholding of time series. The Ramachandran-Ranganathan runs test is used to assess the quality of approximation. To minimize the objective function, it is proposed to use genetic algorithms - one of the stochastic optimization methods. The suggested method is tested both on the model series and on the word frequency series using the Google Books Ngram data. It is shown that method of filtering which uses the runs criterion shows significantly better results compared with the standard wavelet thresholding. The method can be used when quality of filtering is of primary importance but not the speed of calculations.

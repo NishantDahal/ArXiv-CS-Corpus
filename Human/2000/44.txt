@@ -1,0 +1,3 @@
+Multiplicative Nonholonomic/Newton -like Algorithm
+
+We construct new algorithms from scratch, which use the fourth order cumulant of stochastic variables for the cost function. The multiplicative updating rule here constructed is natural from the homogeneous nature of the Lie group and has numerous merits for the rigorous treatment of the dynamics. As one consequence, the second order convergence is shown. For the cost function, functions invariant under the componentwise scaling are choosen. By identifying points which can be transformed to each other by the scaling, we assume that the dynamics is in a coset space. In our method, a point can move toward any direction in this coset. Thus, no prewhitening is required.

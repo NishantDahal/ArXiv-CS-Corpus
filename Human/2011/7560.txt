@@ -1,0 +1,3 @@
+On the Integrality Gap of the Directed-Component Relaxation for Steiner Tree
+
+In this note, we show that the integrality gap of the $k$-Directed-Component- Relaxation($k$-DCR) LP for the Steiner tree problem, introduced by Byrka, Grandoni, Rothvob and Sanita (STOC 2010), is at most $\ln(4)<1.39$. The proof is constructive: we can efficiently find a Steiner tree whose cost is at most $\ln(4)$ times the cost of the optimal fractional $k$-restricted Steiner tree given by the $k$-DCR LP.

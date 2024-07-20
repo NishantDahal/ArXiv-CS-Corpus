@@ -1,0 +1,5 @@
+Stateless HOL
+
+We present a version of the HOL Light system that supports undoing definitions in such a way that this does not compromise the soundness of the logic.  In our system the code that keeps track of the constants that have been defined thus far has been moved out of the kernel. This means that the kernel now is purely functional.
+  The changes to the system are small.  All existing HOL Light developments can be run by the stateless system with only minor changes.
+  The basic principle behind the system is not to name constants by strings, but by pairs consisting of a string and a definition.  This means that the data structures for the terms are all merged into one big graph.  OCaml - the implementation language of the system - can use pointer equality to establish equality of data structures fast. This allows the system to run at acceptable speeds. Our system runs at about 85% of the speed of the stateful version of HOL Light.

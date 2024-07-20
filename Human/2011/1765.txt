@@ -1,0 +1,3 @@
+Symbolic Computation of Conservation Laws, Generalized Symmetries, and Recursion Operators for Nonlinear Differential-Difference Equations
+
+Algorithms for the symbolic computation of polynomial conservation laws, generalized symmetries, and recursion operators for systems of nonlinear differential-difference equations (DDEs) are presented. The algorithms can be used to test the complete integrability of nonlinear DDEs. The ubiquitous Toda lattice illustrates the steps of the algorithms, which have been implemented in {\em Mathematica}. The codes {\sc InvariantsSymmetries.m} and {\sc DDERecursionOperator.m} can aid researchers interested in properties of nonlinear DDEs.

@@ -1,0 +1,5 @@
+Innocent strategies as presheaves and interactive equivalences for CCS
+
+Seeking a general framework for reasoning about and comparing programming languages, we derive a new view of Milner's CCS. We construct a category E of plays, and a subcategory V of views. We argue that presheaves on V adequately represent innocent strategies, in the sense of game semantics. We then equip innocent strategies with a simple notion of interaction. This results in an interpretation of CCS.
+  Based on this, we propose a notion of interactive equivalence for innocent strategies, which is close in spirit to Beffara's interpretation of testing equivalences in concurrency theory. In this framework we prove that the analogues of fair and must testing equivalences coincide, while they differ in the standard setting.
+

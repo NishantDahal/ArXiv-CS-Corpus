@@ -1,0 +1,3 @@
+Cache-Oblivious VAT-Algorithms
+
+The VAT-model (virtual address translation model) extends the EM-model (external memory model) and takes the cost of address translation in virtual memories into account. In this model, the cost of a single memory access may be logarithmic in the largest address used. We show that the VAT-cost of cache-oblivious algorithms is only by a constant factor larger than their EM-cost; this requires a somewhat more stringent tall cache assumption as for the EM-model.

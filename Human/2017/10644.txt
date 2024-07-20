@@ -1,0 +1,3 @@
+Traversing a n-cube without Balanced Hamiltonian Cycle to Generate Pseudorandom Numbers
+
+This article presents a new class of Pseudorandom Number Generators. The generators are based on traversing a n-cube where a Balanced Hamiltonian Cycle has been removed. The construction of such generators is automatic for small number of bits, but remains an open problem when this number becomes large. A running example is used throughout the paper. Finally, first statistical experiments of these generators are presented, they show how efficient and promising the proposed approach seems.

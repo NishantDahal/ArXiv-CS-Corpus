@@ -1,0 +1,5 @@
+Hierarchical Clustering Based on Mutual Information
+
+Motivation: Clustering is a frequently used concept in variety of bioinformatical applications. We present a new method for hierarchical clustering of data called mutual information clustering (MIC) algorithm. It uses mutual information (MI) as a similarity measure and exploits its grouping property: The MI between three objects X, Y, and Z is equal to the sum of the MI between X and Y, plus the MI between Z and the combined object (XY).
+  Results: We use this both in the Shannon (probabilistic) version of information theory, where the "objects" are probability distributions represented by random samples, and in the Kolmogorov (algorithmic) version, where the "objects" are symbol sequences. We apply our method to the construction of mammal phylogenetic trees from mitochondrial DNA sequences and we reconstruct the fetal ECG from the output of independent components analysis (ICA) applied to the ECG of a pregnant woman.
+  Availability: The programs for estimation of MI and for clustering (probabilistic version) are available at http://www.fz-juelich.de/nic/cs/software

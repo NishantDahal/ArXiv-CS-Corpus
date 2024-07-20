@@ -1,0 +1,3 @@
+Fast, Better Training Trick -- Random Gradient
+
+In this paper, we will show an unprecedented method to accelerate training and improve performance, which called random gradient (RG). This method can be easier to the training of any model without extra calculation cost, we use Image classification, Semantic segmentation, and GANs to confirm this method can improve speed which is training model in computer vision. The central idea is using the loss multiplied by a random number to random reduce the back-propagation gradient. We can use this method to produce a better result in Pascal VOC, Cifar, Cityscapes datasets.

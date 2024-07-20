@@ -1,0 +1,4 @@
+Haplotype Inference for Pedigrees with Few Recombinations
+
+Pedigrees, or family trees, are graphs of family relationships that are used to study inheritance. A fundamental problem in computational biology is to find, for a pedigree with $n$ individuals genotyped at every site, a set of Mendelian-consistent haplotypes that have the minimum number of recombinations. This is an NP-hard problem and some pedigrees can have thousands of individuals and hundreds of thousands of sites.
+  This paper formulates this problem as a optimization on a graph and introduces a tailored algorithm with a running time of O(n^{(k+2)}m^{6k}) for n individuals, m sites, and k recombinations. Since there are generally only 1-2 recombinations per chromosome in each meiosis, k is small enough to make this algorithm practically relevant.

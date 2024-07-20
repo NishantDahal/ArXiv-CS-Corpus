@@ -1,0 +1,3 @@
+Trajectory probability hypothesis density filter
+
+This paper presents the probability hypothesis density (PHD) filter for sets of trajectories: the trajectory probability density (TPHD) filter. The TPHD filter is capable of estimating trajectories in a principled way without requiring to evaluate all measurement-to-target association hypotheses. The TPHD filter is based on recursively obtaining the best Poisson approximation to the multitrajectory filtering density in the sense of minimising the Kullback-Leibler divergence. We also propose a Gaussian mixture implementation of the TPHD recursion. Finally, we include simulation results to show the performance of the proposed algorithm.

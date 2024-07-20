@@ -1,0 +1,3 @@
+Clarification on the Mapping of Reversible Circuits to the NCV-v1 Library
+
+In previous work and motivated by a theoretical discussion on physical realizations, a new quantum gate library (the NCV-v1 library) for electronic design automation of quantum circuits has been proposed. Here, qudits instead of qubits are assumed, i.e. a basic building block which does not rely on a two level quantum system but a (multiple-valued) d-level quantum system is assumed. However, the descriptions on the foundation of this new library remained brief. This technical report provides an extended description of the applied ideas and concepts.

@@ -1,0 +1,3 @@
+On the Shoshan-Zwick Algorithm for the All-Pairs Shortest Path Problem
+
+The Shoshan-Zwick algorithm solves the all pairs shortest paths problem in undirected graphs with integer edge costs in the range $\{1, 2, \dots, M\}$. It runs in $\tilde{O}(M\cdot n^ω)$ time, where $n$ is the number of vertices, $M$ is the largest integer edge cost, and $ω< 2.3727$ is the exponent of matrix multiplication. It is the fastest known algorithm for this problem. This paper points out the erroneous behavior of the Shoshan-Zwick algorithm and revises the algorithm to resolve the issues that cause this behavior. Moreover, it discusses implementation aspects of the Shoshan-Zwick algorithm using currently-existing sub-cubic matrix multiplication algorithms.

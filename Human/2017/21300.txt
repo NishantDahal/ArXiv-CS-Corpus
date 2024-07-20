@@ -1,0 +1,3 @@
+Confluence and Convergence in Probabilistically Terminating Reduction Systems
+
+Convergence of an abstract reduction system (ARS) is the property that any derivation from an initial state will end in the same final state, a.k.a. normal form. We generalize this for probabilistic ARS as almost-sure convergence, meaning that the normal form is reached with probability one, even if diverging derivations may exist. We show and exemplify properties that can be used for proving almost-sure convergence of probabilistic ARS, generalizing known results from ARS.

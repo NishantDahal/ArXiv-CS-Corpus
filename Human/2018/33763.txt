@@ -1,0 +1,3 @@
+Efficient logic architecture in training gradient boosting decision tree for high-performance and edge computing
+
+This study proposes a logic architecture for the high-speed and power efficiently training of a gradient boosting decision tree model of binary classification. We implemented the proposed logic architecture on an FPGA and compared training time and power efficiency with three general GBDT software libraries using CPU and GPU. The training speed of the logic architecture on the FPGA was 26-259 times faster than the software libraries. The power efficiency of the logic architecture was 90-1,104 times higher than the software libraries. The results show that the logic architecture suits for high-performance and edge computing.

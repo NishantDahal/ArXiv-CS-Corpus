@@ -1,0 +1,6 @@
+Approximate Convex Optimization by Online Game Playing
+
+Lagrangian relaxation and approximate optimization algorithms have received much attention in the last two decades. Typically, the running time of these methods to obtain a $ε$ approximate solution is proportional to $\frac{1}{ε^2}$. Recently, Bienstock and Iyengar, following Nesterov, gave an algorithm for fractional packing linear programs which runs in $\frac{1}ε$ iterations. The latter algorithm requires to solve a convex quadratic program every iteration - an optimization subroutine which dominates the theoretical running time.
+  We give an algorithm for convex programs with strictly convex constraints which runs in time proportional to $\frac{1}ε$. The algorithm does NOT require to solve any quadratic program, but uses gradient steps and elementary operations only. Problems which have strictly convex constraints include maximum entropy frequency estimation, portfolio optimization with loss risk constraints, and various computational problems in signal processing.
+  As a side product, we also obtain a simpler version of Bienstock and Iyengar's result for general linear programming, with similar running time.
+  We derive these algorithms using a new framework for deriving convex optimization algorithms from online game playing algorithms, which may be of independent interest.

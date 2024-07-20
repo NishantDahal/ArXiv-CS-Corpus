@@ -1,0 +1,3 @@
+Enabling Ultra-Low Delay Teleorchestras using Software Defined Networking
+
+Ultra-low delay sensitive applications can afford delay only at the level of msec. An example of this application class are the Networked Music Performance (NMP) systems that describe a live music performance by geographically separate musicians over the Internet. The present work proposes a novel architecture for NMP systems, where the key-innovation is the close collaboration between the network and the application. Using SDN principles, the applications are enabled to adapt their internal audio signal processing, in order to cope with network delay increase. Thus, affordable end-to-end delay is provided to NMP users, even under considerable network congestion.

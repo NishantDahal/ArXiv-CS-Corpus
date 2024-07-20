@@ -1,0 +1,3 @@
+A 0.821-ratio purely combinatorial algorithm for maximum $k$-vertex cover in bipartite graphs
+
+Our goal in this paper is to propose a \textit{combinatorial algorithm} that beats the only such algorithm known previously, the greedy one. We study the polynomial approximation of the Maximum Vertex Cover Problem in bipartite graphs by a purely combinatorial algorithm and present a computer assisted analysis of it, that finds the worst case approximation guarantee that is bounded below by~0.821.

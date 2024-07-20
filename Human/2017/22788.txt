@@ -1,0 +1,3 @@
+"Making you happy makes me happy" -- Measuring Individual Mood with Smartwatches
+
+We introduce a system to measure individual happiness based on interpreting body sensors on smartwatches. In our prototype system we use a Pebble smartwatch to track activity, heartrate, light level, and GPS coordinates, and extend it with external information such as weather data, humidity, and day of the week. Training our machine learning-based mood prediction system using random forests with data manually entered into the smartwatch, we achieve prediction accuracy of up to 94%. We find that besides body signals, the weather data exerts a strong influence on mood. In addition our system also allows us to identify friends who are indicators of our positive or negative mood.

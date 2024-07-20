@@ -1,0 +1,3 @@
+Efficient Data Perturbation for Privacy Preserving and Accurate Data Stream Mining
+
+The widespread use of the Internet of Things (IoT) has raised many concerns, including the protection of private information. Existing privacy preservation methods cannot provide a good balance between data utility and privacy, and also have problems with efficiency and scalability. This paper proposes an efficient data stream perturbation method (named as $P^2RoCAl$). $P^2RoCAl$ offers better data utility than similar methods: classification accuracies of $P^2RoCAl$ perturbed data streams are very close to those of the original data streams. $P^2RoCAl$ also provides higher resilience against data reconstruction attacks.

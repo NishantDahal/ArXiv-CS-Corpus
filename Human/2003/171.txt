@@ -1,0 +1,3 @@
+Quantum Computation and Lattice Problems
+
+We present the first explicit connection between quantum computation and lattice problems. Namely, we show a solution to the Unique Shortest Vector Problem (SVP) under the assumption that there exists an algorithm that solves the hidden subgroup problem on the dihedral group by coset sampling. Moreover, we solve the hidden subgroup problem on the dihedral group by using an average case subset sum routine. By combining the two results, we get a quantum reduction from $Θ(n^{2.5})$-unique-SVP to the average case subset sum problem.

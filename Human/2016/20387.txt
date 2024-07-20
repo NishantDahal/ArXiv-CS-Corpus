@@ -1,0 +1,4 @@
+Best-case Analysis of MergeSort with an Application to the Sum of Digits Problem, A manuscript (MS) v2
+
+An exact formula \[ B(n) = \frac{n}{2}(\lfloor \lg n \rfloor + 1) - \sum _{k=0} ^{\lfloor \lg n \rfloor} 2^k Zigzag(\frac{n}{2^{k+1}}), \] where \[ Zigzag (x) = \min (x - \lfloor x \rfloor, \lceil x \rceil - x), \] for the minimal number $ B(n) $ of comparisons of keys performed by $ {\tt MergeSort} $ on an $ n $-element array is derived and analyzed. The said formula is less complex than any other known formula for the same and can be evaluated in $ O(\log ^{c}) $ time, where $ c $ is a constant. It is shown that there is no closed-form formula for the above.
+  Since the recurrence relation for the minimal number of comparisons of keys for $ {\tt MergeSort} $ is identical with a recurrence relation for the number of 1s in binary expansions of all integers between $ 0 $ and $ n $ (exclusively), the above results extend to the sum of binary digits problem.

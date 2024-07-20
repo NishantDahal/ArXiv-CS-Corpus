@@ -1,0 +1,3 @@
+Efficient Probabilistic Group Testing Based on Traitor Tracing
+
+Inspired by recent results from collusion-resistant traitor tracing, we provide a framework for constructing efficient probabilistic group testing schemes. In the traditional group testing model, our scheme asymptotically requires T ~ 2 K ln N tests to find (with high probability) the correct set of K defectives out of N items. The framework is also applied to several noisy group testing and threshold group testing models, often leading to improvements over previously known results, but we emphasize that this framework can be applied to other variants of the classical model as well, both in adaptive and in non-adaptive settings.

@@ -1,0 +1,3 @@
+TAPAS: Two-pass Approximate Adaptive Sampling for Softmax
+
+TAPAS is a novel adaptive sampling method for the softmax model. It uses a two pass sampling strategy where the examples used to approximate the gradient of the partition function are first sampled according to a squashed population distribution and then resampled adaptively using the context and current model. We describe an efficient distributed implementation of TAPAS. We show, on both synthetic data and a large real dataset, that TAPAS has low computational overhead and works well for minimizing the rank loss for multi-class classification problems with a very large label space.

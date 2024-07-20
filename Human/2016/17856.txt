@@ -1,0 +1,3 @@
+Columbia MVSO Image Sentiment Dataset
+
+The Multilingual Visual Sentiment Ontology (MVSO) consists of 15,600 concepts in 12 different languages that are strongly related to emotions and sentiments expressed in images. These concepts are defined in the form of Adjective-Noun Pair (ANP), which are crawled and discovered from online image forum Flickr. In this work, we used Amazon Mechanical Turk as a crowd-sourcing platform to collect human judgments on sentiments expressed in images that are uniformly sampled over 3,911 English ANPs extracted from a tag-restricted subset of MVSO. Our goal is to use the dataset as a benchmark for the evaluation of systems that automatically predict sentiments in images or ANPs.

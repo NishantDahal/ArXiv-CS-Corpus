@@ -1,0 +1,3 @@
+Towards an ASM thesis for reflective sequential algorithms
+
+Starting from Gurevich's thesis for sequential algorithms (the so-called "sequential ASM thesis"), we propose a characterization of the behaviour of sequential algorithms enriched with reflection. That is, we present a set of postulates which we conjecture capture the fundamental properties of reflective sequential algorithms (RSAs). Then we look at the plausibility of an ASM thesis for the class of RSAs, defining a model of abstract state machine (which we call reflective ASM) that we conjecture captures the class of RSAs as defined by our postulates.

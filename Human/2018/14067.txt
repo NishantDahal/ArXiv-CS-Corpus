@@ -1,0 +1,4 @@
+Decremental SPQR-trees for Planar Graphs
+
+We present a decremental data structure for maintaining the SPQR-tree of a planar graph subject to edge contractions and deletions. The update time, amortized over $Ω(n)$ operations, is $O(\log^2 n)$.
+  Via SPQR-trees, we give a decremental data structure for maintaining $3$-vertex connectivity in planar graphs. It answers queries in $O(1)$ time and processes edge deletions and contractions in $O(\log^2 n)$ amortized time. This is an exponential improvement over the previous best bound of $O(\sqrt{n}\,)$ that has stood for over 20 years. In addition, the previous data structures only supported edge deletions.

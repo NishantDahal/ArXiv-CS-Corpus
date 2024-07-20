@@ -1,0 +1,3 @@
+Online Learning of k-CNF Boolean Functions
+
+This paper revisits the problem of learning a k-CNF Boolean function from examples in the context of online learning under the logarithmic loss. In doing so, we give a Bayesian interpretation to one of Valiant's celebrated PAC learning algorithms, which we then build upon to derive two efficient, online, probabilistic, supervised learning algorithms for predicting the output of an unknown k-CNF Boolean function. We analyze the loss of our methods, and show that the cumulative log-loss can be upper bounded, ignoring logarithmic factors, by a polynomial function of the size of each example.

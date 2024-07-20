@@ -1,0 +1,3 @@
+Minimization of Gini impurity via connections with the k-means problem
+
+The Gini impurity is one of the measures used to select attribute in Decision Trees/Random Forest construction. In this note we discuss connections between the problem of computing the partition with minimum Weighted Gini impurity and the $k$-means clustering problem. Based on these connections we show that the computation of the partition with minimum Weighted Gini is a NP-Complete problem and we also discuss how to obtain new algorithms with provable approximation for the Gini Minimization problem.

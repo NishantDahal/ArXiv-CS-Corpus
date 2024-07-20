@@ -1,0 +1,3 @@
+Collaborative Visual Area Coverage
+
+This article examines the problem of visual area coverage by a network of Mobile Aerial Agents (MAAs). Each MAA is assumed to be equipped with a downwards facing camera with a conical field of view which covers all points within a circle on the ground. The diameter of that circle is proportional to the altitude of the MAA, whereas the quality of the covered area decreases with the altitude. A distributed control law that maximizes a joint coverage-quality criterion by adjusting the MAAs' spatial coordinates is developed. The effectiveness of the proposed control scheme is evaluated through simulation studies.

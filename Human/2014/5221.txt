@@ -1,0 +1,5 @@
+Changing Computing Paradigms Towards Power Efficiency
+
+Power awareness is fast becoming immensely important in computing, ranging from the traditional High Performance Computing applications, to the new generation of data centric workloads.
+  In this work we describe our efforts towards a power efficient computing paradigm that combines low precision and high precision arithmetic. We showcase our ideas for the widely used kernel of solving systems of linear equations that finds numerous applications in scientific and engineering disciplines as well as in large scale data analytics, statistics and machine learning.
+  Towards this goal we developed tools for the seamless power profiling of applications at a fine grain level. In addition, we verify here previous work on post FLOPS/Watt metrics and show that these can shed much more light in the power/energy profile of important applications.

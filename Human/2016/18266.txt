@@ -1,0 +1,3 @@
+Denoising based Vector Approximate Message Passing
+
+The denoising-based approximate message passing (D-AMP) methodology, recently proposed by Metzler, Maleki, and Baraniuk, allows one to plug in sophisticated denoisers like BM3D into the AMP algorithm to achieve state-of-the-art compressive image recovery. But AMP diverges with small deviations from the i.i.d.-Gaussian assumption on the measurement matrix. Recently, the vector AMP (VAMP) algorithm has been proposed to fix this problem. In this work, we show that the benefits of VAMP extend to D-VAMP.

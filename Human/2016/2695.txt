@@ -1,0 +1,3 @@
+Lacunaryx: Computing bounded-degree factors of lacunary polynomials
+
+In this paper, we report on an implementation in the free software Mathemagix of lacunary factorization algorithms, distributed as a library called Lacunaryx. These algorithms take as input a polynomial in sparse representation, that is as a list of nonzero monomials, and an integer $d$, and compute its irreducible degree-$\le d$ factors. The complexity of these algorithms is polynomial in the sparse size of the input polynomial and $d$.

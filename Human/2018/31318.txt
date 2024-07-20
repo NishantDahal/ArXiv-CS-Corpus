@@ -1,0 +1,3 @@
+Deep Compression of Sum-Product Networks on Tensor Networks
+
+Sum-product networks (SPNs) represent an emerging class of neural networks with clear probabilistic semantics and superior inference speed over graphical models. This work reveals a strikingly intimate connection between SPNs and tensor networks, thus leading to a highly efficient representation that we call tensor SPNs (tSPNs). For the first time, through mapping an SPN onto a tSPN and employing novel optimization techniques, we demonstrate remarkable parameter compression with negligible loss in accuracy.

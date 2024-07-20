@@ -1,0 +1,3 @@
+An Axiomatic Approach to Robustness in Search Problems with Multiple Scenarios
+
+This paper is devoted to the search of robust solutions in state space graphs when costs depend on scenarios. We first present axiomatic requirements for preference compatibility with the intuitive idea of robustness.This leads us to propose the Lorenz dominance rule as a basis for robustness analysis. Then, after presenting complexity results about the determination of robust solutions, we propose a new sophistication of A* specially designed to determine the set of robust paths in a state space graph. The behavior of the algorithm is illustrated on a small example. Finally, an axiomatic justification of the refinement of robustness by an OWA criterion is provided. 

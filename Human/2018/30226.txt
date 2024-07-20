@@ -1,0 +1,3 @@
+Model-Based Reinforcement Learning for Sepsis Treatment
+
+Sepsis is a dangerous condition that is a leading cause of patient mortality. Treating sepsis is highly challenging, because individual patients respond very differently to medical interventions and there is no universally agreed-upon treatment for sepsis. In this work, we explore the use of continuous state-space model-based reinforcement learning (RL) to discover high-quality treatment policies for sepsis patients. Our quantitative evaluation reveals that by blending the treatment strategy discovered with RL with what clinicians follow, we can obtain improved policies, potentially allowing for better medical treatment for sepsis.

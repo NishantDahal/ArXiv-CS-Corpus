@@ -1,0 +1,4 @@
+A Dynamic Stabbing-Max Data Structure with Sub-Logarithmic Query Time
+
+In this paper we describe a dynamic data structure that answers one-dimensional stabbing-max queries in optimal $O(\log n/\log\log n)$ time. Our data structure uses linear space and supports insertions and deletions in $O(\log n)$ and $O(\log n/\log \log n)$ amortized time respectively.
+  We also describe a $O(n(\log n/\log\log n)^{d-1})$ space data structure that answers $d$-dimensional stabbing-max queries in $O((\log n/\log\log n)^{d})$ time. Insertions and deletions are supported in $O((\log n/\log\log n)^d\log\log n)$ and $O((\log n/\log\log n)^d)$ amortized time respectively.

@@ -1,0 +1,3 @@
+IPchain: Securing IP Prefix Allocation and Delegation with Blockchain
+
+We present IPchain, a blockchain to store the allocations and delegations of IP addresses, with the aim of easing the deployment of secure interdomain routing systems. Interdomain routing security is of vital importance to the Internet since it prevents unwanted traffic redirections. IPchain makes use of blockchains' properties to provide flexible trust models and simplified management when compared to existing systems. In this paper we argue that Proof of Stake is a suitable consensus algorithm for IPchain due to the unique incentive structure of this use-case. We have implemented and evaluated IPchain's performance and scalability storing around 150k IP prefixes in a 1GB chain.

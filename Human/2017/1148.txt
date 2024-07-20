@@ -1,0 +1,5 @@
+A Simulation Tool for tccp Programs
+
+The Timed Concurrent Constraint Language tccp is a declarative synchronous concurrent language, particularly suitable for modelling reactive systems. In tccp, agents communicate and synchronise through a global constraint store. It supports a notion of discrete time that allows all non-blocked agents to proceed with their execution simultaneously.
+  In this paper, we present a modular architecture for the simulation of tccp programs. The tool comprises three main components. First, a set of basic abstract instructions able to model the tccp agent behaviour, the memory model needed to manage the active agents and the state of the store during the execution. Second, the agent interpreter that executes the instructions of the current agent iteratively and calculates the new agents to be executed at the next time instant. Finally, the constraint solver components which are the modules that deal with constraints.
+  In this paper, we describe the implementation of these components and present an example of a real system modelled in tccp.

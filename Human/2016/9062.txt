@@ -1,0 +1,3 @@
+Calculi for Intuitionistic Normal Modal Logic
+
+This paper provides a call-by-name and a call-by-value term calculus, both of which have a Curry-Howard correspondence to the box fragment of the intuitionistic modal logic IK. The strong normalizability and the confluency of the calculi are shown. Moreover, we define a CPS transformation from the call-by-value calculus to the call-by-name calculus, and show its soundness and completeness.

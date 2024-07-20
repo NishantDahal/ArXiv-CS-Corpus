@@ -1,0 +1,3 @@
+Towards rule-based visual programming of generic visual systems
+
+This paper illustrates how the diagram programming language DiaPlan can be used to program visual systems. DiaPlan is a visual rule-based language that is founded on the computational model of graph transformation. The language supports object-oriented programming since its graphs are hierarchically structured. Typing allows the shape of these graphs to be specified recursively in order to increase program security. Thanks to its genericity, DiaPlan allows to implement systems that represent and manipulate data in arbitrary diagram notations. The environment for the language exploits the diagram editor generator DiaGen for providing genericity, and for implementing its user interface and type checker.

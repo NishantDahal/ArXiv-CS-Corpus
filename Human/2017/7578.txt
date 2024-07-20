@@ -1,0 +1,5 @@
+MDPs with Energy-Parity Objectives
+
+Energy-parity objectives combine $ω$-regular with quantitative objectives of reward MDPs. The controller needs to avoid to run out of energy while satisfying a parity objective.
+  We refute the common belief that, if an energy-parity objective holds almost-surely, then this can be realised by some finite memory strategy. We provide a surprisingly simple counterexample that only uses coBüchi conditions.
+  We introduce the new class of bounded (energy) storage objectives that, when combined with parity objectives, preserve the finite memory property. Based on these, we show that almost-sure and limit-sure energy-parity objectives, as well as almost-sure and limit-sure storage parity objectives, are in $\mathit{NP}\cap \mathit{coNP}$ and can be solved in pseudo-polynomial time for energy-parity MDPs.

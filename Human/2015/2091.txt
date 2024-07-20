@@ -1,0 +1,3 @@
+Fountain Uncorrectable Sets and Finite-Length Analysis
+
+Decoding performance of Fountain codes for the binary erasure channel (BEC) depends on two aspects. One is the essential code structure, on which stopping set analysis operates. The other is the effect from the channel characteristic, which is difficult to give a precise estimation. To tackle these problems, in this paper, we propose a solution to analyzing the performance of Fountain codes based on the uncorrectable set. We give the condition for Fountain decoding failure over the BEC. Then, we conduct the analysis of uncorrectable set on Fountain codes. Finally, we combine the stopping set and the uncorrectable set to provide the integrated analysis on the performance of Fountain codes for BEC.

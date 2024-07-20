@@ -1,0 +1,3 @@
+Clustered Language Models with Context-Equivalent States
+
+In this paper, a hierarchical context definition is added to an existing clustering algorithm in order to increase its robustness. The resulting algorithm, which clusters contexts and events separately, is used to experiment with different ways of defining the context a language model takes into account. The contexts range from standard bigram and trigram contexts to part of speech five-grams. Although none of the models can compete directly with a backoff trigram, they give up to 9\% improvement in perplexity when interpolated with a trigram. Moreover, the modified version of the algorithm leads to a performance increase over the original version of up to 12\%.

@@ -1,0 +1,3 @@
+A framework for small but rich vehicle routing problems
+
+In this paper we consider a 2-vehicle routing problem which can be viewed as a building block for the varieties of the vehicle routing problems (VRPs). To approach this problem, we suggest a framework based on the Held and Karp dynamic programming algorithm for the classical travelling salesman problem. An algorithm based on this framework shows an exceptionally good performance on published test data. Our approach can be easily extended to a variety of constraints/attributes in the VRP, hence the wording "small but rich" in the title of our paper.

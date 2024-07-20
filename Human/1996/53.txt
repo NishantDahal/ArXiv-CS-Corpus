@@ -1,0 +1,3 @@
+A Simple Transformation for Offline-Parsable Grammars and its Termination Properties
+
+We present, in easily reproducible terms, a simple transformation for offline-parsable grammars which results in a provably terminating parsing program directly top-down interpretable in Prolog. The transformation consists in two steps: (1) removal of empty-productions, followed by: (2) left-recursion elimination. It is related both to left-corner parsing (where the grammar is compiled, rather than interpreted through a parsing program, and with the advantage of guaranteed termination in the presence of empty productions) and to the Generalized Greibach Normal Form for DCGs (with the advantage of implementation simplicity).

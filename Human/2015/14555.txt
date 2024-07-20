@@ -1,0 +1,3 @@
+Faster Worst Case Deterministic Dynamic Connectivity
+
+We present a deterministic dynamic connectivity data structure for undirected graphs with worst case update time $O\left(\sqrt{\frac{n(\log\log n)^2}{\log n}}\right)$ and constant query time. This improves on the previous best deterministic worst case algorithm of Frederickson (STOC 1983) and Eppstein Galil, Italiano, and Nissenzweig (J. ACM 1997), which had update time $O(\sqrt{n})$. All other algorithms for dynamic connectivity are either randomized (Monte Carlo) or have only amortized performance guarantees.

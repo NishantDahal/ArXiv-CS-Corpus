@@ -1,0 +1,3 @@
+Fully Mechanized Proofs of Dilworths Theorem and Mirskys Theorem
+
+We present two fully mechanized proofs of Dilworths and Mirskys theorems in the Coq proof assistant. Dilworths Theorem states that in any finite partially ordered set (poset), the size of a smallest chain cover and a largest antichain are the same. Mirskys Theorem is a dual of Dilworths Theorem. We formalize the proofs by Perles [2] (for Dilworths Theorem) and by Mirsky [5] (for the dual theorem). We also come up with a library of definitions and facts that can be used as a framework for formalizing other theorems on finite posets.

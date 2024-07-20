@@ -1,0 +1,3 @@
+A Session based Multiple Image Hiding Technique using DWT and DCT
+
+This work proposes Steganographic technique for hiding multiple images in a color image based on DWT and DCT. The cover image is decomposed into three separate color planes namely R, G and B. Individual planes are decomposed into subbands using DWT. DCT is applied in HH component of each plane. Secret images are dispersed among the selected DCT coefficients using a pseudo random sequence and a Session key. Secret images are extracted using the session key and the size of the images from the planer decomposed stego image. In this approach the stego image generated is of acceptable level of imperceptibility and distortion compared to the cover image and the overall security is high.

@@ -1,0 +1,3 @@
+Integer Factorization with a Neuromorphic Sieve
+
+The bound to factor large integers is dominated by the computational effort to discover numbers that are smooth, typically performed by sieving a polynomial sequence. On a von Neumann architecture, sieving has log-log amortized time complexity to check each value for smoothness. This work presents a neuromorphic sieve that achieves a constant time check for smoothness by exploiting two characteristic properties of neuromorphic architectures: constant time synaptic integration and massively parallel computation. The approach is validated by modifying msieve, one of the fastest publicly available integer factorization implementations, to use the IBM Neurosynaptic System (NS1e) as a coprocessor for the sieving stage.

@@ -1,0 +1,3 @@
+The multi-level Monte Carlo method for simulations of turbulent flows
+
+In this paper the application of the multi-level Monte Carlo (MLMC) method on numerical simulations of turbulent flows with uncertain parameters is investigated. Several strategies for setting up the MLMC method are presented, and the advantages and disadvantages of each strategy are also discussed. A numerical experiment is carried out using the Antarctic Circumpolar Current (ACC) with uncertain, small-scale bottom topographic features. It is demonstrated that, unlike the pointwise solutions, the averaged volume transports are correlated across grid resolutions, and the MLMC method could increase simulation efficiency without losing accuracy in uncertainty assessment.

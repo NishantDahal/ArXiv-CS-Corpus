@@ -1,0 +1,5 @@
+Oblivious transfer based on quantum state computational distinguishability
+
+Oblivious transfer protocol is a basic building block in cryptography and is used to transfer information from a sender to a receiver in such a way that, at the end of the protocol, the sender does not know if the receiver got the message or not.
+  Since Shor's quantum algorithm appeared, the security of most of classical cryptographic schemes has been compromised, as they rely on the fact that factoring is unfeasible. To overcome this, quantum mechanics has been used intensively in the past decades, and alternatives resistant to quantum attacks have been developed in order to fulfill the (potential) lack of security of a significant number of classical schemes.
+  In this paper, we present a quantum computationally secure protocol for oblivious transfer between two parties, under the assumption of quantum hardness of state distinguishability. The protocol is feasible, in the sense that it is implementable in polynomial time.

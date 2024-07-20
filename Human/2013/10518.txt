@@ -1,0 +1,3 @@
+Joint DOA and Array Manifold Estimation for a MIMO Array Using Two Calibrated Antennas
+
+A simple scheme for joint direction of arrival (DOA) and array manifold estimation for a MIMO array system is proposed, where only two transmit antennas are calibrated initially. It first obtains a set of initial DOA results by employing a rotational invariance property between two sets of received data, and then more accurate DOA and array manifold estimation is obtained through a local searching algorithm with several iterations. No strict half wavelength spacing is required for the uncalibrated antennas to avoid the spatial aliasing problem.

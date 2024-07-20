@@ -1,0 +1,3 @@
+Locally Non-rigid Registration for Mobile HDR Photography
+
+Image registration for stack-based HDR photography is challenging. If not properly accounted for, camera motion and scene changes result in artifacts in the composite image. Unfortunately, existing methods to address this problem are either accurate, but too slow for mobile devices, or fast, but prone to failing. We propose a method that fills this void: our approach is extremely fast---under 700ms on a commercial tablet for a pair of 5MP images---and prevents the artifacts that arise from insufficient registration quality.

@@ -1,0 +1,3 @@
+Design of Dynamic Algorithms via Primal-Dual Method
+
+We develop a dynamic version of the primal-dual method for optimization problems, and apply it to obtain the following results. (1) For the dynamic set-cover problem, we maintain an $O(f^2)$-approximately optimal solution in $O(f \cdot \log (m+n))$ amortized update time, where $f$ is the maximum "frequency" of an element, $n$ is the number of sets, and $m$ is the maximum number of elements in the universe at any point in time. (2) For the dynamic $b$-matching problem, we maintain an $O(1)$-approximately optimal solution in $O(\log^3 n)$ amortized update time, where $n$ is the number of nodes in the graph.

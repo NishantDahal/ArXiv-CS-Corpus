@@ -1,0 +1,3 @@
+N-free extensions of posets.Note on a theorem of P.A.Grillet
+
+Let $S\_{N}(P)$ be the poset obtained by adding a dummy vertex on each diagonal edge of the $N$'s of a finite poset $P$. We show that $S\_{N}(S\_{N}(P))$ is $N$-free. It follows that this poset is the smallest $N$-free barycentric subdivision of the diagram of $P$, poset whose existence was proved by P.A. Grillet. This is also the poset obtained by the algorithm starting with $P\_0:=P$ and consisting at step $m$ of adding a dummy vertex on a diagonal edge of some $N$ in $P\_m$, proving that the result of this algorithm does not depend upon the particular choice of the diagonal edge choosen at each step. These results are linked to drawing of posets.

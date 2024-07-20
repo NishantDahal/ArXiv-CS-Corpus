@@ -1,0 +1,3 @@
+Improvements in the computation of ideal class groups of imaginary quadratic number fields
+
+We investigate improvements to the algorithm for the computation of ideal class groups described by Jacobson in the imaginary quadratic case. These improvements rely on the large prime strategy and a new method for performing the linear algebra phase. We achieve a significant speed-up and are able to compute ideal class groups with discriminants of 110 decimal digits in less than a week.

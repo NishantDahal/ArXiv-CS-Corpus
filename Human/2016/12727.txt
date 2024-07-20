@@ -1,0 +1,6 @@
+Enumerations, Forbidden Subgraph Characterizations, and the Split-Decomposition
+
+Forbidden characterizations may sometimes be the most natural way to describe families of graphs, and yet these characterizations are usually very hard to exploit for enumerative purposes.
+  By building on the work of Gioan and Paul (2012) and Chauve et al. (2014), we show a methodology by which we constrain a split-decomposition tree to avoid certain patterns, thereby avoiding the corresponding induced subgraphs in the original graph.
+  We thus provide the grammars and full enumeration for a wide set of graph classes: ptolemaic, block, and variants of cactus graphs (2,3-cacti, 3-cacti and 4-cacti). In certain cases, no enumeration was known (ptolemaic, 4-cacti); in other cases, although the enumerations were known, an abundant potential is unlocked by the grammars we provide (in terms of asymptotic analysis, random generation, and parameter analyses, etc.).
+  We believe this methodology here shows its potential; the natural next step to develop its reach would be to study split-decomposition trees which contain certain prime nodes. This will be the object of future work.

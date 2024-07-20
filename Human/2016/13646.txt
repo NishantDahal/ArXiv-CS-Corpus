@@ -1,0 +1,3 @@
+Implementing RBAC model in An Operating System Kernel
+
+In this paper, the implementation of an operating system oriented RBAC model is discussed. Firstly, on the basis of RBAC96 model, a new RBAC model named OSR is presented. Secondly, the OSR model is enforced in RFSOS kernel by the way of integrating GFAC method and Capability mechanism together. All parts of the OSR implementation are described in detail.

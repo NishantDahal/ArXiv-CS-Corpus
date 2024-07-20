@@ -1,0 +1,3 @@
+How to Collaborate between Threshold Schemes
+
+Threshold schemes have been used to protect secrets by distributing shares to participants. To protect two secrets, we can use two separate traditional schemes, say, a (t1, n1) scheme and a (t2, n2) scheme. If there are u (<=min(t1, t2)) participants involved in both schemes, each of these u participants must keep two different shares. This paper proposes a method that allows each common participant to keep only one share. Our method constructs two polynomials with u common crossover points. We give theoretical details and two demonstrative examples. This algorithm can also handle the collaboration between more than two schemes.

@@ -1,0 +1,4 @@
+Reductions in Distributed Computing Part II: k-Threshold Agreement Tasks
+
+We extend the results of Part I by considering a new class of agreement tasks, the so-called k-Threshold Agreement tasks (previously introduced by Charron-Bost and Le Fessant). These tasks naturally interpolate between Atomic Commitment and Consensus. Moreover, they constitute a valuable tool to derive irreducibility results between Consensus tasks only. In particular, they allow us to show that (A) for a fixed set of processes, the higher the resiliency degree is, the harder the Consensus task is, and (B) for a fixed resiliency degree, the smaller the set of processes is, the harder the Consensus task is.
+  The proofs of these results lead us to consider new oracle-based reductions, involving a weaker variant of the C-reduction introduced in Part I. We also discuss the relationship between our results and previous ones relating f-resiliency and wait-freedom.

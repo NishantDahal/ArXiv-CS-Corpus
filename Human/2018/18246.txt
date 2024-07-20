@@ -1,0 +1,3 @@
+A new lower bound for classic online bin packing
+
+We improve the lower bound on the asymptotic competitive ratio of any online algorithm for bin packing to above 1.54278. We demonstrate for the first time the advantage of branching and the applicability of full adaptivity in the design of lower bounds for the classic online bin packing problem. We apply a new method for weight based analysis, which is usually applied only in proofs of upper bounds. The values of previous lower bounds were approximately 1.5401 and 1.5403.

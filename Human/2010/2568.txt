@@ -1,0 +1,3 @@
+The Deletable Bloom filter: A new member of the Bloom family
+
+We introduce the Deletable Bloom filter (DlBF) as a new spin on the popular  data structure based on compactly encoding the information of where collisions happen when inserting elements. The DlBF design enables false-negative-free deletions at a fraction of the cost in memory consumption, which turns to be appealing for certain probabilistic filter applications.

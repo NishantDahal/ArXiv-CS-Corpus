@@ -1,0 +1,3 @@
+From LTL to Deterministic Automata: A Safraless Compositional Approach
+
+We present a new algorithm to construct a deterministic Rabin automaton for an LTL formula $\varphi$. The automaton is the product of a master automaton and an array of slave automata, one for each $G$-subformula of $\varphi$. The slave automaton for $Gψ$ is in charge of recognizing whether $FGψ$ holds. As opposed to standard determinization procedures, the states of all our automata have a clear logical structure, which allows to apply various optimizations. Our construction subsumes former algorithms for fragments of LTL. Experimental results show improvement in the sizes of the resulting automata compared to existing methods.

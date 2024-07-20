@@ -1,0 +1,3 @@
+The state complexity of L^2 and L^k
+
+We show that if M is a DFA with n states over an arbitrary alphabet and L = L(M), then the worst-case state complexity of L^2 is n*2^n - 2^{n-1}. If, however, M is a DFA over a unary alphabet, then the worst-case state complexity of L^k is kn-k+1 for all k >= 2.

@@ -1,0 +1,3 @@
+A Fast Convergence Density Evolution Algorithm for Optimal Rate LDPC Codes in BEC
+
+We derive a new fast convergent Density Evolution algorithm for finding optimal rate Low-Density Parity-Check (LDPC) codes used over the binary erasure channel (BEC). The fast convergence property comes from the modified Density Evolution (DE), a numerical method for analyzing the behavior of iterative decoding convergence of a LDPC code. We have used the method of [16] for designing of a LDPC code with optimal rate. This has been done for a given parity check node degree distribution, erasure probability and specified DE constraint. The fast behavior of DE and found optimal rate with this method compare with the previous DE constraint.

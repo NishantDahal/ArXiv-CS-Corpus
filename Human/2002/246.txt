@@ -1,0 +1,3 @@
+On bit-commitment based quantum coin flipping
+
+In this paper, we focus on a special framework for quantum coin flipping protocols,_bit-commitment based protocols_, within which almost all known protocols fit. We show a lower bound of 1/16 for the bias in any such protocol. We also analyse a sequence of multi-round protocol that tries to overcome the drawbacks of the previously proposed protocols, in order to lower the bias. We show an intricate cheating strategy for this sequence, which leads to a bias of 1/4. This indicates that a bias of 1/4 might be optimal in such protocols, and also demonstrates that a cleverer proof technique may be required to show this optimality.

@@ -1,0 +1,3 @@
+2-Trees: Structural Insights and the study of Hamiltonian Paths
+
+For a connected graph, a path containing all vertices is known as \emph{Hamiltonian path}. For general graphs, there is no known necessary and sufficient condition for the existence of Hamiltonian paths and the complexity of finding a Hamiltonian path in general graphs is NP-Complete. We present a necessary and sufficient condition for the existence of Hamiltonian paths in 2-trees. Using our characterization, we also present a linear-time algorithm for the existence of Hamiltonian paths in 2-trees. Our characterization is based on a deep understanding of the structure of 2-trees and the combinatorics presented here may be used in other combinatorial problems restricted to 2-trees.

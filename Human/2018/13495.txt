@@ -1,0 +1,3 @@
+Modelling and Path Planning of Snake Robot in cluttered environment
+
+Studying snake robot locomotion in a cluttered environment has been a complicated task because the motion model is discontinuous due to the physical contact with obstacles, and the contact force cannot be determined solely by contact positions. We present a unique mathematical model of the robot interacting with obstacles in which the contact forces are mapped on the basis of a viscous friction model. Also a motion planning strategy has been introduced which helps deriving the simplest path that ensures sufficient number of contacts of the robot with the obstacles required to reach a goal position. Numerical simulations and experimental results are presented to validate the theoretical approach.

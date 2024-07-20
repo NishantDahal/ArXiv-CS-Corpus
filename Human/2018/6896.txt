@@ -1,0 +1,4 @@
+Optimal Morphs of Planar Orthogonal Drawings
+
+We describe an algorithm that morphs between two planar orthogonal drawings $Γ_I$ and $Γ_O$ of a connected graph $G$, while preserving planarity and orthogonality. Necessarily $Γ_I$ and $Γ_O$ share the same combinatorial embedding. Our morph uses a linear number of linear morphs (linear interpolations between two drawings) and preserves linear complexity throughout the process, thereby answering an open question from Biedl et al.
+  Our algorithm first unifies the two drawings to ensure an equal number of (virtual) bends on each edge. We then interpret bends as vertices which form obstacles for so-called wires: horizontal and vertical lines separating the vertices of $Γ_O$. We can find corresponding wires in $Γ_I$ that share topological properties with the wires in $Γ_O$. The structural difference between the two drawings can be captured by the spirality of the wires in $Γ_I$, which guides our morph from $Γ_I$ to $Γ_O$.

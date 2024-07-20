@@ -1,0 +1,3 @@
+Evaluation of spatial trees for simulation of biological tissue
+
+Spatial organization is a core challenge for all large agent-based models with local interactions. In biological tissue models, spatial search and reinsertion are frequently reported as the most expensive steps of the simulation. One of the main methods utilized in order to maintain both favorable algorithmic complexity and accuracy is spatial hierarchies. In this paper, we seek to clarify to which extent the choice of spatial tree affects performance, and also to identify which spatial tree families are optimal for such scenarios. We make use of a prototype of the new BioDynaMo tissue simulator for evaluating performances as well as for the implementation of the characteristics of several different trees.

@@ -1,0 +1,3 @@
+Sub-exponential Upper Bound for #XSAT of some CNF Classes
+
+We derive an upper bound on the number of models for exact satisfiability (XSAT) of arbitrary CNF formulas F. The bound can be calculated solely from the distribution of positive and negated literals in the formula. For certain subsets of CNF instances the new bound can be computed in sub-exponential time, namely in at most O(exp(sqrt(n))) , where n is the number of variables of F. A wider class of SAT problems beyond XSAT is defined to which the method can be extended.

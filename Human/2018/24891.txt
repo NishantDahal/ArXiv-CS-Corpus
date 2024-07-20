@@ -1,0 +1,3 @@
+On Underlay-Aware Self-Stabilizing Overlay Networks
+
+We present a self-stabilizing protocol for an overlay network that constructs the Minimum Spanning Tree (MST) for an underlay that is modeled by a weighted tree. The weight of an overlay edge between two nodes is the weighted length of their shortest path in the tree. We rigorously prove that our protocol works correctly under asynchronous and non-FIFO message delivery. Further, the protocol stabilizes after $\mathcal{O}(N^2)$ asynchronous rounds where $N$ is the number of nodes in the overlay.

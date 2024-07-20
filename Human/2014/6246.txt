@@ -1,0 +1,4 @@
+Boolean Dependence Logic and Partially-Ordered Connectives
+
+We introduce a new variant of dependence logic called Boolean dependence logic. In Boolean dependence logic dependence atoms are of the type =(x_1,...,x_n,α), where αis a Boolean variable. Intuitively, with Boolean dependence atoms one can express quantification of relations, while standard dependence atoms express quantification over functions.
+  We compare the expressive power of Boolean dependence logic to dependence logic and first-order logic enriched by partially-ordered connectives. We show that the expressive power of Boolean dependence logic and dependence logic coincide. We define natural syntactic fragments of Boolean dependence logic and show that they coincide with the corresponding fragments of first-order logic enriched by partially-ordered connectives with respect to expressive power. We then show that the fragments form a strict hierarchy.

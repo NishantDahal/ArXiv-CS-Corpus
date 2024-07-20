@@ -1,0 +1,3 @@
+Implementing Continuation based language in GCC
+
+We have implemented C like Continuation based programming language. Continuation based C, CbC was implemented using micro-C on various architecture, and we have tried several CbC programming experiments. Here we report new implementation of CbC compiler based on GCC 4.2.3. Since it contains full C capability, we can use CbC and C in a mixture.

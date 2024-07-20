@@ -1,0 +1,3 @@
+Lower Bounds on Matrix Rigidity via a Quantum Argument
+
+The rigidity of a matrix measures how many of its entries need to be changed in order to reduce its rank to some value. Good lower bounds on the rigidity of an explicit matrix would imply good lower bounds for arithmetic circuits as well as for communication complexity. Here we reprove the best known bounds on the rigidity of Hadamard matrices, due to Kashin and Razborov, using tools from quantum computing. Our proofs are somewhat simpler than earlier ones (at least for those familiar with quantum) and give slightly better constants. More importantly, they give a new approach to attack this longstanding open problem.

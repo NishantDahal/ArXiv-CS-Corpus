@@ -1,0 +1,3 @@
+VCube-PS: A Causal Broadcast Topic-based Publish/Subscribe System
+
+In this work we present VCube-PS, a topic-based Publish/Subscribe system built on the top of a virtual hypercube-like topology. Membership information and published messages are broadcast to subscribers (members) of a topic group over dynamically built spanning trees rooted at the publisher. For a given topic, the delivery of published messages respects the causal order. VCube-PS was implemented on the PeerSim simulator, and experiments are reported including a comparison with the traditional Publish/Subscribe approach that employs a single rooted static spanning-tree for message distribution. Results confirm the efficiency of VCube-PS in terms of scalability, latency, number and size of messages.

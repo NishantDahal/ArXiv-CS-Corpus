@@ -1,0 +1,3 @@
+Approximately coloring graphs without long induced paths
+
+It is an open problem whether the 3-coloring problem can be solved in polynomial time in the class of graphs that do not contain an induced path on $t$ vertices, for fixed $t$. We propose an algorithm that, given a 3-colorable graph without an induced path on $t$ vertices, computes a coloring with $\max\{5,2\lceil{\frac{t-1}{2}}\rceil-2\}$ many colors. If the input graph is triangle-free, we only need $\max\{4,\lceil{\frac{t-1}{2}}\rceil+1\}$ many colors. The running time of our algorithm is $O((3^{t-2}+t^2)m+n)$ if the input graph has $n$ vertices and $m$ edges.

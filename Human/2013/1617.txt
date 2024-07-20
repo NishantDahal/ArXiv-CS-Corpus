@@ -1,0 +1,3 @@
+A new scheme of signature extraction for iris authentication
+
+Iris recognition, a relatively new biometric technology, has great advantages, such as variability, stability and security, thus is the most promising for high security environment. Iris recognition is proposed in this report. We describe some methods, the first one is based on grey level histogram to extract the pupil, the second is based on elliptic and parabolic HOUGH transformation to determinate the edge of iris, upper and lower eyelids, the third we used 2D Gabor Wavelets to encode the iris and finally we used the Hamming distance for authentication.

@@ -1,0 +1,3 @@
+New refiners for permutation group search
+
+We describe how orbital graphs can be used to improve the practical performance of many algorithms for permutation groups, including intersection and stabilizer problems. First we explain how orbital graphs can be integrated in partition backtracking, the current state of the art algorithm for many permutation group problems. We then show how our algorithms perform in practice, demonstrating improvements of several orders of magnitude for some problems.

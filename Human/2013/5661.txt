@@ -1,0 +1,3 @@
+Verifying a platform for digital imaging: a multi-tool strategy
+
+Fiji is a Java platform widely used by biologists and other experimental scientists to process digital images. In particular, in our research - made together with a biologists team; we use Fiji in some pre-processing steps before undertaking a homological digital processing of images. In a previous work, we have formalised the correctness of the programs which use homological techniques to analyse digital images. However, the verification of Fiji's pre-processing step was missed. In this paper, we present a multi-tool approach filling this gap, based on the combination of Why/Krakatoa, Coq and ACL2.

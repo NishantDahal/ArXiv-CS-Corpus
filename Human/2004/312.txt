@@ -1,0 +1,4 @@
+A proof of Alon's second eigenvalue conjecture and related problems
+
+In this paper we show the following conjecture of Noga Alon. Fix a positive integer d>2 and real epsilon > 0; consider the probability that a random d-regular graph on n vertices has the second eigenvalue of its adjacency matrix greater than 2 sqrt(d-1) + epsilon; then this probability goes to zero as n tends to infinity.
+  We prove the conjecture for a number of notions of random d-regular graph, including models for d odd. We also estimate the aforementioned probability more precisely, showing in many cases and models (but not all) that it decays like a polynomial in 1/n.

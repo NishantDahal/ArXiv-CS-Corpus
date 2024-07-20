@@ -1,0 +1,4 @@
+Abstract Diagnosis for tccp using a Linear Temporal Logic
+
+Automatic techniques for program verification usually suffer the well-known state explosion problem. Most of the classical approaches are based on browsing the structure of some form of model (which represents the behavior of the program) to check if a given specification is valid. This implies that a part of the model has to be built, and sometimes the needed fragment is quite huge.
+  In this work, we provide an alternative automatic decision method to check whether a given property, specified in a linear temporal logic, is valid w.r.t. a tccp program. Our proposal (based on abstract interpretation techniques) does not require to build any model at all. Our results guarantee correctness but, as usual when using an abstract semantics, completeness is lost.

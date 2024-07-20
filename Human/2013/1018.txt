@@ -1,0 +1,3 @@
+Diamond-Kite Adaptive Quadrilateral Meshing
+
+We describe a family of quadrilateral meshes based on diamonds, rhombi with 60 and 120 degree angles, and kites with 60, 90, and 120 degree angles, that can be adapted to a local size function by local subdivision operations. Our meshes use a number of elements that is within a constant factor of the minimum possible for any mesh of bounded aspect ratio elements, graded by the same local size function, and is invariant under Laplacian smoothing. The vertices of our meshes form the centers of the circles in a pair of dual circle packings. The same vertex placement algorithm but a different mesh topology gives a pair of dual well-centered meshes adapted to the given size function.

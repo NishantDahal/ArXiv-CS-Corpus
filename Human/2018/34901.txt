@@ -1,0 +1,3 @@
+A Parallel Double Greedy Algorithm for Submodular Maximization
+
+We study parallel algorithms for the problem of maximizing a non-negative submodular function. Our main result is an algorithm that achieves a nearly-optimal $1/2 -ε$ approximation using $O(\log(1/ε) / ε)$ parallel rounds of function evaluations. Our algorithm is based on a continuous variant of the double greedy algorithm of Buchbinder et al. that achieves the optimal $1/2$ approximation in the sequential setting. Our algorithm applies more generally to the problem of maximizing a continuous diminishing-returns (DR) function.

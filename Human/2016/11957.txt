@@ -1,0 +1,4 @@
+On Simulated Annealing Dedicated to Maximin Latin Hypercube Designs
+
+The goal of our research was to enhance local search heuristics used to construct Latin Hypercube Designs. First, we introduce the \textit{1D-move} perturbation to improve the space exploration performed by these algorithms. Second, we propose a new evaluation function $ψ_{p,σ}$ specifically targeting the Maximin criterion.
+  Exhaustive series of experiments with Simulated Annealing, which we used as a typically well-behaving local search heuristics, confirm that our goal was reached as the result we obtained surpasses the best scores reported in the literature. Furthermore, the $ψ_{p,σ}$ function seems very promising for a wide spectrum of optimization problems through the Maximin criterion.

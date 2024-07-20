@@ -1,0 +1,3 @@
+Acyclic edge coloring of sparse graphs
+
+A proper edge coloring of a graph $G$ is called acyclic if there is no bichromatic cycle in $G$. The acyclic chromatic index of $G$, denoted by $χ'_a(G)$, is the least number of colors $k$ such that $G$ has an acyclic edge $k$-coloring. The maximum average degree of a graph $G$, denoted by $\mad(G)$, is the maximum of the average degree of all subgraphs of $G$. In this paper, it is proved that if $\mad(G)<4$, then $χ'_a(G)\leq{Δ(G)+2}$; if $\mad(G)<3$, then $χ'_a(G)\leq{Δ(G)+1}$. This implies that every triangle-free planar graph $G$ is acyclically edge $(Δ(G)+2)$-colorable.

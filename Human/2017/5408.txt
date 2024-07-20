@@ -1,0 +1,6 @@
+Deterministic Discrepancy Minimization via the Multiplicative Weight Update Method
+
+A well-known theorem of Spencer shows that any set system with $n$ sets over $n$ elements admits a coloring of discrepancy $O(\sqrt{n})$. While the original proof was non-constructive, recent progress brought polynomial time algorithms by Bansal, Lovett and Meka, and Rothvoss. All those algorithms are randomized, even though Bansal's algorithm admitted a complicated derandomization.
+  We propose an elegant deterministic polynomial time algorithm that is inspired by Lovett-Meka as well as the Multiplicative Weight Update method. The algorithm iteratively updates a fractional coloring while controlling the exponential weights that are assigned to the set constraints.
+  A conjecture by Meka suggests that Spencer's bound can be generalized to symmetric matrices. We prove that $n \times n$ matrices that are block diagonal with block size $q$ admit a coloring of discrepancy $O(\sqrt{n} \cdot \sqrt{\log(q)})$.
+  Bansal, Dadush and Garg recently gave a randomized algorithm to find a vector $x$ with entries in $\lbrace{-1,1\rbrace}$ with $\|Ax\|_{\infty} \leq O(\sqrt{\log n})$ in polynomial time, where $A$ is any matrix whose columns have length at most 1. We show that our method can be used to deterministically obtain such a vector.

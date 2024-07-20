@@ -1,0 +1,3 @@
+Vectorization of Hybrid Breadth First Search on the Intel Xeon Phi
+
+The Breadth-First Search (BFS) algorithm is an important building block for graph analysis of large datasets. The BFS parallelisation has been shown to be challenging because of its inherent characteristics, including irregular memory access patterns, data dependencies and workload imbalance, that limit its scalability. We investigate the optimisation and vectorisation of the hybrid BFS (a combination of top-down and bottom-up approaches for BFS) on the Xeon Phi, which has advanced vector processing capabilities. The results show that our new implementation improves by 33\%, for a one million vertices graph, compared to the state-of-the-art.

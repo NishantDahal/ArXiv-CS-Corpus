@@ -1,0 +1,3 @@
+Bounds on the Bayes Error Given Moments
+
+We show how to compute lower bounds for the supremum Bayes error if the class-conditional distributions must satisfy moment constraints, where the supremum is with respect to the unknown class-conditional distributions. Our approach makes use of Curto and Fialkow's solutions for the truncated moment problem. The lower bound shows that the popular Gaussian assumption is not robust in this regard. We also construct an upper bound for the supremum Bayes error by constraining the decision boundary to be linear.

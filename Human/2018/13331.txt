@@ -1,0 +1,3 @@
+No truthful mechanism can be better than $n$ approximate for two natural problems
+
+This work gives the first natural non-utilitarian problems for which the trivial $n$ approximation via VCG mechanisms is the best possible. That is, no truthful mechanism can be better than $n$ approximate, where $n$ is the number of agents. The problems are the min-max variant of shortest path and (directed) minimum spanning tree mechanism design problems. In these procurement auctions, agents own the edges of a network, and the corresponding edge costs are private. Instead of the total weight of the subnetwork, in the min-max variant we aim to minimize the maximum agent cost.

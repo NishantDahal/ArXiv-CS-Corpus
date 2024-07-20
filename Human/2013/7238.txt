@@ -1,0 +1,3 @@
+On GROUSE and Incremental SVD
+
+GROUSE (Grassmannian Rank-One Update Subspace Estimation) is an incremental algorithm for identifying a subspace of Rn from a sequence of vectors in this subspace, where only a subset of components of each vector is revealed at each iteration. Recent analysis has shown that GROUSE converges locally at an expected linear rate, under certain assumptions. GROUSE has a similar flavor to the incremental singular value decomposition algorithm, which updates the SVD of a matrix following addition of a single column. In this paper, we modify the incremental SVD approach to handle missing data, and demonstrate that this modified approach is equivalent to GROUSE, for a certain choice of an algorithmic parameter.

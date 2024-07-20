@@ -1,0 +1,3 @@
+A Modeling Framework for Gossip-based Information Spread
+
+We present an analytical framework for gossip protocols based on the pairwise information exchange between interacting nodes. This framework allows for studying the impact of protocol parameters on the performance of the protocol. Previously, gossip-based information dissemination protocols have been analyzed under the assumption of perfect, lossless communication channels. We extend our framework for the analysis of networks with lossy channels. We show how the presence of message loss, coupled with specific topology configurations,impacts the expected behavior of the protocol. We validate the obtained models against simulations for two protocols.

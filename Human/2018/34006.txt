@@ -1,0 +1,3 @@
+Robust one-bit compressed sensing with partial circulant matrices
+
+We present optimal sample complexity estimates for one-bit compressed sensing problems in a realistic scenario: the procedure uses a structured matrix (a randomly sub-sampled circulant matrix) and is robust to analog pre-quantization noise as well as to adversarial bit corruptions in the quantization process. Our results imply that quantization is not a statistically expensive procedure in the presence of nontrivial analog noise: recovery requires the same sample size one would have needed had the measurement matrix been Gaussian and the noisy analog measurements been given as data.

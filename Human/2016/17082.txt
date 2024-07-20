@@ -1,0 +1,3 @@
+Cauchy MDS Array Codes With Efficient Decoding Method
+
+Array codes have been widely used in communication and storage systems. To reduce computational complexity, one important property of the array codes is that only XOR operation is used in the encoding and decoding process. In this work, we present a novel family of maximal-distance separable (MDS) array codes based on Cauchy matrix, which can correct up to any number of failures. We also propose an efficient decoding method for the new codes to recover the failures. We show that the encoding/decoding complexities of the proposed approach are lower than those of existing Cauchy MDS array codes, such as Rabin-Like codes and CRS codes. Thus, the proposed MDS array codes are attractive for distributed storage systems.

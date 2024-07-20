@@ -1,0 +1,3 @@
+Network Flow-Based Refinement for Multilevel Hypergraph Partitioning
+
+We present a refinement framework for multilevel hypergraph partitioning that uses max-flow computations on pairs of blocks to improve the solution quality of a $k$-way partition. The framework generalizes the flow-based improvement algorithm of KaFFPa from graphs to hypergraphs and is integrated into the hypergraph partitioner KaHyPar. By reducing the size of hypergraph flow networks, improving the flow model used in KaFFPa, and developing techniques to improve the running time of our algorithm, we obtain a partitioner that computes the best solutions for a wide range of benchmark hypergraphs from different application areas while still having a running time comparable to that of hMetis.

@@ -1,0 +1,3 @@
+Collaboration between SAML Federations and OpenStack Clouds
+
+In this paper, we present the design process of a novel solution for enabling the collaboration between OpenStack cloud systems in SAML federations with standalone attribute authorities, such as national research and education federations or eduGAIN. The software solution that realizes the integration of systems serves as a case study to show how abstract desirable engineering properties fixed at the beginning of the design process can be implemented during the development phase. An analysis of earlier generations of OpenStack-related developments trying to tackle the same problem is given. Many aspects of this software integration can be generalized to serve as a template for federative cloud access.

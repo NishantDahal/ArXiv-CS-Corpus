@@ -1,0 +1,3 @@
+On a linearization technique for solving quadratic set covering problem and variations
+
+In this paper we identify some inaccuracies in the paper by R.R. Saxena and S.R. Arora, A Linearization technique for solving the Quadratic Set Covering Problem, Optimization, 39 (1997) 33-42. In particular, we observe that their algorithm need not guarantee optimality, contrary to what is claimed. Experimental analysis with the algorithm has been carried out to evaluate its merit as a heuristic and compared with CPLEX. The results disclose that for some class of problems the algorithm is reasonably effective while for some other class, it's performance is very poor. we also discussion similar inaccuracies in another related paper.

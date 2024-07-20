@@ -1,0 +1,3 @@
+Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty
+
+We study computational problems for two popular parliamentary voting procedures: the amendment procedure and the successive procedure. While finding successful manipulations or agenda controls is tractable for both procedures, our real-world experimental results indicate that most elections cannot be manipulated by a few voters and agenda control is typically impossible. If the voter preferences are incomplete, then finding which alternatives can possibly win is NP-hard for both procedures. Whilst deciding if an alternative necessarily wins is coNP-hard for the amendment procedure, it is polynomial-time solvable for the successive one.

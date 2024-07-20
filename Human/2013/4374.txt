@@ -1,0 +1,3 @@
+Roborobo! a Fast Robot Simulator for Swarm and Collective Robotics
+
+Roborobo! is a multi-platform, highly portable, robot simulator for large-scale collective robotics experiments. Roborobo! is coded in C++, and follows the KISS guideline ("Keep it simple"). Therefore, its external dependency is solely limited to the widely available SDL library for fast 2D Graphics. Roborobo! is based on a Khepera/ePuck model. It is targeted for fast single and multi-robots simulation, and has already been used in more than a dozen published research mainly concerned with evolutionary swarm robotics, including environment-driven self-adaptation and distributed evolutionary optimization, as well as online onboard embodied evolution and embodied morphogenesis.

@@ -1,0 +1,3 @@
+On Two Conversion Methods of Decimal-to-Binary
+
+Decimal-to-binary conversion is important to modern binary computers. The classical method to solve this problem is based on division operation. In this paper, we investigate a decimal-to-binary conversion method based on addition operation. The method is very easily implemented by software. The cost analysis shows that the latter is more preferable than the classical method. Thus the current Input/Output translation hardware to convert between the internal digit pairs and the external standard BCD codes can be reasonably removed.

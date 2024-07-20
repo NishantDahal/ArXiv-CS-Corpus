@@ -1,0 +1,3 @@
+False shares in verifiable secret sharing with finite field commitments
+
+Verifiable secret sharing (VSS) is designed to allow parties to collaborate to keep secrets. We describe here a method of fabricating false secret shares that appear to other parties to be legitimate, which can prevent assembly of the decryption key. This vulnerability affects VSS schemes using verification commitments bounded to a finite field.

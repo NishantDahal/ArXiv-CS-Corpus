@@ -1,0 +1,3 @@
+Finding Approximate Palindromes in Strings Quickly and Simply
+
+Described are two algorithms to find long approximate palindromes in a string, for example a DNA sequence. A simple algorithm requires O(n)-space and almost always runs in $O(k.n)$-time where n is the length of the string and k is the number of ``errors'' allowed in the palindrome. Its worst-case time-complexity is $O(n^2)$ but this does not occur with real biological sequences. A more complex algorithm guarantees $O(k.n)$ worst-case time complexity.

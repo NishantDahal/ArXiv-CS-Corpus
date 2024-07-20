@@ -1,0 +1,4 @@
+Sum-of-squares hierarchy lower bounds for symmetric formulations
+
+We introduce a method for proving Sum-of-Squares (SoS)/ Lasserre hierarchy lower bounds when the initial problem formulation exhibits a high degree of symmetry. Our main technical theorem allows us to reduce the study of the positive semidefiniteness to the analysis of "well-behaved" univariate polynomial inequalities.
+  We illustrate the technique on two problems, one unconstrained and the other with constraints. More precisely, we give a short elementary proof of Grigoriev/Laurent lower bound for finding the integer cut polytope of the complete graph. We also show that the SoS hierarchy requires a non-constant number of rounds to improve the initial integrality gap of 2 for the Min-Knapsack linear program strengthened with cover inequalities.

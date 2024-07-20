@@ -1,0 +1,3 @@
+CSIT Sharing over Finite Capacity Backhaul for Spatial Interference Alignment
+
+Cellular systems that employ time division duplexing (TDD) transmission are good candidates for implementation of interference alignment (IA) in the downlink since channel reciprocity enables the estimation of the channel state by the base stations (BS) in the uplink phase. However, the interfering BSs need to share their channel estimates via backhaul links of finite capacity. A quantization scheme is proposed which reduces the amount of information exchange (compared to conventional methods) required to achieve IA in a TDD system. The scaling (with the transmit power) of the number of bits to be exchanged between the BSs that is sufficient to preserve the multiplexing gain of IA is derived.

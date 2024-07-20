@@ -1,0 +1,3 @@
+Nash equilibria with partial monitoring; Computation and Lemke-Howson algorithm
+
+In two player bi-matrix games with partial monitoring, actions played are not observed, only some messages are received. Those games satisfy a crucial property of usual bi-matrix games: there are only a finite number of required (mixed) best replies. This is very helpful while investigating sets of Nash equilibria: for instance, in some cases, it allows to relate it to the set of equilibria of some auxiliary game with full monitoring. In the general case, the Lemke-Howson algorithm is extended and, under some genericity assumption, its output are Nash equilibria of the original game. As a by product, we obtain an oddness property on their number.

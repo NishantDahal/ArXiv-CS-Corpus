@@ -1,0 +1,3 @@
+Approximate Weighted Farthest Neighbors and Minimum Dilation Stars
+
+We provide an efficient reduction from the problem of querying approximate multiplicatively weighted farthest neighbors in a metric space to the unweighted problem. Combining our techniques with core-sets for approximate unweighted farthest neighbors, we show how to find (1+epsilon)-approximate farthest neighbors in time O(log n) per query in D-dimensional Euclidean space for any constants D and epsilon. As an application, we find an O(n log n) expected time algorithm for choosing the center of a star topology network connecting a given set of points, so as to approximately minimize the maximum dilation between any pair of points.

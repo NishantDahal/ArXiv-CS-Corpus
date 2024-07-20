@@ -1,0 +1,6 @@
+Circuit complexity and Problem structure in Hamming space
+
+This paper describes about relation between circuit complexity and accept inputs structure in Hamming space by using almost all monotone circuit that emulate deterministic Turing machine (DTM).
+  Circuit family that emulate DTM are almost all monotone circuit family except some NOT-gate which connect input variables (like negation normal form (NNF)). Therefore, we can analyze DTM limitation by using this NNF Circuit family.
+  NNF circuit have symmetry of OR-gate input line, so NNF circuit cannot identify from OR-gate output line which of OR-gate input line is 1. So NNF circuit family cannot compute sandwich structure effectively (Sandwich structure is two accept inputs that sandwich reject inputs in Hamming space). NNF circuit have to use unique AND-gate to identify each different vector of sandwich structure. That is, we can measure problem complexity by counting different vectors.
+  Some decision problem have characteristic in sandwich structure. Different vectors of Negate HornSAT problem are at most constant length because we can delete constant part of each negative literal in Horn clauses by using definite clauses. Therefore, number of these different vector is at most polynomial size. The other hand, we can design high complexity problem with almost perfct nonlinear (APN) function.

@@ -1,0 +1,4 @@
+On Algorithmic Statistics for space-bounded algorithms
+
+Algorithmic statistics studies explanations of observed data that are good in the algorithmic sense: an explanation should be simple i.e. should have small Kolmogorov complexity and capture all the algorithmically discoverable regularities in the data. However this idea can not be used in practice because Kolmogorov complexity is not computable.
+  In this paper we develop algorithmic statistics using space-bounded Kolmogorov complexity. We prove an analogue of one of the main result of `classic' algorithmic statistics (about the connection between optimality and randomness deficiences). The main tool of our proof is the Nisan-Wigderson generator.

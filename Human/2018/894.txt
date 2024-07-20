@@ -1,0 +1,3 @@
+Towards Realistic Threat Modeling: Attack Commodification, Irrelevant Vulnerabilities, and Unrealistic Assumptions
+
+Current threat models typically consider all possible ways an attacker can penetrate a system and assign probabilities to each path according to some metric (e.g. time-to-compromise). In this paper we discuss how this view hinders the realness of both technical (e.g. attack graphs) and strategic (e.g. game theory) approaches of current threat modeling, and propose to steer away by looking more carefully at attack characteristics and attacker environment. We use a toy threat model for ICS attacks to show how a realistic view of attack instances can emerge from a simple analysis of attack phases and attacker limitations.

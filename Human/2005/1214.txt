@@ -1,0 +1,3 @@
+Probabilistic Algorithmic Knowledge
+
+The framework of algorithmic knowledge assumes that agents use deterministic knowledge algorithms to compute the facts they explicitly know. We extend the framework to allow for randomized knowledge algorithms. We then characterize the information provided by a randomized knowledge algorithm when its answers have some probability of being incorrect. We formalize this information in terms of evidence; a randomized knowledge algorithm returning ``Yes'' to a query about a fact φprovides evidence for φbeing true. Finally, we discuss the extent to which this evidence can be used as a basis for decisions.

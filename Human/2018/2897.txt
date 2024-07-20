@@ -1,0 +1,3 @@
+On Finding Dense Common Subgraphs
+
+We study the recently introduced problem of finding dense common subgraphs: Given a sequence of graphs that share the same vertex set, the goal is to find a subset of vertices $S$ that maximizes some aggregate measure of the density of the subgraphs induced by $S$ in each of the given graphs. Different choices for the aggregation function give rise to variants of the problem that were studied recently. We settle many of the questions left open by previous works, showing NP-hardness, hardness of approximation, non-trivial approximation algorithms, and an integrality gap for a natural relaxation.

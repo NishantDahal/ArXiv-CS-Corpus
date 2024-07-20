@@ -1,0 +1,4 @@
+Median-of-k Jumplists and Dangling-Min BSTs
+
+We extend randomized jumplists introduced by Brönnimann et al. (STACS 2003) to choose jump-pointer targets as median of a small sample for better search costs, and present randomized algorithms with expected $O(\log n)$ time complexity that maintain the probability distribution of jump pointers upon insertions and deletions. We analyze the expected costs to search, insert and delete a random element, and we show that omitting jump pointers in small sublists hardly affects search costs, but significantly reduces the memory consumption.
+  We use a bijection between jumplists and "dangling-min BSTs", a variant of (fringe-balanced) binary search trees for the analysis. Despite their similarities, some standard analysis techniques for search trees fail for dangling-min trees (and hence for jumplists).

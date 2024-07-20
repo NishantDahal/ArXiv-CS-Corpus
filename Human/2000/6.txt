@@ -1,0 +1,3 @@
+A Parallel Algorithm for Dilated Contour Extraction from Bilevel Images
+
+We describe a simple, but efficient algorithm for the generation of dilated contours from bilevel images. The initial part of the contour extraction is explained to be a good candidate for parallel computer code generation. The remainder of the algorithm is of linear nature.

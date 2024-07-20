@@ -1,0 +1,3 @@
+Convex Optimization in Julia
+
+This paper describes Convex, a convex optimization modeling framework in Julia. Convex translates problems from a user-friendly functional language into an abstract syntax tree describing the problem. This concise representation of the global structure of the problem allows Convex to infer whether the problem complies with the rules of disciplined convex programming (DCP), and to pass the problem to a suitable solver. These operations are carried out in Julia using multiple dispatch, which dramatically reduces the time required to verify DCP compliance and to parse a problem into conic form. Convex then automatically chooses an appropriate backend solver to solve the conic form problem.

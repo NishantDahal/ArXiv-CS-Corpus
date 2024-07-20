@@ -1,0 +1,3 @@
+Experimental Design for Human-in-the-Loop Driving Simulations
+
+This report describes a new experimental setup for human-in-the-loop simulations. A force feedback simulator with four axis motion has been setup for real-time driving experiments. The simulator will move to simulate the forces a driver feels while driving, which allows for a realistic experience for the driver. This setup allows for flexibility and control for the researcher in a realistic simulation environment. Experiments concerning driver distraction can also be carried out safely in this test bed, in addition to multi-agent experiments. All necessary code to run the simulator, the additional sensors, and the basic processing is available for use.

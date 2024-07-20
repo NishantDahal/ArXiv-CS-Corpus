@@ -1,0 +1,3 @@
+Predicting the sources of an outbreak with a spectral technique
+
+The epidemic spreading of a disease can be described by a contact network whose nodes are persons or centers of contagion and links heterogeneous relations among them. We provide a procedure to identify multiple sources of an outbreak or their closer neighbors. Our methodology is based on a simple spectral technique requiring only the knowledge of the undirected contact graph. The algorithm is tested on a variety of graphs collected from outbreaks including fluency, H5N1, Tbc, in urban and rural areas. Results show that the spectral technique is able to identify the source nodes if the graph approximates a tree sufficiently.

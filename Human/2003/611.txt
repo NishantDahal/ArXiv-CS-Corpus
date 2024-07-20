@@ -1,0 +1,3 @@
+An O(m) Algorithm for Cores Decomposition of Networks
+
+The structure of large networks can be revealed by partitioning them to smaller parts, which are easier to handle. One of such decompositions is based on $k$--cores, proposed in 1983 by Seidman. In the paper an efficient, $O(m)$, $m$ is the number of lines, algorithm for determining the cores decomposition of a given network is presented.

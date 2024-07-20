@@ -1,0 +1,3 @@
+Finite-length scaling based on belief propagation for spatially coupled LDPC codes
+
+The equivalence of peeling decoding (PD) and Belief Propagation (BP) for low-density parity-check (LDPC) codes over the binary erasure channel is analyzed. Modifying the scheduling for PD, it is shown that exactly the same variable nodes (VNs) are resolved in every iteration than with BP. The decrease of erased VNs during the decoding process is analyzed instead of resolvable equations. This quantity can also be derived with density evolution, resulting in a drastic decrease in complexity. Finally, a scaling law using this quantity is established for spatially coupled LDPC codes.

@@ -1,0 +1,3 @@
+Current and voltage based bit errors and their combined mitigation for the Kirchhoff-law-Johnson-noise secure key exchange
+
+We classify and analyze bit errors in the current measurement mode of the Kirchhoff-law-Johnson-noise (KLJN) key distribution. The error probability decays exponentially with increasing bit exchange period and fixed bandwidth, which is similar to the error probability decay in the voltage measurement mode. We also analyze the combination of voltage and current modes for error removal. In this combination method, the error probability is still an exponential function that decays with the duration of the bit exchange period, but it has superior fidelity to the former schemes.

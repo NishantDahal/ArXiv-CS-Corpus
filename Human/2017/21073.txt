@@ -1,0 +1,5 @@
+($k$,$ε$)-Anonymity: $k$-Anonymity with $ε$-Differential Privacy
+
+The explosion in volume and variety of data offers enormous potential for research and commercial use. Increased availability of personal data is of particular interest in enabling highly customised services tuned to individual needs. Preserving the privacy of individuals against reidentification attacks in this fast-moving ecosystem poses significant challenges for a one-size fits all approach to anonymisation.
+  In this paper we present ($k$,$ε$)-anonymisation, an approach that combines the $k$-anonymisation and $ε$-differential privacy models into a single coherent framework, providing privacy guarantees at least as strong as those offered by the individual models. Linking risks of less than 5\% are observed in experimental results, even with modest values of $k$ and $ε$.
+  Our approach is shown to address well-known limitations of $k$-anonymity and $ε$-differential privacy and is validated in an extensive experimental campaign using openly available datasets.

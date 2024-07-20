@@ -1,0 +1,5 @@
+Sums of Palindromes: an Approach via Automata
+
+Recently, Cilleruelo, Luca, & Baxter proved, for all bases b >= 5, that every natural number is the sum of at most 3 natural numbers whose base-b representation is a palindrome. However, the cases b = 2, 3, 4 were left unresolved.
+  We prove, using a decision procedure based on automata, that every natural number is the sum of at most 4 natural numbers whose base-2 representation is a palindrome. Here the constant 4 is optimal. We obtain similar results for bases 3 and 4, thus completely resolving the problem.
+  We consider some other variations on this problem, and prove similar results. We argue that heavily case-based proofs are a good signal that a decision procedure may help to automate the proof.

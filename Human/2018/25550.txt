@@ -1,0 +1,3 @@
+Large Margin Few-Shot Learning
+
+The key issue of few-shot learning is learning to generalize. This paper proposes a large margin principle to improve the generalization capacity of metric based methods for few-shot learning. To realize it, we develop a unified framework to learn a more discriminative metric space by augmenting the classification loss function with a large margin distance loss function for training. Extensive experiments on two state-of-the-art few-shot learning methods, graph neural networks and prototypical networks, show that our method can improve the performance of existing models substantially with very little computational overhead, demonstrating the effectiveness of the large margin principle and the potential of our method.

@@ -1,0 +1,3 @@
+ABCDepth: efficient algorithm for Tukey depth
+
+We present a new algorithm for Tukey (halfspace) depth level sets and its implementation. Given $d$-dimensional data set for any $d\geq 2$, the algorithm is based on representation of level sets as intersections of balls in $R^d$, and can be easily adapted to related depths (Type D, Zuo and Serfling (Ann. Stat. {\bf 28} (2000), 461--482)). The algorithm complexity is $O(dn^2 + n^2\log{n})$ where $n$ is the data set size. Examples with real and synthetic data show that the algorithm is much faster than other implemented algorithms and that it can accept thousands of multidimensional observations, while other algorithms are tested with two-dimensional data or with a couple of hundreds multidimensional observations.

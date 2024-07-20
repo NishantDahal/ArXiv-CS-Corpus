@@ -1,0 +1,3 @@
+GPCG: A Case Study in the Performance and Scalability of Optimization Algorithms
+
+GPCG is an algorithm within the Toolkit for Advanced Optimization (TAO) for solving bound constrained, convex quadratic problems. Originally developed by More' and Toraldo, this algorithm was designed for large-scale problems but had been implemented only for a single processor. The TAO implementation is available for a wide range of high-performance architecture, and has been tested on up to 64 processors to solve problems with over 2.5 million variables.

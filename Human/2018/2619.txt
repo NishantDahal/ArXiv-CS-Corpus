@@ -1,0 +1,3 @@
+Robustness of classifiers to uniform $\ell\_p$ and Gaussian noise
+
+We study the robustness of classifiers to various kinds of random noise models. In particular, we consider noise drawn uniformly from the $\ell\_p$ ball for $p \in [1, \infty]$ and Gaussian noise with an arbitrary covariance matrix. We characterize this robustness to random noise in terms of the distance to the decision boundary of the classifier. This analysis applies to linear classifiers as well as classifiers with locally approximately flat decision boundaries, a condition which is satisfied by state-of-the-art deep neural networks. The predicted robustness is verified experimentally.

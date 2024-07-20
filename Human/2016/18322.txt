@@ -1,0 +1,3 @@
+Designing Sparse Reliable Pose-Graph SLAM: A Graph-Theoretic Approach
+
+In this paper, we aim to design sparse D-optimal (determinantoptimal) pose-graph SLAM problems through the synthesis of sparse graphs with the maximum weighted number of spanning trees. Characterizing graphs with the maximum number of spanning trees is an open problem in general. To tackle this problem, several new theoretical results are established in this paper, including the monotone log-submodularity of the weighted number of spanning trees. By exploiting these structures, we design a complementary pair of near-optimal efficient approximation algorithms with provable guarantees. Our theoretical results are validated using random graphs and a publicly available pose-graph SLAM dataset.

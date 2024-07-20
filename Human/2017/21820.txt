@@ -1,0 +1,3 @@
+Loongson IoT Gateway: A Technical Review
+
+A prototype of Loongson IoT (Internet of Things) ZigBee gateway is already designed and implemented. However, this prototype is not perfect enough because of the lack of a number of functions. And a lot of things should be done to improve this prototype, such as adding widely used IEEE 802.11 function, using a fully open source ZigBee protocol stack to get rid of proprietary implement or using a fully open source embedded operating system to support 6LoWPAN, and implementing multiple interfaces.

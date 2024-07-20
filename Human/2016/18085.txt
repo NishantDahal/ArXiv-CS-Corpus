@@ -1,0 +1,3 @@
+Deep Convolutional Neural Network for 6-DOF Image Localization
+
+We present an accurate and robust method for six degree of freedom image localization. There are two key-points of our method, 1. automatic immense photo synthesis and labeling from point cloud model and, 2. pose estimation with deep convolutional neural networks regression. Our model can directly regresses 6-DOF camera poses from images, accurately describing where and how it was captured. We achieved an accuracy within 1 meters and 1 degree on our out-door dataset, which covers about 2 acres on our school campus.

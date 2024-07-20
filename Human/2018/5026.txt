@@ -1,0 +1,3 @@
+The balanced 2-median and 2-maxian problems on a tree
+
+This paper deals with the facility location problems with balancing on allocation clients to servers. Two bi-objective models are considered, in which one objective is the traditional p-median or p-maxian objective and the second is to minimize the maximum demand volume allocated to any facility. An edge deletion method with time complexity O(n^2) is presented for the balanced $2$-median problem on a tree. For the balanced 2-maxian problem, it is shown the optimal solution is two end vertices of the diameter of the tree, which can be obtained in a linear time.

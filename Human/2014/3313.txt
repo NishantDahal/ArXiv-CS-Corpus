@@ -1,0 +1,3 @@
+Amortised Resource Analysis and Typed Polynomial Interpretations (extended version)
+
+We introduce a novel resource analysis for typed term rewrite systems based on a potential-based type system. This type system gives rise to polynomial bounds on the innermost runtime complexity. We relate the thus obtained amortised resource analysis to polynomial interpretations and obtain the perhaps surprising result that whenever a rewrite system R can be well-typed, then there exists a polynomial interpretation that orients R. For this we adequately adapt the standard notion of polynomial interpretations to the typed setting.

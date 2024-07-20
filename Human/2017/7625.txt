@@ -1,0 +1,3 @@
+Variations of the McEliece Cryptosystem
+
+Two variations of the McEliece cryptosystem are presented. The first one is based on a relaxation of the column permutation in the classical McEliece scrambling process. This is done in such a way that the Hamming weight of the error, added in the encryption process, can be controlled so that efficient decryption remains possible. The second variation is based on the use of spatially coupled moderate-density parity-check codes as secret codes. These codes are known for their excellent error-correction performance and allow for a relatively low key size in the cryptosystem. For both variants the security with respect to known attacks is discussed.

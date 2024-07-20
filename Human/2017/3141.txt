@@ -1,0 +1,3 @@
+A Note on Amortized Branching Program Complexity
+
+In this paper, we show that while almost all functions require exponential size branching programs to compute, for all functions $f$ there is a branching program computing a doubly exponential number of copies of $f$ which has linear size per copy of $f$. This result disproves a conjecture about non-uniform catalytic computation, rules out a certain type of bottleneck argument for proving non-monotone space lower bounds, and can be thought of as a constructive analogue of Razborov's result that submodular complexity measures have maximum value $O(n)$.

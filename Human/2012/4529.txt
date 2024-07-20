@@ -1,0 +1,3 @@
+The Biased Sampling Profit Extraction Auction
+
+We give an auction for downward-closed environments that generalizes the random sampling profit extraction auction for digital goods of Fiat et al. (2002). The mechanism divides the agents in to a market and a sample using a biased coin and attempts to extract the optimal revenue from the sample from the market. The latter step is done with the downward-closed profit extractor of Ha and Hartline (2012). The auction is a 11-approximation to the envyfree benchmark in downward-closed permutation environments. This is an improvement on the previously best known results of 12.5 for matroid and 30.4 for downward-closed permutation environments that are due to Devanur et al. (2012) and Ha and Hartline (2012), respectively.

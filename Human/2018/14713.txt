@@ -1,0 +1,3 @@
+Transfer Learning with Human Corneal Tissues: An Analysis of Optimal Cut-Off Layer
+
+Transfer learning is a powerful tool to adapt trained neural networks to new tasks. Depending on the similarity of the original task to the new task, the selection of the cut-off layer is critical. For medical applications like tissue classification, the last layers of an object classification network might not be optimal. We found that on real data of human corneal tissues the best feature representation can be found in the middle layers of the Inception-v3 and in the rear layers of the VGG-19 architecture.

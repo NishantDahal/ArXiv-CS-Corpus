@@ -1,0 +1,3 @@
+Random matrix over a DVR and LU factorization
+
+Let R be a discrete valuation ring (DVR) and K be its fraction field. If M is a matrix over R admitting a LU decomposition, it could happen that the entries of the factors L and U do not lie in R, but just in K. Having a good control on the valuations of these entries is very important for algorithmic applications. In the paper, we prove that in average these valuations are not too large and explain how one can apply this result to provide an efficient algorithm computing a basis of a coherent sheaf over A^1 from the knowledge of its stalks.

@@ -1,0 +1,3 @@
+Semantic Scene Completion Combining Colour and Depth: preliminary experiments
+
+Semantic scene completion is the task of producing a complete 3D voxel representation of volumetric occupancy with semantic labels for a scene from a single-view observation. We built upon the recent work of Song et al. (CVPR 2017), who proposed SSCnet, a method that performs scene completion and semantic labelling in a single end-to-end 3D convolutional network. SSCnet uses only depth maps as input, even though depth maps are usually obtained from devices that also capture colour information, such as RGBD sensors and stereo cameras. In this work, we investigate the potential of the RGB colour channels to improve SSCnet.

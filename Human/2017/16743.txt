@@ -1,0 +1,3 @@
+Parameterized Complexity of CSP for Infinite Constraint Languages
+
+We study parameterized Constraint Satisfaction Problem for infinite constraint languages. The parameters that we study are weight of the satisfying assignment, number of constraints, maximum number of occurrences of a variable in the instance, and maximum number of occurrences of a variable in each constraint. A dichotomy theorem is already known for finite constraint languages with the weight parameter. We prove some general theorems that show, as new results, that some well-known problems are fixed-parameter tractable and some others are in W[1].

@@ -1,0 +1,3 @@
+High Diversity Attribute Guided Face Generation with GANs
+
+In this work we focused on GAN-based solution for the attribute guided face synthesis. Previous works exploited GANs for generation of photo-realistic face images and did not pay attention to the question of diversity of the resulting images. The proposed solution in its turn introducing novel latent space of unit complex numbers is able to provide the diversity on the "birthday paradox" score 3 times higher than the size of the training dataset. It is important to emphasize that our result is shown on relatively small dataset (20k samples vs 200k) while preserving photo-realistic properties of generated faces on significantly higher resolution (128x128 in comparison to 32x32 of previous works).

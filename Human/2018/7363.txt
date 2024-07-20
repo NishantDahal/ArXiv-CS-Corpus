@@ -1,0 +1,3 @@
+An $O(n\log n)$-Time Algorithm for the k-Center Problem in Trees
+
+We consider a classical k-center problem in trees. Let T be a tree of n vertices and every vertex has a nonnegative weight. The problem is to find k centers on the edges of T such that the maximum weighted distance from all vertices to their closest centers is minimized. Megiddo and Tamir (SIAM J. Comput., 1983) gave an algorithm that can solve the problem in $O(n\log^2 n)$ time by using Cole's parametric search. Since then it has been open for over three decades whether the problem can be solved in $O(n\log n)$ time. In this paper, we present an $O(n\log n)$ time algorithm for the problem and thus settle the open problem affirmatively.

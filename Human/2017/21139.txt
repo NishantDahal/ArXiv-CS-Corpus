@@ -1,0 +1,3 @@
+Simulating Structure-from-Motion
+
+The implementation of a Structure-from-Motion (SfM) pipeline from a synthetically generated scene as well as the investigation of the faithfulness of diverse reconstructions is the subject of this project. A series of different SfM reconstructions are implemented and their camera pose estimations are being contrasted with their respective ground truth locations. Finally, injection of ground truth location data into the rendered images in order to reduce the estimation error of the camera poses is studied as well.

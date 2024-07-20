@@ -1,0 +1,3 @@
+Towards Verifying Nonlinear Integer Arithmetic
+
+We eliminate a key roadblock to efficient verification of nonlinear integer arithmetic using CDCL SAT solvers, by showing how to construct short resolution proofs for many properties of the most widely used multiplier circuits. Such short proofs were conjectured not to exist. More precisely, we give n^{O(1)} size regular resolution proofs for arbitrary degree 2 identities on array, diagonal, and Booth multipliers and quasipolynomial- n^{O(\log n)} size proofs for these identities on Wallace tree multipliers.

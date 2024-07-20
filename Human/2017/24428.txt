@@ -1,0 +1,3 @@
+The Complexity of Computing all Subfields of an Algebraic Number Field
+
+For a finite separable field extension K/k, all subfields can be obtained by intersecting so-called principal subfields of K/k. In this work we present a way to quickly compute these intersections. If the number of subfields is high, then this leads to faster run times and an improved complexity.

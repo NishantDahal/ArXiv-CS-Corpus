@@ -1,0 +1,3 @@
+Regularization approaches for support vector machines with applications to biomedical data
+
+The support vector machine (SVM) is a widely used machine learning tool for classification based on statistical learning theory. Given a set of training data, the SVM finds a hyperplane that separates two different classes of data points by the largest distance. While the standard form of SVM uses L2-norm regularization, other regularization approaches are particularly attractive for biomedical datasets where, for example, sparsity and interpretability of the classifier's coefficient values are highly desired features. Therefore, in this paper we consider different types of regularization approaches for SVMs, and explore them in both synthetic and real biomedical datasets.

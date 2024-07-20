@@ -1,0 +1,3 @@
+Light subgraphs in graphs with average degree at most four
+
+A graph $H$ is said to be {\em light} in a family $\mathfrak{G}$ of graphs if at least one member of $\mathfrak{G}$ contains a copy of $H$ and there exists an integer $λ(H, \mathfrak{G})$ such that each member $G$ of $\mathfrak{G}$ with a copy of $H$ also has a copy $K$ of $H$ such that $°_{G}(v) \leq λ(H, \mathfrak{G})$ for all $v \in V(K)$. In this paper, we study the light graphs in the class of graphs with small average degree, including the plane graphs with some restrictions on girth.

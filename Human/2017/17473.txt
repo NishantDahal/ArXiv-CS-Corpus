@@ -1,0 +1,3 @@
+Reservoir Computing using Stochastic p-Bits
+
+We present a general hardware framework for building networks that directly implement Reservoir Computing, a popular software method for implementing and training Recurrent Neural Networks and are particularly suited for temporal inferencing and pattern recognition. We provide a specific example of a candidate hardware unit based on a combination of soft-magnets, spin-orbit materials and CMOS transistors that can implement these networks. Efficient non von-Neumann hardware implementation of reservoir computers can open up a pathway for integration of temporal Neural Networks in a wide variety of emerging systems such as Internet of Things (IoTs), industrial controls, bio- and photo-sensors, and self-driving automotives.

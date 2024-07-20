@@ -1,0 +1,3 @@
+Experiments of Distance Measurements in a Foliage Plant Retrieval System
+
+One of important components in an image retrieval system is selecting a distance measure to compute rank between two objects. In this paper, several distance measures were researched to implement a foliage plant retrieval system. Sixty kinds of foliage plants with various leaf color and shape were used to test the performance of 7 different kinds of distance measures: city block distance, Euclidean distance, Canberra distance, Bray-Curtis distance, x2 statistics, Jensen Shannon divergence and Kullback Leibler divergence. The results show that city block and Euclidean distance measures gave the best performance among the others.

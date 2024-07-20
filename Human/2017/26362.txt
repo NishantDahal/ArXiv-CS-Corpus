@@ -1,0 +1,3 @@
+Genetic Algorithm with Optimal Recombination for the Asymmetric Travelling Salesman Problem
+
+We propose a new genetic algorithm with optimal recombination for the asymmetric instances of travelling salesman problem. The algorithm incorporates several new features that contribute to its effectiveness: (i) Optimal recombination problem is solved within crossover operator. (ii) A new mutation operator performs a random jump within 3-opt or 4-opt neighborhood. (iii) Greedy constructive heuristic of W.Zhang and 3-opt local search heuristic are used to generate the initial population. A computational experiment on TSPLIB instances shows that the proposed algorithm yields competitive results to other well-known memetic algorithms for asymmetric travelling salesman problem.

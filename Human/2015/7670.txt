@@ -1,0 +1,3 @@
+Overlapping Communities Detection via Measure Space Embedding
+
+We present a new algorithm for community detection. The algorithm uses random walks to embed the graph in a space of measures, after which a modification of $k$-means in that space is applied. The algorithm is therefore fast and easily parallelizable. We evaluate the algorithm on standard random graph benchmarks, including some overlapping community benchmarks, and find its performance to be better or at least as good as previously known algorithms. We also prove a linear time (in number of edges) guarantee for the algorithm on a $p,q$-stochastic block model with $p \geq c\cdot N^{-\frac{1}{2} + ε}$ and $p-q \geq c' \sqrt{p N^{-\frac{1}{2} + ε} \log N}$.

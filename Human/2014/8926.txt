@@ -1,0 +1,3 @@
+Real-time emotion recognition for gaming using deep convolutional network features
+
+The goal of the present study is to explore the application of deep convolutional network features to emotion recognition. Results indicate that they perform similarly to other published models at a best recognition rate of 94.4%, and do so with a single still image rather than a video stream. An implementation of an affective feedback game is also described, where a classifier using these features tracks the facial expressions of a player in real-time.

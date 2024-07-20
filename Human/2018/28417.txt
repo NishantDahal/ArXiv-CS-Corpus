@@ -1,0 +1,3 @@
+Cutting Diamonds: Temporal DLs with Probabilistic Distributions over Data
+
+Recent work has studied a probabilistic extension of the temporal logic LTL that refines the eventuality (or diamond) constructor with a probability distribution on when will this eventuality be satisfied. In this paper, we adapt this notion to a well established temporal extension of DL-Lite, allowing the new probabilistic constructor only in the ABox assertions. We investigate the satisfiability problem of this new temporal DL over equiparametric geometric distributions.

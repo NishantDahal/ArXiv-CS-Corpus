@@ -1,0 +1,3 @@
+Solomonoff Induction Violates Nicod's Criterion
+
+Nicod's criterion states that observing a black raven is evidence for the hypothesis H that all ravens are black. We show that Solomonoff induction does not satisfy Nicod's criterion: there are time steps in which observing black ravens decreases the belief in H. Moreover, while observing any computable infinite string compatible with H, the belief in H decreases infinitely often when using the unnormalized Solomonoff prior, but only finitely often when using the normalized Solomonoff prior. We argue that the fault is not with Solomonoff induction; instead we should reject Nicod's criterion.

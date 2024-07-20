@@ -1,0 +1,3 @@
+Minimal Support Vector Machine
+
+Support Vector Machine (SVM) is an efficient classification approach, which finds a hyperplane to separate data from different classes. This hyperplane is determined by support vectors. In existing SVM formulations, the objective function uses L2 norm or L1 norm on slack variables. The number of support vectors is a measure of generalization errors. In this work, we propose a Minimal SVM, which uses L0.5 norm on slack variables. The result model further reduces the number of support vectors and increases the classification performance.

@@ -1,0 +1,3 @@
+Partially perfect hash functions for intersecting families
+
+Consider a large network with unknown number of nodes. Some of these nodes coordinate to perform tasks. The number of such coordination groups is also unknown. The only information about the network available is that any two coordinating groups share at least $t$ nodes. To complete a particular task in a day, at least $p$ nodes of the corresponding coordinating group must get different time slots out of the $r$ available slots per day. Is there a way of estimating the number of days required such that every coordinating group gets at least one day where it can complete the task? As it turns out, this problem is a special case of \textit{partially} perfect hash functions for intersecting families.

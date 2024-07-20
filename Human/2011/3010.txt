@@ -1,0 +1,3 @@
+Efficient implementation of the overlap operator on multi-GPUs
+
+Lattice QCD calculations were one of the first applications to show the potential of GPUs in the area of high performance computing. Our interest is to find ways to effectively use GPUs for lattice calculations using the overlap operator. The large memory footprint of these codes requires the use of multiple GPUs in parallel. In this paper we show the methods we used to implement this operator efficiently. We run our codes both on a GPU cluster and a CPU cluster with similar interconnects. We find that to match performance the CPU cluster requires 20-30 times more CPU cores than GPUs.

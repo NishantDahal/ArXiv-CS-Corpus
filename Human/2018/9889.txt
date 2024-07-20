@@ -1,0 +1,3 @@
+On the Complexity of the Weighted Fused Lasso
+
+The solution path of the 1D fused lasso for an $n$-dimensional input is piecewise linear with $\mathcal{O}(n)$ segments (Hoefling et al. 2010 and Tibshirani et al 2011). However, existing proofs of this bound do not hold for the weighted fused lasso. At the same time, results for the generalized lasso, of which the weighted fused lasso is a special case, allow $Ω(3^n)$ segments (Mairal et al. 2012). In this paper, we prove that the number of segments in the solution path of the weighted fused lasso is $\mathcal{O}(n^2)$, and that, for some instances, it is $Ω(n^2)$. We also give a new, very simple, proof of the $\mathcal{O}(n)$ bound for the fused lasso.

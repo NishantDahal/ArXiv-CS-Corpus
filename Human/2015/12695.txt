@@ -1,0 +1,3 @@
+Integral Approximations for Coverage Probability
+
+This letter gives approximations to an integral appearing in the formula for downlink coverage probability of a typical user in Poisson point process (PPP) based stochastic geometry frameworks of the form $\int_0^\infty \exp\{ - (Ax + B x^{α/2}) \} \ud x$. Four different approximations are studied. For systems that are interference-limited or noise-limited, conditions are identified when the approximations are valid. For intermediate cases, we recommend the use of Laplace approximation. Numerical results validate the accuracy of the approximations.

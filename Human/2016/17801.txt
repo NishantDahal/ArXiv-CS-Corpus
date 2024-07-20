@@ -1,0 +1,3 @@
+CIFAR-10: KNN-based Ensemble of Classifiers
+
+In this paper, we study the performance of different classifiers on the CIFAR-10 dataset, and build an ensemble of classifiers to reach a better performance. We show that, on CIFAR-10, K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN), on some classes, are mutually exclusive, thus yield in higher accuracy when combined. We reduce KNN overfitting using Principal Component Analysis (PCA), and ensemble it with a CNN to increase its accuracy. Our approach improves our best CNN model from 93.33% to 94.03%.

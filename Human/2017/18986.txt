@@ -1,0 +1,4 @@
+Using Session Types for Reasoning About Boundedness in the Pi-Calculus
+
+The classes of depth-bounded and name-bounded processes are fragments of the pi-calculus for which some of the decision problems that are undecidable for the full calculus become decidable. P is depth-bounded at level k if every reduction sequence for P contains successor processes with at most k active nested restrictions. P is name-bounded at level k if every reduction sequence for P contains successor processes with at most k active bound names. Membership of these classes of processes is undecidable. In this paper we use binary session types to decise two type systems that give a sound characterization of the properties: If a process is well-typed in our first system, it is depth-bounded. If a process is well-typed in our second, more restrictive type system, it will also be name-bounded.
+

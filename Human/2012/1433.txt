@@ -1,0 +1,3 @@
+Robust approachability and regret minimization in games with partial monitoring
+
+Approachability has become a standard tool in analyzing earning algorithms in the adversarial online learning setup. We develop a variant of approachability for games where there is ambiguity in the obtained reward that belongs to a set, rather than being a single vector. Using this variant we tackle the problem of approachability in games with partial monitoring and develop simple and efficient algorithms (i.e., with constant per-step complexity) for this setup. We finally consider external regret and internal regret in repeated games with partial monitoring and derive regret-minimizing strategies based on approachability theory.

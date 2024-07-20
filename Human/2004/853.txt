@@ -1,0 +1,3 @@
+A Framework for Creating Natural Language User Interfaces for Action-Based Applications
+
+In this paper we present a framework for creating natural language interfaces to action-based applications. Our framework uses a number of reusable application-independent components, in order to reduce the effort of creating a natural language interface for a given application. Using a type-logical grammar, we first translate natural language sentences into expressions in an extended higher-order logic. These expressions can be seen as executable specifications corresponding to the original sentences. The executable specifications are then interpreted by invoking appropriate procedures provided by the application for which a natural language interface is being created.

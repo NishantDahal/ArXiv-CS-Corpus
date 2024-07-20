@@ -1,0 +1,4 @@
+A study on load-balanced variants of the bin packing problem
+
+We consider several extensions of the fractional bin packing problem, a relaxation of the traditional bin packing problem where the objects may be split across multiple bins. In these extensions, we introduce load-balancing constraints imposing that the share of each object which is assigned to a same bin must be equal. We propose a Mixed-Integer Programming (MIP) formulation and show that the problem becomes NP-hard if we limit to at most 3 the number of bins across which each object can be split.
+  We then consider a variant where the balanced allocations of objects to bins may be done in successive rounds; this problem was inspired by telecommunication applications, and may be used to model simple Live Streaming networks. We show that two rounds are always sufficient to completely assign all objects to the bins and then provide an optimal polynomial-time allocation algorithm for this problem.

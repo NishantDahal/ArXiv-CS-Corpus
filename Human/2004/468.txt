@@ -1,0 +1,3 @@
+Insertion Sort is O(n log n)
+
+Traditional Insertion Sort runs in O(n^2) time because each insertion takes O(n) time. When people run Insertion Sort in the physical world, they leave gaps between items to accelerate insertions. Gaps help in computers as well. This paper shows that Gapped Insertion Sort has insertion times of O(log n) with high probability, yielding a total running time of O(n log n) with high probability.

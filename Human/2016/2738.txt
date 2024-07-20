@@ -1,0 +1,3 @@
+Convergence Time of Quantized Metropolis Consensus Over Time-Varying Networks
+
+We consider the quantized consensus problem on undirected time-varying connected graphs with n nodes, and devise a protocol with fast convergence time to the set of consensus points. Specifically, we show that when the edges of each network in a sequence of connected time-varying networks are activated based on Poisson processes with Metropolis rates, the expected convergence time to the set of consensus points is at most O(n^2 log^2 n), where each node performs a constant number of updates per unit time.

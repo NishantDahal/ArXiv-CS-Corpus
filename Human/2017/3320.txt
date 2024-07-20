@@ -1,0 +1,3 @@
+Polynomial Time Algorithm for $2$-Stable Clustering Instances
+
+Clustering with most objective functions is NP-Hard, even to approximate well in the worst case. Recently, there has been work on exploring different notions of stability which lend structure to the problem. The notion of stability, $α$-perturbation resilience, that we study in this paper was originally introduced by Bilu et al.~\cite{Bilu10}. The works of Awasthi et al~\cite{Awasthi12} and Balcan et al.~\cite{Balcan12} provide a polynomial time algorithm for $3$-stable and $(1+\sqrt{2})$-stable instances respectively. This paper provides a polynomial time algorithm for $2$-stable instances, improving on and answering an open question in ~\cite{Balcan12}.

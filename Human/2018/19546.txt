@@ -1,0 +1,6 @@
+High-resolution computer meshes of the lower body bones of an adult human female derived from CT images
+
+Background Computer-based geometrical meshes of bones are important for applications in computational biomechanics as well as clinical software. There is however a lack of freely available detailed bone meshes, especially related to the human female morphology.
+  Methods & Results We provide high resolution bone meshes of the lower body, derived from CT images of a 59 year old female cadaver that were sourced from the Visible Human Data Set, Visible Human Project (NIH, USA). Important bone landmarks and joint rotation axes are identified from the extracted meshes. A script-based framework is developed to provide a graphical user interface that can visualize, resample and modify the meshes to fit different subject scales.
+  Conclusion This open-data resource fills a gap in available data and is provided for free usage in research and other applications. The associated scripts allows users to easily transform the meshes to different laboratory and software setups. This resource may be accessed through the following web link: https://github.com/manishsreenivasa/BMFToolkit
+  This document is the author's version of this article.

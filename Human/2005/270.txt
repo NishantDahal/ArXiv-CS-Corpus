@@ -1,0 +1,3 @@
+Tight Lower Bounds for Query Processing on Streaming and External Memory Data
+
+We study a clean machine model for external memory and stream processing. We show that the number of scans of the external data induces a strict hierarchy (as long as work space is sufficiently small, e.g., polylogarithmic in the size of the input). We also show that neither joins nor sorting are feasible if the product of the number $r(n)$ of scans of the external memory and the size $s(n)$ of the internal memory buffers is sufficiently small, e.g., of size $o(\sqrt[5]{n})$. We also establish tight bounds for the complexity of XPath evaluation and filtering.

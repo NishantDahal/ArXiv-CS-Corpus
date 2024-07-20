@@ -1,0 +1,3 @@
+Automatic Music Accompanist
+
+Automatic musical accompaniment is where a human musician is accompanied by a computer musician. The computer musician is able to produce musical accompaniment that relates musically to the human performance. The accompaniment should follow the performance using observations of the notes they are playing. This paper describes a complete and detailed construction of a score following and accompanying system using Hidden Markov Models (HMMs). It details how to train a score HMM, how to deal with polyphonic input, how this HMM work when following score, how to build up a musical accompanist. It proposes a new parallel hidden Markov model for score following and a fast decoding algorithm to deal with performance errors.

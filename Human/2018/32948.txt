@@ -1,0 +1,3 @@
+An Efficient Approximation Algorithm for the Steiner Tree Problem
+
+The Steiner tree problem is one of the classic and most fundamental $\mathcal{NP}$-hard problems: given an arbitrary weighted graph, seek a minimum-cost tree spanning a given subset of the vertices (terminals). Byrka \emph{et al}. proposed a $1.3863+ε$-approximation algorithm in which the linear program is solved at every iteration after contracting a component. Goemans \emph{et al}. shown that it is possible to achieve the same approximation guarantee while only solving hypergraphic LP relaxation once. However, optimizing hypergraphic LP relaxation exactly is strongly NP-hard. This article presents an efficient two-phase heuristic in greedy strategy that achieves an approximation ratio of $1.4295$.

@@ -1,0 +1,3 @@
+A Proof System with Names for Modal Mu-calculus
+
+Fixpoints are an important ingredient in semantics, abstract interpretation and program logics. Their addition to a logic can add considerable expressive power. One general  issue is how to define  proof systems for such logics. Here we examine proof systems for modal logic with fixpoints. We  present a  tableau proof system for checking validity of formulas  which uses names to keep track of unfoldings of fixpoint variables  as devised by Jungteerapanich.

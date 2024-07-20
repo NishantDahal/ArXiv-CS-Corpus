@@ -1,0 +1,3 @@
+On the Chen Conjecture regarding the complexity of QCSPs
+
+Let A be an idempotent algebra on a finite domain. We combine results of Chen 2008 and Zhuk 2015 to argue that if Inv(A) satisfies the polynomially generated powers property (PGP), then QCSP(Inv(A)) is in NP. We then use the result of Zhuk to prove a converse, that if Inv(A) satisfies the exponentially generated powers property (EGP), then QCSP(Inv(A)) is co-NP-hard. Since Zhuk proved that only PGP and EGP are possible, we derive a full dichotomy for the QCSP, justifying the moral correctness of what we term the Chen Conjecture.

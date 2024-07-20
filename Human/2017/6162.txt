@@ -1,0 +1,3 @@
+An efficient data structure for counting all linear extensions of a poset, calculating its jump number, and the likes
+
+Achieving the goals in the title (and others) relies on a cardinality-wise scanning of the ideals of the poset. Specifically, the relevant numbers attached to the k+1 element ideals are inferred from the corresponding numbers of the k-element (order) ideals. Crucial in all of this is a compressed representation (using wildcards) of the ideal lattice. The whole scheme invites distributed computation.

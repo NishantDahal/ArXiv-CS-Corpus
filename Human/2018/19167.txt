@@ -1,0 +1,3 @@
+Well-Scaling Procedure for Deciding Gammoid Class-Membership of Matroids
+
+We introduce a procedure that solves the decision problem whether a given matroid M is a gammoid. The procedure consists of three pieces: First, we introduce a notion of a valid matroid tableau which captures the current state of knowledge regarding the properties of matroids related to the matroid under consideration. Second, we give a sufficient set of rules that may be used to generate valid matroid tableaux. Third, we introduce a succession of steps that ultimately lead to a decisive tableau starting with any valid tableau. We argue that the decision problem scales well with respect to parallel computation models.

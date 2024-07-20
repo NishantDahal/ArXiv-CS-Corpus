@@ -1,0 +1,3 @@
+d-Separation: From Theorems to Algorithms
+
+An efficient algorithm is developed that identifies all independencies implied by the topology of a Bayesian network.  Its correctness and maximality stems from the soundness and completeness of d-separation with respect to probability theory.  The algorithm runs in time O (l E l) where E is the number of edges in the network.

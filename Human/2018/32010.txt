@@ -1,0 +1,3 @@
+User-Directed Loop-Transformations in Clang
+
+Directives for the compiler such as pragmas can help programmers to separate an algorithm's semantics from its optimization. This keeps the code understandable and easier to optimize for different platforms. Simple transformations such as loop unrolling are already implemented in most mainstream compilers. We recently submitted a proposal to add generalized loop transformations to the OpenMP standard. We are also working on an implementation in LLVM/Clang/Polly to show its feasibility and usefulness. The current prototype allows applying patterns common to matrix-matrix multiplication optimizations.

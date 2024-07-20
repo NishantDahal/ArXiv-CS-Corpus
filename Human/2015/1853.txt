@@ -1,0 +1,3 @@
+FRAME: Fast and Realistic Attacker Modeling and Evaluation for Temporal Logical Correlation in Static Noise
+
+We propose a method called Fast and Realistic Attacker Modeling and Evaluation (FRAME) that can reduce pessimism in static noise analysis by exploiting temporal logical correlation of attackers and using novel techniques termed envelopes and $σ$ functions. Unlike conventional pruning-based approaches, FRAME efficiently considers all relevant attackers, thereby producing more realistic results. FRAME was tested with complex industrial design and successfully reduced the pessimism of conventional techniques by 30.4% on average, with little computational overhead.

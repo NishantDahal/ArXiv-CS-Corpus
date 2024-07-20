@@ -1,0 +1,3 @@
+On the Construction of Polar Codes for Channels with Moderate Input Alphabet Sizes
+
+Current deterministic algorithms for the construction of polar codes can only be argued to be practical for channels with small input alphabet sizes. In this paper, we show that any construction algorithm for channels with moderate input alphabet size which follows the paradigm of "degrading after each polarization step" will inherently be impractical with respect to a certain "hard" underlying channel. This result also sheds light on why the construction of LDPC codes using density evolution is impractical for channels with moderate sized input alphabets.

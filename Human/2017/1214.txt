@@ -1,0 +1,3 @@
+Advice Complexity of the Online Search Problem
+
+The online search problem is a fundamental problem in finance. The numerous direct applications include searching for optimal prices for commodity trading and trading foreign currencies. In this paper, we analyze the advice complexity of this problem. In particular, we are interested in identifying the minimum amount of information needed in order to achieve a certain competitive ratio. We design an algorithm that reads b bits of advice and achieves a competitive ratio of (M/m)^(1/(2^b+1)) where M and m are the maximum and minimum price in the input. We also give a matching lower bound. Furthermore, we compare the power of advice and randomization for this problem.

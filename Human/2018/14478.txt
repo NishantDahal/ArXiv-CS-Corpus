@@ -1,0 +1,3 @@
+Autoencoders for Multi-Label Prostate MR Segmentation
+
+Organ image segmentation can be improved by implementing prior knowledge about the anatomy. One way of doing this is by training an autoencoder to learn a lowdimensional representation of the segmentation. In this paper, this is applied in multi-label prostate MR segmentation, with some positive results.

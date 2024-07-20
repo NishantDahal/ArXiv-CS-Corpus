@@ -1,0 +1,5 @@
+The complexity of downward closure comparisons
+
+The downward closure of a language is the set of all (not necessarily contiguous) subwords of its members. It is well-known that the downward closure of every language is regular. Moreover, recent results show that downward closures are computable for quite powerful system models.
+  One advantage of abstracting a language by its downward closure is that then equivalence and inclusion become decidable. In this work, we study the complexity of these two problems. More precisely, we consider the following decision problems: Given languages $K$ and $L$ from classes $\mathcal{C}$ and $\mathcal{D}$, respectively, does the downward closure of $K$ include (equal) that of $L$?
+  These problems are investigated for finite automata, one-counter automata, context-free grammars, and reversal-bounded counter automata. For each combination, we prove a completeness result either for fixed or for arbitrary alphabets. Moreover, for Petri net languages, we show that both problems are Ackermann-hard and for higher-order pushdown automata of order~$k$, we prove hardness for complements of nondeterministic $k$-fold exponential time.

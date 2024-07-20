@@ -1,0 +1,3 @@
+Auction Algorithm for Production Models
+
+We show an auction-based algorithm to compute market equilibrium prices in a production model, where consumers purchase items under separable nonlinear utility concave functions which satisfy W.G.S(Weak Gross Substitutes); producers produce items with multiple linear production constraints. Our algorithm differs from previous approaches in that the prices are allowed to both increase and decrease to handle changes in the production. This provides a t^atonnement style algorithm which converges and provides a PTAS. The algorithm can also be extended to arbitrary convex production regions and the Arrow-Debreu model. The convergence is dependent on the behavior of the marginal utility of the concave function.

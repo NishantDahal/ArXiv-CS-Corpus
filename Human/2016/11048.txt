@@ -1,0 +1,3 @@
+Decomposing 8-regular graphs into paths of length 4
+
+A $T$-decomposition of a graph $G$ is a set of edge-disjoint copies of $T$ in $G$ that cover the edge set of $G$. Graham and Häggkvist (1989) conjectured that any $2\ell$-regular graph $G$ admits a $T$-decomposition if $T$ is a tree with $\ell$ edges. Kouider and Lonc (1999) conjectured that, in the special case where $T$ is the path with $\ell$ edges, $G$ admits a $T$-decomposition $\mathcal{D}$ where every vertex of $G$ is the end-vertex of exactly two paths of $\mathcal{D}$, and proved that this statement holds when $G$ has girth at least $(\ell+3)/2$. In this paper we verify Kouider and Lonc's Conjecture for paths of length $4$.

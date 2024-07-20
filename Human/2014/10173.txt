@@ -1,0 +1,3 @@
+Semantifying Twitter: the influenceTracker ontology
+
+In this paper, we propose an ontology schema towards semantification provision of Twitter social analytics. The ontology is deployed over a publicly available service that measures how influential a Twitter account is, by combining its social activity and interaction over Twittersphere. Apart from influential quantity and quality measures, the service provides a SPARQL endpoint where users can perform advance semantic queries through the RDFized Twitter entities (mentions, replies, hashtags, photos, URLs) over the semantic graph.

@@ -1,0 +1,3 @@
+Transparent Format Migration of Preserved Web Content
+
+The LOCKSS digital preservation system collects content by crawling the web and preserves it in the format supplied by the publisher. Eventually, browsers will no longer understand that format. A process called format migration converts it to a newer format that the browsers do understand. The LOCKSS program has designed and tested an initial implementation of format migration for Web content that is transparent to readers, building on the content negotiation capabilities of HTTP.

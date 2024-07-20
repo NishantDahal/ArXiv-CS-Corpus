@@ -1,0 +1,3 @@
+Fault Tolerant Consensus Agreement Algorithm
+
+Recently a new fault tolerant and simple mechanism was designed for solving commit consensus problem. It is based on replicated validation of messages sent between transaction participants and a special dispatcher validator manager node. This paper presents a correctness, safety proofs and performance analysis of this algorithm.

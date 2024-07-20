@@ -1,0 +1,3 @@
+SOS-based Modal Decomposition on Nondeterministic Probabilistic Processes
+
+We propose a method for the decomposition of modal formulae on processes with nondeterminism and probability with respect to Structural Operational Semantics. The purpose is to reduce the satisfaction problem of a formula for a process to verifying whether its subprocesses satisfy certain formulae obtained from the decomposition. To deal with the probabilistic behavior of processes, and thus with the decomposition of formulae characterizing it, we introduce a SOS-like machinery allowing for the specification of the behavior of open distribution terms. By our decomposition, we obtain (pre)congruence formats for probabilistic bisimilarity, ready similarity and similarity.

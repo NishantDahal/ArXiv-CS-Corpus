@@ -1,0 +1,7 @@
+Dynamic DFS Tree in Undirected Graphs: breaking the $O(m)$ barrier
+
+Depth first search (DFS) tree is a fundamental data structure for solving various problems in graphs. It is well known that it takes $O(m+n)$ time to build a DFS tree for a given undirected graph $G=(V,E)$ on $n$ vertices and $m$ edges. We address the problem of maintaining a DFS tree when the graph is undergoing {\em updates} (insertion and deletion of vertices or edges). We present the following results for this problem.
+  (a) Fault tolerant DFS tree: There exists a data structure of size ${O}(m ~polylog~ n)$ such that given any set ${\cal F}$ of failed vertices or edges, a DFS tree of the graph $G\setminus {\cal F}$ can be reported in ${O}(n|{\cal F}| ~polylog~ n)$ time.
+  (b) Fully dynamic DFS tree: There exists a fully dynamic algorithm for maintaining a DFS tree that takes worst case ${O}(\sqrt{mn} ~polylog~ n)$ time per update for any arbitrary online sequence of updates.
+  (c) Incremental DFS tree: Given any arbitrary online sequence of edge insertions, we can maintain a DFS tree in ${O}(n ~polylog~ n)$ worst case time per edge insertion.
+  These are the first $o(m)$ worst case time results for maintaining a DFS tree in a dynamic environment. Moreover, our fully dynamic algorithm provides, in a seamless manner, the first deterministic algorithm with $O(1)$ query time and $o(m)$ worst case update time for the dynamic subgraph connectivity, biconnectivity, and 2-edge connectivity.

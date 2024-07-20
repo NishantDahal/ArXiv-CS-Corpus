@@ -1,0 +1,3 @@
+Covariance estimation using conjugate gradient for 3D classification in Cryo-EM
+
+Classifying structural variability in noisy projections of biological macromolecules is a central problem in Cryo-EM. In this work, we build on a previous method for estimating the covariance matrix of the three-dimensional structure present in the molecules being imaged. Our proposed method allows for incorporation of contrast transfer function and non-uniform distribution of viewing angles, making it more suitable for real-world data. We evaluate its performance on a synthetic dataset and an experimental dataset obtained by imaging a 70S ribosome complex.

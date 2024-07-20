@@ -1,0 +1,3 @@
+Optimal Polygonal Representation of Planar Graphs
+
+In this paper, we consider the problem of representing graphs by polygons whose sides touch. We show that at least six sides per polygon are necessary by constructing a class of planar graphs that cannot be represented by pentagons. We also show that the lower bound of six sides is matched by an upper bound of six sides with a linear-time algorithm for representing any planar graph by touching hexagons. Moreover, our algorithm produces convex polygons with edges having at most three slopes and with all vertices lying on an O(n)xO(n) grid.

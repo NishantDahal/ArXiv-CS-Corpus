@@ -1,0 +1,3 @@
+Evolutionary Algorithm for Drug Discovery Interim Design Report
+
+A software program which aims to provide an exploration capability over the Search Space of potential drug molecules. The program explores the search space by generating random molecules, determining their fitness and then breeding a new generation from the fittest individuals. The search space, in theory any combination of any elements in any order, is constrained by the use of a subset of elements and a list of fragments, molecular parts that are known to be useful in drug development. The resultant molecules from each generation are stored in a searchable database, so that the user can browse through previous generations looking for interesting molecules.

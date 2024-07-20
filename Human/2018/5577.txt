@@ -1,0 +1,5 @@
+Embedding graphs into two-dimensional simplicial complexes
+
+We consider the problem of deciding whether an input graph G admits a topological embedding into a two-dimensional simplicial complex C. This problem includes, among others, the embeddability problem of a graph on a surface and the topological crossing number of a graph, but is more general.
+  The problem is NP-complete when C is part of the input, and we give a polynomial-time algorithm if the complex C is fixed.
+  Our strategy is to reduce the problem to an embedding extension problem on a surface, which has the following form: Given a subgraph H' of a graph G', and an embedding of H' on a surface S, can that embedding be extended to an embedding of G' on S? Such problems can be solved, in turn, using a key component in Mohar's algorithm to decide the embeddability of a graph on a fixed surface (STOC 1996, SIAM J. Discr. Math. 1999).

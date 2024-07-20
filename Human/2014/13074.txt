@@ -1,0 +1,3 @@
+Optimal one-dimensional coverage by unreliable sensors
+
+This paper regards the problem of optimally placing unreliable sensors in a one-dimensional environment. We assume that sensors can fail with a certain probability and we minimize the expected maximum distance from any point in the environment to the closest active sensor. We provide a computational method to find the optimal placement and we estimate the relative quality of equispaced and random placements. We prove that the former is asymptotically equivalent to the optimal placement when the number of sensors goes to infinity, with a cost ratio converging to 1, while the cost of the latter remains strictly larger.

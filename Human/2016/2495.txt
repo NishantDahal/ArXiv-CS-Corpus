@@ -1,0 +1,7 @@
+k-Means for Streaming and Distributed Big Sparse Data
+
+We provide the first streaming algorithm for computing a provable approximation to the $k$-means of sparse Big data. Here, sparse Big Data is a set of $n$ vectors in $\mathbb{R}^d$, where each vector has $O(1)$ non-zeroes entries, and $d\geq n$. E.g., adjacency matrix of a graph, web-links, social network, document-terms, or image-features matrices.
+  Our streaming algorithm stores at most $\log n\cdot k^{O(1)}$ input points in memory. If the stream is distributed among $M$ machines, the running time reduces by a factor of $M$, while communicating a total of $M\cdot k^{O(1)}$ (sparse) input points between the machines.
+  % Our main technical result is a deterministic algorithm for computing a sparse $(k,ε)$-coreset, which is a weighted subset of $k^{O(1)}$ input points that approximates the sum of squared distances from the $n$ input points to every $k$ centers, up to $(1\pmε)$ factor, for any given constant $ε>0$. This is the first such coreset of size independent of both $d$ and $n$.
+  Existing algorithms use coresets of size at least polynomial in $d$, or project the input points on a subspace which diminishes their sparsity, thus require memory and communication $Ω(d)=Ω(n)$ even for $k=2$.
+  Experimental results real public datasets shows that our algorithm boost the performance of such given heuristics even in the off-line setting. Open code is provided for reproducibility.

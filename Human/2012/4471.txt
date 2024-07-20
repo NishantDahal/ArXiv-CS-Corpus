@@ -1,0 +1,3 @@
+Accuracy Bounds for Belief Propagation
+
+The belief propagation (BP) algorithm is widely applied to perform approximate inference on arbitrary graphical models, in part due to its excellent empirical properties and performance. However, little is known theoretically about when this algorithm will perform well. Using recent analysis of convergence and stability properties in BP and new results on approximations in binary systems, we derive a bound on the error in BP's estimates for pairwise Markov random fields over discrete valued random variables. Our bound is relatively simple to compute, and compares favorably with a previous method of bounding the accuracy of BP.

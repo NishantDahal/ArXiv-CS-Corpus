@@ -1,0 +1,3 @@
+Public-Key Cryptography Based on Modular Lattices
+
+We present an approach to generalization of practical Identity-Based Encryption scheme of Boneh and Franklin. In particular we show how the protocol could be used on finite modular lattices and as a special case on vector spaces over finite field. The original proof of security for this protocol does not hold in this general algebraic structure, thus this is still a work in progress.

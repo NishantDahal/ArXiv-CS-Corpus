@@ -1,0 +1,6 @@
+A Non-Technical Survey on Deep Convolutional Neural Network Architectures
+
+Artificial neural networks have recently shown great results in many disciplines and a variety of applications, including natural language understanding, speech processing, games and image data generation. One particular application in which the strong performance of artificial neural networks was demonstrated is the recognition of objects in images, where deep convolutional neural networks are commonly applied. In this survey, we give a comprehensive introduction to this topic (object recognition with deep convolutional neural networks), with a strong focus on the evolution of network architectures. Therefore, we aim to compress the most important concepts in this field in a simple and non-technical manner to allow for future researchers to have a quick general understanding.
+  This work is structured as follows:
+  1. We will explain the basic ideas of (convolutional) neural networks and deep learning and examine their usage for three object recognition tasks: image classification, object localization and object detection.
+  2. We give a review on the evolution of deep convolutional neural networks by providing an extensive overview of the most important network architectures presented in chronological order of their appearances.

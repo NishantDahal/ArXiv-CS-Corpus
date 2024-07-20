@@ -1,0 +1,4 @@
+A uniform approach to constraint-solving for lists, multisets, compact lists, and sets
+
+Lists, multisets, and sets are well-known data structures whose usefulness is widely recognized in various areas of Computer Science. These data structures have been analyzed from an axiomatic point of view with a parametric approach in (*) where the relevant unification algorithms have been developed. In this paper we extend these results considering more general constraints including not only equality but also membership constraints as well as their negative counterparts.
+  (*) A. Dovier, A. Policriti, and G. Rossi. A uniform axiomatic view of lists, multisets, and sets, and the relevant unification algorithms. Fundamenta Informaticae, 36(2/3):201--234, 1998.

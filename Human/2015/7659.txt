@@ -1,0 +1,3 @@
+An $O(n\log(n))$ Algorithm for Projecting Onto the Ordered Weighted $\ell_1$ Norm Ball
+
+The ordered weighted $\ell_1$ (OWL) norm is a newly developed generalization of the Octogonal Shrinkage and Clustering Algorithm for Regression (OSCAR) norm. This norm has desirable statistical properties and can be used to perform simultaneous clustering and regression. In this paper, we show how to compute the projection of an $n$-dimensional vector onto the OWL norm ball in $O(n\log(n))$ operations. In addition, we illustrate the performance of our algorithm on a synthetic regression test.

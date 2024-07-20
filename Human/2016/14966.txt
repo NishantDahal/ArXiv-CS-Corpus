@@ -1,0 +1,4 @@
+Iterative Scaling Algorithm for Channels
+
+Here we define a procedure for evaluating KL-projections (I- and rI-projections) of channels. These can be useful in the decomposition of mutual information between input and outputs, e.g. to quantify synergies and interactions of different orders, as well as information integration and other related measures of complexity.
+  The algorithm is a generalization of the standard iterative scaling algorithm, which we here extend from probability distributions to channels (also known as transition kernels).

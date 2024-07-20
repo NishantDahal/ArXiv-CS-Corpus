@@ -1,0 +1,3 @@
+Policy-Carrying, Policy-Enforcing Digital Objects
+
+We describe the motivation for moving policy enforcement for access control down to the digital object level. The reasons for this include handling of item-specific behaviors, adapting to evolution of digital objects, and permitting objects to move among repositories and portable devices. We then describe our experiments that integrate the Fedora architecture for digital objects and repositories and the PoET implementation of security automata to effect such objectcentric policy enforcement.

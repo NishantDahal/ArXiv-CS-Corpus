@@ -1,0 +1,3 @@
+A Look at the Time Delays in CVSS Vulnerability Scoring
+
+This empirical paper examines the time delays that occur between the publication of Common Vulnerabilities and Exposures (CVEs) in the National Vulnerability Database (NVD) and the Common Vulnerability Scoring System (CVSS) information attached to published CVEs. According to the empirical results based on regularized regression analysis of over eighty thousand archived vulnerabilities, (i) the CVSS content does not statistically influence the time delays, which, however, (ii) are strongly affected by a decreasing annual trend. In addition to these results, the paper contributes to the empirical research tradition of software vulnerabilities by a couple of insights on misuses of statistical methodology.

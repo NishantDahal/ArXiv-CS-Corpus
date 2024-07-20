@@ -1,0 +1,3 @@
+Predicate Generation for Learning-Based Quantifier-Free Loop Invariant Inference
+
+We address the predicate generation problem in the context of loop invariant inference. Motivated by the interpolation-based abstraction refinement technique, we apply the interpolation theorem to synthesize predicates implicitly implied by program texts. Our technique is able to improve the effectiveness and efficiency of the learning-based loop invariant inference algorithm in [14]. We report experiment results of examples from Linux, SPEC2000, and Tar utility. 

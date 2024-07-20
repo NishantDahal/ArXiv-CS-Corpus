@@ -1,0 +1,3 @@
+Sparse tensor recovery via N-mode FISTA with support augmentation
+
+A common approach for performing sparse tensor recovery is to use an N-mode FISTA method. However, this approach may fail in some cases by missing some values in the true support of the tensor and compensating by erroneously assigning nearby values to the support. This work proposes a four-stage method for performing sparse tensor reconstruction that addresses a case where N-mode FISTA may fail by augmenting the support set. Moreover, the proposed method preserves a Tucker-like structure throughout computations for computational efficiency. Numerical results on synthetic data demonstrate that the proposed method produces results with similar or higher accuracy than N-mode FISTA, and is often faster.

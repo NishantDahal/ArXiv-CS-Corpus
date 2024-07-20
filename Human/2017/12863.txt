@@ -1,0 +1,3 @@
+Self-organized Hierarchical Softmax
+
+We propose a new self-organizing hierarchical softmax formulation for neural-network-based language models over large vocabularies. Instead of using a predefined hierarchical structure, our approach is capable of learning word clusters with clear syntactical and semantic meaning during the language model training process. We provide experiments on standard benchmarks for language modeling and sentence compression tasks. We find that this approach is as fast as other efficient softmax approximations, while achieving comparable or even better performance relative to similar full softmax models.

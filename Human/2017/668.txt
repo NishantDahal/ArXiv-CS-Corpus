@@ -1,0 +1,3 @@
+Secret sharing schemes based on additive codes over $GF(4)$
+
+A secret sharing scheme (SSS) was introduced by Shamir in 1979 using polynomial interpolation. Later it turned out that it is equivalent to an SSS based on a Reed-Solomon code. SSSs based on linear codes have been studied by many researchers. However there is little research on SSSs based on additive codes. In this paper, we study SSSs based on additive codes over $GF(4)$ and show that they require at least two steps of calculations to reveal the secret. We also define minimal access structures of SSSs from additive codes over $GF(4)$ and describe SSSs using some interesting additive codes over $GF(4)$ which contain generalized 2-designs.

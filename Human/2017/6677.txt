@@ -1,0 +1,3 @@
+A Simple Randomized Algorithm to Compute Harmonic Numbers and Logarithms
+
+Given a list of N numbers, the maximum can be computed in N iterations. During these N iterations, the maximum gets updated on average as many times as the Nth harmonic number. We first use this fact to approximate the Nth harmonic number as a side effect. Further, using the fact the Nth harmonic number is equal to the natural logarithm of N plus a constant that goes to zero with N, we approximate the natural logarithm from the harmonic number. To improve accuracy, we repeat the computation over many lists of uniformly generated random numbers. The algorithm is easily extended to approximate logarithms with integer bases or rational arguments.

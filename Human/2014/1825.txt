@@ -1,0 +1,3 @@
+Squeezing bottlenecks: exploring the limits of autoencoder semantic representation capabilities
+
+We present a comprehensive study on the use of autoencoders for modelling text data, in which (differently from previous studies) we focus our attention on the following issues: i) we explore the suitability of two different models bDA and rsDA for constructing deep autoencoders for text data at the sentence level; ii) we propose and evaluate two novel metrics for better assessing the text-reconstruction capabilities of autoencoders; and iii) we propose an automatic method to find the critical bottleneck dimensionality for text language representations (below which structural information is lost).

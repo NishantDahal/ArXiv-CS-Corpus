@@ -1,0 +1,3 @@
+A Flow Model of Neural Networks
+
+Based on a natural connection between ResNet and transport equation or its characteristic equation, we propose a continuous flow model for both ResNet and plain net. Through this continuous model, a ResNet can be explicitly constructed as a refinement of a plain net. The flow model provides an alternative perspective to understand phenomena in deep neural networks, such as why it is necessary and sufficient to use 2-layer blocks in ResNets, why deeper is better, and why ResNets are even deeper, and so on. It also opens a gate to bring in more tools from the huge area of differential equations.

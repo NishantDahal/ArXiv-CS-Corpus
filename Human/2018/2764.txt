@@ -1,0 +1,3 @@
+Higher-Dimensional Timed Automata
+
+We introduce a new formalism of higher-dimensional timed automata, based on van Glabbeek's higher-dimensional automata and Alur's timed automata. We prove that their reachability is PSPACE-complete and can be decided using zone-based algorithms. We also show how to use tensor products to combat state-space explosion and how to extend the setting to higher-dimensional hybrid automata.

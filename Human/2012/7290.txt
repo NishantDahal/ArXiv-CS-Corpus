@@ -1,0 +1,3 @@
+Refinability of splines from lattice Voronoi cells
+
+Splines can be constructed by convolving the indicator function of the Voronoi cell of a lattice. This paper presents simple criteria that imply that only a small subset of such spline families can be refined: essentially the well-known box splines and tensor-product splines. Among the many non-refinable constructions are hex-splines and their generalization to non-Cartesian lattices. An example shows how non-refinable splines can exhibit increased approximation error upon refinement of the lattice.

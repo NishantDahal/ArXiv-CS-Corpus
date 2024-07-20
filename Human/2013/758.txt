@@ -1,0 +1,3 @@
+The forest consensus theorem
+
+We show that the limiting state vector in the differential model of consensus seeking with an arbitrary communication digraph is obtained by multiplying the eigenprojection of the Laplacian matrix of the model by the vector of initial states. Furthermore, the eigenprojection coincides with the stochastic matrix of maximum out-forests of the weighted communication digraph. These statements make the forests consensus theorem. A similar result for DeGroot's iterative pooling model requires the Cesaro (time-average) limit in the general case. The forests consensus theorem is useful for the analysis of consensus protocols.

@@ -1,0 +1,3 @@
+Tell Me Something New: A New Framework for Asynchronous Parallel Learning
+
+We present a novel approach for parallel computation in the context of machine learning that we call "Tell Me Something New" (TMSN). This approach involves a set of independent workers that use broadcast to update each other when they observe "something new". TMSN does not require synchronization or a head node and is highly resilient against failing machines or laggards. We demonstrate the utility of TMSN by applying it to learning boosted trees. We show that our implementation is 10 times faster than XGBoost and LightGBM on the splice-site prediction problem.

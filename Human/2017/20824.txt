@@ -1,0 +1,3 @@
+Network of Recurrent Neural Networks
+
+We describe a class of systems theory based neural networks called "Network Of Recurrent neural networks" (NOR), which introduces a new structure level to RNN related models. In NOR, RNNs are viewed as the high-level neurons and are used to build the high-level layers. More specifically, we propose several methodologies to design different NOR topologies according to the theory of system evolution. Then we carry experiments on three different tasks to evaluate our implementations. Experimental results show our models outperform simple RNN remarkably under the same number of parameters, and sometimes achieve even better results than GRU and LSTM.

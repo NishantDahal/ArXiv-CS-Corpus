@@ -1,0 +1,3 @@
+An Improved Algorithm for E-Generalization
+
+E-generalization computes common generalizations of given ground terms w.r.t. a given equational background theory E. In 2005 [arXiv:1403.8118], we had presented a computation approach based on standard regular tree grammar algorithms, and a Prolog prototype implementation. In this report, we present algorithmic improvements, prove them correct and complete, and give some details of an efficiency-oriented implementation in C that allows us to handle problems larger by several orders of magnitude.

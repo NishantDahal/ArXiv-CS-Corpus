@@ -1,0 +1,5 @@
+Semilinearity and Context-Freeness of Languages Accepted by Valence Automata
+
+Valence automata are a generalization of various models of automata with storage. Here, each edge carries, in addition to an input word, an element of a monoid. A computation is considered valid if multiplying the monoid elements on the visited edges yields the identity element. By choosing suitable monoids, a variety of automata models can be obtained as special valence automata.
+  This work is concerned with the accepting power of valence automata. Specifically, we ask for which monoids valence automata can accept only context-free languages or only languages with semilinear Parikh image, respectively.
+  First, we present a characterization of those graph products (of monoids) for which valence automata accept only context-free languages. Second, we provide a necessary and sufficient condition for a graph product of copies of the bicyclic monoid and the integers to yield only languages with semilinear Parikh image when used as a storage mechanism in valence automata. Third, we show that all languages accepted by valence automata over torsion groups have a semilinear Parikh image.

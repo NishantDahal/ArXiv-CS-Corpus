@@ -1,0 +1,3 @@
+Pouring Sequence Prediction using Recurrent Neural Network
+
+Human does their daily activity and cooking by teaching and imitating with the help of their vision and understanding of the difference between materials. Teaching a robot to do coking and daily work is difficult because of variation in environment, handling objects at different states etc. Pouring is a simple human daily life activity. In this paper, an approach to get pouring sequences were analyzed for determining the velocity of pouring and weight of the container. Then recurrent neural network (RNN) was used to build a neural network to learn that complex sequence and predict for unseen pouring sequences. Dynamic time warping (DTW) was used to evaluate the prediction performance of the trained model.

@@ -1,0 +1,3 @@
+Predicting the time-evolution of multi-physics systems with sequence-to-sequence models
+
+In this work, sequence-to-sequence (seq2seq) models, originally developed for language translation, are used to predict the temporal evolution of complex, multi-physics computer simulations. The predictive performance of seq2seq models is compared to state transition models for datasets generated with multi-physics codes with varying levels of complexity - from simple 1D diffusion calculations to simulations of inertial confinement fusion implosions. Seq2seq models demonstrate the ability to accurately emulate complex systems, enabling the rapid estimation of the evolution of quantities of interest in computationally expensive simulations.

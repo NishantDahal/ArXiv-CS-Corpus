@@ -1,0 +1,3 @@
+Polymorphic Types in ACL2
+
+This paper describes a tool suite for the ACL2 programming language which incorporates certain ideas from the Hindley-Milner paradigm of functional programming (as exemplified in popular languages like ML and Haskell), including a "typed" style of programming with the ability to define polymorphic types. These ideas are introduced via macros into the language of ACL2, taking advantage of ACL2's guard-checking mechanism to perform type checking on both function definitions and theorems. Finally, we discuss how these macros were used to implement features of Specware, a software specification and implementation system.

@@ -1,0 +1,3 @@
+A probabilistic framework for handwritten text line segmentation
+
+We successfully combine Expectation-Maximization algorithm and variational approaches for parameter learning and computing inference on Markov random felds. This is a general method that can be applied to many computer vision tasks. In this paper, we apply it to handwritten text line segmentation. We conduct several experiments that demonstrate that our method deal with common issues of this task, such as complex document layout or non-latin scripts. The obtained results prove that our method achieve state-of-the-art performance on different benchmark datasets without any particular fine tuning step.

@@ -1,0 +1,3 @@
+Learn Physics by Programming in Haskell
+
+We describe a method for deepening a student's understanding of basic physics by asking the student to express physical ideas in a functional programming language. The method is implemented in a second-year course in computational physics at Lebanon Valley College. We argue that the structure of Newtonian mechanics is clarified by its expression in a language (Haskell) that supports higher-order functions, types, and type classes. In electromagnetic theory, the type signatures of functions that calculate electric and magnetic fields clearly express the functional dependency on the charge and current distributions that produce the fields. Many of the ideas in basic physics are well-captured by a type or a function.

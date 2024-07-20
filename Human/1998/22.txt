@@ -1,0 +1,3 @@
+Parsing Inside-Out
+
+The inside-outside probabilities are typically used for reestimating Probabilistic Context Free Grammars (PCFGs), just as the forward-backward probabilities are typically used for reestimating HMMs. I show several novel uses, including improving parser accuracy by matching parsing algorithms to evaluation criteria; speeding up DOP parsing by 500 times; and 30 times faster PCFG thresholding at a given accuracy level. I also give an elegant, state-of-the-art grammar formalism, which can be used to compute inside-outside probabilities; and a parser description formalism, which makes it easy to derive inside-outside formulas and many others.

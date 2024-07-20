@@ -1,0 +1,3 @@
+An Initial Study on Ideal GUI Test Case Replayability
+
+In this paper we investigate the effect of long-term GUI changes occurring during application development on the reusability of existing GUI test cases. We conduct an empirical evaluation on two complex, open-source GUI-driven applications for which we generate test cases of various lengths. We then assess the replayability of generated test cases using simulation on newer versions of the target applications and partition them according to the type of repairing change required for their reuse.

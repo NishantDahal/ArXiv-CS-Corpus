@@ -1,0 +1,3 @@
+Performance Analysis of a System with Bursty Traffic and Adjustable Transmission Times
+
+In this work, we consider the case where a source with bursty traffic can adjust the transmission duration in order to increase the reliability. The source is equipped with a queue in order to store the arriving packets. We model the system with a discrete time Markov Chain, and we characterize the performance in terms of service probability and average delay per packet. The accuracy of the theoretical results is validated through simulations. This work serves as an initial step in order to provide a framework for systems with arbitrary arrivals and variable transmission durations and it can be utilized for the derivation of the delay distribution and the delay violation probability.

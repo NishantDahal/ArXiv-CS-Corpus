@@ -1,0 +1,3 @@
+Optimally Gathering Two Robots
+
+We present an algorithm that ensures in finite time the gathering of two robots in the non-rigid ASYNC model. To circumvent established impossibility results, we assume robots are equipped with 2-colors lights and are able to measure distances between one another. Aside from its light, a robot has no memory of its past actions, and its protocol is deterministic. Since, in the same model, gathering is impossible when lights have a single color, our solution is optimal with respect to the number of used colors.

@@ -1,0 +1,3 @@
+A Non-Local Means Filter for Removing the Poisson Noise
+
+A new image denoising algorithm to deal with the Poisson noise model is given, which is based on the idea of Non-Local Mean. By using the "Oracle" concept, we establish a theorem to show that the Non-Local Means Filter can effectively deal with Poisson noise with some modification. Under the theoretical result, we construct our new algorithm called Non-Local Means Poisson Filter and demonstrate in theory that the filter converges at the usual optimal rate. The filter is as simple as the classic Non-Local Means and the simulation results show that our filter is very competitive.

@@ -1,0 +1,5 @@
+Dispersion processes
+
+We study a synchronous dispersion process in which $M$ particles are initially placed at a distinguished origin vertex of a graph $G$. At each time step, at each vertex $v$ occupied by more than one particle at the beginning of this step, each of these particles moves to a neighbour of $v$ chosen independently and uniformly at random. The dispersion process ends once the particles have all stopped moving, i.e. at the first step at which each vertex is occupied by at most one particle.
+  For the complete graph $K_n$ and star graph $S_n$, we show that for any constant $δ>1$, with high probability, if $M \le n/2(1-δ)$, then the process finishes in $O(\log n)$ steps, whereas if $M \ge n/2(1+δ)$, then the process needs $e^{Ω(n)}$ steps to complete (if ever). We also show that an analogous lazy variant of the process exhibits the same behaviour but for higher thresholds, allowing faster dispersion of more particles.
+  For paths, trees, grids, hypercubes and Cayley graphs of large enough sizes (in terms of $M$) we give bounds on the time to finish and the maximum distance traveled from the origin as a function of the number of particles $M$.

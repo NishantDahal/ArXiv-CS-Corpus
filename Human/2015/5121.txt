@@ -1,0 +1,4 @@
+Team Selection For Prediction Tasks
+
+Given a random variable $O \in \mathbb{R}$ and a set of experts $E$, we describe a method for finding a subset of experts $S \subseteq E$ whose aggregated opinion best predicts the outcome of $O$. Therefore, the problem can be regarded as a team formation for performing a prediction task. We show that in case of aggregating experts' opinions by simple averaging, finding the best team (the team with the lowest total error during past $k$ turns) can be modeled with an integer quadratic programming and we prove its NP-hardness whereas its relaxation is solvable in polynomial time. Finally, we do an experimental comparison between different rounding and greedy heuristics and show that our suggested tabu search works effectively.
+  Keywords: Team Selection, Information Aggregation, Opinion Pooling, Quadratic Programming, NP-Hard

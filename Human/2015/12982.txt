@@ -1,0 +1,3 @@
+Noise robust integration for blind and non-blind reverberation time estimation
+
+The estimation of the decay rate of a signal section is an integral component of both blind and non-blind reverberation time estimation methods. Several decay rate estimators have previously been proposed, based on, e.g., linear regression and maximum-likelihood estimation. Unfortunately, most approaches are sensitive to background noise, and/or are fairly demanding in terms of computational complexity. This paper presents a low complexity decay rate estimator, robust to stationary noise, for reverberation time estimation. Simulations using artificial signals, and experiments with speech in ventilation noise, demonstrate the performance and noise robustness of the proposed method.

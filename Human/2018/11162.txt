@@ -1,0 +1,3 @@
+Area-preserving parameterizations for spherical ellipses
+
+We present new methods for uniformly sampling the solid angle subtended by a disk. To achieve this, we devise two novel area-preserving mappings from the unit square $[0,1]^2$ to a spherical ellipse (i.e. the projection of the disk onto the unit sphere). These mappings allow for low-variance stratified sampling of direct illumination from disk-shaped light sources. We discuss how to efficiently incorporate our methods into a production renderer and demonstrate the quality of our maps, showing significantly lower variance than previous work.

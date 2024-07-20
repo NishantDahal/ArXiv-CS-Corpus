@@ -1,0 +1,3 @@
+A Covert Channel Based on Web Read-time Modulation
+
+A network covert channel is created that operates by modulating the time between web resource accesses, with an 'average web user' read-time used as a reference. While the covert channel may be classified as timing based, it does not operate by changing deterministic protocol attributes such as inter-packet delay, as do most timing based network covert channels. Instead, our channel communicates by modulating transaction level read-time, which in the web browsing case has significant non-deterministic components. The channel is thus immune to methods typically used to detect timing based network covert channels.

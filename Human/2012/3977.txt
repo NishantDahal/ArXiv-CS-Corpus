@@ -1,0 +1,3 @@
+Background subtraction based on Local Shape
+
+We present a novel approach to background subtraction that is based on the local shape of small image regions. In our approach, an image region centered on a pixel is mod-eled using the local self-similarity descriptor. We aim at obtaining a reliable change detection based on local shape change in an image when foreground objects are moving. The method first builds a background model and compares the local self-similarities between the background model and the subsequent frames to distinguish background and foreground objects. Post-processing is then used to refine the boundaries of moving objects. Results show that this approach is promising as the foregrounds obtained are com-plete, although they often include shadows.

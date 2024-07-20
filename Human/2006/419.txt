@@ -1,0 +1,5 @@
+Unbiased Matrix Rounding
+
+We show several ways to round a real matrix to an integer one such that the rounding errors in all rows and columns as well as the whole matrix are less than one. This is a classical problem with applications in many fields, in particular, statistics.
+  We improve earlier solutions of different authors in two ways. For rounding matrices of size $m \times n$, we reduce the runtime from $O((m n)^2 Second, our roundings also have a rounding error of less than one in all initial intervals of rows and columns. Consequently, arbitrary intervals have an error of at most two. This is particularly useful in the statistics application of controlled rounding.
+  The same result can be obtained via (dependent) randomized rounding. This has the additional advantage that the rounding is unbiased, that is, for all entries $y_{ij}$ of our rounding, we have $E(y_{ij}) = x_{ij}$, where $x_{ij}$ is the corresponding entry of the input matrix.

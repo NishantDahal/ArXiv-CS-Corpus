@@ -1,0 +1,4 @@
+Approximating set multi-covers
+
+Johnson and Lovász and Stein proved independently that any hypergraph satisfies $τ\leq (1+\ln Δ)τ^{\ast}$, where $τ$ is the transversal number, $τ^{\ast}$ is its fractional version, and $Δ$ denotes the maximum degree. We prove $τ_f\leq c τ^{\ast}\max\{\ln Δ, f\}$ for the $f$-fold transversal number $τ_f$. Similarly to Johnson, Lovász and Stein, we also show that this bound can be achieved non-probabilistically, using a greedy algorithm.
+  As a combinatorial application, we prove an estimate on how fast $τ_f/f$ converges to $τ^{\ast}$. As a geometric application, we obtain an upper bound on the minimal density of an $f$-fold covering of the $d$-dimensional Euclidean space by translates of any convex body.

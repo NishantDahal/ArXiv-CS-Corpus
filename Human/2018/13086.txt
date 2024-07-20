@@ -1,0 +1,3 @@
+Massive UAV-to-Ground Communication and its Stable Movement Control: A Mean-Field Approach
+
+This paper proposes a real-time movement control algorithm for massive unmanned aerial vehicles (UAVs) that provide emergency cellular connections in an urban disaster site. While avoiding the inter-UAV collision under temporal wind dynamics, the proposed algorithm minimizes each UAV's energy consumption per unit downlink rate. By means of a mean-field game theoretic flocking approach, the velocity control of each UAV only requires its own location and channel states. Numerical results validate the performance of the algorithm in terms of the number of collisions and energy consumption per data rate, under a realistic 3GPP UAV channel model.

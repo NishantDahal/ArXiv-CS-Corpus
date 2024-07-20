@@ -1,0 +1,3 @@
+Optimal Average Satisfaction and Extended Justified Representation in Polynomial Time
+
+In this short note, we describe an approval-based committee selection rule that admits a polynomial-time algorithm and satisfies the Extended Justified Representation (EJR) axiom. This rule is based on approximately maximizing the PAV score, by means of local search. Our proof strategy is to show that this rule provides almost optimal average satisfaction to all cohesive groups of voters, and that high average satisfaction for cohesive groups implies extended justified representation.

@@ -1,0 +1,3 @@
+Compression of animated 3D models using HO-SVD
+
+This work presents an analysis of Higher Order Singular Value Decomposition (HO-SVD) applied to lossy compression of 3D mesh animations. We describe strategies for choosing a number of preserved spatial and temporal components after tensor decomposition. Compression error is measured using three metrics (MSE, Hausdorff, MSDM). Results are compared with a method based on Principal Component Analysis (PCA) and presented on a set of animations with typical mesh deformations.

@@ -1,0 +1,3 @@
+A rational decentralized generalized Nash equilibrium seeking for energy markets
+
+We propose a method to design a decentralized energy market which guarantees individual rationality (IR) in expectation, in the presence of system-level grid constraints. We formulate the market as a welfare maximization problem subject to IR constraints, and we make use of Lagrangian duality to model the problem as a n-person non-cooperative game with a unique generalized Nash equilibrium (GNE). We provide a distributed algorithm which converges to the GNE. The convergence and properties of the algorithm are investigated by means of numerical simulations.

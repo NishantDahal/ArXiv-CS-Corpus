@@ -1,0 +1,3 @@
+Intrinsic Universality of Causal Graph Dynamics
+
+Causal graph dynamics are transformations over graphs that capture two important symmetries of physics, namely causality and homogeneity. They can be equivalently defined as continuous and translation invariant transformations or functions induced by a local rule applied simultaneously on every vertex of the graph. Intrinsic universality is the ability of an instance of a model to simulate every other instance of the model while preserving the structure of the computation at every step of the simulation. In this work we present the construction of a family of intrinsically universal instances of causal graphs dynamics, each instance being able to simulate a subset of instances.

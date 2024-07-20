@@ -1,0 +1,3 @@
+Chance-Constrained Outage Scheduling using a Machine Learning Proxy
+
+Outage scheduling aims at defining, over a horizon of several months to years, when different components needing maintenance should be taken out of operation. Its objective is to minimize operation-cost expectation while satisfying reliability-related constraints. We propose a distributed scenario-based chance-constrained optimization formulation for this problem. To tackle tractability issues arising in large networks, we use machine learning to build a proxy for predicting outcomes of power system operation processes in this context. On the IEEE-RTS79 and IEEE-RTS96 networks, our solution obtains cheaper and more reliable plans than other candidates.

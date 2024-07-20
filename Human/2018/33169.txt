@@ -1,0 +1,5 @@
+Koji: Automating pipelines with mixed-semantics data sources
+
+We propose a new result-oriented semantic for defining data processing workflows that manipulate data in different semantic forms (files or services) in a unified manner. This approach enables users to define workflows for a vast variety of reproducible data-processing tasks in a simple declarative manner which focuses on application-level results, while automating all control-plane considerations (like failure recovery without loss of progress and computation reuse) behind the scenes.
+  The uniform treatment of files and services as data enables easy integration with existing data sources (e.g. data acquisition APIs) and sinks of data (e.g. database services). Whereas the focus on containers as transformations enables reuse of existing data-processing systems.
+  We describe a declarative configuration mechanism, which can be viewed as an intermediate representation (IR) of reproducible data processing pipelines in the same spirit as, for instance, TensorFlow\cite{tensorflow} and ONNX\cite{onnx} utilize IRs for defining tensor-processing pipelines.

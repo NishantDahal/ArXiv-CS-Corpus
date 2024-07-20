@@ -1,0 +1,3 @@
+Robust Anomaly Detection Using Semidefinite Programming
+
+This paper presents a new approach, based on polynomial optimization and the method of moments, to the problem of anomaly detection. The proposed technique only requires information about the statistical moments of the normal-state distribution of the features of interest and compares favorably with existing approaches (such as Parzen windows and 1-class SVM). In addition, it provides a succinct description of the normal state. Thus, it leads to a substantial simplification of the the anomaly detection problem when working with higher dimensional datasets.

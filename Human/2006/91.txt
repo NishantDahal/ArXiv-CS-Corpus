@@ -1,0 +1,3 @@
+Lighting Control using Pressure-Sensitive Touchpads
+
+We introduce a novel approach to control physical lighting parameters by means of a pressure-sensitive touchpad. The two-dimensional area of the touchpad is subdivided into 5 virtual sliders, each controlling the intensity of a color (red, green, blue, yellow, and white). The physical interaction methodology is modeled directly after ubiquitous mechanical sliders and dimmers which tend to be used for intensity/volume control. Our abstraction to a pressure-sensitive touchpad provides advantages and introduces additional benefits over such existing devices.

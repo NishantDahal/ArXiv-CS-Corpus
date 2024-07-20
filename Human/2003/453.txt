@@ -1,0 +1,3 @@
+Management of Grid Jobs and Information within SAMGrid
+
+We describe some of the key aspects of the SAMGrid system, used by the D0 and CDF experiments at Fermilab. Having sustained success of the data handling part of SAMGrid, we have developed new services for job and information services. Our job management is rooted in \CondorG and uses enhancements that are general applicability for HEP grids. Our information system is based on a uniform framework for configuration management based on XML data representation and processing.

@@ -1,0 +1,3 @@
+Production-Driven Patch Generation
+
+We present an original concept for patch generation: we propose to do it directly in production. Our idea is to generate patches on-the-fly based on automated analysis of the failure context. By doing this in production, the repair process has complete access to the system state at the point of failure. We propose to perform live regression testing of the generated patches directly on the production traffic, by feeding a sandboxed version of the application with a copy of the production traffic, the 'shadow traffic'. Our concept widens the applicability of program repair, because it removes the requirements of having a failing test case.

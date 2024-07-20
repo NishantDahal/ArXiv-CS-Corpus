@@ -1,0 +1,3 @@
+Persistence pays off: Paying Attention to What the LSTM Gating Mechanism Persists
+
+Language Models (LMs) are important components in several Natural Language Processing systems. Recurrent Neural Network LMs composed of LSTM units, especially those augmented with an external memory, have achieved state-of-the-art results. However, these models still struggle to process long sequences which are more likely to contain long-distance dependencies because of information fading and a bias towards more recent information. In this paper we demonstrate an effective mechanism for retrieving information in a memory augmented LSTM LM based on attending to information in memory in proportion to the number of timesteps the LSTM gating mechanism persisted the information.

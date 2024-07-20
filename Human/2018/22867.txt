@@ -1,0 +1,3 @@
+Deterministic Interpolation of Sparse Black-box Multivariate Polynomials using Kronecker Type Substitutions
+
+In this paper, we propose two new deterministic interpolation algorithms for a sparse multivariate polynomial given as a standard black-box by introducing new Kronecker type substitutions. Let $f\in \RB[x_1,\dots,x_n]$ be a sparse black-box polynomial with a degree bound $D$. When $\RB=\C$ or a finite field, our algorithms either have better bit complexity or better bit complexity in $D$ than existing deterministic algorithms. In particular, in the case of deterministic algorithms for standard black-box models, our second algorithm has the current best complexity in $D$ which is the dominant factor in the complexity.

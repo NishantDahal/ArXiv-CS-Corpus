@@ -1,0 +1,3 @@
+Poor starting points in machine learning
+
+Poor (even random) starting points for learning/training/optimization are common in machine learning. In many settings, the method of Robbins and Monro (online stochastic gradient descent) is known to be optimal for good starting points, but may not be optimal for poor starting points -- indeed, for poor starting points Nesterov acceleration can help during the initial iterations, even though Nesterov methods not designed for stochastic approximation could hurt during later iterations. The common practice of training with nontrivial minibatches enhances the advantage of Nesterov acceleration.

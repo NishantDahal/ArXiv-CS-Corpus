@@ -1,0 +1,3 @@
+Simple2Complex: Global Optimization by Gradient Descent
+
+A method named simple2complex for modeling and training deep neural networks is proposed. Simple2complex train deep neural networks by smoothly adding more and more layers to the shallow networks, as the learning procedure going on, the network is just like growing. Compared with learning by end2end, simple2complex is with less possibility trapping into local minimal, namely, owning ability for global optimization. Cifar10 is used for verifying the superiority of simple2complex.

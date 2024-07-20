@@ -1,0 +1,3 @@
+Shannon's sampling theorem in a distributional setting
+
+The classical Shannon sampling theorem states that a signal f with Fourier transform F in L^2(R) having its support contained in (-π,π) can be recovered from the sequence of samples (f(n))_{n in Z} via f(t)=\sum_{n in Z} f(n) (sin(π(t -n)))/(π(t-n)) (t in R). In this article we prove a generalization of this result under the assumption that F is a compactly supported distribution with its support contained in (-π,π).

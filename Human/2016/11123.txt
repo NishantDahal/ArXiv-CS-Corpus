@@ -1,0 +1,3 @@
+Query Answering with Transitive and Linear-Ordered Data
+
+We consider entailment problems involving powerful constraint languages such as guarded existential rules, in which additional semantic restrictions are put on a set of distinguished relations. We consider restricting a relation to be transitive, restricting a relation to be the transitive closure of another relation, and restricting a relation to be a linear order. We give some natural generalizations of guardedness that allow inference to be decidable in each case, and isolate the complexity of the corresponding decision problems. Finally we show that slight changes in our conditions lead to undecidability.

@@ -1,0 +1,3 @@
+Multi-layer Relation Networks
+
+Relational Networks (RN) as introduced by Santoro et al. (2017) have demonstrated strong relational reasoning capabilities with a rather shallow architecture. Its single-layer design, however, only considers pairs of information objects, making it unsuitable for problems requiring reasoning across a higher number of facts. To overcome this limitation, we propose a multi-layer relation network architecture which enables successive refinements of relational information through multiple layers. We show that the increased depth allows for more complex relational reasoning by applying it to the bAbI 20 QA dataset, solving all 20 tasks with joint training and surpassing the state-of-the-art results.

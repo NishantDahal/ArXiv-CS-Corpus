@@ -1,0 +1,3 @@
+Estimating speech from lip dynamics
+
+The goal of this project is to develop a limited lip reading algorithm for a subset of the English language. We consider a scenario in which no audio information is available. The raw video is processed and the position of the lips in each frame is extracted. We then prepare the lip data for processing and classify the lips into visemes and phonemes. Hidden Markov Models are used to predict the words the speaker is saying based on the sequences of classified phonemes and visemes. The GRID audiovisual sentence corpus [10][11] database is used for our study.

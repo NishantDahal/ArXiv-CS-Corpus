@@ -1,0 +1,5 @@
+Online partial evaluation of sheet-defined functions
+
+We present a spreadsheet implementation, extended with sheet-defined functions, that allows users to define functions using only standard spreadsheet concepts such as cells, formulas and references, requiring no new syntax.  This implements an idea proposed by Peyton-Jones and others.
+  As the main contribution of this paper, we then show how to add an online partial evaluator for such sheet-defined functions.  The result is a higher-order functional language that is dynamically typed, in keeping with spreadsheet traditions, and an interactive platform for function definition and function specialization.
+  We describe an implementation of these ideas, present some performance data from microbenchmarks, and outline desirable improvements and extensions.

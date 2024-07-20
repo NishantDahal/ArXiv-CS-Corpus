@@ -1,0 +1,5 @@
+Fast Restricted Causal Inference
+
+Hidden variables are well known sources of disturbance when recovering belief networks from data based only on measurable variables. Hence models assuming existence of hidden variables are under development.
+  This paper presents a new algorithm "accelerating" the known CI algorithm of Spirtes, Glymour and Scheines {Spirtes:93}. We prove that this algorithm does not produces (conditional) independencies not present in the data if statistical independence test is reliable.
+  This result is to be considered as non-trivial since e.g. the same claim fails to be true for FCI algorithm, another "accelerator" of CI, developed in {Spirtes:93}.

@@ -1,0 +1,4 @@
+Tighter inapproximability for set cover
+
+Set Cover is a classic NP-hard problem; as shown by Slavík (1997) the greedy algorithm gives an approximation ratio of $\ln n - \ln \ln n + Θ(1)$. A series of works by Lund \& Yannakakis (1994), Feige (1998), Moshkovitz (2015) have shown that, under the assumption $P \neq NP$, it is impossible to obtain a polynomial-time approximation ratio with approximation ratio $(1 - α) \ln n$, for any constant $α> 0$.
+  In this note, we show that under the Exponential Time Hypothesis (a stronger complexity-theoretic assumptions than $P \neq NP$), there are no polynomial-time algorithms achieving approximation ratio $\ln n - C \ln \ln n$, where $C$ is some universal constant. Thus, the greedy algorithm achieves an essentially optimal approximation ratio (up to the coefficient of $\ln \ln n$).

@@ -1,0 +1,3 @@
+Conformalized density- and distance-based anomaly detection in time-series data
+
+Anomalies (unusual patterns) in time-series data give essential, and often actionable information in critical situations. Examples can be found in such fields as healthcare, intrusion detection, finance, security and flight safety. In this paper we propose new conformalized density- and distance-based anomaly detection algorithms for a one-dimensional time-series data. The algorithms use a combination of a feature extraction method, an approach to assess a score whether a new observation differs significantly from a previously observed data, and a probabilistic interpretation of this score based on the conformal paradigm.

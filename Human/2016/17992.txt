@@ -1,0 +1,3 @@
+In-Storage Embedded Accelerator for Sparse Pattern Processing
+
+We present a novel architecture for sparse pattern processing, using flash storage with embedded accelerators. Sparse pattern processing on large data sets is the essence of applications such as document search, natural language processing, bioinformatics, subgraph matching, machine learning, and graph processing. One slice of our prototype accelerator is capable of handling up to 1TB of data, and experiments show that it can outperform C/C++ software solutions on a 16-core system at a fraction of the power and cost; an optimized version of the accelerator can match the performance of a 48-core server.

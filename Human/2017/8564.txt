@@ -1,0 +1,6 @@
+Optimization in large graphs: Toward a better future?
+
+Finding groups of connected individuals in large graphs with tens of thousands or more nodes has received considerable attention in academic research. In this paper, we analyze three main issues with respect to the recent influx of papers on community detection in (large) graphs, highlight the specific problems with the current research avenues, and propose a first step towards a better approach.
+  First, in spite of the strong interest in community detection, a strong conceptual and theoretical foundation of connectedness in large graphs is missing. Yet, it is crucial to be able to determine the specific feats that we aim to analyze in large networks, to avoid a purely black-or-white view.
+  Second, in literature commonly employed (meta)heuristic frameworks are applied for the large graph problems. Currently, it is, however, unclear whether these techniques are even viable options, and what the added value of the constituting parts is. Additionally, the manner in which different algorithms are compared is also ambiguous.
+  Finally, no analyses of the impact of data parameters on the reported clusters is done. Nonetheless, it would be interesting to evaluate which characteristics lead to which type of communities and what their effect is on computational difficulty.

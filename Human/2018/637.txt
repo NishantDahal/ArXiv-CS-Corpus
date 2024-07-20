@@ -1,0 +1,3 @@
+Chained Successive Cancellation Decoding of the Extended Golay code
+
+The extended Golay code is shown to be representable as a chained polar subcode. This enables its decoding with the successive cancellation algorithm and its stack generalization. The decoder can be further simplified by employing fast Hadamard transform. The complexity of the obtained algorithm is comparable with that of the Vardy algorithm.

@@ -1,0 +1,3 @@
+Using External Archive for Improved Performance in Multi-Objective Optimization
+
+It is shown that the use of an external archive, purely for storage purposes, can bring substantial benefits in multi-objective optimization. A new scheme for archive management for the above purpose is described. The new scheme is combined with the NSGA-II algorithm for solving two multi-objective optimization problems, and it is demonstrated that this combination gives significantly improved sets of Pareto-optimal solutions. The additional computational effort because of the external archive is found to be insignificant when the objective functions are expensive to evaluate.

@@ -1,0 +1,3 @@
+Parameterized Synthesis Case Study: AMBA AHB
+
+We revisit the AMBA AHB case study that has been used as a benchmark for several reactive synthesis tools. Synthesizing AMBA AHB implementations that can serve a large number of masters is still a difficult problem. We demonstrate how to use parameterized synthesis in token rings to obtain an implementation for a component that serves a single master, and can be arranged in a ring of arbitrarily many components. We describe new tricks - property decompositional synthesis, and direct encoding of simple GR(1) - that together with previously described optimizations allowed us to synthesize a component model with 14 states in about 1 hour.

@@ -1,0 +1,3 @@
+The chromatic number of the convex segment disjointness graph
+
+Let $P$ be a set of $n$ points in general and convex position in the plane. Let $D_n$ be the graph whose vertex set is the set of all line segments with endpoints in $P$, where disjoint segments are adjacent. The chromatic number of this graph was first studied by Araujo et al. [\emph{CGTA}, 2005]. The previous best bounds are $\frac{3n}{4}\leqχ(D_n) <n-\sqrt{\frac{n}{2}}$ (ignoring lower order terms). In this paper we improve the lower bound to $χ(D_n)\geq n-\sqrt{2n}$, to conclude a near-tight bound on $χ(D_n)$.

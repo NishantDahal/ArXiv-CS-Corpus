@@ -1,0 +1,3 @@
+Predicting popularity of online videos using Support Vector Regression
+
+In this work, we propose a regression method to predict the popularity of an online video based on temporal and visual cues. Our method uses Support Vector Regression with Gaussian Radial Basis Functions. We show that modelling popularity patterns with this approach provides higher and more stable prediction results, mainly thanks to the non-linearity character of the proposed method as well as its resistance against overfitting. We compare our method with the state of the art on datasets containing over 14,000 videos from YouTube and Facebook. Furthermore, we show that results obtained relying only on the early distribution patterns, can be improved by adding social and visual metadata.

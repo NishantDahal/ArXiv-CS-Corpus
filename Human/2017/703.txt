@@ -1,0 +1,3 @@
+An Explanation of Nakamoto's Analysis of Double-spend Attacks
+
+The fundamental attack against blockchain systems is the double-spend attack. In this tutorial, we provide a very detailed explanation of just one section of Satoshi Nakamoto's original paper where the attack's probability of success is stated. We show the derivation of the mathematics relied upon by Nakamoto to create a model of the attack. We also validate the model with a Monte Carlo simulation, and we determine which model component is not perfect.

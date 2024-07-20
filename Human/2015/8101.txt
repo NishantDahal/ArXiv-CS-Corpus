@@ -1,0 +1,4 @@
+Approximating Dense Max 2-CSPs
+
+In this paper, we present a polynomial-time algorithm that approximates sufficiently high-value Max 2-CSPs on sufficiently dense graphs to within $O(N^{\varepsilon})$ approximation ratio for any constant $\varepsilon > 0$. Using this algorithm, we also achieve similar results for free games, projection games on sufficiently dense random graphs, and the Densest $k$-Subgraph problem with sufficiently dense optimal solution. Note, however, that algorithms with similar guarantees to the last algorithm were in fact discovered prior to our work by Feige et al. and Suzuki and Tokuyama.
+  In addition, our idea for the above algorithms yields the following by-product: a quasi-polynomial time approximation scheme (QPTAS) for satisfiable dense Max 2-CSPs with better running time than the known algorithms.

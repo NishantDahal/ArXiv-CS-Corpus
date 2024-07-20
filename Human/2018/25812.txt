@@ -1,0 +1,3 @@
+Noise-based logic gates by operations on the reference system
+
+We propose a new, low-complexity solution to realize multi-input-bit gates acting on exponentially large superpositions in noise-based logic processors. Two examples are shown, the NOT gate and the CNOT gate. The operations can be executed and repeated with polynomial time and hardware complexity. The lack of a solution of this problem had been one of the major issues prohibiting the efficient realization of Shor's algorithm by Instantaneous Noise-Based Logic, which runs on a classical Turing computer with a true random number generator. With the method described in this paper, we are one step closer to this goal.

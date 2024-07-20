@@ -1,0 +1,3 @@
+Derived-term Automata for Extended Weighted Rational Expressions
+
+We present an algorithm to build an automaton from a rational expression. This approach introduces support for extended weighted expressions. Inspired by derived-term based algorithms, its core relies on a different construct, rational expansions. We introduce an inductive algorithm to compute the expansion of an expression from which the automaton follows. This algorithm is independent of the size of the alphabet, and actually even supports infinite alphabets. It can easily be accommodated to generate deterministic (weighted) automata. These constructs are implemented in Vcsn, a free-software platform dedicated to weighted automata and rational expressions.

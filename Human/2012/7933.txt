@@ -1,0 +1,3 @@
+Multiple Frequency Selection in DVFS-Enabled Processors to Minimize Energy Consumption
+
+In this chapter we focus on slack reclamation and propose a new slack reclamation technique, Multiple Frequency Selection DVFS (MFS-DVFS). The key idea is to execute each task with a linear combination of more than one frequency such that this combination results in using the lowest energy by covering the whole slack time of the task. We have tested our algorithm with both random and real-world application task graphs and compared with the results in previous researches in [9] and [12-13]. The experimental results show that our approach can achieve energy almost identical to the optimum energy saving.

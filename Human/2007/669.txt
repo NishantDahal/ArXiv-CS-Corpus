@@ -1,0 +1,3 @@
+Satisfying KBO Constraints
+
+This paper presents two new approaches to prove termination of rewrite systems with the Knuth-Bendix order efficiently. The constraints for the weight function and for the precedence are encoded in (pseudo-)propositional logic and the resulting formula is tested for satisfiability. Any satisfying assignment represents a weight function and a precedence such that the induced Knuth-Bendix order orients the rules of the encoded rewrite system from left to right.

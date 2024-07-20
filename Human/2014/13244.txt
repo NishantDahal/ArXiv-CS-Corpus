@@ -1,0 +1,4 @@
+Proving programs terminate using well orderings, Ramsey Theory, and Matrices
+
+Many programs allow the user to input data several times during its execution. If the program runs forever the user may input data infinitely often. A program terminates if it terminates no matter what the user does.
+  We discuss various ways to prove that program terminates. The proofs use well orderings, Ramsey Theory, and Matrices. These techniques are used by real program checkers.

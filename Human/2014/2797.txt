@@ -1,0 +1,3 @@
+Using n-grams models for visual semantic place recognition
+
+The aim of this paper is to present a new method for visual place recognition. Our system combines global image characterization and visual words, which allows to use efficient Bayesian filtering methods to integrate several images. More precisely, we extend the classical HMM model with techniques inspired by the field of Natural Language Processing. This paper presents our system and the Bayesian filtering algorithm. The performance of our system and the influence of the main parameters are evaluated on a standard database. The discussion highlights the interest of using such models and proposes improvements.

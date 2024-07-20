@@ -1,0 +1,3 @@
+Isolation Support for Service-based Applications: A Position Paper
+
+In this paper, we propose an approach to providing the benefits of isolation in service-oriented applications where it is not feasible to hold traditional locks for ACID transactions. Our technique, called "Promises", provides an uniform view for clients which covers a wide range of implementation techniques on the service side, all allowing the client to check a condition and then later rely on that condition still holding.

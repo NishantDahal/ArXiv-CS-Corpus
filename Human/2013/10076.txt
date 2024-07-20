@@ -1,0 +1,5 @@
+A Constructive Quantum Lovász Local Lemma for Commuting Projectors
+
+The Quantum Satisfiability problem generalizes the Boolean satisfiability problem to the quantum setting by replacing classical clauses with local projectors. The Quantum Lovász Local Lemma gives a sufficient condition for a Quantum Satisfiability problem to be satisfiable [AKS12], by generalizing the classical Lovász Local Lemma.
+  The next natural question that arises is: can a satisfying quantum state be efficiently found, when these conditions hold? In this work we present such an algorithm, with the additional requirement that all the projectors commute. The proof follows the information theoretic proof given by Moser's breakthrough result in the classical setting [Mos09].
+  Similar results were independently published in [CS11,CSV13].

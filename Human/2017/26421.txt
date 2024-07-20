@@ -1,0 +1,5 @@
+The Parameterized Complexity of the Equidomination Problem
+
+A graph $G=(V,E)$ is called equidominating if there exists a value $t \in \mathbb{N}$ and a weight function $ω: V \rightarrow \mathbb{N}$ such that the total weight of a subset $D\subseteq V$ is equal to $t$ if and only if $D$ is a minimal dominating set. To decide whether or not a given graph is equidominating is referred to as the Equidomination problem.
+  In this paper we show that two parameterized versions of the Equidomination problem are fixed-parameter tractable: the first parameterization considers the target value $t$ leading to the Target-$t$ Equidomination problem. The second parameterization allows only weights up to a value $k$, which yields the $k$-Equidomination problem.
+  In addition, we characterize the graphs whose every induced subgraph is equidominating. We give a finite forbidden induced subgraph characterization and derive a fast recognition algorithm.

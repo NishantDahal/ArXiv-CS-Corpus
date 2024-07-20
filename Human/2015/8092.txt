@@ -1,0 +1,3 @@
+Towards a Decoupled Context-Oriented Programming Language for the Internet of Things
+
+Easily programming behaviors is one major issue of a large and reconfigurable deployment in the Internet of Things. Such kind of devices often requires to externalize part of their behavior such as the sensing, the data aggregation or the code offloading. Most existing context-oriented programming languages integrate in the same class or close layers the whole behavior. We propose to abstract and separate the context tracking from the decision process, and to use event-based handlers to interconnect them. We keep a very easy declarative and non-layered programming model. We illustrate by defining an extension to Golo-a JVM-based dynamic language.

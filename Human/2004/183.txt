@@ -1,0 +1,7 @@
+Model-checking Driven Black-box Testing Algorithms for Systems with Unspecified Components
+
+Component-based software development has posed a serious challenge to system verification since externally-obtained components could be a new source of system failures. This issue can not be completely solved by either model-checking or traditional software testing techniques alone due to several reasons:
+ 1) externally obtained components are usually unspecified/partially specified; 2)it is generally difficult to establish an adequacy criteria for testing a component; 3)components may be used to dynamically upgrade a system.
+ This paper introduces a new approach (called {\em model-checking driven black-box testing}) that combines model-checking with traditional black-box software testing to tackle the problem in a complete, sound, and automatic way.
+ The idea is to, with respect to some requirement (expressed in CTL or LTL) about the system, use model-checking techniques to derive a condition (expressed in communication graphs) for an unspecified component such that the system satisfies the requirement iff the condition is satisfied by the component, and which can be established by testing the component with test cases generated from the condition on-the-fly. In this paper, we present model-checking driven black-box testing algorithms to handle both CTL and LTL requirements.
+ We also illustrate the idea through some examples.

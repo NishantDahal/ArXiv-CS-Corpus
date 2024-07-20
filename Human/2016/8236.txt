@@ -1,0 +1,3 @@
+RDF Graph Alignment with Bisimulation
+
+We investigate the problem of aligning two RDF databases, an essential problem in understanding the evolution of ontologies. Our approaches address three fundamental challenges: 1) the use of "blank" (null) names, 2) ontology changes in which different names are used to identify the same entity, and 3) small changes in the data values as well as small changes in the graph structure of the RDF database. We propose approaches inspired by the classical notion of graph bisimulation and extend them to capture the natural metrics of edit distance on the data values and the graph structure. We evaluate our methods on three evolving curated data sets. Overall, our results show that the proposed methods perform well and are scalable.

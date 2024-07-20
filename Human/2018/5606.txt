@@ -1,0 +1,7 @@
+On the streaming complexity of fundamental geometric problems
+
+In this paper, we focus on lower bounds and algorithms for some basic geometric problems in the one-pass (insertion only) streaming model. The problems considered are grouped into three categories:
+  (i) Klee's measure
+  (ii) Convex body approximation, geometric query, and
+  (iii) Discrepancy
+  Klee's measure is the problem of finding the area of the union of hyperrectangles. Under convex body approximation, we consider the problems of convex hull, convex body approximation, linear programming in fixed dimensions. The results for convex body approximation implies a property testing type result to find if a query point lies inside a convex polyhedron. Under discrepancy, we consider both the geometric and combinatorial discrepancy. For all the problems considered, we present (randomized) lower bounds on space. Most of our lower bounds are in terms of approximating the solution with respect to an error parameter $ε$. We provide approximation algorithms that closely match the lower bound on space for most of the problems.

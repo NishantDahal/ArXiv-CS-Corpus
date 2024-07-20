@@ -1,0 +1,4 @@
+Towards Enabling Overture as a Platform for Formal Notation IDEs
+
+Formal Methods tools will never have as many users as tools for popular programming languages and so the effort spent on constructing Integrated Development Environments (IDEs) will be orders of magnitudes lower than that of programming languages such as Java. This means newcomers to formal methods do not get the same user experience as with their favourite programming IDE. In order to improve this situation it is essential that efforts are combined so it is possible to reuse common features and thus not start from scratch every time.  This paper presents the Overture platform where such a reuse philosophy is present. We give an overview of the platform itself as well as the extensibility principles that enable much of the reuse. The paper also contains several examples platform extensions, both in the form of new features and a new IDE supporting a new language.
+

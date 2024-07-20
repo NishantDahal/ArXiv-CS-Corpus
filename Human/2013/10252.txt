@@ -1,0 +1,3 @@
+Blind and robust images watermarking based on wavelet and edge insertion
+
+This paper gives a new scheme of watermarking technique related to insert the mark by adding edge in HH sub-band of the host image after wavelet decomposition. Contrary to most of the watermarking algorithms in wavelet domain, our method is blind and results show that it is robust against the JPEG and GIF compression, histogram and spectrum spreading, noise adding and small rotation. Its robustness against compression is better than others watermarking algorithms reported in the literature. The algorithm is flexible because its capacity or robustness can be improved by modifying some parameters.

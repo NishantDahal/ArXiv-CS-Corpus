@@ -1,0 +1,3 @@
+The Erdős-Hajnal Conjecture for Long Holes and Anti-holes
+
+Erdős and Hajnal conjectured that, for every graph $H$, there exists a constant $c_H$ such that every graph $G$ on $n$ vertices which does not contain any induced copy of $H$ has a clique or a stable set of size $n^{c_H}$. We prove that for every $k$, there exists $c_k>0$ such that every graph $G$ on $n$ vertices not inducing a cycle of length at least $k$ nor its complement contains a clique or a stable set of size $n^{c_k}$.

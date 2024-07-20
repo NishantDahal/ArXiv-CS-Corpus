@@ -1,0 +1,3 @@
+How to sample connected $K$-partitions of a graph
+
+A connected undirected graph $G=(V,E)$ is given. This paper presents an algorithm that samples (non-uniformly) a $K$ partition $U_1,\ldots U_K$ of the graph nodes $V$, such that the subgraph induced by each $U_k$, with $k=1:K$, is connected. Moreover, the probability induced by the algorithm over the set ${\mathcal C}_K$ of all such partitions is obtained in closed form.

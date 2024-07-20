@@ -1,0 +1,3 @@
+Catching a fast robber on the grid
+
+We study the problem of cops and robbers on the grid where the robber is allowed to move faster than the cops. It is well known that two cops are necessary and sufficient to catch the robber on any finite grid when the robber has unit speed. Here, we prove that when the speed of the robber is a sufficiently large constant, the number of cops needed to catch the robber on an $n \times n$ grid is $\exp(Ω(\log n / \log \log n))$.

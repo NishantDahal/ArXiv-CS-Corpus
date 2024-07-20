@@ -1,0 +1,6 @@
+Recognising the Suzuki groups in their natural representations
+
+Under the assumption of a certain conjecture, for which there exists strong experimental evidence, we produce an efficient algorithm for constructive membership testing in the Suzuki groups Sz(q), where q = 2^{2m + 1} for some m > 0, in their natural representations of degree 4. It is a Las Vegas algorithm with running time O{log(q)} field operations, and a preprocessing step with running time O{log(q) loglog(q)} field operations. The latter step needs an oracle for the discrete logarithm problem in GF(q).
+  We also produce a recognition algorithm for Sz(q) = <X>. This is a Las Vegas algorithm with running time O{|X|^2} field operations.
+  Finally, we give a Las Vegas algorithm that, given <X>^h = Sz(q) for some h in GL(4, q), finds some g such that <X>^g = Sz(q). The running time is O{log(q) loglog(q) + |X|} field operations.
+  Implementations of the algorithms are available for the computer system MAGMA.

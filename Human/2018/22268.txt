@@ -1,0 +1,3 @@
+Formalizing the Cox-Ross-Rubinstein pricing of European derivatives in Isabelle/HOL
+
+We formalize in the proof assistant Isabelle essential basic notions and results in financial mathematics. We provide generic formal definitions of concepts such as markets, portfolios, derivative products, arbitrages or fair prices, and we show that, under the usual no-arbitrage condition, the existence of a replicating portfolio for a derivative implies that the latter admits a unique fair price. Then, we provide a formalization of the Cox-Rubinstein model and we show that the market is complete in this model, i.e., that every derivative product admits a replicating portfolio. This entails that in this model, every derivative product admits a unique fair price.

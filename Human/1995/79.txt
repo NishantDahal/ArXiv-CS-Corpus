@@ -1,0 +1,3 @@
+Memoization of Top Down Parsing
+
+This paper discusses the relationship between memoized top-down recognizers and chart parsers. It presents a version of memoization suitable for continuation-passing style programs. When applied to a simple formalization of a top-down recognizer it yields a terminating parser.

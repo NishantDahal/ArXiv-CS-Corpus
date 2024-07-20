@@ -1,0 +1,3 @@
+Counterfactual Learning for Machine Translation: Degeneracies and Solutions
+
+Counterfactual learning is a natural scenario to improve web-based machine translation services by offline learning from feedback logged during user interactions. In order to avoid the risk of showing inferior translations to users, in such scenarios mostly exploration-free deterministic logging policies are in place. We analyze possible degeneracies of inverse and reweighted propensity scoring estimators, in stochastic and deterministic settings, and relate them to recently proposed techniques for counterfactual learning under deterministic logging.

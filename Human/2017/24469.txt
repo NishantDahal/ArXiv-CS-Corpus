@@ -1,0 +1,3 @@
+Polynomially Solvable Instances of the Shortest and Closest Vector Problems with Applications to Compute-and-Forward
+
+A particular instance of the Shortest Vector Problem (SVP) appears in the context of Compute-and-Forward. Despite the NP-hardness of the SVP, we will show that this certain instance can be solved in complexity order $O(nψ\log(nψ))$ where $ψ= \sqrt{P\|{\bf h}\|^2+1}$ depends on the transmission power and the norm of the channel vector. We will then extend our results to Integer-Forcing and finally, introduce a more general class of lattices for which the SVP and the and the Closest Vector Problem (CVP) can be approximated within a constant factor.

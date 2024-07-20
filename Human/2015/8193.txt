@@ -1,0 +1,3 @@
+Improved Opportunistic Sleeping Algorithms for LAN Switches
+
+Network interfaces in most LAN computing devices are usually severely under-utilized, wasting energy while waiting for new packets to arrive. In this paper, we present two algorithms for opportunistically powering down unused network interfaces in order to save some of that wasted energy. We compare our proposals to the best known opportunistic method, and show that they provide much greater power savings inflicting even lower delays to Internet traffic.

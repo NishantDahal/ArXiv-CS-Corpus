@@ -1,0 +1,3 @@
+A Las Vegas approximation algorithm for metric $1$-median selection
+
+Given an $n$-point metric space, consider the problem of finding a point with the minimum sum of distances to all points. We show that this problem has a randomized algorithm that {\em always} outputs a $(2+ε)$-approximate solution in an expected $O(n/ε^2)$ time for each constant $ε>0$. Inheriting Indyk's algorithm, our algorithm outputs a $(1+ε)$-approximate $1$-median in $O(n/ε^2)$ time with probability $Ω(1)$.

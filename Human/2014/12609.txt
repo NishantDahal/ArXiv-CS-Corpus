@@ -1,0 +1,3 @@
+Easy/Hard Transition in k-SAT
+
+A heuristic model procedure for determining satisfiability of CNF-formulae is set up and described by nonlinear recursion relations for m (number of clauses), n (number of variables) and clause filling k. The system mimicked by the recursion undergoes a sharp transition from bounded running times (easy) to uncontrolled runaway behaviour (hard). Thus the parameter space turns out to be separated into regions with qualitatively different efficiency of the model procedure. The transition results from a competition of exponential blow up by branching versus growing number of orthogonal clauses.

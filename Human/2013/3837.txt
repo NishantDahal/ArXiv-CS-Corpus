@@ -1,0 +1,5 @@
+C++11 - określanie typów
+
+This paper presents a review of some new futures introduced to C++ language by ISO/IEC 14882:2011 standard (known as C++11). It describes new language elements which allow to easier expressed of types of variables: auto and decltype keywords, new function declaration syntax, and tools which are included in type_traits header.
+  -----
+  Niniejszy artykuł jest jednym z serii artykułów w których zawarto przegl{\ka}d nowych elementów j{\ke}zyka C++ wprowadzonych przez standard ISO/IEC 14882:2011, znany pod nazw{\ka} C++11. W artykule przedstawiono nowe możliwości zwi{\ka}zane ze wskazywaniem typów zmiennych. Opisano słowa kluczowe auto i decltype, now{\ka} składnie deklarowania funkcji/metod oraz narz{\ke}dzia zawarte w pliku nagłówkowym <type_traits>.

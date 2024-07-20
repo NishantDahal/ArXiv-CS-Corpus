@@ -1,0 +1,3 @@
+Persistence for Circle Valued Maps
+
+We study circle valued maps and consider the persistence of the homology of their fibers. The outcome is a finite collection of computable invariants which answer the basic questions on persistence and in addition encode the topology of the source space and its relevant subspaces. Unlike persistence of real valued maps, circle valued maps enjoy a different class of invariants called Jordan cells in addition to bar codes. We establish a relation between the homology of the source space and of its relevant subspaces with these invariants and provide a new algorithm to compute these invariants from an input matrix that encodes a circle valued map on an input simplicial complex.

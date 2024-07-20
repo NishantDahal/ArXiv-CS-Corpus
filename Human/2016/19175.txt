@@ -1,0 +1,3 @@
+Perturbation Robust Stable Matching
+
+A well known result states that stability criterion for matchings in two-sided markets doesn't ensure uniqueness. This opens the door for a moral question with regard to the optimal stable matching from a social point of view. Here, a new notion of social optimality is proposed. Its novelty is its ability to take into account the possibility of agents to leave the matching after it has already been established. To formalize this real-life scenario, this work includes a well-defined probability model and a social cost function that maintain the general guidelines of leaving-agents situations. Finally, efficient algorithms to optimize this function are developed either under stability constraint or without it.

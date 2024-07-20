@@ -1,0 +1,7 @@
+Correcting Errors in Linear Measurements and Compressed Sensing of Multiple Sources
+
+We present an algorithm for finding sparse solutions of the system of linear equations $Φ\mathbf{x}=\mathbf{y}$ with rectangular matrices $Φ$ of size $n\times N$, where $n<N$, when measurement vector $\mathbf{y}$ is corrupted by a sparse vector of errors $\mathbf e$. 
+We call our algorithm the $\ell^1$-greedy-generous (LGGA) since it combines both greedy and generous strategies in decoding. 
+Main advantage of LGGA over traditional error correcting methods consists in its ability to work efficiently directly on linear data measurements. It uses the natural residual redundancy of the measurements and does not require any additional redundant channel encoding. 
+We show how to use this algorithm for encoding-decoding multichannel sources. This algorithm has a significant advantage over existing straightforward decoders when the encoded sources have different density/sparsity of the information content. That nice property can be used for very efficient blockwise encoding of the sets of data with a non-uniform distribution of the information. The images are the most typical example of such sources. 
+The important feature of LGGA is its separation from the encoder. The decoder does not need any additional side information from the encoder except for linear measurements and the knowledge that those measurements created as a linear combination of different sources.

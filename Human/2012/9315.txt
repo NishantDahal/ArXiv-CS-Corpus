@@ -1,0 +1,3 @@
+Memoization technique for optimizing functions with stochastic input
+
+In this paper we present a strategy for optimization functions with stochastic input. The main idea is to take advantage of decomposition in combination with a look-up table. Deciding what input values should be used for memoization is determined based on the underlying probability distribution of input variables. Special attention is given to difficulties caused by combinatorial explosion.

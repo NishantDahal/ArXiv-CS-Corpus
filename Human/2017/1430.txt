@@ -1,0 +1,3 @@
+Performance of Lattice Coset Codes on Universal Software Radio Peripherals
+
+We consider an experimental setup of three USRPs that implement a wiretap channel, two USRPs are the legitimate players Alice and Bob, while the third USRP is the eavesdropper, whose position we vary to evaluate information leakage. The experimented channels are close to slow fading channels, and coset coding of lattice constellations is used for transmission, allowing to introduce controlled randomness at the transmitter. Simulation and measurement results show to which extent coset coding can provide confidentiality, as a function of Eve's position, and the amount of randomness used.

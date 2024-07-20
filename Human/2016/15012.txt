@@ -1,0 +1,3 @@
+Numerical Solution of Cylindrically Converging Shock Waves
+
+The cylindrically converging shock wave was numerically simulated by solving the Euler equations in cylindrical coordinates with TVD scheme and MUSCL approach, using Roe's approximate Riemann solver and super-bee nonlinear limiter. The present study used the in house code developed for this purpose. The behavior of the solution in the vicinity of axis is investigated and the results of the numerical solution are compared with the computed data given by Payne, Lapidus, Abarbanel, and Goldberg, Sod, and Leutioff et al.

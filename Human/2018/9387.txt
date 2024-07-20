@@ -1,0 +1,3 @@
+Higher-Order Bounded Model Checking
+
+We present a Bounded Model Checking technique for higher-order programs. The vehicle of our study is a higher-order calculus with general references. Our technique is a symbolic state syntactical translation based on SMT solvers, adapted to a setting where the values passed and stored during computation can be functions of arbitrary order. We prove that our algorithm is sound, and devise an optimisation based on points-to analysis to improve scalability. We moreover provide a prototype implementation of the algorithm with experimental results showcasing its performance.

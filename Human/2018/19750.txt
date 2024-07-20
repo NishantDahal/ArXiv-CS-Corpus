@@ -1,0 +1,3 @@
+Binary Compressive Sensing via Smoothed $\ell_0$ Gradient Descent
+
+We present a Compressive Sensing algorithm for reconstructing binary signals from its linear measurements. The proposed algorithm minimizes a non-convex cost function expressed as a weighted sum of smoothed $\ell_0$ norms which takes into account the binariness of signals. We show that for binary signals the proposed algorithm outperforms other existing algorithms in recovery rate while requiring a short run time.

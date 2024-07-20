@@ -1,0 +1,3 @@
+A Structural Query System for Han Characters
+
+The IDSgrep structural query system for Han character dictionaries is presented. This system includes a data model and syntax for describing the spatial structure of Han characters using Extended Ideographic Description Sequences (EIDSes) based on the Unicode IDS syntax; a language for querying EIDS databases, designed to suit the needs of font developers and foreign language learners; a bit vector index inspired by Bloom filters for faster query operations; a freely available implementation; and format translation from popular third-party IDS and XML character databases. Experimental results are included, with a comparison to other software used for similar applications.

@@ -1,0 +1,3 @@
+3D Cache Hierarchy Optimization
+
+3D integration has the potential to improve the scalability and performance of Chip Multiprocessors (CMP). A closed form analytical solution for optimizing 3D CMP cache hierarchy is developed. It allows optimal partitioning of the cache hierarchy levels into 3D silicon layers and optimal allocation of area among cache hierarchy levels under constrained area and power budgets. The optimization framework is extended by incorporating the impact of multithreaded data sharing on the private cache miss rate. An analytical model for cache access time as a function of cache size and a number of 3D partitions is proposed and verified using CACTI simulation.

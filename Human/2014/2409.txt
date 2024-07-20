@@ -1,0 +1,3 @@
+The Size-Change Termination Principle for Constructor Based Languages
+
+This paper describes an automatic termination checker for a generic first-order call-by-value language in ML style. We use the fact that value are built from variants and tuples to keep some information about how arguments of recursive call evolve during evaluation. The result is a criterion for termination extending the size-change termination principle of Lee, Jones and Ben-Amram that can detect size changes inside subvalues of arguments. Moreover the corresponding algorithm is easy to implement, making it a good candidate for experimentation. 

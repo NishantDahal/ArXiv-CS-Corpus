@@ -1,0 +1,3 @@
+Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee
+
+For the task of moving a set of indistinguishable agents on a connected graph with unit edge distance to an arbitrary set of goal vertices, free of collisions, we propose a fast distance optimal control algorithm that guides the agents into the desired formation. Moreover, we show that the algorithm also provides a tight convergence time guarantee (time optimality and distance optimality cannot be simultaneously satisfied). Our generic graph formulation allows the algorithm to be applied to scenarios such as grids with holes (modeling obstacles) in arbitrary dimensions. Simulations, available online, confirm our theoretical developments.

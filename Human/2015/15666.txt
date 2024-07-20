@@ -1,0 +1,3 @@
+Robustly Solvable Constraint Satisfaction Problems
+
+An algorithm for a constraint satisfaction problem is called robust if it outputs an assignment satisfying at least $(1-g(\varepsilon))$-fraction of the constraints given a $(1-\varepsilon)$-satisfiable instance, where $g(\varepsilon) \rightarrow 0$ as $\varepsilon \rightarrow 0$. Guruswami and Zhou conjectured a characterization of constraint languages for which the corresponding constraint satisfaction problem admits an efficient robust algorithm. This paper confirms their conjecture.

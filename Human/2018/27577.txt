@@ -1,0 +1,3 @@
+A recognition algorithm for adjusted interval digraphs
+
+Min orderings give a vertex ordering characterization, common to some graphs and digraphs such as interval graphs, complements of threshold tolerance graphs (known as co-TT graphs), and two-directional orthogonal ray graphs. An adjusted interval digraph is a reflexive digraph that has a min ordering. Adjusted interval digraph can be recognized in $O(n^4)$ time, where $n$ is the number of vertices of the given graph. Finding a more efficient algorithm is posed as an open question. This note provides a new recognition algorithm with running time $O(n^3)$. The algorithm produces a min ordering if the given graph is an adjusted interval digraph.

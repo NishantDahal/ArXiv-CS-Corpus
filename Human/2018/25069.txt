@@ -1,0 +1,3 @@
+Stellar Cluster Detection using GMM with Deep Variational Autoencoder
+
+Detecting stellar clusters have always been an important research problem in Astronomy. Although images do not convey very detailed information in detecting stellar density enhancements, we attempt to understand if new machine learning techniques can reveal patterns that would assist in drawing better inferences from the available image data. This paper describes an unsupervised approach in detecting star clusters using Deep Variational Autoencoder combined with a Gaussian Mixture Model. We show that our method works significantly well in comparison with state-of-the-art detection algorithm in recognizing a variety of star clusters even in the presence of noise and distortion.

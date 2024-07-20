@@ -1,0 +1,3 @@
+Information Bottleneck on General Alphabets
+
+We prove rigorously a source coding theorem that can probably be considered folklore, a generalization to arbitrary alphabets of a problem motivated by the Information Bottleneck method. For general random variables $(Y, X)$, we show essentially that for some $n \in \mathbb{N}$, a function $f$ with rate limit $\log|f| \le nR$ and $I(Y^n; f(X^n)) \ge nS$ exists if and only if there is a random variable $U$ such that the Markov chain $Y - X - U$ holds, $I(U; X) \le R$ and $I(U; Y) \ge S$. The proof relies on the well established discrete case and showcases a technique for lifting discrete coding theorems to arbitrary alphabets.

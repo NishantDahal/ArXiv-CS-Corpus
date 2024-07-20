@@ -1,0 +1,9 @@
+Computation Environments, An Interactive Semantics for Turing Machines (which P is not equal to NP considering it)
+
+To scrutinize notions of computation and time complexity, we introduce and formally define an interactive model for computation that we call it the \emph{computation environment}. A computation environment consists of two main parts: i) a universal processor and ii) a computist who uses the computability power of the universal processor to perform effective procedures. The notion of computation finds it meaning, for the computist, through his \underline{interaction} with the universal processor.
+  We are interested in those computation environments which can be considered as alternative for the real computation environment that the human being is its computist. These computation environments must have two properties: 1- being physically plausible, and 2- being enough powerful.
+  Based on Copeland' criteria for effective procedures, we define what a \emph{physically plausible} computation environment is.
+  We construct two \emph{physically plausible} and \emph{enough powerful} computation environments: 1- the Turing computation environment, denoted by $E_T$, and 2- a persistently evolutionary computation environment, denoted by $E_e$, which persistently evolve in the course of executing the computations.
+  We prove that the equality of complexity classes $\mathrm{P}$ and $\mathrm{NP}$ in the computation environment $E_e$ conflicts with the \underline{free will} of the computist.
+  We provide an axiomatic system $\mathcal{T}$ for Turing computability and prove that ignoring just one of the axiom of $\mathcal{T}$, it would not be possible to derive $\mathrm{P=NP}$ from the rest of axioms.
+  We prove that the computist who lives inside the environment $E_T$, can never be confident that whether he lives in a static environment or a persistently evolutionary one.

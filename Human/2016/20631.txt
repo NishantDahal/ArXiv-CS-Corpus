@@ -1,0 +1,3 @@
+Mode-Target Games: Reactive Synthesis for Control Applications
+
+In this paper we introduce a class of Linear Temporal Logic (LTL) specifications for which the problem of synthesizing controllers can be solved in polynomial time. The new class of specifications is an LTL fragment that we term Mode-Target (MT) and is inspired by numerous control applications where there are modes and corresponding (possibly multiple) targets for each mode. We formulate the problem of synthesizing a controller enforcing an MT specification as a game and provide an algorithm that requires $O(\sum_i t_i n^2)$ symbolic steps, where $n$ is the number of states in the game graph, and $t_i$ is the number of targets corresponding to mode $i$.

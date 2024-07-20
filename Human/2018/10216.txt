@@ -1,0 +1,3 @@
+Efficient Systematic Encoding of Non-binary VT Codes
+
+Varshamov-Tenengolts (VT) codes are a class of codes which can correct a single deletion or insertion with a linear-time decoder. This paper addresses the problem of efficient encoding of non-binary VT codes, defined over an alphabet of size $q >2$. We propose a simple linear-time encoding method to systematically map binary message sequences onto VT codewords. The method provides a new lower bound on the size of $q$-ary VT codes of length $n$.

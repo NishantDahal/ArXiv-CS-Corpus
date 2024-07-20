@@ -1,0 +1,3 @@
+Herding Generalizes Diverse M -Best Solutions
+
+We show that the algorithm to extract diverse M -solutions from a Conditional Random Field (called divMbest [1]) takes exactly the form of a Herding procedure [2], i.e. a deterministic dynamical system that produces a sequence of hypotheses that respect a set of observed moment constraints. This generalization enables us to invoke properties of Herding that show that divMbest enforces implausible constraints which may yield wrong assumptions for some problem settings. Our experiments in semantic segmentation demonstrate that seeing divMbest as an instance of Herding leads to better alternatives for the implausible constraints of divMbest.

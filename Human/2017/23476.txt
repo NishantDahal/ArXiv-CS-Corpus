@@ -1,0 +1,7 @@
+Diffusion Operator and Spectral Analysis for Directed Hypergraph Laplacian
+
+In spectral graph theory, the Cheeger's inequality gives upper and lower bounds of edge expansion in normal graphs in terms of the second eigenvalue of the graph's Laplacian operator. Recently this inequality has been extended to undirected hypergraphs and directed normal graphs via a non-linear operator associated with a diffusion process in the underlying graph.
+  In this work, we develop a unifying framework for defining a diffusion operator on a directed hypergraph with stationary vertices, which is general enough for the following two applications.
+  1. Cheeger's inequality for directed hyperedge expansion.
+  2. Quadratic optimization with stationary vertices in the context of semi-supervised learning.
+  Despite the crucial role of the diffusion process in spectral analysis, previous works have not formally established the existence of the corresponding diffusion processes. In this work, we give a proof framework that can indeed show that such diffusion processes are well-defined. In the first application, we use the spectral properties of the diffusion operator to achieve the Cheeger's inequality for directed hyperedge expansion. In the second application, the diffusion operator can be interpreted as giving a continuous analog to the subgradient method, which moves the feasible solution in discrete steps towards an optimal solution.

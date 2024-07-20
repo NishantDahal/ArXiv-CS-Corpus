@@ -1,0 +1,3 @@
+The Query Complexity of Correlated Equilibria
+
+We consider the complexity of finding a correlated equilibrium of an $n$-player game in a model that allows the algorithm to make queries on players' payoffs at pure strategy profiles. Randomized regret-based dynamics are known to yield an approximate correlated equilibrium efficiently, namely, in time that is polynomial in the number of players $n$. Here we show that both randomization and approximation are necessary: no efficient deterministic algorithm can reach even an approximate correlated equilibrium, and no efficient randomized algorithm can reach an exact correlated equilibrium. The results are obtained by bounding from below the number of payoff queries that are needed.

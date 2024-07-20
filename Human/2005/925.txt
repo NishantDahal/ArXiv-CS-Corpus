@@ -1,0 +1,3 @@
+Acyclic orientations with path constraints
+
+Many well-known combinatorial optimization problems can be stated over the set of acyclic orientations of an undirected graph. For example, acyclic orientations with certain diameter constraints are closely related to the optimal solutions of the vertex coloring and frequency assignment problems. In this paper we introduce a linear programming formulation of acyclic orientations with path constraints, and discuss its use in the solution of the vertex coloring problem and some versions of the frequency assignment problem. A study of the polytope associated with the formulation is presented, including proofs of which constraints of the formulation are facet-defining and the introduction of new classes of valid inequalities.

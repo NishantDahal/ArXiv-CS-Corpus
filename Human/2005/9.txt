@@ -1,0 +1,3 @@
+Orchestrating Metadata Enhancement Services: Introducing Lenny
+
+Harvested metadata often suffers from uneven quality to the point that utility is compromised. Although some aggregators have developed methods for evaluating and repairing specific metadata problems, it has been unclear how these methods might be scaled into services that can be used within an automated production environment. The National Science Digital Library (NSDL), as part of its work with INFOMINE, has developed a model of ser-vice interaction that enables loosely-coupled third party services to provide metadata enhancements to a central repository, with interactions orchestrated by a centralized software application.

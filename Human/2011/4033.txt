@@ -1,0 +1,3 @@
+Online Vehicle Detection For Estimating Traffic Status
+
+We propose a traffic congestion estimation system based on unsupervised on-line learning algorithm. The system does not rely on background extraction or motion detection. It extracts local features inside detection regions of variable size which are drawn on lanes in advance. The extracted features are then clustered into two classes using K-means and Gaussian Mixture Models(GMM). A Bayes classifier is used to detect vehicles according to the previous cluster information which keeps updated whenever system is running by on-line EM algorithm. Experimental result shows that our system can be adapted to various traffic scenes for estimating traffic status.

@@ -1,0 +1,3 @@
+Fractionally-addressed delay lines
+
+While traditional implementations of variable-length digital delay lines are based on a circular buffer accessed by two pointers, we propose an implementation where a single fractional pointer is used both for read and write operations. On modern general-purpose architectures, the proposed method is nearly as efficient as the popularinterpolated circular buffer, and it behaves well for delay-length modulations commonly found in digital audio effects. The physical interpretation of the new implementation shows that it is suitable for simulating tension or density modulations in wave-propagating media.

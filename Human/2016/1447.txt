@@ -1,0 +1,3 @@
+A New Robust Frequency Domain Echo Canceller With Closed-Loop Learning Rate Adaptation
+
+One of the main difficulties in echo cancellation is the fact that the learning rate needs to vary according to conditions such as double-talk and echo path change. Several methods have been proposed to vary the learning. In this paper we propose a new closed-loop method where the learning rate is proportional to a misalignment parameter, which is in turn estimated based on a gradient adaptive approach. The method is presented in the context of a multidelay block frequency domain (MDF) echo canceller. We demonstrate that the proposed algorithm outperforms current popular double-talk detection techniques by up to 6 dB.

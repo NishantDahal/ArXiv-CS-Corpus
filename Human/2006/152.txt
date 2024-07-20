@@ -1,0 +1,3 @@
+Pants Decomposition of the Punctured Plane
+
+A pants decomposition of an orientable surface S is a collection of simple cycles that partition S into pants, i.e., surfaces of genus zero with three boundary cycles. Given a set P of n points in the plane, we consider the problem of computing a pants decomposition of the surface S which is the plane minus P, of minimum total length. We give a polynomial-time approximation scheme using Mitchell's guillotine rectilinear subdivisions. We give a quartic-time algorithm to compute the shortest pants decomposition of S when the cycles are restricted to be axis-aligned boxes, and a quadratic-time algorithm when all the points lie on a line; both exact algorithms use dynamic programming with Yao's speedup.

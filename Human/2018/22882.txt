@@ -1,0 +1,3 @@
+Stabilization of Networked Control Systems under DoS Attacks and Output Quantization
+
+This paper addresses quantized output feedback stabilization under Denial-of-Service (DoS) attacks. First, assuming that the duration and frequency of DoS attacks are averagely bounded and that an initial bound of the plant state is known, we propose an output encoding scheme that achieves exponential convergence with finite data rates. Next we show that a suitable state transformation allows us to remove the assumption on the DoS frequency. Finally, we discuss the derivation of state bounds under DoS attacks and obtain sufficient conditions on the bounds of DoS duration and frequency for achieving Lyapunov stability of the closed-loop system.

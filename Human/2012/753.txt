@@ -1,0 +1,4 @@
+Lossy Source Coding via Spatially Coupled LDGM Ensembles
+
+We study a new encoding scheme for lossy source compression based on spatially coupled low-density generator-matrix codes. We develop a belief-propagation guided-decimation algorithm, and show that this algorithm allows to approach the optimal distortion of spatially coupled ensembles. Moreover, using the survey propagation formalism, we also observe that the optimal distortions of the spatially coupled and individual code ensembles are the same. Since regular low-density generator-matrix codes are known to achieve the Shannon rate-distortion bound under optimal encoding as the degrees grow, our results suggest that spatial coupling can be used to reach the rate-distortion bound, under a {\it low complexity} belief-propagation guided-decimation algorithm.
+  This problem is analogous to the MAX-XORSAT problem in computer science.

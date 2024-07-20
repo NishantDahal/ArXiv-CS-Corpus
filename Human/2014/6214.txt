@@ -1,0 +1,3 @@
+Balancing Weighted Substreams in MIMO Interference Channels
+
+Substreams refer to the streams of each user in a system. Substream weighting, where the weights determine the prioritization order, can be important in multiple-input multiple-output interference channels. In this letter, a distributed algorithm is proposed for the problem of power minimization subject to weighted SINR constraint. The algorithm is based on two basic features, the well known distributed power control algorithm by Yates in 1995 and a simple linear search to find feasible SINR targets. The power control law used in the proposed algorithm is proven to linearly converge to a unique fixed-point.

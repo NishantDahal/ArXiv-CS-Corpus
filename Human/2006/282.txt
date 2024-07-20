@@ -1,0 +1,3 @@
+Solving Sparse Integer Linear Systems
+
+We propose a new algorithm to solve sparse linear systems of equations over the integers. This algorithm is based on a $p$-adic lifting technique combined with the use of block matrices with structured blocks. It achieves a sub-cubic complexity in terms of machine operations subject to a conjecture on the effectiveness of certain sparse projections. A LinBox-based implementation of this algorithm is demonstrated, and emphasizes the practical benefits of this new method over the previous state of the art.

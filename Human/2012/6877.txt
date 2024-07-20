@@ -1,0 +1,3 @@
+Numerical Issues Affecting LDPC Error Floors
+
+Numerical issues related to the occurrence of error floors in floating-point simulations of belief propagation (BP) decoders are examined. Careful processing of messages corresponding to highly-certain bit values can sometimes reduce error floors by several orders of magnitude. Computational solutions for properly handling such messages are provided for the sum-product algorithm (SPA) and several variants.

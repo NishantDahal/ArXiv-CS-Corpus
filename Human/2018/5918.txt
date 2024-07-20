@@ -1,0 +1,3 @@
+Principal Component Analysis with Tensor Train Subspace
+
+Tensor train is a hierarchical tensor network structure that helps alleviate the curse of dimensionality by parameterizing large-scale multidimensional data via a set of network of low-rank tensors. Associated with such a construction is a notion of Tensor Train subspace and in this paper we propose a TT-PCA algorithm for estimating this structured subspace from the given data. By maintaining low rank tensor structure, TT-PCA is more robust to noise comparing with PCA or Tucker-PCA. This is borne out numerically by testing the proposed approach on the Extended YaleFace Dataset B.

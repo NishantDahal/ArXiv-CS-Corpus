@@ -1,0 +1,3 @@
+Error analysis of regularized least-square regression with Fredholm kernel
+
+Learning with Fredholm kernel has attracted increasing attention recently since it can effectively utilize the data information to improve the prediction performance. Despite rapid progress on theoretical and experimental evaluations, its generalization analysis has not been explored in learning theory literature. In this paper, we establish the generalization bound of least square regularized regression with Fredholm kernel, which implies that the fast learning rate O(l^{-1}) can be reached under mild capacity conditions. Simulated examples show that this Fredholm regression algorithm can achieve the satisfactory prediction performance.

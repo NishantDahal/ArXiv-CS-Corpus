@@ -1,0 +1,3 @@
+Informed Heuristics for Guiding Stem-and-Cycle Ejection Chains
+
+The state of the art in local search for the Traveling Salesman Problem is dominated by ejection chain methods utilising the Stem-and-Cycle reference structure. Though effective such algorithms employ very little information in their successor selection strategy, typically seeking only to minimise the cost of a move. We propose an alternative approach inspired from the AI literature and show how an admissible heuristic can be used to guide successor selection. We undertake an empirical analysis and demonstrate that this technique often produces better results than less informed strategies albeit at the cost of running in higher polynomial time.

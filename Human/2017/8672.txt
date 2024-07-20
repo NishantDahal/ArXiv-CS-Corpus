@@ -1,0 +1,3 @@
+Annealed Generative Adversarial Networks
+
+We introduce a novel framework for adversarial training where the target distribution is annealed between the uniform distribution and the data distribution. We posited a conjecture that learning under continuous annealing in the nonparametric regime is stable irrespective of the divergence measures in the objective function and proposed an algorithm, dubbed ß-GAN, in corollary. In this framework, the fact that the initial support of the generative network is the whole ambient space combined with annealing are key to balancing the minimax game. In our experiments on synthetic data, MNIST, and CelebA, ß-GAN with a fixed annealing schedule was stable and did not suffer from mode collapse.

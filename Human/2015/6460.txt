@@ -1,0 +1,3 @@
+Fast MATLAB assembly of FEM matrices in 2D and 3D: Edge elements
+
+We propose an effective and flexible way to assemble finite element stiffness and mass matrices in MATLAB. We apply this for problems discretized by edge finite elements. Typical edge finite elements are Raviart-Thomas elements used in discretizations of H(div) spaces and Nedelec elements in discretizations of H(curl) spaces. We explain vectorization ideas and comment on a freely available MATLAB code which is fast and scalable with respect to time.

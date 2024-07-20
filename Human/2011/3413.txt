@@ -1,0 +1,3 @@
+Nonapproximability Results for Partially Observable Markov Decision Processes
+
+We show that for several variations of partially observable    Markov decision processes, polynomial-time algorithms for finding    control policies are unlikely to or simply don't have guarantees of    finding policies within a constant factor or a constant summand of    optimal.  Here "unlikely" means "unless some complexity classes    collapse," where the collapses considered are P=NP, P=PSPACE, or    P=EXP.  Until or unless these collapses are shown to hold, any    control-policy designer must choose between such performance    guarantees and efficient computation.

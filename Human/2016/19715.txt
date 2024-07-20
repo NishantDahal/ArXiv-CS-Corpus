@@ -1,0 +1,3 @@
+Depth-Based Visual Servoing Using Low-Accurate Arm
+
+This paper proposes a visual-servoing method dedicated to grasping of daily-life objects. In order to obtain an affordable solution, we use a low-accurate robotic arm. Our method corrects errors by using an RGB-D sensor. It is based on SURF invariant features which allows us to perform object recognition at a high frame rate. We define regions of interest based on depth segmentation, and we use them to speed-up the recognition and to improve reliability. The system has been tested on a real-world scenario. In spite of the lack of accuracy of all the components and the uncontrolled environment, it grasps objects successfully on more than 95 percents of the trials.

@@ -1,0 +1,3 @@
+Markov Chain Lifting and Distributed ADMM
+
+The time to converge to the steady state of a finite Markov chain can be greatly reduced by a lifting operation, which creates a new Markov chain on an expanded state space. For a class of quadratic objectives, we show an analogous behavior where a distributed ADMM algorithm can be seen as a lifting of Gradient Descent algorithm. This provides a deep insight for its faster convergence rate under optimal parameter tuning. We conjecture that this gain is always present, as opposed to the lifting of a Markov chain which sometimes only provides a marginal speedup.

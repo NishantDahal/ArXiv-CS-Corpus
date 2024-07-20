@@ -1,0 +1,3 @@
+Towards Architectural Programming of Embedded Systems
+
+Integrating architectural elements with a modern programming language is essential to ensure a smooth combination of architectural design and programming. In this position statement, we motivate a combination of architectural description for distributed, asynchronously communicating systems and Java as an example for such an integration. The result is an ordinary programming language, that exhibits architecture, data structure and behavior within one view. Mappings or tracing between different views is unnecessary. A prototypical implementation of a compiler demonstrates the possibilities and challenges of architectural programming.

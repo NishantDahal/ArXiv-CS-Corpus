@@ -1,0 +1,3 @@
+A Branching Time Model of CSP
+
+I present a branching time model of CSP that is finer than all other models of CSP proposed thus far. It is obtained by taking a semantic equivalence from the linear time - branching time spectrum, namely divergence-preserving coupled similarity, and showing that it is a congruence for the operators of CSP. This equivalence belongs to the bisimulation family of semantic equivalences, in the sense that on transition systems without internal actions it coincides with strong bisimilarity. Nevertheless, enough of the equational laws of CSP remain to obtain a complete axiomatisation for closed, recursion-free terms.

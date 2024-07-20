@@ -1,0 +1,3 @@
+Outage Bound for Max-Based Downlink Scheduling With Imperfect CSIT and Delay Constraint
+
+We consider downlink max-based scheduling in which the base station and each user are equipped with a single antenna. In each time slot, the base station obtains channel gains of all users and selects the user with the largest squared channel gain. Assuming that channel state information at the transmitter (CSIT), i.e., squared channel gain, can be inaccurate, we derive lower bounds for probability of outage, which occurs when a required data rate is not satisfied under a delay constraint. The bounds are tight for Rayleigh fading and show how required rate and CSIT error affect outage performance.

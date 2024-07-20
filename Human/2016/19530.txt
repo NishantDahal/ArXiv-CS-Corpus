@@ -1,0 +1,4 @@
+HADES: Microprocessor Hazard Analysis via Formal Verification of Parameterized Systems
+
+HADES is a fully automated verification tool for pipeline-based microprocessors that aims at flaws caused by improperly handled data hazards. It focuses on single-pipeline microprocessors designed at the register transfer level (RTL) and deals with read-after-write, write-after-write, and write-after-read hazards. HADES combines several techniques, including data-flow analysis, error pattern matching, SMT solving, and abstract regular model checking. It has been successfully tested on several microprocessors for embedded applications.
+

@@ -1,0 +1,3 @@
+A simple en,ex marking rule for degenerate intersection points in 2D polygon clipping
+
+A simple en,ex rule to mark the intersection points of 2D input polygon contours separating the polygon interior from its exterior in the vicinity of the intersections is presented. Its form is close to the original Greiner & Hormann algorithm rule but encompasses degenerate intersections that are not self-intersections. It only uses local geometric information once the hand of the two input contours is known. The approach foundation is the distinction between two features of the studied intersections: the geometric intersection point and the assembling/concatenation point of the result contour/border. No special form of the intersection finding procedure is required.

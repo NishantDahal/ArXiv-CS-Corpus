@@ -1,0 +1,3 @@
+Model-based Testing of Mobile Systems -- An Empirical Study on QuizUp Android App
+
+We present an empirical study in which model-based testing (MBT) was applied to a mobile system: the Android client of QuizUp, the largest mobile trivia game in the world. The study shows that traditional MBT approaches based on extended finite-state machines can be  used to test a mobile app  in an effective and efficient way. Non-trivial defects were detected on a deployed system that has millions of users and was already well tested. The duration of the overall testing effort was of three months, including the construction of the models. Maintaining a single behavioral model for the app was key in order to test it in an efficient way. 

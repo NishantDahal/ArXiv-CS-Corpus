@@ -1,0 +1,3 @@
+Certifying Confluence Proofs via Relative Termination and Rule Labeling
+
+The rule labeling heuristic aims to establish confluence of (left-)linear term rewrite systems via decreasing diagrams. We present a formalization of a confluence criterion based on the interplay of relative termination and the rule labeling in the theorem prover Isabelle. Moreover, we report on the integration of this result into the certifier CeTA, facilitating the checking of confluence certificates based on decreasing diagrams. The power of the method is illustrated by an experimental evaluation on a (standard) collection of confluence problems.

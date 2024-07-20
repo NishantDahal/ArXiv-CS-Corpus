@@ -1,0 +1,3 @@
+Combinational neural network using Gabor filters for the classification of handwritten digits
+
+A classification algorithm that combines the components of k-nearest neighbours and multilayer neural networks has been designed and tested. With this method the computational time required for training the dataset has been reduced substancially. Gabor filters were used for the feature extraction to ensure a better performance. This algorithm is tested with MNIST dataset and it will be integrated as a module in the object recognition software which is currently under development.

@@ -1,0 +1,3 @@
+Approximating the minimum cycle mean
+
+We consider directed graphs where each edge is labeled with an integer weight and study the fundamental algorithmic question of computing the value of a cycle with minimum mean weight. Our contributions are twofold: (1) First we show that the algorithmic question is reducible in O(n^2) time to the problem of a logarithmic number of min-plus matrix multiplications of n-by-n matrices, where n is the number of vertices of the graph. (2) Second, when the weights are nonnegative, we present the first (1 + ε)-approximation algorithm for the problem and the running time of our algorithm is \tilde(O)(n^ωlog^3(nW/ε) / ε), where O(n^ω) is the time required for the classic n-by-n matrix multiplication and W is the maximum value of the weights.

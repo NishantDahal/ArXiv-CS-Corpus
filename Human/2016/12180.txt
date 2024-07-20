@@ -1,0 +1,3 @@
+Relationship between the Reprogramming Determinants of Boolean Networks and their Interaction Graph
+
+In this paper, we address the formal characterization of targets triggering cellular trans-differentiation in the scope of Boolean networks with asynchronous dynamics. Given two fixed points of a Boolean network, we are interested in all the combinations of mutations which allow to switch from one fixed point to the other, either possibly, or inevitably. In the case of existential reachability, we prove that the set of nodes to (permanently) flip are only and necessarily in certain connected components of the interaction graph. In the case of inevitable reachability, we provide an algorithm to identify a subset of possible solutions.

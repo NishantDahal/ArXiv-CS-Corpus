@@ -1,0 +1,3 @@
+Online Trajectory Segmentation and Summary With Applications to Visualization and Retrieval
+
+Trajectory segmentation is the process of subdividing a trajectory into parts either by grouping points similar with respect to some measure of interest, or by minimizing a global objective function. Here we present a novel online algorithm for segmentation and summary, based on point density along the trajectory, and based on the nature of the naturally occurring structure of intermittent bouts of locomotive and local activity. We show an application to visualization of trajectory datasets, and discuss the use of the summary as an index allowing efficient queries which are otherwise impossible or computationally expensive, over very large datasets.

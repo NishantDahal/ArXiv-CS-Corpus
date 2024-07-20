@@ -1,0 +1,3 @@
+GLR-Parsing of Word Lattices Using a Beam Search Method
+
+This paper presents an approach that allows the efficient integration of speech recognition and language understanding using Tomita's generalized LR-parsing algorithm. For this purpose the GLRP-algorithm is revised so that an agenda mechanism can be used to control the flow of computation of the parsing process. This new approach is used to integrate speech recognition and speech understanding incrementally with a beam search method. These considerations have been implemented and tested on ten word lattices.

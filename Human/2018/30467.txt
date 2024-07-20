@@ -1,0 +1,3 @@
+FAR-Cubicle - A new reachability algorithm for Cubicle
+
+We present a fully automatic algorithm for verifying safety properties of parameterized software systems. This algorithm is based on both IC3 and Lazy Annotation. We implemented it in Cubicle, a model checker for verifying safety properties of array-based systems. Cache-coherence protocols and mutual exclusion algorithms are known examples of such systems. Our algorithm iteratively builds an abstract reachability graph refining the set of reachable states from counterexamples. Refining is made through counterexample approximation. We show the effectiveness and limitations of this algorithm and tradeoffs that results from it.

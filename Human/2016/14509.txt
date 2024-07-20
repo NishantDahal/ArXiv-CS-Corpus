@@ -1,0 +1,3 @@
+Q-Learning with Basic Emotions
+
+Q-learning is a simple and powerful tool in solving dynamic problems where environments are unknown. It uses a balance of exploration and exploitation to find an optimal solution to the problem. In this paper, we propose using four basic emotions: joy, sadness, fear, and anger to influence a Qlearning agent. Simulations show that the proposed affective agent requires lesser number of steps to find the optimal path. We found when affective agent finds the optimal path, the ratio between exploration to exploitation gradually decreases, indicating lower total step count in the long run

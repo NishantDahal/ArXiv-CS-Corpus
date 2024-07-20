@@ -1,0 +1,3 @@
+A Review Study of NIST Statistical Test Suite: Development of an indigenous Computer Package
+
+A review study of NIST Statistical Test Suite is undertaken with a motivation to understand all its test algorithms and to write their C codes independently without looking at various sites mentioned in the NIST document. All the codes are tested with the test data given in the NIST document and excellent agreements have been found. The codes have been put together in a package executable in MS Windows platform. Based on the package, exhaustive test runs are executed on three PRNGs, e.g. LCG by Park & Miller, LCG by Knuth and BBSG. Our findings support the present belief that BBSG is a better PRNG than the other two.

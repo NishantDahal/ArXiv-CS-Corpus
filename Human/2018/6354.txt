@@ -1,0 +1,4 @@
+MDS matrices over small fields: A proof of the GM-MDS conjecture
+
+An MDS matrix is a matrix whose minors all have full rank. A question arising in coding theory is what zero patterns can MDS matrices have. There is a natural combinatorial characterization (called the MDS condition) which is necessary over any field, as well as sufficient over very large fields by a probabilistic argument.
+  Dau et al. (ISIT 2014) conjectured that the MDS condition is sufficient over small fields as well, where the construction of the matrix is algebraic instead of probabilistic. This is known as the GM-MDS conjecture. Concretely, if a $k \times n$ zero pattern satisfies the MDS condition, then they conjecture that there exists an MDS matrix with this zero pattern over any field of size $|\mathbb{F}| \ge n+k-1$. In recent years, this conjecture was proven in several special cases. In this work, we resolve the conjecture.

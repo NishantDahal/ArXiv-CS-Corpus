@@ -1,0 +1,3 @@
+Bounds on the Capacity of ASK Molecular Communication Channels with ISI
+
+There are now several works on the use of the additive inverse Gaussian noise (AIGN) model for the random transit time in molecular communication~(MC) channels. The randomness invariably causes inter-symbol interference (ISI) in MC, an issue largely ignored or simplified. In this paper we derive an upper bound and two lower bounds for MC based on amplitude shift keying (ASK) in presence of ISI. The Blahut-Arimoto algorithm~(BAA) is modified to find the input distribution of transmitted symbols to maximize the lower bounds. Our results show that over wide parameter values the bounds are close.

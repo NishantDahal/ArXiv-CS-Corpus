@@ -1,0 +1,3 @@
+Robust non-local means filter for ultrasound image denoising
+
+This paper introduces a new approach to non-local means image denoising. Instead of using all pixels located in the search window for estimating the value of a pixel, we identify the highly corrupted pixels and assign less weight to these pixels. This method is called robust non-local means. Numerical and subjective evaluations using ultrasound images show good performances of the proposed denoising method in recovering the shape of edges and important detailed components, in comparison to traditional ultrasound image denoising methods

@@ -1,0 +1,3 @@
+Making a Case for Learning Motion Representations with Phase
+
+This work advocates Eulerian motion representation learning over the current standard Lagrangian optical flow model. Eulerian motion is well captured by using phase, as obtained by decomposing the image through a complex-steerable pyramid. We discuss the gain of Eulerian motion in a set of practical use cases: (i) action recognition, (ii) motion prediction in static images, (iii) motion transfer in static images and, (iv) motion transfer in video. For each task we motivate the phase-based direction and provide a possible approach.

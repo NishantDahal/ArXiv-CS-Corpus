@@ -1,0 +1,6 @@
+Designing Deterministic Polynomial-Space Algorithms by Color-Coding Multivariate Polynomials
+
+In recent years, several powerful techniques have been developed to design {\em randomized} polynomial-space parameterized algorithms. In this paper, we introduce an enhancement of color coding to design deterministic polynomial-space parameterized algorithms. Our approach aims at reducing the number of random choices by exploiting the special structure of a solution. Using our approach, we derive the following deterministic algorithms (see Introduction for problem definitions).
+  1. Polynomial-space $O^*(3.86^k)$-time (exponential-space $O^*(3.41^k)$-time) algorithm for {\sc $k$-Internal Out-Branching}, improving upon the previously fastest {\em exponential-space} $O^*(5.14^k)$-time algorithm for this problem.
+  2. Polynomial-space $O^*((2e)^{k+o(k)})$-time (exponential-space $O^*(4.32^k)$-time) algorithm for {\sc $k$-Colorful Out-Branching} on arc-colored digraphs and {\sc $k$-Colorful Perfect Matching} on planar edge-colored graphs.
+  To obtain our polynomial space algorithms, we show that $(n,k,αk)$-splitters ($α\ge 1$) and in particular $(n,k)$-perfect hash families can be enumerated one by one with polynomial delay.

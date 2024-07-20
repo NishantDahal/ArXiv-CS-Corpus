@@ -1,0 +1,3 @@
+On the Containment Problem for Linear Sets
+
+It is well known that the containment problem (as well as the equivalence problem) for semilinear sets is $\log$-complete in $Π_2^p$. It had been shown quite recently that already the containment problem for multi-dimensional linear sets is $\log$-complete in $Π_2^p$ (where hardness even holds for a unary encoding of the numerical input parameters). In this paper, we show that already the containment problem for $1$-dimensional linear sets (with binary encoding of the numerical input parameters) is $\log$-hard (and therefore also $\log$-complete) in $Π_2^p$. However, combining both restrictions (dimension $1$ and unary encoding), the problem becomes solvable in polynomial time.

@@ -1,0 +1,3 @@
+Erlang Code Evolution Control (Use Cases)
+
+The main goal of this work is to show how SecEr can be used in different scenarios. Concretely, we demonstrate how a user can run SecEr to obtain reports about the behaviour preservation between versions as well as how a user can use SecEr to find the source of a discrepancy. The use cases presented are three: two completely different versions of the same program, an improvement in the performance of a function and a program where an error has been introduced. A complete description of the technique and the tool is available at [1] and [2].

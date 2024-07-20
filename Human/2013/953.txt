@@ -1,0 +1,3 @@
+Simpler and Faster Lempel Ziv Factorization
+
+We present a new, simple, and efficient approach for computing the Lempel-Ziv (LZ77) factorization of a string in linear time, based on suffix arrays. Computational experiments on various data sets show that our approach constantly outperforms the currently fastest algorithm LZ OG (Ohlebusch and Gog 2011), and can be up to 2 to 3 times faster in the processing after obtaining the suffix array, while requiring the same or a little more space.

@@ -1,0 +1,3 @@
+Testing Forest-Isomorphism in the Adjacency List Model
+
+We consider the problem of testing if two input forests are isomorphic or are far from being so. An algorithm is called an $\varepsilon$-tester for forest-isomorphism if given an oracle access to two forests $G$ and $H$ in the adjacency list model, with high probability, accepts if $G$ and $H$ are isomorphic and rejects if we must modify at least $\varepsilon n$ edges to make $G$ isomorphic to $H$. We show an $\varepsilon$-tester for forest-isomorphism with a query complexity $\mathrm{polylog}(n)$ and a lower bound of $Ω(\sqrt{\log{n}})$. Further, with the aid of the tester, we show that every graph property is testable in the adjacency list model with $\mathrm{polylog}(n)$ queries if the input graph is a forest.

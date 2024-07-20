@@ -1,0 +1,7 @@
+Efficient mixture model for clustering of sparse high dimensional binary data
+
+In this paper we propose a mixture model, SparseMix, for clustering of sparse high dimensional binary data, which connects model-based with centroid-based clustering. Every group is described by a representative and a probability distribution modeling dispersion from this representative. In contrast to classical mixture models based on EM algorithm, SparseMix:
+  -is especially designed for the processing of sparse data,
+  -can be efficiently realized by an on-line Hartigan optimization algorithm,
+  -is able to automatically reduce unnecessary clusters.
+  We perform extensive experimental studies on various types of data, which confirm that SparseMix builds partitions with higher compatibility with reference grouping than related methods. Moreover, constructed representatives often better reveal the internal structure of data.

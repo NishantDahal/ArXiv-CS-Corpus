@@ -1,0 +1,3 @@
+Planar Pixelations and Image Recognition
+
+Any subset of the plane can be approximated by a set of square pixels. This transition from a shape to its pixelation is rather brutal since it destroys geometric and topological information about the shape. Using a technique inspired by Morse Theory, we algorithmically produce a PL approximation of the original shape using only information from its pixelation. This approximation converges to the original shape in a very strong sense: as the size of the pixels goes to zero we can recover important geometric and topological invariants of the original shape such as Betti numbers, area, perimeter and curvature measures.

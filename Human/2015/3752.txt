@@ -1,0 +1,3 @@
+Semigroups and one-way functions
+
+We study the complexity classes P and NP through a semigroup fP ("polynomial-time functions"), consisting of all polynomially balanced polynomial-time computable partial functions. Then P is not equal to NP iff fP is a non-regular semigroup. The one-way functions considered here are based on worst-case complexity (they are not cryptographic); they are the non-regular elements of fP. We prove various properties of fP, e.g., that it is finitely generated. We define reductions with respect to which certain universal one-way functions are fP-complete.

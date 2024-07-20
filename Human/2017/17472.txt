@@ -1,0 +1,3 @@
+Compressão de dados sem perdas para dispositivos IoT
+
+In environments with energy and processing constraints, such as sensor networks and embedded devices, sending raw information over wireless networks can be costly. In order to reduce the amount of transmitted data and ultimately save energy, we can compress data before transmission. In this paper, we tackle such problem in the IoT domain by deploying two widely used libraries to deliver asynchronous messages and data compression/decompression. We evaluate both our methodology and the compression/decompression performance of the embedded library in a micro-controller for IoT.

@@ -1,0 +1,3 @@
+A hybrid scheme for encoding audio signal using hidden Markov models of waveforms
+
+This paper reports on recent results related to audiophonic signals encoding using time-scale and time-frequency transform. More precisely, non-linear, structured approximations for tonal and transient components using local cosine and wavelet bases will be described, yielding expansions of audio signals in the form tonal + transient + residual. We describe a general formulation involving hidden Markov models, together with corresponding rate estimates. Estimators for the balance transient/tonal are also discussed.

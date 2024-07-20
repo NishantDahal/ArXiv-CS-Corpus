@@ -1,0 +1,3 @@
+HomotopyContinuation.jl: A package for homotopy continuation in Julia
+
+We present the Julia package HomotopyContinuation.jl, which provides an algorithmic framework for solving polynomial systems by numerical homotopy continuation. We introduce the basic capabilities of the package and demonstrate the software on an illustrative example. We motivate our choice of Julia and how its features allow us to improve upon existing software packages with respect to usability, modularity and performance. Furthermore, we compare the performance of HomotopyContinuation.jl to the existing packages Bertini and PHCpack.

@@ -1,0 +1,3 @@
+Lost Audio Packets Steganography: The First Practical Evaluation
+
+This paper presents first experimental results for an IP telephony-based steganographic method called LACK (Lost Audio PaCKets steganography). This method utilizes the fact that in typical multimedia communication protocols like RTP (Real-Time Transport Protocol), excessively delayed packets are not used for the reconstruction of transmitted data at the receiver, i.e. these packets are considered useless and discarded. The results presented in this paper were obtained basing on a functional LACK prototype and show the method's impact on the quality of voice transmission. Achievable steganographic bandwidth for the different IP telephony codecs is also calculated.

@@ -1,0 +1,3 @@
+Diagrammatic confluence for Constraint Handling Rules
+
+Confluence is a fundamental property of Constraint Handling Rules (CHR) since, as in other rewriting formalisms, it guarantees that the computations are not dependent on rule application order, and also because it implies the logical consistency of the program declarative view. In this paper we are concerned with proving the confluence of non-terminating CHR programs. For this purpose, we derive from van Oostrom's decreasing diagrams method a novel criterion on CHR critical pairs that generalizes all preexisting criteria. We subsequently improve on a result on the modularity of CHR confluence, which permits modular combinations of possibly non-terminating confluent programs, without loss of confluence.

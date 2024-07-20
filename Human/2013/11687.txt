@@ -1,0 +1,3 @@
+Polsat: A Portfolio LTL Satisfiability Solver
+
+In this paper we present a portfolio LTL-satisfiability solver, called Polsat. To achieve fast satisfiability checking for LTL formulas, the tool integrates four representative LTL solvers: pltl, TRP++, NuSMV, and Aalta. The idea of Polsat is to run the component solvers in parallel to get best overall performance; once one of the solvers terminates, it stops all other solvers. Remarkably, the Polsat solver utilizes the power of modern multi-core compute clusters. The empirical experiments show that Polsat takes advantages of it. Further, Polsat is also a testing plat- form for all LTL solvers.

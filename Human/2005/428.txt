@@ -1,0 +1,4 @@
+Parametric Verification of a Group Membership Algorithm
+
+We address the problem of verifying clique avoidance in the TTP protocol. TTP allows several stations embedded in a car to communicate. It has many mechanisms to ensure robustness to faults. In particular, it has an algorithm that allows a station to recognize itself as faulty and leave the communication. This algorithm must satisfy the crucial 'non-clique' property: it is impossible to have two or more disjoint groups of stations communicating exclusively with stations in their own group.
+  In this paper, we propose an automatic verification method for an arbitrary number of stations $N$ and a given number of faults $k$. We give an abstraction that allows to model the algorithm by means of unbounded (parametric) counter automata. We have checked the non-clique property on this model in the case of one fault, using the ALV tool as well as the LASH tool.

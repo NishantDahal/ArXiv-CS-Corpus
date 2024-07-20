@@ -1,0 +1,4 @@
+Bisimilarity is not Borel
+
+We prove that the relation of bisimilarity between countable labelled transition systems is $Σ_1^1$-complete (hence not Borel), by reducing the set of non-wellorders over the natural numbers continuously to it.
+  This has an impact on the theory of probabilistic and nondeterministic processes over uncountable spaces, since logical characterizations of bisimilarity (as, for instance, those based on the unique structure theorem for analytic spaces) require a countable logic whose formulas have measurable semantics. Our reduction shows that such a logic does not exist in the case of image-infinite processes.

@@ -1,0 +1,3 @@
+Code Optimization in FORM
+
+We describe the implementation of output code optimization in the open source computer algebra system FORM. This implementation is based on recently discovered techniques of Monte Carlo tree search to find efficient multivariate Horner schemes, in combination with other optimization algorithms, such as common subexpression elimination. For systems for which no specific knowledge is provided it performs significantly better than other methods we could compare with. Because the method has a number of free parameters, we also show some methods by which to tune them to different types of problems.

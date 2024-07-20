@@ -1,0 +1,4 @@
+Local Training for PLDA in Speaker Verification
+
+PLDA is a popular normalization approach for the i-vector model, and it has delivered state-of-the-art performance in speaker verification. However, PLDA training requires a large amount of labeled development data, which is highly expensive in most cases. A possible approach to mitigate the problem is various unsupervised adaptation methods, which use unlabeled data to adapt the PLDA scattering matrices to the target domain.
+  In this paper, we present a new `local training' approach that utilizes inaccurate but much cheaper local labels to train the PLDA model. These local labels discriminate speakers within a single conversion only, and so are much easier to obtain compared to the normal `global labels'. Our experiments show that the proposed approach can deliver significant performance improvement, particularly with limited globally-labeled data.

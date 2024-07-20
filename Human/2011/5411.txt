@@ -1,0 +1,3 @@
+Tutorial on Online Partial Evaluation
+
+This paper is a short tutorial introduction to online partial evaluation.  We show how to write a simple online partial evaluator for a simple, pure, first-order, functional programming language.  In particular, we show that the partial evaluator can be derived as a variation on a compositionally defined interpreter.  We demonstrate the use of the resulting partial evaluator for program optimization in the context of model-driven development.

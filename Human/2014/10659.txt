@@ -1,0 +1,3 @@
+Link Prediction in Complex Networks: A Mutual Information Perspective
+
+Topological properties of networks are widely applied to study the link-prediction problem recently. Common Neighbors, for example, is a natural yet efficient framework. Many variants of Common Neighbors have been thus proposed to further boost the discriminative resolution of candidate links. In this paper, we reexamine the role of network topology in predicting missing links from the perspective of information theory, and present a practical approach based on the mutual information of network structures. It not only can improve the prediction accuracy substantially, but also experiences reasonable computing complexity.

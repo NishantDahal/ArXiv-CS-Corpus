@@ -1,0 +1,3 @@
+Far-HO: A Bilevel Programming Package for Hyperparameter Optimization and Meta-Learning
+
+In (Franceschi et al., 2018) we proposed a unified mathematical framework, grounded on bilevel programming, that encompasses gradient-based hyperparameter optimization and meta-learning. We formulated an approximate version of the problem where the inner objective is solved iteratively, and gave sufficient conditions ensuring convergence to the exact problem. In this work we show how to optimize learning rates, automatically weight the loss of single examples and learn hyper-representations with Far-HO, a software package based on the popular deep learning framework TensorFlow that allows to seamlessly tackle both HO and ML problems.

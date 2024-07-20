@@ -1,0 +1,3 @@
+GRAD: On Graph Database Modeling
+
+Graph databases have emerged as the fundamental technology underpinning trendy application domains where traditional databases are not well-equipped to handle complex graph data. However, current graph databases support basic graph structures and integrity constraints with no standard algebra. In this paper, we introduce GRAD, a native and generic graph database model. GRAD goes beyond traditional graph database models, which support simple graph structures and constraints. Instead, GRAD presents a complete graph database model supporting advanced graph structures, a set of well-defined constraints over these structures and a powerful graph analysis-oriented algebra.

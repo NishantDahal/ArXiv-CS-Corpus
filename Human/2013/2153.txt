@@ -1,0 +1,6 @@
+A Map-Reduce Parallel Approach to Automatic Synthesis of Control Software
+
+Many Control Systems are indeed Software Based Control Systems, i.e. control systems whose controller consists of control software running on a microcontroller device. This motivates investigation on Formal Model Based Design approaches for automatic synthesis of control software.
+  Available algorithms and tools (e.g., QKS) may require weeks or even months of computation to synthesize control software for large-size systems. This motivates search for parallel algorithms for control software synthesis.
+  In this paper, we present a Map-Reduce style parallel algorithm for control software synthesis when the controlled system (plant) is modeled as discrete time linear hybrid system. Furthermore we present an MPI-based implementation PQKS of our algorithm. To the best of our knowledge, this is the first parallel approach for control software synthesis.
+  We experimentally show effectiveness of PQKS on two classical control synthesis problems: the inverted pendulum and the multi-input buck DC/DC converter. Experiments show that PQKS efficiency is above 65%. As an example, PQKS requires about 16 hours to complete the synthesis of control software for the pendulum on a cluster with 60 processors, instead of the 25 days needed by the sequential algorithm in QKS.

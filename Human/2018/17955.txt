@@ -1,0 +1,3 @@
+Minimum distance computation of linear codes via genetic algorithms with permutation encoding
+
+We design a heuristic method, a genetic algorithm, for the computation of an upper bound of the minimum distance of a linear code over a finite field. By the use of the row reduced echelon form, we obtain a permutation encoding of the problem, so that its space of solutions does not depend on the size of the base field or the dimension of the code. Actually, the efficiency of our method only grows non-polynomially with respect to the length of the code.

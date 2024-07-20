@@ -1,0 +1,3 @@
+On the Factor Revealing LP Approach for Facility Location with Penalties
+
+We consider the uncapacitated facility location problem with (linear) penalty function and show that a modified JMS algorithm, combined with a randomized LP rounding technique due to Byrka-Aardal[1], Li[14] and Li et al.[16] yields 1.488 approximation, improving the factor 1.5148 due to Li et al.[16]. This closes the current gap between the classical facility location problem and this penalized variant. Main ingredient is a straightforward adaptation of the JMS algorithm to the penalty setting plus a consistent use of the upper bounding technique for factor revealing LPs due to Fernandes et al.[7]. In contrast to the bounds in [12], our factor revealing LP is monotone.

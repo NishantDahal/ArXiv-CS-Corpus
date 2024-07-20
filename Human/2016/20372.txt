@@ -1,0 +1,3 @@
+Automata for Specifying and Orchestrating Service Contracts
+
+An approach to the formal description of service contracts is presented in terms of automata. We focus on the basic property of guaranteeing that in the multi-party composition of principals each of them gets his requests satisfied, so that the overall composition reaches its goal. Depending on whether requests are satisfied synchronously or asynchronously, we construct an orchestrator that at static time either yields composed services enjoying the required properties or detects the principals responsible for possible violations. To do that in the asynchronous case we resort to Linear Programming techniques. We also relate our automata with two logically based methods for specifying contracts.

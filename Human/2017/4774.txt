@@ -1,0 +1,3 @@
+$K$-Best Solutions of MSO Problems on Tree-Decomposable Graphs
+
+We show that, for any graph optimization problem in which the feasible solutions can be expressed by a formula in monadic second-order logic describing sets of vertices or edges and in which the goal is to minimize the sum of the weights in the selected sets, we can find the $k$ best solutions for $n$-vertex graphs of bounded treewidth in time $\mathcal O(n+k\log n)$. In particular, this applies to the problem of finding the $k$ shortest simple paths between given vertices in directed graphs of bounded treewidth, giving an exponential speedup in the per-path cost over previous algorithms.

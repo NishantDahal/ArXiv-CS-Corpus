@@ -1,0 +1,3 @@
+Low-rank matrix recovery via rank one tight frame measurements
+
+The task of reconstructing a low rank matrix from incomplete linear measurements arises in areas such as machine learning, quantum state tomography and in the phase retrieval problem. In this note, we study the particular setup that the measurements are taken with respect to rank one matrices constructed from the elements of a random tight frame. We consider a convex optimization approach and show both robustness of the reconstruction with respect to noise on the measurements as well as stability with respect to passing to approximately low rank matrices. This is achieved by establishing a version of the null space property of the corresponding measurement map.

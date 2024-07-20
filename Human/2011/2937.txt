@@ -1,0 +1,3 @@
+Typing a Core Binary Field Arithmetic in a Light Logic
+
+We design a library for binary field arithmetic and we supply a core API which is completely developed in DLAL, extended with a fix point formula. Since DLAL is a restriction of linear logic where only functional programs with polynomial evaluation cost can be typed, we obtain the core of a functional programming setting for binary field arithmetic with built-in polynomial complexity.

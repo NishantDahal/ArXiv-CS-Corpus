@@ -1,0 +1,3 @@
+Advancing Dynamic Fault Tree Analysis
+
+This paper presents a new state space generation approach for dynamic fault trees (DFTs) together with a technique to synthesise failures rates in DFTs. Our state space generation technique aggressively exploits the DFT structure --- detecting symmetries, spurious non-determinism, and don't cares. Benchmarks show a gain of more than two orders of magnitude in terms of state space generation and analysis time. Our approach supports DFTs with symbolic failure rates and is complemented by parameter synthesis. This enables determining the maximal tolerable failure rate of a system component while ensuring that the mean time of failure stays below a threshold.

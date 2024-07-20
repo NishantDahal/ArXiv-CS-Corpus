@@ -1,0 +1,3 @@
+SuperMinHash - A New Minwise Hashing Algorithm for Jaccard Similarity Estimation
+
+This paper presents a new algorithm for calculating hash signatures of sets which can be directly used for Jaccard similarity estimation. The new approach is an improvement over the MinHash algorithm, because it has a better runtime behavior and the resulting signatures allow a more precise estimation of the Jaccard index.

@@ -1,0 +1,4 @@
+A Word Grammar of Turkish with Morphophonemic Rules
+
+In this thesis, morphological description of Turkish is encoded using the two-level model. This description is made up of the phonological component that contains the two-level morphophonemic rules, and the lexicon component which lists the lexical items and encodes the morphotactic constraints. The word grammar is expressed in tabular form. It includes the verbal and the nominal paradigm. Vowel and consonant harmony, epenthesis, reduplication, etc. are described in detail and coded in two-level notation. Loan-word phonology is modelled separately.
+  The implementation makes use of Lexc/Twolc from Xerox. Mechanisms to integrate the morphological analyzer with the lexical and syntactic components are discussed, and a simple graphical user interface is provided. Work is underway to use this model in a classroom setting for teaching Turkish morphology to non-native speakers.

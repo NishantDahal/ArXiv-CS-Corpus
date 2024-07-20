@@ -1,0 +1,3 @@
+A parameterless scale-space approach to find meaningful modes in histograms - Application to image and spectrum segmentation
+
+In this paper, we present an algorithm to automatically detect meaningful modes in a histogram. The proposed method is based on the behavior of local minima in a scale-space representation. We show that the detection of such meaningful modes is equivalent in a two classes clustering problem on the length of minima scale-space curves. The algorithm is easy to implement, fast, and does not require any parameters. We present several results on histogram and spectrum segmentation, grayscale image segmentation and color image reduction.

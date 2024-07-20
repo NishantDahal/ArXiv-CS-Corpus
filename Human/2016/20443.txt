@@ -1,0 +1,3 @@
+Prefix frequency of lost positions
+
+The concept of "lost positions" is a recently introduced tool for counting the number of runs in words. We investigate the frequency of lost positions in prefixes of words. This leads to an algorithm that allows to show, using an extensive computer search, that the asymptotic density of runs in binary words is less than $183/193\approx 0.9482$.

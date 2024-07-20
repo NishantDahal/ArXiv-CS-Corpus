@@ -1,0 +1,4 @@
+Fast Distributed Algorithms for Testing Graph Properties
+
+We initiate a thorough study of \emph{distributed property testing} -- producing algorithms for the approximation problems of property testing in the CONGEST model. In particular, for the so-called \emph{dense} testing model we emulate sequential tests for nearly all graph properties having $1$-sided tests, while in the \emph{sparse} and \emph{general} models we obtain faster tests for triangle-freeness and bipartiteness respectively.
+  In most cases, aided by parallelism, the distributed algorithms have a much shorter running time as compared to their counterparts from the sequential querying model of traditional property testing. The simplest property testing algorithms allow a relatively smooth transitioning to the distributed model. For the more complex tasks we develop new machinery that is of independent interest. This includes a method for distributed maintenance of multiple random walks.

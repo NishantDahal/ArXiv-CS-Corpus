@@ -1,0 +1,3 @@
+The Automatic Training of Rule Bases that Use Numerical Uncertainty Representations
+
+The use of numerical uncertainty representations allows better modeling of some aspects of human evidential reasoning. It also makes knowledge acquisition and system development, test, and modification more difficult. We propose that where possible, the assignment and/or refinement of rule weights should be performed automatically. We present one approach to performing this training - numerical optimization - and report on the results of some preliminary tests in training rule bases. We also show that truth maintenance can be used to make training more efficient and ask some epistemological questions raised by training rule weights.

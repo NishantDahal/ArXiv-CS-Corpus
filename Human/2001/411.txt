@@ -1,0 +1,3 @@
+Teaching Parallel Programming Using Both High-Level and Low-Level Languages
+
+We discuss the use of both MPI and OpenMP in the teaching of senior undergraduate and junior graduate classes in parallel programming. We briefly introduce the OpenMP standard and discuss why we have chosen to use it in parallel programming classes. Advantages of using OpenMP over message passing methods are discussed. We also include a brief enumeration of some of the drawbacks of using OpenMP and how these drawbacks are being addressed by supplementing OpenMP with additional MPI codes and projects. Several projects given in my class are also described in this paper.

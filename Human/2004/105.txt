@@ -1,0 +1,5 @@
+Transformations of Logic Programs with Goals as Arguments
+
+We consider a simple extension of logic programming where variables may range over goals and goals may be arguments of predicates. In this language we can write logic programs which use goals as data. We give practical evidence that, by exploiting this capability when transforming programs, we can improve program efficiency.
+  We propose a set of program transformation rules which extend the familiar unfolding and folding rules and allow us to manipulate clauses with goals which occur as arguments of predicates. In order to prove the correctness of these transformation rules, we formally define the operational semantics of our extended logic programming language. This semantics is a simple variant of LD-resolution. When suitable conditions are satisfied this semantics agrees with LD-resolution and, thus, the programs written in our extended language can be run by ordinary Prolog systems.
+  Our transformation rules are shown to preserve the operational semantics and termination.

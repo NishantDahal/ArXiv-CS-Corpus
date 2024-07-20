@@ -1,0 +1,3 @@
+Monadic Datalog Containment on Trees Using the Descendant-Axis
+
+In their AMW14-paper, Frochaux, Grohe, and Schweikardt showed that the query containment problem for monadic datalog on finite unranked labeled trees is Exptime-complete when (a) considering unordered trees using the child-axis, and when (b) considering ordered trees using the axes firstchild, nextsibling, and child. Furthermore, when allowing to use also the descendant-axis, the query containment problem was shown to be solvable in 2-fold exponential time, but it remained open to determine the problems exact complexity in presence of the descendant-axis. The present paper closes this gap by showing that, in the presence of the descendant-axis, the problem is 2Exptime-hard.

@@ -1,0 +1,3 @@
+Constant-Factor Optimization of Quantum Adders on 2D Quantum Architectures
+
+Quantum arithmetic circuits have practical applications in various quantum algorithms. In this paper, we address quantum addition on 2-dimensional nearest-neighbor architectures based on the work presented by Choi and Van Meter (JETC 2012). To this end, we propose new circuit structures for some basic blocks in the adder, and reduce communication overhead by adding concurrency to consecutive blocks and also by parallel execution of expensive Toffoli gates. The proposed optimizations reduce total depth from $140\sqrt n+k_1$ to $92\sqrt n+k_2$ for constants $k_1,k_2$ and affect the computation fidelity considerably.

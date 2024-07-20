@@ -1,0 +1,3 @@
+PaxosLease: Diskless Paxos for Leases
+
+This paper describes PaxosLease, a distributed algorithm for lease negotiation. PaxosLease is based on Paxos, but does not require disk writes or clock synchrony. PaxosLease is used for master lease negotation in the open-source Keyspace and ScalienDB replicated key-value stores.

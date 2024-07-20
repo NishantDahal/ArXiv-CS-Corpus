@@ -1,0 +1,3 @@
+Computing the Tutte Polynomial of Lattice Path Matroids Using Determinantal Circuits
+
+We give a quantum-inspired $O(n^4)$ algorithm computing the Tutte polynomial of a lattice path matroid, where $n$ is the size of the ground set of the matroid. Furthermore, this can be improved to $O(n^2)$ arithmetic operations if we evaluate the Tutte polynomial on a given input, fixing the values of the variables. The best existing algorithm, found in 2004, was $O(n^5)$, and the problem has only been known to be polynomial time since 2003. Conceptually, our algorithm embeds the computation in a determinant using a recently demonstrated equivalence of categories useful for counting problems such as those that appear in simulating quantum systems.

@@ -1,0 +1,3 @@
+Automata-Guided Hierarchical Reinforcement Learning for Skill Composition
+
+Skills learned through (deep) reinforcement learning often generalizes poorly across domains and re-training is necessary when presented with a new task. We present a framework that combines techniques in \textit{formal methods} with \textit{reinforcement learning} (RL). The methods we provide allows for convenient specification of tasks with logical expressions, learns hierarchical policies (meta-controller and low-level controllers) with well-defined intrinsic rewards, and construct new skills from existing ones with little to no additional exploration. We evaluate the proposed methods in a simple grid world simulation as well as a more complicated kitchen environment in AI2Thor

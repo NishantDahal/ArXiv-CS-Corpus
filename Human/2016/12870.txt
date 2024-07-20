@@ -1,0 +1,7 @@
+Hardness of Permutation Pattern Matching
+
+Permutation Pattern Matching (or PPM) is a decision problem whose input is a pair of permutations $π$ and $τ$, represented as sequences of integers, and the task is to determine whether $τ$ contains a subsequence order-isomorphic to $π$. Bose, Buss and Lubiw proved that PPM is NP-complete on general inputs.
+  We show that PPM is NP-complete even when $π$ has no decreasing subsequence of length 3 and $τ$ has no decreasing subsequence of length 4. This provides the first known example of PPM being hard when one or both of $π$ and $σ$ are restricted to a proper hereditary class of permutations.
+  This hardness result is tight in the sense that PPM is known to be polynomial when both $π$ and $τ$ avoid a decreasing subsequence of length 3, as well as when $π$ avoids a decreasing subsequence of length 2. The result is also tight in another sense: we will show that for any hereditary proper subclass C of the class of permutations avoiding a decreasing sequence of length 3, there is a polynomial algorithm solving PPM instances where $π$ is from C and $τ$ is arbitrary.
+  We also obtain analogous hardness and tractability results for the class of so-called skew-merged patterns.
+  From these results, we deduce a complexity dichotomy for the PPM problem restricted to $π$ belonging to $Av(ρ)$, where $Av(ρ)$ denotes the class of permutations avoiding a permutation $ρ$. Specifically, we show that the problem is polynomial when $ρ$ is in the set {1, 12, 21, 132, 213, 231, 312}, and it is NP-complete for any other $ρ$.

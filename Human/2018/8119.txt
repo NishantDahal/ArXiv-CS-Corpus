@@ -1,0 +1,5 @@
+Top-down and Bottom-up Evaluation Procedurally Integrated
+
+This paper describes how XSB combines top-down and bottom-up computation through the mechanisms of variant tabling and subsumptive tabling with abstraction, respectively.
+  It is well known that top-down evaluation of logical rules in Prolog has a procedural interpretation as recursive procedure invocation (Kowalski 1986). Tabling adds the intuition of short-circuiting redundant computations (Warren 1992) .This paper shows how to introduce into tabled logic program evaluation a bottom-up component, whose procedural intuition is the initialization of a data structure, in which a relation is initially computed and filled, on first demand, and then used throughout the remainder of a larger computation for efficient lookup. This allows many Prolog programs to be expressed fully declaratively, programs which formerly required procedural features, such as assert, to be made efficient.
+  This paper is under consideration for acceptance in "Theory and Practice of Logic Programming (TPLP)".

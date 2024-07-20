@@ -1,0 +1,11 @@
+Proceedings Third Workshop on Models for Formal Analysis of Real Systems and Sixth International Workshop on Verification and Program Transformation
+
+This volume contains the joint proceedings of MARS 2018, the third workshop on Models for Formal Analysis of Real Systems, and VPT 2018, the sixth international workshop on Verification and Program Transformation, held together on April 20, 2018 in Thessaloniki, Greece, as part of ETAPS 2018, the European Joint Conferences on Theory and Practice of Software.
+  MARS emphasises modelling over verification. It aims at discussing the lessons learned from making formal methods for the verification and analysis of realistic systems. Examples are:
+  (1) Which formalism is chosen, and why?
+  (2) Which abstractions have to be made and why?
+  (3) How are important characteristics of the system modelled?
+  (4) Were there any complications while modelling the system?
+  (5) Which measures were taken to guarantee the accuracy of the model?
+  We invited papers that present full models of real systems, which may lay the basis for future comparison and analysis. An aim of the workshop is to present different modelling approaches and discuss pros and cons for each of them. Alternative formal descriptions of the systems presented at this workshop are encouraged, which should foster the development of improved specification formalisms.
+  VPT aims to provide a forum where people from the areas of program transformation and program verification can fruitfully exchange ideas and gain a deeper understanding of the interactions between those two fields. These interactions have been beneficial in both directions. On the one hand, methods and tools developed in the field of program transformation, such as partial deduction, partial evaluation, fold/unfold transformations, and supercompilation, are applied with success to verification, in particular to the verification of infinite state and parameterized systems. On the other hand, methods developed in program verification, such as model checking, abstract interpretation, SAT and SMT solving, and automated theorem proving, are used to enhance program transformation techniques, thereby making these techniques more powerful and useful in practice.

@@ -1,0 +1,3 @@
+Fast Context-Free Parsing Requires Fast Boolean Matrix Multiplication
+
+Valiant showed that Boolean matrix multiplication (BMM) can be used for CFG parsing. We prove a dual result: CFG parsers running in time $O(|G||w|^{3 - \myeps})$ on a grammar $G$ and a string $w$ can be used to multiply $m \times m$ Boolean matrices in time $O(m^{3 - \myeps/3})$. In the process we also provide a formal definition of parsing motivated by an informal notion due to Lang. Our result establishes one of the first limitations on general CFG parsing: a fast, practical CFG parser would yield a fast, practical BMM algorithm, which is not believed to exist.

@@ -1,0 +1,4 @@
+Split, Send, Reassemble: A Formal Specification of a CAN Bus Protocol Stack
+
+We present a formal model for a fragmentation and a reassembly protocol running on top of the standardised CAN bus, which is widely used in automotive and aerospace applications. Although the CAN bus comes with an in-built mechanism for prioritisation, we argue that this is not sufficient and provide another protocol to overcome this shortcoming.
+

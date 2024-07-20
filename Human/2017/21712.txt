@@ -1,0 +1,3 @@
+Normalisation by Evaluation for Type Theory, in Type Theory
+
+We develop normalisation by evaluation (NBE) for dependent types based on presheaf categories. Our construction is formulated in the metalanguage of type theory using quotient inductive types. We use a typed presentation hence there are no preterms or realizers in our construction, and every construction respects the conversion relation. NBE for simple types uses a logical relation between the syntax and the presheaf interpretation. In our construction, we merge the presheaf interpretation and the logical relation into a proof-relevant logical predicate. We prove normalisation, completeness, stability and decidability of definitional equality. Most of the constructions were formalized in Agda.

@@ -1,0 +1,3 @@
+On the Erdos-Szekeres convex polygon problem
+
+Let $ES(n)$ be the smallest integer such that any set of $ES(n)$ points in the plane in general position contains $n$ points in convex position. In their seminal 1935 paper, Erdos and Szekeres showed that $ES(n) \leq {2n - 4\choose n-2} + 1 = 4^{n -o(n)}$. In 1960, they showed that $ES(n) \geq 2^{n-2} + 1$ and conjectured this to be optimal. In this paper, we nearly settle the Erdos-Szekeres conjecture by showing that $ES(n) =2^{n +o(n)}$.

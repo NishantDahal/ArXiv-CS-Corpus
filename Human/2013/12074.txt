@@ -1,0 +1,4 @@
+Compositions and collisions at degree p^2
+
+A univariate polynomial f over a field is decomposable if f = g o h = g(h) for nonlinear polynomials g and h. In order to count the decomposables, one wants to know, under a suitable normalization, the number of equal-degree collisions of the form f = g o h = g^* o h^* with (g, h) = (g^*, h^*) and deg g = deg g^*. Such collisions only occur in the wild case, where the field characteristic p divides deg f. Reasonable bounds on the number of decomposables over a finite field are known, but they are less sharp in the wild case, in particular for degree p^2.
+  We provide a classification of all polynomials of degree p^2 with a collision. It yields the exact number of decomposable polynomials of degree p^2 over a finite field of characteristic p. We also present an efficient algorithm that determines whether a given polynomial of degree p^2 has a collision or not.

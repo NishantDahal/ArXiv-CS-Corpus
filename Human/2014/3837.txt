@@ -1,0 +1,3 @@
+Hardware Efficient WiMAX Deinterleaver Capable of Address Generation for Random Interleaving Depths
+
+The variation in the prescribed modulation schemes and code rates for WiMAX interleaver design, as defined by IEEE 802.16 standard, demands a plethora of hardware if all the modulation schemes and code rates have to be unified into a single electronic device. Add to this the complexities involved with the algorithms and permutations of the WiMAX standard, invariably dependent on floor function which is extremely hardware inefficient. This paper is an attempt towards removing the complexities and excess hardware involvement in the implementation of the permutations involved in Deinterleaver designs as defined by IEEE 802.16

@@ -1,0 +1,3 @@
+Adversarial Attacks on Variational Autoencoders
+
+Adversarial attacks are malicious inputs that derail machine-learning models. We propose a scheme to attack autoencoders, as well as a quantitative evaluation framework that correlates well with the qualitative assessment of the attacks. We assess --- with statistically validated experiments --- the resistance to attacks of three variational autoencoders (simple, convolutional, and DRAW) in three datasets (MNIST, SVHN, CelebA), showing that both DRAW's recurrence and attention mechanism lead to better resistance. As autoencoders are proposed for compressing data --- a scenario in which their safety is paramount --- we expect more attention will be given to adversarial attacks on them.

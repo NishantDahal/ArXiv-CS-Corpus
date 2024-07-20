@@ -1,0 +1,3 @@
+Multi-Vehicle Cooperative Control Using Mixed Integer Linear Programming
+
+We present methods to synthesize cooperative strategies for multi-vehicle control problems using mixed integer linear programming. Complex multi-vehicle control problems are expressed as mixed logical dynamical systems. Optimal strategies for these systems are then solved for using mixed integer linear programming. We motivate the methods on problems derived from an adversarial game between two teams of robots called RoboFlag. We assume the strategy for one team is fixed and governed by state machines. The strategy for the other team is generated using our methods. Finally, we perform an average case computational complexity study on our approach.

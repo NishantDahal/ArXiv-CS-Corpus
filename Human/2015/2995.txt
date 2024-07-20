@@ -1,0 +1,3 @@
+A Class of Random Sequences for Key Generation
+
+This paper investigates randomness properties of sequences derived from Fibonacci and Gopala-Hemachandra sequences modulo m for use in key distribution applications. We show that for sequences modulo a prime a binary random sequence B(n) is obtained based on whether the period is p-1 (or a divisor) or 2p+2 (or a divisor). For the more general case of arbitrary m, we use the property if the period is a multiple of 8 or not. The sequences for prime modulo have much better autocorrelation properties. These are good candidates for key distribution since the generation process is not computationally complex.

@@ -1,0 +1,3 @@
+A DCT Approximation for Image Compression
+
+An orthogonal approximation for the 8-point discrete cosine transform (DCT) is introduced. The proposed transformation matrix contains only zeros and ones; multiplications and bit-shift operations are absent. Close spectral behavior relative to the DCT was adopted as design criterion. The proposed algorithm is superior to the signed discrete cosine transform. It could also outperform state-of-the-art algorithms in low and high image compression scenarios, exhibiting at the same time a comparable computational complexity.

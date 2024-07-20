@@ -1,0 +1,3 @@
+On the Design of Deterministic Matrices for Fast Recovery of Fourier Compressible Functions
+
+We present a general class of compressed sensing matrices which are then demonstrated to have associated sublinear-time sparse approximation algorithms. We then develop methods for constructing specialized matrices from this class which are sparse when multiplied with a discrete Fourier transform matrix. Ultimately, these considerations improve previous sampling requirements for deterministic sparse Fourier transform methods.

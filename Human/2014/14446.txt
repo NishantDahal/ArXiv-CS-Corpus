@@ -1,0 +1,3 @@
+Multi-Group Testing for Items with Real-Valued Status under Standard Arithmetic
+
+This paper proposes a novel generalization of group testing, called multi-group testing, which relaxes the notion of "testing subset" in group testing to "testing multi-set". The generalization aims to learn more information of each item to be tested rather than identify only defectives as was done in conventional group testing. This paper provides efficient nonadaptive strategies for the multi-group testing problem. The major tool is a new structure, $q$-ary additive $(w,d)$-disjunct matrix, which is a generalization of the well-known binary disjunct matrix introduced by Kautz and Singleton in 1964.

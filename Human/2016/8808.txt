@@ -1,0 +1,3 @@
+Locality based Core Selection for Multicore Shared Tree Multicasting
+
+Multicasting can be done in two different ways: source based tree approach and shared tree approach. Protocols such as Core Based Tree (CBT), Protocol Independent Multicasting Sparse Mode (PIM-SM) use shared tree approach. Shared tree approach is preferred over source-based tree approach because in the later construction of minimum cost tree per source is needed unlike a single shared tree in the former approach. In this paper, we present a candidate core selection approach for shared tree multicasting so that in a multicast session different senders can select different cores from the candidate core set based on the senders' physical locations to allow an efficient multicore multicasting approach.

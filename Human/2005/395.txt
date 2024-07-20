@@ -1,0 +1,3 @@
+SWAF: Swarm Algorithm Framework for Numerical Optimization
+
+A swarm algorithm framework (SWAF), realized by agent-based modeling, is presented to solve numerical optimization problems. Each agent is a bare bones cognitive architecture, which learns knowledge by appropriately deploying a set of simple rules in fast and frugal heuristics. Two essential categories of rules, the generate-and-test and the problem-formulation rules, are implemented, and both of the macro rules by simple combination and subsymbolic deploying of multiple rules among them are also studied. Experimental results on benchmark problems are presented, and performance comparison between SWAF and other existing algorithms indicates that it is efficiently.

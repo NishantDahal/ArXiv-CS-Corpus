@@ -1,0 +1,3 @@
+An algorithm to compute the differential equations for the logarithm of a polynomial
+
+We present an algorithm to compute the annihilator of (i.e., the linear differential equations for) the logarithm of a polynomial in the ring of differential operators with polynomial coefficients. The algorithm consists of differentiation with respect to the parameter s of the annihilator of f^s for a polynomial f and quotient computation. More generally, the annihilator of f^s(log f)^m for a complex number s and a positive integer m can be computed, which constitutes what is called a holonomic system in D-module theory. This enables us to compute a holonomic system for the integral of a function involving the logarithm of a polynomial by using integration algorithm for D-modules.

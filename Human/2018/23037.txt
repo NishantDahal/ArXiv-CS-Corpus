@@ -1,0 +1,7 @@
+Robust Multiplication-based Tests for Reed-Muller Codes
+
+We consider the following multiplication-based tests to check if a given function $f: \mathbb{F}_q^n\to \mathbb{F}_q$ is a codeword of the Reed-Muller code of dimension $n$ and order $d$ over the finite field $\mathbb{F}_q$ for prime $q$ (i.e., $f$ is the evaluation of a degree-$d$ polynomial over $\mathbb{F}_q$ for $q$ prime).
+  * $\mathrm{Test}_{e,k}$: Pick $P_1,\ldots,P_k$ independent random degree-$e$ polynomials and accept iff the function $fP_1\cdots P_k$ is the evaluation of a degree-$(d+ek)$ polynomial (i.e., is a codeword of the Reed-Muller code of dimension $n$ and order $(d+ek)$).
+  We prove the robust soundness of the above tests for large values of $e$, answering a question of Dinur and Guruswami [Israel Journal of Mathematics, 209:611-649, 2015]. Previous soundness analyses of these tests were known only for the case when either $e=1$ or $k=1$. Even for the case $k=1$ and $e>1$, earlier soundness analyses were not robust.
+  We also analyze a derandomized version of this test, where (for example) the polynomials $P_1,\dots,P_k$ can be the same random polynomial $P$. This generalizes a result of Guruswami et al. [SIAM J. Comput., 46(1):132-159, 2017].
+  One of the key ingredients that go into the proof of this robust soundness is an extension of the standard Schwartz-Zippel lemma over general finite fields $\mathbb{F}_q$, which may be of independent interest.

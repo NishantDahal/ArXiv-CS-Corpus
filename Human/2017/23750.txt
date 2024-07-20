@@ -1,0 +1,3 @@
+On- and Off-Policy Monotonic Policy Improvement
+
+Monotonic policy improvement and off-policy learning are two main desirable properties for reinforcement learning algorithms. In this paper, by lower bounding the performance difference of two policies, we show that the monotonic policy improvement is guaranteed from on- and off-policy mixture samples. An optimization procedure which applies the proposed bound can be regarded as an off-policy natural policy gradient method. In order to support the theoretical result, we provide a trust region policy optimization method using experience replay as a naive application of our bound, and evaluate its performance in two classical benchmark problems.

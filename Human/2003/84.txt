@@ -1,0 +1,3 @@
+A Framework for Datatype Transformation
+
+We study one dimension in program evolution, namely the evolution of the datatype declarations in a program. To this end, a suite of basic transformation operators is designed. We cover structure-preserving refactorings, but also structure-extending and -reducing adaptations. Both the object programs that are subject to datatype transformations, and the meta programs that encode datatype transformations are functional programs.

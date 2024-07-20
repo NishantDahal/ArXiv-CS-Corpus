@@ -1,0 +1,3 @@
+Generalized Mode and Ridge Estimation
+
+The generalized density is a product of a density function and a weight function. For example, the average local brightness of an astronomical image is the probability of finding a galaxy times the mean brightness of the galaxy. We propose a method for studying the geometric structure of generalized densities. In particular, we show how to find the modes and ridges of a generalized density function using a modification of the mean shift algorithm and its variant, subspace constrained mean shift. Our method can be used to perform clustering and to calculate a measure of connectivity between clusters. We establish consistency and rates of convergence for our estimator and apply the methods to data from two astronomical problems.

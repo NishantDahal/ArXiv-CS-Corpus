@@ -1,0 +1,4 @@
+Functional framework for representing and transforming quantum channels
+
+We develop a framework which aims to simplify the analysis of quantum states and quantum operations by harnessing the potential of function programming paradigm. We show that the introduced framework allows a seamless manipulation of quantum channels, in particular to convert between different representations of quantum channels, and thus that the use of functional programming concepts facilitates the manipulation of abstract objects used in the language of quantum theory.
+  For the purpose of our presentation we will use Mathematica computer algebra system. This choice is motivated twofold. First, it offers a rich programming language based on the functional paradigm. Second, this programming language is combined with powerful symbolic and numeric manipulation capabilities.

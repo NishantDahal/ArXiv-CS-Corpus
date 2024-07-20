@@ -1,0 +1,3 @@
+Packet Error Rate Analysis of Uncoded Schemes in Block-Fading Channels using Extreme Value Theory
+
+We present a generic approximation of the packet error rate (PER) function of uncoded schemes in the AWGN channel using extreme value theory (EVT). The PER function can assume both the exponential and the Gaussian Q-function bit error rate (BER) forms. The EVT approach leads us to a best closed-form approximation, in terms of accuracy and computational efficiency, of the average PER in block-fading channels. The numerical analysis shows that the approximation holds tight for any value of SNR and packet length whereas the earlier studies approximate the average PER only at asymptotic SNRs and packet lengths.

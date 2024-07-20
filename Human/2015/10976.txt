@@ -1,0 +1,3 @@
+Vision System and Depth Processing for DRC-HUBO+
+
+This paper presents a vision system and a depth processing algorithm for DRC-HUBO+, the winner of the DRC finals 2015. Our system is designed to reliably capture 3D information of a scene and objects robust to challenging environment conditions. We also propose a depth-map upsampling method that produces an outliers-free depth map by explicitly handling depth outliers. Our system is suitable for an interactive robot with real-world that requires accurate object detection and pose estimation. We evaluate our depth processing algorithm over state-of-the-art algorithms on several synthetic and real-world datasets.

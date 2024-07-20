@@ -1,0 +1,3 @@
+Predictable Software -- A Shortcut to Dependable Computing ?
+
+Many dependability techniques expect certain behaviors from the underlying subsystems and fail in chaotic ways if these expectations are not met. Under expected circumstances, however, software tends to work quite well. This paper suggests that, instead of fixing elusive bugs or rewriting software, we improve the predictability of conditions faced by our programs. This approach might be a cheaper and faster way to improve dependability of software. After identifying some of the common triggers of unpredictability, the paper describes three engineering principles that hold promise in combating unpredictability, suggests a way to benchmark predictability, and outlines a brief research agenda.

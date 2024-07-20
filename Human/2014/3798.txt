@@ -1,0 +1,3 @@
+Mathoid: Robust, Scalable, Fast and Accessible Math Rendering for Wikipedia
+
+Wikipedia is the first address for scientists who want to recap basic mathematical and physical laws and concepts. Today, formulae in those pages are displayed as Portable Network Graphics images. Those images do not integrate well into the text, can not be edited after copying, are inaccessible to screen readers for people with special needs, do not support line breaks for small screens and do not scale for high resolution devices. Mathoid improves this situation and converts formulae specified by Wikipedia editors in a TeX-like input format to MathML, with Scalable Vector Graphics images as a fallback solution.

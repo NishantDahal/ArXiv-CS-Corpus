@@ -1,0 +1,3 @@
+Computing the Gromov-Hausdorff Distance for Metric Trees
+
+The Gromov-Hausdorff (GH) distance is a natural way to measure distance between two metric spaces. We prove that it is $\mathrm{NP}$-hard to approximate the Gromov-Hausdorff distance better than a factor of $3$ for geodesic metrics on a pair of trees. We complement this result by providing a polynomial time $O(\min\{n, \sqrt{rn}\})$-approximation algorithm for computing the GH distance between a pair of metric trees, where $r$ is the ratio of the longest edge length in both trees to the shortest edge length. For metric trees with unit length edges, this yields an $O(\sqrt{n})$-approximation algorithm.

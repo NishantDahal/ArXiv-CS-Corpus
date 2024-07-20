@@ -1,0 +1,3 @@
+Learning zeroth class dictionary for human action recognition
+
+In this paper, a discriminative two-phase dictionary learning framework is proposed for classifying human action by sparse shape representations, in which the first-phase dictionary is learned on the selected discriminative frames and the second-phase dictionary is built for recognition using reconstruction errors of the first-phase dictionary as input features. We propose a "zeroth class" trick for detecting undiscriminating frames of the test video and eliminating them before voting on the action categories. Experimental results on benchmarks demonstrate the effectiveness of our method.

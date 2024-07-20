@@ -1,0 +1,3 @@
+SAR image despeckling through convolutional neural networks
+
+In this paper we investigate the use of discriminative model learning through Convolutional Neural Networks (CNNs) for SAR image despeckling. The network uses a residual learning strategy, hence it does not recover the filtered image, but the speckle component, which is then subtracted from the noisy one. Training is carried out by considering a large multitemporal SAR image and its multilook version, in order to approximate a clean image. Experimental results, both on synthetic and real SAR data, show the method to achieve better performance with respect to state-of-the-art techniques.

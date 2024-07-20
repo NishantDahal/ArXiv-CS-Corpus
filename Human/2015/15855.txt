@@ -1,0 +1,3 @@
+Type Reconstruction for the Linear π-Calculus with Composite Regular Types
+
+We extend the linear π-calculus with composite regular types in such a way that data containing linear values can be shared among several processes, if there is no overlapping access to such values. We describe a type reconstruction algorithm for the extended type system and discuss some practical aspects of its implementation.

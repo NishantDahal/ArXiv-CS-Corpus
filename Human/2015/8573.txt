@@ -1,0 +1,3 @@
+Formulas for Continued Fractions. An Automated Guess and Prove Approach
+
+We describe a simple method that produces automatically closed forms for the coefficients of continued fractions expansions of a large number of special functions. The function is specified by a non-linear differential equation and initial conditions. This is used to generate the first few coefficients and from there a conjectured formula. This formula is then proved automatically thanks to a linear recurrence satisfied by some remainder terms. Extensive experiments show that this simple approach and its straightforward generalization to difference and $q$-difference equations capture a large part of the formulas in the literature on continued fractions.

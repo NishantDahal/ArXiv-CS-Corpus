@@ -1,0 +1,3 @@
+GINN: Geometric Illustration of Neural Networks
+
+This informal technical report details the geometric illustration of decision boundaries for ReLU units in a three layer fully connected neural network. The network is designed and trained to predict pixel intensity from an (x, y) input location. The Geometric Illustration of Neural Networks (GINN) tool was built to visualise and track the points at which ReLU units switch from being active to off (or vice versa) as the network undergoes training. Several phenomenon were observed and are discussed herein. This technical report is a supporting document to the blog post with online demos and is available at http://www.bayeswatch.com/2018/09/17/GINN/.

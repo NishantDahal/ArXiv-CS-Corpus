@@ -1,0 +1,4 @@
+Practical Riemannian Neural Networks
+
+We provide the first experimental results on non-synthetic datasets for the quasi-diagonal Riemannian gradient descents for neural networks introduced in [Ollivier, 2015]. These include the MNIST, SVHN, and FACE datasets as well as a previously unpublished electroencephalogram dataset. The quasi-diagonal Riemannian algorithms consistently beat simple stochastic gradient gradient descents by a varying margin. The computational overhead with respect to simple backpropagation is around a factor $2$. Perhaps more interestingly, these methods also reach their final performance quickly, thus requiring fewer training epochs and a smaller total computation time.
+  We also present an implementation guide to these Riemannian gradient descents for neural networks, showing how the quasi-diagonal versions can be implemented with minimal effort on top of existing routines which compute gradients.

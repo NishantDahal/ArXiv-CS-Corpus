@@ -1,0 +1,3 @@
+Gear Training: A new way to implement high-performance model-parallel training
+
+The training of Deep Neural Networks usually needs tremendous computing resources. Therefore many deep models are trained in large cluster instead of single machine or GPU. Though major researchs at present try to run whole model on all machines by using asynchronous asynchronous stochastic gradient descent (ASGD), we present a new approach to train deep model parallely -- split the model and then seperately train different parts of it in different speed.

@@ -1,0 +1,3 @@
+Discovering Features in Sr$_{14}$Cu$_{24}$O$_{41}$ Neutron Single Crystal Diffraction Data by Cluster Analysis
+
+To address the SMC'18 data challenge, "Discovering Features in Sr$_{14}$Cu$_{24}$O$_{41}$", we have used the clustering algorithm "DBSCAN" to separate the diffuse scattering features from the Bragg peaks, which takes into account both spatial and photometric information in the dataset during in the clustering process. We find that, in additional to highly localized Bragg peaks, there exists broad diffuse scattering patterns consisting of distinguishable geometries. Besides these two distinctive features, we also identify a third distinguishable feature submerged in the low signal-to-noise region in the reciprocal space, whose origin remains an open question.

@@ -1,0 +1,3 @@
+PTAS for MAP Assignment on Pairwise Markov Random Fields in Planar Graphs
+
+We present a PTAS for computing the maximum a posteriori assignment on Pairwise Markov Random Fields with non-negative weights in planar graphs. This algorithm is practical and not far behind state-of-the-art techniques in image processing. MAP on Pairwise Markov Random Fields with (possibly) negative weights cannot be approximated unless P = NP, even on planar graphs. We also show via reduction that this yields a PTAS for one scoring function of Correlation Clustering in planar graphs.

@@ -1,0 +1,8 @@
+Bijective Term Encodings
+
+We encode/decode Prolog terms as unique natural numbers. Our encodings have the following properties:
+a) are bijective
+b) natural numbers always decode to syntactically valid terms
+c) they work in low polynomial time in the bitsize of the representations
+d) the bitsize of our encodings is within constant factor of the syntactic representation of the input.
+  We describe encodings of term algebras with finite signature as well as algorithms that separate the "structure" of a term, a natural number encoding of a list of balanced parenthesis, from its "content", a list of atomic terms and Prolog variables. The paper is organized as a literate Prolog program available from \url{http://logic.cse.unt.edu/tarau/research/2011/bijenc.pl}.

@@ -1,0 +1,5 @@
+A Method of Passage-Based Document Retrieval in Question Answering System
+
+We propose a method for using the scoring values of passages to effectively retrieve documents in a Question Answering system.
+  For this, we suggest evaluation function that considers proximity between each question terms in passage. And using this evaluation function , we extract a documents which involves scoring values in the highest collection, as a suitable document for question.
+  The proposed method is very effective in document retrieval of Korean question answering system.

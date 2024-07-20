@@ -1,0 +1,3 @@
+General upper bounds for well-behaving goodness measures on dependency rules
+
+In the search for statistical dependency rules, a crucial task is to restrict the search space by estimating upper bounds for the goodness of yet undiscovered rules. In this paper, we show that all well-behaving goodness measures achieve their maximal values in the same points. Therefore, the same generic search strategy can be applied with any of these measures. The notion of well-behaving measures is based on the classical axioms for any proper goodness measures, and extended to negative dependencies, as well. As an example, we show that several commonly used goodness measures are well-behaving.

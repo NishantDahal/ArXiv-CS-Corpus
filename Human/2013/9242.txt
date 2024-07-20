@@ -1,0 +1,5 @@
+Denotational Semantics of A User-Oriented, Domain-Specific Language
+
+This paper presents the formal definition of a domain-specific language, named Pantagruel, following the methodology proposed by David Schmidt for language development. This language is dedicated to programming applications that orchestrate networked entities. It targets developers that are professionals in such domains as building management and assisted living, and want to leverage networked entities to support daily tasks.
+  Pantagruel has a number of features that address the requirements of the domain of entity orchestration. Furthermore, Pantagruel provides high-level constructs that make it accessible to developers that do not necessarily have programming skills. It has been used to develop a number of applications by non-programmers.
+  We show how the user-oriented programming concepts of Pantagruel are expressed in the denotational semantics of Pantagruel. This formal definition has been used to derive an interpreter for Pantagruel and to provide a basis to reason about Pantagruel programs.

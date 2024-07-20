@@ -1,0 +1,3 @@
+Analysis of Algorithms for Permutations Biased by Their Number of Records
+
+The topic of the article is the parametric study of the complexity of algorithms on arrays of pairwise distinct integers. We introduce a model that takes into account the non-uniformness of data, which we call the Ewens-like distribution of parameter $θ$ for records on permutations: the weight $θ^r$ of a permutation depends on its number $r$ of records. We show that this model is meaningful for the notion of presortedness, while still being mathematically tractable. Our results describe the expected value of several classical permutation statistics in this model, and give the expected running time of three algorithms: the Insertion Sort, and two variants of the Min-Max search.

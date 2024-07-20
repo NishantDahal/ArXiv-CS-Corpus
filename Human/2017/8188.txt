@@ -1,0 +1,3 @@
+Approximation of LRU Caches Miss Rate: Application to Power-law Popularities
+
+Building on the 1977 pioneering work of R. Fagin, we give a closed-form expression for the approximated Miss Rate (MR) of LRU Caches assuming a power-law popularity. Asymptotic behavior of this expression is an already known result when power-law parameter is above 1. It is extended to any value of the parameter. In addition, we bring a new analysis of the conditions (cache relative size, popularity parameter) under which the ratio of LRU MR to Static MR is worst-case.

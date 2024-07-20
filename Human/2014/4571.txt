@@ -1,0 +1,5 @@
+Secret Sharing Schemes Based on Min-Entropies
+
+Fundamental results on secret sharing schemes (SSSs) are discussed in the setting where security and share size are measured by (conditional) min-entropies.
+  We first formalize a unified framework of SSSs based on (conditional) Rényi entropies, which includes SSSs based on Shannon and min entropies etc. as special cases. By deriving the lower bound of share sizes in terms of Rényi entropies based on the technique introduced by Iwamoto-Shikata, we obtain the lower bounds of share sizes measured by min entropies as well as by Shannon entropies in a unified manner.
+  As the main contributions of this paper, we show two existential results of non-perfect SSSs based on min-entropies under several important settings. We first show that there exists a non-perfect SSS for arbitrary binary secret information and arbitrary monotone access structure. In addition, for every integers $k$ and $n$ ($k \le n$), we prove that the ideal non-perfect $(k,n)$-threshold scheme exists even if the distribution of the secret is not uniformly distributed.

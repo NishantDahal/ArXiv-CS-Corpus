@@ -1,0 +1,3 @@
+Nonuniform Coercions via Unification Hints
+
+We introduce the notion of nonuniform coercion, which is the promotion of a value of one type to an enriched value of a different type via a nonuniform procedure. Nonuniform coercions are a generalization of the (uniform) coercions known in the literature and they arise naturally when formalizing mathematics in an higher order interactive theorem prover using convenient devices like canonical structures, type classes or unification hints.  We also show how nonuniform coercions can be naturally implemented at the user level in an interactive theorem prover that allows unification hints.

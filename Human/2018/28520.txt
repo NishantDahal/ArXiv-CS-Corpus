@@ -1,0 +1,3 @@
+Graph Diffusion-Embedding Networks
+
+We present a novel graph diffusion-embedding networks (GDEN) for graph structured data. GDEN is motivated by our closed-form formulation on regularized feature diffusion on graph. GDEN integrates both regularized feature diffusion and low-dimensional embedding simultaneously in a unified network model. Moreover, based on GDEN, we can naturally deal with structured data with multiple graph structures. Experiments on semi-supervised learning tasks on several benchmark datasets demonstrate the better performance of the proposed GDEN when comparing with the traditional GCN models.

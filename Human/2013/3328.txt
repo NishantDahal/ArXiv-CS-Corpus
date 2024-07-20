@@ -1,0 +1,3 @@
+Incremental computation of the value of perfect information in stepwise-decomposable influence diagrams
+
+To determine the value of perfect information in an influence diagram, one needs first to modify the diagram to reflect the change in information availability, and then to compute the optimal expected values of both the original diagram and the modified diagram.  The value of perfect information is the difference between the two optimal expected values. This paper is about how to speed up the computation of the optimal expected value of the modified diagram by making use of the intermediate computation results obtained when computing the optimal expected value of the original diagram.

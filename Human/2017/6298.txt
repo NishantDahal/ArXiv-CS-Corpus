@@ -1,0 +1,3 @@
+CAD Adjacency Computation Using Validated Numerics
+
+We present an algorithm for computation of cell adjacencies for well-based cylindrical algebraic decomposition. Cell adjacency information can be used to compute topological operations e.g. closure, boundary, connected components, and topological properties e.g. homology groups. Other applications include visualization and path planning. Our algorithm determines cell adjacency information using validated numerical methods similar to those used in CAD construction, thus computing CAD with adjacency information in time comparable to that of computing CAD without adjacency information. We report on implementation of the algorithm and present empirical data.

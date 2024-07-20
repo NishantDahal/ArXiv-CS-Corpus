@@ -1,0 +1,3 @@
+Turning Cliques into Paths to Achieve Planarity
+
+Motivated by hybrid graph representations, we introduce and study the following beyond-planarity problem, which we call $h$-Clique2Path Planarity: Given a graph $G$, whose vertices are partitioned into subsets of size at most $h$, each inducing a clique, remove edges from each clique so that the subgraph induced by each subset is a path, in such a way that the resulting subgraph of $G$ is planar. We study this problem when $G$ is a simple topological graph, and establish its complexity in relation to $k$-planarity. We prove that $h$-Clique2Path Planarity is NP-complete even when $h=4$ and $G$ is a simple $3$-plane graph, while it can be solved in linear time, for any $h$, when $G$ is $1$-plane.

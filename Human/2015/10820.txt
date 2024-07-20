@@ -1,0 +1,5 @@
+Formal Support for Standardizing Protocols with State
+
+Many cryptographic protocols are designed to achieve their goals using only messages passed over an open network. Numerous tools, based on well-understood foundations, exist for the design and analysis of protocols that rely purely on message passing. However, these tools encounter difficulties when faced with protocols that rely on non-local, mutable state to coordinate several local sessions.
+  We adapt one of these tools, {\cpsa}, to provide automated support for reasoning about state. We use Ryan's Envelope Protocol as an example to demonstrate how the message-passing reasoning can be integrated with state reasoning to yield interesting and powerful results.
+  Keywords: protocol analysis tools, stateful protocols, TPM, PKCS#11.

@@ -1,0 +1,3 @@
+On self-play computation of equilibrium in poker
+
+We compare performance of the genetic algorithm and the counterfactual regret minimization algorithm in computing the near-equilibrium strategies in the simplified poker games. We focus on the von Neumann poker and the simplified version of the Texas Hold'Em poker, and test outputs of the considered algorithms against analytical expressions defining the Nash equilibrium strategies. We comment on the performance of the studied algorithms against opponents deviating from equilibrium.

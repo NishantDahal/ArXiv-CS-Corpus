@@ -1,0 +1,5 @@
+A new upper bound for Achlioptas processes
+
+We consider here on-line algorithms for Achlioptas processes. Given a initially empty graph $G$ on $n$ vertices, a random process that at each step selects independently and uniformly at random two edges from the set of non-edges is launched. We must choose one of the two edges and add it to the graph while discarding the other. The goal is to avoid the appearance of a connected component spanning $Ω(n)$ vertices (called a giant component) for as many steps as possible.
+  Bohman and Frieze proved in 2001 that on-line Achlioptas processes cannot postpone the appearance of the giant for more that roughly $n$ steps whp. This upper bound got even lower in 2003 when the two above mentioned authors and Wormald proved that each on-line Achlioptas process creates a giant before step $0.964446n$ whp.
+  The purpose of this work is to determine a new upper bound. By using essentially the same methods used by Bohman, Frieze and Wormald in 2003 and some results of Spencer and Wormald on size algorithms we prove here that Achlioptas processes cannot postpone the appearance of the giant for more than $0.9455n$ steps whp.

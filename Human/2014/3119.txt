@@ -1,0 +1,3 @@
+Exact Performance Analysis of the Oracle Receiver for Compressed Sensing Reconstruction
+
+A sparse or compressible signal can be recovered from a certain number of noisy random projections, smaller than what dictated by classic Shannon/Nyquist theory. In this paper, we derive the closed-form expression of the mean square error performance of the oracle receiver, knowing the sparsity pattern of the signal. With respect to existing bounds, our result is exact and does not depend on a particular realization of the sensing matrix. Moreover, our result holds irrespective of whether the noise affecting the measurements is white or correlated. Numerical results show a perfect match between equations and simulations, confirming the validity of the result.

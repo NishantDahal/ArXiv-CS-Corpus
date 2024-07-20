@@ -1,0 +1,3 @@
+Approximate Well-supported Nash Equilibria below Two-thirds
+
+In an epsilon-Nash equilibrium, a player can gain at most epsilon by changing his behaviour. Recent work has addressed the question of how best to compute epsilon-Nash equilibria, and for what values of epsilon a polynomial-time algorithm exists. An epsilon-well-supported Nash equilibrium (epsilon-WSNE) has the additional requirement that any strategy that is used with non-zero probability by a player must have payoff at most epsilon less than the best response. A recent algorithm of Kontogiannis and Spirakis shows how to compute a 2/3-WSNE in polynomial time, for bimatrix games. Here we introduce a new technique that leads to an improvement to the worst-case approximation guarantee.

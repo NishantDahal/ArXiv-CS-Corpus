@@ -1,0 +1,3 @@
+A Fast Parameterized Algorithm for Co-Path Set
+
+The k-CO-PATH SET problem asks, given a graph G and a positive integer k, whether one can delete k edges from G so that the remainder is a collection of disjoint paths. We give a linear-time fpt algorithm with complexity O^*(1.588^k) for deciding k-CO-PATH SET, significantly improving the previously best known O^*(2.17^k) of Feng, Zhou, and Wang (2015). Our main tool is a new O^*(4^{tw(G)}) algorithm for CO-PATH SET using the Cut&Count framework, where tw(G) denotes treewidth. In general graphs, we combine this with a branching algorithm which refines a 6k-kernel into reduced instances, which we prove have bounded treewidth.

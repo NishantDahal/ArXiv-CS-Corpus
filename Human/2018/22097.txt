@@ -1,0 +1,3 @@
+What Goes Where: Predicting Object Distributions from Above
+
+In this work, we propose a cross-view learning approach, in which images captured from a ground-level view are used as weakly supervised annotations for interpreting overhead imagery. The outcome is a convolutional neural network for overhead imagery that is capable of predicting the type and count of objects that are likely to be seen from a ground-level perspective. We demonstrate our approach on a large dataset of geotagged ground-level and overhead imagery and find that our network captures semantically meaningful features, despite being trained without manual annotations.

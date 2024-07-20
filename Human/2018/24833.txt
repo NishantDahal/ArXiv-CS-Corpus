@@ -1,0 +1,3 @@
+CNNs for Surveillance Footage Scene Classification
+
+In this project, we adapt high-performing CNN architectures to differentiate between scenes with and without abandoned luggage. Using frames from two video datasets, we compare the results of training different architectures on each dataset as well as on combining the datasets. We additionally use network visualization techniques to gain insight into what the neural network sees, and the basis of the classification decision. We intend that our results benefit further work in applying CNNs in surveillance and security-related tasks.

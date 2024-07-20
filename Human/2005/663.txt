@@ -1,0 +1,3 @@
+A Closed-Form Solution for the Finite Length Constant Modulus Receiver
+
+In this paper, a closed-form solution minimizing the Godard or Constant Modulus (CM) cost function under the practical conditions of finite SNR and finite equalizer length is derived. While previous work has been reported by Zeng et al., IEEE Trans. Information Theory. 1998, to establish the link between the constant modulus and Wiener receivers, we show that under the Gaussian approximation of intersymbol interference at the output of the equalizer, the CM finite-length receiver is equivalent to the nonblind MMSE equalizer up to a complex gain factor. Some simulation results are provided to support the Gaussian approximation assumption.

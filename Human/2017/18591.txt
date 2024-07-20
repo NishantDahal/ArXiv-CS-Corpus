@@ -1,0 +1,4 @@
+Two Recursively Inseparable Problems for Probabilistic Automata
+
+This paper introduces and investigates decision problems for numberless probabilistic automata, i.e. probabilistic automata where the support of each probabilistic transitions is specified, but the exact values of the probabilities are not. A numberless probabilistic automaton can be instantiated into a probabilistic automaton by specifying the exact values of the non-zero probabilistic transitions.
+  We show that the two following properties of numberless probabilistic automata are recursively inseparable: - all instances of the numberless automaton have value 1, - no instance of the numberless automaton has value 1.

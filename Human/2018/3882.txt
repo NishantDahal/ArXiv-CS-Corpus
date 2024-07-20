@@ -1,0 +1,3 @@
+Real Time Collision Detection and Identification for Robotic Manipulators
+
+The majority of everyday tasks involve interacting with unstructured environments. This implies that, in order for robots to be truly useful they must be able to handle contacts. This paper explores how a particle filter can be used to localize a contact point and estimate the external force. We demonstrate the capability of the particle filter on a simulated 4DoF planar robotic arm, and compare it to a well-established analytical approach.

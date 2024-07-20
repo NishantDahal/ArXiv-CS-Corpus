@@ -1,0 +1,4 @@
+Semiring Provenance for First-Order Model Checking
+
+Given a first-order sentence, a model-checking computation tests whether the sentence holds true in a given finite structure. Data provenance extracts from this computation an abstraction of the manner in which its result depends on the data items that describe the model. Previous work on provenance was, to a large extent, restricted to the negation-free fragment of first-order logic and showed how provenance abstractions can be usefully described as elements of commutative semirings --- most generally as multivariate polynomials with positive integer coefficients.
+  In this paper we introduce a novel approach to dealing with negation and a corresponding commutative semiring of polynomials with dual indeterminates. These polynomials are used to perform reverse provenance analysis, i.e., finding models that satisfy various properties under given provenance tracking assumptions.

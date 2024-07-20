@@ -1,0 +1,3 @@
+An N-Body Solution to the Problem of Fock Exchange
+
+We report an N-Body approach to computing the Fock exchange matrix with and without permutational symmetry. The method achieves an O(N lg N) computational complexity through an embedded metric-query, allowing hierarchical application of direct SCF criteria. The advantages of permutational symmetry are found to be 4-fold for small systems, but decreasing with increasing system size and/or more permissive neglect criteria. This work sets the stage for: (1) the introduction of range queries in multi-level multipole schemes for rank reduction, and (2) recursive task parallelism.

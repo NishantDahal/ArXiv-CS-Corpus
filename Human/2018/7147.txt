@@ -1,0 +1,3 @@
+Image Identification Using SIFT Algorithm: Performance Analysis against Different Image Deformations
+
+Image identification is one of the most challenging tasks in different areas of computer vision. Scale-invariant feature transform is an algorithm to detect and describe local features in images to further use them as an image matching criteria. In this paper, the performance of the SIFT matching algorithm against various image distortions such as rotation, scaling, fisheye and motion distortion are evaluated and false and true positive rates for a large number of image pairs are calculated and presented. We also evaluate the distribution of the matched keypoint orientation difference for each image deformation.

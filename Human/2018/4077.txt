@@ -1,0 +1,4 @@
+A Heuristic Proof Procedure for First-Order Logic
+
+Inspired by the efficient proof procedures discussed in {\em Computability logic} \cite{Jap03,Japic,Japfin}, we describe a heuristic proof procedure for first-order logic. This is a variant of Gentzen sequent system and has the following features: (a)~ it views sequents as games between the machine and the environment, and (b)~ it views proofs as a winning strategy of the machine.
+  From this game-based viewpoint, a poweful heuristic can be extracted and a fair degree of determinism in proof search can be obtained. This article proposes a new deductive system LKg with respect to first-order logic and proves its soundness and completeness. We also discuss LKg', a variant of LKg with some optimizations added.

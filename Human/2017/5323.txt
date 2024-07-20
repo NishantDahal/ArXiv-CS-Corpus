@@ -1,0 +1,6 @@
+Resolution Simulates Ordered Binary Decision Diagrams for Formulas in Conjunctive Normal Form
+
+A classical question of propositional logic is one of the shortest proof of a tautology. A related fundamental problem is to determine the relative efficiency of standard proof systems, where the relative complexity is measured using the notion of polynomial simulation.
+  Presently, the state-of-the-art satisfiability algorithms are based on resolution in combination with search. An Ordered Binary Decision Diagram (OBDD) is a data structure that is used to represent Boolean functions.
+  Groote and Zantema have proved that there is exponential separation between resolution and a proof system based on limited OBDD derivations. However, formal comparison of these methods is not straightforward because OBDDs work on arbitrary formulas, whereas resolution can only be applied to formulas in Conjunctive Normal Form (CNFs).
+  Contrary to popular belief, we argue that resolution simulates OBDDs polynomially if we limit both to CNFs and thus answer negatively the open question of Groote and Zantema whether there exist unsatisfiable CNFs having polynomial OBDD refutations and requiring exponentially long resolution refutations.

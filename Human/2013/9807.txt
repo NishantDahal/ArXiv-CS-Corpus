@@ -1,0 +1,3 @@
+A two-layer Conditional Random Field for the classification of partially occluded objects
+
+Conditional Random Fields (CRF) are among the most popular techniques for image labelling because of their flexibility in modelling dependencies between the labels and the image features. This paper proposes a novel CRF-framework for image labeling problems which is capable to classify partially occluded objects. Our approach is evaluated on aerial near-vertical images as well as on urban street-view images and compared with another methods.

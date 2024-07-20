@@ -1,0 +1,3 @@
+Towards Global Explanations for Credit Risk Scoring
+
+In this paper we propose a method to obtain global explanations for trained black-box classifiers by sampling their decision function to learn alternative interpretable models. The envisaged approach provides a unified solution to approximate non-linear decision boundaries with simpler classifiers while retaining the original classification accuracy. We use a private residential mortgage default dataset as a use case to illustrate the feasibility of this approach to ensure the decomposability of attributes during pre-processing.

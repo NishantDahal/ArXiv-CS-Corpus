@@ -1,0 +1,3 @@
+Generating Comments From Source Code with CCGs
+
+Good comments help developers understand software faster and provide better maintenance. However, comments are often missing, generally inaccurate, or out of date. Many of these problems can be avoided by automatic comment generation. This paper presents a method to generate informative comments directly from the source code using general-purpose techniques from natural language processing. We generate comments using an existing natural language model that couples words with their individual logical meaning and grammar rules, allowing comment generation to proceed by search from declarative descriptions of program text. We evaluate our algorithm on several classic algorithms implemented in Python.

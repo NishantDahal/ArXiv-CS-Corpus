@@ -1,0 +1,5 @@
+On Recoverable and Two-Stage Robust Selection Problems with Budgeted Uncertainty
+
+In this paper the problem of selecting $p$ out of $n$ available items is discussed, such that their total cost is minimized. We assume that costs are not known exactly, but stem from a set of possible outcomes.
+  Robust recoverable and two-stage models of this selection problem are analyzed. In the two-stage problem, up to $p$ items is chosen in the first stage, and the solution is completed once the scenario becomes revealed in the second stage. In the recoverable problem, a set of $p$ items is selected in the first stage, and can be modified by exchanging up to $k$ items in the second stage, after a scenario reveals.
+  We assume that uncertain costs are modeled through bounded uncertainty sets, i.e., the interval uncertainty sets with an additional linear (budget) constraint, in their discrete and continuous variants. Polynomial algorithms for recoverable and two-stage selection problems with continuous bounded uncertainty, and compact mixed integer formulations in the case of discrete bounded uncertainty are constructed.

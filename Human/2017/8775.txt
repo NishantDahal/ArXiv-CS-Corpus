@@ -1,0 +1,3 @@
+A Unified Framework for Stochastic Matrix Factorization via Variance Reduction
+
+We propose a unified framework to speed up the existing stochastic matrix factorization (SMF) algorithms via variance reduction. Our framework is general and it subsumes several well-known SMF formulations in the literature. We perform a non-asymptotic convergence analysis of our framework and derive computational and sample complexities for our algorithm to converge to an $ε$-stationary point in expectation. In addition, extensive experiments for a wide class of SMF formulations demonstrate that our framework consistently yields faster convergence and a more accurate output dictionary vis-à-vis state-of-the-art frameworks.

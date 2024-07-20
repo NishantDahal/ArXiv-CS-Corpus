@@ -1,0 +1,3 @@
+Coercive Region-level Registration for Multi-modal Images
+
+We propose a coercive approach to simultaneously register and segment multi-modal images which share similar spatial structure. Registration is done at the region level to facilitate data fusion while avoiding the need for interpolation. The algorithm performs alternating minimization of an objective function informed by statistical models for pixel values in different modalities. Hypothesis tests are developed to determine whether to refine segmentations by splitting regions. We demonstrate that our approach has significantly better performance than the state-of-the-art registration and segmentation methods on microscopy images.

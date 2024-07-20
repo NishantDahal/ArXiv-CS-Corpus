@@ -1,0 +1,4 @@
+A Reduction for Optimizing Lattice Submodular Functions with Diminishing Returns
+
+A function $f: \mathbb{Z}_+^E \rightarrow \mathbb{R}_+$ is DR-submodular if it satisfies $f({\bf x} + χ_i) -f ({\bf x}) \ge f({\bf y} + χ_i) - f({\bf y})$ for all ${\bf x}\le {\bf y}, i\in E$. Recently, the problem of maximizing a DR-submodular function $f: \mathbb{Z}_+^E \rightarrow \mathbb{R}_+$ subject to a budget constraint $\|{\bf x}\|_1 \leq B$ as well as additional constraints has received significant attention \cite{SKIK14,SY15,MYK15,SY16}.
+  In this note, we give a generic reduction from the DR-submodular setting to the submodular setting. The running time of the reduction and the size of the resulting submodular instance depends only \emph{logarithmically} on $B$. Using this reduction, one can translate the results for unconstrained and constrained submodular maximization to the DR-submodular setting for many types of constraints in a unified manner.

@@ -1,0 +1,3 @@
+PSVR - Self-stabilizing Publish/Subscribe Communication for Ad-hoc Networks
+
+This paper presents the novel routing algorithm PSVR for pub/sub systems in ad-hoc networks. Its focus is on scenarios where communications links are unstable and nodes frequently change subscriptions. PSVR presents a compromise of size and maintenance effort for routing tables due to sub- and unsubscriptions and the length of routing paths. Designed in a self-stabilizing manner it scales well with network size. The evaluation reveals that PSVR only needs slightly more messages than a close to optimal routing structure for publication delivery, and creates shorter routing paths than an existing self-stabilizing algorithm. A real world deployment shows the usability of the approach

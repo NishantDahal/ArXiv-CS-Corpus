@@ -1,0 +1,5 @@
+Reasoning and Facts Explanation in Valuation Based Systems
+
+In the literature, the optimization problem to identify a set of composite hypotheses H, which will yield the $k$ largest $P(H|S_e)$ where a composite hypothesis is an instantiation of all the nodes in the network except the evidence nodes \cite{KSy:93} is of significant interest. This problem is called "finding the $k$ Most Plausible Explanation (MPE) of a given evidence $S_e$ in a Bayesian belief network".
+  The problem of finding $k$ most probable hypotheses is generally NP-hard \cite{Cooper:90}. Therefore in the past various simplifications of the task by restricting $k$ (to 1 or 2), restricting the structure (e.g. to singly connected networks), or shifting the complexity to spatial domain have been investigated.
+  A genetic algorithm is proposed in this paper to overcome some of these restrictions while stepping out from probabilistic domain onto the general Valuation based System (VBS) framework is also proposed by generalizing the genetic algorithm approach to the realm of Dempster-Shafer belief calculus.

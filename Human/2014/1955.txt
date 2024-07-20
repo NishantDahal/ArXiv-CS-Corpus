@@ -1,0 +1,3 @@
+OS-Assisted Task Preemption for Hadoop
+
+This work introduces a new task preemption primitive for Hadoop, that allows tasks to be suspended and resumed exploiting existing memory management mechanisms readily available in modern operating systems. Our technique fills the gap that exists between the two extremes cases of killing tasks (which waste work) or waiting for their completion (which introduces latency): experimental results indicate superior performance and very small overheads when compared to existing alternatives.

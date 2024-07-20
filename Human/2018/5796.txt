@@ -1,0 +1,6 @@
+Salient Region Segmentation
+
+Saliency prediction is a well studied problem in computer vision. Early saliency models were based on low-level hand-crafted feature derived from insights gained in neuroscience and psychophysics. In the wake of deep learning breakthrough, a new cohort of models were proposed based on neural network architectures, allowing significantly higher gaze prediction than previous shallow models, on all metrics.
+  However, most models treat the saliency prediction as a \textit{regression} problem, and accurate regression of high-dimensional data is known to be a hard problem. Furthermore, it is unclear that intermediate levels of saliency (ie, neither very high, nor very low) are meaningful: Something is either salient, or it is not.
+  Drawing from those two observations, we reformulate the saliency prediction problem as a salient region \textit{segmentation} problem. We demonstrate that the reformulation allows for faster convergence than the classical regression problem, while performance is comparable to state-of-the-art.
+  We also visualise the general features learned by the model, which are showed to be consistent with insights from psychophysics.

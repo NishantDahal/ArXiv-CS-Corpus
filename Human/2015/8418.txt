@@ -1,0 +1,3 @@
+Concolic Testing in Logic Programming
+
+Software testing is one of the most popular validation techniques in the software industry. Surprisingly, we can only find a few approaches to testing in the context of logic programming. In this paper, we introduce a systematic approach for dynamic testing that combines both concrete and symbolic execution. Our approach is fully automatic and guarantees full path coverage when it terminates. We prove some basic properties of our technique and illustrate its practical usefulness through a prototype implementation.

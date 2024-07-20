@@ -1,0 +1,3 @@
+Taking Roots over High Extensions of Finite Fields
+
+We present a new algorithm for computing $m$-th roots over the finite field $\F_q$, where $q = p^n$, with $p$ a prime, and $m$ any positive integer. In the particular case $m=2$, the cost of the new algorithm is an expected $O(\M(n)\log (p) + \CC(n)\log(n))$ operations in $\F_p$, where $\M(n)$ and $\CC(n)$ are bounds for the cost of polynomial multiplication and modular polynomial composition. Known results give $\M(n) = O(n\log (n) \log\log (n))$ and $\CC(n) = O(n^{1.67})$, so our algorithm is subquadratic in $n$.

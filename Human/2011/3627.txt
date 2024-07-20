@@ -1,0 +1,3 @@
+Note on Needle in a Haystack
+
+Introduced below is a quantum database method, not only for retrieval but also for creation. It uses a particular structure of true's and false's in a state vector of n qubits, permitting up to 2**2**n words, vastly more than for classical bits. Several copies are produced so that later they can be destructively observed and a word determined with high probability. Grover's algorithm is proposed below to read out, nondestructively the unknown contents of a given stored state vector using only one state vector.

@@ -1,0 +1,3 @@
+Symbol Detection for Frame-Based Faster-than-Nyquist Signaling via Sum-of-Absolute-Values Optimization
+
+In this letter, we propose a new symbol detection method for faster-than-Nyquist signaling (FTNS) systems. Based on frame theory, we formulate a symbol detection problem as a under-determined linear equation on a finite set. The problem is reformulated as a sum-of-absolute-values (SOAV) optimization that can be efficiently solved by the fast iterative shrinkage thresholding algorithm (FISTA). The proximity operator for the convex optimization is derived analytically. Simulation results are given to show that the proposed method can successfully detect symbols in faster-than-Nyquist signaling systems and has lower complexity in terms of computation time.

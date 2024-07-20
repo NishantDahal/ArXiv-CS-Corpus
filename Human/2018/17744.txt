@@ -1,0 +1,3 @@
+Implementation of Q Learning and Deep Q Network For Controlling a Self Balancing Robot Model
+
+In this paper, the implementation of two Reinforcement learnings namely, Q Learning and Deep Q Network(DQN) on a Self Balancing Robot Gazebo model has been discussed. The goal of the experiments is to make the robot model learn the best actions for staying balanced in an environment. The more time it can stay within a specified limit , the more reward it accumulates and hence more balanced it is. Different experiments with different learning parameters on Q Learning and DQN are conducted and the plots of the experiments are shown.

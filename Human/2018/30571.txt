@@ -1,0 +1,3 @@
+Mixed Likelihood Gaussian Process Latent Variable Model
+
+We present the Mixed Likelihood Gaussian process latent variable model (GP-LVM), capable of modeling data with attributes of different types. The standard formulation of GP-LVM assumes that each observation is drawn from a Gaussian distribution, which makes the model unsuited for data with e.g. categorical or nominal attributes. Our model, for which we use a sampling based variational inference, instead assumes a separate likelihood for each observed dimension. This formulation results in more meaningful latent representations, and give better predictive performance for real world data with dimensions of different types.

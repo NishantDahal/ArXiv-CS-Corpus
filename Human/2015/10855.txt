@@ -1,0 +1,4 @@
+ATLsc with partial observation
+
+Alternating-time temporal logic with strategy contexts (ATLsc) is a powerful formalism for expressing properties of multi-agent systems: it extends CTL with strategy quantifiers, offering a convenient way of expressing both collaboration and antagonism between several agents. Incomplete observation of the state space is a desirable feature in such a framework, but it quickly leads to undecidable verification problems. In this paper, we prove that uniform incomplete observation (where all players have the same observation) preserves decidability of the model-checking problem, even for very expressive logics such as ATLsc.
+

@@ -1,0 +1,3 @@
+Verification Condition Generation and Variable Conditions in Smallfoot
+
+These notes are a companion to [1] which describe - the variable conditions that Smallfoot checks, - the analysis used to check them, - the algorithm used to compute a set of verification conditions corresponding to an annotated program, and - the treatment of concurrent resource initialization code.

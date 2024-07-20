@@ -1,0 +1,3 @@
+Numerical Simulation of Bloch Equations for Dynamic Magnetic Resonance Imaging
+
+Magnetic Resonance Imaging (MRI) is a widely applied non-invasive imaging modality based on non-ionizing radiation which gives excellent images and soft tissue contrast of living tissues. We consider the modified Bloch problem as a model of MRI for flowing spins in an incompressible flow field. After establishing the well-posedness of the corresponding evolution problem, we analyze its spatial semidiscretization using discontinuous Galerkin methods. The high frequency time evolution requires a proper explicit and adaptive temporal discretization. The applicability of the approach is shown for basic examples.

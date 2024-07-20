@@ -1,0 +1,3 @@
+Power-Based Direction-of-Arrival Estimation Using a Single Multi-Mode Antenna
+
+Phased antenna arrays are widely used for direction-of-arrival (DoA) estimation. For low-cost applications, signal power or received signal strength indicator (RSSI) based approaches can be an alternative. However, they usually require multiple antennas, a single antenna that can be rotated, or switchable antenna beams. In this paper we show how a multi-mode antenna (MMA) can be used for power-based DoA estimation. Only a single MMA is needed and neither rotation nor switching of antenna beams is required. We derive an estimation scheme as well as theoretical bounds and validate them through simulations. It is found that power-based DoA estimation with an MMA is feasible and accurate.

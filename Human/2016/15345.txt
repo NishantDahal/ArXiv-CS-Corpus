@@ -1,0 +1,4 @@
+Integration Checker of JAVA P2P distributed System with Auto Source Code Composition
+
+This paper presents an integrity checker of JAVA P2P distributed system with auto source code composition. JAVA distributed system must guarantee the integrity of program itself and the system components of JAVA virtual machine against attackers, hackers, spies, cheaters, conspirators, etc. There are lots of trusted computing methods to guarantee the integrity of the system. We here present a novel method using just-in-time auto source code composition to generate autocheck class for integrity measure and encrypt of integrity reporting.
+  By companies' effort, we have implemented and use it in DSCloud platform.

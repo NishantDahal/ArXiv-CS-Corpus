@@ -1,0 +1,3 @@
+Performance analysis and optimization of the JOREK code for many-core CPUs
+
+This report investigates the performance of the JOREK code on the Intel Knights Landing and Skylake processor architectures. The OpenMP scaling of the matrix construction part of the code was analyzed and improved synchronization methods were implemented. A new switch was implemented to control the number of threads used for the linear equation solver independently from other parts of the code. The matrix construction subroutine was vectorized, and the data locality was also improved. These steps led to a factor of two speedup for the matrix construction.

@@ -1,0 +1,3 @@
+An Optimal Control Approach for the Persistent Monitoring Problem
+
+We propose an optimal control framework for persistent monitoring problems where the objective is to control the movement of mobile agents to minimize an uncertainty metric in a given mission space. For a single agent in a one-dimensional space, we show that the optimal solution is obtained in terms of a sequence of switching locations, thus reducing it to a parametric optimization problem. Using Infinitesimal Perturbation Analysis (IPA) we obtain a complete solution through a gradient-based algorithm. We also discuss a receding horizon controller which is capable of obtaining a near-optimal solution on-the-fly. We illustrate our approach with numerical examples.

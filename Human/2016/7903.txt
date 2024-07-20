@@ -1,0 +1,3 @@
+Fast Parallel Operations on Search Trees
+
+Using (a,b)-trees as an example, we show how to perform a parallel split with logarithmic latency and parallel join, bulk updates, intersection, union (or merge), and (symmetric) set difference with logarithmic latency and with information theoretically optimal work. We present both asymptotically optimal solutions and simplified versions that perform well in practice - they are several times faster than previous implementations.

@@ -1,0 +1,3 @@
+Cograph generation with linear delay
+
+Cographs have always been a research target in areas such as coloring, graph decomposition, and spectral theory. In this work, we present an algorithm to generate all unlabeled cographs with $n$ vertices, based on the generation of cotrees. The delay of our algorithm (time spent between two consecutive outputs) is $O(n)$. The time needed to generate the first output is also $O(n)$, which gives an overall $O(n\,M_n)$ time complexity, where $M_n$ is the number of unlabeled cographs with $n$ vertices. The algorithm avoids the generation of duplicates (isomorphic outputs) and produces, as a by-product, a linear ordering of unlabeled cographs wih $n$ vertices.

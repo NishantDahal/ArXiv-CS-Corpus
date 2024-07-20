@@ -1,0 +1,3 @@
+Critical trees: counterexamples in model checking of CSM systems using CBS algorithm
+
+The important feature of temporal model checking is the generation of counterexamples. In the report, the requirements for generation of counterexample (called critical tree) in model checking of CSM systems are described. The output of TempoRG model checker for QsCTL logic (a version of CTL) is presented. A contradiction between counterexample generation and state space reduction is commented.

@@ -1,0 +1,3 @@
+On the Noisy Feedback Capacity of Gaussian Broadcast Channels
+
+It is well known that, in general, feedback may enlarge the capacity region of Gaussian broadcast channels. This has been demonstrated even when the feedback is noisy (or partial-but-perfect) and only from one of the receivers. The only case known where feedback has been shown not to enlarge the capacity region is when the channel is physically degraded (El Gamal 1978, 1981). In this paper, we show that for a class of two-user Gaussian broadcast channels (not necessarily physically degraded), passively feeding back the stronger user's signal over a link corrupted by Gaussian noise does not enlarge the capacity region if the variance of feedback noise is above a certain threshold.

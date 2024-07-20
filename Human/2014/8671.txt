@@ -1,0 +1,3 @@
+The proposal of improved inexact isomorphic graph algorithm to detect design patterns
+
+Design patterns being applied more and more to solve the software engineering difficulties in the object oriented software design procedures. So, the design pattern detection is widely used by software industries. Currently, many solutions presented to detect the design pattern in the system design. In this paper, we will propose a new one which first; we will use the graph implementation to implement both the system design UML diagram and the design pattern UML diagram. Second, we will implement the edges for each one of the both two graphs in a set of 4-tuple elements. Then, we will apply a new inexact graph isomorphic algorithm to detect the design pattern in the system design.

@@ -1,0 +1,3 @@
+A Generic Framework for Implicate Generation Modulo Theories
+
+The clausal logical consequences of a formula are called its implicates. The generation of these implicates has several applications, such as the identification of missing hypotheses in a logical specification. We present a procedure that generates the implicates of a quantifier-free formula modulo a theory. No assumption is made on the considered theory, other than the existence of a decision procedure. The algorithm has been implemented (using the solvers MiniSat, CVC4 and Z3) and experimental results show evidence of the practical relevance of the proposed approach.

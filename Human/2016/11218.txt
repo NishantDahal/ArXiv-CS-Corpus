@@ -1,0 +1,3 @@
+Memory Based Collaborative Filtering with Lucene
+
+Memory Based Collaborative Filtering is a widely used approach to provide recommendations. It exploits similarities between ratings across a population of users by forming a weighted vote to predict unobserved ratings. Bespoke solutions are frequently adopted to deal with the problem of high quality recommendations on large data sets. A disadvantage of this approach, however, is the loss of generality and flexibility of the general collaborative filtering systems. In this paper, we have developed a methodology that allows one to build a scalable and effective collaborative filtering system on top of a conventional full-text search engine such as Apache Lucene.

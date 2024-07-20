@@ -1,0 +1,3 @@
+Leveraging Text and Knowledge Bases for Triple Scoring: An Ensemble Approach - The BOKCHOY Triple Scorer at WSDM Cup 2017
+
+We present our winning solution for the WSDM Cup 2017 triple scoring task. We devise an ensemble of four base scorers, so as to leverage the power of both text and knowledge bases for that task. Then we further refine the outputs of the ensemble by trigger word detection, achieving even better predictive accuracy. The code is available at https://github.com/wsdm-cup-2017/bokchoy.

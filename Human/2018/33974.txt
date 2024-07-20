@@ -1,0 +1,3 @@
+User Association and Load Balancing for Massive MIMO through Deep Learning
+
+This work investigates the use of deep learning to perform user cell association for sum-rate maximization in Massive MIMO networks. It is shown how a deep neural network can be trained to approach the optimal association rule with a much more limited computational complexity, thus enabling to update the association rule in real-time, on the basis of the mobility patterns of users. In particular, the proposed neural network design requires as input only the users' geographical positions. Numerical results show that it guarantees the same performance of traditional optimization-oriented methods.

@@ -1,0 +1,3 @@
+Fine-grained Activity Recognition in Baseball Videos
+
+In this paper, we introduce a challenging new dataset, MLB-YouTube, designed for fine-grained activity detection. The dataset contains two settings: segmented video classification as well as activity detection in continuous videos. We experimentally compare various recognition approaches capturing temporal structure in activity videos, by classifying segmented videos and extending those approaches to continuous videos. We also compare models on the extremely difficult task of predicting pitch speed and pitch type from broadcast baseball videos. We find that learning temporal structure is valuable for fine-grained activity recognition.

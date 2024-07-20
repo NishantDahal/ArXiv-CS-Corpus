@@ -1,0 +1,3 @@
+Random numbers for large scale distributed Monte Carlo simulations
+
+Monte Carlo simulations are one of the major tools in statistical physics, complex system science, and other fields, and an increasing number of these simulations is run on distributed systems like clusters or grids. This raises the issue of generating random numbers in a parallel, distributed environment. In this contribution we demonstrate that multiple linear recurrences in finite fields are an ideal method to produce high quality pseudorandom numbers in sequential and parallel algorithms. Their known weakness (failure of sampling points in high dimensions) can be overcome by an appropriate delinearization that preserves all desirable properties of the underlying linear sequence.

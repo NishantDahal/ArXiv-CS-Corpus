@@ -1,0 +1,3 @@
+An edge variant of the Erdős-Pósa property
+
+For every $r\in \mathbb{N}$, we denote by $θ_{r}$ the multigraph with two vertices and $r$ parallel edges. Given a graph $G$, we say that a subgraph $H$ of $G$ is a model of $θ_{r}$ in $G$ if $H$ contains $θ_{r}$ as a contraction. We prove that the following edge variant of the Erd{\H o}s-P{ó}sa property holds for every $r\geq 2$: if $G$ is a graph and $k$ is a positive integer, then either $G$ contains a packing of $k$ mutually edge-disjoint models of $θ_{r}$, or it contains a set $S$ of $f_r(k)$ edges such that $G\setminus S$ has no $θ_{r}$-model, for both $f_r(k) = O(k^2r^3 \mathrm{polylog}~kr)$ and $f_r(k) = O(k^4r^2 \mathrm{polylog}~kr).$

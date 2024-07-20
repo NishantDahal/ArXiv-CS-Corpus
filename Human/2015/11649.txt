@@ -1,0 +1,3 @@
+Pearson codes
+
+The Pearson distance has been advocated for improving the error performance of noisy channels with unknown gain and offset. The Pearson distance can only fruitfully be used for sets of $q$-ary codewords, called Pearson codes, that satisfy specific properties. We will analyze constructions and properties of optimal Pearson codes. We will compare the redundancy of optimal Pearson codes with the redundancy of prior art $T$-constrained codes, which consist of $q$-ary sequences in which $T$ pre-determined reference symbols appear at least once. In particular, it will be shown that for $q\le 3$ the $2$-constrained codes are optimal Pearson codes, while for $q\ge 4$ these codes are not optimal.

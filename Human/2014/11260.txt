@@ -1,0 +1,3 @@
+Fast detection of cycles in timed automata
+
+We propose a new efficient algorithm for detecting if a cycle in a timed automaton can be iterated infinitely often. Existing methods for this problem have a complexity which is exponential in the number of clocks. Our method is polynomial: it essentially does a logarithmic number of zone canonicalizations. This method can be incorporated in algorithms for verifying Büchi properties on timed automata. We report on some experiments that show a significant reduction in search space when our iteratability test is used.

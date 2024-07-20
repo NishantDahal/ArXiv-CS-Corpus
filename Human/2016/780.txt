@@ -1,0 +1,4 @@
+Strongly Monotone Drawings of Planar Graphs
+
+A straight-line drawing of a graph is a monotone drawing if for each pair of vertices there is a path which is monotonically increasing in some direction, and it is called a strongly monotone drawing if the direction of monotonicity is given by the direction of the line segment connecting the two vertices.
+  We present algorithms to compute crossing-free strongly monotone drawings for some classes of planar graphs; namely, 3-connected planar graphs, outerplanar graphs, and 2-trees. The drawings of 3-connected planar graphs are based on primal-dual circle packings. Our drawings of outerplanar graphs are based on a new algorithm that constructs strongly monotone drawings of trees which are also convex. For irreducible trees, these drawings are strictly convex.

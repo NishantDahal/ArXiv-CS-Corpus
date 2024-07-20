@@ -1,0 +1,3 @@
+General Backpropagation Algorithm for Training Second-order Neural Networks
+
+The artificial neural network is a popular framework in machine learning. To empower individual neurons, we recently suggested that the current type of neurons could be upgraded to 2nd order counterparts, in which the linear operation between inputs to a neuron and the associated weights is replaced with a nonlinear quadratic operation. A single 2nd order neurons already has a strong nonlinear modeling ability, such as implementing basic fuzzy logic operations. In this paper, we develop a general backpropagation (BP) algorithm to train the network consisting of 2nd-order neurons. The numerical studies are performed to verify of the generalized BP algorithm.

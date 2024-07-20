@@ -1,0 +1,6 @@
+A Predictable Incentive Mechanism for TrueBit
+
+TrueBit is a protocol that uses interactive verification to allow a resource-constrained computation environment like a blockchain to perform much larger computations than usual in a trusted way. As long as a single honest participant is present to verify the computation, an invalid computation cannot get accepted.
+  In TrueBit, the presence of such a verifier is incentivised by randomly injected forced errors. Additionally, in order to counter sybil attacks, the reward for finding an error drops off exponentially with the number of challengers.
+  The main drawback of this mechanism is that it makes it very hard to predict whether participation will be profitable or not.
+  To even out the rewards, we propose to randomly select multiple solvers from a pool and evenly share the fees among them, while still allowing outside challengers. Furthermore, a proof of independent execution will make it harder to establish computation pools which share computation results.

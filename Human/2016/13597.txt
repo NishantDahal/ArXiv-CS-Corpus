@@ -1,0 +1,3 @@
+Phaseless super-resolution in the continuous domain
+
+Phaseless super-resolution refers to the problem of superresolving a signal from only its low-frequency Fourier magnitude measurements. In this paper, we consider the phaseless super-resolution problem of recovering a sum of sparse Dirac delta functions which can be located anywhere in the continuous time-domain. For such signals in the continuous domain, we propose a novel Semidefinite Programming (SDP) based signal recovery method to achieve the phaseless superresolution. This work extends the recent work of Jaganathan et al. [1], which considered phaseless super-resolution for discrete signals on the grid.

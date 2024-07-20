@@ -1,0 +1,3 @@
+A Distributed Algorithm for Finding Hamiltonian Cycles in Random Graphs in O(log n) Time
+
+It is known for some time that a random graph $G(n,p)$ contains w.h.p. a Hamiltonian cycle if $p$ is larger than the critical value $p_{crit}= (\log n + \log \log n + ω_n)/n$. The determination of a concrete Hamiltonian cycle is even for values much larger than $p_{crit}$ a nontrivial task. In this paper we consider random graphs $G(n,p)$ with $p$ in $\tildeΩ(1/\sqrt{n})$, where $\tildeΩ$ hides poly-logarithmic factors in $n$. For this range of $p$ we present a distributed algorithm ${\cal A}_{HC}$ that finds w.h.p. a Hamiltonian cycle in $O(\log n)$ rounds. The algorithm works in the synchronous model and uses messages of size $O(\log n)$ and $O(\log n)$ memory per node.

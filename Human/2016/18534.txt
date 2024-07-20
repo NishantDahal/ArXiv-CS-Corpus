@@ -1,0 +1,3 @@
+A Sparse Stress Model
+
+Force-directed layout methods constitute the most common approach to draw general graphs. Among them, stress minimization produces layouts of comparatively high quality but also imposes comparatively high computational demands. We propose a speed-up method based on the aggregation of terms in the objective function. It is akin to aggregate repulsion from far-away nodes during spring embedding but transfers the idea from the layout space into a preprocessing phase. An initial experimental study informs a method to select representatives, and subsequent more extensive experiments indicate that our method yields better approximations of minimum-stress layouts in less time than related methods.

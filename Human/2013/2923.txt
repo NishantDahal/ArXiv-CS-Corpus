@@ -1,0 +1,3 @@
+Efficient Sparseness-Enforcing Projections
+
+We propose a linear time and constant space algorithm for computing Euclidean projections onto sets on which a normalized sparseness measure attains a constant value. These non-convex target sets can be characterized as intersections of a simplex and a hypersphere. Some previous methods required the vector to be projected to be sorted, resulting in at least quasilinear time complexity and linear space complexity. We improve on this by adaptation of a linear time algorithm for projecting onto simplexes. In conclusion, we propose an efficient algorithm for computing the product of the gradient of the projection with an arbitrary vector.

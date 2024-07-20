@@ -1,0 +1,3 @@
+Combinations and Mixtures of Optimal Policies in Unichain Markov Decision Processes are Optimal
+
+We show that combinations of optimal (stationary) policies in unichain Markov decision processes are optimal. That is, let M be a unichain Markov decision process with state space S, action space A and policies π_j^*: S -> A (1\leq j\leq n) with optimal average infinite horizon reward. Then any combination πof these policies, where for each state i in S there is a j such that π(i)=π_j^*(i), is optimal as well. Furthermore, we prove that any mixture of optimal policies, where at each visit in a state i an arbitrary action π_j^*(i) of an optimal policy is chosen, yields optimal average reward, too.

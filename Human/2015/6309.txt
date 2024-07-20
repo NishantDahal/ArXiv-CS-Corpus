@@ -1,0 +1,3 @@
+Finitary semantics of linear logic and higher-order model-checking
+
+In this paper, we explain how the connection between higher-order model-checking and linear logic recently exhibited by the authors leads to a new and conceptually enlightening proof of the selection problem originally established by Carayol and Serre using collapsible pushdown automata. The main idea is to start from an infinitary and colored relational semantics of the lambdaY-calculus already formulated, and to replace it by its finitary counterpart based on finite prime-algebraic lattices. Given a higher-order recursion scheme G, the finiteness of its interpretation in the model enables us to associate to any MSO formula phi a new higher-order recursion scheme G_phi resolving the selection problem.

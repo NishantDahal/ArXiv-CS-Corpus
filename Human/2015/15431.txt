@@ -1,0 +1,3 @@
+New Deterministic Algorithms for Solving Parity Games
+
+We study parity games in which one of the two players controls only a small number $k$ of nodes and the other player controls the $n-k$ other nodes of the game. Our main result is a fixed-parameter algorithm that solves bipartite parity games in time $k^{O(\sqrt{k})}\cdot O(n^3)$, and general parity games in time $(p+k)^{O(\sqrt{k})} \cdot O(pnm)$, where $p$ is the number of distinct priorities and $m$ is the number of edges. For all games with $k = o(n)$ this improves the previously fastest algorithm by Jurdzi{ń}ski, Paterson, and Zwick (SICOMP 2008). We also obtain novel kernelization results and an improved deterministic algorithm for graphs with small average degree.

@@ -1,0 +1,3 @@
+Channel Estimation for Diffusive MIMO Molecular Communications
+
+In diffusion-based communication, as for molecular systems, the achievable data rate is very low due to the slow nature of diffusion and the existence of severe inter-symbol interference (ISI). Multiple-input multiple-output (MIMO) technique can be used to improve the data rate. Knowledge of channel impulse response (CIR) is essential for equalization and detection in MIMO systems. This paper presents a training-based CIR estimation for diffusive MIMO (D-MIMO) channels. Maximum likelihood and least-squares estimators are derived, and the training sequences are designed to minimize the corresponding Cramér-Rao bound. Sub-optimal estimators are compared to Cramér-Rao bound to validate their performance.

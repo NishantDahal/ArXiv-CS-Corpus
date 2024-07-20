@@ -1,0 +1,3 @@
+Using Newton's method to model a spatial light distribution of a LED with attached secondary optics
+
+In design of optical systems based on LED (Light emitting diode) technology, a crucial task is to handle the unstructured data describing properties of optical elements in standard formats. This leads to the problem of data fitting within an appropriate model. Newton's method is used as an upgrade of previously developed most promising discrete optimization heuristics showing improvement of both performance and quality of solutions. Experiment also indicates that a combination of an algorithm that finds promising initial solutions as a preprocessor to Newton's method may be a winning idea, at least on some datasets of instances.

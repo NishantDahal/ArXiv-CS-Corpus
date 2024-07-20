@@ -1,0 +1,3 @@
+gSLICr: SLIC superpixels at over 250Hz
+
+We introduce a parallel GPU implementation of the Simple Linear Iterative Clustering (SLIC) superpixel segmentation. Using a single graphic card, our implementation achieves speedups of up to $83\times$ from the standard sequential implementation. Our implementation is fully compatible with the standard sequential implementation and the software is now available online and is open source.

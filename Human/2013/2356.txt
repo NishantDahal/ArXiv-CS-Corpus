@@ -1,0 +1,3 @@
+An Uncertainty Management Calculus for Ordering Searches in Distributed Dynamic Databases
+
+MINDS is a distributed system of cooperating query engines that customize, document retrieval for each user in a dynamic environment. It improves its performance and adapts to changing patterns of document distribution by observing system-user interactions and modifying the appropriate certainty factors, which act as search control parameters. It argued here that the uncertainty management calculus must account for temporal precedence, reliability of evidence, degree of support for a proposition, and saturation effects. The calculus presented here possesses these features. Some results obtained with this scheme are discussed.

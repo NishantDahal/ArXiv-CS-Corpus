@@ -1,0 +1,4 @@
+Discovering the Network Backbone from Traffic Activity Data
+
+We introduce a new computational problem, the BackboneDiscovery problem, which encapsulates both functional and structural aspects of network analysis.
+  While the topology of a typical road network has been available for a long time (e.g., through maps), it is only recently that fine-granularity functional (activity and usage) information about the network (like source-destination traffic information) is being collected and is readily available. The combination of functional and structural information provides an efficient way to explore and understand usage patterns of networks and aid in design and decision making. We propose efficient algorithms for the BackboneDiscovery problem including a novel use of edge centrality. We observe that for many real world networks, our algorithm produces a backbone with a small subset of the edges that support a large percentage of the network activity.

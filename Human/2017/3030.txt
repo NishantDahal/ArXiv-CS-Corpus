@@ -1,0 +1,4 @@
+Statistical Decoding
+
+The security of code-based cryptography relies primarily on the hardness of generic decoding with linear codes. The best generic decoding algorithms are all improvements of an old algorithm due to Prange: they are known under the name of information set decoding techniques (ISD). A while ago a generic decoding algorithm which does not belong to this family was proposed: statistical decoding. It is a randomized algorithm that requires the computation of a large set of parity-check equations of moderate weight. We solve here several open problems related to this decoding algorithm.
+  We give in particular the asymptotic complexity of this algorithm, give a rather efficient way of computing the parity-check equations needed for it inspired by ISD techniques and give a lower bound on its complexity showing that when it comes to decoding on the Gilbert-Varshamov bound it can never be better than Prange's algorithm.

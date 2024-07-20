@@ -1,0 +1,3 @@
+The Distribution of Reversible Functions is Normal
+
+The distribution of reversible programs tends to a limit as their size increases. For problems with a Hamming distance fitness function the limiting distribution is binomial with an exponentially small chance (but non~zero) chance of perfect solution. Sufficiently good reversible circuits are more common. Expected RMS error is also calculated. Random unitary matrices may suggest possible extension to quantum computing. Using the genetic programming (GP) benchmark, the six multiplexor, circuits of Toffoli gates are shown to give a fitness landscape amenable to evolutionary search. Minimal CCNOT solutions to the six multiplexer are found but larger circuits are more evolvable.

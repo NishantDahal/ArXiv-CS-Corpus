@@ -1,0 +1,3 @@
+Sequential Neural Methods for Likelihood-free Inference
+
+Likelihood-free inference refers to inference when a likelihood function cannot be explicitly evaluated, which is often the case for models based on simulators. Most of the literature is based on sample-based `Approximate Bayesian Computation' methods, but recent work suggests that approaches based on deep neural conditional density estimators can obtain state-of-the-art results with fewer simulations. The neural approaches vary in how they choose which simulations to run and what they learn: an approximate posterior or a surrogate likelihood. This work provides some direct controlled comparisons between these choices.

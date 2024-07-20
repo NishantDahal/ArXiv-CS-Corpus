@@ -1,0 +1,3 @@
+Developments in Formal Proofs
+
+This report describes three particular technological advances in formal proofs. The HOL Light proof assistant will be used to illustrate the design of a highly reliable system. Today, proof assistants can verify large bodies of advanced mathematics; and as an example, we turn to the formal proof in Coq of the Feit-Thompson Odd Order theorem in group theory. Finally, we discuss advances in the automation of formal proofs, as implemented in proof assistants such as Mizar, Coq, Isabelle, and HOL Light.

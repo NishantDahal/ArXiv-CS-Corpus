@@ -1,0 +1,3 @@
+LuaJava - A Scripting Tool for Java
+
+Scripting languages are becoming more and more important as a tool for software development, as they provide great flexibility for rapid prototyping and for configuring componentware applications. In this paper we present LuaJava, a scripting tool for Java. LuaJava adopts Lua, a dynamically typed interpreted language, as its script language. Great emphasis is given to the transparency of the integration between the two languages, so that objects from one language can be used inside the other like native objects. The final result of this integration is a tool that allows the construction of configurable Java applications, using off-the-shelf components, in a high abstraction level.

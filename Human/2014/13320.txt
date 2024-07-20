@@ -1,0 +1,3 @@
+Implementation of a Hierarchical fuzzy controller for a biped robot
+
+In this paper the design of a control system for a biped robot is described. Control is specified for a walk cycle of the robot. The implementation of the control system was done on Matlab Simulink. In this paper a hierarchical fuzzy logic controller (HFLC) is proposed to control a planar biped walk. The HFLC design is bio-inspired from human locomotion system. The proposed method is applied to control five links planar biped into free area and without obstacles.

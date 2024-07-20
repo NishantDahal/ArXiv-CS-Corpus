@@ -1,0 +1,7 @@
+Forensic Analysis of the ChatSecure Instant Messaging Application on Android Smartphones
+
+We present the forensic analysis of the artifacts generated on Android smartphones by ChatSecure, a secure Instant Messaging application that provides strong encryption for transmitted and locally-stored data to ensure the privacy of its users.
+  We show that ChatSecure stores local copies of both exchanged messages and files into two distinct, AES-256 encrypted databases, and we devise a technique able to decrypt them when the secret passphrase, chosen by the user as the initial step of the encryption process, is known.
+  Furthermore, we show how this passphrase can be identified and extracted from the volatile memory of the device, where it persists for the entire execution of ChatSecure after having been entered by the user, thus allowing one to carry out decryption even if the passphrase is not revealed by the user.
+  Finally, we discuss how to analyze and correlate the data stored in the databases used by ChatSecure to identify the IM accounts used by the user and his/her buddies to communicate, as well as to reconstruct the chronology and contents of the messages and files that have been exchanged among them.
+  For our study we devise and use an experimental methodology, based on the use of emulated devices, that provides a very high degree of reproducibility of the results, and we validate the results it yields against those obtained from real smartphones.

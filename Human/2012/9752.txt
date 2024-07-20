@@ -1,0 +1,3 @@
+Improved rank bounds for design matrices and a new proof of Kelly's theorem
+
+We study the rank of complex sparse matrices in which the supports of different columns have small intersections. The rank of these matrices, called design matrices, was the focus of a recent work by Barak et. al. (BDWY11) in which they were used to answer questions regarding point configurations. In this work we derive near-optimal rank bounds for these matrices and use them to obtain asymptotically tight bounds in many of the geometric applications. As a consequence of our improved analysis, we also obtain a new, linear algebraic, proof of Kelly's theorem, which is the complex analog of the Sylvester-Gallai theorem.

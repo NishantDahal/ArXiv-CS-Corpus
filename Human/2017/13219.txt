@@ -1,0 +1,3 @@
+An ASM-based Characterization of Starvation-free Systems
+
+Abstract State Machines (ASMs) have been successfully applied for modeling critical and complex systems in a wide range of application domains. However, unlike other well-known formalisms, e.g. Petri nets, ASMs lack inherent, domain-independent characterisations of computationally important properties. Here, we provide an ASM-based characterisation of the starvation-free property. The classic, informal notion of starvation, usually provided in literature, is analysed and expressed as a necessary condition in terms of ASMs. Thus, we enrich the ASM framework with the notion of vulnerable rule as a practical tool for analysing starvation issues in an operational fashion

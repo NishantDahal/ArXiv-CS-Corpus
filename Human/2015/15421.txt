@@ -1,0 +1,3 @@
+Adaptive Neural Control for Mobile Robots Autonomous Navigation
+
+This paper presents a combined strategy for tracking a non-holonomic mobile robot which works under certain operating conditions for system parameters and disturbances. The strategy includes kinematic steering and velocity dynamics learning of mobile robot system simultaneously. In the learning controller (neural network based controller) the velocity dynamics learning control takes part in tracking of the reference velocity trajectory by learning the inverse function of robot dynamics while the reference velocity control input plays a role in stabilizing the kinematic steering system to the desired reference model of kinematic system even without using the assumption of perfect velocity tracking.

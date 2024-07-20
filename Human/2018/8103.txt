@@ -1,0 +1,4 @@
+Reachability and Distances under Multiple Changes
+
+Recently it was shown that the transitive closure of a directed graph can be updated using first-order formulas after insertions and deletions of single edges in the dynamic descriptive complexity framework by Dong, Su, and Topor, and Patnaik and Immerman. In other words, Reachability is in DynFO.
+  In this article we extend the framework to changes of multiple edges at a time, and study the Reachability and Distance queries under these changes. We show that the former problem can be maintained in DynFO$(+, \times)$ under changes affecting O($\frac{\log n}{\log \log n}$) nodes, for graphs with $n$ nodes. If the update formulas may use a majority quantifier then both Reachability and Distance can be maintained under changes that affect O($\log^c n$) nodes, for fixed $c \in \mathbb{N}$. Some preliminary results towards showing that distances are in DynFO are discussed.

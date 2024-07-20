@@ -1,0 +1,3 @@
+New algorithms for the Minimum Coloring Cut Problem
+
+The Minimum Coloring Cut Problem is defined as follows: given a connected graph G with colored edges, find an edge cut E' of G (a minimal set of edges whose removal renders the graph disconnected) such that the number of colors used by the edges in E' is minimum. In this work, we present two approaches based on Variable Neighborhood Search to solve this problem. Our algorithms are able to find all the optimum solutions described in the literature.

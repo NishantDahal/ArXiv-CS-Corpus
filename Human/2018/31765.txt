@@ -1,0 +1,3 @@
+Issues in the software implementation of stochastic numerical Runge-Kutta
+
+This paper discusses stochastic numerical methods of Runge-Kutta type with weak and strong convergences for systems of stochastic differential equations in Itô form. At the beginning we give a brief overview of the stochastic numerical methods and information from the theory of stochastic differential equations. Then we motivate the approach to the implementation of these methods using source code generation. We discuss the implementation details and the used programming languages and libraries

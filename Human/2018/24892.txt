@@ -1,0 +1,3 @@
+Dynamic Mutant Subsumption Analysis using LittleDarwin
+
+Many academic studies in the field of software testing rely on mutation testing to use as their comparison criteria. However, recent studies have shown that redundant mutants have a significant effect on the accuracy of their results. One solution to this problem is to use mutant subsumption to detect redundant mutants. Therefore, in order to facilitate research in this field, a mutation testing tool that is capable of detecting redundant mutants is needed. In this paper, we describe how we improved our tool, LittleDarwin, to fulfill this requirement.

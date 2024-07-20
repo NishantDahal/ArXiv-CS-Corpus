@@ -1,0 +1,3 @@
+Computing Multiplicative Order and Primitive Root in Finite Cyclic Group
+
+Multiplicative order of an element $a$ of group $G$ is the least positive integer $n$ such that $a^n=e$, where $e$ is the identity element of $G$. If the order of an element is equal to $|G|$, it is called generator or primitive root. This paper describes the algorithms for computing multiplicative order and primitive root in $\mathbb{Z}^*_{p}$, we also present a logarithmic improvement over classical algorithms.

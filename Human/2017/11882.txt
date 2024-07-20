@@ -1,0 +1,3 @@
+Facies classification from well logs using an inception convolutional network
+
+The idea to use automated algorithms to determine geological facies from well logs is not new (see e.g Busch et al. (1987); Rabaute (1998)) but the recent and dramatic increase in research in the field of machine learning makes it a good time to revisit the topic. Following an exercise proposed by Dubois et al. (2007) and Hall (2016) we employ a modern type of deep convolutional network, called \textit{inception network} (Szegedy et al., 2015), to tackle the supervised classification task and we discuss the methodological limits of such problem as well as further research opportunities.

@@ -1,0 +1,3 @@
+Multi-speaker Recognition in Cocktail Party Problem
+
+This paper proposes an original statistical decision theory to accomplish a multi-speaker recognition task in cocktail party problem. This theory relies on an assumption that the varied frequencies of speakers obey Gaussian distribution and the relationship of their voiceprints can be represented by Euclidean distance vectors. This paper uses Mel-Frequency Cepstral Coefficients to extract the feature of a voice in judging whether a speaker is included in a multi-speaker environment and distinguish who the speaker should be. Finally, a thirteen-dimension constellation drawing is established by mapping from Manhattan distances of speakers in order to take a thorough consideration about gross influential factors.

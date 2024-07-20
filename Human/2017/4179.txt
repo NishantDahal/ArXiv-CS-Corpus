@@ -1,0 +1,3 @@
+The Unheralded Value of the Multiway Rendezvous: Illustration with the Production Cell Benchmark
+
+The multiway rendezvous introduced in Theoretical CSP is a powerful paradigm to achieve synchronization and communication among a group of (possibly more than two) processes. We illustrate the advantages of this paradigm on the production cell benchmark, a model of a real metal processing plant, for which we propose a compositional software controller, which is written in LNT and LOTOS, and makes intensive use of the multiway rendezvous.

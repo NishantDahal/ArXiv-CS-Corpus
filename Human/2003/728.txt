@@ -1,0 +1,5 @@
+Enhancing a Search Algorithm to Perform Intelligent Backtracking
+
+This paper illustrates how a Prolog program, using chronological backtracking to find a solution in some search space, can be enhanced to perform intelligent backtracking. The enhancement crucially relies on the impurity of Prolog that allows a program to store information when a dead end is reached. To illustrate the technique, a simple search program is enhanced.
+  To appear in Theory and Practice of Logic Programming.
+  Keywords: intelligent backtracking, dependency-directed backtracking, backjumping, conflict-directed backjumping, nogood sets, look-back.

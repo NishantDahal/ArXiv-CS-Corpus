@@ -1,0 +1,3 @@
+Fast Hermite interpolation and evaluation over finite fields of characteristic two
+
+This paper presents new fast algorithms for Hermite interpolation and evaluation over finite fields of characteristic two. The algorithms reduce the Hermite problems to instances of the standard multipoint interpolation and evaluation problems, which are then solved by existing fast algorithms. The reductions are simple to implement and free of multiplications, allowing low overall multiplicative complexities to be obtained. The algorithms are suitable for use in encoding and decoding algorithms for multiplicity codes.

@@ -1,0 +1,3 @@
+Understanding Patch-Based Learning by Explaining Predictions
+
+Deep networks are able to learn highly predictive models of video data. Due to video length, a common strategy is to train them on small video snippets. We apply the deep Taylor / LRP technique to understand the deep network's classification decisions, and identify a "border effect": a tendency of the classifier to look mainly at the bordering frames of the input. This effect relates to the step size used to build the video snippet, which we can then tune in order to improve the classifier's accuracy without retraining the model. To our knowledge, this is the the first work to apply the deep Taylor / LRP technique on any video analyzing neural network.

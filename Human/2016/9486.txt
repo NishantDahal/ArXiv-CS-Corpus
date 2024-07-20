@@ -1,0 +1,3 @@
+Bit-Vectorized GPU Implementation of a Stochastic Cellular Automaton Model for Surface Growth
+
+Stochastic surface growth models aid in studying properties of universality classes like the Kardar--Paris--Zhang class. High precision results obtained from large scale computational studies can be transferred to many physical systems. Many properties, such as roughening and some two-time functions can be studied using stochastic cellular automaton (SCA) variants of stochastic models. Here we present a highly efficient SCA implementation of a surface growth model capable of simulating billions of lattice sites on a single GPU. We also provide insight into cases requiring arbitrary random probabilities which are not accessible through bit-vectorization.

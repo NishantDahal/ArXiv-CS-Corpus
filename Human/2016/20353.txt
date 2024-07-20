@@ -1,0 +1,3 @@
+Coinductive Soundness of Corecursive Type Class Resolution
+
+Horn clauses and first-order resolution are commonly used to implement type classes in Haskell. Several corecursive extensions to type class resolution have recently been proposed, with the goal of allowing (co)recursive dictionary construction where resolution does not termi- nate. This paper shows, for the first time, that corecursive type class resolution and its extensions are coinductively sound with respect to the greatest Herbrand models of logic programs and that they are induc- tively unsound with respect to the least Herbrand models. We establish incompleteness results for various fragments of the proof system.

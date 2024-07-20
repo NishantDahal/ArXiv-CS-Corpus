@@ -1,0 +1,4 @@
+Attracting Tangles to Solve Parity Games
+
+Parity games have important practical applications in formal verification and synthesis, especially to solve the model-checking problem of the modal mu-calculus. They are also interesting from the theory perspective, because they are widely believed to admit a polynomial solution, but so far no such algorithm is known.
+  We propose a new algorithm to solve parity games based on learning tangles, which are strongly connected subgraphs for which one player has a strategy to win all cycles in the subgraph. We argue that tangles play a fundamental role in the prominent parity game solving algorithms. We show that tangle learning is competitive in practice and the fastest solver for large random games.

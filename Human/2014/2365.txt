@@ -1,0 +1,3 @@
+Finding Linear Dependencies in Integration-By-Parts Equations: A Monte Carlo Approach
+
+The reduction of a large number of scalar integrals to a small set of master integrals via Laporta's algorithm is common practice in multi-loop calculations. It is also a major bottleneck in terms of running time and memory consumption. It involves solving a large set of linear equations where many of the equations are linearly dependent. We propose a simple algorithm that eliminates all linearly dependent equations from a given system, reducing the time and space requirements of a subsequent run of Laporta's algorithm.

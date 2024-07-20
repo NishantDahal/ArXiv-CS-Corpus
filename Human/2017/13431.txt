@@ -1,0 +1,3 @@
+Optimal Universal Lossless Compression with Side Information
+
+This paper presents conditional versions of Lempel-Ziv (LZ) algorithm for settings where compressor and decompressor have access to the same side information. We propose a fixed-length-parsing LZ algorithm with side information, motivated by the Willems algorithm, and prove the optimality for any stationary processes. In addition, we suggest strategies to improve the algorithm which lower the data compression rate. A modification of a variable-length-parsing LZ algorithm with side information is proposed and proved to be asymptotically optimal for any stationary and ergodic processes.

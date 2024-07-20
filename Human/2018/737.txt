@@ -1,0 +1,3 @@
+Light-weight pixel context encoders for image inpainting
+
+In this work we propose Pixel Content Encoders (PCE), a light-weight image inpainting model, capable of generating novel con-tent for large missing regions in images. Unlike previously presented convolutional neural network based models, our PCE model has an order of magnitude fewer trainable parameters. Moreover, by incorporating dilated convolutions we are able to preserve fine grained spatial information, achieving state-of-the-art performance on benchmark datasets of natural images and paintings. Besides image inpainting, we show that without changing the architecture, PCE can be used for image extrapolation, generating novel content beyond existing image boundaries.

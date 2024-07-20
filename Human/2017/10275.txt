@@ -1,0 +1,3 @@
+A Fuzzy Approach to Qualification in Design Exploration for Autonomous Robots and Systems
+
+Autonomous robots must operate in complex and changing environments subject to requirements on their behaviour. Verifying absolute satisfaction (true or false) of these requirements is challenging. Instead, we analyse requirements that admit flexible degrees of satisfaction. We analyse vague requirements using fuzzy logic, and probabilistic requirements using model checking. The resulting analysis method provides a partial ordering of system designs, identifying trade-offs between different requirements in terms of the degrees to which they are satisfied. A case study involving a home care robot interacting with a human is used to demonstrate the approach.

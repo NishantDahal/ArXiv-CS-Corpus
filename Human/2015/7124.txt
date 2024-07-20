@@ -1,0 +1,3 @@
+Complexity of Manipulative Actions When Voting with Ties
+
+Most of the computational study of election problems has assumed that each voter's preferences are, or should be extended to, a total order. However in practice voters may have preferences with ties. We study the complexity of manipulative actions on elections where voters can have ties, extending the definitions of the election systems (when necessary) to handle voters with ties. We show that for natural election systems allowing ties can both increase and decrease the complexity of manipulation and bribery, and we state a general result on the effect of voters with ties on the complexity of control.

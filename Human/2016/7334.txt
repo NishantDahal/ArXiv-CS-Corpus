@@ -1,0 +1,3 @@
+Routing with Congestion in Acyclic Digraphs
+
+We study the version of the $k$-disjoint paths problem where $k$ demand pairs $(s_1,t_1)$, $\dots$, $(s_k,t_k)$ are specified in the input and the paths in the solution are allowed to intersect, but such that no vertex is on more than $c$ paths. We show that on directed acyclic graphs the problem is solvable in time $n^{O(d)}$ if we allow congestion $k-d$ for $k$ paths. Furthermore, we show that, under a suitable complexity theoretic assumption, the problem cannot be solved in time $f(k)n^{o(d/\log d)}$ for any computable function $f$.

@@ -1,0 +1,4 @@
+Bounds on the number of discontinuities of Morton-type space-filling curves
+
+The Morton- or z-curve is one example for a space filling curve: Given a level of refinement L, it maps the interval [0, 2**dL) one-to-one to a set of d-dimensional cubes of edge length 2**-L that form a subdivision of the unit cube. Similar curves have been proposed for triangular and tetrahedral unit domains. In contrast to the Hilbert curve that is continuous, the Morton-type curves produce jumps.
+  We prove that any contiguous subinterval of the curve divides the domain into a bounded number of face-connected subdomains. For the hypercube case and arbitrary dimension, the subdomains are star-shaped and the bound is indeed two. For the simplicial case in dimensions 2 and 3, the bound is proportional to the depth of refinement L. We supplement the paper with theoretical and computational studies on the frequency of jumps for a quantitative assessment.

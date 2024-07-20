@@ -1,0 +1,3 @@
+Consistent Sampling with Replacement
+
+We describe a very simple method for `consistent sampling' that allows for sampling with replacement. The method extends previous approaches to consistent sampling, which assign a pseudorandom real number to each element, and sample those with the smallest associated numbers. When sampling with replacement, our extension gives the item sampled a new, larger, associated pseudorandom number, and returns it to the pool of items being sampled.

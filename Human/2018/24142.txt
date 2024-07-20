@@ -1,0 +1,3 @@
+Equivalence between pathbreadth and strong pathbreadth
+
+We say that a given graph $G = (V, E)$ has \emph{pathbreadth} at most $ρ$, denoted $\pb(G) \leq ρ$, if there exists a Roberston and Seymour's path decomposition where every bag is contained in the $ρ$-neighbourhood of some vertex. Similarly, we say that $G$ has \emph{strong pathbreadth} at most $ρ$, denoted $\spb(G) \leq ρ$, if there exists a Roberston and Seymour's path decomposition where every bag is the complete $ρ$-neighbourhood of some vertex. It is straightforward that $\pb(G) \leq \spb(G)$ for any graph $G$. Inspired from a close conjecture in [Leitert and Dragan, COCOA'16], we prove in this note that $\spb(G) \leq 4 \cdot \pb(G)$.

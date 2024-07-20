@@ -1,0 +1,3 @@
+Intelligent strategies for DAG scheduling optimization in Grid environments
+
+The paper presents a solution to the dynamic DAG scheduling problem in Grid environments. It presents a distributed, scalable, efficient and fault-tolerant algorithm for optimizing tasks assignment. The scheduler algorithm for tasks with dependencies uses a heuristic model to optimize the total cost of tasks execution. Also, a method based on genetic algorithms is proposed to optimize the procedure of resources assignment. The experiments used the MonALISA monitoring environment and its extensions. The results demonstrate very good behavior in comparison with other scheduling approaches for this kind of DAG scheduling algorithms.

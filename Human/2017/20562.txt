@@ -1,0 +1,3 @@
+Facial Keypoints Detection
+
+Detect facial keypoints is a critical element in face recognition. However, there is difficulty to catch keypoints on the face due to complex influences from original images, and there is no guidance to suitable algorithms. In this paper, we study different algorithms that can be applied to locate keyponits. Specifically: our framework (1)prepare the data for further investigation (2)Using PCA and LBP to process the data (3) Apply different algorithms to analysis data, including linear regression models, tree based model, neural network and convolutional neural network, etc. Finally we will give our conclusion and further research topic. A comprehensive set of experiments on dataset demonstrates the effectiveness of our framework.

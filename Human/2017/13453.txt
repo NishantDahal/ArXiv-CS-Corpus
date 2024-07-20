@@ -1,0 +1,3 @@
+Some Improvements in Fuzzy Turing Machines
+
+In this paper, we modify some previous definitions of fuzzy Turing machines to define the notions of accepting and rejecting degrees of inputs, computationally. We use a BFS-based search method and obtain an upper level bound to guarantee the existence of accepting and rejecting degrees. We show that fuzzy, generalized fuzzy and classical Turing machines have the same computational power. Next, we introduce the class of Extended Fuzzy Turing Machines equipped with indeterminacy states. These machines are used to catch some types of loops of the classical Turing machines. Moreover, to each r.e. or co-r.e language, we correspond a fuzzy language which is indeterminable by an extended fuzzy Turing machine.

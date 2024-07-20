@@ -1,0 +1,7 @@
+Real Hypercomputation and Continuity
+
+By the sometimes so-called 'Main Theorem' of Recursive Analysis, every computable real function is necessarily continuous. We wonder whether and which kinds of HYPERcomputation allow for the effective evaluation of also discontinuous f:R->R. More precisely the present work considers the following three super-Turing notions of real function computability:
+  * relativized computation; specifically given oracle access to the Halting Problem 0' or its jump 0'';
+  * encoding real input x and/or output y=f(x) in weaker ways also related to the Arithmetic Hierarchy;
+  * non-deterministic computation.
+  It turns out that any f:R->R computable in the first or second sense is still necessarily continuous whereas the third type of hypercomputation does provide the required power to evaluate for instance the discontinuous sign function.

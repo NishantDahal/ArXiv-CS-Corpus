@@ -1,0 +1,3 @@
+The Boolean Algebra of Cubical Areas as a Tensor Product in the Category of Semilattices with Zero
+
+In this paper we describe a model of concurrency together with an algebraic structure reflecting the parallel composition. For the sake of simplicity we restrict to linear concurrent programs  i.e. the ones with no loops nor branching. Such programs are given a semantics using cubical areas. Such a semantics is said to be geometric.  The collection of all these cubical areas enjoys a structure of  tensor product in the category of semi-lattice with zero. These results naturally extend to fully fledged concurrent programs up to some technical tricks.

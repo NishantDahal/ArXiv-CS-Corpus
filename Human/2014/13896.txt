@@ -1,0 +1,4 @@
+A Linear Cheeger Inequality using Eigenvector Norms
+
+The Cheeger constant, $h_G$, is a measure of expansion within a graph. The classical Cheeger Inequality states: $λ_{1}/2 \le h_G \le \sqrt{2 λ_{1}}$ where $λ_1$ is the first nontrivial eigenvalue of the normalized Laplacian matrix. Hence, $h_G$ is tightly controlled by $λ_1$ to within a quadratic factor.
+  We give an alternative Cheeger Inequality where we consider the $\infty$-norm of the corresponding eigenvector in addition to $λ_1$. This inequality controls $h_G$ to within a linear factor of $λ_1$ thereby providing an improvement to the previous quadratic bounds. An additional advantage of our result is that while the original Cheeger constant makes it clear that $h_G \to 0$ as $λ_1 \to 0$, our result shows that $h_G \to 1/2$ as $λ_1 \to 1$.

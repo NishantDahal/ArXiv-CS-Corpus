@@ -1,0 +1,3 @@
+Fast Convolutional Sparse Coding in the Dual Domain
+
+Convolutional sparse coding (CSC) is an important building block of many computer vision applications ranging from image and video compression to deep learning. We present two contributions to the state of the art in CSC. First, we significantly speed up the computation by proposing a new optimization framework that tackles the problem in the dual domain. Second, we extend the original formulation to higher dimensions in order to process a wider range of inputs, such as RGB images and videos. Our results show up to 20 times speedup compared to current state-of-the-art CSC solvers.

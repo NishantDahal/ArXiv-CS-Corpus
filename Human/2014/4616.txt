@@ -1,0 +1,3 @@
+On physical problems that are slightly more difficult than QMA
+
+We study the complexity of computational problems from quantum physics. Typically, they are studied using the complexity class QMA (quantum counterpart of NP) but some natural computational problems appear to be slightly harder than QMA. We introduce new complexity classes consisting of problems that are solvable with a small number of queries to a QMA oracle and use these complexity classes to quantify the complexity of several natural computational problems (for example, the complexity of estimating the spectral gap of a Hamiltonian).

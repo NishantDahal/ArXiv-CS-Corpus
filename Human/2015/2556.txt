@@ -1,0 +1,6 @@
+Log-concavity and lower bounds for arithmetic circuits
+
+One question that we investigate in this paper is, how can we build log-concave polynomials using sparse polynomials as building blocks? More precisely, let $f = \sum\_{i = 0}^d a\_i X^i \in \mathbb{R}^+[X]$ be a polynomial satisfying the log-concavity condition $a\_i^2 \textgreater{} τa\_{i-1}a\_{i+1}$ for every $i \in \{1,\ldots,d-1\},$ where $τ\textgreater{} 0$. Whenever $f$ can be written under the form $f = \sum\_{i = 1}^k \prod\_{j = 1}^m f\_{i,j}$ where the polynomials $f\_{i,j}$ have at most $t$ monomials, it is clear that $d \leq k t^m$. Assuming that the $f\_{i,j}$ have only non-negative coefficients, we improve this degree bound to $d = \mathcal O(k m^{2/3} t^{2m/3} {\rm log^{2/3}}(kt))$ if $τ\textgreater{} 1$, and to $d \leq kmt$ if $τ= d^{2d}$.
+
+This investigation has a complexity-theoretic motivation: we show that a suitable strengthening of the above results would imply a separation of the algebraic complexity classes VP and VNP.  As they currently stand, these results are strong enough to provide a new example of a family of
+polynomials in VNP which cannot be computed by monotone arithmetic circuits of polynomial size.

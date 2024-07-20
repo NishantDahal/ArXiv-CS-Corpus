@@ -1,0 +1,3 @@
+Lower Bounds by Birkhoff Interpolation
+
+In this paper we give lower bounds for the representation of real univariate polynomials as sums of powers of degree 1 polynomials. We present two families of polynomials of degree d such that the number of powers that are required in such a representation must be at least of order d. This is clearly optimal up to a constant factor. Previous lower bounds for this problem were only of order $Ω$($\sqrt$ d), and were obtained from arguments based on Wronskian determinants and "shifted derivatives." We obtain this improvement thanks to a new lower bound method based on Birkhoff interpolation (also known as "lacunary polynomial interpolation").

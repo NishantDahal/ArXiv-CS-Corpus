@@ -1,0 +1,3 @@
+Murmur Detection Using Parallel Recurrent & Convolutional Neural Networks
+
+In this article, we propose a novel technique for classification of the Murmurs in heart sound. We introduce a novel deep neural network architecture using parallel combination of the Recurrent Neural Network (RNN) based Bidirectional Long Short-Term Memory (BiLSTM) & Convolutional Neural Network (CNN) to learn visual and time-dependent characteristics of Murmur in PCG waveform. Set of acoustic features are presented to our proposed deep neural network to discriminate between Normal and Murmur class. The proposed method was evaluated on a large dataset using 5-fold cross-validation, resulting in a sensitivity and specificity of 96 +- 0.6 % , 100 +- 0 % respectively and F1 Score of 98 +- 0.3 %.

@@ -1,0 +1,3 @@
+Disjunctive Logic Programs versus Normal Logic Programs
+
+This paper focuses on the expressive power of disjunctive and normal logic programs under the stable model semantics over finite, infinite, or arbitrary structures. A translation from disjunctive logic programs into normal logic programs is proposed and then proved to be sound over infinite structures. The equivalence of expressive power of two kinds of logic programs over arbitrary structures is shown to coincide with that over finite structures, and coincide with whether or not NP is closed under complement. Over finite structures, the intranslatability from disjunctive logic programs to normal logic programs is also proved if arities of auxiliary predicates and functions are bounded in a certain way.

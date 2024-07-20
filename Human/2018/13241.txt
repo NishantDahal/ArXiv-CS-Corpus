@@ -1,0 +1,6 @@
+Adaptive Lower Bound for Testing Monotonicity on the Line
+
+In the property testing model, the task is to distinguish objects possessing some property from the objects that are far from it. One of such properties is monotonicity, when the objects are functions from one poset to another. This is an active area of research. In this paper we study query complexity of $ε$-testing monotonicity of a function $f\colon [n]\to[r]$. All our lower bounds are for adaptive two-sided testers.
+  * We prove a nearly tight lower bound for this problem in terms of $r$. The bound is $Ω(\frac{\log r}{\log \log r})$ when $ε= 1/2$. No previous satisfactory lower bound in terms of $r$ was known.
+  * We completely characterise query complexity of this problem in terms of $n$ for smaller values of $ε$. The complexity is $Θ(ε^{-1} \log (εn))$. Apart from giving the lower bound, this improves on the best known upper bound.
+  Finally, we give an alternative proof of the $Ω(ε^{-1}d\log n - ε^{-1}\logε^{-1})$ lower bound for testing monotonicity on the hypergrid $[n]^d$ due to Chakrabarty and Seshadhri (RANDOM'13).

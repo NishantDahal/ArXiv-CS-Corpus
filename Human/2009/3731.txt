@@ -1,0 +1,3 @@
+New Bounds for Restricted Isometry Constants
+
+In this paper we show that if the restricted isometry constant $δ_k$ of the compressed sensing matrix satisfies \[ δ_k < 0.307, \] then $k$-sparse signals are guaranteed to be recovered exactly via $\ell_1$ minimization when no noise is present and $k$-sparse signals can be estimated stably in the noisy case. It is also shown that the bound cannot be substantively improved. An explicitly example is constructed in which $δ_{k}=\frac{k-1}{2k-1} < 0.5$, but it is impossible to recover certain $k$-sparse signals.

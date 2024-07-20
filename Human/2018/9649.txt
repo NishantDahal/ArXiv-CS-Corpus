@@ -1,0 +1,3 @@
+The Popular Roommates problem
+
+We consider the popular matching problem in a roommates instance with strict preference lists. While popular matchings always exist in a bipartite instance, they need not exist in a roommates instance. The complexity of the popular matching problem in a roommates instance has been an open problem for several years and here we show it is NP-hard. A sub-class of max-size popular matchings called dominant matchings has been well-studied in bipartite graphs. We show that the dominant matching problem in a roommates instance is also NP-hard and this is the case even when the instance admits a stable matching.

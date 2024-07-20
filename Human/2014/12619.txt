@@ -1,0 +1,3 @@
+Sparse implicitization by interpolation: Geometric computations using matrix representations
+
+Based on the computation of a superset of the implicit support, implicitization of a parametrically given hyper-surface is reduced to computing the nullspace of a numeric matrix. Our approach exploits the sparseness of the given parametric equations and of the implicit polynomial. In this work, we study how this interpolation matrix can be used to reduce some key geometric predicates on the hyper-surface to simple numerical operations on the matrix, namely membership and sidedness for given query points. We illustrate our results with examples based on our Maple implementation.

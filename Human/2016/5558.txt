@@ -1,0 +1,4 @@
+New Error Tolerant Method to Search Long Repeats in Symbol Sequences
+
+A new method to identify all sufficiently long repeating substrings in one or several symbol sequences is proposed. The method is based on a specific gauge applied to symbol sequences that guarantees identification of the repeating substrings. It allows the matching of substrings to contain a given level of errors. The gauge is based on the development of a heavily sparse dictionary of repeats, thus drastically accelerating the search procedure. Some genomic applications illustrate the method.
+  This paper is the extended and detailed version of the presentation at the third International Conference on Algorithms for Computational Biology to be held at Trujillo, Spain, June 21-22, 2016.

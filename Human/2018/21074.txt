@@ -1,0 +1,5 @@
+Asymmetric Convex Intersection Testing
+
+We consider asymmetric convex intersection testing (ACIT).
+  Let $P \subset \mathbb{R}^d$ be a set of $n$ points and $\mathcal{H}$ a set of $n$ halfspaces in $d$ dimensions. We denote by $\text{ch}(P)$ the polytope obtained by taking the convex hull of $P$, and by $\text{fh}(\mathcal{H})$ the polytope obtained by taking the intersection of the halfspaces in $\mathcal{H}$. Our goal is to decide whether the intersection of $\mathcal{H}$ and the convex hull of $P$ are disjoint. Even though ACIT is a natural variant of classic LP-type problems that have been studied at length in the literature, and despite its applications in the analysis of high-dimensional data sets, it appears that the problem has not been studied before.
+  We discuss how known approaches can be used to attack the ACIT problem, and we provide a very simple strategy that leads to a deterministic algorithm, linear on $n$ and $m$, whose running time depends reasonably on the dimension $d$.

@@ -1,0 +1,3 @@
+Optimizing the For loop: Comparison of For loop and micro For loop
+
+Looping is one of the fundamental logical instructions used for repeating a block of code. It is used in programs across all programming languages. Traditionally, in languages like C, the for loop is used extensively for repeated execution of a block of code, due to its ease for use and simplified representation. This paper proposes a new way of representing the for loop to improve its runtime efficiency and compares the experimental statistics with the traditional for loop representation. It is found that for small number of iterations, the difference in computational time may not be considerable. But given any large number of iterations, the difference is noticeable.

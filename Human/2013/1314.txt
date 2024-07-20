@@ -1,0 +1,3 @@
+Modularizing and Specifying Protocols among Threads
+
+We identify three problems with current techniques for implementing protocols among threads, which complicate and impair the scalability of multicore software development: implementing synchronization, implementing coordination, and modularizing protocols. To mend these deficiencies, we argue for the use of domain-specific languages (DSL) based on existing models of concurrency. To demonstrate the feasibility of this proposal, we explain how to use the model of concurrency Reo as a high-level protocol DSL, which offers appropriate abstractions and a natural separation of protocols and computations. We describe a Reo-to-Java compiler and illustrate its use through examples.

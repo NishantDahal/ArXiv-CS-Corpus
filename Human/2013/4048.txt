@@ -1,0 +1,3 @@
+Nonlinear Basis Pursuit
+
+In compressive sensing, the basis pursuit algorithm aims to find the sparsest solution to an underdetermined linear equation system. In this paper, we generalize basis pursuit to finding the sparsest solution to higher order nonlinear systems of equations, called nonlinear basis pursuit. In contrast to the existing nonlinear compressive sensing methods, the new algorithm that solves the nonlinear basis pursuit problem is convex and not greedy. The novel algorithm enables the compressive sensing approach to be used for a broader range of applications where there are nonlinear relationships between the measurements and the unknowns.

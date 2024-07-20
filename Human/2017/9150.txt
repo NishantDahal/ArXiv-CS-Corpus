@@ -1,0 +1,4 @@
+GRID Storage Optimization in Transparent and User-Friendly Way for LHCb Datasets
+
+The LHCb collaboration is one of the four major experiments at the Large Hadron Collider at CERN. Many petabytes of data are produced by the detectors and Monte-Carlo simulations. The LHCb Grid interware LHCbDIRAC is used to make data available to all collaboration members around the world. The data is replicated to the Grid sites in different locations. However the Grid disk storage is limited and does not allow keeping replicas of each file at all sites. Thus it is essential to optimize number of replicas to achieve a better Grid performance.
+  In this study, we present a new approach of data replication and distribution strategy based on data popularity prediction. The popularity is performed based on the data access history and metadata, and uses machine learning techniques and time series analysis methods.

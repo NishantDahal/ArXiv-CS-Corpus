@@ -1,0 +1,3 @@
+On the Feasibility of Decentralized Derivatives Markets
+
+In this paper, we present Velocity, a decentralized market deployed on Ethereum for trading a custom type of derivative option. To enable the smart contract to work, we also implement a price fetching tool called PriceGeth. We present this as a case study, noting challenges in development of the system that might be of independent interest to whose working on smart contract implementations. We also apply recent academic results on the security of the Solidity smart contract language in validating our codes security. Finally, we discuss more generally the use of smart contracts in modelling financial derivatives.

@@ -1,0 +1,4 @@
+Two Optimization Problems for Unit Disks
+
+We present an implementation of a recent algorithm to compute shortest-path trees in unit disk graphs in $O(n\log n)$ worst-case time, where $n$ is the number of disks.
+  In the minimum-separation problem, we are given $n$ unit disks and two points $s$ and $t$, not contained in any of the disks, and we want to compute the minimum number of disks one needs to retain so that any curve connecting $s$ to $t$ intersects some of the retained disks. We present a new algorithm solving this problem in $O(n^2\log^3 n)$ worst-case time and its implementation.

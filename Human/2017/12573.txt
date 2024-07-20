@@ -1,0 +1,7 @@
+Sparse Approximation via Generating Point Sets
+
+$ \newcommand{\kalg}{k_{\mathrm{alg}}}
+  \newcommand{\kopt}{k_{\mathrm{opt}}}
+  \newcommand{\algset}{T} \renewcommand{\Re}{\mathbb{R}}
+  \newcommand{\eps}{\varepsilon} \newcommand{\pth}[2][\!]{#1\left({#2}\right)} \newcommand{\npoints}{n} \newcommand{\ballD}{\mathsf{b}} \newcommand{\dataset}{P} $ For a set $\dataset$ of $\npoints$ points in the unit ball $\ballD \subseteq \Re^d$, consider the problem of finding a small subset $\algset \subseteq \dataset$ such that its convex-hull $\eps$-approximates the convex-hull of the original set. We present an efficient algorithm to compute such a $\eps'$-approximation of size $\kalg$, where $\eps'$ is function of $\eps$, and $\kalg$ is a function of the minimum size $\kopt$ of such an $\eps$-approximation. Surprisingly, there is no dependency on the dimension $d$ in both bounds. Furthermore, every point of $\dataset$ can be $\eps$-approximated by a convex-combination of points of $\algset$ that is $O(1/\eps^2)$-sparse.
+  Our result can be viewed as a method for sparse, convex autoencoding: approximately representing the data in a compact way using sparse combinations of a small subset $\algset$ of the original data. The new algorithm can be kernelized, and it preserves sparsity in the original input.

@@ -1,0 +1,3 @@
+Exponential Approximation of Bandlimited Functions from Average Oversampling
+
+Weighted average sampling is more practical and numerically more stable than sampling at single points as in the classical Shannon sampling framework. Using the frame theory, one can completely reconstruct a bandlimited function from its suitably-chosen average sample data. When only finitely many sample data are available, truncating the complete reconstruction series with the standard dual frame results in very slow convergence. We present in this note a method of reconstructing a bandlimited function from finite average oversampling with an exponentially-decaying approximation error.

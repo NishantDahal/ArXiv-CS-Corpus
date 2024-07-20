@@ -1,0 +1,3 @@
+Non-trivial two-armed partial-monitoring games are bandits
+
+We consider online learning in partial-monitoring games against an oblivious adversary. We show that when the number of actions available to the learner is two and the game is nontrivial then it is reducible to a bandit-like game and thus the minimax regret is $Θ(\sqrt{T})$.

@@ -1,0 +1,3 @@
+Edge detection of binary images using the method of masks
+
+In this work the method of masks, creating and using of inverted image masks, together with binary operation of image data are used in edge detection of binary images, monochrome images, which yields about 300 times faster than ordinary methods. The method is divided into three stages: Mask construction, Fundamental edge detection, and Edge Construction Comparison with an ordinary method and a fuzzy based method is carried out.

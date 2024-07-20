@@ -1,0 +1,3 @@
+Reasoning on Schemata of Formulae
+
+A logic is presented for reasoning on iterated sequences of formulae over some given base language. The considered sequences, or "schemata", are defined inductively, on some algebraic structure (for instance the natural numbers, the lists, the trees etc.). A proof procedure is proposed to relate the satisfiability problem for schemata to that of finite disjunctions of base formulae. It is shown that this procedure is sound, complete and terminating, hence the basic computational properties of the base language can be carried over to schemata.

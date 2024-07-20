@@ -1,0 +1,4 @@
+Techniques for the Cograph Editing Problem: Module Merge is equivalent to Editing P4s
+
+Cographs are graphs in which no four vertices induce a simple connected path $P_4$. Cograph editing is to find for a given graph $G = (V,E)$ a set of at most $k$ edge additions and deletions that transform $G$ into a cograph. This combinatorial optimization problem is NP-hard. It has, recently found applications in the context of phylogenetics, hence good heuristics are of practical importance.
+  It is well-known that the cograph editing problem can be solved independently on the so-called strong prime modules of the modular decomposition of $G$. We show here that editing the induced $P_4$'s of a given graph is equivalent to resolving strong prime modules by means of a newly defined merge operation on the submodules. This observation leads to a new exact algorithm for the cograph editing problem that can be used as a starting point for the construction of novel heuristics.

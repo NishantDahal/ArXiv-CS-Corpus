@@ -1,0 +1,3 @@
+Compositional Discovery of Workflow Nets from Event Logs Using Morphisms
+
+This paper presents a modular approach to discover process models for multi-agent systems from event logs. System event logs are filtered according to individual agent behavior. We discover workflow nets for each agent using existing process discovery algorithms. We consider asynchronous interactions among agents. Given a specification of an interaction protocol, we propose a general scheme of workflow net composition. By using morphisms, we prove that this composition preserves soundness of components. A quality evaluation shows the increase in the precision of models discovered by the proposed approach.

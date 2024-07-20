@@ -1,0 +1,3 @@
+Improved repeatability measures for evaluating performance of feature detectors
+
+The most frequently employed measure for performance characterisation of local feature detectors is repeatability, but it has been observed that this does not necessarily mirror actual performance. Presented are improved repeatability formulations which correlate much better with the true performance of feature detectors. Comparative results for several state-of-the-art feature detectors are presented using these measures; it is found that Hessian-based detectors are generally superior at identifying features when images are subject to various geometric and photometric transformations.

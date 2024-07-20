@@ -1,0 +1,3 @@
+Using Additional Indexes for Fast Full-Text Search of Phrases That Contain Frequently Used Words
+
+Searches for phrases and word sets in large text arrays by means of additional indexes are considered. Their use may reduce the query-processing time by an order of magnitude in comparison with standard inverted files.

@@ -1,0 +1,3 @@
+TiD -- Documentation of TOBI Interface D
+
+This document contains the documentation of TOBI (Tools for BCI) Interface D (TiD). TiD tries to establish a standardized interface for event transmission in neuroscience experiments. It is designed in a client-server architecture. Clients are connecting to a single server and events are delivered in a "bus-like" manner. TiD events are based on XML messages. So TiD messages can also get custom extended. A cross platform C++ library is available and provides all TiD functionality. To avoid jitter effect, hampering event processing, TiD was optimized towards performance. The documentation provides further performance tweaks to decrease TiD message processing latency and also decrease event timing jitter.

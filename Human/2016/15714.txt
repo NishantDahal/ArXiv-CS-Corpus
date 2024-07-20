@@ -1,0 +1,3 @@
+Detecting and Summarizing Emergent Events in Microblogs and Social Media Streams by Dynamic Centralities
+
+Methods for detecting and summarizing emergent keywords have been extensively studied since social media and microblogging activities have started to play an important role in data analysis and decision making. We present a system for monitoring emergent keywords and summarizing a document stream based on the dynamic semantic graphs of streaming documents. We introduce the notion of dynamic eigenvector centrality for ranking emergent keywords, and present an algorithm for summarizing emergent events that is based on the minimum weight set cover. We demonstrate our system with an analysis of streaming Twitter data related to public security events.

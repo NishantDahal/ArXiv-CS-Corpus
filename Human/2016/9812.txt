@@ -1,0 +1,8 @@
+Almost Tight Bounds for Eliminating Depth Cycles in Three Dimensions
+
+Given $n$ non-vertical lines in 3-space, their vertical depth (above/below) relation can contain cycles. We show that the lines can be cut into $O(n^{3/2}\mathop{\mathrm{polylog}} n)$ pieces, such that the depth relation among these pieces is now a proper partial order. This bound is nearly tight in the worst case.
+  Previous results on this topic could only handle restricted cases of the problem (such as handling only triangular cycles, by Aronov, Koltun, and Sharir (2005), or only cycles in grid-like patterns, by Chazelle et al. (1992)), and the bounds were considerably weaker---much closer to the trivial quadratic bound.
+  Our proof uses a recent variant of the polynomial partitioning technique, due to Guth, and some simple tools from algebraic geometry. It is much more straightforward than the previous "purely combinatorial" methods.
+  Our technique can be extended to eliminating all cycles in the depth relation among segments, and among constant-degree algebraic arcs. We hope that a suitable extension of this technique could be used to handle the much more difficult case of pairwise-disjoint triangles.
+  We also discuss several algorithms for constructing a small set of cuts so as to eliminate all depth-relation cycles among the lines (minimizing such a set, for the case of line segments, is known to be NP-complete). The performance of these algorithms improves due to our new bound, but, so far, none of them both (a) produce close to $n^{3/2}$ cuts, and (b) run in time close to $n^{3/2}$, in the worst case.
+  Our results almost completely settle a 35-year-old open problem in computational geometry, motivated by hidden-surface removal in computer graphics.

@@ -1,0 +1,3 @@
+Marimba: A Tool for Verifying Properties of Hidden Markov Models
+
+The formal verification of properties of Hidden Markov Models (HMMs) is highly desirable for gaining confidence in the correctness of the model and the corresponding system. A significant step towards HMM verification was the development by Zhang et al. of a family of logics for verifying HMMs, called POCTL*, and its model checking algorithm. As far as we know, the verification tool we present here is the first one based on Zhang et al.'s approach. As an example of its effective application, we verify properties of a handover task in the context of human-robot interaction. Our tool was implemented in Haskell, and the experimental evaluation was performed using the humanoid robot Bert2.

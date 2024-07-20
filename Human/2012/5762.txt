@@ -1,0 +1,3 @@
+Approximated Computation of Belief Functions for Robust Design Optimization
+
+This paper presents some ideas to reduce the computational cost of evidence-based robust design optimization. Evidence Theory crystallizes both the aleatory and epistemic uncertainties in the design parameters, providing two quantitative measures, Belief and Plausibility, of the credibility of the computed value of the design budgets. The paper proposes some techniques to compute an approximation of Belief and Plausibility at a cost that is a fraction of the one required for an accurate calculation of the two values. Some simple test cases will show how the proposed techniques scale with the dimension of the problem. Finally a simple example of spacecraft system design is presented.

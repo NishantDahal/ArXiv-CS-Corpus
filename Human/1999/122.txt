@@ -1,0 +1,4 @@
+On the Power of Positive Turing Reductions
+
+In the early 1980s, Selman's seminal work on positive Turing reductions showed that positive Turing reduction to NP yields no greater computational power than NP itself. Thus, positive Turing and Turing reducibility to NP differ sharply unless the polynomial hierarchy collapses.
+  We show that the situation is quite different for DP, the next level of the boolean hierarchy. In particular, positive Turing reduction to DP already yields all (and only) sets Turing reducibility to NP. Thus, positive Turing and Turing reducibility to DP yield the same class. Additionally, we show that an even weaker class, P(NP[1]), can be substituted for DP in this context.

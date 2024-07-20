@@ -1,0 +1,3 @@
+Universal Language Model Fine-Tuning with Subword Tokenization for Polish
+
+Universal Language Model for Fine-tuning [arXiv:1801.06146] (ULMFiT) is one of the first NLP methods for efficient inductive transfer learning. Unsupervised pretraining results in improvements on many NLP tasks for English. In this paper, we describe a new method that uses subword tokenization to adapt ULMFiT to languages with high inflection. Our approach results in a new state-of-the-art for the Polish language, taking first place in Task 3 of PolEval'18. After further training, our final model outperformed the second best model by 35%. We have open-sourced our pretrained models and code.

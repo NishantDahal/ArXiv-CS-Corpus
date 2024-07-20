@@ -1,0 +1,3 @@
+Bind: a Partitioned Global Workflow Parallel Programming Model
+
+High Performance Computing is notorious for its long and expensive software development cycle. To address this challenge, we present Bind: a "partitioned global workflow" parallel programming model for C++ applications that enables quick prototyping and agile development cycles for high performance computing software targeting heterogeneous distributed many-core architectures. We present applications of Bind to Linear Algebra and MapReduce algorithms alongside with performance results.

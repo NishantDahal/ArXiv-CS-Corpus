@@ -1,0 +1,3 @@
+Optimizing Component Combination in a Multi-Indexing Paragraph Retrieval System
+
+We demonstrate a method to optimize the combination of distinct components in a paragraph retrieval system. Our system makes use of several indices, query generators and filters, each of them potentially contributing to the quality of the returned list of results. The components are combined with a weighed sum, and we optimize the weights using a heuristic optimization algorithm. This allows us to maximize the quality of our results, but also to determine which components are most valuable in our system. We evaluate our approach on the paragraph selection task of a Question Answering dataset.

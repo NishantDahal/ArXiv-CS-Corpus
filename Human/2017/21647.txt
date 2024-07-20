@@ -1,0 +1,3 @@
+Complexity of short generating functions
+
+We give complexity analysis of the class of short generating functions (GF). Assuming $\#P \not\subseteq FP/poly$, we show that this class is not closed under taking many intersections, unions or projections of GFs, in the sense that these operations can increase the bitlength of coefficients of GFs by a super-polynomial factor. We also prove that truncated theta functions are hard in this class.

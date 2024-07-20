@@ -1,0 +1,3 @@
+Approximation ratio of RePair
+
+In a seminal paper of Charikar et al.~on the smallest grammar problem, the authors derive upper and lower bounds on the approximation ratios for several grammar-based compressors. Here we improve the lower bound for the famous {\sf RePair} algorithm from $Ω(\sqrt{\log n})$ to $Ω(\log n/\log\log n)$. The family of words used in our proof is defined over a binary alphabet, while the lower bound from Charikar et al. needs an alphabet of logarithmic size in the length of the provided words.

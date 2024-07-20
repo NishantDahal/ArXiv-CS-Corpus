@@ -1,0 +1,3 @@
+Data-driven Feature Sampling for Deep Hyperspectral Classification and Segmentation
+
+The high dimensionality of hyperspectral imaging forces unique challenges in scope, size and processing requirements. Motivated by the potential for an in-the-field cell sorting detector, we examine a $\textit{Synechocystis sp.}$ PCC 6803 dataset wherein cells are grown alternatively in nitrogen rich or deplete cultures. We use deep learning techniques to both successfully classify cells and generate a mask segmenting the cells/condition from the background. Further, we use the classification accuracy to guide a data-driven, iterative feature selection method, allowing the design neural networks requiring 90% fewer input features with little accuracy degradation.

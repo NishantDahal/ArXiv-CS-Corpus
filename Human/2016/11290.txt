@@ -1,0 +1,5 @@
+Correlation and Substitution in SPARQL
+
+In the current SPARQL specification the notion of correlation and substitution are not well defined. This problem triggers several ambiguities in the semantics. In fact, implementations as Fuseki and Virtuoso assume different semantics.
+  In this technical report, we provide a semantics of correlation and substitution following the classic philosophy of substitution and correlation in logic, programming languages and SQL. We think this proposal not only fix the current ambiguities and problems, but helps to set a safe formal base to further extensions of the language.
+  This work is part of an ongoing work of Daniel Hernandez. These anomalies in the W3C Specification of SPARQL 1.1 were detected early and reported no later than 2014, when two erratas were registered (cf. https://www.w3.org/2013/sparql-errata#errata-query-8 and https://www.w3.org/2013/sparql-errata#errata-query-10).

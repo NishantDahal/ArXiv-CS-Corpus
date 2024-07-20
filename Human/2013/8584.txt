@@ -1,0 +1,3 @@
+The Performance of Paxos and Fast Paxos
+
+Paxos and Fast Paxos are optimal consensus algorithms that are simple and elegant, while suitable for efficient implementation. In this paper, we compare the performance of both algorithms in failure-free and failure-prone runs using Treplica, a general replication toolkit that implements these algorithms in a modular and efficient manner. We have found that Paxos outperforms Fast Paxos for small number of replicas and that collisions are not the cause of this performance difference.

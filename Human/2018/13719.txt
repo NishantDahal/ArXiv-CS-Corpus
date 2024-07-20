@@ -1,0 +1,3 @@
+Discrete Convexity in Joint Winner Property
+
+In this paper, we reveal a relation between joint winner property (JWP) in the field of valued constraint satisfaction problems (VCSPs) and M${}^\natural$-convexity in the field of discrete convex analysis (DCA). We introduce the M${}^\natural$-convex completion problem, and show that a function $f$ satisfying the JWP is Z-free if and only if a certain function $\overline{f}$ associated with $f$ is M${}^\natural$-convex completable. This means that if a function is Z-free, then the function can be minimized in polynomial time via M${}^\natural$-convex intersection algorithms. Furthermore we propose a new algorithm for Z-free function minimization, which is faster than previous algorithms for some parameter values.

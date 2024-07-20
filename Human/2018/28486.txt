@@ -1,0 +1,3 @@
+Towards Online Learning from Corrective Demonstrations
+
+Robots operating in real-world human environments will likely encounter task execution failures. To address this, we would like to allow co-present humans to refine the robot's task model as errors are encountered. Existing approaches to task model modification require reasoning over the entire dataset and model, limiting the rate of corrective updates. We introduce the State-Indexed Task Updates (SITU) algorithm to efficiently incorporate corrective demonstrations into an existing task model by iteratively making local updates that only require reasoning over a small subset of the model. In future work, we will evaluate this approach with a user study.

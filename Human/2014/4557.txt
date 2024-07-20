@@ -1,0 +1,3 @@
+Reasoning about Games via a First-order Modal Model Checking Approach
+
+In this work, we present a logic based on first-order CTL, namely Game Analysis Logic (GAL), in order to reason about games. We relate models and solution concepts of Game Theory as models and formulas of GAL, respectively. Precisely, we express extensive games with perfect in- formation as models of GAL, and Nash equilibrium and subgame perfect equilibrium by means of formulas of GAL. From a practical point of view, we provide a GAL model checker in order to analyze games automatically. We use our model checker in at least two directions: to find solution con- cepts of Game Theory; and, to analyze players that are based on standard algorithms of the AI community, such as the minimax procedure.

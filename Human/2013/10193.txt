@@ -1,0 +1,3 @@
+Combining Structured and Unstructured Randomness in Large Scale PCA
+
+Principal Component Analysis (PCA) is a ubiquitous tool with many applications in machine learning including feature construction, subspace embedding, and outlier detection. In this paper, we present an algorithm for computing the top principal components of a dataset with a large number of rows (examples) and columns (features). Our algorithm leverages both structured and unstructured random projections to retain good accuracy while being computationally efficient. We demonstrate the technique on the winning submission the KDD 2010 Cup.

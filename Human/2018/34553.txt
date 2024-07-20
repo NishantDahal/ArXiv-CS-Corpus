@@ -1,0 +1,3 @@
+Learning Graph Representation via Formal Concept Analysis
+
+We present a novel method that can learn a graph representation from multivariate data. In our representation, each node represents a cluster of data points and each edge represents the subset-superset relationship between clusters, which can be mutually overlapped. The key to our method is to use formal concept analysis (FCA), which can extract hierarchical relationships between clusters based on the algebraic closedness property. We empirically show that our method can effectively extract hierarchical structures of clusters compared to the baseline method.

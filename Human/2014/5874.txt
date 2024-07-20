@@ -1,0 +1,3 @@
+Vesselness via Multiple Scale Orientation Scores
+
+The multi-scale Frangi vesselness filter is an established tool in (retinal) vascular imaging. However, it cannot cope with crossings or bifurcations, since it only looks for elongated structures. Therefore, we disentangle crossing structures in the image via (multiple scale) invertible orientation scores. The described vesselness filter via scale-orientation scores performs considerably better at enhancing vessels throughout crossings and bifurcations than the Frangi version. Both methods are evaluated on a public dataset. Performance is measured by comparing ground truth data to the segmentation results obtained by basic thresholding and morphological component analysis of the filtered images.

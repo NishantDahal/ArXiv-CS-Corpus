@@ -1,0 +1,8 @@
+The Replace Operator
+
+This paper introduces to the calculus of regular expressions a replace operator, ->, and defines a set of replacement expressions that concisely encode several alternate variations of the operation.
+  The basic case is unconditional obligatory replacement:
+  UPPER -> LOWER
+  Conditional versions of replacement, such as,
+  UPPER -> LOWER || LEFT _ RIGHT constrain the operation by left and right contexts. UPPER, LOWER, LEFT, and RIGHT may be regular expressions of any complexity.
+  Replace expressions denote regular relations. The replace operator is defined in terms of other regular expression operators using techniques introduced by Ronald M. Kaplan and Martin Kay in "Regular Models of Phonological Rule Systems" (Computational Linguistics 20:3 331-378. 1994).

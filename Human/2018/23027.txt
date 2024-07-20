@@ -1,0 +1,3 @@
+A Linear Algebra Formulation for Boolean Satisfiability Testing
+
+In the article \The State of SAT", the authors asked whether a procedure dramatically different from DPLL can be found for handling unsatisfiable instances. This study proposes a new linear programming approach to address this issue efficiently. Our experiments showed that the new method works for many unsatisfiable instances. However, we must concede that this method should be incomplete; otherwise, it will imply P=co-NP.

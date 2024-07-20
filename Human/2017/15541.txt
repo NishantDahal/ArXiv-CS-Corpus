@@ -1,0 +1,3 @@
+Descriptional Complexity of Non-Unary Self-Verifying Symmetric Difference Automata
+
+Previously, self-verifying symmetric difference automata were defined and a tight bound of 2^n-1-1 was shown for state complexity in the unary case. We now consider the non-unary case and show that, for every n at least 2, there is a regular language L_n accepted by a non-unary self-verifying symmetric difference nondeterministic automaton with n states, such that its equivalent minimal deterministic finite automaton has 2^n-1 states. Also, given any SV-XNFA with n states, it is possible, up to isomorphism, to find at most another |GL(n,Z_2)|-1 equivalent SV-XNFA.

@@ -1,0 +1,3 @@
+Resolving API Mentions in Informal Documents
+
+Developer forums contain opinions and information related to the usage of APIs. API names in forum posts are often not explicitly linked to their official resources. Automatic linking of an API mention to its official resources can be challenging for various reasons, such as, name overloading. We present a technique, ANACE, to automatically resolve API mentions in the textual contents of forum posts. Given a database of APIs, we first detect all words in a forum post that are potential references to an API. We then use a combination of heuristics and machine learning to eliminate false positives and to link true positives to the actual APIs and their resources.

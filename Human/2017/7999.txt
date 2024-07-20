@@ -1,0 +1,3 @@
+Learning the Dimensionality of Word Embeddings
+
+We describe a method for learning word embeddings with data-dependent dimensionality. Our Stochastic Dimensionality Skip-Gram (SD-SG) and Stochastic Dimensionality Continuous Bag-of-Words (SD-CBOW) are nonparametric analogs of Mikolov et al.'s (2013) well-known 'word2vec' models. Vector dimensionality is made dynamic by employing techniques used by Cote & Larochelle (2016) to define an RBM with an infinite number of hidden units. We show qualitatively and quantitatively that SD-SG and SD-CBOW are competitive with their fixed-dimension counterparts while providing a distribution over embedding dimensionalities, which offers a window into how semantics distribute across dimensions.

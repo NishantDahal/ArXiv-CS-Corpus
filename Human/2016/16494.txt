@@ -1,0 +1,3 @@
+Constructing Orthogonal Latin Squares from Linear Cellular Automata
+
+We undertake an investigation of combinatorial designs engendered by cellular automata (CA), focusing in particular on orthogonal Latin squares and orthogonal arrays. The motivation is of cryptographic nature. Indeed, we consider the problem of employing CA to define threshold secret sharing schemes via orthogonal Latin squares. We first show how to generate Latin squares through bipermutive CA. Then, using a characterization based on Sylvester matrices, we prove that two linear CA induce a pair of orthogonal Latin squares if and only if the polynomials associated to their local rules are relatively prime.

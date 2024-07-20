@@ -1,0 +1,3 @@
+One Net Fits All: A unifying semantics of Dynamic Fault Trees using GSPNs
+
+Dynamic Fault Trees (DFTs) are a prominent model in reliability engineering. They are strictly more expressive than static fault trees, but this comes at a price: their interpretation is non-trivial and leaves quite some freedom. This paper presents a GSPN semantics for DFTs. This semantics is rather simple and compositional. The key feature is that this GSPN semantics unifies all existing DFT semantics from the literature. All semantic variants can be obtained by choosing appropriate priorities and treatment of non-determinism.

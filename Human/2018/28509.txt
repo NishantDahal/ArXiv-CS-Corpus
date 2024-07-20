@@ -1,0 +1,3 @@
+Solving 3SAT By Reduction To Testing For Odd Hole
+
+An algorithm is given for finding the solutions to 3SAT problems. The algorithm uses Bienstock's reduction from 3SAT to existence of induced odd cycle of length greater than three, passing through a prescribed node in the constructed graph. The algorithm proceeds to find what will be called the hole complexes of the graph. The set of the boundary nodes of the hole complex containing the prescribed node is then searched for the subsets of 8 nodes corresponding to the 3SAT's literals. If a complete set of literals is contained in the boundary then the 3SAT is solvable.

@@ -1,0 +1,3 @@
+Improved QFT algorithm for power-of-two FFT
+
+This paper shows that it is possible to improve the computational cost, the memory requirements and the accuracy of Quick Fourier Transform (QFT) algorithm for power-of-two FFT (Fast Fourier Transform) just introducing a slight modification in this algorithm. The new algorithm requires the same number of additions and multiplications of split-radix 3add/3mul, one of the most appreciated FFT algorithms appeared in the literature, but employing only half of the trigonometric constants. These results can elevate the QFT approach to the level of most used FFT procedures. A new quite general way to describe FFT algorithms, based on signal types and on a particular notation, is also proposed and used, highligting its advantages.

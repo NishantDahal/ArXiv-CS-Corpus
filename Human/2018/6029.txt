@@ -1,0 +1,3 @@
+idtracker.ai: Tracking all individuals in large collectives of unmarked animals
+
+Our understanding of collective animal behavior is limited by our ability to track each of the individuals. We describe an algorithm and software, idtracker.ai, that extracts from video all trajectories with correct identities at a high accuracy for collectives of up to 100 individuals. It uses two deep networks, one detecting when animals touch or cross and another one for animal identification, trained adaptively to conditions and difficulty of the video.

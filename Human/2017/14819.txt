@@ -1,0 +1,3 @@
+Logarithmic price of buffer downscaling on line metrics
+
+We consider the reordering buffer problem on a line consisting of n equidistant points. We show that, for any constant delta, an (offline) algorithm that has a buffer (1-delta) k performs worse by a factor of Omega(log n) than an offline algorithm with buffer k. In particular, this demonstrates that the O(log n)-competitive online algorithm MovingPartition by Gamzu and Segev (ACM Trans. on Algorithms, 6(1), 2009) is essentially optimal against any offline algorithm with a slightly larger buffer.

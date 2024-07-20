@@ -1,0 +1,4 @@
+Operand Folding Hardware Multipliers
+
+This paper describes a new accumulate-and-add multiplication algorithm. The method partitions one of the operands and re-combines the results of computations done with each of the partitions. The resulting design turns-out to be both compact and fast.
+  When the operands' bit-length $m$ is 1024, the new algorithm requires only $0.194m+56$ additions (on average), this is about half the number of additions required by the classical accumulate-and-add multiplication algorithm ($\frac{m}2$).

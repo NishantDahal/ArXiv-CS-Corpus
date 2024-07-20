@@ -1,0 +1,3 @@
+Blind Detection and Compensation of Camera Lens Geometric Distortions
+
+This paper presents a blind detection and compensation technique for camera lens geometric distortions. The lens distortion introduces higher-order correlations in the frequency domain and in turn it can be detected using higher-order spectral analysis tools without assuming any specific calibration target. The existing blind lens distortion removal method only considered a single-coefficient radial distortion model. In this paper, two coefficients are considered to model approximately the geometric distortion. All the models considered have analytical closed-form inverse formulae.

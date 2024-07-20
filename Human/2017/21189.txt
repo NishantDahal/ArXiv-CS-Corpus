@@ -1,0 +1,4 @@
+Target Set Selection Parameterized by Clique-Width and Maximum Threshold
+
+The Target Set Selection problem takes as an input a graph $G$ and a non-negative integer threshold $ \mbox{thr}(v) $ for every vertex $v$. A vertex $v$ can get active as soon as at least $ \mbox{thr}(v) $ of its neighbors have been activated. The objective is to select a smallest possible initial set of vertices, the target set, whose activation eventually leads to the activation of all vertices in the graph.
+  We show that Target Set Selection is in FPT when parameterized with the combined parameters clique-width of the graph and the maximum threshold value. This generalizes all previous FPT-membership results for the parameterization by maximum threshold, and thereby solves an open question from the literature. We stress that the time complexity of our algorithm is surprisingly well-behaved and grows only single-exponentially in the parameters.

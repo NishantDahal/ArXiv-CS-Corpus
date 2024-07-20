@@ -1,0 +1,3 @@
+Refined Quicksort asymptotics
+
+The complexity of the Quicksort algorithm is usually measured by the number of key comparisons used during its execution. When operating on a list of $n$ data, permuted uniformly at random, the appropriately normalized complexity $Y_n$ is known to converge almost surely to a non-degenerate random limit $Y$. This assumes a natural embedding of all $Y_n$ on one probability space, e.g., via random binary search trees. In this note a central limit theorem for the error term in the latter almost sure convergence is shown: $$\sqrt{\frac{n}{2\log n}}(Y_n-Y) \stackrel{d}{\longrightarrow} {\cal N} \qquad (n\to\infty),$$ where ${\cal N}$ denotes a standard normal random variable.

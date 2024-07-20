@@ -1,0 +1,3 @@
+Mining to Compact CNF Propositional Formulae
+
+In this paper, we propose a first application of data mining techniques to propositional satisfiability. Our proposed Mining4SAT approach aims to discover and to exploit hidden structural knowledge for reducing the size of propositional formulae in conjunctive normal form (CNF). Mining4SAT combines both frequent itemset mining techniques and Tseitin's encoding for a compact representation of CNF formulae. The experiments of our Mining4SAT approach show interesting reductions of the sizes of many application instances taken from the last SAT competitions.

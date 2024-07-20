@@ -1,0 +1,3 @@
+Reasoning with Individuals for the Description Logic SHIQ
+
+While there has been a great deal of work on the development of reasoning algorithms for expressive description logics, in most cases only Tbox reasoning is considered. In this paper we present an algorithm for combined Tbox and Abox reasoning in the SHIQ description logic. This algorithm is of particular interest as it can be used to decide the problem of (database) conjunctive query containment w.r.t. a schema. Moreover, the realisation of an efficient implementation should be relatively straightforward as it can be based on an existing highly optimised implementation of the Tbox algorithm in the FaCT system.

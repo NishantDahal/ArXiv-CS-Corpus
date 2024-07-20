@@ -1,0 +1,3 @@
+Deep Learning applied to Road Traffic Speed forecasting
+
+In this paper, we propose  deep learning architectures (FNN, CNN and LSTM)  to forecast a regression model for time dependent data. These algorithm's are designed to handle  Floating Car Data (FCD) historic speeds to predict road traffic data. For this we aggregate the speeds into the network inputs in an innovative way. We compare the RMSE thus obtained with the results of a simpler physical model, and show that the latter achieves better RMSE accuracy. We also propose a new indicator, which evaluates the algorithms improvement when compared to a benchmark prediction. We conclude by questioning the interest of using deep learning methods for this specific regression task.

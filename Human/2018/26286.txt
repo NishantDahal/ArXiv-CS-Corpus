@@ -1,0 +1,3 @@
+Systematic Biases in Link Prediction: comparing heuristic and graph embedding based methods
+
+Link prediction is a popular research topic in network analysis. In the last few years, new techniques based on graph embedding have emerged as a powerful alternative to heuristics. In this article, we study the problem of systematic biases in the prediction, and show that some methods based on graph embedding offer less biased results than those based on heuristics, despite reaching lower scores according to usual quality scores. We discuss the relevance of this finding in the context of the filter bubble problem and the algorithmic fairness of recommender systems.

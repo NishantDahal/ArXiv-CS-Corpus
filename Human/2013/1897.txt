@@ -1,0 +1,3 @@
+Bounded regret in stochastic multi-armed bandits
+
+We study the stochastic multi-armed bandit problem when one knows the value $μ^{(\star)}$ of an optimal arm, as a well as a positive lower bound on the smallest positive gap $Δ$. We propose a new randomized policy that attains a regret {\em uniformly bounded over time} in this setting. We also prove several lower bounds, which show in particular that bounded regret is not possible if one only knows $Δ$, and bounded regret of order $1/Δ$ is not possible if one only knows $μ^{(\star)}$

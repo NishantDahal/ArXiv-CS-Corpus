@@ -1,0 +1,3 @@
+Object Class Detection and Classification using Multi Scale Gradient and Corner Point based Shape Descriptors
+
+This paper presents a novel multi scale gradient and a corner point based shape descriptors. The novel multi scale gradient based shape descriptor is combined with generic Fourier descriptors to extract contour and region based shape information. Shape information based object class detection and classification technique with a random forest classifier has been optimized. Proposed integrated descriptor in this paper is robust to rotation, scale, translation, affine deformations, noisy contours and noisy shapes. The new corner point based interpolated shape descriptor has been exploited for fast object detection and classification with higher accuracy.

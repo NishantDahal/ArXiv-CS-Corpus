@@ -1,0 +1,3 @@
+Approaching Symbolic Parallelization by Synthesis of Recurrence Decompositions
+
+We present GraSSP, a novel approach to perform automated parallelization relying on recent advances in formal verification and synthesis. GraSSP augments an existing sequential program with an additional functionality to decompose data dependencies in loop iterations, to compute partial results, and  to compose them together. We show that for some classes of the sequential prefix sum problems, such parallelization can be performed efficiently.

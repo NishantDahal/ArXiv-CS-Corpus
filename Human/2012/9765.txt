@@ -1,0 +1,4 @@
+Optimal Covering with Mobile Sensors in an Unbounded Region
+
+Covering a bounded region with minimum number of homogeneous sensor nodes is a NP-complete problem \cite{Li09}. In this paper we have proposed an {\it id} based distributed algorithm for optimal coverage in an unbounded region. The proposed algorithm guarantees maximum spreading in $O(\sqrt{n})$ rounds without creating any coverage hole. The algorithm executes in synchronous rounds without exchanging any message.
+  We have also explained how our proposed algorithm can achieve optimal energy consumption and handle random sensor node deployment for optimal spreading.

@@ -1,0 +1,3 @@
+On the exact relationship between the denoising function and the data distribution
+
+We prove an exact relationship between the optimal denoising function and the data distribution in the case of additive Gaussian noise, showing that denoising implicitly models the structure of data allowing it to be exploited in the unsupervised learning of representations. This result generalizes a known relationship [2], which is valid only in the limit of small corruption noise.

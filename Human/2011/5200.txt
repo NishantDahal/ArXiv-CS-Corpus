@@ -1,0 +1,3 @@
+From Contracts in Structured English to CL Specifications
+
+In this paper we present a framework to analyze conflicts of contracts written in structured English. A contract that has manually been rewritten in a structured English is automatically translated into a formal language using the Grammatical Framework (GF). In particular we use the contract language CL as a target formal language for this translation. In our framework CL specifications could then be input into the tool CLAN to detect the presence of conflicts (whether there are contradictory obligations, permissions, and prohibitions. We also use GF to get a version in (restricted) English of CL formulae. We discuss the implementation of such a framework.

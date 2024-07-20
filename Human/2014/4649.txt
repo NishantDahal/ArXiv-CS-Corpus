@@ -1,0 +1,5 @@
+Local reductions
+
+We reduce non-deterministic time $T \ge 2^n$ to a 3SAT instance $φ$ of quasilinear size $|φ| = T \cdot \log^{O(1)} T$ such that there is an explicit circuit $C$ that on input an index $i$ of $\log |φ|$ bits outputs the $i$th clause, and each output bit of $C$ depends on $O(1)$ input bits. The previous best result was $C$ in NC$^1$. Even in the simpler setting of polynomial size $|φ| = \poly(T)$ the previous best result was $C$ in AC$^0$.
+  More generally, for any time $T \ge n$ and parameter $r \leq n$ we obtain $\log_2 |φ| = \max(\log T, n/r) + O(\log n) + O(\log\log T)$ and each output bit of $C$ is a decision tree of depth $O(\log r)$.
+  As an application, we tighten Williams' connection between satisfiability algorithms and circuit lower bounds (STOC 2010; SIAM J. Comput. 2013).

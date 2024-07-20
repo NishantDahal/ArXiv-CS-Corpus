@@ -1,0 +1,3 @@
+Toric codes over finite fields
+
+In this note, a class of error-correcting codes is associated to a toric variety associated to a fan defined over a finite field $\fff_q$, analogous to the class of Goppa codes associated to a curve. For such a ``toric code'' satisfying certain additional conditions, we present an efficient decoding algorithm for the dual of a Goppa code. Many examples are given. For small $q$, many of these codes have parameters beating the Gilbert-Varshamov bound. In fact, using toric codes, we construct a $(n,k,d)=(49,11,28)$ code over $\fff_8$, which is better than any other known code listed in Brouwer's on-line tables for that $n$ and $k$.

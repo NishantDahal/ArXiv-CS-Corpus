@@ -1,0 +1,3 @@
+ScalienDB: Designing and Implementing a Distributed Database using Paxos
+
+ScalienDB is a scalable, replicated database built on top of the Paxos algorithm. It was developed from 2010 to 2012, when the startup backing it failed. This paper discusses the design decisions of the distributed database, describes interesting parts of the C++ codebase and enumerates lessons learned putting ScalienDB into production at a handful of clients. The source code is available on Github under the AGPL license, but it is no longer developed or maintained.

@@ -1,0 +1,3 @@
+A Distributed Newton Method for Large Scale Consensus Optimization
+
+In this paper, we propose a distributed Newton method for consensus optimization. Our approach outperforms state-of-the-art methods, including ADMM. The key idea is to exploit the sparsity of the dual Hessian and recast the computation of the Newton step as one of efficiently solving symmetric diagonally dominant linear equations. We validate our algorithm both theoretically and empirically. On the theory side, we demonstrate that our algorithm exhibits superlinear convergence within a neighborhood of optimality. Empirically, we show the superiority of this new method on a variety of machine learning problems. The proposed approach is scalable to very large problems and has a low communication overhead.

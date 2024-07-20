@@ -1,0 +1,3 @@
+Improved distance sensitivity oracles via tree partitioning
+
+We introduce an improved structure of distance sensitivity oracle (DSO). The task is to pre-process a non-negatively weighted graph so that a data structure can quickly answer replacement path length for every triple of source, terminal and failed vertex. The previous best algorithm constructs in time $\tilde{O}(mn)$ a distance sensitivity oracle of size $O(n^2\log n)$ that processes queries in $O(1)$ time. As an improvement, our oracle takes up $O(n^2)$ space, while preserving $O(1)$ query efficiency and $\tilde{O}(mn)$ preprocessing time. One should notice that space complexity and query time of our novel data structure are asymptotically optimal.

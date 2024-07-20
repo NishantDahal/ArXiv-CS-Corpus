@@ -1,0 +1,5 @@
+Random Discrete Morse Theory and a New Library of Triangulations
+
+1) We introduce random discrete Morse theory as a computational scheme to measure the complicatedness of a triangulation. The idea is to try to quantify the frequence of discrete Morse matchings with a certain number of critical cells. Our measure will depend on the topology of the space, but also on how nicely the space is triangulated.
+  (2) The scheme we propose looks for optimal discrete Morse functions with an elementary random heuristic. Despite its naïveté, this approach turns out to be very successful even in the case of huge inputs.
+  (3) In our view the existing libraries of examples in computational topology are `too easy' for testing algorithms based on discrete Morse theory. We propose a new library containing more complicated (and thus more meaningful) test examples.

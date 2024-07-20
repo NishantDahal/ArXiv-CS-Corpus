@@ -1,0 +1,3 @@
+A probabilistic analysis of a leader election algorithm
+
+A {\em leader election} algorithm is an elimination process that divides recursively into tow subgroups an initial group of n items, eliminates one subgroup and continues the procedure until a subgroup is of size 1. In this paper the biased case is analyzed. We are interested in the {\em cost} of the algorithm, i.e. the number of operations needed until the algorithm stops. Using a probabilistic approach, the asymptotic behavior of the algorithm is shown to be related to the behavior of a hitting time of two random sequences on [0,1].

@@ -1,0 +1,3 @@
+Strong Asymptotic Assertions for Discrete MDL in Regression and Classification
+
+We study the properties of the MDL (or maximum penalized complexity) estimator for Regression and Classification, where the underlying model class is countable. We show in particular a finite bound on the Hellinger losses under the only assumption that there is a "true" model contained in the class. This implies almost sure convergence of the predictive distribution to the true one at a fast rate. It corresponds to Solomonoff's central theorem of universal induction, however with a bound that is exponentially larger.

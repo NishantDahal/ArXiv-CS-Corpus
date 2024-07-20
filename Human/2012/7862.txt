@@ -1,0 +1,3 @@
+Escape and Evasion on Finite Graphs
+
+In this paper we will be introducing a type of game which as far as this author is aware has never been studied before. These are games where there are two players, one who is trying to get one of his pieces, called a King to a predefined escape vertex, and the other, called attackers, who is trying to capture him by occupying all of his neighbours. We will be showing that this game is PSpace-complete if it is limited to $M$ moves and taking a brief look at some potential ways to simplify the problem and work out how many attackers are needed to capture the King on different types of graphs.

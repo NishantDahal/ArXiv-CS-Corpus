@@ -1,0 +1,3 @@
+Solving polynomial systems via homotopy continuation and monodromy
+
+We study methods for finding the solution set of a generic system in a family of polynomial systems with parametric coefficients. We present a framework for describing monodromy based solvers in terms of decorated graphs. Under the theoretical assumption that monodromy actions are generated uniformly, we show that the expected number of homotopy paths tracked by an algorithm following this framework is linear in the number of solutions. We demonstrate that our software implementation is competitive with the existing state-of-the-art methods implemented in other software packages.

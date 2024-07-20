@@ -1,0 +1,3 @@
+On The Optimization of Dijkstras Algorithm
+
+In this paper, we propose some amendment on Dijkstras algorithm in order to optimize it by reducing the number of iterations. The main idea is to solve the problem where more than one node satisfies the condition of the second step in the traditional Dijkstras algorithm. After application of the proposed modifications, the maximum number of iterations of Dijkstras algorithm is less than the number of the graphs nodes.

@@ -1,0 +1,3 @@
+Visual Mesh: Real-time Object Detection Using Constant Sample Density
+
+This paper proposes an enhancement of convolutional neural networks for object detection in resource-constrained robotics through a geometric input transformation called Visual Mesh. It uses object geometry to create a graph in vision space, reducing computational complexity by normalizing the pixel and feature density of objects. The experiments compare the Visual Mesh with several other fast convolutional neural networks. The results demonstrate execution times sixteen times quicker than the fastest competitor tested, while achieving outstanding accuracy.

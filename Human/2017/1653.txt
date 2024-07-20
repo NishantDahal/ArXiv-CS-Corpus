@@ -1,0 +1,3 @@
+On a spatial-temporal decomposition of the optical flow
+
+In this paper we present a decomposition algorithm for computation of the spatial-temporal optical flow of a dynamic image sequence. We consider several applications, such as the extraction of temporal motion features and motion detection in dynamic sequences under varying illumination conditions, such as they appear for instance in psychological flickering experiments. For the numerical implementation we are solving an integro-differential equation by a fixed point iteration. For comparison purposes we use a standard time dependent optical flow algorithm, which in contrast to our method, constitutes in solving a spatial-temporal differential equation.

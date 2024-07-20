@@ -1,0 +1,3 @@
+Multiple pattern matching revisited
+
+We consider the classical exact multiple string matching problem. Our solution is based on $q$-grams combined with pattern superimposition, bit-parallelism and alphabet size reduction. We discuss the pros and cons of the various alternatives of how to achieve best combination. Our method is closely related to previous work by (Salmela et al., 2006). The experimental results show that our method performs well on different alphabet sizes and that they scale to large pattern sets.

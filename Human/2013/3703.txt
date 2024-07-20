@@ -1,0 +1,3 @@
+Anatomical Structure Segmentation in Liver MRI Images
+
+Segmentation of medical images is a challenging task owing to their complexity. A standard segmentation problem within Magnetic Resonance Imaging (MRI) is the task of labeling voxels according to their tissue type. Image segmentation provides volumetric quantification of liver area and thus helps in the diagnosis of disorders, such as Hepatitis, Cirrhosis, Jaundice, Hemochromatosis etc.This work deals with comparison of segmentation by applying Level Set Method,Fuzzy Level Information C-Means Clustering Algorithm and Gradient Vector Flow Snake Algorithm.The results are compared using the parameters such as Number of pixels correctly classified, and percentage of area segmented.

@@ -1,0 +1,3 @@
+Acceptable Strategy Profiles in Stochastic Games
+
+This paper presents a new solution concept for multiplayer stochastic games, namely, acceptable strategy profiles. For each player $i$ and state $s$ in a stochastic game, let $w_i(s)$ be a real number. A strategy profile is \emph{$w$-acceptable}, where $w=(w_i(s))$, if the discounted payoff to each player $i$ at every initial state $s$ is at least $w_i(s)$, provided the discount factor of the players is sufficiently close to 1. Our goal is to provide simple strategy profiles that are $w$-acceptable for payoff vectors $w$ in which all coordinates are high.

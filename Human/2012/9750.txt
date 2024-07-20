@@ -1,0 +1,8 @@
+Sketched SVD: Recovering Spectral Features from Compressive Measurements
+
+We consider a streaming data model in which n sensors observe individual streams of data, presented in a turnstile model. Our goal is to analyze the singular value decomposition (SVD) of the matrix of data defined implicitly by the stream of updates. Each column i of the data matrix is given by the stream of updates seen at sensor i. Our approach is to sketch each column of the matrix, forming a "sketch matrix" Y, and then to compute the SVD of the sketch matrix. We show that the singular values and right singular vectors of Y are close to those of X, with small relative error. We also believe that this bound is of independent interest in non-streaming and non-distributed data collection settings.
+  Assuming that the data matrix X is of size Nxn, then with m linear measurements of each column of X, we obtain a smaller matrix Y with dimensions mxn. If m = O(k ε^{-2} (log(1/ε) + log(1/δ)), where k denotes the rank of X, then with probability at least 1-δ, the singular values σ'_j of Y satisfy the following relative error result
+  (1-ε)^(1/2)<= σ'_j/σ_j <= (1 + ε)^(1/2)
+as compared to the singular values σ_j of the original matrix X. Furthermore, the right singular vectors v'_j of Y satisfy
+  ||v_j-v_j'||_2 <= min(sqrt{2}, (ε\sqrt{1+ε})/(\sqrt{1-ε}) max_{i\neq j} (\sqrt{2}σ_iσ_j)/(min_{c\in[-1,1]}(|σ^2_i-σ^2_j(1+cε)|)))
+as compared to the right singular vectors v_j of X. We apply this result to obtain a streaming graph algorithm to approximate the eigenvalues and eigenvectors of the graph Laplacian in the case where the graph has low rank (many connected components).

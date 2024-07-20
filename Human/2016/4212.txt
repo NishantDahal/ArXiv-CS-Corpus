@@ -1,0 +1,3 @@
+Provable approximation properties for deep neural networks
+
+We discuss approximation of functions using deep neural nets. Given a function $f$ on a $d$-dimensional manifold $Γ\subset \mathbb{R}^m$, we construct a sparsely-connected depth-4 neural network and bound its error in approximating $f$. The size of the network depends on dimension and curvature of the manifold $Γ$, the complexity of $f$, in terms of its wavelet description, and only weakly on the ambient dimension $m$. Essentially, our network computes wavelet functions, which are computed from Rectified Linear Units (ReLU)

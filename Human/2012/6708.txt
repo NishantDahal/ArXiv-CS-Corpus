@@ -1,0 +1,3 @@
+Approximating Weak Bisimilarity of Basic Parallel Processes
+
+This paper explores the well known approximation approach to decide weak bisimilarity of Basic Parallel Processes. We look into how different refinement functions can be used to prove weak bisimilarity decidable for certain subclasses. We also show their limitations for the general case. In particular, we show a lower bound of ω \ast ω for the approximants which allow weak steps and a lower bound of ω + ω for the approximants that allow sequences of actions. The former lower bound negatively answers the open question of Jančar and Hirshfeld.

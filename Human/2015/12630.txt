@@ -1,0 +1,3 @@
+All or Nothing at All
+
+We continue a study of unconditionally secure all-or-nothing transforms (AONT) begun in \cite{St}. An AONT is a bijective mapping that constructs s outputs from s inputs. We consider the security of t inputs, when s-t outputs are known. Previous work concerned the case t=1; here we consider the problem for general t, focussing on the case t=2. We investigate constructions of binary matrices for which the desired properties hold with the maximum probability. Upper bounds on these probabilities are obtained via a quadratic programming approach, while lower bounds can be obtained from combinatorial constructions based on symmetric BIBDs and cyclotomy. We also report some results on exhaustive searches and random constructions for small values of s.

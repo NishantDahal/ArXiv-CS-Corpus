@@ -1,0 +1,3 @@
+A Search Procedure for Cyclic Subsets
+
+In this paper, a polynomial time algorithm for finding the set of all cyclic subsets in a graph is presented. The concept of cyclic subsets has already been introduced in an earlier paper. The algorithm finds cyclic subsets in a graph G by conjoining building block subsets of length three in V(G). We prove the correctness of this algorithm and present an asymptotic time complexity analysis of the algorithm's performance.

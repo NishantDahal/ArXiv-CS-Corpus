@@ -1,0 +1,3 @@
+Density-based Denoising of Point Cloud
+
+Point cloud source data for surface reconstruction is usually contaminated with noise and outliers. To overcome this deficiency, a density-based point cloud denoising method is presented to remove outliers and noisy points. First, particle-swam optimization technique is employed for automatically approximating optimal bandwidth of multivariate kernel density estimation to ensure the robust performance of density estimation. Then, mean-shift based clustering technique is used to remove outliers through a thresholding scheme. After removing outliers from the point cloud, bilateral mesh filtering is applied to smooth the remaining points. The experimental results show that this approach, comparably, is robust and efficient.

@@ -1,0 +1,3 @@
+Fixed-to-Variable Length Resolution Coding for Target Distributions
+
+The number of random bits required to approximate a target distribution in terms of un-normalized informational divergence is considered. It is shown that for a variable-to-variable length encoder, this number is lower bounded by the entropy of the target distribution. A fixed-to-variable length encoder is constructed using M-type quantization and Tunstall coding. It is shown that the encoder achieves in the limit an un-normalized informational divergence of zero with the number of random bits per generated symbol equal to the entropy of the target distribution. Numerical results show that the proposed encoder significantly outperforms the optimal block-to-block encoder in the finite length regime.

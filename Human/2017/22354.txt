@@ -1,0 +1,3 @@
+Parallel transport in shape analysis: a scalable numerical scheme
+
+The analysis of manifold-valued data requires efficient tools from Riemannian geometry to cope with the computational complexity at stake. This complexity arises from the always-increasing dimension of the data, and the absence of closed-form expressions to basic operations such as the Riemannian logarithm. In this paper, we adapt a generic numerical scheme recently introduced for computing parallel transport along geodesics in a Riemannian manifold to finite-dimensional manifolds of diffeomorphisms. We provide a qualitative and quantitative analysis of its behavior on high-dimensional manifolds, and investigate an application with the prediction of brain structures progression.

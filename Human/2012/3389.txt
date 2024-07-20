@@ -1,0 +1,3 @@
+Optimizing ZigBee Security using Stochastic Model Checking
+
+ZigBee is a fairly new but promising wireless sensor network standard that offers the advantages of simple and low resource communication. Nevertheless, security is of great concern to ZigBee, and enhancements are prescribed in the latest ZigBee specication: ZigBee-2007. In this technical report, we identify an important gap in the specification on key updates, and present a methodology for determining optimal key update policies and security parameters. We exploit the stochastic model checking approach using the probabilistic model checker PRISM, and assess the security needs for realistic application scenarios.

@@ -1,0 +1,3 @@
+A New Error Correction Scheme for Physical Unclonable Functions
+
+Error correction is an indispensable component when Physical Unclonable Functions (PUFs) are used in cryptographic applications. So far, there exist schemes that obtain helper data, which they need within the error correction process. We introduce a new scheme, which only uses an error correcting code without any further helper data. The main idea is to construct for each PUF instance an individual code which contains the initial PUF response as codeword. In this work we use LDPC codes, however other code classes are also possible. Our scheme allows a trade-off between code rate and cryptographic security. In addition, decoding with linear complexity is possible.

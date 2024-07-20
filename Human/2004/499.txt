@@ -1,0 +1,5 @@
+A CHR-based Implementation of Known Arc-Consistency
+
+In classical CLP(FD) systems, domains of variables are completely known at the beginning of the constraint propagation process. However, in systems interacting with an external environment, acquiring the whole domains of variables before the beginning of constraint propagation may cause waste of computation time, or even obsolescence of the acquired data at the time of use.
+  For such cases, the Interactive Constraint Satisfaction Problem (ICSP) model has been proposed as an extension of the CSP model, to make it possible to start constraint propagation even when domains are not fully known, performing acquisition of domain elements only when necessary, and without the need for restarting the propagation after every acquisition.
+  In this paper, we show how a solver for the two sorted CLP language, defined in previous work, to express ICSPs, has been implemented in the Constraint Handling Rules (CHR) language, a declarative language particularly suitable for high level implementation of constraint solvers.

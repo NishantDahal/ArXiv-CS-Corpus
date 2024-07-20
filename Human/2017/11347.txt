@@ -1,0 +1,3 @@
+Layer Communities in Multiplex Networks
+
+Multiplex networks are a type of multilayer network in which entities are connected to each other via multiple types of connections. We propose a method, based on computing pairwise similarities between layers and then doing community detection, for grouping structurally similar layers in multiplex networks. We illustrate our approach using both synthetic and empirical networks, and we are able to find meaningful groups of layers in both cases. For example, we find that airlines that are based in similar geographic locations tend to be grouped together in an airline multiplex network and that related research areas in physics tend to be grouped together in an multiplex collaboration network.

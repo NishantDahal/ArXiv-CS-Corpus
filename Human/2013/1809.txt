@@ -1,0 +1,3 @@
+Signature Based Detection of User Events for Post-Mortem Forensic Analysis
+
+This paper introduces a novel approach to user event reconstruction by showing the practicality of generating and implementing signature-based analysis methods to reconstruct high-level user actions from a collection of low-level traces found during a post-mortem forensic analysis of a system. Traditional forensic analysis and the inferences an investigator normally makes when given digital evidence, are examined. It is then demonstrated that this natural process of inferring high-level events from low-level traces may be encoded using signature-matching techniques. Simple signatures using the defined method are created and applied for three popular Windows-based programs as a proof of concept.

@@ -1,0 +1,3 @@
+On the Irresistible Efficiency of Signal Processing Methods in Quantum Computing
+
+We show that many well-known signal transforms allow highly efficient realizations on a quantum computer. We explain some elementary quantum circuits and review the construction of the Quantum Fourier Transform. We derive quantum circuits for the Discrete Cosine and Sine Transforms, and for the Discrete Hartley transform. We show that at most O(log^2 N) elementary quantum gates are necessary to implement any of those transforms for input sequences of length N.

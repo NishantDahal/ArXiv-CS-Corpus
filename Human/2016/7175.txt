@@ -1,0 +1,3 @@
+Flag-Based Big-Step Semantics
+
+Structural operational semantic specifications come in different styles: small-step and big-step. A problem with the big-step style is that specifying divergence and abrupt termination gives rise to annoying duplication. We present a novel approach to representing divergence and abrupt termination in big-step semantics using status flags. This avoids the duplication problem, and uses fewer rules and premises for representing divergence than previous approaches in the literature.

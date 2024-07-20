@@ -1,0 +1,3 @@
+Path-following based Point Matching using Similarity Transformation
+
+To address the problem of 3D point matching where the poses of two point sets are unknown, we adapt a recently proposed path following based method to use similarity transformation instead of the original affine transformation. The reduced number of transformation parameters leads to more constrained and desirable matching results. Experimental results demonstrate better robustness of the proposed method over state-of-the-art methods.

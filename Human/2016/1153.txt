@@ -1,0 +1,3 @@
+Directional Decision Lists
+
+In this paper we introduce a novel family of decision lists consisting of highly interpretable models which can be learned efficiently in a greedy manner. The defining property is that all rules are oriented in the same direction. Particular examples of this family are decision lists with monotonically decreasing (or increasing) probabilities. On simulated data we empirically confirm that the proposed model family is easier to train than general decision lists. We exemplify the practical usability of our approach by identifying problem symptoms in a manufacturing process.

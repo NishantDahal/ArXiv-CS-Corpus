@@ -1,0 +1,3 @@
+Mean-Field Semantics for a Process Calculus for Spatially-Explicit Ecological Models
+
+We define a mean-field semantics for S-PALPS, a process calculus  for spatially-explicit, individual-based modeling of ecological systems. The new semantics of S-PALPS allows an interpretation of the average behavior of a system as a set of recurrence equations. Recurrence equations are a  useful approximation when dealing with a large number of individuals, as it is the case in epidemiological studies. As a case study, we compute a set of recurrence equations capturing the dynamics of an individual-based model of the transmission of dengue in Bello (Antioquia), Colombia.

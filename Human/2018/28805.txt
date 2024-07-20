@@ -1,0 +1,3 @@
+Generating Levels That Teach Mechanics
+
+The automatic generation of game tutorials is a challenging AI problem. While it is possible to generate annotations and instructions that explain to the player how the game is played, this paper focuses on generating a gameplay experience that introduces the player to a game mechanic. It evolves small levels for the Mario AI Framework that can only be beaten by an agent that knows how to perform specific actions in the game. It uses variations of a perfect A* agent that are limited in various ways, such as not being able to jump high or see enemies, to test how failing to do certain actions can stop the player from beating the level.

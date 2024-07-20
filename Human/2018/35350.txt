@@ -1,0 +1,3 @@
+Computation of gcd chain over the power of an irreducible polynomial
+
+A notion of gcd chain has been introduced by the author at ISSAC 2017 for two univariate monic polynomials with coefficients in a ring R = k[x_1, ..., x_n ]/(T) where T is a primary triangular set of dimension zero. A complete algorithm to compute such a gcd chain remains challenging. This work treats completely the case of a triangular set T = (T_1 (x)) in one variable, namely a power of an irreducible polynomial. This seemingly "easy" case reveals the main steps necessary for treating the general case, and it allows to isolate the particular one step that does not directly extend and requires more care.

@@ -1,0 +1,4 @@
+Notes on dual-critical graphs
+
+We define dual-critical graphs as graphs having an acyclic orientation, where the indegrees are odd except for the unique source. We have very limited knowledge about the complexity of dual-criticality testing. By the definition the problem is in NP, and a result of Balázs and Christian Szegedy provides a randomized polynomial algorithm, which relies on formal matrix rank computing. It is unknown whether dual-criticality test can be done in deterministic polynomial time. Moreover, the question of being in co-NP is also open.
+  We give equivalent descriptions for dual-critical graphs in the general case, and further equivalent descriptions in the special cases of planar graphs and 3-regular graphs. These descriptions provide polynomial algorithms for these special classes. We also give an FPT algorithm for a relaxed version of dual-criticality called $k$-dual-criticality.

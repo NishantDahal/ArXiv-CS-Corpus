@@ -1,0 +1,5 @@
+Separators in region intersection graphs
+
+For undirected graphs $G=(V,E)$ and $G_0=(V_0,E_0)$, say that $G$ is a region intersection graph over $G_0$ if there is a family of connected subsets $\{ R_u \subseteq V_0 : u \in V \}$ of $G_0$ such that $\{u,v\} \in E \iff R_u \cap R_v \neq \emptyset$.
+  We show if $G_0$ excludes the complete graph $K_h$ as a minor for some $h \geq 1$, then every region intersection graph $G$ over $G_0$ with $m$ edges has a balanced separator with at most $c_h \sqrt{m}$ nodes, where $c_h$ is a constant depending only on $h$. If $G$ additionally has uniformly bounded vertex degrees, then such a separator is found by spectral partitioning.
+  A string graph is the intersection graph of continuous arcs in the plane. The preceding result implies that every string graph with $m$ edges has a balanced separator of size $O(\sqrt{m})$. This bound is optimal, as it generalizes the planar separator theorem. It confirms a conjecture of Fox and Pach (2010), and improves over the $O(\sqrt{m} \log m)$ bound of Matousek (2013).

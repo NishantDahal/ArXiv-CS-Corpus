@@ -1,0 +1,3 @@
+A Sliding-Window Algorithm for Markov Decision Processes with Arbitrarily Changing Rewards and Transitions
+
+We consider reinforcement learning in changing Markov Decision Processes where both the state-transition probabilities and the reward functions may vary over time. For this problem setting, we propose an algorithm using a sliding window approach and provide performance guarantees for the regret evaluated against the optimal non-stationary policy. We also characterize the optimal window size suitable for our algorithm. These results are complemented by a sample complexity bound on the number of sub-optimal steps taken by the algorithm. Finally, we present some experimental results to support our theoretical analysis.

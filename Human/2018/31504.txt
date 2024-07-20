@@ -1,0 +1,3 @@
+Descartes: A PITest Engine to Detect Pseudo-Tested Methods - Tool Demonstration
+
+Descartes is a tool that implements extreme mutation operators and aims at finding pseudo-tested methods in Java projects. It leverages the efficient transformation and runtime features of PIT. The demonstration compares Descartes with Gregor, the default mutation engine provided by PIT, in a set of real open source projects. It considers the execution time, number of mutants created and the relationship between the mutation scores produced by both engines. It provides some insights on the main features exposed by Descartes.

@@ -1,0 +1,3 @@
+Using Sat solvers for synchronization issues in non-deterministic automata
+
+We approach the problem of computing a $D_{3}$-synchronizing word of minimum length for a given nondeterministic automaton via its encoding as an instance of SAT and invoking a SAT solver. We also present some experimental results.

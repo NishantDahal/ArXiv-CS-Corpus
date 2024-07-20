@@ -1,0 +1,3 @@
+On Behavioral Types for OSGi: From Theory to Implementation
+
+This report presents our work on behavioral types for OSGi component systems. It extends previously published work and presents features and details that have not yet been published. In particular, we cover a discussion on behavioral types in general, and Eclipse based implementation work on behavioral types . The implementation work covers: editors, means for comparing types at development and runtime, a tool connection to resolve incompatibilities, and an AspectJ based infrastructure to ensure behavioral type correctness at runtime of a system. Furthermore, the implementation comprises various auxiliary operations. We present some evaluation work based on examples.

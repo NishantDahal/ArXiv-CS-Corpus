@@ -1,0 +1,3 @@
+A Note on Improved Loss Bounds for Multiple Kernel Learning
+
+In this paper, we correct an upper bound, presented in~\cite{hs-11}, on the generalisation error of classifiers learned through multiple kernel learning. The bound in~\cite{hs-11} uses Rademacher complexity and has an\emph{additive} dependence on the logarithm of the number of kernels and the margin achieved by the classifier. However, there are some errors in parts of the proof which are corrected in this paper. Unfortunately, the final result turns out to be a risk bound which has a \emph{multiplicative} dependence on the logarithm of the number of kernels and the margin achieved by the classifier.

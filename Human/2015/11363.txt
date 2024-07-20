@@ -1,0 +1,3 @@
+De Bruijn entropy and string similarity
+
+We introduce the notion of de Bruijn entropy of an Eulerian quiver and show how the corresponding relative entropy can be applied to practical string similarity problems. This approach explicitly links the combinatorial and information-theoretical properties of words and its performance is superior to edit distances in many respects and competitive in most others. The computational complexity of our current implementation is parametrically tunable between linear and cubic, and we outline how an optimized linear algebra subroutine can reduce the cubic complexity to approximately linear. Numerous examples are provided, including a realistic application to molecular phylogenetics.

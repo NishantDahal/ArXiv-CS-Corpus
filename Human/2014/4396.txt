@@ -1,0 +1,3 @@
+Implementing Anti-Unification Modulo Equational Theory
+
+We present an implementation of E-anti-unification as defined in Heinz (1995), where tree-grammar descriptions of equivalence classes of terms are used to compute generalizations modulo equational theories. We discuss several improvements, including an efficient implementation of variable-restricted E-anti-unification from Heinz (1995), and give some runtime figures about them. We present applications in various areas, including lemma generation in equational inductive proofs, intelligence tests, diverging Knuth-Bendix completion, strengthening of induction hypotheses, and theory formation about finite algebras.

@@ -1,0 +1,3 @@
+A characterization of linearizable instances of the quadratic minimum spanning tree problem
+
+We investigate special cases of the quadratic minimum spanning tree problem (QMSTP) on a graph $G=(V,E)$ that can be solved as a linear minimum spanning tree problem. Characterization of such problems on graphs with special properties are given. This include complete graphs, complete bipartite graphs, cactuses among others. Our characterization can be verified in $O(|E|^2)$ time. In the case of complete graphs and when the cost matrix is given in factored form, we show that our characterization can be verified in $O(|E|)$ time. Related open problems are also indicated.

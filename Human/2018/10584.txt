@@ -1,0 +1,3 @@
+Monodromy Solver: Sequential and Parallel
+
+We describe, study, and experiment with an algorithm for finding all solutions of systems of polynomial equations using homotopy continuation and monodromy. This algorithm follows a framework developed in previous work and can operate in the presence of a large number of failures of the homotopy continuation subroutine. We give special attention to parallelization and probabilistic analysis of a model adapted to parallelization and failures. Apart from theoretical results, we developed a simulator that allows us to run a large number of experiments without recomputing the outcomes of the continuation subroutine.

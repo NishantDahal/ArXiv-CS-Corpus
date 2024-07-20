@@ -1,0 +1,3 @@
+Classification Recouvrante Basée sur les Méthodes à Noyau
+
+Overlapping clustering problem is an important learning issue in which clusters are not mutually exclusive and each object may belongs simultaneously to several clusters. This paper presents a kernel based method that produces overlapping clusters on a high feature space using mercer kernel techniques to improve separability of input patterns. The proposed method, called OKM-K(Overlapping $k$-means based kernel method), extends OKM (Overlapping $k$-means) method to produce overlapping schemes. Experiments are performed on overlapping dataset and empirical results obtained with OKM-K outperform results obtained with OKM.

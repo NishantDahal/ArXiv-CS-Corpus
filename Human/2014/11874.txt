@@ -1,0 +1,3 @@
+Categories and all that -- A Tutorial
+
+This is a short introduction to categories with some emphasis on coalgebras. We start from introducing basic notions (categories, functors, natural transformations), move to Kleisli tripels and monads, with a short discussion of monads in Haskell, and continue with displaying the interplay between algebras, adjunctions and monads. Coalgebras are discussed and applied to the semantics of modal logics, giving a brief introduction to coalgebraic logics as well. The development is illustrated through examples, usually taken from applications to computer science, with a certain predilection for stochastic systems.

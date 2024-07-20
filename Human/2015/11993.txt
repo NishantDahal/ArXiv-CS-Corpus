@@ -1,0 +1,3 @@
+A New IEEE 802.15.4 Simulation Model for OMNeT++ / INET
+
+This paper introduces a new IEEE 802.15.4 simulation model for OMNeT++ / INET. 802.15.4 is an important underlying standard for wireless sensor networks and Internet of Things scenarios. The presented implementation is designed to be compatible with OMNeT++ 4.x and INET 2.x and laid-out to be expandable for newer revisions of the 802.15.4 standard. The source code is available online https://github.com/michaelkirsche/IEEE802154INET-Standalone

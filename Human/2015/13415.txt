@@ -1,0 +1,3 @@
+Notes on phonological based drunken detection algorithm
+
+In this paper we propose a new algorithm for detecting if a person is under the influence of alcohol. This algorithm is based on number of pauses the speaker makes by judging that if the number of pauses compared to the previous recordings of the same person, which has been recorded beforehand, is higher. If so the algorithm mark the speaker as drunk.

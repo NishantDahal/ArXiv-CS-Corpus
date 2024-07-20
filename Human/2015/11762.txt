@@ -1,0 +1,3 @@
+Compositional Verification for Timed Systems Based on Automatic Invariant Generation
+
+We propose a method for compositional verification to address the state space explosion problem inherent to model-checking timed systems with a large number of components. The main challenge is to obtain pertinent global timing constraints from the timings in the components alone. To this end, we make use of auxiliary clocks to automatically generate new invariants which capture the constraints induced by the synchronisations between components. The method has been implemented in the RTD-Finder tool and successfully experimented on several benchmarks. 

@@ -1,0 +1,3 @@
+Modeling and Reasoning About Wireless Networks: A Graph-based Calculus Approach
+
+We propose a graph-based process calculus for modeling and reasoning about wireless networks with local broadcasts. Graphs are used at syntactical level to describe the topological structures of networks. This calculus is equipped with a reduction semantics and a labelled transition semantics. The former is used to define weak barbed congruence. The latter is used to define a parameterized weak bisimulation emphasizing locations and local broadcasts. We prove that weak bisimilarity implies weak barbed congruence. The potential applications are illustrated by some examples and two case studies.

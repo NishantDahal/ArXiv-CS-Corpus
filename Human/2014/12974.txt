@@ -1,0 +1,3 @@
+Gaussian Noise Sensitivity and BosonSampling
+
+We study the sensitivity to noise of |permanent(X)|^2 for random real and complex n x n Gaussian matrices X, and show that asymptotically the correlation between the noisy and noiseless outcomes tends to zero when the noise level is ω(1)/n. This suggests that, under certain reasonable noise models, the probability distributions produced by noisy BosonSampling are very sensitive to noise. We also show that when the amount of noise is constant the noisy value of |permanent(X)|^2 can be approximated efficiently on a classical computer. These results seem to weaken the possibility of demonstrating quantum-speedup via BosonSampling without quantum fault-tolerance.

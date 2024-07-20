@@ -1,0 +1,3 @@
+Concurrent Game Structures with Roles
+
+In the following paper we present a new semantics for the well-known strategic logic ATL. It is based on adding roles to concurrent game structures, that is at every state, each agent belongs to exactly one role, and the role specifies what actions are available to him at that state. We show advantages of the new semantics, provide motivating examples based on sensor networks, and analyze model checking complexity.

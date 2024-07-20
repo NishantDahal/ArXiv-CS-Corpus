@@ -1,0 +1,3 @@
+Exact recovery of non-uniform splines from the projection onto spaces of algebraic polynomials
+
+In this work we consider the problem of recovering non-uniform splines from their projection onto spaces of algebraic polynomials. We show that under a certain Chebyshev-type separation condition on its knots, a spline whose inner-products with a polynomial basis and boundary conditions are known, can be recovered using Total Variation norm minimization. The proof of the uniqueness of the solution uses the method of `dual' interpolating polynomials and is based on \cite{SR}, where the theory was developed for trigonometric polynomials. We also show results for the multivariate case.

@@ -1,0 +1,3 @@
+Commitment and Oblivious Transfer in the Bounded Storage Model with Errors
+
+The bounded storage model restricts the memory of an adversary in a cryptographic protocol, rather than restricting its computational power, making information theoretically secure protocols feasible. We present the first protocols for commitment and oblivious transfer in the bounded storage model with errors, i.e., the model where the public random sources available to the two parties are not exactly the same, but instead are only required to have a small Hamming distance between themselves. Commitment and oblivious transfer protocols were known previously only for the error-free variant of the bounded storage model, which is harder to realize.

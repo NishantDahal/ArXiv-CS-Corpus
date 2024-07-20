@@ -1,0 +1,3 @@
+A Survey of Techniques for Dynamic Branch Prediction
+
+Branch predictor (BP) is an essential component in modern processors since high BP accuracy can improve performance and reduce energy by decreasing the number of instructions executed on wrong-path. However, reducing latency and storage overhead of BP while maintaining high accuracy presents significant challenges. In this paper, we present a survey of dynamic branch prediction techniques. We classify the works based on key features to underscore their differences and similarities. We believe this paper will spark further research in this area and will be useful for computer architects, processor designers and researchers.

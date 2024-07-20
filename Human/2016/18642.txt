@@ -1,0 +1,3 @@
+Further Kernelization of Proper Interval Vertex Deletion: New Observations and Refined Analysis
+
+In the Proper Interval Vertex Deletion problem (PIVD for short), we are given a graph $G$ and an integer parameter $k>0$, and the question is whether there are at most $k$ vertices in $G$ whose removal results in a proper interval graph. It is known that the PIVD problem is fixed-parameter tractable and admits a polynomial but "unreasonably" large kernel of $O(k^{53})$ vertices. A natural question is whether the problem admits a polynomial kernel of "reasonable" size. In this paper, we answer this question by deriving an $O(k^7)$-vertex kernel for the PIVD problem. Our kernelization is based on several new observations and a refined analysis of the kernelization.

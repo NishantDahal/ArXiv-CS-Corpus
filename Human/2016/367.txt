@@ -1,0 +1,3 @@
+Sampling-Based Query Re-Optimization
+
+Despite of decades of work, query optimizers still make mistakes on "difficult" queries because of bad cardinality estimates, often due to the interaction of multiple predicates and correlations in the data. In this paper, we propose a low-cost post-processing step that can take a plan produced by the optimizer, detect when it is likely to have made such a mistake, and take steps to fix it. Specifically, our solution is a sampling-based iterative procedure that requires almost no changes to the original query optimizer or query evaluation mechanism of the system. We show that this indeed imposes low overhead and catches cases where three widely used optimizers (PostgreSQL and two commercial systems) make large errors.

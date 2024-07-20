@@ -1,0 +1,3 @@
+Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition
+
+In this paper, we design a Collaborative-Hierarchical Sparse and Low-Rank (C-HiSLR) model that is natural for recognizing human emotion in visual data. Previous attempts require explicit expression components, which are often unavailable and difficult to recover. Instead, our model exploits the lowrank property over expressive facial frames and rescue inexact sparse representations by incorporating group sparsity. For the CK+ dataset, C-HiSLR on raw expressive faces performs as competitive as the Sparse Representation based Classification (SRC) applied on manually prepared emotions. C-HiSLR performs even better than SRC in terms of true positive rate.

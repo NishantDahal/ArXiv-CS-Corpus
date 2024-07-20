@@ -1,0 +1,4 @@
+Nighttime sky/cloud image segmentation
+
+Imaging the atmosphere using ground-based sky cameras is a popular approach to study various atmospheric phenomena. However, it usually focuses on the daytime. Nighttime sky/cloud images are darker and noisier, and thus harder to analyze. An accurate segmentation of sky/cloud images is already challenging because of the clouds' non-rigid structure and size, and the lower and less stable illumination of the night sky increases the difficulty. Nonetheless, nighttime cloud imaging is essential in certain applications, such as continuous weather analysis and satellite communication.
+  In this paper, we propose a superpixel-based method to segment nighttime sky/cloud images. We also release the first nighttime sky/cloud image segmentation database to the research community. The experimental results show the efficacy of our proposed algorithm for nighttime images.

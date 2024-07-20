@@ -1,0 +1,3 @@
+An Information-Theoretic Proof of the Constructive Commutative Quantum Lovász Local Lemma
+
+The Quantum Lovász Local Lemma (QLLL) [AKS12] establishes non-constructively that any quantum system constrained by a local Hamiltonian has a zero-energy ground state, if the local Hamiltonian terms overlap only in a certain restricted way. In this paper, we present an efficient quantum algorithm to prepare this ground state for the special case of commuting projector terms. The related classical problem has been open for more than 34 years. Our algorithm follows the breakthrough ideas of Moser's [Moser09] classical algorithm and lifts his information theoretic argument to the quantum setting. A similar result has been independently published by Arad and Sattath [AS13] recently.

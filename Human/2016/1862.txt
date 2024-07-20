@@ -1,0 +1,3 @@
+A Stochastic Performance Model for Pipelined Krylov Methods
+
+Pipelined Krylov methods seek to ameliorate the latency due to inner products necessary for projection by overlapping it with the computation associated with sparse matrix-vector multiplication. We clarify a folk theorem that this can only result in a speedup of $2\times$ over the naive implementation. Examining many repeated runs, we show that stochastic noise also contributes to the latency, and we model this using an analytical probability distribution. Our analysis shows that speedups greater than $2\times$ are possible with these algorithms.

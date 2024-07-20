@@ -1,0 +1,3 @@
+Real-time Tool for Affine Transformations of Two Dimensional IFS Fractals
+
+This work introduces a novel tool for interactive, real-time transformations of two dimensional IFS fractals. We assign barycentric coordinates (relative to an arbitrary affine basis of $\mathbb{R}^2$) to the points that constitute the image of a fractal. The tool uses some of the nice properties of the barycentric coordinates, enabling any affine transformation of the basis, done by click-and-drag, to be immediately followed by the same affine transformation of the IFS fractal attractor. In order to have a better control over the fractal, as affine basis we use a kind of minimal simplex that contains the attractor. We give theoretical grounds of the tool and then the software application.

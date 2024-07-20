@@ -1,0 +1,3 @@
+Fast, Dense Feature SDM on an iPhone
+
+In this paper, we present our method for enabling dense SDM to run at over 90 FPS on a mobile device. Our contributions are two-fold. Drawing inspiration from the FFT, we propose a Sparse Compositional Regression (SCR) framework, which enables a significant speed up over classical dense regressors. Second, we propose a binary approximation to SIFT features. Binary Approximated SIFT (BASIFT) features, which are a computationally efficient approximation to SIFT, a commonly used feature with SDM. We demonstrate the performance of our algorithm on an iPhone 7, and show that we achieve similar accuracy to SDM.

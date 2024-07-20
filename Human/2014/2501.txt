@@ -1,0 +1,5 @@
+Left Recursion in Parsing Expression Grammars
+
+Parsing Expression Grammars (PEGs) are a formalism that can describe all deterministic context-free languages through a set of rules that specify a top-down parser for some language. PEGs are easy to use, and there are efficient implementations of PEG libraries in several programming languages.
+  A frequently missed feature of PEGs is left recursion, which is commonly used in Context-Free Grammars (CFGs) to encode left-associative operations. We present a simple conservative extension to the semantics of PEGs that gives useful meaning to direct and indirect left-recursive rules, and show that our extensions make it easy to express left-recursive idioms from CFGs in PEGs, with similar results. We prove the conservativeness of these extensions, and also prove that they work with any left-recursive PEG.
+  PEGs can also be compiled to programs in a low-level parsing machine. We present an extension to the semantics of the operations of this parsing machine that let it interpret left-recursive PEGs, and prove that this extension is correct with regards to our semantics for left-recursive PEGs.

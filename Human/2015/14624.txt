@@ -1,0 +1,4 @@
+Optimum-width upward drawings of trees
+
+An upward drawing of a tree is a drawing such that no parents are below their children. It is order-preserving if the edges to children appear in prescribed order around each node. Chan showed that any tree has an upward order-preserving drawing with width O(log n). In this paper, we present linear-time algorithms that finds upward with instance-optimal width, i.e., the width is the minimum-possible for the input tree.
+  We study two different models. In the first model, the drawings need not be order-preserving; a very simple algorithm then finds straight-line drawings of optimal width. In the second model, the drawings must be order-preserving; and we give an algorithm that finds optimum-width poly-line drawings, i.e., edges are allowed to have bends. We also briefly study order-preserving upward straight-line drawings, and show that some trees require larger width if drawings must be straight-line.

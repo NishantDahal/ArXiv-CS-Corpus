@@ -1,0 +1,3 @@
+Subgaussian Tail Bounds via Stability Arguments
+
+Sums of independent, bounded random variables concentrate around their expectation approximately as well a Gaussian of the same variance. Well known results of this form include the Bernstein, Hoeffding, and Chernoff inequalities and many others. We present an alternative proof of these tail bounds based on what we call a stability argument, which avoids bounding the moment generating function or higher-order moments of the distribution. Our stability argument is inspired by recent work on the generalization properties of differential privacy and their connection to adaptive data analysis (Bassily et al., STOC 2016).

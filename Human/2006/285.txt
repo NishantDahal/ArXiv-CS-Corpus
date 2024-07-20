@@ -1,0 +1,5 @@
+A compositional Semantics for CHR
+
+Constraint Handling Rules (CHR) are a committed-choice declarative language which has been designed for writing constraint solvers. A CHR program consists of multi-headed guarded rules which allow one to rewrite constraints into simpler ones until a solved form is reached.
+  CHR has received a considerable attention, both from the practical and from the theoretical side. Nevertheless, due the use of multi-headed clauses, there are several aspects of the CHR semantics which have not been clarified yet. In particular, no compositional semantics for CHR has been defined so far.
+  In this paper we introduce a fix-point semantics which characterizes the input/output behavior of a CHR program and which is and-compositional, that is, which allows to retrieve the semantics of a conjunctive query from the semantics of its components. Such a semantics can be used as a basis to define incremental and modular analysis and verification tools.

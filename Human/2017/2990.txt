@@ -1,0 +1,3 @@
+Decomposing Weighted Graphs
+
+We solve the following problem: Can an undirected weighted graph G be parti- tioned into two non-empty induced subgraphs satisfying minimum constraints for the sum of edge weights at vertices of each subgraph? We show that this is possible for all constraints a(x), b(x) satisfying d_G(x) >= a(x) + b(x) + 2W_G(x), for every vertex x, where d_G(x), W_G(x) are, respectively, the sum and maximum of incident edge weights.

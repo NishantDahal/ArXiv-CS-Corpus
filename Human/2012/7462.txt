@@ -1,0 +1,3 @@
+Writing Reusable Digital Geometry Algorithms in a Generic Image Processing Framework
+
+Digital Geometry software should reflect the generality of the underlying mathe- matics: mapping the latter to the former requires genericity. By designing generic solutions, one can effectively reuse digital geometry data structures and algorithms. We propose an image processing framework focused on the Generic Programming paradigm in which an algorithm on the paper can be turned into a single code, written once and usable with various input types. This approach enables users to design and implement new methods at a lower cost, try cross-domain experiments and help generalize results

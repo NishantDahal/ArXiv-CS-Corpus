@@ -1,0 +1,3 @@
+Sparse Matrix Multiplication on CAM Based Accelerator
+
+Sparse matrix multiplication is an important component of linear algebra computations. In this paper, an architecture based on Content Addressable Memory (CAM) and Resistive Content Addressable Memory (ReCAM) is proposed for accelerating sparse matrix by sparse vector and matrix multiplication in CSR format. Using functional simulation, we show that the proposed ReCAM-based accelerator exhibits two orders of magnitude higher power efficiency as compared to existing sparse matrix-vector multiplication implementations.

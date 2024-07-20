@@ -1,0 +1,3 @@
+Discrete Cosine Transforms on Quantum Computers
+
+A classical computer does not allow to calculate a discrete cosine transform on N points in less than linear time. This trivial lower bound is no longer valid for a computer that takes advantage of quantum mechanical superposition, entanglement, and interference principles. In fact, we show that it is possible to realize the discrete cosine transforms and the discrete sine transforms of size NxN and types I,II,III, and IV with as little as O(log^2 N) operations on a quantum computer, whereas the known fast algorithms on a classical computer need O(N log N) operations.

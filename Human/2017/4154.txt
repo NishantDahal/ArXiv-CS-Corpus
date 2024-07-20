@@ -1,0 +1,3 @@
+Minutia-pair spectral representations for fingerprint template protection
+
+We introduce a new fixed-length representation of fingerprint minutiae, for use in template protection. It is similar to the `spectral minutiae' representation of Xu et al. but is based on coordinate differences between pairs of minutiae. Our technique has the advantage that it does not discard the phase information of the spectral functions. We show that the fingerprint matching performance (Equal Error Rate) is comparable to that of the original spectral minutiae representation, while the speed is improved.

@@ -1,0 +1,3 @@
+A Composition Theorem via Conflict Complexity
+
+Let $\R(\cdot)$ stand for the bounded-error randomized query complexity. We show that for any relation $f \subseteq \{0,1\}^n \times \mathcal{S}$ and partial Boolean function $g \subseteq \{0,1\}^n \times \{0,1\}$, $\R_{1/3}(f \circ g^n) = Ω(\R_{4/9}(f) \cdot \sqrt{\R_{1/3}(g)})$. Independently of us, Gavinsky, Lee and Santha \cite{newcomp} proved this result. By an example demonstrated in their work, this bound is optimal. We prove our result by introducing a novel complexity measure called the \emph{conflict complexity} of a partial Boolean function $g$, denoted by $χ(g)$, which may be of independent interest. We show that $χ(g) = Ω(\sqrt{\R(g)})$ and $\R(f \circ g^n) = Ω(\R(f) \cdot χ(g))$.

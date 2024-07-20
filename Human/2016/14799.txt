@@ -1,0 +1,6 @@
+Drawing Graphs on Few Lines and Few Planes
+
+We investigate the problem of drawing graphs in 2D and 3D such that their edges (or only their vertices) can be covered by few lines or planes. We insist on straight-line edges and crossing-free drawings. This problem has many connections to other challenging graph-drawing problems such as small-area or small-volume drawings, layered or track drawings, and drawing graphs with low visual complexity. While some facts about our problem are implicit in previous work, this is the first treatment of the problem in its full generality. Our contribution is as follows.
+  We show lower and upper bounds for the numbers of lines and planes needed for covering drawings of graphs in certain graph classes. In some cases our bounds are asymptotically tight; in some cases we are able to determine exact values.
+  We relate our parameters to standard combinatorial characteristics of graphs (such as the chromatic number, treewidth, maximum degree, or arboricity) and to parameters that have been studied in graph drawing (such as the track number or the number of segments appearing in a drawing).
+  We pay special attention to planar graphs. For example, we show that there are planar graphs that can be drawn in 3-space on a lot fewer lines than in the plane.

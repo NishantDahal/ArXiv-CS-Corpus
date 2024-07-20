@@ -1,0 +1,5 @@
+Graph Isomorphism for Bounded Genus Graphs In Linear Time
+
+For every integer $g$, isomorphism of graphs of Euler genus at most $g$ can be decided in linear time.
+  This improves previously known algorithms whose time complexity is $n^{O(g)}$ (shown in early 1980's), and in fact, this is the first fixed-parameter tractable algorithm for the graph isomorphism problem for bounded genus graphs in terms of the Euler genus $g$. Our result also generalizes the seminal result of Hopcroft and Wong in 1974, which says that the graph isomorphism problem can be decided in linear time for planar graphs.
+  Our proof is quite lengthly and complicated, but if we are satisfied with an $O(n^3)$ time algorithm for the same problem, the proof is shorter and easier.

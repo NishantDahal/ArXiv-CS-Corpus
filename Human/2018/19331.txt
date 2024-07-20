@@ -1,0 +1,3 @@
+Multi-View Networks for Denoising of Arbitrary Numbers of Channels
+
+We propose a set of denoising neural networks capable of operating on an arbitrary number of channels at runtime, irrespective of how many channels they were trained on. We coin the proposed models multi-view networks since they operate using multiple views of the same data. We explore two such architectures and show how they outperform traditional denoising models in multi-channel scenarios. Additionally, we demonstrate how multi-view networks can leverage information provided by additional recordings to make better predictions, and how they are able to generalize to a number of recordings not seen in training.

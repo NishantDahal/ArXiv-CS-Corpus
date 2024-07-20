@@ -1,0 +1,3 @@
+Random Walks on Polytopes of Constant Corank
+
+We show that the pivoting process associated with one line and $n$ points in $r$-dimensional space may need $Ω(\log^r n)$ steps in expectation as $n \to \infty$. The only cases for which the bound was known previously were for $r \le 3$. Our lower bound is also valid for the expected number of pivoting steps in the following applications: (1) The Random-Edge simplex algorithm on linear programs with $n$ constraints in $d = n - r$ variables; and (2) the directed random walk on a grid polytope of corank $r$ with $n$ facets.

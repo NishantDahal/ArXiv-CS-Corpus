@@ -1,0 +1,3 @@
+Secure Fast Fourier Transform using Fully Homomorphic Encryption
+
+Secure signal processing is becoming a de facto model for preserving privacy. We propose a model based on the Fully Homomorphic Encryption (FHE) technique to mitigate security breaches. Our framework provides a method to perform a Fast Fourier Transform (FFT) on a user-specified signal. Using encryption of individual binary values and FHE operations over addition and multiplication, we enable a user to perform the FFT in a fixed point fractional representation in binary. Our approach bounds the error of the implementation to enable user-selectable parameters based on the specific application. We verified our framework against test cases for one dimensional signals and images (two dimensional signals).

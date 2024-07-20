@@ -1,0 +1,3 @@
+Proving completeness of logic programs with the cut
+
+Completeness of a logic program means that the program produces all the answers required by its specification. The cut is an important construct of programming language Prolog. It prunes part of the search space, this may result in a loss of completeness. This paper proposes a way of proving completeness of programs with the cut. The semantics of the cut is formalized by describing how SLD-trees are pruned. A sufficient condition for completeness is presented, proved sound, and illustrated by examples.

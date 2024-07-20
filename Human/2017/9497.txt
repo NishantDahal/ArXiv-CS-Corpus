@@ -1,0 +1,3 @@
+Formal Computational Unlinkability Proofs of RFID Protocols
+
+We set up a framework for the formal proofs of RFID protocols in the computational model. We rely on the so-called computationally complete symbolic attacker model. Our contributions are: i) To design (and prove sound) axioms reflecting the properties of hash functions (Collision-Resistance, PRF); ii) To formalize computational unlinkability in the model; iii) To illustrate the method, providing the first formal proofs of unlinkability of RFID protocols, in the computational model.

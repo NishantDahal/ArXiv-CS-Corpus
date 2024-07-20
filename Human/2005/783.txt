@@ -1,0 +1,3 @@
+Quantum Anonymous Transmissions
+
+We consider the problem of hiding sender and receiver of classical and quantum bits (qubits), even if all physical transmissions can be monitored. We present a quantum protocol for sending and receiving classical bits anonymously, which is completely traceless: it successfully prevents later reconstruction of the sender. We show that this is not possible classically. It appears that entangled quantum states are uniquely suited for traceless anonymous transmissions. We then extend this protocol to send and receive qubits anonymously. In the process we introduce a new primitive called anonymous entanglement, which may be useful in other contexts as well.

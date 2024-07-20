@@ -1,0 +1,4 @@
+Constructing subset partition graphs with strong adjacency and end-point count properties
+
+Kim defined a very general combinatorial abstraction of the diameter of polytopes called subset partition graphs to study how certain combinatorial properties of such graphs may be achieved in lower bound constructions. Using Lovász' Local Lemma, we give a general randomized construction for subset partition graphs satisfying strong adjacency and end-point count properties. This can be used as a building block to conceptually simplify the constructions given in [Kim11].
+  We also use our method to construct abstract spindles, an analogy to the spindles used by Santos to disprove the Hirsch conjecture, of exponential length which satisfy the adjacency and end-point count properties.

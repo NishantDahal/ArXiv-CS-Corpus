@@ -1,0 +1,3 @@
+Finite Domain Bounds Consistency Revisited
+
+A widely adopted approach to solving constraint satisfaction problems combines systematic tree search with constraint propagation for pruning the search space. Constraint propagation is performed by propagators implementing a certain notion of consistency. Bounds consistency is the method of choice for building propagators for arithmetic constraints and several global constraints in the finite integer domain. However, there has been some confusion in the definition of bounds consistency. In this paper we clarify the differences and similarities among the three commonly used notions of bounds consistency.

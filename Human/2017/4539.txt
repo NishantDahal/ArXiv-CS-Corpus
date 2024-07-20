@@ -1,0 +1,3 @@
+Stabbing segments with rectilinear objects
+
+Given a set $S$ of $n$ line segments in the plane, we say that a region $\mathcal{R}\subseteq \mathbb{R}^2$ is a {\em stabber} for $S$ if $\mathcal{R}$ contains exactly one endpoint of each segment of $S$. In this paper we provide optimal or near-optimal algorithms for reporting all combinatorially different stabbers for several shapes of stabbers. Specifically, we consider the case in which the stabber can be described as the intersection of axis-parallel halfplanes (thus the stabbers are halfplanes, strips, quadrants, $3$-sided rectangles, or rectangles). The running times are $O(n)$ (for the halfplane case), $O(n\log n)$ (for strips, quadrants, and 3-sided rectangles), and $O(n^2 \log n)$ (for rectangles).

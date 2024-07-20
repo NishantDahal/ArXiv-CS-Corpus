@@ -1,0 +1,3 @@
+On the Complexity of Closest Pair via Polar-Pair of Point-Sets
+
+Every graph $G$ can be represented by a collection of equi-radii spheres in a $d$-dimensional metric $Δ$ such that there is an edge $uv$ in $G$ if and only if the spheres corresponding to $u$ and $v$ intersect. The smallest integer $d$ such that $G$ can be represented by a collection of spheres (all of the same radius) in $Δ$ is called the sphericity of $G$, and if the collection of spheres are non-overlapping, then the value $d$ is called the contact-dimension of $G$. In this paper, we study the sphericity and contact dimension of the complete bipartite graph $K_{n,n}$ in various $L^p$-metrics and consequently connect the complexity of the monochromatic closest pair and bichromatic closest pair problems.

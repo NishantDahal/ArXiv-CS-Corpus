@@ -1,0 +1,3 @@
+Achievable Rate of Private Function Retrieval from MDS Coded Databases
+
+We study the problem of private function retrieval (PFR) in a distributed storage system. In PFR the user wishes to retrieve a linear combination of $M$ messages stored in non-colluding $(N,K)$ MDS coded databases while revealing no information about the coefficients of the intended linear combination to any of the individual databases. We present an achievable scheme for MDS coded PFR with a rate that matches the capacity for coded private information retrieval derived recently, $R=(1+R_c+R_c^2+\dots+R_c^{M-1})^{-1}=\frac{1-R_c}{1-R_c^M}$, where $R_c=\frac{K}{N}$ is the rate of the MDS code. This achievable rate is tight in some special cases.

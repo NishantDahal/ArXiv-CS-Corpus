@@ -1,0 +1,3 @@
+Tool and Phase recognition using contextual CNN features
+
+A transfer learning method for generating features suitable for surgical tools and phase recognition from the ImageNet classification features [1] is proposed here. In addition, methods are developed for generating contextual features and combining them with time series analysis for final classification using multi-class random forest. The proposed pipeline is tested over the training and testing datasets of M2CAI16 challenges: tool and phase detection. Encouraging results are obtained by leave-one-out cross validation evaluation on the training dataset.

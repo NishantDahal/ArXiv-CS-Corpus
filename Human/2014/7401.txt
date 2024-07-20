@@ -1,0 +1,3 @@
+A CUDA-Based Real Parameter Optimization Benchmark
+
+Benchmarking is key for developing and comparing optimization algorithms. In this paper, a CUDA-based real parameter optimization benchmark (cuROB) is introduced. Test functions of diverse properties are included within cuROB and implemented efficiently with CUDA. Speedup of one order of magnitude can be achieved in comparison with CPU-based benchmark of CEC'14.

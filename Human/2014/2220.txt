@@ -1,0 +1,3 @@
+Proof Pattern Search in Coq/SSReflect
+
+ML4PG is an extension of the Proof General interface, allowing the user to invoke machine-learning algorithms and find proof similarities in Coq/SSReect libraries. In this paper, we present three new improvements to ML4PG. First, a new method of "recurrent clustering" is introduced to collect statistical features from Coq terms. Now the user can receive suggestions about similar definitions, types and lemma statements, in addition to proof strategies. Second, Coq proofs are split into patches to capture proof strategies that could arise at different stages of a proof. Finally, we improve ML4PG's output introducing an automaton-shape representation for proof patterns.

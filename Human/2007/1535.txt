@@ -1,0 +1,3 @@
+Nominal Logic Programming
+
+Nominal logic is an extension of first-order logic which provides a simple foundation for formalizing and reasoning about abstract syntax modulo consistent renaming of bound names (that is, alpha-equivalence). This article investigates logic programming based on nominal logic. We describe some typical nominal logic programs, and develop the model-theoretic, proof-theoretic, and operational semantics of such programs. Besides being of interest for ensuring the correct behavior of implementations, these results provide a rigorous foundation for techniques for analysis and reasoning about nominal logic programs, as we illustrate via examples.

@@ -1,0 +1,3 @@
+RT-SLAM: A Generic and Real-Time Visual SLAM Implementation
+
+This article presents a new open-source C++ implementation to solve the SLAM problem, which is focused on genericity, versatility and high execution speed. It is based on an original object oriented architecture, that allows the combination of numerous sensors and landmark types, and the integration of various approaches proposed in the literature. The system capacities are illustrated by the presentation of an inertial/vision SLAM approach, for which several improvements over existing methods have been introduced, and that copes with very high dynamic motions. Results with a hand-held camera are presented.

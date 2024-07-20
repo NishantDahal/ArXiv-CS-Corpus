@@ -1,0 +1,3 @@
+A reduction of the logspace shortest path problem to biconnected graphs
+
+In this paper, we reduce the logspace shortest path problem to biconnected graphs; in particular, we present a logspace shortest path algorithm for general graphs which uses a logspace shortest path oracle for biconnected graphs. We also present a linear time logspace shortest path algorithm for graphs with bounded vertex degree and biconnected component size, which does not rely on an oracle. The asymptotic time-space product of this algorithm is the best possible among all shortest path algorithms.

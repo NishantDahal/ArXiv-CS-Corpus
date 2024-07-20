@@ -1,0 +1,3 @@
+An Executable Sequential Specification for Spark Aggregation
+
+Spark is a new promising platform for scalable data-parallel computation. It provides several high-level application programming interfaces (APIs) to perform parallel data aggregation. Since execution of parallel aggregation in Spark is inherently non-deterministic, a natural requirement for Spark programs is to give the same result for any execution on the same data set. We present PureSpark, an executable formal Haskell specification for Spark aggregate combinators. Our specification allows us to deduce the precise condition for deterministic outcomes from Spark aggregation. We report case studies analyzing deterministic outcomes and correctness of Spark programs.

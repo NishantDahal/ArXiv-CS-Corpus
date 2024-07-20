@@ -1,0 +1,3 @@
+Extending the Stable Model Semantics with More Expressive Rules
+
+The rules associated with propositional logic programs and the stable model semantics are not expressive enough to let one write concise programs. This problem is alleviated by introducing some new types of propositional rules. Together with a decision procedure that has been used as a base for an efficient implementation, the new rules supplant the standard ones in practical applications of the stable model semantics.

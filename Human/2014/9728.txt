@@ -1,0 +1,3 @@
+Abstracting an operational semantics to finite automata
+
+There is an apparent similarity between the descriptions of small-step operational semantics of imperative programs and the semantics of finite automata, so defining an abstraction mapping from semantics to automata and proving a simulation property seems to be easy. This paper aims at identifying the reasons why simple proofs break, among them artifacts in the semantics that lead to stuttering steps in the simulation. We then present a semantics based on the zipper data structure, with a direct interpretation of evaluation as navigation in the syntax tree. The abstraction function is then defined by equivalence class construction.

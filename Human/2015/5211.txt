@@ -1,0 +1,4 @@
+Another approach to the equivalence of measure-many one-way quantum finite automata and its application
+
+In this paper, we present a much simpler, direct and elegant approach to the equivalence problem of {\it measure many one-way quantum finite automata} (MM-1QFAs). The approach is essentially generalized from the work of Carlyle [J. Math. Anal. Appl. 7 (1963) 167-175]. Namely, we reduce the equivalence problem of MM-1QFAs to that of two (initial) vectors.
+  As an application of the approach, we utilize it to address the equivalence problem of {\it Enhanced one-way quantum finite automata} (E-1QFAs) introduced by Nayak [Proceedings of the 40th Annual IEEE Symposium on Foundations of Computer Science, 1999, pp.~369-376]. We prove that two E-1QFAs $\mathcal{A}_1$ and $\mathcal{A}_2$ over $Σ$ are equivalence if and only if they are $n_1^2+n_2^2-1$-equivalent where $n_1$ and $n_2$ are the numbers of states in $\mathcal{A}_1$ and $\mathcal{A}_2$, respectively.

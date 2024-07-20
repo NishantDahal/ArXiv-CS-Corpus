@@ -1,0 +1,6 @@
+Improved Soundness for QMA with Multiple Provers
+
+We present three contributions to the understanding of QMA with multiple provers:
+  1) We give a tight soundness analysis of the protocol of [Blier and Tapp, ICQNM '09], yielding a soundness gap Omega(1/N^2). Our improvement is achieved without the use of an instance with a constant soundness gap (i.e., without using a PCP).
+  2) We give a tight soundness analysis of the protocol of [Chen and Drucker, ArXiV '10], thereby improving their result from a monolithic protocol where Theta(sqrt(N)) provers are needed in order to have any soundness gap, to a protocol with a smooth trade-off between the number of provers k and a soundness gap Omega(k^2/N), as long as k>=Omega(log N). (And, when k=Theta(sqrt(N)), we recover the original parameters of Chen and Drucker.)
+  3) We make progress towards an open question of [Aaronson et al., ToC '09] about what kinds of NP-complete problems are amenable to sublinear multiple-prover QMA protocols, by observing that a large class of such examples can easily be derived from results already in the PCP literature - namely, at least the languages recognized by a non-deterministic RAMs in quasilinear time.

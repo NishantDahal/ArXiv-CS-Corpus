@@ -1,0 +1,4 @@
+A logic for n-dimensional hierarchical refinement
+
+Hierarchical transition systems provide a popular mathematical structure to represent state-based software applications in which different layers of abstraction are represented by inter-related state machines. The decomposition of high level states into inner sub-states, and of their transitions into inner sub-transitions is common refinement procedure adopted in a number of specification formalisms. 
+  This paper introduces a hybrid modal logic for k-layered transition systems, its first-order standard translation, a notion of bisimulation, and a modal invariance result. Layered and hierarchical notions of refinement are also discussed in this setting.

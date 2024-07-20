@@ -1,0 +1,3 @@
+A Distortion Based Approach for Protecting Inferences
+
+Eavesdropping attacks in inference systems aim to learn not the raw data, but the system inferences to predict and manipulate system actions. We argue that conventional information security measures can be ambiguous on the adversary's estimation abilities, and adopt instead a distortion based framework that enables to operate over a metric space. We show that requiring perfect distortion-based security is more frugal than requiring perfect information-theoretic secrecy even for block length one codes, offering in some cases unbounded gains. Within this framework, we design algorithms that enable to efficiently use shared randomness, and show that each bit of shared random key is exponentially useful in security.

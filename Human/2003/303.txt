@@ -1,0 +1,3 @@
+BOA: Framework for Automated Builds
+
+Managing large-scale software products is a complex software engineering task. The automation of the software development, release and distribution process is most beneficial in the large collaborations, where the big number of developers, multiple platforms and distributed environment are typical factors. This paper describes Build and Output Analyzer framework and its components that have been developed in CMS to facilitate software maintenance and improve software quality. The system allows to generate, control and analyze various types of automated software builds and tests, such as regular rebuilds of the development code, software integration for releases and installation of the existing versions.

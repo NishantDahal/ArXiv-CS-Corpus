@@ -1,0 +1,3 @@
+Boolean constant degree functions on the slice are juntas
+
+We show that a Boolean degree $d$ function on the slice $\binom{[n]}{k} = \{ (x_1,\ldots,x_n) \in \{0,1\} : \sum_{i=1}^n x_i = k \}$ is a junta, assuming that $k,n-k$ are large enough. This generalizes a classical result of Nisan and Szegedy on the hypercube. Moreover, we show that the maximum number of coordinates that a Boolean degree $d$ function can depend on is the same on the slice and the hypercube.

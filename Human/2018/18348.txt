@@ -1,0 +1,3 @@
+No-regret algorithms for online $k$-submodular maximization
+
+We present a polynomial time algorithm for online maximization of $k$-submodular maximization. For online (nonmonotone) $k$-submodular maximization, our algorithm achieves a tight approximate factor in an approximate regret. For online monotone $k$-submodular maximization, our approximate-regret matches to the best-known approximation ratio, which is tight asymptotically as $k$ tends to infinity. Our approach is based on the Blackwell approachability theorem and online linear optimization.

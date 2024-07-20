@@ -1,0 +1,3 @@
+iotools: High-Performance I/O Tools for R
+
+The iotools package provides a set of tools for Input/Output (I/O) intensive datasets processing in R (R Core Team, 2014). Efficent parsing methods are included which minimize copying and avoid the use of intermediate string representations whenever possible. Functions for applying chunk-wise operations allow for computing on streaming input as well as arbitrarily large files. We present a set of example use cases for iotools, as well as extensive benchmarks comparing comparable functions provided in both core-R as well as other contributed packages.

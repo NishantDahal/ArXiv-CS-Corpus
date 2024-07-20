@@ -1,0 +1,7 @@
+Relating and contrasting plain and prefix Kolmogorov complexity
+
+In [3] a short proof is given that some strings have maximal plain Kolmogorov complexity but not maximal prefix-free complexity. The proof uses Levin's symmetry of information, Levin's formula relating plain and prefix complexity and Gacs' theorem that complexity of complexity given the string can be high. We argue that the proof technique and results mentioned above are useful to simplify existing proofs and to solve open questions.
+  We present a short proof of Solovay's result [21] relating plain and prefix complexity: $K (x) = C (x) + CC (x) + O(CCC (x))$ and $C (x) = K (x) - KK (x) + O(KKK (x))$, (here $CC(x)$ denotes $C(C(x))$, etc.).
+  We show that there exist $ω$ such that $\liminf C(ω_1\dots ω_n) - C(n)$ is infinite and $\liminf K(ω_1\dots ω_n) - K(n)$ is finite, i.e. the infinitely often C-trivial reals are not the same as the infinitely often K-trivial reals (i.e. [1,Question 1]).
+  Solovay showed that for infinitely many $x$ we have $|x| - C (x) \le O(1)$ and $|x| + K (|x|) - K (x) \ge \log^{(2)} |x| - O(\log^{(3)} |x|)$, (here $|x|$ denotes the length of $x$ and $\log^{(2)} = \log\log$, etc.). We show that this result holds for prefixes of some 2-random sequences.
+  Finally, we generalize our proof technique and show that no monotone relation exists between expectation and probability bounded randomness deficiency (i.e. [6, Question 1]).

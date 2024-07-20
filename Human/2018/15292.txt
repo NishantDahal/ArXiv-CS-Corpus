@@ -1,0 +1,3 @@
+State Classification with CNN
+
+There is a plenty of research going on in field of object recognition, but object state recognition has not been addressed as much. There are many important applications which can utilize object state recognition, such as, in robotics, to decide for how to grab an object. A convolution neural network was designed to classify an image to one of its states. The approach used for training is transfer learning with Inception v3 module of GoogLeNet used as the pre-trained model. The model was trained on images of 18 cooking objects and tested on another set of cooking objects. The model was able to classify those images with 76% accuracy.

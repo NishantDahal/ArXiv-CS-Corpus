@@ -1,0 +1,3 @@
+Improved Space-efficient Linear Time Algorithms for Some Classical Graph Problems
+
+This short note provides space-efficient linear time algorithms for computing bridges, topological sorting, and strongly connected components improving on several recent results of Elmasry et al. [STACS'15], Banerjee et al. [COCOON'16] and Chakraborty et al. [ISAAC'16]. En route, we also provide another DFS implementation with weaker input graph representation assumption without compromising on the time and space bounds of the earlier results of Banerjee et al. [COCOON'16] and Kammer et al. [MFCS'16].

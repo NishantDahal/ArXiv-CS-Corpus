@@ -1,0 +1,3 @@
+Computational complexity and fundamental limitations to fermionic quantum Monte Carlo simulations
+
+Quantum Monte Carlo simulations, while being efficient for bosons, suffer from the "negative sign problem'' when applied to fermions - causing an exponential increase of the computing time with the number of particles. A polynomial time solution to the sign problem is highly desired since it would provide an unbiased and numerically exact method to simulate correlated quantum systems. Here we show, that such a solution is almost certainly unattainable by proving that the sign problem is NP-hard, implying that a generic solution of the sign problem would also solve all problems in the complexity class NP (nondeterministic polynomial) in polynomial time.

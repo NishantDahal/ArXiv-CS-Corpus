@@ -1,0 +1,3 @@
+Modularity-like objective function in annotated networks
+
+We ascertain the modularity-like objective function whose optimization is equivalent to the maximum likelihood in annotated networks. We demonstrate that the modularity-like objective function is a linear combination of modularity and conditional entropy. In contrast with statistical inference methods, in our method, the influence of the metadata is adjustable; when its influence is strong enough, the metadata can be recovered. Conversely, when it is weak, the detection may correspond to another partition. Between the two, there is a transition. This paper provides a concept for expanding the scope of modularity methods.

@@ -1,0 +1,3 @@
+Tuning Fuzzy Logic Programs with Symbolic Execution
+
+Fuzzy logic programming is a growing declarative paradigm aiming to integrate fuzzy logic into logic programming. One of the most difficult tasks when specifying a fuzzy logic program is determining the right weights for each rule, as well as the most appropriate fuzzy connectives and operators. In this paper, we introduce a symbolic extension of fuzzy logic programs in which some of these parameters can be left unknown, so that the user can easily see the impact of their possible values. Furthermore, given a number of test cases, the most appropriate values for these parameters can be automatically computed.

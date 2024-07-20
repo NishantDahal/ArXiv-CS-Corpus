@@ -1,0 +1,3 @@
+Hamiltonian operator for spectral shape analysis
+
+Many shape analysis methods treat the geometry of an object as a metric space that can be captured by the Laplace-Beltrami operator. In this paper, we propose to adapt the classical Hamiltonian operator from quantum mechanics to the field of shape analysis. To this end we study the addition of a potential function to the Laplacian as a generator for dual spaces in which shape processing is performed. We present a general optimization approach for solving variational problems involving the basis defined by the Hamiltonian using perturbation theory for its eigenvectors. The suggested operator is shown to produce better functional spaces to operate with, as demonstrated on different shape analysis tasks.

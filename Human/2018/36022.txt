@@ -1,0 +1,3 @@
+Naming a Channel with Beeps
+
+We consider a communication channel in which the only possible communication mode is transmitting beeps, which reach all the nodes instantaneously. Nodes are anonymous, in that they do not have any individual identifiers. The algorithmic goal is to randomly assign names to the nodes in such a manner that the names make a contiguous segment of positive integers starting from $1$. We give a Las Vegas naming algorithm for the case when the number of nodes $n$ is known, and a Monte Carlo algorithm for the case when the number of nodes $n$ is not known. The algorithms are provably optimal with respect to the expected time $O(n\log n)$, the number of used random bits $O(n\log n)$, and the probability of error.

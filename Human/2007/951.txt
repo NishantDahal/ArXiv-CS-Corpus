@@ -1,0 +1,3 @@
+Fast generators for the Diffie-Hellman key agreement protocol and malicious standards
+
+The Diffie-Hellman key agreement protocol is based on taking large powers of a generator of a prime-order cyclic group. Some generators allow faster exponentiation. We show that to a large extent, using the fast generators is as secure as using a randomly chosen generator. On the other hand, we show that if there is some case in which fast generators are less secure, then this could be used by a malicious authority to generate a standard for the Diffie-Hellman key agreement protocol which has a hidden trapdoor.

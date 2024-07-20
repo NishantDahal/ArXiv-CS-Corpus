@@ -1,0 +1,4 @@
+Bounds for approximating lower envelopes with polynomials of degree at most $d$
+
+Given a lower envelope in the form of an arbitrary sequence $u$, let $LSP(u, d)$ denote the maximum length of any subsequence of $u$ that can be realized as the lower envelope of a set of polynomials of degree at most $d$. Let $sp(m, d)$ denote the minimum value of $LSP(u, d)$ over all sequences $u$ of length $m$. We derive bounds on $sp(m, d)$ using another extremal function for sequences.
+  A sequence $u$ is called $v$-free if no subsequence of $u$ is isomorphic to $v$. Given sequences $u$ and v, let $LSS(u, v)$ denote the maximum length of a $v$-free subsequence of $u$. Let $ss(m, v)$ denote the minimum of $LSS(u, v)$ over all sequences $u$ of length $m$. By bounding $ss(m, v)$ for alternating sequences $v$, we prove quasilinear bounds in $m^{1/2}$ on $sp(m,d)$ for all $d > 0$.

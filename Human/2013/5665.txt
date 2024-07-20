@@ -1,0 +1,3 @@
+Using cascading Bloom filters to improve the memory usage for de Brujin graphs
+
+De Brujin graphs are widely used in bioinformatics for processing next-generation sequencing data. Due to a very large size of NGS datasets, it is essential to represent de Bruijn graphs compactly, and several approaches to this problem have been proposed recently. In this work, we show how to reduce the memory required by the algorithm of [3] that represents de Brujin graphs using Bloom filters. Our method requires 30% to 40% less memory with respect to the method of [3], with insignificant impact to construction time. At the same time, our experiments showed a better query time compared to [3]. This is, to our knowledge, the best practical representation for de Bruijn graphs.

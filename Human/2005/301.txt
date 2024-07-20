@@ -1,0 +1,3 @@
+The Modified Scheme is still vulnerable to the parallel Session Attack
+
+In 2002, Chien&#8211;Jan&#8211;Tseng introduced an efficient remote user authentication scheme using smart cards. Further, in 2004, W. C. Ku and S. M. Chen proposed an efficient remote user authentication scheme using smart cards to solve the security problems of Chien et al.&#8217;s scheme. Recently, Hsu and Yoon et al. pointed out the security weakness of the Ku and Chen&#8217;s scheme Furthermore, Yoon et al. modified the password change phase of Ku and Chen&#8217;s scheme and they also proposed a new efficient remote user authentication scheme using smart cards. This paper analyzes that the modified scheme of Yoon et al. still vulnerable to parallel session attack.

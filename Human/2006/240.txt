@@ -1,0 +1,5 @@
+Interaction in Quantum Communication
+
+In some scenarios there are ways of conveying information with many fewer, even exponentially fewer, qubits than possible classically. Moreover, some of these methods have a very simple structure--they involve only few message exchanges between the communicating parties. It is therefore natural to ask whether every classical protocol may be transformed to a ``simpler'' quantum protocol--one that has similar efficiency, but uses fewer message exchanges.
+  We show that for any constant k, there is a problem such that its k+1 message classical communication complexity is exponentially smaller than its k message quantum communication complexity. This, in particular, proves a round hierarchy theorem for quantum communication complexity, and implies, via a simple reduction, an Omega(N^{1/k}) lower bound for k message quantum protocols for Set Disjointness for constant k.
+  Enroute, we prove information-theoretic lemmas, and define a related measure of correlation, the informational distance, that we believe may be of significance in other contexts as well.

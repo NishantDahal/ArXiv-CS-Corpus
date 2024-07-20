@@ -1,0 +1,3 @@
+Speaker Clustering With Neural Networks And Audio Processing
+
+Speaker clustering is the task of differentiating speakers in a recording. In a way, the aim is to answer "who spoke when" in audio recordings. A common method used in industry is feature extraction directly from the recording thanks to MFCC features, and by using well-known techniques such as Gaussian Mixture Models (GMM) and Hidden Markov Models (HMM). In this paper, we studied neural networks (especially CNN) followed by clustering and audio processing in the quest to reach similar accuracy to state-of-the-art methods.

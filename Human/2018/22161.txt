@@ -1,0 +1,3 @@
+Direct Sparse Odometry with Rolling Shutter
+
+Neglecting the effects of rolling-shutter cameras for visual odometry (VO) severely degrades accuracy and robustness. In this paper, we propose a novel direct monocular VO method that incorporates a rolling-shutter model. Our approach extends direct sparse odometry which performs direct bundle adjustment of a set of recent keyframe poses and the depths of a sparse set of image points. We estimate the velocity at each keyframe and impose a constant-velocity prior for the optimization. In this way, we obtain a near real-time, accurate direct VO method. Our approach achieves improved results on challenging rolling-shutter sequences over state-of-the-art global-shutter VO.

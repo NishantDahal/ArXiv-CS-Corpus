@@ -1,0 +1,3 @@
+The Effect of Temperature on Amdahl Law in 3D Multicore Era
+
+This work studies the influence of temperature on performance and scalability of 3D Chip Multiprocessors (CMP) from Amdahl law perspective. We find that 3D CMP may reach its thermal limit before reaching its maximum power. We show that a high level of parallelism may lead to high peak temperatures even in small scale 3D CMPs, thus limiting 3D CMP scalability and calling for different, in-memory computing architectures.

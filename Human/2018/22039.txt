@@ -1,0 +1,3 @@
+Data-Flow Guided Slicing
+
+We propose a flow-insensitive analysis that prunes out portions of code which are irrelevant to a specified set of data-flow paths. Our approach is fast and scalable, in addition to being able to generate a certificate as an audit for the computed result. We have implemented our technique in a tool called DSlicer and applied it to a set of 10600 real-world Android applications. Results are conclusive, we found out that the program code can be significantly reduced by 36% on average with respect to a specified set of data leak paths.

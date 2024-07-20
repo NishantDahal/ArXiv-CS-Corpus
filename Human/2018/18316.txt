@@ -1,0 +1,3 @@
+Postselecting probabilistic finite state recognizers and verifiers
+
+In this paper, we investigate the computational and verification power of bounded-error postselecting realtime probabilistic finite state automata (PostPFAs). We show that PostPFAs using rational-valued transitions can do different variants of equality checks and they can verify some nonregular unary languages. Then, we allow them to use real-valued transitions (magic-coins) and show that they can recognize uncountably many binary languages by help of a counter and verify uncountably many unary languages by help of a prover. We also present some corollaries on probabilistic counter automata.

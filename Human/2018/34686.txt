@@ -1,0 +1,3 @@
+Embedding-reparameterization procedure for manifold-valued latent variables in generative models
+
+Conventional prior for Variational Auto-Encoder (VAE) is a Gaussian distribution. Recent works demonstrated that choice of prior distribution affects learning capacity of VAE models. We propose a general technique (embedding-reparameterization procedure, or ER) for introducing arbitrary manifold-valued variables in VAE model. We compare our technique with a conventional VAE on a toy benchmark problem. This is work in progress.

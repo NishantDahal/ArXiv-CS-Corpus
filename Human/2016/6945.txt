@@ -1,0 +1,3 @@
+A Joint Optimization Technique for Multi-Edge Type LDPC Codes
+
+This paper considers the optimization of multi-edge type low-density parity-check (METLDPC) codes to maximize the decoding threshold. We propose an algorithm to jointly optimize the node degree distribution and the multi-edge structure of MET-LDPC codes for given values of the maximum number of edge-types and maximum node degrees. This joint optimization is particularly important for MET-LDPC codes as it is not clear a priori which structures will be good. Using several examples, we demonstrate that the MET-LDPC codes designed by the proposed joint optimization algorithm exhibit improved decoding thresholds compared to previously reported MET-LDPC codes.

@@ -1,0 +1,3 @@
+A model of infant speech perception and learning
+
+Infant speech perception and learning is modeled using Echo State Network classification and Reinforcement Learning. Ambient speech for the modeled infant learner is created using the speech synthesizer Vocaltractlab. An auditory system is trained to recognize vowel sounds from a series of speakers of different anatomies in Vocaltractlab. Having formed perceptual targets, the infant uses Reinforcement Learning to imitate his ambient speech. A possible way of bridging the problem of speaker normalisation is proposed, using direct imitation but also including a caregiver who listens to the infants sounds and imitates those that sound vowel-like.

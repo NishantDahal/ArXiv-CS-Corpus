@@ -1,0 +1,6 @@
+Parameterized Compilation Lower Bounds for Restricted CNF-formulas
+
+We show unconditional parameterized lower bounds in the area of knowledge compilation, more specifically on the size of circuits in decomposable negation normal form (DNNF) that encode CNF-formulas restricted by several graph width measures. In particular, we show that
+  - there are CNF formulas of size $n$ and modular incidence treewidth $k$ whose smallest DNNF-encoding has size $n^{Ω(k)}$, and
+  - there are CNF formulas of size $n$ and incidence neighborhood diversity $k$ whose smallest DNNF-encoding has size $n^{Ω(\sqrt{k})}$.
+  These results complement recent upper bounds for compiling CNF into DNNF and strengthen---quantitatively and qualitatively---known conditional low\-er bounds for cliquewidth. Moreover, they show that, unlike for many graph problems, the parameters considered here behave significantly differently from treewidth.

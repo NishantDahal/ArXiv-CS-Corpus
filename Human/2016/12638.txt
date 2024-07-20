@@ -1,0 +1,3 @@
+Spoofing 2D Face Detection: Machines See People Who Aren't There
+
+Machine learning is increasingly used to make sense of the physical world yet may suffer from adversarial manipulation. We examine the Viola-Jones 2D face detection algorithm to study whether images can be created that humans do not notice as faces yet the algorithm detects as faces. We show that it is possible to construct images that Viola-Jones recognizes as containing faces yet no human would consider a face. Moreover, we show that it is possible to construct images that fool facial detection even when they are printed and then photographed.

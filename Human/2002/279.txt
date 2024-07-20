@@ -1,0 +1,3 @@
+Characterization of Strongly Equivalent Logic Programs in Intermediate Logics
+
+The non-classical, nonmonotonic inference relation associated with the answer set semantics for logic programs gives rise to a relationship of 'strong equivalence' between logical programs that can be verified in 3-valued Goedel logic, G3, the strongest non-classical intermediate propositional logic (Lifschitz, Pearce and Valverde, 2001). In this paper we will show that KC (the logic obtained by adding axiom ~A v ~~A to intuitionistic logic), is the weakest intermediate logic for which strongly equivalent logic programs, in a language allowing negations, are logically equivalent.

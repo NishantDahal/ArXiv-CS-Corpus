@@ -1,0 +1,3 @@
+Impulsive Control for G-AIMD Dynamics with Relaxed and Hard Constraints
+
+Motivated by various applications from Internet congestion control to power control in smart grids and electric vehicle charging, we study Generalized Additive Increase Multiplicative Decrease (G-AIMD) dynamics under impulsive control in continuous time with the time average alpha-fairness criterion. We first show that the control under relaxed constraints can be described by a threshold. Then, we propose a Whittle-type index heuristic for the hard constraint problem. We prove that in the homogeneous case the index policy is asymptotically optimal when the number of users is large.

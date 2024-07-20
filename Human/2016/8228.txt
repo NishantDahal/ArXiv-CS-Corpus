@@ -1,0 +1,4 @@
+Using Sequence Ensembles for Seeding Alignments of MinION Sequencing Data
+
+Oxford Nanopore MinION sequencer is currently the smallest sequencing device available. While being able to produce very long reads (reads of up to 100~kbp were reported), it is prone to high sequencing error rates of up to 30%. Since most of these errors are insertions or deletions, it is very difficult to adapt popular seed-based algorithms designed for aligning data sets with much lower error rates.
+  Base calling of MinION reads is typically done using hidden Markov models. In this paper, we propose to represent each sequencing read by an ensemble of sequences sampled from such a probabilistic model. This approach can improve the sensitivity and false positive rate of seeding an alignment compared to using a single representative base call sequence for each read.

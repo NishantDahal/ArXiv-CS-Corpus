@@ -1,0 +1,3 @@
+Practical Cryptographic Data Integrity Protection with Full Disk Encryption Extended Version
+
+Full Disk Encryption (FDE) has become a widely used security feature. Although FDE can provide confidentiality, it generally does not provide cryptographic data integrity protection. We introduce an algorithm-agnostic solution that provides both data integrity and confidentiality protection at the disk sector layer. Our open-source solution is intended for drives without any special hardware extensions and is based on per-sector metadata fields implemented in software. Our implementation has been included in the Linux kernel since the version 4.12. This is extended version of our article that appears in IFIP SEC 2018 conference proceedings.

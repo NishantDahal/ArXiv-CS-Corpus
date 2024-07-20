@@ -1,0 +1,3 @@
+Bias-variance tradeoff in MIMO channel estimation
+
+Channel estimation is challenging in multi-antenna communication systems, because of the large number of parameters to estimate. It is possible to facilitate this task by using a physical model describing the multiple paths constituting the channel, in the hope of reducing the number of unknowns in the problem. Adjusting the number of estimated paths leads to a bias-variance tradeoff. This paper explores this tradeoff, aiming to find the optimal number of paths to estimate. Moreover, the approach based on a physical model is compared to the classical least squares and Bayesian techniques. Finally, the impact of channel estimation error on the system data rate is assessed.

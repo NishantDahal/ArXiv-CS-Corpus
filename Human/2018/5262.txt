@@ -1,0 +1,3 @@
+Deep Learning Phase Segregation
+
+Phase segregation, the process by which the components of a binary mixture spontaneously separate, is a key process in the evolution and design of many chemical, mechanical, and biological systems. In this work, we present a data-driven approach for the learning, modeling, and prediction of phase segregation. A direct mapping between an initially dispersed, immiscible binary fluid and the equilibrium concentration field is learned by conditional generative convolutional neural networks. Concentration field predictions by the deep learning model conserve phase fraction, correctly predict phase transition, and reproduce area, perimeter, and total free energy distributions up to 98% accuracy.

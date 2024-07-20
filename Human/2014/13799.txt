@@ -1,0 +1,3 @@
+The Statistics of Streaming Sparse Regression
+
+We present a sparse analogue to stochastic gradient descent that is guaranteed to perform well under similar conditions to the lasso. In the linear regression setup with irrepresentable noise features, our algorithm recovers the support set of the optimal parameter vector with high probability, and achieves a statistically quasi-optimal rate of convergence of Op(k log(d)/T), where k is the sparsity of the solution, d is the number of features, and T is the number of training examples. Meanwhile, our algorithm does not require any more computational resources than stochastic gradient descent. In our experiments, we find that our method substantially out-performs existing streaming algorithms on both real and simulated data.

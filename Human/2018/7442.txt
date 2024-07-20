@@ -1,0 +1,3 @@
+An O(n^2) algorithm for Many-To-Many Matching of Points with Demands in One Dimension
+
+Given two point sets S and T, we study the many-to-many matching with demands problem (MMD problem) which is a generalization of the many-to-many matching problem (MM problem). In an MMD, each point of one set must be matched to a given number of the points of the other set (each point has a demand). In this paper we consider a special case of MMD problem, the one-dimensional MMD (OMMD), where the input point sets S and T lie on the line. That is, the cost of matching a pair of points is equal to the distance between the two points. we present the first O(n^2)time algorithm for computing an OMMD between S and T, where |S| + |T| = n.

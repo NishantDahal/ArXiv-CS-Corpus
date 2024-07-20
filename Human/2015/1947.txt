@@ -1,0 +1,3 @@
+OS-level Failure Injection with SystemTap
+
+Failure injection in distributed systems has been an important issue to experiment with robust, resilient distributed systems. In order to reproduce real-life conditions, parts of the application must be killed without letting the operating system close the existing network communications in a "clean" way. When a process is simply killed, the OS closes them. SystemTap is a an infrastructure that probes the Linux kernel's internal calls. If processes are killed at kernel-level, they can be destroyed without letting the OS do anything else. In this paper, we present a kernel-level failure injection system based on SystemTap. We present how it can be used to implement deterministic and probabilistic failure scenarios.

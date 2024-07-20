@@ -1,0 +1,3 @@
+A VEST of the Pseudoinverse Learning Algorithm
+
+In this paper, we briefly review the basic scheme of the pseudoinverse learning (PIL) algorithm and present some discussions on the PIL, as well as its variants. The PIL algorithm, first presented in 1995, is a non-gradient descent and non-iterative learning algorithm for multi-layer neural networks and has several advantages compared with gradient descent based algorithms. Some new viewpoints to PIL algorithm are presented, and several common pitfalls in practical implementation of the neural network learning task are also addressed. In addition, we show that so called extreme learning machine is a Variant crEated by Simple name alTernation (VEST) of the PIL algorithm for single hidden layer feedforward neural networks.

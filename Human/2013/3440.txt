@@ -1,0 +1,3 @@
+New Symbolic Algorithms For Solving A General Bordered Tridiagonal Linear System
+
+In this paper, the author present reliable symbolic algorithms for solving a general bordered tridiagonal linear system. The first algorithm is based on the LU decomposition of the coefficient matrix and the computational cost of it is O(n). The second is based on The Sherman-Morrison-Woodbury formula. The algorithms are implementable to the Computer Algebra System (CAS) such as MAPLE, MATLAB and MATHEMATICA. Three examples are presented for the sake of illustration.

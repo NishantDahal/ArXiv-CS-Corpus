@@ -1,0 +1,3 @@
+Probabilistically Shaped Multi-Level Coding with Polar Codes for Fading Channels
+
+A probabilistic shaping method for multi-level coding (MLC) is presented, where the transmitted symbols are forced to have a shaped non-uniform distribution. It is shown that shaping only a single bit-level suffices to compensate for most of the shaping loss on the fading channels. A polar code based implementation of the proposed scheme is presented, where shaping is performed by using a precoder at the transmitter without increasing the decoding complexity. Simulation results show that performance improvements can be obtained compared to BICM- and MLC-based polar coding without shaping on Rayleigh fading channels.

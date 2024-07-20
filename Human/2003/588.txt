@@ -1,0 +1,4 @@
+The Threshold for Random k-SAT is 2^k ln2 - O(k)
+
+Let F be a random k-SAT formula on n variables, formed by selecting uniformly and independently m = rn out of all possible k-clauses. It is well-known that if r>2^k ln 2, then the formula F is unsatisfiable with probability that tends to 1 as n tends to infinity. We prove that there exists a sequence t_k = O(k) such that if r < 2^k ln 2 - t_k, then the formula F is satisfiable with probability that tends to 1 as n tends to infinity.
+  Our technique yields an explicit lower bound for the random k-SAT threshold for every k. For k>3 this improves upon all previously known lower bounds. For example, when k=10 our lower bound is 704.94 while the upper bound is 708.94.

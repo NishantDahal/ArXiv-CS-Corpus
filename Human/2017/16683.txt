@@ -1,0 +1,3 @@
+Speeding-up ProbLog's Parameter Learning
+
+ProbLog is a state-of-art combination of logic programming and probabilities; in particular ProbLog offers parameter learning through a variant of the EM algorithm. However, the resulting learning algorithm is rather slow, even when the data are complete. In this short paper we offer some insights that lead to orders of magnitude improvements in ProbLog's parameter learning speed with complete data.

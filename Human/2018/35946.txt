@@ -1,0 +1,3 @@
+Parareal Algorithm Implementation and Simulation in Julia
+
+We present a full implementation of the parareal algorithm---an integration technique to solve differential equations in parallel---in the Julia programming language for a fully general, first-order, initial-value problem. We provide a brief overview of Julia---a concurrent programming language for scientific computing. Our implementation of the parareal algorithm accepts both coarse and fine integrators as functional arguments. We use Euler's method and another Runge-Kutta integration technique as the integrators in our experiments. We also present a simulation of the algorithm for purposes of pedagogy and as a tool for investigating the performance of the algorithm.

@@ -1,0 +1,3 @@
+Maximum Distance Sub-Lattice Problem
+
+In this paper, we define a problem on lattices called the Maximum Distance Sub-lattice Problem (MDSP). The decision version of this problem is shown to be in NP. We prove that MDSP is isomorphic to a well-known problem called closest vector problem (CVP). We give an exact and a heuristic algorithm for MDSP. Using experimental results we show that the LLL algorithm can be accelerated when it is combined with the heuristic algorithm for MDSP.

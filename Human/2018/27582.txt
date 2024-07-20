@@ -1,0 +1,3 @@
+Variational Neural Networks: Every Layer and Neuron Can Be Unique
+
+The choice of activation function can significantly influence the performance of neural networks. The lack of guiding principles for the selection of activation function is lamentable. We try to address this issue by introducing our variational neural networks, where the activation function is represented as a linear combination of possible candidate functions, and an optimal activation is obtained via minimization of a loss function using gradient descent method. The gradient formulae for the loss function with respect to these expansion coefficients are central for the implementation of gradient descent algorithm, and here we derive these gradient formulae.

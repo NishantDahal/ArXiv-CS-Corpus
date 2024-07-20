@@ -1,0 +1,3 @@
+Segmentation of Subspaces in Sequential Data
+
+We propose Ordered Subspace Clustering (OSC) to segment data drawn from a sequentially ordered union of subspaces. Similar to Sparse Subspace Clustering (SSC) we formulate the problem as one of finding a sparse representation but include an additional penalty term to take care of sequential data. We test our method on data drawn from infrared hyper spectral, video and motion capture data. Experiments show that our method, OSC, outperforms the state of the art methods: Spatial Subspace Clustering (SpatSC), Low-Rank Representation (LRR) and SSC.

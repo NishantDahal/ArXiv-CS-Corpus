@@ -1,0 +1,4 @@
+Repair-Optimal MDS Array Codes over GF(2)
+
+Maximum-distance separable (MDS) array codes with high rate and an optimal repair property were introduced recently. These codes could be applied in distributed storage systems, where they minimize the communication and disk access required for the recovery of failed nodes. However, the encoding and decoding algorithms of the proposed codes use arithmetic over finite fields of order greater than 2, which could result in a complex implementation.
+  In this work, we present a construction of 2-parity MDS array codes, that allow for optimal repair of a failed information node using XOR operations only. The reduction of the field order is achieved by allowing more parity bits to be updated when a single information bit is being changed by the user.

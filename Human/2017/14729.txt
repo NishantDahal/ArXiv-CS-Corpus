@@ -1,0 +1,3 @@
+Galois connection for multiple-output operations
+
+It is a classical result from universal algebra that the notions of polymorphisms and invariants provide a Galois connection between suitably closed classes (clones) of finitary operations $f\colon B^n\to B$, and classes (coclones) of relations $r\subseteq B^k$. We will present a generalization of this duality to classes of (multi-valued, partial) functions $f\colon B^n\to B^m$, employing invariants valued in partially ordered monoids instead of relations. In particular, our set-up encompasses the case of permutations $f\colon B^n\to B^n$, motivated by problems in reversible computing.

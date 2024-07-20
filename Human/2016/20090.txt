@@ -1,0 +1,3 @@
+Reconfiguring Ordered Bases of a Matroid
+
+For a matroid with an ordered (or "labelled") basis, a basis exchange step removes one element with label $l$ and replaces it by a new element that results in a new basis, and with the new element assigned label $l$. We prove that one labelled basis can be reconfigured to another if and only if for every label, the initial and final elements with that label lie in the same connected component of the matroid. Furthermore, we prove that when the reconfiguration is possible, the number of basis exchange steps required is $O(r^{1.5})$ for a rank $r$ matroid. For a graphic matroid we improve the bound to $O(r \log r)$.

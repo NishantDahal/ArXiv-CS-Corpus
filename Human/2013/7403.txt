@@ -1,0 +1,3 @@
+A Minimal Six-Point Auto-Calibration Algorithm
+
+A non-iterative auto-calibration algorithm is presented. It deals with a minimal set of six scene points in three views taken by a camera with fixed but unknown intrinsic parameters. Calibration is based on the image correspondences only. The algorithm is implemented and validated on synthetic image data.

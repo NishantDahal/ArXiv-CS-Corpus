@@ -1,0 +1,3 @@
+Connected greedy colouring in claw-free graphs
+
+An ordering of the vertices of a graph is \emph{connected} if every vertex (but the first) has a neighbor among its predecessors. The greedy colouring algorithm of a graph with a connected order consists in taking the vertices in order, and assigning to each vertex the smallest available colour. A graph is \emph{good} if the greedy algorithm on every connected order gives every connected induced subgraph of it an optimal colouring. We give the characterization of good claw-free graphs in terms of minimal forbidden induced subgraphs.

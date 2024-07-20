@@ -1,0 +1,3 @@
+Tools for Analyzing Parallel I/O
+
+Parallel application I/O performance often does not meet user expectations. Additionally, slight access pattern modifications may lead to significant changes in performance due to complex interactions between hardware and software. These challenges call for sophisticated tools to capture, analyze, understand, and tune application I/O. In this paper, we highlight advances in monitoring tools to help address this problem. We also describe best practices, identify issues in measurement and analysis, and provide practical approaches to translate parallel I/O analysis into actionable outcomes for users, facility operators, and researchers.

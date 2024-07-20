@@ -1,0 +1,3 @@
+MSE-optimal 1-bit Precoding for Multiuser MIMO via Branch and Bound
+
+In this paper, we solve the sum mean-squared error (MSE)-optimal 1-bit quantized precoding problem exactly for small-to-moderate sized multiuser multiple-input multiple-output (MU-MIMO) systems via branch and bound. To this end, we reformulate the original NP-hard precoding problem as a tree search and deploy a number of strategies that improve the pruning efficiency without sacrificing optimality. We evaluate the error-rate performance and the complexity of the resulting 1-bit branch-and-bound (BB-1) precoder, and compare its efficacy to that of existing, suboptimal algorithms for 1-bit precoding in MU-MIMO systems.

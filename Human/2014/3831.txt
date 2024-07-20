@@ -1,0 +1,3 @@
+FPGA design of a cdma2000 turbo decoder
+
+This paper presents the FPGA hardware design of a turbo decoder for the cdma2000 standard. The work includes a study and mathematical analysis of the turbo decoding process, based on the MAX-Log-MAP algorithm. Results of decoding for a packet size of two hundred fifty bits are presented, as well as an analysis of area versus performance, and the key variables for hardware design in turbo decoding.

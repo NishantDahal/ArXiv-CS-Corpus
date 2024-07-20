@@ -1,0 +1,3 @@
+Compaction of Church Numerals for Higher-Order Compression
+
+In this study, we address the problem of compacting Church numerals. Church numerals appear as a representation of the repetitive part of data in higher-order compression. We propose a novel decomposition scheme for a natural number using tetration, which leads to a compact representation of $λ$-terms equivalent to the original Church numerals. For natural number $n$, we prove that the size of the $λ$-term obtained by the proposed method is $O(({\rm slog}_{2}n)^{\log n/ \log \log n})$. Moreover, we quantitatively confirmed experimentally that the proposed method outperforms a binary expression of Church numerals when $n$ is less than approximately 10000.

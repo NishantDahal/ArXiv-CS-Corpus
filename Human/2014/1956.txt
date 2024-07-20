@@ -1,0 +1,3 @@
+PTIME Computation of Transitive Closures of Octagonal Relations
+
+Computing transitive closures of integer relations is the key to finding precise invariants of integer programs. In this paper, we study difference bounds and octagonal relations and prove that their transitive closure is a PTIME-computable formula in the existential fragment of Presburger arithmetic. This result marks a significant complexity improvement, as the known algorithms have EXPTIME worst case complexity.

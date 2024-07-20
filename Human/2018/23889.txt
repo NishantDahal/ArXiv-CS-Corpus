@@ -1,0 +1,3 @@
+MASON: A Model AgnoStic ObjectNess Framework
+
+This paper proposes a simple, yet very effective method to localize dominant foreground objects in an image, to pixel-level precision. The proposed method 'MASON' (Model-AgnoStic ObjectNess) uses a deep convolutional network to generate category-independent and model-agnostic heat maps for any image. The network is not explicitly trained for the task, and hence, can be used off-the-shelf in tandem with any other network or task. We show that this framework scales to a wide variety of images, and illustrate the effectiveness of MASON in three varied application contexts.

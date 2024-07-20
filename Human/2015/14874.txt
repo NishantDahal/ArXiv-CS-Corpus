@@ -1,0 +1,3 @@
+The Bounded Edge Coloring Problem and Offline Crossbar Scheduling
+
+This paper introduces a variant of the classical edge coloring problem in graphs that can be applied to an offline scheduling problem for crossbar switches. We show that the problem is NP-complete, develop three lower bounds bounds on the optimal solution value and evaluate the performance of several approximation algorithms, both analytically and experimentally. We show how to approximate an optimal solution with a worst-case performance ratio of $3/2$ and our experimental results demonstrate that the best algorithms produce results that very closely track a lower bound.

@@ -1,0 +1,3 @@
+Searching for Spaceships
+
+We describe software that searches for spaceships in Conway's Game of Life and related two-dimensional cellular automata. Our program searches through a state space related to the de Bruijn graph of the automaton, using a method that combines features of breadth first and iterative deepening search, and includes fast bit-parallel graph reachability and path enumeration algorithms for finding the successors of each state. Successful results include a new 2c/7 spaceship in Life, found by searching a space with 2^126 states.

@@ -1,0 +1,3 @@
+Geometric Jacobians Derivation and Kinematic Singularity Analysis for Smokie Robot Manipulator & the Barrett WAM
+
+This paper discusses deriving geometric jacobians and identifying and analyzing the kinematic singularities for two 6 DOF arm robots. First we show the direct kinematics and D-H parameters derived for these two arms. The Geometric jacobian is computed for Barrett WAM and Smokie OUR. By analyzing the jacobian matrices we find the configurations at which J is rank deficient and derive the kinematic singularities through jacobian's determinent. Schematic are provided to show the singular configurations of both robots. Finally a survey is done on redundant kinematic allocation schemesfor 7 DoF Barrett WAM.

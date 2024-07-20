@@ -1,0 +1,4 @@
+TheoryGuru: A Mathematica Package to apply Quantifier Elimination
+
+We consider the use of Quantifier Elimination (QE) technology for automated reasoning in economics. There is a great body of work considering QE applications in science and engineering but we demonstrate here that it also has use in the social sciences. We explain how many suggested theorems in economics could either be proven, or even have their hypotheses shown to be inconsistent, automatically via QE.
+  However, economists who this technology could benefit are usually unfamiliar with QE, and the use of mathematical software generally. This motivated the development of a Mathematica Package TheoryGuru, whose purpose is to lower the costs of applying QE to economics. We describe the package's functionality and give examples of its use.

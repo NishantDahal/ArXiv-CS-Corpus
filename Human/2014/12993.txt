@@ -1,0 +1,4 @@
+Notes on space complexity of integration of computable real functions in Ko-Friedman model
+
+In the present paper it is shown that real function $g(x)=\int_{0}^{x}f(t)dt$ is a linear-space computable real function on interval $[0,1]$ if $f$ is a linear-space computable $C^2[0,1]$ real function on interval $[0,1]$, and this result does not depend on any open question in the computational complexity theory. The time complexity of computable real functions and integration of computable real functions is considered in the context of Ko-Friedman model which is based on the notion of Cauchy functions computable by Turing machines.
+  In addition, a real computable function $f$ is given such that $\int_{0}^{1}f\in FDSPACE(n^2)_{C[a,b]}$ but $\int_{0}^{1}f\notin FP_{C[a,b]}$ if $FP\ne#P$.

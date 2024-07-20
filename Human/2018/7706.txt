@@ -1,0 +1,4 @@
+Concurrent games and semi-random determinacy
+
+Consider concurrent, infinite duration, two-player win/lose games played on graphs. If the winning condition satisfies some simple requirement, the existence of Player 1 winning (finite-memory) strategies is equivalent to the existence of winning (finite-memory) strategies in finitely many derived one-player games. Several classical winning conditions satisfy this simple requirement.
+  Under an additional requirement on the winning condition, the non-existence of Player 1 winning strategies from all vertices is equivalent to the existence of Player 2 stochastic strategies winning almost surely from all vertices. Only few classical winning conditions satisfy this additional requirement, but a fairness variant of o

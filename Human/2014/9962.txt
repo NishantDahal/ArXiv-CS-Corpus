@@ -1,0 +1,3 @@
+Finite Automata With Restricted Two-Way Motion
+
+We consider finite two-way automata and measure the use of two-way motion by counting the number of left moves in accepting computations. Restriction of the automata according to this measure allows us to study in detail the use of two-way motion for the acceptance of regular languages in terms of state complexity. The two-way spectrum of a given regular language is introduced. This quantity reflects the change of size of minimal accepting devices if the use of two-way motion is increased incrementally. We give examples for spectra, prove uniform upper and lower bounds and study their sharpness. We also have state complexity results for two-way automata with uniformly bounded use of two-way motion.

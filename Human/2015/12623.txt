@@ -1,0 +1,3 @@
+Fast graph operations in quantum computation
+
+The connection between certain entangled states and graphs has been heavily studied in the context of measurement-based quantum computation as a tool for understanding entanglement. Here we show that this correspondence can be harnessed in the reverse direction to yield a graph data structure which allows for more efficient manipulation and comparison of graphs than any possible classical structure. We introduce efficient algorithms for many transformation and comparison operations on graphs represented as graph states, and prove that no classical data structure can have similar performance for the full set of operations studied.

@@ -1,0 +1,3 @@
+Evolution of Convolutional Highway Networks
+
+Convolutional highways are deep networks based on multiple stacked convolutional layers for feature preprocessing. We introduce an evolutionary algorithm (EA) for optimization of the structure and hyperparameters of convolutional highways and demonstrate the potential of this optimization setting on the well-known MNIST data set. The (1+1)-EA employs Rechenberg's mutation rate control and a niching mechanism to overcome local optima adapts the optimization approach. An experimental study shows that the EA is capable of improving the state-of-the-art network contribution and of evolving highway networks from scratch.

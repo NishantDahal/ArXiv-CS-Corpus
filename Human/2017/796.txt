@@ -1,0 +1,4 @@
+An Introduction to Liquid Haskell
+
+This paper is a tutorial introducing the underlying technology and the use of the tool Liquid Haskell, a type-checker for the functional language Haskell that can help programmers to verify non-trivial properties of their programs with a low effort.
+  The first sections introduce the technology of Liquid Types by explaining its principles and summarizing how its type inference algorithm manages to prove properties. The remaining sections present a selection of Haskell examples and show the kind of properties that can be proved with the system. 

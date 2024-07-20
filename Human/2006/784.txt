@@ -1,0 +1,3 @@
+The one-way communication complexity of the Boolean Hidden Matching Problem
+
+We give a tight lower bound of Omega(\sqrt{n}) for the randomized one-way communication complexity of the Boolean Hidden Matching Problem [BJK04]. Since there is a quantum one-way communication complexity protocol of O(\log n) qubits for this problem, we obtain an exponential separation of quantum and classical one-way communication complexity for partial functions. A similar result was independently obtained by Gavinsky, Kempe, de Wolf [GKdW06]. Our lower bound is obtained by Fourier analysis, using the Fourier coefficients inequality of Kahn Kalai and Linial [KKL88].

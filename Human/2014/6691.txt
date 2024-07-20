@@ -1,0 +1,3 @@
+Some Ideas for Program Verifier Tactics
+
+A program verifier is a tool that can be used to verify that a "contract" for a program holds - i.e. given a precondition the program guarantees that a given postcondition holds - by only working at the level of the annotated program. An alternative approach is to use an interactive theorem prover, which enables users to encode common proof patterns as special programs called "tactics". This offers more flexibility than program verifiers, but at the expense of skills required by the user. Here, we add such flexibility to program verifiers by developing "tactics" as a form of program refactoring called DTacs. A formal characterisation and set of examples are given, illustrated with a case study from NASA.

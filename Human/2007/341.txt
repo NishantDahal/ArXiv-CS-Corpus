@@ -1,0 +1,4 @@
+Quantum Key Distribution with Classical Bob
+
+Secure key distribution among two remote parties is impossible when both are classical, unless some unproven (and arguably unrealistic) computation-complexity assumptions are made, such as the difficulty of factorizing large numbers. On the other hand, a secure key distribution is possible when both parties are quantum.
+  What is possible when only one party (Alice) is quantum, yet the other (Bob) has only classical capabilities? We present a protocol with this constraint, and prove its robustness against attacks: we prove that any attempt of an adversary to obtain information (and even a tiny amount of information) necessarily induces some errors that the legitimate users could notice.

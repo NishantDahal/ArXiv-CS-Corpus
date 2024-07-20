@@ -1,0 +1,3 @@
+On the Turing model complexity of interior point methods for semidefinite programming
+
+It is known that one can solve semidefinite programs to within fixed accuracy in polynomial time using the ellipsoid method (under some assumptions). In this paper it is shown that the same holds true when one uses the short-step, primal interior point method. The main idea of the proof is to employ Diophantine approximation at each iteration to bound the intermediate bit-sizes of iterates.

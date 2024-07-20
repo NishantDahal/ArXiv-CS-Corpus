@@ -1,0 +1,3 @@
+Split-by-edges trees
+
+A split-by-edges tree of a graph G on n vertices is a binary tree T where the root = V(G), every leaf is an independent set in G, and for every other node N in T with children L and R there is a pair of vertices {u, v} in N such that L = N - v, R = N - u, and uv is an edge in G. It follows from the definition that every maximal independent set in G is a leaf in T, and the maximum independent sets of G are the leaves closest to the root of T.

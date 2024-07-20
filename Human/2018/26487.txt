@@ -1,0 +1,3 @@
+Application of Clustering Methods to Anomaly Detection in Fibrous Media
+
+The paper considers the problem of anomaly detection in 3D images of fibre materials. The spatial Stochastic Expectation Maximisation algorithm and Adaptive Weights Clustering are applied to solve this problem. The initial 3D grey scale image was divided into small cubes subject to clustering. For each cube clustering attributes values were calculated: mean local direction and directional entropy. Clustering is conducted according to the given attributes. The proposed methods are tested on the simulated images and on real fibre materials.

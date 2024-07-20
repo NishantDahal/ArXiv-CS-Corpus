@@ -1,0 +1,3 @@
+Vision-based Robotic Arm Imitation by Human Gesture
+
+One of the most efficient ways for a learning-based robotic arm to learn to process complex tasks as human, is to directly learn from observing how human complete those tasks, and then imitate. Our idea is based on success of Deep Q-Learning (DQN) algorithm according to reinforcement learning, and then extend to Deep Deterministic Policy Gradient (DDPG) algorithm. We developed a learning-based method, combining modified DDPG and visual imitation network. Our approach acquires frames only from a monocular camera, and no need to either construct a 3D environment or generate actual points. The result we expected during training, was that robot would be able to move as almost the same as how human hands did.

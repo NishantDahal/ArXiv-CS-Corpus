@@ -1,0 +1,3 @@
+Analogy and duality between random channel coding and lossy source coding
+
+Here we write in a unified fashion (using "R(P, Q, D)") the random coding exponents in channel coding and lossy source coding. We derive their explicit forms and show, that, for a given random codebook distribution Q, the channel decoding error exponent can be viewed as an encoding success exponent in lossy source coding, and the channel correct-decoding exponent can be viewed as an encoding failure exponent in lossy source coding. We then extend the channel exponents to arbitrary D, which corresponds for D > 0 to erasure decoding and for D < 0 to list decoding. For comparison, we also derive the exact random coding exponent for Forney's optimum tradeoff decoder.

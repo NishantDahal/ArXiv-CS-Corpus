@@ -1,0 +1,3 @@
+Simultaneous Receding Horizon Estimation and Control of a Fencing Robot using a Single Camera
+
+We present a method for simultaneous Receding Horizon Estimation and Control of a robotic arm equipped with a sword in an adversarial situation. Using a single camera mounted on the arm, we solve the problem of blocking a opponent's sword with the robot's sword. Our algorithm uses model-based sensing to estimate the opponent's intentions from the camera's observations, while it simultaneously applies a control action to both block the opponent's sword and improve future camera observations.

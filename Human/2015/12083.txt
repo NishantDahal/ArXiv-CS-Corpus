@@ -1,0 +1,3 @@
+A Note On One Realization of a Scalable Shor Algorithm
+
+Very recently, Monz, et al. [arXiv:1507.08852] have reported the demonstration of factoring 15 using a scalable Shor algorithm with an ion-trap quantum computer. In this note, we remark that the report is somewhat misleading because there are three flaws in the proposed circuit diagram of Shor algorithm. We also remark that the principles behind the demonstration have not been explained properly, including its correctness and complexity.

@@ -1,0 +1,3 @@
+A proof of security for a key-policy RS-ABE scheme
+
+A revocable-storage attribute-based encryption (RS-ABE) scheme is an encryption scheme which extends attribute-based encryption by intro- ducing user revocation. A key-policy RS-ABE scheme links each key to an access structure. We propose a new key-policy RS-ABE scheme whose security we prove in term of indistinguishability under a chosen-plaintext attack (IND-CPA).

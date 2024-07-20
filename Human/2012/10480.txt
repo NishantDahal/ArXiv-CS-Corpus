@@ -1,0 +1,3 @@
+Semantics and Security Issues in JavaScript
+
+There is a plethora of research articles describing the deep semantics of JavaScript. Nevertheless, such articles are often difficult to grasp for readers not familiar with formal semantics. In this report, we propose a digest of the semantics of JavaScript centered around security concerns. This document proposes an overview of the JavaScript language and the misleading semantic points in its design. The first part of the document describes the main characteristics of the language itself. The second part presents how those characteristics can lead to problems. It finishes by showing some coding patterns to avoid certain traps and presents some ECMAScript 5 new features.

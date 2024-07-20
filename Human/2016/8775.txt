@@ -1,0 +1,3 @@
+A 0.3-2.6 TOPS/W Precision-Scalable Processor for Real-Time Large-Scale ConvNets
+
+A low-power precision-scalable processor for ConvNets or convolutional neural networks (CNN) is implemented in a 40nm technology. Its 256 parallel processing units achieve a peak 102GOPS running at 204MHz. To minimize energy consumption while maintaining throughput, this works is the first to both exploit the sparsity of convolutions and to implement dynamic precision-scalability enabling supply- and energy scaling. The processor is fully C-programmable, consumes 25-288mW at 204 MHz and scales efficiency from 0.3-2.6 real TOPS/W. This system hereby outperforms the state-of-the-art up to 3.9x in energy efficiency.

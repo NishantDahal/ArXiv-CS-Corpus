@@ -1,0 +1,3 @@
+A presentation of general multipersistence modules computable in polynomial time?
+
+Multipersistence homology modules were introduced by G.Carlsson and A.Zomorodian which gave, together with G.Singh, an algorithm to compute their Groebner bases. Although their algorithm has polynomial complexity when the chain modules are free, i.e. in the one-critical case, it might be exponential in general. We give a new presentation of multipersistence homology modules, which allows us to design an algorithm to compute their Groebner bases always in polynomial time by avoiding the mapping telescope.

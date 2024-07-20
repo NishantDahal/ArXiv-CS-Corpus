@@ -1,0 +1,3 @@
+Use of openMosix for parallel I/O balancing on storage in Linux cluster
+
+In this paper I present some experiences made in the matter of I/O for Linux Clustering. In particular is illustrated the use of the package openMosix, a balancer of workload for processes running in a cluster of nodes. I describe some tests for balancing the load of I/O storage massive processes in a cluster with four components. This work is been written for the proceedings of the workshop Linux cluster: the openMosix approach held at CINECA, Bologna, Italy, on 28 november 2002.

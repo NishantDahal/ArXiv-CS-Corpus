@@ -1,0 +1,3 @@
+Impacts of Bad Data on the PMU based Line Outage Detection
+
+Power systems become more prone to cyber-attacks due to the high integration of information technologies. In this paper, we demonstrate that the outages of some lines can be masked by injecting false data into a set of measurements. The success of the topology attack can be guaranteed by making that: 1)the injected false data obeys KCL and KVL to avoid being detected by the bad data detection program in the state estimation; 2)the residual is increased such that the line outage cannot be detected by PMU data. A quadratic programming problem is set up to determine the optimal attack vector that can maximize the residual of the outaged line. The IEEE 39-bus system is used to demonstrate the masking scheme.

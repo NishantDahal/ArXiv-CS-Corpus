@@ -1,0 +1,3 @@
+Receiving Pseudorandom PSK
+
+Pseudorandom PSK [1] enables parallel communication on the same carrier frequency and at the same time. We propose different signal processing methods to receive data modulated with pseudorandom PSK. This includes correlation with the carrier frequency which can be applied to signals in the kHz to MHz range and signal processing in the intermediate frequency where the correlation with the carrier frequency is performed analogous in the RF front end. We analyze the computation complexity for signal processing with the parameters of symbol length $T$ and number of repetitions of each symbol $K$ with pseudorandom PSK and show that the number of operations for each sampling point is $Θ\left(K\right)$.

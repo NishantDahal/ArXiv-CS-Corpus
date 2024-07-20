@@ -1,0 +1,3 @@
+The Ciona17 Dataset for Semantic Segmentation of Invasive Species in a Marine Aquaculture Environment
+
+An original dataset for semantic segmentation, Ciona17, is introduced, which to the best of the authors' knowledge, is the first dataset of its kind with pixel-level annotations pertaining to invasive species in a marine environment. Diverse outdoor illumination, a range of object shapes, colour, and severe occlusion provide a significant real world challenge for the computer vision community. An accompanying ground-truthing tool for superpixel labeling, Truth and Crop, is also introduced. Finally, we provide a baseline using a variant of Fully Convolutional Networks, and report results in terms of the standard mean intersection over union (mIoU) metric.

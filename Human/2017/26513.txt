@@ -1,0 +1,3 @@
+Statistical and computational phase transitions in spiked tensor estimation
+
+We consider tensor factorizations using a generative model and a Bayesian approach. We compute rigorously the mutual information, the Minimal Mean Squared Error (MMSE), and unveil information-theoretic phase transitions. In addition, we study the performance of Approximate Message Passing (AMP) and show that it achieves the MMSE for a large set of parameters, and that factorization is algorithmically "easy" in a much wider region than previously believed. It exists, however, a "hard" region where AMP fails to reach the MMSE and we conjecture that no polynomial algorithm will improve on AMP.

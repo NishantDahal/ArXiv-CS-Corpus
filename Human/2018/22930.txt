@@ -1,0 +1,3 @@
+Fast exact algorithms for some connectivity problems parametrized by clique-width
+
+Given a clique-width $k$-expression of a graph $G$, we provide $2^{O(k)}\cdot n$ time algorithms for connectivity constraints on locally checkable properties such as Node-Weighted Steiner Tree, Connected Dominating Set, or Connected Vertex Cover. We also propose a $2^{O(k)}\cdot n$ time algorithm for Feedback Vertex Set. The best running times for all the considered cases were either $2^{O(k\cdot \log(k))}\cdot n^{O(1)}$ or worse.

@@ -1,0 +1,3 @@
+Robust Recovery of Positive Stream of Pulses
+
+The problem of estimating the delays and amplitudes of a positive stream of pulses appears in many applications, such as single-molecule microscopy. This paper suggests estimating the delays and amplitudes using a convex program, which is robust in the presence of noise (or model mismatch). Particularly, the recovery error is proportional to the noise level. We further show that the error grows exponentially with the density of the delays and also depends on the localization properties of the pulse.

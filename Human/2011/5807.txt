@@ -1,0 +1,4 @@
+Types for X10 Clocks
+
+X10 is a modern language built from the ground up to handle future parallel systems, from multicore machines to cluster configurations. We take a closer look at a pair of synchronisation mechanisms: finish and clocks. The former waits for the termination of parallel computations, the latter allow multiple concurrent activities to wait for each other at certain points in time. In order to better understand these concepts we study a type system for a stripped down version of X10. The main result assures that well typed programs do not run into the errors identified in the X10 language reference, namely the ClockUseException. The study will open, we hope, doors to a more flexible utilisation of clocks in the X10 language.
+

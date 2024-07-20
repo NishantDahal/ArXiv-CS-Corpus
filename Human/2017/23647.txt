@@ -1,0 +1,3 @@
+The Potential and Challenges of CAD with Equational Constraints for SC-Square
+
+Cylindrical algebraic decomposition (CAD) is a core algorithm within Symbolic Computation, particularly for quantifier elimination over the reals and polynomial systems solving more generally. It is now finding increased application as a decision procedure for Satisfiability Modulo Theories (SMT) solvers when working with non-linear real arithmetic. We discuss the potentials from increased focus on the logical structure of the input brought by the SMT applications and SC-Square project, particularly the presence of equational constraints. We also highlight the challenges for exploiting these: primitivity restrictions, well-orientedness questions, and the prospect of incrementality.

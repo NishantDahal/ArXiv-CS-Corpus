@@ -1,0 +1,3 @@
+Vision-aided Localization and Navigation Based on Trifocal Tensor
+
+In this paper, a novel method for vision-aided navigation based on trifocal tensor is presented. The main goal of the proposed method is to provide position estimation in GPS-denied environments for vehicles equipped with a standard inertial navigation systems(INS) and a single camera only. We treat the trifocal tensor as the measurement model, being only concerned about the vehicle state and do not estimate the the position of the tracked landmarks. The performance of the proposed method is demonstrated using simulation and experimental data.

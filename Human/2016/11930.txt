@@ -1,0 +1,3 @@
+Fine Hand Segmentation using Convolutional Neural Networks
+
+We propose a method for extracting very accurate masks of hands in egocentric views. Our method is based on a novel Deep Learning architecture: In contrast with current Deep Learning methods, we do not use upscaling layers applied to a low-dimensional representation of the input image. Instead, we extract features with convolutional layers and map them directly to a segmentation mask with a fully connected layer. We show that this approach, when applied in a multi-scale fashion, is both accurate and efficient enough for real-time. We demonstrate it on a new dataset made of images captured in various environments, from the outdoors to offices.

@@ -1,0 +1,3 @@
+Hybrid Parallel Bidirectional Sieve based on SMP Cluster
+
+In this article, hybrid parallel bidirectional sieve method is implemented by SMP Cluster, the individual computational units joined together by the communication network, are usually shared-memory systems with one or more multicore processor. To high-efficiency optimization, we propose average divide data into nodes, generating double-ended queues (deque) for sieve method that are able to exploit dual-cores simultaneously start sifting out primes from the head and tail.And each node create a FIFO queue as dynamic data buffer to ache temporary data from another nodes send to. The approach obtains huge speedup and efficiency on SMP Cluster.

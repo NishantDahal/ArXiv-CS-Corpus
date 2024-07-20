@@ -1,0 +1,10 @@
+Graphs, Disjoint Matchings and Some Inequalities
+
+For $k \geq 1$ and a graph $G$ let $ν_k(G)$ denote the size of a maximum $k$-edge-colorable subgraph of $G$. Mkrtchyan, Petrosyan and Vardanyan proved that $ν_2(G)\geq \frac45\cdot |V(G)|$, $ν_3(G)\geq \frac76\cdot |V(G)|$ for any cubic graph $G$ ~\cite{samvel:2010}. They were also able to show that if $G$ is a cubic graph, then $ν_2(G)+ν_3(G)\geq 2\cdot |V(G)|$ ~\cite{samvel:2014} and $ν_2(G) \leq \frac{|V(G)| + 2\cdot ν_3(G)}{4}$ ~\cite{samvel:2010}. In the first part of the present work, we show that the last two inequalities imply the first two of them.
+  Moreover, we show that $ν_2(G) \geq α\cdot \frac{|V(G)| + 2\cdot ν_3(G)}{4} $, where
+  $α=\frac{16}{17}$, if $G$ is a cubic graph,
+  $α=\frac{20}{21}$, if $G$ is a cubic graph containing a perfect matching,
+  $α=\frac{44}{45}$, if $G$ is a bridgeless cubic graph.
+  We also investigate the parameters $ν_2(G)$ and $ν_3(G)$ in the class of claw-free cubic graphs. We improve the lower bounds for $ν_2(G)$ and $ν_3(G)$ for claw-free bridgeless cubic graphs to $ν_2(G)\geq \frac{35}{36}\cdot |V(G)|$
+  ($n \geq 48$), $ν_3(G)\geq \frac{43}{45}\cdot |E(G)|$. On the basis of these inequalities we are able to improve the coefficient $α$ for bridgeless claw-free cubic graphs.
+  In the second part of the work, we prove lower bounds for $ν_k(G)$ in terms of $\frac{ν_{k-1}(G)+ν_{k+1}(G)}{2}$ for $k\geq 2$ and graphs $G$ containing at most $1$ cycle. We also present the corresponding conjectures for bipartite and nearly bipartite graphs.

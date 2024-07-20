@@ -1,0 +1,3 @@
+Improved Neural Text Attribute Transfer with Non-parallel Data
+
+Text attribute transfer using non-parallel data requires methods that can perform disentanglement of content and linguistic attributes. In this work, we propose multiple improvements over the existing approaches that enable the encoder-decoder framework to cope with the text attribute transfer from non-parallel data. We perform experiments on the sentiment transfer task using two datasets. For both datasets, our proposed method outperforms a strong baseline in two of the three employed evaluation metrics.

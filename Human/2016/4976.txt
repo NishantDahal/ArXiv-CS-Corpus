@@ -1,0 +1,5 @@
+Complexity Dichotomies for Unweighted Scoring Rules
+
+Scoring systems are an extremely important class of election systems. We study the complexity of manipulation, constructive control by deleting voters (CCDV), and bribery for scoring systems.
+  For manipulation, we show that for all scoring rules with a constant number of different coefficients, manipulation is in P. And we conjecture that there is no dichotomy theorem.
+  On the other hand, we obtain dichotomy theorems for CCDV and bribery problem. More precisely, we show that both of these problems are easy for 1-approval, 2-approval, 1-veto, 2-veto, 3-veto, generalized 2-veto, and (2,1,...,1,0), and hard in all other cases. These results are the "dual" of the dichotomy theorem for the constructive control by adding voters (CCAV) problem from (Hemaspaandra, Hemaspaandra, Schnoor, AAAI 2014), but do not at all follow from that result. In particular, proving hardness for CCDV is harder than for CCAV since we do not have control over what the controller can delete, and proving easiness for bribery tends to be harder than for control, since bribery can be viewed as control followed by manipulation.

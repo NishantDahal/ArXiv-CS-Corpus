@@ -1,0 +1,3 @@
+Consistently Orienting Facets in Polygon Meshes by Minimizing the Dirichlet Energy of Generalized Winding Numbers
+
+Jacobson et al. [JKSH13] hypothesized that the local coherency of the generalized winding number function could be used to correctly determine consistent facet orientations in polygon meshes. We report on an approach to consistently orienting facets in polygon meshes by minimizing the Dirichlet energy of generalized winding numbers. While the energy can be concisely formulated and efficiently computed, we found that this approach is fundamentally flawed and is unfortunately not applicable for most handmade meshes shared on popular mesh repositories such as Google 3D Warehouse.

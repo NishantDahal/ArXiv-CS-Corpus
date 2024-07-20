@@ -1,0 +1,3 @@
+Efficient Mendler-Style Lambda-Encodings in Cedille
+
+It is common to model inductive datatypes as least fixed points of functors. We show that within the Cedille type theory we can relax functoriality constraints and generically derive an induction principle for Mendler-style lambda-encoded inductive datatypes, which arise as least fixed points of covariant schemes where the morphism lifting is defined only on identities. Additionally, we implement a destructor for these lambda-encodings that runs in constant-time. As a result, we can define lambda-encoded natural numbers with an induction principle and a constant-time predecessor function so that the normal form of a numeral requires only linear space. The paper also includes several more advanced examples.

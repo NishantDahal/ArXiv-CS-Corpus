@@ -1,0 +1,3 @@
+Deformable Modeling for Human Body Acquired from Depth Sensors
+
+This paper presents a novel approach to reconstruct complete 3D deformable models over time by a single depth camera. These are the steps employed for deforming objects from single depth camera. The partial surfaces reconstructed from various times of capture are assembled together to form a complete 3D surface. A mesh warping algorithm is used to align different partial surfaces based on linear mesh deformation. A volumetric method is then applied to combine partial surfaces, fix missing holes and smooth alignment errors.

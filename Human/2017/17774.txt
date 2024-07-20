@@ -1,0 +1,3 @@
+A new indexed approach to render the attractors of Kleinian groups
+
+One widespread procedure to render the attractor of Kleinian groups, published in the renown book "Indra's Pearls" and based upon a combinatorial tree model, wants huge memory resources to compute and store all the words required. We will present here a new faster and lighter version which drops the original words array and pulls out words from integer numbers.

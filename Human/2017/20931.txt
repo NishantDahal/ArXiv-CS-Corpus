@@ -1,0 +1,3 @@
+Rybu: Imperative-style Preprocessor for Verification of Distributed Systems in the Dedan Environment
+
+Integrated Model of Distributed Systems (IMDS) is developed for specification and verification of distributed systems, and verification against deadlocks. On the basis of IMDS, Dedan verification environment was prepared. Universal deadlock detection formulas allow for automatic verification, without any knowledge of a temporal logic, which simplifies the verification process. However, the input language, following the rules of IMDS, seems to be exotic for many users. For this reason Rybu preprocessor was created. Its purpose is to build large models in imperative-style language, on much higher abstraction level.

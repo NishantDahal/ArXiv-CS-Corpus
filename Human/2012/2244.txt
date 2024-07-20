@@ -1,0 +1,3 @@
+Resolving Implementation Ambiguity and Improving SURF
+
+Speeded Up Robust Features (SURF) has emerged as one of the more popular feature descriptors and detectors in recent years. Performance and algorithmic details vary widely between implementations due to SURF's complexity and ambiguities found in its description. To resolve these ambiguities, a set of general techniques for feature stability is defined based on the smoothness rule. Additional improvements to SURF are proposed for speed and stability. To illustrate the importance of these implementation details, a performance study of popular SURF implementations is done. By utilizing all the suggested improvements, it is possible to create a SURF implementation that is several times faster and more stable.

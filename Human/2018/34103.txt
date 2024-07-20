@@ -1,0 +1,3 @@
+Inter-sentence Relation Extraction for Associating Biological Context with Events in Biomedical Texts
+
+We present an analysis of the problem of identifying biological context and associating it with biochemical events in biomedical texts. This constitutes a non-trivial, inter-sentential relation extraction task. We focus on biological context as descriptions of the species, tissue type and cell type that are associated with biochemical events. We describe the properties of an annotated corpus of context-event relations and present and evaluate several classifiers for context-event association trained on syntactic, distance and frequency features.

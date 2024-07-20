@@ -1,0 +1,3 @@
+The Number of Hierarchical Orderings
+
+An ordered set-partition (or preferential arrangement) of n labeled elements represents a single ``hierarchy''; these are enumerated by the ordered Bell numbers. In this note we determine the number of ``hierarchical orderings'' or ``societies'', where the n elements are first partitioned into m <= n subsets and a hierarchy is specified for each subset. We also consider the unlabeled case, where the ordered Bell numbers are replaced by the composition numbers. If there is only a single hierarchy, we show that the average rank of an element is asymptotic to n/(4 log 2) in the labeled case and to n/4 in the unlabeled case.

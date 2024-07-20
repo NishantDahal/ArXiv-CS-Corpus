@@ -1,0 +1,4 @@
+Some Bounds on Binary LCD Codes
+
+A linear code with a complementary dual (or LCD code) is defined to be a linear code $C$ whose dual code $C^{\perp}$ satisfies $C \cap C^{\perp}$= $\left\{ \mathbf{0}\right\} $. Let $LCD{[}n,k{]}$ denote the maximum of possible values of $d$ among $[n,k,d]$ binary LCD codes. We give exact values of $LCD{[}n,k{]}$ for $1 \le k \le n \le 12$.
+  We also show that $LCD[n,n-i]=2$ for any $i\geq2$ and $n\geq2^{i}$. Furthermore, we show that $LCD[n,k]\leq LCD[n,k-1]$ for $k$ odd and $LCD[n,k]\leq LCD[n,k-2]$ for $k$ even.

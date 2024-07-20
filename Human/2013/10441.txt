@@ -1,0 +1,3 @@
+Efficient Modular Arithmetic for SIMD Devices
+
+This paper describes several new improvements of modular arithmetic and how to exploit them in order to gain more efficient implementations of commonly used algorithms, especially in cryptographic applications. We further present a new record for modular multiplications per second on a single desktop computer as well as a new record for the ECM factoring algorithm. This new results allow building personal computers which can handle more than 3 billion modular multiplications per second for a 192 bit module at moderate costs using modern graphic cards.

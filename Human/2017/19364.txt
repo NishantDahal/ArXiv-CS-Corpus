@@ -1,0 +1,3 @@
+Analytical study of the "master-worker" framework scalability on multiprocessors with distributed memory
+
+The paper is devoted to an analytical study of the "master-worker" framework scalability on multiprocessors with distributed memory. A new model of parallel computations called BSF is proposed. The BSF model is based on BSP and SPMD models. The scope of BSF model is the compute-intensive applications. The architecture of BSF-computer is defined. The structure of BSF-program is described. The Using this metric, the upper scalability bounds of BSF programs on distributed memory multiprocessors are evaluated. The formulas for estimating the parallel efficiency of BSF programs also proposed.

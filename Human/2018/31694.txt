@@ -1,0 +1,3 @@
+Scale calibration for high-dimensional robust regression
+
+We present a new method for high-dimensional linear regression when a scale parameter of the additive errors is unknown. The proposed estimator is based on a penalized Huber $M$-estimator, for which theoretical results on estimation error have recently been proposed in high-dimensional statistics literature. However, the variance of the error term in the linear model is intricately connected to the optimal parameter used to define the shape of the Huber loss. Our main idea is to use an adaptive technique, based on Lepski's method, to overcome the difficulties in solving a joint nonconvex optimization problem with respect to the location and scale parameters.

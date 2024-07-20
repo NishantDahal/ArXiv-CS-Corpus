@@ -1,0 +1,6 @@
+Algorithmic Aspects of Optimal Channel Coding
+
+A central question in information theory is to determine the maximum success probability that can be achieved in sending a fixed number of messages over a noisy channel. This was first studied in the pioneering work of Shannon who established a simple expression characterizing this quantity in the limit of multiple independent uses of the channel. Here we consider the general setting with only one use of the channel. We observe that the maximum success probability can be expressed as the maximum value of a submodular function. Using this connection, we establish the following results:
+  1. There is a simple greedy polynomial-time algorithm that computes a code achieving a (1-1/e)-approximation of the maximum success probability. Moreover, for this problem it is NP-hard to obtain an approximation ratio strictly better than (1-1/e).
+  2. Shared quantum entanglement between the sender and the receiver can increase the success probability by a factor of at most 1/(1-1/e). In addition, this factor is tight if one allows an arbitrary non-signaling box between the sender and the receiver.
+  3. We give tight bounds on the one-shot performance of the meta-converse of Polyanskiy-Poor-Verdu.

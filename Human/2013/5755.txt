@@ -1,0 +1,5 @@
+Symmetric Determinantal Representations in Characteristic 2
+
+This paper studies Symmetric Determinantal Representations (SDR) in characteristic 2, that is the representation of a multivariate polynomial P by a symmetric matrix M such that P=det(M), and where each entry of M is either a constant or a variable.
+  We first give some sufficient conditions for a polynomial to have an SDR. We then give a non-trivial necessary condition, which implies that some polynomials have no SDR, answering a question of Grenet et al.
+  A large part of the paper is then devoted to the case of multilinear polynomials. We prove that the existence of an SDR for a multilinear polynomial is equivalent to the existence of a factorization of the polynomial in certain quotient rings. We develop some algorithms to test the factorizability in these rings and use them to find SDRs when they exist. Altogether, this gives us polynomial-time algorithms to factorize the polynomials in the quotient rings and to build SDRs. We conclude by describing the case of Alternating Determinantal Representations in any characteristic.

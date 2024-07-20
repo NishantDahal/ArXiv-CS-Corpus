@@ -1,0 +1,3 @@
+A Sharp Tail Bound for the Expander Random Sampler
+
+Consider an expander graph in which a $μ$ fraction of the vertices are marked. A random walk starts at a uniform vertex and at each step continues to a random neighbor. Gillman showed in 1993 that the number of marked vertices seen in a random walk of length $n$ is concentrated around its expectation, $Φ:= μn$, independent of the size of the graph. Here we provide a new and sharp tail bound, improving on the existing bounds whenever $μ$ is not too large.

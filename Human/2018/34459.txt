@@ -1,0 +1,3 @@
+BRISC-V Emulator: A Standalone, Installation-Free, Browser-Based Teaching Tool
+
+Many computer organization and computer architecture classes have recently started adopting the RISC-V architecture as an alternative to proprietary RISC ISAs and architectures. Emulators are a common teaching tool used to introduce students to writing assembly. We present the BRISC-V (Boston University RISC-V) Emulator and teaching tool, a RISC-V emulator inspired by existing RISC and CISC emulators. The emulator is a web-based, pure javascript implementation meant to simplify deployment, as it does not require maintaining support for different operating systems or any installation. Here we present the workings, usage, and extensibility of the BRISC-V emulator.

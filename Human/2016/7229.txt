@@ -1,0 +1,4 @@
+The complexity of cylindrical algebraic decomposition with respect to polynomial degree
+
+Cylindrical algebraic decomposition (CAD) is an important tool for working with polynomial systems, particularly quantifier elimination. However, it has complexity doubly exponential in the number of variables. The base algorithm can be improved by adapting to take advantage of any equational constraints (ECs): equations logically implied by the input. Intuitively, we expect the double exponent in the complexity to decrease by one for each EC. In ISSAC 2015 the present authors proved this for the factor in the complexity bound dependent on the number of polynomials in the input. However, the other term, that dependent on the degree of the input polynomials, remained unchanged.
+  In the present paper the authors investigate how CAD in the presence of ECs could be further refined using the technology of Groebner Bases to move towards the intuitive bound for polynomial degree.

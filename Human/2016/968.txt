@@ -1,0 +1,3 @@
+T2: Temporal Property Verification
+
+We present the open-source tool T2, the first public release from the TERMINATOR project. T2 has been extended over the past decade to support automatic temporal-logic proving techniques and to handle a general class of user-provided liveness and safety properties. Input can be provided in a native format and in C, via the support of the LLVM compiler framework. We briefly discuss T2's architecture, its underlying techniques, and conclude with an experimental illustration of its competitiveness and directions for future extensions.

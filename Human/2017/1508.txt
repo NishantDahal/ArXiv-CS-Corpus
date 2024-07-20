@@ -1,0 +1,3 @@
+Effect of User Mobility on the Performance of Device-to-Device Networks with Distributed Caching
+
+We consider a distributed caching device-to-device (D2D) network in which a user's file of interest is cached as several portions in the storage of other devices in the network. Assuming that the user needs to obtain all these file portions, the portions cached farther away naturally become the performance bottleneck. This is due to the fact that dominant interferers may be closer to the receiver than the serving device. Using a simple stochastic geometry model, we concretely demonstrate that this bottleneck can be loosened if the users are mobile. Gains obtained from mobility are quantified in terms of coverage probability.

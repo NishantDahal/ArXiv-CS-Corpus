@@ -1,0 +1,3 @@
+Probabilistic Analysis of the Dual-Pivot Quicksort "Count"
+
+Recently, Aumüller and Dietzfelbinger proposed a version of a dual-pivot quicksort, called "Count", which is optimal among dual-pivot versions with respect to the average number of key comparisons required. In this note we provide further probabilistic analysis of "Count". We derive an exact formula for the average number of swaps needed by "Count" as well as an asymptotic formula for the variance of the number of swaps and a limit law. Also for the number of key comparisons the asymptotic variance and a limit law are identified. We also consider both complexity measures jointly and find their asymptotic correlation.

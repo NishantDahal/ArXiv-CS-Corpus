@@ -1,0 +1,4 @@
+Duality between erasures and defects
+
+We investigate the duality of the binary erasure channel (BEC) and the binary defect channel (BDC). This duality holds for channel capacities, capacity achieving schemes, minimum distances, and upper bounds on the probability of failure to retrieve the original message. In addition, the relations between BEC, BDC, binary erasure quantization (BEQ), and write-once memory (WOM) are described. From these relations we claim that the capacity of the BDC can be achieved by Reed-Muller (RM) codes under maximum a posterior (MAP) decoding. Also, polar codes with a successive cancellation encoder achieve the capacity of the BDC.
+  Inspired by the duality between the BEC and the BDC, we introduce locally rewritable codes (LWC) for resistive memories, which are the counterparts of locally repairable codes (LRC) for distributed storage systems. The proposed LWC can improve endurance limit and power efficiency of resistive memories.

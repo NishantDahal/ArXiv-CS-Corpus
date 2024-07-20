@@ -1,0 +1,3 @@
+Computing the permanent of (some) complex matrices
+
+We present a deterministic algorithm, which, for any given 0< epsilon < 1 and an nxn real or complex matrix A=(a_{ij}) such that | a_{ij}-1| < 0.19 for all i, j computes the permanent of A within relative error epsilon in n^{O(ln n -ln epsilon)} time. The method can be extended to computing hafnians and multidimensional permanents.

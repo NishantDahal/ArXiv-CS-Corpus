@@ -1,0 +1,3 @@
+A Sequential Thinning Algorithm For Multi-Dimensional Binary Patterns
+
+Thinning is the removal of contour pixels/points of connected components in an image to produce their skeleton with retained connectivity and structural properties. The output requirements of a thinning procedure often vary with application. This paper proposes a sequential algorithm that is very easy to understand and modify based on application to perform the thinning of multi-dimensional binary patterns. The algorithm was tested on 2D and 3D patterns and showed very good results. Moreover, comparisons were also made with two of the state-of-the-art methods used for 2D patterns. The results obtained prove the validity of the procedure.

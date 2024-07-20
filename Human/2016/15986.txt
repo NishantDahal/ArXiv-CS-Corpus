@@ -1,0 +1,4 @@
+An Efficient and Robust Social Network De-anonymization Attack
+
+Releasing connection data from social networking services can pose a significant threat to user privacy. In our work, we consider structural social network de-anonymization attacks, which are used when a malicious party uses connections in a public or other identified network to re-identify users in an anonymized social network release that he obtained previously.
+  In this paper we design and evaluate a novel social de-anonymization attack. In particular, we argue that the similarity function used to re-identify nodes is a key component of such attacks, and we design a novel measure tailored for social networks. We incorporate this measure in an attack called Bumblebee. We evaluate Bumblebee in depth, and show that it significantly outperforms the state-of-the-art, for example it has higher re-identification rates with high precision, robustness against noise, and also has better error control.

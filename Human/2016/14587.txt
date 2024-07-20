@@ -1,0 +1,3 @@
+High Dimensional Human Guided Machine Learning
+
+Have you ever looked at a machine learning classification model and thought, I could have made that? Well, that is what we test in this project, comparing XGBoost trained on human engineered features to training directly on data. The human engineered features do not outperform XGBoost trained di- rectly on the data, but they are comparable. This project con- tributes a novel method for utilizing human created classifi- cation models on high dimensional datasets.

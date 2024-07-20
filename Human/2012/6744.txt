@@ -1,0 +1,3 @@
+Improved Separations of Regular Resolution from Clause Learning Proof Systems
+
+We prove that the graph tautology formulas of Alekhnovich, Johannsen, Pitassi, and Urquhart have polynomial size pool resolution refutations that use only input lemmas as learned clauses and without degenerate resolution inferences. We also prove that these graph tautology formulas can be refuted by polynomial size DPLL proofs with clause learning, even when restricted to greedy, unit-propagating DPLL search. We prove similar results for the guarded, xor-fied pebbling tautologies which Urquhart proved are hard for regular resolution.

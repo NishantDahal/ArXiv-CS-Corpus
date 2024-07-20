@@ -1,0 +1,4 @@
+The Budget-Constrained Functional Dependency
+
+Armstrong's axioms of functional dependency form a well-known logical system that captures properties of functional dependencies between sets of database attributes. This article assumes that there are costs associated with attributes and proposes an extension of Armstrong's system for reasoning about budget-constrained functional dependencies in such a setting.
+  The main technical result of this article is the completeness theorem for the proposed logical system. Although the proposed axioms are obtained by just adding cost subscript to the original Armstrong's axioms, the proof of the completeness for the proposed system is significantly more complicated than that for the Armstrong's system.

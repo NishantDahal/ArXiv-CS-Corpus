@@ -1,0 +1,3 @@
+A Note on "A polynomial-time algorithm for global value numbering"
+
+Global Value Numbering(GVN) is a popular method for detecting redundant computations. A polynomial time algorithm for GVN is presented by Gulwani and Necula(2006). Here we present two limitations of this GVN algorithm due to which detection of certain kinds of redundancies can not be done using this algorithm. The first one is concerning the use of this algorithm in detecting some instances of the classical global common subexpressions, and the second is concerning its use in the detection of some redundancies that a local value numbering algorithm will detect. We suggest improvements that enable the algorithm to detect these kinds of redundancies as well.

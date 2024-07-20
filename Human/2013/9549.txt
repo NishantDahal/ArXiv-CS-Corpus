@@ -1,0 +1,3 @@
+Single image super resolution in spatial and wavelet domain
+
+Recently single image super resolution is very important research area to generate high resolution image from given low resolution image. Algorithms of single image resolution are mainly based on wavelet domain and spatial domain. Filters support to model the regularity of natural images is exploited in wavelet domain while edges of images get sharp during up sampling in spatial domain. Here single image super resolution algorithm is presented which based on both spatial and wavelet domain and take the advantage of both. Algorithm is iterative and use back projection to minimize reconstruction error. Wavelet based denoising method is also introduced to remove noise.

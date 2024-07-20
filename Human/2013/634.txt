@@ -1,0 +1,3 @@
+Determining token sequence mistakes in responses to questions with open text answer
+
+When learning grammar of the new language, a teacher should routinely check student's exercises for grammatical correctness. The paper describes a method of automatically detecting and reporting grammar mistakes, regarding an order of tokens in the response. It could report extra tokens, missing tokens and misplaced tokens. The method is useful when teaching language, where order of tokens is important, which includes most formal languages and some natural ones (like English). The method was implemented in a question type plug-in CorrectWriting for the widely used learning manage system Moodle.

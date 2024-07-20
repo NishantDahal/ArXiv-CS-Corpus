@@ -1,0 +1,9 @@
+Secure Erasure Codes With Partial Decodability
+
+The MDS property (aka the $k$-out-of-$n$ property) requires that if a file is split into several symbols and subsequently encoded into $n$ coded symbols, each being stored in one storage node of a distributed storage system (DSS), then an user can recover the file by accessing any $k$ nodes. We study the so-called $p$-decodable $μ$-secure erasure coding scheme $(1 \leq p \leq k - μ, 0 \leq μ< k, p | (k-μ))$, which satisfies the MDS property and the following additional properties:
+  (P1) strongly secure up to a threshold: an adversary which eavesdrops at most $μ$ storage nodes gains no information (in Shannon's sense) about the stored file,
+  (P2) partially decodable: a legitimate user can recover a subset of $p$ file symbols by accessing some $μ+ p$ storage nodes.
+  The scheme is perfectly $p$-decodable $μ$-secure if it satisfies the following additional property:
+  (P3) weakly secure up to a threshold: an adversary which eavesdrops more than $μ$ but less than $μ+p$ storage nodes cannot reconstruct any part of the file.
+  Most of the related work in the literature only focused on the case $p = k - μ$. In other words, no partial decodability is provided: an user cannot retrieve any part of the file by accessing less than $k$ nodes.
+  We provide an explicit construction of $p$-decodable $μ$-secure coding schemes over small fields for all $μ$ and $p$. That construction also produces perfectly $p$-decodable $μ$-secure schemes over small fields when $p = 1$ (for every $μ$), and when $μ= 0, 1$ (for every $p$). We establish that perfect schemes exist over \emph{sufficiently large} fields for almost all $μ$ and $p$.

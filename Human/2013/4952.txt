@@ -1,0 +1,3 @@
+Drawing the double circle on a grid of minimum size
+
+In 1926, Jarník introduced the problem of drawing a convex $n$-gon with vertices having integer coordinates. He constructed such a drawing in the grid $[1,c\cdot n^{3/2}]^2$ for some constant $c>0$, and showed that this grid size is optimal up to a constant factor. We consider the analogous problem for drawing the double circle, and prove that it can be done within the same grid size. Moreover, we give an O(n)-time algorithm to construct such a point set.

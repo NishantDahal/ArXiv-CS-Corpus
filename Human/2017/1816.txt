@@ -1,0 +1,3 @@
+Solutions for Practice-oriented Requirements for Optimal Path Planning for the AUV "SLOCUM Glider"
+
+This paper presents a few important practiceoriented requirements for optimal path planning for the AUV "SLOCUM Glider" as well as solutions using fast graph basedalgorithms. These algorithms build upon the TVE (time-varying environment) search algorithm. The experience with this algorithm, requirements of real missions along the Newfoundland and Labrador Shelf and the idea to find the optimal departure time are the motivation to address the field of research, which is described in this paper. The main focus of this paper is a discussion of possible methods to accelerate the path planning algorithm, without deterioration of the results.

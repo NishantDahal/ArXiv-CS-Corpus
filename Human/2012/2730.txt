@@ -1,0 +1,3 @@
+Markerless Motion Capture in the Crowd
+
+This work uses crowdsourcing to obtain motion capture data from video recordings. The data is obtained by information workers who click repeatedly to indicate body configurations in the frames of a video, resulting in a model of 2D structure over time. We discuss techniques to optimize the tracking task and strategies for maximizing accuracy and efficiency. We show visualizations of a variety of motions captured with our pipeline then apply reconstruction techniques to derive 3D structure.

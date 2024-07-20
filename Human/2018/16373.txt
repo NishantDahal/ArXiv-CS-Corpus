@@ -1,0 +1,3 @@
+Information Rates and Error Exponents for Probabilistic Amplitude Shaping
+
+Probabilistic Amplitude Shaping (PAS) is a coded-modulation scheme in which the encoder is a concatenation of a distribution matcher with a systematic Forward Error Correction (FEC) code. For reduced computational complexity the decoder can be chosen as a concatenation of a mismatched FEC decoder and dematcher. This work studies the theoretic limits of PAS. The classical joint source-channel coding (JSCC) setup is modified to include systematic FEC and the mismatched FEC decoder. At each step error exponents and achievable rates for the corresponding setup are derived.

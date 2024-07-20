@@ -1,0 +1,3 @@
+On the algorithmic complexity of decomposing graphs into regular/irregular structures
+
+A locally irregular graph is a graph whose adjacent vertices have distinct degrees, a regular graph is a graph where each vertex has the same degree and a locally regular graph is a graph where for every two adjacent vertices u, v, their degrees are equal. In this work, we study the set of all problems which are related to decomposition of graphs into regular, locally regular and/or locally irregular subgraphs and we present some polynomial time algorithms, NP-completeness results, lower bounds and upper bounds for them. Among our results, one of our lower bounds makes use of mutually orthogonal Latin squares which is relatively novel.

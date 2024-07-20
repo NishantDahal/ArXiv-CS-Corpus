@@ -1,0 +1,3 @@
+Efficient Multi Secret Sharing with Generalized Access Structures
+
+Multi-secret sharing is an extension of secret sharing technique where several secrets are shared between the participants, each according to a specified access structure. The secrets can be reconstructed according to the access structure by participants using their private shares.Each participant has to hold a single share, additional information are made available in a public bulletin board.The scheme is computationally efficient and also each participant can verify the shares of the other participants and also the reconstructed secret.The scheme does not need any secure channel also.

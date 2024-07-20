@@ -1,0 +1,3 @@
+Some properties of a Rudin-Shapiro-like sequence
+
+We introduce the sequence $(i_n)_{n \geq 0}$ defined by $i_n = (-1)^{inv_2(n)}$, where $inv_2(n)$ denotes the number of inversions (i.e., occurrences of 10 as a scattered subsequence) in the binary representation of n. We show that this sequence has many similarities to the classical Rudin-Shapiro sequence. In particular, if S(N) denotes the N-th partial sum of the sequence $(i_n)_{n \geq 0}$, we show that $S(N) = G(\log_4 N)\sqrt{N}$, where G is a certain function that oscillates periodically between $\sqrt{3}/3$ and $\sqrt{2}$.

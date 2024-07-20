@@ -1,0 +1,3 @@
+A Bayesian encourages dropout
+
+Dropout is one of the key techniques to prevent the learning from overfitting. It is explained that dropout works as a kind of modified L2 regularization. Here, we shed light on the dropout from Bayesian standpoint. Bayesian interpretation enables us to optimize the dropout rate, which is beneficial for learning of weight parameters and prediction after learning. The experiment result also encourages the optimization of the dropout.

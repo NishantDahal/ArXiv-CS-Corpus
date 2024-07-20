@@ -1,0 +1,3 @@
+Impact of network size on the performance of incremental LMS adaptive networks
+
+In this paper we study the impact of network size on the performance of incremental least mean square (ILMS) adaptive networks. Specifically, we consider two ILMS networks with different number of nodes and compare their performance in two different cases including (i) ideal links and (ii) noisy links. We show that when the links between nodes are ideal, increasing the network size improves the steady-state error. On the other hand, in the presence of noisy links, we see different behavior and the ILMS adaptive network with more nodes necessarily has not better steady-state performance. Simulation results are also provided to illustrate the discussions.

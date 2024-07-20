@@ -1,0 +1,3 @@
+Changing Observations in Epistemic Temporal Logic
+
+We study dynamic changes of agents' observational power in logics of knowledge and time. We consider CTL*K, the extension of CTL* with knowledge operators, and enrich it with a new operator that models a change in an agent's way of observing the system. We extend the classic semantics of knowledge for perfect-recall agents to account for changes of observation, and we show that this new operator strictly increases the expressivity of CTL*K. We reduce the model-checking problem for our logic to that for CTL*K, which is known to be decidable. This provides a solution to the model-checking problem for our logic, but its complexity is not optimal. Indeed we provide a direct decision procedure with better complexity.

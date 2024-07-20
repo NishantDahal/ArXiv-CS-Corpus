@@ -1,0 +1,3 @@
+Applying the Residue Number System to Network Inference
+
+This work explores the lesser studied objective of optimizing the multiply-and-accumulates executed during evaluation of the network. In particular, we propose using the Residue Number System (RNS) as the internal number representation across all layer evaluations, allowing us to explore usage of the more power-efficient RNS multipliers and adders. Using results from simulation of our RNS arithmetic block implementations, we show theoretical power advantages of using RNS for an end-to-end evaluator.

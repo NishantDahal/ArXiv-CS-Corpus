@@ -1,0 +1,3 @@
+Countermeasure against Side-Channel Attack in Shared Memory of TrustZone
+
+In this paper we introduced countermeasures against side-channel attacks in the shared memory of TrustZone. We proposed zero-contention cache memory or policy between REE and TEE to prevent from TruSpy attacks in TrustZone. And we suggested that delay time of data path of REE is equal or similar to that of data path of TEE to prevent timing side-channel attacks. Also, we proposed security information flow control based on the Clark-Wilson model, and built the information flow control mechanism using Authentication Tokenization Program (ATP). Accordingly we can expect the improved integrity of the information content between REE and TEE on mobile devices.

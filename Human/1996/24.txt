@@ -1,0 +1,5 @@
+Processing Metonymy: a Domain-Model Heuristic Graph Traversal Approach
+
+We address here the treatment of metonymic expressions from a knowledge representation perspective, that is, in the context of a text understanding system which aims to build a conceptual representation from texts according to a domain model expressed in a knowledge representation formalism.
+  We focus in this paper on the part of the semantic analyser which deals with semantic composition. We explain how we use the domain model to handle metonymy dynamically, and more generally, to underlie semantic composition, using the knowledge descriptions attached to each concept of our ontology as a kind of concept-level, multiple-role qualia structure.
+  We rely for this on a heuristic path search algorithm that exploits the graphic aspects of the conceptual graphs formalism. The methods described have been implemented and applied on French texts in the medical domain.

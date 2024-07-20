@@ -1,0 +1,3 @@
+Random Shuffling to Reduce Disorder in Adaptive Sorting Scheme
+
+In this paper we present a random shuffling scheme to apply with adaptive sorting algorithms. Adaptive sorting algorithms utilize the presortedness present in a given sequence. We have probabilistically increased the amount of presortedness present in a sequence by using a random shuffling technique that requires little computation. Theoretical analysis suggests that the proposed scheme can improve the performance of adaptive sorting. Experimental results show that it significantly reduces the amount of disorder present in a given sequence and improves the execution time of adaptive sorting algorithm as well.

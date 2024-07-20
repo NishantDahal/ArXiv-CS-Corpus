@@ -1,0 +1,3 @@
+A 2-Approximation Algorithm for Feedback Vertex Set in Tournaments
+
+A {\em tournament} is a directed graph $T$ such that every pair of vertices is connected by an arc. A {\em feedback vertex set} is a set $S$ of vertices in $T$ such that $T - S$ is acyclic. We consider the {\sc Feedback Vertex Set} problem in tournaments. Here the input is a tournament $T$ and a weight function $w : V(T) \rightarrow \mathbb{N}$ and the task is to find a feedback vertex set $S$ in $T$ minimizing $w(S) = \sum_{v \in S} w(v)$. We give the first polynomial time factor $2$ approximation algorithm for this problem. Assuming the Unique Games conjecture, this is the best possible approximation ratio achievable in polynomial time.

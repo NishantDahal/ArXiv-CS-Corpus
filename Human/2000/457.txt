@@ -1,0 +1,3 @@
+Finding Failure Causes through Automated Testing
+
+A program fails. Under which circumstances does this failure occur? One single algorithm, the delta debugging algorithm, suffices to determine these failure-inducing circumstances. Delta debugging tests a program systematically and automatically to isolate failure-inducing circumstances such as the program input, changes to the program code, or executed statements.

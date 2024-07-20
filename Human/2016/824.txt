@@ -1,0 +1,3 @@
+Quality Adaptive Low-Rank Based JPEG Decoding with Applications
+
+Small compression noises, despite being transparent to human eyes, can adversely affect the results of many image restoration processes, if left unaccounted for. Especially, compression noises are highly detrimental to inverse operators of high-boosting (sharpening) nature, such as deblurring and superresolution against a convolution kernel. By incorporating the non-linear DCT quantization mechanism into the formulation for image restoration, we propose a new sparsity-based convex programming approach for joint compression noise removal and image restoration. Experimental results demonstrate significant performance gains of the new approach over existing image restoration methods.

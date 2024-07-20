@@ -1,0 +1,3 @@
+The Formal System lambda-delta
+
+The formal system lambda-delta is a typed lambda calculus that pursues the unification of terms, types, environments and contexts as the main goal. lambda-delta takes some features from the Automath-related lambda calculi and some from the pure type systems, but differs from both in that it does not include the Pi construction while it provides for an abbreviation mechanism at the level of terms. lambda-delta enjoys some important desirable properties such as the confluence of reduction, the correctness of types, the uniqueness of types up to conversion, the subject reduction of the type assignment, the strong normalization of the typed terms and, as a corollary, the decidability of type inference problem.

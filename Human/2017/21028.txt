@@ -1,0 +1,3 @@
+Complexity of Edge Monitoring on Some Graph Classes
+
+In this paper, we study the complexity of the edge monitoring problem. A vertex $v$ monitors an edge $e$ if both extremities together with $v$ form a triangle in the graph. Given a graph $G=(V,E)$ and a weight function on edges $c$ where $c(e)$ is the number of monitors that needs the edge $e$, the problem is to seek a minimum subset of monitors $S$ such that every edge $e$ in the graph is monitored by at least $c(e)$ vertices in $S$. In this paper, we study the edge monitoring problem on several graph classes such as complete graphs, block graphs, cographs, split graphs, interval graphs and planar graphs. We also generalize the problem by adding weights on vertices.

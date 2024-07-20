@@ -1,0 +1,3 @@
+Fast Learning and Prediction for Object Detection using Whitened CNN Features
+
+We combine features extracted from pre-trained convolutional neural networks (CNNs) with the fast, linear Exemplar-LDA classifier to get the advantages of both: the high detection performance of CNNs, automatic feature engineering, fast model learning from few training samples and efficient sliding-window detection. The Adaptive Real-Time Object Detection System (ARTOS) has been refactored broadly to be used in combination with Caffe for the experimental studies reported in this work.

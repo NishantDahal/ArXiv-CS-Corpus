@@ -1,0 +1,3 @@
+The Number of Distinct Subpalindromes in Random Words
+
+We prove that a random word of length $n$ over a $k$-ary fixed alphabet contains, on expectation, $Θ(\sqrt{n})$ distinct palindromic factors. We study this number of factors, $E(n,k)$, in detail, showing that the limit $\lim_{n\to\infty}E(n,k)/\sqrt{n}$ does not exist for any $k\ge2$, $\liminf_{n\to\infty}E(n,k)/\sqrt{n}=Θ(1)$, and $\limsup_{n\to\infty}E(n,k)/\sqrt{n}=Θ(\sqrt{k})$. Such a complicated behaviour stems from the asymmetry between the palindromes of even and odd length. We show that a similar, but much simpler, result on the expected number of squares in random words holds. We also provide some experimental data on the number of palindromic factors in random words.

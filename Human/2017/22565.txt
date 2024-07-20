@@ -1,0 +1,3 @@
+On estimating the alphabet size of a discrete random source
+
+We are concerned with estimating alphabet size $N$ from a stream of symbols taken uniformly at random from that alphabet. We define and analyze a memory-restricted variant of an algorithm that have been earlier proposed for this purpose. The alphabet size $N$ can be estimated in $O(\sqrt{N})$ time and space by the memory-restricted variant of this algorithm.

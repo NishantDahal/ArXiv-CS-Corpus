@@ -1,0 +1,3 @@
+Point Process Models for Distribution of Cell Phone Antennas
+
+We introduce a model for the spatial distribution of cell phone antennas in a urban environment. After showing that the complete spatial randomness (homogeneous Poisson distribution) hypothesis does not hold, we propose a model in which each point is distributed according to a bivariate Gaussian variable with mean given by the barycenter of its neighbors in the Delaunay triangulation. We show that this model is suitable, and can be used to generate a synthetic distribution of antennas. The generated distribution contains no sensitive or proprietary information, and can thus be freely shared with research groups, fostering further research on the subject.

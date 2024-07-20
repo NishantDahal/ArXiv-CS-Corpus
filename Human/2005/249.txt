@@ -1,0 +1,3 @@
+Minimal chordal sense of direction and circulant graphs
+
+A sense of direction is an edge labeling on graphs that follows a globally consistent scheme and is known to considerably reduce the complexity of several distributed problems. In this paper, we study a particular instance of sense of direction, called a chordal sense of direction (CSD). In special, we identify the class of k-regular graphs that admit a CSD with exactly k labels (a minimal CSD). We prove that connected graphs in this class are Hamiltonian and that the class is equivalent to that of circulant graphs, presenting an efficient (polynomial-time) way of recognizing it when the graphs' degree k is fixed.

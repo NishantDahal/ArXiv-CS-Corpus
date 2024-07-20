@@ -1,0 +1,3 @@
+Task Selection for Bandit-Based Task Assignment in Heterogeneous Crowdsourcing
+
+Task selection (picking an appropriate labeling task) and worker selection (assigning the labeling task to a suitable worker) are two major challenges in task assignment for crowdsourcing. Recently, worker selection has been successfully addressed by the bandit-based task assignment (BBTA) method, while task selection has not been thoroughly investigated yet. In this paper, we experimentally compare several task selection strategies borrowed from active learning literature, and show that the least confidence strategy significantly improves the performance of task assignment in crowdsourcing.

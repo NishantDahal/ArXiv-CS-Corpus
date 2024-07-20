@@ -1,0 +1,3 @@
+SLAM based Quasi Dense Reconstruction For Minimally Invasive Surgery Scenes
+
+Recovering surgical scene structure in laparoscope surgery is crucial step for surgical guidance and augmented reality applications. In this paper, a quasi dense reconstruction algorithm of surgical scene is proposed. This is based on a state-of-the-art SLAM system, and is exploiting the initial exploration phase that is typically performed by the surgeon at the beginning of the surgery. We show how to convert the sparse SLAM map to a quasi dense scene reconstruction, using pairs of keyframe images and correlation-based featureless patch matching. We have validated the approach with a live porcine experiment using Computed Tomography as ground truth, yielding a Root Mean Squared Error of 4.9mm.

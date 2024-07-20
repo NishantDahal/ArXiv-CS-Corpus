@@ -1,0 +1,4 @@
+Capturing k-ary Existential Second Order Logic with k-ary Inclusion-Exclusion Logic
+
+In this paper we analyze k-ary inclusion-exclusion logic, INEX[k], which is obtained by extending first order logic with k-ary inclusion and exclusion atoms. We show that every formula of INEX[k] can be expressed with a formula of k-ary existential second order logic, ESO[k]. Conversely, every formula of ESO[k] with at most k-ary free relation variables can be expressed with a formula of INEX[k]. From this it follows that, on the level of sentences, INEX[k] captures the expressive power of ESO[k].
+  We also introduce several useful operators that can be expressed in INEX[k]. In particular, we define inclusion and exclusion quantifiers and so-called term value preserving disjunction which is essential for the proofs of the main results in this paper. Furthermore, we present a novel method of relativization for team semantics and analyze the duality of inclusion and exclusion atoms.

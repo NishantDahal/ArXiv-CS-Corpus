@@ -1,0 +1,3 @@
+Rooted branching bisimulation as a congruence for probabilistic transition systems
+
+We propose a probabilistic transition system specification format, referred to as probabilistic RBB safe, for which rooted branching bisimulation is a congruence. The congruence theorem is based on the approach of Fokkink for the qualitative case. For this to work, the theory of transition system specifications in the setting of labeled transition systems needs to be extended to deal with probability distributions, both syntactically and semantically. We provide a scheduler-free characterization of probabilistic branching bisimulation as adapted from work of Andova et al. for the alternating model. Counter examples are given to justify the various conditions required by the format.

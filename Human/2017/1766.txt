@@ -1,0 +1,5 @@
+Elementary Yet Precise Worst-case Analysis of MergeSort, A short version (SV)
+
+This paper offers two elementary yet precise derivations of an exact formula
+  \[ W(n) = \sum_{i=1} ^{n} \lceil \lg i \rceil = n \lceil \lg n \rceil - 2^{\lceil \lg n \rceil} + 1 \] for the maximum number $ W(n) $ of comparisons of keys performed by $ {\tt MergeSort} $ on an $ n $-element array. The first of the two, due to its structural regularity, is well worth carefully studying in its own right.
+  Close smooth bounds on $ W(n) $ are derived. It seems interesting that $ W(n) $ is linear between the points $ n = 2^{\lfloor \lg n \rfloor} $ and it linearly interpolates its own lower bound $ n \lg n - n + 1 $ between these points.

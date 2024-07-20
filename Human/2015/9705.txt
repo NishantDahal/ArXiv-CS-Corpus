@@ -1,0 +1,4 @@
+Tight space-noise tradeoffs in computing the ergodic measure
+
+In this note we obtain tight bounds on the space-complexity of computing the ergodic measure of a low-dimensional discrete-time dynamical system affected by Gaussian noise. If the scale of the noise is $\varepsilon$, and the function describing the evolution of the system is not by itself a source of computational complexity, then the density function of the ergodic measure can be approximated within precision $δ$ in space polynomial in $\log 1/\varepsilon+\log\log 1/δ$. We also show that this bound is tight up to polynomial factors.
+  In the course of showing the above, we prove a result of independent interest in space-bounded computation: that it is possible to exponentiate an $n$ by $n$ matrix to an exponentially large power in space polylogarithmic in $n$.

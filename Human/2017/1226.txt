@@ -1,0 +1,3 @@
+Symmetric Key Encryption for Arbitrary Block Sizes from Affine Spaces
+
+A symmetric key encryption scheme is described for blocks of general size N that is a product of powers of many prime numbers. This is accomplished by realising each number (representing a message unit) as a point in a product of affine spaces over various finite fields. Then algebro-geometric transformations on those affine spaces is transported back to provide encryption. For a specific block size${}<2^{128}$ we get more than $2^{5478}$ keys.

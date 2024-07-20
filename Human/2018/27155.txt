@@ -1,0 +1,3 @@
+Hierarchical Text Generation using an Outline
+
+Many challenges in natural language processing require generating text, including language translation, dialogue generation, and speech recognition. For all of these problems, text generation becomes more difficult as the text becomes longer. Current language models often struggle to keep track of coherence for long pieces of text. Here, we attempt to have the model construct and use an outline of the text it generates to keep it focused. We find that the usage of an outline improves perplexity. We do not find that using the outline improves human evaluation over a simpler baseline, revealing a discrepancy in perplexity and human perception. Similarly, hierarchical generation is not found to improve human evaluation scores.

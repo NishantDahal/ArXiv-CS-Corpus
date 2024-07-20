@@ -1,0 +1,4 @@
+Tabula: A Language to Model Spreadsheet Tables
+
+Spreadsheets provide a flexible and easy to use software development environment, but that leads to error proneness. Work has been done to prevent errors in spreadsheets, including using models to specify distinct parts of a spreadsheet as it is done with model-driven software development. Previous model languages for spreadsheets offer a limited expressiveness, and cannot model several features present in most real world spreadsheets.
+  In this paper, the modeling language Tabula is introduced. It extends previous spreadsheet models with features like type constraints and nested classes with repetitions. Tabula is not only more expressive than other models but it can also be extended with more features. Moreover, Tabula includes a bidirectional transformation engine that guarantees synchronization after an update either in the model or spreadsheet.

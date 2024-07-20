@@ -1,0 +1,3 @@
+Background Image Generation Using Boolean Operations
+
+Tracking moving objects from a video sequence requires segmentation of these objects from the background image. However, getting the actual background image automatically without object detection and using only the video is difficult. In this paper, we describe a novel algorithm that generates background from real world images without foreground detection. The algorithm assumes that the background image is shown in the majority of the video. Given this simple assumption, the method described in this paper is able to accurately generate, with high probability, the background image from a video using only a small number of binary operations.

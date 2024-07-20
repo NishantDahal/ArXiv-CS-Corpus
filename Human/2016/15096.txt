@@ -1,0 +1,3 @@
+Why Is Dual-Pivot Quicksort Fast?
+
+I discuss the new dual-pivot Quicksort that is nowadays used to sort arrays of primitive types in Java. I sketch theoretical analyses of this algorithm that offer a possible, and in my opinion plausible, explanation why (a) dual-pivot Quicksort is faster than the previously used (classic) Quicksort and (b) why this improvement was not already found much earlier.

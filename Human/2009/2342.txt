@@ -1,0 +1,3 @@
+Network Delay Inference from Additive Metrics
+
+We demonstrate the use of computational phylogenetic techniques to solve a central problem in inferential network monitoring. More precisely, we design a novel algorithm for multicast-based delay inference, i.e. the problem of reconstructing the topology and delay characteristics of a network from end-to-end delay measurements on network paths. Our inference algorithm is based on additive metric techniques widely used in phylogenetics. It runs in polynomial time and requires a sample of size only $\poly(\log n)$.

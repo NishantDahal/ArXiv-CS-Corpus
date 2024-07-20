@@ -1,0 +1,3 @@
+Using Constraints for Equivalent Mutant Detection
+
+In mutation testing the question whether a mutant is equivalent to its program is important in order to compute the correct mutation score. Unfortunately, answering this question is not always possible and can hardly be obtained just by having a look at the program's structure. In this paper we introduce a method for solving the equivalent mutant problem using a constraint representation of the program and its mutant. In particularly the approach is based on distinguishing test cases, i.e., test inputs that force the program and its mutant to behave in a different way. Beside the foundations of the approach, in this paper we also present the algorithms and first empirical results.

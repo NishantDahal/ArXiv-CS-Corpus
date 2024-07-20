@@ -1,0 +1,5 @@
+Polynomial-time algorithm for determining the graph isomorphism (v.2)
+
+We develop the methodology of positioning graph vertices relative to each other to solve the problem of determining isomorphism of two undirected graphs. Based on the position of the vertex in one of the graphs, it is determined the corresponding vertex in the other graph.
+  For the selected vertex of the undirected graph, we define the neighborhoods of the vertices. Next, we construct the auxiliary directed graph, spawned by the selected vertex. The vertices of the digraph are positioned by special characteristics --- vectors, which locate each vertex of the digraph relative the found neighborhoods.
+  This enabled to develop the algorithm for determining graph isomorphism, the runing time of which is equal to $O(n^4)$.

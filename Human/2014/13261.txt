@@ -1,0 +1,9 @@
+A point on fixpoints in posets
+
+Let $(X,\le)$ be a {\em non-empty strictly inductive poset}, that is, a non-empty partially ordered set such that every non-empty chain $Y$ has a least upper bound lub$(Y)\in X$, a chain being a subset of $X$ totally ordered by $\le$.
+We are interested in sufficient conditions such that, given an element $a_0\in X$ and a function $f:X\a X$, there is some ordinal $k$ such that $a_{k+1}=a_k$, where $a\_k$ is the transfinite sequence of iterates of $f$ starting from $a_0$ (implying that $a_k$ is a fixpoint of $f$):
+  \begin{itemize}\itemsep=0mm
+\item $a_{k+1}=f(a_k)$
+\item $a_l=\lub\{a_k\mid k \textless{} l\}$ if $l$ is a limit ordinal, i.e. $l=lub(l)$
+\end{itemize}
+  This note summarizes known results about this problem and provides a slight generalization of some of them.

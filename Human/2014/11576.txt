@@ -1,0 +1,3 @@
+High-Order Finite-differences on multi-threaded architectures using OCCA
+
+High-order finite-difference methods are commonly used in wave propagators for industrial subsurface imaging algorithms. Computational aspects of the reduced linear elastic vertical transversely isotropic propagator are considered. Thread parallel algorithms suitable for implementing this propagator on multi-core and many-core processing devices are introduced. Portability is addressed through the use of the \OCCA runtime programming interface. Finally, performance results are shown for various architectures on a representative synthetic test case.

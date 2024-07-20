@@ -1,0 +1,3 @@
+LADAR-Based Mover Detection from Moving Vehicles
+
+Detecting moving vehicles and people is crucial for safe operation of UGVs but is challenging in cluttered, real world environments. We propose a registration technique that enables objects to be robustly matched and tracked, and hence movers to be detected even in high clutter. Range data are acquired using a 2D scanning Ladar from a moving platform. These are automatically clustered into objects and modeled using a surface density function. A Bhattacharya similarity is optimized to register subsequent views of each object enabling good discrimination and tracking, and hence mover detection.

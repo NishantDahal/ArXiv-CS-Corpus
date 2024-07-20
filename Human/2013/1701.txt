@@ -1,0 +1,3 @@
+Some Experiments with Real-Time Decision Algorithms
+
+Real-time Decision algorithms are a class of incremental resource-bounded [Horvitz, 89] or anytime [Dean, 93] algorithms for evaluating influence diagrams.  We present a test domain for real-time decision algorithms, and the results of experiments with several Real-time Decision Algorithms in this domain.  The results demonstrate high performance for two algorithms, a decision-evaluation variant of Incremental Probabilisitic Inference [D'Ambrosio 93] and a variant of an algorithm suggested by Goldszmidt, [Goldszmidt, 95], PK-reduced.  We discuss the implications of these experimental results and explore the broader applicability of these algorithms.

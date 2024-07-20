@@ -1,0 +1,3 @@
+Proxy Fairness
+
+We consider the problem of improving fairness when one lacks access to a dataset labeled with protected groups, making it difficult to take advantage of strategies that can improve fairness but require protected group labels, either at training or runtime. To address this, we investigate improving fairness metrics for proxy groups, and test whether doing so results in improved fairness for the true sensitive groups. Results on benchmark and real-world datasets demonstrate that such a proxy fairness strategy can work well in practice. However, we caution that the effectiveness likely depends on the choice of fairness metric, as well as how aligned the proxy groups are with the true protected groups in terms of the constrained model parameters.

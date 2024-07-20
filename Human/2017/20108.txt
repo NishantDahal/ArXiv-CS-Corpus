@@ -1,0 +1,5 @@
+High-Performance Code Generation though Fusion and Vectorization
+
+We present a technique for automatically transforming kernel-based computations in disparate, nested loops into a fused, vectorized form that can reduce intermediate storage needs and lead to improved performance on contemporary hardware.
+  We introduce representations for the abstract relationships and data dependencies of kernels in loop nests and algorithms for manipulating them into more efficient form; we similarly introduce techniques for determining data access patterns for stencil-like array accesses and show how this can be used to elide storage and improve vectorization.
+  We discuss our prototype implementation of these ideas---named HFAV---and its use of a declarative, inference-based front-end to drive transformations, and we present results for some prominent codes in HPC.

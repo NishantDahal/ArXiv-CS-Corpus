@@ -1,0 +1,3 @@
+Deciding definability in FO2(<h,<v) on trees
+
+We provide a decidable characterization of regular forest languages definable in FO2(<h,<v). By FO2(<h,<v) we refer to the two variable fragment of first order logic built from the descendant relation and the following sibling relation. In terms of expressive power it corresponds to a fragment of the navigational core of XPath that contains modalities for going up to some ancestor, down to some descendant, left to some preceding sibling, and right to some following sibling. We also show that our techniques can be applied to other two variable first-order logics having exactly the same vertical modalities as FO2(<h,<v) but having different horizontal modalities.

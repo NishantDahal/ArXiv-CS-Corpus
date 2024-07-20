@@ -1,0 +1,3 @@
+Minimax Risk for Missing Mass Estimation
+
+The problem of estimating the missing mass or total probability of unseen elements in a sequence of $n$ random samples is considered under the squared error loss function. The worst-case risk of the popular Good-Turing estimator is shown to be between $0.6080/n$ and $0.6179/n$. The minimax risk is shown to be lower bounded by $0.25/n$. This appears to be the first such published result on minimax risk for estimation of missing mass, which has several practical and theoretical applications.

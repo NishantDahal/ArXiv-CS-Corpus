@@ -1,0 +1,3 @@
+Fast multiplication for skew polynomials
+
+We describe an algorithm for fast multiplication of skew polynomials. It is based on fast modular multiplication of such skew polynomials, for which we give an algorithm relying on evaluation and interpolation on normal bases. Our algorithms improve the best known complexity for these problems, and reach the optimal asymptotic complexity bound for large degree. We also give an adaptation of our algorithm for polynomials of small degree. Finally, we use our methods to improve on the best known complexities for various arithmetics problems.

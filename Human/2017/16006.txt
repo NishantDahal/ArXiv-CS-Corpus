@@ -1,0 +1,6 @@
+Solar hard X-ray imaging by means of Compressed Sensing and Finite Isotropic Wavelet Transform
+
+This paper shows that compressed sensing realized by means of regularized deconvolution and the Finite Isotropic Wavelet Transform is effective and reliable in hard X-ray solar imaging.
+  The method utilizes the Finite Isotropic Wavelet Transform with Meyer function as the mother wavelet. Further, compressed sensing is realized by optimizing a sparsity-promoting regularized objective function by means of the Fast Iterative Shrinkage-Thresholding Algorithm. Eventually, the regularization parameter is selected by means of the Miller criterion.
+  The method is applied against both synthetic data mimicking the Spectrometer/Telescope Imaging X-rays (STIX) measurements and experimental observations provided by the Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI). The performances of the method are compared with the results provided by standard visibility-based reconstruction methods.
+  The results show that the application of the sparsity constraint and the use of a continuous, isotropic framework for the wavelet transform provide a notable spatial accuracy and significantly reduce the ringing effects due to the instrument point spread functions.

@@ -1,0 +1,3 @@
+Pneumonia Detection in Chest Radiographs
+
+In this work, we describe our approach to pneumonia classification and localization in chest radiographs. This method uses only \emph{open-source} deep learning object detection and is based on CoupleNet, a fully convolutional network which incorporates global and local features for object detection. Our approach achieves robustness through critical modifications of the training process and a novel ensembling algorithm which merges bounding boxes from several models. We tested our detection algorithm tested on a dataset of 3000 chest radiographs as part of the 2018 RSNA Pneumonia Challenge; our solution was recognized as a winning entry in a contest which attracted more than 1400 participants worldwide.

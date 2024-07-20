@@ -1,0 +1,3 @@
+A Wised Routing Protocols for Leo Satellite Networks
+
+This Study proposes a routing strategy of combining a packet scheduling with congestion control policy that applied for LEO satellite network with high speed and multiple traffic. It not only ensures the QoS of different traffic, but also can avoid low priority traffic to be "starve" due to their weak resource competitiveness, thus it guarantees the throughput and performance of the network. In the end, we set up a LEO satellite network simulation platform in OPNET to verify the effectiveness of the proposed algorithm.

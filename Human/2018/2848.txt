@@ -1,0 +1,3 @@
+Size-based termination of higher-order rewriting
+
+We provide a general and modular criterion for the termination of simply-typed $λ$ -calculus extended with function symbols defined by user-defined rewrite rules. Following a work of Hughes, Pareto and Sabry for functions defined with a fixpoint operator and pattern-matching, several criteria use typing rules for bounding the height of arguments in function calls. In this paper, we extend this approach to rewriting-based function definitions and more general user-defined notions of size.

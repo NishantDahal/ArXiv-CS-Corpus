@@ -1,0 +1,3 @@
+Counting Subwords and Regular Languages
+
+Let $x$ and $y$ be words. We consider the languages whose words $z$ are those for which the numbers of occurrences of $x$ and $y$, as subwords of $z$, are the same (resp., the number of $x$'s is less than the number of $y$'s, resp., is less than or equal). We give a necessary and sufficient condition on $x$ and $y$ for these languages to be regular, and we show how to check this condition efficiently.

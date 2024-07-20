@@ -1,0 +1,4 @@
+Hierarchical Non-Emitting Markov Models
+
+We describe a simple variant of the interpolated Markov model with non-emitting state transitions and prove that it is strictly more powerful than any Markov model. More importantly, the non-emitting model outperforms the classic interpolated model on the natural language texts under a wide range of experimental conditions, with only a modest increase in computational requirements. The non-emitting model is also much less prone to overfitting.
+  Keywords: Markov model, interpolated Markov model, hidden Markov model, mixture modeling, non-emitting state transitions, state-conditional interpolation, statistical language model, discrete time series, Brown corpus, Wall Street Journal.

@@ -1,0 +1,3 @@
+Accelerated graph-based spectral polynomial filters
+
+Graph-based spectral denoising is a low-pass filtering using the eigendecomposition of the graph Laplacian matrix of a noisy signal. Polynomial filtering avoids costly computation of the eigendecomposition by projections onto suitable Krylov subspaces. Polynomial filters can be based, e.g., on the bilateral and guided filters. We propose constructing accelerated polynomial filters by running flexible Krylov subspace based linear and eigenvalue solvers such as the Block Locally Optimal Preconditioned Conjugate Gradient (LOBPCG) method.

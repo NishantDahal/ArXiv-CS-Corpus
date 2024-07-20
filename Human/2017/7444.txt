@@ -1,0 +1,3 @@
+Scholia and scientometrics with Wikidata
+
+Scholia is a tool to handle scientific bibliographic information in Wikidata. The Scholia Web service creates on-the-fly scholarly profiles for researchers, organizations, journals, publishers, individual scholarly works, and for research topics. To collect the data, it queries the SPARQL-based Wikidata Query Service. Among several display formats available in Scholia are lists of publications for individual researchers and organizations, publications per year, employment timelines, as well as co-author networks and citation graphs. The Python package implementing the Web service is also able to format Wikidata bibliographic entries for use in LaTeX/BIBTeX.

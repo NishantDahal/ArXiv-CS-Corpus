@@ -1,0 +1,3 @@
+Construction and redundancy of codes for correcting deletable errors
+
+Consider a binary word being transmitted through a communication channel that introduces deletable errors where each bit of the word is either retained, flipped, erased or deleted. The simplest code for correcting \emph{all} possible deletable error patterns of a fixed size is the repetition code whose redundancy grows linearly with the code length. In this paper, we relax this condition and construct codes capable of correcting \emph{nearly} all deletable error patterns of a fixed size, with redundancy growing as a logarithm of the word length.

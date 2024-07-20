@@ -1,0 +1,3 @@
+The Mixing Time of the Dikin Walk in a Polytope - A Simple Proof
+
+We study the mixing time of the Dikin walk in a polytope - a random walk based on the log-barrier from the interior point method literature. This walk, and a close variant, were studied by Narayanan (2016) and Kannan-Narayanan (2012). Bounds on its mixing time are important for algorithms for sampling and optimization over polytopes. Here, we provide a simple proof of their result that this random walk mixes in time O(mn) for an n-dimensional polytope described using m inequalities.

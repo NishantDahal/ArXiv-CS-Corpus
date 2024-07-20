@@ -1,0 +1,6 @@
+Fooling One-Sided Quantum Protocols
+
+We use the venerable "fooling set" method to prove new lower bounds on the quantum communication complexity of various functions. Let f:X x Y-->{0,1} be a Boolean function, fool^1(f) its maximal fooling set size among 1-inputs, Q_1^*(f) its one-sided error quantum communication complexity with prior entanglement, and NQ(f) its nondeterministic quantum communication complexity (without prior entanglement; this model is trivial with shared randomness or entanglement). Our main results are the following, where logs are to base 2:
+  * If the maximal fooling set is "upper triangular" (which is for instance the case for the equality, disjointness, and greater-than functions), then we have Q_1^*(f)>=(1/2)log fool^1(f) - 1/2, which is essentially optimal by superdense coding. No super-constant lower bound for equality seems to follow from earlier techniques.
+  * For all f we have Q_1^*(f)>=(1/4)log fool^1(f) - 1/2, which is optimal up to a factor of 2.
+  * NQ(f)>=log \fool^1(f)/2 + 1. We do not know if the factor 1/2 is needed in this result, but it cannot be replaced by 1: we give an example where NQ(f)~0.613 log fool^1(f).

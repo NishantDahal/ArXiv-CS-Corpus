@@ -1,0 +1,3 @@
+Supervisory Control for Behavior Composition
+
+We relate behavior composition, a synthesis task studied in AI, to supervisory control theory from the discrete event systems field. In particular, we show that realizing (i.e., implementing) a target behavior module (e.g., a house surveillance system) by suitably coordinating a collection of available behaviors (e.g., automatic blinds, doors, lights, cameras, etc.) amounts to imposing a supervisor onto a special discrete event system. Such a link allows us to leverage on the solid foundations and extensive work on discrete event systems, including borrowing tools and ideas from that field. As evidence of that we show how simple it is to introduce preferences in the mapped framework.

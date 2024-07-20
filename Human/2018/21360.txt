@@ -1,0 +1,4 @@
+A theory of finite structures
+
+We develop a novel formal theory of finite structures, based on a view of finite structures as a fundamental artifact of computing and programming, forming a common platform for computing both within particular finite structures, and in the aggregate for computing over infinite data-types construed as families of finite structures. A "finite structure" is here a finite collection of finite partial-functions, over a common universe of atoms. The theory is second-order, as it uses quantification over finite functions.
+  Our formal theory FS uses a small number of fundamental axiom-schemas, with finiteness enforced by a schema of induction on finite partial-functions. We show that computability is definable in the theory by existential formulas, generalizing Kleene's Theorem on the Sigma-1 definability of RE sets, and use that result to prove that FS is mutually interpretable with Peano Arithmetic.

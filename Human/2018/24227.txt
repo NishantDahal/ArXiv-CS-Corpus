@@ -1,0 +1,3 @@
+Neural Networks as Artificial Specifications
+
+In theory, a neural network can be trained to act as an artificial specification for a program by showing it samples of the programs executions. In practice, the training turns out to be very hard. Programs often operate on discrete domains for which patterns are difficult to discern. Earlier experiments reported too much false positives. This paper revisits an experiment by Vanmali et al. by investigating several aspects that were uninvestigated in the original work: the impact of using different learning modes, aggressiveness levels, and abstraction functions. The results are quite promising.

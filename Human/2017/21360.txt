@@ -1,0 +1,3 @@
+Communication Lower Bounds for Matricized Tensor Times Khatri-Rao Product
+
+The matricized-tensor times Khatri-Rao product computation is the typical bottleneck in algorithms for computing a CP decomposition of a tensor. In order to develop high performance sequential and parallel algorithms, we establish communication lower bounds that identify how much data movement is required for this computation in the case of dense tensors. We also present sequential and parallel algorithms that attain the lower bounds and are therefore communication optimal. In particular, we show that the structure of the computation allows for less communication than the straightforward approach of casting the computation as a matrix multiplication operation.

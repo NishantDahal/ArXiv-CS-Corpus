@@ -1,0 +1,3 @@
+On the complexity of bounded time and precision reachability for piecewise affine systems
+
+Reachability for piecewise affine systems is known to be undecidable, starting from dimension $2$. In this paper we investigate the exact complexity of several decidable variants of reachability and control questions for piecewise affine systems. We show in particular that the region to region bounded time versions leads to $NP$-complete or co-$NP$-complete problems, starting from dimension $2$. We also prove that a bounded precision version leads to $PSPACE$-complete problems.

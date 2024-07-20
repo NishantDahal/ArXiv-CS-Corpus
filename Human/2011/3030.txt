@@ -1,0 +1,3 @@
+Optimal Bi-Valued Auctions
+
+We investigate \emph{bi-valued} auctions in the digital good setting and construct an explicit polynomial time deterministic auction. We prove an unconditional tight lower bound which holds even for random superpolynomial auctions. The analysis of the construction uses the adoption of the finer lens of \emph{general competitiveness} which considers additive losses on top of multiplicative ones. The result implies that general competitiveness is the right notion to use in this setting, as this optimal auction is uncompetitive with respect to competitive measures which do not consider additive losses.

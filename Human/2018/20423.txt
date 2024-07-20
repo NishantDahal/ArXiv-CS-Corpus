@@ -1,0 +1,3 @@
+Modelling Langford's Problem: A Viewpoint for Search
+
+The performance of enumerating all solutions to an instance of Langford's Problem is sensitive to the model and the search strategy. In this paper we compare the performance of a large variety of models, all derived from two base viewpoints. We empirically show that a channelled model with a static branching order on one of the viewpoints offers the best performance out of all the options we consider. Surprisingly, one of the base models proves very effective for propagation, while the other provides an effective means of stating a static search order.

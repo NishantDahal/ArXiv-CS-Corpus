@@ -1,0 +1,3 @@
+AC-KBO Revisited
+
+Equational theories that contain axioms expressing associativity and commutativity (AC) of certain operators are ubiquitous. Theorem proving methods in such theories rely on well-founded orders that are compatible with the AC axioms. In this paper we consider various definitions of AC-compatible Knuth-Bendix orders. The orders of Steinbach and of Korovin and Voronkov are revisited. The former is enhanced to a more powerful version, and we modify the latter to amend its lack of monotonicity on non-ground terms. We further present new complexity results. An extension reflecting the recent proposal of subterm coefficients in standard Knuth-Bendix orders is also given. The various orders are compared on problems in termination and completion.

@@ -1,0 +1,3 @@
+Minimal Sum Labeling of Graphs
+
+A graph $G$ is called a sum graph if there is a so-called sum labeling of $G$, i.e. an injective function $\ell: V(G) \rightarrow \mathbb{N}$ such that for every $u,v\in V(G)$ it holds that $uv\in E(G)$ if and only if there exists a vertex $w\in V(G)$ such that $\ell(u)+\ell(v) = \ell(w)$. We say that sum labeling $\ell$ is minimal if there is a vertex $u\in V(G)$ such that $\ell(u)=1$. In this paper, we show that if we relax the conditions (either allow non-injective labelings or consider graphs with loops) then there are sum graphs without a minimal labeling, which partially answers the question posed by Miller, Ryan and Smyth in 1998.

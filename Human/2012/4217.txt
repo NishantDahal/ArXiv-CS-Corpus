@@ -1,0 +1,3 @@
+Identifying the Relevant Nodes Without Learning the Model
+
+We propose a method to identify all the nodes that are relevant to compute all the conditional probability distributions for a given set of nodes. Our method is simple, effcient, consistent, and does not require learning a Bayesian network first. Therefore, our method can be applied to high-dimensional databases, e.g. gene expression databases.

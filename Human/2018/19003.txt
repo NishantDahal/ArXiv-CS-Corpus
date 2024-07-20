@@ -1,0 +1,3 @@
+Empirical fixed point bifurcation analysis
+
+In a common experimental setting, the behaviour of a noisy dynamical system is monitored in response to manipulations of one or more control parameters. Here, we introduce a structured model to describe parametric changes in qualitative system behaviour via stochastic bifurcation analysis. In particular, we describe an extension of Gaussian Process models of transition maps, in which the learned map is directly parametrized by its fixed points and associated local linearisations. We show that the system recovers the behaviour of a well-studied one dimensional system from little data, then learn the behaviour of a more realistic two dimensional process of mutually inhibiting neural populations.

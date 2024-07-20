@@ -1,0 +1,3 @@
+Transitions, Losses, and Re-parameterizations: Elements of Prediction Games
+
+This thesis presents some geometric insights into three different types of two player prediction games -- namely general learning task, prediction with expert advice, and online convex optimization. These games differ in the nature of the opponent (stochastic, adversarial, or intermediate), the order of the players' move, and the utility function. The insights shed some light on the understanding of the intrinsic barriers of the prediction problems and the design of computationally efficient learning algorithms with strong theoretical guarantees (such as generalizability, statistical consistency, and constant regret etc.).

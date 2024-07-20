@@ -1,0 +1,3 @@
+LP decoding of expander codes: a simpler proof
+
+A code $C \subseteq \F_2^n$ is a $(c,ε,δ)$-expander code if it has a Tanner graph, where every variable node has degree $c$, and every subset of variable nodes $L_0$ such that $|L_0|\leq δn$ has at least $εc |L_0|$ neighbors. Feldman et al. (IEEE IT, 2007) proved that LP decoding corrects $\frac{3ε-2}{2ε-1} \cdot (δn-1)$ errors of $(c,ε,δ)$-expander code, where $ε> 2/3+\frac{1}{3c}$. In this paper, we provide a simpler proof of their result and show that this result holds for every expansion parameter $ε> 2/3$.

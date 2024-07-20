@@ -1,0 +1,5 @@
+Proof terms for infinitary rewriting, progress report
+
+We generalize the notion of proof term to the realm of transfinite reduction. Proof terms represent reductions in the first-order term format, thereby facilitating their formal analysis. We show that any transfinite reduction can be faithfully represented as an infinitary proof term, which is unique up to, infinitary, associativity.
+  Our main use of proof terms is in a definition of permutation equivalence for transfinite reductions, on the basis of permutation equations. This definition involves a variant of equational logic, adapted for dealing with infinite objects.
+  A proof of the compression property via proof terms is presented, which establishes permutation equivalence between the original and the compressed reductions.

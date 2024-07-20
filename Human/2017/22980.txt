@@ -1,0 +1,3 @@
+IP Session continuity in heterogeneous mobile networks using Software Defined Networking
+
+Smart environment requires uninterrupted connection when moving from one network to another. This is best accomplished at the network level (L3). Full interoperability and integration of heterogeneous networks is necessary for communication session continuity. Software Defined Networking (SDN) with virtual IP addresses solves the problem. Implementing a homogeneous SDN is expensive, given the enormous investments in existing networks. To solve this second problem, we deploy the least set of SDN features to provide full L3 mobility. We use a common controller to manage the IP address translations.

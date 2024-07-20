@@ -1,0 +1,3 @@
+Sunlight Enabled Vehicle Detection by LED Street Lights
+
+We propose and demonstrate a preliminary traffic sensing system based on the widely distributed LED street lights. The system utilizes and discriminates the photoelectric responses of the LEDs to sunlight when a vehicle moves through the LEDs' field of view aiming at the road. A data vector is constructed from the consecutively collected time samples of a moving observation window, and a support vector machine (SVM) based learning algorithm is subsequently developed to classify the presence of a vehicle. Finally, we build a simulated platform to experimentally evaluate the performance of the vehicle detection algorithm.

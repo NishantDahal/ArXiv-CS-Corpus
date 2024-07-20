@@ -1,0 +1,4 @@
+Machine Learning for Mathematical Software
+
+While there has been some discussion on how Symbolic Computation could be used for AI there is little literature on applications in the other direction. However, recent results for quantifier elimination suggest that, given enough example problems, there is scope for machine learning tools like Support Vector Machines to improve the performance of Computer Algebra Systems. We survey the authors own work and similar applications for other mathematical software.
+  It may seem that the inherently probabilistic nature of machine learning tools would invalidate the exact results prized by mathematical software. However, algorithms and implementations often come with a range of choices which have no effect on the mathematical correctness of the end result but a great effect on the resources required to find it, and thus here, machine learning can have a significant impact.

@@ -1,0 +1,3 @@
+k-means Approach to the Karhunen-Loeve Transform
+
+We present a simultaneous generalization of the well-known Karhunen-Loeve (PCA) and k-means algorithms. The basic idea lies in approximating the data with k affine subspaces of a given dimension n. In the case n=0 we obtain the classical k-means, while for k=1 we obtain PCA algorithm. We show that for some data exploration problems this method gives better result then either of the classical approaches.

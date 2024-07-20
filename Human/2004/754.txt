@@ -1,0 +1,3 @@
+Modules and Logic Programming
+
+We study conditions for a concurrent construction of proof-nets in the framework developed by Andreoli in recent papers. We define specific correctness criteria for that purpose. We first study closed modules (i.e. validity of the execution of a logic program), then extend the criterion to open modules (i.e. validity during the execution) distinguishing criteria for acyclicity and connectability in order to allow incremental verification.

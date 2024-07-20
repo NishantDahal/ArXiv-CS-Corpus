@@ -1,0 +1,3 @@
+Complexity of Partitioning Hypergraphs
+
+For a given $π=(π_0, π_1,..., π_k) \in \{0, 1, *\}^{k+1}$, we want to determine whether an input $k$-uniform hypergraph $G=(V, E)$ has a partition $(V_1, V_2)$ of the vertex set so that for all $X \subseteq V$ of size $k$, $X \in E$ if $π_{|X\cap V_1|}=1$ and $X \notin E$ if $π_{|X\cap V_1|}=0$. We prove that this problem is either polynomial-time solvable or NP-complete depending on $π$ when $k=3$ or $4$. We also extend this result into $k$-uniform hypergraphs for $k \geq 5$.

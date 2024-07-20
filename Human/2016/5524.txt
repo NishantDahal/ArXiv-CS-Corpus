@@ -1,0 +1,4 @@
+Fast $(1+ε)$-approximation of the Löwner extremal matrices of high-dimensional symmetric matrices
+
+Matrix data sets are common nowadays like in biomedical imaging where the Diffusion Tensor Magnetic Resonance Imaging (DT-MRI) modality produces data sets of
+  3D symmetric positive definite matrices anchored at voxel positions capturing the anisotropic diffusion properties of water molecules in biological tissues. The space of symmetric matrices can be partially ordered using the Löwner ordering, and computing extremal matrices dominating a given set of matrices is a basic primitive used in matrix-valued signal processing. In this letter, we design a fast and easy-to-implement iterative algorithm to approximate arbitrarily finely these extremal matrices. Finally, we discuss on extensions to matrix clustering.

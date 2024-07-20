@@ -1,0 +1,3 @@
+Online Distributed Optimization on Dynamic Networks
+
+This paper presents a distributed optimization scheme over a network of agents in the presence of cost uncertainties and over switching communication topologies. Inspired by recent advances in distributed convex optimization, we propose a distributed algorithm based on a dual sub-gradient averaging. The objective of this algorithm is to minimize a cost function cooperatively. Furthermore, the algorithm changes the weights on the communication links in the network to adapt to varying reliability of neighboring agents. A convergence rate analysis as a function of the underlying network topology is then presented, followed by simulation results for representative classes of sensor networks.

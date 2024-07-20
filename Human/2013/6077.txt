@@ -1,0 +1,3 @@
+Optimal Color Range Reporting in One Dimension
+
+Color (or categorical) range reporting is a variant of the orthogonal range reporting problem in which every point in the input is assigned a \emph{color}. While the answer to an orthogonal point reporting query contains all points in the query range $Q$, the answer to a color reporting query contains only distinct colors of points in $Q$. In this paper we describe an O(N)-space data structure that answers one-dimensional color reporting queries in optimal $O(k+1)$ time, where $k$ is the number of colors in the answer and $N$ is the number of points in the data structure. Our result can be also dynamized and extended to the external memory model.

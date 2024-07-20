@@ -1,0 +1,3 @@
+A Fault-Tolerant Sequentially Consistent DSM With a Compositional Correctness Proof
+
+We present the SC-ABD algorithm that implements sequentially consistent distributed shared memory (DSM). The algorithm tolerates that less than half of the processes are faulty (crash-stop). Compared to the multi-writer ABD algorithm, SC-ABD requires one instead of two round-trips of communication to perform a write operation, and an equal number of round-trips (two) to perform a read operation. Although sequential consistency is not a compositional consistency condition, the provided correctness proof is compositional.

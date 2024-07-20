@@ -1,0 +1,3 @@
+Xampling in Ultrasound Imaging
+
+Recent developments of new medical treatment techniques put challenging demands on ultrasound imaging systems in terms of both image quality and raw data size. Traditional sampling methods result in very large amounts of data, thus, increasing demands on processing hardware and limiting the exibility in the post-processing stages. In this paper, we apply Compressed Sensing (CS) techniques to analog ultrasound signals, following the recently developed Xampling framework. The result is a system with significantly reduced sampling rates which, in turn, means significantly reduced data size while maintaining the quality of the resulting images.

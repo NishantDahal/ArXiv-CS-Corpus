@@ -1,0 +1,9 @@
+Specialty-Aware Task Assignment in Spatial Crowdsourcing
+
+With the rapid development of Mobile Internet, spatial crowdsourcing is gaining more and more attention from both academia and industry.
+  In spatial crowdsourcing, spatial tasks are sent to workers based on their locations.
+  A wide kind of tasks in spatial crowdsourcing are specialty-aware, which are complex and need to be completed by workers with different skills collaboratively.
+  Existing studies on specialty-aware spatial crowdsourcing assume that each worker has a united charge when performing different tasks, no matter how many skills of her/him are used to complete the task, which is not fair and practical.
+  In this paper, we study the problem of specialty-aware task assignment in spatial crowdsourcing, where each worker has fine-grained charge for each of their skills, and the goal is to maximize the total number of completed tasks based on tasks' budget and requirements on particular skills.
+  The problem is proven to be NP-hard. Thus, we propose two efficient heuristics to solve the problem.
+  Experiments on both synthetic and real datasets demonstrate the effectiveness and efficiency of our solutions.

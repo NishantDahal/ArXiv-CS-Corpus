@@ -1,0 +1,3 @@
+Dithered quantizers with negligible in-band dither power
+
+Subtractive dithered quantizers are examined to minimize the signal-band dither power. The design of finite impulse response(FIR) filters that shape most of the dither-power out of the signal band while maintaining the benefits of dithering are dealt with in detail. Simulation results for low-medium resolution quantizers are presented to highlight the overall design consideration.

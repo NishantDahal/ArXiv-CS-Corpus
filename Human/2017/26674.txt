@@ -1,0 +1,5 @@
+A Practical and Worst-Case Efficient Algorithm for Divisor Methods of Apportionment
+
+Proportional apportionment is the problem of assigning seats to parties according to their relative share of votes. Divisor methods are the de-facto standard solution, used in many countries.
+  In recent literature, there are two algorithms that implement divisor methods: one by Cheng and Eppstein (ISAAC, 2014) has worst-case optimal running time but is complex, while the other (Pukelsheim, 2014) is relatively simple and fast in practice but does not offer worst-case guarantees.
+  We demonstrate that the former algorithm is much slower than the other in practice and propose a novel algorithm that avoids the shortcomings of both. We investigate the running-time behavior of the three contenders in order to determine which is most useful in practice.

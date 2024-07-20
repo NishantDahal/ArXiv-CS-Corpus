@@ -1,0 +1,4 @@
+Robust Private Information Retrieval from Coded Systems with Byzantine and Colluding Servers
+
+A private information retrieval (PIR) scheme on coded storage systems with colluding, byzantine, and non-responsive servers is presented. Furthermore, the scheme can also be used for symmetric PIR in the same setting.
+  An explicit scheme using an $[n,k]$ generalized Reed-Solomon storage code is designed, protecting against $t$-collusion and handling up to $b$ byzantine and $r$ non-responsive servers, when $n\geq n'= (ν+1) k+t+2b+r-1$, for some integer $ν\geq 1$. This scheme achieves a PIR rate of $1-\frac{k+2b+t+r-1}{n'}$. In the case where the capacity is known, namely when $k=1$, it is asymptotically capacity achieving as the number of files grows.

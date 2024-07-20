@@ -1,0 +1,4 @@
+Formal Scheduling Constraints for Time-Sensitive Networks
+
+In recent years, the IEEE 802.1 Time Sensitive Networking (TSN) task group has been active standardizing time-sensitive capabilities for Ethernet networks ranging from distributed clock synchronization and time-based ingress policing to frame preemption, redundancy management, and scheduled traffic enhancements. In particular the scheduled traffic enhancements defined in IEEE 802.1Qbv together with the clock synchronization protocol open up the possibility to schedule communication in distributed networks providing real-time guarantees.
+  In this paper we formalize the necessary constraints for creating window-based IEEE~802.1Qbv Gate Control List schedules for Time-sensitive Networks (TSN). The resulting schedules allow a greater flexibility in terms of timing properties while still guaranteeing deterministic communication with bounded jitter and end-to-end latency.

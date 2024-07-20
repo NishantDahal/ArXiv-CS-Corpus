@@ -1,0 +1,3 @@
+Constant Time Quantum search Algorithm Over A Datasets: An Experimental Study Using IBM Q Experience
+
+In this work, a constant time Quantum searching algorithm over a datasets is proposed and subsequently the algorithm is executed in real chip quantum computer developed by IBM Quantum experience (IBMQ). QISKit, the software platform developed by IBM is used for this algorithm implementation. Quantum interference, Quantum superposition and π phase shift of quantum state applied for this constant time search algorithm. The proposed quantum algorithm is executed in QISKit SDK local backend 'local_qasm_simulator', real chip 'ibmq_16_melbourne' and 'ibmqx4' IBMQ. Result also suggest that real chip ibmq_16_melbourne is more quantum error or noise prone than ibmqx4.

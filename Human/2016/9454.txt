@@ -1,0 +1,3 @@
+Parallel Triangular Solvers on GPU
+
+In this paper, we investigate GPU based parallel triangular solvers systematically. The parallel triangular solvers are fundamental to incomplete LU factorization family preconditioners and algebraic multigrid solvers. We develop a new matrix format suitable for GPU devices. Parallel lower triangular solvers and upper triangular solvers are developed for this new data structure. With these solvers, ILU preconditioners and domain decomposition preconditioners are developed. Numerical results show that we can speed triangular solvers around seven times faster.

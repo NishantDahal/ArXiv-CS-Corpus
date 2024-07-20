@@ -1,0 +1,3 @@
+Computational ghost imaging using a field-programmable gate array
+
+Computational ghost imaging is a promising technique for single-pixel imaging because it is robust to disturbance and can be operated over broad wavelength bands, unlike common cameras. However, one disadvantage of this method is that it has a long calculation time for image reconstruction. In this paper, we have designed a dedicated calculation circuit that accelerated the process of computational ghost imaging. We implemented this circuit by using a field-programmable gate array, which reduced the calculation time for the circuit compared to a CPU. The dedicated circuit reconstructs images at a frame rate of 300 Hz.

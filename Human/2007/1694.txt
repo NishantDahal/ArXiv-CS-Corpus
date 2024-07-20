@@ -1,0 +1,4 @@
+Effectiveness of Garbage Collection in MIT/GNU Scheme
+
+Scheme uses garbage collection for heap memory management. Ideally, garbage collectors should be able to reclaim all dead objects, i.e. objects that will not be used in future. However, garbage collectors collect only those dead objects that are not reachable from any program variable. Dead objects that are reachable from program variables are not reclaimed.
+  In this paper we describe our experiments to measure the effectiveness of garbage collection in MIT/GNU Scheme. We compute the drag time of objects, i.e. the time for which an object remains in heap memory after its last use. The number of dead objects and the drag time together indicate opportunities for improving garbage collection. Our experiments reveal that up to 26% of dead objects remain in memory. The average drag time is up to 37% of execution time. Overall, we observe memory saving potential ranging from 9% to 65%.

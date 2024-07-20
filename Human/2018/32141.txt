@@ -1,0 +1,3 @@
+Gradient target propagation
+
+We report a learning rule for neural networks that computes how much each neuron should contribute to minimize a giving cost function via the estimation of its target value. By theoretical analysis, we show that this learning rule contains backpropagation, Hebian learning, and additional terms. We also give a general technique for weights initialization. Our results are at least as good as those obtained with backpropagation. The neural networks are trained and tested in three problems: MNIST, MNIST-Fashion, and CIFAR-10 datasets. The associated code is available at https://github.com/tiago939/target.

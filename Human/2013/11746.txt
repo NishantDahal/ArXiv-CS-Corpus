@@ -1,0 +1,3 @@
+Two automated techniques for analyzing and debugging Mpi-based programs
+
+Message Passing Interface (MPI) is the most commonly used paradigm in writing parallel programs since it can be employed not only within a single processing node but also across several connected ones. Data flow analysis concepts, techniques and tools are needed to understand and analyze MPI-based programs to detect bugs arise in these programs. In this paper we propose two automated techniques to analyze and debug MPI-based programs source codes.

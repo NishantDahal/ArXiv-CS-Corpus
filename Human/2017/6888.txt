@@ -1,0 +1,6 @@
+On the Underapproximation of Reach Sets of Abstract Continuous-Time Systems
+
+We consider the problem of proving that each point in a given  set of states ("target set") can indeed be reached by a given nondeterministic continuous-time dynamical system from some initial state. We consider this problem for abstract continuous-time models that can be concretized as various kinds of continuous and hybrid dynamical systems.
+  The approach to this problem proposed in this paper is based on finding a suitable superset S of the target set which has the property that each partial trajectory of the system which lies entirely in S either is defined as the initial time moment, or can be locally extended backward in time, or can be locally modified in such a way that the resulting trajectory can be locally extended back in time. 
+  This reformulation of the problem has a relatively simple logical expression and is convenient for applying various local existence theorems and local dynamics analysis methods to proving reachability which makes it suitable for reasoning about the behavior of continuous and hybrid dynamical systems in proof assistants such as Mizar, Isabelle, etc.
+

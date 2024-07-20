@@ -1,0 +1,4 @@
+A secure additive protocol for card players
+
+Consider three players Alice, Bob and Cath who hold a, b and c cards, respectively, from a deck of d=a+b+c cards. The cards are all different and players only know their own cards. Suppose Alice and Bob wish to communicate their cards to each other without Cath learning whether Alice or Bob holds a specific card.
+  Considering the cards as consecutive natural numbers 0,1,..., we investigate general conditions for when Alice or Bob can safely announce the sum of the cards they hold modulo an appropriately chosen integer. We demonstrate that this holds whenever a,b>2 and c=1. Because Cath holds a single card, this also implies that Alice and Bob will learn the card deal from the other player's announcement.

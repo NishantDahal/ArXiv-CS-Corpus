@@ -1,0 +1,3 @@
+Collision Avoidance of Two Autonomous Quadcopters
+
+Traffic collision avoidance systems (TCAS) are used in order to avoid incidences of mid-air collisions between aircraft. We present a game-theoretic approach of a TCAS designed for autonomous unmanned aerial vehicles (UAVs). A variant of the canonical example of game-theoretic learning, fictitious play, is used as a coordination mechanism between the UAVs, that should choose between the alternative altitudes to fly and avoid collision. We present the implementation results of the proposed coordination mechanism in two quad-copters flying in opposite directions.

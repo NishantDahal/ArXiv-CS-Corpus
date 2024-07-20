@@ -1,0 +1,3 @@
+Towards Trustworthy Refactoring in Erlang
+
+Tool-assisted refactoring transformations must be trustworthy if programmers are to be confident in applying them on arbitrarily extensive and complex code in order to improve style or efficiency. We propose a simple, high-level but rigorous, notation for defining refactoring transformations in Erlang, and show that this notation provides an extensible, verifiable and executable specification language for refactoring. To demonstrate the applicability of our approach, we show how to define and verify a number of example refactorings in the system.

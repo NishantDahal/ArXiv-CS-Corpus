@@ -1,0 +1,3 @@
+Cryptanalysis of an Encryption Scheme Based on Blind Source Separation
+
+Recently Lin et al. proposed a method of using the underdetermined BSS (blind source separation) problem to realize image and speech encryption. In this paper, we give a cryptanalysis of this BSS-based encryption and point out that it is not secure against known/chosen-plaintext attack and chosen-ciphertext attack. In addition, there exist some other security defects: low sensitivity to part of the key and the plaintext, a ciphertext-only differential attack, divide-and-conquer (DAC) attack on part of the key. We also discuss the role of BSS in Lin et al.'s efforts towards cryptographically secure ciphers.

@@ -1,0 +1,3 @@
+Lessons Learned From Microkernel Verification -- Specification is the New Bottleneck
+
+Software verification tools have become a lot more powerful in recent years. Even verification of large, complex systems is feasible, as  demonstrated in the L4.verified and Verisoft XT projects. Still,  functional verification of large software systems is rare - for reasons beyond the large scale of verification effort needed due to the size alone.  In this paper we report on lessons learned for verification of large software systems based on the experience gained in microkernel verification in the Verisoft XT project. We discuss a number of issues that impede widespread introduction of formal verification in the software life-cycle process.

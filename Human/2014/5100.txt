@@ -1,0 +1,3 @@
+A Logical Formalization of a Secure XML Database
+
+In this paper, we first define a logical theory representing an XML database supporting XPath as query language and XUpdate as modification language. We then extend our theory with predicates allowing us to specify the security policy protecting the database. The security policy includes rules addressing the read and write privileges. We propose axioms to derive the database view each user is permitted to see. We also propose axioms to derive the new database content after an update.

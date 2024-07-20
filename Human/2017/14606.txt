@@ -1,0 +1,3 @@
+On The Complexity of Enumeration
+
+We investigate the relationship between several enumeration complexity classes and focus in particular on problems having enumeration algorithms with incremental and polynomial delay (IncP and DelayP respectively). We show that, for some algorithms, we can turn an average delay into a worst case delay without increasing the space complexity, suggesting that IncP_1 = DelayP even with polynomially bounded space. We use the Exponential Time Hypothesis to exhibit a strict hierarchy inside IncP which gives the first separation of DelayP and IncP. Finally we relate the uniform generation of solutions to probabilistic enumeration algorithms with polynomial delay and polynomial space.

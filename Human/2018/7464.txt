@@ -1,0 +1,3 @@
+Packet Latency of Deterministic Broadcasting in Adversarial Multiple Access Channels
+
+We study broadcasting in multiple access channels with dynamic packet arrivals and jamming. Communication environments are represented by adversarial models that specify constraints on packet arrivals and jamming. We consider deterministic distributed broadcast algorithms and give upper bounds on the worst-case packet latency and the number of queued packets in relation to the parameters defining adversaries. Packet arrivals are determined by a rate of injections and a number of packets that can be generated in one round. Jamming is constrained by a rate with which an adversary can jam rounds and by a number of consecutive rounds that can be jammed.

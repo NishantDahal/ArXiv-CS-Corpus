@@ -1,0 +1,3 @@
+A survey on signature-based Gröbner basis computations
+
+This paper is a survey on the area of signature-based Gröbner basis algorithms that was initiated by Faugère's F5 algorithm in 2002. We explain the general ideas behind the usage of signatures. We show how to classify the various known variants by 3 different orderings. For this we give translations between different notations and show that besides notations many approaches are just the same. Moreover, we give a general description of how the idea of signatures is quite natural when performing the reduction process using linear algebra. This survey shall help to outline this field of active research.

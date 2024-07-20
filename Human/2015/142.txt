@@ -1,0 +1,3 @@
+Constructing LZ78 Tries and Position Heaps in Linear Time for Large Alphabets
+
+We present the first worst-case linear-time algorithm to compute the Lempel-Ziv 78 factorization of a given string over an integer alphabet. Our algorithm is based on nearest marked ancestor queries on the suffix tree of the given string. We also show that the same technique can be used to construct the position heap of a set of strings in worst-case linear time, when the set of strings is given as a trie.

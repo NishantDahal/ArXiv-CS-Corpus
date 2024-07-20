@@ -1,0 +1,6 @@
+Self-stabilizing Byzantine Clock Synchronization with Optimal Precision
+
+We revisit the approach to Byzantine fault-tolerant clock synchronization based on approximate agreement introduced by Lynch and Welch. Our contribution is threefold:
+  (1) We provide a slightly refined variant of the algorithm yielding improved bounds on the skew that can be achieved and the sustainable frequency offsets.
+  (2) We show how to extend the technique to also synchronize clock rates. This permits less frequent communication without significant loss of precision, provided that clock rates change sufficiently slowly.
+  (3) We present a coupling scheme that allows to make these algorithms self-stabilizing while preserving their high precision. The scheme utilizes a low-precision, but self-stabilizing algorithm for the purpose of recovery.

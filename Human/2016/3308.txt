@@ -1,0 +1,3 @@
+Homemade assembly and parameterization of a High Performance Cluster using PelicanHPC with Flops testing and controlled temperature thanks to MCUs Arduino project
+
+This article shows a lower cost realization of a compute cluster using Debian distribution such as PelicanHPC. We will explain parameterization and network configuration for master and compute slave nodes. Performance testing will take place using flops.f file given by MPI. The results will be compared between differents clusters. We will explain quickly how the temperature is controlled by a microcontroller unit.

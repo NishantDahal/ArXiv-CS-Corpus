@@ -1,0 +1,3 @@
+Towards a Theory of Data-Diff: Optimal Synthesis of Succinct Data Modification Scripts
+
+This paper addresses the Data-Diff problem: given a dataset and a subsequent version of the dataset, find the shortest sequence of operations that transforms the dataset to the subsequent version, under a restricted family of operations. We consider operations similar to SQL UPDATE, each with a condition (WHERE) that matches a subset of tuples and a modifier (SET) that makes changes to those matched tuples. We characterize the problem based on different constraints on the attributes and the allowed conditions and modifiers, providing complexity classification and algorithms in each case.

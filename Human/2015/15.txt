@@ -1,0 +1,3 @@
+A Discrete Tchebichef Transform Approximation for Image and Video Coding
+
+In this paper, we introduce a low-complexity approximation for the discrete Tchebichef transform (DTT). The proposed forward and inverse transforms are multiplication-free and require a reduced number of additions and bit-shifting operations. Numerical compression simulations demonstrate the efficiency of the proposed transform for image and video coding. Furthermore, Xilinx Virtex-6 FPGA based hardware realization shows 44.9% reduction in dynamic power consumption and 64.7% lower area when compared to the literature.

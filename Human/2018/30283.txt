@@ -1,0 +1,3 @@
+PE-AONT: Partial Encryption combined with an All-or-Nothing Transform
+
+In this report, we introduce PE-AONT: a novel algorithm for fast and secure data fragmentation. Initial data are fragmented and only a selected subset of the fragments is encrypted. Further, fragments are transformed using a variation of an all-or-nothing transform that blends encrypted and non-encrypted fragments. By encrypting data only partially, we achieve better performance than relevant techniques including data encryption and straightforward fragmentation. Moreover, when the ratio between the number of encrypted and non-encrypted fragments is wisely chosen, data inside fragments are protected against exposure of the encryption key unless all fragments are gathered by an attacker.

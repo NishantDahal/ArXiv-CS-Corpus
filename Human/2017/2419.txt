@@ -1,0 +1,4 @@
+On the metastable Mabillard-Wagner conjecture
+
+The purpose of this note is to attract attention to the following conjecture (metastable $r$-fold Whitney trick) by clarifying its status as not having a complete proof, in the sense described in the paper.
+  Assume that $D=D_1\sqcup\ldots\sqcup D_r$ is disjoint union of $r$ disks of dimension $s$, $f:D\to B^d$ a proper PL map such that $f\partial D_1\cap\ldots\cap f\partial D_r=\emptyset$, $rd\ge (r+1)s+3$ and $d\ge s+3$. If the map $$f^r:\partial(D_1\times\ldots\times D_r)\to (B^d)^r-\{(x,x,\ldots,x)\in(B^d)^r\ |\ x\in B^d\}$$ extends to $D_1\times\ldots\times D_r$, then there is a PL map $\overline f:D\to B^d$ such that $$\overline f=f \quad\text{on}\quad D_r\cup\partial D\quad\text{and}\quad \overline fD_1\cap\ldots\cap \overline fD_r=\emptyset.$$

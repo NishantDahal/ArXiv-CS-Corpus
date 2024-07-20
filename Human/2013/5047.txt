@@ -1,0 +1,3 @@
+Geographica: A Benchmark for Geospatial RDF Stores
+
+Geospatial extensions of SPARQL like GeoSPARQL and stSPARQL have recently been defined and corresponding geospatial RDF stores have been implemented. However, there is no widely used benchmark for evaluating geospatial RDF stores which takes into account recent advances to the state of the art in this area. In this paper, we develop a benchmark, called Geographica, which uses both real-world and synthetic data to test the offered functionality and the performance of some prominent geospatial RDF stores.

@@ -1,0 +1,3 @@
+Concurrent Timed Port Automata
+
+We present a new and powerful class of automata which are explicitly concurrent and allow a very simple definition of composition. The novelty of these automata is their time-synchronous message-asynchronous communication mechanism. Time synchrony is obtained by using global clock. Message asynchrony is obtained by requiring the automata to react to every input. Explicit concurrency is obtained by marking each transition with a set of input and output messages. We compare these automata with a history based approach which uses the same communication mechanism and show that they are equivalent.

@@ -1,0 +1,3 @@
+Probabilistic Abstractions with Arbitrary Domains
+
+Recent work by Hermanns et al. and Kattenbelt et al. has extended counterexample-guided abstraction refinement (CEGAR) to probabilistic programs. These approaches are limited to predicate abstraction. We present a novel technique, based on the abstract reachability tree recently introduced by Gulavani et al., that can use arbitrary abstract domains and widening operators (in the sense of abstract interpretation). We show how suitable widening operators can deduce loop invariants diffcult to find for predicate abstraction, and propose refinement techniques.

@@ -1,0 +1,3 @@
+SaaS: Speed as a Supervisor for Semi-supervised Learning
+
+We introduce the SaaS Algorithm for semi-supervised learning, which uses learning speed during stochastic gradient descent in a deep neural network to measure the quality of an iterative estimate of the posterior probability of unknown labels. Training speed in supervised learning correlates strongly with the percentage of correct labels, so we use it as an inference criterion for the unknown labels, without attempting to infer the model parameters at first. Despite its simplicity, SaaS achieves state-of-the-art results in semi-supervised learning benchmarks.

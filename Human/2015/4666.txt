@@ -1,0 +1,3 @@
+Python bindings for libcloudph++
+
+This technical note introduces the Python bindings for libcloudph++. The libcloudph++ is a C++ library of algorithms for representing atmospheric cloud microphysics in numerical models. The bindings expose the complete functionality of the library to the Python users. The bindings are implemented using the Boost.Python C++ library and use NumPy arrays. This note includes listings with Python scripts exemplifying the use of selected library components. An example solution for using the Python bindings to access libcloudph++ from Fortran is presented.

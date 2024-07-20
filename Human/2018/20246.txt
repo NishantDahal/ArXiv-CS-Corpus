@@ -1,0 +1,3 @@
+A Simple Algorithm for Computing BOCP
+
+In this article, we devise a concise algorithm for computing BOCP. Our method is simple, easy-to-implement but without loss of efficiency. Given two circular-arc polygons with $m$ and $n$ edges respectively, our method runs in $O(m+n+(l+k)\log l)$ time, using $O(m+n+k)$ space, where $k$ is the number of intersections, and $l$ is the number of {edge}s. Our algorithm has the power to approximate to linear complexity when $k$ and $l$ are small. The superiority of the proposed algorithm is also validated through empirical study.

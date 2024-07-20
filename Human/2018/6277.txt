@@ -1,0 +1,3 @@
+Verifying nonlinear analog and mixed-signal circuits with inputs
+
+We present a new technique for verifying nonlinear and hybrid models with inputs. We observe that once an input signal is fixed, the sensitivity analysis of the model can be computed much more precisely. Based on this result, we propose a new simulation-driven verification algorithm and apply it to a suite of nonlinear and hybrid models of CMOS digital circuits under different input signals. The models are low-dimensional but with highly nonlinear ODEs, with nearly hundreds of logarithmic and exponential terms. Some of our experiments analyze the metastability of bistable circuits with very sensitive ODEs and rigorously establish the connection between metastability recovery time and sensitivity.

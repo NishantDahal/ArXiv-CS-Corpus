@@ -1,0 +1,3 @@
+FFTPL: An Analytic Placement Algorithm Using Fast Fourier Transform for Density Equalization
+
+We propose a flat nonlinear placement algorithm FFTPL using fast Fourier transform for density equalization. The placement instance is modeled as an electrostatic system with the analogy of density cost to the potential energy. A well-defined Poisson's equation is proposed for gradient and cost computation. Our placer outperforms state-of-the-art placers with better solution quality and efficiency.

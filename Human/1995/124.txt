@@ -1,0 +1,3 @@
+Robust Parsing of Spoken Dialogue Using Contextual Knowledge and Recognition Probabilities
+
+In this paper we describe the linguistic processor of a spoken dialogue system. The parser receives a word graph from the recognition module as its input. Its task is to find the best path through the graph. If no complete solution can be found, a robust mechanism for selecting multiple partial results is applied. We show how the information content rate of the results can be improved if the selection is based on an integrated quality score combining word recognition scores and context-dependent semantic predictions. Results of parsing word graphs with and without predictions are reported.

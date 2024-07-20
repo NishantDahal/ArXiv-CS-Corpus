@@ -1,0 +1,3 @@
+Hilbert's Space-filling Curve for Regions with Holes
+
+The paper presents a systematic strategy for implementing Hilbert's space filling curve for use in online exploration tasks and addresses its application in scenarios wherein the space to be searched obstacles (or holes) whose locations are not known a priori. Using the self-similarity and locality preserving properties of Hilbert's space filling curve, a set of evasive maneuvers are prescribed and characterized for online implementation. Application of these maneuvers in the case of non-uniform coverage of spaces and for obstacles of varying sizes is also presented. The results are validated with representative simulations demonstrating the deployment of the approach.

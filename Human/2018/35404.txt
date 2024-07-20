@@ -1,0 +1,3 @@
+Towards a Hands-Free Query Optimizer through Deep Learning
+
+Query optimization remains one of the most important and well-studied problems in database systems. However, traditional query optimizers are complex heuristically-driven systems, requiring large amounts of time to tune for a particular database and requiring even more time to develop and maintain in the first place. In this vision paper, we argue that a new type of query optimizer, based on deep reinforcement learning, can drastically improve on the state-of-the-art. We identify potential complications for future research that integrates deep learning with query optimization, and we describe three novel deep learning based approaches that can lead the way to end-to-end learning-based query optimizers.

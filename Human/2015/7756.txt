@@ -1,0 +1,5 @@
+An approach to computing downward closures
+
+The downward closure of a word language is the set of all (not necessarily contiguous) subwords of its members. It is well-known that the downward closure of any language is regular. While the downward closure appears to be a powerful abstraction, algorithms for computing a finite automaton for the downward closure of a given language have been established only for few language classes.
+  This work presents a simple general method for computing downward closures. For language classes that are closed under rational transductions, it is shown that the computation of downward closures can be reduced to checking a certain unboundedness property.
+  This result is used to prove that downward closures are computable for (i) every language class with effectively semilinear Parikh images that are closed under rational transductions, (ii) matrix languages, and (iii) indexed languages (equivalently, languages accepted by higher-order pushdown automata of order 2).

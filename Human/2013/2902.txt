@@ -1,0 +1,3 @@
+Parallelizing Probabilistic Inference: Some Early Explorations
+
+We report on an experimental investigation into opportunities for parallelism in beliefnet inference.  Specifically, we report on a study performed of the available parallelism, on hypercube style machines, of a set of randomly generated belief nets, using factoring (SPI) style inference algorithms. Our results indicate that substantial speedup is available, but that it is available only through parallelization of individual conformal product operations, and depends critically on finding an appropriate factoring.  We find negligible opportunity for parallelism at the topological, or clustering tree, level.

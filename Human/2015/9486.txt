@@ -1,0 +1,6 @@
+Approximating (Unweighted) Tree Augmentation via Lift-and-Project, Part I: Stemless TAP
+
+In Part I, we study a special case of the unweighted Tree Augmentation Problem (TAP) via the Lasserre (Sum of Squares) system. In the special case, we forbid so-called stems; these are a particular type of subtree configuration. For stemless TAP, we prove that the integrality ratio of an SDP relaxation (the Lasserre tightening of an LP relaxation) is $\leq \frac{3}{2}+ε$, where $ε>0$ can be any small constant. We obtain this result by designing a polynomial-time algorithm for stemless TAP that achieves an approximation guarantee of ($\frac32+ε$) relative to the SDP relaxation. The algorithm is combinatorial and does not solve the SDP relaxation, but our analysis relies on the SDP relaxation.
+  We generalize the combinatorial analysis of integral solutions from the previous literature to fractional solutions by identifying some properties of fractional solutions of the Lasserre system via the decomposition result of Karlin, Mathieu and Nguyen (IPCO 2011).
+  Also, we present an example of stemless TAP such that the approximation guarantee of $\frac32$ is tight for the algorithm.
+  In Part II of this paper, we extend the methods of Part I to prove the same results relative to the same SDP relaxation for TAP.

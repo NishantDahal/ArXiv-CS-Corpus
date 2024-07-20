@@ -1,0 +1,3 @@
+Rabin-$p$ Cryptosystem: Practical and Efficient Method for Rabin based Encryption Scheme
+
+In this work, we introduce a new, efficient and practical scheme based on the Rabin cryptosystem without using the Jacobi symbol, message redundancy technique or the needs of extra bits in order to specify the correct plaintext. Our system involves only a single prime number as the decryption key and does only one modular exponentiation. Consequently, this will practically reduce the computational efforts during decryption process. We demonstrate that the decryption is unique and proven to be equivalent to factoring.The scheme is performs better when compared to a number of Rabin cryptosystem variants.

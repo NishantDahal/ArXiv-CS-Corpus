@@ -1,0 +1,5 @@
+Implicit complexity via structure transformation
+
+Implicit computational complexity, which aims at characterizing complexity classes by machine-independent means, has traditionally been based, on the one hand, on programs and deductive formalisms for free algebras, and on the other hand on descriptive tools for finite structures.
+  We consider here "uninterpreted" programs for the transformation of finite structures, which define functions over a free algebra A once the elements of A are themselves considered as finite structures. We thus bridge the gap between the two approaches above to implicit complexity, with the potential of streamlining and clarifying important tools and techniques, such as set-existence and ramification.
+  We illustrate this potential by delineating a broad class of programs, based on the notion of loop variant familiar from imperative program construction, that characterizes a generic notion of primitive-recursive complexity, without reference to any data-driven recurrence.

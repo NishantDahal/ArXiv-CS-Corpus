@@ -1,0 +1,4 @@
+A Tight Bound for Minimal Connectivity
+
+For minimally $k$-connected graphs on $n$ vertices, Mader proved a tight lower bound for the number $|V_k|$ of vertices of degree $k$ in dependence on $n$ and $k$. Oxley observed 1981 that in many cases a considerably better bound can be given if $m := |E|$ is used as additional parameter, i.e. in dependence on $m$, $n$ and $k$. It was left open to determine whether Oxley's bound is best possible.
+  We show that this is not the case, but propose a closely related bound that deviates from Oxley's long-standing one only for small values of $m$. We prove that this new bound is best possible. The bound contains Mader's bound as special case.

@@ -1,0 +1,3 @@
+Label Refinement Network for Coarse-to-Fine Semantic Segmentation
+
+We consider the problem of semantic image segmentation using deep convolutional neural networks. We propose a novel network architecture called the label refinement network that predicts segmentation labels in a coarse-to-fine fashion at several resolutions. The segmentation labels at a coarse resolution are used together with convolutional features to obtain finer resolution segmentation labels. We define loss functions at several stages in the network to provide supervisions at different stages. Our experimental results on several standard datasets demonstrate that the proposed model provides an effective way of producing pixel-wise dense image labeling.

@@ -1,0 +1,6 @@
+Improved Extractors for Affine Lines
+
+Let $F$ be the field of $q$ elements.
+  We investigate the following Ramsey coloring problem for vector spaces: Given a vector space $\F^n$, give a coloring of the points of $F^n$ with two colors such that no affine line (i.e., affine subspace of dimension $1$) is monochromatic. Our main result is as follows:
+  For any $q\geq 25\cdot n$ and $n>4$, we give an explicit coloring $D:F^n\ar \set{0,1}$ such that for every affine line $l\subseteq F^n$, $D(l)=\set{0,1}$. Previously this was known only for $q\geq c\cdot n^2$ for some constant $c$ \cite{GR05}. We note that this beats the random coloring for which the expected number of monochromatic lines will be 0 only when $q\geq c\cdot n\log n$ for some constant $c$. Furthermore, our coloring will be `almost balanced' on every affine line. Let us state this formally in the lanuage of \emph{extractors}. We say that a function $D:F^n\mapsto \set{0,1}$ is a \afsext{1}{\eps} if for every affine line $l\subseteq \F^n$, $D(X)$ is $\eps$-close to uniform when $X$ is uniformly distributed over $l$. We construct a \afsext{1}{\eps} with $\eps = Ω(\sqrt{n/q})$ whenever $q\geq c\cdot n$ for some constant $c$.
+  The previous result of \cite{GR05} gave a \afsext{1}{\eps} only for $q=Ω(n^2)$.

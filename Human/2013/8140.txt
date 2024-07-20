@@ -1,0 +1,3 @@
+Hierarchized block wise image approximation by greedy pursuit strategies
+
+An approach for effective implementation of greedy selection methodologies, to approximate an image partitioned into blocks, is proposed. The method is specially designed for approximating partitions on a transformed image. It evolves by selecting, at each iteration step, i) the elements for approximating each of the blocks partitioning the image and ii) the hierarchized sequence in which the blocks are approximated to reach the required global condition on sparsity.

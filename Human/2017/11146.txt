@@ -1,0 +1,3 @@
+An improved kernel for the cycle contraction problem
+
+The problem of modifying a given graph to satisfy certain properties has been one of the central topics in parameterized tractability study. In this paper, we study the cycle contraction problem, which makes a graph into a cycle by edge contractions. The problem has been studied {by Belmonte et al. [IPEC 2013]} who obtained a linear kernel with at most $6k+6$ vertices. We provide an improved kernel with at most $5k+4$ vertices for it in this paper.

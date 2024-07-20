@@ -1,0 +1,3 @@
+Large-Scale Plant Classification with Deep Neural Networks
+
+This paper discusses the potential of applying deep learning techniques for plant classification and its usage for citizen science in large-scale biodiversity monitoring. We show that plant classification using near state-of-the-art convolutional network architectures like ResNet50 achieves significant improvements in accuracy compared to the most widespread plant classification application in test sets composed of thousands of different species labels. We find that the predictions can be confidently used as a baseline classification in citizen science communities like iNaturalist (or its Spanish fork, Natusfera) which in turn can share their data with biodiversity portals like GBIF.

@@ -1,0 +1,3 @@
+Two algorithms for the package-exchange robot-routing problem
+
+We present and analyze two new algorithms for the package-exchange robot-routing problem (PERR): restriction to inidividual paths (RIP) and bubbletree. RIP provably produces a makespan that is $O(\text{SIC}+k^2)$, where SIC is the sum of the lengths of the individual paths and $k$ is the number of robots. Bubbletree produces a makespan that is $O(n)$, where $n$ is the number of nodes. With optimizations bubbletree can also achieve a makespan of $O((k+l)\text{log}k)$, where $l$ is the longest path from start to goal in the bubbletree subgraph.

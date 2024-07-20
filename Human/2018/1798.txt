@@ -1,0 +1,3 @@
+Deep Residual Learning and PDEs on Manifold
+
+In this paper, we formulate the deep residual network (ResNet) as a control problem of transport equation. In ResNet, the transport equation is solved along the characteristics. Based on this observation, deep neural network is closely related to the control problem of PDEs on manifold. We propose several models based on transport equation and Hamilton-Jacobi equation. The discretization of these PDEs on point cloud is also discussed.

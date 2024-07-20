@@ -1,0 +1,3 @@
+On a Relationship between the Correct Probability of Estimation from Correlated Data and Mutual Information
+
+Let $X$, $Y$ be two correlated discrete random variables. We consider an estimation of $X$ from encoded data $\varphi(Y)$ of $Y$ by some encoder function $\varphi(Y)$. We derive an inequality describing a relation of the correct probability of estimation and the mutual information between $X$ and $\varphi(Y)$. This inequality may be useful for the secure analysis of crypto system when we use the success probability of estimating secret data as a security criterion. It also provides an intuitive meaning of the secrecy exponent in the strong secrecy criterion.

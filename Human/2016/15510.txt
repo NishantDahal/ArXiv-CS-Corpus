@@ -1,0 +1,4 @@
+Spatio-temporal features of FocusST
+
+In this technical report we summarise the spatio-temporal features and present the core operators of FocusST specification framework. We present the general idea of these operators, using a Steam Boiler System example to illustrate how the specification framework can be applied.
+  FocusST was inspired by Focus, a framework for formal specification and development of interactive systems. In contrast to Focus, FocusST is devoted to specify and to analyse spatial (S) and timing (T) aspects of the systems, which is also reflected in the name of the framework: the extension ST highlights the spatio-temporal nature of the specifications.

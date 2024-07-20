@@ -1,0 +1,3 @@
+Measuring the Impact of Spectre and Meltdown
+
+The Spectre and Meltdown flaws in modern microprocessors represent a new class of attacks that have been difficult to mitigate. The mitigations that have been proposed have known performance impacts. The reported magnitude of these impacts varies depending on the industry sector and expected workload characteristics. In this paper, we measure the performance impact on several workloads relevant to HPC systems. We show that the impact can be significant on both synthetic and realistic workloads. We also show that the performance penalties are difficult to avoid even in dedicated systems where security is a lesser concern.

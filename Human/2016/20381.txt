@@ -1,0 +1,5 @@
+On the Sensitivity Conjecture for Disjunctive Normal Forms
+
+The sensitivity conjecture of Nisan and Szegedy [CC '94] asks whether for any Boolean function $f$, the maximum sensitivity $s(f)$, is polynomially related to its block sensitivity $bs(f)$, and hence to other major complexity measures. Despite major advances in the analysis of Boolean functions over the last decade, the problem remains widely open.
+  In this paper, we consider a restriction on the class of Boolean functions through a model of computation (DNF), and refer to the functions adhering to this restriction as admitting the Normalized Block property. We prove that for any function $f$ admitting the Normalized Block property, $bs(f) \leq 4s(f)^2$. We note that (almost) all the functions mentioned in literature that achieve a quadratic separation between sensitivity and block sensitivity admit the Normalized Block property.
+  Recently, Gopalan et al. [ITCS '16] showed that every Boolean function $f$ is uniquely specified by its values on a Hamming ball of radius at most $2s(f)$. We extend this result and also construct examples of Boolean functions which provide the matching lower bounds.

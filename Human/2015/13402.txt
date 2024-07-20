@@ -1,0 +1,3 @@
+"Memory foam" approach to unsupervised learning
+
+We propose an alternative approach to construct an artificial learning system, which naturally learns in an unsupervised manner. Its mathematical prototype is a dynamical system, which automatically shapes its vector field in response to the input signal. The vector field converges to a gradient of a multi-dimensional probability density distribution of the input process, taken with negative sign. The most probable patterns are represented by the stable fixed points, whose basins of attraction are formed automatically. The performance of this system is illustrated with musical signals.

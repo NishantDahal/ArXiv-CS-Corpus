@@ -1,0 +1,3 @@
+Formal Data Validation with Event-B
+
+This article presents a verification and validation activity performed in an industrial context, to validate configuration data of a metro CBTC system by creating a formal B model of these configuration data and of their properties. A double tool chain is used to safely check whether a certain given input of configuration data fulfill its properties. One tool is based on some Rodin and open source plug-ins and the other tool is based on ProB.

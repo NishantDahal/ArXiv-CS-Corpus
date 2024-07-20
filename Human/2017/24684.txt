@@ -1,0 +1,3 @@
+Directional Statistics and Filtering Using libDirectional
+
+In this paper, we present libDirectional, a MATLAB library for directional statistics and directional estimation. It supports a variety of commonly used distributions on the unit circle, such as the von Mises, wrapped normal, and wrapped Cauchy distributions. Furthermore, various distributions on higher-dimensional manifolds such as the unit hypersphere and the hypertorus are available. Based on these distributions, several recursive filtering algorithms in libDirectional allow estimation on these manifolds. The functionality is implemented in a clear, well-documented, and object-oriented structure that is both easy to use and easy to extend.

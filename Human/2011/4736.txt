@@ -1,0 +1,4 @@
+Amending Contracts for Choreographies
+
+Distributed interactions can be suitably designed in terms of choreographies. Such abstractions can be thought of as global descriptions of the coordination of several distributed parties. Global assertions define contracts for choreographies by annotating multiparty session types with logical formulae to validate the content of the exchanged messages. The introduction of such constraints is a critical design issue as it may be hard to specify contracts that allow each party to be able to progress without violating the contract. In this paper, we propose three methods that automatically correct inconsistent global assertions. The methods are compared by discussing their applicability and the relationships between the amended global assertions and the original (inconsistent) ones.
+

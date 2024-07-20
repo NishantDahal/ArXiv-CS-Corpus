@@ -1,0 +1,3 @@
+Bayesian Meta-Reasoning: Determining Model Adequacy from Within a Small World
+
+This paper presents a Bayesian framework for assessing the adequacy of a model without the necessity of explicitly enumerating a specific alternate model.  A test statistic is developed for tracking the performance of the model across repeated problem instances. Asymptotic methods are used to derive an approximate distribution for the test statistic. When the model is rejected, the individual components of the test statistic can be used to guide search for an alternate model.

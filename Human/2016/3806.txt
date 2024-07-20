@@ -1,0 +1,6 @@
+Noise Stability and Correlation with Half Spaces
+
+Benjamini, Kalai and Schramm showed that a monotone function $f : \{-1,1\}^n \to \{-1,1\}$ is noise stable if and only if it is correlated with a half-space (a set of the form $\{x: \langle x, a\rangle \le b\}$).
+  We study noise stability in terms of correlation with half-spaces for general (not necessarily monotone) functions. We show that a function $f: \{-1, 1\}^n \to \{-1, 1\}$ is noise stable if and only if it becomes correlated with a half-space when we modify $f$ by randomly restricting a constant fraction of its coordinates.
+  Looking at random restrictions is necessary: we construct noise stable functions whose correlation with any half-space is $o(1)$. The examples further satisfy that different restrictions are correlated with different half-spaces: for any fixed half-space, the probability that a random restriction is correlated with it goes to zero.
+  We also provide quantitative versions of the above statements, and versions that apply for the Gaussian measure on $\mathbb{R}^n$ instead of the discrete cube. Our work is motivated by questions in learning theory and a recent question of Khot and Moshkovitz.

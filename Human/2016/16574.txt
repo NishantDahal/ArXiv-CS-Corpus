@@ -1,0 +1,3 @@
+Multiversion Altruistic Locking
+
+This paper builds on altruistic locking which is an extension of 2PL. It allows more relaxed rules as compared to 2PL. But altruistic locking too enforces some rules which disallow some valid schedules (present in VSR and CSR) to be passed by AL. This paper proposes a multiversion variant of AL which solves this problem. The report also discusses the relationship or comparison between different protocols such as MAL and MV2PL, MAL and AL, MAL and 2PL and so on. This paper also discusses the caveats involved in MAL and where it lies in the Venn diagram of multiversion serializable schedule protocols. Finally, the possible use of MAL in hybrid protocols and the parameters involved in making MAL successful are discussed.

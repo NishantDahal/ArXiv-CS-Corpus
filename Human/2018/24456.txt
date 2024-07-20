@@ -1,0 +1,3 @@
+End-to-end depth from motion with stabilized monocular videos
+
+We propose a depth map inference system from monocular videos based on a novel dataset for navigation that mimics aerial footage from gimbal stabilized monocular camera in rigid scenes. Unlike most navigation datasets, the lack of rotation implies an easier structure from motion problem which can be leveraged for different kinds of tasks such as depth inference and obstacle avoidance. We also propose an architecture for end-to-end depth inference with a fully convolutional network. Results show that although tied to camera inner parameters, the problem is locally solvable and leads to good quality depth prediction.

@@ -1,0 +1,3 @@
+A New Lower Bound for Agnostic Learning with Sample Compression Schemes
+
+We establish a tight characterization of the worst-case rates for the excess risk of agnostic learning with sample compression schemes and for uniform convergence for agnostic sample compression schemes. In particular, we find that the optimal rates of convergence for size-$k$ agnostic sample compression schemes are of the form $\sqrt{\frac{k \log(n/k)}{n}}$, which contrasts with agnostic learning with classes of VC dimension $k$, where the optimal rates are of the form $\sqrt{\frac{k}{n}}$.

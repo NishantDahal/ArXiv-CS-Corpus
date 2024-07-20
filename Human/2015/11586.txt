@@ -1,0 +1,3 @@
+Strong Pseudoprimes to Twelve Prime Bases
+
+Let $ψ_m$ be the smallest strong pseudoprime to the first $m$ prime bases. This value is known for $1 \leq m \leq 11$. We extend this by finding $ψ_{12}$ and $ψ_{13}$. We also present an algorithm to find all integers $n\le B$ that are strong pseudoprimes to the first $m$ prime bases; with a reasonable heuristic assumption we can show that it takes at most $B^{2/3+o(1)}$ time.

@@ -1,0 +1,3 @@
+Generative Adversarial Networks for Recovering Missing Spectral Information
+
+Ultra-wideband (UWB) radar systems nowadays typical operate in the low frequency spectrum to achieve penetration capability. However, this spectrum is also shared by many others communication systems, which causes missing information in the frequency bands. To recover this missing spectral information, we propose a generative adversarial network, called SARGAN, that learns the relationship between original and missing band signals by observing these training pairs in a clever way. Initial results shows that this approach is promising in tackling this challenging missing band problem.

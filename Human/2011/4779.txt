@@ -1,0 +1,3 @@
+Connection and Dispersion of Computation
+
+This paper talk about the influence of Connection and Dispersion on Computational Complexity. And talk about the HornCNF's connection and CNF's dispersion, and show the difference between CNFSAT and HornSAT. First, I talk the relation between MUC decision problem and classifying the truth value assignment. Second, I define the two inner products ("inner product" and "inner harmony") and talk about the influence of orthogonal and correlation to MUC. And we can not reduce MUC to Orthogonalization MUC by using HornMUC in polynomial size because HornMUC have high orthogonal of inner harmony and MUC do not. So DP is not P, and NP is not P.

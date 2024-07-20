@@ -1,0 +1,3 @@
+Some lower bounds in parameterized ${\rm AC}^0$
+
+We demonstrate some lower bounds for parameterized problems via parameterized classes corresponding to the classical ${\rm AC}^0$. Among others, we derive such a lower bound for all fpt-approximations of the parameterized clique problem and for a parameterized halting problem, which recently turned out to link problems of computational complexity, descriptive complexity, and proof theory. To show the first lower bound, we prove a strong ${\rm AC}^0$ version of the planted clique conjecture: ${\rm AC}^0$-circuits asymptotically almost surely can not distinguish between a random graph and this graph with a randomly planted clique of any size $\le n^ξ$ (where $0 \le ξ< 1$).

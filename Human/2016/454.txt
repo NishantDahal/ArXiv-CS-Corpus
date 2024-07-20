@@ -1,0 +1,3 @@
+Scalable Constrained Clustering: A Generalized Spectral Method
+
+We present a simple spectral approach to the well-studied constrained clustering problem. It captures constrained clustering as a generalized eigenvalue problem with graph Laplacians. The algorithm works in nearly-linear time and provides concrete guarantees for the quality of the clusters, at least for the case of 2-way partitioning. In practice this translates to a very fast implementation that consistently outperforms existing spectral approaches both in speed and quality.

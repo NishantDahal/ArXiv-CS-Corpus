@@ -1,0 +1,3 @@
+Practical Conditions for Well-behaved-ness of Anisotropic Voronoi Diagrams
+
+Recently, simple conditions for well-behaved-ness of anisotropic Voronoi diagrams have been proposed. While these conditions ensure well-behaved-ness of two types of practical anisotropic Voronoi diagrams, as well as the geodesic-distance one, in any dimension, they are both prohibitively expensive to evaluate, and not well-suited for typical problems in approximation or optimization. We propose simple conditions that can be efficiently evaluated, and are better suited to practical problems of approximation and optimization. The practical utility of this analysis is enhanced by the fact that orphan-free anisotropic Voronoi diagrams have embedded triangulations as duals.

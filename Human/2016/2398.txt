@@ -1,0 +1,3 @@
+Distributed control and navigation system for quadrotor UAVs in GPS-denied environments
+
+The problem of developing distributed control and navigation system for quadrotor UAVs operating in GPS-denied environments is addressed in the paper. Cooperative navigation, marker detection and mapping task solved by a team of multiple unmanned aerial vehicles is chosen as demo example. Developed intelligent control system complies with on 4D\RCS reference model and its implementation is based on ROS framework. Custom implementation of EKF-based map building algorithm is used to solve marker detection and map building task.

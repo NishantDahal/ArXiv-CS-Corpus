@@ -1,0 +1,3 @@
+Minimum-Distance Based Construction of Multi-Kernel Polar Codes
+
+In this paper, we propose a construction for multi-kernel polar codes based on the maximization of the minimum distance. Compared to the original construction based on density evolution, our new design shows particular advantages for short code lengths, where the polarization effect has less impact on the performance than the distances of the code. We introduce and compute the minimum-distance profile and provide a simple greedy algorithm for the code design. Compared to state-of-the-art punctured or shortened Arikan polar codes, multi-kernel polar codes with our new design show significantly improved error-rate performance.

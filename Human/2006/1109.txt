@@ -1,0 +1,3 @@
+Using groups for investigating rewrite systems
+
+We describe several technical tools that prove to be efficient for investigating the rewrite systems associated with a family of algebraic laws, and might be useful for more general rewrite systems. These tools consist in introducing a monoid of partial operators, listing the monoid relations expressing the possible local confluence of the rewrite system, then introducing the group presented by these relations, and finally replacing the initial rewrite system with a internal process entirely sitting in the latter group. When the approach can be completed, one typically obtains a practical method for constructing algebras satisfying prescribed laws and for solving the associated word problem.

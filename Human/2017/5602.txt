@@ -1,0 +1,3 @@
+SELint: an SEAndroid policy analysis tool
+
+SEAndroid enforcement is now mandatory for Android devices. In order to provide the desired level of security for their products, Android OEMs need to be able to minimize their mistakes in writing SEAndroid policies. However, existing SEAndroid and SELinux tools are not very useful for this purpose. It has been shown that SEAndroid policies found in commercially available devices for multiple manufacturers contain mistakes and redundancies. In this paper we present a new tool, SELint, which aims to help OEMs to produce better SEAndroid policies. SELint is extensible and configurable to suit the needs of different OEMs. It is provided with a default configuration based on the AOSP SEAndroid policy, but can be customized by OEMs.

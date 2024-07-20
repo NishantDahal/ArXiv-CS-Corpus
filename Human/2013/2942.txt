@@ -1,0 +1,3 @@
+On the optimality of a L1/L1 solver for sparse signal recovery from sparsely corrupted compressive measurements
+
+This short note proves the $\ell_2-\ell_1$ instance optimality of a $\ell_1/\ell_1$ solver, i.e a variant of \emph{basis pursuit denoising} with a $\ell_1$ fidelity constraint, when applied to the estimation of sparse (or compressible) signals observed by sparsely corrupted compressive measurements. The approach simply combines two known results due to Y. Plan, R. Vershynin and E. Candès.

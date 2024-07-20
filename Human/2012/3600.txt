@@ -1,0 +1,3 @@
+Efficient Topology-Controlled Sampling of Implicit Shapes
+
+Sampling from distributions of implicitly defined shapes enables analysis of various energy functionals used for image segmentation. Recent work describes a computationally efficient Metropolis-Hastings method for accomplishing this task. Here, we extend that framework so that samples are accepted at every iteration of the sampler, achieving an order of magnitude speed up in convergence. Additionally, we show how to incorporate topological constraints.

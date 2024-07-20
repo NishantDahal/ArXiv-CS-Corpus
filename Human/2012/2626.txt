@@ -1,0 +1,7 @@
+New bounds on the classical and quantum communication complexity of some graph properties
+
+We study the communication complexity of a number of graph properties where the edges of the graph $G$ are distributed between Alice and Bob (i.e., each receives some of the edges as input). Our main results are:
+  * An Omega(n) lower bound on the quantum communication complexity of deciding whether an n-vertex graph G is connected, nearly matching the trivial classical upper bound of O(n log n) bits of communication.
+  * A deterministic upper bound of O(n^{3/2}log n) bits for deciding if a bipartite graph contains a perfect matching, and a quantum lower bound of Omega(n) for this problem.
+  * A Theta(n^2) bound for the randomized communication complexity of deciding if a graph has an Eulerian tour, and a Theta(n^{3/2}) bound for the quantum communication complexity of this problem.
+  The first two quantum lower bounds are obtained by exhibiting a reduction from the n-bit Inner Product problem to these graph problems, which solves an open question of Babai, Frankl and Simon. The third quantum lower bound comes from recent results about the quantum communication complexity of composed functions. We also obtain essentially tight bounds for the quantum communication complexity of a few other problems, such as deciding if G is triangle-free, or if G is bipartite, as well as computing the determinant of a distributed matrix.

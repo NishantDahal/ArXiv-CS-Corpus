@@ -1,0 +1,3 @@
+Auto-Classification of Retinal Diseases in the Limit of Sparse Data Using a Two-Streams Machine Learning Model
+
+Automatic clinical diagnosis of retinal diseases has emerged as a promising approach to facilitate discovery in areas with limited access to specialists. Based on the fact that fundus structure and vascular disorders are the main characteristics of retinal diseases, we propose a novel visual-assisted diagnosis hybrid model mixing the support vector machine (SVM) and deep neural networks (DNNs). Furthermore, we present a new clinical retina dataset, called EyeNet2, for ophthalmology incorporating 52 retina diseases classes. Using EyeNet2, our model achieves 90.43\% diagnosis accuracy, and the model performance is comparable to the professional ophthalmologists.

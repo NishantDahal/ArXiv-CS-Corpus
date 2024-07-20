@@ -1,0 +1,3 @@
+Further developments in generating type-safe messaging
+
+At ICALEPCS '09, we introduced a source code generator that allows processes to communicate safely using data types native to each host language. In this paper, we discuss further development that has occurred since the conference in Kobe, Japan, including the addition of three more client languages, an optimization in network packet size and the addition of a new protocol data type.

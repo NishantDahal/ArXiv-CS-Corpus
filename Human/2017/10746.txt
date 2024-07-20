@@ -1,0 +1,3 @@
+Degenerations of NURBS curves while all of weights approaching infinity
+
+NURBS curve is widely used in Computer Aided Design and Computer Aided Geometric Design. When a single weight approaches infinity, the limit of a NURBS curve tends to the corresponding control point. In this paper, a kind of control structure of a NURBS curve, called regular control curve, is defined. We prove that the limit of the NURBS curve is exactly its regular control curve when all of weights approach infinity, where each weight is multiplied by a certain one-parameter function tending to infinity, different for each control point. Moreover, some representative examples are presented to show this property and indicate its application for shape deformation.

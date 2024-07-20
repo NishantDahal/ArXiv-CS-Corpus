@@ -1,0 +1,3 @@
+Fast Compressive Phase Retrieval from Fourier Measurements
+
+This paper considers the problem of recovering a $k$-sparse, $N$-dimensional complex signal from Fourier magnitude measurements. It proposes a Fourier optics setup such that signal recovery up to a global phase factor is possible with very high probability whenever $M \gtrsim 4k\log_2(N/k)$ random Fourier intensity measurements are available. The proposed algorithm is comprised of two stages: An algebraic phase retrieval stage and a compressive sensing step subsequent to it. Simulation results are provided to demonstrate the applicability of the algorithm for noiseless and noisy scenarios.

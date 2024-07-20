@@ -1,0 +1,3 @@
+Saddle Point Approximation for Outage Probability Using Cumulant Generating Functions
+
+This letter proposes the use of saddle point approximation (SPA) to evaluate the outage probability of wireless cellular networks. Unlike traditional numerical integration-based approaches, the SPA approach relies on cumulant generating functions (CGFs) and eliminates the need for explicit numerical integration. The approach is generic and can be applied to a wide variety of distributions, given that their CGFs exist. We illustrate the usefulness of SPA on channel fading distributions such as Nakagami-$m$, Nakagami-$q$ (Hoyt), and Rician distributions. Numerical results validate the accuracy of the proposed SPA approach.

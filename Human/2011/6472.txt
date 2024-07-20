@@ -1,0 +1,3 @@
+Accelerating QDP++/Chroma on GPUs
+
+Extensions to the C++ implementation of the QCD Data Parallel Interface are provided enabling acceleration of expression evaluation on NVIDIA GPUs. Single expressions are off-loaded to the device memory and execution domain leveraging the Portable Expression Template Engine and using Just-in-Time compilation techniques. Memory management is automated by a software implementation of a cache controlling the GPU's memory. Interoperability with existing Krylov space solvers is demonstrated and special attention is paid on 'Chroma readiness'. Non-kernel routines in lattice QCD calculations typically not subject of hand-tuned optimisations are accelerated which can reduce the effects otherwise suffered from Amdahl's Law.

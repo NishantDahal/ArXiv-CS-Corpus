@@ -1,0 +1,3 @@
+A Generalized Label Correcting Method for Optimal Kinodynamic Motion Planning
+
+A resolution complete optimal kinodynamic motion planning algorithm is presented and described as a generalized label correcting (GLC) method. In contrast to related algorithms, the GLC method does not require a local planning subroutine and benefits from a simple implementation. The key contributions of this paper are the construction and analysis of the GLC conditions which are the basis of the proposed algorithm. Numerical experiments demonstrate the running time of the GLC method to be less than the related SST algorithm.

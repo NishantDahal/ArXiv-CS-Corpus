@@ -1,0 +1,3 @@
+Combating Error Propagation in Window Decoding of Braided Convolutional Codes
+
+In this paper, we study sliding window decoding of braided convolutional codes (BCCs) in the context of a streaming application, where decoder error propagation can be a serious problem. A window extension algorithm and a resynchronization mechanism are introduced to mitigate the effect of error propagation. In addition, we introduce a soft bit-error-rate stopping rule to reduce computational complexity, and the tradeoff between performance and complexity is examined. Simulation results show that, using the proposed window extension algorithm and resynchronization mechanism, the error performance of BCCs can be improved by up to three orders of magnitude with reduced computational complexity.

@@ -1,0 +1,3 @@
+Towards a Concurrent and Distributed Route Selection for Payment Channel Networks
+
+Payment channel networks use off-chain transactions to provide virtually arbitrary transaction rates. In this paper, we provide a new perspective on payment channels and consider them as a flow network. We propose an extended push-relabel algorithm to find payment flows in a payment channel network. Our algorithm enables a distributed and concurrent execution without violating capacity constraints. To this end, we introduce the concept of capacity locking. We prove that flows are valid and present first results.

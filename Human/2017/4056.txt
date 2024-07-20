@@ -1,0 +1,3 @@
+Snafu: Function-as-a-Service (FaaS) Runtime Design and Implementation
+
+Snafu, or Snake Functions, is a modular system to host, execute and manage language-level functions offered as stateless (micro-)services to diverse external triggers. The system interfaces resemble those of commercial FaaS providers but its implementation provides distinct features which make it overall useful to research on FaaS and prototyping of FaaS-based applications. This paper argues about the system motivation in the presence of already existing alternatives, its design and architecture, the open source implementation and collected metrics which characterise the system.

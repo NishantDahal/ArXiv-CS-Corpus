@@ -1,0 +1,3 @@
+Scalable Unix Commands for Parallel Processors: A High-Performance Implementation
+
+We describe a family of MPI applications we call the Parallel Unix Commands. These commands are natural parallel versions of common Unix user commands such as ls, ps, and find, together with a few similar commands particular to the parallel environment. We describe the design and implementation of these programs and present some performance results on a 256-node Linux cluster. The Parallel Unix Commands are open source and freely available.

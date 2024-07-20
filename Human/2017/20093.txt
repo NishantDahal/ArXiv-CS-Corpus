@@ -1,0 +1,3 @@
+Macrogeneration and Automata Libraries For COSMA design environment
+
+In ICS, WUT a COSMA design environment is being developed. COSMA is based on Concurrent State Machines (CSM) formalism of system specification. It contains a graphical tool for system design, various tools for the analysis (including a temporal model checker), simulator and code generator. In many projects, some common susbsystems take place. This concerns both complicated modules and simple counters. In the report, a concept of macrogeneration technique for building of libraries of automata is presented. The new technique will support a compactness of projects and reusability of modules.

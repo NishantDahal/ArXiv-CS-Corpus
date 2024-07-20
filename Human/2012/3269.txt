@@ -1,0 +1,3 @@
+An algorithm for list decoding number field codes
+
+We present an algorithm for list decoding codewords of algebraic number field codes in polynomial time. This is the first explicit procedure for decoding number field codes whose construction were previously described by Lenstra and Guruswami. We rely on an equivalent of the LLL reduction algorithm for $\OK$-modules due to Fieker and Stehlé and on algorithms due to Cohen for computing the Hermite normal form of matrices representing modules over Dedekind domains.

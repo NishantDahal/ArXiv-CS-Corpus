@@ -1,0 +1,3 @@
+Opportunities for a Truffle-based Golo Interpreter
+
+Golo is a simple dynamically-typed language for the Java Virtual Machine. Initially implemented as a ahead-of-time compiler to JVM bytecode, it leverages invokedy-namic and JSR 292 method handles to implement a reasonably efficient runtime. Truffle is emerging as a framework for building interpreters for JVM languages with self-specializing AST nodes. Combined with the Graal compiler, Truffle offers a simple path towards writing efficient interpreters while keeping the engineering efforts balanced. The Golo project is interested in experimenting with a Truffle interpreter in the future, as it would provides interesting comparison elements between invokedynamic versus Truffle for building a language runtime.

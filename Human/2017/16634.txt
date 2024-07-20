@@ -1,0 +1,3 @@
+An Efficient Algorithm for Mixed Domination on Generalized Series-Parallel Graphs
+
+A mixed dominating set $S$ of a graph $G=(V,E)$ is a subset $ S \subseteq V \cup E$ such that each element $v\in (V \cup E) \setminus S$ is adjacent or incident to at least one element in $S$. The mixed domination number $γ_m(G)$ of a graph $G$ is the minimum cardinality among all mixed dominating sets in $G$. The problem of finding $γ_{m}(G)$ is know to be NP-complete. In this paper, we present an explicit polynomial-time algorithm to construct a mixed dominating set of size $γ_{m}(G)$ by a parse tree when $G$ is a generalized series-parallel graph.

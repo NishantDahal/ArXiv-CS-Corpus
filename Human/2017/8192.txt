@@ -1,0 +1,3 @@
+A method for constructing parity-check matrices of non-binary quasi-cyclic LDPC codes
+
+An algorithm for constructing parity-check matrices of non-binary quasi-cyclic low-density parity-check (NB QC-LDPC) codes is proposed. The algorithm finds short cycles in the base matrix and tries to eliminate them by selecting the circulants and the elements of GF(q). Firstly the algorithm tries to eliminate the cycles with the smallest number edges going outside the cycle. The efficiency of the algorithm is demonstrated by means of simulations. In particular, it was shown that NB QC-LDPC codes constructed with use of our algorithm loose less that 0.1 dB in comparison to the best NB LDPC codes.

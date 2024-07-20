@@ -1,0 +1,3 @@
+GPU-based Pedestrian Detection for Autonomous Driving
+
+We propose a real-time pedestrian detection system for the embedded Nvidia Tegra X1 GPU-CPU hybrid platform. The pipeline is composed by the following state-of-the-art algorithms: Histogram of Local Binary Patterns (LBP) and Histograms of Oriented Gradients (HOG) features extracted from the input image; Pyramidal Sliding Window technique for candidate generation; and Support Vector Machine (SVM) for classification. Results show a 8x speedup in the target Tegra X1 platform and a better performance/watt ratio than desktop CUDA platforms in study.

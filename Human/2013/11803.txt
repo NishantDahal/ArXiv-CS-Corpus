@@ -1,0 +1,3 @@
+A Linear-Time and Space Algorithm for Optimal Traffic Signal Durations at an Intersection
+
+Finding an optimal solution of signal traffic control durations is a computationally intensive task. It is typically O(T3) in time, and O(T2) in space, where T is the length of the control interval in discrete time steps. In this paper, we propose a linear time and space algorithm for the same problem. The algorithm provides for an efficient dynamic programming formulation of the state space, the prunes non-optimal states, early on. The paper proves the correctness of the algorithm and provides an initial experimental validation.

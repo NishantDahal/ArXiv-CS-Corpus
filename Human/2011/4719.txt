@@ -1,0 +1,3 @@
+Towards Optimal Sorting of 16 Elements
+
+One of the fundamental problem in the theory of sorting is to find the pessimistic number of comparisons sufficient to sort a given number of elements. Currently 16 is the lowest number of elements for which we do not know the exact value. We know that 46 comparisons suffices and that 44 do not. There is an open question if 45 comparisons are sufficient. We present an attempt to resolve that problem by performing an exhaustive computer search. We also present an algorithm for counting linear extensions which substantially speeds up computations.

@@ -1,0 +1,3 @@
+Accelerating cellular automata simulations using AVX and CUDA
+
+We investigated various methods of parallelization of the Frish-Hasslacher-Pomeau (FHP) cellular automata algorithm for modeling fluid flow. These methods include SSE, AVX, and POSIX Threads for central processing units (CPUs) and CUDA for graphics processing units (GPUs). We present implementation details of the FHP algorithm based on AVX/SSE and CUDA technologies. We found that (a) using AVX or SSE is necessary to fully utilize the potential of modern CPUs; (b) CPUs and GPUs are comparable in terms of computational and economic efficiency only if the CPU code uses AVX or SSE instructions; (c) AVX does not offer any substantial improvement relative to SSE.

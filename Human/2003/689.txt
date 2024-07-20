@@ -1,0 +1,3 @@
+Combining Logic Programs and Monadic Second Order Logics by Program Transformation
+
+We present a program synthesis method based on unfold/fold transformation rules which can be used for deriving terminating definite logic programs from formulas of the Weak Monadic Second Order theory of one successor (WS1S). This synthesis method can also be used as a proof method which is a decision procedure for closed formulas of WS1S. We apply our synthesis method for translating CLP(WS1S) programs into logic programs and we use it also as a proof method for verifying safety properties of infinite state systems.

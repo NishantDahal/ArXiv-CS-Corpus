@@ -1,0 +1,3 @@
+A method to align time series segments based on envelope features as anchor points
+
+In the time series analysis field, there is not a unique recipe for studying signal similarities. On the other hand, averaging signals of the same nature is an essential tool in the analysis of different kinds of data. Here we propose a method to align and average segments of time series with similar patterns. A simple implementation based on \textit{python} code is provided for the procedure. The analysis was inspired by the study of canary sound syllables, but it is possible to apply it in semi periodic signals of different nature and not necessarily related to sounds.

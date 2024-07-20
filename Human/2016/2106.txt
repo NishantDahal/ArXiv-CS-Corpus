@@ -1,0 +1,9 @@
+Efficient Reassembling of Graphs, Part 2: The Balanced Case
+
+The reassembling of a simple connected graph G = (V,E) is an abstraction of a problem arising in earlier studies of network analysis. The reassembling process has a simple formulation (there are several equivalent formulations) relative to a binary tree B (reassembling tree), with root node at the top and $n$ leaf nodes at the bottom, where every cross-section corresponds to a partition of V such that:
+  - the bottom (or first) cross-section (all the leaves) is the finest partition of V with n one-vertex blocks,
+  - the top (or last) cross-section (the root) is the coarsest partition with a single block, the entire set V,
+  - a node (or block) in an intermediate cross-section (or partition) is the result of merging its two children nodes (or blocks) in the cross-section (or partition) below it.
+  The maximum edge-boundary degree encountered during the reassembling process is what we call the alpha-measure of the reassembling, and the sum of all edge-boundary degrees is its beta-measure. The alpha-optimization (resp. beta-optimization) of the reassembling of G is to determine a reassembling tree B that minimizes its alpha-measure (resp. beta-measure).
+  There are different forms of reassembling. In an earlier report, we studied linear reassembling, which is the case when the height of B is (n-1). In this report, we study balanced reassembling, when B has height [log n].
+  The two main results in this report are the NP-hardness of alpha-optimization and beta-optimization of balanced reassembling. The first result is obtained by a sequence of polynomial-time reductions from minimum bisection of graphs (known to be NP-hard), and the second by a sequence of polynomial-time reductions from clique cover of graphs (known to be NP-hard).

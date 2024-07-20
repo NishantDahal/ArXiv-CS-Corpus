@@ -1,0 +1,3 @@
+Counting Solutions to Binomial Complete Intersections
+
+We study the problem of counting the total number of affine solutions of a system of n binomials in n variables over an algebraically closed field of characteristic zero. We show that we may decide in polynomial time if that number is finite. We give a combinatorial formula for computing the total number of affine solutions (with or without multiplicity) from which we deduce that this counting problem is #P-complete. We discuss special cases in which this formula may be computed in polynomial time; in particular, this is true for generic exponent vectors.

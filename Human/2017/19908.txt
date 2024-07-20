@@ -1,0 +1,3 @@
+Multi-modal Aggregation for Video Classification
+
+In this paper, we present a solution to Large-Scale Video Classification Challenge (LSVC2017) [1] that ranked the 1st place. We focused on a variety of modalities that cover visual, motion and audio. Also, we visualized the aggregation process to better understand how each modality takes effect. Among the extracted modalities, we found Temporal-Spatial features calculated by 3D convolution quite promising that greatly improved the performance. We attained the official metric mAP 0.8741 on the testing set with the ensemble model.

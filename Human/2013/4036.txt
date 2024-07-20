@@ -1,0 +1,3 @@
+Solving the minimum sum coloring problem via binary quadratic programming
+
+In recent years, binary quadratic programming (BQP) has been successively applied to solve several combinatorial optimization problems. We consider in this paper a study of using the BQP model to solve the minimum sum coloring problem (MSCP). For this purpose, we recast the MSCP with a quadratic model which is then solved via a recently proposed Path Relinking (PR) algorithm designed for the general BQP. Based on a set of MSCP benchmark instances, we investigate the performance of this solution approach compared with existing methods.

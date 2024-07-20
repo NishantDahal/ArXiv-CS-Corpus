@@ -1,0 +1,3 @@
+On Newton-Raphson iteration for multiplicative inverses modulo prime powers
+
+We study algorithms for the fast computation of modular inverses. Newton-Raphson iteration over $p$-adic numbers gives a recurrence relation computing modular inverse modulo $p^m$, that is logarithmic in $m$. We solve the recurrence to obtain an explicit formula for the inverse. Then we study different implementation variants of this iteration and show that our explicit formula is interesting for small exponent values but slower or large exponent, say of more than $700$ bits. Overall we thus propose a hybrid combination of our explicit formula and the best asymptotic variants. This hybrid combination yields then a constant factor improvement, also for large exponents.

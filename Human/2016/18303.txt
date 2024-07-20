@@ -1,0 +1,3 @@
+On the Sum of Linear Coefficients of a Boolean Valued Function
+
+Let $f:\{-1,1\}^{n}\rightarrow \{-1,1\}$ be a Boolean valued function having total degree $d$. Then a conjecture due to Servedio and Gopalan asserts that $\sum_{i=1}^{n}\widehat{f}(i)\leq \sum_{j=1}^{d}\widehat{\text{Maj}}_{d}(j)$ where $\text{Maj}_{d}$ is the majority function on $d$ bits. Here we give some alternative formalisms of this conjecture involving the discrete derivative operators on $f$.

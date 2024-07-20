@@ -1,0 +1,4 @@
+Forbidden formations in 0-1 matrices
+
+Keszegh (2009) proved that the extremal function $ex(n, P)$ of any forbidden light $2$-dimensional 0-1 matrix $P$ is at most quasilinear in $n$, using a reduction to generalized Davenport-Schinzel sequences. We extend this result to multidimensional matrices by proving that any light $d$-dimensional 0-1 matrix $P$ has extremal function $ex(n, P,d) = O(n^{d-1}2^{α(n)^{t}})$ for some constant $t$ that depends on $P$.
+  To prove this result, we introduce a new family of patterns called $(P, s)$-formations, which are a generalization of $(r, s)$-formations, and we prove upper bounds on their extremal functions. In many cases, including permutation matrices $P$ with at least two ones, we are able to show that our $(P, s)$-formation upper bounds are tight.

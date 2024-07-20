@@ -1,0 +1,3 @@
+Multi-Step Regression Learning for Compositional Distributional Semantics
+
+We present a model for compositional distributional semantics related to the framework of Coecke et al. (2010), and emulating formal semantics by representing functions as tensors and arguments as vectors. We introduce a new learning method for tensors, generalising the approach of Baroni and Zamparelli (2010). We evaluate it on two benchmark data sets, and find it to outperform existing leading methods. We argue in our analysis that the nature of this learning method also renders it suitable for solving more subtle problems compositional distributional models might face.

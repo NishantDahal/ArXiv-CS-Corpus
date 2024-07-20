@@ -1,0 +1,3 @@
+On the Hardnesses of Several Quantum Decoding Problems
+
+We classify the time complexities of three important decoding problems for quantum stabilizer codes. First, regardless of the channel model, quantum bounded distance decoding is shown to be NP-hard, like what Berlekamp, McEliece and Tilborg did for classical binary linear codes in 1978. Then over the depolarizing channel, the decoding problems for finding a most likely error and for minimizing the decoding error probability are also shown to be NP-hard. Our results indicate that finding a polynomial-time decoding algorithm for general stabilizer codes may be impossible, but this, on the other hand, strengthens the foundation of quantum code-based cryptography.

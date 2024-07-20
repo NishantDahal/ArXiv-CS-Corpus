@@ -1,0 +1,3 @@
+Symmetric Subresultants and Applications
+
+Schur's transforms of a polynomial are used to count its roots in the unit disk. These are generalized them by introducing the sequence of symmetric sub-resultants of two polynomials. Although they do have a determinantal definition, we show that they satisfy a structure theorem which allows us to compute them with a type of Euclidean division. As a consequence, a fast algorithm based on a dichotomic process and FFT is designed. We prove also that these symmetric sub-resultants have a deep link with Toeplitz matrices. Finally, we propose a new algorithm of inversion for such matrices. It has the same cost as those already known, however it is fraction-free and consequently well adapted to computer algebra.

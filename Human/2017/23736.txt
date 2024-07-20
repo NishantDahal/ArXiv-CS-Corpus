@@ -1,0 +1,3 @@
+Bodily aware soft robots: integration of proprioceptive and exteroceptive sensors
+
+Being aware of our body has great importance in our everyday life. This is the reason why we know how to move in a dark room or to grasp a complex object. These skills are important for robots as well, however, robotic bodily awareness is still an unsolved problem. In this paper we present a novel method to implement bodily awareness in soft robots by the integration of exteroceptive and proprioceptive sensors. We use a combination of a stacked convolutional autoencoder and a recurrent neural network to map internal sensory signals to visual information. As a result, the simulated soft robot can learn to \textit{imagine} its motion even when its visual sensor is not available.

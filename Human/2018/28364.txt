@@ -1,0 +1,5 @@
+Two (Known) Results About Graphs with No Short Odd Cycles
+
+Consider a graph with $n$ vertices where the shortest odd cycle is of length $>2k+1$. We revisit two known results about such graphs:
+  (I) Such a graph is almost bipartite, in the sense that it can be made bipartite by removing from it $O\bigl( (n/k) \log (n/k) \bigr)$ vertices. While this result is known [GKL97] -- our new proof seems to yield slightly better constants, and is (arguably) conceptually simpler. To this end, we state (and prove) a version of CKR partitions [CKR01, FRT04] that has a small vertex separator, and it might be of independent interest. While this must be known in the literature, we were unable to find a reference to it, and it is included for the sake of completeness.
+  (II) While such graphs can be quite dense (e.g., consider a the bipartite clique, which has no odd cycles), they have a large independent set. Specifically, we prove that such graphs have independent sets of size $\geq \bigl(1-o(1)\bigr)n^{k/(k+1)}$. Again, this result is known and is implied by the work of Shearer [She95], but our proof is simpler and (seems to) yield a better constant.

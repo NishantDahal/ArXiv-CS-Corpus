@@ -1,0 +1,3 @@
+Improved Approximate Rips Filtrations with Shifted Integer Lattices
+
+Rips complexes are important structures for analyzing topological features of metric spaces. Unfortunately, generating these complexes constitutes an expensive task because of a combinatorial explosion in the complex size. For $n$ points in $\mathbb{R}^d$, we present a scheme to construct a $3\sqrt{2}$-approximation of the multi-scale filtration of the $L_\infty$-Rips complex, which extends to a $O(d^{0.25})$-approximation of the Rips filtration for the Euclidean case. The $k$-skeleton of the resulting approximation has a total size of $n2^{O(d\log k)}$. The scheme is based on the integer lattice and on the barycentric subdivision of the $d$-cube.

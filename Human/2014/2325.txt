@@ -1,0 +1,4 @@
+Breaking the PPSZ Barrier for Unique 3-SAT
+
+The PPSZ algorithm by Paturi, Pudlák, Saks, and Zane (FOCS 1998) is the fastest known algorithm for (Promise) Unique k-SAT. We give an improved algorithm with exponentially faster bounds for Unique 3-SAT.
+  For uniquely satisfiable 3-CNF formulas, we do the following case distinction: We call a clause critical if exactly one literal is satisfied by the unique satisfying assignment. If a formula has many critical clauses, we observe that PPSZ by itself is already faster. If there are only few clauses allover, we use an algorithm by Wahlström (ESA 2005) that is faster than PPSZ in this case. Otherwise we have a formula with few critical and many non-critical clauses. Non-critical clauses have at least two literals satisfied; we show how to exploit this to improve PPSZ.

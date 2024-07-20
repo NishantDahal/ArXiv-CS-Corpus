@@ -1,0 +1,3 @@
+The Hush Cryptosystem
+
+In this paper we describe a new cryptosystem we call "The Hush Cryptosystem" for hiding encrypted data in innocent Arabic sentences. The main purpose of this cryptosystem is to fool observer-supporting software into thinking that the encrypted data is not encrypted at all. We employ a modified Word Substitution Method known as the Grammatical Substitution Method in our cryptosystem. We also make use of Hidden Markov Models. We test our cryptosystem using a computer program written in the Java Programming Language. Finally, we test the output of our cryptosystem using statistical tests.

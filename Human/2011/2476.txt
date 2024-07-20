@@ -1,0 +1,3 @@
+Computing in the fractal cloud: modular generic solvers for SAT and Q-SAT variants
+
+Abstract geometrical computation can solve hard combinatorial problems efficiently: we showed previously how Q-SAT can be solved in bounded space and time using instance-specific signal machines and fractal parallelization. In this article, we propose an approach for constructing a particular generic machine for the same task. This machine deploies the Map/Reduce paradigm over a fractal structure. Moreover our approach is modular: the machine is constructed by combining modules. In this manner, we can easily create generic machines for solving satifiability variants, such as SAT, #SAT, MAX-SAT.

@@ -1,0 +1,3 @@
+Graph Spectral Properties of Deterministic Finite Automata
+
+We prove that a minimal automaton has a minimal adjacency matrix rank and a minimal adjacency matrix nullity using equitable partition (from graph spectra theory) and Nerode partition (from automata theory). This result naturally introduces the notion of matrix rank into a regular language L, the minimal adjacency matrix rank of a deterministic automaton that recognises L. We then define and focus on rank-one languages: the class of languages for which the rank of minimal automaton is one. We also define the expanded canonical automaton of a rank-one language.

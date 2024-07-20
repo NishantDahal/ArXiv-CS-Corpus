@@ -1,0 +1,3 @@
+Confidence driven TGV fusion
+
+We introduce a novel model for spatially varying variational data fusion, driven by point-wise confidence values. The proposed model allows for the joint estimation of the data and the confidence values based on the spatial coherence of the data. We discuss the main properties of the introduced model as well as suitable algorithms for estimating the solution of the corresponding biconvex minimization problem and their convergence. The performance of the proposed model is evaluated considering the problem of depth image fusion by using both synthetic and real data from publicly available datasets.

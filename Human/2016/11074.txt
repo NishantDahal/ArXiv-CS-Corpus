@@ -1,0 +1,3 @@
+Unit Interval Vertex Deletion: Fewer Vertices are Relevant
+
+The unit interval vertex deletion problem asks for a set of at most $k$ vertices whose deletion from an $n$-vertex graph makes it a unit interval graph. We develop an $O(k^4)$-vertex kernel for the problem, significantly improving the $O(k^{53})$-vertex kernel of Fomin, Saurabh, and Villanger [ESA'12; SIAM J. Discrete Math 27(2013)]. We introduce a novel way of organizing cliques of a unit interval graph. Our constructive proof for the correctness of our algorithm, using interval models, greatly simplifies the destructive proofs, based on forbidden induced subgraphs, for similar problems in literature.

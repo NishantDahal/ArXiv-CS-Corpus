@@ -1,0 +1,3 @@
+DETOx: Towards Optimal Software-based Soft-Error Detector Configurations
+
+Application developers often place executable assertions -- equipped with program-specific predicates -- in their system, targeting programming errors. However, these detectors can detect data errors resulting from transient hardware faults in main memory as well. But while an assertion reduces silent data corruptions (SDCs) in the program state they check, they add runtime to the target program that increases the attack surface for the remaining state. This article outlines an approach to find an optimal subset of assertions that minimizes the SDC count, without the need to run fault-injection experiments for every possible assertion subset.

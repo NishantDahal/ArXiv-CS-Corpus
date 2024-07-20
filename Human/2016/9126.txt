@@ -1,0 +1,3 @@
+Formal Semantics and Soundness of a Translation from Event-B Actions to SQL Statements
+
+The EventB2SQL tool translates Event-B models to persistent Java applications that store the state of the model in a relational database. Most Event-B assignments are translated directly to SQL database modification statements, which can then be executed against the database. In this work, we present a formal semantics for and prove the soundness of the translation of sets of assignment statements representing the actions of an Event-B event. This allows the generated code to be used with confidence in its correctness.

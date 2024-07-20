@@ -1,0 +1,3 @@
+Advances in Experience Replay
+
+This project combines recent advances in experience replay techniques, namely, Combined Experience Replay (CER), Prioritized Experience Replay (PER), and Hindsight Experience Replay (HER). We show the results of combinations of these techniques with DDPG and DQN methods. CER always adds the most recent experience to the batch. PER chooses which experiences should be replayed based on how beneficial they will be towards learning. HER learns from failure by substituting the desired goal with the achieved goal and recomputing the reward function. The effectiveness of combinations of these experience replay techniques is tested in a variety of OpenAI gym environments.

@@ -1,0 +1,3 @@
+Aliasing-truncation Errors in Sampling Approximations of Sub-Gaussian Signals
+
+The article starts with new aliasing-truncation error upper bounds in the sampling theorem for non-bandlimited stochastic signals. Then, it investigates $L_p([0,T])$ approximations of sub-Gaussian random signals. Explicit truncation error upper bounds are established. The obtained rate of convergence provides a constructive algorithm for determining the sampling rate and the sample size in the truncated Whittaker-Kotel'nikov-Shannon expansions to ensure the approximation of sub-Gaussian signals with given accuracy and reliability. Some numerical examples are presented.

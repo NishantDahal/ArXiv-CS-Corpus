@@ -1,0 +1,3 @@
+Coalition Formation Game for Cooperative Cognitive Radio Using Gibbs Sampling
+
+This paper considers a cognitive radio network in which each secondary user selects a primary user to assist in order to get a chance of accessing the primary user channel. Thus, each group of secondary users assisting the same primary user forms a coaltion. Within each coalition, sequential relaying is employed, and a relay ordering algorithm is used to make use of the relays in an efficient manner. It is required then to find the optimal sets of secondary users assisting each primary user such that the sum of their rates is maximized. The problem is formulated as a coalition formation game, and a Gibbs Sampling based algorithm is used to find the optimal coalition structure.

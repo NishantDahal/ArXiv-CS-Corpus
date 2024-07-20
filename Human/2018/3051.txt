@@ -1,0 +1,3 @@
+On the P vs NP question: a proof of inequality
+
+The analysis discussed in this paper is based on a well-known NP-complete problem which is called satisfiability problem or SAT. From SAT a new NP-complete problem is derived, which is described by a Boolean function called core function. In this paper it is proved that the cost of the minimal implementation of core function increases with n exponentially. Since the synthesis of core function is an NP-complete problem, this result is equivalent to proving that P and NP do not coincide.

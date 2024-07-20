@@ -1,0 +1,3 @@
+Ticket Coverage: Putting Test Coverage into Context
+
+There is no metric that determines how well the implementation of a ticket has been tested. As a consequence, code changed within the context of a ticket might unintentionally remain untested and get into production. This is a major problem, because changed code is more fault-prone than unchanged code. In this paper, we introduce the metric ticket coverage which puts test coverage into the context of tickets. For each ticket, it determines the ratio of changed methods covered by automated or manual tests. We conducted an empirical study on an industrial system consisting of 650k lines of Java code and show that ticket coverage brings transparency into the test state of tickets and reveals relevant test gaps.

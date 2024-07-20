@@ -1,0 +1,3 @@
+Non-local RoIs for Instance Segmentation
+
+We introduce the concept of Non-Local RoI (NL-RoI) Block as a generic and flexible module that can be seamlessly adapted into different Mask R-CNN heads for various tasks. Mask R-CNN treats RoIs (Regions of Interest) independently and performs the prediction based on individual object bounding boxes. However, the correlation between objects may provide useful information for detection and segmentation. The proposed NL-RoI Block enables each RoI to refer to all other RoIs' information, and results in a simple, low-cost but effective module. Our experimental results show that generalizations with NL-RoI Blocks can improve the performance of Mask R-CNN for instance segmentation on the Robust Vision Challenge benchmarks.

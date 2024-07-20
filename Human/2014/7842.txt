@@ -1,0 +1,3 @@
+Alternating Strategies Are Good For Low-Rank Matrix Reconstruction
+
+This article focuses on the problem of reconstructing low-rank matrices from underdetermined measurements using alternating optimization strategies. We endeavour to combine an alternating least-squares based estimation strategy with ideas from the alternating direction method of multipliers (ADMM) to recover structured low-rank matrices, such as Hankel structure. We show that merging these two alternating strategies leads to a better performance than the existing alternating least squares (ALS) strategy. The performance is evaluated via numerical simulations.

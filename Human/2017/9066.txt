@@ -1,0 +1,3 @@
+Fast Statistical Timing Analysis for Circuits with Post-Silicon Tunable Clock Buffers
+
+Post-Silicon Tunable (PST) clock buffers are widely used in high performance designs to counter process variations. By allowing delay compensation between consecutive register stages, PST buffers can effectively improve the yield of digital circuits. To date, the evaluation of manufacturing yield in the presence of PST buffers is only possible using Monte Carlo simulation. In this paper, we propose an alternative method based on graph transformations, which is much faster, more than 1000 times, and computes a parametric minimum clock period. It also identifies the gates which are most critical to the circuit performance, therefore enabling a fast analysis-optimization flow.

@@ -1,0 +1,3 @@
+The Minimum Shared Edges Problem on Planar Graphs
+
+We study the Minimum Shared Edges problem introduced by Omran et al. [Journal of Combinatorial Optimization, 2015] on planar graphs: Planar MSE asks, given a planar graph G = (V,E), two distinct vertices s,t in V , and two integers p, k, whether there are p s-t paths in G that share at most k edges, where an edges is called shared if it appears in at least two of the p s-t paths. We show that Planar MSE is NP-hard by reduction from Vertex Cover. We make use of a grid-like structure, where the alignment (horizontal/vertical) of the edges in the grid correspond to selection and validation gadgets respectively.

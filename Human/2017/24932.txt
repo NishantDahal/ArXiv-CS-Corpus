@@ -1,0 +1,6 @@
+PHOEG Helps Obtaining Extremal Graphs
+
+Extremal Graph Theory aims to determine bounds for graph invariants as well as the graphs attaining those bounds.
+  We are currently developping PHOEG, an ecosystem of tools designed to help researchers in Extremal Graph Theory.
+  It uses a big relational database of undirected graphs and works with the convex hull of the graphs as points in the invariants space in order to exactly obtain the extremal graphs and optimal bounds on the invariants for some fixed parameters. The results obtained on the restricted finite class of graphs can later be used to infer conjectures. This database also allows us to make queries on those graphs. Once the conjecture defined, PHOEG goes one step further by helping in the process of designing a proof guided by successive applications of transformations from any graph to an extremal graph. To this aim, we use a second database based on a graph data model.
+  The paper presents ideas and techniques used in PHOEG to assist the study of Extremal Graph Theory.

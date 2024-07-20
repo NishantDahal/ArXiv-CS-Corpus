@@ -1,0 +1,4 @@
+Some observations on the logical foundations of inductive theorem proving
+
+In this paper we study the logical foundations of automated inductive theorem proving. To that aim we first develop a theoretical model that is centered around the difficulty of finding induction axioms which are sufficient for proving a goal.
+  Based on this model, we then analyze the following aspects: the choice of a proof shape, the choice of an induction rule and the language of the induction formula. In particular, using model-theoretic techniques, we clarify the relationship between notions of inductiveness that have been considered in the literature on automated inductive theorem proving. This is a corrected version of the paper arXiv:1704.01930v5 published originally on Nov.~16, 2017.

@@ -1,0 +1,3 @@
+A Hoare-like logic of asserted single-pass instruction sequences
+
+We present a formal system for proving the partial correctness of a single-pass instruction sequence as considered in program algebra by decomposition into proofs of the partial correctness of segments of the single-pass instruction sequence concerned. The system is similar to Hoare logics, but takes into account that, by the presence of jump instructions, segments of single-pass instruction sequences may have multiple entry points and multiple exit points. It is intended to support a sound general understanding of the issues with Hoare-like logics for low-level programming languages.

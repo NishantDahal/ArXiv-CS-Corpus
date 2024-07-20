@@ -1,0 +1,3 @@
+Inductive and Functional Types in Ludics
+
+Ludics is a logical framework in which types/formulas are modelled by sets of terms with the same computational behaviour. This paper investigates the representation of inductive data types and functional types in ludics. We study their structure following a game semantics approach. Inductive types are interpreted as least fixed points, and we prove an internal completeness result giving an explicit construction for such fixed points. The interactive properties of the ludics interpretation of inductive and functional types are then studied. In particular, we identify which higher-order functions types fail to satisfy type safety, and we give a computational explanation.

@@ -1,0 +1,3 @@
+Morphing Planar Graph Drawings Optimally
+
+We provide an algorithm for computing a planar morph between any two planar straight-line drawings of any $n$-vertex plane graph in $O(n)$ morphing steps, thus improving upon the previously best known $O(n^2)$ upper bound. Further, we prove that our algorithm is optimal, that is, we show that there exist two planar straight-line drawings $Γ_s$ and $Γ_t$ of an $n$-vertex plane graph $G$ such that any planar morph between $Γ_s$ and $Γ_t$ requires $Ω(n)$ morphing steps.

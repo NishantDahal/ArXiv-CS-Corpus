@@ -1,0 +1,3 @@
+Scaling Genetic Programming for Source Code Modification
+
+In Search Based Software Engineering, Genetic Programming has been used for bug fixing, performance improvement and parallelisation of programs through the modification of source code. Where an evolutionary computation algorithm, such as Genetic Programming, is to be applied to similar code manipulation tasks, the complexity and size of source code for real-world software poses a scalability problem. To address this, we intend to inspect how the Software Engineering concepts of modularity, granularity and localisation of change can be reformulated as additional mechanisms within a Genetic Programming algorithm.

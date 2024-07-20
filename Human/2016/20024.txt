@@ -1,0 +1,3 @@
+Stereo image de-fencing using smartphones
+
+Conventional approaches to image de-fencing have limited themselves to using only image data in adjacent frames of the captured video of an approximately static scene. In this work, we present a method to harness disparity using a stereo pair of fenced images in order to detect fence pixels. Tourists and amateur photographers commonly carry smartphones/phablets which can be used to capture a short video sequence of the fenced scene. We model the formation of the occluded frames in the captured video. Furthermore, we propose an optimization framework to estimate the de-fenced image using the total variation prior to regularize the ill-posed problem.

@@ -1,0 +1,3 @@
+Towards a diagrammatic modeling of the LinBox C++ linear algebra library
+
+We propose a new diagrammatic modeling language, DML. The paradigm used is that of the category theory and in particular of the pushout tool. We show that most of the object-oriented structures can be described with this tool and have many examples in C++, ranging from virtual inheritance and polymorphism to template genericity. With this powerful tool, we propose a quite simple description of the C++ LinBox library. This library has been designed for efficiency and genericity and therefore makes heavy usage of complex template and polymorphic mecanism. Be reverse engineering, we are able to describe in a simple manner the complex structure of archetypes in LinBox.

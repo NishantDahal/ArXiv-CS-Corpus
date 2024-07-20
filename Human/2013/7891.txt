@@ -1,0 +1,3 @@
+A Unified Software Framework for Empirical Gramians
+
+A common approach in model reduction is balanced truncation, which is based on gramian matrices classifiying certain attributes of states or parameters of a given dynamic system. Initially restricted to linear systems, the empirical gramians not only extended this concept to nonlinear systems, but also provide a uniform computational method. This work introduces a unified software framework supplying routines for six types of empirical gramians. The gramian types will be discussed and applied in a model reduction framework for multiple-input-multiple-output (MIMO) systems.

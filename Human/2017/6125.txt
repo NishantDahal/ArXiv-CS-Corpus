@@ -1,0 +1,4 @@
+POMDPs for Robotic Arm Search and Reach to Known Objects
+
+We propose an approach based on probabilistic models, in particular POMDPs, to plan optimized search processes of known objects by intelligent eye in hand robotic arms. Searching and reaching for a known object (a pen, a book, or a hammer) in one's office is an operation that humans perform frequently in their daily activities. There is no reason why intelligent robotic arms would not encounter this problem frequently in the various applications in which they are expected to serve.
+  The problem suffers from uncertainties coming both from the lack of information about the position of the object, from noisy sensors, imperfect models of the target object, of imperfect models of the environment, and from approximations in computations. The use of probabilistic models helps us to mitigate at least a few of these challenges, approaching optimality for this important task.

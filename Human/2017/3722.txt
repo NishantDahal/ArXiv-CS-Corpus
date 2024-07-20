@@ -1,0 +1,3 @@
+Hierarchical Surrogate Modeling for Illumination Algorithms
+
+Evolutionary illumination is a recent technique that allows producing many diverse, optimal solutions in a map of manually defined features. To support the large amount of objective function evaluations, surrogate model assistance was recently introduced. Illumination models need to represent many more, diverse optimal regions than classical surrogate models. In this PhD thesis, we propose to decompose the sample set, decreasing model complexity, by hierarchically segmenting the training set according to their coordinates in feature space. An ensemble of diverse models can then be trained to serve as a surrogate to illumination.

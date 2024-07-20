@@ -1,0 +1,3 @@
+Spatial Stimuli Gradient Sketch Model
+
+The inability of automated edge detection methods inspired from primal sketch models to accurately calculate object edges under the influence of pixel noise is an open problem. Extending the principles of image perception i.e. Weber-Fechner law, and Sheperd similarity law, we propose a new edge detection method and formulation that use perceived brightness and neighbourhood similarity calculations in the determination of robust object edges. The robustness of the detected edges is benchmark against Sobel, SIS, Kirsch, and Prewitt edge detection methods in an example face recognition problem showing statistically significant improvement in recognition accuracy and pixel noise tolerance.

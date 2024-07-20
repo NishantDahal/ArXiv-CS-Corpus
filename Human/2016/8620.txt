@@ -1,0 +1,3 @@
+Extending SMTCoq, a Certified Checker for SMT (Extended Abstract)
+
+This extended abstract reports on current progress of SMTCoq, a communication tool between the Coq proof assistant and external SAT and SMT solvers. Based on a checker for generic first-order certificates implemented and proved correct in Coq, SMTCoq offers facilities both to check external SAT and SMT answers and to improve Coq's automation using such solvers, in a safe way. Currently supporting the SAT solver zChaff, and the SMT solver veriT for the combination of the theories of congruence closure and linear integer arithmetic, SMTCoq is meant to be extendable with a reasonable amount of effort: we present work in progress to support the SMT solver CVC4 and the theory of bit vectors.

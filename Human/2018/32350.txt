@@ -1,0 +1,3 @@
+New lower bound on the Shannon capacity of C7 from circular graphs
+
+We give an independent set of size $367$ in the fifth strong product power of $C_7$, where $C_7$ is the cycle on $7$ vertices. This leads to an improved lower bound on the Shannon capacity of $C_7$: $Θ(C_7)\geq 367^{1/5} > 3.2578$. The independent set is found by computer, using the fact that the set $\{t \cdot (1,7,7^2,7^3,7^4) \,\, | \,\, t \in \mathbb{Z}_{382}\} \subseteq \mathbb{Z}_{382}^5$ is independent in the fifth strong product power of the circular graph $C_{108,382}$. Here the circular graph $C_{k,n}$ is the graph with vertex set $\mathbb{Z}_{n}$, the cyclic group of order $n$, in which two distinct vertices are adjacent if and only if their distance (mod $n$) is strictly less than $k$.

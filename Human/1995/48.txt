@@ -1,0 +1,3 @@
+SATZ - An Adaptive Sentence Segmentation System
+
+This paper provides a detailed description of the sentence segmentation system first introduced in cmp-lg/9411022. It provides results of systematic experiments involving sentence boundary determination, including context size, lexicon size, and single-case texts. Also included are the results of successfully adapting the system to German and French. The source code for the system is available as a compressed tar file at ftp://cs-tr.CS.Berkeley.EDU/pub/cstr/satz.tar.Z .

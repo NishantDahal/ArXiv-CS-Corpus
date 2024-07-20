@@ -1,0 +1,3 @@
+On Increasing Self-Confidence in Non-Bayesian Social Learning over Time-Varying Directed Graphs
+
+We study the convergence of the log-linear non-Bayesian social learning update rule, for a group of agents that collectively seek to identify a parameter that best describes a joint sequence of observations. Contrary to recent literature, we focus on the case where agents assign decaying weights to its neighbors, and the network is not connected at every time instant but over some finite time intervals. We provide a necessary and sufficient condition for the rate at which agents decrease the weights and still guarantees social learning.

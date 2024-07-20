@@ -1,0 +1,5 @@
+Effectively Open Real Functions
+
+A function f is continuous iff the PRE-image f^{-1}[V] of any open set V is open again. Dual to this topological property, f is called OPEN iff the IMAGE f[U] of any open set U is open again. Several classical Open Mapping Theorems in Analysis provide a variety of sufficient conditions for openness.
+  By the Main Theorem of Recursive Analysis, computable real functions are necessarily continuous. In fact they admit a well-known characterization in terms of the mapping V+->f^{-1}[V] being EFFECTIVE: Given a list of open rational balls exhausting V, a Turing Machine can generate a corresponding list for f^{-1}[V]. Analogously, EFFECTIVE OPENNESS requires the mapping U+->f[U] on open real subsets to be effective.
+  By effectivizing classical Open Mapping Theorems as well as from application of Tarski's Quantifier Elimination, the present work reveals several rich classes of functions to be effectively open.

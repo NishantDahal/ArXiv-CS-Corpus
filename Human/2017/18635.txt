@@ -1,0 +1,3 @@
+Insertion Sort with Self-reproducing Comparator P System
+
+We present in this paper a self-reproducing comparator P~system that simulates insertion sort. The comparator $Π_c$ is a degree-2 membrane and structured as $μ= [_{h_0} [_{h_1}]_{h_1} [_{h_2}]_{h_2} ]_{h_0}$. A maximizing $Π_c$ compares two multisets $a$ and $b$ where $\min(|a|,|b|)$ is stored in compartment $h_1$ while $\max(|a|,|b|)$ is stored in compartment $h_2$. A conditional reproduction rule triggers $Π_c$ to clone itself out via compartment division followed by endocytosis of the cloned compartment. We present the process of sorting as a collection of transactions implemented in hierarchical levels where each level has different concurrent or serialized steps.

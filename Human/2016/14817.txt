@@ -1,0 +1,3 @@
+Interactive Image Segmentation From A Feedback Control Perspective
+
+Image segmentation is a fundamental problem in computational vision and medical imaging. Designing a generic, automated method that works for various objects and imaging modalities is a formidable task. Instead of proposing a new specific segmentation algorithm, we present a general design principle on how to integrate user interactions from the perspective of feedback control theory. Impulsive control and Lyapunov stability analysis are employed to design and analyze an interactive segmentation system. Then stabilization conditions are derived to guide algorithm design. Finally, the effectiveness and robustness of proposed method are demonstrated.

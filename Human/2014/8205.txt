@@ -1,0 +1,3 @@
+Differential privacy for counting queries: can Bayes estimation help uncover the true value?
+
+Differential privacy is achieved by the introduction of Laplacian noise in the response to a query, establishing a precise trade-off between the level of differential privacy and the accuracy of the database response (via the amount of noise introduced). Multiple queries may improve the accuracy but erode the privacy budget. We examine the case where we submit just a single counting query. We show that even in that case a Bayesian approach may be used to improve the accuracy for the same amount of noise injected, if we know the size of the database and the probability of a positive response to the query.

@@ -1,0 +1,4 @@
+Specialization of Generic Array Accesses After Inlining
+
+We have implemented an optimization that specializes type-generic array accesses after inlining of polymorphic functions in the native-code OCaml compiler. Polymorphic array operations (read and write) in OCaml require runtime type dispatch because of ad hoc memory representations of integer and float arrays. It cannot be removed even after being monomorphized by inlining because the intermediate language is mostly untyped. We therefore extended it with explicit type application like System F (while keeping implicit type abstraction by means of unique identifiers for type variables). Our optimization has achieved up to 21% speed-up of numerical programs.
+

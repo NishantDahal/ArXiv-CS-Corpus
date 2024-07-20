@@ -1,0 +1,3 @@
+Does The Cloud Need Stabilizing?
+
+The last decade has witnessed rapid proliferation of cloud computing. While even the smallest distributed programs (with 3-5 actions) produce many unanticipated error cases due to concurrency involved, it seems short of a miracle these web-services are able to operate at those vast scales. In this paper, we explore the factors that contribute most to the high-availability of cloud computing services and examine where self-stabilization could fit in that picture.

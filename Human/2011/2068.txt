@@ -1,0 +1,3 @@
+Algorithms for Computing Triangular Decompositions of Polynomial Systems
+
+We propose new algorithms for computing triangular decompositions of polynomial systems incrementally. With respect to previous works, our improvements are based on a {\em weakened} notion of a polynomial GCD modulo a regular chain, which permits to greatly simplify and optimize the sub-algorithms. Extracting common work from similar expensive computations is also a key feature of our algorithms. In our experimental results the implementation of our new algorithms, realized with the {\RegularChains} library in {\Maple}, outperforms solvers with similar specifications by several orders of magnitude on sufficiently difficult problems.

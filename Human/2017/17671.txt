@@ -1,0 +1,3 @@
+Fast Vehicle Detection in Aerial Imagery
+
+In recent years, several real-time or near real-time object detectors have been developed. However these object detectors are typically designed for first-person view images where the subject is large in the image and do not directly apply well to detecting vehicles in aerial imagery. Though some detectors have been developed for aerial imagery, these are either slow or do not handle multi-scale imagery very well. Here the popular YOLOv2 detector is modified to vastly improve it's performance on aerial data. The modified detector is compared to Faster RCNN on several aerial imagery datasets. The proposed detector gives near state of the art performance at more than 4x the speed.

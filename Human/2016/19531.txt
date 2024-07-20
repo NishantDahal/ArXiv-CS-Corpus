@@ -1,0 +1,3 @@
+Anti-Path Cover on Sparse Graph Classes
+
+We show that it is possible to use Bondy-Chvatal closure to design an FPT algorithm that decides whether or not it is possible to cover vertices of an input graph by at most k vertex disjoint paths in the complement of the input graph. More precisely, we show that if a graph has tree-width at most w and its complement is closed under Bondy-Chvatal closure, then it is possible to bound neighborhood diversity of the complement by a function of w only. A simpler proof where tree-depth is used instead of tree-width is also presented.

@@ -1,0 +1,3 @@
+Optimal Prefix Free Code in Linear Time
+
+We describe an algorithm computing an optimal prefix free code from $N$ unsorted positive integer weights in time linear in the number of machine words holding those weights. This algorithm takes advantage of common non-algebraic instructions, and of specific results on optimal prefix free codes. This result improves over the state of the art complexities of $O(N\lg N)$ in the algebraic decision tree model and $O(N\lg\lg N)$ in the RAM model for the computation of Huffman's codes, a landmark in compression and coding since 1952.

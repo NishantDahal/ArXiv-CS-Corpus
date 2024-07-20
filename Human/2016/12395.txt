@@ -1,0 +1,3 @@
+A New Functional-Logic Compiler for Curry: Sprite
+
+We introduce a new native code compiler for Curry codenamed Sprite. Sprite is based on the Fair Scheme, a compilation strategy that provides instructions for transforming declarative, non-deterministic programs of a certain class into imperative, deterministic code. We outline salient features of Sprite, discuss its implementation of Curry programs, and present benchmarking results. Sprite is the first-to-date operationally complete implementation of Curry. Preliminary results show that ensuring this property does not incur a significant penalty.

@@ -1,0 +1,3 @@
+Distributed Differential Privacy By Sampling
+
+In this paper, we describe our approach to achieve distributed differential privacy by sampling alone. Our mechanism works in the semi-honest setting (honest-but-curious whereby aggregators attempt to peek at the data though follow the protocol). We show that the utility remains constant and does not degrade due to the variance as compared to the randomized response mechanism. In addition, we show smaller privacy leakage as compared to the randomized response mechanism.

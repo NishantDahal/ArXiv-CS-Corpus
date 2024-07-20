@@ -1,0 +1,3 @@
+Data-Dependent Path Normalization in Neural Networks
+
+We propose a unified framework for neural net normalization, regularization and optimization, which includes Path-SGD and Batch-Normalization and interpolates between them across two different dimensions. Through this framework we investigate issue of invariance of the optimization, data dependence and the connection with natural gradients.

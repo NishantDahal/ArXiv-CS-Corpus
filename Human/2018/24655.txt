@@ -1,0 +1,3 @@
+Expert-augmented actor-critic for ViZDoom and Montezumas Revenge
+
+We propose an expert-augmented actor-critic algorithm, which we evaluate on two environments with sparse rewards: Montezumas Revenge and a demanding maze from the ViZDoom suite. In the case of Montezumas Revenge, an agent trained with our method achieves very good results consistently scoring above 27,000 points (in many experiments beating the first world). With an appropriate choice of hyperparameters, our algorithm surpasses the performance of the expert data. In a number of experiments, we have observed an unreported bug in Montezumas Revenge which allowed the agent to score more than 800,000 points.

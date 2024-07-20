@@ -1,0 +1,4 @@
+Segment representations with small resolution
+
+A segment representation of a graph is an assignment of line segments in 2D to the vertices in such a way that two segments intersect if and only if the corresponding vertices are adjacent. Not all graphs have such segment representations, but they exist, for example, for all planar graphs.
+  In this note, we study the resolution that can be achieved for segment representations, presuming the ends of segments must be on integer grid points. We show that any planar graph (and more generally, any graph that has a so-called $L$-representation) has a segment representation in a grid of width and height $4^n$.

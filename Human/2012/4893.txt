@@ -1,0 +1,3 @@
+Visibility-Monotonic Polygon Deflation
+
+A deflated polygon is a polygon with no visibility crossings. We answer a question posed by Devadoss et al. (2012) by presenting a polygon that cannot be deformed via continuous visibility-decreasing motion into a deflated polygon. We show that the least n for which there exists such an n-gon is seven. In order to demonstrate non-deflatability, we use a new combinatorial structure for polygons, the directed dual, which encodes the visibility properties of deflated polygons. We also show that any two deflated polygons with the same directed dual can be deformed, one into the other, through a visibility-preserving deformation.

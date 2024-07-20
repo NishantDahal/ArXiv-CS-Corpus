@@ -1,0 +1,3 @@
+On Answer Substitutions in Logic Programming
+
+Answer substitutions play a central role in logic programming. To support {\it selective} answer substitutions, we refine $\exists x$ in goals into two different versions: the noisy version $\exists^o x$ and the silent version $\exists x$. The main difference is that only the instantiation in $\exists^o x$ will be recorded in the answer substitutions. Similarly for $\forall x$. In addition, we discuss the notion of don't-care constants and don't-know constants.

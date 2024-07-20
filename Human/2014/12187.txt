@@ -1,0 +1,4 @@
+A canonical form for the continuous piecewise polynomial functions
+
+We present in this paper a canonical form for the elements in the ring of continuous piecewise polynomial functions. This new representation is based on the use of a particular class of functions $$\{C_i(P):P\in\Q[x],i=0,\ldots,°(P)\}$$ defined by $$C_i(P)(x)= \left\{ \begin{array}{cll}0 & \mbox{ if } & x \leq α\\ P(x) & \mbox{ if } & x \geq α\end{array} \right.$$ where $α$ is the $i$-th real root of the polynomial $P$. These functions will allow us to represent and manipulate easily every continuous piecewise polynomial function through the use of the corresponding canonical form.
+  It will be also shown how to produce a "rational" representation of each function $C_{i}(P)$ allowing its evaluation by performing only operations in $\Q$ and avoiding the use of any real algebraic number.

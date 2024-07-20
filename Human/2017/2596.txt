@@ -1,0 +1,3 @@
+Comparative benchmarking of cloud computing vendors with High Performance Linpack
+
+We present a comparative analysis of the maximum performance achieved by the Linpack benchmark on compute intensive hardware publicly available from multiple cloud providers. We study both performance within a single compute node, and speedup for distributed memory calculations with up to 32 nodes or at least 512 computing cores. We distinguish between hyper-threaded and non-hyper-threaded scenarios and estimate the performance per single computing core. We also compare results with a traditional supercomputing system for reference. Our findings provide a way to rank the cloud providers and demonstrate the viability of the cloud for high performance computing applications.

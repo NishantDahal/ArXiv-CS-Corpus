@@ -1,0 +1,3 @@
+Vocal melody extraction using patch-based CNN
+
+A patch-based convolutional neural network (CNN) model presented in this paper for vocal melody extraction in polyphonic music is inspired from object detection in image processing. The input of the model is a novel time-frequency representation which enhances the pitch contours and suppresses the harmonic components of a signal. This succinct data representation and the patch-based CNN model enable an efficient training process with limited labeled data. Experiments on various datasets show excellent speed and competitive accuracy comparing to other deep learning approaches.

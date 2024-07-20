@@ -1,0 +1,3 @@
+Formalization of context-free language theory
+
+Context-free language theory is a subject of high importance in computer language processing technology as well as in formal language theory. This paper presents a formalization, using the Coq proof assistant, of fundamental results related to context-free grammars and languages. These include closure properties (union, concatenation and Kleene star), grammar simplification (elimination of useless symbols inaccessible symbols, empty rules and unit rules) and the existence of a Chomsky Normal Form for context-free grammars.

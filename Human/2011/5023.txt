@@ -1,0 +1,3 @@
+On the Simulation of Time-Triggered Systems on a Chip with BIP
+
+In this report, we present functional models for software and hardware components of Time-Triggered Systems on a Chip (TTSoC). These are modeled in the asynchronous component based language BIP. We demonstrate the usability of our components for simulation of software which is developed for the TTSoC. Our software comprises services and an application part. Our approach allows us to simulate and validate aspects of the software system at an early stage in the development process and without the need to have the TTSoC hardware at hand.

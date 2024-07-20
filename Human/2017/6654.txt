@@ -1,0 +1,3 @@
+Negative Cycle Separation in Wireless Network Design
+
+The Wireless Network Design Problem (WND) consists in choosing values of radio-electrical parameters of transmitters of a wireless network, to maximize network coverage. We present a pure 0-1 Linear Programming formulation for the WND that may contain an exponential number of constraints. Violated inequalities of this formulation are hard to separate both theoretically and in practice. However, a relevant subset of such inequalities can be separated more efficiently in practice and can be used to strengthen classical MILP formulations for the WND. Preliminary computational experience confirms the effectiveness of our new technique both in terms of quality of solutions found and provided bounds.

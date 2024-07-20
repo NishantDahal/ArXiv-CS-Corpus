@@ -1,0 +1,3 @@
+Improving the detection accuracy of unknown malware by partitioning the executables in groups
+
+Detection of unknown malware with high accuracy is always a challenging task. Therefore, in this paper, we study the classification of unknown malware by two methods. In the first/regular method, similar to other authors [17][16][20] approaches we select the features by taking all dataset in one group and in the second method, we select the features by partitioning the dataset in the range of file 5 KB size. We find that the second method to detect the malware with ~8.7% more accurate than the first/regular method.

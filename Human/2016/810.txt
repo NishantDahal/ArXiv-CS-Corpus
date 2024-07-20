@@ -1,0 +1,3 @@
+Stochastic Dykstra Algorithms for Metric Learning on Positive Semi-Definite Cone
+
+Recently, covariance descriptors have received much attention as powerful representations of set of points. In this research, we present a new metric learning algorithm for covariance descriptors based on the Dykstra algorithm, in which the current solution is projected onto a half-space at each iteration, and runs at O(n^3) time. We empirically demonstrate that randomizing the order of half-spaces in our Dykstra-based algorithm significantly accelerates the convergence to the optimal solution. Furthermore, we show that our approach yields promising experimental results on pattern recognition tasks.

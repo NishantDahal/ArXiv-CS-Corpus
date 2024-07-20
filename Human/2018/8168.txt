@@ -1,0 +1,3 @@
+Knowledge-based end-to-end memory networks
+
+End-to-end dialog systems have become very popular because they hold the promise of learning directly from human to human dialog interaction. Retrieval and Generative methods have been explored in this area with mixed results. A key element that is missing so far, is the incorporation of a-priori knowledge about the task at hand. This knowledge may exist in the form of structured or unstructured information. As a first step towards this direction, we present a novel approach, Knowledge based end-to-end memory networks (KB-memN2N), which allows special handling of named entities for goal-oriented dialog tasks. We present results on two datasets, DSTC6 challenge dataset and dialog bAbI tasks.

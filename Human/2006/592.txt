@@ -1,0 +1,3 @@
+Continuations, proofs and tests
+
+Continuation Passing Style (CPS) is one of the most important issues in the field of functional programming languages, and the quest for a primitive notion of types for continuation is still open. Starting from the notion of ``test'' proposed by Girard, we develop a notion of test for intuitionistic logic. We give a complete deductive system for tests and we show that it is good to deal with ``continuations''. In particular, in the proposed system it is possible to work with Call by Value and Call by Name translations in a uniform way.

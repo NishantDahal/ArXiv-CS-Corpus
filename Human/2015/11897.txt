@@ -1,0 +1,3 @@
+Designing A Composite Dictionary Adaptively From Joint Examples
+
+We study the complementary behaviors of external and internal examples in image restoration, and are motivated to formulate a composite dictionary design framework. The composite dictionary consists of the global part learned from external examples, and the sample-specific part learned from internal examples. The dictionary atoms in both parts are further adaptively weighted to emphasize their model statistics. Experiments demonstrate that the joint utilization of external and internal examples leads to substantial improvements, with successful applications in image denoising and super resolution.

@@ -1,0 +1,3 @@
+Speech Dereverberation in the STFT Domain
+
+Reverberation is damaging to both the quality and the intelligibility of a speech signal. We propose a novel single-channel method of dereverberation based on a linear filter in the Short Time Fourier Transform domain. Each enhanced frame is constructed from a linear sum of nearby frames based on the channel impulse response. The results show that the method can resolve any reverberant signal with knowledge of the impulse response to a non-reverberant signal.

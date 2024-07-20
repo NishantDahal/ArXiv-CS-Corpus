@@ -1,0 +1,3 @@
+Learning Complexity Dimensions for a Continuous-Time Control System
+
+This paper takes a computational learning theory approach to a problem of linear systems identification. It is assumed that input signals have only a finite number k of frequency components, and systems to be identified have dimension no greater than n. The main result establishes that the sample complexity needed for identification scales polynomially with n and logarithmically with k.

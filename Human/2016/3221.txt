@@ -1,0 +1,3 @@
+Holographic Algorithm with Matchgates Is Universal for Planar $\#$CSP Over Boolean Domain
+
+We prove a complexity classification theorem that classifies all counting constraint satisfaction problems ($\#$CSP) over Boolean variables into exactly three categories: (1) Polynomial-time tractable; (2) $\#$P-hard for general instances, but solvable in polynomial-time over planar graphs; and (3) $\#$P-hard over planar graphs. The classification applies to all sets of local, not necessarily symmetric, constraint functions on Boolean variables that take complex values. It is shown that Valiant's holographic algorithm with matchgates is a universal strategy for all problems in category (2).

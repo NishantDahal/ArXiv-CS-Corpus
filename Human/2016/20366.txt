@@ -1,0 +1,3 @@
+Probabilistic Resource Analysis by Program Transformation
+
+The aim of a probabilistic resource analysis is to derive a probability distribution of possible resource usage for a program from a probability distribution of its input. We present an automated multi- phase rewriting based method to analyze programs written in a subset of C. It generates a probability distribution of the resource usage as a possibly uncomputable expression and then transforms it into a closed form expression using over-approximations. We present the technique, outline the implementation and show results from experiments with the system.

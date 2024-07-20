@@ -1,0 +1,3 @@
+Supervised Infinite Feature Selection
+
+In this paper, we present a new feature selection method that is suitable for both unsupervised and supervised problems. We build upon the recently proposed Infinite Feature Selection (IFS) method where feature subsets of all sizes (including infinity) are considered. We extend IFS in two ways. First, we propose a supervised version of it. Second, we propose new ways of forming the feature adjacency matrix that perform better for unsupervised problems. We extensively evaluate our methods on many benchmark datasets, including large image-classification datasets (PASCAL VOC), and show that our methods outperform both the IFS and the widely used "minimum-redundancy maximum-relevancy (mRMR)" feature selection algorithm.

@@ -1,0 +1,5 @@
+Updating and downdating techniques for optimizing network communicability
+
+The total communicability of a network (or graph) is defined as the sum of the entries in the exponential of the adjacency matrix of the network, possibly normalized by the number of nodes. This quantity offers a good measure of how easily information spreads across the network, and can be useful in the design of networks having certain desirable properties. The total communicability can be computed quickly even for large networks using techniques based on the Lanczos algorithm.
+  In this work we introduce some heuristics that can be used to add, delete, or rewire a limited number of edges in a given sparse network so that the modified network has a large total communicability. To this end, we introduce new edge centrality measures which can be used to guide in the selection of edges to be added or removed.
+  Moreover, we show experimentally that the total communicability provides an effective and easily computable measure of how "well-connected" a sparse network is.

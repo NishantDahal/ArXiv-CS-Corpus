@@ -1,0 +1,3 @@
+Unifying DAGs and UGs
+
+We introduce a new class of graphical models that generalizes Lauritzen-Wermuth-Frydenberg chain graphs by relaxing the semi-directed acyclity constraint so that only directed cycles are forbidden. Moreover, up to two edges are allowed between any pair of nodes. Specifically, we present local, pairwise and global Markov properties for the new graphical models and prove their equivalence. We also present an equivalent factorization property. Finally, we present a causal interpretation of the new models.

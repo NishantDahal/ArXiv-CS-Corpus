@@ -1,0 +1,5 @@
+Programs as proofs
+
+The Curry-Howard correspondence is about a relationship between types and programs on the one hand and propositions and proofs on the other. The implications for programming language design and program verification is an active field of research.
+  Transformer-like semantics of internal definitions that combine a defining computation and an application will be presented. By specialisation for a given defining computation one can derive inference rules for applications of defined operations.
+  With semantics of that kind for every operation, each application identifies an axiom in a logic defined by the programming language, so a language can be considered a theory.

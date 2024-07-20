@@ -1,0 +1,3 @@
+Computing the determinant of a matrix with polynomial entries by approximation
+
+Computing the determinant of a matrix with the univariate and multivariate polynomial entries arises frequently in the scientific computing and engineering fields. In this paper, an effective algorithm is presented for computing the determinant of a matrix with polynomial entries using hybrid symbolic and numerical computation. The algorithm relies on the Newton's interpolation method with error control for solving Vandermonde systems. It is also based on a novel approach for estimating the degree of variables, and the degree homomorphism method for dimension reduction. Furthermore, the parallelization of the method arises naturally.

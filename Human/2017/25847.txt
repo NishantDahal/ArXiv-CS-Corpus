@@ -1,0 +1,3 @@
+Revisiting Fast Practical Byzantine Fault Tolerance
+
+In this note, we observe a safety violation in Zyzzyva and a liveness violation in FaB. To demonstrate these issues, we require relatively simple scenarios, involving only four replicas, and one or two view changes. In all of them, the problem is manifested already in the first log slot.

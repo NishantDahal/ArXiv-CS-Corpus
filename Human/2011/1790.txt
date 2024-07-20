@@ -1,0 +1,3 @@
+Random input helps searching predecessors
+
+We solve the dynamic Predecessor Problem with high probability (whp) in constant time, using only $n^{1+δ}$ bits of memory, for any constant $δ> 0$. The input keys are random wrt a wider class of the well studied and practically important class of $(f_1, f_2)$-smooth distributions introduced in \cite{and:mat}. It achieves O(1) whp amortized time. Its worst-case time is $O(\sqrt{\frac{\log n}{\log \log n}})$. Also, we prove whp $O(\log \log \log n)$ time using only $n^{1+ \frac{1}{\log \log n}}= n^{1+o(1)}$ bits. Finally, we show whp $O(\log \log n)$ time using O(n) space.

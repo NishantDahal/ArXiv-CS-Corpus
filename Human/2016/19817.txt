@@ -1,0 +1,3 @@
+Vertex Sparsification in Trees
+
+Given an unweighted tree $T=(V,E)$ with terminals $K \subset V$, we show how to obtain a $2$-quality vertex flow and cut sparsifier $H$ with $V_H = K$. We prove that our result is essentially tight by providing a $2-o(1)$ lower-bound on the quality of any cut sparsifier for stars. In addition we give improved results for quasi-bipartite graphs. First, we show how to obtain a $2$-quality flow sparsifier with $V_H = K$ for such graphs. We then consider the other extreme and construct exact sparsifiers of size $O(2^{k})$, when the input graph is unweighted.

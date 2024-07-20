@@ -1,0 +1,3 @@
+Testing k-binomial equivalence
+
+Two words $w_1$ and $w_2$ are said to be $k$-binomial equivalent if every non-empty word $x$ of length at most $k$ over the alphabet of $w_1$ and $w_2$ appears as a scattered factor of $w_1$ exactly as many times as it appears as a scattered factor of $w_2$. We give two different polynomial-time algorithms testing the $k$-binomial equivalence of two words. The first one is deterministic (but the degree of the corresponding polynomial is too high) and the second one is randomised (it is more direct and more efficient). These are the first known algorithms for the problem which run in polynomial time.

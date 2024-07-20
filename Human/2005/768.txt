@@ -1,0 +1,5 @@
+Reliable Data Storage in Distributed Hash Tables
+
+Distributed Hash Tables offer a resilient lookup service for unstable distributed environments. Resilient data storage, however, requires additional data replication and maintenance algorithms. These algorithms can have an impact on both the performance and the scalability of the system. In this paper, we describe the goals and design space of these replication algorithms.
+  We examine an existing replication algorithm, and present a new analysis of its reliability. We then present a new dynamic replication algorithm which can operate in unstable environments. We give several possible replica placement strategies for this algorithm, and show how they impact reliability and performance.
+  Finally we compare all replication algorithms through simulation, showing quantitatively the difference between their bandwidth use, fault tolerance and performance.

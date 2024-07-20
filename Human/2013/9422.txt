@@ -1,0 +1,3 @@
+A method for nose-tip based 3D face registration using maximum intensity algorithm
+
+In this paper we present a novel technique of registering 3D images across pose. In this context, we have taken into account the images which are aligned across X, Y and Z axes. We have first determined the angle across which the image is rotated with respect to X, Y and Z axes and then translation is performed on the images. After testing the proposed method on 472 images from the FRAV3D database, the method correctly registers 358 images thus giving a performance rate of 75.84%.

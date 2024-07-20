@@ -1,0 +1,3 @@
+Position-Based Quantum Cryptography and the Garden-Hose Game
+
+We study position-based cryptography in the quantum setting. We examine a class of protocols that only require the communication of a single qubit and 2n bits of classical information. To this end, we define a new model of communication complexity, the garden-hose model, which enables us to prove upper bounds on the number of EPR pairs needed to attack such schemes. This model furthermore opens up a way to link the security of position-based quantum cryptography to traditional complexity theory.

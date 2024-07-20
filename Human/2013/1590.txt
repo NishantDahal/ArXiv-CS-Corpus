@@ -1,0 +1,4 @@
+The Robust Digital Image Watermarking using Quantization and Fuzzy Logic Approach in DWT Domain
+
+In this paper a novel approach to embed watermark into the host image using quantization with the help of Dynamic Fuzzy Inference System (DFIS) is proposed. The cover image is decomposed up to 3- levels using quantization and Discrete Wavelet Transform (DWT). A bitmap of size 64x64 pixels is embedded into the host image using DFIS rule base. The DFIS is utilized to generate the watermark weighting function to embed the imperceptible watermark. The implemented watermarking algorithm is imperceptible and robust to some normal attacks such as JPEG Compression, salt&pepper noise, median filtering, rotation and cropping.
+  Keywords: Watermark, Quantization, Dynamic Fuzzy Inference System, Imperceptible, Robust, JPEG Compression, Cropping.

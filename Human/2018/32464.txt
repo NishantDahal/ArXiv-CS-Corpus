@@ -1,0 +1,3 @@
+Semi-parametric Image Inpainting
+
+This paper introduces a semi-parametric approach to image inpainting for irregular holes. The nonparametric part consists of an external image database. During test time database is used to retrieve a supplementary image, similar to the input masked picture, and utilize it as auxiliary information for the deep neural network. Further, we propose a novel method of generating masks with irregular holes and present public dataset with such masks. Experiments on CelebA-HQ dataset show that our semi-parametric method yields more realistic results than previous approaches, which is confirmed by the user study.

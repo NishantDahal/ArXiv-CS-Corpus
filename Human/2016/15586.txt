@@ -1,0 +1,3 @@
+On Solving Non-preemptive Mixed-criticality Match-up Scheduling Problem with Two and Three Criticality Levels
+
+In this paper, we study an NP-hard problem of a single machine scheduling minimizing the makespan, where the mixed-critical tasks with an uncertain processing time are scheduled. We show the derivation of F-shaped tasks from the probability distribution function of the processing time, then we study the structure of problems with two and three criticality levels for which we propose efficient exact algorithms and we present computational experiments for instances with up to 200 tasks. Moreover, we show that the considered problem is approximable within a constant multiplicative factor.

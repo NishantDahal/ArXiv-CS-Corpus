@@ -1,0 +1,4 @@
+Access Control in Linked Data Using WebID
+
+Linked Data technologies become increasingly important in many domains. Key factors for their breakthrough are security and trust. Classical means for access control lack granularity when parts of the Linked Data graph must be protected. The WebID, combining semantic web concepts with methods from certificate based authentication and authorization, seems promising to fulfill all requirements concerning security and trust in the semantic web.
+  In the PerSemID project, we challenged the WebID technology with a fully implemented proof-of-concept (PoC) addressing a workflow coming from the domain of lifelong learning and student mobility. In our use case of study enrollment, we used WebIDs for authentication and to grant access to parts of triple stores, during cross domain triple store interactions to exchange data between stakeholders.

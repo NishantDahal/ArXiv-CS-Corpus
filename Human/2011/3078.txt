@@ -1,0 +1,4 @@
+Formalising the Continuous/Discrete Modeling Step
+
+Formally capturing the transition from a continuous model to a discrete model is investigated using model based refinement techniques. A very simple model for stopping (eg. of a train) is developed in both the continuous and discrete domains. The difference between the two is quantified using generic results from ODE theory, and these estimates can be compared with the exact solutions. Such results do not fit well into a conventional model based refinement framework; however they can be accommodated into a model based retrenchment. The retrenchment is described, and the way it can interface to refinement development on both the continuous and discrete sides is outlined. The approach is compared to what can be achieved using hybrid systems techniques.
+

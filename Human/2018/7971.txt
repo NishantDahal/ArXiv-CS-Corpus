@@ -1,0 +1,3 @@
+Segmentation-Free Approaches for Handwritten Numeral String Recognition
+
+This paper presents segmentation-free strategies for the recognition of handwritten numeral strings of unknown length. A synthetic dataset of touching numeral strings of sizes 2-, 3- and 4-digits was created to train end-to-end solutions based on Convolutional Neural Networks. A robust experimental protocol is used to show that the proposed segmentation-free methods may reach the state-of-the-art performance without suffering the heavy burden of over-segmentation based methods. In addition, they confirmed the importance of introducing contextual information in the design of end-to-end solutions, such as the proposed length classifier when recognizing numeral strings.

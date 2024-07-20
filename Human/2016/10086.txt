@@ -1,0 +1,3 @@
+Decision and optimization problems in the Unreliable-Circuit Logic
+
+The ambition constrained validity and the model witness problems in the logic UCL, for reasoning about circuits with unreliable gates, are analyzed. Moreover, two additional problems, motivated by the applications, are studied. One consists of finding bounds on the reliability rate of the gates that ensure that a given circuit has an intended success rate. The other consists of finding a reliability rate of the gates that maximizes the success rate of a given circuit. Sound and complete algorithms are developed for these problems and their computational complexity is studied.

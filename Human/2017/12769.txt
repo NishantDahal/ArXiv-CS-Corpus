@@ -1,0 +1,3 @@
+Dealing with Rational Second Order Ordinary Differential Equations where both Darboux and Lie Find It Difficult: The $S$-function Method
+
+Here we present a new approach to search for first order invariants (first integrals) of rational second order ordinary differential equations. This method is an alternative to the Darbouxian and symmetry approaches. Our procedure can succeed in many cases where these two approaches fail. We also present here a Maple implementation of the theoretical results and methods, hereby introduced, in a computational package -- {\it InSyDE}. The package is designed, apart from materializing the algorithms presented, to provide a set of tools to allow the user to analyse the intermediary steps of the process.

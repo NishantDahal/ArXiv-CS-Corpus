@@ -1,0 +1,4 @@
+A Comparison of BDD-Based Parity Game Solvers
+
+Parity games are two player games with omega-winning conditions, played on finite graphs. Such games play an important role in verification, satisfiability and synthesis. It is therefore important to identify algorithms that can efficiently deal with large games that arise from such applications. In this paper, we describe our experiments with BDD-based implementations of four parity game solving algorithms, viz. Zielonka's recursive algorithm, the more recent Priority Promotion algorithm, the Fixpoint-Iteration algorithm and the automata based APT algorithm. We compare their performance on several types of random games and on a number of cases taken from the Keiren benchmark set.
+

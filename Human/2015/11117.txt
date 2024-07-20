@@ -1,0 +1,3 @@
+Overcomplete Dictionary Learning with Jacobi Atom Updates
+
+Dictionary learning for sparse representations is traditionally approached with sequential atom updates, in which an optimized atom is used immediately for the optimization of the next atoms. We propose instead a Jacobi version, in which groups of atoms are updated independently, in parallel. Extensive numerical evidence for sparse image representation shows that the parallel algorithms, especially when all atoms are updated simultaneously, give better dictionaries than their sequential counterparts.

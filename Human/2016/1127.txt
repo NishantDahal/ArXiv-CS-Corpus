@@ -1,0 +1,3 @@
+Graph-Based Lossless Markov Lumpings
+
+We use results from zero-error information theory to determine the set of non-injective functions through which a Markov chain can be projected without losing information. These lumping functions can be found by clique partitioning of a graph related to the Markov chain. Lossless lumping is made possible by exploiting the (sufficiently sparse) temporal structure of the Markov chain. Eliminating edges in the transition graph of the Markov chain trades the required output alphabet size versus information loss, for which we present bounds.

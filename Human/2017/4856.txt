@@ -1,0 +1,3 @@
+On Model Predictive Path Following and Trajectory Tracking for Industrial Robots
+
+In this article we show how the model predictive path following controller allows robotic manipulators to stop at obstructions in a way that model predictive trajectory tracking controllers cannot. We present both controllers as applied to robotic manipulators, simulations for a two-link manipulator using an interior point solver, consider discretization of the optimal control problem using collocation or Runge-Kutta, and discuss the real-time viability of our implementation of the model predictive path following controller.

@@ -1,0 +1,3 @@
+CNN training with graph-based sample preselection: application to handwritten character recognition
+
+In this paper, we present a study on sample preselection in large training data set for CNN-based classification. To do so, we structure the input data set in a network representation, namely the Relative Neighbourhood Graph, and then extract some vectors of interest. The proposed preselection method is evaluated in the context of handwritten character recognition, by using two data sets, up to several hundred thousands of images. It is shown that the graph-based preselection can reduce the training data set without degrading the recognition accuracy of a non pretrained CNN shallow model.

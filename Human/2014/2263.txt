@@ -1,0 +1,6 @@
+The impossibility of obfuscation with auxiliary input or a universal simulator
+
+In this paper we show that the existence of general indistinguishability obfuscators conjectured in a few recent works implies, somewhat counterintuitively, strong impossibility results for virtual black box obfuscation. In particular, we show that indistinguishability obfuscation for all circuits implies:
+  * The impossibility of average-case virtual black box obfuscation with auxiliary input for any circuit family with super-polynomial pseudo-entropy. Such circuit families include all pseudo-random function families, and all families of encryption algorithms and randomized digital signatures that generate their required coin flips pseudo-randomly. Impossibility holds even when the auxiliary input depends only on the public circuit family, and not the specific circuit in the family being obfuscated.
+  * The impossibility of average-case virtual black box obfuscation with a universal simulator (with or without any auxiliary input) for any circuit family with super-polynomial pseudo-entropy.
+  These bounds significantly strengthen the impossibility results of Goldwasser and Kalai (STOC 2005).

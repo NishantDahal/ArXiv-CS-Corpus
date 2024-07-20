@@ -1,0 +1,3 @@
+Reuse of Specification Patterns with the B Method
+
+This paper describes an approach for reusing specification patterns. Specification patterns are design patterns that are expressed in a formal specification language. Reusing a specification pattern means instantiating it or composing it with other specification patterns. Three levels of composition are defined: juxtaposition, composition with inter-patterns links and unification. This paper shows through examples how to define specification patterns in B, how to reuse them directly in B, and also how to reuse the proofs associated with specification patterns.

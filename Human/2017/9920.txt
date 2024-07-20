@@ -1,0 +1,3 @@
+Depth Creates No Bad Local Minima
+
+In deep learning, \textit{depth}, as well as \textit{nonlinearity}, create non-convex loss surfaces. Then, does depth alone create bad local minima? In this paper, we prove that without nonlinearity, depth alone does not create bad local minima, although it induces non-convex loss surface. Using this insight, we greatly simplify a recently proposed proof to show that all of the local minima of feedforward deep linear neural networks are global minima. Our theoretical results generalize previous results with fewer assumptions, and this analysis provides a method to show similar results beyond square loss in deep linear models.

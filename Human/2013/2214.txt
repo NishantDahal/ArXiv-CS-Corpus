@@ -1,0 +1,3 @@
+Block synchronization for quantum information
+
+Locating the boundaries of consecutive blocks of quantum information is a fundamental building block for advanced quantum computation and quantum communication systems. We develop a coding theoretic method for properly locating boundaries of quantum information without relying on external synchronization when block synchronization is lost. The method also protects qubits from decoherence in a manner similar to conventional quantum error-correcting codes, seamlessly achieving synchronization recovery and error correction. A family of quantum codes that are simultaneously synchronizable and error-correcting is given through this approach.

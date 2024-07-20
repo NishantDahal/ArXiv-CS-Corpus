@@ -1,0 +1,3 @@
+Multiple-Source Single-Sink Maximum Flow in Directed Planar Graphs in O(diameter*n*log(n)) Time
+
+We develop a new technique for computing maximum flow in directed planar graphs with multiple sources and a single sink that significantly deviates from previously known techniques for flow problems. This gives rise to an O(diameter*n*log(n)) algorithm for the problem.

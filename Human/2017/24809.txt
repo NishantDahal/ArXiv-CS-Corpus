@@ -1,0 +1,3 @@
+Texture Object Segmentation Based on Affine Invariant Texture Detection
+
+To solve the issue of segmenting rich texture images, a novel detection methods based on the affine invariable principle is proposed. Considering the similarity between the texture areas, we first take the affine transform to get numerous shapes, and utilize the KLT algorithm to verify the similarity. The transforms include rotation, proportional transformation and perspective deformation to cope with a variety of situations. Then we propose an improved LBP method combining canny edge detection to handle the boundary in the segmentation process. Moreover, human-computer interaction of this method which helps splitting the matched texture area from the original images is user-friendly.

@@ -1,0 +1,3 @@
+Boolean function monotonicity testing requires (almost) $n^{1/2}$ non-adaptive queries
+
+We prove a lower bound of $Ω(n^{1/2 - c})$, for all $c>0$, on the query complexity of (two-sided error) non-adaptive algorithms for testing whether an $n$-variable Boolean function is monotone versus constant-far from monotone. This improves a $\tildeΩ(n^{1/5})$ lower bound for the same problem that was recently given in [CST14] and is very close to $Ω(n^{1/2})$, which we conjecture is the optimal lower bound for this model.

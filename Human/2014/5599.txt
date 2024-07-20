@@ -1,0 +1,3 @@
+Tableau vs. Sequent Calculi for Minimal Entailment
+
+In this paper we compare two proof systems for minimal entailment: a tableau system OTAB and a sequent calculus MLK, both developed by Olivetti (1992). Our main result shows that OTAB-proofs can be efficiently translated into MLK-proofs, i.e; MLK p-simulates OTAB. The simulation is technically very involved and answers an open question posed by Olivetti (1992) on the relation between the two calculi. We also show that the two systems are exponentially separated, i.e; there are formulas which have polynomial size MLK-proofs, but require exponential-size OTAB- proofs.

@@ -1,0 +1,5 @@
+Functions as types or the "Hoare logic" of functional dependencies
+
+Inspired by the trend on unifying theories of programming, this paper shows how the algebraic treatment of standard data dependency theory equips relational data with functional types and an associated type system which is useful for type checking database operations and for query optimization.
+  Such a typed approach to database programming is then shown to be of the same family as other programming logics such as eg. Hoare logic or that of strongest invariant functions which has been used in the analysis of while statements.
+  The prospect of using automated deduction systems such as Prover9 for type-checking and query optimization on top of such an algebraic approach is considered.

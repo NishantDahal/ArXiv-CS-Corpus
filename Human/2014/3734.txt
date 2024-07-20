@@ -1,0 +1,3 @@
+The Oblivious Transfer Capacity of the Wiretapped Binary Erasure Channel
+
+We consider oblivious transfer between Alice and Bob in the presence of an eavesdropper Eve when there is a broadcast channel from Alice to Bob and Eve. In addition to the secrecy constraints of Alice and Bob, Eve should not learn the private data of Alice and Bob. When the broadcast channel consists of two independent binary erasure channels, we derive the oblivious transfer capacity for both 2-privacy (where the eavesdropper may collude with either party) and 1-privacy (where there are no collusions).

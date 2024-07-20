@@ -1,0 +1,3 @@
+Visualizing textual models with in-text and word-as-pixel highlighting
+
+We explore two techniques which use color to make sense of statistical text models. One method uses in-text annotations to illustrate a model's view of particular tokens in particular documents. Another uses a high-level, "words-as-pixels" graphic to display an entire corpus. Together, these methods offer both zoomed-in and zoomed-out perspectives into a model's understanding of text. We show how these interconnected methods help diagnose a classifier's poor performance on Twitter slang, and make sense of a topic model on historical political texts.

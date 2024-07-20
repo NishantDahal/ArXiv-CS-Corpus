@@ -1,0 +1,3 @@
+Polynomial time estimates for #SAT
+
+Limits on the number of satisfying assignments for CNS instances with n variables and m clauses are derived from various inequalities. Some bounds can be calculated in polynomial time, sharper bounds demand information about the distribution of the number of unsatisfied clauses. Quite generally, the number of satisfying assignments involve variance and mean of this distribution. For large formulae, m>>1, bounds vary with 2**n/n, so they may be of use only for instances with a large number of satisfying assignments.

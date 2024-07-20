@@ -1,0 +1,5 @@
+On difference graphs and the local dimension of posets
+
+The dimension of a partially-ordered set (poset), introduced by Dushnik and Miller (1941), has been studied extensively in the literature. Recently, Ueckerdt (2016) proposed a variation called local dimension which makes use of partial linear extensions. While local dimension is bounded above by dimension, they can be arbitrarily far apart as the dimension of the standard example is $n$ while its local dimension is only $3$.
+  Hiraguchi (1955) proved that the maximum dimension of a poset of order $n$ is $n/2$. However, we find a very different result for local dimension, proving a bound of $Θ(n/\log n)$. This follows from connections with covering graphs using difference graphs which are bipartite graphs whose vertices in a single class have nested neighborhoods.
+  We also prove that the local dimension of the $n$-dimensional Boolean lattice is $Ω(n/\log n)$ and make progress toward resolving a version of the removable pair conjecture for local dimension.

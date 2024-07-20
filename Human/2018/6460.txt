@@ -1,0 +1,3 @@
+Affine Differential Invariants for Invariant Feature Point Detection
+
+Image feature points are detected as pixels which locally maximize a detector function, two commonly used examples of which are the (Euclidean) image gradient and the Harris-Stephens corner detector. A major limitation of these feature detectors are that they are only Euclidean-invariant. In this work we demonstrate the application of a 2D affine-invariant image feature point detector based on differential invariants as derived through the equivariant method of moving frames. The fundamental equi-affine differential invariants for 3D image volumes are also computed.

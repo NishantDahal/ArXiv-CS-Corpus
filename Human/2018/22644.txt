@@ -1,0 +1,3 @@
+Exploiting Friction in Torque Controlled Humanoid Robots
+
+A common architecture for torque controlled humanoid robots consists in two nested loops. The outer loop generates desired joint/motor torques, and the inner loop stabilises these desired values. In doing so, the inner loop usually compensates for joint friction phenomena, thus removing their inherent stabilising property that may be also beneficial for high level control objectives. This paper shows how to exploit friction for joint and task space control of humanoid robots. Experiments are carried out using the humanoid robot iCub.

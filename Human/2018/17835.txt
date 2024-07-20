@@ -1,0 +1,3 @@
+CrowdMove: Autonomous Mapless Navigation in Crowded Scenarios
+
+Navigation is an essential capability for mobile robots. In this paper, we propose a generalized yet effective 3M (i.e., multi-robot, multi-scenario, and multi-stage) training framework. We optimize a mapless navigation policy with a robust policy gradient algorithm. Our method enables different types of mobile platforms to navigate safely in complex and highly dynamic environments, such as pedestrian crowds. To demonstrate the superiority of our method, we test our methods with four kinds of mobile platforms in four scenarios. Videos are available at https://sites.google.com/view/crowdmove.

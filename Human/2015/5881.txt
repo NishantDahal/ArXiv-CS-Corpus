@@ -1,0 +1,3 @@
+Featherweight PINQ
+
+Differentially private mechanisms enjoy a variety of composition properties. Leveraging these, McSherry introduced PINQ (SIGMOD 2009), a system empowering non-experts to construct new differentially private analyses. PINQ is an LINQ-like API which provides automatic privacy guarantees for all programs which use it to mediate sensitive data manipulation. In this work we introduce featherweight PINQ, a formal model capturing the essence of PINQ. We prove that any program interacting with featherweight PINQ's API is differentially private.

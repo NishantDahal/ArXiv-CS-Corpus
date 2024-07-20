@@ -1,0 +1,3 @@
+Dynamic physical layer equalization in optical communication networks
+
+In optical transport networks, signal lightpaths between two terminal nodes can be different due to current network conditions. Thus the transmission distance and accumulated dispersion in the lightpath cannot be predicted. Therefore, the adaptive compensation of dynamic dispersion is necessary in such networks to enable flexible routing and switching. In this paper, we present a detailed analysis on the adaptive dispersion compensation using the least-mean-square (LMS) algorithm in coherent optical communication networks. It is found that the variable-step-size LMS equalizer can achieve the same performance with a lower complexity, compared to the traditional LMS algorithm.

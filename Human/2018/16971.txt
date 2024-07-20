@@ -1,0 +1,3 @@
+Dataflow matrix machines as programmable, dynamically expandable, self-referential generalized recurrent neural networks
+
+Dataflow matrix machines are a powerful generalization of recurrent neural networks. They work with multiple types of linear streams and multiple types of neurons, including higher-order neurons which dynamically update the matrix describing weights and topology of the network in question while the network is running. It seems that the power of dataflow matrix machines is sufficient for them to be a convenient general purpose programming platform. This paper explores a number of useful programming idioms and constructions arising in this context.

@@ -1,0 +1,3 @@
+A Constant Factor Approximation for Orthogonal Order Preserving Layout Adjustment
+
+Given an initial placement of a set of rectangles in the plane, we consider the problem of finding a disjoint placement of the rectangles that minimizes the area of the bounding box and preserves the orthogonal order i.e.\ maintains the sorted ordering of the rectangle centers along both $x$-axis and $y$-axis with respect to the initial placement. This problem is known as Layout Adjustment for Disjoint Rectangles(LADR). It was known that LADR is $\mathbb{NP}$-hard, but only heuristics were known for it. We show that a certain decision version of LADR is $\mathbb{APX}$-hard, and give a constant factor approximation for LADR.

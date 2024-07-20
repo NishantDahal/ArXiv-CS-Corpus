@@ -1,0 +1,3 @@
+HDArray: Parallel Array Interface for Distributed Heterogeneous Devices
+
+Heterogeneous clusters with nodes containing one or more accelerators, such as GPUs, have become common. While MPI provides inter-address space communication, and OpenCL provides a process with access to heterogeneous computational resources, programmers are forced to write hybrid programs that manage the interaction of both of these systems. This paper describes an array programming interface that provides users with automatic and manual distributions of data and work. Using work distribution and kernel def and use information, communication among processes and devices in a process is performed automatically. By providing a unified programming model to the user, program development is simplified.

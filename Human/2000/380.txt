@@ -1,0 +1,3 @@
+If P \neq NP then Some Strongly Noninvertible Functions are Invertible
+
+Rabi, Rivest, and Sherman alter the standard notion of noninvertibility to a new notion they call strong noninvertibility, and show -- via explicit cryptographic protocols for secret-key agreement ([RS93,RS97] attribute this to Rivest and Sherman) and digital signatures [RS93,RS97] -- that strongly noninvertible functions would be very useful components in protocol design. Their definition of strong noninvertibility has a small twist (``respecting the argument given'') that is needed to ensure cryptographic usefulness. In this paper, we show that this small twist has a large, unexpected consequence: Unless P=NP, some strongly noninvertible functions are invertible.

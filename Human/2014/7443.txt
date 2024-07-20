@@ -1,0 +1,3 @@
+Algorithms, Initializations, and Convergence for the Nonnegative Matrix Factorization
+
+It is well known that good initializations can improve the speed and accuracy of the solutions of many nonnegative matrix factorization (NMF) algorithms. Many NMF algorithms are sensitive with respect to the initialization of W or H or both. This is especially true of algorithms of the alternating least squares (ALS) type, including the two new ALS algorithms that we present in this paper. We compare the results of six initialization procedures (two standard and four new) on our ALS algorithms. Lastly, we discuss the practical issue of choosing an appropriate convergence criterion.

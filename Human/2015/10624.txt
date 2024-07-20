@@ -1,0 +1,3 @@
+Macro Lambda Calculus
+
+The goal of our Macro Lambda Calculus project (MLC) is to encode lambda terms into interaction nets. Its software implementation will accept input in the notation similar to lambda calculus allowing macro definitions. Output is similar to interaction calculus and is suitable for our Interaction Nets Compiler program (INC). In this paper, we describe the interaction system for call-by-need evaluation and the mechanism of encoding lambda terms into this system which MLC is based on.

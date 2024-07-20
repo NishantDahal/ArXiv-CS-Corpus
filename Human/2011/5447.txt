@@ -1,0 +1,3 @@
+A tight bound on the length of odd cycles in the incompatibility graph of a non-C1P matrix
+
+A binary matrix has the consecutive ones property (C1P) if it is possible to order the columns so that all 1s are consecutive in every row. In [McConnell, SODA 2004 768-777] the notion of incompatibility graph of a binary matrix was introduced and it was shown that odd cycles of this graph provide a certificate that a matrix does not have the consecutive ones property. A bound of (k+2) was claimed for the smallest odd cycle of a non-C1P matrix with k columns. In this note we show that this result can be obtained simply and directly via Tucker patterns, and that the correct bound is (k+2) when k is even, but (k+3) when k is odd.

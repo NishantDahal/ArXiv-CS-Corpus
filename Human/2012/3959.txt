@@ -1,0 +1,3 @@
+A Secret Sharing Scheme Based on Group Presentations and the Word Problem
+
+A (t,n)-threshold secret sharing scheme is a method to distribute a secret among n participants in such a way that any t participants can recover the secret, but no t-1 participants can. In this paper, we propose two secret sharing schemes using non-abelian groups. One scheme is the special case where all the participants must get together to recover the secret. The other one is a (t,n)-threshold scheme that is a combination of Shamir's scheme and the group-theoretic scheme proposed in this paper.

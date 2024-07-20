@@ -1,0 +1,4 @@
+Degeneracy loci and polynomial equation solving
+
+Let V be a smooth equidimensional quasi-affine variety of dimension r over the complex numbers $C$ and let $F$ be a $(p\times s)$-matrix of coordinate functions of $C[V]$, where $s\ge p+r$. The pair $(V,F)$ determines a vector bundle $E$ of rank $s-p$ over $W:=\{x\in V:\mathrm{rk} F(x)=p\}$. We associate with $(V,F)$ a descending chain of degeneracy loci of E (the generic polar varieties of $V$ represent a typical example of this situation).
+  The maximal degree of these degeneracy loci constitutes the essential ingredient for the uniform, bounded error probabilistic pseudo-polynomial time algorithm which we are going to design and which solves a series of computational elimination problems that can be formulated in this framework. We describe applications to polynomial equation solving over the reals and to the computation of a generic fiber of a dominant endomorphism of an affine space.

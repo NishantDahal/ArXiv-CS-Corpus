@@ -1,0 +1,3 @@
+Resource Logics with a Diminishing Resource
+
+Model-checking resource logics with production and consumption of resources is a computationally hard and often undecidable problem. We introduce a simple and realistic assumption that there is at least one diminishing resource, that is, a resource that cannot be produced and every action has a non-zero cost on this resource. An example of such resource is time. We show that, with this assumption, problems that are undecidable even for the underlying Alternating Time Temporal Logic, such as model-checking under imperfect information and perfect recall, become decidable for resource logics with a diminishing resource.

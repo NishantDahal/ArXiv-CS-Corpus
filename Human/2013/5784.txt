@@ -1,0 +1,3 @@
+A subquadratic algorithm for computing the n-th Bernoulli number
+
+We describe a new algorithm that computes the n-th Bernoulli number in n^(4/3 + o(1)) bit operations. This improves on previous algorithms that had complexity n^(2 + o(1)).

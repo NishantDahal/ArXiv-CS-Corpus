@@ -1,0 +1,3 @@
+Keypoint-based object tracking and localization using networks of low-power embedded smart cameras
+
+Object tracking and localization is a complex task that typically requires processing power beyond the capabilities of low-power embedded cameras. This paper presents a new approach to real-time object tracking and localization using multi-view binary keypoints descriptor. The proposed approach offers a compromise between processing power, accuracy and networking bandwidth and has been tested using multiple distributed low-power smart cameras. Additionally, multiple optimization techniques are presented to improve the performance of the keypoints descriptor for low-power embedded systems.

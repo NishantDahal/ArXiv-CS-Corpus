@@ -1,0 +1,6 @@
+Non-definability of languages by generalized first-order formulas over (N,+)
+
+We consider first-order logic with monoidal quantifiers over words. We show that all languages with a neutral letter, definable using the addition numerical predicate are also definable with the order predicate as the only numerical predicate. Let S be a subset of monoids.
+  Let LS be the logic closed under quantification over the monoids in S and N be the class of neutral letter languages. Then we show that: LS[<,+] cap N = LS[<] Our result can be interpreted as the Crane Beach conjecture to hold for the logic LS[<,+]. As a corollary of our result we get the result of Roy and Straubing that FO+MOD[<,+] collapses to FO+MOD[<].
+  For cyclic groups, we answer an open question of Roy and Straubing, proving that MOD[<,+] collapses to MOD[<]. Our result also shows that multiplication is necessary for Barrington's theorem to hold.
+  All these results can be viewed as separation results for very uniform circuit classes. For example we separate FO[<,+]-uniform CC0 from FO[<,+]-uniform ACC0.

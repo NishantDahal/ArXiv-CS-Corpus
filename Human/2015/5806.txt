@@ -1,0 +1,3 @@
+Schmitt-Trigger-based Recycling Sensor and Robust and High-Quality PUFs for Counterfeit IC Detection
+
+We propose Schmitt-Trigger (ST) based recycling sensor that are tailored to amplify the aging mechanisms and detect fine grained recycling (minutes to seconds). We exploit the susceptibility of ST to process variations to realize high-quality arbiter PUF. Conventional SRAM PUF suffer from environmental fluctuation-induced bit flipping. We propose 8T SRAM PUF with a back-to-back PMOS latch to improve robustness by 4X. We also propose a low-power 7T SRAM with embedded Magnetic Tunnel Junction (MTJ) devices to enhance the robustness (2.3X to 20X).

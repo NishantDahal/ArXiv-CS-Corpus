@@ -1,0 +1,3 @@
+Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models
+
+We present a new, fast and flexible pipeline for indoor scene synthesis that is based on deep convolutional generative models. Our method operates on a top-down image-based representation, and inserts objects iteratively into the scene by predicting their category, location, orientation and size with separate neural network modules. Our pipeline naturally supports automatic completion of partial scenes, as well as synthesis of complete scenes. Our method is significantly faster than the previous image-based method and generates result that outperforms it and other state-of-the-art deep generative scene models in terms of faithfulness to training data and perceived visual quality.

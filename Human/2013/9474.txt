@@ -1,0 +1,3 @@
+Fast computation of computer-generated hologram using Xeon Phi coprocessor
+
+We report fast computation of computer-generated holograms (CGHs) using Xeon Phi coprocessors, which have massively x86-based processors on one chip, recently released by Intel. CGHs can generate arbitrary light wavefronts, and therefore, are promising technology for many applications: for example, three-dimensional displays, diffractive optical elements, and the generation of arbitrary beams. CGHs incur enormous computational cost. In this paper, we describe the implementations of several CGH generating algorithms on the Xeon Phi, and the comparisons in terms of the performance and the ease of programming between the Xeon Phi, a CPU and graphics processing unit (GPU).

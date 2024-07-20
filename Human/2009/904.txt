@@ -1,0 +1,3 @@
+Approximation and Inapproximability Results for Maximum Clique of Disc Graphs in High Dimensions
+
+We prove algorithmic and hardness results for the problem of finding the largest set of a fixed diameter in the Euclidean space. In particular, we prove that if $A^*$ is the largest subset of diameter $r$ of $n$ points in the Euclidean space, then for every $ε>0$ there exists a polynomial time algorithm that outputs a set $B$ of size at least $|A^*|$ and of diameter at most $r(\sqrt{2}+ε)$. On the hardness side, roughly speaking, we show that unless $P=NP$ for every $ε>0$ it is not possible to guarantee the diameter $r(\sqrt{4/3}-ε)$ for $B$ even if the algorithm is allowed to output a set of size $({95\over 94}-ε)^{-1}|A^*|$.

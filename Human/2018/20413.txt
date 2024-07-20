@@ -1,0 +1,3 @@
+An Adaptive Conversational Bot Framework
+
+How can we enable users to heavily specify criteria for database queries in a user-friendly way? This paper describes a general framework of a conversational bot that extracts meaningful information from user's sentences, that asks subsequent questions to complete missing information, and that adjusts its questions and information-extraction parameters for later conversations depending on users' behavior. Additionally, we provide a comparison of existing tools and give novel techniques to implement such framework. Finally, we exemplify the framework with a bot to query movies in a database, whose code is available for Microsoft employees.

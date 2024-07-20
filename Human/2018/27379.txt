@@ -1,0 +1,3 @@
+Axiomatising Infinitary Probabilistic Weak Bisimilarity of Finite-State Behaviours
+
+In concurrency theory, weak bisimilarity is often used to relate processes exhibiting the same observable behaviour. The probabilistic environment gives rise to several generalisations; we study the infinitary semantics, which abstracts from a potentially unbounded number of internal actions being performed when something observable happens. Arguing that this notion yields the most desirable properties, we provide a sound and complete axiomatisation capturing its essence. Previous research has failed to achieve completeness in the presence of unguarded recursion, as only the finitary variant has been axiomatised, yet.

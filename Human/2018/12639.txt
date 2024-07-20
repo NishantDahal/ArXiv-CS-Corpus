@@ -1,0 +1,5 @@
+Lower and Upper Bound for Computing the Size of All Second Neighbourhoods
+
+We consider the problem of computing the size of each $r$-neighbourhood for every vertex of a graph. Specifically, we ask whether the size of the closed second neighbourhood can be computed in subquadratic time.
+  Adapting the SETH reductions by Abboud et al. (2016) that exclude subquadratic algorithms to compute the radius of a graph, we find that a subquadratic algorithm would violate the SETH. On the other hand, a linear fpt-time algorithm by Demaine et al. (2014) parameterized by a certain `sparseness parameter' of the graph is known, where the dependence on the parameter is exponential. We show here that a better dependence is unlikely: for any~$δ< 2$, no algorithm running in time $O(2^{o({\rm vc}(G))} \, n^δ)$, where~${\rm vc}(G)$ is the vertex cover number, is possible unless the SETH fails.
+  We supplement these lower bounds with algorithms that solve the problem in time~$O(2^{{\rm vc}(G)/2} {\rm vc}(G)^2 \cdot n)$ and $O(2^w w \cdot n)$.

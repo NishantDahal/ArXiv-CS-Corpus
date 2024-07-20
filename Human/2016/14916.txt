@@ -1,0 +1,3 @@
+Graph Balancing with Two Edge Types
+
+In the graph balancing problem the goal is to orient a weighted undirected graph to minimize the maximum weighted in-degree. This special case of makespan minimization is NP-hard to approximate to a factor better than 3/2 even when there are only two types of edge weights. In this note we describe a simple 3/2 approximation for the graph balancing problem with two-edge types, settling this very special case of makespan minimization.

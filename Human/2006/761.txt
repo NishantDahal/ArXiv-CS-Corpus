@@ -1,0 +1,3 @@
+The Cubic Public-Key Transformation
+
+We propose the use of the cubic transformation for public-key applications and digital signatures. Transformations modulo a prime p or a composite n=pq, where p and q are primes, are used in such a fashion that each transformed value has only 3 roots that makes it a more efficient transformation than the squaring transformation of Rabin, which has 4 roots. Such a transformation, together with additional tag information, makes it possible to uniquely invert each transformed value. The method may be used for other exponents as well.

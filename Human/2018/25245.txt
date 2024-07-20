@@ -1,0 +1,4 @@
+YAC: BFT Consensus Algorithm for Blockchain
+
+Consensus in decentralized systems that asynchronously receive events and which are subject to Byzantine faults is a common problem with many real-life applications. Advances in decentralized systems, such as distributed ledger (i.e., blockchain) technology, has only increased the importance of finding performant and secure solutions to consensus of state machine replication in decentralized systems.
+  YAC is a practical decentralized consensus algorithm, that solves the problems of inefficient message passing and strong leaders that occur in classical Byzantine fault tolerant consensus algorithms. The algorithm is open source and currently is used to provide Byzantine fault tolerant consensus for the Hyperledger Iroha blockchain project. We provide proofs of safety and liveness, as well as empirical results showing that our algorithm can scale to dozens of validating peers.

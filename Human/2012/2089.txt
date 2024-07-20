@@ -1,0 +1,3 @@
+AD in Fortran, Part 2: Implementation via Prepreprocessor
+
+We describe an implementation of the Farfel Fortran AD extensions. These extensions integrate forward and reverse AD directly into the programming model, with attendant benefits to flexibility, modularity, and ease of use. The implementation we describe is a "prepreprocessor" that generates input to existing Fortran-based AD tools. In essence, blocks of code which are targeted for AD by Farfel constructs are put into subprograms which capture their lexical variable context, and these are closure-converted into top-level subprograms and specialized to eliminate EXTERNAL arguments, rendering them amenable to existing AD preprocessors, which are then invoked, possibly repeatedly if the AD is nested.

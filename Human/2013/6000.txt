@@ -1,0 +1,6 @@
+Weight distributions of cyclic codes with respect to pairwise coprime order elements
+
+Let $\Bbb F_r$ be an extension of a finite field $\Bbb F_q$ with $r=q^m$. Let each $g_i$ be of order $n_i$ in $\Bbb F_r^*$ and $\gcd(n_i, n_j)=1$ for $1\leq i \neq j \leq u$.
+  We define a cyclic code over $\Bbb F_q$ by
+  $$\mathcal C_{(q, m, n_1,n_2, ..., n_u)}=\{c(a_1, a_2, ..., a_u) : a_1, a_2, ..., a_u \in \Bbb F_r\},$$ where
+  $$c(a_1, a_2, ..., a_u)=({Tr}_{r/q}(\sum_{i=1}^ua_ig_i^0), ..., {Tr}_{r/q}(\sum_{i=1}^ua_ig_i^{n-1}))$$ and $n=n_1n_2... n_u$. In this paper, we present a method to compute the weights of $\mathcal C_{(q, m, n_1,n_2, ..., n_u)}$. Further, we determine the weight distributions of the cyclic codes $\mathcal C_{(q, m, n_1,n_2)}$ and $\mathcal C_{(q, m, n_1,n_2,1)}$.

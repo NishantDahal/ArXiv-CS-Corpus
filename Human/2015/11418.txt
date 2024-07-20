@@ -1,0 +1,3 @@
+Guided Signal Reconstruction with Application to Image Magnification
+
+We study the problem of reconstructing a signal from its projection on a subspace. The proposed signal reconstruction algorithms utilize a guiding subspace that represents desired properties of reconstructed signals. We show that optimal reconstructed signals belong to a convex bounded set, called the "reconstruction" set. We also develop iterative algorithms, based on conjugate gradient methods, to approximate optimal reconstructions with low memory and computational costs. The effectiveness of the proposed approach is demonstrated for image magnification, where the reconstructed image quality is shown to exceed that of consistent and generalized reconstruction schemes.

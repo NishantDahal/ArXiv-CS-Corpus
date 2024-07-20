@@ -1,0 +1,4 @@
+An exploration to visualize finite element data with a DSL
+
+The scientific community use PDEs to model a range of problems. The people in this domain are interested in visualizing their results, but existing mechanisms for visualization can not handle the full richness of computations in the domain. We did an exploration to see how Diderot, a domain specific language for scientific visualization and image analysis, could be used to solve this problem.
+  We demonstrate our first and modest approach of visualizing FE data with Diderot and provide examples. Using Diderot, we do a simple sampling and a volume rendering of a FE field. These examples showcase Diderot's ability to provide a visualization result for Firedrake. This paper describes the extension of the Diderot language to include FE data.

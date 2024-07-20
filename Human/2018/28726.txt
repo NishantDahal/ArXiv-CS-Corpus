@@ -1,0 +1,5 @@
+The asymmetric traveling salesman path LP has constant integrality ratio
+
+We show that the classical LP relaxation of the asymmetric traveling salesman path problem (ATSPP) has constant integrality ratio. If $ρ_{\text{ATSP}}$ and $ρ_{\text{ATSPP}}$ denote the integrality ratios for the asymmetric TSP and its path version, then $ρ_{\text{ATSPP}}\le 4ρ_{\text{ATSP}}-3$.
+  We prove an even better bound for node-weighted instances: if the integrality ratio for ATSP on node-weighted instances is $ρ_{\text{ATSP}}^{\text{NW}}$, then the integrality ratio for ATSPP on node-weighted instances is at most $2ρ_{\text{ATSP}}^{\text NW}-1$.
+  Moreover, we show that for ATSP node-weighted instances and unweighted digraph instances are almost equivalent. From this we deduce a lower bound of 2 on the integrality ratio of unweighted digraph instances.

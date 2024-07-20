@@ -1,0 +1,3 @@
+Motion model transitions in GPS-IMU sensor fusion for user tracking in augmented reality
+
+Finding the position of the user is an important processing step for augmented reality (AR) applications. This paper investigates the use of different motion models in order to choose the most suitable one, and eventually reduce the Kalman filter errors in sensor fusion for such applications where the accuracy of user tracking is crucial. A Deterministic Finite Automaton (DFA) was employed using the innovation parameters of the filter. Results show that the approach presented here reduces the filter error compared to a static model and prevents filter divergence. The approach was tested on a simple AR game in order to justify the accuracy and performance of the algorithm.

@@ -1,0 +1,3 @@
+Conflict-free Replicated Data Types: An Overview
+
+Internet-scale distributed systems often replicate data at multiple geographic locations to provide low latency and high availability, despite node and network failures. Geo-replicated systems that adopt a weak consistency model allow replicas to temporarily diverge, requiring a mechanism for merging concurrent updates into a common state. Conflict-free Replicated Data Types (CRDT) provide a principled approach to address this problem. This document presents an overview of Conflict-free Replicated Data Types research and practice, organizing the presentation in the aspects relevant for the application developer, the system developer and the CRDT developer.

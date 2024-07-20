@@ -1,0 +1,3 @@
+Algorithms for Tverberg's theorem via centerpoint theorems
+
+We obtain algorithms for computing Tverberg partitions based on centerpoint approximations. This applies to a wide range of convexity spaces, from the classic Euclidean setting to geodetic convexity in graphs. In the Euclidean setting, we present probabilistic algorithms which are weakly polynomial in the number of points and the dimension. For geodetic convexity in graphs, we obtain deterministic algorithms for cactus graphs and show that the general problem of finding the Radon number is NP-hard.

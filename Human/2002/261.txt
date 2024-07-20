@@ -1,0 +1,3 @@
+Interleaved semantic interpretation in environment-based parsing
+
+This paper extends a polynomial-time parsing algorithm that resolves structural ambiguity in input to a speech-based user interface by calculating and comparing the denotations of rival constituents, given some model of the interfaced application environment (Schuler 2001). The algorithm is extended to incorporate a full set of logical operators, including quantifiers and conjunctions, into this calculation without increasing the complexity of the overall algorithm beyond polynomial time, both in terms of the length of the input and the number of entities in the environment model.

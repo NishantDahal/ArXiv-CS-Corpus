@@ -1,0 +1,3 @@
+Enumeration Based Search Algorithm For Finding A Regular Bi-partite Graph Of Maximum Attainable Girth For Specified Degree And Number Of Vertices
+
+We introduce a search problem for finding a regular bi-partite graph of maximum attainable girth for specified degree and number of vertices, by restricting the search space using a series of mathematically rigourous arguments from [1] and [2]. The goal of this paper is to derive the enumeration search algorithm for finding a girth maximum (m, r) BTU, which is notation for regular partite graph that has been introduced in [1], using the optimal partition results from [2] as a starting point, and also understand the structure of the search space and the computational complexity of the algorithm.

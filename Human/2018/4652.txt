@@ -1,0 +1,5 @@
+An Improved Algorithm for Incremental DFS Tree in Undirected Graphs
+
+Depth first search (DFS) tree is one of the most well-known data structures for designing efficient graph algorithms. Given an undirected graph $G=(V,E)$ with $n$ vertices and $m$ edges, the textbook algorithm takes $O(n+m)$ time to construct a DFS tree. In this paper, we study the problem of maintaining a DFS tree when the graph is undergoing incremental updates. Formally, we show: Given an arbitrary online sequence of edge or vertex insertions, there is an algorithm that reports a DFS tree in $O(n)$ worst case time per operation, and requires $O\left(\min\{m \log n, n^2\}\right)$ preprocessing time.
+  Our result improves the previous $O(n \log^3 n)$ worst case update time algorithm by Baswana et al. and the $O(n \log n)$ time by Nakamura and Sadakane, and matches the trivial $Ω(n)$ lower bound when it is required to explicitly output a DFS tree.
+  Our result builds on the framework introduced in the breakthrough work by Baswana et al., together with a novel use of a tree-partition lemma by Duan and Zhan, and the celebrated fractional cascading technique by Chazelle and Guibas.

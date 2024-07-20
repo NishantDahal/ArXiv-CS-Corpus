@@ -1,0 +1,3 @@
+Secure Computation-and-Forward with Linear Codes
+
+We discuss secure transmission via an untrusted relay when we have a multiple access phase from two nodes to the relay and broadcast phase from the relay to the two nodes. To realize the security, we construct a code that securely transmits the modulo sum of the messages of two nodes via a multiple access channel. In this code, the relay cannot obtain any information for the message of each node, and can decode only the messages of the two nodes. Our code is constructed by simple combination of an existing liner code and universal2 hash function.

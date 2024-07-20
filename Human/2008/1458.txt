@@ -1,0 +1,3 @@
+The Calculus of Algebraic Constructions
+
+This paper is concerned with the foundations of the Calculus of Algebraic Constructions (CAC), an extension of the Calculus of Constructions by inductive data types. CAC generalizes inductive types equipped with higher-order primitive recursion, by providing definitions of functions by pattern-matching which capture recursor definitions for arbitrary non-dependent and non-polymorphic inductive types satisfying a strictly positivity condition. CAC also generalizes the first-order framework of abstract data types by providing dependent types and higher-order rewrite rules.

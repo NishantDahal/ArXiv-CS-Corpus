@@ -1,0 +1,4 @@
+Making Markov chains less lazy
+
+The mixing time of an ergodic, reversible Markov chain can be bounded in terms of the eigenvalues of the chain: specifically, the second-largest eigenvalue and the smallest eigenvalue. It has become standard to focus only on the second-largest eigenvalue, by making the Markov chain "lazy". (A lazy chain does nothing at each step with probability at least 1/2, and has only nonnegative eigenvalues.)
+  An alternative approach to bounding the smallest eigenvalue was given by Diaconis and Stroock and Diaconis and Saloff-Coste. We give examples to show that using this approach it can be quite easy to obtain a bound on the smallest eigenvalue of a combinatorial Markov chain which is several orders of magnitude below the best-known bound on the second-largest eigenvalue.

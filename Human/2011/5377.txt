@@ -1,0 +1,3 @@
+An Automatic Clustering Technique for Optimal Clusters
+
+This paper proposes a simple, automatic and efficient clustering algorithm, namely, Automatic Merging for Optimal Clusters (AMOC) which aims to generate nearly optimal clusters for the given datasets automatically. The AMOC is an extension to standard k-means with a two phase iterative procedure combining certain validation techniques in order to find optimal clusters with automation of merging of clusters. Experiments on both synthetic and real data have proved that the proposed algorithm finds nearly optimal clustering structures in terms of number of clusters, compactness and separation.

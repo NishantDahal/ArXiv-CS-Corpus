@@ -1,0 +1,3 @@
+An Extended Result on the Optimal Estimation under Minimum Error Entropy Criterion
+
+The minimum error entropy (MEE) criterion has been successfully used in fields such as parameter estimation, system identification and the supervised machine learning. There is in general no explicit expression for the optimal MEE estimate unless some constraints on the conditional distribution are imposed. A recent paper has proved that if the conditional density is conditionally symmetric and unimodal (CSUM), then the optimal MEE estimate (with Shannon entropy) equals the conditional median. In this study, we extend this result to the generalized MEE estimation where the optimality criterion is the Renyi entropy or equivalently, the α-order information potential (IP).

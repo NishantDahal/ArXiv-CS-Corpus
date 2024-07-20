@@ -1,0 +1,3 @@
+A short proof of the middle levels theorem
+
+Consider the graph that has as vertices all bitstrings of length $2n+1$ with exactly $n$ or $n+1$ entries equal to 1, and an edge between any two bitstrings that differ in exactly one bit. The well-known middle levels conjecture asserts that this graph has a Hamilton cycle for any $n\geq 1$. In this paper we present a new proof of this conjecture, which is much shorter and more accessible than the original proof.

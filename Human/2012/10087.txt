@@ -1,0 +1,3 @@
+Single-sided Real-time PESQ Score Estimation
+
+For several years now, the ITU-T's Perceptual Evaluation of Speech Quality (PESQ) has been the reference for objective speech quality assessment. It is widely deployed in commercial QoE measurement products, and it has been well studied in the literature. While PESQ does provide reasonably good correlation with subjective scores for VoIP applications, the algorithm itself is not usable in a real-time context, since it requires a reference signal, which is usually not available in normal conditions. In this paper we provide an alternative technique for estimating PESQ scores in a single-sided fashion, based on the Pseudo Subjective Quality Assessment (PSQA) technique.

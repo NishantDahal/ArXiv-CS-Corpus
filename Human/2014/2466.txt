@@ -1,0 +1,3 @@
+Short lists for shortest descriptions in short time
+
+Is it possible to find a shortest description for a binary string? The well-known answer is "no, Kolmogorov complexity is not computable." Faced with this barrier, one might instead seek a short list of candidates which includes a laconic description. Remarkably such approximations exist. This paper presents an efficient algorithm which generates a polynomial-size list containing an optimal description for a given input string. Along the way, we employ expander graphs and randomness dispersers to obtain an Explicit Online Matching Theorem for bipartite graphs and a refinement of Muchnik's Conditional Complexity Theorem. Our main result extends recent work by Bauwens, Mahklin, Vereschchagin, and Zimand.

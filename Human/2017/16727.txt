@@ -1,0 +1,3 @@
+Self Adversarial Training for Human Pose Estimation
+
+This paper presents a deep learning based approach to the problem of human pose estimation. We employ generative adversarial networks as our learning paradigm in which we set up two stacked hourglass networks with the same architecture, one as the generator and the other as the discriminator. The generator is used as a human pose estimator after the training is done. The discriminator distinguishes ground-truth heatmaps from generated ones, and back-propagates the adversarial loss to the generator. This process enables the generator to learn plausible human body configurations and is shown to be useful for improving the prediction accuracy.

@@ -1,0 +1,3 @@
+Learning Term Weights for Ad-hoc Retrieval
+
+Most Information Retrieval models compute the relevance score of a document for a given query by summing term weights specific to a document or a query. Heuristic approaches, like TF-IDF, or probabilistic models, like BM25, are used to specify how a term weight is computed. In this paper, we propose to leverage learning-to-rank principles to learn how to compute a term weight for a given document based on the term occurrence pattern.

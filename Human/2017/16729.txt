@@ -1,0 +1,3 @@
+Efficient Dynamic Approximate Distance Oracles for Vertex-Labeled Planar Graphs
+
+Let $G$ be a graph where each vertex is associated with a label. A Vertex-Labeled Approximate Distance Oracle is a data structure that, given a vertex $v$ and a label $λ$, returns a $(1+\varepsilon)$-approximation of the distance from $v$ to the closest vertex with label $λ$ in $G$. Such an oracle is dynamic if it also supports label changes. In this paper we present three different dynamic approximate vertex-labeled distance oracles for planar graphs, all with polylogarithmic query and update times, and nearly linear space requirements.

@@ -1,0 +1,7 @@
+Global and fixed-terminal cuts in digraphs
+
+The computational complexity of multicut-like problems may vary significantly depending on whether the terminals are fixed or not. In this work we present a comprehensive study of this phenomenon in two types of cut problems in directed graphs: double cut and bicut.
+  1. The fixed-terminal edge-weighted double cut is known to be solvable efficiently. We show a tight approximability factor of $2$ for the fixed-terminal node-weighted double cut. We show that the global node-weighted double cut cannot be approximated to a factor smaller than $3/2$ under the Unique Games Conjecture (UGC).
+  2. The fixed-terminal edge-weighted bicut is known to have a tight approximability factor of $2$. We show that the global edge-weighted bicut is approximable to a factor strictly better than $2$, and that the global node-weighted bicut cannot be approximated to a factor smaller than $3/2$ under UGC.
+  3. In relation to these investigations, we also prove two results on undirected graphs which are of independent interest. First, we show NP-completeness and a tight inapproximability bound of $4/3$ for the node-weighted $3$-cut problem. Second, we show that for constant $k$, there exists an efficient algorithm to solve the minimum $\{s,t\}$-separating $k$-cut problem.
+  Our techniques for the algorithms are combinatorial, based on LPs and based on enumeration of approximate min-cuts. Our hardness results are based on combinatorial reductions and integrality gap instances.

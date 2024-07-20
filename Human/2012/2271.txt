@@ -1,0 +1,3 @@
+Filtrations of Formal Languages by Arithmetic Progressions
+
+A filtration of a formal language L by a sequence s maps L to the set of words formed by taking the letters of words of L indexed only by s. We consider the languages resulting from filtering by all arithmetic progressions. If L is regular, it is easy to see that only finitely many distinct languages result. By contrast, there exist CFL's that give infinitely many distinct languages as a result. We use our technique to show that the operation diag, which extracts the diagonal of words of square length arranged in a square array, preserves regularity but does not preserve context-freeness.

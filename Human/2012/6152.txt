@@ -1,0 +1,3 @@
+An Analysis of the CAVES Attestation Protocol using CPSA
+
+This paper describes the CAVES attestation protocol and presents a tool-supported analysis showing that the runs of the protocol achieve stated goals. The goals are stated formally by annotating the protocol with logical formulas using the rely-guarantee method. The protocol analysis tool used is the Cryptographic Protocol Shape Analyzer.

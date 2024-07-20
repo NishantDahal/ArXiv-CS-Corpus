@@ -1,0 +1,3 @@
+A Novel Architecture of Area Efficient FFT Algorithm for FPGA Implementation
+
+Fast Fourier transform (FFT) of large number of samples requires huge hardware resources of field programmable gate arrays (FPGA), which needs more area and power. In this paper, we present an area efficient architecture of FFT processor that reuses the butterfly elements several times. The FFT processor is simulated using VHDL and the results are validated on a Virtex-6 FPGA. The proposed architecture outperforms the conventional architecture of a $N$-point FFT processor in terms of area which is reduced by a factor of $log_N 2$ with negligible increase in processing time.

@@ -1,0 +1,5 @@
+Algorithms for Communication Problems for Mobile Agents Exchanging Energy
+
+We consider communication problems in the setting of mobile agents deployed in an edge-weighted network. The assumption of the paper is that each agent has some energy that it can transfer to any other agent when they meet (together with the information it holds).
+  The paper deals with three communication problems: data delivery,convergecast and broadcast. These problems are posed for a centralized scheduler which has full knowledge of the instance.
+  It is already known that, without energy exchange, all three problems are NP-complete even if the network is a line. Surprisingly, if we allow the agents to exchange energy, we show that all three problems are polynomially solvable on trees and have linear time algorithms on the line. On the other hand for general undirected and directed graphs we show that these problems, even if energy exchange is allowed, are still NP-complete.

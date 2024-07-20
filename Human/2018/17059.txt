@@ -1,0 +1,3 @@
+GuiTeNet: A graphical user interface for tensor networks
+
+We introduce a graphical user interface for constructing arbitrary tensor networks and specifying common operations like contractions or splitting, denoted GuiTeNet. Tensors are represented as nodes with attached legs, corresponding to the ordered dimensions of the tensor. GuiTeNet visualizes the current network, and instantly generates Python/NumPy source code for the hitherto sequence of user actions. Support for additional programming languages is planned for the future. We discuss the elementary operations on tensor networks used by GuiTeNet, together with high-level optimization strategies. The software runs directly in web browsers and is available online at http://guitenet.org.

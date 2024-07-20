@@ -1,0 +1,3 @@
+Sub-Quadratic Decoding of Gabidulin Codes
+
+This paper shows how to decode errors and erasures with Gabidulin codes in sub-quadratic time in the code length, improving previous algorithms which had at least quadratic complexity. The complexity reduction is achieved by accelerating operations on linearized polynomials. In particular, we present fast algorithms for division, multi-point evaluation and interpolation of linearized polynomials and show how to efficiently compute minimal subspace polynomials.

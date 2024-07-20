@@ -1,0 +1,3 @@
+Margin Sample Mining Loss: A Deep Learning Based Method for Person Re-identification
+
+Person re-identification (ReID) is an important task in computer vision. Recently, deep learning with a metric learning loss has become a common framework for ReID. In this paper, we also propose a new metric learning loss with hard sample mining called margin smaple mining loss (MSML) which can achieve better accuracy compared with other metric learning losses, such as triplet loss. In experi- ments, our proposed methods outperforms most of the state-of-the-art algorithms on Market1501, MARS, CUHK03 and CUHK-SYSU.

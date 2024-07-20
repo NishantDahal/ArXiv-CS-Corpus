@@ -1,0 +1,3 @@
+P-time Completeness of Light Linear Logic and its Nondeterministic Extension
+
+In CSL'99 Roversi pointed out that the Turing machine encoding of Girard's seminal paper "Light Linear Logic" has a flaw. Moreover he presented a working version of the encoding in Light Affine Logic, but not in Light Linear Logic. In this paper we present a working version of the encoding in Light Linear Logic. The idea of the encoding is based on a remark of Girard's tutorial paper on Linear Logic. The encoding is also an example which shows usefulness of additive connectives. Moreover we also consider a nondeterministic extension of Light Linear Logic. We show that the extended system is NP-complete in the same meaning as P-completeness of Light Linear Logic.

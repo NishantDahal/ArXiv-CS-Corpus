@@ -1,0 +1,4 @@
+SMT Solving for Functional Programming over Infinite Structures
+
+We develop a simple functional programming language aimed at manipulating infinite, but first-order definable structures, such as the countably infinite clique graph or the set of all intervals with rational endpoints. Internally, such sets are represented by logical formulas that define them, and an external satisfiability modulo theories (SMT) solver is regularly run by the interpreter to check their basic properties.
+  The language is implemented as a Haskell module.

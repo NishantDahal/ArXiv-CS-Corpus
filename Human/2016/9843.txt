@@ -1,0 +1,4 @@
+A Practical Cryptanalysis of the Algebraic Eraser
+
+Anshel, Anshel, Goldfeld and Lemieaux introduced the Colored Burau Key Agreement Protocol (CBKAP) as the concrete instantiation of their Algebraic Eraser scheme. This scheme, based on techniques from permutation groups, matrix groups and braid groups, is designed for lightweight environments such as RFID tags and other IoT applications. It is proposed as an underlying technology for ISO/IEC 29167-20. SecureRF, the company owning the trademark Algebraic Eraser, has presented the scheme to the IRTF with a view towards standardisation.
+  We present a novel cryptanalysis of this scheme. For parameter sizes corresponding to claimed 128-bit security, our implementation recovers the shared key using less than 8 CPU hours, and less than 64MB of memory.

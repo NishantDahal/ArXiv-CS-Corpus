@@ -1,0 +1,3 @@
+Rotation of Sequences: Algorithms and Proofs
+
+Sequence rotation consists of a circular shift of the sequence's elements by a given number of positions. We present the four classic algorithms to rotate a sequence; the loop invariants underlying their correctness; detailed correctness proofs; and fully annotated versions for the verifiers Boogie, Dafny, and ESC/Java2. The presentation illustrates in detail both how the algorithms work and what it takes to carry out mechanized proofs of their correctness.

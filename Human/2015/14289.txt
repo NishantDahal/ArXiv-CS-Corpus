@@ -1,0 +1,3 @@
+Flood-it on AT-Free Graphs
+
+Solitaire {\sc Flood-it}, or {\sc Honey-Bee}, is a game played on a colored graph. The player resides in a source vertex. Originally his territory is the maximal connected, monochromatic subgraph that contains the source. A move consists of calling a color. This conquers all the nodes of the graph that can be reached by a monochromatic path of that color from the current territory of the player. It is the aim of the player to add all vertices to his territory in a minimal number of moves. We show that the minimal number of moves can be computed in polynomial time when the game is played on AT-free graphs.

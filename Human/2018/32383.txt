@@ -1,0 +1,3 @@
+Linear time algorithm to check the singularity of block graphs
+
+A block graph is a graph in which every block is a complete graph. Let $G$ be a block graph and let $A(G)$ be its (0,1)-adjacency matrix. Graph $G$ is called nonsingular (singular) if $A(G)$ is nonsingular (singular). Characterizing nonsingular block graphs is an interesting open problem proposed by Bapat and Roy in 2013. In this article, we give a linear time algorithm to check whether a given block graph is singular or not.

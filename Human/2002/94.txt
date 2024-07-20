@@ -1,0 +1,3 @@
+SPINning Parallel Systems Software
+
+We describe our experiences in using SPIN to verify parts of the Multi Purpose Daemon (MPD) parallel process management system. MPD is a distributed collection of processes connected by Unix network sockets. MPD is dynamic: processes and connections among them are created and destroyed as MPD is initialized, runs user processes, recovers from faults, and terminates. This dynamic nature is easily expressible in the SPIN/PROMELA framework but poses performance and scalability challenges. We present here the results of expressing some of the parallel algorithms of MPD and executing both simulation and verification runs with SPIN.

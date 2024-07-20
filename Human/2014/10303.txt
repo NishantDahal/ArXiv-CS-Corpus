@@ -1,0 +1,3 @@
+Towards a Semantics of Activity Diagrams with Semantic Variation Points
+
+UML activity diagrams have become an established notation to model control and data ow on various levels of abstraction, ranging from fine-grained descriptions of algorithms to high-level workflow models in business applications. A formal semantics has to capture the flexibility of the interpretation of activity diagrams in real systems, which makes it inappropriate to define a fixed formal semantics. In this paper, we define a semantics with semantic variation points that allow for a customizable, application-specific interpretation of activity diagrams. We examine concrete variants of the activity diagram semantics which may also entail variants of the syntax re ecting the intended use at hand.

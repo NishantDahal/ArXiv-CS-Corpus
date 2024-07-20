@@ -1,0 +1,3 @@
+Improving Hard Disk Contention-based Covert Channel in Cloud Computing Environment
+
+Steganographic methods allow the covert exchange of secret data between parties aware of the procedure. The cloud computing environment is a new and hot target for steganographers, and currently not many solutions have been proposed. This paper proposes CloudSteg which is a steganographic method that allows the creation of a covert channel based on hard disk contention between the two cloud instances that reside on the same physical machine. Experimental results conducted using open source cloud environment OpenStack, show that CloudSteg is able to achieve a bandwidth of about 0.1 bps which is 1000 times higher than is known from the state-of-the-art version.

@@ -1,0 +1,3 @@
+A note on equipartition
+
+The problem of the existence of an equi-partition of a curve in $\R^n$ has recently been raised in the context of computational geometry. The problem is to show that for a (continuous) curve $Γ: [0,1] \to \R^n$ and for any positive integer N, there exist points $t_0=0<t_1<...<t_{N-1}<1=t_N$, such that $d(Γ(t_{i-1}),Γ(t_i))=d(Γ(t_{i}),Γ(t_{i+1}))$ for all $i=1,...,N$, where d is a metric or even a semi-metric (a weaker notion) on $\R^n$. We show here that the existence of such points, in a broader context, is a consequence of Brower's fixed point theorem.

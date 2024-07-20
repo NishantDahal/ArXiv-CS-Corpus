@@ -1,0 +1,3 @@
+Numerical solution of a parabolic system in air pollution
+
+An air pollution model is generally described by a system of PDEs on unbounded domain. Transformation of the independent variable is used to convert the problem for nonlinear air pollution on finite computational domain. We investigate the new, degenerated parabolic problem in Sobolev spaces with weights for well-posedness and positivity of the solution. Then we construct a fitted finite volume difference scheme. Some results from computations are presented.

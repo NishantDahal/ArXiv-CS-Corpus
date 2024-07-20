@@ -1,0 +1,3 @@
+Comparing Downward Fragments of the Relational Calculus with Transitive Closure on Trees
+
+Motivated by the continuing interest in the tree data model, we study the expressive power of downward navigational query languages on trees and chains. Basic navigational queries are built from the identity relation and edge relations using composition and union. We study the effects on relative expressiveness when we add transitive closure, projections, coprojections, intersection, and difference; this for boolean queries and path queries on labeled and unlabeled structures. In all cases, we present the complete Hasse diagram. In particular, we establish, for each query language fragment that we study on trees, whether it is closed under difference and intersection.

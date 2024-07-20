@@ -1,0 +1,3 @@
+Crossing Minimization in Storyline Visualization
+
+A storyline visualization is a layout that represents the temporal dynamics of social interactions along time by the convergence of chronological lines. Among the criteria oriented at improving aesthetics and legibility of a representation of this type, a small number of line crossings is the hardest to achieve. We model the crossing minimization in the storyline visualization problem as a multi-layer crossing minimization problem with tree constraints. Our algorithm can compute a layout with the minimum number of crossings of the chronological lines. Computational results demonstrate that it can solve instances with more than 100 interactions and with more than 100 chronological lines to optimality.

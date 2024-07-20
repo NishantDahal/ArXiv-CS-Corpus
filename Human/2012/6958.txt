@@ -1,0 +1,3 @@
+Solving Cyclic Longest Common Subsequence in Quadratic Time
+
+We present a practical algorithm for the cyclic longest common subsequence (CLCS) problem that runs in O(mn) time, where m and n are the lengths of the two input strings. While this is not necessarily an asymptotic improvement over the existing record, it is far simpler to understand and to implement.

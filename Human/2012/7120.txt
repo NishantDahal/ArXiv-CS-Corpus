@@ -1,0 +1,3 @@
+Revisiting algorithms for generating surrogate time series
+
+The method of surrogates is one of the key concepts of nonlinear data analysis. Here, we demonstrate that commonly used algorithms for generating surrogates often fail to generate truly linear time series. Rather, they create surrogate realizations with Fourier phase correlations leading to non-detections of nonlinearities. We argue that reliable surrogates can only be generated, if one tests separately for static and dynamic nonlinearities.

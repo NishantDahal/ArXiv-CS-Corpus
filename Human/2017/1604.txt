@@ -1,0 +1,3 @@
+Recognizing Union-Find trees is NP-complete
+
+Disjoint-Set forests, consisting of Union-Find trees are data structures having a widespread practical application due to their efficiency. Despite them being well-known, no exact structural characterization of these trees is known (such a characterization exists for Union trees which are constructed without using path compression). In this paper we provide such a characterization and show that the decision problem whether a given tree is a Union-Find tree is $\NP$-complete.

@@ -1,0 +1,3 @@
+Defending Against DDoS Attacks in Bloom Filter based Multicasting
+
+This paper analyze security issues of Bloom filter based multicast forwarding mechanisms. Tree oriented approaches and destination oriented approaches are studied. We analyze the possible distributed denail of service (DDoS) against the Bloom filter based multicast with the destination oriented approach, which has never been analyzed before. We reveal some attack patterns that have not been studied in the literature. We also analyze the possible DDoS attacks against Bloom filter based multicast in the DCN context.

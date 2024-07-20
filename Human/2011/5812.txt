@@ -1,0 +1,4 @@
+A Logic for Choreographies
+
+We explore logical reasoning for the global calculus, a coordination model based on the notion of choreography, with the aim to provide a methodology for specification and verification of structured communications.  Starting with an extension of Hennessy-Milner logic, we present the global logic (GL), a modal logic describing possible interactions among participants in a choreography.  We illustrate its use by giving examples of properties on service specifications. Finally, we show that, despite GL is undecidable, there is a significant decidable fragment which we provide with a sound and complete proof system for checking validity of formulae.
+

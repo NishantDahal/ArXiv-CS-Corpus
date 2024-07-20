@@ -1,0 +1,4 @@
+An architecture for massive parallelization of the compact genetic algorithm
+
+This paper presents an architecture which is suitable for a massive parallelization of the compact genetic algorithm. The resulting scheme has three major advantages. First, it has low synchronization costs. Second, it is fault tolerant, and third, it is scalable.
+  The paper argues that the benefits that can be obtained with the proposed approach is potentially higher than those obtained with traditional parallel genetic algorithms. In addition, the ideas suggested in the paper may also be relevant towards parallelizing more complex probabilistic model building genetic algorithms.

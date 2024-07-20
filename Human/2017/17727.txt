@@ -1,0 +1,3 @@
+Using Conservative Estimation for Conditional Probability instead of Ignoring Infrequent Case
+
+There are several estimators of conditional probability from observed frequencies of features. In this paper, we propose using the lower limit of confidence interval on posterior distribution determined by the observed frequencies to ascertain conditional probability. In our experiments, this method outperformed other popular estimators.

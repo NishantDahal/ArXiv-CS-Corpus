@@ -1,0 +1,3 @@
+Stochastic subgradient method converges on tame functions
+
+This work considers the question: what convergence guarantees does the stochastic subgradient method have in the absence of smoothness and convexity? We prove that the stochastic subgradient method, on any semialgebraic locally Lipschitz function, produces limit points that are all first-order stationary. More generally, our result applies to any function with a Whitney stratifiable graph. In particular, this work endows the stochastic subgradient method, and its proximal extension, with rigorous convergence guarantees for a wide class of problems arising in data science---including all popular deep learning architectures.

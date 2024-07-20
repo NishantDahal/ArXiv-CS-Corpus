@@ -1,0 +1,3 @@
+Robust Capon Beamforming via Shaping Beam Pattern
+
+High sidelobe level and direction of arrival (DOA) estimation sensitivity are two major disadvantages of the Capon beamforming. To deal with these problems, this paper gives an overview of a series of robust Capon beamforming methods via shaping beam pattern, including sparse Capon beamforming, weighted sparse Capon beamforming, mixed norm based Capon beamforming, total variation minimization based Capon beamforming, mainlobe-to-sidelobe power ratio maximization based Capon beamforming. With these additional structure-inducing constraints, the sidelobe is suppressed, and the robustness against DOA mismatch is improved too. Simulations show that the obtained beamformers outperform the standard Capon beamformer.

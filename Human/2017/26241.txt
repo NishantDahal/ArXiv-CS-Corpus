@@ -1,0 +1,3 @@
+SSE Lossless Compression Method for the Text of the Insignificance of the Lines Order
+
+There is a special type of text which the order of the rows makes no difference (e.g., a word list). To compress these special texts, the traditional lossless compression method is not the ideal choice. A new method that can achieve better compression results for this type of texts is proposed. The texts are pre-processed by a method named SSE and are then compressed through the traditional lossless compression method. Comparison shows that an improved compression result is achieved.

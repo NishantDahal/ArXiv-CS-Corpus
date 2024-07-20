@@ -1,0 +1,5 @@
+Interfacing Automatic Proof Agents in Atelier B: Introducing "iapa"
+
+The application of automatic theorem provers to discharge proof obligations is necessary to apply formal methods in an efficient manner. Tools supporting formal methods, such as Atelier~B, generate proof obligations fully automatically. Consequently, such proof obligations are often cluttered with information that is irrelevant to establish their validity.
+  We present iapa, an "Interface to Automatic Proof Agents", a new tool that is being integrated to Atelier~B, through which the user will access proof obligations, apply operations to simplify these proof obligations, and then dispatch the resulting, simplified, proof obligations to a portfolio of automatic theorem provers.
+

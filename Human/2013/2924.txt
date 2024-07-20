@@ -1,0 +1,3 @@
+TTP: Tool for Tumor Progression
+
+In this work we present a flexible tool for tumor progression, which simulates the evolutionary dynamics of cancer. Tumor progression implements a multi-type branching process where the key parameters are the fitness landscape, the mutation rate, and the average time of cell division. The fitness of a cancer cell depends on the mutations it has accumulated. The input to our tool could be any fitness landscape, mutation rate, and cell division time, and the tool produces the growth dynamics and all relevant statistics.

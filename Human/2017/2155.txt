@@ -1,0 +1,3 @@
+Reconstructing binary matrices under window constraints from their row and column sums
+
+The present paper deals with the discrete inverse problem of reconstructing binary matrices from their row and column sums under additional constraints on the number and pattern of entries in specified minors. While the classical consistency and reconstruction problems for two directions in discrete tomography can be solved in polynomial time, it turns out that these window constraints cause various unexpected complexity jumps back and forth from polynomial-time solvability to $\mathbb{N}\mathbb{P}$-hardness.

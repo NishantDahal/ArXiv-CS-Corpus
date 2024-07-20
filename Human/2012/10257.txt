@@ -1,0 +1,5 @@
+Improved upper bounds for vertex and edge fault diameters of Cartesian graph bundles
+
+Mixed fault diameter of a graph $G$, $ \D_{(a,b)}(G)$, is the maximal diameter of $G$ after deletion of any $a$ vertices and any $b$ edges. Special cases are the (vertex) fault diameter $\D^V_{a} = \D_{(a,0)}$ and the edge fault diameter $\D^E_{a} = \D_{(0,a)}$. Let $G$ be a Cartesian graph bundle with fibre $F$ over the base graph $B$. We show that
+(1) $\D^V_{a+b+1}(G)\leq \D^V_{a}(F)+\D^V_{b}(B)$ when the graphs $F$ and $B$ are $k_F$-connected and $k_B$-connected, $0< a < k_F$, $0< b < k_B$, and provided that $\D_{(a-1,1)}(F)\leq \D^{V}_{a} (F)$ and $\D_{(b-1,1)}(B)\leq \D^{V}_{b} (B)$ and
+(2) $\D^E_{a+b+1}(G)\leq \D^E_{a}(F)+\D^E_{b}(B)$ when the graphs $F$ and $B$ are $k_F$-edge connected and $k_B$-edge connected, $0\leq a < k_F$, $0\leq b < k_B$, and provided that $\D^E_{a}(F)\geq 2$ and $\D^E_{b}(B)\geq 2$.

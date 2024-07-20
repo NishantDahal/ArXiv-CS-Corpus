@@ -1,0 +1,3 @@
+Approximating (Unweighted) Tree Augmentation via Lift-and-Project (Part 0: $1.8+ε$ approximation for (Unweighted) TAP)
+
+We study the unweighted Tree Augmentation Problem (TAP) via the Lasserre (Sum of Squares) system. We prove an approximation guarantee of ($1.8+ε$) relative to an SDP relaxation, which matches the combinatorial approximation guarantee of Even, Feldman, Kortsarz and Nutov in ACM TALG (2009), where $ε>0$ is a constant. We generalize the combinatorial analysis of integral solutions of Even, et al., to fractional solutions by identifying some properties of fractional solutions of the Lasserre system via the decomposition result of Rothvoß (arXiv:1111.5473, 2011) and Karlin, Mathieu and Nguyen (IPCO 2011).

@@ -1,0 +1,3 @@
+Reasoning about Strategies under Partial Observability and Fairness Constraints
+
+A number of extensions exist for Alternating-time Temporal Logic; some of these mix strategies and partial observability but, to the best of our knowledge, no work provides a unified framework for strategies, partial observability and fairness constraints. In this paper we propose ATLK^F_po, a logic mixing strategies under partial observability and epistemic properties of agents in a system with fairness constraints on states, and we provide a model checking algorithm for it.

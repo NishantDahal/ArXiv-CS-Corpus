@@ -1,0 +1,3 @@
+Using Deep Networks for Drone Detection
+
+Drone detection is the problem of finding the smallest rectangle that encloses the drone(s) in a video sequence. In this study, we propose a solution using an end-to-end object detection model based on convolutional neural networks. To solve the scarce data problem for training the network, we propose an algorithm for creating an extensive artificial dataset by combining background-subtracted real images. With this approach, we can achieve precision and recall values both of which are high at the same time.

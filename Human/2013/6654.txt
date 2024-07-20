@@ -1,0 +1,3 @@
+A reduction from LWE problem to dihedral coset problem
+
+Learning with Errors (LWE) problems are the foundations for numerous applications in lattice-based cryptography and are provably as hard as approximate lattice problems in the worst case. Here we present a reduction from LWE problem to dihedral coset problem(DCP). We present a quantum algorithm to generate the input of the two point problem which hides the solution of LWE. We then give a new reduction from two point problem to dihedral coset problem on D_{{({n^{13})}^{n\log n}}}. Our reduction implicate that any algorithm solves DCP in subexponential time would lead a quantum algorithm for LWE.

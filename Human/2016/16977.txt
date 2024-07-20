@@ -1,0 +1,3 @@
+Accurate solution of near-colliding Prony systems via decimation and homotopy continuation
+
+We consider polynomial systems of Prony type, appearing in many areas of mathematics. Their robust numerical solution is considered to be difficult, especially in "near-colliding" situations. We consider a case when the structure of the system is a-priori fixed. We transform the nonlinear part of the Prony system into a Hankel-type polynomial system. Combining this representation with a recently discovered "decimation" technique, we present an algorithm which applies homotopy continuation to an appropriately chosen Hankel-type system as above. In this way, we are able to solve for the nonlinear variables of the original system with high accuracy when the data is perturbed.

@@ -1,0 +1,3 @@
+Iterative Approximate Byzantine Consensus under a Generalized Fault Model
+
+In this work, we consider a generalized fault model that can be used to represent a wide range of failure scenarios, including correlated failures and non-uniform node reliabilities. This fault model is general in the sense that fault models studied in prior related work, such as f -total and f -local models, are special cases of the generalized fault model. Under the generalized fault model, we explore iterative approximate Byzantine consensus (IABC) algorithms in arbitrary directed networks. We prove a necessary and sufficient condition for the existence of IABC algorithms. The use of the generalized fault model helps to gain a better understanding of IABC algorithms.

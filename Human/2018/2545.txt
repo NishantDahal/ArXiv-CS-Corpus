@@ -1,0 +1,3 @@
+A Matrix Approach for Weighted Argumentation Frameworks: a Preliminary Report
+
+The assignment of weights to attacks in a classical Argumentation Framework allows to compute semantics by taking into account the different importance of each argument. We represent a Weighted Argumentation Framework by a non-binary matrix, and we characterize the basic extensions (such as w-admissible, w- stable, w-complete) by analysing sub-blocks of this matrix. Also, we show how to reduce the matrix into another one of smaller size, that is equivalent to the original one for the determination of extensions. Furthermore, we provide two algorithms that allow to build incrementally w-grounded and w-preferred extensions starting from a w-admissible extension.

@@ -1,0 +1,3 @@
+Modular Abstractions of Reactive Nodes using Disjunctive Invariants
+
+We wish to abstract nodes in a reactive programming language, such as Lustre, into nodes with a simpler control structure, with a bound on the number of control states. In order to do so, we compute disjunctive invariants in predicate abstraction, with a bounded number of disjuncts, then we abstract the node, each disjunct representing an abstract state. The computation of the disjunctive invariant is performed by a form of quantifier elimination expressed using SMT-solving. The same method can also be used to obtain disjunctive loop invariants.

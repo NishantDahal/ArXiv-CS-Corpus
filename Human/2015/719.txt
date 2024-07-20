@@ -1,0 +1,3 @@
+Implementation of a Stream Cipher Based on Bernoulli's Map
+
+A stream cipher was implemented on a FPGA. The keystream, for some authors the most important element, was developed using an algorithm based on Bernoullis chaotic map. When dynamic systems are digitally implemented, a normal degradation appears and disturbs their behavior; for such reason, a mechanism was needed. The proposed mechanism gives a solution for degradation issue and its implementation is not complicated. Finally, the implemented cipher includes 8 stages and 2 pseudo-random number generators (PRNG), such cipher was tested using NIST testes. Once its designing stage, it was implemented using a developing FPGA board.

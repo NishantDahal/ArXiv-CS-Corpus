@@ -1,0 +1,5 @@
+VM-MAD: a cloud/cluster software for service-oriented academic environments
+
+The availability of powerful computing hardware in IaaS clouds makes cloud computing attractive also for computational workloads that were up to now almost exclusively run on HPC clusters.
+  In this paper we present the VM-MAD Orchestrator software: an open source framework for cloudbursting Linux-based HPC clusters into IaaS clouds but also computational grids. The Orchestrator is completely modular, allowing flexible configurations of cloudbursting policies. It can be used with any batch system or cloud infrastructure, dynamically extending the cluster when needed. A distinctive feature of our framework is that the policies can be tested and tuned in a simulation mode based on historical or synthetic cluster accounting data.
+  In the paper we also describe how the VM-MAD Orchestrator was used in a production environment at the FGCZ to speed up the analysis of mass spectrometry-based protein data by cloudbursting to the Amazon EC2. The advantages of this hybrid system are shown with a large evaluation run using about hundred large EC2 nodes.

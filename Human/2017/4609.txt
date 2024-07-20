@@ -1,0 +1,3 @@
+Gait Pattern Recognition Using Accelerometers
+
+Motion ability is one of the most important human properties, including gait as a basis of human transitional movement. Gait, as a biometric for recognizing human identities, can be non-intrusively captured signals using wearable or portable smart devices. In this study gait patterns is collected using a wireless platform of two sensors located at chest and right ankle of the subjects. Then the raw data has undergone some preprocessing methods and segmented into 5 seconds windows. Some time and frequency domain features is extracted and the performance evaluated by 5 different classifiers. Decision Tree (with all features) and K-Nearest Neighbors (with 10 selected features) classifiers reached 99.4% and 100% respectively.

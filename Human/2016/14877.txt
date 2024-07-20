@@ -1,0 +1,3 @@
+Canonical Number and NutCracker: Heuristic Algorithms for the Graph Isomorphism Problem using Free Energy
+
+This paper develops two heuristic algorithms to solve graph isomorphism, using free energy encoding. The first algorithm uses four types of encoding refinement techniques such that every graph can be distinguished by a canonical number computed by the algorithm. The second algorithm injects energy into the graph to conduct individualization such that the correspondence relation between a pair of isomorphic graphs can be found. The core principle behind the two algorithms is encoding discrete structures as real numbers. A large set of experiments demonstrated the effectiveness of our algorithms.

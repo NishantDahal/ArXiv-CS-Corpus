@@ -1,0 +1,3 @@
+A note on minimal dispersion of point sets in the unit cube
+
+We study the dispersion of a point set, a notion closely related to the discrepancy. Given a real $r\in (0,1)$ and an integer $d\geq 2$, let $N(r,d)$ denote the minimum number of points inside the $d$-dimensional unit cube $[0,1]^d$ such that they intersect every axis-aligned box inside $[0,1]^d$ of volume greater than $r$. We prove an upper bound on $N(r,d)$, matching a lower bound of Aistleitner et al. up to a multiplicative constant depending only on $r$. This fully determines the rate of growth of $N(r,d)$ if $r\in(0,1)$ is fixed.

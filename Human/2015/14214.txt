@@ -1,0 +1,3 @@
+Accelerating Recommender Systems using GPUs
+
+We describe GPU implementations of the matrix recommender algorithms CCD++ and ALS. We compare the processing time and predictive ability of the GPU implementations with existing multi-core versions of the same algorithms. Results on the GPU are better than the results of the multi-core versions (maximum speedup of 14.8).

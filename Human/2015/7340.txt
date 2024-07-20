@@ -1,0 +1,7 @@
+Fast and simple connectivity in graph timelines
+
+In this paper we study the problem of answering connectivity queries about a \emph{graph timeline}. A graph timeline is a sequence of undirected graphs $G_1,\ldots,G_t$ on a common set of vertices of size $n$ such that each graph is obtained from the previous one by an addition or a deletion of a single edge. We present data structures, which preprocess the timeline and can answer the following queries:
+  - forall$(u,v,a,b)$ -- does the path $u\to v$ exist in each of $G_a,\ldots,G_b$?
+  - exists$(u,v,a,b)$ -- does the path $u\to v$ exist in any of $G_a,\ldots,G_b$?
+  - forall2$(u,v,a,b)$ -- do there exist two edge-disjoint paths connecting $u$ and $v$ in each of $G_a,\ldots,G_b$
+  We show data structures that can answer forall and forall2 queries in $O(\log n)$ time after preprocessing in $O(m+t\log n)$ time. Here by $m$ we denote the number of edges that remain unchanged in each graph of the timeline. For the case of exists queries, we show how to extend an existing data structure to obtain a preprocessing/query trade-off of $\langle O(m+\min(nt, t^{2-α})), O(t^α)\rangle$ and show a matching conditional lower bound.

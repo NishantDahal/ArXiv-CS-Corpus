@@ -1,0 +1,3 @@
+Why Do Neural Dialog Systems Generate Short and Meaningless Replies? A Comparison between Dialog and Translation
+
+This paper addresses the question: Why do neural dialog systems generate short and meaningless replies? We conjecture that, in a dialog system, an utterance may have multiple equally plausible replies, causing the deficiency of neural networks in the dialog application. We propose a systematic way to mimic the dialog scenario in a machine translation system, and manage to reproduce the phenomenon of generating short and less meaningful sentences in the translation setting, showing evidence of our conjecture.

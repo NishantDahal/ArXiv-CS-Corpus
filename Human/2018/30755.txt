@@ -1,0 +1,3 @@
+Entropy-regularized Optimal Transport Generative Models
+
+We investigate the use of entropy-regularized optimal transport (EOT) cost in developing generative models to learn implicit distributions. Two generative models are proposed. One uses EOT cost directly in an one-shot optimization problem and the other uses EOT cost iteratively in an adversarial game. The proposed generative models show improved performance over contemporary models for image generation on MNSIT.

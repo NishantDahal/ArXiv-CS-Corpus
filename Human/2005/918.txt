@@ -1,0 +1,3 @@
+Semantic Embedding of Petri Nets into Event-B
+
+We present an embedding of Petri nets into B abstract systems. The embedding is achieved by translating both the static structure (modelling aspect) and the evolution semantics of Petri nets. The static structure of a Petri-net is captured within a B abstract system through a graph structure. This abstract system is then included in another abstract system which captures the evolution semantics of Petri-nets. The evolution semantics results in some B events depending on the chosen policies: basic nets or high level Petri nets. The current embedding enables one to use conjointly Petri nets and Event-B in the same system development, but at different steps and for various analysis.

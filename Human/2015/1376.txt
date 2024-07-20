@@ -1,0 +1,3 @@
+Hardware Architecture for Single Iteration Reconstruction Algorithm
+
+A hardware architecture for the single iteration algorithm is proposed in this paper. Single iteration algorithm enables reconstruction of the full signal when small number of signal samples is available. The algorithm is based on the threshold calculation, and allows distinguishing between signal components and noise that appears as a consequence of missing samples. The proposed system for hardware realization is divided into three parts, each part with different functionality. The system is suitable for the FPGA realization. Realization of the blocks for which there are no standard components in FPGA, is discussed as well.

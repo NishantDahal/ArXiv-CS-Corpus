@@ -1,0 +1,3 @@
+Finite-Time Distributed Linear Equation Solver for Minimum $l_1$ Norm Solutions
+
+This paper proposes distributed algorithms for multi-agent networks to achieve a solution in finite time to a linear equation $Ax=b$ where $A$ has full row rank, and with the minimum $l_1$-norm in the underdetermined case (where $A$ has more columns than rows). The underlying network is assumed to be undirected and fixed, and an analytical proof is provided for the proposed algorithm to drive all agents' individual states to converge to a common value, viz a solution of $Ax=b$, which is the minimum $l_1$-norm solution in the underdetermined case. Numerical simulations are also provided as validation of the proposed algorithms.

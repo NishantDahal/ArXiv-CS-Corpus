@@ -1,0 +1,3 @@
+Use of Signed Permutations in Cryptography
+
+In this paper we consider cryptographic applications of the arithmetic on the hyperoctahedral group. On an appropriate subgroup of the latter, we particularly propose to construct public key cryptosystems based on the discrete logarithm. The fact that the group of signed permutations has rich properties provides fast and easy implementation and makes these systems resistant to attacks like the Pohlig-Hellman algorithm. The only negative point is that storing and transmitting permutations need large memory. Using together the hyperoctahedral enumeration system and what is called subexceedant functions, we define a one-to-one correspondance between natural numbers and signed permutations with which we label the message units.

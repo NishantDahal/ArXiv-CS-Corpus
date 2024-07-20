@@ -1,0 +1,3 @@
+The Size of a Hyperball in a Conceptual Space
+
+The cognitive framework of conceptual spaces [3] provides geometric means for representing knowledge. A conceptual space is a high-dimensional space whose dimensions are partitioned into so-called domains. Within each domain, the Euclidean metric is used to compute distances. Distances in the overall space are computed by applying the Manhattan metric to the intra-domain distances. Instances are represented as points in this space and concepts are represented by regions. In this paper, we derive a formula for the size of a hyperball under the combined metric of a conceptual space. One can think of such a hyperball as the set of all points having a certain minimal similarity to the hyperball's center.

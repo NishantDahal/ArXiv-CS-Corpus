@@ -1,0 +1,3 @@
+Backward deterministic and weak alternating $ω$-automata
+
+We present a direct transformation of weak alternating $ω$-automata into equivalent backward deterministic $ω$-automata and show (1) how it can be used to obtain a transformation of non-deterministic Büchi automata into equivalent backward deterministic automata and (2) that it yields optimal equivalent backward deterministic automata when applied to linear-time temporal logic formulas. (1) uses the alternation-free fragment of the linear-time $μ$-calculus as an intermediate step; (2) is based on the straightforward translation of linear-time temporal logic into weak alternating $ω$-automata.

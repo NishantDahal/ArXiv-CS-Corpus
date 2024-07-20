@@ -1,0 +1,3 @@
+Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds
+
+We have implemented a method that detects planar regions from 3D scan data using Random Sample Consensus (RANSAC) algorithm to address the issue of a trade-off between the scanning speed and the point density of 3D scanning. However, the limitation of the implemented method has not been clear yet. In this paper, we conducted an additional experiment to evaluate the implemented method by changing its parameter and environments in both high and low point density data. As a result, the number of detected planes in high point density data was different from that in low point density data with the same parameter value.

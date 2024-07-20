@@ -1,0 +1,3 @@
+Ensemble Models for Detecting Wikidata Vandalism with Stacking - Team Honeyberry Vandalism Detector at WSDM Cup 2017
+
+The WSDM Cup 2017 is a binary classification task for classifying Wikidata revisions into vandalism and non-vandalism. This paper describes our method using some machine learning techniques such as under-sampling, feature selection, stacking and ensembles of models. We confirm the validity of each technique by calculating AUC-ROC of models using such techniques and not using them. Additionally, we analyze the results and gain useful insights into improving models for the vandalism detection task. The AUC-ROC of our final submission after the deadline resulted in 0.94412.

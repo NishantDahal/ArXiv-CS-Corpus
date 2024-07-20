@@ -1,0 +1,3 @@
+Design of Admissible Heuristics for Kinodynamic Motion Planning via Sum-of-Squares Programming
+
+How does one obtain an admissible heuristic for a kinodynamic motion planning problem? This paper develops the analytical tools and techniques to answer this question. A sufficient condition for the admissibility of a heuristic is presented which can be checked directly from the problem data. This condition is also used to formulate a concave program to optimize an admissible heuristic. This optimization is then approximated and solved in polynomial time using sum-of-squares programming techniques. A number of examples are provided to demonstrate these concepts.

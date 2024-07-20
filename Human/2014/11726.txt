@@ -1,0 +1,3 @@
+A fast algorithm for computing irreducible triangulations of closed surfaces in $E^d$
+
+We give a fast algorithm for computing an irreducible triangulation $T^\prime$ of an oriented, connected, boundaryless, and compact surface $S$ in $E^d$ from any given triangulation $T$ of $S$. If the genus $g$ of $S$ is positive, then our algorithm takes $O(g^2+gn)$ time to obtain $T^\prime$, where $n$ is the number of triangles of $T$. Otherwise, $T^\prime$ is obtained in linear time in $n$. While the latter upper bound is optimal, the former upper bound improves upon the currently best known upper bound by a $(\lg n / g)$ factor. In both cases, the memory space required by our algorithm is in $Θ(n)$.

@@ -1,0 +1,3 @@
+Improved and Simplified Inapproximability for k-means
+
+The k-means problem consists of finding k centers in the d-dimensional Euclidean space that minimize the sum of the squared distances of all points in an input set P to their closest respective center. Awasthi et. al. recently showed that there exists a constant c > 1 such that it is NP-hard to approximate the k-means objective within a factor of c. We establish that the constant c is at least 1.0013.

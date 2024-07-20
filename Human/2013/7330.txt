@@ -1,0 +1,6 @@
+Weighted Automata and Monadic Second Order Logic
+
+Let S be a commutative semiring. M. Droste and P. Gastin have introduced in 2005 weighted  monadic second order logic WMSOL with weights in S. They use a syntactic fragment RMSOL of WMSOL to characterize word functions (power series) recognizable  by weighted automata, where the semantics of quantifiers is   used both as arithmetical operations and, in the boolean case,  as quantification.
+  Already in 2001, B. Courcelle, J.Makowsky and U. Rotics have introduced  a formalism for graph parameters definable in Monadic Second order Logic, here called MSOLEVAL with values in a ring R.   Their framework can be easily adapted to semirings S. This formalism clearly separates the logical part from the  arithmetical part and also applies to word functions.
+  In this paper we give two proofs that RMSOL and MSOLEVAL with values  in S have the same expressive power over words.  One proof shows directly that MSOLEVAL captures the functions recognizable  by weighted automata.  The other proof shows how to translate the  formalisms from one into the other.
+

@@ -1,0 +1,3 @@
+Derandomizing restricted isometries via the Legendre symbol
+
+The restricted isometry property (RIP) is an important matrix condition in compressed sensing, but the best matrix constructions to date use randomness. This paper leverages pseudorandom properties of the Legendre symbol to reduce the number of random bits in an RIP matrix with Bernoulli entries. In this regard, the Legendre symbol is not special---our main result naturally generalizes to any small-bias sample space. We also conjecture that no random bits are necessary for our Legendre symbol--based construction.

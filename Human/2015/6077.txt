@@ -1,0 +1,3 @@
+Fast Guided Filter
+
+The guided filter is a technique for edge-aware image filtering. Because of its nice visual quality, fast speed, and ease of implementation, the guided filter has witnessed various applications in real products, such as image editing apps in phones and stereo reconstruction, and has been included in official MATLAB and OpenCV. In this note, we remind that the guided filter can be simply sped up from O(N) time to O(N/s^2) time for a subsampling ratio s. In a variety of applications, this leads to a speedup of >10x with almost no visible degradation. We hope this acceleration will improve performance of current applications and further popularize this filter. Code is released.

@@ -1,0 +1,3 @@
+The Rooster and the Syntactic Bracket
+
+We propose an extension of pure type systems with an algebraic presentation of inductive and co-inductive type families with proper indices. This type theory supports coercions toward from smaller sorts to bigger sorts via explicit type construction, as well as impredicative sorts. Type families in impredicative sorts are constructed with a bracketing operation. The necessary restrictions of pattern-matching from impredicative sorts to types are confined to the bracketing construct. This type theory gives an alternative presentation to the calculus of inductive constructions on which the Coq proof assistant is an implementation.

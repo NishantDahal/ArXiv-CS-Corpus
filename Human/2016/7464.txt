@@ -1,0 +1,3 @@
+Blackbox: A procedure for parallel optimization of expensive black-box functions
+
+This note provides a description of a procedure that is designed to efficiently optimize expensive black-box functions. It uses the response surface methodology by incorporating radial basis functions as the response model. A simple method based on a Latin hypercube is used for initial sampling. A modified version of CORS algorithm with space rescaling is used for the subsequent sampling. The procedure is able to scale on multicore processors by performing multiple function evaluations in parallel. The source code of the procedure is written in Python.

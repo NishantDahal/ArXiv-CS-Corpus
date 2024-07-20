@@ -1,0 +1,3 @@
+Parameterized algorithm for 3-path vertex cover
+
+In the 3-path vertex cover problem, the input is an undirected graph $G$ and an integer $k$. The goal is to decide whether there is a set of vertices $S$ of size at most $k$ such that every path with 3 vertices in $G$ contains at least one vertex of $S$. In this paper we give parameterized algorithm for 3-path cover whose time complexity is $O^*(1.713^k)$. Our algorithm is faster than previous algorithms for this problem.

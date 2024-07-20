@@ -1,0 +1,3 @@
+FTVd is beyond Fast Total Variation regularized Deconvolution
+
+In this paper, we revisit the "FTVd" algorithm for Fast Total Variation Regularized Deconvolution, which has been widely used in the past few years. Both its original version implemented in the MATLAB software FTVd 3.0 and its related variant implemented in the latter version FTVd 4.0 are considered \cite{Wang08FTVdsoftware}. We propose that the intermediate results during the iterations are the solutions of a series of combined Tikhonov and total variation regularized image deconvolution models and therefore some of them often have even better image quality than the final solution, which is corresponding to the pure total variation regularized model.

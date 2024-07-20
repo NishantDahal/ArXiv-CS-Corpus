@@ -1,0 +1,3 @@
+An L(1/3) algorithm for discrete logarithm computation and principality testing in certain number fields
+
+We analyse the complexity of solving the discrete logarithm problem and of testing the principality of ideals in a certain class of number fields. We achieve the subexponential complexity in $O(L(1/3,O(1)))$ when both the discriminant and the degree of the extension tend to infinity by using techniques due to Enge, Gaudry and Thomé in the context of algebraic curves over finite fields.

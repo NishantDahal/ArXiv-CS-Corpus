@@ -1,0 +1,3 @@
+Confusing Deep Convolution Networks by Relabelling
+
+Deep convolutional neural networks have become the gold standard for image recognition tasks, demonstrating many current state-of-the-art results and even achieving near-human level performance on some tasks. Despite this fact it has been shown that their strong generalisation qualities can be fooled to misclassify previously correctly classified natural images and give erroneous high confidence classifications to nonsense synthetic images. In this paper we extend that work, by presenting a straightforward way to perturb an image in such a way as to cause it to acquire any other label from within the dataset while leaving this perturbed image visually indistinguishable from the original.

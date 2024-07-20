@@ -1,0 +1,3 @@
+Hierarchical Partial Planarity
+
+In this paper we consider graphs whose edges are associated with a degree of {\em importance}, which may depend on the type of connections they represent or on how recently they appeared in the scene, in a streaming setting. The goal is to construct layouts of these graphs in which the readability of an edge is proportional to its importance, that is, more important edges have fewer crossings. We formalize this problem and study the case in which there exist three different degrees of importance. We give a polynomial-time testing algorithm when the graph induced by the two most important sets of edges is biconnected. We also discuss interesting relationships with other constrained-planarity problems.

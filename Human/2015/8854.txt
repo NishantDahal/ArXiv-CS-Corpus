@@ -1,0 +1,3 @@
+Cyber-Deception and Attribution in Capture-the-Flag Exercises
+
+Attributing the culprit of a cyber-attack is widely considered one of the major technical and policy challenges of cyber-security. The lack of ground truth for an individual responsible for a given attack has limited previous studies. Here, we overcome this limitation by leveraging DEFCON capture-the-flag (CTF) exercise data where the actual ground-truth is known. In this work, we use various classification techniques to identify the culprit in a cyberattack and find that deceptive activities account for the majority of misclassified samples. We also explore several heuristics to alleviate some of the misclassification caused by deception.

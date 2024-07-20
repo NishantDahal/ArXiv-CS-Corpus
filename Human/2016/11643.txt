@@ -1,0 +1,4 @@
+Hierarchical Information and the Synthesis of Distributed Strategies
+
+Infinite games with imperfect information are known to be undecidable unless the information flow is severely restricted. One fundamental decidable case occurs when there is a total ordering among players, such that each player has access to all the information that the following ones receive.
+  In this paper we consider variations of this hierarchy principle for synchronous games with perfect recall, and identify new decidable classes for which the distributed synthesis problem is solvable with finite-state strategies. In particular, we show that decidability is maintained when the information hierarchy may change along the play, or when transient phases without hierarchical information are allowed. Finally, we interpret our result in terms of distributed system architectures.

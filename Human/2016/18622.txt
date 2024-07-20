@@ -1,0 +1,5 @@
+Explicit correlation amplifiers for finding outlier correlations in deterministic subquadratic time
+
+We derandomize G. Valiant's [J. ACM 62 (2015) Art. 13] subquadratic-time algorithm for finding outlier correlations in binary data. Our derandomized algorithm gives deterministic subquadratic scaling essentially for the same parameter range as Valiant's randomized algorithm, but the precise constants we save over quadratic scaling are more modest. Our main technical tool for derandomization is an explicit family of correlation amplifiers built via a family of zigzag-product expanders in Reingold, Vadhan, and Wigderson [Ann. of Math. 155 (2002) 157--187]. We say that a function $f:\{-1,1\}^d\rightarrow\{-1,1\}^D$ is a correlation amplifier with threshold $0\leqτ\leq 1$, error $γ\geq 1$, and strength $p$ an even positive integer if for all pairs of vectors $x,y\in\{-1,1\}^d$ it holds that (i) $|\langle x,y\rangle|<τd$ implies $|\langle f(x),f(y)\rangle|\leq(τγ)^pD$; and (ii) $|\langle x,y\rangle|\geqτd$ implies $\bigl(\frac{\langle x,y\rangle}{γd}\bigr)^pD
+  \leq\langle f(x),f(y)\rangle\leq
+  \bigl(\frac{γ\langle x,y\rangle}{d}\bigr)^pD$.

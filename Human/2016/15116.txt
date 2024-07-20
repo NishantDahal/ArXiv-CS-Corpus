@@ -1,0 +1,3 @@
+The adaptation of Shamir's protocol for increasing the security of a mobile environment
+
+The aim of the paper is to provide a solution which increases the security of a mobile environment for both individuals and for workers in an enterprise. The proposed solution adapts Shamir's approach for sharing a secret for encryption key management. One part of the key is stored on a Bluetooth (or NFC) wristband or on an enterprise server, while a mobile device is used to store all the rest. The approach can be applied for both securing documents and voice data. The solution is supported by a mathematical formality which is missing in the currently known advice within cryptographic folklore.

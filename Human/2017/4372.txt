@@ -1,0 +1,3 @@
+Recursive Decoding and Its Performance for Low-Rate Reed-Muller Codes
+
+Recursive decoding techniques are considered for Reed-Muller (RM) codes of growing length $n$ and fixed order $r.$ An algorithm is designed that has complexity of order $n\log n$ and corrects most error patterns of weight up to $n(1/2-\varepsilon)$ given that $\varepsilon$ exceeds $n^{-1/2^{r}}.$ This improves the asymptotic bounds known for decoding RM codes with nonexponential complexity.

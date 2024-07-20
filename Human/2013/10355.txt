@@ -1,0 +1,4 @@
+Avoiding 2-binomial squares and cubes
+
+Two finite words $u,v$ are 2-binomially equivalent if, for all words $x$ of length at most 2, the number of occurrences of $x$ as a (scattered) subword of $u$ is equal to the number of occurrences of $x$ in $v$. This notion is a refinement of the usual abelian equivalence. A 2-binomial square is a word $uv$ where $u$ and $v$ are 2-binomially equivalent.
+  In this paper, considering pure morphic words, we prove that 2-binomial squares (resp. cubes) are avoidable over a 3-letter (resp. 2-letter) alphabet. The sizes of the alphabets are optimal.

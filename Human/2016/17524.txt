@@ -1,0 +1,3 @@
+The subset-matched Jaccard index for evaluation of Segmentation for Plant Images
+
+We describe a new measure for the evaluation of region level segmentation of objects, as applied to evaluating the accuracy of leaf-level segmentation of plant images. The proposed approach enforces the rule that a region (e.g. a leaf) in either the image being evaluated or the ground truth image evaluated against can be mapped to no more than one region in the other image. We call this measure the subset-matched Jaccard index.

@@ -1,0 +1,3 @@
+Image Integrity Authentication Scheme Based On Fixed Point Theory
+
+Based on fixed point theory, this paper proposes a new scheme for image integrity authentication, which is different from Digital Signature and Fragile Watermarking. A realization of the new scheme is given based on Gaussian Convolution and Deconvolution (GCD) functions. For a given image, if it is invariant under a GCD function, we call it GCD fixed point image. An existence theorem of fixed points for GCD functions is proved and an iterative algorithm is presented for finding fixed points. Experiments show that GCD fixed point images perform well in transparence, fragility, security and tampering localization.

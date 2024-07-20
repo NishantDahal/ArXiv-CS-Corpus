@@ -1,0 +1,3 @@
+A note on searching sorted unbalanced three-dimensional arrays
+
+We examine the problem of searching sequentially for a desired real value (a key) within a sorted unbalanced three-dimensional finite real array. This classic problem can be viewed as determining the correct dimensional threshold function from a finite class of such functions within the array, based on sequential queries that take the form of point samples. This note addresses the challenge of constructing algorithms that require the minimum number of queries necessary in the worst case, to search for a given key in arrays that have three dimensions with sizes that are not necessarily equal.

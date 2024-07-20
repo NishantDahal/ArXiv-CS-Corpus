@@ -1,0 +1,5 @@
+Unboxing Mutually Recursive Type Definitions in OCaml
+
+In modern OCaml, single-argument datatype declarations (variants with a single constructor, records with a single field) can sometimes be `unboxed'. This means that their memory representation is the same as their single argument (omitting the variant or record constructor and an indirection), thus achieving better time and memory efficiency.
+  However, in the case of generalized/guarded algebraic datatypes (GADTs), unboxing is not always possible due to a subtle assumption about the runtime representation of OCaml values. The current correctness check is incomplete, rejecting many valid definitions, in particular those involving mutually-recursive datatype declarations.
+  In this paper, we explain the notion of separability as a semantic for the unboxing criterion, and propose a set of inference rules to check separability. From these inference rules, we derive a new implementation of the unboxing check that properly supports mutually-recursive definitions.

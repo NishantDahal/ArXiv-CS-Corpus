@@ -1,0 +1,3 @@
+Low-complexity Distributed Tomographic Backprojection for large datasets
+
+In this manuscript we present a fast GPU implementation for tomographic reconstruction of large datasets using data obtained at the Brazilian synchrotron light source. The algorithm is distributed in a cluster with 4 GPUs through a fast pipeline implemented in C programming language. Our algorithm is theoretically based on a recently discovered low complexity formula, computing the total volume within O(N3logN) floating point operations; much less than traditional algorithms that operates with O(N4) flops over an input data of size O(N3). The results obtained with real data indicate that a reconstruction can be achieved within 1 second provided the data is transferred completely to the memory.

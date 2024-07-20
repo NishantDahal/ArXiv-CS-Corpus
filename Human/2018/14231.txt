@@ -1,0 +1,3 @@
+Analysis of Invariance and Robustness via Invertibility of ReLU-Networks
+
+Studying the invertibility of deep neural networks (DNNs) provides a principled approach to better understand the behavior of these powerful models. Despite being a promising diagnostic tool, a consistent theory on their invertibility is still lacking. We derive a theoretically motivated approach to explore the preimages of ReLU-layers and mechanisms affecting the stability of the inverse. Using the developed theory, we numerically show how this approach uncovers characteristic properties of the network.

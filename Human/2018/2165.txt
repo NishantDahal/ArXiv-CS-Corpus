@@ -1,0 +1,3 @@
+Distributed Event-Triggered Control for Asymptotic Synchronization of Dynamical Networks
+
+This paper studies synchronization of dynamical networks with event-based communication. Firstly, two estimators are introduced into each node, one to estimate its own state, and the other to estimate the average state of its neighbours. Then, with these two estimators, a distributed event-triggering rule (ETR) with a dwell time is designed such that the network achieves synchronization asymptotically with no Zeno behaviours. The designed ETR only depends on the information that each node can obtain, and thus can be implemented in a decentralized way.

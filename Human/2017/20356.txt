@@ -1,0 +1,3 @@
+Visualizing Sensor Network Coverage with Location Uncertainty
+
+We present an interactive visualization system for exploring the coverage in sensor networks with uncertain sensor locations. We consider a simple case of uncertainty where the location of each sensor is confined to a discrete number of points sampled uniformly at random from a region with a fixed radius. Employing techniques from topological data analysis, we model and visualize network coverage by quantifying the uncertainty defined on its simplicial complex representations. We demonstrate the capabilities and effectiveness of our tool via the exploration of randomly distributed sensor networks.

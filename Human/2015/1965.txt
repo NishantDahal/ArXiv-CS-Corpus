@@ -1,0 +1,5 @@
+A Falsification View of Success Typing
+
+Dynamic languages are praised for their flexibility and expressiveness, but static analysis often yields many false positives and verification is cumbersome for lack of structure. Hence, unit testing is the prevalent incomplete method for validating programs in such languages.
+  Falsification is an alternative approach that uncovers definite errors in programs. A falsifier computes a set of inputs that definitely crash a program.
+  Success typing is a type-based approach to document programs in dynamic languages. We demonstrate that success typing is, in fact, an instance of falsification by mapping success (input) types into suitable logic formulae. Output types are represented by recursive types. We prove the correctness of our mapping (which establishes that success typing is falsification) and we report some experiences with a prototype implementation.

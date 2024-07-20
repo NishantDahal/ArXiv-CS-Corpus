@@ -1,0 +1,3 @@
+A pair of universal sequence-set betting strategies
+
+We introduce the sequence-set betting game, a generalization of An. A. Muchnik's non-monotonic betting game. Instead of successively partitioning the infinite binary strings by their value of a bit at a chosen position, as in the non-monotonic game, the player is allowed to partition the strings into any two clopen sets with equal measure. We show that, while there is no single computable sequence-set betting strategy that predicts all non-Martin-Löf random strings, we can construct two strategies such that every non-Martin-Löf random string is predicted by at least one of them.

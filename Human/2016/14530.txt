@@ -1,0 +1,3 @@
+Reconstructing Articulated Rigged Models from RGB-D Videos
+
+Although commercial and open-source software exist to reconstruct a static object from a sequence recorded with an RGB-D sensor, there is a lack of tools that build rigged models of articulated objects that deform realistically and can be used for tracking or animation. In this work, we fill this gap and propose a method that creates a fully rigged model of an articulated object from depth data of a single sensor. To this end, we combine deformable mesh tracking, motion segmentation based on spectral clustering and skeletonization based on mean curvature flow. The fully rigged model then consists of a watertight mesh, embedded skeleton, and skinning weights.

@@ -1,0 +1,3 @@
+Hybrid MPI/StarSs - a case study
+
+Hybrid parallel programming models combining distributed and shared memory paradigms are well established in high-performance computing. The classical prototype of hybrid programming in HPC is MPI/OpenMP, but many other combinations are being investigated. Recently, the data-dependency driven, task parallel model for shared memory parallelisation named StarSs has been suggested for usage in combination with MPI. In this paper we apply hybrid MPI/StarSs to a Lattice-Boltzmann code. In particular, we present the hybrid programming model, the benefits we expect, the challenges in porting, and finally a comparison of the performance of MPI/StarSs hybrid, MPI/OpenMP hybrid and the original MPI-only versions of the same code.

@@ -1,0 +1,3 @@
+Aligning Across Large Gaps in Time
+
+We present a method of temporally-invariant image registration for outdoor scenes, with invariance across time of day, across seasonal variations, and across decade-long periods, for low- and high-texture scenes. Our method can be useful for applications in remote sensing, GPS-denied UAV localization, 3D reconstruction, and many others. Our method leverages a recently proposed approach to image registration, where fully-convolutional neural networks are used to create feature maps which can be registered using the Inverse-Composition Lucas-Kanade algorithm (ICLK). We show that invariance that is learned from satellite imagery can be transferable to time-lapse data captured by webcams mounted on buildings near ground-level.

@@ -1,0 +1,3 @@
+Unsupervised Incremental Learning of Deep Descriptors From Video Streams
+
+We present a novel unsupervised method for face identity learning from video sequences. The method exploits the ResNet deep network for face detection and VGGface fc7 face descriptors together with a smart learning mechanism that exploits the temporal coherence of visual data in video streams. We present a novel feature matching solution based on Reverse Nearest Neighbour and a feature forgetting strategy that supports incremental learning with memory size control, while time progresses. It is shown that the proposed learning procedure is asymptotically stable and can be effectively applied to relevant applications like multiple face tracking.

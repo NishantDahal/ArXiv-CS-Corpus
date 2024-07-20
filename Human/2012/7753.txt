@@ -1,0 +1,5 @@
+Trivalent Graph isomorphism in polynomial time
+
+It's important to design polynomial time algorithms to test if two graphs are isomorphic at least for some special classes of graphs.
+  An approach to this was presented by Eugene M. Luks(1981) in the work \textit{Isomorphism of Graphs of Bounded Valence Can Be Tested in Polynomial Time}. Unfortunately, it was a theoretical algorithm and was very difficult to put into practice. On the other hand, there is no known implementation of the algorithm, although Galil, Hoffman and Luks(1983) shows an improvement of this algorithm running in $O(n^3 \log n)$.
+  The two main goals of this master thesis are to explain more carefully the algorithm of Luks(1981), including a detailed study of the complexity and, then to provide an efficient implementation in SAGE system. It is divided into four chapters plus an appendix.

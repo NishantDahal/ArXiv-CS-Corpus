@@ -1,0 +1,3 @@
+Scripting Relational Database Engine Using Transducer
+
+We allow database user to script a parallel relational database engine with a procedural language. Procedural language code is executed as a user defined relational query operator called transducer. Transducer is tightly integrated with relation engine, including query optimizer, query executor and can be executed in parallel like other query operators. With transducer, we can efficiently execute queries that are very difficult to express in SQL. As example, we show how to run time series and graph queries, etc, within a parallel relational database.

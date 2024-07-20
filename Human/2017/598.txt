@@ -1,0 +1,3 @@
+Optimal Reduction without Oracle?
+
+We suggest an approach to solve the problem of matching fans in interaction net implementations of optimal reduction for the pure untyped lambda calculus without use of any additional agent types. Our implementation supports a wider class of lambda terms than the abstract version of Lamping's algorithm and beats the interaction net implementation of closed reduction by the total number of interactions.

@@ -1,0 +1,5 @@
+Finite and infinite support in nominal algebra and logic: nominal completeness theorems for free
+
+By operations on models we show how to relate completeness with respect to permissive-nominal models to completeness with respect to nominal models with finite support. Models with finite support are a special case of permissive-nominal models, so the construction hinges on generating from an instance of the latter, some instance of the former in which sufficiently many inequalities are preserved between elements. We do this using an infinite generalisation of nominal atoms-abstraction.
+  The results are of interest in their own right, but also, we factor the mathematics so as to maximise the chances that it could be used off-the-shelf for other nominal reasoning systems too. Models with infinite support can be easier to work with, so it is useful to have a semi-automatic theorem to transfer results from classes of infinitely-supported nominal models to the more restricted class of models with finite support.
+  In conclusion, we consider different permissive-nominal syntaxes and nominal models and discuss how they relate to the results proved here.

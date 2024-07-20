@@ -1,0 +1,5 @@
+A sum form functional equation on a closed domain and its role in information theory
+
+This paper is devoted to finding the general solutions of the functional equation
+  $\sumin \sumjm h(p_iq_j)=\sumin h(p_i)+\sumjm k_j(q_j)+λ\sumin h(p_i)\sumjm k_j(q_j)$
+  valid for all complete probability distributions $(p_1,\ldots,p_n)$, $(q_1,\ldots,q_m)$, $0\le p_i\le 1$, $0\le q_j\le 1$, $i=1,\ldots,n$; $j=1,\ldots,m$, $\sumin p_i=1$, $\sumjm q_j=1$; $n\ge 3$, $m\ge 3$ fixed integers; $λ\in\RR$, $λ\neq 0$ and the mappings $h:I\to\RR$, $k_j:I\to\RR$, $j=1,\ldots,m$; $I=[0,1]$, $\RR$ denoting the set of all real numbers. A special case of the above functional equation was treated earlier by L. Losonczi and Gy. Maksa.

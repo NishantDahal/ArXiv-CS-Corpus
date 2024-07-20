@@ -1,0 +1,3 @@
+Optimized Data Pre-Processing for Discrimination Prevention
+
+Non-discrimination is a recognized objective in algorithmic decision making. In this paper, we introduce a novel probabilistic formulation of data pre-processing for reducing discrimination. We propose a convex optimization for learning a data transformation with three goals: controlling discrimination, limiting distortion in individual data samples, and preserving utility. We characterize the impact of limited sample size in accomplishing this objective, and apply two instances of the proposed optimization to datasets, including one on real-world criminal recidivism. The results demonstrate that all three criteria can be simultaneously achieved and also reveal interesting patterns of bias in American society.

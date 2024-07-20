@@ -1,0 +1,3 @@
+Fast Polarization for Processes with Memory
+
+Fast polarization is crucial for the performance guarantees of polar codes. In the memoryless setting, the rate of polarization is known to be exponential in the square root of the block length. A complete characterization of the rate of polarization for models with memory has been missing. Namely, previous works have not addressed fast polarization of the high entropy set under memory. We consider polar codes for processes with memory that are characterized by an underlying ergodic finite-state Markov chain. We show that the rate of polarization for these processes is the same as in the memoryless setting, both for the high and for the low entropy sets.

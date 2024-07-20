@@ -1,0 +1,3 @@
+Laderman matrix multiplication algorithm can be constructed using Strassen algorithm and related tensor's isotropies
+
+In 1969, V. Strassen improves the classical~2x2 matrix multiplication algorithm.  The current upper bound for 3x3 matrix multiplication was reached by J.B. Laderman in 1976. This note presents a geometric relationship between Strassen and Laderman algorithms.  By doing so, we retrieve a geometric formulation of results very similar to those presented by O. Sykora in 1977.

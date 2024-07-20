@@ -1,0 +1,3 @@
+Drawing Permutations with Few Corners
+
+A permutation may be represented by a collection of paths in the plane. We consider a natural class of such representations, which we call tangles, in which the paths consist of straight segments at 45 degree angles, and the permutation is decomposed into nearest-neighbour transpositions. We address the problem of minimizing the number of crossings together with the number of corners of the paths, focusing on classes of permutations in which both can be minimized simultaneously. We give algorithms for computing such tangles for several classes of permutations.

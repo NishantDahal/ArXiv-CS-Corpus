@@ -1,0 +1,3 @@
+Havannah and TwixT are PSPACE-complete
+
+Numerous popular abstract strategy games ranging from Hex and Havannah to Lines of Action belong to the class of connection games. Still, very few complexity results on such games have been obtained since Hex was proved PSPACE-complete in the early eighties. We study the complexity of two connection games among the most widely played. Namely, we prove that Havannah and TwixT are PSPACE-complete. The proof for Havannah involves a reduction from Generalized Geography and is based solely on ring-threats to represent the input graph. On the other hand, the reduction for TwixT builds up on previous work as it is a straightforward encoding of Hex.

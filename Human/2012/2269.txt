@@ -1,0 +1,3 @@
+Solving simple stochastic games with few coin toss positions
+
+Gimbert and Horn gave an algorithm for solving simple stochastic games with running time O(r! n) where n is the number of positions of the simple stochastic game and r is the number of its coin toss positions. Chatterjee et al. pointed out that a variant of strategy iteration can be implemented to solve this problem in time 4^r r^{O(1)} n^{O(1)}. In this paper, we show that an algorithm combining value iteration with retrograde analysis achieves a time bound of O(r 2^r (r log r + n)), thus improving both time bounds. While the algorithm is simple, the analysis leading to this time bound is involved, using techniques of extremal combinatorics to identify worst case instances for the algorithm.

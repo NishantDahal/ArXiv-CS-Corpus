@@ -1,0 +1,3 @@
+TTT2 with Termination Templates for Teaching
+
+On the one hand, checking specific termination proofs by hand, say using a particular collection of matrix interpretations, can be an arduous and error-prone task. On the other hand, automation of such checks would save time and help to establish correctness of exam solutions, examples in lecture notes etc. To this end, we introduce a template mechanism for the termination tool TTT2 that allows us to restrict parameters of certain termination methods. In the extreme, when all parameters are fixed, such restrictions result in checks for specific proofs.

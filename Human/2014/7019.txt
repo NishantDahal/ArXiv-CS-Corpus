@@ -1,0 +1,3 @@
+Towards Assertion-based Debugging of Higher-Order (C)LP Programs
+
+Higher-order constructs extend the expressiveness of first-order (Constraint) Logic Programming ((C)LP) both syntactically and semantically. At the same time assertions have been in use for some time in (C)LP systems helping programmers detect errors and validate programs. However, these assertion-based extensions to (C)LP have not been integrated well with higher order to date. Our work contributes to filling this gap by extending the assertion-based approach to error detection and program validation to the higher-order context, within (C)LP. It is based on an extension of properties and assertions as used in (C)LP in order to be able to fully describe arguments that are predicates.

@@ -1,0 +1,3 @@
+A quantum secret ballot
+
+The paper concerns the protection of the secrecy of ballots, so that the identity of the voters cannot be matched with their vote. To achieve this we use an entangled quantum state to represent the ballots. Each ballot includes the identity of the voter, explicitly marked on the "envelope" containing it. Measuring the content of the envelope yields a random number which reveals no information about the vote. However, the outcome of the elections can be unambiguously decided after adding the random numbers from all envelopes. We consider a few versions of the protocol and their complexity of implementation.

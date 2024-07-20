@@ -1,0 +1,3 @@
+Understanding Book Popularity on Goodreads
+
+Goodreads has launched the Readers Choice Awards since 2009 where users are able to nominate/vote books of their choice, released in the given year. In this work, we question if the number of votes that a book would receive (aka the popularity of the book) can be predicted based on the characteristics of various entities on Goodreads. We are successful in predicting the popularity of the books with high prediction accuracy (correlation coefficient ~0.61) and low RMSE (~1.25). User engagement and author's prestige are found to be crucial factors for book popularity.

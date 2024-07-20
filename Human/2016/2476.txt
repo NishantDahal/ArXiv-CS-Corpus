@@ -1,0 +1,3 @@
+Strong reductions for extended formulations
+
+We generalize the reduction mechanism for linear programming problems and semidefinite programming problems from [arXiv:1410.8816] in two ways 1) relaxing the requirement of affineness and 2) extending to fractional optimization problems. As applications we provide several new LP-hardness and SDP-hardness results, e.g., for the SparsestCut problem, the BalancedSeparator problem, the MaxCut problem and the Matching problem on 3-regular graphs. We also provide a new, very strong Lasserre integrality gap result for the IndependentSet problem, which is strictly greater than the best known LP approximation, showing that the Lasserre hierarchy does not always provide the tightest SDP relaxation.

@@ -1,0 +1,3 @@
+Fast Matrix Multiplication with Sketching
+
+We present an approximate algorithm for matrix multiplication based on matrix sketching techniques. First one of the matrix is chosen and sparsified using the online matrix sketching algorithm, and then the matrix product is calculated using the sparsified matrix. We prove when the sample number grows large compared to the sample dimensions the proposed algorithm achieves similar accuracy bound with a smaller computational cost compared to the state-of-the-art algorithms.

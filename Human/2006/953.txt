@@ -1,0 +1,3 @@
+Logic programs with monotone abstract constraint atoms
+
+We introduce and study logic programs whose clauses are built out of monotone constraint atoms. We show that the operational concept of the one-step provability operator generalizes to programs with monotone constraint atoms, but the generalization involves nondeterminism. Our main results demonstrate that our formalism is a common generalization of (1) normal logic programming with its semantics of models, supported models and stable models, (2) logic programming with weight atoms (lparse programs) with the semantics of stable models, as defined by Niemela, Simons and Soininen, and (3) of disjunctive logic programming with the possible-model semantics of Sakama and Inoue.

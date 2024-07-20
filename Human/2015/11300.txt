@@ -1,0 +1,3 @@
+NoSPaM Manual - A Tool for Node-Specific Triad Pattern Mining
+
+The detection of triadic subgraph motifs is a common methodology in complex-networks research. The procedure usually applied in order to detect motifs evaluates whether a certain subgraph pattern is overrepresented in a network as a whole. However, motifs do not necessarily appear frequently in every region of a graph. For this reason, we recently introduced the framework of Node-Specific Pattern Mining (NoSPaM). This work is a manual for an implementation of NoSPaM which can be downloaded from www.mwinkler.eu.

@@ -1,0 +1,3 @@
+Denoising a Point Cloud for Surface Reconstruction
+
+Surface reconstruction from an unorganized point cloud is an important problem due to its widespread applications. White noise, possibly clustered outliers, and noisy perturbation may be generated when a point cloud is sampled from a surface. Most existing methods handle limited amount of noise. We develop a method to denoise a point cloud so that the users can run their surface reconstruction codes or perform other analyses afterwards. Our experiments demonstrate that our method is computationally efficient and it has significantly better noise handling ability than several existing surface reconstruction codes.

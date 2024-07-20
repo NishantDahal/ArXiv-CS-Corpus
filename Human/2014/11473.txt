@@ -1,0 +1,4 @@
+Extending Probabilistic Data Fusion Using Sliding Windows
+
+Recent developments in the field of data fusion have seen a focus on techniques that use training queries to estimate the probability that various documents are relevant to a given query and use that information to assign scores to those documents on which they are subsequently ranked. This paper introduces SlideFuse, which builds on these techniques, introducing a sliding window in order to compensate for situations where little relevance information is available to aid in the estimation of probabilities.
+  SlideFuse is shown to perform favourably in comparison with CombMNZ, ProbFuse and SegFuse. CombMNZ is the standard baseline technique against which data fusion algorithms are compared whereas ProbFuse and SegFuse represent the state-of-the-art for probabilistic data fusion methods.

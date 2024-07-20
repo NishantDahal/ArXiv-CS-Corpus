@@ -1,0 +1,6 @@
+Maximum Volume Subset Selection for Anchored Boxes
+
+Let $B$ be a set of $n$ axis-parallel boxes in $\mathbb{R}^d$ such that each box has a corner at the origin and the other corner in the positive quadrant of $\mathbb{R}^d$, and let $k$ be a positive integer. We study the problem of selecting $k$ boxes in $B$ that maximize the volume of the union of the selected boxes. This research is motivated by applications in skyline queries for databases and in multicriteria optimization, where the problem is known as the hypervolume subset selection problem. It is known that the problem can be solved in polynomial time in the plane, while the best known running time in any dimension $d \ge 3$ is $Ω\big(\binom{n}{k}\big)$. We show that:
+  - The problem is NP-hard already in 3 dimensions.
+  - In 3 dimensions, we break the bound $Ω\big(\binom{n}{k}\big)$, by providing an $n^{O(\sqrt{k})}$ algorithm.
+  - For any constant dimension $d$, we present an efficient polynomial-time approximation scheme.

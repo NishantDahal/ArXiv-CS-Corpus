@@ -1,0 +1,3 @@
+The Computational Complexity of Random Serial Dictatorship
+
+In social choice settings with linear preferences, random dictatorship is known to be the only social decision scheme satisfying strategyproofness and ex post efficiency. When also allowing indifferences, random serial dictatorship (RSD) is a well-known generalization of random dictatorship that retains both properties. RSD has been particularly successful in the special domain of random assignment where indifferences are unavoidable. While executing RSD is obviously feasible, we show that computing the resulting probabilities is #P-complete and thus intractable, both in the context of voting and assignment.

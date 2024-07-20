@@ -1,0 +1,4 @@
+Indexed Labels for Loop Iteration Dependent Costs
+
+We present an extension to the labelling approach, a technique for lifting resource consumption information from compiled to source code. This approach, which is at the core of the annotating compiler from a large fragment of C to 8051 assembly of the CerCo project, looses preciseness when differences arise as to the cost of the same portion of code, whether due to code transformation such as loop optimisations or advanced architecture features (e.g. cache). We propose to address this weakness by formally indexing cost labels with the iterations of the containing loops they occur in. These indexes can be transformed during the compilation, and when lifted back to source code they produce dependent costs.
+  The proposed changes have been implemented in CerCo's untrusted prototype compiler from a large fragment of C to 8051 assembly.

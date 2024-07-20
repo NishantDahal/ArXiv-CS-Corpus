@@ -1,0 +1,3 @@
+Efficient Leverage of Symbolic ATG Tools to Advanced Coverage Criteria
+
+Automatic test data generation (ATG) is a major topic in software engineering. In this paper, we seek to bridge the gap between the coverage criteria supported by symbolic ATG tools and the most advanced coverage criteria found in the literature. We define a new testing criterion, label coverage, and prove it to be both expressive and amenable to efficient automation. We propose several innovative techniques resulting in an effective black-box support for label coverage, while a direct approach induces an exponential blow-up of the search space. Initial experiments show that ATG for label coverage can be achieved at a reasonable cost and that our optimisations yield very significant savings.

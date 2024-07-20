@@ -1,0 +1,5 @@
+Optimal Monotone Drawings of Trees
+
+A monotone drawing of a graph G is a straight-line drawing of G such that, for every pair of vertices u,w in G, there exists abpath P_{uw} in G that is monotone in some direction l_{uw}. (Namely, the order of the orthogonal projections of the vertices of P_{uw} on l_{uw} is the same as the order they appear in P_{uw}.)
+  The problem of finding monotone drawings for trees has been studied in several recent papers. The main focus is to reduce the size of the drawing. Currently, the smallest drawing size is O(n^{1.205}) x O(n^{1.205}). In this paper, we present an algorithm for constructing monotone drawings of trees on a grid of size at most 12n x 12n. The smaller drawing size is achieved by a new simple Path Draw algorithm, and a procedure that carefully assigns primitive vectors to the paths of the input tree T.
+  We also show that there exists a tree T_0 such that any monotone drawing of T_0 must use a grid of size Omega(n) x Omega(n). So the size of our monotone drawing of trees is asymptotically optimal.

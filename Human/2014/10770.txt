@@ -1,0 +1,4 @@
+Simple CHT: A New Derivation of the Weakest Failure Detector for Consensus
+
+The paper proposes an alternative proof that Omega, an oracle that outputs a process identifier and guarantees that eventually the same correct process identifier is output at all correct processes, provides minimal information about failures for solving consensus in read-write shared-memory systems: every oracle that gives enough failure information to solve consensus can be used to implement Omega.
+  Unlike the original proof by Chandra, Hadzilacos and Toueg (CHT), the proof presented in this paper builds upon the very fact that 2-process wait-free consensus is impossible. Also, since the oracle that is used to implement can solve consensus, the implementation is allowed to directly access consensus objects. As a result, the proposed proof is shorter and conceptually simpler than the original one.

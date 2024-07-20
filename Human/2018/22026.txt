@@ -1,0 +1,3 @@
+A Compiler-Compiler for DSL Embedding
+
+In this paper, we present a framework to generate compilers for embedded domain-specific languages (EDSLs). This framework provides facilities to automatically generate the boilerplate code required for building DSL compilers on top of extensible optimizing compilers. We evaluate the practicality of our framework by demonstrating several use-cases successfully built with it.

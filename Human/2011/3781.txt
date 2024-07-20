@@ -1,0 +1,3 @@
+Functions as proofs as processes
+
+This paper presents a logical approach to the translation of functional calculi into concurrent process calculi. The starting point is a type system for the π-calculus closely related to linear logic. Decompositions of intuitionistic and classical logics into this system provide type-preserving translations of the λ- and λμ-calculus, both for call-by-name and call-by-value evaluation strategies. Previously known encodings of the \lam-calculus are shown to correspond to particular cases of this logical embedding. The realisability interpretation of types in the π-calculus provides systematic soundness arguments for these translations and allows for the definition of type-safe extensions of functional calculi.

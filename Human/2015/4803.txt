@@ -1,0 +1,3 @@
+The Price of Anarchy in Large Games
+
+Game-theoretic models relevant for computer science applications usually feature a large number of players. The goal of this paper is to develop an analytical framework for bounding the price of anarchy in such models. We demonstrate the wide applicability of our framework through instantiations for several well-studied models, including simultaneous single-item auctions, greedy combinatorial auctions, and routing games. In all cases, we identify conditions under which the POA of large games is much better than that of worst-case instances. Our results also give new senses in which simple auctions can perform almost as well as optimal ones in realistic settings.

@@ -1,0 +1,3 @@
+Supercompiling String Programs Using Word Equations as Constraints
+
+We describe a general parameterized scheme of program and constraint analyses allowing us to specify both the program specialization method known as Turchin's supercompilation and Hmelevskii's algorithm solving the quadratic word equations. The scheme is specified for both sorts of the analysis and works in a joint algorithm in which these two sorts of the analysis are used together. The word equations and the inequalities on regular patterns are used as the string constraint language in the algorithm.

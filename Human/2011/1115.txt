@@ -1,0 +1,4 @@
+Using a Non-Commutative Bernstein Bound to Approximate Some Matrix Algorithms in the Spectral Norm
+
+We focus on \emph{row sampling} based approximations for matrix algorithms, in particular matrix multipication, sparse matrix reconstruction, and \math{\ell_2} regression. For \math{\matA\in\R^{m\times d}} (\math{m} points in \math{d\ll m} dimensions), and appropriate row-sampling probabilities, which typically depend on the norms of the rows of the \math{m\times d} left singular matrix of \math{\matA} (the \emph{leverage scores}), we give row-sampling algorithms with linear (up to polylog factors) dependence on the stable rank of \math{\matA}. This result is achieved through the application of non-commutative Bernstein bounds.
+Keywords: row-sampling; matrix multiplication; matrix reconstruction; estimating spectral norm; linear regression; randomized

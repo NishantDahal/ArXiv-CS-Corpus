@@ -1,0 +1,6 @@
+Refinement for Probabilistic Systems with Nondeterminism
+
+Before we combine actions and probabilities two very  obvious questions should be asked. Firstly, what does "the probability of an action" mean?  Secondly, how does probability interact with nondeterminism?  Neither question has a single universally agreed upon answer but by considering these questions at the outset we build a novel and hopefully intuitive  probabilistic event-based formalism.
+  In previous work we have characterised refinement via the notion of testing. Basically, if one system passes all the tests that another system passes (and maybe more) we say the first system is a refinement of the second. This is, in our view, an important way of characterising refinement, via the question "what sort of refinement should I be using?"
+  We use testing in this paper as the basis for our refinement. We develop tests for probabilistic systems by analogy with the tests developed for non-probabilistic systems. We make sure that our probabilistic tests, when performed on non-probabilistic automata, give us refinement relations which agree with for those non-probabilistic automata. We formalise this property as a vertical refinement.
+

@@ -1,0 +1,6 @@
+Marking Shortest Paths On Pushdown Graphs Does Not Preserve MSO Decidability
+
+In this paper we consider pushdown graphs, i.e. infinite graphs that can be described as transition graphs of deterministic real-time pushdown automata. We consider the case where some vertices are designated as being final and we built, in a breadth-first manner, a marking of edges that lead to such vertices (i.e., for every vertex that can reach a final one, we mark all out-going edges laying on some shortest path to a final vertex).
+  Our main result is that the edge-marked version of a pushdown graph may itself no longer be a pushdown graph, as we prove that this enrich graph may have an undecidable MSO theory.
+  In this paper we consider pushdown graphs, i.e. infinite graphs that can be described as transition graphs of deterministic real-time pushdown automata. We consider the case where some vertices are designated as being final and we build, in a breadth-first manner, a marking of edges that lead to such vertices (i.e., for every vertex that can reach a final one, we mark all out-going edges laying on some shortest path to a final vertex).
+  Our main result is that the edge-marked version of a pushdown graph may itself no longer be a pushdown graph, as we prove that the MSO theory of this enriched graph may be undecidable.

@@ -1,0 +1,4 @@
+A local Gaussian filter and adaptive morphology as tools for completing partially discontinuous curves
+
+This paper presents a method for extraction and analysis of curve--type structures which consist of disconnected components. Such structures are found in electron--microscopy (EM) images of metal nanograins, which are widely used in the field of nanosensor technology.
+  The topography of metal nanograins in compound nanomaterials is crucial to nanosensor characteristics. The method of completing such templates consists of three steps. In the first step, a local Gaussian filter is used with different weights for each neighborhood. In the second step, an adaptive morphology operation is applied to detect the endpoints of curve segments and connect them. In the last step, pruning is employed to extract a curve which optimally fits the template.

@@ -1,0 +1,4 @@
+Exploring mutexes, the Oracle RDBMS retrial spinlocks
+
+Spinlocks are widely used in database engines for processes synchronization. KGX mutexes is new retrial spinlocks appeared in contemporary Oracle versions for submicrosecond synchronization. The mutex contention is frequently observed in highly concurrent OLTP environments.
+  This work explores how Oracle mutexes operate, spin, and sleep. It develops predictive mathematical model and discusses parameters and statistics related to mutex performance tuning, as well as results of contention experiments.

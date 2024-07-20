@@ -1,0 +1,3 @@
+Ultra-large alignments using Phylogeny-aware Profiles
+
+Many biological questions, including the estimation of deep evolutionary histories and the detection of remote homology between protein sequences, rely upon multiple sequence alignments (MSAs) and phylogenetic trees of large datasets. However, accurate large-scale multiple sequence alignment is very difficult, especially when the dataset contains fragmentary sequences. We present UPP, an MSA method that uses a new machine learning technique - the Ensemble of Hidden Markov Models - that we propose here. UPP produces highly accurate alignments for both nucleotide and amino acid sequences, even on ultra-large datasets or datasets containing fragmentary sequences. UPP is available at https://github.com/smirarab/sepp.

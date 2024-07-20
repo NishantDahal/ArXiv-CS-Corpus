@@ -1,0 +1,3 @@
+Merlinization of complexity classes above BQP
+
+We study how complexity classes above BQP, such as postBQP, ${\rm postBQP}_{\rm FP}$, and SBQP, change if we "Merlinize" them, i.e., if we allow an extra input quantum state (or classical bit string) given by Merlin as witness. Main results are the following three: First, the Merlinized version of postBQP is equal to PSPACE. Second, if the Merlinized postBQP is restricted in such a way that the postselection probability is equal to all witness states, then the class is equal to PP. Finally, the Merlinization does not change the class SBQP.

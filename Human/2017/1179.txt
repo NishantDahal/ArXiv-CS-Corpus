@@ -1,0 +1,4 @@
+Collecting a Swarm in a Grid Environment Using Shared, Global Inputs
+
+This paper investigates efficient techniques to collect and concentrate an under-actuated particle swarm despite obstacles. Concentrating a swarm of particles is of critical importance in health-care for targeted drug delivery, where micro-scale particles must be steered to a goal location. Individual particles must be small in order to navigate through micro-vasculature, but decreasing size brings new challenges. Individual particles are too small to contain on-board power or computation and are instead controlled by a global input, such as an applied fluidic flow or electric field.
+  To make progress, this paper considers a swarm of robots initialized in a grid world in which each position is either free-space or obstacle. This paper provides algorithms that collect all the robots to one position and compares these algorithms on the basis of efficiency and implementation time.

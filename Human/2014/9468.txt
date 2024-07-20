@@ -1,0 +1,3 @@
+Parametrized Algorithms for Random Serial Dictatorship
+
+Voting and assignment are two of the most fundamental settings in social choice theory. For both settings, random serial dictatorship (RSD) is a well-known rule that satisfies anonymity, ex post efficiency, and strategyproofness. Recently, it was shown that computing the resulting probabilities is #P-complete both in the voting and assignment setting. In this paper, we study RSD from a parametrized complexity perspective. More specifically, we present efficient algorithms to compute the RSD probabilities under the condition that the number of agent types, alternatives, or objects is bounded.

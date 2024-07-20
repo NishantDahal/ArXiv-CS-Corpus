@@ -1,0 +1,4 @@
+Verification of Sequential Circuits by Tests-As-Proofs Paradigm
+
+We introduce an algorithm for detection of bugs in sequential circuits. This algorithm is incomplete i.e. its failure to find a bug breaking a property P does not imply that P holds. The appeal of incomplete algorithms is that they scale better than their complete counterparts. However, to make an incomplete algorithm effective one needs to guarantee that the probability of finding a bug is reasonably high. We try to achieve such effectiveness by employing the Test-As-Proofs (TAP) paradigm. In our TAP based approach, a counterexample is built as a sequence of states extracted from proofs that some local variations of property P hold. This increases the probability that a) a representative set of states is examined and that b) the considered states are relevant to property P.
+  We describe an algorithm of test generation based on the TAP paradigm and give preliminary experimental results.

@@ -1,0 +1,5 @@
+TLS hardening
+
+This document presents TLS and how to make it secure enough as of 2014 Spring. Of course all the information given here will rot with time. Protocols known as secure will be cracked and will be replaced with better versions. Fortunately we will see that there are ways to assess the current security of your setup, but this explains why you may have to read further from this document to get the up to date knowledge on TLS security.
+  We will first introduce the TLS protocol and its underlying components: X.509 certificates, ciphers, and protocol versions. Next we will have a look at TLS hardening for web servers, and how to plug various vulnerabilities: CRIME, BREACH, BEAST, session renegotiation, Heartbleed, and others. We will finally see how the know-how acquired on hardening web servers can be used for other protocols and tools such as Dovecot, Sendmail, SquirrelMail, RoundCube, and OpenVPN.
+  We assume you already maintain services that use TLS, and have basic TCP/IP network knowledge. Some information will also be useful for the application developer.

@@ -1,0 +1,3 @@
+Code generator matrices as RNG conditioners
+
+We quantify precisely the distribution of the output of a binary random number generator (RNG) after conditioning with a binary linear code generator matrix by showing the connection between the Walsh spectrum of the resulting random variable and the weight distribution of the code. Previously known bounds on the performance of linear binary codes as entropy extractors can be derived by considering generator matrices as a selector of a subset of that spectrum. We also extend this framework to the case of non-binary codes.

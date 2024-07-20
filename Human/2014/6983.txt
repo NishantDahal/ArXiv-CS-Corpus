@@ -1,0 +1,3 @@
+Undecidability of satisfiability in the algebra of finite binary relations with union, composition, and difference
+
+We consider expressions built up from binary relation names using the operators union, composition, and set difference. We show that it is undecidable to test whether a given such expression $e$ is finitely satisfiable, i.e., whether there exist finite binary relations that can be substituted for the relation names so that $e$ evaluates to a nonempty result. This result already holds in restriction to expressions that mention just a single relation name, and where the difference operator can be nested at most once.

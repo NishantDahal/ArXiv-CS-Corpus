@@ -1,0 +1,3 @@
+Level-Triggered Harvest-then-Consume Protocol with Two Bits or Less Energy State Information
+
+We propose a variation of harvest-then-consume protocol with low complexity where the harvest and consume phases change when the battery energy level reaches certain thresholds. The proposed protocol allows us to control the possible energy outage during consumption phase. Assuming that the battery is perfect and that the energy arrival is a renewal process, we analyze the duty cycle and the operating cycle speed of the protocol. The proposed protocol also allows for limited battery energy state information. The cases when the system has two-bits, one-bit, and zero-bit of battery energy state information are studied in detail. Numerical simulations verify the obtained formulas.

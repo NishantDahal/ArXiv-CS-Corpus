@@ -1,0 +1,3 @@
+A lower bound on dimension reduction for trees in \ell_1
+
+There is a constant c > 0 such that for every $ε\in (0,1)$ and $n \geq 1/ε^2$, the following holds. Any mapping from the $n$-point star metric into $\ell_1^d$ with bi-Lipschitz distortion $1+ε$ requires dimension $$d \geq {c\log n\over ε^2\log (1/ε)}.$$

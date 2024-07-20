@@ -1,0 +1,3 @@
+Solving Tree Containment Problem for Reticulation-visible Networks with Optimal Running Time
+
+Tree containment problem is a fundamental problem in phylogenetic study, as it is used to verify a network model. It asks whether a given network contain a subtree that resembles a binary tree. The problem is NP-complete in general, even in the class of binary network. Recently, it was proven to be solvable in cubic time, and later in quadratic time for the class of general reticulation visible networks. In this paper, we further improve the time complexity into linear time.

@@ -1,0 +1,3 @@
+Modeling Events with Cascades of Poisson Processes
+
+We present a probabilistic model of events in continuous time in which each event triggers a Poisson process of successor events. The ensemble of observed events is thereby modeled as a superposition of Poisson processes. Efficient inference is feasible under this model with an EM algorithm. Moreover, the EM algorithm can be implemented as a distributed algorithm, permitting the model to be applied to very large datasets. We apply these techniques to the modeling of Twitter messages and the revision history of Wikipedia.

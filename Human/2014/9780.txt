@@ -1,0 +1,3 @@
+Stream quantiles via maximal entropy histograms
+
+We address the problem of estimating the running quantile of a data stream when the memory for storing observations is limited. We (i) highlight the limitations of approaches previously described in the literature which make them unsuitable for non-stationary streams, (ii) describe a novel principle for the utilization of the available storage space, and (iii) introduce two novel algorithms which exploit the proposed principle. Experiments on three large real-world data sets demonstrate that the proposed methods vastly outperform the existing alternatives.

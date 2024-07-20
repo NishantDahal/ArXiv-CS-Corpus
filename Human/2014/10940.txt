@@ -1,0 +1,3 @@
+On the equivalence of state transformer semantics and predicate transformer semantics
+
+G. Plotkin and the author have worked out the equivalence between state transformer semantics and predicate transformer semantics in a domain theoretical setting for programs combining nondeterminism and probability. Works of C. Morgan and co-authors, Keimel, Rosenbusch and Streicher, already go in the same direction using only discrete state spaces. It is the aim of this paper to exhibit a general framework in which one can hope that state transformer semantics and predicate transformer semantics are equivalent. We use a notion of entropicity borrowed from universal algebra and a relaxed setting adapted to the domain theoretical situation.

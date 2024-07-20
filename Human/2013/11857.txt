@@ -1,0 +1,3 @@
+New Identities Relating Wild Goppa Codes
+
+For a given support $L \in \mathbb{F}_{q^m}^n$ and a polynomial $g\in \mathbb{F}_{q^m}[x]$ with no roots in $\mathbb{F}_{q^m}$, we prove equality between the $q$-ary Goppa codes $Γ_q(L,N(g)) = Γ_q(L,N(g)/g)$ where $N(g)$ denotes the norm of $g$, that is $g^{q^{m-1}+\cdots +q+1}.$ In particular, for $m=2$, that is, for a quadratic extension, we get $Γ_q(L,g^q) = Γ_q(L,g^{q+1})$. If $g$ has roots in $\mathbb{F}_{q^m}$, then we do not necessarily have equality and we prove that the difference of the dimensions of the two codes is bounded above by the number of distinct roots of $g$ in $\mathbb{F}_{q^m}$. These identities provide numerous code equivalences and improved designed parameters for some families of classical Goppa codes.

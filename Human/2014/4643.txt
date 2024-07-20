@@ -1,0 +1,4 @@
+Economic Efficiency Requires Interaction
+
+We study the necessity of interaction between individuals for obtaining approximately efficient allocations. The role of interaction in markets has received significant attention in economic thinking, e.g. in Hayek's 1945 classic paper.
+  We consider this problem in the framework of simultaneous communication complexity. We analyze the amount of simultaneous communication required for achieving an approximately efficient allocation. In particular, we consider two settings: combinatorial auctions with unit demand bidders (bipartite matching) and combinatorial auctions with subadditive bidders. For both settings we first show that non-interactive systems have enormous communication costs relative to interactive ones. On the other hand, we show that limited interaction enables us to find approximately efficient allocations.

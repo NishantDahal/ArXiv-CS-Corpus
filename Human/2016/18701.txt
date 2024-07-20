@@ -1,0 +1,3 @@
+An incremental linear-time learning algorithm for the Optimum-Path Forest classifier
+
+We present a classification method with incremental capabilities based on the Optimum-Path Forest classifier (OPF). The OPF considers instances as nodes of a fully-connected training graph, arc weights represent distances between two feature vectors. Our algorithm includes new instances in an OPF in linear-time, while keeping similar accuracies when compared with the original quadratic-time model.

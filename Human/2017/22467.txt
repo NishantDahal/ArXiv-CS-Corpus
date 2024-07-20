@@ -1,0 +1,4 @@
+Efficient image deployment in cloud environments
+
+The biggest overhead for the instantiation of a virtual machine in a cloud infrastructure is the time spent in transferring the image of the virtual machine into the physical node that executes it. This overhead becomes larger for requests composed of several virtual machines to be started concurrently, and the illusion of flexibility and elasticity usually associated with the cloud computing model may vanish. This poses a problem for both the resource providers and the software developers, since tackling those overheads is not a trivial issue.
+  In this work we implement and evaluate several improvements for virtual machine image distribution problem in a cloud infrastructure and propose a method based on BitTorrent and local caching of the virtual machine images that reduces the transfer time when large requests are made

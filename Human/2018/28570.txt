@@ -1,0 +1,3 @@
+Efficiently Coupling the I-DLV Grounder with ASP Solvers
+
+We present I-DLV+MS , a new Answer Set Programming (ASP) system that integrates an efficient grounder, namely I-DLV, with an automatic selector that inductively chooses a solver: depending on some inherent features of the instantiation produced by I-DLV, machine learning techniques guide the selection of the most appropriate solver. The system participated in the latest (7th) ASP competition, winning the regular track, category SP (i.e., one processor allowed). Under consideration in Theory and Practice of Logic Programming (TPLP).

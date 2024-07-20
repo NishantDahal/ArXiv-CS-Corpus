@@ -1,0 +1,4 @@
+Using Calculation Fragments for Spreadsheet Testing and Debugging
+
+A number of automated techniques and tools were proposed in the research literature over the years which aim to support the spreadsheet developer in the process of testing and debugging a faulty spreadsheet. One underlying assumption of many of these approaches is that the spreadsheet developer is capable of providing test cases or is at least reliably able to determine whether a calculated value in a certain cell is correct given the current set of inputs.
+  Since real-world spreadsheets can be complex, we argue that these assumptions might be too strong in some situations. We therefore propose to support the user during testing and debugging by automatically computing spreadsheet fragments of manageable size. The spreadsheet developer can then verify the correctness of a smaller set of formulas for which the calculated output can be more easily validated.

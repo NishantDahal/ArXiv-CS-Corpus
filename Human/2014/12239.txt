@@ -1,0 +1,3 @@
+Quotient of Acceptance Specifications under Reachability Constraints
+
+The quotient operation, which is dual to the composition, is crucial in specification theories as it allows the synthesis of missing specifications and thus enables incremental design. In this paper, we consider a specification theory based on marked acceptance specifications (MAS) which are automata enriched with variability information encoded by acceptance sets and with reachability constraints on states. We define a sound and complete quotient for MAS hence ensuring reachability properties by construction.

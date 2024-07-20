@@ -1,0 +1,3 @@
+Nondeterminism and an abstract formulation of Nečiporuk's lower bound method
+
+A formulation of "Nečiporuk's lower bound method" slightly more inclusive than the usual complexity-measure-specific formulation is presented. Using this general formulation, limitations to lower bounds achievable by the method are obtained for several computation models, such as branching programs and Boolean formulas having access to a sublinear number of nondeterministic bits. In particular, it is shown that any lower bound achievable by the method of Nečiporuk for the size of nondeterministic and parity branching programs is at most $O(n^{3/2}/\log n)$.

@@ -1,0 +1,5 @@
+Density dichotomy in random words
+
+Word $W$ is said to encounter word $V$ provided there is a homomorphism $φ$ mapping letters to nonempty words so that $φ(V)$ is a substring of $W$. For example, taking $φ$ such that $φ(h)=c$ and $φ(u)=ien$, we see that "science" encounters "huh" since $cienc=φ(huh)$. The density of $V$ in $W$, $δ(V,W)$, is the proportion of substrings of $W$ that are homomorphic images of $V$. So the density of "huh" in "science" is $2/{8 \choose 2}$. A word is doubled if every letter that appears in the word appears at least twice.
+  The dichotomy: Let $V$ be a word over any alphabet, $Σ$ a finite alphabet with at least 2 letters, and $W_n \in Σ^n$ chosen uniformly at random. Word $V$ is doubled if and only if $\mathbb{E}(δ(V,W_n)) \rightarrow 0$ as $n \rightarrow \infty$.
+  We further explore convergence for nondoubled words and concentration of the limit distribution for doubled words around its mean.

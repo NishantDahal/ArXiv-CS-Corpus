@@ -1,0 +1,3 @@
+An Unsupervised Ensemble-based Markov Random Field Approach to Microscope Cell Image Segmentation
+
+In this paper, we propose an approach to the unsupervised segmentation of images using Markov Random Field. The proposed approach is based on the idea of Bit Plane Slicing. We use the planes as initial labellings for an ensemble of segmentations. With pixelwise voting, a robust segmentation approach can be achieved, which we demonstrate on microscope cell images. We tested our approach on a publicly available database, where it proven to be competitive with other methods and manual segmentation.

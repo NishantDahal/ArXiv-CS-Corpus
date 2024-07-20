@@ -1,0 +1,3 @@
+Real-valued parametric conditioning of an RNN for interactive sound synthesis
+
+A Recurrent Neural Network (RNN) for audio synthesis is trained by augmenting the audio input with information about signal characteristics such as pitch, amplitude, and instrument. The result after training is an audio synthesizer that is played like a musical instrument with the desired musical characteristics provided as continuous parametric control. The focus of this paper is on conditioning data-driven synthesis models with real-valued parameters, and in particular, on the ability of the system a) to generalize and b) to be responsive to parameter values and sequences not seen during training.

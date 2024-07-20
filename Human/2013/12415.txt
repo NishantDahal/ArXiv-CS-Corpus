@@ -1,0 +1,3 @@
+Fake View Analytics in Online Video Services
+
+Online video-on-demand(VoD) services invariably maintain a view count for each video they serve, and it has become an important currency for various stakeholders, from viewers, to content owners, advertizers, and the online service providers themselves. There is often significant financial incentive to use a robot (or a botnet) to artificially create fake views. How can we detect the fake views? Can we detect them (and stop them) using online algorithms as they occur? What is the extent of fake views with current VoD service providers? These are the questions we study in the paper. We develop some algorithms and show that they are quite effective for this problem.

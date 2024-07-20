@@ -1,0 +1,3 @@
+Interactive multiclass segmentation using superpixel classification
+
+This paper adresses the problem of interactive multiclass segmentation. We propose a fast and efficient new interactive segmentation method called Superpixel Classification-based Interactive Segmentation (SCIS). From a few strokes drawn by a human user over an image, this method extracts relevant semantic objects. To get a fast calculation and an accurate segmentation, SCIS uses superpixel over-segmentation and support vector machine classification. In this paper, we demonstrate that SCIS significantly outperfoms competing algorithms by evaluating its performances on the reference benchmarks of McGuinness and Santner.

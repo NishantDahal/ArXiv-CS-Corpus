@@ -1,0 +1,3 @@
+Adaptive Software Radio Steganography
+
+This paper presents an adaptable steganography (information hiding) method for digital radio communication. Many radio steganography methods exist, but most are defined at higher levels of the protocol stack and are thus protocol dependent. In contrast, this method is defined at the physical layer, which makes it widely applicable regardless of the protocols used at higher layers. This approach is also adaptive; the covertness of the hidden channel is simple to control via a single continuous parameter either manually or automatically. Several variations are introduced, each with performance evaluated by simulation. Results show this to be a feasible method with a reasonable trade-off between performance and covertness.

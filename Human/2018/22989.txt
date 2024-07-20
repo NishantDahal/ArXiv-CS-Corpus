@@ -1,0 +1,3 @@
+Odd Yao-Yao Graphs are Not Spanners
+
+It is a long standing open problem whether Yao-Yao graphs $\mathsf{YY}_{k}$ are all spanners [li2002sparse]. Bauer and Damian [bauer2013infinite] showed that all $\mathsf{YY}_{6k}$ for $k \geq 6$ are spanners. Li and Zhan [li2016almost] generalized their result and proved that all even Yao-Yao graphs $\mathsf{YY}_{2k}$ are spanners (for $k\geq 42$). However, their technique cannot be extended to odd Yao-Yao graphs, and whether they are spanners are still elusive. In this paper, we show that, surprisingly, for any integer $k \geq 1$, there exist odd Yao-Yao graph $\mathsf{YY}_{2k+1}$ instances, which are not spanners.

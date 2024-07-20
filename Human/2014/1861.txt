@@ -1,0 +1,3 @@
+An efficient algorithm for the entropy rate of a hidden Markov model with unambiguous symbols
+
+We demonstrate an efficient formula to compute the entropy rate $H(μ)$ of a hidden Markov process with $q$ output symbols where at least one symbol is unambiguously received. Using an approximation to $H(μ)$ to the first $N$ terms we give a $O(Nq^3$) algorithm to compute the entropy rate of the hidden Markov model. We use the algorithm to estimate the entropy rate when the parameters of the hidden Markov model are unknown.In the case of $q =2$ the process is the output of the Z-channel and we use this fact to give bounds on the capacity of the Gilbert channel.

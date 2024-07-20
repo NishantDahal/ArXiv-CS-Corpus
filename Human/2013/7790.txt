@@ -1,0 +1,3 @@
+Query Complexity of Correlated Equilibrium
+
+We study lower bounds on the query complexity of determining correlated equilibrium. In particular, we consider a query model in which an n-player game is specified via a black box that returns players' utilities at pure action profiles. In this model we establish that in order to compute a correlated equilibrium any deterministic algorithm must query the black box an exponential (in n) number of times.

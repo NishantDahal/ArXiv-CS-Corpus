@@ -1,0 +1,4 @@
+Invertible Quantum Operations and Perfect Encryption of Quantum States
+
+In this note, we characterize the form of an invertible quantum operation, i.e., a completely positive trace preserving linear transformation (a CPTP map) whose inverse is also a CPTP map. The precise form of such maps becomes important in contexts such as self-testing and encryption. We show that these maps correspond to applying a unitary transformation to the state along with an ancilla initialized to a fixed state, which may be mixed.
+  The characterization of invertible quantum operations implies that one-way schemes for encrypting quantum states using a classical key may be slightly more general than the ``private quantum channels'' studied by Ambainis, Mosca, Tapp and de Wolf (FOCS 2000). Nonetheless, we show that their results, most notably a lower bound of 2n bits of key to encrypt n quantum bits, extend in a straightforward manner to the general case.

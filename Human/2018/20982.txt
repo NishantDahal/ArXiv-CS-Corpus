@@ -1,0 +1,4 @@
+Stable divisorial gonality is in NP
+
+Divisorial gonality and stable divisorial gonality are graph parameters, which have an origin in algebraic geometry. Divisorial gonality of a connected graph $G$ can be defined with help of a chip firing game on $G$. The stable divisorial gonality of $G$ is the minimum divisorial gonality over all subdivisions of edges of $G$.
+  In this paper we prove that deciding whether a given connected graph has stable divisorial gonality at most a given integer $k$ belongs to the class NP. Combined with the result that (stable) divisorial gonality is NP-hard by Gijswijt, we obtain that stable divisorial gonality is NP-complete. The proof consist of a partial certificate that can be verified by solving an Integer Linear Programming instance. As a corollary, we have that the number of subdivisions needed for minimum stable divisorial gonality of a graph with $n$ vertices is bounded by $2^{p(n)}$ for a polynomial $p$.

@@ -1,0 +1,7 @@
+Circular repetition thresholds on some small alphabets: Last cases of Gorbunova's conjecture
+
+A word is called $β$-free if it has no factors of exponent greater than or equal to $β$. The repetition threshold $\mathrm{RT}(k)$ is the infimum of the set of all $β$ such that there are arbitrarily long $k$-ary $β$-free words (or equivalently, there are $k$-ary $β$-free words of every sufficiently large length, or even every length). These three equivalent definitions of the repetition threshold give rise to three natural definitions of a repetition threshold for circular words. The infimum of the set of all $β$ such that
+  - there are arbitrarily long $k$-ary $β$-free circular words is called the weak circular repetition threshold, denoted $\mathrm{CRT}_{\mathrm{W}}(k)$;
+  - there are $k$-ary $β$-free circular words of every sufficiently large length is called the intermediate circular repetition threshold, denoted $\mathrm{CRT}_{\mathrm{I}}(k)$;
+  - there are $k$-ary $β$-free circular words of every length is called the strong circular repetition threshold, denoted $\mathrm{CRT}_{\mathrm{S}}(k)$.
+  We prove that $\mathrm{CRT}_{\mathrm{S}}(4)=\tfrac{3}{2}$ and $\mathrm{CRT}_{\mathrm{S}}(5)=\tfrac{4}{3}$, confirming a conjecture of Gorbunova and providing the last unknown values of the strong circular repetition threshold. We also prove that $\mathrm{CRT}_{\mathrm{I}}(3)=\mathrm{CRT}_{\mathrm{W}}(3)=\mathrm{RT}(3)=\tfrac{7}{4}$.

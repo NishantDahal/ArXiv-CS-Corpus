@@ -1,0 +1,5 @@
+Branching: the Essence of Constraint Solving
+
+This paper focuses on the branching process for solving any constraint satisfaction problem (CSP). A parametrised schema is proposed that (with suitable instantiations of the parameters) can solve CSP's on both finite and infinite domains. The paper presents a formal specification of the schema and a statement of a number of interesting properties that, subject to certain conditions, are satisfied by any instances of the schema.
+  It is also shown that the operational procedures of many constraint systems including cooperative systems) satisfy these conditions.
+  Moreover, the schema is also used to solve the same CSP in different ways by means of different instantiations of its parameters.

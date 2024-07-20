@@ -1,0 +1,3 @@
+Lossless Secure Source Coding: Yamamoto's Setting
+
+Given a private source of information, $X^n$ and a public correlated source, $Y^n$, we study the problem of encoding the two-dimensional source $(X^n, Y^n)$ into an index $J$ such that a remote party, knowing $J$ and some external side information $Z^n$, can losslessly recover $Y^n$ while any eavesdropper knowing $J$ and possibly a correlated side information $E^n$ can retrieve very little information about $X^n$. We give general converse results for the amount of information about $X^n$ that might be leaked in such systems and and also achievability results that are optimal in some special cases.

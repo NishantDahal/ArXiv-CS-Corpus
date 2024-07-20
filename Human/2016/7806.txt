@@ -1,0 +1,3 @@
+A Single-Assignment Translation for Annotated Programs
+
+We present a translation of While programs annotated with loop invariants into a dynamic single-assignment language with a dedicated iterating construct. We prove that the translation is sound and complete. This is a companion report to our paper Formalizing Single-assignment Program Verification: an Adaptation-complete Approach [6].

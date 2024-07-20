@@ -1,0 +1,3 @@
+Reducing Packet Overhead in Mobile IPv6
+
+Common Mobile IPv6 mechanisms, Bidirectional tunneling and Route optimization, show inefficient packet overhead when both nodes are mobile. Researchers have proposed methods to reduce packet overhead regarding to maintain compatible with standard mechanisms. In this paper, three mechanisms in Mobile IPv6 are discussed to show their efficiency and performance. Following discussion, a new mechanism called Improved Tunneling-based Route Optimization is proposed and due to performance analysis, it is shown that proposed mechanism has less overhead comparing to common mechanisms. Analytical results indicate that Improved Tunneling-based Route Optimization transmits more payloads due to send packets with less overhead.

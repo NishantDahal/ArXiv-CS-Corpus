@@ -1,0 +1,3 @@
+Are crossing dependencies really scarce?
+
+The syntactic structure of a sentence can be modelled as a tree, where vertices correspond to words and edges indicate syntactic dependencies. It has been claimed recurrently that the number of edge crossings in real sentences is small. However, a baseline or null hypothesis has been lacking. Here we quantify the amount of crossings of real sentences and compare it to the predictions of a series of baselines. We conclude that crossings are really scarce in real sentences. Their scarcity is unexpected by the hubiness of the trees. Indeed, real sentences are close to linear trees, where the potential number of crossings is maximized.

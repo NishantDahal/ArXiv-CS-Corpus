@@ -1,0 +1,3 @@
+Scout-It: Interior tomography using modified scout acquisition
+
+Global scout views have been previously used to reduce interior reconstruction artifacts in high-resolution micro-CT and C-arm systems. However these methods cannot be directly used in the all-important domain of clinical CT. This is because when the CT scan is truncated, the scout views are also truncated. However many cases of truncation in clinical CT involve partial truncation, where the anterio-posterior (AP) scout is truncated, but the medio-lateral (ML) scout is non-truncated. In this paper, we show that in such cases of partially truncated CT scans, a modified configuration may be used to acquire non-truncated AP scout view, and ultimately allow for highly accurate interior reconstruction.

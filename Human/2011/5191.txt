@@ -1,0 +1,3 @@
+Solving large linear algebraic systems in the context of integrable non-abelian Laurent ODEs
+
+The paper reports on a computer algebra program LSSS (Linear Selective Systems Solver) for solving linear algebraic systems with rational coefficients. The program is especially efficient for very large sparse systems that have a solution in which many variables take the value zero. The program is applied to the symmetry investigation of a non-abelian Laurent ODE introduced recently by M. Kontsevich. The computed symmetries confirmed that a Lax pair found for this system earlier generates all first integrals of degree at least up to 14.

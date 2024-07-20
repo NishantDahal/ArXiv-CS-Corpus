@@ -1,0 +1,3 @@
+Inhabitation for Non-idempotent Intersection Types
+
+The inhabitation problem for intersection types in the lambda-calculus is known to be undecidable. We study the problem in the case of non-idempotent intersection, considering several type assignment systems, which characterize the solvable or the strongly normalizing lambda-terms. We prove the decidability of the inhabitation problem for all the systems considered, by providing sound and complete inhabitation algorithms for them.

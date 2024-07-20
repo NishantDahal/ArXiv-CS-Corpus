@@ -1,0 +1,4 @@
+High Dimensional Consistent Digital Segments
+
+We consider the problem of digitalizing Euclidean line segments from $\mathbb{R}^d$ to $\mathbb{Z}^d$. Christ {\em et al.} (DCG, 2012) showed how to construct a set of {\em consistent digital segment} (CDS) for $d=2$: a collection of segments connecting any two points in $\mathbb{Z}^2$ that satisfies the natural extension of the Euclidean axioms to $\mathbb{Z}^d$. In this paper we study the construction of CDSs in higher dimensions.
+  We show that any total order can be used to create a set of {\em consistent digital rays} CDR in $\mathbb{Z}^d$ (a set of rays emanating from a fixed point $p$ that satisfies the extension of the Euclidean axioms). We fully characterize for which total orders the construction holds and study their Hausdorff distance, which in particular positively answers the question posed by Christ {\em et al.}.

@@ -1,0 +1,3 @@
+An Exponential Lower Bound on OBDD Refutations for Pigeonhole Formulas
+
+Haken proved that every resolution refutation of the pigeonhole formula has at least exponential size. Groote and Zantema proved that a particular OBDD computation of the pigeonhole formula has an exponential size. Here we show that any arbitrary OBDD refutation of the pigeonhole formula has an exponential size, too: we prove that the size of one of the intermediate OBDDs is at least $Ω(1.025^n)$.

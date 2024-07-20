@@ -1,0 +1,3 @@
+QFUN: Towards Machine Learning in QBF
+
+This paper reports on the QBF solver QFUN that has won the non-CNF track in the recent QBF evaluation. The solver is motivated by the fact that it is easy to construct Quantified Boolean Formulas (QBFs) with short winning strategies (Skolem/Herbrand functions) but are hard to solve by nowadays solvers. This paper argues that a solver benefits from generalizing a set of individual wins into a strategy. This idea is realized on top of the competitive RAReQS algorithm by utilizing machine learning. The results of the implemented prototype are highly encouraging.

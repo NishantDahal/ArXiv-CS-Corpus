@@ -1,0 +1,3 @@
+Hybrid Crossbar Architecture for a Memristor Based Memory
+
+This paper describes a new memristor crossbar architecture that is proposed for use in a high density cache design. This design has less than 10% of the write energy consumption than a simple memristor crossbar. Also, it has up to 4 times the bit density of an STT-MRAM system and up to 11 times the bit density of an SRAM architecture. The proposed architecture is analyzed using a detailed SPICE analysis that accounts for the resistance of the wires in the memristor structure. Additionally, the memristor model used in this work has been matched to specific device characterization data to provide accurate results in terms of energy, area, and timing.

@@ -1,0 +1,4 @@
+Bar recursion is not computable via iteration
+
+We show that the bar recursion operators of Spector and Kohlenbach, considered as third-order functionals acting on total arguments, are not computable in Goedel's System T plus minimization, which we show to be equivalent to a programming language with a higher-order iteration construct. The main result is formulated so as to imply the non-definability of bar recursion in T + min within a variety of partial and total models, for instance the Kleene-Kreisel continuous functionals. The paper thus supplies proofs of some results stated in the book by Longley and Normann.
+  The proof of the main theorem makes serious use of the theory of nested sequential procedures (also known as PCF Boehm trees), and proceeds by showing that bar recursion cannot be represented by any sequential procedure within which the tree of nested function applications is well-founded.

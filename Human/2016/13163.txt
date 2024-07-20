@@ -1,0 +1,3 @@
+Undecidability of the Lambek calculus with a relevant modality
+
+Morrill and Valentin in the paper "Computational coverage of TLG: Nonlinearity" considered an extension of the Lambek calculus enriched by a so-called "exponential" modality. This modality behaves in the "relevant" style, that is, it allows contraction and permutation, but not weakening. Morrill and Valentin stated an open problem whether this system is decidable. Here we show its undecidability. Our result remains valid if we consider the fragment where all division operations have one direction. We also show that the derivability problem in a restricted case, where the modality can be applied only to variables (primitive types), is decidable and belongs to the NP class.

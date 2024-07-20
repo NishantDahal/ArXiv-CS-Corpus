@@ -1,0 +1,6 @@
+HoTT formalisation in Coq: Dependency Graphs \& ML4PG
+
+This note is a response to Bas Spitter's email of 28 February 2014 about ML4PG:
+  "We (Jason actually) are adding dependency graphs to our HoTT library: https://github.com/HoTT/HoTT/wiki
+  I seem to recall that finding the dependency graph was a main obstacle preventing machine learning to be used in Coq. However, you seem to have made progress on this. What tool are you using? https://anne.pacalet.fr/dev/dpdgraph/ ? Or another tool? Would it be easy to use your ML4PG on the HoTT library?"
+  This note gives explanation of how ML4PG can be used in the HoTT library and how ML4PG relates to the two kinds of Dependency graphs available in Coq.

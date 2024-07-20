@@ -1,0 +1,3 @@
+Convex recovery from interferometric measurements
+
+This note formulates a deterministic recovery result for vectors $x$ from quadratic measurements of the form $(Ax)_i \overline{(Ax)_j}$ for some left-invertible $A$. Recovery is exact, or stable in the noisy case, when the couples $(i,j)$ are chosen as edges of a well-connected graph. One possible way of obtaining the solution is as a feasible point of a simple semidefinite program. Furthermore, we show how the proportionality constant in the error estimate depends on the spectral gap of a data-weighted graph Laplacian. Such quadratic measurements have found applications in phase retrieval, angular synchronization, and more recently interferometric waveform inversion.

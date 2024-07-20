@@ -1,0 +1,4 @@
+Formal Specification and Verification of Fully Asynchronous Implementations of the Data Encryption Standard
+
+This paper presents two formal models of the Data Encryption Standard (DES), a first using the international standard LOTOS, and a second using the more recent process calculus LNT. Both models encode the DES in the style of asynchronous circuits, i.e., the data-flow blocks of the DES algorithm are represented by processes communicating via rendezvous. To ensure correctness of the models, several techniques have been applied, including model checking, equivalence checking, and comparing the results produced by a prototype automatically generated from the formal model with those of existing implementations of the DES. The complete code of the models is provided as appendices and also available on the website of the CADP verification toolbox.
+

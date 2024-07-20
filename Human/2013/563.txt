@@ -1,0 +1,3 @@
+Two-Sided Derivatives for Regular Expressions and for Hairpin Expressions
+
+The aim of this paper is to design the polynomial construction of a finite recognizer for hairpin completions of regular languages. This is achieved by considering completions as new expression operators and by applying derivation techniques to the associated extended expressions called hairpin expressions. More precisely, we extend partial derivation of regular expressions to two-sided partial derivation of hairpin expressions and we show how to deduce a recognizer for a hairpin expression from its two-sided derived term automaton, providing an alternative proof of the fact that hairpin completions of regular languages are linear context-free.

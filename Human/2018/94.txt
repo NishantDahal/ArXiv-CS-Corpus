@@ -1,0 +1,3 @@
+Revisiting Fast Practical Byzantine Fault Tolerance: Thelma, Velma, and Zelma
+
+In a previous note (arXiv:1712.01367 [cs.DC]) , we observed a safety violation in Zyzzyva and a liveness violation in FaB. In this manuscript, we sketch fixes to both. The same view-change core is applied in the two schemes, and additionally, applied to combine them and create a single, enhanced scheme that has the benefits of both approaches.

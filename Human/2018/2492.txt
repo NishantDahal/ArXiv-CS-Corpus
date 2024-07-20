@@ -1,0 +1,3 @@
+Edge-Based Recognition of Novel Objects for Robotic Grasping
+
+In this paper, we investigate the problem of grasping novel objects in unstructured environments. To address this problem, consideration of the object geometry, reachability and force closure analysis are required. We propose a framework for grasping unknown objects by localizing contact regions on the contours formed by a set of depth edges in a single view 2D depth image. According to the edge geometric features obtained from analyzing the data of the depth map, the contact regions are determined. Finally,We validate the performance of the approach by applying it to the scenes with both single and multiple objects, using Baxter manipulator.

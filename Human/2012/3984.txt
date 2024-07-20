@@ -1,0 +1,4 @@
+Paraiso : An Automated Tuning Framework for Explicit Solvers of Partial Differential Equations
+
+We propose Paraiso, a domain specific language embedded in functional programming language Haskell, for automated tuning of explicit solvers of partial differential equations (PDEs) on GPUs as well as multicore CPUs. In Paraiso, one can describe PDE solving algorithms succinctly using tensor equations notation. Hydrodynamic properties, interpolation methods and other building blocks are described in abstract, modular, re-usable and combinable forms, which lets us generate versatile solvers from little set of Paraiso source codes.
+  We demonstrate Paraiso by implementing a compressive hydrodynamics solver. A single source code less than 500 lines can be used to generate solvers of arbitrary dimensions, for both multicore CPUs and GPUs. We demonstrate both manual annotation based tuning and evolutionary computing based automated tuning of the program.

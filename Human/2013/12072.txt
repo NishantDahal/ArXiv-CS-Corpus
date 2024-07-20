@@ -1,0 +1,4 @@
+Support-based lower bounds for the positive semidefinite rank of a nonnegative matrix
+
+The positive semidefinite rank of a nonnegative $(m\times n)$-matrix~$S$ is the minimum number~$q$ such that there exist positive semidefinite $(q\times q)$-matrices $A_1,\dots,A_m$, $B_1,\dots,B_n$ such that $S(k,\ell) = \mbox{tr}(A_k^* B_\ell)$.
+  The most important, lower bound technique for nonnegative rank is solely based on the support of the matrix S, i.e., its zero/non-zero pattern. In this paper, we characterize the power of lower bounds on positive semidefinite rank based on solely on the support.

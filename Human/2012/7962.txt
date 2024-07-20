@@ -1,0 +1,3 @@
+Exact Safety Verification of Hybrid Systems Based on Bilinear SOS Representation
+
+In this paper, we address the problem of safety verification of nonlinear hybrid systems. A hybrid symbolic-numeric method is presented to compute exact inequality invariants of hybrid systems efficiently. Some numerical invariants of a hybrid system can be obtained by solving a bilinear SOS programming via PENBMI solver or iterative method, then the modified Newton refinement and rational vector recovery techniques are applied to obtain exact polynomial invariants with rational coefficients, which {\it exactly} satisfy the conditions of invariants. Experiments on some benchmarks are given to illustrate the efficiency of our algorithm.

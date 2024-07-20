@@ -1,0 +1,4 @@
+Fewest repetitions in infinite binary words
+
+A square is the concatenation of a nonempty word with itself. A word has period p if its letters at distance p match. The exponent of a nonempty word is the quotient of its length over its smallest period.
+  In this article we give a proof of the fact that there exists an infinite binary word which contains finitely many squares and simultaneously avoids words of exponent larger than 7/3. Our infinite word contains 12 squares, which is the smallest possible number of squares to get the property, and 2 factors of exponent 7/3. These are the only factors of exponent larger than 2. The value 7/3 introduces what we call the finite-repetition threshold of the binary alphabet. We conjecture it is 7/4 for the ternary alphabet, like its repetitive threshold.

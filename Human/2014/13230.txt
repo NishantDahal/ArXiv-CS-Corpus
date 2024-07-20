@@ -1,0 +1,3 @@
+Converging to the Chase - a Tool for Finite Controllability
+
+We solve a problem, stated in [CGP10], showing that Sticky Datalog, defined in the cited paper as an element of the Datalog\pm project, has the finite controllability property. In order to do that, we develop a technique, which we believe can have further applications, of approximating Chase(D, T), for a database instance D and some sets of tuple generating dependencies T, by an infinite sequence of finite structures, all of them being models of T.

@@ -1,0 +1,3 @@
+Random Construction of Partial MDS Codes
+
+This work deals with partial MDS (PMDS) codes, a special class of locally repairable codes, used for distributed storage system. We first show that a known construction of these codes, using Gabidulin codes, can be extended to use any maximum rank distance code. Then we define a standard form for the generator matrices of PMDS codes and use this form to give an algebraic description of PMDS generator matrices. This implies that over a sufficiently large finite field a randomly chosen generator matrix in PMDS standard form generates a PMDS code with high probability. This also provides sufficient conditions on the field size for the existence of PMDS codes.

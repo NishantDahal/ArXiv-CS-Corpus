@@ -1,0 +1,3 @@
+Employing online quantum random number generators for generating truly random quantum states in Mathematica
+
+We present a new version of TRQS package for Mathematica computing system. The package allows harnessing quantum random number generators (QRNG) for investigating the statistical properties of quantum states. It implements a number of functions for generating random states. The new version of the package adds the ability to use the on-line quantum random number generator service and implements new functions for retrieving lists of random numbers. Thanks to the introduced improvements, the new version provides faster access to high-quality sources of random numbers and can be used in simulations requiring large amount of random data.

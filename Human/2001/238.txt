@@ -1,0 +1,3 @@
+aspps --- an implementation of answer-set programming with propositional schemata
+
+We present an implementation of an answer-set programming paradigm, called aspps (short for answer-set programming with propositional schemata). The system aspps is designed to process PS+ theories. It consists of two basic modules. The first module, psgrnd, grounds an PS+ theory. The second module, referred to as aspps, is a solver. It computes models of ground PS+ theories.

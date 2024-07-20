@@ -1,0 +1,3 @@
+Bandwidth Extension of Narrowband Speech for Low Bit-Rate Wideband Coding
+
+Wireless telephone speech is usually limited to the 300-3400 Hz band, which reduces its quality. There is thus a growing demand for wideband speech systems that transmit from 50 Hz to 8000 Hz. This paper presents an algorithm to generate wideband speech from narrowband speech using as low as 500 bits/s of side information. The 50-300 Hz band is predicted from the narrowband signal. A source-excitation model is used for the 3400-8000 Hz band, where the excitation is extrapolated at the receiver, and the spectral envelope is transmitted. Though some artifacts are present, the resulting wideband speech has enhanced quality compared to narrowband speech.

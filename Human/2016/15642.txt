@@ -1,0 +1,3 @@
+A Noisy-Influence Regularity Lemma for Boolean Functions
+
+We present a regularity lemma for Boolean functions $f:\{-1,1\}^n \to \{-1,1\}$ based on noisy influence, a measure of how locally correlated $f$ is with each input bit. We provide an application of the regularity lemma to weaken the conditions on the Majority is Stablest Theorem. We also prove a "homogenized" version stating that there is a set of input bits so that most restrictions of $f$ on those bits have small noisy influences. These results were sketched out by [OSTW10], but never published. With their permission, we present the full details here.

@@ -1,0 +1,6 @@
+Piece of CAKE: A Comprehensive Queue Management Solution for Home Gateways
+
+The last several years has seen a renewed interest in smart queue management to curb excessive network queueing delay, as people have realised the prevalence of bufferbloat in real networks.
+  However, for an effective deployment at today's last mile connections, an improved queueing algorithm is not enough in itself, as often the bottleneck queue is situated in legacy systems that cannot be upgraded. In addition, features such as per-user fairness and the ability to de-prioritise background traffic are often desirable in a home gateway.
+  In this paper we present Common Applications Kept Enhanced (CAKE), a comprehensive network queue management system designed specifically for home Internet gateways. CAKE packs several compelling features into an integrated solution, thus easing deployment. These features include bandwidth shaping with overhead compensation for various link layers; reasonable DiffServ handling; improved flow hashing with both per-flow and per-host queueing fairness; and filtering of TCP ACKs.
+  Our evaluation shows that these features offer compelling advantages, and that CAKE has the potential to significantly improve performance of last-mile internet connections.

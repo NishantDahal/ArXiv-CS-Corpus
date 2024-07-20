@@ -1,0 +1,3 @@
+Nonnegative/binary matrix factorization with a D-Wave quantum annealer
+
+D-Wave quantum annealers represent a novel computational architecture and have attracted significant interest, but have been used for few real-world computations. Machine learning has been identified as an area where quantum annealing may be useful. Here, we show that the D-Wave 2X can be effectively used as part of an unsupervised machine learning method. This method can be used to analyze large datasets. The D-Wave only limits the number of features that can be extracted from the dataset. We apply this method to learn the features from a set of facial images.

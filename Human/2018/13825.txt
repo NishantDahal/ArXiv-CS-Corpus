@@ -1,0 +1,3 @@
+Dual Free Adaptive Mini-batch SDCA for Empirical Risk Minimization
+
+In this paper we develop dual free mini-batch SDCA with adaptive probabilities for regularized empirical risk minimization. This work is motivated by recent work of Shai Shalev-Shwartz on dual free SDCA method, however, we allow a non-uniform selection of "dual" coordinates in SDCA. Moreover, the probability can change over time, making it more efficient than fix uniform or non-uniform selection. We also propose an efficient procedure to generate a random non-uniform mini-batch through iterative process. The work is concluded with multiple numerical experiments to show the efficiency of proposed algorithms.

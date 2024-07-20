@@ -1,0 +1,3 @@
+LP-decodable multipermutation codes
+
+In this paper, we introduce a new way of constructing and decoding multipermutation codes. Multipermutations are permutations of a multiset that may consist of duplicate entries. We first introduce a new class of matrices called multipermutation matrices. We characterize the convex hull of multipermutation matrices. Based on this characterization, we propose a new class of codes that we term LP-decodable multipermutation codes. Then, we derive two LP decoding algorithms. We first formulate an LP decoding problem for memoryless channels. We then derive an LP algorithm that minimizes the Chebyshev distance. Finally, we show a numerical example of our algorithm.

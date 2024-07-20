@@ -1,0 +1,3 @@
+An algorithm for Left Atrial Thrombi detection using Transesophageal Echocardiography
+
+Transesophageal echocardiography (TEE) is widely used to detect left atrium (LA)/left atrial appendage (LAA) thrombi. In this paper, the local binary pattern variance (LBPV) features are extracted from region of interest (ROI). And the dynamic features are formed by using the information of its neighbor frames in the sequence. The sequence is viewed as a bag, and the images in the sequence are considered as the instances. Multiple-instance learning (MIL) method is employed to solve the LAA thrombi detection. The experimental results show that the proposed method can achieve better performance than that by using other methods.

@@ -1,0 +1,3 @@
+The Storage And Analytics Potential Of HBase Over The Cloud: A Survey
+
+Apache HBase, a mainstay of the emerging Hadoop ecosystem, is a NoSQL key-value and column family hybrid database which, unlike a traditional RDBMS, is intentionally designed to scalably host large, semistructured, and heterogeneous data. Prime examples of such data are biosignals which are characterized by large volume, high volatility, and inherent multidimensionality. This paper reviews how biomedical engineering has recently taken advantage of HBase, with an emphasis over cloud, in order to reliably host cardiovascular and respiratory time series. Moreover, the deployment of offline biomedical analytics over HBase is explored.

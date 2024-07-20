@@ -1,0 +1,4 @@
+Optimal Boolean Locality-Sensitive Hashing
+
+For $0 \leq β< α< 1$ the distribution $\mathcal{H}$ over Boolean functions $h \colon \{-1, 1\}^d \to \{-1, 1\}$ that minimizes the expression \begin{equation*}
+  ρ_{α, β} = \frac{\log(1/\Pr_{\substack{h \sim \mathcal{H} \\ (x, y) \text{ $α$-corr.}}}[h(x) = h(y)])}{\log(1/\Pr_{\substack{h \sim \mathcal{H} \\ (x, y) \text{ $β$-corr.}}}[h(x) = h(y)])} \end{equation*} assigns nonzero probability only to members of the set of dictator functions $h(x) = \pm x_i$.

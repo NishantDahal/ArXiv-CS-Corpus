@@ -1,0 +1,3 @@
+A Note on a Tight Lower Bound for MNL-Bandit Assortment Selection Models
+
+In this short note we consider a dynamic assortment planning problem under the capacitated multinomial logit (MNL) bandit model. We prove a tight lower bound on the accumulated regret that matches existing regret upper bounds for all parameters (time horizon $T$, number of items $N$ and maximum assortment capacity $K$) up to logarithmic factors. Our results close an $O(\sqrt{K})$ gap between upper and lower regret bounds from existing works.

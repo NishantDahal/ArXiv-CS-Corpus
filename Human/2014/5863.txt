@@ -1,0 +1,3 @@
+Recent Developments with the licas System 2
+
+The licas (lightweight Internet-based communication for autonomic services) system is a Java-based open source framework for building service-based networks, similar to what you would use a Cloud or SOA platform for. The framework comes with a server for running the services on, mechanisms for adding services to the server, mechanisms for linking services with each other, and mechanisms for allowing the services to communicate with each other. The general architecture of the system is now fairly well set, where this paper describes recent developments that have focused on making the framework more robust and additional features for easier programming.

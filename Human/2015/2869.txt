@@ -1,0 +1,3 @@
+The blind detection for palette image watermarking without changing the color
+
+To hide a binary pattern in the palette image a steganographic scheme with blind detection is considered. The embedding algorithm uses the Lehmer code by palette color permutations for which the cover image palette is generally required. The found transformation between the palette and RGB images allows to extract the hidden data without any cover work.

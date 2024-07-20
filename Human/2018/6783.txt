@@ -1,0 +1,3 @@
+Improving the Florentine algorithms: recovering algorithms for Motzkin and Schröder paths
+
+We present random sampling procedures for Motzkin and Schröder paths, following previous work on Dyck paths. Our algorithms follow the anticipated rejection method of the Florentine algorithms (Barcucci et al. 1994+), but introduce a recovery idea to greatly reduce the probability of rejection. They use an optimal amount of randomness and achieve a better time complexity than the Florentine algorithms.

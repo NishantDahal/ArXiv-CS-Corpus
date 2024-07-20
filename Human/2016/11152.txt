@@ -1,0 +1,3 @@
+Spectrum Occupancy Measurement: An Autocorrelation based Scanning Technique using USRP
+
+This paper presents a technique for scanning and evaluating the radio spectrum use. This technique determines the average occupancy of a channel over a specific duration. The technique was implemented using Software Defined Radio units and GNU Radio software. The survey was conducted in Grand Forks, North Dakota, over a frequency range of 824 MHz to 5.8 GHz. The results of this technique were compared to those of two existing techniques, energy detection and autocorrelation, that were also implemented. The results show that the proposed technique is more efficient at scanning the radio spectrum than the other two techniques.

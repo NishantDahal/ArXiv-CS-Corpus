@@ -1,0 +1,3 @@
+Automatic Alignment of Sequential Monte Carlo Inference in Higher-Order Probabilistic Programs
+
+Probabilistic programming is a programming paradigm for expressing flexible probabilistic models. Implementations of probabilistic programming languages employ a variety of inference algorithms, where sequential Monte Carlo methods are commonly used. A problem with current state-of-the-art implementations using sequential Monte Carlo inference is the alignment of program synchronization points. We propose a new static analysis approach based on the 0-CFA algorithm for automatically aligning higher-order probabilistic programs. We evaluate the automatic alignment on a phylogenetic model, showing a significant decrease in runtime and increase in accuracy.

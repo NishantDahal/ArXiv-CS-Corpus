@@ -1,0 +1,8 @@
+Parity Separation: A Scientifically Proven Method for Permanent Weight Loss
+
+Given an edge-weighted graph G, let PerfMatch(G) denote the weighted sum over all perfect matchings M in G, weighting each matching M by the product of weights of edges in M. If G is unweighted, this plainly counts the perfect matchings of G.
+  In this paper, we introduce parity separation, a new method for reducing PerfMatch to unweighted instances: For graphs G with edge-weights -1 and 1, we construct two unweighted graphs G1 and G2 such that PerfMatch(G) = PerfMatch(G1) - PerfMatch(G2). This yields a novel weight removal technique for counting perfect matchings, in addition to those known from classical #P-hardness proofs. We derive the following applications:
+  1. An alternative #P-completeness proof for counting unweighted perfect matchings.
+  2. C=P-completeness for deciding whether two given unweighted graphs have the same number of perfect matchings. To the best of our knowledge, this is the first C=P-completeness result for the "equality-testing version" of any natural counting problem that is not already #P-hard under parsimonious reductions.
+  3. An alternative tight lower bound for counting unweighted perfect matchings under the counting exponential-time hypothesis #ETH.
+  Our technique is based upon matchgates and the Holant framework. To make our #P-hardness proof self-contained, we also apply matchgates for an alternative #P-hardness proof of PerfMatch on graphs with edge-weights -1 and 1.

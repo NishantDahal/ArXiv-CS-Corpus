@@ -1,0 +1,3 @@
+Node Diversification in Complex Networks by Decentralized Coloring
+
+We develop a decentralized coloring approach to diversify the nodes in a complex network. The key is the introduction of a local conflict index that measures the color conflicts arising at each node which can be efficiently computed using only local information. We demonstrate via both synthetic and real-world networks that the proposed approach significantly outperforms random coloring as measured by the size of the largest color-induced connected component. Interestingly, for scale-free networks further improvement of diversity can be achieved by tuning a degree-biasing weighting parameter in the local conflict index.

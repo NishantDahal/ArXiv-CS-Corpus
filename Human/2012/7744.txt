@@ -1,0 +1,3 @@
+Capacity achieving multiwrite WOM codes
+
+In this paper we give an explicit construction of a capacity achieving family of binary t-write WOM codes for any number of writes t, that have a polynomial time encoding and decoding algorithms. The block length of our construction is N=(t/ε)^{O(t/(δε))} when εis the gap to capacity and encoding and decoding run in time N^{1+δ}. This is the first deterministic construction achieving these parameters. Our techniques also apply to larger alphabets.

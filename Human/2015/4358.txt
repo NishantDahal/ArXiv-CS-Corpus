@@ -1,0 +1,5 @@
+Efficient Scene Text Localization and Recognition with Local Character Refinement
+
+An unconstrained end-to-end text localization and recognition method is presented. The method detects initial text hypothesis in a single pass by an efficient region-based method and subsequently refines the text hypothesis using a more robust local text model, which deviates from the common assumption of region-based methods that all characters are detected as connected components.
+  Additionally, a novel feature based on character stroke area estimation is introduced. The feature is efficiently computed from a region distance map, it is invariant to scaling and rotations and allows to efficiently detect text regions regardless of what portion of text they capture.
+  The method runs in real time and achieves state-of-the-art text localization and recognition results on the ICDAR 2013 Robust Reading dataset.

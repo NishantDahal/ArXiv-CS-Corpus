@@ -1,0 +1,3 @@
+Using In-Memory Encrypted Databases on the Cloud
+
+Storing data in the cloud poses a number of privacy issues. A way to handle them is supporting data replication and distribution on the cloud via a local, centrally synchronized storage. In this paper we propose to use an in-memory RDBMS with row-level data encryption for granting and revoking access rights to distributed data. This type of solution is rarely adopted in conventional RDBMSs because it requires several complex steps. In this paper we focus on implementation and benchmarking of a test system, which shows that our simple yet effective solution overcomes most of the problems.

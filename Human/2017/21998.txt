@@ -1,0 +1,4 @@
+Smartphone-based paroxysmal atrial fibrillation monitoring with robust generalization
+
+Atrial fibrillation is increasingly prevalent, especially in the elderly, and challenging to detect due paroxysmal nature. Here, we propose novel computational methods based on heart beat intervals to facilitate rapid and robust discrimination between atrial fibrillation and sinus rhythm. We used low-cost Android smartphones, and recorded short, 30 second waveform data from 194 participants. In addition, we evaluated our approach on 8528 hand-held ECG recordings to show generalization.
+  Our approach achieves a sensitivity of 93% and specificity of 94% on 30 second waveforms, significantly outperforming previously proposed heart rate variability features and smartphone-based AFib detection methods, and substantiates the feasibility of real-world application on low-cost hardware.

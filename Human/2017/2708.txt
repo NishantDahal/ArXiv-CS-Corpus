@@ -1,0 +1,5 @@
+Generating Code with Polymorphic let: A Ballad of Value Restriction, Copying and Sharing
+
+Getting polymorphism and effects such as mutation to live together in the same language is a tale worth telling, under the recurring refrain of copying vs. sharing. We add new stanzas to the tale, about the ordeal to generate code with polymorphism and effects, and be sure it type-checks. Generating well-typed-by-construction polymorphic let-expressions is impossible in the Hindley-Milner type system: even the author believed that.
+  The polymorphic-let generator turns out to exist. We present its derivation and the application for the lightweight implementation of quotation via a novel and unexpectedly simple source-to-source transformation to code-generating combinators.
+  However, generating let-expressions with polymorphic functions demands more than even the relaxed value restriction can deliver. We need a new deal for let-polymorphism in ML. We conjecture the weaker restriction and implement it in a practically-useful code-generation library. Its formal justification is formulated as the research program.

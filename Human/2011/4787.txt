@@ -1,0 +1,3 @@
+A Unified Relevance Retrieval Model by Eliteness Hypothesis
+
+In this paper, an Eliteness Hypothesis for information retrieval is proposed, where we define two generative processes to create information items and queries. By assuming the deterministic relationships between the eliteness of terms and relevance, we obtain a new theoretical retrieval framework. The resulting ranking function is a unified one as it is capable of using available relevance information on both the document and the query, which is otherwise unachievable by existing retrieval models. Our preliminary experiment on a simple ranking function has demonstrated the potential of the approach.

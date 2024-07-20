@@ -1,0 +1,3 @@
+On the Gap Between Separating Words and Separating Their Reversals
+
+A deterministic finite automaton (DFA) separates two strings $w$ and $x$ if it accepts $w$ and rejects $x$. The minimum number of states required for a DFA to separate $w$ and $x$ is denoted by $sep(w,x)$. The present paper shows that the difference $|sep(w,x)-sep(w^R,x^R)|$ is unbounded for a binary alphabet; here $w^R$ stands for the mirror image of $w$. This solves an open problem stated in [Demaine, Eisenstat, Shallit, Wilson: Remarks on separating words. DCFS 2011. LNCS vol. 6808, pp. 147-157.]

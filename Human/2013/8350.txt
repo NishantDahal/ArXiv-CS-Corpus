@@ -1,0 +1,3 @@
+Timing Analysis of SSL/TLS Man in the Middle Attacks
+
+Man in the middle attacks are a significant threat to modern e-commerce and online communications, even when such transactions are protected by TLS. We intend to show that it is possible to detect man-in-the-middle attacks on SSL and TLS by detecting timing differences between a standard SSL session and an attack we created.

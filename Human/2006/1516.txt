@@ -1,0 +1,3 @@
+On the Complexity of the Circular Chromatic Number
+
+Circular chromatic number, $χ_c$ is a natural generalization of chromatic number. It is known that it is \NP-hard to determine whether or not an arbitrary graph $G$ satisfies $χ(G) = χ_c(G)$. In this paper we prove that this problem is \NP-hard even if the chromatic number of the graph is known. This answers a question of Xuding Zhu. Also we prove that for all positive integers $k \ge 2$ and $n \ge 3$, for a given graph $G$ with $χ(G)=n$, it is \NP-complete to verify if $χ_c(G) \le n- \frac{1}{k}$.

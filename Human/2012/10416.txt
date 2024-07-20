@@ -1,0 +1,3 @@
+Accelerating Inference: towards a full Language, Compiler and Hardware stack
+
+We introduce Dimple, a fully open-source API for probabilistic modeling. Dimple allows the user to specify probabilistic models in the form of graphical models, Bayesian networks, or factor graphs, and performs inference (by automatically deriving an inference engine from a variety of algorithms) on the model. Dimple also serves as a compiler for GP5, a hardware accelerator for inference.

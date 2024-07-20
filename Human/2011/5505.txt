@@ -1,0 +1,3 @@
+Can User-Level Probing Detect and Diagnose Common Home-WLAN Pathologies?
+
+Common WLAN pathologies include low signal-to-noise ratio, congestion, hidden terminals or interference from non-802.11 devices and phenomena. Prior work has focused on the detection and diagnosis of such problems using layer-2 information from 802.11 devices and special-purpose access points and monitors, which may not be generally available. Here, we investigate a userlevel approach: is it possible to detect and diagnose 802.11 pathologies with strictly user-level active probing, without any cooperation from, and without any visibility in, layer-2 devices? In this paper, we present preliminary but promising results indicating that such diagnostics are feasible.

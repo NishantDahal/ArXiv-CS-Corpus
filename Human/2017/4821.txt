@@ -1,0 +1,6 @@
+Deep Learning for Automated Quality Assessment of Color Fundus Images in Diabetic Retinopathy Screening
+
+Purpose To develop a computer based method for the automated assessment of image quality in the context of diabetic retinopathy (DR) to guide the photographer.
+  Methods A deep learning framework was trained to grade the images automatically. A large representative set of 7000 color fundus images were used for the experiment which were obtained from the EyePACS that were made available by the California Healthcare Foundation. Three retinal image analysis experts were employed to categorize these images into Accept and Reject classes based on the precise definition of image quality in the context of DR. A deep learning framework was trained using 3428 images.
+  Results A total of 3572 images were used for the evaluation of the proposed method. The method shows an accuracy of 100% to successfully categorise Accept and Reject images.
+  Conclusion Image quality is an essential prerequisite for the grading of DR. In this paper we have proposed a deep learning based automated image quality assessment method in the context of DR. The method can be easily incorporated with the fundus image capturing system and thus can guide the photographer whether a recapture is necessary or not.

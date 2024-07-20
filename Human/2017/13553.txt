@@ -1,0 +1,3 @@
+Formalization of the fundamental group in untyped set theory using auto2
+
+We present a new framework for formalizing mathematics in untyped set theory using auto2. Using this framework, we formalize in Isabelle/FOL the entire chain of development from the axioms of set theory to the definition of the fundamental group for an arbitrary topological space. The auto2 prover is used as the sole automation tool, and enables succinct proof scripts throughout the project.

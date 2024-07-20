@@ -1,0 +1,3 @@
+Compiling HPSG type constraints into definite clause programs
+
+We present a new approach to HPSG processing: compiling HPSG grammars expressed as type constraints into definite clause programs. This provides a clear and computationally useful correspondence between linguistic theories and their implementation. The compiler performs off-line constraint inheritance and code optimization. As a result, we are able to efficiently process with HPSG grammars without having to hand-translate them into definite clause or phrase structure based systems.

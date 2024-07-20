@@ -1,0 +1,3 @@
+Principles of Antifragile Software
+
+The goal of this paper is to study and define the concept of "antifragile software". For this, I start from Taleb's statement that antifragile systems love errors, and discuss whether traditional software dependability fits into this class. The answer is somewhat negative, although adaptive fault tolerance is antifragile: the system learns something when an error happens, and always imrpoves. Automatic runtime bug fixing is changing the code in response to errors, fault injection in production means injecting errors in business critical software. I claim that both correspond to antifragility. Finally, I hypothesize that antifragile development processes are better at producing antifragile software systems.

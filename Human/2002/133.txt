@@ -1,0 +1,5 @@
+Semantic Component Composition
+
+Building complex software systems necessitates the use of component-based architectures. In theory, of the set of components needed for a design, only some small portion of them are "custom"; the rest are reused or refactored existing pieces of software. Unfortunately, this is an idealized situation. Just because two components should work together does not mean that they will work together.
+  The "glue" that holds components together is not just technology. The contracts that bind complex systems together implicitly define more than their explicit type. These "conceptual contracts" describe essential aspects of extra-system semantics: e.g., object models, type systems, data representation, interface action semantics, legal and contractual obligations, and more.
+  Designers and developers spend inordinate amounts of time technologically duct-taping systems to fulfill these conceptual contracts because system-wide semantics have not been rigorously characterized or codified. This paper describes a formal characterization of the problem and discusses an initial implementation of the resulting theoretical system.

@@ -1,0 +1,3 @@
+High Speed, Low Power Current Comparators with Hysteresis
+
+This paper, presents a novel idea for analog current comparison which compares input signal current and reference currents with high speed, low power and well controlled hysteresis. Proposed circuit is based on current mirror and voltage latching techniques which produces rail to rail output voltage as a result of current comparison. The same design can be extended to a simple current comparator without hysteresis (or very less hysteresis), where comparator gives high accuracy (less than 50nA) and speed at the cost of moderate power consumption. The comparators are designed optimally and studied at 180nm CMOS process technology for a supply voltage of 3V.

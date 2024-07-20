@@ -1,0 +1,3 @@
+Über die Präzision interprozeduraler Analysen
+
+In this work, we examine two approaches to interprocedural data-flow analysis of Sharir and Pnueli in terms of precision: the functional and the call-string approach. In doing so, not only the theoretical best, but all solutions are regarded which occur when using abstract interpretation or widening additionally. It turns out that the solutions of both approaches coincide. This property is preserved when using abstract interpretation; in the case of widening, a comparison of the results is not always possible.

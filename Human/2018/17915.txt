@@ -1,0 +1,3 @@
+ISIC 2018-A Method for Lesion Segmentation
+
+Our team participate in the challenge of Task 1: Lesion Boundary Segmentation , and use a combined network, one of which is designed by ourselves named updcnn net and another is an improved VGG 16-layer net. Updcnn net uses reduced size images for training, and VGG 16-layer net utilizes large size images. Image enhancement is used to get a richer data set. We use boxes in the VGG 16-layer net network for local attention regularization to fine-tune the loss function, which can increase the number of training data, and also make the model more robust. In the test, the model is used for joint testing and achieves good results.

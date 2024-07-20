@@ -1,0 +1,5 @@
+Generating Custom Code for Efficient Query Execution on Heterogeneous Processors
+
+Processor manufacturers build increasingly specialized processors to mitigate the effects of the power wall to deliver improved performance. Currently, database engines are manually optimized for each processor: A costly and error prone process.
+  In this paper, we propose concepts to enable the database engine to perform per-processor optimization automatically. Our core idea is to create variants of generated code and to learn a fast variant for each processor. We create variants by modifying parallelization strategies, specializing data structures, and applying different code transformations.
+  Our experimental results show that the performance of variants may diverge up to two orders of magnitude. Therefore, we need to generate custom code for each processor to achieve peak performance. We show that our approach finds a fast custom variant for multi-core CPUs, GPUs, and MICs.

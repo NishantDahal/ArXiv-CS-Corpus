@@ -1,0 +1,5 @@
+Communication complexity of approximate maximum matching in the message-passing model
+
+We consider the communication complexity of finding an approximate maximum matching in a graph in a multi-party message-passing communication model. The maximum matching problem is one of the most fundamental graph combinatorial problems, with a variety of applications.
+  The input to the problem is a graph $G$ that has $n$ vertices and the set of edges partitioned over $k$ sites, and an approximation ratio parameter $α$. The output is required to be a matching in $G$ that has to be reported by one of the sites, whose size is at least factor $α$ of the size of a maximum matching in $G$.
+  We show that the communication complexity of this problem is $Ω(α^2 k n)$ information bits. This bound is shown to be tight up to a $\log n$ factor, by constructing an algorithm, establishing its correctness, and an upper bound on the communication cost. The lower bound also applies to other graph combinatorial problems in the message-passing communication model, including max-flow and graph sparsification.

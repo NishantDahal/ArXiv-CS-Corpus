@@ -1,0 +1,3 @@
+ParaPlan: A Tool for Parallel Reachability Analysis of Planar Polygonal Differential Inclusion Systems
+
+We present the ParaPlan tool which provides the reachability analysis of planar hybrid systems defined by differential inclusions (SPDI). It uses the parallelized and optimized version of the algorithm underlying the SPeeDI tool. The performance comparison demonstrates the speed-up of up to 83 times with respect to the sequential implementation on various benchmarks. Some of the benchmarks we used are randomly generated with the novel approach based on the partitioning of the plane with Voronoi diagrams.

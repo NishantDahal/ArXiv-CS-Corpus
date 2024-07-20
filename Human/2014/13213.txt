@@ -1,0 +1,3 @@
+Computing coset leaders and leader codewords of binary codes
+
+In this paper we use the Gröbner representation of a binary linear code $\mathcal C$ to give efficient algorithms for computing the whole set of coset leaders, denoted by $\mathrm{CL}(\mathcal C)$ and the set of leader codewords, denoted by $\mathrm L(\mathcal C)$. The first algorithm could be adapted to provide not only the Newton and the covering radius of $\mathcal C$ but also to determine the coset leader weight distribution. Moreover, providing the set of leader codewords we have a test-set for decoding by a gradient-like decoding algorithm. Another contribution of this article is the relation stablished between zero neighbours and leader codewords.

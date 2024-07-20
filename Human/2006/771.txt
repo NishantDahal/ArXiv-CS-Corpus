@@ -1,0 +1,3 @@
+OpenVanilla - A Non-Intrusive Plug-In Framework of Text Services
+
+Input method (IM) is a sine qua non for text entry of many Asian languages, but its potential applications on other languages remain under-explored. This paper proposes a philosophy of input method design by seeing it as a nonintrusive plug-in text service framework. Such design allows new functionalities of text processing to be attached onto a running application without any tweaking of code. We also introduce OpenVanilla, a cross-platform framework that is designed with the above-mentioned model in mind. Frameworks like OpenVanilla have shown that an input method can be more than just a text entry tool: it offers a convenient way for developing various text service and language tools.

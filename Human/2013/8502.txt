@@ -1,0 +1,3 @@
+Exploiting Locality in Lease-Based Replicated Transactional Memory via Task Migration
+
+We present Lilac-TM, the first locality-aware Distributed Software Transactional Memory (DSTM) implementation. Lilac-TM is a fully decentralized lease-based replicated DSTM. It employs a novel self- optimizing lease circulation scheme based on the idea of dynamically determining whether to migrate transactions to the nodes that own the leases required for their validation, or to demand the acquisition of these leases by the node that originated the transaction. Our experimental evaluation establishes that Lilac-TM provides significant performance gains for distributed workloads exhibiting data locality, while typically incurring no overhead for non-data local workloads.

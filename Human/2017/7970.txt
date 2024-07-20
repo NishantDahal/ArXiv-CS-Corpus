@@ -1,0 +1,3 @@
+Edge coloring in unstructured CFD codes
+
+We propose a way of preventing race conditions in the evaluation of the surface integral contribution in discontinuous Galerkin and finite volume flow solvers by coloring the edges (or faces) of the computational mesh. In this work we use a partitioning algorithm that separates the edges of triangular elements into three groups and the faces of quadrangular and tetrahedral elements into four groups; we then extend this partitioning to adaptively refined, nonconforming meshes. We use the ascribed coloring to reduce code memory requirements and optimize accessing the elemental data in memory. This process reduces memory access latencies and speeds up computations on graphics processing units.

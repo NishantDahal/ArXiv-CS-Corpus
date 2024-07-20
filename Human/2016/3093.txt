@@ -1,0 +1,3 @@
+A Scheduler for Unsolicited Grant Service (UGS) in IEEE 802.16e Mobile WiMAX Networks
+
+Most of the IEEE 802.16e Mobile WiMAX scheduling proposals for real-time traffic using Unsolicited Grant Service (UGS) focus on the throughput and the guaranteed latency. The delay variation or delay jitter and the effect of burst overhead have not yet been investigated. This paper introduces a new technique called Swapping Min-Max (SWIM) for UGS scheduling that not only meets the delay constraint with optimal throughput, but also minimizes the delay jitter and burst overhead.

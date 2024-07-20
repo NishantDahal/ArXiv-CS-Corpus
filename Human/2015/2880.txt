@@ -1,0 +1,4 @@
+Using Model-Checking Techniques for Component-Based Systems with Reconfigurations
+
+Within a component-based approach allowing dynamic reconfigurations, sequences of successive reconfiguration operations are expressed by means of reconfiguration paths, possibly infinite. We show that a subclass of such paths can be modelled by finite state automata. This feature allows us to use techniques related to model-checking to prove some architectural, event, and temporal properties related to dynamic reconfiguration. Our method is proved correct w.r.t. these properties' definition.
+

@@ -1,0 +1,3 @@
+Authorised Translations of Electronic Documents
+
+A concept is proposed to extend authorised translations of documents to electronically signed, digital documents. Central element of the solution is an electronic seal, embodied as an XML data structure, which attests to the correctness of the translation and the authorisation of the translator. The seal contains a digital signature binding together original and translated document, thus enabling forensic inspection and therefore legal security in the appropriation of the translation. Organisational aspects of possible implementation variants of electronic authorised translations are discussed and a realisation as a stand-alone web-service is presented.

@@ -1,0 +1,3 @@
+Adleman-Manders-Miller Root Extraction Method Revisited
+
+In 1977, Adleman, Manders and Miller had briefly described how to extend their square root extraction method to the general $r$th root extraction over finite fields, but not shown enough details. Actually, there is a dramatic difference between the square root extraction and the general $r$th root extraction because one has to solve discrete logarithms for $r$th root extraction. In this paper, we clarify their method and analyze its complexity. Our heuristic presentation is helpful to grasp the method entirely and deeply.

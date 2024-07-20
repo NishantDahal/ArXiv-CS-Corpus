@@ -1,0 +1,3 @@
+Newer method of string comparison: the Modified Moving Contracting Window Pattern Algorithm
+
+This paper presents a new algorithm, the Modified Moving Contracting Window Pattern Algorithm (CMCWPM), for the calculation of field similarity. It strongly relies on previous work by Yang et al. (2001), correcting previous work in which characters marked as inaccessible for further pattern matching were not treated as boundaries between subfields, occasionally leading to higher than expected scores of field similarity. A reference Python implementation is provided.

@@ -1,0 +1,3 @@
+GPU-based Image Analysis on Mobile Devices
+
+With the rapid advances in mobile technology many mobile devices are capable of capturing high quality images and video with their embedded camera. This paper investigates techniques for real-time processing of the resulting images, particularly on-device utilizing a graphical processing unit. Issues and limitations of image processing on mobile devices are discussed, and the performance of graphical processing units on a range of devices measured through a programmable shader implementation of Canny edge detection.

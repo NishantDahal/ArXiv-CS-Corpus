@@ -1,0 +1,3 @@
+Liver segmentation in CT images using three dimensional to two dimensional fully convolutional network
+
+The need for CT scan analysis is growing for pre-diagnosis and therapy of abdominal organs. Automatic organ segmentation of abdominal CT scan can help radiologists analyze the scans faster and segment organ images with fewer errors. However, existing methods are not efficient enough to perform the segmentation process for victims of accidents and emergencies situations. In this paper we propose an efficient liver segmentation with our 3D to 2D fully connected network (3D-2D-FCN). The segmented mask is enhanced by means of conditional random field on the organ's border. Consequently, we segment a target liver in less than a minute with Dice score of 93.52.

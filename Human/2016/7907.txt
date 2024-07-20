@@ -1,0 +1,3 @@
+Lempel-Ziv Computation In Compressed Space (LZ-CICS)
+
+We show that both the Lempel Ziv 77- and the 78-factorization of a text of length $n$ on an integer alphabet of size $σ$ can be computed in $O(n \lg \lg σ)$ time (linear time if we allow randomization) using $O(n \lg σ)$ bits of working space. Given that a compressed representation of the suffix tree is loaded into RAM, we can compute both factorizations in $O(n)$ time using $z \lg n + O(n)$ bits of space, where $z$ is the number of factors.

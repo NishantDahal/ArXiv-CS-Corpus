@@ -1,0 +1,4 @@
+Amplification and Derandomization Without Slowdown
+
+We present techniques for decreasing the error probability of randomized algorithms and for converting randomized algorithms to deterministic (non-uniform) algorithms. Unlike most existing techniques that involve repetition of the randomized algorithm and hence a slowdown, our techniques produce algorithms with a similar run-time to the original randomized algorithms. The amplification technique is related to a certain stochastic multi-armed bandit problem. The derandomization technique - which is the main contribution of this work - points to an intriguing connection between derandomization and sketching/sparsification.
+  We demonstrate the techniques by showing applications to Max-Cut on dense graphs, approximate clique on graphs that contain a large clique, constraint satisfaction problems on dense bipartite graphs and the list decoding to unique decoding problem for the Reed-Muller code.

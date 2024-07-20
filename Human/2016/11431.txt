@@ -1,0 +1,3 @@
+Reliable Prediction Intervals for Local Linear Regression
+
+This paper introduces two methods for estimating reliable prediction intervals for local linear least-squares regressions, named Bounded Oscillation Prediction Intervals (BOPI). It also proposes a new measure for comparing interval prediction models named Equivalent Gaussian Standard Deviation (EGSD). The experimental results compare BOPI to other methods using coverage probability, Mean Interval Size and the introduced EGSD measure. The results were generally in favor of the BOPI on considered benchmark regression datasets. It also, reports simulation studies validating the BOPI method's reliability.

@@ -1,0 +1,3 @@
+On robust width property for Lasso and Dantzig selector
+
+Recently, Cahill and Mixon completely characterized the sensing operators in many compressed sensing instances with a robust width property. The proposed property allows uniformly stable and robust reconstruction of certain solutions from an underdetermined linear system via convex optimization. However, their theory does not cover the Lasso and Dantzig selector models, both of which are popular alternatives in the statistics community. In this letter, we show that the robust width property can be perfectly applied to these two models as well. Our results solve an open problem left by Cahill and Mixon.

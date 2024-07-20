@@ -1,0 +1,3 @@
+Improved Parallel Algorithms for Spanners and Hopsets
+
+We use exponential start time clustering to design faster and more work-efficient parallel graph algorithms involving distances. Previous algorithms usually rely on graph decomposition routines with strict restrictions on the diameters of the decomposed pieces. We weaken these bounds in favor of stronger local probabilistic guarantees. This allows more direct analyses of the overall process, giving: * Linear work parallel algorithms that construct spanners with $O(k)$ stretch and size $O(n^{1+1/k})$ in unweighted graphs, and size $O(n^{1+1/k} \log k)$ in weighted graphs. * Hopsets that lead to the first parallel algorithm for approximating shortest paths in undirected graphs with $O(m\;\mathrm{polylog}\;n)$ work.

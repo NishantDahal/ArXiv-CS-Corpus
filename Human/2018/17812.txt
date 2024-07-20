@@ -1,0 +1,3 @@
+Exploring Combinations of Ontological Features and Keywords for Text Retrieval
+
+Named entities have been considered and combined with keywords to enhance information retrieval performance. However, there is not yet a formal and complete model that takes into account entity names, classes, and identifiers together. Our work explores various adaptations of the traditional Vector Space Model that combine different ontological features with keywords, and in different ways. It shows better performance of the proposed models as compared to the keyword-based Lucene, and their advantages for both text retrieval and representation of documents and queries.

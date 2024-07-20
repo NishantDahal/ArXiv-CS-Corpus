@@ -1,0 +1,3 @@
+Meta-Learning for Resampling Recommendation Systems
+
+One possible approach to tackle the class imbalance in classification tasks is to resample a training dataset, i.e., to drop some of its elements or to synthesize new ones. There exist several widely-used resampling methods. Recent research showed that the choice of resampling method significantly affects the quality of classification, which raises resampling selection problem. Exhaustive search for optimal resampling is time-consuming and hence it is of limited use. In this paper, we describe an alternative approach to the resampling selection. We follow the meta-learning concept to build resampling recommendation systems, i.e., algorithms recommending resampling for datasets on the basis of their properties.

@@ -1,0 +1,3 @@
+Node-Centric Detection of Overlapping Communities in Social Networks
+
+We present NECTAR, a community detection algorithm that generalizes Louvain method's local search heuristic for overlapping community structures. NECTAR chooses dynamically which objective function to optimize based on the network on which it is invoked. Our experimental evaluation on both synthetic benchmark graphs and real-world networks, based on ground-truth communities, shows that NECTAR provides excellent results as compared with state of the art community detection algorithms.

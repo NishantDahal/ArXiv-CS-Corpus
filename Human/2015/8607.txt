@@ -1,0 +1,3 @@
+Quantum Lower Bound for Graph Collision Implies Lower Bound for Triangle Detection
+
+We show that an improvement to the best known quantum lower bound for GRAPH-COLLISION problem implies an improvement to the best known lower bound for TRIANGLE problem in the quantum query complexity model. In GRAPH-COLLISION we are given free access to a graph $(V,E)$ and access to a function $f:V\rightarrow \{0,1\}$ as a black box. We are asked to determine if there exist $(u,v) \in E$, such that $f(u)=f(v)=1$. In TRIANGLE we have a black box access to an adjacency matrix of a graph and we have to determine if the graph contains a triangle. For both of these problems the known lower bounds are trivial ($Ω(\sqrt{n})$ and $Ω(n)$, respectively) and there is no known matching upper bound.

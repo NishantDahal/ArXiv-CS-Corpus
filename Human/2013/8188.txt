@@ -1,0 +1,3 @@
+Monitoring with uncertainty
+
+We discuss the problem of runtime verification of an instrumented program that misses to emit and to monitor some events. These gaps can occur when a monitoring overhead control mechanism is introduced to disable the monitor of an application with real-time constraints. We show how to use statistical models to learn the application behavior and to "fill in" the introduced gaps. Finally, we present and discuss some techniques developed in the last three years to estimate the probability that a property of interest is violated in the presence of an incomplete trace.

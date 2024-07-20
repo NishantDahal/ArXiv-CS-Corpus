@@ -1,0 +1,3 @@
+A subsystems approach for parameter estimation of ODE models of hybrid systems
+
+We present a new method for parameter identification of ODE system descriptions based on data measurements. Our method works by splitting the system into a number of subsystems and working on each of them separately, thereby being easily parallelisable, and can also deal with noise in the observations.

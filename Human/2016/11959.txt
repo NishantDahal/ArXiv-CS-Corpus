@@ -1,0 +1,3 @@
+Embedded SML using the MLton compiler
+
+In this extended abstract we present our current work on leveraging Standard ML for developing embedded and real-time systems. Specifically we detail our experiences in modifying MLton, a whole program, optimizing compiler for Standard ML, for use in such contexts. We focus primarily on the language runtime, re-working the threading subsystem and garbage collector, as well as necessary changes for integrating MLton generated programs into a light weight operating system kernel. We compare and contrast these changes to our previous work on extending MLton for multicore systems, which focused around acheiving scalability.

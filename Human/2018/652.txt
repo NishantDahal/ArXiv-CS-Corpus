@@ -1,0 +1,5 @@
+Degree-constrained 2-partitions of graphs
+
+A $(δ\geq k_1,δ\geq k_2)$-partition of a graph $G$ is a vertex-partition $(V_1,V_2)$ of $G$ satisfying that $δ(G[V_i])\geq k_i$ for $i=1,2$. We determine, for all positive integers $k_1,k_2$, the complexity of deciding whether a given graph has a $(δ\geq k_1,δ\geq k_2)$-partition.
+  We also address the problem of finding a function $g(k_1,k_2)$ such that the $(δ\geq k_1,δ\geq k_2)$-partition problem is ${\cal
+  NP}$-complete for the class of graphs of minimum degree less than $g(k_1,k_2)$ and polynomial for all graphs with minimum degree at least $g(k_1,k_2)$. We prove that $g(1,k)=k$ for $k\ge 3$, that $g(2,2)=3$ and that $g(2,3)$, if it exists, has value 4 or 5.

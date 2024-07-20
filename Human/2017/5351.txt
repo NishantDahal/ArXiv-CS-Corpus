@@ -1,0 +1,3 @@
+Multi-Kernel Construction of Polar Codes
+
+We propose a generalized construction for binary polar codes based on mixing multiple kernels of different sizes in order to construct polar codes of block lengths that are not only powers of integers. This results in a multi kernel polar code with very good performance while the encoding complexity remains low and the decoding follows the same general structure as for the original Arikan polar codes. The construction provides numerous practical advantages as more code lengths can be achieved without puncturing or shortening. We observe numerically that the error-rate performance of our construction outperforms stateof the-art constructions using puncturing methods.

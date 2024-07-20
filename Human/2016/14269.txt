@@ -1,0 +1,3 @@
+Non-square matrix sensing without spurious local minima via the Burer-Monteiro approach
+
+We consider the non-square matrix sensing problem, under restricted isometry property (RIP) assumptions. We focus on the non-convex formulation, where any rank-$r$ matrix $X \in \mathbb{R}^{m \times n}$ is represented as $UV^\top$, where $U \in \mathbb{R}^{m \times r}$ and $V \in \mathbb{R}^{n \times r}$. In this paper, we complement recent findings on the non-convex geometry of the analogous PSD setting [5], and show that matrix factorization does not introduce any spurious local minima, under RIP.

@@ -1,0 +1,3 @@
+Application of Multi-core Parallel Programming to a Combination of Ant Colony Optimization and Genetic Algorithm
+
+This Paper will deal with a combination of Ant Colony and Genetic Programming Algorithm to optimize Travelling Salesmen problem (NP-Hard). However, the complexity of the algorithm requires considerable computational time and resources. Parallel implementation can reduce the computational time. In this paper, emphasis in the parallelizing section is given to Multi-core architecture and Multi-Processor Systems which is developed and used almost everywhere today and hence, multi-core parallelization to the combination of algorithm is achieved by OpenMP library by Intel Corporation.

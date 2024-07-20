@@ -1,0 +1,3 @@
+Reversible Languages Having Finitely Many Reduced Automata
+
+Reversible forms of computations are often interesting from an energy efficiency point of view. When the computation device in question is an automaton, it is known that the minimal reversible automaton recognizing a given language is not necessarily unique, moreover, there are languages having arbitrarily large reversible recognizers possessing no nontrivial reversible congruence. However, the exact characterization of this class of languages was open. In this paper we give a forbidden pattern capturing the reversible regular languages having only finitely many reduced reversible automata, allowing an efficient (NL) decision procedure.

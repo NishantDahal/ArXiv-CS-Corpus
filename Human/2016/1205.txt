@@ -1,0 +1,3 @@
+Partial functions and domination
+
+The current work introduces the notion of pdominant sets and studies their recursion-theoretic properties. Here a set A is called pdominant iff there is a partial A-recursive function ψ such that for every partial recursive function φ and almost every x in the domain of φ there is a y in the domain of ψ with y<= x and ψ(y) > φ(x). While there is a full π01-class of nonrecursive sets where no set is pdominant, there is no π01-class containing only pdominant sets. No weakly 2-generic set is pdominant while there are pdominant 1-generic sets below K. The halves of Chaitin's Ω are pdominant. No set which is low for Martin-Löf random is pdominant. There is a low r.e. set which is pdominant and a high r.e. set which is not pdominant.

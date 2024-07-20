@@ -1,0 +1,3 @@
+Independent Deeply Learned Matrix Analysis for Multichannel Audio Source Separation
+
+In this paper, we address a multichannel audio source separation task and propose a new efficient method called independent deeply learned matrix analysis (IDLMA). IDLMA estimates the demixing matrix in a blind manner and updates the time-frequency structures of each source using a pretrained deep neural network (DNN). Also, we introduce a complex Student's t-distribution as a generalized source generative model including both complex Gaussian and Cauchy distributions. Experiments are conducted using music signals with a training dataset, and the results show the validity of the proposed method in terms of separation accuracy and computational cost.

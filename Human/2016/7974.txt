@@ -1,0 +1,3 @@
+AccFFT: A library for distributed-memory FFT on CPU and GPU architectures
+
+We present a new library for parallel distributed Fast Fourier Transforms (FFT). The importance of FFT in science and engineering and the advances in high performance computing necessitate further improvements. AccFFT extends existing FFT libraries for CUDA-enabled Graphics Processing Units (GPUs) to distributed memory clusters. We use overlapping communication method to reduce the overhead of PCIe transfers from/to GPU. We present numerical results on the Maverick platform at the Texas Advanced Computing Center (TACC) and on the Titan system at the Oak Ridge National Laboratory (ORNL). We present the scaling of the library up to 4,096 K20 GPUs of Titan.

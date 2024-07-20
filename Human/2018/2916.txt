@@ -1,0 +1,3 @@
+The Geodesic Farthest-point Voronoi Diagram in a Simple Polygon
+
+Given a set of point sites in a simple polygon, the geodesic farthest-point Voronoi diagram partitions the polygon into cells, at most one cell per site, such that every point in a cell has the same farthest site with respect to the geodesic metric. We present an $O(n\log\log n+m\log m)$- time algorithm to compute the geodesic farthest-point Voronoi diagram of $m$ point sites in a simple $n$-gon. This improves the previously best known algorithm by Aronov et al. [Discrete Comput. Geom. 9(3):217-255, 1993]. In the case that all point sites are on the boundary of the simple polygon, we can compute the geodesic farthest-point Voronoi diagram in $O((n + m) \log \log n)$ time.

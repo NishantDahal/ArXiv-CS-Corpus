@@ -1,0 +1,3 @@
+Semi-Analytic Method for SINS Attitude and Parameters Online Estimation
+
+In this note, the attitude and inertial sensors drift biases estimation for Strapdown inertial navigation system is investigated. A semi-analytic method is proposed, which contains two interlaced solution procedures. Specifically, the attitude encoding the body frame changes and gyroscopes drift biases are estimated through attitude estimation while the attitude encoding the constant value at the very start and accelerometers drift biases are determined through online optimization.

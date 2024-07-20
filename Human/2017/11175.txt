@@ -1,0 +1,3 @@
+Phaseless Reconstruction from Space-Time Samples
+
+Phaseless reconstruction from space-time samples is a nonlinear problem of recovering a function $x$ in a Hilbert space $\mathcal{H}$ from the modulus of linear measurements $\{\lvert \langle x, φ_i\rangle \rvert$, $ \ldots$, $\lvert \langle A^{L_i}x, φ_i \rangle \rvert : i \in\mathscr I\}$, where $\{φ_i; i \in\mathscr I\}\subset \mathcal{H}$ is a set of functionals on $\mathcal{H}$, and $A$ is a bounded operator on $\mathcal{H}$ that acts as an evolution operator. In this paper, we provide various sufficient or necessary conditions for solving this problem, which has connections to $X$-ray crystallography, the scattering transform, and deep learning.

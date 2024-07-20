@@ -1,0 +1,4 @@
+Comparison of Bucket Sort and RADIX Sort
+
+Bucket sort and RADIX sort are two well-known integer sorting algorithms. This paper measures empirically what is the time usage and memory consumption for different kinds of input sequences. The algorithms are compared both from a theoretical standpoint but also on how well they do in six different use cases using randomized sequences of numbers. The measurements provide data on how good they are in different real-life situations.
+  It was found that bucket sort was faster than RADIX sort, but that bucket sort uses more memory in most cases. The sorting algorithms performed faster with smaller integers. The RADIX sort was not quicker with already sorted inputs, but the bucket sort was.

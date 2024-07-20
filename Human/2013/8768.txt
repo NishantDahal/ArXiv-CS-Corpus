@@ -1,0 +1,3 @@
+Numerical Reparametrization of Rational Parametric Plane Curves
+
+In this paper, we present an algorithm for reparametrizing algebraic plane curves from a numerical point of view. That is, we deal with mathematical objects that are assumed to be given approximately. More precisely, given a tolerance $ε>0$ and a rational parametrization $\cal P$ with perturbed float coefficients of a plane curve $\cal C$, we present an algorithm that computes a parametrization $\cal Q$ of a new plane curve $\cal D$ such that ${\cal Q}$ is an {\it $ε$--proper reparametrization} of $\cal D$. In addition, the error bound is carefully discussed and we present a formula that measures the "closeness" between the input curve $\cal C$ and the output curve $\cal D$.

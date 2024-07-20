@@ -1,0 +1,3 @@
+On the size of the largest empty box amidst a point set
+
+The problem of finding the largest empty axis-parallel box amidst a point configuration is a classical problem in computational geometry. It is known that the volume of the largest empty box is of asymptotic order $1/n$ for $n\to\infty$ and fixed dimension $d$. However, it is natural to assume that the volume of the largest empty box increases as $d$ gets larger. In the present paper we prove that this actually is the case: for every set of $n$ points in $[0, 1]^d$ there exists an empty box of volume at least $c_d n^{-1}$ , where $c_d \to \infty$ as $d\to \infty$. More precisely, $c_d$ is at least of order roughly $\log d$.

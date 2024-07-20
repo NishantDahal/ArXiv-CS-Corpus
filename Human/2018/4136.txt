@@ -1,0 +1,3 @@
+Automatic Conflict Detection in Police Body-Worn Audio
+
+Automatic conflict detection has grown in relevance with the advent of body-worn technology, but existing metrics such as turn-taking and overlap are poor indicators of conflict in police-public interactions. Moreover, standard techniques to compute them fall short when applied to such diversified and noisy contexts. We develop a pipeline catered to this task combining adaptive noise removal, non-speech filtering and new measures of conflict based on the repetition and intensity of phrases in speech. We demonstrate the effectiveness of our approach on body-worn audio data collected by the Los Angeles Police Department.

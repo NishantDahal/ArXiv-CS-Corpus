@@ -1,0 +1,4 @@
+A Practical View on Renaming
+
+We revisit variable renaming from a practitioner's point of view, presenting concepts we found useful in dealing with  operational semantics of pure Prolog. A concept of relaxed core representation is introduced,  upon which a concept of prenaming is built.  Prenaming formalizes the intuitive practice of renaming terms  by just considering the necessary bindings, where now some passive "bindings" x/x may be necessary as well. As an application, a constructive version of variant lemma for implemented Horn clause logic has been obtained. There, prenamings made it possible to incrementally handle new  (local) variables.
+

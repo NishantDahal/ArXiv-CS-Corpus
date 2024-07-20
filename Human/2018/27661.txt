@@ -1,0 +1,5 @@
+One-Shot PIR: Refinement and Lifting
+
+We study a class of private information retrieval (PIR) methods that we call one-shot schemes. The intuition behind one-shot schemes is the following. The user's query is regarded as a dot product of a query vector and the message vector (database) stored at multiple servers.
+  Privacy, in an information theoretic sense, is then achieved by encrypting the query vector using a secure linear code, such as secret sharing.
+  Several PIR schemes in the literature, in addition to novel ones constructed here, fall into this class. One-shot schemes provide an insightful link between PIR and data security against eavesdropping. However, their download rate is not optimal, i.e., they do not achieve the PIR capacity. Our main contribution is two transformations of one-shot schemes, which we call refining and lifting. We show that refining and lifting one-shot schemes gives capacity-achieving schemes for the cases when the PIR capacity is known. In the other cases, when the PIR capacity is still unknown, refining and lifting one-shot schemes gives the best download rate so far.

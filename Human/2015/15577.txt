@@ -1,0 +1,4 @@
+Modular implicits
+
+We present modular implicits, an extension to the OCaml language for ad-hoc polymorphism inspired by Scala implicits and modular type classes. Modular implicits are based on type-directed implicit module parameters, and elaborate straightforwardly into OCaml's first-class functors. Basing the design on OCaml's modules leads to a system that naturally supports many features from other languages with systematic ad-hoc overloading, including inheritance, instance constraints, constructor classes and associated types.
+

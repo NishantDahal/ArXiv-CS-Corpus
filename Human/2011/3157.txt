@@ -1,0 +1,3 @@
+A Characterization of the SPARC T3-4 System
+
+This technical report covers a set of experiments on the 64-core SPARC T3-4 system, comparing it to two similar AMD and Intel systems. Key characteristics as maximum integer and floating point arithmetic throughput are measured as well as memory throughput, showing the scalability of the SPARC T3-4 system. The performance of POSIX threads primitives is characterized and compared in detail, such as thread creation and mutex synchronization. Scalability tests with a fine grained multithreaded runtime are performed, showing problems with atomic CAS operations on such physically highly parallel systems.

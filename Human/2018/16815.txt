@@ -1,0 +1,3 @@
+Techniques for visualizing LSTMs applied to electrocardiograms
+
+This paper explores four different visualization techniques for long short-term memory (LSTM) networks applied to continuous-valued time series. On the datasets analysed, we find that the best visualization technique is to learn an input deletion mask that optimally reduces the true class score. With a specific focus on single-lead electrocardiograms from the MIT-BIH arrhythmia dataset, we show that salient input features for the LSTM classifier align well with medical theory.

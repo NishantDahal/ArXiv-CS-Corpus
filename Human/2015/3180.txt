@@ -1,0 +1,3 @@
+DESAT: an SSW tool for SDO/AIA image de-saturation
+
+Saturation affects a significant rate of images recorded by the Atmospheric Imaging Assembly on the Solar Dynamics Observatory. This paper describes a computational method and a technological pipeline for the de-saturation of such images, based on several mathematical ingredients like Expectation Maximization, image correlation and interpolation. An analysis of the computational properties and demands of the pipeline, together with an assessment of its reliability are performed against a set of data recorded from the Feburary 25 2014 flaring event.

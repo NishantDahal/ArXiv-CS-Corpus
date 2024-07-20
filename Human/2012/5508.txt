@@ -1,0 +1,3 @@
+Clown: a Microprocessor Simulator for Operating System Studies
+
+In this paper, I present the design and implementation of Clown--a simulator of a microprocessor-based computer system specifically optimized for teaching operating system courses at undergraduate or graduate levels. The package includes the simulator itself, as well as a collection of basic I/O devices, an assembler, a linker, and a disk formatter. The simulator architecturally resembles mainstream microprocessors from the Intel 80386 family, but is much easier to learn and program. The simulator is fast enough to be used as an emulator--in the direct user interaction mode.

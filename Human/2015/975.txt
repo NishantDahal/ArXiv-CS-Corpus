@@ -1,0 +1,3 @@
+Computing the coefficients for the power series solution of the Lane-Emden equation with the Python library SymPy
+
+It is shown how the Python library Sympy can be used to compute symbolically the coefficients of the power series solution of the Lane-Emden equation (LEE). Sympy is an open source Python library for symbolic mathematics. The power series solutions are compared to the numerically computed solutions using matplotlib. The results of a run time measurement of the implemented algorithm are discussed at the end.

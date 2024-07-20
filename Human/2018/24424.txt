@@ -1,0 +1,3 @@
+Efficient Global Optimization using Deep Gaussian Processes
+
+Efficient Global Optimization (EGO) is widely used for the optimization of computationally expensive black-box functions. It uses a surrogate modeling technique based on Gaussian Processes (Kriging). However, due to the use of a stationary covariance, Kriging is not well suited for approximating non stationary functions. This paper explores the integration of Deep Gaussian processes (DGP) in EGO framework to deal with the non-stationary issues and investigates the induced challenges and opportunities. Numerical experimentations are performed on analytical problems to highlight the different aspects of DGP and EGO.

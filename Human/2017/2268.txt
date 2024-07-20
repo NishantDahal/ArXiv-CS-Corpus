@@ -1,0 +1,3 @@
+A Performance Analysis of Simple Runtime System for Actor Programming in C++
+
+In this paper, we propose the Templet -- a runtime system for actor programming of high performance computing in C++. We provide a compact source code of the runtime system, which uses standard library of C++11 only. We demonstrate how it differs from the classic implementations of the actor model. The practical significance of the Templet was examined by comparative study on the performance of three applications: the reference code in C++, managed by the OpenMP; the actor code in C++, managed by the Templet; the actor code in Java, managed by the Akka. As a test problem we used a numerical algorithm for solving the heat equation.

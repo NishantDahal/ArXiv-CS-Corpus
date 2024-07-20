@@ -1,0 +1,3 @@
+An Analysis of Arithmetic Constraints on Integer Intervals
+
+Arithmetic constraints on integer intervals are supported in many constraint programming systems. We study here a number of approaches to implement constraint propagation for these constraints. To describe them we introduce integer interval arithmetic. Each approach is explained using appropriate proof rules that reduce the variable domains. We compare these approaches using a set of benchmarks. For the most promising approach we provide results that characterize the effect of constraint propagation. This is a full version of our earlier paper, cs.PL/0403016.

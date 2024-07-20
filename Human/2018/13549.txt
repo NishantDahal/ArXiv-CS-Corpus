@@ -1,0 +1,3 @@
+Mean Actor Critic
+
+We propose a new algorithm, Mean Actor-Critic (MAC), for discrete-action continuous-state reinforcement learning. MAC is a policy gradient algorithm that uses the agent's explicit representation of all action values to estimate the gradient of the policy, rather than using only the actions that were actually executed. We prove that this approach reduces variance in the policy gradient estimate relative to traditional actor-critic methods. We show empirical results on two control domains and on six Atari games, where MAC is competitive with state-of-the-art policy search algorithms.

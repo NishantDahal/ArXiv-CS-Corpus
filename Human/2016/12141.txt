@@ -1,0 +1,3 @@
+Computation Offloading Decisions for Reducing Completion Time
+
+We analyze the conditions in which offloading computation reduces completion time. We extend the existing literature by deriving an inequality (Eq. 4) that relates computation offloading system parameters to the bits per instruction ratio of a computational job. This ratio is the inverse of the arithmetic intensity. We then discuss how this inequality can be used to determine the computations that can benefit from offloading as well as the computation offloading systems required to make offloading beneficial for particular computations.

@@ -1,0 +1,3 @@
+Coalgebraic trace semantics via forgetful logics
+
+We use modal logic as a framework for coalgebraic trace semantics, and show the flexibility of the approach with concrete examples such as the language semantics of weighted, alternating and tree automata, and the trace semantics of generative probabilistic systems. We provide a sufficient condition under which a logical semantics coincides with the trace semantics obtained via a given determinization construction. Finally, we consider a condition that guarantees the existence of a canonical determinization procedure that is correct with respect to a given logical semantics. That procedure is closely related to Brzozowski's minimization algorithm.

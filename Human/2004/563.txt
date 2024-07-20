@@ -1,0 +1,3 @@
+Quantum Complexity Classes
+
+In our thesis, we try to shed more light onto the complexity of quantum complexity classes by refining the related part of the hierarchy. First, we review the basic concepts of quantum computing in general. Then, inspired by BQP, we define new complexity classes. They are placed between BPP and PSPACE. We show that they incorporate the current important quantum algorithms. Furthermore, the importance of the unitarity constraint given by quantum mechanics is revealed. Without this requirement, we naturally arrive at the class AWPP, which was up to now thought to be just an artificially defined class. We hope that some of our newly defined classes could find their use in proving results about BQP.

@@ -1,0 +1,3 @@
+Multimodal Network Alignment
+
+A multimodal network encodes relationships between the same set of nodes in multiple settings, and network alignment is a powerful tool for transferring information and insight between a pair of networks. We propose a method for multimodal network alignment that computes a matrix which indicates the alignment, but produces the result as a low-rank factorization directly. We then propose new methods to compute approximate maximum weight matchings of low-rank matrices to produce an alignment. We evaluate our approach by applying it on synthetic networks and use it to de-anonymize a multimodal transportation network.

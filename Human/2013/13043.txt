@@ -1,0 +1,5 @@
+Sparse arrays of signatures for online character recognition
+
+In mathematics the signature of a path is a collection of iterated integrals, commonly used for solving differential equations. We show that the path signature, used as a set of features for consumption by a convolutional neural network (CNN), improves the accuracy of online character recognition---that is the task of reading characters represented as a collection of paths. Using datasets of letters, numbers, Assamese and Chinese characters, we show that the first, second, and even the third iterated integrals contain useful information for consumption by a CNN.
+  On the CASIA-OLHWDB1.1 3755 Chinese character dataset, our approach gave a test error of 3.58%, compared with 5.61% for a traditional CNN [Ciresan et al.]. A CNN trained on the CASIA-OLHWDB1.0-1.2 datasets won the ICDAR2013 Online Isolated Chinese Character recognition competition.
+  Computationally, we have developed a sparse CNN implementation that make it practical to train CNNs with many layers of max-pooling. Extending the MNIST dataset by translations, our sparse CNN gets a test error of 0.31%.

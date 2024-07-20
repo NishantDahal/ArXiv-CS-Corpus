@@ -1,0 +1,3 @@
+Analysis of String Sorting using Heapsort
+
+In this master thesis we analyze the complexity of sorting a set of strings. It was shown that the complexity of sorting strings can be naturally expressed in terms of the prefix trie induced by the set of strings. The model of computation takes into account symbol comparisons and not just comparisons between the strings. The analysis of upper and lower bounds for some classical algorithms such as Quicksort and Mergesort in terms of such a model was shown. Here we extend the analysis to another classical algorithm - Heapsort. We also give analysis for the version of the algorithm that uses Binomial heaps as a heap implementation.

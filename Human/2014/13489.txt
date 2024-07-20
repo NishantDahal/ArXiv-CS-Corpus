@@ -1,0 +1,4 @@
+A New Way to Factorize Linear Cameras
+
+The implementation details of factorizing the 3x4 projection matrices of linear cameras into their left matrix factors and the 4x4 homogeneous central(also parallel for infinite center cases) projection factors are presented in this work. Any full row rank 3x4 real matrix can be factorized into such basic matrices which will be called LC factors.
+  A further extension to multiple view midpoint triangulation, for both pinhole and affine camera cases, is also presented based on such camera factorizations.

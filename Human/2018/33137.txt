@@ -1,0 +1,3 @@
+A new algorithm for irreducible decomposition of representations of finite groups
+
+An algorithm for irreducible decomposition of representations of finite groups over fields of characteristic zero is described. The algorithm uses the fact that the decomposition induces a partition of the invariant inner product into a complete set of mutually orthogonal projectors. By expressing the projectors through the basis elements of the centralizer ring of the representation, the problem is reduced to solving systems of quadratic equations. The current implementation of the algorithm is able to split representations of dimensions up to hundreds of thousands. Examples of calculations are given.

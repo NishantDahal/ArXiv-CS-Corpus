@@ -1,0 +1,3 @@
+A Flow Formulation for Horizontal Coordinate Assignment with Prescribed Width
+
+We consider the coordinate assignment phase of the well known Sugiyama framework for drawing directed graphs in a hierarchical style. The extensive literature in this area has given comparatively little attention to a prescribed width of the drawing. We present a minimum cost flow formulation that supports prescribed width and optionally other criteria like lower and upper bounds on the distance of neighbouring nodes in a layer or enforced vertical edges segments. In our experiments we demonstrate that our approach can compete with state-of-the-art algorithms.

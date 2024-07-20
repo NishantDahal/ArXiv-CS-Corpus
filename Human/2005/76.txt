@@ -1,0 +1,3 @@
+Quantum seals
+
+A quantum seal is a way of encoding a message into quantum states, so that anybody may read the message with little error, while authorized verifiers can detect that the seal has been broken. We present a simple extension to the Bechmann-Pasquinucci majority-voting scheme that is impervious to coherent attacks, and further, encompasses sealing quantum messages by means of quantum encryption. The scheme is relatively easy to implement, requiring neither entanglement nor controlled operations during the state preparation, reading or verification stages.

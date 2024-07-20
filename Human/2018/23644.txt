@@ -1,0 +1,3 @@
+Representing Sets as Summed Semantic Vectors
+
+Representing meaning in the form of high dimensional vectors is a common and powerful tool in biologically inspired architectures. While the meaning of a set of concepts can be summarized by taking a (possibly weighted) sum of their associated vectors, this has generally been treated as a one-way operation. In this paper we show how a technique built to aid sparse vector decomposition allows in many cases the exact recovery of the inputs and weights to such a sum, allowing a single vector to represent an entire set of vectors from a dictionary. We characterize the number of vectors that can be recovered under various conditions, and explore several ways such a tool can be used for vector-based reasoning.

@@ -1,0 +1,3 @@
+On Determining if Tree-based Networks Contain Fixed Trees
+
+We address an open question of Francis and Steel about phylogenetic networks and trees. They give a polynomial time algorithm to decide if a phylogenetic network, N, is tree-based and pose the problem: given a fixed tree T and network N, is N based on T? We show that it is NP-hard to decide, by reduction from 3-Dimensional Matching (3DM), and further, that the problem is fixed parameter tractable.

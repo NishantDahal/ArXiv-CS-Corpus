@@ -1,0 +1,3 @@
+WaveletNet: Logarithmic Scale Efficient Convolutional Neural Networks for Edge Devices
+
+We present a logarithmic-scale efficient convolutional neural network architecture for edge devices, named WaveletNet. Our model is based on the well-known depthwise convolution, and on two new layers, which we introduce in this work: a wavelet convolution and a depthwise fast wavelet transform. By breaking the symmetry in channel dimensions and applying a fast algorithm, WaveletNet shrinks the complexity of convolutional blocks by an O(logD/D) factor, where D is the number of channels. Experiments on CIFAR-10 and ImageNet classification show superior and comparable performances of WaveletNet compared to state-of-the-art models such as MobileNetV2.

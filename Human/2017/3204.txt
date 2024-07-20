@@ -1,0 +1,3 @@
+Sound and Automated Synthesis of Digital Stabilizing Controllers for Continuous Plants
+
+Modern control is implemented with digital microcontrollers, embedded within a dynamical plant that represents physical components. We present a new algorithm based on counter-example guided inductive synthesis that automates the design of digital controllers that are correct by construction. The synthesis result is sound with respect to the complete range of approximations, including time discretization, quantization effects, and finite-precision arithmetic and its rounding errors. We have implemented our new algorithm in a tool called DSSynth, and are able to automatically generate stable controllers for a set of intricate plant models taken from the literature within minutes.

@@ -1,0 +1,3 @@
+A Flexible Implementation of a Matrix Laurent Series-Based 16-Point Fast Fourier and Hartley Transforms
+
+This paper describes a flexible architecture for implementing a new fast computation of the discrete Fourier and Hartley transforms, which is based on a matrix Laurent series. The device calculates the transforms based on a single bit selection operator. The hardware structure and synthesis are presented, which handled a 16-point fast transform in 65 nsec, with a Xilinx SPARTAN 3E device.

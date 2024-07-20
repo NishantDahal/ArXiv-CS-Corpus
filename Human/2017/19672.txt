@@ -1,0 +1,3 @@
+The Completeness Problem for Modal Logic
+
+We introduce the completeness problem for Modal Logic and examine its complexity. For a definition of completeness for formulas, given a formula of a modal logic, the completeness problem asks whether the formula is complete for that logic. We discover that completeness and validity have the same complexity --- with certain exceptions for which there are, in general, no complete formulas. To prove upper bounds, we present a non-deterministic polynomial-time procedure with an oracle from PSPACE that combines tableaux and a test for bisimulation, and determines whether a formula is complete.

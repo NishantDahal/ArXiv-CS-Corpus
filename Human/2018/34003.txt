@@ -1,0 +1,3 @@
+Heuristics for Efficient Sparse Blind Source Separation
+
+Sparse Blind Source Separation (sparse BSS) is a key method to analyze multichannel data in fields ranging from medical imaging to astrophysics. However, since it relies on seeking the solution of a non-convex penalized matrix factorization problem, its performances largely depend on the optimization strategy. In this context, Proximal Alternating Linearized Minimization (PALM) has become a standard algorithm which, despite its theoretical grounding, generally provides poor practical separation results. In this work, we propose a novel strategy that combines a heuristic approach with PALM. We show its relevance on realistic astrophysical data.

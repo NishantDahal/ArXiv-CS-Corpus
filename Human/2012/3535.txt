@@ -1,0 +1,3 @@
+Constructing a Pseudorandom Generator Requires an Almost Linear Number of Calls
+
+We show that a black-box construction of a pseudorandom generator from a one-way function needs to make Omega(n/log(n)) calls to the underlying one-way function. The bound even holds if the one-way function is guaranteed to be regular. In this case it matches the best known construction due to Goldreich, Krawczyk, and Luby (SIAM J. Comp. 22, 1993), which uses O(n/log(n)) calls.

@@ -1,0 +1,3 @@
+Context-Free Session Types for Applied Pi-Calculus
+
+We present a binary session type system using context-free session types to a version of the applied pi-calculus of Abadi et. al. where only base terms, constants and channels can be sent. Session types resemble process terms from BPA and we use a version of bisimulation equivalence to characterize type equivalence. We present a quotiented type system defined on type equivalence classes for which type equivalence is built into the type system. Both type systems satisfy general soundness properties; this is established by an appeal to a generic session type system for psi-calculi.

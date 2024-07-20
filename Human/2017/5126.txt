@@ -1,0 +1,3 @@
+Centralized Network Utility Maximization over Aggregate Flows
+
+We study a network utility maximization (NUM) decomposition in which the set of flow rates is grouped by source-destination pairs. We develop theorems for both single-path and multipath cases, which relate an arbitrary NUM problem involving all flow rates to a simpler problem involving only the aggregate rates for each source-destination pair. The optimal aggregate flows are then apportioned among the constituent flows of each pair. This apportionment is simple for the case of $α$-fair utility functions. We also show how the decomposition can be implemented with the alternating direction method of multipliers (ADMM) algorithm.

@@ -1,0 +1,3 @@
+Efficient Model-Free Reinforcement Learning Using Gaussian Process
+
+Efficient Reinforcement Learning usually takes advantage of demonstration or good exploration strategy. By applying posterior sampling in model-free RL under the hypothesis of GP, we propose Gaussian Process Posterior Sampling Reinforcement Learning(GPPSTD) algorithm in continuous state space, giving theoretical justifications and empirical results. We also provide theoretical and empirical results that various demonstration could lower expected uncertainty and benefit posterior sampling exploration. In this way, we combined the demonstration and exploration process together to achieve a more efficient reinforcement learning.

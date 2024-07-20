@@ -1,0 +1,3 @@
+A Note on Semantics (with an Emphasis on UML)
+
+This note clarifies the concept of syntax and semantics and their relationships. Today, a lot of confusion arises from the fact that the word "semantics" is used in different meanings. We discuss a general approach at defining semantics that is feasible for both textual and diagrammatic notations and discuss this approach using an example formalization. The formalization of hierarchical Mealy automata and their semantics definition using input/output behaviors allows us to define a specification, as well as an implementation semantics. Finally, a classification of different approaches that fit in this framework is given. This classification may also serve as guideline when defining a semantics for a new language.

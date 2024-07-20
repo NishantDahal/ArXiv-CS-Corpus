@@ -1,0 +1,3 @@
+NQP_{C} = co-C_{=}P
+
+Adleman, DeMarrais, and Huang introduced the nondeterministic quantum polynomial-time complexity class NQP as an analogue of NP. Fortnow and Rogers implicitly showed that, when the amplitudes are rational numbers, NQP is contained in the complement of C_{=}P. Fenner, Green, Homer, and Pruim improved this result by showing that, when the amplitudes are arbitrary algebraic numbers, NQP coincides with co-C_{=}P. In this paper we prove that, even when the amplitudes are arbitrary complex numbers, NQP still remains identical to co-C_{=}P. As an immediate corollary, BQP differs from NQP when the amplitudes are unrestricted.

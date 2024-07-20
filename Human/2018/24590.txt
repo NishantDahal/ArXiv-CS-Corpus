@@ -1,0 +1,3 @@
+Predicting Blood Glucose with an LSTM and Bi-LSTM Based Deep Neural Network
+
+A deep learning network was used to predict future blood glucose levels, as this can permit diabetes patients to take action before imminent hyperglycaemia and hypoglycaemia. A sequential model with one long-short-term memory (LSTM) layer, one bidirectional LSTM layer and several fully connected layers was used to predict blood glucose levels for different prediction horizons. The method was trained and tested on 26 datasets from 20 real patients. The proposed network outperforms the baseline methods in terms of all evaluation criteria.

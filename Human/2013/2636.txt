@@ -1,0 +1,4 @@
+Proof nets and the call-by-value lambda-calculus
+
+This paper gives a detailed account of the relationship between (a variant of) the call-by-value lambda calculus and linear logic proof nets. The presentation is carefully tuned in order to realize a strong bisimulation between the two systems: every single rewriting step on the calculus maps to a single step on the nets, and viceversa. In this way, we obtain an algebraic reformulation of proof nets. Moreover, we provide a simple correctness criterion for our proof nets, which employ boxes in an unusual way.
+

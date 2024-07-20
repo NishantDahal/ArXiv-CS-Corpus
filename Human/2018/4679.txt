@@ -1,0 +1,3 @@
+Error Propagation Through a Network With Non-Uniform Failure
+
+A central concern of network operators is to estimate the probability of an incident that affects a significant part and thus may yield to a breakdown. We answer this question by modeling how a failure of either a node or an edge will affect the rest of the network using percolation theory. Our model is general in the sense that it only needs two inputs: the topology of the network and the chances of failure of its components. These chances may vary to represent different types of edges having different tendencies to fail. We illustrate the approach by an example, for which we can even obtain closed form expressions for the likelihood of an outbreak remaining bounded or spreading unlimitedly.

@@ -1,0 +1,3 @@
+A kernel-based approach to molecular conformation analysis
+
+We present a novel machine learning approach to understanding conformation dynamics of biomolecules. The approach combines kernel-based techniques that are popular in the machine learning community with transfer operator theory for analyzing dynamical systems in order to identify conformation dynamics based on molecular dynamics simulation data. We show that many of the prominent methods like Markov State Models, EDMD, and TICA can be regarded as special cases of this approach and that new efficient algorithms can be constructed based on this derivation. The results of these new powerful methods will be illustrated with several examples, in particular the alanine dipeptide and the protein NTL9.

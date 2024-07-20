@@ -1,0 +1,3 @@
+Estimating 3D Signals with Kalman Filter
+
+In this paper, the standard Kalman filter was implemented to denoise the three dimensional signals affected by additive white Gaussian noise (AWGN), we used fast algorithm based on Laplacian operator to measure the noise variance and a fast median filter to predict the state variable. The Kalman algorithm is modeled by adjusting its parameters for better performance in both filtering and in reducing the computational load while conserving the information contained in the signal

@@ -1,0 +1,3 @@
+A Platform for Automating Chaos Experiments
+
+The Netflix video streaming system is composed of many interacting services. In such a large system, failures in individual services are not uncommon. This paper describes the Chaos Automation Platform, a system for running failure injection experiments on the production system to verify that failures in non-critical services do not result in system outages.

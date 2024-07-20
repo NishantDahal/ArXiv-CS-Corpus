@@ -1,0 +1,3 @@
+Mapping polygons to the grid with small Hausdorff and Fréchet distance
+
+We show how to represent a simple polygon $P$ by a grid (pixel-based) polygon $Q$ that is simple and whose Hausdorff or Fréchet distance to $P$ is small. For any simple polygon $P$, a grid polygon exists with constant Hausdorff distance between their boundaries and their interiors. Moreover, we show that with a realistic input assumption we can also realize constant Fréchet distance between the boundaries. We present algorithms accompanying these constructions, heuristics to improve their output while keeping the distance bounds, and experiments to assess the output.

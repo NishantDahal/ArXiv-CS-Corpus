@@ -1,0 +1,3 @@
+Implementation of a Near-Optimal Complex Root Clustering Algorithm
+
+We describe Ccluster, a software for computing natural $ε$-clusters of complex roots in a given box of the complex plane. This algorithm from Becker et al.~(2016) is near-optimal when applied to the benchmark problem of isolating all complex roots of an integer polynomial. It is one of the first implementations of a near-optimal algorithm for complex roots. We describe some low level techniques for speeding up the algorithm. Its performance is compared with the well-known MPSolve library and Maple.

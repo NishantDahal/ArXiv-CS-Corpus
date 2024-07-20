@@ -1,0 +1,4 @@
+Memory Models for C/C++ Programmers
+
+The memory model is the crux of the concurrency semantics of shared-memory systems. It defines the possible values that a read operation is allowed to return for any given set of write operations performed by a concurrent program, thereby defining the basic semantics of shared variables. It is therefore impossible to meaningfully reason about a program or any part of the programming language implementation without an unambiguous memory model.
+  This note provides a brief introduction into the topic of memory models, explaining why it is essential for concurrent programs and covering well known memory models from sequential consistency to those of the x86 and ARM/POWER CPUs. Section 4 is fully dedicated to the C++11 memory model, explaining how it can be used to write concurrent code that is not only correct and portable, but also efficient by utilizing the relaxed memory models of modern architectures.

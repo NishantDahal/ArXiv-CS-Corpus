@@ -1,0 +1,3 @@
+Learning to generate classifiers
+
+We train a network to generate mappings between training sets and classification policies (a 'classifier generator') by conditioning on the entire training set via an attentional mechanism. The network is directly optimized for test set performance on an training set of related tasks, which is then transferred to unseen 'test' tasks. We use this to optimize for performance in the low-data and unsupervised learning regimes, and obtain significantly better performance in the 10-50 datapoint regime than support vector classifiers, random forests, XGBoost, and k-nearest neighbors on a range of small datasets.

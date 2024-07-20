@@ -1,0 +1,3 @@
+On-line tracing of XACML-based policy coverage criteria
+
+Currently, eXtensible Access Control Markup Language (XACML) has becoming the standard for implementing access control policies and consequently more attention is dedicated to testing the correctness of XACML policies. In particular, coverage measures can be adopted for assessing test strategy effectiveness in exercising the policy elements. This study introduces a set of XACML coverage criteria and describes the access control infrastructure, based on a monitor engine, enabling the coverage criterion selection and the on-line tracing of the testing activity. Examples of infrastructure usage and of assessment of different test strategies are provided.

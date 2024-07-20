@@ -1,0 +1,3 @@
+Polymorphic type inference for the relational algebra
+
+We give a polymorphic account of the relational algebra. We introduce a formalism of ``type formulas'' specifically tuned for relational algebra expressions, and present an algorithm that computes the ``principal'' type for a given expression. The principal type of an expression is a formula that specifies, in a clear and concise manner, all assignments of types (sets of attributes) to relation names, under which a given relational algebra expression is well-typed, as well as the output type that expression will have under each of these assignments. Topics discussed include complexity and polymorphic expressive power.

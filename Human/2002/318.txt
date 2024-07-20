@@ -1,0 +1,3 @@
+Moebius-Invariant Natural Neighbor Interpolation
+
+We propose an interpolation method that is invariant under Moebius transformations; that is, interpolation followed by transformation gives the same result as transformation followed by interpolation. The method uses natural (Delaunay) neighbors, but weights neighbors according to angles formed by Delaunay circles.

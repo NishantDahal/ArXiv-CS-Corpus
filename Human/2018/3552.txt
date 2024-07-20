@@ -1,0 +1,3 @@
+Towards A Systems Approach To Distributed Programming
+
+It is undeniable that most developers today are building distributed applications. However, most of these applications are developed by composing existing systems together through unspecified APIs exposed to the application developer. Systems are not going away: they solve a particular problem and most applications today need to rely on several of these systems working in concert. Given this, we propose a research direction where higher-level languages with well defined semantics target underlying systems infrastructure as a middle-ground.

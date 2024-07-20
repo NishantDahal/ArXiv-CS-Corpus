@@ -1,0 +1,3 @@
+Cache-Aware Lock-Free Concurrent Hash Tries
+
+This report describes an implementation of a non-blocking concurrent shared-memory hash trie based on single-word compare-and-swap instructions. Insert, lookup and remove operations modifying different parts of the hash trie can be run independent of each other and do not contend. Remove operations ensure that the unneeded memory is freed and that the trie is kept compact. A pseudocode for these operations is presented and a proof of correctness is given -- we show that the implementation is linearizable and lock-free. Finally, benchmarks are presented which compare concurrent hash trie operations against the corresponding operations on other concurrent data structures, showing their performance and scalability.

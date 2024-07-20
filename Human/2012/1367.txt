@@ -1,0 +1,3 @@
+An additivity theorem for plain Kolmogorov complexity
+
+We prove the formula C(a,b) = K(a|C(a,b)) + C(b|a,C(a,b)) + O(1) that expresses the plain complexity of a pair in terms of prefix and plain conditional complexities of its components.

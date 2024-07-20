@@ -1,0 +1,3 @@
+Contour Parametrization via Anisotropic Mean Curvature Flows
+
+We present a new implementation of anisotropic mean curvature flow for contour recognition. Our procedure couples the mean curvature flow of planar closed smooth curves, with an external field from a potential of point-wise charges. This coupling constrains the motion when the curve matches a picture placed as background. We include a stability criteria for our numerical approximation.

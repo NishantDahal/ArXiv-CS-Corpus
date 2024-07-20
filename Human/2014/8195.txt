@@ -1,0 +1,3 @@
+Statistical Study On The Number Of Injective Linear Finite Transducers
+
+The notion of linear finite transducer (LFT) plays a crucial role in some cryptographic systems. In this paper we present a way to get an approximate value, by random sampling, for the number of non-equivalent injective LFTs. By introducing a recurrence relation to count canonical LFTs, we show how to estimate the percentage of $τ$-injective LFTs. Several experimental results are presented, which by themselves constitute an important step towards the evaluation of the key space of those systems.

@@ -1,0 +1,4 @@
+"Birds in the Clouds": Adventures in Data Engineering
+
+Leveraging their eBird crowdsourcing project, the Cornell Lab of Ornithology generates sophisticated Spatio-Temporal Exploratory Model (STEM) maps of bird migrations. Such maps are highly relevant for both scientific and educational purposes, but creating them requires advanced modeling techniques that rely on long and potentially expensive computations.
+  In this paper, we share our experience porting the eBird STEM data pipeline from a physical cluster to the cloud, providing a seamless deployment at a lower cost. Using open source tools and cloud "marketplaces", we managed to divide the operating costs by a factor of 6, making it possible to scale our pipeline on a research budget.

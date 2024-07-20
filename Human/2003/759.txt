@@ -1,0 +1,3 @@
+Using virtual processors for SPMD parallel programs
+
+In this paper I describe some results on the use of virtual processors technology for parallelize some SPMD computational programs. The tested technology is the INTEL Hyper Threading on real processors, and the programs are MATLAB scripts for floating points computation. The conclusions of the work concern on the utility and limits of the used approach. The main result is that using virtual processors is a good technique for improving parallel programs not only for memory-based computations, but in the case of massive disk-storage operations too.

@@ -1,0 +1,9 @@
+Compressed Matrix Multiplication
+
+Motivated by the problems of computing sample covariance matrices, and of transforming a collection of vectors to a basis where they are sparse, we present a simple algorithm that computes an approximation of the product of two n-by-n real matrices A and B. Let ||AB||_F denote the Frobenius norm of AB, and b be a parameter determining the time/accuracy trade-off. Given 2-wise independent hash functions $_1,h_2: [n] -> [b], and s_1,s_2: [n] -> {-1,+1} the algorithm works by first "compressing" the matrix product into the polynomial
+p(x) = sum_{k=1}^n (sum_{i=1}^n A_{ik} s_1(i) x^{h_1(i)}) (sum_{j=1}^n B_{kj} s_2(j) x^{h_2(j)})
+  Using FFT for polynomial multiplication, we can compute c_0,...,c_{b-1} such that sum_i c_i x^i = (p(x) mod x^b) + (p(x) div x^b) in time Õ(n^2+ n b).
+  An unbiased estimator of (AB)_{ij} with variance at most ||AB||_F^2 / b can then be computed as:
+  C_{ij} = s_1(i) s_2(j) c_{(h_1(i)+h_2(j)) mod b.
+  Our approach also leads to an algorithm for computing AB exactly, whp., in time Õ(N + nb) in the case where A and B have at most N nonzero entries, and AB has at most b nonzero entries.
+  Also, we use error-correcting codes in a novel way to recover significant entries of AB in near-linear time.

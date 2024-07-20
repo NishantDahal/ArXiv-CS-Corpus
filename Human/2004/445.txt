@@ -1,0 +1,3 @@
+On the Complexity of Case-Based Planning
+
+We analyze the computational complexity of problems related to case-based planning: planning when a plan for a similar instance is known, and planning from a library of plans. We prove that planning from a single case has the same complexity than generative planning (i.e., planning "from scratch"); using an extended definition of cases, complexity is reduced if the domain stored in the case is similar to the one to search plans for. Planning from a library of cases is shown to have the same complexity. In both cases, the complexity of planning remains, in the worst case, PSPACE-complete.

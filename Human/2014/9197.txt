@@ -1,0 +1,3 @@
+Maximum ATSP with Weights Zero and One via Half-Edges
+
+We present a fast combinatorial $3/4$-approximation algorithm for the maximum asymmetric TSP with weights zero and one. The approximation factor of this algorithm matches the currently best one given by Bläser in 2004 and based on linear programming. Our algorithm first computes a maximum size matching and a maximum weight cycle cover without certain cycles of length two but possibly with {\em half-edges} - a half-edge of a given edge $e$ is informally speaking a half of $e$ that contains one of the endpoints of $e$. Then from the computed matching and cycle cover it extracts a set of paths, whose weight is large enough to be able to construct a traveling salesman tour with the claimed guarantee.

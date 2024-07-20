@@ -1,0 +1,3 @@
+On path-based coalgebras and weak notions of bisimulation
+
+It is well known that the theory of coalgebras provides an abstract definition of behavioural equivalence that coincides with strong bisimulation across a wide variety of state-based systems. Unfortunately, the theory in the presence of so-called silent actions is not yet fully developed. In this paper, we give a coalgebraic characterisation of branching bisimulation in the context of labelled transition systems and fully probabilistic systems. It is shown that recording executions (up to a notion of stuttering), rather than the set of successor states, from a state is sufficient to characterise branching bisimulation in both cases.

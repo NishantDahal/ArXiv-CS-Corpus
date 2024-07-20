@@ -1,0 +1,3 @@
+Don't sit on the fence: A static analysis approach to automatic fence insertion
+
+Modern architectures rely on memory fences to prevent undesired weakenings of memory consistency. As the fences' semantics may be subtle, the automation of their placement is highly desirable. But precise methods for restoring consistency do not scale to deployed systems code. We choose to trade some precision for genuine scalability: our technique is suitable for large code bases. We implement it in our new musketeer tool, and detail experiments on more than 350 executables of packages found in Debian Linux 7.1, e.g. memcached (about 10000 LoC).

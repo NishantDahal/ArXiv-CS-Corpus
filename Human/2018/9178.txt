@@ -1,0 +1,3 @@
+Definite Sums as Solutions of Linear Recurrences With Polynomial Coefficients
+
+We present an algorithm which, given a linear recurrence operator $L$ with polynomial coefficients, $m \in \mathbb{N}\setminus\{0\}$, $a_1,a_2,\ldots,a_m \in \mathbb{N}\setminus\{0\}$ and $b_1,b_2,\ldots,b_m \in \mathbb{K}$, returns a linear recurrence operator $L'$ with rational coefficients such that for every sequence $h$, \[ L\left(\sum_{k=0}^\infty \prod_{i=1}^m \binom{a_i n + b_i}{k} h_k\right) = 0 \] if and only if $L' h = 0$.

@@ -1,0 +1,4 @@
+Gray codes and Enumerative Coding for vector spaces
+
+Gray codes for vector spaces are considered in two graphs: the Grassmann graph, and the projective-space graph, both of which have recently found applications in network coding. For the Grassmann graph, constructions of cyclic optimal codes are given for all parameters. As for the projective-space graph, two constructions for specific parameters are provided, as well some non-existence results.
+  Furthermore, encoding and decoding algorithms are given for the Grassmannian Gray code, which induce an enumerative-coding scheme. The computational complexity of the algorithms is at least as low as known schemes, and for certain parameter ranges, the new scheme outperforms previously-known ones.

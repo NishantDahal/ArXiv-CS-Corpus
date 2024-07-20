@@ -1,0 +1,3 @@
+Testing Piecewise Functions
+
+This work explores the query complexity of property testing for general piecewise functions on the real line, in the active and passive property testing settings. The results are proven under an abstract zero-measure crossings condition, which has as special cases piecewise constant functions and piecewise polynomial functions. We find that, in the active testing setting, the query complexity of testing general piecewise functions is independent of the number of pieces. We also identify the optimal dependence on the number of pieces in the query complexity of passive testing in the special case of piecewise constant functions.

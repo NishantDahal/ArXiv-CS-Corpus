@@ -1,0 +1,3 @@
+A branch-and-bound algorithm for the minimum radius $k$-enclosing ball problem
+
+The minimum $k$-enclosing ball problem seeks the ball with smallest radius that contains at least~$k$ of~$m$ given points in a general $n$-dimensional Euclidean space. This problem is NP-hard. We present a branch-and-bound algorithm on the tree of the subsets of~$k$ points to solve this problem. The nodes on the tree are ordered in a suitable way, which, complemented with a last-in-first-out search strategy, allows for only a small fraction of nodes to be explored. Additionally, an efficient dual algorithm to solve the subproblems at each node is employed.

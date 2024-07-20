@@ -1,0 +1,3 @@
+Computing explicit isomorphisms with full matrix algebras over $\mathbb{F}_q(x)$
+
+We propose a polynomial time $f$-algorithm (a deterministic algorithm which uses an oracle for factoring univariate polynomials over $\mathbb{F}_q$) for computing an isomorphism (if there is any) of a finite dimensional $\mathbb{F}_q(x)$-algebra $A$ given by structure constants with the algebra of $n$ by $n$ matrices with entries from $\mathbb{F}_q(x)$. The method is based on computing a finite $\mathbb{F}_q$-subalgebra of $A$ which is the intersection of a maximal $\mathbb{F}_q[x]$-order and a maximal $R$-order, where $R$ is the subring of $\mathbb{F}_q(x)$ consisting of fractions of polynomials with denominator having degree not less than that of the numerator.

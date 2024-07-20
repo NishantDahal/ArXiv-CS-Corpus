@@ -1,0 +1,3 @@
+Non-Gaussian Scale Space Filtering with 2 by 2 Matrix of Linear Filters
+
+Construction of a scale space with a convolution filter has been studied extensively in the past. It has been proven that the only convolution kernel that satisfies the scale space requirements is a Gaussian type. In this paper, we consider a matrix of convolution filters introduced in [1] as a building kernel for a scale space, and shows that we can construct a non-Gaussian scale space with a $2\times 2$ matrix of filters. The paper derives sufficient conditions for the matrix of filters for being a scale space kernel, and present some numerical demonstrations.

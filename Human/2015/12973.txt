@@ -1,0 +1,3 @@
+An Asynchronous Implementation of the Limited Memory CMA-ES
+
+We present our asynchronous implementation of the LM-CMA-ES algorithm, which is a modern evolution strategy for solving complex large-scale continuous optimization problems. Our implementation brings the best results when the number of cores is relatively high and the computational complexity of the fitness function is also high. The experiments with benchmark functions show that it is able to overcome its origin on the Sphere function, reaches certain thresholds faster on the Rosenbrock and Ellipsoid function, and surprisingly performs much better than the original version on the Rastrigin function.

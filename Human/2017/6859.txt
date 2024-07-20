@@ -1,0 +1,4 @@
+Phase Retrieval via Sparse Wirtinger Flow
+
+Phase retrieval(PR) problem is a kind of ill-condition inverse problem which can be found in various of applications. Utilizing the sparse priority, an algorithm called SWF(Sparse Wirtinger Flow) is proposed in this paper to deal with sparse PR problem based on the Wirtinger flow method. SWF firstly recovers the support of the signal and then updates the evaluation by hard thresholding method with an elaborate initialization. Theoretical analyses show that SWF has a geometric convergence for any $k$ sparse $n$ length signal with the sampling complexity $\mathcal{O}(k^2\mathrm{log}n)$. To get $\varepsilon$ accuracy, the computational complexity of SWF is $\mathcal{O}(k^3n\mathrm{log}n\mathrm{log}\frac{1}{\varepsilon})$.
+  Numerical tests also demonstrate that SWF performs better than state-of-the-art methods especially when we have no priori knowledge about sparsity $k$. Moreover, SWF is also robust to the noise

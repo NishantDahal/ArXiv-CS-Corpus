@@ -1,0 +1,3 @@
+Specifying Graph Languages with Type Graphs
+
+We investigate three formalisms to specify graph languages, i.e. sets of graphs, based on type graphs. First, we are interested in (pure) type graphs, where the corresponding language consists of all graphs that can be mapped homomorphically to a given type graph. In this context, we also study languages specified by restriction graphs and their relation to type graphs. Second, we extend this basic approach to a type graph logic and, third, to type graphs with annotations. We present decidability results and closure properties for each of the formalisms.

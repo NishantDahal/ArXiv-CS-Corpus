@@ -1,0 +1,3 @@
+Towards a Framework for Behavioral Specifications of OSGi Components
+
+We present work on behavioral specifications of OSGi components. Our behavioral specifications are based on finite automata like formalisms. Behavioral specifications can be used to  find appropriate components to interact with, detect incompatibilities between communication protocols of components and potential problems resulting from the interplay of non-deterministic component specifications. These operations can be carried out during development and at runtime of a system. Furthermore, we describe work carried out using the Eclipse based implementation of our framework.

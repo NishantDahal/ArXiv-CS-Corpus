@@ -1,0 +1,4 @@
+Circuit Complexity of Bounded Planar Cutwidth Graph Matching
+
+Recently, perfect matching in bounded planar cutwidth bipartite graphs (\BGGM) was shown to be in ACC$^0$ by Hansen et al.. They also conjectured that the problem is in AC$^0$.
+  In this paper, we disprove their conjecture by showing that the problem is not in AC$^0[p^α]$ for every prime $p$. Our results show that the previous upper bound is almost tight. Our techniques involve giving a reduction from Parity to BGGM. A further improvement in lower bounds is difficult since we do not have an algebraic characterization for AC$^0[m]$ where $m$ is not a prime power. Moreover, this will also imply a separation of AC$^0[m]$ from P. Our results also imply a better lower bound for perfect matching in general bounded planar cutwidth graphs.

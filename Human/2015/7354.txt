@@ -1,0 +1,3 @@
+OMP2HMPP: Compiler Framework for Energy Performance Trade-off Analysis of Automatically Generated Codes
+
+We present OMP2HMPP, a tool that, in a first step, automatically translates OpenMP code into various possible transformations of HMPP. In a second step OMP2HMPP executes all variants to obtain the performance and power consumption of each transformation. The resulting trade-off can be used to choose the more convenient version. After running the tool on a set of codes from the Polybench benchmark we show that the best automatic transformation is equivalent to a manual one done by an expert. Compared with original OpenMP code running in 2 quad-core processors we obtain an average speed-up of 31x and 5.86x factor in operations per watt.

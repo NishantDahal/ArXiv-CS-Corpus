@@ -1,0 +1,3 @@
+LP-Based Robust Algorithms for Noisy Minor-Free and Bounded Treewidth Graphs
+
+We give a general approach for solving optimization problems on noisy minor free graphs, where a δ-fraction of edges and vertices are adversarially corrupted. The noisy setting was first considered by Magen and Moharrami and they gave a (1 + δ)-estimation algorithm for the independent set problem. Later, Chan and Har-Peled designed a local search algorithm that finds a (1 + O(δ))-approximate independent set. However, nothing was known regarding other problems in the noisy setting. Our main contribution is a general LP-based framework that yields a (1 + O(δlog m log log m))-approximation algorithm for noisy MAX-k-CSPs on m clauses.

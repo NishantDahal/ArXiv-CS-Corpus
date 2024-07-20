@@ -1,0 +1,4 @@
+Human Action Recognition without Human
+
+The objective of this paper is to evaluate "human action recognition without human". Motion representation is frequently discussed in human action recognition. We have examined several sophisticated options, such as dense trajectories (DT) and the two-stream convolutional neural network (CNN). However, some features from the background could be too strong, as shown in some recent studies on human action recognition. Therefore, we considered whether a background sequence alone can classify human actions in current large-scale action datasets (e.g., UCF101).
+  In this paper, we propose a novel concept for human action analysis that is named "human action recognition without human". An experiment clearly shows the effect of a background sequence for understanding an action label.

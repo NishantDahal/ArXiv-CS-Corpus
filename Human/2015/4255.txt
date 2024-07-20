@@ -1,0 +1,3 @@
+On the Oblivious Transfer Capacity of the Degraded Wiretapped Binary Erasure Channel
+
+We study oblivious transfer (OT) between Alice and Bob in the presence of an eavesdropper Eve over a degraded wiretapped binary erasure channel from Alice to Bob and Eve. In addition to the privacy goals of oblivious transfer between Alice and Bob, we require privacy of Alice and Bob's private data from Eve. In previous work we derived the OT capacity (in the honest-but-curious model) of the wiretapped binary independent erasure channel where the erasure processes of Bob and Eve are independent. Here we derive a lower bound on the OT capacity in the same secrecy model when the wiretapped binary erasure channel is degraded in favour of Bob.

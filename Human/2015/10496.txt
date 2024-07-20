@@ -1,0 +1,3 @@
+Proposal for Quantum Rational Secret Sharing
+
+A rational secret sharing scheme is a game in which each party responsible for reconstructing a secret tries to maximize his utility by obtaining the secret alone. Quantum secret sharing schemes, either derived from quantum teleportation or from quantum error correcting code, do not succeed when we assume rational participants. This is because all existing quantum secret sharing schemes consider that the secret is reconstructed by a party chosen by the dealer. In this paper, for the first time, we propose a quantum secret sharing scheme which is resistant to rational parties. The proposed scheme is fair (everyone gets the secret), correct and achieves strict Nash equilibrium.

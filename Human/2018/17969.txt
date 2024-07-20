@@ -1,0 +1,3 @@
+Quantified boolean formula problem
+
+This paper is devoted to the complexity of the quantified boolean formula problem. We describe a simple deterministic algorithm that, for a given quantified boolean formula $F$, stops in time bounded by $O(|F|^4)$ and answers yes if $F$ is true and no otherwise.

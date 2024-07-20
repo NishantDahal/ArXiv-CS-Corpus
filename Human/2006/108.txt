@@ -1,0 +1,3 @@
+Modularizing the Elimination of r=0 in Kleene Algebra
+
+Given a universal Horn formula of Kleene algebra with hypotheses of the form r = 0, it is already known that we can efficiently construct an equation which is valid if and only if the Horn formula is valid. This is an example of <i>elimination of hypotheses</i>, which is useful because the equational theory of Kleene algebra is decidable while the universal Horn theory is not. We show that hypotheses of the form r = 0 can still be eliminated in the presence of other hypotheses. This lets us extend any technique for eliminating hypotheses to include hypotheses of the form r = 0.

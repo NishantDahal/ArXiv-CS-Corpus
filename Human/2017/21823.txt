@@ -1,0 +1,3 @@
+The AV1 Constrained Directional Enhancement Filter (CDEF)
+
+This paper presents the constrained directional enhancement filter designed for the AV1 royalty-free video codec. The in-loop filter is based on a non-linear low-pass filter and is designed for vectorization efficiency. It takes into account the direction of edges and patterns being filtered. The filter works by identifying the direction of each block and then adaptively filtering with a high degree of control over the filter strength along the direction and across it. The proposed enhancement filter is shown to improve the quality of the Alliance for Open Media (AOM) AV1 and Thor video codecs in particular in low complexity configurations.

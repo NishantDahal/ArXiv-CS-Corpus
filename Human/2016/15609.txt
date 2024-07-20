@@ -1,0 +1,3 @@
+Partitioning Trillion-edge Graphs in Minutes
+
+We introduce XtraPuLP, a new distributed-memory graph partitioner designed to process trillion-edge graphs. XtraPuLP is based on the scalable label propagation community detection technique, which has been demonstrated as a viable means to produce high quality partitions with minimal computation time. On a collection of large sparse graphs, we show that XtraPuLP partitioning quality is comparable to state-of-the-art partitioning methods. We also demonstrate that XtraPuLP can produce partitions of real-world graphs with billion+ vertices in minutes. Further, we show that using XtraPuLP partitions for distributed-memory graph analytics leads to significant end-to-end execution time reduction.

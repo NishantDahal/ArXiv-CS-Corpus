@@ -1,0 +1,3 @@
+A Bayesian approach to type-specific conic fitting
+
+A perturbative approach is used to quantify the effect of noise in data points on fitted parameters in a general homogeneous linear model, and the results applied to the case of conic sections. There is an optimal choice of normalisation that minimises bias, and iteration with the correct reweighting significantly improves statistical reliability. By conditioning on an appropriate prior, an unbiased type-specific fit can be obtained. Error estimates for the conic coefficients may also be used to obtain both bias corrections and confidence intervals for other curve parameters.

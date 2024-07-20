@@ -1,0 +1,3 @@
+Complexity Measures for Map-Reduce, and Comparison to Parallel Computing
+
+The programming paradigm Map-Reduce and its main open-source implementation, Hadoop, have had an enormous impact on large scale data processing. Our goal in this expository writeup is two-fold: first, we want to present some complexity measures that allow us to talk about Map-Reduce algorithms formally, and second, we want to point out why this model is actually different from other models of parallel programming, most notably the PRAM (Parallel Random Access Memory) model. We are looking for complexity measures that are detailed enough to make fine-grained distinction between different algorithms, but which also abstract away many of the implementation details.

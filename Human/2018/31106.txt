@@ -1,0 +1,4 @@
+You Only Live Multiple Times: A Blackbox Solution for Reusing Crash-Stop Algorithms In Realistic Crash-Recovery Settings
+
+Distributed agreement-based algorithms are often specified in a crash-stop asynchronous model augmented by Chandra and Toueg's unreliable failure detectors. In such models, correct nodes stay up forever, incorrect nodes eventually crash and remain down forever, and failure detectors behave correctly forever eventually, However, in reality, nodes as well as communication links both crash and recover without deterministic guarantees to remain in some state forever.
+  In this paper, we capture this realistic temporary and probabilitic behaviour in a simple new system model. Moreover, we identify a large algorithm class for which we devis a property-preserving transformation. Using this transformation, many algorithms written for the asynchronous crash-stop model run correctly and unchanged in real systems.

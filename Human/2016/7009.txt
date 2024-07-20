@@ -1,0 +1,3 @@
+Searching Lattice Data Structures of Varying Degrees of Sortedness
+
+Lattice data structures are space efficient and cache-suitable data structures. The basic searching, insertion, and deletion operations are of time complexity $O(\sqrt{N})$. We give a jump searching algorithm of time complexity $O(J(L)\log(N))$, where $J(L)$ is the jump factor of the lattice. $J(L)$ approaches $4$ when the degree of sortedness of the lattice approaches $\sqrt{N}$. A sorting procedure of time complexity $O(\sqrt{N})$ that can be used, during the system idle time, to increase the degree of sortedness of the lattice is given.

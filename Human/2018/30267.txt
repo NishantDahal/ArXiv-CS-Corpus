@@ -1,0 +1,3 @@
+Distributed Gradient Descent with Coded Partial Gradient Computations
+
+Coded computation techniques provide robustness against straggling servers in distributed computing, with the following limitations: First, they increase decoding complexity. Second, they ignore computations carried out by straggling servers; and they are typically designed to recover the full gradient, and thus, cannot provide a balance between the accuracy of the gradient and per-iteration completion time. Here we introduce a hybrid approach, called coded partial gradient computation (CPGC), that benefits from the advantages of both coded and uncoded computation schemes, and reduces both the computation time and decoding complexity.

@@ -1,0 +1,3 @@
+The Nearest Neighbor Information Estimator is Adaptively Near Minimax Rate-Optimal
+
+We analyze the Kozachenko--Leonenko (KL) nearest neighbor estimator for the differential entropy. We obtain the first uniform upper bound on its performance over Hölder balls on a torus without assuming any conditions on how close the density could be from zero. Accompanying a new minimax lower bound over the Hölder ball, we show that the KL estimator is achieving the minimax rates up to logarithmic factors without cognizance of the smoothness parameter $s$ of the Hölder ball for $s\in (0,2]$ and arbitrary dimension $d$, rendering it the first estimator that provably satisfies this property.

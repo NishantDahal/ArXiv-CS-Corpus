@@ -1,0 +1,3 @@
+Finding Connected Dense $k$-Subgraphs
+
+Given a connected graph $G$ on $n$ vertices and a positive integer $k\le n$, a subgraph of $G$ on $k$ vertices is called a $k$-subgraph in $G$. We design combinatorial approximation algorithms for finding a connected $k$-subgraph in $G$ such that its density is at least a factor $Ω(\max\{n^{-2/5},k^2/n^2\})$ of the density of the densest $k$-subgraph in $G$ (which is not necessarily connected). These particularly provide the first non-trivial approximations for the densest connected $k$-subgraph problem on general graphs.

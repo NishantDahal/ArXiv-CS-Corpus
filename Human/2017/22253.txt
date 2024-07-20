@@ -1,0 +1,3 @@
+Total Haskell is Reasonable Coq
+
+We would like to use the Coq proof assistant to mechanically verify properties of Haskell programs. To that end, we present a tool, named hs-to-coq, that translates total Haskell programs into Coq programs via a shallow embedding. We apply our tool in three case studies -- a lawful Monad instance, "Hutton's razor", and an existing data structure library -- and prove their correctness. These examples show that this approach is viable: both that hs-to-coq applies to existing Haskell code, and that the output it produces is amenable to verification.

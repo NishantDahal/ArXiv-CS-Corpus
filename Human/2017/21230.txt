@@ -1,0 +1,3 @@
+libact: Pool-based Active Learning in Python
+
+libact is a Python package designed to make active learning easier for general users. The package not only implements several popular active learning strategies, but also features the active-learning-by-learning meta-algorithm that assists the users to automatically select the best strategy on the fly. Furthermore, the package provides a unified interface for implementing more strategies, models and application-specific labelers. The package is open-source on Github, and can be easily installed from Python Package Index repository.

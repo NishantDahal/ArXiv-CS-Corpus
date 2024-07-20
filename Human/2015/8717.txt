@@ -1,0 +1,3 @@
+An efficient tree decomposition method for permanents and mixed discriminants
+
+We present an efficient algorithm to compute permanents, mixed discriminants and hyperdeterminants of structured matrices and multidimensional arrays (tensors). We describe the sparsity structure of an array in terms of a graph, and we assume that its treewidth, denoted as $ω$, is small. Our algorithm requires $O(n 2^ω)$ arithmetic operations to compute permanents, and $O(n^2 + n 3^ω)$ for mixed discriminants and hyperdeterminants. We finally show that mixed volume computation continues to be hard under bounded treewidth assumptions.

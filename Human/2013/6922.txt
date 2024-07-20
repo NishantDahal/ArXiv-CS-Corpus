@@ -1,0 +1,3 @@
+Towards a General Framework for Formal Reasoning about Java Bytecode Transformation
+
+Program transformation has gained a wide interest since it is used for several purposes: altering semantics of a program, adding features to a program or performing optimizations. In this paper we focus on program transformations at the bytecode level. Because these transformations may introduce errors, our goal is to provide a formal way to verify the update and establish its correctness. The formal framework presented includes a definition of a formal semantics of updates which is the base of a static verification and a scheme based on Hoare triples and weakest precondition calculus to reason about behavioral aspects in bytecode transformation

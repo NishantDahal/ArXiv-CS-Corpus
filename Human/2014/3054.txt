@@ -1,0 +1,3 @@
+Phase Retrieval using Lipschitz Continuous Maps
+
+In this note we prove that reconstruction from magnitudes of frame coefficients (the so called "phase retrieval problem") can be performed using Lipschitz continuous maps. Specifically we show that when the nonlinear analysis map $α:{\mathcal H}\rightarrow\mathbb{R}^m$ is injective, with $(α(x))_k=|<x,f_k>|^2$, where $\{f_1,\ldots,f_m\}$ is a frame for the Hilbert space ${\mathcal H}$, then there exists a left inverse map $ω:\mathbb{R}^m\rightarrow {\mathcal H}$ that is Lipschitz continuous. Additionally we obtain the Lipschitz constant of this inverse map in terms of the lower Lipschitz constant of $α$. Surprisingly the increase in Lipschitz constant is independent of the space dimension or frame redundancy.

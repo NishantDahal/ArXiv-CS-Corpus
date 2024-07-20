@@ -1,0 +1,6 @@
+Knowledge Engineering for Hybrid Deductive Databases
+
+Modern knowledge base systems frequently need to combine a collection of databases in different formats: e.g., relational databases, XML databases, rule bases, ontologies, etc. In the deductive database system DDBASE, we can manage these different formats of knowledge and reason about them. Even the file systems on different computers can be part of the knowledge base. Often, it is necessary to handle different versions of a knowledge base. E.g., we might want to find out common parts or differences of two versions of a relational database.
+  We will examine the use of abstractions of rule bases by predicate dependency and rule predicate graphs. Also the proof trees of derived atoms can help to compare different versions of a rule base. Moreover, it might be possible to have derivations joining rules with other formalisms of knowledge representation.
+  Ontologies have shown their benefits in many applications of intelligent systems, and there have been many proposals for rule languages compatible with the semantic web stack, e.g., SWRL, the semantic web rule language. Recently, ontologies are used in hybrid systems for specifying the provenance of the different components.
+

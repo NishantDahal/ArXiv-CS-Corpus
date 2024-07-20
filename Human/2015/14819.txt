@@ -1,0 +1,3 @@
+A Sparse and Adaptive Prior for Time-Dependent Model Parameters
+
+We consider the scenario where the parameters of a probabilistic model are expected to vary over time. We construct a novel prior distribution that promotes sparsity and adapts the strength of correlation between parameters at successive timesteps, based on the data. We derive approximate variational inference procedures for learning and prediction with this prior. We test the approach on two tasks: forecasting financial quantities from relevant text, and modeling language contingent on time-varying financial measurements.

@@ -1,0 +1,7 @@
+Revisiting Matrix Product on Master-Worker Platforms
+
+This paper is aimed at designing efficient parallel matrix-product algorithms for heterogeneous master-worker platforms. While matrix-product is well-understood for homogeneous 2D-arrays of processors (e.g., Cannon algorithm and ScaLAPACK outer product algorithm), there are three key hypotheses that render our work original and innovative:
+  - Centralized data. We assume that all matrix files originate from, and must be returned to, the master.
+  - Heterogeneous star-shaped platforms. We target fully heterogeneous platforms, where computational resources have different computing powers.
+  - Limited memory. Because we investigate the parallelization of large problems, we cannot assume that full matrix panels can be stored in the worker memories and re-used for subsequent updates (as in ScaLAPACK).
+  We have devised efficient algorithms for resource selection (deciding which workers to enroll) and communication ordering (both for input and result messages), and we report a set of numerical experiments on various platforms at Ecole Normale Superieure de Lyon and the University of Tennessee. However, we point out that in this first version of the report, experiments are limited to homogeneous platforms.

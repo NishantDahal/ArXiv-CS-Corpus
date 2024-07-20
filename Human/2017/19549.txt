@@ -1,0 +1,3 @@
+Phase transitions in Restricted Boltzmann Machines with generic priors
+
+We study Generalised Restricted Boltzmann Machines with generic priors for units and weights, interpolating between Boolean and Gaussian variables. We present a complete analysis of the replica symmetric phase diagram of these systems, which can be regarded as Generalised Hopfield models. We underline the role of the retrieval phase for both inference and learning processes and we show that retrieval is robust for a large class of weight and unit priors, beyond the standard Hopfield scenario. Furthermore we show how the paramagnetic phase boundary is directly related to the optimal size of the training set necessary for good generalisation in a teacher-student scenario of unsupervised learning.

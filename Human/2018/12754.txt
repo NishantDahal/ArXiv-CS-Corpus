@@ -1,0 +1,5 @@
+Online and Offline Analysis of Streaming Data
+
+Online and offline analytics have been traditionally treated separately in software architecture design, and there is no existing general architecture that can support both. Our objective is to go beyond and introduce a scalable and maintainable architecture for performing online as well as offline analysis of streaming data.
+  In this paper, we propose a 7-layered architecture utilising microservices, publish-subscribe pattern, and persistent storage. The architecture ensures high cohesion, low coupling, and asynchronous communication between the layers, thus yielding a scalable and maintainable solution.
+  This design can help practitioners to engage their online and offline use cases in one single architecture, and also is of interest to academics, as it is a building block for a general architecture supporting data analysis.

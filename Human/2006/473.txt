@@ -1,0 +1,3 @@
+Derivatives of Entropy Rate in Special Families of Hidden Markov Chains
+
+Consider a hidden Markov chain obtained as the observation process of an ordinary Markov chain corrupted by noise. Zuk, et. al. [13], [14] showed how, in principle, one can explicitly compute the derivatives of the entropy rate of at extreme values of the noise. Namely, they showed that the derivatives of standard upper approximations to the entropy rate actually stabilize at an explicit finite time. We generalize this result to a natural class of hidden Markov chains called ``Black Holes.'' We also discuss in depth special cases of binary Markov chains observed in binary symmetric noise, and give an abstract formula for the first derivative in terms of a measure on the simplex due to Blackwell.

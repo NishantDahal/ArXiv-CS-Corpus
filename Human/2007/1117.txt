@@ -1,0 +1,3 @@
+Why neighbor-joining works
+
+We show that the neighbor-joining algorithm is a robust quartet method for constructing trees from distances. This leads to a new performance guarantee that contains Atteson's optimal radius bound as a special case and explains many cases where neighbor-joining is successful even when Atteson's criterion is not satisfied. We also provide a proof for Atteson's conjecture on the optimal edge radius of the neighbor-joining algorithm. The strong performance guarantees we provide also hold for the quadratic time fast neighbor-joining algorithm, thus providing a theoretical basis for inferring very large phylogenies with neighbor-joining.

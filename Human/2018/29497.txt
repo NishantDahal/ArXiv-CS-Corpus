@@ -1,0 +1,3 @@
+Fourier 1-norm and quantum speed-up
+
+Understanding quantum speed-up over classical computing is fundamental for the development of efficient quantum algorithms. In this paper, we study such problem within the framework of the Quantum Query Model, which represents the probability of output $x \in \{0,1\}^n$ as a function $π(x)$. We present a classical simulation for output probabilities $π$, whose error depends on the Fourier $1$-norm of $π$. Such dependence implies upper-bounds for the quotient between the number of queries applied by an optimal classical algorithm and our quantum algorithm, respectively. These upper-bounds show a strong relation between Fourier $1$-norm and quantum parallelism. We show applications to query complexity.

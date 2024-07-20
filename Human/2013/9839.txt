@@ -1,0 +1,5 @@
+A note on order-type homogeneous point sets
+
+Let OT_d(n) be the smallest integer N such that every N-element point sequence in R^d in general position contains an order-type homogeneous subset of size n, where a set is order-type homogeneous if all (d+1)-tuples from this set have the same orientation. It is known that a point sequence in R^d that is order-type homogeneous forms the vertex set of a convex polytope that is combinatorially equivalent to a cyclic polytope in R^d. Two famous theorems of Erdos and Szekeres from 1935 imply that OT_1(n) = Theta(n^2) and OT_2(n) = 2^(Theta(n)). For d \geq 3, we give new bounds for OT_d(n). In particular:
+  1. We show that OT_3(n) = 2^(2^(Theta(n))), answering a question of Eliáš and Matoušek.
+  2. For d \geq 4, we show that OT_d(n) is bounded above by an exponential tower of height d with O(n) in the topmost exponent.

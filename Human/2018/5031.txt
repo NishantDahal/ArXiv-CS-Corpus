@@ -1,0 +1,3 @@
+Modeling a Cache Coherence Protocol with the Guarded Action Language
+
+We present a formal model built for verification of the hardware Tera-Scale ARchitecture (TSAR), focusing on its Distributed Hybrid Cache Coherence Protocol (DHCCP). This protocol is by nature asynchronous, concurrent and distributed, which makes classical validation of the design (e.g. through testing) difficult. We therefore applied formal methods to prove essential properties of the protocol, such as absence of deadlocks, eventual consensus, and fairness.

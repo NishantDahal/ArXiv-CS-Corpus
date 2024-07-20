@@ -1,0 +1,3 @@
+ALPINE: Anytime Mining with Definite Guarantees
+
+ALPINE is to our knowledge the first anytime algorithm to mine frequent itemsets and closed frequent itemsets. It guarantees that all itemsets with support exceeding the current checkpoint's support have been found before it proceeds further. Thus, it is very attractive for extremely long mining tasks with very high dimensional data (for example in genetics) because it can offer intermediate meaningful and complete results. This ANYTIME feature is the most important contribution of ALPINE, which is also fast but not necessarily the fastest algorithm around. Another critical advantage of ALPINE is that it does not require the apriori decided minimum support value.

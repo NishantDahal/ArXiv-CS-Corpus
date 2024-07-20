@@ -1,0 +1,3 @@
+Faster sparse interpolation of straight-line programs
+
+We give a new probabilistic algorithm for interpolating a "sparse" polynomial f given by a straight-line program. Our algorithm constructs an approximation f* of f, such that their difference probably has at most half the number of terms of f, then recurses on their difference. Our approach builds on previous work by Garg and Schost (2009), and Giesbrecht and Roche (2011), and is asymptotically more efficient in terms of the total cost of the probes required than previous methods, in many cases.

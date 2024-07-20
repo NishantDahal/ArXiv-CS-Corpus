@@ -1,0 +1,3 @@
+Extended Security Risks in IP Networks
+
+Exploitation techniques targeting intermediate (transit) network nodes in public and private networks have been theoretically known and empirically proven to work for quite some time. However, very little effort has been made to look into the network-specific risks of compromising the Internet infrastructure to this date. In this publication, we describe several methods of hijacking live network traffic following a successful attack on a router or switch. We demonstrate that modern network platforms are capable of targeted traffic replication and redirection for online and offline analysis and modification, which can be a threat far greater than loss of service or other risks frequently associated with such exploits.

@@ -1,0 +1,3 @@
+An enhanced method to compute the similarity between concepts of ontology
+
+With the use of ontologies in several domains such as semantic web, information retrieval, artificial intelligence, the concept of similarity measuring has become a very important domain of research. Therefore, in the current paper, we propose our method of similarity measuring which uses the Dijkstra algorithm to define and compute the shortest path. Then, we use this one to compute the semantic distance between two concepts defined in the same hierarchy of ontology. Afterward, we base on this result to compute the semantic similarity. Finally, we present an experimental comparison between our method and other methods of similarity measuring.

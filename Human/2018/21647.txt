@@ -1,0 +1,3 @@
+Accelerated Methods for the SOCP-relaxed Component-based Distributed Optimal Power Flow
+
+In light of the increased focus on distributed methods, this paper proposes two accelerated subgradient methods and an adaptive penalty parameter scheme to speed-up the convergence of ADMM on the component-based dual decomposition of the second-order cone programming (SOCP) relaxation of the OPF. This work is the first to apply an adaptive penalty parameter method along with an accelerated subgradient method together in one scheme for distributed OPF. This accelerated scheme is demonstrated to reach substantial speed-ups, as high as 87%, on real-world test systems with more than 9000 buses, as well as on other difficult test cases.

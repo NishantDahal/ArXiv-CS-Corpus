@@ -1,0 +1,3 @@
+A Partial-Order Approach to Array Content Analysis
+
+We present a parametric abstract domain for array content analysis. The method maintains invariants for contiguous regions of the array, similar to the methods of Gopan, Reps and Sagiv, and of Halbwachs and Peron. However, it introduces a novel concept of an array content graph, avoiding the need for an up-front factorial partitioning step. The resulting analysis can be used with arbitrary numeric relational abstract domains; we evaluate the domain on a range of array manipulating program fragments.

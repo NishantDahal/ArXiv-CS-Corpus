@@ -1,0 +1,3 @@
+A filter based approach for inbetweening
+
+We present a filter based approach for inbetweening. We train a convolutional neural network to generate intermediate frames. This network aim to generate smooth animation of line drawings. Our method can process scanned images directly. Our method does not need to compute correspondence of lines and topological changes explicitly. We experiment our method with real animation production data. The results show that our method can generate intermediate frames partially.

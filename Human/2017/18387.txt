@@ -1,0 +1,7 @@
+On Uniquely Closable and Uniquely Typable Skeletons of Lambda Terms
+
+Uniquely closable skeletons of lambda terms are Motzkin-trees that predetermine the unique closed lambda term that can be obtained by labeling their leaves with de Bruijn indices. Likewise, uniquely typable skeletons of closed lambda terms predetermine the unique simply-typed lambda term that can be obtained by labeling their leaves with de Bruijn indices.
+  We derive, through a sequence of logic program transformations, efficient code for their combinatorial generation and study their statistical properties.
+  As a result, we obtain context-free grammars describing closable and uniquely closable skeletons of lambda terms, opening the door for their in-depth study with tools from analytic combinatorics.
+  Our empirical study of the more difficult case of (uniquely) typable terms reveals some interesting open problems about their density and asymptotic behavior.
+  As a connection between the two classes of terms, we also show that uniquely typable closed lambda term skeletons of size $3n+1$ are in a bijection with binary trees of size $n$.

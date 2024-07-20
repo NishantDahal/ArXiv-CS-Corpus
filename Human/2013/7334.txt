@@ -1,0 +1,4 @@
+A Faster Tableau for CTL*
+
+There have been several recent suggestions for tableau systems for deciding satisfiability in the practically important branching time temporal logic known as CTL*. In this paper we present a streamlined and more traditional tableau approach built upon the author's earlier theoretical work.
+  Soundness and completeness results are proved. A prototype implementation demonstrates the significantly improved performance of the new approach on a range of test formulas. We also see that it compares favourably  to state of the art, game and automata based decision procedures.

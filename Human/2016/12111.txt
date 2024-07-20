@@ -1,0 +1,3 @@
+The Random Access Zipper: Simple, Purely-Functional Sequences
+
+We introduce the Random Access Zipper (RAZ), a simple, purely-functional data structure for editable sequences. A RAZ combines the structure of a zipper with that of a tree: like a zipper, edits at the cursor require constant time; by leveraging tree structure, relocating the edit cursor in the sequence requires logarithmic time. While existing data structures provide these time bounds, none do so with the same simplicity and brevity of code as the RAZ. The simplicity of the RAZ provides the opportunity for more programmers to extend the structure to their own needs, and we provide some suggestions for how to do so.

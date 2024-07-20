@@ -1,0 +1,3 @@
+On the Doubly Sparse Compressed Sensing Problem
+
+A new variant of the Compressed Sensing problem is investigated when the number of measurements corrupted by errors is upper bounded by some value l but there are no more restrictions on errors. We prove that in this case it is enough to make 2(t+l) measurements, where t is the sparsity of original data. Moreover for this case a rather simple recovery algorithm is proposed. An analog of the Singleton bound from coding theory is derived what proves optimality of the corresponding measurement matrices.

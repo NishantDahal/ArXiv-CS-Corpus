@@ -1,0 +1,3 @@
+Computational Implications of Reducing Data to Sufficient Statistics
+
+Given a large dataset and an estimation task, it is common to pre-process the data by reducing them to a set of sufficient statistics. This step is often regarded as straightforward and advantageous (in that it simplifies statistical analysis). I show that -on the contrary- reducing data to sufficient statistics can change a computationally tractable estimation problem into an intractable one. I discuss connections with recent work in theoretical computer science, and implications for some techniques to estimate graphical models.

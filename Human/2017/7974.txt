@@ -1,0 +1,3 @@
+Construction of a Channel Code from an Arbitrary Source Code with Decoder Side Information
+
+The construction of a channel code by using a source code with decoder side information is introduced. For the construction, any pair of encoder and decoder is available for a source code with decoder side information. A constrained-random-number generator, which generates random numbers satisfying a condition specified by a function and its value, is used to construct a stochastic channel encoder. The result suggests that we can divide the channel coding problem into the problems of channel encoding and source decoding with side information.

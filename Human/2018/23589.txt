@@ -1,0 +1,3 @@
+Asynchronous decentralized accelerated stochastic gradient descent
+
+In this work, we introduce an asynchronous decentralized accelerated stochastic gradient descent type of method for decentralized stochastic optimization, considering communication and synchronization are the major bottlenecks. We establish $\mathcal{O}(1/ε)$ (resp., $\mathcal{O}(1/\sqrtε)$) communication complexity and $\mathcal{O}(1/ε^2)$ (resp., $\mathcal{O}(1/ε)$) sampling complexity for solving general convex (resp., strongly convex) problems.

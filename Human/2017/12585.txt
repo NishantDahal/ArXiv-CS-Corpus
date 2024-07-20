@@ -1,0 +1,4 @@
+Minimal Distance of Propositional Models
+
+We investigate the complexity of three optimization problems in Boolean propositional logic related to information theory: Given a conjunctive formula over a set of relations, find a satisfying assignment with minimal Hamming distance to a given assignment that satisfies the formula ($\mathsf{NeareastOtherSolution}$, $\mathsf{NOSol}$) or that does not need to satisfy it ($\mathsf{NearestSolution}$, $\mathsf{NSol}$). The third problem asks for two satisfying assignments with a minimal Hamming distance among all such assignments ($\mathsf{MinSolutionDistance}$, $\mathsf{MSD}$).
+  For all three problems we give complete classifications with respect to the relations admitted in the formula. We give polynomial time algorithms for several classes of constraint languages. For all other cases we prove hardness or completeness regarding APX, APX, NPO, or equivalence to well-known hard optimization problems.

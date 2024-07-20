@@ -1,0 +1,3 @@
+Set complexity of construction of a regular polygon
+
+Given a subset of $\mathbb C$ containing $x,y$, one can add $x + y,\,x - y,\,xy$ or (when $y\ne0$) $x/y$ or any $z$ such that $z^2=x$. Let $p$ be a prime Fermat number. We prove that it is possible to obtain from $\{1\}$ a set containing all the $p$-th roots of 1 by $12 p^2$ above operations. This result is different from the standard estimation of complexity of an algorithm computing the $p$-th roots of 1.

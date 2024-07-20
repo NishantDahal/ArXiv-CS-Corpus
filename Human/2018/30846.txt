@@ -1,0 +1,3 @@
+Spatio-temporal Stacked LSTM for Temperature Prediction in Weather Forecasting
+
+Long Short-Term Memory (LSTM) is a well-known method used widely on sequence learning and time series prediction. In this paper we deployed stacked LSTM model in an application of weather forecasting. We propose a 2-layer spatio-temporal stacked LSTM model which consists of independent LSTM models per location in the first LSTM layer. Subsequently, the input of the second LSTM layer is formed based on the combination of the hidden states of the first layer LSTM models. The experiments show that by utilizing the spatial information the prediction performance of the stacked LSTM model improves in most of the cases.

@@ -1,0 +1,3 @@
+Building an Archive with Saada
+
+Saada transforms a set of heterogeneous FITS files or VOTables of various categories (images, tables, spectra ...) in a database without writing code. Databases created with Saada come with a rich Web interface and an Application Programming Interface (API). They support the four most common VO services. Such databases can mix various categories of data in multiple collections. They allow a direct access to the original data while providing a homogenous view thanks to an internal data model compatible with the characterization axis defined by the VO. The data collections can be bound to each other with persistent links making relevant browsing paths and allowing data-mining oriented queries.

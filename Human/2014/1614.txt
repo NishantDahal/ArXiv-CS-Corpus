@@ -1,0 +1,7 @@
+Axiomatic Approach to Solutions of Games
+
+We consider solutions of normal form games that are invariant under strategic equivalence. We consider additional properties that can be expected (or be desired) from a solution of a game, and we observe the following:
+  - Even the weakest notion of individual rationality restricts the set of solutions to be equilibria. This observation holds for all types of solutions: in pure-strategies, in mixed strategies, and in correlated strategies where the corresponding notions of equilibria are pure-Nash, Nash and coarse-correlated.
+  An action profile is (strict) simultaneous maximizer if it simultaneously globally (strictly) maximizes the payoffs of all players.
+  - If we require that a simultaneous maximizer (if it exists) will be a solution, then the solution contains the set of pure Nash equilibria.
+  - There is no solution for which a strict simultaneous maximizer (if it exists) is the unique solution.

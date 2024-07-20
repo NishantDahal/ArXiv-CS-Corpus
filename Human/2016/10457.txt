@@ -1,0 +1,3 @@
+Improved bounds on the decoding failure probability of network coding over multi-source multi-relay networks
+
+This paper considers a multi-source multi-relay network, in which relay nodes employ a coding scheme based on random linear network coding on source packets and generate coded packets. If a destination node collects enough coded packets, it can recover the packets of all source nodes. The links between source-to-relay nodes and relay-to-destination nodes are modeled as packet erasure channels. Improved bounds on the probability of decoding failure are presented, which are markedly close to simulation results and notably better than previous bounds. Examples demonstrate the tightness and usefulness of the new bounds over the old bounds.

@@ -1,0 +1,3 @@
+Reconciling positional and nominal binding
+
+We define an extension of the simply-typed lambda calculus where two different binding mechanisms, by position and by name, nicely coexist. In the former, as in standard lambda calculus, the matching between parameter and argument is done on a positional basis, hence alpha-equivalence holds, whereas in the latter it is done on a nominal basis. The two mechanisms also respectively correspond to static binding, where the existence and type compatibility of the argument are checked at compile-time, and dynamic binding, where they are checked at run-time.

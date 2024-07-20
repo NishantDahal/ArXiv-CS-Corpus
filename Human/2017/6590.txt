@@ -1,0 +1,6 @@
+On Strong Determinacy of Countable Stochastic Games
+
+We study 2-player turn-based perfect-information stochastic games with countably infinite state space. The players aim at maximizing/minimizing the probability of a given event (i.e., measurable set of infinite plays), such as reachability, Büchi, omega-regular or more general objectives.
+  These games are known to be weakly determined, i.e., they have value. However, strong determinacy of threshold objectives (given by an event and a threshold $c \in [0,1]$) was open in many cases: is it always the case that the maximizer or the minimizer has a winning strategy, i.e., one that enforces, against all strategies of the other player, that the objective is satisfied with probability $\ge c$ (resp. $< c$)?
+  We show that almost-sure objectives (where $c=1$) are strongly determined. This vastly generalizes a previous result on finite games with almost-sure tail objectives. On the other hand we show that $\ge 1/2$ (co-)Büchi objectives are not strongly determined, not even if the game is finitely branching.
+  Moreover, for almost-sure reachability and almost-sure Büchi objectives in finitely branching games, we strengthen strong determinacy by showing that one of the players must have a memoryless deterministic (MD) winning strategy.

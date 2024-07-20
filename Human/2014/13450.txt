@@ -1,0 +1,3 @@
+Verifiable Elections with Commitment Consistent Encryption -- A Primer
+
+This note provides an introduction to the PPATS Commitment Consistent Encryption (CCE) scheme proposed by Cuvelier, Pereira and Peters and its use in the design of end-to-end verifiable elections with a perfectly private audit trail. These elections can be verified using audit data that will never leak any information about the vote, even if all the private keys of the elections are compromised, or if the cryptographic assumptions are broken.

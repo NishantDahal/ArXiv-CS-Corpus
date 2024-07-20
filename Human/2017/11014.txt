@@ -1,0 +1,3 @@
+Orthogonal Compaction Using Additional Bends
+
+Compacting orthogonal drawings is a challenging task. Usually algorithms try to compute drawings with small area or edge length while preserving the underlying orthogonal shape. We present a one-dimensional compaction algorithm that alters the orthogonal shape of edges for better geometric results. An experimental evaluation shows that we were able to reduce the total edge length and the drawing area, but at the expense of additional bends.

@@ -1,0 +1,4 @@
+Vectorized OpenCL implementation of numerical integration for higher order finite elements
+
+In our work we analyze computational aspects of the problem of numerical integration in finite element calculations and consider an OpenCL implementation of related algorithms for processors with wide vector registers.
+  As a platform for testing the implementation we choose the PowerXCell processor, being an example of the Cell Broadband Engine (CellBE) architecture. Although the processor is considered old for today's standards (its design dates back to year 2001), we investigate its performance due to two features that it shares with recent Xeon Phi family of coprocessors: wide vector units and relatively slow connection of computing cores with main global memory. The performed analysis of parallelization options can also be used for designing numerical integration algorithms for other processors with vector registers, such as contemporary x86 microprocessors.

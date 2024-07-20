@@ -1,0 +1,6 @@
+Vehicle Routing with Subtours
+
+When delivering items to a set of destinations, one can save time and cost by passing a subset to a sub-contractor at any point en route. We consider a model where a set of items are initially loaded in one vehicle and should be distributed before a given deadline Δ. In addition to travel time and time for deliveries, we assume that there is a fixed delay for handing over an item from one vehicle to another.
+  We will show that it is easy to decide whether an instance is feasible, i.e., whether it is possible to deliver all items before the deadline Δ. We then consider computing a feasible tour of minimum cost, where we incur a cost per unit distance traveled by the vehicles, and a setup cost for every used vehicle. Our problem arises in practical applications and generalizes classical problems such as shallow-light trees and the bounded-latency problem.
+  Our main result is a polynomial-time algorithm that, for any given ε > 0 and any feasible instance, computes a solution that delivers all items before time (1+ ε)Δ and has cost O(1 + 1 / ε) OPT, where OPT is the minimum cost of any feasible solution.
+  We show that our result is best possible in the sense that any improvement would lead to progress on 25-year-old questions on shallow-light trees.

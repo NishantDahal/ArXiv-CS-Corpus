@@ -1,0 +1,3 @@
+The multi-stripe travelling salesman problem
+
+In the classical Travelling Salesman Problem (TSP), the objective function sums the costs for travelling from one city to the next city along the tour. In the q-stripe TSP with q larger than 1, the objective function sums the costs for travelling from one city to each of the next q cities along the tour. The resulting q-stripe TSP generalizes the TSP and forms a special case of the quadratic assignment problem. We analyze the computational complexity of the q-stripe TSP for various classes of specially structured distance matrices. We derive NP-hardness results as well as polyomially solvable cases. One of our main results generalizes a well-known theorem of Kalmanson from the classical TSP to the q-stripe TSP.

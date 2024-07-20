@@ -1,0 +1,3 @@
+Bend-minimum Orthogonal Drawings in Quadratic Time
+
+Let $G$ be a planar $3$-graph (i.e., a planar graph with vertex degree at most three) with $n$ vertices. We present the first $O(n^2)$-time algorithm that computes a planar orthogonal drawing of $G$ with the minimum number of bends in the variable embedding setting. If either a distinguished edge or a distinguished vertex of $G$ is constrained to be on the external face, a bend-minimum orthogonal drawing of $G$ that respects this constraint can be computed in $O(n)$ time. Different from previous approaches, our algorithm does not use minimum cost flow models and computes drawings where every edge has at most two bends.

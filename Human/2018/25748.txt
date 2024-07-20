@@ -1,0 +1,4 @@
+A Primal-Dual Online Deterministic Algorithm for Matching with Delays
+
+In the Min-cost Perfect Matching with Delays (MPMD) problem, 2 m requests arrive over time at points of a metric space. An online algorithm has to connect these requests in pairs, but a decision to match may be postponed till a more suitable matching pair is found. The goal is to minimize the joint cost of connection and the total waiting time of all requests.
+  We present an O(m)-competitive deterministic algorithm for this problem, improving on an existing bound of O(m^(log(5.5))) = O(m^2.46). Our algorithm also solves (with the same competitive ratio) a bipartite variant of MPMD, where requests are either positive or negative and only requests with different polarities may be matched with each other. Unlike the existing randomized solutions, our approach does not depend on the size of the metric space and does not have to know it in advance.

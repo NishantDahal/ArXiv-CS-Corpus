@@ -1,0 +1,3 @@
+Reachability Analysis of Quantum Markov Decision Processes
+
+We introduce the notion of quantum Markov decision process (qMDP) as a semantic model of nondeterministic and concurrent quantum programs. It is shown by examples that qMDPs can be used in analysis of quantum algorithms and protocols. We study various reachability problems of qMDPs both for the finite-horizon and for the infinite-horizon. The (un)decidability and complexity of these problems are settled, or their relationships with certain long-standing open problems are clarified. We also develop an algorithm for finding optimal scheduler that attains the supremum reachability probability.

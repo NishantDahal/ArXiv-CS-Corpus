@@ -1,0 +1,3 @@
+Engineering Oracles for Time-Dependent Road Networks
+
+We implement and experimentally evaluate landmark-based oracles for min-cost paths in large-scale time-dependent road networks. We exploit parallelism and lossless compression, combined with a novel travel-time approximation technique, to severely reduce preprocessing space and time. We significantly improve the FLAT oracle, improving the previous query time by $30\%$ and doubling the Dijkstra-rank speedup. We also implement and experimentally evaluate a novel oracle (HORN), based on a landmark hierarchy, achieving even better performance wrt to FLAT.

@@ -1,0 +1,3 @@
+Modelling homogeneous generative meta-programming
+
+Homogeneous generative meta-programming (HGMP) enables the generation of program fragments at compile-time or run-time. We present the first foundational calculus which can model powerful HGMP languages such as Template Haskell. The calculus is designed such that we can gradually enhance it with the features needed to model many of the advanced features of real languages. As a demonstration of the flexibility of our approach, we also provide a simple type system for the calculus.

@@ -1,0 +1,3 @@
+A Scheme-Driven Approach to Learning Programs from Input/Output Equations
+
+We describe an approach to learn, in a term-rewriting setting, function definitions from input/output equations. By confining ourselves to structurally recursive definitions we obtain a fairly fast learning algorithm that often yields definitions close to intuitive expectations. We provide a Prolog prototype implementation of our approach, and indicate open issues of further investigation.

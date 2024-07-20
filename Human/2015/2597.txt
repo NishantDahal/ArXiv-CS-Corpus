@@ -1,0 +1,3 @@
+Towards Controlling Refinements of Statecharts
+
+In incremental development strategies, modelers frequently refine Statecharts models to satisfy requirements and changes. Although several solutions exist to the problem of Statecharts refinement, they provide such levels of freedom that a statechart cannot make assumptions or guarantees about its future structure. In this paper, we propose a set of bounding rules to limit the allowable Statecharts refinement operations such that certain assumptions will hold.

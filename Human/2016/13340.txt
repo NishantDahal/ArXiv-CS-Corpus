@@ -1,0 +1,4 @@
+Security in Locally Repairable Storage
+
+In this paper we extend the notion of {\em locally repairable} codes to {\em secret sharing} schemes. The main problem that we consider is to find optimal ways to distribute shares of a secret among a set of storage-nodes (participants) such that the content of each node (share) can be recovered by using contents of only few other nodes, and at the same time the secret can be reconstructed by only some allowable subsets of nodes. As a special case, an eavesdropper observing some set of specific nodes (such as less than certain number of nodes) does not get any information. In other words, we propose to study a locally repairable distributed storage system that is secure against a {\em passive eavesdropper} that can observe some subsets of nodes.
+  We provide a number of results related to such systems including upper-bounds and achievability results on the number of bits that can be securely stored with these constraints.

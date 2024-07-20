@@ -1,0 +1,5 @@
+Derivatives for Enhanced Regular Expressions
+
+Regular languages are closed under a wealth of formal language operators. Incorporating such operators in regular expressions leads to concise language specifications, but the transformation of such enhanced regular expressions to finite automata becomes more involved.
+  We present an approach that enables the direct construction of finite automata from regular expressions enhanced with further operators that preserve regularity. Our construction is based on an extension of the theory of derivatives for regular expressions. To retain the standard results about derivatives, we develop a derivability criterion for the compatibility of the extra operators with derivatives.
+  Some derivable operators do not preserve regularity. Derivatives provide a decision procedure for the word problem of regular expressions enhanced with such operators.

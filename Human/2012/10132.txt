@@ -1,0 +1,3 @@
+Weak Visibility Queries of Line Segments in Simple Polygons
+
+Given a simple polygon P in the plane, we present new algorithms and data structures for computing the weak visibility polygon from any query line segment in P. We build a data structure in O(n) time and O(n) space that can compute the visibility polygon for any query line segment s in O(k log n) time, where k is the size of the visibility polygon of s and n is the number of vertices of P. Alternatively, we build a data structure in O(n^3) time and O(n^3) space that can compute the visibility polygon for any query line segment in O(k + log n) time.

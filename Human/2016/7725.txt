@@ -1,0 +1,3 @@
+Counting Zeros in Random Walks on the Integers and Analysis of Optimal Dual-Pivot Quicksort
+
+We present an average case analysis of two variants of dual-pivot quicksort, one with a non-algorithmic comparison-optimal partitioning strategy, the other with a closely related algorithmic strategy. For both we calculate the expected number of comparisons exactly as well as asymptotically, in particular, we provide exact expressions for the linear, logarithmic, and constant terms. An essential step is the analysis of zeros of lattice paths in a certain probability model. Along the way a combinatorial identity is proven.

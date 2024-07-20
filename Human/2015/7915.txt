@@ -1,0 +1,3 @@
+Probabilistic Rely-guarantee Calculus
+
+Jones' rely-guarantee calculus for shared variable concurrency is extended to include probabilistic behaviours. We use an algebraic approach which combines and adapts probabilistic Kleene algebras with concurrent Kleene algebra. Soundness of the algebra is shown relative to a general probabilistic event structure semantics. The main contribution of this paper is a collection of rely-guarantee rules built on top of that semantics. In particular, we show how to obtain bounds on probabilities by deriving rely-guarantee rules within the true-concurrent denotational semantics. The use of these rules is illustrated by a detailed verification of a simple probabilistic concurrent program: a faulty Eratosthenes sieve.

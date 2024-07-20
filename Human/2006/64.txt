@@ -1,0 +1,3 @@
+Control of a Lightweight Flexible Robotic Arm Using Sliding Modes
+
+This paper presents a robust control scheme for flexible link robotic manipulators, which is based on considering the flexible mechanical structure as a system with slow (rigid) and fast (flexible) modes that can be controlled separately. The rigid dynamics is controlled by means of a robust sliding-mode approach with wellestablished stability properties while an LQR optimal design is adopted for the flexible dynamics. Experimental results show that this composite approach achieves good closed loop tracking properties both for the rigid and the flexible dynamics.

@@ -1,0 +1,3 @@
+Point Location in Incremental Planar Subdivisions
+
+We study the point location problem in incremental (possibly disconnected) planar subdivisions, that is, dynamic subdivisions allowing insertions of edges and vertices only. Specifically, we present an $O(n\log n)$-space data structure for this problem that supports queries in $O(\log^2 n)$ time and updates in $O(\log n\log\log n)$ amortized time. This is the first result that achieves polylogarithmic query and update times simultaneously in incremental (possibly disconnected) planar subdivisions. Its update time is significantly faster than the update time of the best known data structure for fully-dynamic (possibly disconnected) planar subdivisions.

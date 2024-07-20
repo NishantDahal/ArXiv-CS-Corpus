@@ -1,0 +1,3 @@
+A learning graph based quantum query algorithm for finding constant-size subgraphs
+
+Let $H$ be a fixed $k$-vertex graph with $m$ edges and minimum degree $d >0$. We use the learning graph framework of Belovs to show that the bounded-error quantum query complexity of determining if an $n$-vertex graph contains $H$ as a subgraph is $O(n^{2-2/k-t})$, where $ t = \max{\frac{k^2- 2(m+1)}{k(k+1)(m+1)}, \frac{2k - d - 3}{k(d+1)(m-d+2)}}$. The previous best algorithm of Magniez et al. had complexity $\widetilde O(n^{2-2/k})$.

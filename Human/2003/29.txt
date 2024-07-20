@@ -1,0 +1,3 @@
+A Script Language for Data Integration in Database
+
+A Script Language in this paper is designed to transform the original data into the target data by the computing formula. The Script Language can be translated into the corresponding SQL Language, and the computation is finally implemented by the first type of dynamic SQL. The Script Language has the operations of insert, update, delete, union, intersect, and minus for the table in the database.The Script Language is edited by a text file and you can easily modify the computing formula in the text file to deal with the situations when the computing formula have been changed. So you only need modify the text of the script language, but needn't change the programs that have complied.

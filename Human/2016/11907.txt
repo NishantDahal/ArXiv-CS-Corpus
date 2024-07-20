@@ -1,0 +1,3 @@
+Testing Unateness of Real-Valued Functions
+
+We give a unateness tester for functions of the form $f:[n]^d\rightarrow R$, where $n,d\in \mathbb{N}$ and $R\subseteq \mathbb{R}$ with query complexity $O(\frac{d\log (\max(d,n))}ε)$. Previously known unateness testers work only for Boolean functions over the domain $\{0,1\}^d$. We show that every unateness tester for real-valued functions over hypergrid has query complexity $Ω(\min\{d, |R|^2\})$. Consequently, our tester is nearly optimal for real-valued functions over $\{0,1\}^d$. We also prove that every nonadaptive, 1-sided error unateness tester for Boolean functions needs $Ω(\sqrt{d}/ε)$ queries. Previously, no lower bounds for testing unateness were known.

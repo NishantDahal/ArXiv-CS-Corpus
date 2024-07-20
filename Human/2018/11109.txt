@@ -1,0 +1,3 @@
+Learning Illuminant Estimation from Object Recognition
+
+In this paper we present a deep learning method to estimate the illuminant of an image. Our model is not trained with illuminant annotations, but with the objective of improving performance on an auxiliary task such as object recognition. To the best of our knowledge, this is the first example of a deep learning architecture for illuminant estimation that is trained without ground truth illuminants. We evaluate our solution on standard datasets for color constancy, and compare it with state of the art methods. Our proposal is shown to outperform most deep learning methods in a cross-dataset evaluation setup, and to present competitive results in a comparison with parametric solutions.

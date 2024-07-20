@@ -1,0 +1,3 @@
+Pre-gen metrics: Predicting caption quality metrics without generating captions
+
+Image caption generation systems are typically evaluated against reference outputs. We show that it is possible to predict output quality without generating the captions, based on the probability assigned by the neural model to the reference captions. Such pre-gen metrics are strongly correlated to standard evaluation metrics.

@@ -1,0 +1,3 @@
+Numerical Investigation of Metrics for Epidemic Processes on Graphs
+
+This study develops the epidemic hitting time (EHT) metric on graphs measuring the expected time an epidemic starting at node $a$ in a fully susceptible network takes to propagate and reach node $b$. An associated EHT centrality measure is then compared to degree, betweenness, spectral, and effective resistance centrality measures through exhaustive numerical simulations on several real-world network data-sets. We find two surprising observations: first, EHT centrality is highly correlated with effective resistance centrality; second, the EHT centrality measure is much more delocalized compared to degree and spectral centrality, highlighting the role of peripheral nodes in epidemic spreading on graphs.

@@ -1,0 +1,3 @@
+The parallel implementation of the Astrée static analyzer
+
+The Astrée static analyzer is a specialized tool that can prove the absence of runtime errors, including arithmetic overflows, in large critical programs. Keeping analysis times reasonable for industrial use is one of the design objectives. In this paper, we discuss the parallel implementation of the analysis.

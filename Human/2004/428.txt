@@ -1,0 +1,3 @@
+Design of a Parallel and Distributed Web Search Engine
+
+This paper describes the architecture of MOSE (My Own Search Engine), a scalable parallel and distributed engine for searching the web. MOSE was specifically designed to efficiently exploit affordable parallel architectures, such as clusters of workstations. Its modular and scalable architecture can easily be tuned to fulfill the bandwidth requirements of the application at hand. Both task-parallel and data-parallel approaches are exploited within MOSE in order to increase the throughput and efficiently use communication, storing and computational resources. We used a collection of html documents as a benchmark, and conducted preliminary experiments on a cluster of three SMP Linux PCs.

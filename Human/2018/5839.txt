@@ -1,0 +1,3 @@
+Logical Gates via Gliders Collisions
+
+An elementary cellular automaton with memory is a chain of finite state machines (cells) updating their state simultaneously and by the same rule. Each cell updates its current state depending on current states of its immediate neighbours and a certain number of its own past states. Some cell-state transition rules support gliders, compact patterns of non-quiescent states translating along the chain. We present designs of logical gates, including reversible Fredkin gate and controlled NOT gate, implemented via collisions between gliders.

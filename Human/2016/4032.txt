@@ -1,0 +1,4 @@
+Consistent and fault-tolerant SDN with unmodified switches
+
+In a reliable SDN environment, different controllers coordinate different switches and backup controllers can be set in place to tolerate faults. This approach increases the challenge to maintain a consistent network view. If this global view is not consistent with the actual network state, applications will operate on a stale state and potentially lead to incorrect behavior.
+  Faced with this problem, we propose a fault-tolerant SDN controller that is able to maintain a consistent network view by using transactional semantics on both control and data plane state. Different from previous proposals, our solution does not require changes to OpenFlow or to switches, increasing the chances of quicker adoption.

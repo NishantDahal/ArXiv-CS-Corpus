@@ -1,0 +1,3 @@
+Adversarial Learning of Label Dependency: A Novel Framework for Multi-class Classification
+
+Recent work has shown that exploiting relations between labels improves the performance of multi-label classification. We propose a novel framework based on generative adversarial networks (GANs) to model label dependency. The discriminator learns to model label dependency by discriminating real and generated label sets. To fool the discriminator, the classifier, or generator, learns to generate label sets with dependencies close to real data. Extensive experiments and comparisons on two large-scale image classification benchmark datasets (MS-COCO and NUS-WIDE) show that the discriminator improves generalization ability for different kinds of models

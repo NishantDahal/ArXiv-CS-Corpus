@@ -1,0 +1,3 @@
+CameraTransform: a Scientific Python Package for Perspective Camera Corrections
+
+Scientific applications often require an exact reconstruction of object positions and distances from digital images. Therefore, the images need to be corrected for perspective distortions. We present \textit{CameraTransform}, a python package that performs a perspective image correction whereby the height, tilt/roll angle and heading of the camera can be automatically obtained from the images if additional information such as GPS coordinates or object sizes are provided. We present examples of images of penguin colonies that are recorded with stationary cameras and from a helicopter.

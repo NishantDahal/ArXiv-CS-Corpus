@@ -1,0 +1,4 @@
+Debugging Backwards in Time
+
+By recording every state change in the run of a program, it is possible to present the programmer every bit of information that might be desired. Essentially, it becomes possible to debug the program by going ``backwards in time,'' vastly simplifying the process of debugging. An implementation of this idea, the ``Omniscient Debugger,'' is used to demonstrate its viability and has been used successfully on a number of large programs. Integration with an event analysis engine for searching and control is presented. Several small-scale user studies provide encouraging results. Finally performance issues and implementation are discussed along with possible optimizations.
+  This paper makes three contributions of interest: the concept and technique of ``going backwards in time,'' the GUI which presents a global view of the program state and has a formal notion of ``navigation through time,'' and the integration with an event analyzer.

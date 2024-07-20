@@ -1,0 +1,5 @@
+QuickXsort: Efficient Sorting with n log n - 1.399n +o(n) Comparisons on Average
+
+In this paper we generalize the idea of QuickHeapsort leading to the notion of QuickXsort. Given some external sorting algorithm X, QuickXsort yields an internal sorting algorithm if X satisfies certain natural conditions.
+  With QuickWeakHeapsort and QuickMergesort we present two examples for the QuickXsort-construction. Both are efficient algorithms that incur approximately n log n - 1.26n +o(n) comparisons on the average. A worst case of n log n + O(n) comparisons can be achieved without significantly affecting the average case.
+  Furthermore, we describe an implementation of MergeInsertion for small n. Taking MergeInsertion as a base case for QuickMergesort, we establish a worst-case efficient sorting algorithm calling for n log n - 1.3999n + o(n) comparisons on average. QuickMergesort with constant size base cases shows the best performance on practical inputs: when sorting integers it is slower by only 15% to STL-Introsort.

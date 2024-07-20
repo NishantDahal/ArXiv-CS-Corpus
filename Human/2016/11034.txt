@@ -1,0 +1,3 @@
+Translating Scala Programs to Isabelle/HOL
+
+We present a trustworthy connection between the Leon verification system and the Isabelle proof assistant. Leon is a system for verifying functional Scala programs. It uses a variety of automated theorem provers (ATPs) to check verification conditions (VCs) stemming from the input program. Isabelle, on the other hand, is an interactive theorem prover used to verify mathematical specifications using its own input language Isabelle/Isar. Users specify (inductive) definitions and write proofs about them manually, albeit with the help of semi-automated tactics. The integration of these two systems allows us to exploit Isabelle's rich standard library and give greater confidence guarantees in the correctness of analysed programs.

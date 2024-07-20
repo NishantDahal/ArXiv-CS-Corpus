@@ -1,0 +1,3 @@
+Assessment of Path Reservation in Distributed Real-Time Vehicle Guidance
+
+In this paper we assess the impact of path reservation as an additional feature in our distributed real-time vehicle guidance protocol BeeJamA. Through our microscopic simulations we show that naïve reservation of links without any further measurements is only an improvement in case of complete market penetration, otherwise it even reduces the performance of our approach based on real-time link loads. Moreover, we modified the reservation process to incorporate current travel times and show that this improves the results in our simulations when at least 40% market penetration is possible.

@@ -1,0 +1,3 @@
+Towards Distributed Convoy Pattern Mining
+
+Mining movement data to reveal interesting behavioral patterns has gained attention in recent years. One such pattern is the convoy pattern which consists of at least m objects moving together for at least k consecutive time instants where m and k are user-defined parameters. Existing algorithms for detecting convoy patterns, however do not scale to real-life dataset sizes. Therefore a distributed algorithm for convoy mining is inevitable. In this paper, we discuss the problem of convoy mining and analyze different data partitioning strategies to pave the way for a generic distributed convoy pattern mining algorithm.

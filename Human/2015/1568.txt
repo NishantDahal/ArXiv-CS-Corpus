@@ -1,0 +1,8 @@
+Synthesis of Attributed Feature Models From Product Descriptions: Foundations
+
+Feature modeling is a widely used formalism to characterize a set of products (also called configurations). 
+As a manual elaboration is a long and arduous task, numerous techniques have been proposed to reverse engineer feature models from various kinds of artefacts. But none of them synthesize feature attributes (or constraints over attributes) despite the practical relevance of attributes for documenting the different values across a range of products.
+In this report, we develop an algorithm for synthesizing attributed feature models given a set of product descriptions. 
+We present sound, complete, and parametrizable techniques for computing all possible hierarchies, feature groups, placements of feature attributes, domain values, and constraints. 
+We perform a complexity analysis w.r.t. number of features, attributes, configurations, and domain size. We also evaluate the scalability of our synthesis procedure using randomized configuration matrices. 
+This report is a first step that aims to describe the foundations for synthesizing attributed feature models.

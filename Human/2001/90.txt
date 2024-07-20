@@ -1,0 +1,3 @@
+Fitness Uniform Selection to Preserve Genetic Diversity
+
+In evolutionary algorithms, the fitness of a population increases with time by mutating and recombining individuals and by a biased selection of more fit individuals. The right selection pressure is critical in ensuring sufficient optimization progress on the one hand and in preserving genetic diversity to be able to escape from local optima on the other. We propose a new selection scheme, which is uniform in the fitness values. It generates selection pressure towards sparsely populated fitness regions, not necessarily towards higher fitness, as is the case for all other selection schemes. We show that the new selection scheme can be much more effective than standard selection schemes.

@@ -1,0 +1,4 @@
+An SDP Primal-Dual Approximation Algorithm for Directed Hypergraph Expansion and Sparsest Cut with Product Demands
+
+We give approximation algorithms for the edge expansion and sparsest cut with product demands problems on directed hypergraphs, which subsume previous graph models such as undirected hypergraphs and directed normal graphs.
+  Using an SDP formulation adapted to directed hypergraphs, we apply the SDP primal-dual framework by Arora and Kale (JACM 2016) to design polynomial-time algorithms whose approximation ratios match those of algorithms previously designed for more restricted graph models. Moreover, we have deconstructed their framework and simplified the notation to give a much cleaner presentation of the algorithms.

@@ -1,0 +1,3 @@
+Bounds on Key Appearance Equivocation for Substitution Ciphers
+
+The average conditional entropy of the key given the message and its corresponding cryptogram, H(K|M,C), which is reffer as a key appearance equivocation, was proposed as a theoretical measure of the strength of the cipher system under a known-plaintext attack by Dunham in 1980. In the same work (among other things), lower and upper bounds for H(S}_{M}|M^L,C^L) are found and its asymptotic behaviour as a function of cryptogram length L is described for simple substitution ciphers i.e. when the key space S_{M} is the symmetric group acting on a discrete alphabet M. In the present paper we consider the same problem when the key space is an arbitrary subgroup K of S_{M} and generalize Dunham's result.

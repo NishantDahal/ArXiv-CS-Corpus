@@ -1,0 +1,5 @@
+List-decodable zero-rate codes
+
+We consider list-decoding in the zero-rate regime for two cases: the binary alphabet and the spherical codes in Euclidean space. Specifically, we study the maximal $τ\in [0,1]$ for which there exists an arrangement of $M$ balls of relative Hamming radius $τ$ in the binary hypercube (of arbitrary dimension) with the property that no point of the latter is covered by $L$ or more of them. As $M\to \infty$ the maximal $τ$ decreases to a well-known critical value $τ_L$. In this work, we prove several results on the rate of this convergence.
+  For the binary case, we show that the rate is $Θ(M^{-1})$ when $L$ is even, thus extending the classical results of Plotkin and Levenshtein for $L=2$. For $L=3$ the rate is shown to be $Θ(M^{-\tfrac{2}{3}})$.
+  For the similar question about spherical codes, we prove the rate is $Ω(M^{-1})$ and $O(M^{-\tfrac{2L}{L^2-L+2}})$.

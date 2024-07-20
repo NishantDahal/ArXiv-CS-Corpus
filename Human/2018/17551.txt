@@ -1,0 +1,3 @@
+Improved Training with Curriculum GANs
+
+In this paper we introduce Curriculum GANs, a curriculum learning strategy for training Generative Adversarial Networks that increases the strength of the discriminator over the course of training, thereby making the learning task progressively more difficult for the generator. We demonstrate that this strategy is key to obtaining state-of-the-art results in image generation. We also show evidence that this strategy may be broadly applicable to improving GAN training in other data modalities.

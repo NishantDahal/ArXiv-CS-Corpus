@@ -1,0 +1,3 @@
+Quasi-optimal grouping for broadcast systems with hierarchical modulation
+
+Recently, we proposed to combine time sharing with hierarchical modulation to increase the transmission rate of broadcast systems. Our proposal involves to group the receivers in pairs in order to transmit with hierarchical modulation. We introduced several grouping strategies but the optimal matching remained an open question. In this letter, we show that the optimal grouping is the solution of an assignment problem, for which efficient algorithms exist such as the Hungarian method. Based on this algorithm, we study the performance of the optimal grouping in terms of spectrum efficiency for a DVB-S2 system.

@@ -1,0 +1,3 @@
+Agreement Functions for Distributed Computing Models
+
+The paper proposes a surprisingly simple characterization of a large class of models of distributed computing, via an agreement function: for each set of processes, the function determines the best level of set consensus these processes can reach. We show that the task computability of a large class of fair adversaries that includes, in particular superset-closed and symmetric one, is precisely captured by agreement functions.

@@ -1,0 +1,3 @@
+Learning Discriminative Representation with Signed Laplacian Restricted Boltzmann Machine
+
+We investigate the potential of a restricted Boltzmann Machine (RBM) for discriminative representation learning. By imposing the class information preservation constraints on the hidden layer of the RBM, we propose a Signed Laplacian Restricted Boltzmann Machine (SLRBM) for supervised discriminative representation learning. The model utilizes the label information and preserves the global data locality of data points simultaneously. Experimental results on the benchmark data set show the effectiveness of our method.

@@ -1,0 +1,3 @@
+Early Lessons from a Voice-Only Interface for Finding Movies
+
+The current generation of streaming media players often allow users to speak commands (e.g., users can change the TV channel by pressing a button and saying "ESPN"). However, these devices typically support a narrow range of control- and search-oriented commands, and do not support deeper recommendation or exploration queries. To study spoken natural language interactions with recommenders, we have built MovieLens TV, a movie recommender system with no input modalities except voice. In this poster, we describe MovieLens TV, with a focus on lessons learned building a prototype system around an off-the-shelf Amazon Echo.

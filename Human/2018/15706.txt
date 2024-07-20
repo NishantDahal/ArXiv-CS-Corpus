@@ -1,0 +1,3 @@
+LSTM Benchmarks for Deep Learning Frameworks
+
+This study provides benchmarks for different implementations of LSTM units between the deep learning frameworks PyTorch, TensorFlow, Lasagne and Keras. The comparison includes cuDNN LSTMs, fused LSTM variants and less optimized, but more flexible LSTM implementations. The benchmarks reflect two typical scenarios for automatic speech recognition, notably continuous speech recognition and isolated digit recognition. These scenarios cover input sequences of fixed and variable length as well as the loss functions CTC and cross entropy. Additionally, a comparison between four different PyTorch versions is included. The code is available online https://github.com/stefbraun/rnn_benchmarks.

@@ -1,0 +1,4 @@
+Caterpillars in Erdős-Hajnal
+
+Let $T$ be a tree such that all its vertices of degree more than two lie on one path, that is, $T$ is a caterpillar subdivision. We prove that there exists $ε>0$ such that for every graph $G$ with $|V(G)|\ge 2$ not containing $T$ as an induced subgraph, either some vertex has at least $ε|V(G)|$ neighbours, or there are two disjoint sets of vertices $A,B$, both of cardinality at least $ε|V(G)|$, where there is no edge joining $A$ and $B$.
+  A consequence is: for every caterpillar subdivision $T$, there exists $c>0$ such that for every graph $G$ containing neither of $T$ and its complement as an induced subgraph, $G$ has a clique or stable set with at least $|V(G)|^c$ vertices. This extends a theorem of Bousquet, Lagoutte and Thomassé [JCTB 2015], who proved the same when $T$ is a path, and a recent theorem of Choromanski, Falik, Liebenau, Patel and Pilipczuk [Electron. J. Combin. 2018], who proved it when $T$ is a "hook".

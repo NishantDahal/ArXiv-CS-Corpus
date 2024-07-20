@@ -1,0 +1,3 @@
+A Numerical Comparison of an Isogeometric and a Classical Higher-Order Approach to the Electric Field Integral Equation
+
+In this paper, we advocate a novel spline-based isogeometric approach for boundary elements and its efficient implementation. We compare solutions obtained by both an isogeometric approach, and a classical parametric higher-order approach via Raviart-Thomas elements to the solution of the electric field integral equation; i.e., the solution to an electromagnetic scattering problem, promising high convergence orders w.r.t. pointwise error. We discuss both, the obtained accuracy per DOF, as well as the effort required to solve the corresponding system iteratively, on three numerical examples of varying complexity.

@@ -1,0 +1,4 @@
+Observing the Evolution of QUIC Implementations
+
+The QUIC protocol combines features that were initially found inside the TCP, TLS and HTTP/2 protocols. The IETF is currently finalising a complete specification of this protocol. More than a dozen of independent implementations have been developed in parallel with these standardisation activities.
+  We propose and implement a QUIC test suite that interacts with public QUIC servers to verify their conformance with key features of the IETF specification. Our measurements, gathered over a semester, provide a unique viewpoint on the evolution of a protocol and of its implementations. They highlight the arrival of new features and some regressions among the different implementations.

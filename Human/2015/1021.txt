@@ -1,0 +1,4 @@
+Entropy compression method applied to graph colorings
+
+Based on the algorithmic proof of Lovász local lemma due to Moser and Tardos, the works of Grytczuk et al. on words, and Dujmović et al. on colorings, Esperet and Parreau developed a framework to prove upper bounds for several chromatic numbers (in particular acyclic chromatic index, star chromatic number and Thue chromatic number) using the so-called \emph{entropy compression method}.
+  Inspired by this work, we propose a more general framework and a better analysis. This leads to improved upper bounds on chromatic numbers and indices. In particular, every graph with maximum degree $Δ$ has an acyclic chromatic number at most $\frac{3}{2}Δ^{\frac43} + O(Δ)$. Also every planar graph with maximum degree $Δ$ has a facial Thue choice number at most $Δ+ O(Δ^\frac 12)$ and facial Thue choice index at most $10$.

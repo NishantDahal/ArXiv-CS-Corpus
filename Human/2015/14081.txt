@@ -1,0 +1,3 @@
+Analysis of Intel's Haswell Microarchitecture Using The ECM Model and Microbenchmarks
+
+This paper presents an in-depth analysis of Intel's Haswell microarchitecture for streaming loop kernels. Among the new features examined is the dual-ring Uncore design, Cluster-on-Die mode, Uncore Frequency Scaling, core improvements as new and improved execution units, as well as improvements throughout the memory hierarchy. The Execution-Cache-Memory diagnostic performance model is used together with a generic set of microbenchmarks to quantify the efficiency of the microarchitecture. The set of microbenchmarks is chosen such that it can serve as a blueprint for other streaming loop kernels.

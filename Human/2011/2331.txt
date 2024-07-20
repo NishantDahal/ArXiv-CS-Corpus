@@ -1,0 +1,3 @@
+A parallel Buchberger algorithm for multigraded ideals
+
+We demonstrate a method to parallelize the computation of a Gröbner basis for a homogenous ideal in a multigraded polynomial ring. Our method uses anti-chains in the lattice $\mathbb N^k$ to separate mutually independent S-polynomials for reduction.

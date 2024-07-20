@@ -1,0 +1,3 @@
+Point-Based POMDP Algorithms: Improved Analysis and Implementation
+
+Existing complexity bounds for point-based POMDP value iteration algorithms focus either on the curse of dimensionality or the curse of history. We derive a new bound that relies on both and uses the concept of discounted reachability; our conclusions may help guide future algorithm design. We also discuss recent improvements to our (point-based) heuristic search value iteration algorithm. Our new implementation calculates tighter initial bounds, avoids solving linear programs, and makes more effective use of sparsity.

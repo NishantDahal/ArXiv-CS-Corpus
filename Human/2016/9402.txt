@@ -1,0 +1,3 @@
+GRVI Phalanx: A Massively Parallel RISC-V FPGA Accelerator Accelerator
+
+GRVI is an FPGA-efficient RISC-V RV32I soft processor. Phalanx is a parallel processor and accelerator array framework. Groups of processors and accelerators form shared memory clusters. Clusters are interconnected with each other and with extreme bandwidth I/O and memory devices by a 300- bit-wide Hoplite NOC. An example Kintex UltraScale KU040 system has 400 RISC-V cores, peak throughput of 100,000 MIPS, peak shared memory bandwidth of 600 GB/s, NOC bisection bandwidth of 700 Gbps, and uses 13 W.

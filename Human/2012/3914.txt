@@ -1,0 +1,4 @@
+Indexing Reverse Top-k Queries
+
+We consider the recently introduced monochromatic reverse top-k queries which ask for, given a new tuple q and a dataset D, all possible top-k queries on D union {q} for which q is in the result. Towards this problem, we focus on designing indexes in two dimensions for repeated (or batch) querying, a novel but practical consideration. We present the insight that by representing the dataset as an arrangement of lines, a critical k-polygon can be identified and used exclusively to respond to reverse top-k queries. We construct an index based on this observation which has guaranteed worst-case query cost that is logarithmic in the size of the k-polygon.
+  We implement our work and compare it to related approaches, demonstrating that our index is fast in practice. Furthermore, we demonstrate through our experiments that a k-polygon is comprised of a small proportion of the original data, so our index structure consumes little disk space.

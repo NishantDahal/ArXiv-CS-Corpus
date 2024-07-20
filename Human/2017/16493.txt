@@ -1,0 +1,3 @@
+Detection of Abnormal Input-Output Associations
+
+We study a novel outlier detection problem that aims to identify abnormal input-output associations in data, whose instances consist of multi-dimensional input (context) and output (responses) pairs. We present our approach that works by analyzing data in the conditional (input--output) relation space, captured by a decomposable probabilistic model. Experimental results demonstrate the ability of our approach in identifying multivariate conditional outliers.

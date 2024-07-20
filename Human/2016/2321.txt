@@ -1,0 +1,4 @@
+Specification Format for Reactive Synthesis Problems
+
+Automatic synthesis from a given specification automatically constructs correct implementation. This frees the user from the mundane implementation work, but still requires the specification. But is specifying easier than implementing? In this paper, we propose a user-friendly format to ease the specification work, in particularly, that of specifying partial implementations. Also, we provide scripts to convert specifications in the new format into the SYNTCOMP format, thus benefiting from state of the art synthesizers.
+

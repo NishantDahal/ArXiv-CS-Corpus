@@ -1,0 +1,3 @@
+Exposing Software Defined Radio Functionality To Native Operating System Applications via Virtual Devices
+
+Many reconfigurable platforms require that applications be written specifically to take advantage of the reconfigurable hardware. In a PC-based environment, this presents an undesirable constraint in that the many already available applications cannot leverage on such hardware. Greatest benefit can only be derived from reconfigurable devices if even native OS applications can transparently utilize reconfigurable devices as they would normal full-fledged hardware devices. This paper presents how Proteus Virtual Devices are used to expose reconfigurable hardware in a transparent manner for use by typical native OS applications.

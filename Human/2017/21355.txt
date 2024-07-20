@@ -1,0 +1,3 @@
+Short Presburger arithmetic is hard
+
+We study the computational complexity of short sentences in Presburger arithmetic (Short-PA). Here by "short" we mean sentences with a bounded number of variables, quantifiers, inequalities and Boolean operations; the input consists only of the integer coefficients involved in the linear inequalities. We prove that satisfiability of Short-PA sentences with $m+2$ alternating quantifiers is $Σ_{P}^m$-complete or $Π_{P}^m$-complete, when the first quantifier is $\exists$ or $\forall$, respectively. Counting versions and restricted systems are also analyzed. Further application are given to hardness of two natural problems in Integer Optimizations.

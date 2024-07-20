@@ -1,0 +1,3 @@
+A Deterministic Distributed Algorithm for Exact Weighted All-Pairs Shortest Paths in $\tilde{O}(n^{3/2})$ Rounds
+
+We present a deterministic distributed algorithm to compute all-pairs shortest paths(APSP) in an edge-weighted directed or undirected graph. Our algorithm runs in $\tilde{O}(n^{3/2})$ rounds in the Congest model, where $n$ is the number of nodes in the graph. This is the first $o(n^2)$ rounds deterministic distributed algorithm for the weighted APSP problem. Our algorithm is fairly simple and incorporates a deterministic distributed algorithm we develop for computing a `blocker set' \cite{King99}, which has been used earlier in sequential dynamic computation of APSP.

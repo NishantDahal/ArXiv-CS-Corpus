@@ -1,0 +1,3 @@
+A Measurement Theory of Locality
+
+Locality is a fundamental principle used extensively in program and system optimization. It can be measured in many ways. This paper formalizes the metrics of locality into a measurement theory. The new theory includes the precise definition of locality metrics based on access frequency, reuse time, reuse distance, working set, footprint, and the cache miss ratio. It gives the formal relation between these definitions and the proofs of equivalence or non-equivalence. It provides the theoretical justification for four successful locality models in operating systems, programming languages, and computer architectures which were developed empirically.

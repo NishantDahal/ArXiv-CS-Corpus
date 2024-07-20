@@ -1,0 +1,3 @@
+Domain-specific Languages in a Finite Domain Constraint Programming System
+
+In this paper, we present domain-specific languages (DSLs) that we devised for their use in the implementation of a finite domain constraint programming system, available as library(clpfd) in SWI-Prolog and YAP-Prolog. These DSLs are used in propagator selection and constraint reification. In these areas, they lead to concise specifications that are easy to read and reason about. At compilation time, these specifications are translated to Prolog code, reducing interpretative run-time overheads. The devised languages can be used in the implementation of other finite domain constraint solvers as well and may contribute to their correctness, conciseness and efficiency.

@@ -1,0 +1,3 @@
+Complex-Valued Hough Transforms for Circles
+
+This paper advocates the use of complex variables to represent votes in the Hough transform for circle detection. Replacing the positive numbers classically used in the parameter space of the Hough transforms by complex numbers allows cancellation effects when adding up the votes. Cancellation and the computation of shape likelihood via a complex number's magnitude square lead to more robust solutions than the "classic" algorithms, as shown by computational experiments on synthetic and real datasets.

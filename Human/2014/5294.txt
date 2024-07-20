@@ -1,0 +1,3 @@
+Formalization of Complex Vectors in Higher-Order Logic
+
+Complex vector analysis is widely used to analyze continuous systems in many disciplines, including physics and engineering. In this paper, we present a higher-order-logic formalization of the complex vector space to facilitate conducting this analysis within the sound core of a theorem prover: HOL Light. Our definition of complex vector builds upon the definitions of complex numbers and real vectors. This extension allows us to extensively benefit from the already verified theorems based on complex analysis and real vector analysis. To show the practical usefulness of our library we adopt it to formalize electromagnetic fields and to prove the law of reflection for the planar waves.

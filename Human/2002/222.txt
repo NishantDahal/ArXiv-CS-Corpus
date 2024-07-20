@@ -1,0 +1,3 @@
+Performance evaluation of the GridFTP within the NorduGrid project
+
+This report presents results of the tests measuring the performance of multi-threaded file transfers, using the GridFTP implementation of the Globus project over the NorduGrid network resources. Point to point WAN tests, carried out between the sites of Copenhagen, Lund, Oslo and Uppsala, are described. It was found that multiple threaded download via the high performance GridFTP protocol can significantly improve file transfer performance, and can serve as a reliable data

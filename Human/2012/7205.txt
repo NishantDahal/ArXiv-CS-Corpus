@@ -1,0 +1,3 @@
+Decoding a Class of Affine Variety Codes with Fast DFT
+
+An efficient procedure for error-value calculations based on fast discrete Fourier transforms (DFT) in conjunction with Berlekamp-Massey-Sakata algorithm for a class of affine variety codes is proposed. Our procedure is achieved by multidimensional DFT and linear recurrence relations from Grobner basis and is applied to erasure-and-error decoding and systematic encoding. The computational complexity of error-value calculations in our algorithm improves that in solving systems of linear equations from error correcting pairs in many cases. A motivating example of our algorithm in case of a Reed-Solomon code and a numerical example of our algorithm in case of a Hermitian code are also described.

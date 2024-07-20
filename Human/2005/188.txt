@@ -1,0 +1,3 @@
+A Three-Stage Quantum Cryptography Protocol
+
+We present a three-stage quantum cryptographic protocol guaranteeing security in which each party uses its own secret key. Unlike the BB84 protocol, where the qubits are transmitted in only one direction and classical information exchanged thereafter, the communication in the proposed protocol remains quantum in each stage. A related system of key distribution is also described.

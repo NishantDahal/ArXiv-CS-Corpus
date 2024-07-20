@@ -1,0 +1,3 @@
+Parameter Sensitivity Analysis of Social Spider Algorithm
+
+Social Spider Algorithm (SSA) is a recently proposed general-purpose real-parameter metaheuristic designed to solve global numerical optimization problems. This work systematically benchmarks SSA on a suite of 11 functions with different control parameters. We conduct parameter sensitivity analysis of SSA using advanced non-parametric statistical tests to generate statistically significant conclusion on the best performing parameter settings. The conclusion can be adopted in future work to reduce the effort in parameter tuning. In addition, we perform a success rate test to reveal the impact of the control parameters on the convergence speed of the algorithm.

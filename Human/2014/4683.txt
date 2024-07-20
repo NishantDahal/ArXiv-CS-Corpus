@@ -1,0 +1,3 @@
+Modernizing PHCpack through phcpy
+
+PHCpack is a large software package for solving systems of polynomial equations. The executable phc is menu driven and file oriented. This paper describes the development of phcpy, a Python interface to PHCpack. Instead of navigating through menus, users of phcpy solve systems in the Python shell or via scripts. Persistent objects replace intermediate files.

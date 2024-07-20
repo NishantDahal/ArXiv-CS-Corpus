@@ -1,0 +1,3 @@
+Periods and borders of random words
+
+We investigate the behavior of the periods and border lengths of random words over a fixed alphabet. We show that the asymptotic probability that a random word has a given maximal border length $k$ is a constant, depending only on $k$ and the alphabet size $\ell$. We give a recurrence that allows us to determine these constants with any required precision. This also allows us to evaluate the expected period of a random word. For the binary case, the expected period is asymptotically about $n-1.641$. We also give explicit formulas for the probability that a random word is unbordered or has maximum border length one.

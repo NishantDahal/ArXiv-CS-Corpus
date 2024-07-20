@@ -1,0 +1,3 @@
+Guided Depth Upsampling for Precise Mapping of Urban Environments
+
+We present an improved model for MRF-based depth upsampling, guided by image- as well as 3D surface normal features. By exploiting the underlying camera model we define a novel regularization term that implicitly evaluates the planarity of arbitrary oriented surfaces. Our method improves upsampling quality in scenes composed of predominantly planar surfaces, such as urban areas. We use a synthetic dataset to demonstrate that our approach outperforms recent methods that implement distance-based regularization terms. Finally, we validate our approach for mapping applications on our experimental vehicle.

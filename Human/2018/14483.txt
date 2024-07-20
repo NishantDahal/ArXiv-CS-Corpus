@@ -1,0 +1,5 @@
+Universal Safety for Timed Petri Nets is PSPACE-complete
+
+A timed network consists of an arbitrary number of initially identical 1-clock timed automata, interacting via hand-shake communication. In this setting there is no unique central controller, since all automata are initially identical. We consider the universal safety problem for such controller-less timed networks, i.e., verifying that a bad event (enabling some given transition) is impossible regardless of the size of the network.
+  This universal safety problem is dual to the existential coverability problem for timed-arc Petri nets, i.e., does there exist a number $m$ of tokens, such that starting with $m$ tokens in a given place, and none in the other places, some given transition is eventually enabled.
+  We show that these problems are PSPACE-complete.

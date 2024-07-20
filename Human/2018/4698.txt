@@ -1,0 +1,4 @@
+Constructive noncommutative rank computation is in deterministic polynomial time
+
+We extend our techniques developed in our earlier paper appeared in Computational Complexity, 2017 (preprint: arXiv:1508.00690) to obtain a deterministic polynomial time algorithm for computing the non-commutative rank together with certificates of linear spaces of matrices over sufficiently large base fields.
+  The key new idea is a reduction procedure that keeps the blow-up parameter small, and there are two methods to implement this idea: the first one is a greedy argument that removes certain rows and columns, and the second one is an efficient algorithmic version of a result of Derksen and Makam. Both methods rely crucially on the regularity lemma in our aforementioned paper, and in this manuscript we also improve that lemma by removing a coprime condition there.

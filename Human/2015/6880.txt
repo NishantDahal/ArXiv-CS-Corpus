@@ -1,0 +1,3 @@
+Applicative Bisimulation and Quantum $λ$-Calculi (Long Version)
+
+Applicative bisimulation is a coinductive technique to check program equivalence in higher-order functional languages. It is known to be sound, and sometimes complete, with respect to context equivalence. In this paper we show that applicative bisimulation also works when the underlying language of programs takes the form of a linear $λ$-calculus extended with features such as probabilistic binary choice, but also quantum data, the latter being a setting in which linearity plays a role. The main results are proofs of soundness for the obtained notions of bisimilarity.

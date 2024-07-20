@@ -1,0 +1,4 @@
+Practical Aspects for a Working Compile Time Garbage Collection System for Mercury
+
+Compile-time garbage collection (CTGC) is still a very uncommon feature within compilers. In previous work we have developed a compile-time structure reuse system for Mercury, a logic programming language. This system indicates which datastructures can safely be reused at run-time. As preliminary experiments were promising, we have continued this work and have now a working and well performing near-to-ship CTGC-system built into the Melbourne Mercury Compiler (MMC).
+  In this paper we present the multiple design decisions leading to this system, we report the results of using CTGC for a set of benchmarks, including a real-world program, and finally we discuss further possible improvements. Benchmarks show substantial memory savings and a noticeable reduction in execution time.

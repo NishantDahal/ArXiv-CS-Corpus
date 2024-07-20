@@ -1,0 +1,3 @@
+Using Artificial Tokens to Control Languages for Multilingual Image Caption Generation
+
+Recent work in computer vision has yielded impressive results in automatically describing images with natural language. Most of these systems generate captions in a sin- gle language, requiring multiple language-specific models to build a multilingual captioning system. We propose a very simple technique to build a single unified model across languages, using artificial tokens to control the language, making the captioning system more compact. We evaluate our approach on generating English and Japanese captions, and show that a typical neural captioning architecture is capable of learning a single model that can switch between two different languages.

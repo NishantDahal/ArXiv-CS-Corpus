@@ -1,0 +1,6 @@
+The WILDTRACK Multi-Camera Person Dataset
+
+People detection methods are highly sensitive to the perpetual occlusions among the targets. As multi-camera set-ups become more frequently encountered, joint exploitation of the across views information would allow for improved detection performances. We provide a large-scale HD dataset named WILDTRACK which finally makes advanced deep learning methods applicable to this problem. The seven-static-camera set-up captures realistic and challenging scenarios of walking people.
+  Notably, its camera calibration with jointly high-precision projection widens the range of algorithms which may make use of this dataset. In aim to help accelerate the research on automatic camera calibration, such annotations also accompany this dataset.
+  Furthermore, the rich-in-appearance visual context of the pedestrian class makes this dataset attractive for monocular pedestrian detection as well, since: the HD cameras are placed relatively close to the people, and the size of the dataset further increases seven-fold.
+  In summary, we overview existing multi-camera datasets and detection methods, enumerate details of our dataset, and we benchmark multi-camera state of the art detectors on this new dataset.

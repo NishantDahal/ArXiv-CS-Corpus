@@ -1,0 +1,3 @@
+Gradient-based Filter Design for the Dual-tree Wavelet Transform
+
+The wavelet transform has seen success when incorporated into neural network architectures, such as in wavelet scattering networks. More recently, it has been shown that the dual-tree complex wavelet transform can provide better representations than the standard transform. With this in mind, we extend our previous method for learning filters for the 1D and 2D wavelet transforms into the dual-tree domain. We show that with few modifications to our original model, we can learn directional filters that leverage the properties of the dual-tree wavelet transform.

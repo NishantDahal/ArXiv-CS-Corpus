@@ -1,0 +1,3 @@
+Tool support for reasoning in display calculi
+
+We present a tool for reasoning in and about propositional sequent calculi. One aim is to support reasoning in calculi that contain a hundred rules or more, so that even relatively small pen and paper derivations become tedious and error prone. As an example, we implement the display calculus D.EAK of dynamic epistemic logic. Second, we provide embeddings of the calculus in the theorem prover Isabelle for formalising proofs about D.EAK. As a case study we show that the solution of the muddy children puzzle is derivable for any number of muddy children. Third, there is a set of meta-tools, that allows us to adapt the tool for a wide variety of user defined calculi.

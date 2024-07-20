@@ -1,0 +1,3 @@
+GraphState - a tool for graph identification and labelling
+
+We present python libraries for Feynman graphs manipulation. The key feature of these libraries is usage of generalization of graph representation offered by B. G. Nickel et al. In this approach graph is represented in some unique 'canonical' form that depends only on its combinatorial type. The uniqueness of graph representation gives an efficient way for isomorphism finding, searching for subgraphs and other graph manipulation tasks. Though offered libraries were originally designed for Feynman graphs, they might be useful for more general graph problems.

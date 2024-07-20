@@ -1,0 +1,3 @@
+Generalized Range Moves
+
+We consider move-making algorithms for energy minimization of multi-label Markov Random Fields (MRFs). Since this is not a tractable problem in general, a commonly used heuristic is to minimize over subsets of labels and variables in an iterative procedure. Such methods include α-expansion, αβ-swap, and range-moves. In each iteration, a small subset of variables are active in the optimization, which diminishes their effectiveness, and increases the required number of iterations. In this paper, we present a method in which optimization can be carried out over all labels, and most, or all variables at once. Experiments show substantial improvement with respect to previous move-making algorithms.

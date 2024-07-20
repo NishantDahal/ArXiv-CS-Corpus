@@ -1,0 +1,4 @@
+Continuous Yao Graphs
+
+In this paper, we introduce a variation of the well-studied Yao graphs. Given a set of points $S\subset \mathbb{R}^2$ and an angle $0 < θ\leq 2π$, we define the continuous Yao graph $cY(θ)$ with vertex set $S$ and angle $θ$ as follows. For each $p,q\in S$, we add an edge from $p$ to $q$ in $cY(θ)$ if there exists a cone with apex $p$ and aperture $θ$ such that $q$ is the closest point to $p$ inside this cone.
+  We study the spanning ratio of $cY(θ)$ for different values of $θ$. Using a new algebraic technique, we show that $cY(θ)$ is a spanner when $θ\leq 2π/3$. We believe that this technique may be of independent interest. We also show that $cY(π)$ is not a spanner, and that $cY(θ)$ may be disconnected for $θ> π$.

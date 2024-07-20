@@ -1,0 +1,3 @@
+Experiences with OpenMP in tmLQCD
+
+An overview is given of the lessons learned from the introduction of multi-threading using OpenMP in tmLQCD. In particular, programming style, performance measurements, cache misses, scaling, thread distribution for hybrid codes, race conditions, the overlapping of communication and computation and the measurement and reduction of certain overheads are discussed. Performance measurements and sampling profiles are given for different implementations of the hopping matrix computational kernel.

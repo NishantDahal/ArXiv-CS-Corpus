@@ -1,0 +1,7 @@
+Hardness and algorithmic results for the approximate cover problem
+
+In CPM 2017, Amir et al. introduce a problem, named \emph{approximate string cover} (\textbf{ACP}), motivated by many aplications including coding and automata theory, formal language theory, combinatorics and molecular biology. A \emph{cover} of a string $T$ is a string $C$ for which every letter of $T$ lies within some occurrence of $C$. The input of the \textbf{ACP} problem consists of a string $T$ and an integer $m$ (less than the length of $T$), and the goal is to find a string $C$ of length $m$ that covers a string $T'$ which is as close to $T$ as possible (under some predefined distance). Amir et al. study the problem for the Hamming distance.
+  In this paper we continue the work of Amir et al. and show the following results:
+  We show an approximation algorithm for the \textbf{ACP} with an approximation ratio of $\sqrt{OPT}$, where OPT is the size of the optimal solution.
+  We provide an FPT algorithm with respect to the alphabet size. \item The \textbf{ACP} problem naturally extends to pseudometrics. Moreover, we show that for some family of pseudometrics, that we term \emph{homogenous additive pseudometrics}, the complexity of \textbf{ACP} remains unchanged.
+  We partially give an answer to an open problem of Amir et al. and show that the Hamming distance over an unbounded alphabet is equivalent to an extended metric over a fixed sized alphabet.

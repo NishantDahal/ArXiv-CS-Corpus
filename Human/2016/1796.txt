@@ -1,0 +1,3 @@
+Category theoretic semantics for theorem proving in logic programming: embracing the laxness
+
+A propositional logic program $P$ may be identified with a $P_fP_f$-coalgebra on the set of atomic propositions in the program. The corresponding $C(P_fP_f)$-coalgebra, where $C(P_fP_f)$ is the cofree comonad on $P_fP_f$, describes derivations by resolution. Using lax semantics, that correspondence may be extended to a class of first-order logic programs without existential variables. The resulting extension captures the proofs by term-matching resolution in logic programming. Refining the lax approach, we further extend it to arbitrary logic programs. We also exhibit a refinement of Bonchi and Zanasi's saturation semantics for logic programming that complements lax semantics.

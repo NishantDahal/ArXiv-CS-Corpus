@@ -1,0 +1,4 @@
+DeepPainter: Painter Classification Using Deep Convolutional Autoencoders
+
+In this paper we describe the problem of painter classification, and propose a novel approach based on deep convolutional autoencoder neural networks. While previous approaches relied on image processing and manual feature extraction from paintings, our approach operates on the raw pixel level, without any preprocessing or manual feature extraction. We first train a deep convolutional autoencoder on a dataset of paintings, and subsequently use it to initialize a supervised convolutional neural network for the classification phase.
+  The proposed approach substantially outperforms previous methods, improving the previous state-of-the-art for the 3-painter classification problem from 90.44% accuracy (previous state-of-the-art) to 96.52% accuracy, i.e., a 63% reduction in error rate.

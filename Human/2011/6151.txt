@@ -1,0 +1,4 @@
+Distributed Maximal Matching: Greedy is Optimal
+
+We study distributed algorithms that find a maximal matching in an anonymous, edge-coloured graph. If the edges are properly coloured with $k$ colours, there is a trivial greedy algorithm that finds a maximal matching in $k-1$ synchronous communication rounds. The present work shows that the greedy algorithm is optimal in the general case: any algorithm that finds a maximal matching in anonymous, $k$-edge-coloured graphs requires $k-1$ rounds.
+  If we focus on graphs of maximum degree $Δ$, it is known that a maximal matching can be found in $O(Δ+ \log^* k)$ rounds, and prior work implies a lower bound of $Ω(\polylog(Δ) + \log^* k)$ rounds. Our work closes the gap between upper and lower bounds: the complexity is $Θ(Δ+ \log^* k)$ rounds. To our knowledge, this is the first linear-in-$Δ$ lower bound for the distributed complexity of a classical graph problem.

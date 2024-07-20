@@ -1,0 +1,3 @@
+Characteristic polynomials of p-adic matrices
+
+We analyze the precision of the characteristic polynomial of an $n\times n$ p-adic matrix A using differential precision methods developed previously. When A is integral with precision O(p^N), we give a criterion (checkable in time O~(n^omega)) for $χ$(A) to have precision exactly O(p^N). We also give a O~(n^3) algorithm for determining the optimal precision when the criterion is not satisfied, and give examples when the precision is larger than O(p^N).

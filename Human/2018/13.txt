@@ -1,0 +1,5 @@
+A Deterministic Protocol for Sequential Asymptotic Learning
+
+In the classic herding model, agents receive private signals about an underlying binary state of nature, and act sequentially to choose one of two possible actions, after observing the actions of their predecessors.
+  We investigate what types of behaviors lead to asymptotic learning, where agents will eventually converge to the right action in probability. It is known that for rational agents and bounded signals, there will not be asymptotic learning.
+  Does it help if the agents can be cooperative rather than act selfishly? This is simple to achieve if the agents are allowed to use randomized protocols. In this paper, we provide the first deterministic protocol under which asymptotic learning occurs. In addition, our protocol has the advantage of being much simpler than previous protocols.

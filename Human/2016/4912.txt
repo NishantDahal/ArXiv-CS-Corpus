@@ -1,0 +1,5 @@
+Forbidden Subgraph Bounds for Parallel Repetition and the Density Hales-Jewett Theorem
+
+We study a special kind of bounds (so called forbidden subgraph bounds, cf. Feige, Verbitsky '02) for parallel repetition of multi-prover games.
+  First, we show that forbidden subgraph upper bounds for $r \ge 3$ provers imply the same bounds for the density Hales-Jewett theorem for alphabet of size $r$. As a consequence, this yields a new family of games with slow decrease in the parallel repetition value.
+  Second, we introduce a new technique for proving exponential forbidden subgraph upper bounds and explore its power and limitations. In particular, we obtain exponential upper bounds for two-prover games with question graphs of treewidth at most two and show that our method cannot give exponential bounds for all two-prover graphs.

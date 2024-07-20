@@ -1,0 +1,3 @@
+A Quantum Algorithm for Finding the Minimum
+
+We give a quantum algorithm to find the index y in a table T of size N such that in time O(c sqrt N), T[y] is minimum with probability at least 1-1/2^c.

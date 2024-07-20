@@ -1,0 +1,3 @@
+Cleartext Data Transmissions in Consumer IoT Medical Devices
+
+This paper introduces a method to capture network traffic from medical IoT devices and automatically detect cleartext information that may reveal sensitive medical conditions and behaviors. The research follows a three-step approach involving traffic collection, cleartext detection, and metadata analysis. We analyze four popular consumer medical IoT devices, including one smart medical device that leaks sensitive health information in cleartext. We also present a traffic capture and analysis system that seamlessly integrates with a home network and offers a user-friendly interface for consumers to monitor and visualize data transmissions of IoT devices in their homes.

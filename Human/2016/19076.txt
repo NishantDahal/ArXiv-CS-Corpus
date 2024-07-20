@@ -1,0 +1,3 @@
+Efficient quantum walk on the grid with multiple marked elements
+
+We give a quantum algorithm for finding a marked element on the grid when there are multiple marked elements. Our algorithm uses quadratically fewer steps than a random walk on the grid, ignoring logarithmic factors. This is the first known quantum walk that finds a marked element in a number of steps less than the square-root of the extended hitting time. We also give a new tighter upper bound on the extended hitting time of a marked subset, expressed in terms of the hitting times of its members.

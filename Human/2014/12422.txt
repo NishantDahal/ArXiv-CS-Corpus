@@ -1,0 +1,7 @@
+Pseudorandomness for concentration bounds and signed majorities
+
+The problem of constructing pseudorandom generators that fool halfspaces has been studied intensively in recent times. For fooling halfspaces over the hypercube with polynomially small error, the best construction known requires seed-length O(log^2 n) (MekaZ13). Getting the seed-length down to O(log(n)) is a natural challenge in its own right, which needs to be overcome in order to derandomize RL. In this work we make progress towards this goal by obtaining near-optimal generators for two important special cases:
+  1) We give a near optimal derandomization of the Chernoff bound for independent, uniformly random bits. Specifically, we show how to generate a x in {1,-1}^n using $\tilde{O}(\log (n/ε))$ random bits such that for any unit vector u, <u,x> matches the sub-Gaussian tail behaviour predicted by the Chernoff bound up to error eps.
+  2) We construct a generator which fools halfspaces with {0,1,-1} coefficients with error eps with a seed-length of $\tilde{O}(\log(n/ε))$. This includes the important special case of majorities.
+  In both cases, the best previous results required seed-length of $O(\log n + \log^2(1/ε))$.
+  Technically, our work combines new Fourier-analytic tools with the iterative dimension reduction techniques and the gradually increasing independence paradigm of previous works (KaneMN11, CelisRSW13, GopalanMRTV12).

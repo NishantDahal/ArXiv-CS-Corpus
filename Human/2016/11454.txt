@@ -1,0 +1,3 @@
+Computer Aided Restoration of Handwritten Character Strokes
+
+This work suggests a new variational approach to the task of computer aided restoration of incomplete characters, residing in a highly noisy document. We model character strokes as the movement of a pen with a varying radius. Following this model, a cubic spline representation is being utilized to perform gradient descent steps, while maintaining interpolation at some initial (manually sampled) points. The proposed algorithm was utilized in the process of restoring approximately 1000 ancient Hebrew characters (dating to ca. 8th-7th century BCE), some of which are presented herein and show that the algorithm yields plausible results when applied on deteriorated documents.

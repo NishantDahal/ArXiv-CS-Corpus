@@ -1,0 +1,3 @@
+Computing maximal copies of polytopes contained in a polytope
+
+Kepler (1619) and Croft (1980) have considered largest homothetic copies of one regular polytope contained in another regular polytope. For arbitrary pairs of polytopes we propose to model this as a quadratically constrained optimization problem. These problems can then be solved numerically; in case the optimal solutions are algebraic, exact optima can be recovered by solving systems of equations to very high precision and then using integer relation algorithms. Based on this approach, we complete Croft's solution to the problem concerning maximal inclusions of regular three-dimensional polyhedra by describing inclusions for the six remaining cases.

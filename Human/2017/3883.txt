@@ -1,0 +1,4 @@
+Steiner Point Removal --- Distant Terminals Don't (Really) Bother
+
+Given a weighted graph $G=(V,E,w)$ with a set of $k$ terminals $T\subset V$, the Steiner Point Removal problem seeks for a minor of the graph with vertex set $T$, such that the distance between every pair of terminals is preserved within a small multiplicative distortion. Kamma, Krauthgamer and Nguyen (SODA 2014, SICOMP 2015) used a ball-growing algorithm to show that the distortion is at most $\mathcal{O}(\log^5 k)$ for general graphs.
+  In this paper, we improve the distortion bound to $\mathcal{O}(\log^2 k)$. The improvement is achieved based on a known algorithm that constructs terminal-distance exact-preservation minor with $\mathcal{O}(k^4)$ (which is independent of $|V|$) vertices, and also two tail bounds on the sum of independent exponential random variables, which allow us to show that it is unlikely for a non-terminal being contracted to a distant terminal.

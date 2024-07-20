@@ -1,0 +1,3 @@
+Triple cyclic codes over $\mathbb{Z}_2$
+
+Let $r,s,t$ be three positive integers and $\mathcal{C}$ be a binary linear code of lenght $r+s+t$. We say that $\mathcal{C}$ is a triple cyclic code of lenght $(r,s,t)$ over $\mathbb{Z}_2$ if the set of coordinates can be partitioned into three parts that any cyclic shift of the coordinates of the parts leaves invariant the code. These codes can be considered as $\mathbb{Z}_2[x]$-submodules of $\frac{\mathbb{Z}_2[x]}{\langle x^r-1\rangle}\times\frac{\mathbb{Z}_2[x]}{\langle x^s-1\rangle}\times\frac{\mathbb{Z}_2[x]}{\langle x^t-1\rangle}$. We give the minimal generating sets of this kind of codes. Also, we determine the relationship between the generators of triple cyclic codes and their duals.

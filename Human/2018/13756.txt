@@ -1,0 +1,3 @@
+emgr - The Empirical Gramian Framework
+
+System Gramian matrices are a well-known encoding for properties of input-output systems such as controllability, observability or minimality. These so-called system Gramians were developed in linear system theory for applications such as model order reduction of control systems. Empirical Gramian are an extension to the system Gramians for parametric and nonlinear systems as well as a data-driven method of computation. The empirical Gramian framework - emgr - implements the empirical Gramians in a uniform and configurable manner, with applications such as Gramian-based (nonlinear) model reduction, decentralized control, sensitivity analysis, parameter identification and combined state and parameter reduction.

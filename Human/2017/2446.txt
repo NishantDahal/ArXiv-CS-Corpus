@@ -1,0 +1,3 @@
+Structure-Based Subspace Method for Multi-Channel Blind System Identification
+
+In this work, a novel subspace-based method for blind identification of multichannel finite impulse response (FIR) systems is presented. Here, we exploit directly the impeded Toeplitz channel structure in the signal linear model to build a quadratic form whose minimization leads to the desired channel estimation up to a scalar factor. This method can be extended to estimate any predefined linear structure, e.g. Hankel, that is usually encountered in linear systems. Simulation findings are provided to highlight the appealing advantages of the new structure-based subspace (SSS) method over the standard subspace (SS) method in certain adverse identification scenarii.

@@ -1,0 +1,3 @@
+Conical: an extended module for computing a numerically satisfactory pair of solutions of the differential equation for conical functions
+
+Conical functions appear in a large number of applications in physics and engineering. In this paper we describe an extension of our module CONICAL for the computation of conical functions. Specifically, the module includes now a routine for computing the function ${\rm R}^{m}_{-\frac{1}{2}+iτ}(x)$, a real-valued numerically satisfactory companion of the function ${\rm P}^m_{-\tfrac12+iτ}(x)$ for $x>1$. In this way, a natural basis for solving Dirichlet problems bounded by conical domains is provided.

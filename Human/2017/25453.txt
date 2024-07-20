@@ -1,0 +1,3 @@
+The Minimum Edge Compact Spanner Network Design Problem
+
+In this paper we introduce and study the Minimum Edge Compact Spanner~(MECS) problem. We prove hardness results related to the problem, design exact and greedy algorithms for solving the problem, and show related experimental results. The MECS problem looks for sparse subgraphs of an input graph, such that the average shortest path distance is preserved to a constant factor. Average distance is a measure of the ease of communication over the network. As a result such problems have applications in areas where one wants to substitute a dense graph with a sparse subgraph while maintaining a low cost of communication.

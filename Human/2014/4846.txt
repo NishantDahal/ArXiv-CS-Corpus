@@ -1,0 +1,4 @@
+On sub-determinants and the diameter of polyhedra
+
+We derive a new upper bound on the diameter of a polyhedron P = {x \in R^n : Ax <= b}, where A \in Z^{m\timesn}. The bound is polynomial in n and the largest absolute value of a sub-determinant of A, denoted by Δ. More precisely, we show that the diameter of P is bounded by O(Δ^2 n^4 log nΔ). If P is bounded, then we show that the diameter of P is at most O(Δ^2 n^3.5 log nΔ).
+  For the special case in which A is a totally unimodular matrix, the bounds are O(n^4 log n) and O(n^3.5 log n) respectively. This improves over the previous best bound of O(m^16 n^3 (log mn)^3) due to Dyer and Frieze.

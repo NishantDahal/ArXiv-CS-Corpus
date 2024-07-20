@@ -1,0 +1,3 @@
+Modular meta-learning in abstract graph networks for combinatorial generalization
+
+Modular meta-learning is a new framework that generalizes to unseen datasets by combining a small set of neural modules in different ways. In this work we propose abstract graph networks: using graphs as abstractions of a system's subparts without a fixed assignment of nodes to system subparts, for which we would need supervision. We combine this idea with modular meta-learning to get a flexible framework with combinatorial generalization to new tasks built in. We then use it to model the pushing of arbitrarily shaped objects from little or no training data.

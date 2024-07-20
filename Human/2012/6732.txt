@@ -1,0 +1,4 @@
+The Relative Exponential Time Complexity of Approximate Counting Satisfying Assignments
+
+We study the exponential time complexity of approximate counting satisfying assignments of CNFs. We reduce the problem to deciding satisfiability of a CNF. Our reduction preserves the number of variables of the input formula and thus also preserves the exponential complexity of approximate counting.
+  Our algorithm is also similar to an algorithm which works particular well in practice for which however no approximation guarantee was known. Towards an analysis of our reduction we provide a new inequality similar to the Bonami-Beckner hypercontractive inequality.

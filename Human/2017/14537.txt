@@ -1,0 +1,3 @@
+Truthfulness in Repeated Predictions
+
+Proper scoring rules elicit truth-telling when making predictions, or otherwise revealing information. However, when multiple predictions are made of the same event, telling the truth is in general no longer optimal, as agents are motivated to distort early predictions to mislead competitors. We demonstrate this, and then prove a significant exception: In a multi-agent prediction setting where all agent signals belong to a jointly multivariate normal distribution, and signal variances are common knowledge, the (proper) logarithmic scoring rule will elicit truthful predictions from every agent at every prediction, regardless of the number, order and timing of predictions. The result applies in several financial models.

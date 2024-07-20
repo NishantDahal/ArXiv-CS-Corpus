@@ -1,0 +1,3 @@
+On the approximability of minmax (regret) network optimization problems
+
+In this paper the minmax (regret) versions of some basic polynomially solvable deterministic network problems are discussed. It is shown that if the number of scenarios is unbounded, then the problems under consideration are not approximable within $\log^{1-ε} K$ for any $ε>0$ unless NP $\subseteq$ DTIME$(n^{\mathrm{poly} \log n})$, where $K$ is the number of scenarios.

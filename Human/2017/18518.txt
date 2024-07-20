@@ -1,0 +1,3 @@
+Finite-state Strategies in Delay Games
+
+What is a finite-state strategy in a delay game? We answer this surprisingly non-trivial question and present a very general framework for computing such strategies: they exist for all winning conditions that are recognized by automata with acceptance conditions that satisfy a certain aggregation property. Our framework also yields upper bounds on the complexity of determining the winner of such delay games and upper bounds on the necessary lookahead to win the game. In particular, we cover all previous results of that kind as special cases of our uniform approach.

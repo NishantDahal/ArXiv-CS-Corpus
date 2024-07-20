@@ -1,0 +1,3 @@
+PyFAI: a Python library for high performance azimuthal integration on GPU
+
+The pyFAI package has been designed to reduce X-ray diffraction images into powder diffraction curves to be further processed by scientists. This contribution describes how to convert an image into a radial profile using the Numpy package, how the process was accelerated using Cython. The algorithm was parallelised, needing a complete re-design to benefit from massively parallel devices like graphical processing units or accelerators like the Intel Xeon Phi using the PyOpenCL library.

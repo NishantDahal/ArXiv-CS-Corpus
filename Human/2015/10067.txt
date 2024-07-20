@@ -1,0 +1,4 @@
+A characterization of MDS codes that have an error correcting pair
+
+Error-correcting pairs were introduced in 1988 by R. Pellikaan, and were found independently by R. Kötter (1992), as a general algebraic method of decoding linear codes. These pairs exist for several classes of codes. However little or no study has been made for characterizing those codes. This article is an attempt to fill the vacuum left by the literature concerning this subject. Since every linear code is contained in an MDS code of the same minimum distance over some finite field extension we have focused our study on the class of MDS codes.
+  Our main result states that an MDS code of minimum distance $2t+1$ has a $t$-ECP if and only if it is a generalized Reed-Solomon code. A second proof is given using recent results Mirandola and Zémor (2015) on the Schur product of codes.

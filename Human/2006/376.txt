@@ -1,0 +1,6 @@
+Robust Polynomials and Quantum Algorithms
+
+We define and study the complexity of robust polynomials for Boolean functions and the related fault-tolerant quantum decision trees, where input bits are perturbed by noise. We compare several different possible definitions. Our main results are
+  * For every n-bit Boolean function f there is an n-variate polynomial p of degree O(n) that robustly approximates it, in the sense that p(x) remains close to f(x) if we slightly vary each of the n inputs of the polynomial.
+  * There is an O(n)-query quantum algorithm that robustly recovers n noisy input bits. Hence every n-bit function can be quantum computed with O(n) queries in the presence of noise. This contrasts with the classical model of Feige et al., where functions such as parity need Theta(n*log n) queries.
+  We give several extensions and applications of these results.

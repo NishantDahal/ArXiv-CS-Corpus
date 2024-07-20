@@ -1,0 +1,3 @@
+Toward uniform random generation in 1-safe Petri nets
+
+We study the notion of uniform measure on the space of infinite executions of a 1-safe Petri net. Here, executions of 1-safe Petri nets are understood up to commutation of concurrent transitions, which introduces a challenge compared to usual transition systems. We obtain that the random generation of infinite executions reduces to the simulation of a finite state Markov chain. Algorithmic issues are discussed.

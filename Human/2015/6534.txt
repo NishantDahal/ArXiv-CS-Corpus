@@ -1,0 +1,4 @@
+On Topological Minors in Random Simplicial Complexes
+
+For random graphs, the containment problem considers the probability that a binomial random graph $G(n,p)$ contains a given graph as a substructure. When asking for the graph as a topological minor, i.e., for a copy of a subdivision of the given graph, it is well-known that the (sharp) threshold is at $p=1/n$. We consider a natural analogue of this question for higher-dimensional random complexes $X^k(n,p)$, first studied by Cohen, Costa, Farber and Kappeler for $k=2$.
+  Improving previous results, we show that $p=Θ(1/\sqrt{n})$ is the (coarse) threshold for containing a subdivision of any fixed complete $2$-complex. For higher dimensions $k>2$, we get that $p=O(n^{-1/k})$ is an upper bound for the threshold probability of containing a subdivision of a fixed $k$-dimensional complex.

@@ -1,0 +1,3 @@
+Deadlock detection of Java Bytecode
+
+This paper presents a technique for deadlock detection of Java programs. The technique uses typing rules for extracting infinite-state abstract models of the dependencies among the components of the Java intermediate language -- the Java bytecode. Models are subsequently analysed by means of an extension of a solver that we have defined for detecting deadlocks in process calculi. Our technique is complemented by a prototype verifier that also covers most of the Java features.

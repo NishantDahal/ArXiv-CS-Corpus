@@ -1,0 +1,3 @@
+A Proof of the Pumping Lemma for Context-Free Languages Through Pushdown Automata
+
+The pumping lemma for context-free languages is a result about pushdown automata which is strikingly similar to the well-known pumping lemma for regular languages. However, though the lemma for regular languages is simply proved by using the pigeonhole principle on deterministic automata, the lemma for pushdown automata is proven through an equivalence with context-free languages and through the more powerful Ogden's lemma. We present here a proof of the pumping lemma for context-free languages which relies on pushdown automata instead of context-free grammars.

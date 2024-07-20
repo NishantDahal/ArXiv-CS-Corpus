@@ -1,0 +1,5 @@
+Knowledge Compilation of Logic Programs Using Approximation Fixpoint Theory
+
+To appear in Theory and Practice of Logic Programming (TPLP), Proceedings of ICLP 2015
+  Recent advances in knowledge compilation introduced techniques to compile \emph{positive} logic programs into propositional logic, essentially exploiting the constructive nature of the least fixpoint computation. This approach has several advantages over existing approaches: it maintains logical equivalence, does not require (expensive) loop-breaking preprocessing or the introduction of auxiliary variables, and significantly outperforms existing algorithms. Unfortunately, this technique is limited to \emph{negation-free} programs. In this paper, we show how to extend it to general logic programs under the well-founded semantics.
+  We develop our work in approximation fixpoint theory, an algebraical framework that unifies semantics of different logics. As such, our algebraical results are also applicable to autoepistemic logic, default logic and abstract dialectical frameworks.

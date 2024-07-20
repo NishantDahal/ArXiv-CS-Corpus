@@ -1,0 +1,4 @@
+Four-coloring $P_6$-free graphs. I. Extending an excellent precoloring
+
+This is the first paper in a series whose goal is to give a polynomial time algorithm for the $4$-coloring problem and the $4$-precoloring extension problem restricted to the class of graphs with no induced six-vertex path, thus proving a conjecture of Huang. Combined with previously known results this completes the classification of the complexity of the $4$-coloring problem for graphs with a connected forbidden induced subgraph.
+  In this paper we give a polynomial time algorithm that determines if a special kind of precoloring of a $P_6$-free graph has a precoloring extension, and constructs such an extension if one exists. Combined with the main result of the second paper of the series, this gives a complete solution to the problem.

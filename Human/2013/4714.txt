@@ -1,0 +1,8 @@
+A New Approach to Output-Sensitive Voronoi Diagrams and Delaunay Triangulations
+
+We describe a new algorithm for computing the Voronoi diagram of a set of $n$ points in constant-dimensional Euclidean space.
+  The running time of our algorithm is $O(f \log n \log Δ)$ where $f$ is the output complexity of the Voronoi diagram and $Δ$ is the spread of the input, the ratio of largest to smallest pairwise distances.
+  Despite the simplicity of the algorithm and its analysis, it improves on the state of the art for all inputs with polynomial spread and near-linear output size.
+  The key idea is to first build the Voronoi diagram of a superset of the input points using ideas from Voronoi refinement mesh generation.
+  Then, the extra points are removed in a straightforward way that allows the total work to be bounded in terms of the output complexity, yielding the output sensitive bound.
+  The removal only involves local flips and is inspired by kinetic data structures.

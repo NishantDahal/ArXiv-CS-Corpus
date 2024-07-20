@@ -1,0 +1,3 @@
+Multi-view Consistency in UML
+
+We study the question of consistency of multi-view models in UML and OCL. We first critically survey the large amount of literature that already exists. We find that only limited subsets of the UML/OCL have been covered so far and that consistency checks mostly only cover structural aspects, whereas only few methods also address behaviour. We also give a classification of different techniques for multi-view UML/OCL consistency: consistency rules, the system model approach, dynamic meta-modelling, universal logic, and heterogeneous transformation. Finally, we elaborate cornerstones of a comprehensive distributed semantics approach to consistency using OMG's Distributed Ontology, Model and Specification Language (DOL).

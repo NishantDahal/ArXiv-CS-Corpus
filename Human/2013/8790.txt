@@ -1,0 +1,6 @@
+Identifying Compiler Options to Minimise Energy Consumption for Embedded Platforms
+
+This paper presents an analysis of the energy consumption of an extensive number of the optimisations a modern compiler can perform. Using GCC as a test case, we evaluate a set of ten carefully selected benchmarks for five different embedded platforms.
+  A fractional factorial design is used to systematically explore the large optimisation space (2^82 possible combinations), whilst still accurately determining the effects of optimisations and optimisation combinations. Hardware power measurements on each platform are taken to ensure all architectural effects on the energy consumption are captured.
+  We show that fractional factorial design can find more optimal combinations than relying on built in compiler settings. We explore the relationship between run-time and energy consumption, and identify scenarios where they are and are not correlated.
+  A further conclusion of this study is the structure of the benchmark has a larger effect than the hardware architecture on whether the optimisation will be effective, and that no single optimisation is universally beneficial for execution time or energy consumption.

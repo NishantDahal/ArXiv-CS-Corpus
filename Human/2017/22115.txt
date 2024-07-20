@@ -1,0 +1,3 @@
+Hyper-dimensional computing for a visual question-answering system that is trainable end-to-end
+
+In this work we propose a system for visual question answering. Our architecture is composed of two parts, the first part creates the logical knowledge base given the image. The second part evaluates questions against the knowledge base. Differently from previous work, the knowledge base is represented using hyper-dimensional computing. This choice has the advantage that all the operations in the system, namely creating the knowledge base and evaluating the questions against it, are differentiable, thereby making the system easily trainable in an end-to-end fashion.

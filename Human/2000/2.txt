@@ -1,0 +1,3 @@
+Numerical Replication of Computer Simulations: Some Pitfalls and How To Avoid Them
+
+A computer simulation, such as a genetic algorithm, that uses IEEE standard floating-point arithmetic may not produce exactly the same results in two different runs, even if it is rerun on the same computer with the same input and random number seeds. Researchers should not simply assume that the results from one run replicate those from another but should verify this by actually comparing the data. However, researchers who are aware of this pitfall can reliably replicate simulations, in practice. This paper discusses the problem and suggests solutions.

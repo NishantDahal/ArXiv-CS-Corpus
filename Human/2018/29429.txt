@@ -1,0 +1,3 @@
+A Game of Nontransitive Dice
+
+We consider a two player simultaneous-move game where the two players each select any permissible $n$-sided die for a fixed integer $n$. A player wins if the outcome of his roll is greater than that of his opponent. Remarkably, for $n>3$, there is a unique Nash Equilibrium in pure strategies. The unique Nash Equilibrium is for each player to throw the Standard $n$-sided die, where each side has a different number. Our proof of uniqueness is constructive. We introduce an algorithm with which, for any nonstandard die, we may generate another die that beats it.

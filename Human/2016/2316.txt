@@ -1,0 +1,3 @@
+Locally rewritable codes for resistive memories
+
+We propose locally rewritable codes (LWC) for resistive memories inspired by locally repairable codes (LRC) for distributed storage systems. Small values of repair locality of LRC enable fast repair of a single failed node since the lost data in the failed node can be recovered by accessing only a small fraction of other nodes. By using rewriting locality, LWC can improve endurance limit and power consumption which are major challenges for resistive memories. We point out the duality between LRC and LWC, which indicates that existing construction methods of LRC can be applied to construct LWC.

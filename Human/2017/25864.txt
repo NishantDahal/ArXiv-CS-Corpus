@@ -1,0 +1,4 @@
+Iterative Deep Learning for Network Topology Extraction
+
+This paper tackles the task of estimating the topology of filamentary networks such as retinal vessels and road networks. Building on top of a global model that performs a dense semantical classification of the pixels of the image, we design a Convolutional Neural Network (CNN) that predicts the local connectivity between the central pixel of an input patch and its border points. By iterating this local connectivity we sweep the whole image and infer the global topology of the filamentary network, inspired by a human delineating a complex network with the tip of their finger.
+  We perform an extensive and comprehensive qualitative and quantitative evaluation on two tasks: retinal veins and arteries topology extraction and road network estimation. In both cases, represented by two publicly available datasets (DRIVE and Massachusetts Roads), we show superior performance to very strong baselines.

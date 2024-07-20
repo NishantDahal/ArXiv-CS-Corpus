@@ -1,0 +1,3 @@
+A wavelet frame coefficient total variational model for image restoration
+
+In this paper, we propose a vector total variation (VTV) of feature image model for image restoration. The VTV imposes different smoothing powers on different features (e.g. edges and cartoons) based on choosing various regularization parameters. Thus, the model can simultaneously preserve edges and remove noises. Next, the existence of solution for the model is proved and the split Bregman algorithm is used to solve the model. At last, we use the wavelet filter banks to explicitly define the feature operator and present some experimental results to show its advantage over the related methods in both quality and efficiency.

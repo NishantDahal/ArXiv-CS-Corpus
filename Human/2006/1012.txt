@@ -1,0 +1,3 @@
+Infinite Qualitative Simulations by Means of Constraint Programming
+
+We introduce a constraint-based framework for studying infinite qualitative simulations concerned with contingencies such as time, space, shape, size, abstracted into a finite set of qualitative relations. To define the simulations, we combine constraints that formalize the background knowledge concerned with qualitative reasoning with appropriate inter-state constraints that are formulated using linear temporal logic. We implemented this approach in a constraint programming system by drawing on ideas from bounded model checking. The resulting system allows us to test and modify the problem specifications in a straightforward way and to combine various knowledge aspects.

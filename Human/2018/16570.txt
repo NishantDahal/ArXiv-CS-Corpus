@@ -1,0 +1,3 @@
+Phase Noise Compensation Using Limited Reference Symbols in 3GPP LTE Downlink
+
+It is known that phase noise (PN) can cause link performance to degrade severely in orthogonal frequency division multiplexing (OFDM) systems, such as IEEE 802.11, 3GPP LTE and 5G. As opposed to prior PN mitigation schemes that assume perfect channel information and/or abundant reference symbols (e.g., in 802.11), the proposed PN compensation technique applies to LTE and 5G downlink with a limited number of reference symbols. Specifically, in this work, we propose an efficient PN mitigation algorithm where the PN statistics are used to obtain more accurate channel estimates. Based on LTE downlink subframe structure, numerical results corroborate the effectiveness of the proposed algorithm.

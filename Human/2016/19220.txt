@@ -1,0 +1,3 @@
+Compressed Sensing Algorithms for OFDM Channel Estimation
+
+Radio channels are typically sparse in the delay domain, and ideal for compressed sensing. A new compressed sensing algorithm called eX-OMP is developed that yields performance similar to that of the optimal MMSE estimator. The new algorithm relies on a small amount additional data. Both eX-OMP and the MMSE estimator adaptively balance channel tracking and noise reduction. They perform better than simple estimators such as the linear-interpolator which fix this trade-off a priori. Some wideband measurements are examined, and the channels are found to be represented by a few delays.

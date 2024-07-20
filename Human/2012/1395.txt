@@ -1,0 +1,5 @@
+On the algebraic representation of selected optimal non-linear binary codes
+
+Revisiting an approach by Conway and Sloane we investigate a collection of optimal non-linear binary codes and represent them as (non-linear) codes over Z4. The Fourier transform will be used in order to analyze these codes, which leads to a new algebraic representation involving subgroups of the group of units in a certain ring.
+  One of our results is a new representation of Best's (10, 40, 4) code as a coset of a subgroup in the group of invertible elements of the group ring Z4[Z5]. This yields a particularly simple algebraic decoding algorithm for this code.
+  The technique at hand is further applied to analyze Julin's (12, 144, 4) code and the (12, 24, 12) Hadamard code. It can also be used in order to construct a (non-optimal) binary (14, 56, 6) code.

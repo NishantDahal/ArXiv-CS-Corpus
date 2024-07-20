@@ -1,0 +1,3 @@
+Putting Logic-Based Distributed Systems on Stable Grounds
+
+In the Declarative Networking paradigm, Datalog-like languages are used to express distributed computations. Whereas recently formal operational semantics for these languages have been developed, a corresponding declarative semantics has been lacking so far. The challenge is to capture precisely the amount of nondeterminism that is inherent to distributed computations due to concurrency, networking delays, and asynchronous communication. This paper shows how a declarative, model-based semantics can be obtained by simply using the well-known stable model semantics for Datalog with negation. We show that the model-based semantics matches previously proposed formal operational semantics.

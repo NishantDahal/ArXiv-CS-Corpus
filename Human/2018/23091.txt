@@ -1,0 +1,3 @@
+Kleene's Two Kinds of Recursion
+
+This is an elementary expository article regarding the application of Kleene's Recursion Theorems in making definitions by recursion. Whereas the Second Recursion Theorem (SRT) is applicable in a first-order setting, the First Recursion Theorem (FRT) requires a higher-order setting. In some cases both theorems are applicable, but one is stronger than the other: the FRT always produces least fixed points, but this is not always the case with the SRT. Nevertheless, an old result by Rogers allows us to bridge this gap by subtly redefining the implementation of a higher-order functional in order to bring it to a `standard form.'

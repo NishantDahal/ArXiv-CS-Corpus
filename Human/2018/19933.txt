@@ -1,0 +1,3 @@
+Belief Propagation Min-Sum Algorithm for Generalized Min-Cost Network Flow
+
+Belief Propagation algorithms are instruments used broadly to solve graphical model optimization and statistical inference problems. In the general case of a loopy Graphical Model, Belief Propagation is a heuristic which is quite successful in practice, even though its empirical success, typically, lacks theoretical guarantees. This paper extends the short list of special cases where correctness and/or convergence of a Belief Propagation algorithm is proven. We generalize formulation of Min-Sum Network Flow problem by relaxing the flow conservation (balance) constraints and then proving that the Belief Propagation algorithm converges to the exact result.

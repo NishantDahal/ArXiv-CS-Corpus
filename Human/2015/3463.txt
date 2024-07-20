@@ -1,0 +1,3 @@
+Unary probabilistic and quantum automata on promise problems
+
+We continue the systematic investigation of probabilistic and quantum finite automata (PFAs and QFAs) on promise problems by focusing on unary languages. We show that bounded-error QFAs are more powerful than PFAs. But, in contrary to the binary problems, the computational powers of Las-Vegas QFAs and bounded-error PFAs are equivalent to deterministic finite automata (DFAs). Lastly, we present a new family of unary promise problems with two parameters such that when fixing one parameter QFAs can be exponentially more succinct than PFAs and when fixing the other parameter PFAs can be exponentially more succinct than DFAs.

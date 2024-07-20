@@ -1,0 +1,3 @@
+Kalman Gradient Descent: Adaptive Variance Reduction in Stochastic Optimization
+
+We introduce Kalman Gradient Descent, a stochastic optimization algorithm that uses Kalman filtering to adaptively reduce gradient variance in stochastic gradient descent by filtering the gradient estimates. We present both a theoretical analysis of convergence in a non-convex setting and experimental results which demonstrate improved performance on a variety of machine learning areas including neural networks and black box variational inference. We also present a distributed version of our algorithm that enables large-dimensional optimization, and we extend our algorithm to SGD with momentum and RMSProp.

@@ -1,0 +1,3 @@
+Local Term Weight Models from Power Transformations: Development of BM25IR: A Best Match Model based on Inverse Regression
+
+In this article we show how power transformations can be used as a common framework for the derivation of local term weights. We found that under some parametric conditions, BM25 and inverse regression produce equivalent results. As a special case of inverse regression, we show that the largest increment in term weight occurs when a term is mentioned for the second time. A model based on inverse regression (BM25IR) is presented. Simulations suggest that BM25IR works fairly well for different BM25 parametric conditions and document lengths.

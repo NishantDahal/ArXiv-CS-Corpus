@@ -1,0 +1,3 @@
+Probabilistic Meta-Representations Of Neural Networks
+
+Existing Bayesian treatments of neural networks are typically characterized by weak prior and approximate posterior distributions according to which all the weights are drawn independently. Here, we consider a richer prior distribution in which units in the network are represented by latent variables, and the weights between units are drawn conditionally on the values of the collection of those variables. This allows rich correlations between related weights, and can be seen as realizing a function prior with a Bayesian complexity regularizer ensuring simple solutions. We illustrate the resulting meta-representations and representations, elucidating the power of this prior.

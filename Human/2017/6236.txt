@@ -1,0 +1,3 @@
+A Neural Network model with Bidirectional Whitening
+
+We present here a new model and algorithm which performs an efficient Natural gradient descent for Multilayer Perceptrons. Natural gradient descent was originally proposed from a point of view of information geometry, and it performs the steepest descent updates on manifolds in a Riemannian space. In particular, we extend an approach taken by the "Whitened neural networks" model. We make the whitening process not only in feed-forward direction as in the original model, but also in the back-propagation phase. Its efficacy is shown by an application of this "Bidirectional whitened neural networks" model to a handwritten character recognition data (MNIST data).

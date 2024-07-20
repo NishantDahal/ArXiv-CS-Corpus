@@ -1,0 +1,3 @@
+Pruning Algorithms for Pretropisms of Newton Polytopes
+
+Pretropisms are candidates for the leading exponents of Puiseux series that represent solutions of polynomial systems. To find pretropisms, we propose an exact gift wrapping algorithm to prune the tree of edges of a tuple of Newton polytopes. We prefer exact arithmetic not only because of the exact input and the degrees of the output, but because of the often unpredictable growth of the coordinates in the face normals, even for polytopes in generic position. We provide experimental results with our preliminary implementation in Sage that compare favorably with the pruning method that relies only on cone intersections.

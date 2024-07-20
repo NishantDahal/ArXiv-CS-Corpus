@@ -1,0 +1,3 @@
+Designing various component analysis at will
+
+This paper provides a generic framework of component analysis (CA) methods introducing a new expression for scatter matrices and Gram matrices, called Generalized Pairwise Expression (GPE). This expression is quite compact but highly powerful: The framework includes not only (1) the standard CA methods but also (2) several regularization techniques, (3) weighted extensions, (4) some clustering methods, and (5) their semi-supervised extensions. This paper also presents quite a simple methodology for designing a desired CA method from the proposed framework: Adopting the known GPEs as templates, and generating a new method by combining these templates appropriately.

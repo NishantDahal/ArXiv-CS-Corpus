@@ -1,0 +1,5 @@
+On constant factor approximation for earth mover distance over doubling metrics
+
+Given a metric space $(X,d_X)$, the earth mover distance between two distributions over $X$ is defined as the minimum cost of a bipartite matching between the two distributions. The doubling dimension of a metric $(X, d_X)$ is the smallest value $α$ such that every ball in $X$ can be covered by $2^α$ ball of half the radius. We study efficient algorithms for approximating earth mover distance over metrics with bounded doubling dimension.
+  Given a metric $(X, d_X)$, with $|X| = n$, we can use $\tilde O(n^2)$ preprocessing time to create a data structure of size $\tilde O(n^{1 + \e})$, such that subsequently queried EMDs can be $O(α_X/\e)$-approximated in $\tilde O(n)$ time.
+  We also show a weaker form of sketching scheme, which we call "encoding scheme". Given $(X, d_X)$, by using $\tilde O(n^2)$ preprocessing time, every subsequent distribution $μ$ over $X$ can be encoded into $F(μ)$ in $\tilde O(n^{1 + \e})$ time. Given $F(μ)$ and $F(ν)$, the EMD between $μ$ and $ν$ can be $O(α_X/\e)$-approximated in $\tilde O(n^\e)$ time.

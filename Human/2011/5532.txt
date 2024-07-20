@@ -1,0 +1,3 @@
+Tactics for Reasoning modulo AC in Coq
+
+We present a set of tools for rewriting modulo associativity and commutativity (AC) in Coq, solving a long-standing practical problem. We use two building blocks: first, an extensible reflexive decision procedure for equality modulo AC; second, an OCaml plug-in for pattern matching modulo AC. We handle associative only operations, neutral elements, uninterpreted function symbols, and user-defined equivalence relations. By relying on type-classes for the reification phase, we can infer these properties automatically, so that end-users do not need to specify which operation is A or AC, or which constant is a neutral element.

@@ -1,0 +1,3 @@
+Optimal Control for Multi-Mode Systems with Discrete Costs
+
+This paper studies optimal time-bounded control in multi-mode systems with discrete costs. Multi-mode systems are an important subclass of linear hybrid systems, in which there are no guards on transitions and all invariants are global. Each state has a continuous cost attached to it, which is linear in the sojourn time, while a discrete cost is attached to each transition taken. We show that an optimal control for this model can be computed in NEXPTIME and approximated in PSPACE. We also show that the one-dimensional case is simpler: although the problem is NP-complete (and in LOGSPACE for an infinite time horizon), we develop an FPTAS for finding an approximate solution.

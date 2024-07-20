@@ -1,0 +1,3 @@
+CNN+LSTM Architecture for Speech Emotion Recognition with Data Augmentation
+
+In this work we design a neural network for recognizing emotions in speech, using the IEMOCAP dataset. Following the latest advances in audio analysis, we use an architecture involving both convolutional layers, for extracting high-level features from raw spectrograms, and recurrent ones for aggregating long-term dependencies. We examine the techniques of data augmentation with vocal track length perturbation, layer-wise optimizer adjustment, batch normalization of recurrent layers and obtain highly competitive results of 64.5% for weighted accuracy and 61.7% for unweighted accuracy on four emotions.

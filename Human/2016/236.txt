@@ -1,0 +1,5 @@
+Online Community Detection by Using Nearest Hubs
+
+Community and cluster detection is a popular field of social network analysis. Most algorithms focus on static graphs or series of snapshots.
+  In this paper we present an algorithm, which detects communities in dynamic graphs. The method is based on shortest paths to high-connected nodes, so called hubs. Due to local message passing we can update the clustering results with low computational power.
+  The presented algorithm is compared with other for some static social networks. The reached modularity is not as high as the Louvain method, but even higher then spectral clustering. For large-scale real-world datasets with given ground truth, we could reconstruct most of the given community structure. The advantage of the algorithm is the good performance in dynamic scenarios.

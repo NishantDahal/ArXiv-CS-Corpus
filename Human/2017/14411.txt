@@ -1,0 +1,3 @@
+PVEs: Position-Velocity Encoders for Unsupervised Learning of Structured State Representations
+
+We propose position-velocity encoders (PVEs) which learn---without supervision---to encode images to positions and velocities of task-relevant objects. PVEs encode a single image into a low-dimensional position state and compute the velocity state from finite differences in position. In contrast to autoencoders, position-velocity encoders are not trained by image reconstruction, but by making the position-velocity representation consistent with priors about interacting with the physical world. We applied PVEs to several simulated control tasks from pixels and achieved promising preliminary results.

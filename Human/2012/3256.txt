@@ -1,0 +1,3 @@
+On QMA Protocols with Two Short Quantum Proofs
+
+This paper gives a QMA (Quantum Merlin-Arthur) protocol for 3-SAT with two logarithmic-size quantum proofs (that are not entangled with each other) such that the gap between the completeness and the soundness is Omega(1/n polylog(n)). This improves the best completeness/soundness gaps known for NP-complete problems in this setting.

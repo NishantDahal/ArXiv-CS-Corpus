@@ -1,0 +1,7 @@
+New Convex Programs for Fisher's Market Model and its Generalizations
+
+We present the following results pertaining to Fisher's market model:
+  -We give two natural generalizations of Fisher's market model: In model M_1, sellers can declare an upper bound on the money they wish to earn (and take back their unsold good), and in model M_2, buyers can declare an upper bound on the amount to utility they wish to derive (and take back the unused part of their money).
+  -We derive convex programs for the linear case of these two models by generalizing a convex program due to Shmyrev and the Eisenberg-Gale program, respectively.
+  -We generalize the Arrow-Hurwicz theorem to the linear case of these two models, hence deriving alternate convex programs.
+  -For the special class of convex programs having convex objective functions and linear constraints, we derive a simple set of rules for constructing the dual program (as simple as obtaining the dual of an LP). Using these rules we show a formal relationship between the two seemingly different convex programs for linear Fisher markets, due to Eisenberg-Gale and Shmyrev; the duals of these are the same, upto a change of variables.

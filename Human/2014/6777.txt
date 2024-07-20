@@ -1,0 +1,4 @@
+From XML Schema to JSON Schema: Translation with CHR
+
+Despite its rising popularity as data format especially for web services, the software ecosystem around the JavaScript Object Notation (JSON) is not as widely distributed as that of XML. For both data formats there exist schema languages to specify the structure of instance documents, but there is currently no opportunity to translate already existing XML Schema documents into equivalent JSON Schemas.
+  In this paper we introduce an implementation of a language translator. It takes an XML Schema and creates its equivalent JSON Schema document. Our approach is based on Prolog and CHR. By unfolding the XML Schema document into CHR constraints, it is possible to specify the concrete translation rules in a declarative way.

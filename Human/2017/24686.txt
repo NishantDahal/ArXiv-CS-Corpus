@@ -1,0 +1,3 @@
+Extrapolating Expected Accuracies for Large Multi-Class Problems
+
+The difficulty of multi-class classification generally increases with the number of classes. Using data from a subset of the classes, can we predict how well a classifier will scale with an increased number of classes? Under the assumptions that the classes are sampled identically and independently from a population, and that the classifier is based on independently learned scoring functions, we show that the expected accuracy when the classifier is trained on k classes is the (k-1)st moment of a certain distribution that can be estimated from data. We present an unbiased estimation method based on the theory, and demonstrate its application on a facial recognition example.

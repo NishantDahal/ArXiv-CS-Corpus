@@ -1,0 +1,3 @@
+A Large Term Rewrite System Modelling a Pioneering Cryptographic Algorithm
+
+We present a term rewrite system that formally models the Message Authenticator  Algorithm (MAA), which was one of the first cryptographic functions for  computing a Message Authentication Code and was adopted, between 1987 and 2001,  in international standards (ISO 8730 and ISO 8731-2) to ensure the authenticity  and integrity of banking transactions. Our term rewrite system is large  (13 sorts, 18 constructors, 644 non-constructors, and 684 rewrite rules), confluent, and terminating. Implementations in thirteen different languages  have been automatically derived from this model and used to validate 200  official test vectors for the MAA.

@@ -1,0 +1,4 @@
+ARTOS -- Adaptive Real-Time Object Detection System
+
+ARTOS is all about creating, tuning, and applying object detection models with just a few clicks. In particular, ARTOS facilitates learning of models for visual object detection by eliminating the burden of having to collect and annotate a large set of positive and negative samples manually and in addition it implements a fast learning technique to reduce the time needed for the learning step.
+  A clean and friendly GUI guides the user through the process of model creation, adaptation of learned models to different domains using in-situ images, and object detection on both offline images and images from a video stream. A library written in C++ provides the main functionality of ARTOS with a C-style procedural interface, so that it can be easily integrated with any other project.

@@ -1,0 +1,3 @@
+Quantum state and circuit distinguishability with single-qubit measurements
+
+We show that the Quantum State Distinguishability (QSD), which is a QSZK-complete problem, and the Quantum Circuit Distinguishability (QCD), which is a QIP-complete problem, can be solved by the verifier who can perform only single-qubit measurements. To show these results, we use measurement-based quantum computing: the honest prover sends a graph state to the verifier, and the verifier can perform universal quantum computing on it with only single-qubit measurements. If the prover is malicious, he does not necessarily generate the correct graph state, but the verifier can verify the correctness of the graph state by measuring the stabilizer operators.

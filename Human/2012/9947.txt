@@ -1,0 +1,3 @@
+A Cut-Free ExpTime Tableau Decision Procedure for the Logic Extending Converse-PDL with Regular Inclusion Axioms
+
+We give the first cut-free ExpTime (optimal) tableau decision procedure for the logic CPDLreg, which extends Converse-PDL with regular inclusion axioms characterized by finite automata. The logic CPDLreg is the combination of Converse-PDL and regular grammar logic with converse. Our tableau decision procedure uses global state caching and has been designed to increase efficiency and allow various optimization techniques, including on-the-fly propagation of local and global (in)consistency.

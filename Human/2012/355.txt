@@ -1,0 +1,3 @@
+Telescopers for Rational and Algebraic Functions via Residues
+
+We show that the problem of constructing telescopers for functions of m variables is equivalent to the problem of constructing telescopers for algebraic functions of m -1 variables and present a new algorithm to construct telescopers for algebraic functions of two variables. These considerations are based on analyzing the residues of the input. According to experiments, the resulting algorithm for rational functions of three variables is faster than known algorithms, at least in some examples of combinatorial interest. The algorithm for algebraic functions implies a new bound on the order of the telescopers.

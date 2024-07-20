@@ -1,0 +1,3 @@
+Greedy Minimization of Weakly Supermodular Set Functions
+
+This paper defines weak-$α$-supermodularity for set functions. Many optimization objectives in machine learning and data mining seek to minimize such functions under cardinality constrains. We prove that such problems benefit from a greedy extension phase. Explicitly, let $S^*$ be the optimal set of cardinality $k$ that minimizes $f$ and let $S_0$ be an initial solution such that $f(S_0)/f(S^*) \le ρ$. Then, a greedy extension $S \supset S_0$ of size $|S| \le |S_0| + \lceil αk \ln(ρ/\varepsilon) \rceil$ yields $f(S)/f(S^*) \le 1+\varepsilon$. As example usages of this framework we give new bicriteria results for $k$-means, sparse regression, and columns subset selection.

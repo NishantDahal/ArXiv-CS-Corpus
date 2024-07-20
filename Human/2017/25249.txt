@@ -1,0 +1,3 @@
+Graph-Sparse Logistic Regression
+
+We introduce Graph-Sparse Logistic Regression, a new algorithm for classification for the case in which the support should be sparse but connected on a graph. We val- idate this algorithm against synthetic data and benchmark it against L1-regularized Logistic Regression. We then explore our technique in the bioinformatics context of proteomics data on the interactome graph. We make all our experimental code public and provide GSLR as an open source package.

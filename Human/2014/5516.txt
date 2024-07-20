@@ -1,0 +1,3 @@
+A Hybrid Monte Carlo Architecture for Parameter Optimization
+
+Much recent research has been conducted in the area of Bayesian learning, particularly with regard to the optimization of hyper-parameters via Gaussian process regression. The methodologies rely chiefly on the method of maximizing the expected improvement of a score function with respect to adjustments in the hyper-parameters. In this work, we present a novel algorithm that exploits notions of confidence intervals and uncertainties to enable the discovery of the best optimal within a targeted region of the parameter space. We demonstrate the efficacy of our algorithm with respect to machine learning problems and show cases where our algorithm is competitive with the method of maximizing expected improvement.

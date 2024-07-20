@@ -1,0 +1,3 @@
+An LP-based inconsistency monitoring of pairwise comparison matrices
+
+A distance-based inconsistency indicator, defined by the third author for the consistency-driven pairwise comparisons method, is extended to the incomplete case. The corresponding optimization problem is transformed into an equivalent linear programming problem. The results can be applied in the process of filling in the matrix as the decision maker gets automatic feedback. As soon as a serious error occurs among the matrix elements, even due to a misprint, a significant increase in the inconsistency index is reported. The high inconsistency may be alarmed not only at the end of the process of filling in the matrix but also during the completion process. Numerical examples are also provided.

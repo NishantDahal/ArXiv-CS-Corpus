@@ -1,0 +1,3 @@
+Fitting a 3D Morphable Model to Edges: A Comparison Between Hard and Soft Correspondences
+
+We propose a fully automatic method for fitting a 3D morphable model to single face images in arbitrary pose and lighting. Our approach relies on geometric features (edges and landmarks) and, inspired by the iterated closest point algorithm, is based on computing hard correspondences between model vertices and edge pixels. We demonstrate that this is superior to previous work that uses soft correspondences to form an edge-derived cost surface that is minimised by nonlinear optimisation.

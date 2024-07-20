@@ -1,0 +1,3 @@
+Combinatorial approximation of maximum $k$-vertex cover in bipartite graphs within ratio~0.7
+
+We propose a \textit{purely combinatorial algorithm} for \mkvc{} in bipartite graphs, achieving approximation ratio~0.7. The only combinatorial algorithms currently known until now for this problem are the natural greedy algorithm, that achieves ratio 0.632, and an easy~$2/3$-approximation algorithm presented in \cite{DBLP:journals/corr/BonnetEPS14}.

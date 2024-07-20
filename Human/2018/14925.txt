@@ -1,0 +1,3 @@
+Mining Rank Data
+
+The problem of frequent pattern mining has been studied quite extensively for various types of data, including sets, sequences, and graphs. Somewhat surprisingly, another important type of data, namely rank data, has received very little attention in data mining so far. In this paper, we therefore addresses the problem of mining rank data, that is, data in the form of rankings (total orders) of an underlying set of items. More specifically, two types of patterns are considered, namely frequent rankings and dependencies between such rankings in the form of association rules. Algorithms for mining frequent rankings and frequent closed rankings are proposed and tested experimentally, using both synthetic and real data.

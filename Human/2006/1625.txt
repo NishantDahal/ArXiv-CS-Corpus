@@ -1,0 +1,4 @@
+Going Stupid with EcoLab
+
+In 2005, Railsback et al. proposed a very simple model ({\em Stupid
+  Model}) that could be implemented within a couple of hours, and later extended to demonstrate the use of common ABM platform functionality. They provided implementations of the model in several agent based modelling platforms, and compared the platforms for ease of implementation of this simple model, and performance. In this paper, I implement Railsback et al's Stupid Model in the EcoLab simulation platform, a C++ based modelling platform, demonstrating that it is a feasible platform for these sorts of models, and compare the performance of the implementation with Repast, Mason and Swarm versions.

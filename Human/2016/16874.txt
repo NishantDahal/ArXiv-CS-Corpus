@@ -1,0 +1,3 @@
+CNNdroid: GPU-Accelerated Execution of Trained Deep Convolutional Neural Networks on Android
+
+Many mobile applications running on smartphones and wearable devices would potentially benefit from the accuracy and scalability of deep CNN-based machine learning algorithms. However, performance and energy consumption limitations make the execution of such computationally intensive algorithms on mobile devices prohibitive. We present a GPU-accelerated library, dubbed CNNdroid, for execution of trained deep CNNs on Android-based mobile devices. Empirical evaluations show that CNNdroid achieves up to 60X speedup and 130X energy saving on current mobile devices. The CNNdroid open source library is available for download at https://github.com/ENCP/CNNdroid

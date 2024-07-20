@@ -1,0 +1,3 @@
+Cascaded V-Net using ROI masks for brain tumor segmentation
+
+In this work we approach the brain tumor segmentation problem with a cascade of two CNNs inspired in the V-Net architecture \cite{VNet}, reformulating residual connections and making use of ROI masks to constrain the networks to train only on relevant voxels. This architecture allows dense training on problems with highly skewed class distributions, such as brain tumor segmentation, by focusing training only on the vecinity of the tumor area. We report results on BraTS2017 Training and Validation sets.

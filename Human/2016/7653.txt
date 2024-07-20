@@ -1,0 +1,3 @@
+A Decision Procedure for Separation Logic in SMT
+
+This paper presents a complete decision procedure for the entire quantifier-free fragment of Separation Logic ($\seplog$) interpreted over heaplets with data elements ranging over a parametric multi-sorted (possibly infinite) domain. The algorithm uses a combination of theories and is used as a specialized solver inside a DPLL($T$) architecture. A prototype was implemented within the CVC4 SMT solver. Preliminary evaluation suggests the possibility of using this procedure as a building block of a more elaborate theorem prover for SL with inductive predicates, or as back-end of a bounded model checker for programs with low-level pointer and data manipulations.

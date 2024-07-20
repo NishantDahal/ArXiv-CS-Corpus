@@ -1,0 +1,3 @@
+Cryptographic Randomized Response Techniques
+
+We develop cryptographically secure techniques to guarantee unconditional privacy for respondents to polls. Our constructions are efficient and practical, and are shown not to allow cheating respondents to affect the ``tally'' by more than their own vote -- which will be given the exact same weight as that of other respondents. We demonstrate solutions to this problem based on both traditional cryptographic techniques and quantum cryptography.

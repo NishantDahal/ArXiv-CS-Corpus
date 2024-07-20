@@ -1,0 +1,3 @@
+The Struggle is Real: Analyzing Ground Truth Data of TLS (Mis-)Configurations
+
+As of today, TLS is the most commonly used protocol to protect communication content. To provide good security, it is of central importance, that administrators know how to configure their services correctly. For this purpose, services like, e.g., Qualys SSL Server Test can be leveraged to test the correctness of a given web server configuration. We analyzed the utilization of this service over a period of 2.5 months and found two major usage-patterns. In addition, there is a relation between the number of test-runs and the resulting quality (i.e., security) of a TLS configuration.

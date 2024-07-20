@@ -1,0 +1,4 @@
+Idempotent permutations
+
+Together with a characteristic function, idempotent permutations uniquely determine idempotent maps, as well as their linearly ordered arrangement simultaneously. Furthermore, in-place linear time transformations are possible between them. Hence, they may be important for succinct data structures, information storing, sorting and searching.
+  In this study, their combinatorial interpretation is given and their application on sorting is examined. Given an array of n integer keys each in [1,n], if it is allowed to modify the keys in the range [-n,n], idempotent permutations make it possible to obtain linearly ordered arrangement of the keys in O(n) time using only 4log(n) bits, setting the theoretical lower bound of time and space complexity of sorting. If it is not allowed to modify the keys out of the range [1,n], then n+4log(n) bits are required where n of them is used to tag some of the keys.

@@ -1,0 +1,3 @@
+Exact quantum query complexity of EXACT and THRESHOLD
+
+A quantum algorithm is exact if it always produces the correct answer, on any input. Coming up with exact quantum algorithms that substantially outperform the best classical algorithm has been a quite challenging task. In this paper, we present two new exact quantum algorithms for natural problems: 1) for the problem EXACT_k^n in which we have to determine whether the sequence of input bits x_1, ..., x_n contains exactly k values x_i=1; 2) for the problem THRESHOLD_k^n in which we have to determine if at least k of n input bits are equal to 1.

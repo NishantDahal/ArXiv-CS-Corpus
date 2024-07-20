@@ -1,0 +1,3 @@
+A declarative Language for Rapid Business Development
+
+The motivation for ZoomBA are domain specific languages (DSL) like VERILOG, VHDL, Spice. DSL for Software testing is not a new idea, many commercial tools like Silk Suite use them, while Selenese, the DSL for Selenium IDE [6] is open source. ZoomBA is a functionally motivated, embeddable, Turing Complete language. It's philosophy is to expose the existing Java echo system in a declarative fashion for the purpose of System Integration and software validation. By design ZoomBA script size is meagre compared to Python or even to Scala for business automation problems. Bayestree uses ZoomBA for system integration/adapter/data manipulation purposes.

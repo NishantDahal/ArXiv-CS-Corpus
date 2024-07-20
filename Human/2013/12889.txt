@@ -1,0 +1,3 @@
+Parallel Deferred Update Replication
+
+Deferred update replication (DUR) is an established approach to implementing highly efficient and available storage. While the throughput of read-only transactions scales linearly with the number of deployed replicas in DUR, the throughput of update transactions experiences limited improvements as replicas are added. This paper presents Parallel Deferred Update Replication (P-DUR), a variation of classical DUR that scales both read-only and update transactions with the number of cores available in a replica. In addition to introducing the new approach, we describe its full implementation and compare its performance to classical DUR and to Berkeley DB, a well-known standalone database.

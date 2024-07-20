@@ -1,0 +1,3 @@
+TreeP: A Tree-Based P2P Network Architecture
+
+In this paper we proposed a hierarchical P2P network based on a dynamic partitioning on a 1-D space. This hierarchy is created and maintained dynamically and provides a gridmiddleware (like DGET) a P2P basic functionality for resource discovery and load-balancing.This network architecture is called TreeP (Tree based P2P network architecture) and is based on atessellation of a 1-D space. We show that this topology exploits in an efficient way theheterogeneity feature of the network while limiting the overhead introduced by the overlaymaintenance. Experimental results show that this topology is highly resilient to a large number ofnetwork failures.

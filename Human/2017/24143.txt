@@ -1,0 +1,3 @@
+On an extremal problem for poset dimension
+
+Let $f(n)$ be the largest integer such that every poset on $n$ elements has a $2$-dimensional subposet on $f(n)$ elements. What is the asymptotics of $f(n)$? It is easy to see that $f(n)\geqslant n^{1/2}$. We improve the best known upper bound and show $f(n)=\mathcal{O}(n^{2/3})$. For higher dimensions, we show $f_d(n)=\mathcal{O}\left(n^\frac{d}{d+1}\right)$, where $f_d(n)$ is the largest integer such that every poset on $n$ elements has a $d$-dimensional subposet on $f_d(n)$ elements.

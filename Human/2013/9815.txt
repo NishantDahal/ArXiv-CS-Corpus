@@ -1,0 +1,3 @@
+Two-Part Reconstruction in Compressed Sensing
+
+Two-part reconstruction is a framework for signal recovery in compressed sensing (CS), in which the advantages of two different algorithms are combined. Our framework allows to accelerate the reconstruction procedure without compromising the reconstruction quality. To illustrate the efficacy of our two-part approach, we extend the author's previous Sudocodes algorithm and make it robust to measurement noise. In a 1-bit CS setting, promising numerical results indicate that our algorithm offers both a reduction in run-time and improvement in reconstruction quality.

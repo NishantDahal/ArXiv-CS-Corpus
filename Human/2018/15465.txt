@@ -1,0 +1,3 @@
+A SDN-based Flexible System for On-the-Fly Monitoring and Treatment of Security Events
+
+The Software Defined Networking (SDN) paradigm decouples control and data planes, offering high programmability and a global view of the network. However, it is a challenge not only provide security in these next generation networks as well as allow that network attacks could be subjected to an incident and forensic treatment procedure. This paper proposes the implementation of flexible mechanisms of monitoring and treatment of security events categorized per type of attack and associated with whitelist and blacklist resources by means of the SDN controller programmability. The resources to perform intrusion and attack analysis are validated by means of a real SDN/OpenFlow testbed.

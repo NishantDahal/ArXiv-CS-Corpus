@@ -1,0 +1,3 @@
+Constructing Concrete Hard Instances of the Maximum Independent Set Problem
+
+We provide a deterministic construction of hard instances for the maximum independent set problem (MIS). The constructed hard instances form an infinite graph sequence with increasing size, which possesses similar characteristics to sparse random graphs and in which MIS cannot be solved efficiently. We analytically and numerically show that all algorithms employing cycle-chain refutation, which is a general refutation method we introduce for capturing the ability of many known algorithms, cannot upper bound the size of the maximum independent set tightly.

@@ -1,0 +1,3 @@
+Recovery of Architecture Module Views using an Optimized Algorithm Based on Design Structure Matrices
+
+Design structure matrices (DSMs) are useful to represent high-level system structure, modeling interactions between design entities. DSMs are used for many visualization and abstraction activities. In this work, we propose the use of an existing DSM clustering algorithm to recover software architecture module views. To make it suitable to this domain, optimization has proved necessary. It was achieved through performance analysis and parameter tuning on the original algorithm. Results show that DSM clustering can be an alternative to other clustering algorithms.

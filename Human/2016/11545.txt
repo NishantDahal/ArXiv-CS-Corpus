@@ -1,0 +1,3 @@
+An Approximate Backpropagation Learning Rule for Memristor Based Neural Networks Using Synaptic Plasticity
+
+We describe an approximation to backpropagation algorithm for training deep neural networks, which is designed to work with synapses implemented with memristors. The key idea is to represent the values of both the input signal and the backpropagated delta value with a series of pulses that trigger multiple positive or negative updates of the synaptic weight, and to use the min operation instead of the product of the two signals. In computational simulations, we show that the proposed approximation to backpropagation is well converged and may be suitable for memristor implementations of multilayer neural networks.

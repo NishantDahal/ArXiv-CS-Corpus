@@ -1,0 +1,3 @@
+A sub-constant improvement in approximating the positive semidefinite Grothendieck problem
+
+Semidefinite relaxations are a powerful tool for approximately solving combinatorial optimization problems such as MAX-CUT and the Grothendieck problem. By exploiting a bounded rank property of extreme points in the semidefinite cone, we make a sub-constant improvement in the approximation ratio of one such problem. Precisely, we describe a polynomial-time algorithm for the positive semidefinite Grothendieck problem -- based on rounding from the standard relaxation -- that achieves a ratio of $2/π+ Θ(1/{\sqrt n})$, whereas the previous best is $2/π+ Θ(1/n)$. We further show a corresponding integrality gap of $2/π+\tilde{O}(1/n^{1/3})$.

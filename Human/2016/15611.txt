@@ -1,0 +1,3 @@
+Output-sensitive Complexity of Multiobjective Combinatorial Optimization
+
+We study output-sensitive algorithms and complexity for multiobjective combinatorial optimization problems. In this computational complexity framework, an algorithm for a general enumeration problem is regarded efficient if it is output-sensitive, i.e., its running time is bounded by a polynomial in the input and the output size. We provide both practical examples of MOCO problems for which such an efficient algorithm exists as well as problems for which no efficient algorithm exists under mild complexity theoretic assumptions.

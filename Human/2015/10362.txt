@@ -1,0 +1,5 @@
+Exhaustive generation of $k$-critical $\mathcal H$-free graphs
+
+We describe an algorithm for generating all $k$-critical $\mathcal H$-free graphs, based on a method of Hoàng et al. Using this algorithm, we prove that there are only finitely many $4$-critical $(P_7,C_k)$-free graphs, for both $k=4$ and $k=5$. We also show that there are only finitely many $4$-critical graphs $(P_8,C_4)$-free graphs. For each case of these cases we also give the complete lists of critical graphs and vertex-critical graphs. These results generalize previous work by Hell and Huang, and yield certifying algorithms for the $3$-colorability problem in the respective classes.
+  Moreover, we prove that for every $t$, the class of 4-critical planar $P_t$-free graphs is finite. We also determine all 27 4-critical planar $(P_7,C_6)$-free graphs.
+  We also prove that every $P_{10}$-free graph of girth at least five is 3-colorable, and determine the smallest 4-chromatic $P_{12}$-free graph of girth five. Moreover, we show that every $P_{13}$-free graph of girth at least six and every $P_{16}$-free graph of girth at least seven is 3-colorable. This strengthens results of Golovach et al.

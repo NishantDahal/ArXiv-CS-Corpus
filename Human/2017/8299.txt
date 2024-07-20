@@ -1,0 +1,3 @@
+From Temporal Models to Property-Based Testing
+
+This paper presents a framework to apply property-based testing (PBT) on top of temporal formal models. The aim of this work is to help software engineers to understand temporal models that are presented formally and to make use of the advantages of formal methods: the core time-based constructs of a formal method are schematically translated to the BeSpaceD extension of the Scala programming language. This allows us to have an executable Scala code that corresponds to the formal model, as well as to perform PBT of the models functionality. To model temporal properties of the systems, in the current work we focus on two formal languages, TLA+ and FocusST.

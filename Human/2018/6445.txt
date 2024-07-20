@@ -1,0 +1,5 @@
+PySEAL: A Python wrapper implementation of the SEAL homomorphic encryption library
+
+Motivation: The ability to perform operations on encrypted data has a growing number of applications in bioinformatics, with implications for data privacy in health care and biosecurity. The SEAL library is a popular implementation of fully homomorphic encryption developed in C++ by Microsoft Research. Despite the advantages of C++, Python is a flexible and dominant programming language that enables rapid prototyping of bioinformatics pipelines.
+  Results: In an effort to make homomorphic encryption accessible to a broader range of bioinformatics scientists and applications, we present a Python binding implementation of the popular homomorphic encryption library, SEAL, using pybind11. The software contains a Docker image to facilitate easy installation and execution of the SEAL build process.
+  Availability: All code is publicly available at https://github.com/Lab41/PySEAL Contact: lab41@iqt.org Supplementary information: Supplementary information is available on the Lab41 GitHub.

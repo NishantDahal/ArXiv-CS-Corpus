@@ -1,0 +1,3 @@
+Real-time Egocentric Gesture Recognition on Mobile Head Mounted Displays
+
+Mobile virtual reality (VR) head mounted displays (HMD) have become popular among consumers in recent years. In this work, we demonstrate real-time egocentric hand gesture detection and localization on mobile HMDs. Our main contributions are: 1) A novel mixed-reality data collection tool to automatic annotate bounding boxes and gesture labels; 2) The largest-to-date egocentric hand gesture and bounding box dataset with more than 400,000 annotated frames; 3) A neural network that runs real time on modern mobile CPUs, and achieves higher than 76% precision on gesture recognition across 8 classes.

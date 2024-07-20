@@ -1,0 +1,3 @@
+Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms
+
+RNA-seq has rapidly become the de facto technique to measure gene expression. However, the time required for analysis has not kept up with the pace of data generation. Here we introduce Sailfish, a novel computational method for quantifying the abundance of previously annotated RNA isoforms from RNA-seq data. Sailfish entirely avoids mapping reads, which is a time-consuming step in all current methods. Sailfish provides quantification estimates much faster than existing approaches (typically 20-times faster) without loss of accuracy.

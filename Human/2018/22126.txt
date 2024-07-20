@@ -1,0 +1,3 @@
+Approximate Probabilistic Neural Networks with Gated Threshold Logic
+
+Probabilistic Neural Network (PNN) is a feed-forward artificial neural network developed for solving classification problems. This paper proposes a hardware implementation of an approximated PNN (APNN) algorithm in which the conventional exponential function of the PNN is replaced with gated threshold logic. The weights of the PNN are approximated using a memristive crossbar architecture. In particular, the proposed algorithm performs normalization of the training weights, and quantization into 16 levels which significantly reduces the complexity of the circuit.

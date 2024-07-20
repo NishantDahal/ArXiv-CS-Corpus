@@ -1,0 +1,3 @@
+Consistency in Distributed Data Stores
+
+This paper focuses on the problem of consistency in distributed data stores.We define strong consistency model which provides a simple semantics for application programmers, but impossible to achieve with availability and partition-tolerance. We also define weaker consistency models including causal and eventual consistency. We review COPS and GentleRain as two causally consistent data stores as well as Dynamo as an eventually consistent data store. We provide insights about scenarios where each of these methods is suitable, and some future research directions.

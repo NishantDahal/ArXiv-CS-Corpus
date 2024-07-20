@@ -1,0 +1,3 @@
+A Simple Parallel Implementation of Interaction Nets in Haskell
+
+Due to their "inherent parallelism", interaction nets have since their introduction been considered as an attractive implementation mechanism for functional programming. We show that a simple highly-concurrent implementation in Haskell can achieve promising speed-ups on multiple cores.

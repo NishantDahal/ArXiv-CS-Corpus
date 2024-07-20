@@ -1,0 +1,3 @@
+Transformation Rules for Locally Stratified Constraint Logic Programs
+
+We propose a set of transformation rules for constraint logic programs with negation. We assume that every program is locally stratified and, thus, it has a unique perfect model. We give sufficient conditions which ensure that the proposed set of transformation rules preserves the perfect model of the programs. Our rules extend in some respects the rules for logic programs and constraint logic programs already considered in the literature and, in particular, they include a rule for unfolding a clause with respect to a negative literal.

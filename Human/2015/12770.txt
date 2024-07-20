@@ -1,0 +1,3 @@
+On Maximal Correlation, Mutual Information and Data Privacy
+
+The rate-privacy function is defined in \cite{Asoodeh} as a tradeoff between privacy and utility in a distributed private data system in which both privacy and utility are measured using mutual information. Here, we use maximal correlation in lieu of mutual information in the privacy constraint. We first obtain some general properties and bounds for maximal correlation and then modify the rate-privacy function to account for the privacy-constrained estimation problem. We find a bound for the utility in this problem when the maximal correlation privacy is set to some threshold $ε>0$ and construct an explicit privacy scheme which achieves this bound.

@@ -1,0 +1,3 @@
+Power System Dynamic State Estimation by Unscented Kalman Filter with Guaranteed Positive Semidefinite State Covariance
+
+In this paper an unscented Kalman filter with guaranteed positive semidefinite state covariance is proposed by calculating the nearest symmetric positive definite matrix in Frobenius norm and is applied to power system dynamic state estimation. The proposed method is tested on NPCC 48-machine 140-bus system and the results validate its effectiveness.

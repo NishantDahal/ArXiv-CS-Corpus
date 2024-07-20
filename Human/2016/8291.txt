@@ -1,0 +1,3 @@
+Fast Incremental Learning for Off-Road Robot Navigation
+
+A promising approach to autonomous driving is machine learning. In such systems, training datasets are created that capture the sensory input to a vehicle as well as the desired response. A disadvantage of using a learned navigation system is that the learning process itself may require a huge number of training examples and a large amount of computing. To avoid the need to collect a large training set of driving examples, we describe a system that takes advantage of the huge number of training examples provided by ImageNet, but is able to adapt quickly using a small training set for the specific driving environment.

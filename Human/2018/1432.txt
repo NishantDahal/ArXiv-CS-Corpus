@@ -1,0 +1,3 @@
+Modulus Zero-Forcing Detection for MIMO Channels
+
+We propose a modulus based zero-forcing (MZF) detection for multi-input multi-output (MIMO) channels. Traditionally, a ZF detector nulls out all interferences from other layers when detecting a current layer, which can yield suboptimal detection-performance due to the noise-enhancement issue. In many communication systems, finite alphabets such as M quadrature-amplitude-modulation (QAM) are widely used, which comprises \sqrt{M} pulse-amplitude-modulation (PAM) symbols for the real and imaginary parts. With finite alphabets, one feasible way to improve ZF detection is to allow controllable interferences that can be removed away by modulus operations.

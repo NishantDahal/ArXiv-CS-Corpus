@@ -1,0 +1,3 @@
+Time Optimal Spectrum Sensing
+
+Spectrum sensing is a fundamental operation in cognitive radio environment. It gives information about spectrum availability by scanning the bands. Usually a fixed amount of time is given to scan individual bands. Most of the times, historical information about the traffic in the spectrum bands is not used. But this information gives the idea, how busy a specific band is. Therefore, instead of scanning a band for a fixed amount of time, more time can be given to less occupied bands and less time to heavily occupied ones. In this paper we have formulated the time assignment problem as integer linear programming and source coding problems. The time assignment problem is solved using the associated stochastic optimization problem.

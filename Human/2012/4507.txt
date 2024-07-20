@@ -1,0 +1,3 @@
+Large-Flip Importance Sampling
+
+We propose a new Monte Carlo algorithm for complex discrete distributions. The algorithm is motivated by the N-Fold Way, which is an ingenious event-driven MCMC sampler that avoids rejection moves at any specific state. The N-Fold Way can however get "trapped" in cycles. We surmount this problem by modifying the sampling process. This correction does introduce bias, but the bias is subsequently corrected with a carefully engineered importance sampler.

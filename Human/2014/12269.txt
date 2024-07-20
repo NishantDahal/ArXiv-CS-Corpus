@@ -1,0 +1,3 @@
+Low-Rank and Sparse Matrix Decomposition with a-priori knowledge for Dynamic 3D MRI reconstruction
+
+It has been recently shown that incorporating priori knowledge significantly improves the performance of basic compressive sensing based approaches. We have managed to successfully exploit this idea for recovering a matrix as a summation of a Low-rank and a Sparse component from compressive measurements. When applied to the problem of construction of 4D Cardiac MR image sequences in real-time from highly under-sampled $k-$space data, our proposed method achieves superior reconstruction quality compared to the other state-of-the-art methods.

@@ -1,0 +1,3 @@
+Polynomial-time Algorithm for Isomorphism of Graphs with Clique-width at most Three
+
+The clique-width is a measure of complexity of decomposing graphs into certain tree-like structures. The class of graphs with bounded clique-width contains bounded tree-width graphs. We give a polynomial time graph isomorphism algorithm for graphs with clique-width at most three. Our work is independent of the work by Grohe et al. \cite{grohe2015isomorphism} showing that the isomorphism problem for graphs of bounded clique-width is polynomial time.

@@ -1,0 +1,3 @@
+Global communication algorithms for Cayley graphs
+
+We discuss several combinatorial problems that arise when one looks at computational algorithms for highly symmetric networks of processors. More specifically, we are interested in minimal times associated with four communication tasks (defined more precisely below): universal broadcast, every processor has a vector that it wishes to broadcast to all the others; universal accumulation, every processor wishes to receive the sum of all the vectors being sent to it by all the other processors; universal exchange, every processor wishes to exchange a vector with each other processor; and global summation, every processor wants the sum of the vectors in all the processors

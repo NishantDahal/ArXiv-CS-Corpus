@@ -1,0 +1,4 @@
+Improvement in Small Progress Measures
+
+Small Progress Measures is one of the classical parity game solving algorithms. For games with n vertices, m edges and d different priorities, the original algorithm computes the winning regions and a winning strategy for one of the players in O(dm.(n/floor(d/2))^floor(d/2)) time. Computing a winning strategy for the other player requires a re-run of the algorithm on that player's winning region, thus increasing the runtime complexity to O(dm.(n/ceil(d/2))^ceil(d/2)) for computing the winning regions and winning strategies for both players. We modify the algorithm so that it derives the winning strategy for both players in one pass. This reduces the upper bound on strategy derivation for SPM to O(dm.(n/floor(d/2))^floor(d/2)). At the basis of our modification is a novel operational interpretation of the least progress measure that we provide.
+

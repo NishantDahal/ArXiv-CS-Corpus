@@ -1,0 +1,5 @@
+Acceleration detection of large (probably) prime numbers
+
+In order to avoid unnecessary applications of Miller-Rabin algorithm to the number in question, we resort to trial division by a few initial prime numbers, since such a division take less time.
+  How far we should go with such a division is the that we are trying to answer in this paper?For the theory of the matter is fully resolved. However, that in practice we do not have much use.
+  Therefore, we present a solution that is probably irrelevant to theorists, but it is very useful to people who have spent many nights to produce large (probably) prime numbers using its own software.

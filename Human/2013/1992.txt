@@ -1,0 +1,3 @@
+A preliminary univalent formalization of the p-adic numbers
+
+In this paper we give a preliminary formalization of the p-adic numbers, in the context of the second author's univalent foundations program. We also provide the corresponding code verifying the construction in the proof assistant Coq. Because work in the univalent setting is ongoing, the structure and organization of the construction of the p-adic numbers we give in this paper is expected to change as Coq libraries are more suitably rearranged, and optimized, by the authors and other researchers in the future. So our construction here should be deemed as a first approximation which is subject to improvements.

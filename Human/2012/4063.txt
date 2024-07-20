@@ -1,0 +1,4 @@
+Gossip on Weighted Networks
+
+We investigate how suitable a weighted network is for gossip spreading. The proposed model is based on the gossip spreading model introduced by Lind et.al. on unweighted networks. Weight represents "friendship." Potential spreader prefers not to spread if the victim of gossip is a "close friend". Gossip spreading is related to the triangles and cascades of triangles. It gives more insight about the structure of a network.
+  We analyze gossip spreading on real weighted networks of human interactions. 6 co-occurrence and 7 social pattern networks are investigated. Gossip propagation is found to be a good parameter to distinguish co-occurrence and social pattern networks. As a comparison some miscellaneous networks and computer generated networks based on ER, BA, WS models are also investigated. They are found to be quite different than the human interaction networks.

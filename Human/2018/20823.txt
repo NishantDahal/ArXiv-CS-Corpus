@@ -1,0 +1,3 @@
+A Simple Methodology for Computing Families of Algorithms
+
+Discovering "good" algorithms for an operation is often considered an art best left to experts. What if there is a simple methodology, an algorithm, for systematically deriving a family of algorithms as well as their cost analyses, so that the best algorithm can be chosen? We discuss such an approach for deriving loop-based algorithms. The example used to illustrate this methodology, evaluation of a polynomial, is itself simple yet the best algorithm that results is surprising to a non-expert: Horner's rule. We finish by discussing recent advances that make this approach highly practical for the domain of high-performance linear algebra software libraries.

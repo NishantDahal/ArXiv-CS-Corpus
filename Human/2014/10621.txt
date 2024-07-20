@@ -1,0 +1,4 @@
+On the Synchronization Rate for e-machines
+
+It is known, that an $ε$-machine is either exactly or asymptotically synchronizing. In the exact case, the observer can infer the current machine state after observing $L$ generated symbols with probability $1-a^L$ where $0 \leq a<1$ is a so-called synchronization rate constant. In the asymptotic case, the probability of the correct prediction the current machine state after observing $L$ generated symbols tends to $1$ exponentially fast as $1-b^L$ for $0<b<1$ and the infimum of such $b$ is a so-called prediction rate constant.
+  Hence the synchronization and prediction rate constants serve as natural measures of synchronization for $ε$-machines. In the present work we show how to approximate these constants in polynomial time in terms of the number of machine states.

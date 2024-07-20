@@ -1,0 +1,3 @@
+Time-variant Linear reduction model approximation : application to thermal and airflow building simulation
+
+Considering the natural ventilation, the thermal behavior of buildings can be described by a linear time varying model. In this paper, we describe an implementation of model reduction of linear time varying systems. We show the consequences of the model reduction on computing time and accuracy. Finally, we compare experimental measures and simulation results using the initial model or the reduced model. The reduced model shows negligible difference in accuracy, and the computing time shortens.

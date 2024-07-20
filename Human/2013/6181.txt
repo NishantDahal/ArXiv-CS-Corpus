@@ -1,0 +1,3 @@
+Deciding Nonnegativity of Polynomials by MAPLE
+
+There have been some effective tools for solving (constant/parametric) semi-algebraic systems in Maple's library RegularChains since Maple 13. By using the functions of the library, e.g., RealRootClassfication, one can prove and discover polynomial inequalities. This paper is more or less a user guide on using RealRootClassfication to prove the nonnegativity of polynomials. We show by examples how to use this powerful tool to prove a polynomial is nonnegative under some polynomial inequality and/or equation constraints. Some tricks for using the tool are also provided.

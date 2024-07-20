@@ -1,0 +1,3 @@
+Protocol architectures for IoT domains
+
+In this work we discuss proxy architectures which interconnect IoT domains running CoAP with the rest of Internet including micro datacenters and other domains building scalable hierarchical architectures. We assume that CoAP domain is terminated by an IoT proxy with cache, and we investigate several design issues with respect to successful data transmission, round trip delay and energy consumption. We present performance data for the case when proxy autonomously maintains data freshness which clearly point to efficient design choices.

@@ -1,0 +1,3 @@
+Light Field Reconstruction Using Shearlet Transform
+
+In this article we develop an image based rendering technique based on light field reconstruction from a limited set of perspective views acquired by cameras. Our approach utilizes sparse representation of epipolar-plane images in a directionally sensitive transform domain, obtained by an adapted discrete shearlet transform. The used iterative thresholding algorithm provides high-quality reconstruction results for relatively big disparities between neighboring views. The generated densely sampled light field of a given 3D scene is thus suitable for all applications which requires light field reconstruction. The proposed algorithm is compared favorably against state of the art depth image based rendering techniques.

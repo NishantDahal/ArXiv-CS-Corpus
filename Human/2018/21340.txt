@@ -1,0 +1,3 @@
+Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification
+
+In this report, we are presenting our automated prediction system for disease classification within dermoscopic images. The proposed solution is based on deep learning, where we employed transfer learning strategy on VGG16 and GoogLeNet architectures. The key feature of our solution is preprocessing based primarily on image augmentation and colour normalization. The solution was evaluated on Task 3: Lesion Diagnosis of the ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection.

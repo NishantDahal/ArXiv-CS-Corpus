@@ -1,0 +1,4 @@
+Methods of Repairing Virus Infected Files, A TRIZ based Analysis
+
+Most viruses are capable of fixing up the first few bytes and repair the original program because they have to return the control back to the infected program. This fact is used by a heuristic cleaner to clean the infected file. As the virus knows how to repair the it uses the same virus to repair the infected file.
+  There are some infections where parts of the files are damaged by the virus. These types of infections are caused by 'file modifying viruses'. In these cases, the chance of recovery is less, but the anti-virus has to apply various methods with hope. The virus cleaner must know the characteristics of a virus in order to remove that virus. It cannot remove an unknown virus whose methods of infection are not known. If a virus is wrongly detected to be a different virus, then the cleaner will do wrong operations and build a garbage file.

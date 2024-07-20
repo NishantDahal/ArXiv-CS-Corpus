@@ -1,0 +1,3 @@
+Parametric external predicates for the DLV System
+
+This document describes syntax, semantics and implementation guidelines in order to enrich the DLV system with the possibility to make external C function calls. This feature is realized by the introduction of parametric external predicates, whose extension is not specified through a logic program but implicitly computed through external code.

@@ -1,0 +1,3 @@
+Flexible IR-HARQ Scheme for Polar-Coded Modulation
+
+A flexible incremental redundancy hybrid auto- mated repeat request (IR-HARQ) scheme for polar codes is proposed based on dynamically frozen bits and the quasi-uniform puncturing (QUP) algorithm. The length of each transmission is not restricted to a power of two. It is applicable for the binary input additive white Gaussian noise (biAWGN) channel as well as higher-order modulation. Simulation results show that this scheme has similar performance as directly designed polar codes with QUP and outperforms LTE-turbo and 5G-LDPC codes with IR-HARQ.

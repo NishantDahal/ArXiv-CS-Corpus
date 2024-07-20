@@ -1,0 +1,3 @@
+DeepCancer: Detecting Cancer through Gene Expressions via Deep Generative Learning
+
+Transcriptional profiling on microarrays to obtain gene expressions has been used to facilitate cancer diagnosis. We propose a deep generative machine learning architecture (called DeepCancer) that learn features from unlabeled microarray data. These models have been used in conjunction with conventional classifiers that perform classification of the tissue samples as either being cancerous or non-cancerous. The proposed model has been tested on two different clinical datasets. The evaluation demonstrates that DeepCancer model achieves a very high precision score, while significantly controlling the false positive and false negative scores.

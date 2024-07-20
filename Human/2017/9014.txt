@@ -1,0 +1,3 @@
+Extending Defensive Distillation
+
+Machine learning is vulnerable to adversarial examples: inputs carefully modified to force misclassification. Designing defenses against such inputs remains largely an open problem. In this work, we revisit defensive distillation---which is one of the mechanisms proposed to mitigate adversarial examples---to address its limitations. We view our results not only as an effective way of addressing some of the recently discovered attacks but also as reinforcing the importance of improved training techniques.

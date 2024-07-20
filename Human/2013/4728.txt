@@ -1,0 +1,3 @@
+Exact synthesis of multiqubit Clifford+T circuits
+
+We prove that a unitary matrix has an exact representation over the Clifford+T gate set with local ancillas if and only if its entries are in the ring Z[1/sqrt(2),i]. Moreover, we show that one ancilla always suffices. These facts were conjectured by Kliuchnikov, Maslov, and Mosca. We obtain an algorithm for synthesizing a exact Clifford+T circuit from any such n-qubit operator. We also characterize the Clifford+T operators that can be represented without ancillas.

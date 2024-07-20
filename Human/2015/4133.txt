@@ -1,0 +1,3 @@
+Inferring Program Transformations from Type Transformations for Partitioning of Ordered Sets
+
+In this paper I introduce a mechanism to derive program transforma- tions from order-preserving transformations of vector types. The purpose of this work is to allow automatic generation of correct-by-construction instances of programs in a streaming data processing paradigm suitable for FPGA processing. We show that for it is possible to automatically derive instances for programs based on combinations of opaque element- processing functions combined using foldl and map, purely from the type transformations.

@@ -1,0 +1,3 @@
+Efficient Scheme for Active Particle Selection in N-body Simulations
+
+We propose an efficient method for active particle selection, working with Hermite Individual Time Steps (HITS) scheme in direct N-body simulation code $\varphi$GRAPE. For a simulation with $N$ particles, this method can reduce the computation complexity of active particle selection, from $O(N\cdot N_{step})$ to $O(\overline{N_{act}}\cdot N_{step})$, where $\overline{N_{act}}$ is the average active particle number in every time step which is much smaller than $N$ and $N_{step}$ is the total time steps integrated during the simulation. Thus can save a lot of time spent on active particle selection part, especially in the case of low $\overline{N_{act}}$.

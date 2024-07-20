@@ -1,0 +1,5 @@
+The design of efficient algorithms for enumeration
+
+Many algorithms have been developed for enumerating various combinatorial objects in time exponentially less than the number of objects. Two common classes of algorithms are dynamic programming and the transfer matrix method. This paper covers the design and implementation of such algorithms.
+  A host of general techniques for improving efficiency are described. Three quite different example problems are used for examples: 1324 pattern avoiding permutations, three-dimensional polycubes, and two-dimensional directed animals.
+  For those new to the field, this paper is designed to be an introduction to many of the tricks for producing efficient enumeration algorithms. For those more experienced, it will hopefully help them understand the interrelationship and implications of a variety of techniques, many or most of which will be familiar. The author certainly found his understanding improved as a result of writing this paper.

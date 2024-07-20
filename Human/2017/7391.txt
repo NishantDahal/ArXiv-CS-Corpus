@@ -1,0 +1,3 @@
+Profiling Users by Modeling Web Transactions
+
+Users of electronic devices, e.g., laptop, smartphone, etc. have characteristic behaviors while surfing the Web. Profiling this behavior can help identify the person using a given device. In this paper, we introduce a technique to profile users based on their web transactions. We compute several features extracted from a sequence of web transactions and use them with one-class classification techniques to profile a user. We assess the efficacy and speed of our method at differentiating 25 users on a dataset representing 6 months of web traffic monitoring from a small company network.

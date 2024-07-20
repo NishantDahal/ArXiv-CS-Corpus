@@ -1,0 +1,4 @@
+An interleaver design for polar codes over slow fading channels
+
+We consider the problem of using polar codes over slow fading wireless channels. For design, we focus on a parallel slow fading channel with 2 blocks, and polar codes with rate <= 1/2. Motivated by Arikan's systematic polar code construction, we propose an interleaver design for a general polar code. The interleaver comprises of using the bit reversal of the order of polarized bit channels. This interleaver is called a diversity interleaver. In addition to the diversity interleaver, a diversity polar code is proposed to further increase the diversity gain.
+  The proposed designs are evaluated via link simulations for AWGN and fading channels. The simulation results show a performance close to the outage probability (within 2 dB) and significant gains over using a random interleaver.

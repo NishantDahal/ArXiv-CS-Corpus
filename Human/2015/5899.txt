@@ -1,0 +1,3 @@
+Training Deeper Convolutional Networks with Deep Supervision
+
+One of the most promising ways of improving the performance of deep convolutional neural networks is by increasing the number of convolutional layers. However, adding layers makes training more difficult and computationally expensive. In order to train deeper networks, we propose to add auxiliary supervision branches after certain intermediate layers during training. We formulate a simple rule of thumb to determine where these branches should be added. The resulting deeply supervised structure makes the training much easier and also produces better classification results on ImageNet and the recently released, larger MIT Places dataset

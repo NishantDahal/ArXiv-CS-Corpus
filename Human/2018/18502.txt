@@ -1,0 +1,3 @@
+Formalizing Constructive Quantifier Elimination in Agda
+
+In this paper a constructive formalization of quantifier elimination is presented, based on a classical formalization by Tobias Nipkow. The formalization is implemented and verified in the programming language/proof assistant Agda. It is shown that, as in the classical case, the ability to eliminate a single existential quantifier may be generalized to full quantifier elimination and consequently a decision procedure. The latter is shown to have strong properties under a constructive metatheory, such as the generation of witnesses and counterexamples. Finally, this is demonstrated on a minimal theory on the natural numbers.

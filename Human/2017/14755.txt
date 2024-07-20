@@ -1,0 +1,3 @@
+Large-Scale Shape Retrieval with Sparse 3D Convolutional Neural Networks
+
+In this paper we present results of performance evaluation of S3DCNN - a Sparse 3D Convolutional Neural Network - on a large-scale 3D Shape benchmark ModelNet40, and measure how it is impacted by voxel resolution of input shape. We demonstrate comparable classification and retrieval performance to state-of-the-art models, but with much less computational costs in training and inference phases. We also notice that benefits of higher input resolution can be limited by an ability of a neural network to generalize high level features.

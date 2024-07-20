@@ -1,0 +1,3 @@
+A case study of Empirical Bayes in User-Movie Recommendation system
+
+In this article we provide a formulation of empirical bayes described by Atchade (2011) to tune the hyperparameters of priors used in bayesian set up of collaborative filter. We implement the same in MovieLens small dataset. We see that it can be used to get a good initial choice for the parameters. It can also be used to guess an initial choice for hyper-parameters in grid search procedure even for the datasets where MCMC oscillates around the true value or takes long time to converge.

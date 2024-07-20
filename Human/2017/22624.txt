@@ -1,0 +1,3 @@
+Block-Cyclic Stochastic Coordinate Descent for Deep Neural Networks
+
+We present a stochastic first-order optimization algorithm, named BCSC, that adds a cyclic constraint to stochastic block-coordinate descent. It uses different subsets of the data to update different subsets of the parameters, thus limiting the detrimental effect of outliers in the training set. Empirical tests in benchmark datasets show that our algorithm outperforms state-of-the-art optimization methods in both accuracy as well as convergence speed. The improvements are consistent across different architectures, and can be combined with other training techniques and regularization methods.

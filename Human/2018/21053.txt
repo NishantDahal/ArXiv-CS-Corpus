@@ -1,0 +1,4 @@
+Go-HEP: writing concurrent software with ease and Go
+
+High Energy and Nuclear Physics (HENP) libraries are now required to be more and more multi-thread-safe, if not multi-thread-friendly and multi-threaded. This is usually done using the new constructs and library components offered by the C++11 and C++14 standards. These components are however quite low-level and hard to use and compose.
+  However, Go provides a set of better building blocks for tackling concurrency: goroutines and channels. This language is now used by the whole cloud industry: docker/moby, rkt, Kubernetes are obvious flagships for Go. But to be able to perform any meaningful physics analysis, one needs a set of basic libraries (matrix operations, linear algebra, plotting, I/O, ...) We present Go-HEP, a set of packages to easily write concurrent software to interface with legacy HENP C++ physics libraries.

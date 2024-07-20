@@ -1,0 +1,3 @@
+Episode-Based Active Learning with Bayesian Neural Networks
+
+We investigate different strategies for active learning with Bayesian deep neural networks. We focus our analysis on scenarios where new, unlabeled data is obtained episodically, such as commonly encountered in mobile robotics applications. An evaluation of different strategies for acquisition, updating, and final training on the CIFAR-10 dataset shows that incremental network updates with final training on the accumulated acquisition set are essential for best performance, while limiting the amount of required human labeling labor.

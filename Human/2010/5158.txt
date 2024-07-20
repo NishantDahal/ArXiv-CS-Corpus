@@ -1,0 +1,3 @@
+Fast Gröbner Basis Computation for Boolean Polynomials
+
+We introduce the Macaulay2 package BooleanGB, which computes a Gröbner basis for Boolean polynomials using a binary representation rather than symbolic. We compare the runtime of several Boolean models from systems in biology and give an application to Sudoku.

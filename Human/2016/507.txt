@@ -1,0 +1,3 @@
+On-line Bayesian System Identification
+
+We consider an on-line system identification setting, in which new data become available at given time steps. In order to meet real-time estimation requirements, we propose a tailored Bayesian system identification procedure, in which the hyper-parameters are still updated through Marginal Likelihood maximization, but after only one iteration of a suitable iterative optimization algorithm. Both gradient methods and the EM algorithm are considered for the Marginal Likelihood optimization. We compare this "1-step" procedure with the standard one, in which the optimization method is run until convergence to a local minimum. The experiments we perform confirm the effectiveness of the approach we propose.

@@ -1,0 +1,3 @@
+Impact of Limpware on HDFS: A Probabilistic Estimation
+
+With the advent of cloud computing, thousands of machines are connected and managed collectively. This era is confronted with a new challenge: performance variability, primarily caused by large-scale management issues such as hardware failures, software bugs, and configuration mistakes. In our previous work we highlighted one overlooked cause: limpware - hardware whose performance degrades significantly compared to its specification. We showed that limpware can cause severe impact in current scale-out systems. In this report, we quantify how often these scenarios happen in Hadoop Distributed File System.

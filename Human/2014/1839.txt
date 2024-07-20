@@ -1,0 +1,3 @@
+TRIAD: a triple patterning lithography aware detailed router
+
+TPL-friendly detailed routers require a systematic approach to detect TPL conflicts. However, the complexity of conflict graph (CG) impedes directly detecting TPL conflicts in CG. This work proposes a token graph-embedded conflict graph (TECG) to facilitate the TPL conflict detection while maintaining high coloring-flexibility. We then develop a TPL aware detailed router (TRIAD) by applying TECG to a gridless router with the TPL stitch generation. Compared to a greedy coloring approach, experimental results indicate that TRIAD generates no conflicts and few stitches with shorter wirelength at the cost of 2.41x of runtime.

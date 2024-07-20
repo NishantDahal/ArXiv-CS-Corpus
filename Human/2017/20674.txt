@@ -1,0 +1,3 @@
+Querying Best Paths in Graph Databases
+
+Querying graph databases has recently received much attention. We propose a new approach to this problem, which balances competing goals of expressive power, language clarity and computational complexity. A distinctive feature of our approach is the ability to express properties of minimal (e.g. shortest) and maximal (e.g. most valuable) paths satisfying given criteria. To express complex properties in a modular way, we introduce labelling-generating ontologies. The resulting formalism is computationally attractive -- queries can be answered in non-deterministic logarithmic space in the size of the database.

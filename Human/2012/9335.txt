@@ -1,0 +1,3 @@
+Mutually Exclusive Rules in LogicWeb
+
+LogicWeb has traditionally lacked devices for expressing mutually exclusive clauses. We address this limitation by adopting choice-conjunctive clauses of the form $D_0 \adc D_1$ where $D_0, D_1$ are Horn clauses and $\adc$ is a linear logic connective. Solving a goal $G$ using $D_0 \adc D_1$ -- $\prov(D_0 \adc D_1,G)$ -- has the following operational semantics: choose a successful one between $\prov(D_0,G)$ and $\prov(D_1,G)$. In other words, if $D_o$ is chosen in the course of solving $G$, then $D_1$ will be discarded and vice versa. Hence, the class of choice-conjunctive clauses precisely captures the notion of mutually exclusive clauses.

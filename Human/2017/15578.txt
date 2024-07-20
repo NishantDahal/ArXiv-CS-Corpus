@@ -1,0 +1,8 @@
+Simple and Near-Optimal Distributed Coloring for Sparse Graphs
+
+Graph coloring is one of the central problems in distributed graph algorithms. Much of the research on this topic has focused on coloring with $Δ+1$ colors, where $Δ$ denotes the maximum degree. Using $Δ+1$ colors may be unsatisfactory in sparse graphs, where not all nodes have such a high degree; it would be more desirable to use a number of colors that improves with sparsity. A standard measure that captures sparsity is arboricity, which is the smallest number of forests into which the edges of the graph can be partitioned.
+  We present simple randomized distributed algorithms that, with high probability, color any $n$-node $α$-arboricity graph:
+  - using $(2+\varepsilon)\cdot α$ colors, for constant $\varepsilon>0$, in $O(\log n)$ rounds, if $α=\tildeΩ(\log n)$, or
+  - using $O(α\log α)$ colors, in $O(\log n)$ rounds, or
+  - using $O(α)$ colors, in $O(\log n \cdot \min\{\log\log n,\; \log α\})$ rounds.
+  These algorithms are nearly-optimal, as it is known by results of Linial [FOCS'87] and Barenboim and Elkin [PODC'08] that coloring with $Θ(α)$ colors, or even poly$(α)$ colors, requires $Ω(\log_α n)$ rounds. The previously best-known $O(\log n)$-time result was a deterministic algorithm due to Barenboim and Elkin [PODC'08], which uses $Θ(α^2)$ colors. Barenboim and Elkin stated improving this number of colors as an open problem in their Distributed Graph Coloring Book.

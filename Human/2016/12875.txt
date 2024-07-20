@@ -1,0 +1,5 @@
+From Weak to Strong LP Gaps for all CSPs
+
+We study the approximability of constraint satisfaction problems (CSPs) by linear programming (LP) relaxations. We show that for every CSP, the approximation obtained by a basic LP relaxation, is no weaker than the approximation obtained using relaxations given by $Ω\left(\frac{\log n}{\log \log n}\right)$ levels of the Sherali-Adams hierarchy on instances of size $n$.
+  It was proved by Chan et al. [FOCS 2013] that any polynomial size LP extended formulation is no stronger than relaxations obtained by a super-constant levels of the Sherali-Adams hierarchy.. Combining this with our result also implies that any polynomial size LP extended formulation is no stronger than the basic LP.
+  Using our techniques, we also simplify and strengthen the result by Khot et al. [STOC 2014] on (strong) approximation resistance for LPs. They provided a necessary and sufficient condition under which $Ω(\log \log n)$ levels of the Sherali-Adams hierarchy cannot achieve an approximation better than a random assignment. We simplify their proof and strengthen the bound to $Ω\left(\frac{\log n}{\log \log n}\right)$ levels.

@@ -1,0 +1,3 @@
+Discrete Temporal Constraint Satisfaction Problems
+
+A discrete temporal constraint satisfaction problem is a constraint satisfaction problem (CSP) whose constraint language consists of relations that are first-order definable over $(\Bbb Z,<)$. Our main result says that every distance CSP is in Ptime or NP-complete, unless it can be formulated as a finite domain CSP in which case the computational complexity is not known in general.

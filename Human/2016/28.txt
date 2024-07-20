@@ -1,0 +1,3 @@
+A Linearithmic Time Algorithm for a Shortest Vector Problem in Compute-and-Forward Design
+
+We propose an algorithm with expected complexity of $\bigO(n\log n)$ arithmetic operations to solve a special shortest vector problem arising in computer-and-forward design, where $n$ is the dimension of the channel vector. This algorithm is more efficient than the best known algorithms with proved complexity.

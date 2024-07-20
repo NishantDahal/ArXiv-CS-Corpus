@@ -1,0 +1,3 @@
+Performance Evaluation of the Quorum Blockchain Platform
+
+Quorum is a permissioned blockchain platform built from the Ethereum codebase with adaptations to make it a permissioned consortium platform. It is one of the key contenders in the permissioned ledger space. Quorum supports confidentiality and privacy of smart contracts and transactions, and crash and Byzantine fault tolerant consensus algorithms. In this paper, we characterize the performance features of Quorum. We study the throughput and latency characteristics of Quorum with different workloads and consensus algorithms that it supports. Through a suite of micro-benchmarks, we explore how certain transaction and smart contract parameters can affect transaction latencies.

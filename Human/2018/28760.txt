@@ -1,0 +1,3 @@
+Robbins-Monro conditions for persistent exploration learning strategies
+
+We formulate simple assumptions, implying the Robbins-Monro conditions for the $Q$-learning algorithm with the local learning rate, depending on the number of visits of a particular state-action pair (local clock) and the number of iteration (global clock). It is assumed that the Markov decision process is communicating and the learning policy ensures the persistent exploration. The restrictions are imposed on the functional dependence of the learning rate on the local and global clocks. The result partially confirms the conjecture of Bradkte (1994).

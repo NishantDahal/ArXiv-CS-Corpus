@@ -1,0 +1,3 @@
+AMSDU vs AMPDU: A Brief Tutorial on WiFi Aggregation Support
+
+WiFi MAC architecture supports aggregation at two layers. The MAC service data units (MSDUs) can be aggregated to form AMSDUs. Each AMSDU serves as a single MAC protocol data unit (MPDU). Another layer of aggregation is introduced when MPDUs can be packed together to deliver an aggregated MPDU (AMPDU). In this brief tutorial we discuss (1) why aggregation is useful at all, (2) why two layers of aggregation are required, (3) trade-offs for aggregating at different layers.

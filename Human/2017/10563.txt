@@ -1,0 +1,3 @@
+Toward Inverse Control of Physics-Based Sound Synthesis
+
+Long Short-Term Memory networks (LSTMs) can be trained to realize inverse control of physics-based sound synthesizers. Physics-based sound synthesizers simulate the laws of physics to produce output sound according to input gesture signals. When a user's gestures are measured in real time, she or he can use them to control physics-based sound synthesizers, thereby creating simulated virtual instruments. An intriguing question is how to program a computer to learn to play such physics-based models. This work demonstrates that LSTMs can be trained to accomplish this inverse control task with four physics-based sound synthesizers.

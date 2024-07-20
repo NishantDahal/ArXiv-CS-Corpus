@@ -1,0 +1,3 @@
+Mechanism Design via Consensus Estimates, Cross Checking, and Profit Extraction
+
+There is only one technique for prior-free optimal mechanism design that generalizes beyond the structurally benevolent setting of digital goods. This technique uses random sampling to estimate the distribution of agent values and then employs the Bayesian optimal mechanism for this estimated distribution on the remaining players. Though quite general, even for digital goods, this random sampling auction has a complicated analysis and is known to be suboptimal. To overcome these issues we generalize the consensus technique from Goldberg and Hartline (2003) to structurally rich environments that include, e.g., single-minded combinatorial auctions.

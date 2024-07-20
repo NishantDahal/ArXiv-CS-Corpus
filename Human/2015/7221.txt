@@ -1,0 +1,3 @@
+Technical Report: Image Captioning with Semantically Similar Images
+
+This report presents our submission to the MS COCO Captioning Challenge 2015. The method uses Convolutional Neural Network activations as an embedding to find semantically similar images. From these images, the most typical caption is selected based on unigram frequencies. Although the method received low scores with automated evaluation metrics and in human assessed average correctness, it is competitive in the ratio of captions which pass the Turing test and which are assessed as better or equal to human captions.

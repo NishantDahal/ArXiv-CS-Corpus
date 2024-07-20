@@ -1,0 +1,3 @@
+Manipulation and Control Complexity of Schulze Voting
+
+Schulze voting is a recently introduced voting system enjoying unusual popularity and a high degree of real-world use, with users including the Wikimedia foundation, several branches of the Pirate Party, and MTV. It is a Condorcet voting system that determines the winners of an election using information about paths in a graph representation of the election. We resolve the complexity of many electoral control cases for Schulze voting. We find that it falls short of the best known voting systems in terms of control resistance, demonstrating vulnerabilities of concern to some prospective users of the system.

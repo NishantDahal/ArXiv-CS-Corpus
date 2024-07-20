@@ -1,0 +1,3 @@
+Art gallery problem with rook and queen vision
+
+How many chess rooks or queens does it take to guard all the squares of a given polyomino, the union of square tiles from a square grid? This question is a version of the art gallery problem in which the guards can "see" whichever squares the rook or queen attacks. We show that floor(n/2) rooks or floor(n/3) queens are sufficient and sometimes necessary to guard a polyomino with n tiles. We also prove that finding the minimum number of rooks or the minimum number of queens needed to guard a polyomino is NP-hard. These results also apply to d-dimensional rooks and queens on d-dimensional polycubes. We also use bipartite matching theorems to describe sets of non-attacking rooks on polyominoes.

@@ -1,0 +1,3 @@
+A Differentially Private Wilcoxon Signed-Rank Test
+
+Hypothesis tests are a crucial statistical tool for data mining and are the workhorse of scientific research in many fields. Here we present a differentially private analogue of the classic Wilcoxon signed-rank hypothesis test, which is used when comparing sets of paired (e.g., before-and-after) data values. We present not only a private estimate of the test statistic, but a method to accurately compute a p-value and assess statistical significance. We evaluate our test on both simulated and real data. Compared to the only existing private test for this situation, that of Task and Clifton, we find that our test requires less than half as much data to achieve the same statistical power.

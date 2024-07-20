@@ -1,0 +1,4 @@
+On the Sensitivity of Cyclically-Invariant Boolean Functions
+
+In this paper we construct a cyclically invariant Boolean function whose sensitivity is $Θ(n^{1/3})$. This result answers two previously published questions. Turán (1984) asked if any Boolean function, invariant under some transitive group of permutations, has sensitivity $Ω(\sqrt{n})$. Kenyon and Kutin (2004) asked whether for a ``nice'' function the product of 0-sensitivity and 1-sensitivity is $Ω(n)$. Our function answers both questions in the negative.
+  We also prove that for minterm-transitive functions (a natural class of Boolean functions including our example) the sensitivity is $Ω(n^{1/3})$. Hence for this class of functions sensitivity and block sensitivity are polynomially related.

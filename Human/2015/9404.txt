@@ -1,0 +1,3 @@
+Practical Inexact Proximal Quasi-Newton Method with Global Complexity Analysis
+
+Recently several methods were proposed for sparse optimization which make careful use of second-order information [10, 28, 16, 3] to improve local convergence rates. These methods construct a composite quadratic approximation using Hessian information, optimize this approximation using a first-order method, such as coordinate descent and employ a line search to ensure sufficient descent. Here we propose a general framework, which includes slightly modified versions of existing algorithms and also a new algorithm, which uses limited memory BFGS Hessian approximations, and provide a novel global convergence rate analysis, which covers methods that solve subproblems via coordinate descent.

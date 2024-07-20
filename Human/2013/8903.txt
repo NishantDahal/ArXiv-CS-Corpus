@@ -1,0 +1,3 @@
+Bandit Market Makers
+
+We introduce a modular framework for market making. It combines cost-function based automated market makers with bandit algorithms. We obtain worst-case profits guarantee's relative to the best in hindsight within a class of natural "overround" cost functions . This combination allow us to have distribution-free guarantees on the regret of profits while preserving the bounded worst-case losses and computational tractability over combinatorial spaces of the cost function based approach. We present simulation results to better understand the practical behaviour of market makers from the framework.

@@ -1,0 +1,3 @@
+Timed Session Types
+
+Timed session types formalise timed communication protocols between two participants at the endpoints of a session. They feature a decidable compliance relation, which generalises to the timed setting the progress-based compliance between untimed session types. We show a sound and complete technique to decide when a timed session type admits a compliant one. Then, we show how to construct the most precise session type compliant with a given one, according to the subtyping preorder induced by compliance. Decidability of subtyping follows from these results.

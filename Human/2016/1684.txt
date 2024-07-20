@@ -1,0 +1,3 @@
+A Probabilistic Dependent Type System based on Non-Deterministic Beta Reduction
+
+We introduce Probabilistic Dependent Type Systems (PDTS) via a functional language based on a subsystem of intuitionistic type theory including dependent sums and products, which is expanded to include stochastic functions. We provide a sampling-based semantics for the language based on non-deterministic beta reduction. Further, we derive a probabilistic logic from the PDTS introduced as a direct result of the Curry-Howard isomorphism. The probabilistic logic derived is shown to provide a universal representation for finite discrete distributions.

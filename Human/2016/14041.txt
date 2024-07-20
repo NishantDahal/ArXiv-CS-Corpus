@@ -1,0 +1,5 @@
+Bleach: A Distributed Stream Data Cleaning System
+
+In this paper we address the problem of rule-based stream data cleaning, which sets stringent requirements on latency, rule dynamics and ability to cope with the unbounded nature of data streams.
+  We design a system, called Bleach, which achieves real-time violation detection and data repair on a dirty data stream. Bleach relies on efficient, compact and distributed data structures to maintain the necessary state to repair data, using an incremental version of the equivalence class algorithm. Additionally, it supports rule dynamics and uses a "cumulative" sliding window operation to improve cleaning accuracy.
+  We evaluate a prototype of Bleach using a TPC-DS derived dirty data stream and observe its high throughput, low latency and high cleaning accuracy, even with rule dynamics. Experimental results indicate superior performance of Bleach compared to a baseline system built on the micro-batch streaming paradigm.

@@ -1,0 +1,3 @@
+Mariages et Trahisons
+
+A self-stabilizing protocol tolerates by definition transient faults (faults of finite duration). Recently, a new class of self-stabilizing protocols that are able to tolerate a given number of permanent faults. In this paper, we focus on self-stabilizing protocols able to tolerate Byzantine faults, that is faults that introduce an arbitrary behaviour. We focus on strict-stabilization in which the system have to contain the effects of Byzantine faults. Specificaly, we study the possibility to construct in a self-stabilizing way a maximal matching in a network where an arbitrary number of process may become Byzantine.

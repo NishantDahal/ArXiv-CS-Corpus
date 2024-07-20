@@ -1,0 +1,3 @@
+Radio Irregularity Model in OMNeT++
+
+Radio irregularity is a non-negligible phenomenon that has an impact on protocol performances. For instance, irregularity in radio range leads to asymmetric links that cause the loss of packets in different directions. In order to investigate its effect, the Radio Irregularity Model (RIM) is proposed that takes into account the irregularity of a radio range and estimates path losses in an anisotropic environment. The purpose of this paper is to provide details of the RIM model developed in the INET Framework of the OMNeT++ simulator that can be used to investigate the impact of radio irregularity on protocol performance.

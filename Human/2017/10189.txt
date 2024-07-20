@@ -1,0 +1,8 @@
+Non-Backtracking Spectrum of Degree-Corrected Stochastic Block Models
+
+Motivated by community detection, we characterise the spectrum of the non-backtracking matrix $B$ in the Degree-Corrected Stochastic Block Model.
+  Specifically, we consider a random graph on $n$ vertices partitioned into two equal-sized clusters. The vertices have i.i.d. weights $\{ φ_u \}_{u=1}^n$ with second moment $Φ^{(2)}$. The intra-cluster connection probability for vertices $u$ and $v$ is $\frac{φ_u φ_v}{n}a$ and the inter-cluster connection probability is $\frac{φ_u φ_v}{n}b$.
+  We show that with high probability, the following holds: The leading eigenvalue of the non-backtracking matrix $B$ is asymptotic to $ρ= \frac{a+b}{2} Φ^{(2)}$. The second eigenvalue is asymptotic to $μ_2 = \frac{a-b}{2} Φ^{(2)}$ when $μ_2^2 > ρ$, but asymptotically bounded by $\sqrtρ$ when $μ_2^2 \leq ρ$. All the remaining eigenvalues are asymptotically bounded by $\sqrtρ$. As a result, a clustering positively-correlated with the true communities can be obtained based on the second eigenvector of $B$ in the regime where $μ_2^2 > ρ.$
+  In a previous work we obtained that detection is impossible when $μ_2^2 < ρ,$ meaning that there occurs a phase-transition in the sparse regime of the Degree-Corrected Stochastic Block Model.
+  As a corollary, we obtain that Degree-Corrected Erdős-Rényi graphs asymptotically satisfy the graph Riemann hypothesis, a quasi-Ramanujan property.
+  A by-product of our proof is a weak law of large numbers for local-functionals on Degree-Corrected Stochastic Block Models, which could be of independent interest.

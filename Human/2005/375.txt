@@ -1,0 +1,3 @@
+Polynomial Degree and Lower Bounds in Quantum Complexity: Collision and Element Distinctness with Small Range
+
+We give a general method for proving quantum lower bounds for problems with small range. Namely, we show that, for any symmetric problem defined on functions $f:\{1, ..., N\}\to\{1, ..., M\}$, its polynomial degree is the same for all $M\geq N$. Therefore, if we have a quantum lower bound for some (possibly, quite large) range $M$ which is shown using polynomials method, we immediately get the same lower bound for all ranges $M\geq N$. In particular, we get $Ω(N^{1/3})$ and $Ω(N^{2/3})$ quantum lower bounds for collision and element distinctness with small range.

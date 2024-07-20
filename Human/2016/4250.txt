@@ -1,0 +1,3 @@
+Normalized Hierarchical SVM
+
+We present improved methods of using structured SVMs in a large-scale hierarchical classification problem, that is when labels are leaves, or sets of leaves, in a tree or a DAG. We examine the need to normalize both the regularization and the margin and show how doing so significantly improves performance, including allowing achieving state-of-the-art results where unnormalized structured SVMs do not perform better than flat models. We also describe a further extension of hierarchical SVMs that highlight the connection between hierarchical SVMs and matrix factorization models.

@@ -1,0 +1,3 @@
+Squiggle - A Glyph Recognizer for Gesture Input
+
+Squiggle is a template-based glyph recognizer in the lineage of `$1 Recognizer' and `Protractor'. It seeks a good fit linear affine mapping between the input and template glyphs which are represented as a list of milestone points along the glyph path. The algorithm can recognize input glyphs invariant of rotation, scaling, skew, and reflection symmetries. In practice the algorithm is fast and robust enough to recognize user-generated glyphs as they are being drawn in real time, and to project `shadows' of the matching templates as feedback.

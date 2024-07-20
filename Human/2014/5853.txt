@@ -1,0 +1,3 @@
+Optimal interval clustering: Application to Bregman clustering and statistical mixture learning
+
+We present a generic dynamic programming method to compute the optimal clustering of $n$ scalar elements into $k$ pairwise disjoint intervals. This case includes 1D Euclidean $k$-means, $k$-medoids, $k$-medians, $k$-centers, etc. We extend the method to incorporate cluster size constraints and show how to choose the appropriate $k$ by model selection. Finally, we illustrate and refine the method on two case studies: Bregman clustering and statistical mixture learning maximizing the complete likelihood.

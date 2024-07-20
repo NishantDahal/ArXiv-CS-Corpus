@@ -1,0 +1,3 @@
+Computing Datalog Rewritings beyond Horn Ontologies
+
+Rewriting-based approaches for answering queries over an OWL 2 DL ontology have so far been developed mainly for Horn fragments of OWL 2 DL. In this paper, we study the possibilities of answering queries over non-Horn ontologies using datalog rewritings. We prove that this is impossible in general even for very simple ontology languages, and even if PTIME = NP. Furthermore, we present a resolution-based procedure for $\SHI$ ontologies that, in case it terminates, produces a datalog rewriting of the ontology. Our procedure necessarily terminates on DL-Lite_{bool}^H ontologies---an extension of OWL 2 QL with transitive roles and Boolean connectives.

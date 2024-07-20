@@ -1,0 +1,3 @@
+Unique Set Cover on Unit Disks and Unit Squares
+
+We study the Unique Set Cover problem on unit disks and unit squares. For a given set $P$ of $n$ points and a set $D$ of $m$ geometric objects both in the plane, the objective of the Unique Set Cover problem is to select a subset $D'\subseteq D$ of objects such that every point in $P$ is covered by at least one object in $D'$ and the number of points covered uniquely is maximized, where a point is covered uniquely if the point is covered by exactly one object in $D'$. In this paper, (i) we show that the Unique Set Cover is NP-hard on both unit disks and unit squares, and (ii) we give a PTAS for this problem on unit squares by applying the mod-one approach of Chan and Hu (Comput. Geom. 48(5), 2015).

@@ -1,0 +1,3 @@
+A Separation of NP and coNP in Multiparty Communication Complexity
+
+We prove that NP differs from coNP and coNP is not a subset of MA in the number-on-forehead model of multiparty communication complexity for up to k = (1-ε)log(n) players, where ε>0 is any constant. Specifically, we construct a function F with co-nondeterministic complexity O(log(n)) and Merlin-Arthur complexity n^{Ω(1)}. The problem was open for k > 2.

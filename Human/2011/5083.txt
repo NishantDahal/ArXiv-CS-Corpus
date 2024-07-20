@@ -1,0 +1,3 @@
+Reduction in X does not agree with Intersection and Union Types (Extended abstract)
+
+This paper defines intersection and union type assignment for the calculus X, a substitution free language that enjoys the Curry-Howard correspondence with respect to Gentzen's sequent calculus for classical logic. We show that this notion is closed for subject-expansion, and show that it needs to be restricted to satisfy subject-reduction as well, making it unsuitable to define a semantics.

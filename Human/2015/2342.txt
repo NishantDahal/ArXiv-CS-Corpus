@@ -1,0 +1,5 @@
+Reliable Communication in a Dynamic Network in the Presence of Byzantine Faults
+
+We consider the following problem: two nodes want to reliably communicate in a dynamic multihop network where some nodes have been compromised, and may have a totally arbitrary and unpredictable behavior. These nodes are called Byzantine. We consider the two cases where cryptography is available and not available.
+We prove the necessary and sufficient condition (that is, the weakest possible condition) to ensure reliable communication in this context. Our proof is constructive, as we provide Byzantine-resilient algorithms for reliable communication that are optimal with respect to our impossibility results.
+In a second part, we investigate the impact of our conditions in three case studies: participants interacting in a conference, robots moving on a grid and agents in the subway. Our simulations indicate a clear benefit of using our algorithms for reliable communication in those contexts.

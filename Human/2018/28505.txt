@@ -1,0 +1,3 @@
+Handling Nominals and Inverse Roles using Algebraic Reasoning
+
+This paper presents a novel SHOI tableau calculus which incorporates algebraic reasoning for deciding ontology consistency. Numerical restrictions imposed by nominals, existential and universal restrictions are encoded into a set of linear inequalities. Column generation and branch-and-price algorithms are used to solve these inequalities. Our preliminary experiments indicate that this calculus performs better on SHOI ontologies than standard tableau methods.

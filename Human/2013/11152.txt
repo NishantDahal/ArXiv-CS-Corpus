@@ -1,0 +1,3 @@
+Infinite Horizon Optimal Impulsive Control Theory with Application to Internet Congestion Control
+
+We develop Bellman equation based approach for infinite time horizon optimal impulsive control problems. Both discounted and time average criteria are considered. We establish very general and at the same time natural conditions under which a canonical control triplet produces an optimal feedback policy. Then, we apply our general results for Internet congestion control providing a convenient setting for the design of active queue management algorithms. In particular, our general theoretical results suggest a simple threshold-based active queue management scheme which takes into account the main parameters of the transmission control protocol.

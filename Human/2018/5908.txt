@@ -1,0 +1,3 @@
+A Multi-Modal Approach to Infer Image Affect
+
+The group affect or emotion in an image of people can be inferred by extracting features about both the people in the picture and the overall makeup of the scene. The state-of-the-art on this problem investigates a combination of facial features, scene extraction and even audio tonality. This paper combines three additional modalities, namely, human pose, text-based tagging and CNN extracted features / predictions. To the best of our knowledge, this is the first time all of the modalities were extracted using deep neural networks. We evaluate the performance of our approach against baselines and identify insights throughout this paper.

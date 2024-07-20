@@ -1,0 +1,3 @@
+Non-adaptive pooling strategies for detection of rare faulty items
+
+We study non-adaptive pooling strategies for detection of rare faulty items. Given a binary sparse N-dimensional signal x, how to construct a sparse binary MxN pooling matrix F such that the signal can be reconstructed from the smallest possible number M of measurements y=Fx? We show that a very low number of measurements is possible for random spatially coupled design of pools F. Our design might find application in genetic screening or compressed genotyping. We show that our results are robust with respect to the uncertainty in the matrix F when some elements are mistaken.

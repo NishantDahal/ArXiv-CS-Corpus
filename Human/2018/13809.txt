@@ -1,0 +1,3 @@
+Binarization Trees and Random Number Generation
+
+An m-extracting procedure produces unbiased random bits from a loaded dice with m faces. A binarization takes inputs from an m-faced dice and produce bit sequences to be fed into a (binary) extracting procedure to obtain random bits. Thus, binary extracting procedures give rise to an m-extracting procedure via a binarization. An entropy- preserving binarization is to be called complete, and such a procedure has been proposed by Zhou and Bruck. We show that there exist complete binarizations in abundance as naturally arising from binary trees with m leaves. The well-known leaf entropy theorem and a closely related structure lemma play important roles in the arguments.

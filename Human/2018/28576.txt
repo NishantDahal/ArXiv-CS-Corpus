@@ -1,0 +1,3 @@
+Answering Analytical Queries on Text Data with Temporal Term Histograms
+
+Temporal text, i.e., time-stamped text data are found abundantly in a variety of data sources like newspapers, blogs and social media posts. While today's data management systems provide facilities for searching full-text data, they do not provide any simple primitives for performing analytical operations with text. This paper proposes the temporal term histograms (TTH) as an intermediate primitive that can be used for analytical tasks. We propose an algebra, with operators and equivalence rules for TTH and present a reference implementation on a relational database system.

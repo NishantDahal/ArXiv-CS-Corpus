@@ -1,0 +1,3 @@
+Efficient Calculation of Meta Distributions and the Performance of User Percentiles
+
+Meta distributions (MDs) are refined performance metrics in wireless networks modeled using point processes. While there is no known method to directly calculate MDs, the moments of the underlying conditional distributions (given the point process) can often be expressed in exact analytical form. The problem of finding the MD given the moments has several solutions, but the standard approaches are inefficient and sensitive to the choices of a number of parameters. Here we propose and explore the use of a method based on binomial mixtures, which has several key advantages over other methods, since it is based on a simple linear transform of the moments.

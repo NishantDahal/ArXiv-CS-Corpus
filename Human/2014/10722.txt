@@ -1,0 +1,3 @@
+Dialectica models of additive-free linear logic
+
+This paper presents a construction which transforms categorical models of additive-free propositional linear logic, closely based on de Paiva's dialectica categories and Oliva's functional interpretations of classical linear logic. The construction is defined using dependent type theory, which proves to be a useful tool for reasoning about dialectica categories. Abstractly, we have a closure operator on the class of models: it preserves soundness and completeness and has a monad-like structure. When applied to categories of games we obtain `games with bidding', which are hybrids of dialectica and game models, and we prove completeness theorems for two specific such models.

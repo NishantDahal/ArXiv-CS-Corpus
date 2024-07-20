@@ -1,0 +1,4 @@
+BayesHammer: Bayesian clustering for error correction in single-cell sequencing
+
+Error correction of sequenced reads remains a difficult task, especially in single-cell sequencing projects with extremely non-uniform coverage. While existing error correction tools designed for standard (multi-cell) sequencing data usually come up short in single-cell sequencing projects, algorithms actually used for single-cell error correction have been so far very simplistic.
+  We introduce several novel algorithms based on Hamming graphs and Bayesian subclustering in our new error correction tool BayesHammer. While BayesHammer was designed for single-cell sequencing, we demonstrate that it also improves on existing error correction tools for multi-cell sequencing data while working much faster on real-life datasets. We benchmark BayesHammer on both $k$-mer counts and actual assembly results with the SPAdes genome assembler.

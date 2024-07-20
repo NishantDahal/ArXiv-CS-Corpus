@@ -1,0 +1,3 @@
+Kleisli, Parikh and Peleg Compositions and Liftings for Multirelations
+
+Multirelations provide a semantic domain for computing systems that involve two dual kinds of nondeterminism. This paper presents relational formalisations of Kleisli, Parikh and Peleg compositions and liftings of multirelations. These liftings are similar to those that arise in the Kleisli category of the powerset monad. We show that Kleisli composition of multirelations is associative, but need not have units. Parikh composition may neither be associative nor have units, but yields a category on the subclass of up-closed multirelations. Finally, Peleg composition has units, but need not be associative; a category is obtained when multirelations are union-closed.

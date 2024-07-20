@@ -1,0 +1,3 @@
+Longest Common Pattern between two Permutations
+
+In this paper, we give a polynomial (O(n^8)) algorithm for finding a longest common pattern between two permutations of size n given that one is separable. We also give an algorithm for general permutations whose complexity depends on the length of the longest simple permutation involved in one of our permutations.

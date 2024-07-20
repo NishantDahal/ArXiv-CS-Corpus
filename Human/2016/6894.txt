@@ -1,0 +1,3 @@
+Efficient Algorithms for Mixed Creative Telescoping
+
+Creative telescoping is a powerful computer algebra paradigm -initiated by Doron Zeilberger in the 90's- for dealing with definite integrals and sums with parameters. We address the mixed continuous-discrete case, and focus on the integration of bivariate hypergeometric-hyperexponential terms. We design a new creative telescoping algorithm operating on this class of inputs, based on a Hermite-like reduction procedure. The new algorithm has two nice features: it is efficient and it delivers, for a suitable representation of the input, a minimal-order telescoper. Its analysis reveals tight bounds on the sizes of the telescoper it produces.

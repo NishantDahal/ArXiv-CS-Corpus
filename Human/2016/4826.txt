@@ -1,0 +1,3 @@
+Weighted domination number of cactus graphs
+
+In the paper, we write a linear algorithm for calculating the weighted domination number of a vertex-weighted cactus. The algorithm is based on the well known depth first search (DFS) structure. Our algorithm needs less than $12n+5b$ additions and $9n+2b$ $\min$-operations where $n$ is the number of vertices and $b$ is the number of blocks in the cactus.

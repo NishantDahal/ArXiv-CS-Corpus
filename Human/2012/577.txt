@@ -1,0 +1,3 @@
+Computer Algebra meets Finite Elements: an Efficient Implementation for Maxwell's Equations
+
+We consider the numerical discretization of the time-domain Maxwell's equations with an energy-conserving discontinuous Galerkin finite element formulation. This particular formulation allows for higher order approximations of the electric and magnetic field. Special emphasis is placed on an efficient implementation which is achieved by taking advantage of recurrence properties and the tensor-product structure of the chosen shape functions. These recurrences have been derived symbolically with computer algebra methods reminiscent of the holonomic systems approach.

@@ -1,0 +1,3 @@
+Likelihood-free inference with an improved cross-entropy estimator
+
+We extend recent work (Brehmer, et. al., 2018) that use neural networks as surrogate models for likelihood-free inference. As in the previous work, we exploit the fact that the joint likelihood ratio and joint score, conditioned on both observed and latent variables, can often be extracted from an implicit generative model or simulator to augment the training data for these surrogate models. We show how this augmented training data can be used to provide a new cross-entropy estimator, which provides improved sample efficiency compared to previous loss functions exploiting this augmented training data.

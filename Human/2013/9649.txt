@@ -1,0 +1,4 @@
+Strong Normalization for HA + EM1 by Non-Deterministic Choice
+
+We study the strong normalization of a new Curry-Howard correspondence for  HA + EM1, constructive Heyting Arithmetic with the excluded middle on Sigma01-formulas. The proof-term language of HA + EM1 consists in the lambda calculus plus an operator ||_a which represents, from the viewpoint of programming, an exception operator with a delimited scope, and from the viewpoint of logic, a restricted version of the excluded middle. We give a strong normalization proof for the system based on a technique of "non-deterministic immersion".
+

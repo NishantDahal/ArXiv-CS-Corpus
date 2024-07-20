@@ -1,0 +1,3 @@
+Efficient Calculation of Determinants of Symbolic Matrices with Many Variables
+
+Efficient matrix determinant calculations have been studied since the 19th century. Computers expand the range of determinants that are practically calculable to include matrices with symbolic entries. However, the fastest determinant algorithms for numerical matrices are often not the fastest for symbolic matrices with many variables. We compare the performance of two algorithms, fraction-free Gaussian elimination and minor expansion, on symbolic matrices with many variables. We show that, under a simplified theoretical model, minor expansion is faster in most situations. We then propose optimizations for minor expansion and demonstrate their effectiveness with empirical data.

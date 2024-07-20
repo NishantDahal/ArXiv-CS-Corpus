@@ -1,0 +1,3 @@
+Parallel Implementations of the Jacobi Linear Algebraic Systems Solve
+
+The objective of this research is to construct parallel implementations of the Jacobi algorithm used for the solution of linear algebraic systems, to measure their speedup with respect to the serial case and to compare each other, regarding their efficiency. The programming paradigm used in this implementation is the message passing model, while, the used MPI implementation is the MPICH implementation of the Argonne National Laboratory.

@@ -1,0 +1,3 @@
+Evaluating the squared-exponential covariance function in Gaussian processes with integral observations
+
+This paper deals with the evaluation of double line integrals of the squared exponential covariance function. We propose a new approach in which the double integral is reduced to a single integral using the error function. This single integral is then computed with efficiently implemented numerical techniques. The performance is compared against existing state of the art methods and the results show superior properties in numerical robustness and accuracy per computation time.

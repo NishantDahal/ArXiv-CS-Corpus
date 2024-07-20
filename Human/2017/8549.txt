@@ -1,0 +1,3 @@
+An evolutionary strategy for DeltaE - E identification
+
+In this article we present an automatic method for charge and mass identification of charged nuclear fragments produced in heavy ion collisions at intermediate energies. The algorithm combines a generative model of DeltaE - E relation and a Covariance Matrix Adaptation Evolutionary Strategy (CMA-ES). The CMA-ES is a stochastic and derivative-free method employed to search parameter space of the model by means of a fitness function. The article describes details of the method along with results of an application on simulated labeled data.

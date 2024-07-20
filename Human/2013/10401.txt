@@ -1,0 +1,4 @@
+A novel weighting scheme for random $k$-SAT
+
+Consider a random $k$-CNF formula $F_{k}(n, rn)$ with $n$ variables and $rn$ clauses. For every truth assignment $σ\in \{0, 1\}^{n}$ and every clause $c=\ell_{1}\vee\cdots\vee\ell_{k}$, let $d=d(σ, c)$ be the number of satisfied literal occurrences in $c$ under $σ$. For fixed $β>-1$ and $λ>0$, we take $ω(σ, c)=0$, if $d=0$; $ω(σ, c)=λ(1+β)$, if $d=1$ and $ω(σ, c)=λ^{d}$, if $d>1$.
+  Applying the above weighting scheme, we get that if $F_{k}(n, rn)$ is unsatisfiable with probability tending to one as $n\rightarrow\infty$, then $r\geq2.83, 8.09, 18.91, 40.81, 84.87$ for $k=3, 4, 5, 6$ and $7,$ respectively.

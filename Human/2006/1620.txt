@@ -1,0 +1,4 @@
+Registers
+
+Entry in: Encyclopedia of Algorithms, Ming-Yang Kao, Ed., Springer, To appear.
+  Synonyms: Wait-free registers, wait-free shared variables, asynchronous communication hardware. Problem Definition: Consider a system of asynchronous processes that communicate among themselves by only executing read and write operations on a set of shared variables (also known as shared registers). The system has no global clock or other synchronization primitives.

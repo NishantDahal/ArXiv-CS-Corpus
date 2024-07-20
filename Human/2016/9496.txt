@@ -1,0 +1,3 @@
+Profile-Driven Automated Mixed Precision
+
+We present a scheme to automatically set the precision of floating point variables in an application. We design a framework that profiles applications to measure undesirable numerical behavior at the floating point operation level. We use this framework to perform mixed precision analysis to heuristically set the precision of all variables in an application based on their numerical profiles. We experimentally evaluate the mixed precision analysis to show that it can generate a range of results with different accuracy and performance characteristics.

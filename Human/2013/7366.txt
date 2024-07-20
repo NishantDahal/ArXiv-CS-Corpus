@@ -1,0 +1,3 @@
+Explicit Maximally Recoverable Codes with Locality
+
+Consider a systematic linear code where some (local) parity symbols depend on few prescribed symbols, while other (heavy) parity symbols may depend on all data symbols. Local parities allow to quickly recover any single symbol when it is erased, while heavy parities provide tolerance to a large number of simultaneous erasures. A code as above is maximally-recoverable if it corrects all erasure patterns which are information theoretically recoverable given the code topology. In this paper we present explicit families of maximally-recoverable codes with locality. We also initiate the study of the trade-off between maximal recoverability and alphabet size.

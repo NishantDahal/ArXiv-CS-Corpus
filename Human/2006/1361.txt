@@ -1,0 +1,3 @@
+The Geometry of Linear Higher-Order Recursion
+
+Linearity and ramification constraints have been widely used to weaken higher-order (primitive) recursion in such a way that the class of representable functions equals the class of polytime functions. We show that fine-tuning these two constraints leads to different expressive strengths, some of them lying well beyond polynomial time. This is done by introducing a new semantics, called algebraic context semantics. The framework stems from Gonthier's original work and turns out to be a versatile and powerful tool for the quantitative analysis of normalization in presence of constants and higher-order recursion.

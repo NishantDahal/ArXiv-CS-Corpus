@@ -1,0 +1,3 @@
+Fix Your Types
+
+When using existing ACL2 datatype frameworks, many theorems require type hypotheses.  These hypotheses slow down the theorem prover, are tedious to write, and are easy to forget.  We describe a principled approach to types that provides strong type safety and execution efficiency while avoiding type hypotheses, and we present a library that automates this approach.  Using this approach, types help you catch programming errors and then get out of the way of theorem proving.

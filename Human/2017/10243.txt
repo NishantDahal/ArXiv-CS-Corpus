@@ -1,0 +1,3 @@
+Collaborative Training of Tensors for Compositional Distributional Semantics
+
+Type-based compositional distributional semantic models present an interesting line of research into functional representations of linguistic meaning. One of the drawbacks of such models, however, is the lack of training data required to train each word-type combination. In this paper we address this by introducing training methods that share parameters between similar words. We show that these methods enable zero-shot learning for words that have no training data at all, as well as enabling construction of high-quality tensors from very few training examples per word.

@@ -1,0 +1,3 @@
+Cohomology of Cryo-Electron Microscopy
+
+The goal of cryo-electron microscopy (EM) is to reconstruct the 3-dimensional structure of a molecule from a collection of its 2-dimensional projected images. In this article, we show that the basic premise of cryo-EM --- patching together 2-dimensional projections to reconstruct a 3-dimensional object --- is naturally one of Cech cohomology with SO(2)-coefficients. We deduce that every cryo-EM reconstruction problem corresponds to an oriented circle bundle on a simplicial complex, allowing us to classify cryo-EM problems via principal bundles. In practice, the 2-dimensional images are noisy and a main task in cryo-EM is to denoise them. We will see how the aforementioned insights can be used towards this end.

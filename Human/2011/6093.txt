@@ -1,0 +1,3 @@
+Rumor Spreading on Percolation Graphs
+
+We study the relation between the performance of the randomized rumor spreading (push model) in a d-regular graph G and the performance of the same algorithm in the percolated graph G_p. We show that if the push model successfully broadcast the rumor within T rounds in the graph G then only (1 + ε)T rounds are needed to spread the rumor in the graph G_p when T = o(pd).

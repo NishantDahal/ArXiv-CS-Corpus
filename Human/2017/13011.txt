@@ -1,0 +1,3 @@
+cniCloud: Querying the Cellular Network Information at Scale
+
+This paper presents cniCloud, a cloud-based platform for mobile devices to share and query the fine-grained cellular information at scale. cniCloud extends the single-device cellular analytics via crowdsourcing: It collects the fine-grained cellular network data from massive mobile devices, aggregates them in a cloud-based database, and provides interfaces for end users to run an SQL-like query over the cellular data. It offers efficient and responsive processing by optimizing the database storage and adopting the domain-specific optimizations. Our preliminary deployments and experiments validate its feasibility in performing crowdsourced analytics.

@@ -1,0 +1,3 @@
+Hybrid Precoding for Multi-Group Physical Layer Multicasting
+
+Next generation of wireless networks will likely rely on large-scale antenna systems, either in the form of massive multi-input-multi-output (MIMO) or millimeter wave (mmWave) systems. Therefore, the conventional fully-digital precoders are not suitable for physical layer multicasting as they require a dedicated radio frequency chain per antenna element. In this paper, we show that in a multi-group multicasting system with an arbitrary number of transmit antennas, $G$ multicasting groups, and an arbitrary number of users in each group, one can achieve the performance of any fully-digital precoder with just $G$ radio frequency chains using the proposed hybrid multi-group multicasting structure.

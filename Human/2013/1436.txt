@@ -1,0 +1,3 @@
+Rate-Compatible Short-Length Protograph LDPC Codes
+
+This paper produces a rate-compatible protograph LDPC code at 1k information blocklength with superior performance in both waterfall and error floor regions. The design of such codes has proved difficult in the past because the constraints imposed by structured design (protographs), rate-compatibility, as well as small block length, are not easily satisfied together. For example, as the block length decreases, the predominance of decoding threshold as the main parameter in coding design is reduced, thus complicating the search for good codes. Our rate-compatible protograph codes have rates ranging from 1/3 to 4/5 and show no error floor down to $10^{-6}$ FER.

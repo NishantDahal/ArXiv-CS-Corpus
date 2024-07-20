@@ -1,0 +1,3 @@
+Efficient Solving of Quantified Inequality Constraints over the Real Numbers
+
+Let a quantified inequality constraint over the reals be a formula in the first-order predicate language over the structure of the real numbers, where the allowed predicate symbols are $\leq$ and $<$. Solving such constraints is an undecidable problem when allowing function symbols such $\sin$ or $\cos$. In the paper we give an algorithm that terminates with a solution for all, except for very special, pathological inputs. We ensure the practical efficiency of this algorithm by employing constraint programming techniques.

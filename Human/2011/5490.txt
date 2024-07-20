@@ -1,0 +1,3 @@
+Proof System for Plan Verification under 0-Approximation Semantics
+
+In this paper a proof system is developed for plan verification problems $\{X\}c\{Y\}$ and $\{X\}c\{KW p\}$ under 0-approximation semantics for ${\mathcal A}_K$. Here, for a plan $c$, two sets $X,Y$ of fluent literals, and a literal $p$, $\{X\}c\{Y\}$ (resp. $\{X\}c\{KW p\}$) means that all literals of $Y$ become true (resp. $p$ becomes known) after executing $c$ in any initial state in which all literals in $X$ are true.Then, soundness and completeness are proved. The proof system allows verifying plans and generating plans as well.

@@ -1,0 +1,3 @@
+The Least Wrong Model Is Not in the Data
+
+The true process that generated data cannot be determined when multiple explanations are possible. Prediction requires a model of the probability that a process, chosen randomly from the set of candidate explanations, generates some future observation. The best model includes all of the information contained in the minimal description of the data that is not contained in the data. It is closely related to the Halting Problem and is logarithmic in the size of the data. Prediction is difficult because the ideal model is not computable, and the best computable model is not "findable." However, the error from any approximation can be bounded by the size of the description using the model.

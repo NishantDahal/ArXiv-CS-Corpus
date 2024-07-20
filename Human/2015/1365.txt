@@ -1,0 +1,3 @@
+CSMA-SIC: Carrier Sensing with Successive Interference Cancellation
+
+Successive interference cancellation (SIC) is a physical layer technique that enables the decoders to decode multiple simultaneously transmitted signals. The complicated model of SIC requires careful design of the MAC protocol and accurate adjustment of transmission parameters. We propose a new MAC protocol, known as CSMA-SIC, that employs the multi-packet reception capability of SIC. The proposed protocol adjusts the transmission probabilities to achieve throughput optimality.

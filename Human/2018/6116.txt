@@ -1,0 +1,3 @@
+Adaptive Kernel Estimation of the Spectral Density with Boundary Kernel Analysis
+
+A hybrid estimator of the log-spectral density of a stationary time series is proposed. First, a multiple taper estimate is performed, followed by kernel smoothing the log-multitaper estimate. This procedure reduces the expected mean square error by $({π^2 \over 4})^{.8}$ over simply smoothing the log tapered periodogram. The optimal number of tapers is $O(N^{8/15})$. A data adaptive implementation of a variable bandwidth kernel smoother is given. When the spectral density is discontinuous, one sided smoothing estimates are used.

@@ -1,0 +1,3 @@
+A Graph Framework for Multimodal Medical Information Processing
+
+Multimodal medical information processing is currently the epicenter of intense interdisciplinary research, as proper data fusion may lead to more accurate diagnoses. Moreover, multimodality may disambiguate cases of co-morbidity. This paper presents a framework for retrieving, analyzing, and storing medical information as a multilayer graph, an abstract format suitable for data fusion and further processing. At the same time, this paper addresses the need for reliable medical information through co-author graph ranking. A use case pertaining to frailty based on Python and Neo4j serves as an illustration of the proposed framework.

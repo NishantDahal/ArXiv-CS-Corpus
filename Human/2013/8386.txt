@@ -1,0 +1,3 @@
+Active Noise Control with Sampled-Data Filtered-x Adaptive Algorithm
+
+Analysis and design of filtered-x adaptive algorithms are conventionally done by assuming that the transfer function in the secondary path is a discrete-time system. However, in real systems such as active noise control, the secondary path is a continuous-time system. Therefore, such a system should be analyzed and designed as a hybrid system including discrete- and continuous- time systems and AD/DA devices. In this article, we propose a hybrid design taking account of continuous-time behavior of the secondary path via lifting (continuous-time polyphase decomposition) technique in sampled-data control theory.

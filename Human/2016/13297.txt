@@ -1,0 +1,3 @@
+On Proportions of Fit Individuals in Population of Evolutionary Algorithm with Tournament Selection
+
+In this paper, we consider a fitness-level model of a non-elitist mutation-only evolutionary algorithm (EA) with tournament selection. The model provides upper and lower bounds for the expected proportion of the individuals with fitness above given thresholds. In the case of so-called monotone mutation, the obtained bounds imply that increasing the tournament size improves the EA performance. As corollaries, we obtain an exponentially vanishing tail bound for the Randomized Local Search on unimodal functions and polynomial upper bounds on the runtime of EAs on 2-SAT problem and on a family of Set Cover problems proposed by E. Balas.

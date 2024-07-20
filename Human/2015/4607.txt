@@ -1,0 +1,4 @@
+The List-Decoding Size of Fourier-Sparse Boolean Functions
+
+A function defined on the Boolean hypercube is $k$-Fourier-sparse if it has at most $k$ nonzero Fourier coefficients. For a function $f: \mathbb{F}_2^n \rightarrow \mathbb{R}$ and parameters $k$ and $d$, we prove a strong upper bound on the number of $k$-Fourier-sparse Boolean functions that disagree with $f$ on at most $d$ inputs. Our bound implies that the number of uniform and independent random samples needed for learning the class of $k$-Fourier-sparse Boolean functions on $n$ variables exactly is at most $O(n \cdot k \log k)$.
+  As an application, we prove an upper bound on the query complexity of testing Booleanity of Fourier-sparse functions. Our bound is tight up to a logarithmic factor and quadratically improves on a result due to Gur and Tamuz (Chicago J. Theor. Comput. Sci., 2013).

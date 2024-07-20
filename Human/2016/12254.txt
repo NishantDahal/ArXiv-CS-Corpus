@@ -1,0 +1,3 @@
+MT3S: Mobile Turkish Scene Text-to-Speech System for the Visually Impaired
+
+Reading text is one of the essential needs of the visually impaired people. We developed a mobile system that can read Turkish scene and book text, using a fast gradient-based multi-scale text detection algorithm for real-time operation and Tesseract OCR engine for character recognition. We evaluated the OCR accuracy and running time of our system on a new, publicly available mobile Turkish scene text dataset we constructed and also compared with state-of-the-art systems. Our system proved to be much faster, able to run on a mobile device, with OCR accuracy comparable to the state-of-the-art.

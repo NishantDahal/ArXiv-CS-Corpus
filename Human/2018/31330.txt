@@ -1,0 +1,3 @@
+Parallel processing area extraction and data transfer number reduction for automatic GPU offloading of IoT applications
+
+For Open IoT, we have proposed Tacit Computing technology to discover the devices that have data users need on demand and use them dynamically and an automatic GPU offloading technology as an elementary technology of Tacit Computing. However, it can improve limited applications because it only optimizes parallelizable loop statements extraction. Thus, in this paper, to improve performances of more applications automatically, we propose an improved method with reduction of data transfer between CPU and GPU. We evaluate our proposed offloading method by applying it to Darknet and find that it can process it 3 times as quickly as only using CPU.

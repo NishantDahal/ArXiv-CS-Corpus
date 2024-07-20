@@ -1,0 +1,3 @@
+Distributed Consistent Data Association
+
+Data association is one of the fundamental problems in multi-sensor systems. Most current techniques rely on pairwise data associations which can be spurious even after the employment of outlier rejection schemes. Considering multiple pairwise associations at once significantly increases accuracy and leads to consistency. In this work, we propose two fully decentralized methods for consistent global data association from pairwise data associations. The first method is a consensus algorithm on the set of doubly stochastic matrices. The second method is a decentralization of the spectral method proposed by Pachauri et al.. We demonstrate the effectiveness of both methods using theoretical analysis and experimental evaluation.

@@ -1,0 +1,3 @@
+Refinement Checking for Multirate Hybrid ZIA
+
+A hybrid system is a dynamical system with both discrete and continuous components. In order to study the modeling and verification aspects of hybrid system, in this paper we first introduce a specification approach combining interface automata, initialized multirate hybrid automata and Z language, which is named MZIA. Meanwhile we propose a refinement relation on MZIAs. Then we give an algorithm for checking refinement relation between MZIAs with finite domain and demonstrate the correctness of the algorithm.

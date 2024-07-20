@@ -1,0 +1,3 @@
+Multi-shell Sampling Scheme with Accurate and Efficient Transforms for Diffusion MRI
+
+We propose a multi-shell sampling grid and develop corresponding transforms for the accurate reconstruction of the diffusion signal in diffusion MRI by expansion in the spherical polar Fourier (SPF) basis. The transform is exact in the radial direction and accurate, on the order of machine precision, in the angular direction. The sampling scheme uses an optimal number of samples equal to the degrees of freedom of the diffusion signal in the SPF domain.

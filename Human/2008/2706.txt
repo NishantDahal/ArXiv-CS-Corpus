@@ -1,0 +1,3 @@
+Motion Primitives for Robotic Flight Control
+
+We introduce a simple framework for learning aggressive maneuvers in flight control of UAVs. Having inspired from biological environment, dynamic movement primitives are analyzed and extended using nonlinear contraction theory. Accordingly, primitives of an observed movement are stably combined and concatenated. We demonstrate our results experimentally on the Quanser Helicopter, in which we first imitate aggressive maneuvers and then use them as primitives to achieve new maneuvers that can fly over an obstacle.

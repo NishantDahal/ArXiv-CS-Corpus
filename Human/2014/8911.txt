@@ -1,0 +1,4 @@
+Ancilla-free synthesis of large reversible functions using binary decision diagrams
+
+The synthesis of reversible functions has been an intensively studied research area in the last decade. Since almost all proposed approaches rely on representations of exponential size (such as truth tables and permutations), they cannot be applied efficiently to reversible functions with more than 15 variables.
+  In this paper, we propose an ancilla-free synthesis approach based on Young subgroups using symbolic function representations that can efficiently be implemented with binary decision diagrams (BDDs). As a result, the algorithm not only allows to synthesize large reversible functions without adding extra lines, called ancilla, but also leads to significantly smaller circuits compared to existing approaches.

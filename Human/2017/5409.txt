@@ -1,0 +1,3 @@
+Asynchronous Distributed Automata: A Characterization of the Modal Mu-Fragment
+
+We establish the equivalence between a class of asynchronous distributed automata and a small fragment of least fixpoint logic, when restricted to finite directed graphs. More specifically, the logic we consider is (a variant of) the fragment of the modal $μ$-calculus that allows least fixpoints but forbids greatest fixpoints. The corresponding automaton model uses a network of identical finite-state machines that communicate in an asynchronous manner and whose state diagram must be acyclic except for self-loops. Exploiting the connection with logic, we also prove that the expressive power of those machines is independent of whether or not messages can be lost.

@@ -1,0 +1,3 @@
+Robust Geometric Spanners
+
+Highly connected and yet sparse graphs (such as expanders or graphs of high treewidth) are fundamental, widely applicable and extensively studied combinatorial objects. We initiate the study of such highly connected graphs that are, in addition, geometric spanners. We define a property of spanners called robustness. Informally, when one removes a few vertices from a robust spanner, this harms only a small number of other vertices. We show that robust spanners must have a superlinear number of edges, even in one dimension. On the positive side, we give constructions, for any dimension, of robust spanners with a near-linear number of edges.

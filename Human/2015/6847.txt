@@ -1,0 +1,3 @@
+GEFCOM 2014 - Probabilistic Electricity Price Forecasting
+
+Energy price forecasting is a relevant yet hard task in the field of multi-step time series forecasting. In this paper we compare a well-known and established method, ARMA with exogenous variables with a relatively new technique Gradient Boosting Regression. The method was tested on data from Global Energy Forecasting Competition 2014 with a year long rolling window forecast. The results from the experiment reveal that a multi-model approach is significantly better performing in terms of error metrics. Gradient Boosting can deal with seasonality and auto-correlation out-of-the box and achieve lower rate of normalized mean absolute error on real-world data.

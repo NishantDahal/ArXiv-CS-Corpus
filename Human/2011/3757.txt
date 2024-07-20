@@ -1,0 +1,3 @@
+Frequency based Classification of Activities using Accelerometer Data
+
+This work presents, the classification of user activities such as Rest, Walk and Run, on the basis of frequency component present in the acceleration data in a wireless sensor network environment. As the frequencies of the above mentioned activities differ slightly for different person, so it gives a more accurate result. The algorithm uses just one parameter i.e. the frequency of the body acceleration data of the three axes for classifying the activities in a set of data. The algorithm includes a normalization step and hence there is no need to set a different value of threshold value for magnitude for different test person. The classification is automatic and done on a block by block basis.

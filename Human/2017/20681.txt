@@ -1,0 +1,3 @@
+Deep Learning in Multiple Multistep Time Series Prediction
+
+The project aims to research on combining deep learning specifically Long-Short Memory (LSTM) and basic statistics in multiple multistep time series prediction. LSTM can dive into all the pages and learn the general trends of variation in a large scope, while the well selected medians for each page can keep the special seasonality of different pages so that the future trend will not fluctuate too much from the reality. A recent Kaggle competition on 145K Web Traffic Time Series Forecasting [1] is used to thoroughly illustrate and test this idea.

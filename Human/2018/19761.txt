@@ -1,0 +1,4 @@
+An Algebraic Approach for Reasoning About Information Flow
+
+This paper concerns the analysis of information leaks in security systems. We address the problem of specifying and analyzing large systems in the (standard) channel model used in quantitative information flow (QIF). We propose several operators which match typical interactions between system components. We explore their algebraic properties with respect to the security-preserving refinement relation defined by Alvim et al. and McIver et al.
+  We show how the algebra can be used to simplify large system specifications in order to facilitate the computation of information leakage bounds. We demonstrate our results on the specification and analysis of the Crowds Protocol. Finally, we use the algebra to justify a new algorithm to compute leakage bounds for this protocol.

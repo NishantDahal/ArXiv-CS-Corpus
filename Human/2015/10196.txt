@@ -1,0 +1,4 @@
+Improved Constructions of Two-Source Extractors
+
+In a recent breakthrough \cite{CZ15}, Chattopadhyay and Zuckerman gave an explicit two-source extractor for min-entropy $k \geq \log^C n$ for some large enough constant $C$. However, their extractor only outputs one bit. In this paper, we improve the output of the two-source extractor to $k^{Ω(1)}$, while the error remains $n^{-Ω(1)}$.
+  Our improvement is obtained by giving a better extractor for $(q, t, γ)$ non-oblivious bit-fixing sources, which can output $t^{Ω(1)}$ bits instead of one bit as in \cite{CZ15}.

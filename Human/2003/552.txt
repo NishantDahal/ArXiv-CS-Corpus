@@ -1,0 +1,3 @@
+A novel evolutionary formulation of the maximum independent set problem
+
+We introduce a novel evolutionary formulation of the problem of finding a maximum independent set of a graph. The new formulation is based on the relationship that exists between a graph's independence number and its acyclic orientations. It views such orientations as individuals and evolves them with the aid of evolutionary operators that are very heavily based on the structure of the graph and its acyclic orientations. The resulting heuristic has been tested on some of the Second DIMACS Implementation Challenge benchmark graphs, and has been found to be competitive when compared to several of the other heuristics that have also been tested on those graphs.

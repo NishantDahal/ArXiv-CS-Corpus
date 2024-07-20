@@ -1,0 +1,11 @@
+Weighted Sigmoid Gate Unit for an Activation Function of Deep Neural Network
+
+An activation function has crucial role in a deep neural network.
+  A simple rectified linear unit (ReLU) are widely used for the activation function.
+  In this paper, a weighted sigmoid gate unit (WiG) is proposed as the activation function.
+  The proposed WiG consists of a multiplication of inputs and the weighted sigmoid gate.
+  It is shown that the WiG includes the ReLU and same activation functions as a special case.
+  Many activation functions have been proposed to overcome the performance of the ReLU.
+  In the literature, the performance is mainly evaluated with an object recognition task.
+  The proposed WiG is evaluated with the object recognition task and the image restoration task.
+  Then, the expeirmental comparisons demonstrate the proposed WiG overcomes the existing activation functions including the ReLU.

@@ -1,0 +1,3 @@
+Mapping distributional to model-theoretic semantic spaces: a baseline
+
+Word embeddings have been shown to be useful across state-of-the-art systems in many natural language processing tasks, ranging from question answering systems to dependency parsing. (Herbelot and Vecchi, 2015) explored word embeddings and their utility for modeling language semantics. In particular, they presented an approach to automatically map a standard distributional semantic space onto a set-theoretic model using partial least squares regression. We show in this paper that a simple baseline achieves a +51% relative improvement compared to their model on one of the two datasets they used, and yields competitive results on the second dataset.

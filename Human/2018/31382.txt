@@ -1,0 +1,3 @@
+Plug-In Stochastic Gradient Method
+
+Plug-and-play priors (PnP) is a popular framework for regularized signal reconstruction by using advanced denoisers within an iterative algorithm. In this paper, we discuss our recent online variant of PnP that uses only a subset of measurements at every iteration, which makes it scalable to very large datasets. We additionally present novel convergence results for both batch and online PnP algorithms.

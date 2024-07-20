@@ -1,0 +1,3 @@
+On Finding a First-Order Sentence Consistent with a Sample of Strings
+
+We investigate the following problem: given a sample of classified strings, find a first-order sentence of minimal quantifier rank that is consistent with the sample. We represent strings as successor string structures, that is, finite structures with unary predicates to denote symbols in an alphabet, and a successor relation. We use results of the Ehrenfeucht-Fraïssé game over successor string structures in order to design an algorithm to find such sentence. We use conditions characterizing the winning strategies for the Spoiler on successor strings structures in order to define formulas which distinguish two strings. Our algorithm returns a boolean combination of such formulas.

@@ -1,0 +1,3 @@
+On the set of uniquely decodable codes with a given sequence of code word lengths
+
+For every natural number $n\geq 2$ and every finite sequence $L$ of natural numbers, we consider the set $UD_n(L)$ of all uniquely decodable codes over an $n$-letter alphabet with the sequence $L$ as the sequence of code word lengths, as well as its subsets $PR_n(L)$ and $FD_n(L)$ consisting of, respectively, the prefix codes and the codes with finite delay. We derive the estimation for the quotient $|UD_n(L)|/|PR_n(L)|$, which allows to characterize those sequences $L$ for which the equality $PR_n(L)=UD_n(L)$ holds. We also characterize those sequences $L$ for which the equality $FD_n(L)=UD_n(L)$ holds.

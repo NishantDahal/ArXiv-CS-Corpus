@@ -1,0 +1,3 @@
+Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE
+
+We propose a number of new algorithms for learning deep energy models and demonstrate their properties. We show that our SteinCD performs well in term of test likelihood, while SteinGAN performs well in terms of generating realistic looking images. Our results suggest promising directions for learning better models by combining GAN-style methods with traditional energy-based learning.

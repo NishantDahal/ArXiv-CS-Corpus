@@ -1,0 +1,5 @@
+A model-theoretic characterization of monadic second order logic on infinite words
+
+Monadic second order logic and linear temporal logic are two logical formalisms that can be used to describe classes of infinite words, i.e., first-order models based on the natural numbers with order, successor, and finitely many unary predicate symbols.
+  Monadic second order logic over infinite words (S1S) can alternatively be described as a first-order logic interpreted in $\mathcal{P}(ω)$, the power set Boolean algebra of the natural numbers, equipped with modal operators for 'initial', 'next' and 'future' states. We prove that the first-order theory of this structure is the model companion of a class of algebras corresponding to the appropriate version of linear temporal logic (LTL) without until.
+  The proof makes crucial use of two classical, non-trivial results from the literature, namely the completeness of LTL with respect to the natural numbers, and the correspondence between S1S-formulas and Büchi automata.

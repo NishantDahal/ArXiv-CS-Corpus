@@ -1,0 +1,3 @@
+A Two Step Perspective for Kripke Structure Reduction
+
+This paper presents a novel theoretical framework for the state space reduction of Kripke structures. We define two equivalence relations, Kripke minimization equivalence (KME) and weak Kripke minimization equivalence (WKME). We define the quotient system under these relations and show that these relations are strictly coarser than strong (bi)simulation and divergence-sensitive stutter (bi)simulation, respectively. We prove that the quotient system obtained under KME and WKME preserves linear-time and stutter-insensitive linear-time properties. Finally, we show that KME is compositional w.r.t. synchronous parallel composition.

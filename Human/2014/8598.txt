@@ -1,0 +1,3 @@
+Comment on "Ensemble Projection for Semi-supervised Image Classification"
+
+In a series of papers by Dai and colleagues [1,2], a feature map (or kernel) was introduced for semi- and unsupervised learning. This feature map is build from the output of an ensemble of classifiers trained without using the ground-truth class labels. In this critique, we analyze the latest version of this series of papers, which is called Ensemble Projections [2]. We show that the results reported in [2] were not well conducted, and that Ensemble Projections performs poorly for semi-supervised learning.

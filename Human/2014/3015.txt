@@ -1,0 +1,3 @@
+State Dependent Statistical Timing Model for Voltage Scaled Circuits
+
+This paper presents a novel statistical state-dependent timing model for voltage over scaled (VoS) logic circuits that accurately and rapidly finds the timing distribution of output bits. Using this model erroneous VoS circuits can be represented as error-free circuits combined with an error-injector. A case study of a two point DFT unit employing the proposed model is presented and compared to HSPICE circuit simulation. Results show an accurate match, with significant speedup gains.

@@ -1,0 +1,6 @@
+Eccentricity of the nodes of OTIS-cube and Enhanced OTIS-cube
+
+In this paper we have classified the nodes of OTIS-cube based on their eccentricities. OTIS (optical transpose interconnection system) is a large scale optoelectronic computer architecture, proposed in \cite{KMKE92}, that benefit from both optical and electronic technologies. We show that radius and diameter of OTIS-$Q_n$ is $n+1$ and $2n+1$ respectively. We also show that average eccentricity of OTIS-cube is $(3n/2+1)$.
+  In \cite{D05}, a variant of OTIS-cube, called Enhanced OTIS-cube (E-OTIS-$Q_n$) was proposed.
+  E-OTIS-$Q_n$ is regular of degree $n+1$ and maximally fault-tolerant.
+  In this paper we have given a classification of the nodes of E-OTIS cube and derived expressions for the eccentricities of the nodes in each class. Based on these results we show that radius and diameter of E-OTIS-$Q_n$ is $n+1$ and $\lfloor {4n+4/3} \rfloor$ respectively. We have also computed the average eccentricity of E-OTIS-$Q_n$ for values of $n$ upto 20.

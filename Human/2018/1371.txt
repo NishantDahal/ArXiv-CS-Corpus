@@ -1,0 +1,3 @@
+Correlation between clustering and degree in affiliation networks
+
+We are interested in the probability that two randomly selected neighbors of a random vertex of degree (at least) $k$ are adjacent. We evaluate this probability for a power law random intersection graph, where each vertex is prescribed a collection of attributes and two vertices are adjacent whenever they share a common attribute. We show that the probability obeys the scaling $k^{-δ}$ as $k\to+\infty$. Our results are mathematically rigorous. The parameter $0\le δ\le 1$ is determined by the tail indices of power law random weights defining the links between vertices and attributes.

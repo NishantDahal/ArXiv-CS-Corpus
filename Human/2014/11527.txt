@@ -1,0 +1,4 @@
+Squares of $3$-sun-free split graphs
+
+The square of a graph $G$, denoted by $G^2$, is obtained from $G$ by putting an edge between two distinct vertices whenever their distance is two. Then $G$ is called a square root of $G^2$. Deciding whether a given graph has a square root is known to be NP-complete, even if the root is required to be a split graph, that is, a graph in which the vertex set can be partitioned into a stable set and a clique.
+  We give a wide range of polynomial time solvable cases for the problem of recognizing if a given graph is the square of some special kind of split graph. To the best of our knowledge, our result properly contains all previously known such cases. Our polynomial time algorithms are build on a structural investigation of graphs that admit a split square root that is 3-sun-free, and may pave the way toward a dichotomy theorem for recognizing squares of (3-sun-free) split graphs.

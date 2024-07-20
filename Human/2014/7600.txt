@@ -1,0 +1,4 @@
+Complexity Bounds for Ordinal-Based Termination
+
+`What more than its truth do we know if we have a proof of a theorem in a given formal system?' We examine Kreisel's question in the particular context of program termination proofs, with an eye to deriving complexity bounds on program running times.
+  Our main tool for this are length function theorems, which provide complexity bounds on the use of well quasi orders. We illustrate how to prove such theorems in the simple yet until now untreated case of ordinals. We show how to apply this new theorem to derive complexity bounds on programs when they are proven to terminate thanks to a ranking function into some ordinal.

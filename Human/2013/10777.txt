@@ -1,0 +1,3 @@
+A Novel Georeferenced Dataset for Stereo Visual Odometry
+
+In this work, we present a novel dataset for assessing the accuracy of stereo visual odometry. The dataset has been acquired by a small-baseline stereo rig mounted on the top of a moving car. The groundtruth is supplied by a consumer grade GPS device without IMU. Synchronization and alignment between GPS readings and stereo frames are recovered after the acquisition. We show that the attained groundtruth accuracy allows to draw useful conclusions in practice. The presented experiments address influence of camera calibration, baseline distance and zero-disparity features to the achieved reconstruction performance.

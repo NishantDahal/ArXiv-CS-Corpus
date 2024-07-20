@@ -1,0 +1,3 @@
+Quantified advantage of discontinuous weight selection in approximations with deep neural networks
+
+We consider approximations of 1D Lipschitz functions by deep ReLU networks of a fixed width. We prove that without the assumption of continuous weight selection the uniform approximation error is lower than with this assumption at least by a factor logarithmic in the size of the network.

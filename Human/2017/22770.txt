@@ -1,0 +1,3 @@
+On the Verification and Computation of Strong Nash Equilibrium
+
+Computing equilibria of games is a central task in computer science. A large number of results are known for \emph{Nash equilibrium} (NE). However, these can be adopted only when coalitions are not an issue. When instead agents can form coalitions, NE is inadequate and an appropriate solution concept is \emph{strong Nash equilibrium} (SNE). Few computational results are known about SNE. In this paper, we first study the problem of verifying whether a strategy profile is an SNE, showing that the problem is in $\mathcal{P}$. We then design a spatial branch--and--bound algorithm to find an SNE, and we experimentally evaluate the algorithm.

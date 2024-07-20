@@ -1,0 +1,3 @@
+Robust Compressed Sensing and Sparse Coding with the Difference Map
+
+In compressed sensing, we wish to reconstruct a sparse signal $x$ from observed data $y$. In sparse coding, on the other hand, we wish to find a representation of an observed signal $y$ as a sparse linear combination, with coefficients $x$, of elements from an overcomplete dictionary. While many algorithms are competitive at both problems when $x$ is very sparse, it can be challenging to recover $x$ when it is less sparse. We present the Difference Map, which excels at sparse recovery when sparseness is lower and noise is higher. The Difference Map out-performs the state of the art with reconstruction from random measurements and natural image reconstruction via sparse coding.

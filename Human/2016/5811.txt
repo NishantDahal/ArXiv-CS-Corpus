@@ -1,0 +1,3 @@
+Car Type Recognition with Deep Neural Networks
+
+In this paper we study automatic recognition of cars of four types: Bus, Truck, Van and Small car. For this problem we consider two data driven frameworks: a deep neural network and a support vector machine using SIFT features. The accuracy of the methods is validated with a database of over 6500 images, and the resulting prediction accuracy is over 97 %. This clearly exceeds the accuracies of earlier studies that use manually engineered feature extraction pipelines.

@@ -1,0 +1,4 @@
+Push is Fast on Sparse Random Graphs
+
+We consider the classical push broadcast process on a large class of sparse random multigraphs that includes random power law graphs and multigraphs. Our analysis shows that for every $\varepsilon>0$, whp $O(\log n)$ rounds are sufficient to inform all but an $\varepsilon$-fraction of the vertices.
+  It is not hard to see that, e.g. for random power law graphs, the push process needs whp $n^{Ω(1)}$ rounds to inform all vertices. Fountoulakis, Panagiotou and Sauerwald proved that for random graphs that have power law degree sequences with $β>3$, the push-pull protocol needs $Ω(\log n)$ to inform all but $\varepsilon n$ vertices whp. Our result demonstrates that, for such random graphs, the pull mechanism does not (asymptotically) improve the running time. This is surprising as it is known that, on random power law graphs with $2<β<3$, push-pull is exponentially faster than pull.

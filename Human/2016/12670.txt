@@ -1,0 +1,3 @@
+Blind Deconvolution of PET Images using Anatomical Priors
+
+Images from positron emission tomography (PET) provide metabolic information about the human body. They present, however, a spatial resolution that is limited by physical and instrumental factors often modeled by a blurring function. Since this function is typically unknown, blind deconvolution (BD) techniques are needed in order to produce a useful restored PET image. In this work, we propose a general BD technique that restores a low resolution blurry image using information from data acquired with a high resolution modality (e.g., CT-based delineation of regions with uniform activity in PET images). The proposed BD method is validated on synthetic and actual phantoms.

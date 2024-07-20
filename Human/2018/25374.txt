@@ -1,0 +1,4 @@
+Queue Layouts of Planar 3-Trees
+
+A queue layout of a graph G consists of a linear order of the vertices of G and a partition of the edges of G into queues, so that no two independent edges of the same queue are nested. The queue number of G is the minimum number of queues required by any queue layout of G.
+  In this paper, we continue the study of the queue number of planar 3-trees. As opposed to general planar graphs, whose queue number is not known to be bounded by a constant, the queue number of planar 3-trees has been shown to be at most seven. In this work, we improve the upper bound to five. We also show that there exist planar 3-trees, whose queue number is at least four; this is the first example of a planar graph with queue number greater than three.

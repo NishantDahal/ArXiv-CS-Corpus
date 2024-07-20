@@ -1,0 +1,3 @@
+On the Converse of Talagrand's Influence Inequality
+
+In 1994, Talagrand showed a generalization of the celebrated KKL theorem. In this work, we prove that the converse of this generalization also holds. Namely, for any sequence of numbers $0<a_1,a_2,\ldots,a_n\le 1$ such that $\sum_{j=1}^n a_j/(1-\log a_j)\ge C$ for some constant $C>0$, it is possible to find a roughly balanced Boolean function $f$ such that $\textrm{Inf}_j[f] < a_j$ for every $1 \le j \le n$.

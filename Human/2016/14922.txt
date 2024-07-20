@@ -1,0 +1,3 @@
+A Revision of the Mool Language
+
+We present here in a thorough analysis of the Mool language, covering not only its implementation but also the formalisation (syntax, operational semantics, and type system). The objective is to detect glitches in both the implementation and in the formal definitions, proposing as well new features and added expressiveness. To test our proposals we implemented the revision developed in the Racket platform.

@@ -1,0 +1,3 @@
+Visual Script and Language Identification
+
+In this paper we introduce a script identification method based on hand-crafted texture features and an artificial neural network. The proposed pipeline achieves near state-of-the-art performance for script identification of video-text and state-of-the-art performance on visual language identification of handwritten text. More than using the deep network as a classifier, the use of its intermediary activations as a learned metric demonstrates remarkable results and allows the use of discriminative models on unknown classes. Comparative experiments in video-text and text in the wild datasets provide insights on the internals of the proposed deep network.

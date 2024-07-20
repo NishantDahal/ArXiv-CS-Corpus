@@ -1,0 +1,5 @@
+Proving Equivalence Between Imperative and MapReduce Implementations Using Program Transformations
+
+Distributed programs are often formulated in popular functional frameworks like MapReduce, Spark and Thrill, but writing efficient algorithms for such frameworks is usually a non-trivial task. As the costs of running faulty algorithms at scale can be severe, it is highly desirable to verify their correctness.
+  We propose to employ existing imperative reference implementations as specifications for MapReduce implementations. To this end, we present a novel verification approach in which equivalence between an imperative and a MapReduce implementation is established by a series of program transformations.
+  In this paper, we present how the equivalence framework can be used to prove equivalence between an imperative implementation of the PageRank algorithm and its MapReduce variant. The eight individual transformation steps are individually presented and explained.

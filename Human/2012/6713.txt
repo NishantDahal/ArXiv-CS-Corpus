@@ -1,0 +1,3 @@
+On the specification of operations on the rational behaviour of systems
+
+Structural operational semantics can be studied at the general level of distributive laws of syntax over behaviour. This yields specification formats for well-behaved algebraic operations on final coalgebras, which are a domain for the behaviour of all systems of a given type functor. We introduce a format for specification of algebraic operations that restrict to the rational fixpoint of a functor, which captures the behaviour of finite systems.  In other words, we show that rational behaviour is closed under operations specified in our format. As applications we consider operations on regular languages, regular processes and finite weighted transition systems.

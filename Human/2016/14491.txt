@@ -1,0 +1,3 @@
+A Hardware-Efficient Approach to Computing the Rotation Matrix from a Quaternion
+
+In this paper, we have proposed a novel VLSI-oriented approach to computing the rotation matrix entries from the quaternion coefficients. The advantage of this approach is the complete elimination of multiplications and replacing them by less costly squarings. Our approach uses Logan's identity, which proposes to replace the calculation of the product of two numbers on summing the squares via the Binomial Theorem. Replacing multiplications by squarings implies reducing power consumption as well as decreases hardware circuit complexity.

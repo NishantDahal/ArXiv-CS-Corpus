@@ -1,0 +1,3 @@
+Secure Communication over 1-2-1 Networks
+
+This paper starts by assuming a 1-2-1 network, the abstracted noiseless model of mmWave networks that was shown to closely approximate the Gaussian capacity in [1], and studies secure communication. First, the secure capacity is derived for 1-2-1 networks where a source is connected to a destination through a network of unit capacity links. Then, lower and upper bounds on the secure capacity are derived for the case when source and destination have more than one beam, which allow them to transmit and receive in multiple directions at a time. Finally, secure capacity results are presented for diamond 1-2-1 networks when edges have different capacities.

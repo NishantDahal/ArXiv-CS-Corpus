@@ -1,0 +1,3 @@
+Diclique clustering in a directed random graph
+
+We discuss a notion of clustering for directed graphs, which describes how likely two followers of a node are to follow a common target. The associated network motifs, called dicliques or bi-fans, have been found to be key structural components in various real-world networks. We introduce a two-mode statistical network model consisting of actors and auxiliary attributes, where an actor i decides to follow an actor j whenever i demands an attribute supplied by j. We show that the digraph admits nontrivial clustering properties of the aforementioned type, as well as power-law indegree and outdegree distributions.

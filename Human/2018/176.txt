@@ -1,0 +1,3 @@
+Histogram of Oriented Depth Gradients for Action Recognition
+
+In this paper, we report on experiments with the use of local measures for depth motion for visual action recognition from MPEG encoded RGBD video sequences. We show that such measures can be combined with local space-time video descriptors for appearance to provide a computationally efficient method for recognition of actions. Fisher vectors are used for encoding and concatenating a depth descriptor with existing RGB local descriptors. We then employ a linear SVM for recognizing manipulation actions using such vectors. We evaluate the effectiveness of such measures by comparison to the state-of-the-art using two recent datasets for action recognition in kitchen environments.

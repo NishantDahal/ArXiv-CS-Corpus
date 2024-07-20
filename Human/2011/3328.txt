@@ -1,0 +1,3 @@
+A New Algorithm for Proving Global Asymptotic Stability of Rational Difference Equations
+
+Global asymptotic stability of rational difference equations is an area of research that has been well studied. In contrast to the many current methods for proving global asymptotic stability, we propose an algorithmic approach. The algorithm we summarize here employs the idea of contractions. Given a particular rational difference equation, defined by a function $Q$ which maps the $k+1$ dimensional real numbers to itself, we attempt to find an integer, $K$, for which $Q^K$ shrinks distances to the difference equation's equilibrium point. We state some general results that our algorithm has been able to prove, and also mention the implementation of our algorithm using Maple.

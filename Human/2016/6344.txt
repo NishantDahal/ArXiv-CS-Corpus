@@ -1,0 +1,3 @@
+Graph isomorphism testing boosted by path coloring
+
+A method for improving the efficiency of graph isomorphism testing is presented. The method uses the structure of the graph colored by vertex hash codes as a means of partitioning vertices into equivalence classes, which in turn reduces the combinatorial burden of isomorphism testing. Unrolling the graph into a tree at each vertex allows structurally different regular graphs to be discriminated, a capability that the color refinement algorithm cannot do.

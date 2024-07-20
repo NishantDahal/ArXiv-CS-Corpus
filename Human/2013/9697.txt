@@ -1,0 +1,3 @@
+Falsifying Oscillation Properties of Parametric Biological Models
+
+We propose an approach to falsification of oscillation properties of parametric biological models, based on the recently developed techniques for testing continuous and hybrid systems. In this approach, an oscillation property can be specified using a hybrid automaton, which is then used to guide the exploration in the state and input spaces to search for the behaviors that do not satisfy the property. We illustrate the approach with the Laub-Loomis model for spontaneous oscillations during the aggregation stage of Dictyostelium.

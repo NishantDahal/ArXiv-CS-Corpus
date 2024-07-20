@@ -1,0 +1,3 @@
+Sponges and Engines: An introduction to Keccak and Keyak
+
+In this document we present an introductory overview of the algorithms and design components underlying the Keccac cryptographic primitive and the Keyak encryption scheme for authenticated (session-supporting) encryption. This document aims to familiarize readers with the basic principles of authenticated encryption, the Sponge and Duplex constructions (full-state, keyed as well as regular versions), the permutation functions underlying Keccak and Keyak as well as Keyak v2's Motorist mode of operation.

@@ -1,0 +1,3 @@
+The binary primes sequence for computational hardening of pseudorandom sequences
+
+This paper proposes the use of the binary primes sequence to strengthen pseudorandom (PN) decimal sequences for cryptography applications. The binary primes sequence is added to the PN decimal sequence (where one can choose from many arbitrary shift values) and it is shown that the sum sequence has improved autocorrelation properties besides being computationally hard. Also, an analysis on the computational complexity is performed and it is shown that the complexity for the eavesdropper is of exponential complexity and therefore, the proposed method is an attractive procedure for cryptographic applications.

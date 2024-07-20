@@ -1,0 +1,3 @@
+A Model-Driven Deep Learning Network for MIMO Detection
+
+In this paper, we propose a model-driven deep learning network for multiple-input multiple-output (MIMO) detection. The structure of the network is specially designed by unfolding the iterative algorithm. Some trainable parameters are optimized through deep learning techniques to improve the detection performance. Since the number of trainable variables of the network is equal to that of the layers, the network can be easily trained within a very short time. Furthermore, the network can handle time-varying channel with only a single training. Numerical results show that the proposed approach can improve the performance of the iterative algorithm significantly under Rayleigh and correlated MIMO channels.

@@ -1,0 +1,3 @@
+Stochastic Parity Games on Lossy Channel Systems
+
+We give an algorithm for solving stochastic parity games with almost-sure winning conditions on lossy channel systems, for the case where the players are restricted to finite-memory strategies. First, we describe a general framework, where we consider the class of 2.5-player games with almost-sure parity winning conditions on possibly infinite game graphs, assuming that the game contains a finite attractor. An attractor is a set of states (not necessarily absorbing) that is almost surely re-visited regardless of the players' decisions. We present a scheme that characterizes the set of winning states for each player. Then, we instantiate this scheme to obtain an algorithm for stochastic game lossy channel systems.

@@ -1,0 +1,3 @@
+Time-dependent shortest paths in bounded treewidth graphs
+
+We present a proof that the number of breakpoints in the arrival function between two terminals in graphs of treewidth $w$ is $n^{O(\log^2 w)}$ when the edge arrival functions are piecewise linear. This is an improvement on the bound of $n^{Θ(\log n)}$ by Foschini, Hershberger, and Suri for graphs without any bound on treewidth. We provide an algorithm for calculating this arrival function using star-mesh transformations, a generalization of the wye-delta-wye transformations.

@@ -1,0 +1,3 @@
+A Blackbox Polynomial System Solver on Parallel Shared Memory Computers
+
+A numerical irreducible decomposition for a polynomial system provides representations for the irreducible factors of all positive dimensional solution sets of the system, separated from its isolated solutions. Homotopy continuation methods are applied to compute a numerical irreducible decomposition. Load balancing and pipelining are techniques in a parallel implementation on a computer with multicore processors. The application of the parallel algorithms is illustrated on solving the cyclic $n$-roots problems, in particular for $n = 8, 9$, and~12.

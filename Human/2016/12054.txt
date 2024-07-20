@@ -1,0 +1,3 @@
+Learning to Communicate: Channel Auto-encoders, Domain Specific Regularizers, and Attention
+
+We address the problem of learning efficient and adaptive ways to communicate binary information over an impaired channel. We treat the problem as reconstruction optimization through impairment layers in a channel autoencoder and introduce several new domain-specific regularizing layers to emulate common channel impairments. We also apply a radio transformer network based attention model on the input of the decoder to help recover canonical signal representations. We demonstrate some promising initial capacity results from this architecture and address several remaining challenges before such a system could become practical.

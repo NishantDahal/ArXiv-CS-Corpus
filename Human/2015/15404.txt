@@ -1,0 +1,4 @@
+Grid: A next generation data parallel C++ QCD library
+
+In this proceedings we discuss the motivation, implementation details, and performance of a new physics code base called Grid. It is intended to be more performant, more general, but similar in spirit to QDP++\cite{QDP}. Our approach is to engineer the basic type system to be consistently fast, rather than bolt on a few optimised routines, and we are attempt to write all our optimised routines directly in the Grid framework. It is hoped this will deliver best known practice performance across the next generation of supercomputers, which will provide programming challenges to traditional scalar codes.
+  We illustrate the programming patterns used to implement our goals, and advances in productivity that have been enabled by using new features in C++11.

@@ -1,0 +1,4 @@
+Minimal Output Unstable Configurations in Chemical Reaction Networks and Deciders
+
+We study the set of output stable configurations of chemical reaction deciders (CRDs). It turns out that CRDs with only bimolecular reactions (which are almost equivalent to population protocols) have a special structure that allows for an algorithm to efficiently compute their finite set of minimal output unstable configurations. As a consequence, a relatively large set of configurations may be efficiently checked for output stability.
+  We also provide a number of observations regarding the semilinearity result of Angluin et al. [Distrib. Comput., 2007] from the context of population protocols (which is a central result for output stable CRDs). In particular, we observe that the computation-friendly class of totally stable CRDs has equal expressive power as the larger class of output stable CRDs.

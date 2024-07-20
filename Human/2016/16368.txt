@@ -1,0 +1,3 @@
+A Model to Estimate First-Order Mutation Coverage from Higher-Order Mutation Coverage
+
+The test suite is essential for fault detection during software development. First-order mutation coverage is an accurate metric to quantify the quality of the test suite. However, it is computationally expensive. Hence, the adoption of this metric is limited. In this study, we address this issue by proposing a realistic model able to estimate first-order mutation coverage using only higher-order mutation coverage. Our study shows how the estimation evolves along with the order of mutation. We validate the model with an empirical study based on 17 open-source projects.

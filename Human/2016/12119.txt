@@ -1,0 +1,3 @@
+Theoretical design and circuit implementation of integer domain chaotic systems
+
+In this paper, a new approach for constructing integer domain chaotic systems (IDCS) is proposed, and its chaotic behavior is mathematically proven according to the Devaney's definition of chaos. Furthermore, an analog-digital hybrid circuit is also developed for realizing the designed basic IDCS. In the IDCS circuit design, chaos generation strategy is realized through a sample-hold circuit and a decoder circuit so as to convert the uniform noise signal into a random sequence, which plays a key role in circuit implementation. The experimental observations further validate the proposed systematic methodology for the first time.

@@ -1,0 +1,3 @@
+Deep Tracking: Visual Tracking Using Deep Convolutional Networks
+
+In this paper, we study a discriminatively trained deep convolutional network for the task of visual tracking. Our tracker utilizes both motion and appearance features that are extracted from a pre-trained dual stream deep convolution network. We show that the features extracted from our dual-stream network can provide rich information about the target and this leads to competitive performance against state of the art tracking methods on a visual tracking benchmark.

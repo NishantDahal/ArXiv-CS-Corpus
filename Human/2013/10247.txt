@@ -1,0 +1,4 @@
+Short $\mathsf{Res}^*(\mathsf{polylog})$ refutations if and only if narrow $\mathsf{Res}$ refutations
+
+In this note we show that any $k$-CNF which can be refuted by a quasi-polynomial $\mathsf{Res}^*(\mathsf{polylog})$ refutation has a "narrow" refutation in $\mathsf{Res}$ (i.e., of poly-logarithmic width). We also show the converse implication: a narrow Resolution refutation can be simulated by a short $\mathsf{Res}^*(\mathsf{polylog})$ refutation.
+  The author does not claim priority on this result. The technical part of this note bears similarity with the relation between $d$-depth Frege refutations and tree-like $d+1$-depth Frege refutations outlined in (Krajíček 1994, Journal of Symbolic Logic 59, 73). Part of it had already been specialized to $\mathsf{Res}$ and $\mathsf{Res}(k)$ in (Esteban et al. 2004, Theor. Comput. Sci. 321, 347).

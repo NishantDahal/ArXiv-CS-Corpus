@@ -1,0 +1,3 @@
+A generalized framework for the estimation of edge infection probabilities
+
+Modeling the spread of infections on networks is a well-studied and important field of research. Most infection and diffusion models require a real value or probability on the edges of the network as an input, but this is rarely available in real-life applications. Our goal in this paper is to develop a general framework for this task. The general model works with the most widely used infection models and is able to handle an arbitrary number of observations on such processes. The model is defined as a general optimization task and a Particle Swarm heuristic is proposed to solve it. We evaluate the accuracy and speed of the proposed method on a high variety of realistic infection scenarios.

@@ -1,0 +1,3 @@
+Hopping over Big Data: Accelerating Ad-hoc OLAP Queries with Grasshopper Algorithms
+
+This paper presents a family of algorithms for fast subset filtering within ordered sets of integers representing composite keys. Applications include significant acceleration of (ad-hoc) analytic queries against a data warehouse without any additional indexing. The algorithms work for point, range and set restrictions on multiple attributes, in any combination, and are inherently multidimensional. The main idea consists in intelligent combination of sequential crawling with jumps over large portions of irrelevant keys. The way to combine them is adaptive to characteristics of the underlying data store.

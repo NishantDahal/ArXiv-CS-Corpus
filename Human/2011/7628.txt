@@ -1,0 +1,3 @@
+Lower bounds in differential privacy
+
+This is a paper about private data analysis, in which a trusted curator holding a confidential database responds to real vector-valued queries. A common approach to ensuring privacy for the database elements is to add appropriately generated random noise to the answers, releasing only these {\em noisy} responses. In this paper, we investigate various lower bounds on the noise required to maintain different kind of privacy guarantees.

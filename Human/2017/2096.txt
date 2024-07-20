@@ -1,0 +1,3 @@
+Timely CSI Acquisition Exploiting Full Duplex
+
+In this paper, we propose a method for acquiring accurate and timely channel state information (CSI) by leveraging full-duplex transmission. Specifically, we propose a mobile communication system in which base stations continuously transmit a pilot sequence in the uplink frequency band, while terminals use self-interference cancellation capabilities to obtain CSI at any time. Our proposal outperforms its half-duplex counterpart by at least 50% in terms of throughput while ensuring the same (or even lower) outage probability. Remarkably, it also outperforms using full duplex for downlink data transmission for low values of downlink bandwidth and received power.

@@ -1,0 +1,3 @@
+Algebraic Solution for Beamforming in Two-Way Relay Systems with Analog Network Coding
+
+We reduce the problem of optimal beamforming for two-way relay (TWR) systems with perfect channel state infomation (CSI) that use analog network coding (ANC) to a pair of algebraic equations in two variables that can be solved inexpensively using numerical methods. The solution has greatly reduced complexity compared to previous exact solutions via semidefinite programming (SDP). Together with the linearized robust solution described in (Aziz and Thron, 2014), it provides a high-performance, low-complexity robust beamforming solution for 2-way relays.

@@ -1,0 +1,3 @@
+DragonPaint: Rule based bootstrapping for small data with an application to cartoon coloring
+
+In this paper, we confront the problem of deep learning's big labeled data requirements, offer a rule based strategy for extreme augmentation of small data sets and apply that strategy with the image to image translation model by Isola et al. (2016) to automate cel style cartoon coloring with very limited training data. While our experimental results using geometric rules and transformations demonstrate the performance of our methods on an image translation task with industry applications in art, design and animation, we also propose the use of rules on partial data sets as a generalizable small data strategy, potentially applicable across data types and domains.

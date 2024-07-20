@@ -1,0 +1,4 @@
+(Arc-disjoint) cycle packing in tournament: classical and parameterized complexity
+
+Given a tournament $T$, the problem MaxCT consists of finding a maximum (arc-disjoint) cycle packing of $T$. In the same way, MaxTT corresponds to the specific case where the collection of cycles are triangles (i.e. directed 3-cycles). Although MaxCT can be seen as the LP dual of minimum feedback arc set in tournaments which have been widely studied, surprisingly no algorithmic results seem to exist concerning the former.
+  In this paper, we prove the NP-hardness of both MaxCT and MaxTT. We also show that deciding if a tournament has a cycle packing and a feedback arc set with the same size is an NP-complete problem. In light of this, we show that MaxTT admits a vertex linear-kernel when parameterized with the size of the solution. Finally, we provide polynomial algorithms for MaxTT and MaxCT when the tournament is sparse, that is when it admits a FAS which is a matching.

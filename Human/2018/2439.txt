@@ -1,0 +1,3 @@
+Deep Neural Network for Learning to Rank Query-Text Pairs
+
+This paper considers the problem of document ranking in information retrieval systems by Learning to Rank. We propose ConvRankNet combining a Siamese Convolutional Neural Network encoder and the RankNet ranking model which could be trained in an end-to-end fashion. We prove a general result justifying the linear test-time complexity of pairwise Learning to Rank approach. Experiments on the OHSUMED dataset show that ConvRankNet outperforms systematically existing feature-based models.

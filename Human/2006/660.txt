@@ -1,0 +1,3 @@
+Fast directional continuous spherical wavelet transform algorithms
+
+We describe the construction of a spherical wavelet analysis through the inverse stereographic projection of the Euclidean planar wavelet framework, introduced originally by Antoine and Vandergheynst and developed further by Wiaux et al. Fast algorithms for performing the directional continuous wavelet analysis on the unit sphere are presented. The fast directional algorithm, based on the fast spherical convolution algorithm developed by Wandelt and Gorski, provides a saving of O(sqrt(Npix)) over a direct quadrature implementation for Npix pixels on the sphere, and allows one to perform a directional spherical wavelet analysis of a 10^6 pixel map on a personal computer.

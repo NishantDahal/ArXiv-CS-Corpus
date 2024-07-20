@@ -1,0 +1,3 @@
+Full abstraction for probabilistic PCF
+
+We present a probabilistic version of PCF, a well-known simply typed universal functional language. The type hierarchy is based on a single ground type of natural numbers. Even if the language is globally call-by-name, we allow a call-by-value evaluation for ground type arguments in order to provide the language with a suitable algorithmic expressiveness. We describe a denotational semantics based on probabilistic coherence spaces, a model of classical Linear Logic developed in previous works. We prove an adequacy and an equational full abstraction theorem showing that equality in the model coincides with a natural notion of observational equivalence.

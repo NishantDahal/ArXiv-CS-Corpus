@@ -1,0 +1,3 @@
+A Fast Algorithm for Line Clipping by Convex Polyhedron in E3
+
+A new algorithm for line clipping against convex polyhedron is given. The suggested algorithm is faster for higher number of facets of the given polyhedron than the traditional Cyrus-Beck's and others algorithms with complexity O(N) . The suggested algorithm has O(N) complexity in the worst N case and expected O(sqrt(N))) complexity. The speed up is achieved because of 'known order' of triangles. Some principal results of comparisons of selected algorithms are presented and give some imagination how the proposed algorithm could be used effectively.

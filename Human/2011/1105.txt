@@ -1,0 +1,3 @@
+An upper bound on community size in scalable community detection
+
+It is well-known that community detection methods based on modularity optimization often fails to discover small communities. Several objective functions used for community detection therefore involve a resolution parameter that allows the detection of communities at different scales. We provide an explicit upper bound on the community size of communities resulting from the optimization of several of these functions. We also show with a simple example that the use of the resolution parameter may artificially force the complete disaggregation of large and densely connected communities.

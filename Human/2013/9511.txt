@@ -1,0 +1,3 @@
+Performance analysis of modified algorithm for finding multilevel association rules
+
+Multilevel association rules explore the concept hierarchy at multiple levels which provides more specific information. Apriori algorithm explores the single level association rules. Many implementations are available of Apriori algorithm. Fast Apriori implementation is modified to develop new algorithm for finding multilevel association rules. In this study the performance of this new algorithm is analyzed in terms of running time in seconds.

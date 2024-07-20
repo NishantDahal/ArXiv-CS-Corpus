@@ -1,0 +1,4 @@
+Compiling Process Networks to Interaction Nets
+
+Kahn process networks are a model of computation based on a collection of sequential, deterministic processes that communicate by sending messages through unbounded channels. They are well suited for modelling stream-based computations, but are in no way restricted to this application. Interaction nets are graph rewriting systems that have many interesting properties for implementation. In this paper we show how to encode process networks using interaction nets, where we model both networks and messages in the same framework.
+

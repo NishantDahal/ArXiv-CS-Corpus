@@ -1,0 +1,3 @@
+Improved Bounds on the Finite Length Scaling of Polar Codes
+
+Improved bounds on the blocklength required to communicate over binary-input channels using polar codes, below some given error probability, are derived. For that purpose, an improved bound on the number of non-polarizing channels is obtained. The main result is that the blocklength required to communicate reliably scales at most as $O((I(W)-R)^{-5.77})$ where $R$ is the code rate and $I(W)$ the symmetric capacity of the channel, $W$. The results are then extended to polar lossy source coding at rate $R$ of a source with symmetric distortion-rate function $D(\cdot)$. The blocklength required scales at most as $O((D_N-D(R))^{-5.77})$ where $D_N$ is the actual distortion.

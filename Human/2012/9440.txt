@@ -1,0 +1,3 @@
+How to compute the constant term of a power of a Laurent polynomial efficiently
+
+We present an algorithm for efficient computation of the constant term of a power of a multivariate Laurent polynomial. The algorithm is based on univariate interpolation, does not require the storage of intermediate data and can be easily parallelized. As an application we compute the power series expansion of the principal period of some toric Calabi-Yau varieties and find previously unknown differential operators of Calabi-Yau type.

@@ -1,0 +1,3 @@
+Characterising Bounded Expansion by Neighbourhood Complexity
+
+We show that a graph class $\cal G$ has bounded expansion if and only if it has bounded $r$-neighbourhood complexity, i.e. for any vertex set $X$ of any subgraph $H$ of $G\in\cal G$, the number of subsets of $X$ which are exact $r$-neighbourhoods of vertices of $H$ on $X$ is linear to the size of $X$. This is established by bounding the $r$-neighbourhood complexity of a graph in terms of both its $r$-centred colouring number and its weak $r$-colouring number, which provide known characterisations to the property of bounded expansion.

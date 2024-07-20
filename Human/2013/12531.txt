@@ -1,0 +1,3 @@
+A Simple Method to Produce Algorithmic MIDI Music based on Randomness, Simple Probabilities and Multi-Threading
+
+This paper introduces a simple method for producing multichannel MIDI music that is based on randomness and simple probabilities. One distinctive feature of the method is that it produces and sends in parallel to the sound card more than one unsynchronized channels by exploiting the multi-threading capabilities of general purpose programming languages. As consequence the derived sound offers a quite ``full" and ``unpredictable" acoustic experience to the listener. Subsequently the paper reports the results of an evaluation with users. The results were very surprising: the majority of users responded that they could tolerate this music in various occasions.

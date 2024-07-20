@@ -1,0 +1,3 @@
+Next generation input-output data format for HEP using Google's protocol buffers
+
+We propose a data format for Monte Carlo (MC) events, or any structural data, including experimental data, in a compact binary form using variable-size integer encoding as implemented in the Google's Protocol Buffers package. This approach is implemented in the so-called ProMC library which produces smaller file sizes for MC records compared to the existing input-output libraries used in high-energy physics (HEP). Other important features are a separation of abstract data layouts from concrete programming implementations, self-description and random access. Data stored in ProMC files can be written, read and manipulated in a number of programming languages, such C++, Java and Python.

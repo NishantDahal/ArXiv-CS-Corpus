@@ -1,0 +1,3 @@
+Clustering subgaussian mixtures by semidefinite programming
+
+We introduce a model-free relax-and-round algorithm for k-means clustering based on a semidefinite relaxation due to Peng and Wei. The algorithm interprets the SDP output as a denoised version of the original data and then rounds this output to a hard clustering. We provide a generic method for proving performance guarantees for this algorithm, and we analyze the algorithm in the context of subgaussian mixture models. We also study the fundamental limits of estimating Gaussian centers by k-means clustering in order to compare our approximation guarantee to the theoretically optimal k-means clustering solution.

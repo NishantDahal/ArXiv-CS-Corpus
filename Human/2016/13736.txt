@@ -1,0 +1,3 @@
+UAV attitude estimation using Unscented Kalman Filter and TRIAD
+
+A main problem in autonomous vehicles in general, and in \acp{UAV} in particular, is the determination of the attitude angles. A novel method to estimate these angles using off-the-shelf components is presented. This paper introduces an \ac{AHRS} based on the \ac{UKF} using the \ac{TRIAD} algorithm as the observation model. The performance of the method is assessed through simulations and compared to an \ac{AHRS} based on the \ac{EKF}. The paper presents field experiment results using a real fixed-wing \ac{UAV}. The results show good real-time performance with low computational cost in a microcontroller.

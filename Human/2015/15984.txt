@@ -1,0 +1,3 @@
+Limited Feedback in Multiple-Antenna Systems with One-Bit Quantization
+
+Communication systems with low-resolution analog-to-digital-converters (ADCs) can exploit channel state information at the transmitter (CSIT) and receiver. This paper presents initial results on codebook design and performance analysis for limited feedback systems with one-bit ADCs. Different from the high-resolution case, the absolute phase at the receiver is important to align the phase of the received signals when the received signal is sliced by one-bit ADCs. A new codebook design for the beamforming case is proposed that separately quantizes the channel direction and the residual phase.

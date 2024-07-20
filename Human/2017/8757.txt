@@ -1,0 +1,3 @@
+Demo Abstract: CDMA-based IoT Services with Shared Band Operation of LTE in 5G
+
+With the vision of deployment of massive Internet-of-Things (IoTs) in 5G network, existing 4G network and protocols are inefficient to handle sporadic IoT traffic with requirements of low-latency, low control overhead and low power. To suffice these requirements, we propose a design of a PHY/MAC layer using Software Defined Radios (SDRs) that is backward compatible with existing OFDM based LTE protocols and supports CDMA based transmissions for low power IoT devices as well. This demo shows our implemented system based on that design and the viability of the proposal under different network scenarios.

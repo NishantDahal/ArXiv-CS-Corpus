@@ -1,0 +1,3 @@
+Deep learning with differential Gaussian process flows
+
+We propose a novel deep learning paradigm of differential flows that learn a stochastic differential equation transformations of inputs prior to a standard classification or regression function. The key property of differential Gaussian processes is the warping of inputs through infinitely deep, but infinitesimal, differential fields, that generalise discrete layers into a dynamical system. We demonstrate state-of-the-art results that exceed the performance of deep Gaussian processes and neural networks

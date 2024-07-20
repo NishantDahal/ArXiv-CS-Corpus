@@ -1,0 +1,3 @@
+A self-stabilizing algorithm for maximal matching in link-register model in $O(nΔ^3)$ moves
+
+In the matching problem, each node maintains a pointer to one of its neighbor or to $null$, and a maximal matching is computed when each node points either to a neighbor that itself points to it (they are then called married), or to $null$, in which case no neighbor can also point to $null$. This paper presents a self-stabilizing distributed algorithm to compute a maximal matching in the link-register model under read/write atomicity, with complexity {$O(nΔ^3)$} moves under the adversarial distributed daemon, where $Δ$ is the maximum degree of the graph.

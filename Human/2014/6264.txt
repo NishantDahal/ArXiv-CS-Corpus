@@ -1,0 +1,3 @@
+DASS: Detail Aware Sketch-Based Surface Modeling
+
+We present a sketch-based modeling system suitable for detail editing, based on a multilevel representation for surfaces. The main advantage of this representation allowing for the control of local (details) and global changes of the model. We used an adaptive mesh (4-8 mesh) and developed a label theory to construct a manifold structure, which is responsible for controlling local editing of the model. The overall shape and global modifications are defined by a variational implicit surface (Hermite RBF). Our system assembles the manifold structures to allow the user to add details without changing the overall shape, as well as edit the overall shape while repositioning details coherently.

@@ -1,0 +1,3 @@
+Infinite-state games with finitary conditions
+
+We study two-player zero-sum games over infinite-state graphs with boundedness conditions. Our first contribution is about the strategy complexity, i.e the memory required for winning strategies: we prove that over general infinite-state graphs, memoryless strategies are sufficient for finitary Büchi games, and finite-memory suffices for finitary parity games. We then study pushdown boundedness games, with two contributions. First we prove a collapse result for pushdown omega B games, implying the decidability of solving these games. Second we consider pushdown games with finitary parity along with stack boundedness conditions, and show that solving these games is EXPTIME-complete.

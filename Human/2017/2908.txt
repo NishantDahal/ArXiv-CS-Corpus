@@ -1,0 +1,3 @@
+A method of limiting performance loss of CNNs in noisy environments
+
+Convolutional Neural Network (CNN) recognition rates drop in the presence of noise. We demonstrate a novel method of counteracting this drop in recognition rate by adjusting the biases of the neurons in the convolutional layers according to the noise conditions encountered at runtime. We compare our technique to training one network for all possible noise levels, dehazing via preprocessing a signal with a denoising autoencoder, and training a network specifically for each noise level. Our system compares favorably in terms of robustness, computational complexity and recognition rate.

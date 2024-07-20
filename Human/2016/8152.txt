@@ -1,0 +1,3 @@
+ABROA : Audio-Based Room-Occupancy Analysis using Gaussian Mixtures and Hidden Markov Models
+
+This paper outlines preliminary steps towards the development of an audio- based room-occupancy analysis model. Our approach borrows from speech recognition tradition and is based on Gaussian Mixtures and Hidden Markov Models. We analyze possible challenges encountered in the development of such a model, and offer several solutions including feature design and prediction strategies. We provide results obtained from experiments with audio data from a retail store in Palo Alto, California. Model assessment is done via leave-two-out Bootstrap and model convergence achieves good accuracy, thus representing a contribution to multimodal people counting algorithms.

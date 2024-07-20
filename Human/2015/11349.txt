@@ -1,0 +1,4 @@
+A Type-Directed Negation Elimination
+
+In the modal mu-calculus, a formula is well-formed if each recursive variable occurs underneath an even number of negations. By means of De Morgan's laws, it is easy to transform any well-formed formula into an equivalent formula without negations -- its negation normal form. Moreover, if the formula is of size n, its negation normal form of is of the same size O(n). The full modal mu-calculus and the negation normal form fragment are thus equally expressive and concise.
+  In this paper we extend this result to the higher-order modal fixed point logic (HFL), an extension of the modal mu-calculus with higher-order recursive predicate transformers. We present a procedure that converts a formula into an equivalent formula without negations of quadratic size in the worst case and of linear size when the number of variables of the formula is fixed.

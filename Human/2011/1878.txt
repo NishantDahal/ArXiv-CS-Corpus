@@ -1,0 +1,3 @@
+Constructions of hamiltonian graphs with bounded degree and diameter O (log n)
+
+Token ring topology has been frequently used in the design of distributed loop computer networks and one measure of its performance is the diameter. We propose an algorithm for constructing hamiltonian graphs with $n$ vertices and maximum degree $Δ$ and diameter $O (\log n)$, where $n$ is an arbitrary number. The number of edges is asymptotically bounded by $(2 - \frac{1}{Δ- 1} - \frac{(Δ- 2)^2}{(Δ- 1)^3}) n$. In particular, we construct a family of hamiltonian graphs with diameter at most $2 \lfloor \log_2 n \rfloor$, maximum degree 3 and at most $1+11n/8$ edges.

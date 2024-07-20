@@ -1,0 +1,6 @@
+An Almost Tight RMR Lower Bound for Abortable Test-And-Set
+
+We prove a lower bound of Omega(log n/loglog n) for the remote memory reference (RMR) complexity of abortable test-and-set (leader election) in the cache-coherent (CC) and the distributed shared memory (DSM) model.
+  This separates the complexities of abortable and non-abortable test-and-set, as the latter has constant RMR complexity (Golab, Hendler, Woelfel, SIAM Journal of Computing Vol. 39, 2010).
+  Golab, Hendler, Hadzilacos and Woelfel (Distributed Computing Vol. 25, 2012) showed that compare-and-swap can be implemented from registers and TAS objects with constant RMR complexity.
+  We observe that a small modification to that implementation is abortable, provided that the used TAS objects are abortable.

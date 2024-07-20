@@ -1,0 +1,3 @@
+Mace4 Reference Manual and Guide
+
+Mace4 is a program that searches for finite models of first-order formulas. For a given domain size, all instances of the formulas over the domain are constructed. The result is a set of ground clauses with equality. Then, a decision procedure based on ground equational rewriting is applied. If satisfiability is detected, one or more models are printed. Mace4 is a useful complement to first-order theorem provers, with the prover searching for proofs and Mace4 looking for countermodels, and it is useful for work on finite algebras. Mace4 performs better on equational problems than did our previous model-searching program Mace2.

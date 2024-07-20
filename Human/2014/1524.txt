@@ -1,0 +1,3 @@
+A Study on the Influence of Caching: Sequences of Dense Linear Algebra Kernels
+
+It is universally known that caching is critical to attain high- performance implementations: In many situations, data locality (in space and time) plays a bigger role than optimizing the (number of) arithmetic floating point operations. In this paper, we show evidence that at least for linear algebra algorithms, caching is also a crucial factor for accurate performance modeling and performance prediction.

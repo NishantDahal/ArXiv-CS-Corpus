@@ -1,0 +1,3 @@
+Dynamic Construction of Belief Networks
+
+We describe a method for incrementally constructing belief networks.  We have developed a network-construction language similar to a forward-chaining language using data dependencies, but with additional features for specifying distributions.  Using this language, we can define parameterized classes of probabilistic models.  These parameterized models make it possible to apply probabilistic reasoning to problems for which it is impractical to have a single large static model.

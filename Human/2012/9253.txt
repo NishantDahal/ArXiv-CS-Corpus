@@ -1,0 +1,3 @@
+Geosocial Graph-Based Community Detection
+
+We apply spectral clustering and multislice modularity optimization to a Los Angeles Police Department field interview card data set. To detect communities (i.e., cohesive groups of vertices), we use both geographic and social information about stops involving street gang members in the LAPD district of Hollenbeck. We then compare the algorithmically detected communities with known gang identifications and argue that discrepancies are due to sparsity of social connections in the data as well as complex underlying sociological factors that blur distinctions between communities.

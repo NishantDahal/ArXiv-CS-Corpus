@@ -1,0 +1,4 @@
+Tolerant Compressed Sensing With Partially Coherent Sensing Matrices
+
+Most of compressed sensing (CS) theory to date is focused on incoherent sensing, that is, columns from the sensing matrix are highly uncorrelated. However, sensing systems with naturally occurring correlations arise in many applications, such as signal detection, motion detection and radar. Moreover, in these applications it is often not necessary to know the support of the signal exactly, but instead small errors in the support and signal are tolerable.
+  Despite the abundance of work utilizing incoherent sensing matrices, for this type of tolerant recovery we suggest that coherence is actually beneficial. We promote the use of coherent sampling when tolerant support recovery is acceptable, and demonstrate its advantages empirically. In addition, we provide a first step towards theoretical analysis by considering a specific reconstruction method for selected signal classes.

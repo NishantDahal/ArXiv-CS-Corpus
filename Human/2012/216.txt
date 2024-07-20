@@ -1,0 +1,3 @@
+A Genetic Algorithm for the Calibration of a Micro-Simulation Model
+
+This paper describes the process followed to calibrate a micro-simulation model for the Altmark region in Germany and a Derbyshire region in the UK. The calibration process is performed in three main steps: first, a subset of input and output variables to use for the calibration process is selected from the complete parameter space in the model; second, the calibration process is performed using a genetic algorithm calibration approach; finally, a comparison between the real data and the data obtained from the best fit model is done to verify the accuracy of the model.

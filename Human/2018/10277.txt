@@ -1,0 +1,3 @@
+Damage detection in a unidimensional truss using the firefly optimization algorithm and finite elements
+
+In this paper, we investigate the damage detection of structures seen as an optimization problem, using modal characterization to evaluate the dynamic response of the structure given a damage model. We implemented the firefly optimization algorithm with a simple numerical damage model to assess the performance of the method and its advantages for structural health monitoring (SHM). We show some implementation details and discuss the obtained results.

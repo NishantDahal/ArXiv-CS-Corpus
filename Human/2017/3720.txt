@@ -1,0 +1,6 @@
+Towards Teleoperation with Human-like Dynamics: Human Use of Elastic Tools
+
+Variable stiffness actuators undergo lower peak force in contacts compared to their rigid counterparts, and are thus safer for human-robot interaction. Furthermore, they can store energy in their elastic element and can release it later to achieve human-like dynamic movements. However, it is not clear how to integrate them in teleoperator systems so that they can be controlled intuitively by a human.
+  We performed an experiment to study human use of elastic tools to determine how a teleoperator system with an elastic slave would need to be designed. For this, we had 13 untrained participants hammer with an elastic tool under different stiffness conditions, asking them to try to find the best timing for a backward-forward swing motion in order to achieve the strongest impact.
+  We found that the participants generally executed the task efficiently after a few trials and they converged to very similar solutions. The stiffness influenced the performance slightly, a stiffness between 2.3 Nm/rad and 4.1 Nm/rad showing the best results.
+  We conclude that humans intuitively know how to efficiently use elastic tools for hammering type tasks. This could facilitate the control of teleoperator systems with elastic slave manipulators for tasks requiring explosive movements like hammering.

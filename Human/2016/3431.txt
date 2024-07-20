@@ -1,0 +1,3 @@
+RankSynd a PRNG Based on Rank Metric
+
+In this paper, we consider a pseudo-random generator based on the difficulty of the syndrome decoding problem for rank metric codes. We also study the resistance of this problem against a quantum computer. Our results show that with rank metric it is possible to obtain fast PRNG with small public data, without considering additional structure for public matrices like quasi-cyclicity for Hamming distance.

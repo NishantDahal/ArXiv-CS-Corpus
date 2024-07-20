@@ -1,0 +1,4 @@
+On state complexity of unions of binary factor-free languages
+
+It has been conjectured in 2011 by Brzozowski et al. that if $K$ and $L$ are factor-free regular languages over a binary alphabet having state complexity $m$ and $n$, resp, then the state complexity of $K\cup L$ is at most $mn-(m+n)+3-\min\{m,n\}$.
+  We disprove this conjecture by giving a lower bound of $mn-(m+n)-2-\lfloor\frac{\min\{m,n\}-2}{2}\rfloor$, which exceeds the conjectured bound whenever $\min\{m,n\}\geq 10$.

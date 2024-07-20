@@ -1,0 +1,3 @@
+Translating MFM into FOL: towards plant operation planning
+
+This paper proposes a method to translate multilevel flow modeling (MFM) into a first-order language (FOL), which enables the utilisation of logical techniques, such as inference engines and abductive reasoners. An example of this is a planning task for a toy plant that can be solved in FOL using abduction. In addition, owing to the expressivity of FOL, the language is capable of describing actions and their preconditions. This allows the derivation of procedures consisting of multiple actions.

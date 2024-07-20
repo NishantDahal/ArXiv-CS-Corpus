@@ -1,0 +1,5 @@
+Unconstraining graph-constrained group testing
+
+In network tomography, one goal is to identify a small set of failed links in a network, by sending a few packets through the network and seeing which reach their destination. This problem can be seen as a variant of combinatorial group testing, which has been studied before under the moniker "graph-constrained group testing."
+  The main contribution of this work is to show that for most graphs, the "constraints" imposed by the underlying network topology are no constraint at all. That is, the number of tests required to identify the failed links in "graph-constrained" group testing is near-optimal even for the corresponding group testing problem with no graph constraints.
+  Our approach is based on a simple randomized construction of tests, to analyze our construction, we prove new results about the size of giant components in randomly sparsified graphs. Finally, we provide empirical results which suggest that our connected-subgraph tests perform better not just in theory but also in practice, and in particular perform better on a real-world network topology.

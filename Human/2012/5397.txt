@@ -1,0 +1,3 @@
+Adaptive sub-linear Fourier algorithms
+
+We present a new deterministic algorithm for the sparse Fourier transform problem, in which we seek to identify k << N significant Fourier coefficients from a signal of bandwidth N. Previous deterministic algorithms exhibit quadratic runtime scaling, while our algorithm scales linearly with k in the average case. Underlying our algorithm are a few simple observations relating the Fourier coefficients of time-shifted samples to unshifted samples of the input function. This allows us to detect when aliasing between two or more frequencies has occurred, as well as to determine the value of unaliased frequencies. We show that empirically our algorithm is orders of magnitude faster than competing algorithms.

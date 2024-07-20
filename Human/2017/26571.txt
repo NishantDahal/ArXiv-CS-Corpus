@@ -1,0 +1,3 @@
+Estimation of linear operators from scattered impulse responses
+
+We provide a new estimator of integral operators with smooth kernels, obtained from a set of scattered and noisy impulse responses. The proposed approach relies on the formalism of smoothing in reproducing kernel Hilbert spaces and on the choice of an appropriate regularization term that takes the smoothness of the operator into account. It is numerically tractable in very large dimensions. We study the estimator's robustness to noise and analyze its approximation properties with respect to the size and the geometry of the dataset. In addition, we show minimax optimality of the proposed estimator.

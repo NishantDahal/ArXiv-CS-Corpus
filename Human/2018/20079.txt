@@ -1,0 +1,3 @@
+Incorporating Depth into both CNN and CRF for Indoor Semantic Segmentation
+
+To improve segmentation performance, a novel neural network architecture (termed DFCN-DCRF) is proposed, which combines an RGB-D fully convolutional neural network (DFCN) with a depth-sensitive fully-connected conditional random field (DCRF). First, a DFCN architecture which fuses depth information into the early layers and applies dilated convolution for later contextual reasoning is designed. Then, a depth-sensitive fully-connected conditional random field (DCRF) is proposed and combined with the previous DFCN to refine the preliminary result. Comparative experiments show that the proposed DFCN-DCRF has the best performance compared with most state-of-the-art methods.

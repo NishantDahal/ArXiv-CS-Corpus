@@ -1,0 +1,3 @@
+Deterministic Performance Analysis of Subspace Methods for Cisoid Parameter Estimation
+
+Performance analyses of subspace algorithms for cisoid parameter estimation available in the literature are predominantly of statistical nature with a focus on asymptotic$-$either in the sample size or the SNR$-$statements. This paper presents a deterministic, finite sample size, and finite-SNR performance analysis of the ESPRIT algorithm and the matrix pencil method. Our results are based, inter alia, on a new upper bound on the condition number of Vandermonde matrices with nodes inside the unit disk. This bound is obtained through a generalization of Hilbert's inequality frequently used in large sieve theory.

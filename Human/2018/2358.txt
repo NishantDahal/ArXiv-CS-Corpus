@@ -1,0 +1,3 @@
+Memory Tagging and how it improves C/C++ memory safety
+
+Memory safety in C and C++ remains largely unresolved. A technique usually called "memory tagging" may dramatically improve the situation if implemented in hardware with reasonable overhead. This paper describes two existing implementations of memory tagging: one is the full hardware implementation in SPARC; the other is a partially hardware-assisted compiler-based tool for AArch64. We describe the basic idea, evaluate the two implementations, and explain how they improve memory safety. This paper is intended to initiate a wider discussion of memory tagging and to motivate the CPU and OS vendors to add support for it in the near future.

@@ -1,0 +1,4 @@
+Superlinear advantage for exact quantum algorithms
+
+A quantum algorithm is exact if, on any input data, it outputs the correct answer with certainty (probability 1). A key question is: how big is the advantage of exact quantum algorithms over their classical counterparts: deterministic algorithms. For total Boolean functions in the query model, the biggest known gap was just a factor of 2: PARITY of N inputs bits requires $N$ queries classically but can be computed with N/2 queries by an exact quantum algorithm.
+  We present the first example of a Boolean function f(x_1, ..., x_N) for which exact quantum algorithms have superlinear advantage over the deterministic algorithms. Any deterministic algorithm that computes our function must use N queries but an exact quantum algorithm can compute it with O(N^{0.8675...}) queries.

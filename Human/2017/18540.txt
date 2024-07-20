@@ -1,0 +1,3 @@
+A Domain-specific Language for High-reliability Software used in the JUICE SWI Instrument - The hO Language Manual
+
+hO is a custom restricted dialect of Oberon, developed at the Max-Planck Institute for Solar System Research in Göttingen and used in the SWI flight software for the JUICE mission. hO is applied to reduce the possibility of syntactically valid but incorrect code, provide better means of statically analyzing source code, is more readable than C and gives syntactic support for the software architecture used in the SWI instrument software. By using a higher-level, application-specific notation a whole range of possible errors is eliminated and source code size is reduced, while making the code itself easier to understand, review and analyze.

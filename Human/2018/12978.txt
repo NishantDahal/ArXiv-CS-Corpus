@@ -1,0 +1,3 @@
+Source-channel separation for two-way interactive communication with fidelity criteria
+
+Consider the channel coding problem where two users are interacting in order to communicate an i.i.d. source X1 from User 1 to User 2 with distortion D1 and an i.i.d. source X2 from User 2 to User 1 with distortion D2. X1 and X2 may be dependent. Communication occurs from User 1 to User 2 via a DMC C1 and from User 2 to User 1 over a DMC C2, where C1 and C2 act independently of each other. Communication occurs during each time slot between both users and each user can make a coding and decoding based on all past available knowledge. This interactive communication problem is formulated and it is proved that source-channel separation based architectures are optimal.

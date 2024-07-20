@@ -1,0 +1,3 @@
+Modeling LRU caches with Shot Noise request processes
+
+In this paper we analyze Least Recently Used (LRU) caches operating under the Shot Noise requests Model (SNM). The SNM was recently proposed to better capture the main characteristics of today Video on Demand (VoD) traffic. We investigate the validity of Che's approximation through an asymptotic analysis of the cache eviction time. In particular, we provide a large deviation principle, a law of large numbers and a central limit theorem for the cache eviction time, as the cache size grows large. Finally, we derive upper and lower bounds for the "hit" probability in tandem networks of caches under Che's approximation.

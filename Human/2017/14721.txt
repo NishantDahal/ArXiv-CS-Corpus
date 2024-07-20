@@ -1,0 +1,3 @@
+Dependence Measures Bounding the Exploration Bias for General Measurements
+
+We propose a framework to analyze and quantify the bias in adaptive data analysis. It generalizes that proposed by Russo and Zou'15, applying to measurements whose moment generating function exists, measurements with a finite $p$-norm, and measurements in general Orlicz spaces. We introduce a new class of dependence measures which retain key properties of mutual information while more effectively quantifying the exploration bias for heavy tailed distributions. We provide examples of cases where our bounds are nearly tight in situations where the original framework of Russo and Zou'15 does not apply.

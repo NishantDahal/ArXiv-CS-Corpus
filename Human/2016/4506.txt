@@ -1,0 +1,3 @@
+Applying Gaussian distributed constraints to Gaussian distributed variables
+
+This paper develops an analytical method of truncating inequality constrained Gaussian distributed variables where the constraints are themselves described by Gaussian distributions. Existing truncation methods either assume hard constraints, or use numerical methods to handle uncertain constraints. The proposed approach introduces moment-based Gaussian approximations of the truncated distribution. This method can be applied to numerous problems, with the motivating problem being Kalman filtering with uncertain constraints. In a simulation example, the developed method is shown to outperform unconstrained Kalman filtering by over 40% and hard-constrained Kalman filtering by over 17%.

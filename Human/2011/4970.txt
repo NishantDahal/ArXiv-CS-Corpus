@@ -1,0 +1,3 @@
+Likelihood Consensus-Based Distributed Particle Filtering with Distributed Proposal Density Adaptation
+
+We present a consensus-based distributed particle filter (PF) for wireless sensor networks. Each sensor runs a local PF to compute a global state estimate that takes into account the measurements of all sensors. The local PFs use the joint (all-sensors) likelihood function, which is calculated in a distributed way by a novel generalization of the likelihood consensus scheme. A performance improvement (or a reduction of the required number of particles) is achieved by a novel distributed, consensus-based method for adapting the proposal densities of the local PFs. The performance of the proposed distributed PF is demonstrated for a target tracking problem.

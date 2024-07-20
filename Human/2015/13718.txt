@@ -1,0 +1,3 @@
+WLAN Specific IoT Enable Power Efficient RAM Design on 40nm FPGA
+
+Increasing the speed of computer is one of the important aspects of the Random Access Memory (RAM) and for better and fast processing it should be efficient. In this work, the main focus is to design energy efficient RAM and it also can be accessed through internet. A 128-bit IPv6 address is added to the RAM in order to control it via internet. Four different types of Low Voltage CMOS (LCVMOS) IO standards are used to make it low power under five different WLAN frequencies is taken. At WLAN frequency 2.4GHz, there is maximum power reduction of 85% is achieved when LVCMOS12 is taken in place of LVCMOS25. This design is implemented using Virtex-6 FPGA, Device xc6vlx75t and Package FF484

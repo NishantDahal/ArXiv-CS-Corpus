@@ -1,0 +1,3 @@
+Regret Analysis of the Anytime Optimally Confident UCB Algorithm
+
+I introduce and analyse an anytime version of the Optimally Confident UCB (OCUCB) algorithm designed for minimising the cumulative regret in finite-armed stochastic bandits with subgaussian noise. The new algorithm is simple, intuitive (in hindsight) and comes with the strongest finite-time regret guarantees for a horizon-free algorithm so far. I also show a finite-time lower bound that nearly matches the upper bound.

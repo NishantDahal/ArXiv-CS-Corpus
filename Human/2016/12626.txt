@@ -1,0 +1,3 @@
+Information Security as Strategic (In)effectivity
+
+Security of information flow is commonly understood as preventing any information leakage, regardless of how grave or harmless consequences the leakage can have. In this work, we suggest that information security is not a goal in itself, but rather a means of preventing potential attackers from compromising the correct behavior of the system. To formalize this, we first show how two information flows can be compared by looking at the adversary's ability to harm the system. Then, we propose that the information flow in a system is effectively information-secure if it does not allow for more harm than its idealized variant based on the classical notion of noninterference.

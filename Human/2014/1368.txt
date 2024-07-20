@@ -1,0 +1,3 @@
+Swendsen-Wang is faster than single-bond dynamics
+
+We prove that the spectral gap of the Swendsen-Wang dynamics for the random-cluster model is larger than the spectral gap of a single-bond dynamics, that updates only a single edge per step. For this we give a representation of the algorithms on the joint (Potts/random-cluster) model. Furthermore we obtain upper and lower bounds on the mixing time of the single-bond dynamics on the discrete $d$-dimensional torus of side length $L$ at the Potts transition temperature for $q$ large enough that are exponential in $L^{d-1}$, complementing a result of Borgs, Chayes and Tetali.

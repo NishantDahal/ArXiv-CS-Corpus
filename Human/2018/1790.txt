@@ -1,0 +1,3 @@
+Learning Combinations of Sigmoids Through Gradient Estimation
+
+We develop a new approach to learn the parameters of regression models with hidden variables. In a nutshell, we estimate the gradient of the regression function at a set of random points, and cluster the estimated gradients. The centers of the clusters are used as estimates for the parameters of hidden units. We justify this approach by studying a toy model, whereby the regression function is a linear combination of sigmoids. We prove that indeed the estimated gradients concentrate around the parameter vectors of the hidden units, and provide non-asymptotic bounds on the number of required samples. To the best of our knowledge, no comparable guarantees have been proven for linear combinations of sigmoids.

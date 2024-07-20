@@ -1,0 +1,5 @@
+Web graph compression with fast access
+
+In recent years studying the content of the World Wide Web became a very important yet rather difficult task. There is a need for a compression technique that would allow a web graph representation to be put into the memory while maintaining random access time competitive to the time needed to access uncompressed web graph on a hard drive.
+  There are already available techniques that accomplish this task, but there is still room for improvements and this thesis attempts to prove it. It includes a comparison of two methods contained in state of art of this field (BV and k2partitioned) to two already implemented algorithms (rewritten, however, in C++ programming language to maximize speed and resource management efficiency), which are LM and 2D, and introduces the new variant of the latter one, called 2D stripes.
+  This thesis serves as well as a proof of concept. The final considerations show positive and negative aspects of all presented methods, expose the feasibility of the new variant as well as indicate future direction for development.

@@ -1,0 +1,3 @@
+Discovery of Approximate Differential Dependencies
+
+Differential dependencies (DDs) capture the relationships between data columns of relations. They are more general than functional dependencies (FDs) and and the difference is that DDs are defined on the distances between values of two tuples, not directly on the values. Because of this difference, the algorithms for discovering FDs from data find only special DDs, not all DDs and therefore are not applicable to DD discovery. In this paper, we propose an algorithm to discover DDs from data following the way of fixing the left hand side of a candidate DD to determine the right hand side. We also show some properties of DDs and conduct a comprehensive analysis on how sampling affects the DDs discovered from data.

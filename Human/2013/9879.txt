@@ -1,0 +1,3 @@
+Optimal Control of MDPs with Temporal Logic Constraints
+
+In this paper, we focus on formal synthesis of control policies for finite Markov decision processes with non-negative real-valued costs. We develop an algorithm to automatically generate a policy that guarantees the satisfaction of a correctness specification expressed as a formula of Linear Temporal Logic, while at the same time minimizing the expected average cost between two consecutive satisfactions of a desired property. The existing solutions to this problem are sub-optimal. By leveraging ideas from automata-based model checking and game theory, we provide an optimal solution. We demonstrate the approach on an illustrative example.

@@ -1,0 +1,3 @@
+Benchmark Problems for Constraint Solving
+
+Constraint Programming is roughly a new software technology introduced by Jaffar and Lassez in 1987 for description and effective solving of large, particularly combinatorial, problems especially in areas of planning and scheduling. In the following we define three problems for constraint solving from the domain of electrical networks; based on them we define 43 related problems. For the defined set of problems we benchmarked five systems: ILOG OPL, AMPL, GAMS, Mathematica and UniCalc. As expected some of the systems performed very well for some problems while others performed very well on others.

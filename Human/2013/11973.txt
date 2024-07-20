@@ -1,0 +1,3 @@
+Optimization of Clifford Circuits
+
+We study optimal synthesis of Clifford circuits, and apply the results to peep-hole optimization of quantum circuits. We report optimal circuits for all Clifford operations with up to four inputs. We perform peep-hole optimization of Clifford circuits with up to 40 inputs found in the literature, and demonstrate the reduction in the number of gates by about 50%. We extend our methods to the optimal synthesis of linear reversible circuits, partially specified Clifford functions, and optimal Clifford circuits with five inputs up to input/output permutation. The results find their application in randomized benchmarking protocols, quantum error correction, and quantum circuit optimization.

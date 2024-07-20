@@ -1,0 +1,3 @@
+The N-Tuple Bandit Evolutionary Algorithm for Game Agent Optimisation
+
+This paper describes the N-Tuple Bandit Evolutionary Algorithm (NTBEA), an optimisation algorithm developed for noisy and expensive discrete (combinatorial) optimisation problems. The algorithm is applied to two game-based hyper-parameter optimisation problems. The N-Tuple system directly models the statistics, approximating the fitness and number of evaluations of each modelled combination of parameters. The model is simple, efficient and informative. Results show that the NTBEA significantly outperforms grid search and an estimation of distribution algorithm.

@@ -1,0 +1,3 @@
+Face Recognition Based on Sequence of Images
+
+This paper presents a face recognition method based on a sequence of images. Face shape is reconstructed from images using a combination of structure-from-motion and multi-view stereo methods. The reconstructed 3D face model is compared against models held in a gallery. The novel element in the presented approach is the fact, that the reconstruction is based only on input images and doesn't require a generic, deformable face model. Experimental verification of the proposed method is also included.

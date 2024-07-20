@@ -1,0 +1,3 @@
+On Abruptly-Changing and Slowly-Varying Multiarmed Bandit Problems
+
+We study the non-stationary stochastic multiarmed bandit (MAB) problem and propose two generic algorithms, namely, the limited memory deterministic sequencing of exploration and exploitation (LM-DSEE) and the Sliding-Window Upper Confidence Bound# (SW-UCB#). We rigorously analyze these algorithms in abruptly-changing and slowly-varying environments and characterize their performance. We show that the expected cumulative regret for these algorithms under either of the environments is upper bounded by sublinear functions of time, i.e., the time average of the regret asymptotically converges to zero. We complement our analytic results with numerical illustrations.

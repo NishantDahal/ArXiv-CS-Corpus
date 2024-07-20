@@ -1,0 +1,3 @@
+A feasible algorithm for typing in Elementary Affine Logic
+
+We give a new type inference algorithm for typing lambda-terms in Elementary Affine Logic (EAL), which is motivated by applications to complexity and optimal reduction. Following previous references on this topic, the variant of EAL type system we consider (denoted EAL*) is a variant without sharing and without polymorphism. Our algorithm improves over the ones already known in that it offers a better complexity bound: if a simple type derivation for the term t is given our algorithm performs EAL* type inference in polynomial time.

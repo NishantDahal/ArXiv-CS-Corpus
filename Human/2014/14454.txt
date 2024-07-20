@@ -1,0 +1,3 @@
+The Power of Priority Channel Systems
+
+We introduce Priority Channel Systems, a new class of channel systems where messages carry a numeric priority and where higher-priority messages can supersede lower-priority messages preceding them in the fifo communication buffers. The decidability of safety and inevitability properties is shown via the introduction of a priority embedding, a well-quasi-ordering that has not previously been used in well-structured systems. We then show how Priority Channel Systems can compute Fast-Growing functions and prove that the aforementioned verification problems are $\mathbf{F}_{\varepsilon_{0}}$-complete.

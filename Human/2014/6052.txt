@@ -1,0 +1,3 @@
+Computing a Compact Spline Representation of the Medial Axis Transform of a 2D Shape
+
+We present a full pipeline for computing the medial axis transform of an arbitrary 2D shape. The instability of the medial axis transform is overcome by a pruning algorithm guided by a user-defined Hausdorff distance threshold. The stable medial axis transform is then approximated by spline curves in 3D to produce a smooth and compact representation. These spline curves are computed by minimizing the approximation error between the input shape and the shape represented by the medial axis transform. Our results on various 2D shapes suggest that our method is practical and effective, and yields faithful and compact representations of medial axis transforms of 2D shapes.

@@ -1,0 +1,3 @@
+Tracking Direction of Human Movement - An Efficient Implementation using Skeleton
+
+Sometimes a simple and fast algorithm is required to detect human presence and movement with a low error rate in a controlled environment for security purposes. Here a light weight algorithm has been presented that generates alert on detection of human presence and its movement towards a certain direction. The algorithm uses fixed angle CCTV camera images taken over time and relies upon skeleton transformation of successive images and calculation of difference in their coordinates.

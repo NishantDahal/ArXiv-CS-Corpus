@@ -1,0 +1,3 @@
+Optimizing Pilot Overhead for Ultra-Reliable Short-Packet Transmission
+
+In this paper we optimize the pilot overhead for ultra-reliable short-packet transmission and investigate the dependence of this overhead on packet size and error probability. In particular, we consider a point-to-point communication in which one sensor sends messages to a central node, or base-station, over AWGN with Rayleigh fading channel. We formalize the optimization in terms of approximate achievable rates at a given block length, pilot length, and error probability. This leads to more accurate pilot overhead optimization. Simulation results show that it is important to take into account the packet size and the error probability when optimizing the pilot overhead.

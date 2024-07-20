@@ -1,0 +1,3 @@
+Passages in Graphs
+
+Directed graphs can be partitioned in so-called passages. A passage P is a set of edges such that any two edges sharing the same initial vertex or sharing the same terminal vertex are both inside $P$ or are both outside of P. Passages were first identified in the context of process mining where they are used to successfully decompose process discovery and conformance checking problems. In this article, we examine the properties of passages. We will show that passages are closed under set operators such as union, intersection and difference. Moreover, any passage is composed of so-called minimal passages. These properties can be exploited when decomposing graph-based analysis and computation problems.

@@ -1,0 +1,3 @@
+Extending Functional Languages with High-Level Exception Handling
+
+We extend functional languages with high-level exception handling. To be specific, we allow sequential-disjunction expressions of the form $E_0 \bigtriangledown E_1$ where $E_0, E_1$ are expressions. These expressions have the following intended semantics: sequentially $choose$ the first successful $E_i$ and evaluate $E_i$ where $i$ = 0 or 1. These expressions thus allow us to specify an expression $E_0$ with the failure-handling (exception handling) routine, i.e., expression $E_1$. We also discuss the class of sequential-conjunction function declarations which is a dual of the former.

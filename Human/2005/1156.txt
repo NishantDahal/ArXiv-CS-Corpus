@@ -1,0 +1,3 @@
+Computing shortest non-trivial cycles on orientable surfaces of bounded genus in almost linear time
+
+We present an algorithm that computes a shortest non-contractible and a shortest non-separating cycle on an orientable combinatorial surface of bounded genus in O(n \log n) time, where n denotes the complexity of the surface. This solves a central open problem in computational topology, improving upon the current-best O(n^{3/2})-time algorithm by Cabello and Mohar (ESA 2005). Our algorithm uses universal-cover constructions to find short cycles and makes extensive use of existing tools from the field.

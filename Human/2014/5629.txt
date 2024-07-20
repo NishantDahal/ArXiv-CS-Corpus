@@ -1,0 +1,4 @@
+Assessing the statistical significance of association rules
+
+An association rule is statistically significant, if it has a small probability to occur by chance. It is well-known that the traditional frequency-confidence framework does not produce statistically significant rules. It can both accept spurious rules (type 1 error) and reject significant rules (type 2 error). The same problem concerns other commonly used interestingness measures and pruning heuristics.
+  In this paper, we inspect the most common measure functions - frequency, confidence, degree of dependence, $χ^2$, correlation coefficient, and $J$-measure - and redundancy reduction techniques. For each technique, we analyze whether it can make type 1 or type 2 error and the conditions under which the error occurs. In addition, we give new theoretical results which can be use to guide the search for statistically significant association rules.

@@ -1,0 +1,3 @@
+Algorithms for Synthesizing Priorities in Component-based Systems
+
+We present algorithms to synthesize component-based systems that are safe and deadlock-free using priorities, which define stateless-precedence between enabled actions. Our core method combines the concept of fault-localization (using safety-game) and fault-repair (using SAT for conflict resolution). For complex systems, we propose three complementary methods as preprocessing steps for priority synthesis, namely (a) data abstraction to reduce component complexities, (b) alphabet abstraction and #-deadlock to ignore components, and (c) automated assumption learning for compositional priority synthesis.

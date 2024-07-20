@@ -1,0 +1,3 @@
+Highly Scalable Multiplication for Distributed Sparse Multivariate Polynomials on Many-core Systems
+
+We present a highly scalable algorithm for multiplying sparse multivariate polynomials represented in a distributed format. This algo- rithm targets not only the shared memory multicore computers, but also computers clusters or specialized hardware attached to a host computer, such as graphics processing units or many-core coprocessors. The scal- ability on the large number of cores is ensured by the lacks of synchro- nizations, locks and false-sharing during the main parallel step.

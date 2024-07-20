@@ -1,0 +1,3 @@
+Minimax Rates of Estimation for Sparse PCA in High Dimensions
+
+We study sparse principal components analysis in the high-dimensional setting, where $p$ (the number of variables) can be much larger than $n$ (the number of observations). We prove optimal, non-asymptotic lower and upper bounds on the minimax estimation error for the leading eigenvector when it belongs to an $\ell_q$ ball for $q \in [0,1]$. Our bounds are sharp in $p$ and $n$ for all $q \in [0, 1]$ over a wide class of distributions. The upper bound is obtained by analyzing the performance of $\ell_q$-constrained PCA. In particular, our results provide convergence rates for $\ell_1$-constrained PCA.

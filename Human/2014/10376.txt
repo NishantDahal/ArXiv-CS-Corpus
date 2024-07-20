@@ -1,0 +1,3 @@
+Identifying Synapses Using Deep and Wide Multiscale Recursive Networks
+
+In this work, we propose a learning framework for identifying synapses using a deep and wide multi-scale recursive (DAWMR) network, previously considered in image segmentation applications. We apply this approach on electron microscopy data from invertebrate fly brain tissue. By learning features directly from the data, we are able to achieve considerable improvements over existing techniques that rely on a small set of hand-designed features. We show that this system can reduce the amount of manual annotation required, in both acquisition of training data as well as verification of inferred detections.

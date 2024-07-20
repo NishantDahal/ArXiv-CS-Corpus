@@ -1,0 +1,3 @@
+Solutions to the generalized Towers of Hanoi problem
+
+The purpose of this paper is to prove the Frame-Stewart algorithm for the generalized Towers of Hanoi problem as well as finding the number of moves required to solve the problem and studying the multitude of optimal solutions. The main idea is to study how to most effectively move away all but the last disc and use the fact that the total number of moves required to solve the problem is twice this number plus one.

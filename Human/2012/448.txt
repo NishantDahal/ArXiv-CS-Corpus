@@ -1,0 +1,3 @@
+Applicative Bisimulations for Delimited-Control Operators
+
+We develop a behavioral theory for the untyped call-by-value lambda calculus extended with the delimited-control operators shift and reset. For this calculus, we discuss the possible observable behaviors and we define an applicative bisimilarity that characterizes contextual equivalence. We then compare the applicative bisimilarity and the CPS equivalence, a relation on terms often used in studies of control operators. In the process, we illustrate how bisimilarity can be used to prove equivalence of terms with delimited-control effects.

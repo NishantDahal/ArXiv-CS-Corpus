@@ -1,0 +1,4 @@
+The Minimal Cost Algorithm for Off-Line Diagnosability of Discrete Event Systems
+
+The failure diagnosis for {\it discrete event systems} (DESs) has been given considerable attention in recent years. Both on-line and off-line diagnostics in the framework of DESs was first considered by Lin Feng in 1994, and particularly an algorithm for diagnosability of DESs was presented. Motivated by some existing problems to be overcome in previous work, in this paper, we investigate the minimal cost algorithm for diagnosability of DESs.
+  More specifically: (i) we give a generic method for judging a system's off-line diagnosability, and the complexity of this algorithm is polynomial-time; (ii) and in particular, we present an algorithm of how to search for the minimal set in all observable event sets, whereas the previous algorithm may find {\it non-minimal} one.

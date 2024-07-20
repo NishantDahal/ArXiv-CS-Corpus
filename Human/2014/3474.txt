@@ -1,0 +1,3 @@
+A New Approach to Decoding of Rational Irreducible Goppa code
+
+The interesting properties of classical Goppa code and its effective decoding algorithm (algorithm of patterson) make the most appropriate candidate for use in the MC Eliece cryptosystem. Information leakage which results from the relationship between the error vector weight and the number of iterations in the decoding algorithm, presented a weakness of the cryptosystem. In this paper, we introduce a new approach to decoding, the use of binary Goppa code in system design MC Eliece which solve the problem of the leak of information, on the contrary in case of patterson algorithm. We treat this decoding method using the Newton identities and results of linear algebra.

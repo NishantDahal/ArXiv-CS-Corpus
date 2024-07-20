@@ -1,0 +1,3 @@
+Exact Safety Verification of Hybrid Systems Using Sums-Of-Squares Representation
+
+In this paper we discuss how to generate inductive invariants for safety verification of hybrid systems. A hybrid symbolic-numeric method is presented to compute inequality inductive invariants of the given systems. A numerical invariant of the given system can be obtained by solving a parameterized polynomial optimization problem via sum-of-squares (SOS) relaxation. And a method based on Gauss-Newton refinement and rational vector recovery is deployed to obtain the invariants with rational coefficients, which exactly satisfy the conditions of invariants. Several examples are given to illustrate our algorithm.

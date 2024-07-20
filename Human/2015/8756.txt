@@ -1,0 +1,3 @@
+Fast Signal Separation of 2D Sparse Mixture via Approximate Message-Passing
+
+Approximate message-passing (AMP) method is a simple and efficient framework for the linear inverse problems. In this letter, we propose a faster AMP to solve the \emph{$L_1$-Split-Analysis} for the 2D sparsity separation, which is referred to as \emph{MixAMP}. We develop the MixAMP based on the factor graphical modeling and the min-sum message-passing. Then, we examine MixAMP for two types of the sparsity separation: separation of the direct-and-group sparsity, and that of the direct-and-finite-difference sparsity. This case study shows that the MixAMP method offers computational advantages over the conventional first-order method, TFOCS.

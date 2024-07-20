@@ -1,0 +1,4 @@
+A novel parallel algorithm for Gaussian Elimination of sparse unsymmetric matrices
+
+We describe a new algorithm for Gaussian Elimination suitable for general (unsymmetric and possibly singular) sparse matrices, of any entry type, which has a natural parallel and distributed-memory formulation but degrades gracefully to sequential execution.
+  We present a sample MPI implementation of a program computing the rank of a sparse integer matrix using the proposed algorithm. Some preliminary performance measurements are presented and discussed, and the performance of the algorithm is compared to corresponding state-of-the-art algorithms for floating-point and integer matrices.

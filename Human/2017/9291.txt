@@ -1,0 +1,3 @@
+Signal reconstruction via operator guiding
+
+Signal reconstruction from a sample using an orthogonal projector onto a guiding subspace is theoretically well justified, but may be difficult to practically implement. We propose more general guiding operators, which increase signal components in the guiding subspace relative to those in a complementary subspace, e.g., iterative low-pass edge-preserving filters for super-resolution of images. Two examples of super-resolution illustrate our technology: a no-flash RGB photo guided using a high resolution flash RGB photo, and a depth image guided using a high resolution RGB photo.

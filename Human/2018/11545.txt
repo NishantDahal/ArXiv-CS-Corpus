@@ -1,0 +1,3 @@
+Neural Network Compression using Transform Coding and Clustering
+
+With the deployment of neural networks on mobile devices and the necessity of transmitting neural networks over limited or expensive channels, the file size of the trained model was identified as bottleneck. In this paper, we propose a codec for the compression of neural networks which is based on transform coding for convolutional and dense layers and on clustering for biases and normalizations. By using this codec, we achieve average compression factors between 7.9-9.3 while the accuracy of the compressed networks for image classification decreases only by 1%-2%, respectively.

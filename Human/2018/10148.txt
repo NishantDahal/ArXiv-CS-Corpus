@@ -1,0 +1,4 @@
+A New Balanced Subdivision of a Simple Polygon for Time-Space Trade-off Algorithms
+
+We are given a read-only memory for input and a write-only stream for output. For a positive integer parameter s, an s-workspace algorithm is an algorithm using only $O(s)$ words of workspace in addition to the memory for input. In this paper, we present an $O(n^2/s)$-time $s$-workspace algorithm for subdividing a simple polygon into $O(\min\{n/s,s\})$ subpolygons of complexity $O(\max\{n/s,s\})$.
+  As applications of the subdivision, the previously best known time-space trade-offs for the following three geometric problems are improved immediately: (1) computing the shortest path between two points inside a simple $n$-gon, (2) computing the shortest path tree from a point inside a simple $n$-gon, (3) computing a triangulation of a simple $n$-gon. In addition, we improve the algorithm for the second problem even further.

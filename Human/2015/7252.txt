@@ -1,0 +1,3 @@
+Upper and Lower Bounds on Long Dual-Paths in Line Arrangements
+
+Given a line arrangement $\cal A$ with $n$ lines, we show that there exists a path of length $n^2/3 - O(n)$ in the dual graph of $\cal A$ formed by its faces. This bound is tight up to lower order terms. For the bicolored version, we describe an example of a line arrangement with $3k$ blue and $2k$ red lines with no alternating path longer than $14k$. Further, we show that any line arrangement with $n$ lines has a coloring such that it has an alternating path of length $Ω(n^2/ \log n)$. Our results also hold for pseudoline arrangements.

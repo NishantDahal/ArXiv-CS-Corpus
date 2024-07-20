@@ -1,0 +1,3 @@
+Dynamic logic assigned to automata
+
+A dynamic logic ${\mathbf B}$ can be assigned to every automaton ${\mathcal A}$ without regard if ${\mathcal A}$ is deterministic or nondeterministic. This logic enables us to formulate observations on ${\mathcal A}$ in the form of composed propositions and, due to a transition functor $T$, it captures the dynamic behaviour of ${\mathcal A}$. There are formulated conditions under which the automaton ${\mathcal A}$ can be recovered by means of ${\mathbf B}$ and $T$.

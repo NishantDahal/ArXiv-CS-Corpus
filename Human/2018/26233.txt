@@ -1,0 +1,3 @@
+The Unreasonable Effectiveness of Address Clustering
+
+Address clustering tries to construct the one-to-many mapping from entities to addresses in the Bitcoin system. Simple heuristics based on the micro-structure of transactions have proved very effective in practice. In this paper we describe the primary reasons behind this effectiveness: address reuse, avoidable merging, super-clusters with high centrality, and the incremental growth of address clusters. We quantify their impact during Bitcoin's first seven years of existence.

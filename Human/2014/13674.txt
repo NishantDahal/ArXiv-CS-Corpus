@@ -1,0 +1,3 @@
+Twofolds in C and C++
+
+Here I propose C and C++ interfaces and experimental implementation for twofolds arithmetic. I introduce twofolds in my previous article entitled "Twofold fast arithmetic" for tracking floating-point inaccuracy. Testing shows, plain C enables high-performance computing with twofolds. C++ interface enables coding as easily as ordinary floating-point numbers. My goal is convincing you to try twofolds; I think assuring accuracy of math computations is worth its cost. Code and use examples available at my web site, references inside.

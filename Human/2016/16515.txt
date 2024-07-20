@@ -1,0 +1,3 @@
+Independent sets near the lower bound in bounded degree graphs
+
+By Brook's Theorem, every n-vertex graph of maximum degree at most Delta >= 3 and clique number at most Delta is Delta-colorable, and thus it has an independent set of size at least n/Delta. We give an approximate characterization of graphs with independence number close to this bound, and use it to show that the problem of deciding whether such a graph has an indepdendent set of size at least n/Delta+k has a kernel of size O(k).

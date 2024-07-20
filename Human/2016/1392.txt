@@ -1,0 +1,3 @@
+Single-laser 32.5 Tbit/s Nyquist WDM transmission
+
+We demonstrate 32.5 Tbit/s 16QAM Nyquist WDM transmission over a total length of 227 km of SMF-28 without optical dispersion compensation. A number of 325 optical carriers are derived from a single laser and encoded with dual-polarization 16QAM data using sinc-shaped Nyquist pulses. As we use no guard bands, the carriers have a spacing of 12.5 GHz equal to the Nyquist bandwidth of the data. We achieve a high net spectral efficiency of 6.4 bit/s/Hz using a software-defined transmitter which generates the electrical modulator drive signals in real-time.

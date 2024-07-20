@@ -1,0 +1,4 @@
+Characterisation of Approximation and (Head) Normalisation for $λμ$ using Strict Intersection Types
+
+We study the strict type assignment for lambda-mu that is presented in [van Bakel'16]. We define a notion of approximants of lambda-mu-terms, show that it generates a semantics, and that for each typeable term there is an approximant that has the same type. We show that this leads to a characterisation via assignable types for all terms that have a head normal form, and to one for all terms that have a normal form, as well as to one for all terms that are strongly normalisable.
+

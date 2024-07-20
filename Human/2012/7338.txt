@@ -1,0 +1,3 @@
+Model based neuro-fuzzy ASR on Texas processor
+
+In this paper an algorithm for recognizing speech has been proposed. The recognized speech is used to execute related commands which use the MFCC and two kind of classifiers, first one uses MLP and second one uses fuzzy inference system as a classifier. The experimental results demonstrate the high gain and efficiency of the proposed algorithm. We have implemented this system based on graphical design and tested on a fix point digital signal processor (DSP) of 600 MHz, with reference DM6437-EVM of Texas instrument.

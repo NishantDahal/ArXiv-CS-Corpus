@@ -1,0 +1,5 @@
+Mending the Big-Data Missing Information
+
+Consider a high-dimensional data set, in which for every data-point there is incomplete information. Each object in the data set represents a real entity, which is described by a point in high-dimensional space. We model the lack of information for a given object as an affine subspace in $\mathbb{R}^d$ whose dimension $k$ is the number of missing features.
+  Our goal in this study is to find clusters of objects where the main problem is to cope with partial information and high dimension. Assuming the data set is separable, namely, its emergence from clusters that can be modeled as a set of disjoint ball in $\mathbb{R}^d$, we suggest a simple data clustering algorithm. Our suggested algorithm use the affine subspaces minimum distance and calculates pair-wise projection of the data achieving poly-logarithmic time complexity.
+  We use probabilistic considerations to prove the algorithm's correctness. These probabilistic results are of independent interest, and can serve to better understand the geometry of high dimensional objects.

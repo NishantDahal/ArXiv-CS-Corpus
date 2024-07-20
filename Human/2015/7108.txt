@@ -1,0 +1,3 @@
+Mutually Exclusive Modules in Logic Programming
+
+Logic programming has traditionally lacked devices for expressing mutually exclusive modules. We address this limitation by adopting choice-conjunctive modules of the form $D_0 \& D_1$ where $D_0, D_1$ are a conjunction of Horn clauses and $\&$ is a linear logic connective. Solving a goal $G$ using $D_0 \& D_1$ -- $exec(D_0 \& D_1,G)$ -- has the following operational semantics: $choose$ a successful one between $exec(D_0,G)$ and $exec(D_1,G)$. In other words, if $D_0$ is chosen in the course of solving $G$, then $D_1$ will be discarded and vice versa. Hence, the class of choice-conjunctive modules can capture the notion of mutually exclusive modules.

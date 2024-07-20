@@ -1,0 +1,3 @@
+FINJ: A Fault Injection Tool for HPC Systems
+
+We present FINJ, a high-level fault injection tool for High-Performance Computing (HPC) systems, with a focus on the management of complex experiments. FINJ provides support for custom workloads and allows generation of anomalous conditions through the use of fault-triggering executable programs. FINJ can also be integrated seamlessly with most other lower-level fault injection tools, allowing users to create and monitor a variety of highly-complex and diverse fault conditions in HPC systems that would be difficult to recreate in practice. FINJ is suitable for experiments involving many, potentially interacting nodes, making it a very versatile design and evaluation tool.

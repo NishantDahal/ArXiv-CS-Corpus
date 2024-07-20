@@ -1,0 +1,3 @@
+Low Rank Representation on Riemannian Manifold of Square Root Densities
+
+In this paper, we present a novel low rank representation (LRR) algorithm for data lying on the manifold of square root densities. Unlike traditional LRR methods which rely on the assumption that the data points are vectors in the Euclidean space, our new algorithm is designed to incorporate the intrinsic geometric structure and geodesic distance of the manifold. Experiments on several computer vision datasets showcase its noise robustness and superior performance on classification and subspace clustering compared to other state-of-the-art approaches.

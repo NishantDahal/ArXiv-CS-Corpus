@@ -1,0 +1,4 @@
+Small Private Circuits
+
+Ishai, Sahai, and Wagner initiated in 2003 the theoretical study of securing a circuit against an adversary who can probe its wires. They presented a universal way of transforming an arbitrary boolean circuit of size s into a circuit of size linear in s and quadratic in t, with perfect security against an adversary who can read up to t wires of the circuit. We present a new method for securing circuits against such an adversary with circuit size linear in s and polylogarithmic in t, while meeting the original privacy requirements from Ishai et al.
+  Our solution works for arithmetic circuits over arbitrary fields of positive characteristic. The improvement from quadratic to quasilinear complexity (in t) comes from using the DFT instead of naive multiplication.

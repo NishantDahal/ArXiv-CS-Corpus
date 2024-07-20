@@ -1,0 +1,3 @@
+A Linear-Time Algorithm for Maximum-Cardinality Matching on Cocomparability Graphs
+
+Finding maximum-cardinality matchings in undirected graphs is arguably one of the most central graph problems. For general m-edge and n-vertex graphs, it is well-known to be solvable in $O(m \sqrt{n})$ time. We develop a linear-time algorithm to find maximum-cardinality matchings on cocomparability graphs, a prominent subclass of perfect graphs that contains interval graphs as well as permutation graphs. Our algorithm is based on the recently discovered Lexicographic Depth First Search (LDFS).

@@ -1,0 +1,3 @@
+Binary Weighted Memristive Analog Deep Neural Network for Near-Sensor Edge Processing
+
+The memristive crossbar aims to implement analog weighted neural network, however, the realistic implementation of such crossbar arrays is not possible due to limited switching states of memristive devices. In this work, we propose the design of an analog deep neural network with binary weight update through backpropagation algorithm using binary state memristive devices. We show that such networks can be successfully used for image processing task and has the advantage of lower power consumption and small on-chip area in comparison with digital counterparts. The proposed network was benchmarked for MNIST handwritten digits recognition achieving an accuracy of approximately 90%.

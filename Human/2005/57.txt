@@ -1,0 +1,5 @@
+Algebraic Properties for Selector Functions
+
+The nondeterministic advice complexity of the P-selective sets is known to be exactly linear. Regarding the deterministic advice complexity of the P-selective sets--i.e., the amount of Karp--Lipton advice needed for polynomial-time machines to recognize them in general--the best current upper bound is quadratic [Ko, 1983] and the best current lower bound is linear [Hemaspaandra and Torenvliet, 1996].
+  We prove that every associatively P-selective set is commutatively, associatively P-selective. Using this, we establish an algebraic sufficient condition for the P-selective sets to have a linear upper bound (which thus would match the existing lower bound) on their deterministic advice complexity: If all P-selective sets are associatively P-selective then the deterministic advice complexity of the P-selective sets is linear. The weakest previously known sufficient condition was P=NP.
+  We also establish related results for algebraic properties of, and advice complexity of, the nondeterministically selective sets.

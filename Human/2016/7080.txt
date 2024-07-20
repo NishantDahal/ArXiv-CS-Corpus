@@ -1,0 +1,3 @@
+Tighter Loop Bound Analysis (Technical report)
+
+We present a new algorithm for computing upper bounds on the number of executions of each program instruction during any single program run. The upper bounds are expressed as functions of program input values. The algorithm is primarily designed to produce bounds that are relatively tight, i.e. not unnecessarily blown up. The upper bounds for instructions allow us to infer loop bounds, i.e.~upper bounds on the number of loop iterations. Experimental results show that the algorithm implemented in a prototype tool Looperman often produces tighter bounds than current tools for loop bound analysis.

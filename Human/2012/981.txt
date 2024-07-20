@@ -1,0 +1,3 @@
+An Higher-Order Characterization of Probabilistic Polynomial Time (Long Version)
+
+We present RSLR, an implicit higher-order characterization of the class PP of those problems which can be decided in probabilistic polynomial time with error probability smaller than 1/2. Analogously, a (less implicit) characterization of the class BPP can be obtained. RSLR is an extension of Hofmann's SLR with a probabilistic primitive, which enjoys basic properties such as subject reduction and confluence. Polynomial time soundness of RSLR is obtained by syntactical means, as opposed to the standard literature on SLR-derived systems, which use semantics in an essential way.

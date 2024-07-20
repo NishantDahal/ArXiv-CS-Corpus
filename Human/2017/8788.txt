@@ -1,0 +1,8 @@
+The Cayley-Dickson Construction in ACL2
+
+The Cayley-Dickson Construction is a generalization of the familiar construction of the complex numbers from pairs of real numbers. The complex numbers can be viewed as two-dimensional vectors equipped with a multiplication.
+  The construction can be used to construct, not only the two-dimensional  Complex Numbers, but also the four-dimensional Quaternions and the eight-dimensional Octonions. Each of these vector spaces has a vector multiplication, v_1*v_2, that satisfies:
+  1. Each nonzero vector has a multiplicative inverse.
+  2. For the Euclidean length of a vector |v|, |v_1 * v_2| = |v_1| |v2|.
+  Real numbers can also be viewed as (one-dimensional) vectors with the above two properties.
+  ACL2(r) is used to explore this question: Given a vector space, equipped with a multiplication, satisfying the Euclidean length condition 2, given above. Make pairs of vectors into "new" vectors with a multiplication.  When do the newly constructed vectors also satisfy condition 2?

@@ -1,0 +1,3 @@
+A New Method for Constructing Circuit Codes
+
+Circuit codes are constructed from induced cycles in the graph of the $n$ dimensional hypercube. They are both theoretically and practically important, as circuit codes can be used as error correcting codes. When constructing circuit codes, the length of the cycle determines its accuracy and a parameter called the spread determines how many errors it can detect. We present a new method for constructing a circuit code of spread $k+1$ from a circuit code of spread $k$. This method leads to record code lengths for circuit codes of spread $k=7 \text{ and } 8$ in dimension $22\le n\le 30$. We also derive a new lower bound on the length of circuit codes of spread 4, improving upon the current bound for dimension $n\ge 86$.

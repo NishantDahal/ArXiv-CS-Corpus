@@ -1,0 +1,4 @@
+Nonnegative Trigonometric Polynomials, Sturms Theorem, and Symbolic Computation
+
+In this paper, we explain a procedure based on a classical result of Sturm that can be used to determine rigorously whether a given trigonometric polynomial is nonnegative in a certain interval or not. Many examples are given. This technique has been employed by the author in several recent works.
+  The procedure often involves tedious computations that are time-consuming and error-prone. Fortunately, symbolic computation software is available to automate the procedure. In this paper, we give the details of its implementation in MAPLE 13. Some who are strongly attached to a more traditional theoretical research framework may find such details boring or even consider computer-assisted proofs suspicious. However, we emphasize again that the procedure is completely mathematically rigorous.

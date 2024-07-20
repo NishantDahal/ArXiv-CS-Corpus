@@ -1,0 +1,3 @@
+A Linear Time Algorithm for the Feasibility of Pebble Motion on Graphs
+
+Given a connected, undirected, simple graph $G = (V, E)$ and $p \le |V|$ pebbles labeled $1,..., p$, a configuration of these $p$ pebbles is an injective map assigning the pebbles to vertices of $G$. Let $S$ and $D$ be two such configurations. From a configuration, pebbles can move on $G$ as follows: In each step, at most one pebble may move from the vertex it currently occupies to an adjacent unoccupied vertex, yielding a new configuration. A natural question in this setting is the following: Is configuration $D$ reachable from $S$ and if so, how? We show that the feasibility of this problem can be decided in time $O(|V| + |E|)$.

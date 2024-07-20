@@ -1,0 +1,3 @@
+Counting Answer Sets via Dynamic Programming
+
+While the solution counting problem for propositional satisfiability (#SAT) has received renewed attention in recent years, this research trend has not affected other AI solving paradigms like answer set programming (ASP). Although ASP solvers are designed to enumerate all solutions, and counting can therefore be easily done, the involved materialization of all solutions is a clear bottleneck for the counting problem of ASP (#ASP). In this paper we propose dynamic programming-based #ASP algorithms that exploit the structure of the underlying (ground) ASP program. Experimental results for a prototype implementation show promise when compared to existing solvers.

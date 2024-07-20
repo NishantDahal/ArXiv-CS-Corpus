@@ -1,0 +1,3 @@
+Yaps: Python Frontend to Stan
+
+Stan is a popular probabilistic programming language with a self-contained syntax and semantics that is close to graphical models. Unfortunately, existing embeddings of Stan in Python use multi-line strings. That approach forces users to switch between two different language styles, with no support for syntax highlighting or simple error reporting within the Stan code. This paper tackles the question of whether Stan could use Python syntax while retaining its self-contained semantics. The answer is yes, that can be accomplished by reinterpreting the Python syntax. This paper introduces Yaps, a new frontend to Stan based on reinterpreted Python. We tested Yaps on over a thousand Stan models and made it available open-source.

@@ -1,0 +1,3 @@
+Approximate Structure Construction Using Large Statistical Swarms
+
+In this paper we describe a novel local algorithm for large statistical swarms using "harmonic attractor dynamics", by means of which a swarm can construct harmonics of the environment. This in turn allows the swarm to approximately reconstruct desired structures in the environment. The robots navigate in a discrete environment, completely free of localization, being able to communicate with other robots in its own discrete cell only, and being able to sense or take reliable action within a disk of radius $r$ around itself. We present the mathematics that underlie such dynamics and present initial results demonstrating the proposed algorithm.

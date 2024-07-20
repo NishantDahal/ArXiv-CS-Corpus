@@ -1,0 +1,3 @@
+Learning an MR acquisition-invariant representation using Siamese neural networks
+
+Generalization of voxelwise classifiers is hampered by differences between MRI-scanners, e.g. different acquisition protocols and field strengths. To address this limitation, we propose a Siamese neural network (MRAI-NET) that extracts acquisition-invariant feature vectors. These can consequently be used by task-specific methods, such as voxelwise classifiers for tissue segmentation. MRAI-NET is tested on both simulated and real patient data. Experiments show that MRAI-NET outperforms voxelwise classifiers trained on the source or target scanner data when a small number of labeled samples is available.

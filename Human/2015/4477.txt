@@ -1,0 +1,3 @@
+Lempel Ziv Computation In Small Space (LZ-CISS)
+
+For both the Lempel Ziv 77- and 78-factorization we propose algorithms generating the respective factorization using $(1+ε) n \lg n + O(n)$ bits (for any positive constant $ε\le 1$) working space (including the space for the output) for any text of size \$n\$ over an integer alphabet in $O(n / ε^{2})$ time.

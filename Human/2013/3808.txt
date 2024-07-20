@@ -1,0 +1,3 @@
+Abstract Stobjs and Their Application to ISA Modeling
+
+We introduce a new ACL2 feature, the abstract stobj, and show how to apply it to modeling the instruction set architecture of a microprocessor.  Benefits of abstract stobjs over traditional ("concrete") stobjs can include faster execution, support for symbolic simulation, more efficient reasoning, and resilience of proof developments under modeling optimization.

@@ -1,0 +1,3 @@
+Structure from Motion on a Sphere
+
+We describe a special case of structure from motion where the camera rotates on a sphere. The camera's optical axis lies perpendicular to the sphere's surface. In this case, the camera's pose is minimally represented by three rotation parameters. From analysis of the epipolar geometry we derive a novel and efficient solution for the essential matrix relating two images, requiring only three point correspondences in the minimal case. We apply this solver in a structure-from-motion pipeline that aggregates pairwise relations by rotation averaging followed by bundle adjustment with an inverse depth parameterization. Our methods enable scene modeling with an outward-facing camera and object scanning with an inward-facing camera.

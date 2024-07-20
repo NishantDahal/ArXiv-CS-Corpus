@@ -1,0 +1,3 @@
+What Makes Code Hard to Understand?
+
+What factors impact the comprehensibility of code? Previous research suggests that expectation-congruent programs should take less time to understand and be less prone to errors. We present an experiment in which participants with programming experience predict the exact output of ten small Python programs. We use subtle differences between program versions to demonstrate that seemingly insignificant notational changes can have profound effects on correctness and response times. Our results show that experience increases performance in most cases, but may hurt performance significantly when underlying assumptions about related code statements are violated.

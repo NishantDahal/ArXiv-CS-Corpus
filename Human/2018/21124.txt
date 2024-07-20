@@ -1,0 +1,3 @@
+Dynamic simulations in SixTrack
+
+The DYNK module allows element settings in SixTrack to be changed on a turn-by-turn basis. This document contains a technical description of the DYNK module in SixTrack. It is mainly intended for a developer or advanced user who wants to modify the DYNK module, for example by adding more functions that can be used to calculate new element settings, or to add support for new elements that can be used with DYNK.

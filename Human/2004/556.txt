@@ -1,0 +1,3 @@
+Bounding Fastest Mixing
+
+In a series of recent works, Boyd, Diaconis, and their co-authors have introduced a semidefinite programming approach for computing the fastest mixing Markov chain on a graph of allowed transitions, given a target stationary distribution. In this paper, we show that standard mixing-time analysis techniques--variational characterizations, conductance, canonical paths--can be used to give simple, nontrivial lower and upper bounds on the fastest mixing time. To test the applicability of this idea, we consider several detailed examples including the Glauber dynamics of the Ising model--and get sharp bounds.

@@ -1,0 +1,3 @@
+Kernelization lower bound for Permutation Pattern Matching
+
+A permutation $π$ contains a permutation $σ$ as a pattern if it contains a subsequence of length $|σ|$ whose elements are in the same relative order as in the permutation $σ$. This notion plays a major role in enumerative combinatorics. We prove that the problem does not have a polynomial kernel (under the widely believed complexity assumption $\mbox{NP} \not\subseteq \mbox{co-NP}/\mbox{poly}$) by introducing a new polynomial reduction from the clique problem to permutation pattern matching.

@@ -1,0 +1,3 @@
+Distributed Graph Automata and Verification of Distributed Algorithms
+
+Combining ideas from distributed algorithms and alternating automata, we introduce a new class of finite graph automata that recognize precisely the languages of finite graphs definable in monadic second-order logic. By restricting transitions to be nondeterministic or deterministic, we also obtain two strictly weaker variants of our automata for which the emptiness problem is decidable. As an application, we suggest how suitable graph automata might be useful in formal verification of distributed algorithms, using Floyd-Hoare logic.

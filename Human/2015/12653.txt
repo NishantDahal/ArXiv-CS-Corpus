@@ -1,0 +1,3 @@
+Layered Heaps Beating Standard and Fibonacci Heaps in Practice
+
+We consider the classic problem of designing heaps. Standard binary heaps run faster in practice than Fibonacci heaps but have worse time guarantees. Here we present a new type of heap, a layered heap, that runs faster in practice than both standard binary and Fibonacci heaps, but has asymptotic insert times better than that of binary heaps. Our heap is defined recursively and maximum run time speed up occurs when a recursion depth of 1 is used, i.e. a heap of heaps.

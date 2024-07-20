@@ -1,0 +1,3 @@
+Nonlinear integro-differential operator regression with neural networks
+
+This note introduces a regression technique for finding a class of nonlinear integro-differential operators from data. The method parametrizes the spatial operator with neural networks and Fourier transforms such that it can fit a class of nonlinear operators without needing a library of a priori selected operators. We verify that this method can recover the spatial operators in the fractional heat equation and the Kuramoto-Sivashinsky equation from numerical solutions of the equations.

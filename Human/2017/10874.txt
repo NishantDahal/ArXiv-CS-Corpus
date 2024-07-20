@@ -1,0 +1,3 @@
+On the Complexity and Approximation of the Maximum Expected Value All-or-Nothing Subset
+
+An unconstrained nonlinear binary optimization problem of selecting a maximum expected value subset of items is considered. Each item is associated with a profit and probability. Each of the items succeeds or fails independently with the given probabilities, and the profit is obtained in the event that all selected items succeed. The objective is to select a subset that maximizes the total value times the product of probabilities of the chosen items. The problem is proven NP-hard by a nontrivial reduction from subset sum. Then we develop a fully polynomial time approximation scheme (FPTAS) for this problem.

@@ -1,0 +1,3 @@
+Improved Optimization of Finite Sums with Minibatch Stochastic Variance Reduced Proximal Iterations
+
+We present novel minibatch stochastic optimization methods for empirical risk minimization problems, the methods efficiently leverage variance reduced first-order and sub-sampled higher-order information to accelerate the convergence speed. For quadratic objectives, we prove improved iteration complexity over state-of-the-art under reasonable assumptions. We also provide empirical evidence of the advantages of our method compared to existing approaches in the literature.

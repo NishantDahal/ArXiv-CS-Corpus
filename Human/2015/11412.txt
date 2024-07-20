@@ -1,0 +1,3 @@
+Edge-enhancing Filters with Negative Weights
+
+In [DOI:10.1109/ICMEW.2014.6890711], a graph-based denoising is performed by projecting the noisy image to a lower dimensional Krylov subspace of the graph Laplacian, constructed using nonnegative weights determined by distances between image data corresponding to image pixels. We~extend the construction of the graph Laplacian to the case, where some graph weights can be negative. Removing the positivity constraint provides a more accurate inference of a graph model behind the data, and thus can improve quality of filters for graph-based signal processing, e.g., denoising, compared to the standard construction, without affecting the costs.

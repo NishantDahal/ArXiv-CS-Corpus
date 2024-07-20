@@ -1,0 +1,3 @@
+Crawling in Rogue's dungeons with (partitioned) A3C
+
+Rogue is a famous dungeon-crawling video-game of the 80ies, the ancestor of its gender. Rogue-like games are known for the necessity to explore partially observable and always different randomly-generated labyrinths, preventing any form of level replay. As such, they serve as a very natural and challenging task for reinforcement learning, requiring the acquisition of complex, non-reactive behaviors involving memory and planning. In this article we show how, exploiting a version of A3C partitioned on different situations, the agent is able to reach the stairs and descend to the next level in 98% of cases.

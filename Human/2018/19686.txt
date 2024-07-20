@@ -1,0 +1,6 @@
+Faster Algorithms for some Optimization Problems on Collinear Points
+
+We propose faster algorithms for the following three optimization problems on $n$ collinear points, i.e., points in dimension one. The first two problems are known to be NP-hard in higher dimensions.
+  1- Maximizing total area of disjoint disks: In this problem the goal is to maximize the total area of nonoverlapping disks centered at the points. Acharyya, De, and Nandy (2017) presented an $O(n^2)$-time algorithm for this problem. We present an optimal $Θ(n)$-time algorithm.
+  2- Minimizing sum of the radii of client-server coverage: The $n$ points are partitioned into two sets, namely clients and servers. The goal is to minimize the sum of the radii of disks centered at servers such that every client is in some disk, i.e., in the coverage range of some server. Lev-Tov and Peleg (2005) presented an $O(n^3)$-time algorithm for this problem. We present an $O(n^2)$-time algorithm, thereby improving the running time by a factor of $Θ(n)$.
+  3- Minimizing total area of point-interval coverage: The $n$ input points belong to an interval $I$. The goal is to find a set of $n$ disks of minimum total area, covering $I$, such that every disk contains at least one input point. We present an algorithm that solves this problem in $O(n^2)$ time.

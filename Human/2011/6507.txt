@@ -1,0 +1,3 @@
+Concurrent Models for Function Execution
+
+We derive an abstract computational model from a sequential computational model that is generally used for function execution. This abstract computational model allows for the concurrent execution of functions. We discuss concurrent models for function execution as implementations from the abstract computational model. We give an example of a particular concurrent function construct that can be implemented on a concurrent machine model using multi-threading. The result is a framework of computational models at different levels of abstraction that can be used in further development of concurrent computational models that deal with the problems inherent with concurrency.

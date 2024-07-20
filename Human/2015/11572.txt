@@ -1,0 +1,3 @@
+Pulse Shaping Methods for OQAM/OFDM and WCP-COQAM
+
+GFDM is a new modulation format whose advantages compared to OFDM reportedly make it a preferable modulation format for 5G. However, the non-orthogonal nature of GFDM with matched filtering (MF) receiver for pulses with good time-frequency localization is one of its disadvantages, leading to the proposal of WCP-COQAM, employing offset quadrature amplitude modulation (OQAM). In this paper, we prove that a pulse satisfying orthogonality conditions for OQAM-OFDM will also satisfy orthogonality with WCP-COQAM, thus the pulse design methods developed for OQAM-OFDM can also be used with WCP-COQAM. This statement is also verified by the simulation based results.

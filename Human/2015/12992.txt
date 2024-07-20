@@ -1,0 +1,3 @@
+Boolean-type Retractable State-finite Automata Without Outputs
+
+An automaton $\bf A$ is called a retractable automaton if, for every subautomaton $\bf B$ of $\bf A$, there is at least one homomorphism of $\bf A$ onto $\bf B$ which leaves the elements of $B$ fixed (such homomorphism is called a retract homomorphism of $\bf A$ onto $\bf B$). We say that a retractable automaton ${\bf A}$=(A,X,$δ$) is Boolean-type if there exists a family $\{λ_B \mid \textrm{ B is a subautomaton of A } \}$ of retract homomorphisms $λ_B$ of $\bf A$ such that, for arbitrary subautomata ${\bf B}_1$ and ${\bf B}_2$ of $\bf A$, the condition $B_1\subseteq B_2$ implies $Kerλ_{B_2}\subseteq Kerλ_{B_1}$. In this paper we describe the Boolean-type retractable state-finite automata without outputs.

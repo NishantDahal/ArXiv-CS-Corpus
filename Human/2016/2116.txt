@@ -1,0 +1,3 @@
+Comments on "On Clock Synchronization Algorithms for Wireless Sensor Networks Under Unknown Delay"
+
+The generalization of the maximum-likelihood-like estimator for clock skew by Leng and Wu in the above paper is erroneous because the correlation of the noise components in the model is not taken into account in the derivation of the maximum likelihood estimator, its performance bound, and the optimal selection of the gap between two subtracting time stamps. This comment investigates the issue of noise correlation in the model and provides the range of the gap for which the maximum likelihood estimator and its performance bound are valid and corrects the optimal selection of the gap based on the provided range.

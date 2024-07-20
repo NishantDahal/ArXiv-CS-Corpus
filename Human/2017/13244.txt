@@ -1,0 +1,3 @@
+DICE Fault Injection Tool
+
+In this paper, we describe the motivation, innovation, design, running example and future development of a Fault Inject Tool (FIT). This tool enables controlled causing of cloud platform issues such as resource stress and service or VM outages, the purpose being to observe the subsequent effect on deployed applications. It is being designed for use in a DevOps workflow for tighter correlation between application design and cloud operation, although not limited to this usage, and helps improve resiliency for data intensive applications by bringing together fault tolerance, stress testing and benchmarking in a single tool.

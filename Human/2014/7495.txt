@@ -1,0 +1,3 @@
+Extending Acyclicity Notions for Existential Rules (\emph{long version})
+
+Existential rules have been proposed for representing ontological knowledge, specifically in the context of Ontology-Based Query Answering. Entailment with existential rules is undecidable. We focus in this paper on conditions that ensure the termination of a breadth-first forward chaining algorithm known as the chase. First, we propose a new tool that allows to extend existing acyclicity conditions ensuring chase termination, while keeping good complexity properties. Second, we consider the extension to existential rules with nonmonotonic negation under stable model semantics and further extend acyclicity results obtained in the positive case.

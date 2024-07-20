@@ -1,0 +1,3 @@
+Dermoscopic Image Analysis for ISIC Challenge 2018
+
+This short paper reports the algorithms we used and the evaluation performances for ISIC Challenge 2018. Our team participates in all the tasks in this challenge. In lesion segmentation task, the pyramid scene parsing network (PSPNet) is modified to segment the lesions. In lesion attribute detection task, the modified PSPNet is also adopted in a multi-label way. In disease classification task, the DenseNet-169 is adopted for multi-class classification.

@@ -1,0 +1,3 @@
+Vector Clocks in Coq: An Experience Report
+
+This report documents the process of implementing vector clocks in the Coq proof assistant for extraction and use in the distributed Dynamo-inspired data store, Riak. In this report, we focus on the technical challenges of using Core Erlang code extracted from the proof assistant in a production-grade Erlang application, as opposed to verification of the model itself.

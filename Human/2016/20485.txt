@@ -1,0 +1,3 @@
+A sparse multidimensional FFT for real positive vectors
+
+We present a sparse multidimensional FFT (sMFFT) randomized algorithm for real positive vectors. The algorithm works in any fixed dimension, requires (O(R log(R) log(N)) ) samples and runs in O( R log^2(R) log(N)) complexity (where N is the total size of the vector in d dimensions and R is the number of nonzeros). It is stable to low-level noise and exhibits an exponentially small probability of failure.

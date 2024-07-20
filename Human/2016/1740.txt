@@ -1,0 +1,3 @@
+An algorithm for the weighted metric dimension of two-dimensional grids
+
+A two-dimensional grid consists of vertices of the form (i,j) for 1 \leq i \leq m and 1 \leq j \leq n, for fixed m,n > 1. Two vertices are adjacent if the \ell_1 distance between their vectors is equal to 1. A landmark set is a subset of vertices L \subseteq V, such that for any distinct pair of vertices u,v \in V, there exists a vertex of L whose distances to u and v are not equal. We design an efficient algorithm for finding a minimum landmark set with respect to total cost in a grid graph with non-negative costs defined on the vertices.

@@ -1,0 +1,3 @@
+On the Decision Number of Graphs
+
+Let $G$ be a graph. A good function is a function $f:V(G)\rightarrow \{-1,1\}$, satisfying $f(N(v))\geq 1$, for each $v\in V(G)$, where $ N(v)=\{u\in V(G)\, |\, uv\in E(G) \} $ and $f(S) = \sum_{u\in S} f(u)$ for every $S \subseteq V(G) $. For every cubic graph $G$ of order $ n, $ we prove that $ γ(G) \leq \frac{5n}{7} $ and show that this inequality is sharp. A function $f:V(G)\rightarrow \{-1,1\}$ is called a nice function, if $f(N[v])\le1$, for each $v\in V(G)$, where $ N[v]=\{v\} \cup N(v) $. Define $\overlineβ(G)=max\{f(V(G))\}$, where $f$ is a nice function for $G$. We show that $\overlineβ(G)\ge -\frac{3n}{7}$ for every cubic graph $G$ of order $n$, which improves the best known bound $-\frac{n}{2}$.

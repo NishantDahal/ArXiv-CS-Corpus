@@ -1,0 +1,3 @@
+Near Maximum Likelihood Decoding with Deep Learning
+
+A novel and efficient neural decoder algorithm is proposed. The proposed decoder is based on the neural Belief Propagation algorithm and the Automorphism Group. By combining neural belief propagation with permutations from the Automorphism Group we achieve near maximum likelihood performance for High Density Parity Check codes. Moreover, the proposed decoder significantly improves the decoding complexity, compared to our earlier work on the topic. We also investigate the training process and show how it can be accelerated. Simulations of the hessian and the condition number show why the learning process is accelerated. We demonstrate the decoding algorithm for various linear block codes of length up to 63 bits.

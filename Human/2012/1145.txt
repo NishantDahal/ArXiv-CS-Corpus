@@ -1,0 +1,4 @@
+Multi-outcome and Multidimensional Market Scoring Rules
+
+Hanson's market scoring rules allow us to design a prediction market that still gives useful information even if we have an illiquid market with a limited number of budget-constrained agents. Each agent can "move" the current price of a market towards their prediction.
+  While this movement still occurs in multi-outcome or multidimensional markets we show that no market-scoring rule, under reasonable conditions, always moves the price directly towards beliefs of the agents. We present a modified version of a market scoring rule for budget-limited traders, and show that it does have the property that, from any starting position, optimal trade by a budget-limited trader will result in the market being moved towards the trader's true belief. This mechanism also retains several attractive strategic properties of the market scoring rule.

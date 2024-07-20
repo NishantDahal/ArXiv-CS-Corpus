@@ -1,0 +1,3 @@
+A Two-Queue Polling Model with Two Priority Levels in the First Queue
+
+In this paper we consider a single-server cyclic polling system consisting of two queues. Between visits to successive queues, the server is delayed by a random switch-over time. Two types of customers arrive at the first queue: high and low priority customers. For this situation the following service disciplines are considered: gated, globally gated, and exhaustive. We study the cycle time distribution, the waiting times for each customer type, the joint queue length distribution at polling epochs, and the steady-state marginal queue length distributions for each customer type.

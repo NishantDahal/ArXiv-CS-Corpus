@@ -1,0 +1,5 @@
+Text-based Adventures of the Golovin AI Agent
+
+The domain of text-based adventure games has been recently established as a new challenge of creating the agent that is both able to understand natural language, and acts intelligently in text-described environments.
+  In this paper, we present our approach to tackle the problem. Our agent, named Golovin, takes advantage of the limited game domain. We use genre-related corpora (including fantasy books and decompiled games) to create language models suitable to this domain. Moreover, we embed mechanisms that allow us to specify, and separately handle, important tasks as fighting opponents, managing inventory, and navigating on the game map.
+  We validated usefulness of these mechanisms, measuring agent's performance on the set of 50 interactive fiction games. Finally, we show that our agent plays on a level comparable to the winner of the last year Text-Based Adventure AI Competition.

@@ -1,0 +1,3 @@
+Network clustering and community detection using modulus of families of loops
+
+We study the structure of loops in networks using the notion of modulus of loop families. We introduce a new measure of network clustering by quantifying the richness of families of (simple) loops. Modulus tries to minimize the expected overlap among loops by spreading the expected link-usage optimally. We propose weighting networks using these expected link-usages to improve classical community detection algorithms. We show that the proposed method enhances the performance of certain algorithms, such as spectral partitioning and modularity maximization heuristics, on standard benchmarks.

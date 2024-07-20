@@ -1,0 +1,3 @@
+Improved stochastic trace estimation using mutually unbiased bases
+
+We examine the problem of estimating the trace of a matrix $A$ when given access to an oracle which computes $x^\dagger A x$ for an input vector $x$. We make use of the basis vectors from a set of mutually unbiased bases, widely studied in the field of quantum information processing, in the selection of probing vectors $x$. This approach offers a new state of the art single shot sampling variance while requiring only $O(\log(n))$ random bits to generate each vector. This significantly improves on traditional methods such as Hutchinson's and Gaussian estimators in terms of the number of random bits required and worst case sample variance.

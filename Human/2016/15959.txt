@@ -1,0 +1,3 @@
+Automatic Generation of Equivalent Electrothermal SPICE Netlists from 3D Electrothermal Field Models
+
+Starting from a 3D electrothermal field problem discretized by the Finite Integration Technique, the equivalence to a circuit description is shown by exploiting the analogy to the Modified Nodal Analysis approach. Using this analogy, an algorithm for the automatic generation of a monolithic SPICE netlist is presented. Joule losses from the electrical circuit are included as heat sources in the thermal circuit. The thermal simulation yields nodal temperatures that influence the electrical conductivity. Apart from the used field discretization, this approach applies no further simplifications. An example 3D chip package is used to validate the algorithm.

@@ -1,0 +1,3 @@
+Embed System for Robotic Arm with 3 Degree of Freedom Controller using Computational Vision on Real-Time
+
+This Paper deals with robotic arm embed controller system, with distributed system based on protocol communication between one server supporting multiple points and mobile applications trough sockets .The proposed system utilizes hand with glove gesture in three-dimensional recognition using fuzzy implementation to set x,y,z coordinates. This approach present all implementation over: two raspberry PI arm based computer running client program, x64 PC running server program, and one robot arm controlled by ATmega328p based board.

@@ -1,0 +1,4 @@
+Mixed Linear Layouts of Planar Graphs
+
+A $k$-stack (respectively, $k$-queue) layout of a graph consists of a total order of the vertices, and a partition of the edges into $k$ sets of non-crossing (non-nested) edges with respect to the vertex ordering. In 1992, Heath and Rosenberg conjectured that every planar graph admits a mixed $1$-stack $1$-queue layout in which every edge is assigned to a stack or to a queue that use a common vertex ordering.
+  We disprove this conjecture by providing a planar graph that does not have such a mixed layout. In addition, we study mixed layouts of graph subdivisions, and show that every planar graph has a mixed subdivision with one division vertex per edge.

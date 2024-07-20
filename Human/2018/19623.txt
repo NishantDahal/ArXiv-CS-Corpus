@@ -1,0 +1,3 @@
+Two new classes of quantum MDS codes
+
+Let $p$ be a prime and let $q$ be a power of $p$. In this paper, by using generalized Reed-Solomon (GRS for short) codes and extended GRS codes, we construct two new classes of quantum maximum-distance- separable (MDS) codes with parameters \[ [[tq, tq-2d+2, d]]_{q} \] for any $1 \leq t \leq q, 2 \leq d \leq \lfloor \frac{tq+q-1}{q+1}\rfloor+1$, and \[ [[t(q+1)+2, t(q+1)-2d+4, d]]_{q} \] for any $1 \leq t \leq q-1, 2 \leq d \leq t+2$ with $(p,t,d) \neq (2, q-1, q)$. Our quantum codes have flexible parameters, and have minimum distances larger than $\frac{q}{2}+1$ when $t > \frac{q}{2}$. Furthermore, it turns out that our constructions generalize and improve some previous results.

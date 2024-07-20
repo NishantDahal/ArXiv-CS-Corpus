@@ -1,0 +1,3 @@
+DCLfix: A Recommendation System for Repairing Architectural Violations
+
+Architectural erosion is a recurrent problem in software evolution. Despite this fact, the process is usually tackled in ad hoc ways, without adequate tool support at the architecture level. To address this shortcoming, this paper presents a recommendation system -- called DCLfix -- that provides refactoring guidelines for maintainers when tackling architectural erosion. In short, DCLfix suggests refactoring recommendations for violations detected after an architecture conformance process using DCL, an architectural constraint language

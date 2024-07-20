@@ -1,0 +1,3 @@
+Computing NodeTrix Representations of Clustered Graphs
+
+NodeTrix representations are a popular way to visualize clustered graphs; they represent clusters as adjacency matrices and inter-cluster edges as curves connecting the matrix boundaries. We study the complexity of constructing NodeTrix representations focusing on planarity testing problems, and we show several NP-completeness results and some polynomial-time algorithms. Building on such algorithms we develop a JavaScript library for NodeTrix representations aimed at reducing the crossings between edges incident to the same matrix.

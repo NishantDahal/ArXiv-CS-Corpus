@@ -1,0 +1,3 @@
+Cryptographic analysis of the Modified Matrix Modular Cryptosystem
+
+We show that the Modified Matrix Modular Cryptosystem proposed by S.K. Rososhek is not secure against the attack based on the linear decomposition method. The security of the encryption scheme in the Rososhek's system is based on the mix of the conjugacy search problem and random "salt". We do not solve the conjugacy search problem and we are not looking for the exact meaning of the "salt". The transported secret message in the system is recovered without computation the secret parameters, that have been used for its encryption.

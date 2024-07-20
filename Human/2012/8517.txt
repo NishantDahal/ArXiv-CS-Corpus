@@ -1,0 +1,3 @@
+Black-Box Verification for GUI Applications
+
+In black-box testing of GUI applications (a form of system testing), a dynamic analysis of the GUI application is used to infer a black-box model; the black-box model is then used to derive test cases for the test of the GUI application. In this paper, we propose to supplement the test with the verification of the black-box model. We present a method that can give a guarantee of the absence of faults, i.e., the correctness of all test cases of the black-box model. The black-model allows us to formulate a parametrized verification problem. As we will show, it also allows us to circumvent the static analysis of the GUI tool kit. We have implemented our approach; preliminary experiments indicate its practical potential.

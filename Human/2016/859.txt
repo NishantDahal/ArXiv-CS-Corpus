@@ -1,0 +1,8 @@
+A Modular Algorithm for Computing Polynomial GCDs over Number Fields presented with Multiple Extensions
+
+We consider the problem of computing the monic gcd of two polynomials over a number field L = Q(alpha_1,...,alpha_n). Langemyr and McCallum have already shown how Brown's modular GCD algorithm for polynomials over Q can be modified to work for Q(alpha) and subsequently, Langemyr extended the algorithm to L[x]. Encarnacion also showed how to use rational number to make the algorithm for Q(alpha) output sensitive, that is, the number of primes used depends on the size of the integers in the gcd and not on bounds based on the input polynomials.
+  Our first contribution is an extension of Encarnacion's modular GCD algorithm to the case n>1, which, like Encarnacion's algorithm, is is output sensitive.
+  Our second contribution is a proof that it is not necessary to test if p divides the discriminant. This simplifies the algorithm; it is correct without this test.
+  Our third contribution is a modification to the algorithm to treat the case of reducible extensions. Such cases arise when solving systems of polynomial equations.
+  Our fourth contribution is an implementation of the modular GCD algorithm in Maple and in Magma. Both implementations use a recursive dense polynomial data structure for representing polynomials over number fields with multiple field extensions.
+  Our fifth contribution is a primitive fraction-free algorithm. This is the best non-modular approach. We present timing comparisons of the Maple and Magma implementations demonstrating various optimizations and comparing them with the monic Euclidan algorithm and our primitive fraction-free algorithm.

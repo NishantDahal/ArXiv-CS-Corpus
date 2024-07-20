@@ -1,0 +1,3 @@
+EffNet: An Efficient Structure for Convolutional Neural Networks
+
+With the ever increasing application of Convolutional Neural Networks to customer products the need emerges for models to efficiently run on embedded, mobile hardware. Slimmer models have therefore become a hot research topic with various approaches which vary from binary networks to revised convolution layers. We offer our contribution to the latter and propose a novel convolution block which significantly reduces the computational burden while surpassing the current state-of-the-art. Our model, dubbed EffNet, is optimised for models which are slim to begin with and is created to tackle issues in existing models such as MobileNet and ShuffleNet.

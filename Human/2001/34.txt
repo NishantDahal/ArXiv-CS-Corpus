@@ -1,0 +1,3 @@
+Automatic Differentiation Tools in Optimization Software
+
+We discuss the role of automatic differentiation tools in optimization software. We emphasize issues that are important to large-scale optimization and that have proved useful in the installation of nonlinear solvers in the NEOS Server. Our discussion centers on the computation of the gradient and Hessian matrix for partially separable functions and shows that the gradient and Hessian matrix can be computed with guaranteed bounds in time and memory requirements

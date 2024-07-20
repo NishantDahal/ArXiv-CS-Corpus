@@ -1,0 +1,3 @@
+Extended Connectors: Structuring Glue Operators in BIP
+
+Based on a variation of the BIP operational semantics using the offer predicate introduced in our previous work, we extend the algebras used to model glue operators in BIP to encompass priorities. This extension uses the Algebra of Causal Interaction Trees, T(P), as a pivot: existing transformations automatically provide the extensions for the Algebra of Connectors. We then extend the axiomatisation of T(P), since the equivalence induced by the new operational semantics is weaker than that induced by the interaction semantics. This extension leads to canonical normal forms for all structures and to a simplification of the algorithm for the synthesis of connectors from Boolean coordination constraints.

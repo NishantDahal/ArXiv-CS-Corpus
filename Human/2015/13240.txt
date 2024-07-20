@@ -1,0 +1,3 @@
+Hilbert-Post completeness for the state and the exception effects
+
+In this paper, we present a novel framework for studying the syntactic completeness of computational effects and we apply it to the exception effect. When applied to the states effect, our framework can be seen as a generalization of Pretnar's work on this subject. We first introduce a relative notion of Hilbert-Post completeness, well-suited to the composition of effects. Then we prove that the exception effect is relatively Hilbert-Post complete, as well as the "core" language which may be used for implementing it; these proofs have been formalized and checked with the proof assistant Coq.

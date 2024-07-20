@@ -1,0 +1,3 @@
+Genetic Algorithms for Evolving Computer Chess Programs
+
+This paper demonstrates the use of genetic algorithms for evolving: 1) a grandmaster-level evaluation function, and 2) a search mechanism for a chess program, the parameter values of which are initialized randomly. The evaluation function of the program is evolved by learning from databases of (human) grandmaster games. At first, the organisms are evolved to mimic the behavior of human grandmasters, and then these organisms are further improved upon by means of coevolution. The search mechanism is evolved by learning from tactical test suites. Our results show that the evolved program outperforms a two-time world computer chess champion and is at par with the other leading computer chess programs.

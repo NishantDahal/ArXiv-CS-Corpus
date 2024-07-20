@@ -1,0 +1,3 @@
+Online Constrained Forest and Prize-Collecting Network Design
+
+In this paper, we study a very general type of online network design problem, and generalize two different previous algorithms, one for an online network design problem due to Berman and Coulston [4] and one for (offline) general network design problems due to Goemans and Williamson [9]; we give an O(log k)-competitive algorithm, where k is the number of nodes that must be connected. We also consider a further generalization of the problem that allows us to pay penalties in exchange for violating connectivity constraints; we give an online O(log k)-competitive algorithm for this case as well.

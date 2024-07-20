@@ -1,0 +1,3 @@
+Almost Optimal Distance Oracles for Planar Graphs
+
+We present new tradeoffs between space and query-time for exact distance oracles in directed weighted planar graphs. These tradeoffs are almost optimal in the sense that they are within polylogarithmic, sub-polynomial or arbitrarily small polynomial factors from the naïve linear space, constant query-time lower bound. These tradeoffs include: (i) an oracle with space $\tilde{O}(n^{1+ε})$ and query-time $\tilde{O}(1)$ for any constant $ε>0$, (ii) an oracle with space $\tilde{O}(n)$ and query-time $\tilde{O}(n^ε)$ for any constant $ε>0$, and (iii) an oracle with space $n^{1+o(1)}$ and query-time $n^{o(1)}$.

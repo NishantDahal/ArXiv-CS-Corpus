@@ -1,0 +1,3 @@
+Extremal eigenvalues of local Hamiltonians
+
+We apply classical algorithms for approximately solving constraint satisfaction problems to find bounds on extremal eigenvalues of local Hamiltonians. We consider spin Hamiltonians for which we have an upper bound on the number of terms in which each spin participates, and find extensive bounds for the operator norm and ground-state energy of such Hamiltonians under this constraint. In each case the bound is achieved by a product state which can be found efficiently using a classical algorithm.

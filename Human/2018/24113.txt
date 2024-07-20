@@ -1,0 +1,3 @@
+A Network Topology Approach to Bot Classification
+
+Automated social agents, or bots, are increasingly becoming a problem on social media platforms. There is a growing body of literature and multiple tools to aid in the detection of such agents on online social networking platforms. We propose that the social network topology of a user would be sufficient to determine whether the user is a automated agent or a human. To test this, we use a publicly available dataset containing users on Twitter labelled as either automated social agent or human. Using an unsupervised machine learning approach, we obtain a detection accuracy rate of 70%.

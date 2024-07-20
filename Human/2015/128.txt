@@ -1,0 +1,3 @@
+Spatially-Coupled MacKay-Neal Codes Universally Achieve the Symmetric Information Rate of Arbitrary Generalized Erasure Channels with Memory
+
+This paper investigates the belief propagation decoding of spatially-coupled MacKay-Neal (SC-MN) codes over erasure channels with memory. We show that SC-MN codes with bounded degree universally achieve the symmetric information rate (SIR) of arbitrary erasure channels with memory. We mean by universality the following sense: the sender does not need to know the whole channel statistics but needs to know only the SIR, while the receiver estimates the transmitted codewords from channel statistics and received words. The proof is based on potential function.

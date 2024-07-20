@@ -1,0 +1,3 @@
+Several AES Variants under VHDL language In FPGA
+
+This paper provides four different architectures for encrypting and decrypting 128 bit information via the AES. The encryption algorithm includes the Key Expansion module which generates Key for all iterations on the fly, Double AEStwo-key triple AES, AESX and AES-EXE. These architectures are implemented and studied in Altera Cyclone III and STRATIX Family devices.

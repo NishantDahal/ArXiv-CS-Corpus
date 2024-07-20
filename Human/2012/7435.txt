@@ -1,0 +1,3 @@
+Minimum weight spanning trees of weighted scale free networks
+
+In this lecture we will consider the minimum weight spanning tree (MST) problem, i.e., one of the simplest and most vital combinatorial optimization problems. We will discuss a particular greedy algorithm that allows to compute a MST for undirected weighted graphs, namely Kruskal's algorithm, and we will study the structure of MSTs obtained for weighted scale free random graphs. This is meant to clarify whether the structure of MSTs is sensitive to correlations between edge weights and topology of the underlying scale free graphs.

@@ -1,0 +1,3 @@
+Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion
+
+We present our preliminary work to determine if patient's vocal acoustic, linguistic, and facial patterns could predict clinical ratings of depression severity, namely Patient Health Questionnaire depression scale (PHQ-8). We proposed a multi modal fusion model that combines three different modalities: audio, video , and text features. By training over AVEC 2017 data set, our proposed model outperforms each single modality prediction model, and surpasses the data set baseline with ice margin.

@@ -1,0 +1,3 @@
+Type homogeneity is not a restriction for safe recursion schemes
+
+Knapik et al. introduced the safety restriction which constrains both the types and syntax of the production rules defining a higher-order recursion scheme. This restriction gives rise to an equi-expressivity result between order-n pushdown automata and order-n safe recursion schemes, when such devices are used as tree generators. We show that the typing constraint of safety, called homogeneity, is unnecessary in the sense that imposing the syntactic restriction alone is sufficient to prove the equi-expressivity result for trees.

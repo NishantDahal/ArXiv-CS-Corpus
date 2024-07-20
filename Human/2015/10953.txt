@@ -1,0 +1,8 @@
+Quantum Query Complexity of Subgraph Isomorphism and Homomorphism
+
+Let $H$ be a fixed graph on $n$ vertices. Let $f_H(G) = 1$ iff the input graph $G$ on $n$ vertices contains $H$ as a (not necessarily induced) subgraph. Let $α_H$ denote the cardinality of a maximum independent set of $H$. In this paper we show:
+  \[Q(f_H) = Ω\left(\sqrt{α_H \cdot n}\right),\] where $Q(f_H)$ denotes the quantum query complexity of $f_H$.
+  As a consequence we obtain a lower bounds for $Q(f_H)$ in terms of several other parameters of $H$ such as the average degree, minimum vertex cover, chromatic number, and the critical probability.
+  We also use the above bound to show that $Q(f_H) = Ω(n^{3/4})$ for any $H$, improving on the previously best known bound of $Ω(n^{2/3})$. Until very recently, it was believed that the quantum query complexity is at least square root of the randomized one. Our $Ω(n^{3/4})$ bound for $Q(f_H)$ matches the square root of the current best known bound for the randomized query complexity of $f_H$, which is $Ω(n^{3/2})$ due to Gröger. Interestingly, the randomized bound of $Ω(α_H \cdot n)$ for $f_H$ still remains open.
+  We also study the Subgraph Homomorphism Problem, denoted by $f_{[H]}$, and show that $Q(f_{[H]}) = Ω(n)$.
+  Finally we extend our results to the $3$-uniform hypergraphs. In particular, we show an $Ω(n^{4/5})$ bound for quantum query complexity of the Subgraph Isomorphism, improving on the previously known $Ω(n^{3/4})$ bound. For the Subgraph Homomorphism, we obtain an $Ω(n^{3/2})$ bound for the same.

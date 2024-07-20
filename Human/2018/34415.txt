@@ -1,0 +1,3 @@
+Analytic heuristics for a fast DSC-MRI
+
+In this paper we propose a deterministic approach for the reconstruction of Dynamic Susceptibility Contrast magnetic resonance imaging data and compare it with the compressed sensing solution existing in the literature for the same problem. Our study is based on the mathematical analysis of the problem, which is computationally intractable because of its non polynomial complexity, but suggests simple heuristics that perform quite well. We give results on real images and on artificial phantoms with added noise.

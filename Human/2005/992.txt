@@ -1,0 +1,3 @@
+Timed Analysis of Security Protocols
+
+We propose a method for engineering security protocols that are aware of timing aspects. We study a simplified version of the well-known Needham Schroeder protocol and the complete Yahalom protocol, where timing information allows the study of different attack scenarios. We model check the protocols using UPPAAL. Further, a taxonomy is obtained by studying and categorising protocols from the well known Clark Jacob library and the Security Protocol Open Repository (SPORE) library. Finally, we present some new challenges and threats that arise when considering time in the analysis, by providing a novel protocol that uses time challenges and exposing a timing attack over an implementation of an existing security protocol.

@@ -1,0 +1,3 @@
+High-Performance Pseudo-Random Number Generation on Graphics Processing Units
+
+This work considers the deployment of pseudo-random number generators (PRNGs) on graphics processing units (GPUs), developing an approach based on the xorgens generator to rapidly produce pseudo-random numbers of high statistical quality. The chosen algorithm has configurable state size and period, making it ideal for tuning to the GPU architecture. We present a comparison of both speed and statistical quality with other common parallel, GPU-based PRNGs, demonstrating favourable performance of the xorgens-based approach.

@@ -1,0 +1,3 @@
+Out-of-Band Radiation from Antenna Arrays Clarified
+
+Non-linearities in radio-frequency (RF) transceiver hardware, particularly in power amplifiers, cause distortion in-band and out-of-band. Contrary to claims made in recent literature, in a multiple-antenna system this distortion is correlated across the antennas in the array. A significant implication of this fact is that out-of-band emissions caused by non-linearities are beamformed, in some cases into the same direction as the useful signal.

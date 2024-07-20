@@ -1,0 +1,3 @@
+Busy beavers and Kolmogorov complexity
+
+The idea to find the "maximal number that can be named" can be traced back to Archimedes (see his Psammit). From the viewpoint of computation theory the natural question is "which number can be described by at most n bits"? This question led to the definition of the so-called "busy beaver" numbers (introduced by T. Rado). In this note we consider different versions of the busy beaver-like notions defined in terms of Kolmogorov complexity. We show that these versions differ depending on the version of complexity used (plain, prefix, or a priori complexities) and find out how these notions are related, providing matching lower and upper bounds.

@@ -1,0 +1,3 @@
+HRTF-based Robust Least-Squares Frequency-Invariant Polynomial Beamforming
+
+In this work, we propose a robust Head-Related Transfer Function (HRTF)-based polynomial beamformer design which accounts for the influence of a humanoid robot's head on the sound field. In addition, it allows for a flexible steering of our previously proposed robust HRTF-based beamformer design. We evaluate the HRTF-based polynomial beamformer design and compare it to the original HRTF-based beamformer design by means of signal-independent measures as well as word error rates of an off-the-shelf speech recognition system. Our results confirm the effectiveness of the polynomial beamformer design, which makes it a promising approach to robust beamforming for robot audition.

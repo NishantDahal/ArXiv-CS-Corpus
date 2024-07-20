@@ -1,0 +1,3 @@
+IKA: Independent Kernel Approximator
+
+This paper describes a new method for low rank kernel approximation called IKA. The main advantage of IKA is that it produces a function $ψ(x)$ defined as a linear combination of arbitrarily chosen functions. In contrast the approximation produced by Nyström method is a linear combination of kernel evaluations. The proposed method consistently outperformed Nyström method in a comparison on the STL-10 dataset. Numerical results are reproducible using the source code available at https://gitlab.com/matteo-ronchetti/IKA

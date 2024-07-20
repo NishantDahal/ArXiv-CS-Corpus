@@ -1,0 +1,3 @@
+Large Scale Artificial Neural Network Training Using Multi-GPUs
+
+This paper describes a method for accelerating large scale Artificial Neural Networks (ANN) training using multi-GPUs by reducing the forward and backward passes to matrix multiplication. We propose an out-of-core multi-GPU matrix multiplication and integrate the algorithm with the ANN training. The experiments demonstrate that our matrix multiplication algorithm achieves linear speedup on multiple inhomogeneous GPUs. The full paper of this project can be found at [1].

@@ -1,0 +1,3 @@
+Riemann Tensor Polynomial Canonicalization by Graph Algebra Extension
+
+Tensor expression simplification is an "ancient" topic in computer algebra, a representative of which is the canonicalization of Riemann tensor polynomials. Practically fast algorithms exist for monoterm canonicalization, but not for multiterm canonicalization. Targeting the multiterm difficulty, in this paper we establish the extension theory of graph algebra, and propose a canonicalization algorithm for Riemann tensor polynomials based on this theory.

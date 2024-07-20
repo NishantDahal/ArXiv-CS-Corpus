@@ -1,0 +1,3 @@
+Users prefer Guetzli JPEG over same-sized libjpeg
+
+We report on pairwise comparisons by human raters of JPEG images from libjpeg and our new Guetzli encoder. Although both files are size-matched, 75% of ratings are in favor of Guetzli. This implies the Butteraugli psychovisual image similarity metric which guides Guetzli is reasonably close to human perception at high quality levels. We provide access to the raw ratings and source images for further analysis and study.

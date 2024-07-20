@@ -1,0 +1,3 @@
+On the dimension of twisted centralizer codes
+
+Given a field $F$, a scalar $λ\in F$ and a matrix $A\in F^{n\times n}$, the twisted centralizer code $C_F(A,λ):=\{B\in F^{n\times n}\mid AB-λBA=0\}$ is a linear code of length $n^2$. When $A$ is cyclic and $λ\ne0$ we prove that $\dim C_F(A,λ)=\mathrm{deg}(\gcd(c_A(t),λ^n c_A(λ^{-1}t)))$ where $c_A(t)$ denotes the characteristic polynomial of $A$. We also show how $C_F(A,λ)$ decomposes, and we estimate the probability that $C_F(A,λ)$ is nonzero when $|F|$ is finite. Finally, we prove $\dim C_F(A,λ)\leqslant n^2/2$ for $λ\not\in\{0,1\}$ and `almost all' matrices $A$.

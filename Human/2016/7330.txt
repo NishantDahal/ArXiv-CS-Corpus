@@ -1,0 +1,3 @@
+From Sazonov's Non-Dcpo Natural Domains to Closed Directed-Lub Partial Orders
+
+Normann proved that the domains of the game model of PCF (the domains of sequential functionals) need not be dcpos. Sazonov has defined natural domains for a theory of such incomplete domains. This paper further develops that theory. It defines lub-rules that infer natural lubs from existing natural lubs, and lub-rule classes that describe axiom systems like that of natural domains. There is a canonical proper subcategory of the natural domains, the closed directed lub partial orders (cdlubpo), that corresponds to the complete lub-rule class of all valid lub-rules. Cdlubpos can be completed to restricted dcpos, which are dcpos that retain the data of the incomplete cdlubpo as a subset.

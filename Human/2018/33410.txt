@@ -1,0 +1,3 @@
+Derivation of an Algorithm for Calculation of the Intersection Area of a Circle with a Grid with Finite Fill Factor
+
+The problem deals with an exact calculation of the intersection area of a circle arbitrary placed on a grid of square shaped elements with gaps between them (finite fill factor). Usually an approximation is used for the calculation of the intersection area of the circle and the squares of the grid. We analyze the geometry of the problem and derive an algorithm for the exact computation of the intersection areas. The results of the analysis are summarized in the tally sheet. In a real world example this might be a CCD or CMOS chip, or the tile structure of a floor.

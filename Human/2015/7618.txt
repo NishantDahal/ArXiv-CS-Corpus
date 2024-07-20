@@ -1,0 +1,3 @@
+Hierarchical structure-and-motion recovery from uncalibrated images
+
+This paper addresses the structure-and-motion problem, that requires to find camera motion and 3D struc- ture from point matches. A new pipeline, dubbed Samantha, is presented, that departs from the prevailing sequential paradigm and embraces instead a hierarchical approach. This method has several advantages, like a provably lower computational complexity, which is necessary to achieve true scalability, and better error containment, leading to more stability and less drift. Moreover, a practical autocalibration procedure allows to process images without ancillary information. Experiments with real data assess the accuracy and the computational efficiency of the method.

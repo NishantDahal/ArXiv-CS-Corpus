@@ -1,0 +1,3 @@
+Sharp bounds for population recovery
+
+The population recovery problem is a basic problem in noisy unsupervised learning that has attracted significant research attention in recent years [WY12,DRWY12, MS13, BIMP13, LZ15,DST16]. A number of different variants of this problem have been studied, often under assumptions on the unknown distribution (such as that it has restricted support size). In this work we study the sample complexity and algorithmic complexity of the most general version of the problem, under both bit-flip noise and erasure noise model. We give essentially matching upper and lower sample complexity bounds for both noise models, and efficient algorithms matching these sample complexity bounds up to polynomial factors.

@@ -1,0 +1,3 @@
+Faster polynomial multiplication over finite fields
+
+Let p be a prime, and let M_p(n) denote the bit complexity of multiplying two polynomials in F_p[X] of degree less than n. For n large compared to p, we establish the bound M_p(n) = O(n log n 8^(log^* n) log p), where log^* is the iterated logarithm. This is the first known Fürer-type complexity bound for F_p[X], and improves on the previously best known bound M_p(n) = O(n log n log log n log p).

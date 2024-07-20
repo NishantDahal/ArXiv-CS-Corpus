@@ -1,0 +1,3 @@
+Predecessor problem on smooth distributions
+
+We follow a research thread studying the predecessor problem on "smooth" distribution families. We propose a conceptually simpler solution utilizing well-known results from much better studied variant of the problem that assumes nothing about the input. As a side effect, we are able to extend the range of handled input distributions for the most studied case needing expected $\mathcal O(\log \log n)$ time, and we provide better insight into why the related methods are faster on smooth inputs.

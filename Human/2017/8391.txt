@@ -1,0 +1,3 @@
+New Variants of Pattern Matching with Constants and Variables
+
+Given a text and a pattern over two types of symbols called constants and variables, the parameterized pattern matching problem is to find all occurrences of substrings of the text that the pattern matches by substituting a variable in the text for each variable in the pattern, where the substitution should be injective. The function matching problem is a variant of it that lifts the injection constraint. In this paper, we discuss variants of those problems, where one can substitute a constant or a variable for each variable of the pattern. We give two kinds of algorithms for both problems, a convolution-based method and an extended KMP-based method, and analyze their complexity.

@@ -1,0 +1,3 @@
+MACE 2.0 Reference Manual and Guide
+
+MACE is a program that searches for finite models of first-order statements. The statement to be modeled is first translated to clauses, then to relational clauses; finally for the given domain size, the ground instances are constructed. A Davis-Putnam-Loveland-Logeman procedure decides the propositional problem, and any models found are translated to first-order models. MACE is a useful complement to the theorem prover Otter, with Otter searching for proofs and MACE looking for countermodels.

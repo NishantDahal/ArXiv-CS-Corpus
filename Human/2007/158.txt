@@ -1,0 +1,3 @@
+Diagonal Peg Solitaire
+
+We study the classical game of peg solitaire when diagonal jumps are allowed. We prove that on many boards, one can begin from a full board with one peg missing, and finish with one peg anywhere on the board. We then consider the problem of finding solutions that minimize the number of moves (where a move is one or more jumps by the same peg), and find the shortest solution to the "central game", which begins and ends at the center. In some cases we can prove analytically that our solutions are the shortest possible, in other cases we apply A* or bidirectional search heuristics.

@@ -1,0 +1,3 @@
+e-Counterfeit: a mobile-server platform for document counterfeit detection
+
+This paper presents a novel application to detect counterfeit identity documents forged by a scan-printing operation. Texture analysis approaches are proposed to extract validation features from security background that is usually printed in documents as IDs or banknotes. The main contribution of this work is the end-to-end mobile-server architecture, which provides a service for non-expert users and therefore can be used in several scenarios. The system also provides a crowdsourcing mode so labeled images can be gathered, generating databases for incremental training of the algorithms.

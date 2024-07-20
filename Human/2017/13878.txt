@@ -1,0 +1,3 @@
+Constraint Handling Rules with Binders, Patterns and Generic Quantification
+
+Constraint Handling Rules provide descriptions for constraint solvers. However, they fall short when those constraints specify some binding structure, like higher-rank types in a constraint-based type inference algorithm. In this paper, the term syntax of constraints is replaced by $λ$-tree syntax, in which binding is explicit; and a new $\nabla$ generic quantifier is introduced, which is used to create new fresh constants.

@@ -1,0 +1,3 @@
+Alternative Characterizations for Strong Equivalence of Logic Programs
+
+In this work we present additional results related to the property of strong equivalence of logic programs. This property asserts that two programs share the same set of stable models, even under the addition of new rules. As shown in a recent work by Lifschitz, Pearce and Valverde, strong equivalence can be simply reduced to equivalence in the logic of Here-and-There (HT). In this paper we provide two alternatives respectively based on classical logic and 3-valued logic. The former is applicable to general rules, but not for nested expressions, whereas the latter is applicable for nested expressions but, when moving to an unrestricted syntax, it generally yields different results from HT.

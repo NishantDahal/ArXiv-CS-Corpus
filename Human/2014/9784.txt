@@ -1,0 +1,3 @@
+Ctrax extensions for tracking in difficult lighting conditions
+
+The fly tracking software Ctrax by Branson et al. is popular for positional tracking of animals both within and beyond the fly community. Ctrax was not designed to handle tracking in difficult lighting conditions with strong shadows or recurring "on"/"off" changes in lighting - a condition that will likely become increasingly common due to the advent of red-shifted channelrhodopsin. We describe Ctrax extensions we developed that address this problem. The extensions enabled good tracking accuracy in three types of difficult lighting conditions in our lab. Our technique handling shadows relies on "single animal tracking"; the other techniques should be widely applicable.

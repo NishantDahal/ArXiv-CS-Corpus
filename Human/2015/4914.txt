@@ -1,0 +1,3 @@
+Learning to Recognize Pedestrian Attribute
+
+Learning to recognize pedestrian attributes at far distance is a challenging problem in visual surveillance since face and body close-shots are hardly available; instead, only far-view image frames of pedestrian are given. In this study, we present an alternative approach that exploits the context of neighboring pedestrian images for improved attribute inference compared to the conventional SVM-based method. In addition, we conduct extensive experiments to evaluate the informativeness of background and foreground features for attribute recognition. Experiments are based on our newly released pedestrian attribute dataset, which is by far the largest and most diverse of its kind.

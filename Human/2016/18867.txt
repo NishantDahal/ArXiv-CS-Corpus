@@ -1,0 +1,3 @@
+A Randomized Rounding Algorithm for Sparse PCA
+
+We present and analyze a simple, two-step algorithm to approximate the optimal solution of the sparse PCA problem. Our approach first solves a L1 penalized version of the NP-hard sparse PCA optimization problem and then uses a randomized rounding strategy to sparsify the resulting dense solution. Our main theoretical result guarantees an additive error approximation and provides a tradeoff between sparsity and accuracy. Our experimental evaluation indicates that our approach is competitive in practice, even compared to state-of-the-art toolboxes such as Spasm.

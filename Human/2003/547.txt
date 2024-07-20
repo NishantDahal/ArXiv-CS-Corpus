@@ -1,0 +1,3 @@
+The combinatorics of resource sharing
+
+We discuss general models of resource-sharing computations, with emphasis on the combinatorial structures and concepts that underlie the various deadlock models that have been proposed, the design of algorithms and deadlock-handling policies, and concurrency issues. These structures are mostly graph-theoretic in nature, or partially ordered sets for the establishment of priorities among processes and acquisition orders on resources. We also discuss graph-coloring concepts as they relate to resource sharing.

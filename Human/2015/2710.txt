@@ -1,0 +1,4 @@
+Factorization in Formal Languages
+
+We consider several novel aspects of unique factorization in formal languages. We reprove the familiar fact that the set uf(L) of words having unique factorization into elements of L is regular if L is regular, and from this deduce an quadratic upper and lower bound on the length of the shortest word not in uf(L). We observe that uf(L) need not be context-free if L is context-free.
+  Next, we consider variations on unique factorization. We define a notion of "semi-unique" factorization, where every factorization has the same number of terms, and show that, if L is regular or even finite, the set of words having such a factorization need not be context-free. Finally, we consider additional variations, such as unique factorization "up to permutation" and "up to subset".

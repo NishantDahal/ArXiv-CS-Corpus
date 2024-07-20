@@ -1,0 +1,3 @@
+A Local Regret in Nonconvex Online Learning
+
+We consider an online learning process to forecast a sequence of outcomes for nonconvex models. A typical measure to evaluate online learning algorithms is regret but such standard definition of regret is intractable for nonconvex models even in offline settings. Hence, gradient based definition of regrets are common for both offline and online nonconvex problems. Recently, a notion of local gradient based regret was introduced. Inspired by the concept of calibration and a local gradient based regret, we introduce another definition of regret and we discuss why our definition is more interpretable for forecasting problems. We also provide bound analysis for our regret under certain assumptions.

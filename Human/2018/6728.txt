@@ -1,0 +1,3 @@
+Privacy Preserving Controller Synthesis via Belief Abstraction
+
+Privacy is a crucial concern in many systems in addition to their given tasks. We consider a new notion of privacy based on beliefs of the system states, which is closely related to opacity in discrete event systems. To guarantee the privacy requirement, we propose to abstract the belief space whose dynamics is shown to be mixed monotone where efficient abstraction algorithm exists. Based on the abstraction, we propose two different approaches to synthesize controllers of the system to preserve privacy with an illustrative example.

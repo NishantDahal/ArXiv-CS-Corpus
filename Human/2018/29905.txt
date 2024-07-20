@@ -1,0 +1,3 @@
+Maximal Entropy Reduction Algorithm for SAR ADC Clock Compression
+
+Reduction of comparison cycles leads to power savings of a successive-approximation-register (SAR) analog-to-digital converters (ADC). We establish that the lowest average number of comparison cycles of a SAR ADC approaches the entropy of the ADC output, and proposed a simple adaptive algorithm that approaches this lower bound. Today's SAR ADC uses binary search, which consumes more power than necessary for non-uniform input distributions commonly found in practice. We refer to a SAR ADC employing such algorithm the maximal entropy reduction (MER) ADC.

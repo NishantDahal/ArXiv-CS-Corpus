@@ -1,0 +1,3 @@
+Compliance in Real Time Multiset Rewriting Models
+
+The notion of compliance in Multiset Rewriting Models (MSR) has been introduced for untimed models and for models with discrete time. In this paper we revisit the notion of compliance and adapt it to fit with additional nondeterminism specific for dense time domains. Existing MSR with dense time are extended with critical configurations and non-critical traces, that is, traces involving no critical configurations. Complexity of related {\em non-critical reachability problem} is investigated. Although this problem is undecidable in general, we prove that for balanced MSR with dense time the non-critical reachability problem is PSPACE-complete.

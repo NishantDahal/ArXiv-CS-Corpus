@@ -1,0 +1,3 @@
+Mesure de la similarité entre termes et labels de concepts ontologiques
+
+We propose in this paper a method for measuring the similarity between ontological concepts and terms. Our metric can take into account not only the common words of two strings to compare but also other features such as the position of the words in these strings, or the number of deletion, insertion or replacement of words required for the construction of one of the two strings from each other. The proposed method was then used to determine the ontological concepts which are equivalent to the terms that qualify toponymes. It aims to find the topographical type of the toponyme.

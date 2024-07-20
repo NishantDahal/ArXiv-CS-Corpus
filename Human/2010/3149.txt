@@ -1,0 +1,3 @@
+Counting dependent and independent strings
+
+The paper gives estimations for the sizes of the the following sets: (1) the set of strings that have a given dependency with a fixed string, (2) the set of strings that are pairwise αindependent, (3) the set of strings that are mutually αindependent. The relevant definitions are as follows: C(x) is the Kolmogorov complexity of the string x. A string y has α-dependency with a string x if C(y) - C(y|x) \geq α. A set of strings {x_1, \ldots, x_t} is pairwise α-independent if for all i different from j, C(x_i) - C(x_i | x_j) \leq α. A tuple of strings (x_1, \ldots, x_t) is mutually α-independent if C(x_{π(1)} \ldots x_{π(t)}) \geq C(x_1) + \ldots + C(x_t) - α, for every permutation πof [t].

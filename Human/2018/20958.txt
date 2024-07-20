@@ -1,0 +1,3 @@
+CoBaR: Confidence-Based Recommender
+
+Neighborhood-based collaborative filtering algorithms usually adopt a fixed neighborhood size for every user or item, although groups of users or items may have different lengths depending on users' preferences. In this paper, we propose an extension to a non-personalized recommender based on confidence intervals and hierarchical clustering to generate groups of users with optimal sizes. The evaluation shows that the proposed technique outperformed the traditional recommender algorithms in four publicly available datasets.

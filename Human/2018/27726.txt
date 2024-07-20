@@ -1,0 +1,3 @@
+Time Protection: the Missing OS Abstraction
+
+Timing channels enable data leakage that threatens the security of computer systems, from cloud platforms to smartphones and browsers executing untrusted third-party code. Preventing unauthorised information flow is a core duty of the operating system, however, present OSes are unable to prevent timing channels. We argue that OSes must provide time protection in addition to the established memory protection. We examine the requirements of time protection, present a design and its implementation in the seL4 microkernel, and evaluate its efficacy as well as performance overhead on Arm and x86 processors.

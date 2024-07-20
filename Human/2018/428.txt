@@ -1,0 +1,5 @@
+DeepGestalt - Identifying Rare Genetic Syndromes Using Deep Learning
+
+Facial analysis technologies have recently measured up to the capabilities of expert clinicians in syndrome identification. To date, these technologies could only identify phenotypes of a few diseases, limiting their role in clinical settings where hundreds of diagnoses must be considered.
+  We developed a facial analysis framework, DeepGestalt, using computer vision and deep learning algorithms, that quantifies similarities to hundreds of genetic syndromes based on unconstrained 2D images. DeepGestalt is currently trained with over 26,000 patient cases from a rapidly growing phenotype-genotype database, consisting of tens of thousands of validated clinical cases, curated through a community-driven platform. DeepGestalt currently achieves 91% top-10-accuracy in identifying over 215 different genetic syndromes and has outperformed clinical experts in three separate experiments.
+  We suggest that this form of artificial intelligence is ready to support medical genetics in clinical and laboratory practices and will play a key role in the future of precision medicine.

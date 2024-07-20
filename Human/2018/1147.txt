@@ -1,0 +1,3 @@
+Adaptive Boolean Monotonicity Testing in Total Influence Time
+
+The problem of testing monotonicity of a Boolean function $f:\{0,1\}^n \to \{0,1\}$ has received much attention recently. Denoting the proximity parameter by $\varepsilon$, the best tester is the non-adaptive $\widetilde{O}(\sqrt{n}/\varepsilon^2)$ tester of Khot-Minzer-Safra (FOCS 2015). Let $I(f)$ denote the total influence of $f$. We give an adaptive tester whose running time is $I(f)poly(\varepsilon^{-1}\log n)$.

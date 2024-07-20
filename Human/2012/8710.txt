@@ -1,0 +1,3 @@
+Symbolic Representation of Algorithmic Game Semantics
+
+In this paper we revisit the regular-language representation of game semantics of second-order recursion free Idealized Algol with infinite data types. By using symbolic values instead of concrete ones  we generalize the standard notion of regular-language and automata representations to that of corresponding symbolic representations. In this way terms with infinite data types, such as integers, can be expressed as finite symbolic-automata although the standard automata interpretation is infinite. Moreover, significant reductions of the state space of game semantics models are obtained. This enables efficient verification of terms, which is illustrated with several examples.

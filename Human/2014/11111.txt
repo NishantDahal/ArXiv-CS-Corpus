@@ -1,0 +1,3 @@
+A unified approach to linear probing hashing with buckets
+
+We give a unified analysis of linear probing hashing with a general bucket size. We use both a combinatorial approach, giving exact formulas for generating functions, and a probabilistic approach, giving simple derivations of asymptotic results. Both approaches complement nicely, and give a good insight in the relation between linear probing and random walks. A key methodological contribution, at the core of Analytic Combinatorics, is the use of the symbolic method (based on q-calculus) to directly derive the generating functions to analyze.

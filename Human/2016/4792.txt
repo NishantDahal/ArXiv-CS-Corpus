@@ -1,0 +1,5 @@
+Causal Linearizability
+
+Most work on the verification of concurrent objects for shared memory assumes sequential consistency, but most multicore processors support only weak memory models that do not provide sequential consistency. Furthermore, most verification efforts focus on the linearizability of concurrent objects, but there are existing implementations optimized to run on weak memory models that are not linearizable.
+  In this paper, we address these problems by introducing causal linearizability, a correctness condition for concurrent objects running on weak memory models. Like linearizability itself, causal linearizability enables concurrent objects to be composed, under weak constraints on the client's behaviour. We specify these constraints by introducing a notion of operation-race freedom, where programs that satisfy this property are guaranteed to behave as if their shared objects were in fact linearizable.
+  We apply these ideas to objects from the Linux kernel, optimized to run on TSO, the memory model of the x86 processor family.

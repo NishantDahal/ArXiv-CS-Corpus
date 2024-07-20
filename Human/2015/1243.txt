@@ -1,0 +1,3 @@
+Distributed Diagnosability Analysis with Petri Nets
+
+We propose a framework to distributed diagnos- ability analysis of concurrent systems modeled with Petri nets as a collection of components synchronizing on common observable transitions, where faults can occur in several components. The diagnosability analysis of the entire system is done in parallel by verifying the interaction of each component with the fault free versions of the other components. Furthermore, we use existing efficient methods and tools, in particular parallel LTL-X model checking based on unfoldings, for diagnosability verification.

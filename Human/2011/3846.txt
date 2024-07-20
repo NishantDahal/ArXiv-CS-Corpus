@@ -1,0 +1,3 @@
+Snake-in-the-Box Codes for Rank Modulation
+
+Motivated by the rank-modulation scheme with applications to flash memory, we consider Gray codes capable of detecting a single error, also known as snake-in-the-box codes. We study two error metrics: Kendall's $τ$-metric, which applies to charge-constrained errors, and the $\ell_\infty$-metric, which is useful in the case of limited magnitude errors. In both cases we construct snake-in-the-box codes with rate asymptotically tending to 1. We also provide efficient successor-calculation functions, as well as ranking and unranking functions. Finally, we also study bounds on the parameters of such codes.

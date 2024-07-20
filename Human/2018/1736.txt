@@ -1,0 +1,3 @@
+A Simple Algorithm for Computing a Cycle Separator
+
+We present a linear time algorithm for computing a cycle separator in a planar graph that is (arguably) simpler than previously known algorithms. Our algorithm builds on, and is somewhat similar to, previous algorithms for computing separators. The main new ingredient is a specific layered decomposition of the planar graph constructed differently from previous BFS-based layerings.

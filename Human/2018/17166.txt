@@ -1,0 +1,4 @@
+A Hybrid Quantum-Classical Paradigm to Mitigate Embedding Costs in Quantum Annealing---Abridged Version
+
+Quantum annealing has shown significant potential as an approach to near-term quantum computing. Despite promising progress towards obtaining a quantum speedup, quantum annealers are limited by the need to embed problem instances within the (often highly restricted) connectivity graph of the annealer. This embedding can be costly to perform and may destroy any computational speedup. Here we present a hybrid quantum-classical paradigm to help mitigate this limitation, and show how a raw speedup that is negated by the embedding time can nonetheless be exploited in certain circumstances. We illustrate this approach with initial results on a proof-of-concept implementation of an algorithm for the dynamically weighted maximum independent set problem.
+

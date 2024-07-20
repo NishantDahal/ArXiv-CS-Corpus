@@ -1,0 +1,3 @@
+Path planning with Inventory-driven Jump-Point-Search
+
+In many navigational domains the traversability of cells is conditioned on the path taken. This is often the case in video-games, in which a character may need to acquire a certain object (i.e., a key or a flying suit) to be able to traverse specific locations (e.g., doors or high walls). In order for non-player characters to handle such scenarios we present invJPS, an "inventory-driven" pathfinding approach based on the highly successful grid-based Jump-Point-Search (JPS) algorithm. We show, formally and experimentally, that the invJPS preserves JPS's optimality guarantees and its symmetry breaking advantages in inventory-based variants of game maps.

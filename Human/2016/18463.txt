@@ -1,0 +1,3 @@
+Compact Linearization for Binary Quadratic Problems subject to Assignment Constraints
+
+We prove new necessary and sufficient conditions to carry out a compact linearization approach for a general class of binary quadratic problems subject to assignment constraints as it has been proposed by Liberti in 2007. The new conditions resolve inconsistencies that can occur when the original method is used. We also present a mixed-integer linear program to compute a minimally-sized linearization. When all the assignment constraints have non-overlapping variable support, this program is shown to have a totally unimodular constraint matrix. Finally, we give a polynomial-time combinatorial algorithm that is exact in this case and can still be used as a heuristic otherwise.

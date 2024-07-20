@@ -1,0 +1,3 @@
+Sorting with Recurrent Comparison Errors
+
+We present a sorting algorithm for the case of recurrent random comparison errors. The algorithm essentially achieves simultaneously good properties of previous algorithms for sorting $n$ distinct elements in this model. In particular, it runs in $O(n^2)$ time, the maximum dislocation of the elements in the output is $O(\log n)$, while the total dislocation is $O(n)$. These guarantees are the best possible since we prove that even randomized algorithms cannot achieve $o(\log n)$ maximum dislocation with high probability, or $o(n)$ total dislocation in expectation, regardless of their running time.

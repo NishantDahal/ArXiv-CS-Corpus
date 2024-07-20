@@ -1,0 +1,3 @@
+Regret Analysis of the Finite-Horizon Gittins Index Strategy for Multi-Armed Bandits
+
+I analyse the frequentist regret of the famous Gittins index strategy for multi-armed bandits with Gaussian noise and a finite horizon. Remarkably it turns out that this approach leads to finite-time regret guarantees comparable to those available for the popular UCB algorithm. Along the way I derive finite-time bounds on the Gittins index that are asymptotically exact and may be of independent interest. I also discuss some computational issues and present experimental results suggesting that a particular version of the Gittins index strategy is a modest improvement on existing algorithms with finite-time regret guarantees such as UCB and Thompson sampling.

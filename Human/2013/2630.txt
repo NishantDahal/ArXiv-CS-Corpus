@@ -1,0 +1,4 @@
+A weak HOAS approach to the POPLmark Challenge
+
+Capitalizing on previous encodings and formal developments about nominal calculi and type systems, we propose a weak Higher-Order Abstract Syntax formalization of the type language of pure System F<: within Coq, a proof assistant based on the Calculus of Inductive Constructions.
+  Our encoding allows us to accomplish the proof of the transitivity property of algorithmic subtyping, which is in fact the first of the three tasks stated by the POPLmark Challenge, a set of problems that capture the most critical issues in formalizing programming language metatheory.

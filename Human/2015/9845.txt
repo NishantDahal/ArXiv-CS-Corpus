@@ -1,0 +1,7 @@
+The odd Hadwiger's conjecture is "almost'' decidable
+
+The odd Hadwiger's conjecture, made by Gerads and Seymour in early 1990s, is an analogue of the famous Hadwiger's conjecture. It says that every graph with no odd $K_t$-minor is $(t-1)$-colorable. This conjecture is known to be true for $t \leq 5$, but the cases $t \geq 5$ are wide open. So far, the most general result says that every graph with no odd $K_t$-minor is $O(t \sqrt{\log t})$-colorable.
+  In this paper, we tackle this conjecture from an algorithmic view, and show the following:
+  For a given graph $G$ and any fixed $t$, there is a polynomial time algorithm to output one of the following:
+  \begin{enumerate} \item a $(t-1)$-coloring of $G$, or \item an odd $K_{t}$-minor of $G$, or \item after making all "reductions" to $G$, the resulting graph $H$ (which is an odd minor of $G$ and which has no reductions) has a tree-decomposition $(T, Y)$ such that torso of each bag $Y_t$ is either \begin{itemize} \item of size at most $f_1(t) \log n$ for some function $f_1$ of $t$, or \item a graph that has a vertex $X$ of order at most $f_2(t)$ for some function $f_2$ of $t$ such that $Y_t-X$ is bipartite. Moreover, degree of $t$ in $T$ is at most $f_3(t)$ for some function $f_3$ of $t$. \end{itemize} \end{enumerate}
+  Let us observe that the last odd minor $H$ is indeed a minimal counterexample to the odd Hadwiger's conjecture for the case $t$. So our result says that a minimal counterexample satisfies the lsat conclusion.

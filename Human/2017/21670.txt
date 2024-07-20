@@ -1,0 +1,3 @@
+Polar Codes and Polar Lattices for the Heegard-Berger Problem
+
+Explicit coding schemes are proposed to achieve the rate-distortion function of the Heegard-Berger problem using polar codes. Specifically, a nested polar code construction is employed to achieve the rate-distortion function for the doubly-symmetric binary sources when the side information may be absent. The nested structure contains two optimal polar codes for lossy source coding and channel coding, respectively. Moreover, a similar nested polar lattice construction is employed when the source and the side information are jointly Gaussian. The proposed polar lattice is constructed by nesting a quantization polar lattice and a capacity-achieving polar lattice for the additive white Gaussian noise channel.

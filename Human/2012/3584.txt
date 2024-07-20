@@ -1,0 +1,3 @@
+Optimal Weights Mixed Filter for Removing Mixture of Gaussian and Impulse Noises
+
+According to the character of Gaussian, we modify the Rank-Ordered Absolute Differences (ROAD) to Rank-Ordered Absolute Differences of mixture of Gaussian and impulse noises (ROADG). It will be more effective to detect impulse noise when the impulse is mixed with Gaussian noise. Combining rightly the ROADG with Optimal Weights Filter (OWF), we obtain a new method to deal with the mixed noise, called Optimal Weights Mixed Filter (OWMF). The simulation results show that the method is effective to remove the mixed noise.

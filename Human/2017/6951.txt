@@ -1,0 +1,3 @@
+The Kth Traveling Salesman Problem is Pseudopolynomial when TSP is polynomial
+
+Given an undirected graph $G=(V, E)$ with a weight function $c\in R^E$, and a positive integer $K$, the Kth Traveling Salesman Problem (KthTSP) is to find $K$ Hamilton cycles $H_1, H_2, , ..., H_K$ such that, for any Hamilton cycle $H\not \in \{H_1, H_2, , ..., H_K \}$, we have $c(H)\geq c(H_i), i=1, 2, ..., K$. This problem is NP-hard even for $K$ fixed. We prove that KthTSP is pseudopolynomial when TSP is polynomial.

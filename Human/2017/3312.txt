@@ -1,0 +1,3 @@
+Horn: A System for Parallel Training and Regularizing of Large-Scale Neural Networks
+
+I introduce a new distributed system for effective training and regularizing of Large-Scale Neural Networks on distributed computing architectures. The experiments demonstrate the effectiveness of flexible model partitioning and parallelization strategies based on neuron-centric computation model, with an implementation of the collective and parallel dropout neural networks training. Experiments are performed on MNIST handwritten digits classification including results.

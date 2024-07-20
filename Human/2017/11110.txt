@@ -1,0 +1,3 @@
+Code Constructions based on Reed-Solomon Codes
+
+Reed--Solomon codes are a well--studied code class which fulfill the Singleton bound with equality. However, their length is limited to the size $q$ of the underlying field $\mathbb{F}_q$. In this paper we present a code construction which yields codes with lengths of factors of the field size. Furthermore a decoding algorithm beyond half the minimum distance is given and analyzed.

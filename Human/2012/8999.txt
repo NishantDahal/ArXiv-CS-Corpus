@@ -1,0 +1,6 @@
+Lower Bounds for Adaptive Sparse Recovery
+
+We give lower bounds for the problem of stable sparse recovery from /adaptive/ linear measurements. In this problem, one would like to estimate a vector $x \in \R^n$ from $m$ linear measurements $A_1x,..., A_mx$. One may choose each vector $A_i$ based on $A_1x,..., A_{i-1}x$, and must output $x*$ satisfying |x* - x|_p \leq (1 + ε) \min_{k\text{-sparse} x'} |x - x'|_p with probability at least $1-δ>2/3$, for some $p \in \{1,2\}$. For $p=2$, it was recently shown that this is possible with $m = O(\frac{1}εk \log \log (n/k))$, while nonadaptively it requires $Θ(\frac{1}εk \log (n/k))$. It is also known that even adaptively, it takes $m = Ω(k/ε)$ for $p = 2$. For $p = 1$, there is a non-adaptive upper bound of $\tilde{O}(\frac{1}{\sqrtε} k\log n)$. We show:
+  * For $p=2$, $m = Ω(\log \log n)$. This is tight for $k = O(1)$ and constant $ε$, and shows that the $\log \log n$ dependence is correct.
+  * If the measurement vectors are chosen in $R$ "rounds", then $m = Ω(R \log^{1/R} n)$. For constant $ε$, this matches the previously known upper bound up to an O(1) factor in $R$.
+  * For $p=1$, $m = Ω(k/(\sqrtε \cdot \log k/ε))$. This shows that adaptivity cannot improve more than logarithmic factors, providing the analog of the $m = Ω(k/ε)$ bound for $p = 2$.

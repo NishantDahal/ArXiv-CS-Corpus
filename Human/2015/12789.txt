@@ -1,0 +1,3 @@
+Performance Analysis of an Astrophysical Simulation Code on the Intel Xeon Phi Architecture
+
+We have developed the astrophysical simulation code XFLAT to study neutrino oscillations in supernovae. XFLAT is designed to utilize multiple levels of parallelism through MPI, OpenMP, and SIMD instructions (vectorization). It can run on both CPU and Xeon Phi co-processors based on the Intel Many Integrated Core Architecture (MIC). We analyze the performance of XFLAT on configurations with CPU only, Xeon Phi only and both CPU and Xeon Phi. We also investigate the impact of I/O and the multi-node performance of XFLAT on the Xeon Phi-equipped Stampede supercomputer at the Texas Advanced Computing Center (TACC).

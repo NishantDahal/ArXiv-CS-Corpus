@@ -1,0 +1,5 @@
+Priorities Without Priorities: Representing Preemption in Psi-Calculi
+
+Psi-calculi is a parametric framework for extensions of the pi-calculus with data terms and arbitrary logics. In this framework there is no direct way to represent action priorities, where an action can execute only if all other enabled actions have lower priority. We here demonstrate that the psi-calculi parameters can be chosen such that the effect of action priorities can be encoded.
+  To accomplish this we define an extension of psi-calculi with action priorities, and show that for every   calculus in the extended framework there is a corresponding ordinary psi-calculus, without priorities, and a translation between them that satisfies strong operational correspondence. This is a significantly stronger result than for most encodings between process calculi in the literature.
+  We also formally prove in Nominal Isabelle that the standard congruence and structural laws about strong bisimulation hold in psi-calculi extended with priorities.

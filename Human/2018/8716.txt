@@ -1,0 +1,3 @@
+From CDF to PDF --- A Density Estimation Method for High Dimensional Data
+
+CDF2PDF is a method of PDF estimation by approximating CDF. The original idea of it was previously proposed in [1] called SIC. However, SIC requires additional hyper-parameter tunning, and no algorithms for computing higher order derivative from a trained NN are provided in [1]. CDF2PDF improves SIC by avoiding the time-consuming hyper-parameter tuning part and enabling higher order derivative computation to be done in polynomial time. Experiments of this method for one-dimensional data shows promising results.

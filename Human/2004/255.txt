@@ -1,0 +1,3 @@
+The Design of a COM-Oriented Module System
+
+We present in this paper the preliminary design of a module system based on a notion of components such as they are found in COM. This module system is inspired from that of Standard ML, and features first-class instances of components, first-class interfaces, and interface-polymorphic functions, as well as allowing components to be both imported from the environment and exported to the environment using simple mechanisms. The module system automates the memory management of interfaces and hides the IUnknown interface and QueryInterface mechanisms from the programmer, favoring instead a higher-level approach to handling interfaces.

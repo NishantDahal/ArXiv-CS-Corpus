@@ -1,0 +1,3 @@
+The expressiveness of MTL with counting
+
+It is well known that MTL with integer endpoints is unable to express all of monadic first-order logic of order and metric (FO(<,+1)). Indeed, MTL is unable to express the counting modalities $C_n$ that assert a properties holds $n$ times in the next time interval. We show that MTL with the counting modalities, MTL+C, is expressively complete for FO(<,+1). This result strongly supports the assertion of Hirshfeld and Rabinovich that Q2MLO is the most expressive decidable fragments of FO(<,+1).

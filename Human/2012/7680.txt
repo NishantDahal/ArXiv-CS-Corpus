@@ -1,0 +1,3 @@
+SkuareView: Client-Server Framework for Accessing Extremely Large Radio Astronomy Image Data
+
+The new wide-field radio telescopes, such as: ASKAP, MWA, and SKA; will produce spectral-imaging data-cubes (SIDC) of unprecedented volume. This requires new approaches to managing and servicing the data to the end-user. We present a new integrated framework based on the JPEG2000/ISO/IEC 15444 standard to address the challenges of working with extremely large SIDC. We also present the developed j2k software, that converts and encodes FITS image cubes into JPEG2000 images, paving the way to implementing the pre- sented framework.

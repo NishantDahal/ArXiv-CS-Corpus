@@ -1,0 +1,3 @@
+Bi-Level Online Control without Regret
+
+This paper considers a bi-level discrete-time control framework with real-time constraints, consisting of several local controllers and a central controller. The objective is to bridge the gap between the online convex optimization and real-time control literature by proposing an online control algorithm with small dynamic regret, which is a natural performance criterion in nonstationary environments related to real-time control problems. We illustrate how the proposed algorithm can be applied to real-time control of power setpoints in an electrical grid.

@@ -1,0 +1,3 @@
+Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN
+
+Recently, with the revolutionary neural style transferring methods, creditable paintings can be synthesized automatically from content images and style images. However, when it comes to the task of applying a painting's style to an anime sketch, these methods will just randomly colorize sketch lines as outputs and fail in the main task: specific style tranfer. In this paper, we integrated residual U-net to apply the style to the gray-scale sketch with auxiliary classifier generative adversarial network (AC-GAN). The whole process is automatic and fast, and the results are creditable in the quality of art style as well as colorization.

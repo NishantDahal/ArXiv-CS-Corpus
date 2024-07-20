@@ -1,0 +1,3 @@
+Building a coverage hole-free communication tree
+
+Wireless networks are present everywhere but their management can be tricky since their coverage may contain holes even if the network is fully connected. In this paper we propose an algorithm that can build a communication tree between nodes of a wireless network with guarantee that there is no coverage hole in the tree. We use simplicial homology to compute mathematically the coverage, and Prim's algorithm principle to build the communication tree. Some simulation results are given to study the performance of the algorithm and compare different metrics. In the end, we show that our algorithm can be used to create coverage hole-free communication groups with a limited number of hops.

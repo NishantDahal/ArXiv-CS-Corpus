@@ -1,0 +1,3 @@
+A Las Vegas algorithm to solve the elliptic curve discrete logarithm problem
+
+In this paper, we describe a new Las Vegas algorithm to solve the elliptic curve discrete logarithm problem. The algorithm depends on a property of the group of rational points of an elliptic curve and is thus not a generic algorithm. The algorithm that we describe has some similarities with the most powerful index-calculus algorithm for the discrete logarithm problem over a finite field.

@@ -1,0 +1,3 @@
+A Quantum Cellular Automata architecture with nearest neighbor interactions using one quantum gate type
+
+We propose an architecture based on Quantum cellular Automata which allows the use of only one type of quantum gates per computational step in order to perform nearest neighbor interactions. The model is built in partial steps, each one of them analyzed using nearest neighbor interactions, starting with single qubit operations and continuing with two qubit ones. The effectiveness of the model is tested and valuated by developing a quantum circuit implementing the Quantum Fourier Transform. The important outcome of this validation was that the operations are performed in a local and controlled manner thus reducing the error rate of each computational step.

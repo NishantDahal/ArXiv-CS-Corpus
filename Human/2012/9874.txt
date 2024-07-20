@@ -1,0 +1,3 @@
+Fast thresholding algorithms with feedbacks for sparse signal recovery
+
+We provide another framework of iterative algorithms based on thresholding, feedback and null space tuning for sparse signal recovery arising in sparse representations and compressed sensing. Several thresholding algorithms with various feedbacks are derived, which are seen as exceedingly effective and fast. Convergence results are also provided. The core algorithm is shown to converge in finite many steps under a (preconditioned) restricted isometry condition. The algorithms are seen as particularly effective for large scale problems. Numerical studies about the effectiveness and the speed of the algorithms are also presented.

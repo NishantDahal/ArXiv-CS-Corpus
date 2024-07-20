@@ -1,0 +1,3 @@
+The Fast Bilateral Solver
+
+We present the bilateral solver, a novel algorithm for edge-aware smoothing that combines the flexibility and speed of simple filtering approaches with the accuracy of domain-specific optimization algorithms. Our technique is capable of matching or improving upon state-of-the-art results on several different computer vision tasks (stereo, depth superresolution, colorization, and semantic segmentation) while being 10-1000 times faster than competing approaches. The bilateral solver is fast, robust, straightforward to generalize to new domains, and simple to integrate into deep learning pipelines.

@@ -1,0 +1,3 @@
+Rule Induction Partitioning Estimator
+
+RIPE is a novel deterministic and easily understandable prediction algorithm developed for continuous and discrete ordered data. It infers a model, from a sample, to predict and to explain a real variable $Y$ given an input variable $X \in \mathcal X$ (features). The algorithm extracts a sparse set of hyperrectangles $\mathbf r \subset \mathcal X$, which can be thought of as rules of the form If-Then. This set is then turned into a partition of the features space $\mathcal X$ of which each cell is explained as a list of rules with satisfied their If conditions. The process of RIPE is illustrated on simulated datasets and its efficiency compared with that of other usual algorithms.

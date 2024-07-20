@@ -1,0 +1,3 @@
+The estimation of bias and variance in clustering coefficient streaming algorithms
+
+Clustering coefficient is one of the most important metrics to understand the complex structure of networks. This paper addresses the estimation of clustering coefficient in network streams. There have been substantial work in this area, most of conducting empirical comparisons of various algorithms. The variance and the bias of the estimators have not been quantified. Starting with a simple yet powerful streaming algorithm, we derived the variance and bias for the estimator, and the estimators for the variances and bias. More importantly, we simplify the estimators so that it can be used in practice. The variance and bias estimators are verified extensively on 49 real networks.

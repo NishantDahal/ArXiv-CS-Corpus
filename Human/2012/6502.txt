@@ -1,0 +1,3 @@
+Implementing Access Control Markov Decision Processes with GLPK/GMPL
+
+In a recent approach, we proposed to model an access control mechanism as a Markov Decision Process, thus claiming that in order to make an access control decision, one can use well-defined mechanisms from decision theory. We present in this paper an implementation of such mechanism, using the open-source solver GLPK, and we model the problem in the GMPL language. We illustrate our approach with a simple, yet expressive example, and we show how the variation of some parameters can change the final outcome. In particular, we show that in addition to returning a decision, we can also calculate the value of each decision.

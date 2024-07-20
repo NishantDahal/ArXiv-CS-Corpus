@@ -1,0 +1,3 @@
+Monadic Remote Invocation
+
+In order to achieve Separation of Concerns in the domain of remote method invocation, a small functional adapter is added atop Java RMI, eliminating the need for every remote object to implement java.rmi.Remote and making it possible to remotely access existing code, unchanged. The Remote monad is introduced, and its implementation and usage are detailed. Reusing the existing, proven technology of RMI allows not to re-invent the underlying network protocol. As a result, orthogonal remote invocation is achieved with little or no implementation effort.

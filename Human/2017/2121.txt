@@ -1,0 +1,3 @@
+Linear-Time Tree Containment in Phylogenetic Networks
+
+We consider the NP-hard Tree Containment problem that has important applications in phylogenetics. The problem asks if a given leaf-labeled network contains a subdivision of a given leaf-labeled tree. We develop a fast algorithm for the case that the input network is indeed a tree in which multiple leaves might share a label. By combining this algorithm with a generalization of a previously known decomposition scheme, we improve the running time on reticulation visible networks and nearly stable networks to linear time. While these are special classes of networks, they rank among the most general of the previously considered classes.

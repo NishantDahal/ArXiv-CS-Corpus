@@ -1,0 +1,3 @@
+Monad Transformers for Backtracking Search
+
+This paper extends Escardo and Oliva's selection monad to the selection monad transformer, a general monadic framework for expressing backtracking search algorithms in Haskell. The use of the closely related continuation monad transformer for similar purposes is also discussed, including an implementation of a DPLL-like SAT solver with no explicit recursion. Continuing a line of work exploring connections between selection functions and game theory, we use the selection monad transformer with the nondeterminism monad to obtain an intuitive notion of backward induction for a certain class of nondeterministic games.

@@ -1,0 +1,3 @@
+A 2-Approximation for the Height of Maximal Outerplanar Graph Drawings
+
+In this paper, we study planar drawings of maximal outerplanar graphs with the objective of achieving small height. A recent paper gave an algorithm for such drawings that is within a factor of 4 of the optimum height. In this paper, we substantially improve the approximation factor to become 2. The main ingredient is to define a new parameter of outerplanar graphs (the so-called umbrella depth, obtained by recursively splitting the graph into graphs called umbrellas). We argue that the height of any poly-line drawing must be at least the umbrella depth, and then devise an algorithm that achieves height at most twice the umbrella depth.

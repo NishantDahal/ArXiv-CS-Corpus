@@ -1,0 +1,11 @@
+On statistical learning via the lens of compression
+
+This work continues the study of the relationship between sample compression schemes and statistical learning, which has been mostly investigated within the framework of binary classification. The central theme of this work is establishing equivalences between learnability and compressibility, and utilizing these equivalences in the study of statistical learning theory.
+  We begin with the setting of multiclass categorization (zero/one loss). We prove that in this case learnability is equivalent to compression of logarithmic sample size, and that uniform convergence implies compression of constant size.
+  We then consider Vapnik's general learning setting: we show that in order to extend the compressibility-learnability equivalence to this case, it is necessary to consider an approximate variant of compression.
+  Finally, we provide some applications of the compressibility-learnability equivalences:
+  (i) Agnostic-case learnability and realizable-case learnability are equivalent in multiclass categorization problems (in terms of sample complexity).
+  (ii) This equivalence between agnostic-case learnability and realizable-case learnability does not hold for general learning problems: There exists a learning problem whose loss function takes just three values, under which agnostic-case and realizable-case learnability are not equivalent.
+  (iii) Uniform convergence implies compression of constant size in multiclass categorization problems. Part of the argument includes an analysis of the uniform convergence rate in terms of the graph dimension, in which we improve upon previous bounds.
+  (iv) A dichotomy for sample compression in multiclass categorization problems: If a non-trivial compression exists then a compression of logarithmic size exists.
+  (v) A compactness theorem for multiclass categorization problems.

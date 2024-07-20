@@ -1,0 +1,4 @@
+Wireless network signals with moderately correlated shadowing still appear Poisson
+
+We consider the point process of signal strengths emitted from transmitters in a wireless network and observed at a fixed position. In our model, transmitters are placed deterministically or randomly according to a hard core or Poisson point process and signals are subjected to power law path loss and random propagation effects that may be correlated between transmitters.
+  We provide bounds on the distance between the point process of signal strengths and a Poisson process with the same mean measure, assuming correlated log-normal shadowing. For "strong shadowing" and moderate correlations, we find that the signal strengths are close to a Poisson process, generalizing a recently shown analogous result for independent shadowing.

@@ -1,0 +1,3 @@
+Sampling a Uniform Random Solution of a Quadratic Equation Modulo $p^k$
+
+An $n$-ary integral quadratic form is a formal expression $Q(x_1,...,x_n)=\sum_{1\leq i,j\leq n}a_{ij}x_ix_j$ in $n$-variables $x_1,...,x_n$, where $a_{ij}=a_{ji} \in \mathbb{Z}$. We present a poly$(n,k, \log p, \log t)$ randomized algorithm that given a quadratic form $Q(x_1,...,x_n)$, a prime $p$, a positive integer $k$ and an integer $t$, samples a uniform solution of $Q(x_1,...,x_n)\equiv t \bmod{p^k}$.

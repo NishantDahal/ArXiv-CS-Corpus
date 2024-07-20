@@ -1,0 +1,3 @@
+Towards Communication-Aware Robust Topologies
+
+We currently witness the emergence of interesting new network topologies optimized towards the traffic matrices they serve, such as demand-aware datacenter interconnects (e.g., ProjecToR) and demand-aware overlay networks (e.g., SplayNets). This paper introduces a formal framework and approach to reason about and design such topologies. We leverage a connection between the communication frequency of two nodes and the path length between them in the network, which depends on the entropy of the communication matrix. Our main contribution is a novel robust, yet sparse, family of network topologies which guarantee an expected path length that is proportional to the entropy of the communication patterns.

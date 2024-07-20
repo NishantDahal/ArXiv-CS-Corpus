@@ -1,0 +1,3 @@
+Abstracting Path Conditions for Effective Symbolic Execution
+
+We present an algorithm for tests generation tools based on symbolic execution. The algorithm is supposed to help in situations, when a tool is repeatedly failing to cover some code by tests. The algorithm then provides the tool a necessary condition strongly narrowing space of program paths, which must be checked for reaching the uncovered code. We also discuss integration of the algorithm into the tools and we provide experimental results showing a potential of the algorithm to be valuable in the tools, when properly implemented there.

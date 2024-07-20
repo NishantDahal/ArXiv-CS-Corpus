@@ -1,0 +1,3 @@
+A note on multipivot Quicksort
+
+We analyse a generalisation of the Quicksort algorithm, where k uniformly at random chosen pivots are used for partitioning an array of n distinct keys. Specifically, the expected cost of this scheme is obtained, under the assumption of linearity of the cost needed for the partition process. The integration constants of the expected cost are computed using Vandermonde matrices.

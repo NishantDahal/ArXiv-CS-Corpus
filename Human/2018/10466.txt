@@ -1,0 +1,3 @@
+$n$-permutability and linear Datalog implies symmetric Datalog
+
+We show that if $\mathbb A$ is a core relational structure such that CSP($\mathbb A$) can be solved by a linear Datalog program, and $\mathbb A$ is $n$-permutable for some $n$, then CSP($\mathbb A$) can be solved by a symmetric Datalog program (and thus CSP($\mathbb A$) lies in deterministic logspace). At the moment, it is not known for which structures $\mathbb A$ will CSP($\mathbb A$) be solvable by a linear Datalog program. However, once somebody obtains a characterization of linear Datalog, our result immediately gives a characterization of symmetric Datalog.

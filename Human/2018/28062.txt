@@ -1,0 +1,4 @@
+On the discrepancy of random low degree set systems
+
+Motivated by the celebrated Beck-Fiala conjecture, we consider the random setting where there are $n$ elements and $m$ sets and each element lies in $t$ randomly chosen sets. In this setting, Ezra and Lovett showed an $O((t \log t)^{1/2})$ discrepancy bound in the regime when $n \leq m$ and an $O(1)$ bound when $n \gg m^t$.
+  In this paper, we give a tight $O(\sqrt{t})$ bound for the entire range of $n$ and $m$, under a mild assumption that $t = Ω(\log \log m)^2$. The result is based on two steps. First, applying the partial coloring method to the case when $n = m \log^{O(1)} m$ and using the properties of the random set system we show that the overall discrepancy incurred is at most $O(\sqrt{t})$. Second, we reduce the general case to that of $n \leq m \log^{O(1)}m$ using LP duality and a careful counting argument.

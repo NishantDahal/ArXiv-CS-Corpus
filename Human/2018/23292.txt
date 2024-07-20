@@ -1,0 +1,3 @@
+CNNs Fusion for Building Detection in Aerial Images for the Building Detection Challenge
+
+This paper presents our contribution to the DeepGlobe Building Detection Challenge. We enhanced the SpaceNet Challenge winning solution by proposing a new fusion strategy based on a deep combiner using segmentation both results of different CNN and input data to segment. Segmentation results for all cities have been significantly improved (between 1% improvement over the baseline for the smallest one to more than 7% for the largest one). The separation of adjacent buildings  should be the next enhancement made to the solution.

@@ -1,0 +1,5 @@
+Deterministic Identity Testing for Sum of Read-Once Oblivious Arithmetic Branching Programs
+
+A read-once oblivious arithmetic branching program (ROABP) is an arithmetic branching program (ABP) where each variable occurs in at most one layer. We give the first polynomial time whitebox identity test for a polynomial computed by a sum of constantly many ROABPs. We also give a corresponding blackbox algorithm with quasi-polynomial time complexity $n^{O(\log n)}$. In both the cases, our time complexity is double exponential in the number of ROABPs.
+  ROABPs are a generalization of set-multilinear depth-$3$ circuits. The prior results for the sum of constantly many set-multilinear depth-$3$ circuits were only slightly better than brute-force, i.e. exponential-time.
+  Our techniques are a new interplay of three concepts for ROABP: low evaluation dimension, basis isolating weight assignment and low-support rank concentration. We relate basis isolation to rank concentration and extend it to a sum of two ROABPs using evaluation dimension (or partial derivatives).

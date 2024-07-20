@@ -1,0 +1,3 @@
+BSTree: an Incremental Indexing Structure for Similarity Search and Real Time Monitoring of Data Streams
+
+In this work, a new indexing technique of data streams called BSTree is proposed. This technique uses the method of data discretization, SAX [4], to reduce online the dimensionality of data streams. It draws on Btree to build the index and finally uses an LRV (least Recently visited) pruning technique to rid the index structure from data whose last visit time exceeds a threshold value and thus minimizes response time for similarity search queries.

@@ -1,0 +1,3 @@
+The Role Model Estimator Revisited
+
+We re-visit the role model strategy introduced in an earlier paper, which allows one to train an estimator for degraded observations by imitating a reference estimator that has access to superior observations. We show that, while it is true and surprising that this strategy yields the optimal Bayesian estimator for the degraded observations, it in fact reduces to a much simpler form in the non-parametric case, which corresponds to a type of Monte Carlo integration. We then show an example for which only parametric estimation can be implemented and discuss further applications for discrete parametric estimation where the role model strategy does have its uses, although it loses claim to optimality in this context.

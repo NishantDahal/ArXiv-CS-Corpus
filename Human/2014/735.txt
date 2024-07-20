@@ -1,0 +1,3 @@
+Transductive Rademacher Complexity and its Applications
+
+We develop a technique for deriving data-dependent error bounds for transductive learning algorithms based on transductive Rademacher complexity. Our technique is based on a novel general error bound for transduction in terms of transductive Rademacher complexity, together with a novel bounding technique for Rademacher averages for particular algorithms, in terms of their "unlabeled-labeled" representation. This technique is relevant to many advanced graph-based transductive algorithms and we demonstrate its effectiveness by deriving error bounds to three well known algorithms. Finally, we present a new PAC-Bayesian bound for mixtures of transductive algorithms based on our Rademacher bounds.

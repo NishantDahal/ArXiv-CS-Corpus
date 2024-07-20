@@ -1,0 +1,3 @@
+A scalable system for primal-dual optimization
+
+We present some of the most widely used architectures for Big Data, \textit{Hadoop} and \textit{Spark}, and develop several implementations exploiting, the advantages of each. We implement a simplified version of the primal-dual optimization algorithm, described briefly in this paper, by choosing the smoothing functions to be $\Vert \cdot \Vert^2$ with a zero center point. Under the assumption that data is provided as a sparse matrix, we assess the scalability of the designed systems empirically by running them on sample tests.

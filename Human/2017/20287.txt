@@ -1,0 +1,3 @@
+Light-weight place recognition and loop detection using road markings
+
+In this paper, we propose an efficient algorithm for robust place recognition and loop detection using camera information only. Our pipeline purely relies on spatial localization and semantic information of road markings. The creation of the database of road markings sequences is performed online, which makes the method applicable for real-time loop closure for visual SLAM techniques. Furthermore, our algorithm is robust to various weather conditions, occlusions from vehicles, and shadows. We have performed an extensive number of experiments which highlight the effectiveness and scalability of the proposed method.

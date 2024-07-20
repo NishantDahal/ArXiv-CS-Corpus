@@ -1,0 +1,3 @@
+A logic-based approach to data integration
+
+An important aspect of data integration involves answering queries using various resources rather than by accessing database relations. The process of transforming a query from the database relations to the resources is often referred to as query folding or answering queries using views, where the views are the resources. We present a uniform approach that includes as special cases much of the previous work on this subject. Our approach is logic-based using resolution. We deal with integrity constraints, negation, and recursion also within this framework.

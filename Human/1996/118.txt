@@ -1,0 +1,3 @@
+Phonological modeling for continuous speech recognition in Korean
+
+A new scheme to represent phonological changes during continuous speech recognition is suggested. A phonological tag coupled with its morphological tag is designed to represent the conditions of Korean phonological changes. A pairwise language model of these morphological and phonological tags is implemented in Korean speech recognition system. Performance of the model is verified through the TDNN-based speech recognition experiments.

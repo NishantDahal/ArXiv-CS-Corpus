@@ -1,0 +1,5 @@
+Deciding Regularity of Hairpin Completions of Regular Languages in Polynomial Time
+
+The hairpin completion is an operation on formal languages that has been inspired by the hairpin formation in DNA biochemistry and by DNA computing. In this paper we investigate the hairpin completion of regular languages.
+  It is well known that hairpin completions of regular languages are linear context-free and not necessarily regular. As regularity of a (linear) context-free language is not decidable, the question arose whether regularity of a hairpin completion of regular languages is decidable. We prove that this problem is decidable and we provide a polynomial time algorithm.
+  Furthermore, we prove that the hairpin completion of regular languages is an unambiguous linear context-free language and, as such, it has an effectively computable growth function. Moreover, we show that the growth of the hairpin completion is exponential if and only if the growth of the underlying languages is exponential and, in case the hairpin completion is regular, then the hairpin completion and the underlying languages have the same growth indicator.

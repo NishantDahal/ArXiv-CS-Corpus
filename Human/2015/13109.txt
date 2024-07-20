@@ -1,0 +1,3 @@
+The Cerny conjecture and 1-contracting automata
+
+A deterministic finite automaton is synchronizing if there exists a word that sends all states of the automaton to the same state. Černý conjectured in 1964 that a synchronizing automaton with $n$ states has a synchronizing word of length at most $(n-1)^2$. We introduce the notion of aperiodically $1-$contracting automata and prove that in these automata all subsets of the state set are reachable, so that in particular they are synchronizing. Furthermore, we give a sufficient condition under which the Černý conjecture holds for aperiodically $1-$contracting automata. As a special case, we prove some results for circular automata.

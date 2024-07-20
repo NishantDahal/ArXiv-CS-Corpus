@@ -1,0 +1,3 @@
+Side-channel based intrusion detection for industrial control systems
+
+Industrial Control Systems are under increased scrutiny. Their security is historically sub-par, and although measures are being taken by the manufacturers to remedy this, the large installed base of legacy systems cannot easily be updated with state-of-the-art security measures. We propose a system that uses electromagnetic side-channel measurements to detect behavioural changes of the software running on industrial control systems. To demonstrate the feasibility of this method, we show it is possible to profile and distinguish between even small changes in programs on Siemens S7-317 PLCs, using methods from cryptographic side-channel analysis.

@@ -1,0 +1,3 @@
+When is Noisy State Information at the Encoder as Useless as No Information or as Good as Noise-Free State?
+
+For any binary-input channel with perfect state information at the decoder, if the mutual information between the noisy state observation at the encoder and the true channel state is below a positive threshold determined solely by the state distribution, then the capacity is the same as that with no encoder side information. A complementary phenomenon is revealed for the generalized probing capacity. Extensions beyond binary-input channels are developed.

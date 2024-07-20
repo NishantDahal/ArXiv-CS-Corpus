@@ -1,0 +1,3 @@
+A Concept Learning Tool Based On Calculating Version Space Cardinality
+
+In this paper, we proposed VeSC-CoL (Version Space Cardinality based Concept Learning) to deal with concept learning on extremely imbalanced datasets, especially when cross-validation is not a viable option. VeSC-CoL uses version space cardinality as a measure for model quality to replace cross-validation. Instead of naive enumeration of the version space, Ordered Binary Decision Diagram and Boolean Satisfiability are used to compute the version space. Experiments show that VeSC-CoL can accurately learn the target concept when computational resource is allowed.

@@ -1,0 +1,4 @@
+Clustering function: a measure of social influence
+
+A commonly used characteristic of statistical dependence of adjacency relations in real networks, the clustering coefficient, evaluates chances that two neighbours of a given vertex are adjacent. An extension is obtained by considering conditional probabilities that two randomly chosen vertices are adjacent given that they have r common neighbours. We denote such probabilities cl(r) and call r-> cl(r) the clustering function.
+  We compare clustering functions of several networks having non-negligible clustering coefficient. They show similar patterns and surprising regularity. We establish a first order asymptotic (as the number of vertices tends to infinity) of the clustering function of related random intersection graph models admitting nonvanishing clustering coefficient and asymptotic degree distribution having a finite second moment.

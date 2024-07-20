@@ -1,0 +1,3 @@
+Delay Minimization in Real-time Communications with Joint Buffering and Coding
+
+We present a closed-form expression for the minimal delay that is achievable in a setting that combines a buffer and an erasure code, used to mitigate the packet delay variance. The erasure code is modeled according to the recent information-theoretic results on finite block length codes. Evaluations reveal that accurate knowledge of the network parameters is essential for optimal operation. Moreover, it is shown that, when the network packet delay variance is large, the buffer delay becomes negligible. Therefore, in this case the delay budget should be spent mainly on the erasure code.

@@ -1,0 +1,5 @@
+Information Spreading in Dynamic Graphs
+
+We present a general approach to study the flooding time (a measure of how fast information spreads) in dynamic graphs (graphs whose topology changes with time according to a random process).
+  We consider arbitrary converging Markovian dynamic graph process, that is, processes in which the topology of the graph at time $t$ depends only on its topology at time $t-1$ and which have a unique stationary distribution. The most well studied models of dynamic graphs are all Markovian and converging.
+  Under general conditions, we bound the flooding time in terms of the mixing time of the dynamic graph process. We recover, as special cases of our result, bounds on the flooding time for the \emph{random trip} model and the \emph{random path} models; previous analysis techniques provided bounds only in restricted settings for such models. Our result also provides the first bound for the \emph{random waypoint} model (which is tight for certain ranges of parameters) whose analysis had been an important open question.

@@ -1,0 +1,3 @@
+Computational RAM to Accelerate String Matching at Scale
+
+Traditional Von Neumann computing is falling apart in the era of exploding data volumes as the overhead of data transfer becomes forbidding. Instead, it is more energy-efficient to fuse compute capability with memory where the data reside. This is particularly critical for pattern matching, a key computational step in large-scale data analytics, which involves repetitive search over very large databases residing in memory. Emerging spintronic technologies show remarkable versatility for the tight integration of logic and memory. In this paper, we introduce CRAM-PM, a novel high-density, reconfigurable spintronic in-memory compute substrate for pattern matching.

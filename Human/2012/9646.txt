@@ -1,0 +1,4 @@
+Data-parallel programming with Intel Array Building Blocks (ArBB)
+
+Intel Array Building Blocks is a high-level data-parallel programming environment designed to produce scalable and portable results on existing and upcoming multi- and many-core platforms.
+  We have chosen several mathematical kernels - a dense matrix-matrix multiplication, a sparse matrix-vector multiplication, a 1-D complex FFT and a conjugate gradients solver - as synthetic benchmarks and representatives of scientific codes and ported them to ArBB. This whitepaper describes the ArBB ports and presents performance and scaling measurements on the Westmere-EX based system SuperMIG at LRZ in comparison with OpenMP and MKL.

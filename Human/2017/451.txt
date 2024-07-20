@@ -1,0 +1,3 @@
+A game theoretic approach to a network cloud storage problem
+
+The use of game theory in the design and control of large scale networked systems is becoming increasingly more important. In this paper, we follow this approach to efficiently solve a network allocation problem motivated by peer-to- peer cloud storage models as alternatives to classical centralized cloud storage services. To this aim, we propose an allocation algorithm that allows the units to use their neighbors to store a back up of their data. We prove convergence, characterize the final allocation, and corroborate our analysis with extensive numerical simulation that shows the good performance of the algorithm in terms of scalability, complexity and structure of the solution.

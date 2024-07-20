@@ -1,0 +1,3 @@
+Patience of Matrix Games
+
+For matrix games we study how small nonzero probability must be used in optimal strategies. We show that for nxn win-lose-draw games (i.e. (-1,0,1) matrix games) nonzero probabilities smaller than n^{-O(n)} are never needed. We also construct an explicit nxn win-lose game such that the unique optimal strategy uses a nonzero probability as small as n^{-Omega(n)}. This is done by constructing an explicit (-1,1) nonsingular nxn matrix, for which the inverse has only nonnegative entries and where some of the entries are of value n^{Omega(n)}.

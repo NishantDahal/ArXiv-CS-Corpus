@@ -1,0 +1,3 @@
+Comparative Study for Inference of Hidden Classes in Stochastic Block Models
+
+Inference of hidden classes in stochastic block model is a classical problem with important applications. Most commonly used methods for this problem involve naïve mean field approaches or heuristic spectral methods. Recently, belief propagation was proposed for this problem. In this contribution we perform a comparative study between the three methods on synthetically created networks. We show that belief propagation shows much better performance when compared to naïve mean field and spectral approaches. This applies to accuracy, computational efficiency and the tendency to overfit the data.

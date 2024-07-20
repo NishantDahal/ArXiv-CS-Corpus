@@ -1,0 +1,3 @@
+A fixed-parameter algorithm for a routing open shop problem: unit processing times, few machines and locations
+
+The open shop problem is to find a minimum makespan schedule to process each job $J_i$ on each machine $M_q$ for $p_{iq}$ time such that, at any time, each machine processes at most one job and each job is processed by at most one machine. We study a problem variant in which the jobs are located in the vertices of an edge-weighted graph. The weights determine the time needed for the machines to travel between jobs in different vertices. We show that the problem with $m$ machines and $n$ unit-time jobs in $g$ vertices is solvable in $2^{O(gm^2\log gm)}+O(mn\log n)$ time.

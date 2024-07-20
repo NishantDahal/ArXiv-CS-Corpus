@@ -1,0 +1,3 @@
+A Static Program Slicing Approach for Output Stream Objects in JEE Applications
+
+In this paper, we propose a program slicing approach for the output stream object in JEE applications. Our approach is based on extracting a dependency call graph from KDM models of JEE applications. Then, it applies breath-first search algorithm to identify the program slice as a graph reachability problem. The proposed approach is implemented as an extension of our DeJEE tool.

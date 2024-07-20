@@ -1,0 +1,3 @@
+Nesting Probabilistic Inference
+
+When doing inference in ProbLog, a probabilistic extension of Prolog, we extend SLD resolution with some additional bookkeeping. This additional information is used to compute the probabilistic results for a probabilistic query. In Prolog's SLD, goals are nested very naturally. In ProbLog's SLD, nesting probabilistic queries interferes with the probabilistic bookkeeping. In order to support nested probabilistic inference we propose the notion of a parametrised ProbLog engine. Nesting becomes possible by suspending and resuming instances of ProbLog engines. With our approach we realise several extensions of ProbLog such as meta-calls, negation, and answers of probabilistic goals.

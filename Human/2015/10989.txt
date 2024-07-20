@@ -1,0 +1,4 @@
+Perfect Numbers in ACL2
+
+A perfect number is a positive integer n such that n equals the sum of all positive integer divisors of n that are less than n. That is, although n is a divisor of n, n is excluded from this sum. Thus 6 = 1 + 2 + 3 is perfect, but 12 < 1 + 2 + 3 + 4 + 6 is not perfect. An ACL2 theory of perfect numbers is developed and used to prove, in ACL2(r), this bit of mathematical folklore: Even if there are infinitely many perfect numbers the series of the reciprocals of all perfect numbers converges.
+

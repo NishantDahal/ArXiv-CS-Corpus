@@ -1,0 +1,3 @@
+Linearizable Implementations Do Not Suffice for Randomized Distributed Computation
+
+Linearizability is the gold standard among algorithm designers for deducing the correctness of a distributed algorithm using implemented shared objects from the correctness of the corresponding algorithm using atomic versions of the same objects. We show that linearizability does not suffice for this purpose when processes can exploit randomization, and we discuss the existence of alternative correctness conditions.

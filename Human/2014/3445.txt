@@ -1,0 +1,3 @@
+An Algorithm Enumerating All Infinite Repetitions in a D0L System
+
+We describe a simple algorithm which, for a given D0L system, returns all factors $v$ such that $v^k$ is in the language of the system for all $k$. This algorithm can be used to decide whether a D0L system is repetitive.

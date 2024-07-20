@@ -1,0 +1,3 @@
+A Near Optimal Approximation Algorithm for Vertex-Cover Problem
+
+Recently, there has been increasing interest and progress in improvising the approximation algorithm for well-known NP-Complete problems, particularly the approximation algorithm for the Vertex-Cover problem. Here we have proposed a polynomial time efficient algorithm for vertex-cover problem for more approximate to the optimal solution, which lead to the worst time complexity ?θ(V 2) and space complexity ?θ(V + E). We show that our proposed method is more approximate with example and theorem proof. Our algorithm also induces improvement on previous algorithms for the independent set problem on graphs of small and high degree.

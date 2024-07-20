@@ -1,0 +1,3 @@
+Towards practical meta-querying
+
+We describe a meta-querying system for databases containing queries in addition to ordinary data. In the context of such databases, a meta-query is a query about queries. Representing stored queries in XML, and using the standard XML manipulation language XSLT as a sublanguage, we show that just a few features need to be added to SQL to turn it into a fully-fledged meta-query language. The good news is that these features can be directly supported by extensible database technology.

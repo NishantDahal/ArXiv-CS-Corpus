@@ -1,0 +1,3 @@
+Secure Shell (SSH): Public Key Authentication over Hypertext Transfer Protocol (HTTP)
+
+Secure Shell (SSH) protocol requires all implementations to support public key authentication method ("publickey") for authentication purposes, so web applications which provide a SSH client over the web browser need to support "publickey". However, restrictions in Hypertext Transfer Protocol (HTTP), such as same origin policy, and limited access to local resources, make it difficult to perform such authentications. In this document, a system to perform "publickey" authentication over HTTP is provided. It is ensured that no compromise is made that would pose a security risk to SSH protocol.

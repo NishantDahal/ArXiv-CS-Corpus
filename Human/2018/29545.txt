@@ -1,0 +1,3 @@
+Explore First, Exploit Next: The True Shape of Regret in Bandit Problems
+
+We revisit lower bounds on the regret in the case of multi-armed bandit problems. We obtain non-asymptotic, distribution-dependent bounds and provide straightforward proofs based only on well-known properties of Kullback-Leibler divergences. These bounds show in particular that in an initial phase the regret grows almost linearly, and that the well-known logarithmic growth of the regret only holds in a final phase. The proof techniques come to the essence of the information-theoretic arguments used and they are deprived of all unnecessary complications.

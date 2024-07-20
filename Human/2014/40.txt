@@ -1,0 +1,3 @@
+Introducing Morphit, a new type of spreadsheet technology
+
+This paper describes a new type of spreadsheet which mitigates the errors caused by incorrect range referencing in formulae. This spreadsheet is composed of structured worksheets called tables which contain a hierarchical organization of fields. Formulae are defined at the field-level removing the need for positional references. In addition, relationships can be defined between fields in tables, allowing data to be modeled rather than simply processed and providing a re-usable framework for authoring spreadsheets. We shall describe the key features of tables with an emphasis on error detection and avoidance.

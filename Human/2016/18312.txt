@@ -1,0 +1,3 @@
+Runtime Template Instantiation for C++
+
+Performance, genericity and flexibility are three valuable qualities for scientific environments that tend to be antagonistic. C++ provides excellent support for both performances and genericity thanks to its support for (class and function) templates. However, a C++ templated library can hardly be qualified as flexible: data of unexpected types cannot enter the system, which hinders user interactions. This paper describes the approach that was taken in the Vcsn platform to add flexibility on top of C++ templates, including runtime template instantiation.

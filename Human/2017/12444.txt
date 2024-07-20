@@ -1,0 +1,3 @@
+GfcLLL: A Greedy Selection Based Approach for Fixed-Complexity LLL Reduction
+
+The LLL lattice reduction has been widely used to decrease the bit error rate (BER) of the Babai point, but its running time varies much from matrix to matrix. To address this problem, some fixed-complexity LLL reductions (FCLLL) have been proposed. In this paper, we propose two greedy selection based FCLLL algorithms: GfcLLL(1) and GfcLLL(2). Simulations show that both of them give Babai points with lower BER in similar or much shorter CPU time than existing ones.

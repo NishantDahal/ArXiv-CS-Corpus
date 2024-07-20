@@ -1,0 +1,3 @@
+Beyond Worst-Case Analysis
+
+In the worst-case analysis of algorithms, the overall performance of an algorithm is summarized by its worst performance on any input. This approach has countless success stories, but there are also important computational problems --- like linear programming, clustering, online caching, and neural network training --- where the worst-case analysis framework does not provide any helpful advice on how to solve the problem. This article covers a number of modeling methods for going beyond worst-case analysis and articulating which inputs are the most relevant.

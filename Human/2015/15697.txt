@@ -1,0 +1,3 @@
+On the Degrees of Freedom of Signals on Graphs
+
+Continuous-time signals are well known for not being perfectly localized in both time and frequency domains. Conversely, a signal defined over the vertices of a graph can be perfectly localized in both vertex and frequency domains. We derive the conditions ensuring the validity of this property and then, building on this theory, we provide the conditions for perfect reconstruction of a graph signal from its samples. Next, we provide a finite step algorithm for the reconstruction of a band-limited signal from its samples and then we show the effect of sampling a non perfectly band-limited signal and show how to select the bandwidth that minimizes the mean square reconstruction error.

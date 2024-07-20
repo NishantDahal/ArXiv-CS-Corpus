@@ -1,0 +1,3 @@
+Training on Art Composition Attributes to Influence CycleGAN Art Generation
+
+I consider how to influence CycleGAN, image-to-image translation, by using additional constraints from a neural network trained on art composition attributes. I show how I trained the the Art Composition Attributes Network (ACAN) by incorporating domain knowledge based on the rules of art evaluation and the result of applying each art composition attribute to apple2orange image translation.

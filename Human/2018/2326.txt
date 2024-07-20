@@ -1,0 +1,3 @@
+On Probabilistic Term Rewriting
+
+We study the termination problem for probabilistic term rewrite systems. We prove that the interpretation method is sound and complete for a strengthening of positive almost sure termination, when abstract reduction systems and term rewrite systems are considered. Two instances of the interpretation method - polynomial and matrix interpretations - are analyzed and shown to capture interesting and nontrivial examples when automated. We capture probabilistic computation in a novel way by way of multidistribution reduction sequences, this way accounting for both the nondeterminism in the choice of the redex and the probabilism intrinsic in firing each rule.

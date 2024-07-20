@@ -1,0 +1,3 @@
+Honesty by Typing
+
+We propose a type system for a calculus of contracting processes. Processes can establish sessions by stipulating contracts, and then can interact either by keeping the promises made, or not. Type safety guarantees that a typeable process is honest - that is, it abides by the contracts it has stipulated in all possible contexts, even in presence of dishonest adversaries. Type inference is decidable, and it allows to safely approximate the honesty of processes using either synchronous or asynchronous communication.

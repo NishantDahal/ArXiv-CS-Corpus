@@ -1,0 +1,3 @@
+On the Sensitivity of k-Uniform Hypergraph Properties
+
+In this paper we present a graph property with sensitivity $Θ(\sqrt{n})$, where $n={v\choose2}$ is the number of variables, and generalize it to a $k$-uniform hypergraph property with sensitivity $Θ(\sqrt{n})$, where $n={v\choose k}$ is again the number of variables. This yields the smallest sensitivity yet achieved for a $k$-uniform hypergraph property. We then show that, for even $k$, there is a $k$-uniform hypergraph property that demonstrates a quadratic gap between sensitivity and block sensitivity. This matches the largest known gap found by Ambainis and Sun (2011) for Boolean functions in general, and is the first known example of such a gap for a graph or hypergraph property.

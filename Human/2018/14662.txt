@@ -1,0 +1,3 @@
+Drowsy Driver Detection by EEG Analysis Using Fast Fourier Transform
+
+In this paper, we try to analyze drowsiness which is a major factor in many traffic accidents due to the clear decline in the attention and recognition of danger drivers. The object of this work is to develop an automatic method to evaluate the drowsiness stage by analysis of EEG signals records. The absolute band power of the EEG signal was computed by taking the Fast Fourier Transform (FFT) of the time series signal. Finally, the algorithm developed in this work has been improved on eight samples from the Physionet sleep-EDF database.

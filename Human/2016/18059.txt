@@ -1,0 +1,3 @@
+Automating Verification of Event-B Models
+
+Event-B is one of more popular notations for model-based, proof driven specification. It offers a fairly high-level mathematical lan- guage based on FOL and ZF set theory and an economical yet expres- sive modelling notation. Model correctness is established by discharging proving a number conjectures constructed via a syntactic instantiation of schematic conditions. A large proportion of provable conjectures re- quires proof hints from a user. For larger models this becomes extremely onerous as identical or similar proofs have to be repeated over and over, especially after model refactoring stages. In the paper we briefly present a new Rodin Platform proof back-end based on the Why3 umbrella prover.

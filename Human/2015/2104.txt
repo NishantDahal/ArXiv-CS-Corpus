@@ -1,0 +1,3 @@
+Interference Calculation in Asynchronous Random Access Protocols using Diversity
+
+The use of Aloha-based Random Access protocols is interesting when channel sensing is either not possible or not convenient and the traffic from terminals is unpredictable and sporadic. In this paper an analytic model for packet interference calculation in asynchronous Random Access protocols using diversity is presented. The aim is to provide a tool that avoids time-consuming simulations to evaluate packet loss and throughput in case decodability is still possible when a certain interference threshold is not exceeded. Moreover the same model represents the groundbase for further studies in which iterative Interference Cancellation is applied to received frames.

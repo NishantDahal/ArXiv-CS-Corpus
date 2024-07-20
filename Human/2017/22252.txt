@@ -1,0 +1,3 @@
+Modular Remote Communication Protocol Interpreters
+
+We present "endpoints", a library that provides consistent client implementation, server implementation and documentation from a user-defined communication protocol description. The library provides type safe remote invocations, and is modular and extensible. This paper shows how its usage looks like, highlights the Scala features that its implementation relies on, and compares it to other similar tools.

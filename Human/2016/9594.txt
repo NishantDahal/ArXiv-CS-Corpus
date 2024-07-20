@@ -1,0 +1,4 @@
+Discriminators and k-Regular Sequences
+
+The discriminator of an integer sequence s = (s(i))_{i >=0}, introduced by Arnold, Benkoski, and McCabe in 1985, is the map D_s(n) that sends n >= 1 to the least positive integer m such that the n numbers s(0), s(1), ..., s(n-1) are pairwise incongruent modulo m. In this note we consider the discriminators of a certain class of sequences, the k-regular sequences. We compute the discriminators of two such sequences, the so-called "evil" and "odious" numbers, and show they are 2-regular. We also give an example of a k-regular sequence whose discriminator is not k-regular.
+  Finally, we examine sequences that are their own discriminators, and count the number of length-$n$ finite sequences with this property.

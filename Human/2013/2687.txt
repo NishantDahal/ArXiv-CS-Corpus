@@ -1,0 +1,3 @@
+Primal implication as encryption
+
+We propose a "cryptographic" interpretation for the propositional connectives of primal infon logic introduced by Y. Gurevich and I. Neeman and prove the corresponding soundness and completeness results. Primal implication $\imp{\varphi}ψ$ corresponds to the encryption of $ψ$ with a secret key $\varphi$, primal disjunction $\vp{\varphi}ψ$ is a group key and $\bot$ reflects some backdoor constructions such as full superuser permissions or a universal decryption key. For the logic of $\bot$ as a universal key (it was never considered before) we prove that the derivability problem has linear time complexity. We also show that the universal key can be emulated using primal disjunction.

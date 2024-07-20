@@ -1,0 +1,3 @@
+A finite alternation result for reversible boolean circuits
+
+We say that a reversible boolean function on n bits has alternation depth d if it can be written as the sequential composition of d reversible boolean functions, each of which acts only on the top n-1 bits or on the bottom n-1 bits. Moreover, if the functions on n-1 bits are even, we speak of even alternation depth. We show that every even reversible boolean function of n >= 4 bits has alternation depth at most 9 and even alternation depth at most 13.

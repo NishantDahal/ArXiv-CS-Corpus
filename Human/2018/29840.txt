@@ -1,0 +1,3 @@
+Beyond Pham's algorithm for joint diagonalization
+
+The approximate joint diagonalization of a set of matrices consists in finding a basis in which these matrices are as diagonal as possible. This problem naturally appears in several statistical learning tasks such as blind signal separation. We consider the diagonalization criterion studied in a seminal paper by Pham (2001), and propose a new quasi-Newton method for its optimization. Through numerical experiments on simulated and real datasets, we show that the proposed method outper-forms Pham's algorithm. An open source Python package is released.

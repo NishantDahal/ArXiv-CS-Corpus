@@ -1,0 +1,3 @@
+A Bag-of-Paths Node Criticality Measure
+
+This work compares several node (and network) criticality measures quantifying to which extend each node is critical with respect to the communication flow between nodes of the network, and introduces a new measure based on the Bag-of-Paths (BoP) framework. Network disconnection simulation experiments show that the new BoP measure outperforms all the other measures on a sample of Erdos-Renyi and Albert-Barabasi graphs. Furthermore, a faster (still O(n^3)), approximate, BoP criticality relying on the Sherman-Morrison rank-one update of a matrix is introduced for tackling larger networks. This approximate measure shows similar performances as the original, exact, one.

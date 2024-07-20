@@ -1,0 +1,3 @@
+Compressed Sensing Applied to Weather Radar
+
+We propose an innovative meteorological radar, which uses reduced number of spatiotemporal samples without compromising the accuracy of target information. Our approach extends recent research on compressed sensing (CS) for radar remote sensing of hard point scatterers to volumetric targets. The previously published CS-based radar techniques are not applicable for sampling weather since the precipitation echoes lack sparsity in both range-time and Doppler domains. We propose an alternative approach by adopting the latest advances in matrix completion algorithms to demonstrate the sparse sensing of weather echoes. We use Iowa X-band Polarimetric (XPOL) radar data to test and illustrate our algorithms.

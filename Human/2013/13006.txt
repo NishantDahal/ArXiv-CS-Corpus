@@ -1,0 +1,3 @@
+A quantum lower bound for distinguishing random functions from random permutations
+
+The problem of distinguishing between a random function and a random permutation on a domain of size $N$ is important in theoretical cryptography, where the security of many primitives depend on the problem's hardness. We study the quantum query complexity of this problem, and show that any quantum algorithm that solves this problem with bounded error must make $Ω(N^{1/5}/\log N)$ queries to the input function. Our lower bound proof uses a combination of the Collision Problem lower bound and Ambainis's adversary theorem.

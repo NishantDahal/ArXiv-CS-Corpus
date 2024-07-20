@@ -1,0 +1,3 @@
+Collaborative filtering via sparse Markov random fields
+
+Recommender systems play a central role in providing individualized access to information and services. This paper focuses on collaborative filtering, an approach that exploits the shared structure among mind-liked users and similar items. In particular, we focus on a formal probabilistic framework known as Markov random fields (MRF). We address the open problem of structure learning and introduce a sparsity-inducing algorithm to automatically estimate the interaction structures between users and between items. Item-item and user-user correlation networks are obtained as a by-product. Large-scale experiments on movie recommendation and date matching datasets demonstrate the power of the proposed method.

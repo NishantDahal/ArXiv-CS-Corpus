@@ -1,0 +1,3 @@
+A fully semi-Lagrangian discretization for the 2D Navier--Stokes equations in the vorticity--streamfunction formulation
+
+A numerical method for the two-dimensional, incompressible Navier--Stokes equations in vorticity--streamfunction form is proposed, which employs semi-Lagrangian discretizations for both the advection and diffusion terms, thus achieving unconditional stability without the need to solve linear systems beyond that required by the Poisson solver for the reconstruction of the streamfunction. A description of the discretization of Dirichlet boundary conditions for the semi-Lagrangian approach to diffusion terms is also presented. Numerical experiments on classical benchmarks for incompressible flow in simple geometries validate the proposed method.

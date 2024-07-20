@@ -1,0 +1,9 @@
+Scheduling meets n-fold Integer Programming
+
+Scheduling problems are fundamental in combinatorial optimization. Much work has been done on approximation algorithms for NP-hard cases, but relatively little is known about exact solutions when some part of the input is a fixed parameter. In 2014, Mnich and Wiese initiated a systematic study in this direction.
+  In this paper we continue this study and show that several additional cases of fundamental scheduling problems are fixed parameter tractable for some natural parameters. Our main tool is n-fold integer programming, a recent variable dimension technique which we believe to be highly relevant for the parameterized complexity community. This paper serves to showcase and highlight this technique.
+  Specifically, we show the following four scheduling problems to be fixed-parameter tractable, where p max is the maximum processing time of a job and w max is the maximum weight of a job:
+  - Makespan minimization on uniformly related machines $(Q||C_{max} )$ parameterized by $p_{max}$,
+  - Makespan minimization on unrelated machines $(R||C_{max} )$ parameterized by $p_{max}$ and the number of kinds of machines,
+  - Sum of weighted completion times minimization on unrelated machines $(R|| \sum w_i C_i )$ parameterized by $p_{max} + w_{max}$ and the number of kinds of machines,
+  - The same problem, $(R|| \sum w_i C_i),$ parameterized by the number of distinct job times and the number of machines.

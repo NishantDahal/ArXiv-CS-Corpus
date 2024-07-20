@@ -1,0 +1,3 @@
+Contracting to a Longest Path in H-Free Graphs
+
+We prove two dichotomy results for detecting long paths as patterns in a given graph. The NP-hard problem Longest Induced Path is to determine the longest induced path in a graph. The NP-hard problem Longest Path Contractibility is to determine the longest path to which a graph can be contracted to. By combining known results with new results we completely classify the computational complexity of both problems for $H$-free graphs. Our main focus is on the second problem, for which we design a general contractibility technique that enables us to reduce the problem to a matching problem.

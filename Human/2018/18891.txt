@@ -1,0 +1,3 @@
+Detection and Analysis of Content Creator Collaborations in YouTube Videos using Face- and Speaker-Recognition
+
+This work discusses and implements the application of speaker recognition for the detection of collaborations in YouTube videos. CATANA, an existing framework for detection and analysis of YouTube collaborations, is utilizing face recognition for the detection of collaborators, which naturally performs poor on video-content without appearing faces. This work proposes an extension of CATANA using active speaker detection and speaker recognition to improve the detection accuracy.

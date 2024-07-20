@@ -1,0 +1,3 @@
+An $O(n \log n)$ time Algorithm for computing the Path-length Distance between Trees
+
+Tree comparison metrics have proven to be an invaluable aide in the reconstruction and analysis of phylogenetic (evolutionary) trees. The path-length distance between trees is a particularly attractive measure as it reflects differences in tree shape as well as differences between branch lengths. The distance equals the sum, over all pairs of taxa, of the squared differences between the lengths of the unique path connecting them in each tree. We describe an $O(n \log n)$ time for computing this distance, making extensive use of tree decomposition techniques introduced by Brodal et al. (2004).

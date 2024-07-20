@@ -1,0 +1,3 @@
+Human-competitive Patches in Automatic Program Repair with Repairnator
+
+Repairnator is a bot. It constantly monitors software bugs discovered during continuous integration of open-source software and tries to fix them automatically. If it succeeds to synthesize a valid patch, Repairnator proposes the patch to the human developers, disguised under a fake human identity. To date, Repairnator has been able to produce 5 patches that were accepted by the human developers and permanently merged in the code base. This is a milestone for human-competitiveness in software engineering research on automatic program repair.

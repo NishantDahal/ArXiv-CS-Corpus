@@ -1,0 +1,3 @@
+Computing the Kalman form
+
+We present two algorithms for the computation of the Kalman form of a linear control system. The first one is based on the technique developed by Keller-Gehrig for the computation of the characteristic polynomial. The cost is a logarithmic number of matrix multiplications. To our knowledge, this improves the best previously known algebraic complexity by an order of magnitude. Then we also present a cubic algorithm proven to more efficient in practice.

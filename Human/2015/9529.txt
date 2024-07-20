@@ -1,0 +1,3 @@
+SentenceRacer: A Game with a Purpose for Image Sentence Annotation
+
+Recently datasets that contain sentence descriptions of images have enabled models that can automatically generate image captions. However, collecting these datasets are still very expensive. Here, we present SentenceRacer, an online game that gathers and verifies descriptions of images at no cost. Similar to the game hangman, players compete to uncover words in a sentence that ultimately describes an image. SentenceRacer both generates and verifies that the sentences are accurate descriptions. We show that SentenceRacer generates annotations of higher quality than those generated on Amazon Mechanical Turk (AMT).

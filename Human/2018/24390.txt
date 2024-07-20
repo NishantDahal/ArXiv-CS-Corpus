@@ -1,0 +1,3 @@
+A Simple Functional Presentation and an Inductive Correctness Proof of the Horn Algorithm
+
+We present a recursive formulation of the Horn algorithm for deciding the satisfiability of propositional clauses. The usual presentations in imperative pseudo-code are informal and not suitable for simple proofs of its main properties.  By defining the algorithm as a recursive function (computing a least fixed-point), we achieve: 1) a concise, yet rigorous, formalisation; 2) a clear form of visualising executions of the algorithm, step-by-step; 3) precise results, simple to state and with clean inductive proofs.

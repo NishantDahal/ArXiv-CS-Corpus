@@ -1,0 +1,3 @@
+Symmetric Disclosure: a Fresh Look at k-Anonymity
+
+We analyze how the sparsity of a typical aggregate social relation impacts the network overhead of online communication systems designed to provide k-anonymity. Once users are grouped in anonymity sets there will likely be few related pairs of users between any two particular sets, and so the sets need to be large in order to provide cover traffic between them. We can reduce the associated overhead by having both parties in a communication specify both the origin and the target sets of the communication. We propose to call this communication primitive "symmetric disclosure." If in order to retrieve messages a user specifies a group from which he expects to receive them, the negative impact of the sparsity is offset.

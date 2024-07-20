@@ -1,0 +1,3 @@
+Upward Planar Morphs
+
+We prove that, given two topologically-equivalent upward planar straight-line drawings of an $n$-vertex directed graph $G$, there always exists a morph between them such that all the intermediate drawings of the morph are upward planar and straight-line. Such a morph consists of $O(1)$ morphing steps if $G$ is a reduced planar $st$-graph, $O(n)$ morphing steps if $G$ is a planar $st$-graph, $O(n)$ morphing steps if $G$ is a reduced upward planar graph, and $O(n^2)$ morphing steps if $G$ is a general upward planar graph. Further, we show that $Ω(n)$ morphing steps might be necessary for an upward planar morph between two topologically-equivalent upward planar straight-line drawings of an $n$-vertex path.

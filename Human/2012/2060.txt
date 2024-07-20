@@ -1,0 +1,3 @@
+A comparative evaluation of two algorithms of detection of masses on mammograms
+
+In this paper, we implement and carry out the comparison of two methods of computer-aided-detection of masses on mammograms. The two algorithms basically consist of 3 steps each: segmentation, binarization and noise suppression using different techniques for each step. A database of 60 images was used to compare the performance of the two algorithms in terms of general detection efficiency, conservation of size and shape of detected masses.

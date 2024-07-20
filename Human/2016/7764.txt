@@ -1,0 +1,3 @@
+Algorithms for Simultaneous Padé Approximations
+
+We describe how to solve simultaneous Padé approximations over a power series ring $K[[x]]$ for a field $K$ using $O~(n^{ω- 1} d)$ operations in $K$, where $d$ is the sought precision and $n$ is the number of power series to approximate. We develop two algorithms using different approaches. Both algorithms return a reduced sub-bases that generates the complete set of solutions to the input approximations problem that satisfy the given degree constraints. Our results are made possible by recent breakthroughs in fast computations of minimal approximant bases and Hermite Padé approximations.

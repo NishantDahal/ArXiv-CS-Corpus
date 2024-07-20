@@ -1,0 +1,3 @@
+Efficient algorithms for robust submodular maximization under matroid constraints
+
+In this work, we consider robust submodular maximization with matroid constraints. We give an efficient bi-criteria approximation algorithm that outputs a small family of feasible sets whose union has (nearly) optimal objective value. This algorithm theoretically performs less function calls than previous works at cost of adding more elements to the final solution. We also provide significant implementation improvements showing that our algorithm outperforms the algorithms in the existing literature. We finally assess the performance of our contributions in three real-world applications.

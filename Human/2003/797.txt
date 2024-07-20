@@ -1,0 +1,8 @@
+Benchmarking and Implementation of Probability-Based Simulations on Programmable Graphics Cards
+
+The latest Graphics Processing Units (GPUs) are reported to reach up to
+ 200 billion floating point operations per second (200 Gflops) and to have price performance of 0.1 cents per M flop. These facts raise great interest in the plausibility of extending the GPUs' use to non-graphics applications, in particular numerical simulations on structured grids (lattice).
+ We review previous work on using GPUs for non-graphics applications, implement probability-based simulations on the GPU, namely the
+ Ising and percolation models, implement vector operation benchmarks for the GPU, and finally compare the CPU's and GPU's performance.
+ A general conclusion from the results obtained is that moving computations from the CPU to the GPU is feasible, yielding good time and price performance, for certain lattice computations.
+ Preliminary results also show that it is feasible to use them in parallel

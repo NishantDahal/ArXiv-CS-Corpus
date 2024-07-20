@@ -1,0 +1,5 @@
+Counting common substrings effectively
+
+This article presents effective (dynamic) algorithm for solving a problem of counting the number of substrings of given string which are also substrings of second string. Presented algorithm can be used for example for quick calculation of strings similarity measure using generalized $n$-gram method (Niewiadomski measure), which are shown. Correctness and complexity analyses are included.
+  -----
+  W artykule przedstawiono efektywny (dynamiczny) algorytm wyznaczający miarę podobieństwa wyrazów za pomocą uogólnionej metody $n$-gramów (miary Niewiadomskiego). Uzasadniono także poprawność działania algorytmu i oszacowano jego złożoność obliczeniową.

@@ -1,0 +1,6 @@
+Simple Compact Monotone Tree Drawings
+
+A monotone drawing of a graph G is a straight-line drawing of G such that every pair of vertices is connected by a path that is monotone with respect to some direction.
+  Trees, as a special class of graphs, have been the focus of several papers and, recently, He and He~\cite{mt:4} showed how to produce a monotone drawing of an arbitrary $n$-vertex tree that is contained in a $12n \times 12n$ grid.
+  All monotone tree drawing algorithms that have appeared in the literature consider rooted ordered trees and they draw them so that (i) the root of the tree is drawn at the origin of the drawing, (ii) the drawing is confined in the first quadrant, and (iii) the ordering/embedding of the tree is respected. In this paper, we provide a simple algorithm that has the exact same characteristics and, given an $n$-vertex rooted tree $T$, it outputs a monotone drawing of $T$ that fits on a $n \times n$ grid.
+  For unrooted ordered trees, we present an algorithms that produces monotone drawings that respect the ordering and fit in an $(n+1) \times (\frac{n}{2} +1)$ grid, while, for unrooted non-ordered trees we produce monotone drawings of good aspect ratio which fit on a grid of size at most $\left\lfloor \frac{3}{4} \left(n+2\right)\right\rfloor \times \left\lfloor \frac{3}{4} \left(n+2\right)\right\rfloor$.

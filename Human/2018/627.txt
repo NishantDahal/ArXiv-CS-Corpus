@@ -1,0 +1,3 @@
+Sparse recovery based on q-ratio constrained minimal singular values
+
+We study verifiable sufficient conditions and computable performance bounds for sparse recovery algorithms such as the Basis Pursuit, the Dantzig selector and the Lasso estimator, in terms of a newly defined family of quality measures for the measurement matrices. With high probability, the developed measures for subgaussian random matrices are bounded away from zero as long as the number of measurements is reasonably large. Comparing to the restricted isotropic constant based performance analysis, the arguments in this paper are much more concise and the obtained bounds are tighter. Numerical experiments are presented to illustrate our theoretical results.

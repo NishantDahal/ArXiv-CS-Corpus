@@ -1,0 +1,11 @@
+Data Load Balancing in Heterogeneous Dynamic Networks
+
+Data load balancing is a challenging task in the P2P systems.
+  Distributed hash table (DHT) abstraction, heterogeneous nodes, and non uniform distribution of objects are the reasons to cause load imbalance in structured P2P overlay networks.
+  Previous works solved the load balancing problem by assuming the homogeneous capabilities of nodes, unawareness of the link latency during transferring load, and imposing logical structures to collect and reassign load.
+  We propose a distributed load balancing algorithm with the topology awareness feature by using the concept of virtual servers.
+  In our approach, each node collects neighborhood load information from physically close nodes and reassigns virtual servers to overlay nodes based upon the topology of underlying network.
+  Consequently, our approach converges data load balancing quickly and it also reduces the load transfer cost between nodes.
+  Moreover, our approach increases the quality of load balancing among close nodes of overlay and it also introduces a new tradeoff between the quality of load balancing and load transfer cost among all overlay nodes.
+  Our simulations show that our approach reduces the load transfer cost and it saves network bandwidth respectively.
+  Finally, we show that the in-degree imbalance of nodes, as a consequence of topology awareness, cannot lead to a remarkable problem in topology aware overlays.

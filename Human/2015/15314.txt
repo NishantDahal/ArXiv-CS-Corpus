@@ -1,0 +1,3 @@
+Kinetic Clustering of Points on the Line
+
+The problem of clustering a set of points moving on the line consists of the following: given positive integers n and k, the initial position and the velocity of n points, find an optimal k-clustering of the points. We consider two classical quality measures for the clustering: minimizing the sum of the clusters diameters and minimizing the maximum diameter of a cluster. For the former, we present polynomial-time algorithms under some assumptions and, for the latter, a (2.71 + epsilon)-approximation.

@@ -1,0 +1,3 @@
+Uniform Interpolation for Coalgebraic Fixpoint Logic
+
+We use the connection between automata and logic to prove that a wide class of coalgebraic fixpoint logics enjoys uniform interpolation. To this aim, first we generalize one of the central results in coalgebraic automata theory, namely closure under projection, which is known to hold for weak-pullback preserving functors, to a more general class of functors, i.e.; functors with quasi-functorial lax extensions. Then we will show that closure under projection implies definability of the bisimulation quantifier in the language of coalgebraic fixpoint logic, and finally we prove the uniform interpolation theorem.

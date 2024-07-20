@@ -1,0 +1,3 @@
+Vector Field Based Neural Networks
+
+A novel Neural Network architecture is proposed using the mathematically and physically rich idea of vector fields as hidden layers to perform nonlinear transformations in the data. The data points are interpreted as particles moving along a flow defined by the vector field which intuitively represents the desired movement to enable classification. The architecture moves the data points from their original configuration to anew one following the streamlines of the vector field with the objective of achieving a final configuration where classes are separable. An optimization problem is solved through gradient descent to learn this vector field.

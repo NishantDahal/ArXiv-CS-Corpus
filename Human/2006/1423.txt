@@ -1,0 +1,3 @@
+Safety Evaluation of Critical Applications Distributed on TDMA-Based Networks
+
+Critical embedded systems have to provide a high level of dependability. In automotive domain, for example, TDMA protocols are largely recommended because of their deterministic behavior. Nevertheless, under the transient environmental perturbations, the loss of communication cycles may occur with a certain probability and, consequently, the system may fail. This paper analyzes the impact of the transient perturbations (especially due to Electromagnetic Interferences) on the dependability of systems distributed on TDMA-based networks. The dependability of such system is modeled as that of "consecutive-k-out-of-n:F" systems and we provide a efficient way for its evaluation.

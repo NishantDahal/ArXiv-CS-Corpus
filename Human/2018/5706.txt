@@ -1,0 +1,4 @@
+Further Consequences of the Colorful Helly Hypothesis
+
+Let $\mathcal{F}$ be a family of convex sets in ${\mathbb R}^d$, which are colored with $d+1$ colors. We say that $\mathcal{F}$ satisfies the Colorful Helly Property if every rainbow selection of $d+1$ sets, one set from each color class, has a non-empty common intersection. The Colorful Helly Theorem of Lovász states that for any such colorful family $\mathcal{F}$ there is a color class $\mathcal{F}_i\subset \mathcal{F}$, for $1\leq i\leq d+1$, whose sets have a non-empty intersection.
+  We establish further consequences of the Colorful Helly hypothesis. In particular, we show that for each dimension $d\geq 2$ there exist numbers $f(d)$ and $g(d)$ with the following property: either one can find an additional color class whose sets can be pierced by $f(d)$ points, or all the sets in $\mathcal{F}$ can be crossed by $g(d)$ lines.

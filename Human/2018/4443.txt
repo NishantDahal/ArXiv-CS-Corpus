@@ -1,0 +1,3 @@
+Deep Learning-Based Food Calorie Estimation Method in Dietary Assessment
+
+Obesity treatment requires obese patients to record all food intakes per day. Computer vision has been introduced to estimate calories from food images. In order to increase accuracy of detection and reduce the error of volume estimation in food calorie estimation, we present our calorie estimation method in this paper. To estimate calorie of food, a top view and side view is needed. Faster R-CNN is used to detect the food and calibration object. GrabCut algorithm is used to get each food's contour. Then the volume is estimated with the food and corresponding object. Finally we estimate each food's calorie. And the experiment results show our estimation method is effective.

@@ -1,0 +1,3 @@
+A note on using finite non-abelian $p$-groups in the MOR cryptosystem
+
+The MOR cryptosystem is a natural generalization of the El-Gamal cryptosystem to non-abelian groups. Using a $p$-group, a cryptosystem was built by this author in 'A simple generalization of El-Gamal cryptosystem to non-abelian groups'. It seems reasonable to assume the cryptosystem is as secure as the El-Gamal cryptosystem over finite fields. A natural question arises can one make a better cryptosystem using $p$-groups? In this paper we show that the answer is no.

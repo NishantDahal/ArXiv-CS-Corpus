@@ -1,0 +1,3 @@
+Improving analytical tomographic reconstructions through consistency conditions
+
+This work introduces and characterizes a fast parameterless filter based on the Helgason-Ludwig consistency conditions, used to improve the accuracy of analytical reconstructions of tomographic undersampled datasets. The filter, acting in the Radon domain, extrapolates intermediate projections between those existing. The resulting sinogram, doubled in views, is then reconstructed by a standard analytical method. Experiments with simulated data prove that the peak-signal-to-noise ratio of the results computed by filtered backprojection is improved up to 5-6 dB, if the filter is used prior to reconstruction.

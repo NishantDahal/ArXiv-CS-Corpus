@@ -1,0 +1,3 @@
+Drift Analysis and Evolutionary Algorithms Revisited
+
+One of the easiest randomized greedy optimization algorithms is the following evolutionary algorithm which aims at maximizing a boolean function $f:\{0,1\}^n \to {\mathbb R}$. The algorithm starts with a random search point $ξ\in \{0,1\}^n$, and in each round it flips each bit of $ξ$ with probability $c/n$ independently at random, where $c>0$ is a fixed constant. The thus created offspring $ξ'$ replaces $ξ$ if and only if $f(ξ') \ge f(ξ)$. The analysis of the runtime of this simple algorithm on monotone and on linear functions turned out to be highly non-trivial. In this paper we review known results and provide new and self-contained proofs of partly stronger results.

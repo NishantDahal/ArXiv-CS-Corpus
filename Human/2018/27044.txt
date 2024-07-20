@@ -1,0 +1,3 @@
+Optimality of the final model found via Stochastic Gradient Descent
+
+We study convergence properties of Stochastic Gradient Descent (SGD) for convex objectives without assumptions on smoothness or strict convexity. We consider the question of establishing that with high probability the objective evaluated at the candidate minimizer returned by SGD is close to the minimal value of the objective. We compare this result concerning the final candidate minimzer (i.e. the final model parameters learned after all gradient steps) to the online learning techniques of [Zin03] that take a rolling average of the model parameters at the different steps of SGD.

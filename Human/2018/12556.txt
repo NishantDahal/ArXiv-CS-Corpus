@@ -1,0 +1,3 @@
+A Constraint-Based Algorithm For Causal Discovery with Cycles, Latent Variables and Selection Bias
+
+Causal processes in nature may contain cycles, and real datasets may violate causal sufficiency as well as contain selection bias. No constraint-based causal discovery algorithm can currently handle cycles, latent variables and selection bias (CLS) simultaneously. I therefore introduce an algorithm called Cyclic Causal Inference (CCI) that makes sound inferences with a conditional independence oracle under CLS, provided that we can represent the cyclic causal process as a non-recursive linear structural equation model with independent errors. Empirical results show that CCI outperforms CCD in the cyclic case as well as rivals FCI and RFCI in the acyclic case.

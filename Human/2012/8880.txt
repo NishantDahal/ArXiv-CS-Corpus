@@ -1,0 +1,4 @@
+On the Automation of Encoding Processes in the Quantum IO Monad
+
+It is now clear that the use of resilient encoding schemes will be required for any quantum computing device to be realised. However, quantum programmers of the future will not wish to be tied up in the particulars of such encoding schemes. Quantum programming languages and libraries are already being developed, one of which is the Quantum IO Monad. QIO, as it is often abbreviated to, provides an interface to define and simulate quantum computations via a library of functions written in Haskell, a purely functional programming language. A solution is presented that takes an arbitrary QIO program and returns an equivalent program incorporating some specified quantum error correction techniques.
+

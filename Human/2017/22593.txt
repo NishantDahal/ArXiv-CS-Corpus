@@ -1,0 +1,5 @@
+Performance Evaluation of SDN-Controlled Green Mobile Fronthaul Using a Federation of Experimental Network
+
+When evolved NodeB (eNB) flexible functional split is implemented in Virtualized Radio Access Network (V-RAN) 5G systems, fronthaul connectivity between the virtualized network functions (VNFs) must be seamlessly guaranteed.
+  This study proposes the utilization of Software Defined Networking (SDN) to control the mobile fronthaul. In particular, this study investigates the ability of the SDN-based control of reconfiguring the fronthaul to maintain VNF connectivity when cell and optical access turn into sleep mode (off mode) for energy efficiency purposes.
+  The evaluation of the proposed scheme is performed by federating two remote experimental testbeds. Results show that, upon cell and optical access turning on and off, the fronthaul reconfiguration time is limited to few tens of milliseconds.

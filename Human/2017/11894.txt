@@ -1,0 +1,3 @@
+Bias-Variance Tradeoff of Graph Laplacian Regularizer
+
+This paper presents a bias-variance tradeoff of graph Laplacian regularizer, which is widely used in graph signal processing and semi-supervised learning tasks. The scaling law of the optimal regularization parameter is specified in terms of the spectral graph properties and a novel signal-to-noise ratio parameter, which suggests selecting a mediocre regularization parameter is often suboptimal. The analysis is applied to three applications, including random, band-limited, and multiple-sampled graph signals. Experiments on synthetic and real-world graphs demonstrate near-optimal performance of the established analysis.

@@ -1,0 +1,3 @@
+Simulation of electrical machines - A FEM-BEM coupling scheme
+
+Electrical machines commonly consist of moving and stationary parts. The field simulation of such devices can be very demanding if the underlying numerical scheme is solely based on a domain discretization, such as in case of the Finite Element Method (FEM). Here, a coupling scheme based on FEM together with Boundary Element Methods (BEM) is presented that neither hinges on re-meshing techniques nor deals with a special treatment of sliding interfaces. While the numerics are certainly more involved the reward is obvious: The modeling costs decrease and the application engineer is provided with an easy-to-use, versatile, and accurate simulation tool.

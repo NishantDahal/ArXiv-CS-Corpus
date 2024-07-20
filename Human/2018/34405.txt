@@ -1,0 +1,3 @@
+Sparse component separation from Poisson measurements
+
+Blind source separation (BSS) aims at recovering signals from mixtures. This problem has been extensively studied in cases where the mixtures are contaminated with additive Gaussian noise. However, it is not well suited to describe data that are corrupted with Poisson measurements such as in low photon count optics or in high-energy astronomical imaging (e.g. observations from the Chandra or Fermi telescopes). To that purpose, we propose a novel BSS algorithm coined pGMCA that specifically tackles the blind separation of sparse sources from Poisson measurements.

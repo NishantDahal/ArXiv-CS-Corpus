@@ -1,0 +1,3 @@
+About the Lifespan of Peer to Peer Networks
+
+We analyze the ability of peer to peer networks to deliver a complete file among the peers. Early on we motivate a broad generalization of network behavior organizing it into one of two successive phases. According to this view the network has two main states: first centralized - few sources (roots) hold the complete file, and next distributed - peers hold some parts (chunks) of the file such that the entire network has the whole file, but no individual has it. In the distributed state we study two scenarios, first, when the peers are ``patient'', i.e, do not leave the system until they obtain the complete file; second, peers are ``impatient'' and almost always leave the network before obtaining the complete file.

@@ -1,0 +1,4 @@
+Use of Information, Memory and Randomization in Asynchronous Gathering
+
+We investigate initial information, unbounded memory and randomization in gathering mobile agents on a grid. We construct a state machine, such that it is possible to gather, with probability 1, all configurations of its copies. This machine has initial input, unbounded memory, and is randomized. We show that no machine having any two of these capabilities but not the third, can be used to gather, with high probability, all configurations.
+  We construct deterministic Turing Machines that are used to gather all connected configurations, and we construct deterministic finite automata that are used to gather all contractible connected configurations.

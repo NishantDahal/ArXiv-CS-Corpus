@@ -1,0 +1,3 @@
+Polynomial-time kernel reductions
+
+In the framework of computational complexity and in an effort to define a more natural reduction for problems of equivalence, we investigate the recently introduced kernel reduction, a reduction that operates on each element of a pair independently. This paper details the limitations and uses of kernel reductions. We show that kernel reductions are weaker than many-one reductions and provide conditions under which complete problems exist. Ultimately, the number and size of equivalence classes can dictate the existence of a kernel reduction. We leave unsolved the unconditional existence of a complete problem under polynomial-time kernel reductions for the standard complexity classes.

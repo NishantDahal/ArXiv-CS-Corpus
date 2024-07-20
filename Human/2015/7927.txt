@@ -1,0 +1,3 @@
+Strategy Synthesis for General Deductive Games Based on SAT Solving
+
+We propose a general framework for modelling and solving deductive games, where one player selects a secret code and the other player strives to discover this code using a minimal number of allowed experiments that reveal some partial information about the code. The framework is implemented in a software tool Cobra, and its functionality is demonstrated by producing new results about existing deductive games.

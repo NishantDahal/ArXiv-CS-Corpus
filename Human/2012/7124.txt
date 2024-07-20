@@ -1,0 +1,3 @@
+Optimal antithickenings of claw-free trigraphs
+
+Chudnovsky and Seymour's structure theorem for claw-free graphs has led to a multitude of recent results that exploit two structural operations: {\em compositions of strips} and {\em thickenings}. In this paper we consider the latter, proving that every claw-free graph has a unique optimal {\em antithickening}, where our definition of {\em optimal} is chosen carefully to respect the structural foundation of the graph. Furthermore, we give an algorithm to find the optimal antithickening in $O(m^2)$ time. For the sake of both completeness and ease of proof, we prove stronger results in the more general setting of trigraphs.

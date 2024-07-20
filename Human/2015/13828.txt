@@ -1,0 +1,3 @@
+Trees with small b-chromatic index
+
+In a recent article [5], the authors claim that the distance between the b-chromatic index of a tree and a known upper bound is at most 1. At the same time, in [7] the authors claim to be able to construct a tree where this difference is bigger than 1. However, the given example was disconnected, i.e., actually consisted of a forest. Here, we slightly modify their construction in order to produce trees, thus getting that indeed the difference between the b-chromatic index of trees and the known upper bound can be arbitrarily large. We also point out the mistake made in [5].

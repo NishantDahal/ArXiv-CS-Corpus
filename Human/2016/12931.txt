@@ -1,0 +1,3 @@
+Fitting a Simplicial Complex using a Variation of k-means
+
+We give a simple and effective two stage algorithm for approximating a point cloud $\mathcal{S}\subset\mathbb{R}^m$ by a simplicial complex $K$. The first stage is an iterative fitting procedure that generalizes k-means clustering, while the second stage involves deleting redundant simplices. A form of dimension reduction of $\mathcal{S}$ is obtained as a consequence.

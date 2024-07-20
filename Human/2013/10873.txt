@@ -1,0 +1,3 @@
+Communication is bounded by root of rank
+
+We prove that any total boolean function of rank $r$ can be computed by a deterministic communication protocol of complexity $O(\sqrt{r} \cdot \log(r))$. Equivalently, any graph whose adjacency matrix has rank $r$ has chromatic number at most $2^{O(\sqrt{r} \cdot \log(r))}$. This gives a nearly quadratic improvement in the dependence on the rank over previous results.

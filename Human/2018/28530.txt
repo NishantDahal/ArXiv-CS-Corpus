@@ -1,0 +1,3 @@
+Towards Cereceda's conjecture for planar graphs
+
+The reconfiguration graph $R_k(G)$ of the $k$-colourings of a graph $G$ has as vertex set the set of all possible $k$-colourings of $G$ and two colourings are adjacent if they differ on the colour of exactly one vertex. Cereceda conjectured ten years ago that, for every $k$-degenerate graph $G$ on $n$ vertices, $R_{k+2}(G)$ has diameter $\mathcal{O}({n^2})$. The conjecture is wide open, with a best known bound of $\mathcal{O}({k^n})$, even for planar graphs. We improve this bound for planar graphs to $2^{\mathcal{O}({\sqrt{n}})}$. Our proof can be transformed into an algorithm that runs in $2^{\mathcal{O}({\sqrt{n}})}$ time.

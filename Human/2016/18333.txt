@@ -1,0 +1,3 @@
+Below all subsets for Minimal Connected Dominating Set
+
+A vertex subset $S$ in a graph $G$ is a dominating set if every vertex not contained in $S$ has a neighbor in $S$. A dominating set $S$ is a connected dominating set if the subgraph $G[S]$ induced by $S$ is connected. A connected dominating set $S$ is a minimal connected dominating set if no proper subset of $S$ is also a connected dominating set. We prove that there exists a constant $\varepsilon > 10^{-50}$ such that every graph $G$ on $n$ vertices has at most $O(2^{(1-\varepsilon)n})$ minimal connected dominating sets. For the same $\varepsilon$ we also give an algorithm with running time $2^{(1-\varepsilon)n}\cdot n^{O(1)}$ to enumerate all minimal connected dominating sets in an input graph $G$.

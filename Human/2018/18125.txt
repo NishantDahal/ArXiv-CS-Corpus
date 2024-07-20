@@ -1,0 +1,3 @@
+Probably approximately correct learning of Horn envelopes from queries
+
+We propose an algorithm for learning the Horn envelope of an arbitrary domain using an expert, or an oracle, capable of answering certain types of queries about this domain. Attribute exploration from formal concept analysis is a procedure that solves this problem, but the number of queries it may ask is exponential in the size of the resulting Horn formula in the worst case. We recall a well-known polynomial-time algorithm for learning Horn formulas with membership and equivalence queries and modify it to obtain a polynomial-time probably approximately correct algorithm for learning the Horn envelope of an arbitrary domain.

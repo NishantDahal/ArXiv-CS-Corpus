@@ -1,0 +1,3 @@
+Adaptive Non-uniform Compressive Sampling for Time-varying Signals
+
+In this paper, adaptive non-uniform compressive sampling (ANCS) of time-varying signals, which are sparse in a proper basis, is introduced. ANCS employs the measurements of previous time steps to distribute the sensing energy among coefficients more intelligently. To this aim, a Bayesian inference method is proposed that does not require any prior knowledge of importance levels of coefficients or sparsity of the signal. Our numerical simulations show that ANCS is able to achieve the desired non-uniform recovery of the signal. Moreover, if the signal is sparse in canonical basis, ANCS can reduce the number of required measurements significantly.

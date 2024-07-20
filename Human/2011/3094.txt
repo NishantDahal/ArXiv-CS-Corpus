@@ -1,0 +1,3 @@
+Cooperative spectrum sensing over unreliable reporting channel
+
+This article aims to analyze a cooperative spectrum sensing scheme using a centralized approach with unreliable reporting channel. The spectrum sensing is applied to a cognitive radio system, where each cognitive radio performs a simple energy detection and send the decision to a fusion center through a reporting channel. When the decisions are available at the fusion center, a n-out-of-K rule is applied. The impact of the choice of the parameter n in the cognitive radio system performance is analyzed in the case where the reporting channel introduces errors.

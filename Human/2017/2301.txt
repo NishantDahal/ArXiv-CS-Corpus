@@ -1,0 +1,3 @@
+Courcelle's Theorem Made Dynamic
+
+Dynamic complexity is concerned with updating the output of a problem when the input is slightly changed. We study the dynamic complexity of model checking a fixed monadic second-order formula over evolving subgraphs of a fixed maximal graph having bounded tree-width; here the subgraph evolves by losing or gaining edges (from the maximal graph). We show that this problem is in DynFO (with LOGSPACE precomputation), via a reduction to a Dyck reachability problem on an acyclic automaton.

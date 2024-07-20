@@ -1,0 +1,6 @@
+Tight Bounds for the Distribution-Free Testing of Monotone Conjunctions
+
+We improve both upper and lower bounds for the distribution-free testing of monotone conjunctions.
+  Given oracle access to an unknown Boolean function $f:\{0,1\}^n \rightarrow \{0,1\}$ and sampling oracle access to an unknown distribution $\mathcal{D}$ over $\{0,1\}^n$, we present an $\tilde{O}(n^{1/3}/ε^5)$-query algorithm that tests whether $f$ is a monotone conjunction versus $ε$-far from any monotone conjunction with respect to $\mathcal{D}$. This improves the previous best upper bound of $\tilde{O}(n^{1/2}/ε)$ by Dolev and Ron when $1/ε$ is small compared to $n$.
+  For some constant $ε_0>0$, we also prove a lower bound of $\tildeΩ(n^{1/3})$ for the query complexity, improving the previous best lower bound of $\tildeΩ(n^{1/5})$ by Glasner and Servedio.
+  Our upper and lower bounds are tight, up to a poly-logarithmic factor, when the distance parameter $ε$ is a constant. Furthermore, the same upper and lower bounds can be extended to the distribution-free testing of general conjunctions, and the lower bound can be extended to that of decision lists and linear threshold functions.

@@ -1,0 +1,3 @@
+Transport Protocols for Large Bandwidth-Delay Product Networks - TCP Extensions and Alternative Transport Protocols
+
+TCP's poor performance is identified as the bottleneck of high-speed networks. Extensions to TCP have been proposed and implemented. Some authors abandon TCP at all and suggest new transport protocols to overcome TCP limitations, at the expense of compatibility. This paper reports a research on the most significant TCP extensions and transport alternatives, and comparison between them. The majority of the solutions pointed out are difficult to compare because they are tailored to specific configurations. Still there is no specific criteria to evaluate performance metrics and comparison is done on the most evident issues.

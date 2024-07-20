@@ -1,0 +1,3 @@
+COINS: a constraint-based interactive solving system
+
+This paper describes the COINS (COnstraint-based INteractive Solving) system: a conflict-based constraint solver. It helps understanding inconsistencies, simulates constraint additions and/or retractions (without any propagation), determines if a given constraint belongs to a conflict and provides diagnosis tools (e.g. why variable v cannot take value val). COINS also uses user-friendly representation of conflicts and explanations.

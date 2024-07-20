@@ -1,0 +1,3 @@
+Distributed dynamic load balancing for task parallel programming
+
+In this paper, we derive and investigate approaches to dynamically load balance a distributed task parallel application software. The load balancing strategy is based on task migration. Busy processes export parts of their ready task queue to idle processes. Idle--busy pairs of processes find each other through a random search process that succeeds within a few steps with high probability. We evaluate the load balancing approach for a block Cholesky factorization implementation and observe a reduction in execution time on the order of 5\% in the selected test cases.

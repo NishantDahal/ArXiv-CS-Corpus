@@ -1,0 +1,3 @@
+Actors vs Shared Memory: two models at work on Big Data application frameworks
+
+This work aims at analyzing how two different concurrency models, namely the shared memory model and the actor model, can influence the development of applications that manage huge masses of data, distinctive of Big Data applications. The paper compares the two models by analyzing a couple of concrete projects based on the MapReduce and Bulk Synchronous Parallel algorithmic schemes. Both projects are doubly implemented on two concrete platforms: Akka Cluster and Managed X10. The result is both a conceptual comparison of models in the Big Data Analytics scenario, and an experimental analysis based on concrete executions on a cluster platform.

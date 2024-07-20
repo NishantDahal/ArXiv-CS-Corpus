@@ -1,0 +1,3 @@
+A Lower Bound on Supporting Predecessor Search in $k$ sorted Arrays
+
+We seek to perform efficient queries for the predecessor among $n$ values stored in $k$ sorted arrays. Evading the $Ω(n \log k)$ lower bound from merging $k$ arrays, we support predecessor queries in $O(\log n)$ time after $O(n \log(\frac{k}{\log n}))$ construction time. By applying Ben-Or's technique, we establish that this is optimal for strict predecessor queries, i.e., every data structure supporting $O(\log n)$-time strict predecessor queries requires $Ω(n \log(\frac{k}{\log n}))$ construction time. Our approach generalizes as a template for deriving similar lower bounds on the construction time of data structures with some desired query time.

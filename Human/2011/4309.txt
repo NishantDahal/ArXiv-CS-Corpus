@@ -1,0 +1,3 @@
+Deciding first order logic properties of matroids
+
+Frick and Grohe [J. ACM 48 (2006), 1184-1206] introduced a notion of graph classes with locally bounded tree-width and established that every first order logic property can be decided in almost linear time in such a graph class. Here, we introduce an analogous notion for matroids (locally bounded branch-width) and show the existence of a fixed parameter algorithm for first order logic properties in classes of regular matroids with locally bounded branch-width. To obtain this result, we show that the problem of deciding the existence of a circuit of length at most k containing two given elements is fixed parameter tractable for regular matroids.

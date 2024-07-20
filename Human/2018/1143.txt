@@ -1,0 +1,3 @@
+Biomedical Question Answering via Weighted Neural Network Passage Retrieval
+
+The amount of publicly available biomedical literature has been growing rapidly in recent years, yet question answering systems still struggle to exploit the full potential of this source of data. In a preliminary processing step, many question answering systems rely on retrieval models for identifying relevant documents and passages. This paper proposes a weighted cosine distance retrieval scheme based on neural network word embeddings. Our experiments are based on publicly available data and tasks from the BioASQ biomedical question answering challenge and demonstrate significant performance gains over a wide range of state-of-the-art models.

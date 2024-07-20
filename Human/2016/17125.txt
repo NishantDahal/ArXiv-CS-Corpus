@@ -1,0 +1,3 @@
+Moore: Interval Arithmetic in Modern C++
+
+We present the library Moore, which implements Interval Arithmetic in modern C++. This library is based on a new feature in the C++ language called concepts, which reduces the problems caused by template meta programming, and leads to a new approach for implementing interval arithmetic libraries in C++.

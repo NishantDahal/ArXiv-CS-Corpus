@@ -1,0 +1,3 @@
+copMEM: Finding maximal exact matches via sampling both genomes
+
+Genome-to-genome comparisons require designating anchor points, which are given by Maximum Exact Matches (MEMs) between their sequences. For large genomes this is a challenging problem and the performance of existing solutions, even in parallel regimes, is not quite satisfactory. We present a new algorithm, copMEM, that allows to sparsely sample both input genomes, with sampling steps being coprime. Despite being a single-threaded implementation, copMEM computes all MEMs of minimum length 100 between the human and mouse genomes in less than 2 minutes, using less than 10 GB of RAM memory.

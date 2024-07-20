@@ -1,0 +1,3 @@
+Drawing Big Graphs using Spectral Sparsification
+
+Spectral sparsification is a general technique developed by Spielman et al. to reduce the number of edges in a graph while retaining its structural properties. We investigate the use of spectral sparsification to produce good visual representations of big graphs. We evaluate spectral sparsification approaches on real-world and synthetic graphs. We show that spectral sparsifiers are more effective than random edge sampling. Our results lead to guidelines for using spectral sparsification in big graph visualization.

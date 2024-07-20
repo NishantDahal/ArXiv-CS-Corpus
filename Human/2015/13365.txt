@@ -1,0 +1,3 @@
+Tight Bounds for Active Self-Assembly Using an Insertion Primitive
+
+We prove two tight bounds on the behavior of a model of self-assembling particles introduced by Dabby and Chen (SODA 2013), called insertion systems, where monomers insert themselves into the middle of a growing linear polymer. First, we prove that the expressive power of these systems is equal to context-free grammars, answering a question posed by Dabby and Chen. Second, we prove that systems of $k$ monomer types can deterministically construct polymers of length $n = 2^{Θ(k^{3/2})}$ in $O(\log^{5/3}(n))$ expected time, and that this is optimal in both the number of monomer types and expected time.

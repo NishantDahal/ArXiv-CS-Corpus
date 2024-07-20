@@ -1,0 +1,3 @@
+Efficiently decodable insertion/deletion codes for high-noise and high-rate regimes
+
+This work constructs codes that are efficiently decodable from a constant fraction of \emph{worst-case} insertion and deletion errors in three parameter settings: (i) Binary codes with rate approaching 1; (ii) Codes with constant rate for error fraction approaching 1 over fixed alphabet size; and (iii) Constant rate codes over an alphabet of size $k$ for error fraction approaching $(k-1)/(k+1)$. When errors are constrained to deletions alone, efficiently decodable codes in each of these regimes were constructed recently. We complete the picture by constructing similar codes that are efficiently decodable in the insertion/deletion regime.

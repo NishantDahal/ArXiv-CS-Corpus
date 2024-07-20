@@ -1,0 +1,3 @@
+Private Information Retrieval using Product-Matrix Minimum Storage Regenerating Codes
+
+Private Information Retrieval (PIR) schemes allow a user to retrieve a record from the server without revealing any information on which record is being downloaded. In this paper, we consider PIR schemes where the database is stored using Minimum Storage Regenerating (MSR) codes which is a class of optimal regenerating codes providing efficient repair when a node failure occurs in the system. We analyse the relationship between the costs of privacy, storage and repair, and also construct an explicit PIR scheme that uses the MSR codes from [3] to achieve the optimal curve of the trade-off.

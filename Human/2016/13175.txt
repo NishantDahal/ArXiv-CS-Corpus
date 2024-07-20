@@ -1,0 +1,3 @@
+Mining frequent items in the time fading model
+
+We present FDCMSS, a new sketch-based algorithm for mining frequent items in data streams. The algorithm cleverly combines key ideas borrowed from forward decay, the Count-Min and the Space Saving algorithms. It works in the time fading model, mining data streams according to the cash register model. We formally prove its correctness and show, through extensive experimental results, that our algorithm outperforms $λ$-HCount, a recently developed algorithm, with regard to speed, space used, precision attained and error committed on both synthetic and real datasets.

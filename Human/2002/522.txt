@@ -1,0 +1,4 @@
+Comparing EQP and MOD_{p^k}P using Polynomial Degree Lower Bounds
+
+We show that an oracle A that contains either 1/4 or 3/4 of all strings of length n can be used to separate EQP from the counting classes MOD_{p^k}P. Our proof makes use of the degree of a representing polynomial over the finite field of size p^k. We show a linear lower bound on the degree of this polynomial.
+  We also show an upper bound of O(n^{1/log_p m}) on the degree over the ring of integers modulo m, whenever m is a squarefree composite with largest prime factor p.

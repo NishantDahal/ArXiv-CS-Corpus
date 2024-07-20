@@ -1,0 +1,3 @@
+McNie2-Gabidulin: An improvement of McNie public key encryption using Gabidulin code
+
+McNie is a code-based public key encryption scheme submitted as a candidate to the NIST Post-Quantum Cryptography standardization. In this paper, we present McNie2-Gabidulin, an improvement of McNie. By using Gabidulin code, we eliminate the decoding failure, which is one of the limitations of the McNie public key cryptosystem that uses LRPC codes. We prove that this new cryptosystem is IND-CPA secure. Suggested parameters are also given which provides low key sizes compared to other known code based cryptosystems with zero decryption failure probability.

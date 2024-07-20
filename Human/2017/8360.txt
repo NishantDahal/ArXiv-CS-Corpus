@@ -1,0 +1,4 @@
+Lock-step simulation is child's play
+
+Implementing multi-player networked games by broadcasting the player's input and letting each client calculate the game state - a scheme known as lock-step simulation - is an established technique. However, ensuring that every client in this scheme obtains a consistent state is infamously hard and in general requires great discipline from the game programmer. The thesis of this report is that in the realm of functional programming - in particular with Haskell's purity and static pointers - this hard problem becomes almost trivially easy.
+  We support this thesis by implementing lock-step simulation under very adverse conditions. We extended the educational programming environment CodeWorld, which is used to teach math and programming to middle school students, with the ability to create and run interactive, networked multi-user games. Despite providing a very abstract and high-level interface, and without requiring

@@ -1,0 +1,3 @@
+Edge Preserving Multi-Modal Registration Based On Gradient Intensity Self-Similarity
+
+Image registration is a challenging task in the world of medical imaging. Particularly, accurate edge registration plays a central role in a variety of clinical conditions. The Modality Independent Neighbourhood Descriptor (MIND) demonstrates state of the art alignment, based on the image self-similarity. However, this method appears to be less accurate regarding edge registration. In this work, we propose a new registration method, incorporating gradient intensity and MIND self-similarity metric. Experimental results show the superiority of this method in edge registration tasks, while preserving the original MIND performance for other image features and textures.

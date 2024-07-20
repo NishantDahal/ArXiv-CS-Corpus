@@ -1,0 +1,3 @@
+Tensor Completion by Alternating Minimization under the Tensor Train (TT) Model
+
+Using the matrix product state (MPS) representation of tensor train decompositions, in this paper we propose a tensor completion algorithm which alternates over the matrices (tensors) in the MPS representation. This development is motivated in part by the success of matrix completion algorithms which alternate over the (low-rank) factors. We comment on the computational complexity of the proposed algorithm and numerically compare it with existing methods employing low rank tensor train approximation for data completion as well as several other recently proposed methods. We show that our method is superior to existing ones for a variety of real settings.

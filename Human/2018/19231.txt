@@ -1,0 +1,3 @@
+A complete characterization of plateaued Boolean functions in terms of their Cayley graphs
+
+In this paper we find a complete characterization of plateaued Boolean functions in terms of the associated Cayley graphs. Precisely, we show that a Boolean function $f$ is $s$-plateaued (of weight $=2^{(n+s-2)/2}$) if and only if the associated Cayley graph is a complete bipartite graph between the support of $f$ and its complement (hence the graph is strongly regular of parameters $e=0,d=2^{(n+s-2)/2}$). Moreover, a Boolean function $f$ is $s$-plateaued (of weight $\neq 2^{(n+s-2)/2}$) if and only if the associated Cayley graph is strongly $3$-walk-regular (and also strongly $\ell$-walk-regular, for all odd $\ell\geq 3$) with some explicitly given parameters.

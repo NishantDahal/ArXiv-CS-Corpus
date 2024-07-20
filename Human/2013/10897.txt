@@ -1,0 +1,3 @@
+Minimum Common String Partition Parameterized by Partition Size is Fixed-Parameter Tractable
+
+The NP-hard Minimum Common String Partition problem asks whether two strings $x$ and $y$ can each be partitioned into at most $k$ substrings, called blocks, such that both partitions use exactly the same blocks in a different order. We present the first fixed-parameter algorithm for Minimum Common String Partition using only parameter $k$.

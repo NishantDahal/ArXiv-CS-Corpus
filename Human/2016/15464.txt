@@ -1,0 +1,4 @@
+Parameterized Dataflow (Extended Abstract)
+
+Dataflow networks have application in various forms of stream processing, for example for parallel processing of multimedia data.  The description of dataflow graphs, including their firing behavior, is typically non-compositional and not amenable to separate compilation.  This article considers a dataflow language with a type and effect system that captures the firing behavior of actors.  This system allows definitions to abstract over actor firing rates, supporting the definition and safe composition of actor definitions where firing rates are not instantiated until a dataflow graph is launched.
+

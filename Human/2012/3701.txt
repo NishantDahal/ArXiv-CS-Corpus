@@ -1,0 +1,3 @@
+Learning Continuous-Time Social Network Dynamics
+
+We demonstrate that a number of sociology models for social network dynamics can be viewed as continuous time Bayesian networks (CTBNs). A sampling-based approximate inference method for CTBNs can be used as the basis of an expectation-maximization procedure that achieves better accuracy in estimating the parameters of the model than the standard method of moments algorithmfromthe sociology literature. We extend the existing social network models to allow for indirect and asynchronous observations of the links. A Markov chain Monte Carlo sampling algorithm for this new model permits estimation and inference. We provide results on both a synthetic network (for verification) and real social network data.

@@ -1,0 +1,5 @@
+Spoiled Onions: Exposing Malicious Tor Exit Relays
+
+Several hundred Tor exit relays together push more than 1 GiB/s of network traffic. However, it is easy for exit relays to snoop and tamper with anonymised network traffic and as all relays are run by independent volunteers, not all of them are innocuous.
+  In this paper, we seek to expose malicious exit relays and document their actions. First, we monitored the Tor network after developing a fast and modular exit relay scanner. We implemented several scanning modules for detecting common attacks and used them to probe all exit relays over a period of four months. We discovered numerous malicious exit relays engaging in different attacks. To reduce the attack surface users are exposed to, we further discuss the design and implementation of a browser extension patch which fetches and compares suspicious X.509 certificates over independent Tor circuits.
+  Our work makes it possible to continuously monitor Tor exit relays. We are able to detect and thwart many man-in-the-middle attacks which makes the network safer for its users. All our code is available under a free license.

@@ -1,0 +1,3 @@
+SigViewer: Visualizing Multimodal Signals Stored in XDF (Extensible Data Format) Files
+
+Multimodal biosignal acquisition is facilitated by recently introduced software solutions such as LabStreaming Layer (LSL) and its associated data format XDF (Extensible Data Format). However, there are no stand-alone applications that can visualize multimodal time series stored in XDF files. We extended SigViewer, an open source cross-platform Qt C++ application with the capability of loading, resampling, annotating, and visualizing signals stored in XDF files and successfully applied the tool for post-hoc visual verification of the accuracy of a system that aims to predict the phase of alpha oscillations within the electroencephalogram in real-time.

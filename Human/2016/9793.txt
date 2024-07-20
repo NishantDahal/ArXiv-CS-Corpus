@@ -1,0 +1,3 @@
+Car Segmentation and Pose Estimation using 3D Object Models
+
+Image segmentation and 3D pose estimation are two key cogs in any algorithm for scene understanding. However, state-of-the-art CRF-based models for image segmentation rely mostly on 2D object models to construct top-down high-order potentials. In this paper, we propose new top-down potentials for image segmentation and pose estimation based on the shape and volume of a 3D object model. We show that these complex top-down potentials can be easily decomposed into standard forms for efficient inference in both the segmentation and pose estimation tasks. Experiments on a car dataset show that knowledge of segmentation helps perform pose estimation better and vice versa.

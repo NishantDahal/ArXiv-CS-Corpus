@@ -1,0 +1,3 @@
+Multi-scale Community Detection using Stability Optimisation within Greedy Algorithms
+
+Many real systems can be represented as networks whose analysis can be very informative regarding the original system's organisation. In the past decade community detection received a lot of attention and is now an active field of research. Recently stability was introduced as a new measure for partition quality. This work investigates stability as an optimisation criterion that exploits a Markov process view of networks to enable multi-scale community detection. Several heuristics and variations of an algorithm optimising stability are presented as well as an application to overlapping communities. Experiments show that the method enables accurate multi-scale network analysis.

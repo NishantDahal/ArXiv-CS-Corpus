@@ -1,0 +1,3 @@
+Large-Margin Learning of Submodular Summarization Methods
+
+In this paper, we present a supervised learning approach to training submodular scoring functions for extractive multi-document summarization. By taking a structured predicition approach, we provide a large-margin method that directly optimizes a convex relaxation of the desired performance measure. The learning method applies to all submodular summarization methods, and we demonstrate its effectiveness for both pairwise as well as coverage-based scoring functions on multiple datasets. Compared to state-of-the-art functions that were tuned manually, our method significantly improves performance and enables high-fidelity models with numbers of parameters well beyond what could reasonbly be tuned by hand.

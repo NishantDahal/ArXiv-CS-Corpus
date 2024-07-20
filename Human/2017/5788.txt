@@ -1,0 +1,3 @@
+Complexity of Conditional Term Rewriting
+
+We propose a notion of complexity for oriented conditional term rewrite systems satisfying certain restrictions. This notion is realistic in the sense that it measures not only successful computations, but also partial computations that result in a failed rule application. A transformation to unconditional context-sensitive rewrite systems is presented which reflects this complexity notion, as well as a technique to derive runtime and derivational complexity bounds for the result of this transformation.

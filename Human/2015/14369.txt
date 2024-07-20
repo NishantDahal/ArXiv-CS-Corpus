@@ -1,0 +1,3 @@
+Robust Registration of Calcium Images by Learned Contrast Synthesis
+
+Multi-modal image registration is a challenging task that is vital to fuse complementary signals for subsequent analyses. Despite much research into cost functions addressing this challenge, there exist cases in which these are ineffective. In this work, we show that (1) this is true for the registration of in-vivo Drosophila brain volumes visualizing genetically encoded calcium indicators to an nc82 atlas and (2) that machine learning based contrast synthesis can yield improvements. More specifically, the number of subjects for which the registration outright failed was greatly reduced (from 40% to 15%) by using a synthesized image.

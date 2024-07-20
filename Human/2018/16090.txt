@@ -1,0 +1,3 @@
+Randomization Approaches for Reducing PAPR with Partial Transmit Sequences and Semidefinite Relaxation
+
+To reduce peak-to-average power ratio, we propose a method to choose a suitable vector for a partial transmit sequence technique. With a conventional method for this technique, we have to choose a suitable vector from a large amount of candidates. By contrast, our method does not include such a selecting procedure, and consists of generating random vectors from the Gaussian distribution whose covariance matrix is a solution of a relaxed problem. The suitable vector is chosen from the random vectors. This yields lower peak-to-average power ratio, compared to a conventional method for the fixed number of random vectors.

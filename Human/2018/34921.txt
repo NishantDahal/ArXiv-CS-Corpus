@@ -1,0 +1,3 @@
+Matrix Factorization via Deep Learning
+
+Matrix completion is one of the key problems in signal processing and machine learning. In recent years, deep-learning-based models have achieved state-of-the-art results in matrix completion. Nevertheless, they suffer from two drawbacks: (i) they can not be extended easily to rows or columns unseen during training; and (ii) their results are often degraded in case discrete predictions are required. This paper addresses these two drawbacks by presenting a deep matrix factorization model and a generic method to allow joint training of the factorization model and the discretization operator. Experiments on a real movie rating dataset show the efficacy of the proposed models.

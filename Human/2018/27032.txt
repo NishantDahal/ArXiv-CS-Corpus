@@ -1,0 +1,3 @@
+Two view constraints on the epipoles from few correspondences
+
+In general it requires at least 7 point correspondences to compute the fundamental matrix between views. We use the cross ratio invariance between corresponding epipolar lines, stemming from epipolar line homography, to derive a simple formulation for the relationship between epipoles and corresponding points. We show how it can be used to reduce the number of required points for the epipolar geometry when some information about the epipoles is available and demonstrate this with a buddy search app.

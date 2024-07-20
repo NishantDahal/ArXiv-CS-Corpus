@@ -1,0 +1,3 @@
+Simple and Efficient Fully-Functional Succinct Trees
+
+The fully-functional succinct tree representation of Navarro and Sadakane (ACM Transactions on Algorithms, 2014) supports a large number of operations in constant time using $2n+o(n)$ bits. However, the full idea is hard to implement. Only a simplified version with $O(\log n)$ operation time has been implemented and shown to be practical and competitive. We describe a new variant of the original idea that is much simpler to implement and has worst-case time $O(\log\log n)$ for the operations. An implementation based on this version is experimentally shown to be superior to existing implementations.

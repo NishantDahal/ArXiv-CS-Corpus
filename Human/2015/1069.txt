@@ -1,0 +1,3 @@
+Dining Cryptographers are Practical
+
+The dining cryptographers protocol provides information-theoretically secure sender and recipient untraceability. However, the protocol is considered to be impractical because a malicious participant may disrupt the communication. We propose an implementation which provides information-theoretical security for senders and recipients, and in which a disruptor with limited computational capabilities can easily be detected.

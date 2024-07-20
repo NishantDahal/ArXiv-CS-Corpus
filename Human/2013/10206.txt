@@ -1,0 +1,4 @@
+A two-step model and the algorithm for recalling in recommender systems
+
+When a user finds an interesting recommendation in a recommender system, the user may want to recall related items recommended in the past to reconsider or to enjoy them again. If the system can pick up such "recalled" items at each user's request, it must deepen the user experience.
+  We propose a model and the algorithm for such personalized "recalling" in conventional recommender systems, which is an application of neural networks for associative memory. In our model, the "recalled" items can reflect each user's personality beyond naive similarities between items.

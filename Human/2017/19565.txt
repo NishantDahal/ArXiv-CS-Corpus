@@ -1,0 +1,3 @@
+Formal Languages, Formally and Coinductively
+
+Traditionally, formal languages are defined as sets of words. More recently, the alternative coalgebraic or coinductive representation as infinite tries, i.e., prefix trees branching over the alphabet, has been used to obtain compact and elegant proofs of classic results in language theory. In this article, we study this representation in the Isabelle proof assistant. We define regular operations on infinite tries and prove the axioms of Kleene algebra for those operations. Thereby, we exercise corecursion and coinduction and confirm the coinductive view being profitable in formalizations, as it improves over the set-of-words view with respect to proof automation.

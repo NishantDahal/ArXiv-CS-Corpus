@@ -1,0 +1,3 @@
+XSS-FP: Browser Fingerprinting using HTML Parser Quirks
+
+There are many scenarios in which inferring the type of a client browser is desirable, for instance to fight against session stealing. This is known as browser fingerprinting. This paper presents and evaluates a novel fingerprinting technique to determine the exact nature (browser type and version, eg Firefox 15) of a web-browser, exploiting HTML parser quirks exercised through XSS. Our experiments show that the exact version of a web browser can be determined with 71% of accuracy, and that only 6 tests are sufficient to quickly determine the exact family a web browser belongs to.

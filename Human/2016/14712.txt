@@ -1,0 +1,3 @@
+A $\widetilde{O}(n)$ Non-Adaptive Tester for Unateness
+
+Khot and Shinkar (RANDOM, 2016) recently describe an adaptive, $O(n \log(n)/\varepsilon)$-query tester for unateness of Boolean functions $f:\{0,1\}^n \to \{0,1\}$. In this note we describe a simple non-adaptive, $O(n \log(n/\varepsilon)/\varepsilon)$ -query tester for unateness for functions over the hypercube with any ordered range.

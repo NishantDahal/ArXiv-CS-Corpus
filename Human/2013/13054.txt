@@ -1,0 +1,3 @@
+A polynomial projection-type algorithm for linear programming
+
+We propose a simple O([n^5/\log n]L) algorithm for linear programming feasibility, that can be considered as a polynomial-time implementation of the relaxation method. Our work draws from Chubanov's "Divide-and-Conquer" algorithm [4], where the recursion is replaced by a simple and more efficient iterative method. A similar approach was used in a more recent paper of Chubanov [6].

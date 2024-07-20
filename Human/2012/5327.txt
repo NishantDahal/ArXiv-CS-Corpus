@@ -1,0 +1,3 @@
+Software Verification for Weak Memory via Program Transformation
+
+Despite multiprocessors implementing weak memory models, verification methods often assume Sequential Consistency (SC), thus may miss bugs due to weak memory. We propose a sound transformation of the program to verify, enabling SC tools to perform verification w.r.t. weak memory. We present experiments for a broad variety of models (from x86/TSO to Power/ARM) and a vast range of verification tools, quantify the additional cost of the transformation and highlight the cases when we can drastically reduce it. Our benchmarks include work-queue management code from PostgreSQL.

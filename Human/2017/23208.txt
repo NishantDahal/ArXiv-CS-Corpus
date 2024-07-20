@@ -1,0 +1,3 @@
+Non-deterministic Characterisations
+
+In this paper, we extend Jones' result -- that cons-free programming with $k^{th}$-order data and a call-by-value strategy characterises EXP$^k$TIME -- to a more general setting, including pattern-matching and non-deterministic choice. We show that the addition of non-determinism is unexpectedly powerful in the higher-order setting. Nevertheless, we can obtain a non-deterministic parallel to Jones' hierarchy result by appropriate restricting rule formation.

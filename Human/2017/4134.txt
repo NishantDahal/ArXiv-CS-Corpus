@@ -1,0 +1,3 @@
+Model-based Testing of the Java Network API
+
+Testing networked systems is challenging. The client or server side cannot be tested by itself. We present a solution using tool "Modbat" that generates test cases for Java's network library java.nio, where we test both blocking and non-blocking network functions. Our test model can dynamically simulate actions in multiple worker and client threads, thanks to a carefully orchestrated design that covers non-determinism while ensuring progress.

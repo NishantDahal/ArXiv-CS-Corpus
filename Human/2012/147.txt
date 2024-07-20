@@ -1,0 +1,3 @@
+Secondary use of data in EHR systems
+
+We show how to use aspect-oriented programming to separate security and trust issues from the logical design of mobile, distributed systems. The main challenge is how to enforce various types of security policies, in particular predictive access control policies - policies based on the future behavior of a program. A novel feature of our approach is that advice is able to analyze the future use of data. We consider a number of different security policies, concerning both primary and secondary use of data, some of which can only be enforced by analysis of process continuations.

@@ -1,0 +1,4 @@
+Navigability with Imperfect Information
+
+The article studies navigability of an autonomous agent in a maze where some rooms may be indistinguishable. In a previous work the authors have shown that the properties of navigability in such a setting depend on whether an agent has perfect recall. Navigability by an agent with perfect recall is a transitive relation and without is not transitive.
+  This article introduces a notion of restricted navigability and shows that a certain form of transitivity holds for restricted navigability, even for an agent without perfect recall. The main technical result is a sound and complete logical system describing the properties of restricted navigability.

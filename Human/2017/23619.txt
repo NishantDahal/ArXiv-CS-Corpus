@@ -1,0 +1,3 @@
+Random Subspace Two-dimensional LDA for Face Recognition
+
+In this paper, a novel technique named random subspace two-dimensional LDA (RS-2DLDA) is developed for face recognition. This approach offers a number of improvements over the random subspace two-dimensional PCA (RS2DPCA) framework introduced by Nguyen et al. [5]. Firstly, the eigenvectors from 2DLDA have more discriminative power than those from 2DPCA, resulting in higher accuracy for the RS-2DLDA method over RS-2DPCA. Various distance metrics are evaluated, and a weighting scheme is developed to further boost accuracy. A series of experiments on the MORPH-II and ORL datasets are conducted to demonstrate the effectiveness of this approach.

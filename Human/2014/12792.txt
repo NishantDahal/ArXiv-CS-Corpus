@@ -1,0 +1,3 @@
+Faster Exact Search using Document Clustering
+
+We show how full-text search based on inverted indices can be accelerated by clustering the documents without losing results (SeCluD -- SEarch with CLUstered Documents). We develop a fast multilevel clustering algorithm that explicitly uses query cost for conjunctive queries as an objective function. Depending on the inputs we get up to four times faster than non-clustered search. The resulting clusters are also useful for data compression and for distributing the work over many machines.

@@ -1,0 +1,3 @@
+Equalization Methods for NLIN Mitigation
+
+We investigate the potential of adaptive equalization techniques to mitigate inter-channel nonlinear interference noise (NLIN). We derive a lower bound on the mutual information of a system using adaptive equalization, showing that the channel estimation error determines the equalizer's performance. We develop an adaptive equalization scheme which uses the statistics of the NLIN to obtain optimal detection, based on Kalman filtering and maximum likelihood sequence estimation (MLSE). This scheme outperforms commonly used equalizers and significantly increases performance.

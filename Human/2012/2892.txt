@@ -1,0 +1,4 @@
+A regularity lemma and twins in words
+
+For a word $S$, let $f(S)$ be the largest integer $m$ such that there are two disjoints identical (scattered) subwords of length $m$. Let $f(n, Σ) = \min \{f(S): S \text{is of length} n, \text{over alphabet} Σ\}$. Here, it is shown that \[2f(n, \{0,1\}) = n-o(n)\] using the regularity lemma for words.
+  I.e., any binary word of length $n$ can be split into two identical subwords (referred to as twins) and, perhaps, a remaining subword of length $o(n)$. A similar result is proven for $k$ identical subwords of a word over an alphabet with at most $k$ letters.

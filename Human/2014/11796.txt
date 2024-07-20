@@ -1,0 +1,3 @@
+Type theoretical databases
+
+We present a soundness theorem for a dependent type theory with context constants with respect to an indexed category of (finite, abstract) simplical complexes. The point of interest for computer science is that this category can be seen to represent tables in a natural way. Thus the category is a model for databases, a single mathematical structure in which all database schemas and instances (of a suitable, but sufficiently general form) are represented. The type theory then allows for the specification of database schemas and instances, the manipulation of the same with the usual type-theoretic operations, and the posing of queries.

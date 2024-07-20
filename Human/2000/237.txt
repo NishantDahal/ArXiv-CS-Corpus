@@ -1,0 +1,3 @@
+Novelty Detection for Robot Neotaxis
+
+The ability of a robot to detect and respond to changes in its environment is potentially very useful, as it draws attention to new and potentially important features. We describe an algorithm for learning to filter out previously experienced stimuli to allow further concentration on novel features. The algorithm uses a model of habituation, a biological process which causes a decrement in response with repeated presentation. Experiments with a mobile robot are presented in which the robot detects the most novel stimulus and turns towards it (`neotaxis').

@@ -1,0 +1,3 @@
+Bertini for Macaulay2
+
+Numerical algebraic geometry is the field of computational mathematics concerning the numerical solution of polynomial systems of equations. Bertini, a popular software package for computational applications of this field, includes implementations of a variety of algorithms based on polynomial homotopy continuation. The Macaulay2 package Bertini.m2 provides an interface to Bertini, making it possible to access the core run modes of Bertini in Macaulay2. With these run modes, users can find approximate solutions to zero-dimensional systems and positive-dimensional systems, test numerically whether a point lies on a variety, sample numerically from a variety, and perform parameter homotopy runs.

@@ -1,0 +1,3 @@
+Mutation Testing as a Safety Net for Test Code Refactoring
+
+Refactoring is an activity that improves the internal structure of the code without altering its external behavior. When performed on the production code, the tests can be used to verify that the external behavior of the production code is preserved. However, when the refactoring is performed on test code, there is no safety net that assures that the external behavior of the test code is preserved. In this paper, we propose to adopt mutation testing as a means to verify if the behavior of the test code is preserved after refactoring. Moreover, we also show how this approach can be used to identify the part of the test code which is improperly refactored.

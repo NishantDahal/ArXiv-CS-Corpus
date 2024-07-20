@@ -1,0 +1,3 @@
+Deep Canonically Correlated LSTMs
+
+We examine Deep Canonically Correlated LSTMs as a way to learn nonlinear transformations of variable length sequences and embed them into a correlated, fixed dimensional space. We use LSTMs to transform multi-view time-series data non-linearly while learning temporal relationships within the data. We then perform correlation analysis on the outputs of these neural networks to find a correlated subspace through which we get our final representation via projection. This work follows from previous work done on Deep Canonical Correlation (DCCA), in which deep feed-forward neural networks were used to learn nonlinear transformations of data while maximizing correlation.

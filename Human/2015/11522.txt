@@ -1,0 +1,3 @@
+Insecure primitive elements in an ElGamal signature protocol
+
+Consider the classical ElGamal digital signature scheme based on the modular relation $α^m\equiv y^r\, r^s\ [p]$. In this work, we prove that if we can compute a natural integer $i$ such that $α^i\ mod\ p$ is smooth and divides $p-1$, then it is possible to sign any given document without knowing the secret key. Therefore we extend and reinforce Bleichenbacher's attack presented at Eurocrypt'96.

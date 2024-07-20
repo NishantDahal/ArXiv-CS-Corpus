@@ -1,0 +1,3 @@
+BitSim: An Algebraic Similarity Measure for Description Logics Concepts
+
+In this paper, we propose an algebraic similarity measure σBS (BS stands for BitSim) for assigning semantic similarity score to concept definitions in ALCH+ an expressive fragment of Description Logics (DL). We define an algebraic interpretation function, I_B, that maps a concept definition to a unique string (ω_B) called bit-code) over an alphabet Σ_B of 11 symbols belonging to L_B - the language over P B. IB has semantic correspondence with conventional model-theoretic interpretation of DL. We then define σ_BS on L_B. A detailed analysis of I_B and σ_BS has been given.

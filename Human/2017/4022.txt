@@ -1,0 +1,3 @@
+Randomized Kernel Methods for Least-Squares Support Vector Machines
+
+The least-squares support vector machine is a frequently used kernel method for non-linear regression and classification tasks. Here we discuss several approximation algorithms for the least-squares support vector machine classifier. The proposed methods are based on randomized block kernel matrices, and we show that they provide good accuracy and reliable scaling for multi-class classification problems with relatively large data sets. Also, we present several numerical experiments that illustrate the practical applicability of the proposed methods.

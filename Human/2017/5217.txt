@@ -1,0 +1,3 @@
+Emptiness of zero automata is decidable
+
+Zero automata are a probabilistic extension of parity automata on infinite trees. The satisfiability of a certain probabilistic variant of mso, called tmso + zero, reduces to the emptiness problem for zero automata. We introduce a variant of zero automata called nonzero automata. We prove that for every zero automaton there is an equivalent nonzero automaton of quadratic size and the emptiness problem of nonzero automata is decidable and both in NP and in coNP. These results imply that tmso + zero has decidable satisfiability.

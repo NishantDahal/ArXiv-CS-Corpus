@@ -1,0 +1,6 @@
+Compression Complexity
+
+The Kolmogorov complexity of x, denoted C(x), is the length of the shortest program that generates x. For such a simple definition, Kolmogorov complexity has a rich and deep theory, as well as applications to a wide variety of topics including learning theory, complexity lower bounds and SAT algorithms.
+  Kolmogorov complexity typically focuses on decompression, going from the compressed program to the original string. This paper develops a dual notion of compression, the mapping from a string to its compressed version. Typical lossless compression algorithms such as Lempel-Ziv or Huffman Encoding always produce a string that will decompress to the original. We define a general compression concept based on this observation.
+  For every m, we exhibit a single compression algorithm q of length about m which for n and strings x of length n >= m, the output of q will have length within n-m+O(1) bits of C(x). We also show this bound is tight in a strong way, for every n >= m there is an x of length n with C(x) about m such that no compression program of size slightly less than m can compress x at all.
+  We also consider a polynomial time-bounded version of compression complexity and show that similar results for this version would rule out cryptographic one-way functions.

@@ -1,0 +1,3 @@
+Fast Sequential Decoding of Polar Codes
+
+A new score function is proposed for stack decoding of polar codes, which enables one to accurately compare paths of different lengths. The proposed score function includes bias, which reflects the average behaviour of the correct path. This enables significant complexity reduction with respect to the original stack algorithm at the expense of a negligible performance loss.

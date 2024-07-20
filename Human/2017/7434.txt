@@ -1,0 +1,3 @@
+DiVM: Model Checking with LLVM and Graph Memory
+
+In this paper, we introduce the concept of a virtual machine with graph-organised memory as a versatile backend for both explicit-state and abstraction-driven verification of software. Our virtual machine uses the LLVM IR as its instruction set, enriched with a small set of hypercalls. We show that the provided hypercalls are sufficient to implement a small operating system, which can then be linked with applications to provide a POSIX-compatible verification environment. Finally, we demonstrate the viability of the approach through a comparison with a more traditionally-designed LLVM model checker.

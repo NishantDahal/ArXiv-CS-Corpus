@@ -1,0 +1,3 @@
+Deciding what to display: maximizing the information value of social media
+
+In information-rich environments, the competition for users' attention leads to a flood of content from which people often find hard to sort out the most relevant and useful pieces. Using Twitter as a case study, we applied an attention economy solution to generate the most informative tweets for its users. By considering the novelty and popularity of tweets as objective measures of their relevance and utility, we used the Huberman-Wu algorithm to automatically select the ones that will receive the most attention in the next time interval. Their predicted popularity was confirmed by using Twitter data collected for a period of 2 months.

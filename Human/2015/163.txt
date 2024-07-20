@@ -1,0 +1,3 @@
+GPU Programming - Speeding Up the 3D Surface Generator VESTA
+
+The novel "Volume-Enclosing Surface exTraction Algorithm" (VESTA) generates triangular isosurfaces from computed tomography volumetric images and/or three-dimensional (3D) simulation data. Here, we present various benchmarks for GPU-based code implementations of both VESTA and the current state-of-the-art Marching Cubes Algorithm (MCA). One major result of this study is that VESTA runs significantly faster than the MCA.

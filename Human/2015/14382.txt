@@ -1,0 +1,7 @@
+Data Stream Classification using Random Feature Functions and Novel Method Combinations
+
+Big Data streams are being generated in a faster, bigger, and more commonplace. In this scenario, Hoeffding Trees are an established method for classification. Several extensions exist, including high-performing ensemble setups such as online and leveraging bagging. Also, $k$-nearest neighbors is a popular choice, with most extensions dealing with the inherent performance limitations over a potentially-infinite stream.
+  At the same time, gradient descent methods are becoming increasingly popular, owing in part to the successes of deep learning. Although deep neural networks can learn incrementally, they have so far proved too sensitive to hyper-parameter options and initial conditions to be considered an effective `off-the-shelf' data-streams solution.
+  In this work, we look at combinations of Hoeffding-trees, nearest neighbour, and gradient descent methods with a streaming preprocessing approach in the form of a random feature functions filter for additional predictive power.
+  We further extend the investigation to implementing methods on GPUs, which we test on some large real-world datasets, and show the benefits of using GPUs for data-stream learning due to their high scalability.
+  Our empirical evaluation yields positive results for the novel approaches that we experiment with, highlighting important issues, and shed light on promising future directions in approaches to data-stream classification.

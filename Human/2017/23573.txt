@@ -1,0 +1,3 @@
+Acceleration of tensor-product operations for high-order finite element methods
+
+This paper is devoted to GPU kernel optimization and performance analysis of three tensor-product operators arising in finite element methods. We provide a mathematical background to these operations and implementation details. Achieving close-to-the-peak performance for these operators requires extensive optimization because of the operators' properties: low arithmetic intensity, tiered structure, and the need to store intermediate results inside the kernel. We give a guided overview of optimization strategies and we present a performance model that allows us to compare the efficacy of these optimizations against an empirically calibrated roofline.

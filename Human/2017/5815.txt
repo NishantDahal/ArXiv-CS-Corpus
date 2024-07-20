@@ -1,0 +1,3 @@
+Scaling laws for consensus protocols subject to noise
+
+We study the performance of discrete-time consensus protocols in the presence of additive noise. When the consensus dynamic corresponds to a reversible Markov chain, we give an exact expression for a weighted version of steady-state disagreement in terms of the stationary distribution and hitting times in an underlying graph. We then show how this result can be used to characterize the noise robustness of a class of protocols for formation control in terms of the Kemeny constant of an underlying graph.

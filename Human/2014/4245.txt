@@ -1,0 +1,3 @@
+Efficient and Scalable Algorithms for Smoothed Particle Hydrodynamics on Hybrid Shared/Distributed-Memory Architectures
+
+This paper describes a new fast and implicitly parallel approach to neighbour-finding in multi-resolution Smoothed Particle Hydrodynamics (SPH) simulations. This new approach is based on hierarchical cell decompositions and sorted interactions, within a task-based formulation. It is shown to be faster than traditional tree-based codes, and to scale better than domain decomposition-based approaches on hybrid shared/distributed-memory parallel architectures, e.g. clusters of multi-cores, achieving a $40\times$ speedup over the Gadget-2 simulation code.

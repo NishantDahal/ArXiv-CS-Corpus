@@ -1,0 +1,3 @@
+Planar Graphs: Logical Complexity and Parallel Isomorphism Tests
+
+We prove that every triconnected planar graph is definable by a first order sentence that uses at most 15 variables and has quantifier depth at most $11\log_2 n+43$. As a consequence, a canonic form of such graphs is computable in $AC^1$ by the 14-dimensional Weisfeiler-Lehman algorithm. This provides another way to show that the planar graph isomorphism is solvable in $AC^1$.

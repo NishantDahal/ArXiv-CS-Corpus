@@ -1,0 +1,3 @@
+Safe Dependency Atoms and Possibility Operators in Team Semantics
+
+I consider the question of which dependencies are safe for a Team Semantics-based logic FO(D), in the sense that they do not increase its expressive power over sentences when added to it. I show that some dependencies, like totality, non-constancy and non-emptiness, are safe for all logics FO(D), and that other dependencies, like constancy, are not safe for FO(D) for some choices of D despite being strongly first order. I furthermore show that the possibility operator, which holds in a team if and only if its argument holds in some nonempty subteam, can be added to any logic FO(D) without increasing its expressive power over sentences.

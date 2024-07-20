@@ -1,0 +1,3 @@
+Consensus Patterns parameterized by input string length is W[1]-hard
+
+We consider the Consensus Patterns problem, where, given a set of input strings, one is asked to extract a long-enough pattern which appears (with some errors) in all strings. We prove that this problem is W[1]-hard when parameterized by the maximum length of input strings.

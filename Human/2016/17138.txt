@@ -1,0 +1,3 @@
+Dispersing Points on Intervals
+
+We consider a problem of dispersing points on disjoint intervals on a line. Given n pairwise disjoint intervals sorted on a line, we want to find a point in each interval such that the minimum pairwise distance of these points is maximized. Based on a greedy strategy, we present a linear time algorithm for the problem. Further, we also solve in linear time the cycle version of the problem where the intervals are given on a cycle.

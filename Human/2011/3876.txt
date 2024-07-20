@@ -1,0 +1,5 @@
+A Satisfiability Algorithm for AC$^0$
+
+We consider the problem of efficiently enumerating the satisfying assignments to $\AC^0$ circuits. We give a zero-error randomized algorithm which takes an $\AC^0$ circuit as input and constructs a set of restrictions which partition $\{0,1\}^n$ so that under each restriction the value of the circuit is constant. Let $d$ denote the depth of the circuit and $cn$ denote the number of gates. This algorithm runs in time $|C| 2^{n(1-μ_{c.d})}$ where $|C|$ is the size of the circuit for $μ_{c,d} \ge 1/\bigO[\lg c + d \lg d]^{d-1}$ with probability at least $1-2^{-n}$.
+  As a result, we get improved exponential time algorithms for $\AC^0$ circuit satisfiability and for counting solutions. In addition, we get an improved bound on the correlation of $\AC^0$ circuits with parity.
+  As an important component of our analysis, we extend the Håstad Switching Lemma to handle multiple $\kcnf$s and $\kdnf$s.

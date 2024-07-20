@@ -1,0 +1,3 @@
+Multiple-Kernel Local-Patch Descriptor
+
+We propose a multiple-kernel local-patch descriptor based on efficient match kernels of patch gradients. It combines two parametrizations of gradient position and direction, each parametrization provides robustness to a different type of patch miss-registration: polar parametrization for noise in the patch dominant orientation detection, Cartesian for imprecise location of the feature point. Even though handcrafted, the proposed method consistently outperforms the state-of-the-art methods on two local patch benchmarks.

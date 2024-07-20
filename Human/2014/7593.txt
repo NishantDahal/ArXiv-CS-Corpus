@@ -1,0 +1,3 @@
+AbsSynthe: abstract synthesis from succinct safety specifications
+
+In this paper, we describe a synthesis algorithm for safety specifications described as circuits. Our algorithm is based on fixpoint computations, abstraction and refinement, it uses binary decision diagrams as symbolic data structure. We evaluate our tool on the benchmarks provided by the organizers of the synthesis competition organized within the SYNT'14 workshop.

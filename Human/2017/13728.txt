@@ -1,0 +1,5 @@
+Colouring perfect graphs with bounded clique number
+
+A graph is perfect if the chromatic number of every induced subgraph equals the size of its largest clique, and an algorithm of Grötschel, Lovász, and Schrijver from 1988 finds an optimal colouring of a perfect graph in polynomial time. But this algorithm uses the ellipsoid method, and it is a well-known open question to construct a "combinatorial" polynomial-time algorithm that yields an optimal colouring of a perfect graph.
+  A skew partition in $G$ is a partition $(A,B)$ of $V(G)$ such that $G[A]$ is not connected and $\bar{G}[B]$ is not connected, where $\bar{G}$ denotes the complement graph ; and it is balanced if an additional parity condition of paths in $G$ and $\bar{G}$ is satisfied.
+  In this paper we first give a polynomial-time algorithm that, with input a perfect graph, outputs a balanced skew partition if there is one. Then we use this to obtain a combinatorial algorithm that finds an optimal colouring of a perfect graph with clique number $k$, in time that is polynomial for fixed $k$.

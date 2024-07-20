@@ -1,0 +1,3 @@
+Reverse Mathematical Bounds for the Termination Theorem
+
+In 2004 Podelski and Rybalchenko expressed the termination of transition-based programs as a property of well-founded relations. The classical proof by Podelski and Rybalchenko requires Ramsey's Theorem for pairs which is a purely classical result, therefore extracting bounds from the original proof is non-trivial task. Our goal is to investigate the termination analysis from the point of view of Reverse Mathematics. By studying the strength of Podelski and Rybalchenko's Termination Theorem we can extract some information about termination bounds.

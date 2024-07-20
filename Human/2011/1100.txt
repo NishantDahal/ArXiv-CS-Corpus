@@ -1,0 +1,3 @@
+To Parallelize or Not to Parallelize, Speed Up Issue
+
+Running parallel applications requires special and expensive processing resources to obtain the required results within a reasonable time. Before parallelizing serial applications, some analysis is recommended to be carried out to decide whether it will benefit from parallelization or not. In this paper we discuss the issue of speed up gained from parallelization using Message Passing Interface (MPI) to compromise between the overhead of parallelization cost and the gained parallel speed up. We also propose an experimental method to predict the speed up of MPI applications.

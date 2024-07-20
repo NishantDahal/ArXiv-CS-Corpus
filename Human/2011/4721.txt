@@ -1,0 +1,3 @@
+Towards Spatio-Temporal SOLAP
+
+The integration of Geographic Information Systems (GIS) and On-Line Analytical Processing (OLAP), denoted SOLAP, is aimed at exploring and analyzing spatial data. In real-world SOLAP applications, spatial and non-spatial data are subject to changes. In this paper we present a temporal query language for SOLAP, called TPiet-QL, supporting so-called discrete changes (for example, in land use or cadastral applications there are situations where parcels are merged or split). TPiet-QL allows expressing integrated GIS-OLAP queries in an scenario where spatial objects change across time.

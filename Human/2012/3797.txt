@@ -1,0 +1,3 @@
+Hamiltonian Annealed Importance Sampling for partition function estimation
+
+We introduce an extension to annealed importance sampling that uses Hamiltonian dynamics to rapidly estimate normalization constants. We demonstrate this method by computing log likelihoods in directed and undirected probabilistic image models. We compare the performance of linear generative models with both Gaussian and Laplace priors, product of experts models with Laplace and Student's t experts, the mc-RBM, and a bilinear generative model. We provide code to compare additional models.

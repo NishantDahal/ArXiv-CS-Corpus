@@ -1,0 +1,6 @@
+2 Notes on Classes with Vapnik-Chervonenkis Dimension 1
+
+The Vapnik-Chervonenkis dimension is a combinatorial parameter that reflects the "complexity" of a set of sets (a.k.a. concept classes). It has been introduced by Vapnik and Chervonenkis in their seminal 1971 paper and has since found many applications, most notably in machine learning theory and in computational geometry. Arguably the most influential consequence of the VC analysis is the fundamental theorem of statistical machine learning, stating that a concept class is learnable (in some precise sense) if and only if its VC-dimension is finite. Furthermore, for such classes a most simple learning rule - empirical risk minimization (ERM) - is guaranteed to succeed.
+  The simplest non-trivial structures, in terms of the VC-dimension, are the classes (i.e., sets of subsets) for which that dimension is 1.
+  In this note we show a couple of curious results concerning such classes. The first result shows that such classes share a very simple structure, and, as a corollary, the labeling information contained in any sample labeled by such a class can be compressed into a single instance.
+  The second result shows that due to some subtle measurability issues, in spite of the above mentioned fundamental theorem, there are classes of dimension 1 for which an ERM learning rule fails miserably.

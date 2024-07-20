@@ -1,0 +1,3 @@
+Pure Strategies in Imperfect Information Stochastic Games
+
+We consider imperfect information stochastic games where we require the players to use pure (i.e. non randomised) strategies. We consider reachability, safety, Büchi and co-Büchi objectives, and investigate the existence of almost-sure/positively winning strategies for the first player when the second player is perfectly informed or more informed than the first player. We obtain decidability results for positive reachability and almost-sure Büchi with optimal algorithms to decide existence of a pure winning strategy and to compute one if exists. We complete the picture by showing that positive safety is undecidable when restricting to pure strategies even if the second player is perfectly informed.

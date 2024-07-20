@@ -1,0 +1,3 @@
+User Manual for the Complex Conjugate Gradient Methods Library CCGPAK 2.0
+
+This manual describes the library of conjugate gradients codes CCGPAK, which solves system of complex linear system of equations. The library is written in FORTRAN90 and is highly portable. The codes are general and provide mechanism for matrix times vector multiplication which is separated from the conjugate gradient iterations itself. It is simple to switch between single and double precisions. All codes follow the same naming conventions.

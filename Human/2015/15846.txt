@@ -1,0 +1,3 @@
+Multi-head Watson-Crick automata
+
+Inspired by multi-head finite automata and Watson-Crick automata in this paper, we introduce new structure namely multi-head Watson-Crick automata where we replace the single tape of multi-head finite automaton by a DNA double strand. The content of the second tape is determined using a complementarity relation similar to Watson-Crick complementarity relation. We establish the superiority of our model over multi-head finite automata and also show that both the deterministic and non-deterministic variant of the model can accept non-regular unary languages. We also compare our model with parallel communicating Watson-Crick automata systems and prove that both of them have the same computational power.

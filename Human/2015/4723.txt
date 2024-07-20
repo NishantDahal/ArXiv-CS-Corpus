@@ -1,0 +1,4 @@
+Approximation of non-boolean 2CSP
+
+We develop a polynomial time $Ω\left ( \frac 1R \log R \right)$ approximate algorithm for Max 2CSP-$R$, the problem where we are given a collection of constraints, each involving two variables, where each variable ranges over a set of size $R$, and we want to find an assignment to the variables that maximizes the number of satisfied constraints. Assuming the Unique Games Conjecture, this is the best possible approximation up to constant factors.
+  Previously, a $1/R$-approximate algorithm was known, based on linear programming. Our algorithm is based on semidefinite programming (SDP) and on a novel rounding technique. The SDP that we use has an almost-matching integrality gap.

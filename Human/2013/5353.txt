@@ -1,0 +1,3 @@
+Finding Distinct Subpalindromes Online
+
+We exhibit an online algorithm finding all distinct palindromes inside a given string in time $Θ(n\log|Σ|)$ over an ordered alphabet and in time $Θ(n|Σ|)$ over an unordered alphabet. Using a reduction from a dictionary-like data structure, we prove the optimality of this algorithm in the comparison-based computation model.

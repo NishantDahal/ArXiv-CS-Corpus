@@ -1,0 +1,3 @@
+Polypus: a Big Data Self-Deployable Architecture for Microblogging Text Extraction and Real-Time Sentiment Analysis
+
+In this paper we propose a new parallel architecture based on Big Data technologies for real-time sentiment analysis on microblogging posts. Polypus is a modular framework that provides the following functionalities: (1) massive text extraction from Twitter, (2) distributed non-relational storage optimized for time range queries, (3) memory-based intermodule buffering, (4) real-time sentiment classification, (5) near real-time keyword sentiment aggregation in time series, (6) a HTTP API to interact with the Polypus cluster and (7) a web interface to analyze results visually. The whole architecture is self-deployable and based on Docker containers.

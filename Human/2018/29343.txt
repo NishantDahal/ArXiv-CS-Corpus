@@ -1,0 +1,3 @@
+Deciding Confluence and Normal Form Properties of Ground Term Rewrite Systems Efficiently
+
+It is known that the first-order theory of rewriting is decidable for ground term rewrite systems, but the general technique uses tree automata and often takes exponential time. For many properties, including confluence (CR), uniqueness of normal forms with respect to reductions (UNR) and with respect to conversions (UNC), polynomial time decision procedures are known for ground term rewrite systems. However, this is not the case for the normal form property (NFP). In this work, we present a cubic time algorithm for NFP, an almost cubic time algorithm for UNR, and an almost linear time algorithm for UNC, improving previous bounds. We also present a cubic time algorithm for CR.

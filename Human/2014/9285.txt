@@ -1,0 +1,3 @@
+Agreement in Partitioned Dynamic Networks
+
+In the dynamic network model, the communication graph is assumed to be connected in every round but is otherwise arbitrary. We consider the related setting of $p$-partitioned dynamic networks, in which the communication graph in each round consists of at most $p$ connected components. We explore the problem of $k$-agreement in this model for $k\geq p$. We show that if the number of processes is unknown then it is impossible to achieve $k$-agreement for any $k$ and any $p\geq 2$. Given an upper bound $n$ on the number of processes, we provide algorithms achieving $k$-agreement in $p(n-p)$ rounds for $k=p$ and in $O(n/ε)$ rounds for $k=\lceil (1+ε)p \rceil$.

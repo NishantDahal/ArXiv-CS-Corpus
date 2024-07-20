@@ -1,0 +1,3 @@
+EMFS: Repurposing SMTP and IMAP for Data Storage and Synchronization
+
+Cloud storage has become a massive and lucrative business, with companies like Apple, Microsoft, Google, and Dropbox providing hundreds of millions of clients with synchronized and redundant storage. These services often command price-to-storage ratios significantly higher than the market rate for physical storage, as well as increase the surface area for data leakage. In place of this consumer-unfriendly status quo, I propose using widely available, well standardized email protocols like SMTP and IMAP in conjunction with free email service providers to store, synchronize, and share files across discrete systems.

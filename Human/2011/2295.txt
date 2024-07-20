@@ -1,0 +1,3 @@
+Performance of Short-Commit in Extreme Database Environment
+
+Atomic commit protocols are used where data integrity is more important than data availability. Two-Phase commit (2PC) is a standard commit protocol for commercial database management systems. To reduce certain drawbacks in 2PC protocol people have suggested different variance of this protocol. Short-Commit protocol is developed with an objective to achieve low cost transaction commitment cost with non-blocking capability. In this paper we have briefly explained short-commit protocol executing pattern. Experimental analysis and results are presented to support the claim that short-commit can work efficiently in extreme database environment.

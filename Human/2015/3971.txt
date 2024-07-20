@@ -1,0 +1,3 @@
+Evaluating Dynamic File Striping For Lustre
+
+We define dynamic striping as the ability to assign different Lustre striping characteristics to contiguous segments of a file as it grows. In this paper, we evaluate the effects of dynamic striping using a watermark-based strategy where the stripe count or width is increased once a file's size exceeds one of the chosen watermarks. To measure the performance of this strategy we used a modified version of the IOR benchmark, a netflow analysis workload, and the blastn algorithm from NCBI BLAST. The results indicate that dynamic striping is beneficial to tasks with unpredictable data file size and large sequential reads, but are less conclusive for workloads with significant random read phases.

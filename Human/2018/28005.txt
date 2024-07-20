@@ -1,0 +1,3 @@
+Improving resource elasticity in cloud computing thanks to model-free control
+
+In cloud computing management, the dynamic adaptation of computing resource allocations under time-varying workload is an active domain of investigation. Several control strategies were already proposed. Here the model-free control setting and the corresponding "intelligent" controllers, which are most successful in many concrete engineering situations, are employed for the "horizontal elasticity." When compared to the commercial "Auto-Scaling" algorithms, our easily implementable approach, behaves better even with sharp workload fluctuations. This is confirmed by experiments on Amazon Web Services (AWS).

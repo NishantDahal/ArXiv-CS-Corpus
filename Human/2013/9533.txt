@@ -1,0 +1,3 @@
+Square-Free Shuffles of Words
+
+Let $u \shuffle v$ denote the set of all shuffles of the words $u$ and $v$. It is shown that for each integer $n \geq 3$ there exists a square-free ternary word $u$ of length $n$ such that $u\shuffle u$ contains a square-free word. This property is then shown to also hold for infinite words, i.e., there exists an infinite square-free word $u$ on three letters such that $u$ can be shuffled with itself to produce an infinite square-free word $w \in u \shuffle u$.

@@ -1,0 +1,3 @@
+Clustering and Labelling Auction Fraud Data
+
+Although shill bidding is a common auction fraud, it is however very tough to detect. Due to the unavailability and lack of training data, in this study, we build a high-quality labeled shill bidding dataset based on recently collected auctions from eBay. Labeling shill biding instances with multidimensional features is a critical phase for the fraud classification task. For this purpose, we introduce a new approach to systematically label the fraud data with the help of the hierarchical clustering CURE that returns remarkable results as illustrated in the experiments.

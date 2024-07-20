@@ -1,0 +1,9 @@
+NC Algorithms for Weighted Planar Perfect Matching and Related Problems
+
+Consider a planar graph $G=(V,E)$ with polynomially bounded edge weight function $w:E\to [0, poly(n)]$. The main results of this paper are NC algorithms for the following problems:
+  - minimum weight perfect matching in $G$,
+  - maximum cardinality and maximum weight matching in $G$ when $G$ is bipartite,
+  - maximum multiple-source multiple-sink flow in $G$ where $c:E\to [1, poly(n)]$ is a polynomially bounded edge capacity function,
+  - minimum weight $f$-factor in $G$ where $f:V\to [1, poly(n)]$,
+  - min-cost flow in $G$ where $c:E\to [1, poly(n)]$ is a polynomially bounded edge capacity function and $b:V\to [1, poly(n)]$ is a polynomially bounded vertex demand function.
+  There have been no known NC algorithms for any of these problems previously (Before this and independent paper by Anari and Vazirani). In order to solve these problems we develop a new relatively simple but versatile framework that is combinatorial in spirit. It handles the combinatorial structure of matchings directly and needs to only know weights of appropriately defined matchings from algebraic subroutines.

@@ -1,0 +1,3 @@
+Greedy-Merge Degrading has Optimal Power-Law
+
+Consider a channel with a given input distribution. Our aim is to degrade it to a channel with at most L output letters. One such degradation method is the so called "greedy-merge" algorithm. We derive an upper bound on the reduction in mutual information between input and output. For fixed input alphabet size and variable L, the upper bound is within a constant factor of an algorithm-independent lower bound. Thus, we establish that greedy-merge is optimal in the power-law sense.

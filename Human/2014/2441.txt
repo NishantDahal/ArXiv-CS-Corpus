@@ -1,0 +1,3 @@
+Hardware Architecture for List SC Decoding of Polar Codes
+
+We present a hardware architecture and algorithmic improvements for list SC decoding of polar codes. More specifically, we show how to completely avoid copying of the likelihoods, which is algorithmically the most cumbersome part of list SC decoding. The hardware architecture was synthesized for a blocklength of N = 1024 bits and list sizes L = 2, 4 using a UMC 90nm VLSI technology. The resulting decoder can achieve a coded throughput of 181 Mbps at a frequency of 459 MHz.

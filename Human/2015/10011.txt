@@ -1,0 +1,4 @@
+Augmenting Agent Platforms to Facilitate Conversation Reasoning
+
+Within Multi Agent Systems, communication by means of Agent Communication Languages (ACLs) has a key role to play in the co-operation, co-ordination and knowledge-sharing between agents. Despite this, complex reasoning about agent messaging, and specifically about conversations between agents, tends not to have widespread support amongst general-purpose agent programming languages.
+  ACRE (Agent Communication Reasoning Engine) aims to complement the existing logical reasoning capabilities of agent programming languages with the capability of reasoning about complex interaction protocols in order to facilitate conversations between agents. This paper outlines the aims of the ACRE project and gives details of the functioning of a prototype implementation within the Agent Factory multi agent framework.

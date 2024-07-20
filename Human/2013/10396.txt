@@ -1,0 +1,3 @@
+An Improved Majority-Logic Decoder Offering Massively Parallel Decoding for Real-Time Control in Embedded Systems
+
+We propose an easy-to-implement hard-decision majority-logic decoding algorithm for Reed-Muller codes RM(r,m) with m >= 3, m/2 >= r >= 1. The presented algorithm outperforms the best known majority-logic decoding algorithms and offers highly parallel decoding. The result is of special importance for safety- and time-critical applications in embedded systems. A simple combinational circuit can perform the proposed decoding. In particular, we show how our decoder for the three-error-correcting code RM(2,5) of dimension 16 and length 32 can be realized on hardware level.

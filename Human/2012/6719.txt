@@ -1,0 +1,3 @@
+A GPU implementation of the Simulated Annealing Heuristic for the Quadratic Assignment Problem
+
+The quadratic assignment problem (QAP) is one of the most difficult combinatorial optimization problems. An effective heuristic for obtaining approximate solutions to the QAP is simulated annealing (SA). Here we describe an SA implementation for the QAP which runs on a graphics processing unit (GPU). GPUs are composed of low cost commodity graphics chips which in combination provide a powerful platform for general purpose parallel computing. For SA runs with large numbers of iterations, we find performance 50-100 times better than that of a recent non-parallel but very efficient implementation of SA for the QAP

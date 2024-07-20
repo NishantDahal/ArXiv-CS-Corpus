@@ -1,0 +1,3 @@
+Center of Gravity PSO for Partitioning Clustering
+
+This paper presents the local best model of PSO for partition-based clustering. The proposed model gets rid off the drawbacks of gbest PSO for clustering. The model uses a pre-specified number of clusters K. The LPOSC has K neighborhoods. Each neighborhood represents one of the clusters. The goal of the particles in each neighborhood is optimizing the position of the centroid of the cluster. The performance of the proposed algorithms is measured using adjusted rand index. The results is compared with k-means and global best model of PSO.

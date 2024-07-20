@@ -1,0 +1,3 @@
+Identifying Nonlinear 1-Step Causal Influences in Presence of Latent Variables
+
+We propose an approach for learning the causal structure in stochastic dynamical systems with a $1$-step functional dependency in the presence of latent variables. We propose an information-theoretic approach that allows us to recover the causal relations among the observed variables as long as the latent variables evolve without exogenous noise. We further propose an efficient learning method based on linear regression for the special sub-case when the dynamics are restricted to be linear. We validate the performance of our approach via numerical simulations.

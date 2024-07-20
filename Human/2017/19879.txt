@@ -1,0 +1,3 @@
+Partial Knowledge In Embeddings
+
+Representing domain knowledge is crucial for any task. There has been a wide range of techniques developed to represent this knowledge, from older logic based approaches to the more recent deep learning based techniques (i.e. embeddings). In this paper, we discuss some of these methods, focusing on the representational expressiveness tradeoffs that are often made. In particular, we focus on the the ability of various techniques to encode `partial knowledge' - a key component of successful knowledge systems. We introduce and describe the concepts of `ensembles of embeddings' and `aggregate embeddings' and demonstrate how they allow for partial knowledge.

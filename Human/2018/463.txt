@@ -1,0 +1,3 @@
+Distributed Agreement on Activity Driven Networks
+
+In this paper, we investigate asymptotic properties of a consensus protocol taking place in a class of temporal (i.e., time-varying) networks called the activity driven network. We first show that a standard methodology provides us with an estimate of the convergence rate toward the consensus, in terms of the eigenvalues of a matrix whose computational cost grows exponentially fast in the number of nodes in the network. To overcome this difficulty, we then derive alternative bounds involving the eigenvalues of a matrix that is easy to compute. Our analysis covers the regimes of 1) sparse networks and 2) fast-switching networks. We numerically confirm our theoretical results by numerical simulations.

@@ -1,0 +1,3 @@
+On Directed Feedback Vertex Set parameterized by treewidth
+
+We study the Directed Feedback Vertex Set problem parameterized by the treewidth of the input graph. We prove that unless the Exponential Time Hypothesis fails, the problem cannot be solved in time $2^{o(t\log t)}\cdot n^{\mathcal{O}(1)}$ on general directed graphs, where $t$ is the treewidth of the underlying undirected graph. This is matched by a dynamic programming algorithm with running time $2^{\mathcal{O}(t\log t)}\cdot n^{\mathcal{O}(1)}$. On the other hand, we show that if the input digraph is planar, then the running time can be improved to $2^{\mathcal{O}(t)}\cdot n^{\mathcal{O}(1)}$.

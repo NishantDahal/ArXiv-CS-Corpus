@@ -1,0 +1,3 @@
+Distinct Squares in Circular Words
+
+A circular word, or a necklace, is an equivalence class under conjugation of a word. A fundamental question concerning regularities in standard words is bounding the number of distinct squares in a word of length $n$. The famous conjecture attributed to Fraenkel and Simpson is that there are at most $n$ such distinct squares, yet the best known upper bound is $1.84n$ by Deza et al. [Discr. Appl. Math. 180, 52-69 (2015)]. We consider a natural generalization of this question to circular words: how many distinct squares can there be in all cyclic rotations of a word of length $n$? We prove an upper bound of $3.14n$. This is complemented with an infinite family of words implying a lower bound of $1.25n$.

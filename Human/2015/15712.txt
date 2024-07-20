@@ -1,0 +1,6 @@
+Almost quadratic gap between partition complexity and query/communication complexity
+
+We show nearly quadratic separations between two pairs of complexity measures:
+  1. We show that there is a Boolean function $f$ with $D(f)=Ω((D^{sc}(f))^{2-o(1)})$ where $D(f)$ is the deterministic query complexity of $f$ and $D^{sc}$ is the subcube partition complexity of $f$;
+  2. As a consequence, we obtain that there is a communication task $f(x, y)$ such that $D^{cc}(f)=Ω(\log^{2-o(1)}χ(f))$ where $D^{cc}(f)$ is the deterministic 2-party communication complexity of $f$ (in the standard 2-party model of communication) and $χ(f)$ is the partition number of $f$.
+  Both of those separations are nearly optimal: it is well known that $D(f)=O((D^{sc}(f))^{2})$ and $D^{cc}(f)=O(\log^2χ(f))$.

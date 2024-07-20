@@ -1,0 +1,3 @@
+An Improved Algorithm for Diameter-Optimally Augmenting Paths in a Metric Space
+
+Let $P$ be a path graph of $n$ vertices embedded in a metric space. We consider the problem of adding a new edge to $P$ such that the diameter of the resulting graph is minimized. Previously (in ICALP 2015) the problem was solved in $O(n\log^3 n)$ time. In this paper, based on new observations and different algorithmic techniques, we present an $O(n\log n)$ time algorithm.

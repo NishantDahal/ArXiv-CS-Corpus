@@ -1,0 +1,3 @@
+Fully-abstract concurrent games for pi
+
+We define a semantics for Milner's pi-calculus, with three main novelties. First, it provides a fully-abstract model for fair testing equivalence, whereas previous semantics covered variants of bisimilarity and the may and must testing equivalences. Second, it is based on reduction semantics, whereas previous semantics were based on labelled transition systems. Finally, it has a strong game semantical flavor in the sense of Hyland-Ong and Nickau. Indeed, our model may both be viewed as an innocent presheaf semantics and as a concurrent game semantics.

@@ -1,0 +1,3 @@
+Integer Addition and Hamming Weight
+
+We study the effect of addition on the Hamming weight of a positive integer. Consider the first $2^n$ positive integers, and fix an $α$ among them. We show that if the binary representation of $α$ consists of $Θ(n)$ blocks of zeros and ones, then addition by $α$ causes a constant fraction of low Hamming weight integers to become high Hamming weight integers. This result has applications in complexity theory to the hardness of computing powering maps using bounded-depth arithmetic circuits over $\mathbb{F}_2$. Our result implies that powering by $α$ composed of many blocks require exponential-size, bounded-depth arithmetic circuits over $\mathbb{F}_2$.

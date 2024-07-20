@@ -1,0 +1,3 @@
+The Hermite and Fourier transforms in sparse reconstruction of sinusoidal signals
+
+The paper observes the Hermite and the Fourier Transform domains in terms of Frequency Hopping Spread Spectrum signals sparsification. Sparse signals can be recovered from a reduced set of samples by using the Compressive Sensing approach. The under-sampling and the reconstruction of those signals are also analyzed in this paper. The number of measurements (available signal samples) is varied and reconstruction performance is tested in all considered cases and for both observed domains. The signal recovery is done using an adaptive gradient based algorithm. The theory is verified with the experimental results.

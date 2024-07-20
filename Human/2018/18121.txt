@@ -1,0 +1,3 @@
+Layer-wise Relevance Propagation for Explainable Recommendations
+
+In this paper, we tackle the problem of explanations in a deep-learning based model for recommendations by leveraging the technique of layer-wise relevance propagation. We use a Deep Convolutional Neural Network to extract relevant features from the input images before identifying similarity between the images in feature space. Relationships between the images are identified by the model and layer-wise relevance propagation is used to infer pixel-level details of the images that may have significantly informed the model's choice. We evaluate our method on an Amazon products dataset and demonstrate the efficacy of our approach.

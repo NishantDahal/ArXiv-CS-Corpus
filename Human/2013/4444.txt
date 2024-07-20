@@ -1,0 +1,3 @@
+Stochastic Recovery Of Sparse Signals From Random Measurements
+
+Sparse signal recovery from a small number of random measurements is a well known NP-hard to solve combinatorial optimization problem, with important applications in signal and image processing. The standard approach to the sparse signal recovery problem is based on the basis pursuit method. This approach requires the solution of a large convex optimization problem, and therefore suffers from high computational complexity. Here, we discuss a stochastic optimization method, as a low-complexity alternative to the basis pursuit approach.

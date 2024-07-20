@@ -1,0 +1,3 @@
+Multi-level Loop-less Algorithm for Multi-set Permutations
+
+We present an algorithm that generates multiset permutations in O(1) time for each permutation, that is, by a loop-less algorithm with O(n) extra memory requirement. There already exist several such algorithms that generate multiset permutations in various orders. For multiset permutations, we combine two loop-less algorithms that are designed in the same principle of tree traversal. Our order of generation is different from any existing order, and the algorithm is simpler and faster than the previous ones. We also apply the new algorithm to parking functions.

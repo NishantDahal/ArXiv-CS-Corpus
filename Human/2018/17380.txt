@@ -1,0 +1,4 @@
+Computing optimal shortcuts for networks
+
+We study augmenting a plane Euclidean network with a segment, called a shortcut, to minimize the largest distance between any two points along the edges of the resulting network. Problems of this type have received considerable attention recently, mostly for discrete variants of the problem.
+  We consider a fully continuous setting, where the problem of computing distances and placing a shortcut is much harder as all points on the network, instead of only the vertices, must be taken into account. We present the first results on the computation of optimal shortcuts for general networks in this model: a polynomial time algorithm and a discretization of the problem that leads to an approximation algorithm. We also improve the general method for networks that are paths, restricted to two types of shortcuts: those with a fixed orientation and simple shortcuts.

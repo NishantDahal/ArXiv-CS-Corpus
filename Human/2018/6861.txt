@@ -1,0 +1,3 @@
+Sequence Covering Similarity for Symbolic Sequence Comparison
+
+This paper introduces the sequence covering similarity, that we formally define for evaluating the similarity between a symbolic sequence (string) and a set of symbolic sequences (strings). From this covering similarity we derive a pair-wise distance to compare two symbolic sequences.  We show that this covering distance is a semimetric. Few examples are given to show how this string metric in $O(n \cdot log n)$ compares with the Levenshtein's distance that is in $O(n^2)$. A final example presents its application to plagiarism detection.

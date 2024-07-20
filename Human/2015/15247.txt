@@ -1,0 +1,3 @@
+Analysis of the temporal and structural features of threads in a mailing-list
+
+A link stream is a collection of triplets $(t,u,v)$ indicating that an interaction occurred between $u$ and $v$ at time $t$. Link streams model many real-world situations like email exchanges between individuals, connections between devices, and others. Much work is currently devoted to the generalization of classical graph and network concepts to link streams. In this paper, we generalize the existing notions of intra-community density and inter-community density. We focus on emails exchanges in the Debian mailing-list, and show that threads of emails, like communities in graphs, are dense subsets loosely connected from a link stream perspective.

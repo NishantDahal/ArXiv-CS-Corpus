@@ -1,0 +1,3 @@
+Coupled Support Vector Machines for Supervised Domain Adaptation
+
+Popular domain adaptation (DA) techniques learn a classifier for the target domain by sampling relevant data points from the source and combining it with the target data. We present a Support Vector Machine (SVM) based supervised DA technique, where the similarity between source and target domains is modeled as the similarity between their SVM decision boundaries. We couple the source and target SVMs and reduce the model to a standard single SVM. We test the Coupled-SVM on multiple datasets and compare our results with other popular SVM based DA approaches.

@@ -1,0 +1,3 @@
+A New Method for Performance Analysis in Nonlinear Dimensionality Reduction
+
+In this paper, we develop a local rank correlation measure which quantifies the performance of dimension reduction methods. The local rank correlation is easily interpretable, and robust against the extreme skewness of nearest neighbor distributions in high dimensions. Some benchmark datasets are studied. We find that the local rank correlation closely corresponds to our visual interpretation of the quality of the output. In addition, we demonstrate that the local rank correlation is useful in estimating the intrinsic dimensionality of the original data, and in selecting a suitable value of tuning parameters used in some algorithms.

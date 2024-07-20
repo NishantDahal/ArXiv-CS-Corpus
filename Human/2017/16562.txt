@@ -1,0 +1,4 @@
+VLDL Satisfiability and Model Checking via Tree Automata
+
+We present novel algorithms solving the satisfiability problem and the model checking problem for Visibly Linear Dynamic Logic (VLDL) in asymptotically optimal time via a reduction to the emptiness problem for tree automata with Büchi acceptance. Since VLDL allows for the specification of important properties of recursive systems, this reduction enables the efficient analysis of such systems.
+  Furthermore, as the problem of tree automata emptiness is well-studied, this reduction enables leveraging the mature algorithms and tools for that problem in order to solve the satisfiability problem and the model checking problem for VLDL.

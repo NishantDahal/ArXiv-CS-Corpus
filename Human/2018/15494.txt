@@ -1,0 +1,3 @@
+Generating Image Sequence from Description with LSTM Conditional GAN
+
+Generating images from word descriptions is a challenging task. Generative adversarial networks(GANs) are shown to be able to generate realistic images of real-life objects. In this paper, we propose a new neural network architecture of LSTM Conditional Generative Adversarial Networks to generate images of real-life objects. Our proposed model is trained on the Oxford-102 Flowers and Caltech-UCSD Birds-200-2011 datasets. We demonstrate that our proposed model produces the better results surpassing other state-of-art approaches.

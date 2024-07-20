@@ -1,0 +1,3 @@
+Delegating via Quitting Games
+
+Delegation allows an agent to request that another agent completes a task. In many situations the task may be delegated onwards, and this process can repeat until it is eventually, successfully or unsuccessfully, performed. We consider policies to guide an agent in choosing who to delegate to when such recursive interactions are possible. These policies, based on quitting games and multi-armed bandits, were empirically tested for effectiveness. Our results indicate that the quitting game based policies outperform those which do not explicitly account for the recursive nature of delegation.

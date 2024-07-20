@@ -1,0 +1,3 @@
+Similarity-Based Queries for Time Series Data
+
+We study a set of linear transformations on the Fourier series representation of a sequence that can be used as the basis for similarity queries on time-series data. We show that our set of transformations is rich enough to formulate operations such as moving average and time warping. We present a query processing algorithm that uses the underlying R-tree index of a multidimensional data set to answer similarity queries efficiently. Our experiments show that the performance of this algorithm is competitive to that of processing ordinary (exact match) queries using the index, and much faster than sequential scanning. We relate our transformations to the general framework for similarity queries of Jagadish et al.

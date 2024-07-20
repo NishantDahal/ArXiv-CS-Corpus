@@ -1,0 +1,3 @@
+Finding the Maximal Empty Rectangle Containing a Query Point
+
+Let $P$ be a set of $n$ points in an axis-parallel rectangle $B$ in the plane. We present an $O(nα(n)\log^4 n)$-time algorithm to preprocess $P$ into a data structure of size $O(nα(n)\log^3 n)$, such that, given a query point $q$, we can find, in $O(\log^4 n)$ time, the largest-area axis-parallel rectangle that is contained in $B$, contains $q$, and its interior contains no point of $P$. This is a significant improvement over the previous solution of Augustine {\em et al.} \cite{qmex}, which uses slightly superquadratic preprocessing and storage.

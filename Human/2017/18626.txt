@@ -1,0 +1,3 @@
+Deep Residual Networks and Weight Initialization
+
+Residual Network (ResNet) is the state-of-the-art architecture that realizes successful training of really deep neural network. It is also known that good weight initialization of neural network avoids problem of vanishing/exploding gradients. In this paper, simplified models of ResNets are analyzed. We argue that goodness of ResNet is correlated with the fact that ResNets are relatively insensitive to choice of initial weights. We also demonstrate how batch normalization improves backpropagation of deep ResNets without tuning initial values of weights.

@@ -1,0 +1,3 @@
+Implementing OpenSHMEM for the Adapteva Epiphany RISC Array Processor
+
+The energy-efficient Adapteva Epiphany architecture exhibits massive many-core scalability in a physically compact 2D array of RISC cores with a fast network-on-chip (NoC). With fully divergent cores capable of MIMD execution, the physical topology and memory-mapped capabilities of the core and network translate well to partitioned global address space (PGAS) parallel programming models. Following an investigation into the use of two-sided communication using threaded MPI, one-sided communication using SHMEM is being explored. Here we present work in progress on the development of an OpenSHMEM 1.2 implementation for the Epiphany architecture.

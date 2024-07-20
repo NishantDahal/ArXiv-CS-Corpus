@@ -1,0 +1,3 @@
+Significance of Disk Failure Prediction in Datacenters
+
+Modern datacenters assemble a very large number of disk drives under a single roof. Even if economic and technical factors where to make individual drives more reliable (which is not at all clear, given the commoditization of the technology), their sheer numbers combined with their ever increasing utilization in a well-balanced design makes achieving storage reliability a major challenge. In this paper, we assess the challenge of storage system reliability in the modern datacenter, and demonstrate how good disk failure prediction models can significantly improve the reliability of such systems.

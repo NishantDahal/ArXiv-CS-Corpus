@@ -1,0 +1,3 @@
+Quantum wiretap channel with non-uniform random number and its exponent and equivocation rate of leaked information
+
+A usual code for quantum wiretap channel requires an auxiliary random variable subject to the perfect uniform distribution. However, it is difficult to prepare such an auxiliary random variable. We propose a code that requires only an auxiliary random variable subject to a non-uniform distribution instead of the perfect uniform distribution. Further, we evaluate the exponential decreasing rate of leaked information and derive its equivocation rate. For practical constructions, we also discuss the security when our code consists of a linear error correcting code.

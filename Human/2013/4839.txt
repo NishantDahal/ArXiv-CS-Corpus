@@ -1,0 +1,3 @@
+A linear-time algorithm for finding a complete graph minor in a dense graph
+
+Let g(t) be the minimum number such that every graph G with average degree d(G) \geq g(t) contains a K_{t}-minor. Such a function is known to exist, as originally shown by Mader. Kostochka and Thomason independently proved that g(t) \in Θ(t*sqrt{log t}). This article shows that for all fixed ε> 0 and fixed sufficiently large t \geq t(ε), if d(G) \geq (2+ε)g(t) then we can find this K_{t}-minor in linear time. This improves a previous result by Reed and Wood who gave a linear-time algorithm when d(G) \geq 2^{t-2}.

@@ -1,0 +1,4 @@
+Quantum coin hedging, and a counter measure
+
+A quantum board game is a multi-round protocol between a single quantum player against the quantum board. Molina and Watrous discovered quantum hedging. They gave an example for perfect quantum hedging: a board game with winning probability < 1, such that the player can win with certainty at least 1-out-of-2 quantum board games played in parallel. Here we show that perfect quantum hedging occurs in a cryptographic protocol - quantum coin flipping. For this reason, when cryptographic protocols are composed, hedging may introduce serious challenges into their analysis.
+  We also show that hedging cannot occur when playing two-outcome board games in sequence. This is done by showing a formula for the value of sequential two-outcome board games, which depends only on the optimal value of a single board game; this formula applies in a more general setting, in which hedging is only a special case.

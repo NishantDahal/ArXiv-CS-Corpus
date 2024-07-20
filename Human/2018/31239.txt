@@ -1,0 +1,3 @@
+Lockcoin: a secure and privacy-preserving mix service for bitcoin anonymity
+
+We propose Lockcoin, a secure and privacy-preserving mix service for bitcoin anonymity. We introduce mix servers to provide mix service for user to prevent attackers linking the input address with output address by using blind signature shceme, multisignature scheme. Lockcoin provides anonymity, scalability, bitcoin compatibillity, theft impossibility and accountability. We have proposed a prototype of Lockcoin based on bitcoin test network, experimental results show that our solution is efficient. Lockcoin's source codes are released on github.com/Northeastern-University-Blockchain/Lockcoin.

@@ -1,0 +1,3 @@
+An Upper Bound for Random Measurement Error in Causal Discovery
+
+Causal discovery algorithms infer causal relations from data based on several assumptions, including notably the absence of measurement error. However, this assumption is most likely violated in practical applications, which may result in erroneous, irreproducible results. In this work we show how to obtain an upper bound for the variance of random measurement error from the covariance matrix of measured variables and how to use this upper bound as a correction for constraint-based causal discovery. We demonstrate a practical application of our approach on both simulated data and real-world protein signaling data.

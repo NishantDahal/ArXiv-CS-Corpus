@@ -1,0 +1,3 @@
+Straggler-Resilient and Communication-Efficient Distributed Iterative Linear Solver
+
+We propose a novel distributed iterative linear inverse solver method. Our method, PolyLin, has significantly lower communication cost, both in terms of number of rounds as well as number of bits, in comparison with the state of the art at the cost of higher computational complexity and storage. Our algorithm also has a built-in resilience to straggling and faulty computation nodes. We develop a natural variant of our main algorithm that trades off communication cost for computational complexity. Our method is inspired by ideas in error correcting codes.

@@ -1,0 +1,3 @@
+An analysis of social network connect services
+
+Social network platforms are increasingly becoming identity providers and a media for showing multiple types of activity from third-party web sites. In this article, we analyze the services provided by seven of the most popular social network platforms. Results show OAuth emerging as the authentication and authorization protocol, giving support to three types of APIs, client-side or Javascript, server-side or representational state transfer (REST) and streaming. JSON is the most popular format, but there a considerable variety of resource types and a lack of representation standard, which makes harder for the third-party developer integrating with several services.

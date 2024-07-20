@@ -1,0 +1,3 @@
+Encoding toroidal triangulations
+
+Poulalhon and Schaeffer introduced an elegant method to linearly encode a planar triangulation optimally. The method is based on performing a special depth-first search algorithm on a particular orientation of the triangulation: the minimal Schnyder wood. Recent progress toward generalizing Schnyder woods to higher genus enables us to generalize this method to the toroidal case. In the plane, the method leads to a bijection between planar triangulations and some particular trees. For the torus we obtain a similar bijection but with particular unicellular maps (maps with only one face).

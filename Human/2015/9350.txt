@@ -1,0 +1,4 @@
+Bigtable Merge Compaction
+
+NoSQL databases are widely used for massive data storage and real-time web applications. Yet important aspects of these data structures are not well understood. For example, NoSQL databases write most of their data to a collection of files on disk, meanwhile periodically compacting subsets of these files. A compaction policy must choose which files to compact, and when to compact them, without knowing the future workload. Although these choices can affect computational efficiency by orders of magnitude, existing literature lacks tools for designing and analyzing online compaction policies --- policies are now chosen largely by trial and error.
+  Here we introduce tools for the design and analysis of compaction policies for Google Bigtable, propose new policies, give average-case and worst-case competitive analyses, and present preliminary empirical benchmarks.

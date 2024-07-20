@@ -1,0 +1,4 @@
+LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry
+
+In this paper, we propose a method of targetless and automatic Camera-LiDAR calibration. Our approach is an extension of hand-eye calibration framework to 2D-3D calibration. By using the sensor fusion odometry method, the scaled camera motions are calculated with high accuracy. In addition to this, we clarify the suitable motion for this calibration method.
+  The proposed method only requires the three-dimensional point cloud and the camera image and does not need other information such as reflectance of LiDAR and to give initial extrinsic parameter. In the experiments, we demonstrate our method using several sensor configurations in indoor and outdoor scenes to verify the effectiveness. The accuracy of our method achieves more than other comparable state-of-the-art methods.

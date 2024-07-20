@@ -1,0 +1,3 @@
+A protected password change protocol
+
+Some protected password change protocols were proposed. However, the previous protocols were easily vulnerable to several attacks such as denial of service, password guessing, stolen-verifier and impersonation atacks etc. Recently, Chang et al. proposed a simple authenticated key agreement and protected password change protocol for enhancing the security and efficiency. In this paper, authors shall show that password guessing, denial of service and known-key attacks can work in their password change protocol. At the same time, authors shall propose a new password change protocol to withstand all the threats of security.

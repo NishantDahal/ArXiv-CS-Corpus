@@ -1,0 +1,3 @@
+Order preserving pattern matching on trees and DAGs
+
+The order preserving pattern matching (OPPM) problem is, given a pattern string $p$ and a text string $t$, find all substrings of $t$ which have the same relative orders as $p$. In this paper, we consider two variants of the OPPM problem where a set of text strings is given as a tree or a DAG. We show that the OPPM problem for a single pattern $p$ of length $m$ and a text tree $T$ of size $N$ can be solved in $O(m+N)$ time if the characters of $p$ are drawn from an integer alphabet of polynomial size. The time complexity becomes $O(m \log m + N)$ if the pattern $p$ is over a general ordered alphabet. We then show that the OPPM problem for a single pattern and a text DAG is NP-complete.

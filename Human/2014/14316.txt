@@ -1,0 +1,3 @@
+Bottleneck Partial-Matching Voronoi Diagrams and Applications
+
+Given two point sets in the plane, we study the minimization of the bottleneck distance between a point set B and an equally-sized subset of a point set A under translations. We relate this problem to a Voronoi-type diagram and derive polynomial bounds for its complexity that are optimal in the size of A. We devise efficient algorithms for the construction of such a diagram and its lexicographic variant, which generalize to higher dimensions. We use the diagram to find an optimal bottleneck matching under translations, to compute a connecting path of minimum bottleneck cost between two positions of B, and to determine the maximum bottleneck cost in a convex polygon.

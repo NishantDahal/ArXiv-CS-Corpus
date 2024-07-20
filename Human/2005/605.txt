@@ -1,0 +1,3 @@
+Monotone Conditional Complexity Bounds on Future Prediction Errors
+
+We bound the future loss when predicting any (computably) stochastic sequence online. Solomonoff finitely bounded the total deviation of his universal predictor M from the true distribution m by the algorithmic complexity of m. Here we assume we are at a time t>1 and already observed x=x_1...x_t. We bound the future prediction performance on x_{t+1}x_{t+2}... by a new variant of algorithmic complexity of m given x, plus the complexity of the randomness deficiency of x. The new complexity is monotone in its condition in the sense that this complexity can only decrease if the condition is prolonged. We also briefly discuss potential generalizations to Bayesian model classes and to classification problems.

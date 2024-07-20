@@ -1,0 +1,4 @@
+Graph reduction with spectral and cut guarantees
+
+Can one reduce the size of a graph without significantly altering its basic properties? The graph reduction problem is hereby approached from the perspective of restricted spectral approximation, a modification of the spectral similarity measure used for graph sparsification. This choice is motivated by the observation that restricted approximation carries strong spectral and cut guarantees, and that it implies approximation results for unsupervised learning problems relying on spectral embeddings.
+  The paper then focuses on coarsening---the most common type of graph reduction. Sufficient conditions are derived for a small graph to approximate a larger one in the sense of restricted similarity. These findings give rise to nearly-linear algorithms that, compared to both standard and advanced graph reduction methods, find coarse graphs of improved quality, often by a large margin, without sacrificing speed.

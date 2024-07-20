@@ -1,0 +1,3 @@
+Alternation Is Strict For Higher-Order Modal Fixpoint Logic
+
+We study the expressive power of Alternating Parity Krivine Automata (APKA), which provide operational semantics to Higher-Order Modal Fixpoint Logic (HFL). APKA consist of ordinary parity automata extended by a variation of the Krivine Abstract Machine. We show that the number and parity of priorities available to an APKA form a proper hierarchy of expressive power as in the modal mu-calculus. This also induces a strict alternation hierarchy on HFL. The proof follows Arnold's (1999) encoding of runs into trees and subsequent use of the Banach Fixpoint Theorem.

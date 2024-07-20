@@ -1,0 +1,3 @@
+Pseudocodeword-Free Criterion for Codes with Cycle-Free Tanner Graph
+
+Iterative decoding and linear programming decoding are guaranteed to converge to the maximum-likelihood codeword when the underlying Tanner graph is cycle-free. Therefore, cycles are usually seen as the culprit of low-density parity-check (LDPC) codes. In this paper, we argue in the context of graph cover pseudocodeword that, for a code that permits a cycle-free Tanner graph, cycles have no effect on error performance as long as they are a part of redundant rows. Specifically, we characterize all parity-check matrices that are pseudocodeword-free for such class of codes.

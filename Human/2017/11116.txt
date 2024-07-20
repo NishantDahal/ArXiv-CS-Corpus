@@ -1,0 +1,3 @@
+Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras
+
+We introduce Kapre, Keras layers for audio and music signal preprocessing. Music research using deep neural networks requires a heavy and tedious preprocessing stage, for which audio processing parameters are often ignored in parameter optimisation. To solve this problem, Kapre implements time-frequency conversions, normalisation, and data augmentation as Keras layers. We report simple benchmark results, showing real-time on-GPU preprocessing adds a reasonable amount of computation.

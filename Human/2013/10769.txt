@@ -1,0 +1,3 @@
+Protein Threading Based on Nonlinear Integer Programming
+
+Protein threading is a method of computational protein structure prediction used for protein sequences which have the same fold as proteins of known structures but do not have homologous proteins with known structure. The most popular algorithm is based on linear integer programming. In this paper, we consider methods based on nonlinear integer programming. Actually, the existing linear integer programming is directly linearized from the original quadratic integer programming. We then develop corresponding efficient algorithms.

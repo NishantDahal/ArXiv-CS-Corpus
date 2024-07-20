@@ -1,0 +1,3 @@
+Using Chip Multithreading to Speed Up Scenario-Based Design Space Exploration
+
+To cope with the complex embedded system design, early design space exploration (DSE) is used to make design decisions early in the design phase. For early DSE it is crucial that the running time of the exploration is as small as possible. In this paper, we describe both the porting of our scenario-based DSE to the SPARC T3-4 server and the analysis of its performance behavior.

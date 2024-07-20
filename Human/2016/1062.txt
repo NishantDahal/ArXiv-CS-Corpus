@@ -1,0 +1,3 @@
+Learning with a Strong Adversary
+
+The robustness of neural networks to intended perturbations has recently attracted significant attention. In this paper, we propose a new method, \emph{learning with a strong adversary}, that learns robust classifiers from supervised data. The proposed method takes finding adversarial examples as an intermediate step. A new and simple way of finding adversarial examples is presented and experimentally shown to be efficient. Experimental results demonstrate that resulting learning method greatly improves the robustness of the classification models produced.

@@ -1,0 +1,4 @@
+Fast Compatibility Testing for Rooted Phylogenetic Trees
+
+We consider the following basic problem in phylogenetic tree construction. Let $\mathcal{P} = \{T_1, \ldots, T_k\}$ be a collection of rooted phylogenetic trees over various subsets of a set of species. The tree compatibility problem asks whether there is a tree $T$ with the following property: for each $i \in \{1, \dots, k\}$, $T_i$ can be obtained from the restriction of $T$ to the species set of $T_i$ by contracting zero or more edges. If such a tree $T$ exists, we say that $\mathcal{P}$ is compatible.
+  We give a $\tilde{O}(M_\mathcal{P})$ algorithm for the tree compatibility problem, where $M_\mathcal{P}$ is the total number of nodes and edges in $\mathcal{P}$. Unlike previous algorithms for this problem, the running time of our method does not depend on the degrees of the nodes in the input trees. Thus, it is equally fast on highly resolved and highly unresolved trees.

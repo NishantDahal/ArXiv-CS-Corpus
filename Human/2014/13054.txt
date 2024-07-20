@@ -1,0 +1,3 @@
+Exact Algorithms for 0-1 Integer Programs with Linear Equality Constraints
+
+In this paper, we show $O(1.415^n)$-time and $O(1.190^n)$-space exact algorithms for 0-1 integer programs where constraints are linear equalities and coefficients are arbitrary real numbers. Our algorithms are quadratically faster than exhaustive search and almost quadratically faster than an algorithm for an inequality version of the problem by Impagliazzo, Lovett, Paturi and Schneider (arXiv:1401.5512), which motivated our work. Rather than improving the time and space complexity, we advance to a simple direction as inclusion of many NP-hard problems in terms of exact exponential algorithms. Specifically, we extend our algorithms to linear optimization problems.

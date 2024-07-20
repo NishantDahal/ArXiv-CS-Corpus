@@ -1,0 +1,3 @@
+A dependent nominal type theory
+
+Nominal abstract syntax is an approach to representing names and binding pioneered by Gabbay and Pitts. So far nominal techniques have mostly been studied using classical logic or model theory, not type theory. Nominal extensions to simple, dependent and ML-like polymorphic languages have been studied, but decidability and normalization results have only been established for simple nominal type theories. We present a LF-style dependent type theory extended with name-abstraction types, prove soundness and decidability of beta-eta-equivalence checking, discuss adequacy and canonical forms via an example, and discuss extensions such as dependently-typed recursion and induction principles. 

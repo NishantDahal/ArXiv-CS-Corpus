@@ -1,0 +1,4 @@
+Strongvelope Multi-Party Encrypted Messaging Protocol design document
+
+In this document we describe the design of a multi-party messaging encryption protocol "Strongvelope". We hope that it will prove useful to people interested in understanding the inner workings of this protocol as well as cryptography and security experts to review the underlying concepts and assumptions.
+  In this design paper we are outlining the perspective of chat message protection through the Strongvelope module. This is different from the product (the Mega chat) and the transport means which it will be used with. Aspects of the chat product and transport are only referred to where appropriate, but are not subject to discussion in this document.

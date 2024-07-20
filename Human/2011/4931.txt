@@ -1,0 +1,3 @@
+New Bounds for Edge-Cover by Random Walk
+
+We show that the expected time for a random walk on a (multi-)graph $G$ to traverse all $m$ edges of $G$, and return to its starting point, is at most $2m^2$; if each edge must be traversed in both directions, the bound is $3m^2$. Both bounds are tight and may be applied to graphs with arbitrary edge lengths, with implications for Brownian motion on a finite or infinite network of total edge-length $m$.

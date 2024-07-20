@@ -1,0 +1,3 @@
+Dynamic Shortest Path and Transitive Closure Algorithms: A Survey
+
+Algorithms which compute properties over graphs have always been of interest in computer science, with some of the fundamental algorithms, such as Dijkstra's algorithm, dating back to the 50s. Since the 70s there as been interest in computing over graphs which are constantly changing, in a way which is more efficient than simple recomputing after each time the graph changes. In this paper we provide a survey of both the foundational, and the state of the art, algorithms which solve either shortest path or transitive closure problems in either fully or partially dynamic graphs. We balance this with the known conditional lowerbounds.

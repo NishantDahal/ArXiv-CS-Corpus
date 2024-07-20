@@ -1,0 +1,3 @@
+A Comparison of NOOP to Structural Domain-Theoretic Models of OOP
+
+Mainstream object-oriented programming languages such as Java, C#, C++ and Scala are all almost entirely nominally-typed. NOOP is a recently developed domain-theoretic model of OOP that was designed to include full nominal information found in nominally-typed OOP. This paper compares NOOP to the most widely known domain-theoretic models of OOP, namely, the models developed by Cardelli and Cook, which were structurally-typed models. Leveraging the development of NOOP, the comparison presented in this paper provides a clear and precise mathematical account for the relation between nominal and structural OO type systems.

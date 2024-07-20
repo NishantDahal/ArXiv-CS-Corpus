@@ -1,0 +1,5 @@
+A Note on Sparsification by Frames
+
+The purpose of this note is to establish a new generalized Dictionary-Restricted Isometry Property (D-RIP) sparsity bound constant for compressed sensing.
+  For fulfilling D-RIP, the constant $δ_k$ is used in the definition: $(1 -δ_k)\|D v\|_2^2 \le \|ΦD v\|_2^2 \le (1 + δ_k)\|D v\|^2$. We prove that signals with $k$-sparse $D$-representation can be reconstructed if $δ_{2k} < \frac{2}3$.
+  The approach in this note can be extended to obtain other D-RIP bounds (i.e., $δ_{tk}$).

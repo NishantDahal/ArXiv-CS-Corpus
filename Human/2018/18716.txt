@@ -1,0 +1,3 @@
+Petri Net Reductions for Counting Markings
+
+We propose a method to count the number of reachable markings of a Petri net without having to enumerate these rst. The method relies on a structural reduction system that reduces the number of places and transitions of the net in such a way that we can faithfully compute the number of reachable markings of the original net from the reduced net and the reduction history. The method has been implemented and computing experiments show that reductions are eective on a large benchmark of models.

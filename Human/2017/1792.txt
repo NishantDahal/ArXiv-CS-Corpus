@@ -1,0 +1,3 @@
+Low-Precision Batch-Normalized Activations
+
+Artificial neural networks can be trained with relatively low-precision floating-point and fixed-point arithmetic, using between one and 16 bits. Previous works have focused on relatively wide-but-shallow, feed-forward networks. We introduce a quantization scheme that is compatible with training very deep neural networks. Quantizing the network activations in the middle of each batch-normalization module can greatly reduce the amount of memory and computational power needed, with little loss in accuracy.

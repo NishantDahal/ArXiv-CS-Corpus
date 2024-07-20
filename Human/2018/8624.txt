@@ -1,0 +1,3 @@
+CytonRL: an Efficient Reinforcement Learning Open-source Toolkit Implemented in C++
+
+This paper presents an open-source enforcement learning toolkit named CytonRL (https://github.com/arthurxlw/cytonRL). The toolkit implements four recent advanced deep Q-learning algorithms from scratch using C++ and NVIDIA's GPU-accelerated libraries. The code is simple and elegant, owing to an open-source general-purpose neural network library named CytonLib. Benchmark shows that the toolkit achieves competitive performances on the popular Atari game of Breakout.

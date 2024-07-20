@@ -1,0 +1,4 @@
+Delaunay Triangulations of Points on Circles
+
+Delaunay triangulations of a point set in the Euclidean plane are ubiquitous in a number of computational sciences, including computational geometry.
+  Delaunay triangulations are not well defined as soon as 4 or more points are concyclic but since it is not a generic situation, this difficulty is usually handled by using a (symbolic or explicit) perturbation. As an alternative, we propose to define a canonical triangulation for a set of concyclic points by using a max-min angle characterization of Delaunay triangulations. This point of view leads to a well defined and unique triangulation as long as there are no symmetric quadruples of points. This unique triangulation can be computed in quasi-linear time by a very simple algorithm.

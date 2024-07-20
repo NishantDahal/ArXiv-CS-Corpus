@@ -1,0 +1,3 @@
+ECHO-3DHPC: Advance the performance of astrophysics simulations with code modernization
+
+We present recent developments in the parallelization scheme of ECHO-3DHPC, an efficient astrophysical code used in the modelling of relativistic plasmas. With the help of the Intel Software Development Tools, like Fortran compiler and Profile-Guided Optimization (PGO), Intel MPI library, VTune Amplifier and Inspector we have investigated the performance issues and improved the application scalability and the time to solution. The node-level performance is improved by $2.3 \times$ and, thanks to the improved threading parallelisation, the hybrid MPI-OpenMP version of the code outperforms the MPI-only, thus lowering the MPI communication overhead.

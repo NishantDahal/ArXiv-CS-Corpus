@@ -1,0 +1,3 @@
+Making triangulations 4-connected using flips
+
+We show that any combinatorial triangulation on n vertices can be transformed into a 4-connected one using at most floor((3n - 9)/5) edge flips. We also give an example of an infinite family of triangulations that requires this many flips to be made 4-connected, showing that our bound is tight. In addition, for n >= 19, we improve the upper bound on the number of flips required to transform any 4-connected triangulation into the canonical triangulation (the triangulation with two dominant vertices), matching the known lower bound of 2n - 15. Our results imply a new upper bound on the diameter of the flip graph of 5.2n - 33.6, improving on the previous best known bound of 6n - 30.

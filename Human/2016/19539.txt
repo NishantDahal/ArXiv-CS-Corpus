@@ -1,0 +1,3 @@
+On Nonlinear Prices in Timed Automata
+
+Priced timed automata provide a natural model for quantitative analysis of real-time systems and have been successfully applied in various scheduling and planning problems. The optimal reachability problem for linearly-priced timed automata is known to be PSPACE-complete. In this paper we investigate priced timed automata with more general prices and show that in the most general setting the optimal reachability problem is undecidable. We adapt and implement the construction of Audemard, Cimatti, Kornilowicz, and Sebastiani for non-linear priced timed automata using state-of-the-art theorem prover Z3 and present some preliminary results.

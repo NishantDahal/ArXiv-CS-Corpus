@@ -1,0 +1,3 @@
+The Virtual Ring Shear-Slip Mesh Update Method
+
+A novel method - the Virtual Ring Shear-Slip Mesh Update Method (VR-SSMUM) - for the efficient and accurate modeling of moving boundary or interface problems in the context of the numerical analysis of fluid flow is presented. We focus on cases with periodic straight-line translation including object entry and exit. The periodic character of the motion is reflected in the method via a mapping of the physical domain onto a closed virtual ring. Therefore, we use an extended mesh, where unneeded portions are deactivated to control the computational overhead. We provide a validation case as well as examples for the applicability of the method to 2D and 3D models of packaging machines.

@@ -1,0 +1,3 @@
+A Dynamic Programming Solution to the Monotonic Path of Minimal Cost in a 3-Rows Matrix
+
+We consider the problem of finding the path of minimal cost going from left to right in a 3-rows matrix, starting at the third row, and not going downwards, where there is an additional cost related to not changing rows, such that the higher the change in intensity within the row, the higher the cost of not moving upwards.

@@ -1,0 +1,3 @@
+Bottom-Up Evaluation of Datalog: Preliminary Report
+
+Bottom-up evaluation of Datalog has been studied for a long time, and is standard material in textbooks. However, if one actually wants to develop a deductive database system, it turns out that there are many implementation options. For instance, the sequence in which rule instances are applied is not given. In this paper, we study a method that immediately uses a derived tuple to derive more tuples (called the Push method). In this way, storage space for intermediate results can be reduced. The main contribution of our method is the way in which we minimize the copying of values at runtime, and do much work already at compile-time.

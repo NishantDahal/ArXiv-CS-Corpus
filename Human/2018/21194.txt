@@ -1,0 +1,3 @@
+A bagging and importance sampling approach to Support Vector Machines
+
+An importance sampling and bagging approach to solving the support vector machine (SVM) problem in the context of large databases is presented and evaluated. Our algorithm builds on the nearest neighbors ideas presented in Camelo at al. (2015). As in that reference, the goal of the present proposal is to achieve a faster solution of the SVM problem without a significance loss in the prediction error. The performance of the methodology is evaluated in benchmark examples and theoretical aspects of subsample methods are discussed.

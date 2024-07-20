@@ -1,0 +1,3 @@
+Signal Flow Graph Approach to Efficient DST I-IV Algorithms
+
+In this paper, fast and efficient discrete sine transformation (DST) algorithms are presented based on the factorization of sparse, scaled orthogonal, rotation, rotation-reflection, and butterfly matrices. These algorithms are completely recursive and solely based on DST I-IV. The presented algorithms have low arithmetic cost compared to the known fast DST algorithms. Furthermore, the language of signal flow graph representation of digital structures is used to describe these efficient and recursive DST algorithms having $(n-1)$ points signal flow graph for DST-I and $n$ points signal flow graphs for DST II-IV.

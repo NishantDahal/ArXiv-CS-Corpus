@@ -1,0 +1,3 @@
+A Secure and Comparable Text Encryption Algorithm
+
+This paper discloses a simple algorithm for encrypting text messages, based on the NP-completeness of the subset sum problem, such that the similarity between encryptions is roughly proportional to the semantic similarity between their generating messages. This allows parties to compare encrypted messages for semantic overlap without trusting an intermediary and might be applied, for example, as a means of finding scientific collaborators over the Internet.

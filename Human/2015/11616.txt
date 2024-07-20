@@ -1,0 +1,3 @@
+Termination of rewrite relations on $λ$-terms based on Girard's notion of reducibility
+
+In this paper, we show how to extend the notion of reducibility introduced by Girard for proving the termination of $β$-reduction in the polymorphic $λ$-calculus, to prove the termination of various kinds of rewrite relations on $λ$-terms, including rewriting modulo some equational theory and rewriting with matching modulo $β$$η$, by using the notion of computability closure. This provides a powerful termination criterion for various higher-order rewriting frameworks, including Klop's Combinatory Reductions Systems with simple types and Nipkow's Higher-order Rewrite Systems.

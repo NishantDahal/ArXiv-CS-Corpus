@@ -1,0 +1,3 @@
+Alloy meets TLA+: An exploratory study
+
+Alloy and TLA+ are two formal specification languages that are increasingly popular due to their simplicity and flexibility, as well as the effectiveness of their companion model checkers, the Alloy Analyzer and TLC, respectively. Nonetheless, while TLA+ focuses on temporal properties, Alloy is better suited to handle structural properties, requiring ad hoc mechanisms to reason about temporal properties. Thus, both have limitations in the specification and analysis of systems rich in both static and dynamic properties. This paper explores the pros and cons of these two frameworks when handling this class of systems through the step-by-step modeling, specification and verification of an example.

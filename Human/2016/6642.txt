@@ -1,0 +1,3 @@
+A Riemannian gossip approach to decentralized matrix completion
+
+In this paper, we propose novel gossip algorithms for the low-rank decentralized matrix completion problem. The proposed approach is on the Riemannian Grassmann manifold that allows local matrix completion by different agents while achieving asymptotic consensus on the global low-rank factors. The resulting approach is scalable and parallelizable. Our numerical experiments show the good performance of the proposed algorithms on various benchmarks.

@@ -1,0 +1,3 @@
+Teacher Improves Learning by Selecting a Training Subset
+
+We call a learner super-teachable if a teacher can trim down an iid training set while making the learner learn even better. We provide sharp super-teaching guarantees on two learners: the maximum likelihood estimator for the mean of a Gaussian, and the large margin classifier in 1D. For general learners, we provide a mixed-integer nonlinear programming-based algorithm to find a super teaching set. Empirical experiments show that our algorithm is able to find good super-teaching sets for both regression and classification problems.

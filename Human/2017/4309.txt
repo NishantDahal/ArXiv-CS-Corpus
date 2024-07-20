@@ -1,0 +1,9 @@
+A Nearly Optimal Lower Bound on the Approximate Degree of AC$^0$
+
+The approximate degree of a Boolean function $f \colon \{-1, 1\}^n \rightarrow \{-1, 1\}$ is the least degree of a real polynomial that approximates $f$ pointwise to error at most $1/3$. We introduce a generic method for increasing the approximate degree of a given function, while preserving its computability by constant-depth circuits.
+  Specifically, we show how to transform any Boolean function $f$ with approximate degree $d$ into a function $F$ on $O(n \cdot \operatorname{polylog}(n))$ variables with approximate degree at least $D = Ω(n^{1/3} \cdot d^{2/3})$. In particular, if $d= n^{1-Ω(1)}$, then $D$ is polynomially larger than $d$. Moreover, if $f$ is computed by a polynomial-size Boolean circuit of constant depth, then so is $F$.
+  By recursively applying our transformation, for any constant $δ> 0$ we exhibit an AC$^0$ function of approximate degree $Ω(n^{1-δ})$. This improves over the best previous lower bound of $Ω(n^{2/3})$ due to Aaronson and Shi (J. ACM 2004), and nearly matches the trivial upper bound of $n$ that holds for any function. Our lower bounds also apply to (quasipolynomial-size) DNFs of polylogarithmic width.
+  We describe several applications of these results. We give:
+  * For any constant $δ> 0$, an $Ω(n^{1-δ})$ lower bound on the quantum communication complexity of a function in AC$^0$.
+  * A Boolean function $f$ with approximate degree at least $C(f)^{2-o(1)}$, where $C(f)$ is the certificate complexity of $f$. This separation is optimal up to the $o(1)$ term in the exponent.
+  * Improved secret sharing schemes with reconstruction procedures in AC$^0$.

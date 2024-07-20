@@ -1,0 +1,3 @@
+Divide and Congruence II: From Decomposition of Modal Formulas to Preservation of Delay and Weak Bisimilarity
+
+Earlier we presented a method to decompose modal formulas for processes with the internal action $τ$, and congruence formats for branching and $η$-bisimilarity were derived on the basis of this decomposition method. The idea is that a congruence format for a semantics must ensure that the formulas in the modal characterisation of this semantics are always decomposed into formulas that are again in this modal characterisation. In this follow-up paper the decomposition method is enhanced to deal with modal characterisations that contain a modality $\langleε\rangle\langle a\rangleφ$, to derive congruence formats for delay and weak bisimilarity.

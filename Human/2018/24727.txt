@@ -1,0 +1,3 @@
+A case study in formal verification of a Java program
+
+We describe a successful attempt to formally verify a simple genetic algorithm written in Java. To this end, we compare several formal verification tools designed for Java, and select Krakatoa as the most appropriate for the task. Based on our experience, we present several suggestions for making the tools more user friendly, which we hope will lead to wider adoption of formal methods. In particular, we discuss at length how useful it would be for provers to perform some form of abduction, that is, for them to guess which extra assumptions they need to prove a statement. It is our opinion that progress in this area would produce the largest improvement in the usability of formal verification tools.

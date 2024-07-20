@@ -1,0 +1,3 @@
+Cryptographic Pseudo-Random Sequences from the Chaotic Henon Map
+
+A scheme for pseudo-random binary sequence generation based on the two-dimensional discrete-time Henon map is proposed. Properties of the proposed sequences pertaining to linear complexity, linear complexity profile, correlation and auto-correlation are investigated. All these properties of the sequences suggest a strong resemblance to random sequences. Results of statistical testing of the sequences are found encouraging. An attempt is made to estimate the keyspace size if the proposed scheme is used for cryptographic applications. The keyspace size is found to be large and is dependent on the precision of the computing platform used.

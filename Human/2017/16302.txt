@@ -1,0 +1,3 @@
+VART: A Tool for the Automatic Detection of Regression Faults
+
+In this paper we present VART, a tool for automatically revealing regression faults missed by regression test suites. Interestingly, VART is not limited to faults causing crashing or exceptions, but can reveal faults that cause the violation of application-specific correctness properties. VART achieves this goal by combining static and dynamic program analysis.

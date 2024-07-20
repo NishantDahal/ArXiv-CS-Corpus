@@ -1,0 +1,3 @@
+Dual pivot Quicksort
+
+In this paper, we analyse the dual pivot Quicksort, a variant of the standard Quicksort algorithm, in which two pivots are used for the partitioning of the array. We are solving recurrences of the expected number of key comparisons and exchanges performed by the algorithm, obtaining the exact and asymptotic total average values contributing to its time complexity. Further, we compute the average number of partitioning stages and the variance of the number of key comparisons. In terms of mean values, dual pivot Quicksort does not appear to be faster than ordinary algorithm.

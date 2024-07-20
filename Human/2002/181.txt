@@ -1,0 +1,3 @@
+Unsupervised Learning of Morphology without Morphemes
+
+The first morphological learner based upon the theory of Whole Word Morphology Ford et al. (1997) is outlined, and preliminary evaluation results are presented. The program, Whole Word Morphologizer, takes a POS-tagged lexicon as input, induces morphological relationships without attempting to discover or identify morphemes, and is then able to generate new words beyond the learning sample. The accuracy (precision) of the generated new words is as high as 80% using the pure Whole Word theory, and 92% after a post-hoc adjustment is added to the routine.

@@ -1,0 +1,3 @@
+Cospectral mates for the union of some classes in the Johnson association scheme
+
+Let $n\geq k\geq 2$ be two integers and $S$ a subset of $\{0,1,\dots,k-1\}$. The graph $J_{S}(n,k)$ has as vertices the $k$-subsets of the $n$-set $[n]=\{1,\dots,n\}$ and two $k$-subsets $A$ and $B$ are adjacent if $|A\cap B|\in S$. In this paper, we use Godsil-McKay switching to prove that for $m\geq 0$, $k\geq \max(m+2,3)$ and $S = \{0, 1, ..., m\}$, the graphs $J_S(3k-2m-1,k)$ are not determined by spectrum and for $m\geq 2$, $n\geq 4m+2$ and $S = \{0,1,...,m\}$ the graphs $J_{S}(n,2m+1)$ are not determined by spectrum. We also report some computational searches for Godsil-McKay switching sets in the union of classes in the Johnson scheme for $k\leq 5$.

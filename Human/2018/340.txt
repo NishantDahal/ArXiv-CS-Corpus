@@ -1,0 +1,3 @@
+Optimum Fairness for Non-Orthogonal Multiple Access
+
+This paper focuses on the fairness issue in non-orthogonal multiple access (NOMA) and investigates the optimization problem that maximizes the worst user's achievable rate. Unlike previous studies, we derive a closed-form expression for the optimal value and solution, which are related to Perron-Frobenius eigenvalue and eigenvector of a defined positive matrix. On this basis, we propose an iterative algorithm to compute the optimal solution, which has linear convergence and requires only about half iterations of the classical bisection method.

@@ -1,0 +1,5 @@
+Automatic and Transparent Transfer of Theorems along Isomorphisms in the Coq Proof Assistant
+
+In mathematics, it is common practice to have several constructions for the same objects. Mathematicians will identify them modulo isomorphism and will not worry later on which construction they use, as theorems proved for one construction will be valid for all.
+    When working with proof assistants, it is also common to see several data-types representing the same objects. This work aims at making the use of several isomorphic constructions as simple and as transparent as it can be done informally in mathematics. This requires inferring automatically the missing proof-steps.
+    We are designing an algorithm which finds and fills these missing proof-steps and we are implementing it as a plugin for Coq.

@@ -1,0 +1,3 @@
+Spatiotemporal Networks for Video Emotion Recognition
+
+Our experiment adapts several popular deep learning methods as well as some traditional methods on the problem of video emotion recognition. In our experiment, we use the CNN-LSTM architecture for visual information extraction and classification and utilize traditional methods such as for audio feature classification. For multimodal fusion, we use the traditional Support Vector Machine. Our experiment yields a good result on the AFEW 6.0 Dataset.

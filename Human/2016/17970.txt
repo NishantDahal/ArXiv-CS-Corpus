@@ -1,0 +1,4 @@
+Collision-based Testers are Optimal for Uniformity and Closeness
+
+We study the fundamental problems of (i) uniformity testing of a discrete distribution, and (ii) closeness testing between two discrete distributions with bounded $\ell_2$-norm. These problems have been extensively studied in distribution testing and sample-optimal estimators are known for them~\cite{Paninski:08, CDVV14, VV14, DKN:15}.
+  In this work, we show that the original collision-based testers proposed for these problems ~\cite{GRdist:00, BFR+:00} are sample-optimal, up to constant factors. Previous analyses showed sample complexity upper bounds for these testers that are optimal as a function of the domain size $n$, but suboptimal by polynomial factors in the error parameter $ε$. Our main contribution is a new tight analysis establishing that these collision-based testers are information-theoretically optimal, up to constant factors, both in the dependence on $n$ and in the dependence on $ε$.

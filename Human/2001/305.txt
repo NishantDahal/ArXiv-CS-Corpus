@@ -1,0 +1,3 @@
+Improved Quantum Communication Complexity Bounds for Disjointness and Equality
+
+We prove new bounds on the quantum communication complexity of the disjointness and equality problems. For the case of exact and non-deterministic protocols we show that these complexities are all equal to n+1, the previous best lower bound being n/2. We show this by improving a general bound for non-deterministic protocols of de Wolf. We also give an O(sqrt{n}c^{log^* n})-qubit bounded-error protocol for disjointness, modifying and improving the earlier O(sqrt{n}log n) protocol of Buhrman, Cleve, and Wigderson, and prove an Omega(sqrt{n}) lower bound for a large class of protocols that includes the BCW-protocol as well as our new protocol.

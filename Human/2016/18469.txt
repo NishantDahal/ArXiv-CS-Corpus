@@ -1,0 +1,5 @@
+Predicting the dynamics of 2d objects with a deep residual network
+
+We investigate how a residual network can learn to predict the dynamics of interacting shapes purely as an image-to-image regression task.
+  With a simple 2d physics simulator, we generate short sequences composed of rectangles put in motion by applying a pulling force at a point picked at random. The network is trained with a quadratic loss to predict the image of the resulting configuration, given the image of the starting configuration and an image indicating the point of grasping.
+  Experiments show that the network learns to predict accurately the resulting image, which implies in particular that (1) it segments rectangles as distinct components, (2) it infers which one contains the grasping point, (3) it models properly the dynamic of a single rectangle, including the torque, (4) it detects and handles collisions to some extent, and (5) it re-synthesizes properly the entire scene with displaced rectangles.

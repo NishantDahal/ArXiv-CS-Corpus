@@ -1,0 +1,6 @@
+Boundedness in languages of infinite words
+
+We define a new class of languages of $ω$-words, strictly extending $ω$-regular languages.
+  One way to present this new class is by a type of regular expressions. The new expressions are an extension of $ω$-regular expressions where two new variants of the Kleene star $L^*$ are added: $L^B$ and $L^S$. These new exponents are used to say that parts of the input word have bounded size, and that parts of the input can have arbitrarily large sizes, respectively. For instance, the expression $(a^Bb)^ω$ represents the language of infinite words over the letters $a,b$ where there is a common bound on the number of consecutive letters $a$. The expression $(a^Sb)^ω$ represents a similar language, but this time the distance between consecutive $b$'s is required to tend toward the infinite.
+  We develop a theory for these languages, with a focus on decidability and closure. We define an equivalent automaton model, extending Büchi automata. The main technical result is a complementation lemma that works for languages where only one type of exponent---either $L^B$ or $L^S$---is used.
+  We use the closure and decidability results to obtain partial decidability results for the logic MSOLB, a logic obtained by extending monadic second-order logic with new quantifiers that speak about the size of sets.

@@ -1,0 +1,3 @@
+An Asymptotically Optimal Strategy for Constrained Multi-armed Bandit Problems
+
+For the stochastic multi-armed bandit (MAB) problem from a constrained model that generalizes the classical one, we show that an asymptotic optimality is achievable by a simple strategy extended from the $ε_t$-greedy strategy. We provide a finite-time lower bound on the probability of correct selection of an optimal near-feasible arm that holds for all time steps. Under some conditions, the bound approaches one as time $t$ goes to infinity. A particular example sequence of $\{ε_t\}$ having the asymptotic convergence rate in the order of $(1-\frac{1}{t})^4$ that holds from a sufficiently large $t$ is also discussed.

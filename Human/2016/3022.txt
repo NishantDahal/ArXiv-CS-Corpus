@@ -1,0 +1,3 @@
+A Note on the Computational Complexity of Unsmoothened Vertex Attack Tolerance
+
+We have previously introduced vertex attack tolerance (VAT) and unsmoothened VAT (UVAT), denoted respectively as $τ(G) = \min_{S \subset V} \frac{|S|}{|V-S-C_{max}(V-S)|+1}$ and $\hatτ(G) = \min_{S \subset V} \frac{|S|}{|V-S-C_{max}(V-S)|}$, where $C_{max}(V-S)$ is the largest connected component in $V-S$, as appropriate mathematical measures of resilience in the face of targeted node attacks for arbitrary degree networks. Here we prove the hardness of approximating $\hatτ$ under various plausible computational complexity hypotheses.

@@ -1,0 +1,3 @@
+Canonical Forms and Automorphisms in the Projective Space
+
+Let $\C$ be a sequence of multisets of subspaces of a vector space $\F_q^k$. We describe a practical algorithm which computes a canonical form and the stabilizer of $\C$ under the group action of the general semilinear group. It allows us to solve canonical form problems in coding theory, i.e. we are able to compute canonical forms of linear codes, $\F_{q}$-linear block codes over the alphabet $\F_{q^s}$ and random network codes under their natural notion of equivalence. The algorithm that we are going to develop is based on the partition refinement method and generalizes a previous work by the author on the computation of canonical forms of linear codes.

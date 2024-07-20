@@ -1,0 +1,8 @@
+Mathematics of Domains
+
+Two groups of naturally arising questions in the mathematical theory of domains for denotational semantics are addressed. Domains are equipped with Scott topology and represent data types. Scott continuous functions represent computable functions and form the most popular continuous model of computations.
+  Covariant Logic of Domains: Domains are represented as sets of theories, and Scott continuous functions are represented as input-output inference engines. The questions addressed are: A. What constitutes a subdomain? Do subdomains of a given domain $A$ form a domain? B. Which retractions are finitary? C. What is the essence of generalizations of information systems based on non-reflexive logics? Are these generalizations restricted to continuous domains?
+  Analysis on Domains:
+  D. How to describe Scott topologies via generalized distance functions satisfying the requirement of Scott continuity ("abstract computability")? The answer is that the axiom $ρ(x, x) = 0$ is incompatible with Scott continuity of distance functions. The resulting \bf relaxed metrics are studied.
+  E. Is it possible to obtain Scott continuous relaxed metrics via measures of domain subsets representing positive and negative information about domain elements? The positive answer is obtained via the discovery of the novel class of co-continuous valuations on the systems of Scott open sets.
+  Some of these natural questions were studied earlier. However, in each case a novel approach is presented, and the answers are supplied with much more compelling and clear justifications, than were known before.

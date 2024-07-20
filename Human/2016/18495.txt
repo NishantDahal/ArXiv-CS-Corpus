@@ -1,0 +1,3 @@
+Performance Comparison of Short-Length Error-Correcting Codes
+
+We compare the performance of short-length linear binary codes on the binary erasure channel and the binary-input Gaussian channel. We use a universal decoder that can decode any linear binary block code: Gaussian-elimination based Maximum-Likelihood decoder on the erasure channel and probabilistic Ordered Statistics Decoder on the Gaussian channel. As such we compare codes and not decoders. The word error rate versus the channel parameter is found for LDPC, Reed-Muller, Polar, and BCH codes at length 256 bits. BCH codes outperform other codes in absence of cyclic redundancy check. Under joint decoding, the concatenation of a cyclic redundancy check makes all codes perform very close to optimal lower bounds.

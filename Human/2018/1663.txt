@@ -1,0 +1,5 @@
+Scheduling Monotone Moldable Jobs in Linear Time
+
+A moldable job is a job that can be executed on an arbitrary number of processors, and whose processing time depends on the number of processors allotted to it. A moldable job is monotone if its work doesn't decrease for an increasing number of allotted processors. We consider the problem of scheduling monotone moldable jobs to minimize the makespan.
+  We argue that for certain compact input encodings a polynomial algorithm has a running time polynomial in n and log(m), where n is the number of jobs and m is the number of machines. We describe how monotony of jobs can be used to counteract the increased problem complexity that arises from compact encodings, and give tight bounds on the approximability of the problem with compact encoding: it is NP-hard to solve optimally, but admits a PTAS.
+  The main focus of this work are efficient approximation algorithms. We describe different techniques to exploit the monotony of the jobs for better running times, and present a (3/2+ε)-approximate algorithm whose running time is polynomial in log(m) and 1/ε, and only linear in the number n of jobs.

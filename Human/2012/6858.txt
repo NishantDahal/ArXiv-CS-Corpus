@@ -1,0 +1,3 @@
+Certification extends Termination Techniques
+
+There are termination proofs that are produced by termination tools for which certifiers are not powerful enough. However, a similar situation also occurs in the other direction. We have formalized termination techniques in a more general setting as they have been introduced. Hence, we can certify proofs using techniques that no termination tool supports so far. In this paper we shortly present two of these formalizations: Polynomial orders with negative constants and Arctic termination.

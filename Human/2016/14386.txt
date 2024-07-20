@@ -1,0 +1,3 @@
+Comparison of several short-term traffic speed forecasting models
+
+The widespread adoption of smartphones in recent years has made it possible for us to collect large amounts of traffic data. Special software installed on the phones of drivers allow us to gather GPS trajectories of their vehicles on the road network. In this paper, we simulate the trajectories of multiple agents on a road network and use various models to forecast the short-term traffic speed of various links. Our results show that traditional techniques like multiple regression and artificial neural networks work well but simpler adaptive models that do not require prior training also perform comparatively well.

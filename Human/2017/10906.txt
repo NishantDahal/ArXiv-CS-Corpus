@@ -1,0 +1,3 @@
+Content-Centric Networking - Architectural Overview and Protocol Description
+
+This document describes the core concepts of the CCNx architecture and presents a minimum network protocol based on two messages: Interests and Content Objects. It specifies the set of mandatory and optional fields within those messages and describes their behavior and interpretation. This architecture and protocol specification is independent of a specific wire encoding.

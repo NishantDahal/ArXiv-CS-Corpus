@@ -1,0 +1,3 @@
+Statistical efficiency of curve fitting algorithms
+
+We study the problem of fitting parametrized curves to noisy data. Under certain assumptions (known as Cartesian and radial functional models), we derive asymptotic expressions for the bias and the covariance matrix of the parameter estimates. We also extend Kanatani's version of the Cramer-Rao lower bound, which he proved for unbiased estimates only, to more general estimates that include many popular algorithms (most notably, the orthogonal least squares and algebraic fits). We then show that the gradient-weighted algebraic fit is statistically efficient and describe all other statistically efficient algebraic fits.

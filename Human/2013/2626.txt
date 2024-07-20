@@ -1,0 +1,3 @@
+A Graph Calculus for Predicate Logic
+
+We introduce a refutation graph calculus for classical first-order predicate logic, which is an extension of previous ones for binary relations. One reduces logical consequence to establishing that a constructed graph has empty extension, i. e. it represents bottom. Our calculus establishes that a graph has empty extension by converting it to a normal form, which is expanded to other graphs until we can recognize conflicting situations (equivalent to a formula and its negation).

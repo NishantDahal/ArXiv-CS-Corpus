@@ -1,0 +1,3 @@
+Cross-Entropic Learning of a Machine for the Decision in a Partially Observable Universe
+
+Revision of the paper previously entitled "Learning a Machine for the Decision in a Partially Observable Markov Universe" In this paper, we are interested in optimal decisions in a partially observable universe. Our approach is to directly approximate an optimal strategic tree depending on the observation. This approximation is made by means of a parameterized probabilistic law. A particular family of hidden Markov models, with input \emph{and} output, is considered as a model of policy. A method for optimizing the parameters of these HMMs is proposed and applied. This optimization is based on the cross-entropic principle for rare events simulation developed by Rubinstein.

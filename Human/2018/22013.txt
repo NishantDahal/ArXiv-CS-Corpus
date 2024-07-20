@@ -1,0 +1,3 @@
+Structure-Aware Shape Synthesis
+
+We propose a new procedure to guide training of a data-driven shape generative model using a structure-aware loss function. Complex 3D shapes often can be summarized using a coarsely defined structure which is consistent and robust across variety of observations. However, existing synthesis techniques do not account for structure during training, and thus often generate implausible and structurally unrealistic shapes. During training, we enforce structural constraints in order to enforce consistency and structure across the entire manifold. We propose a novel methodology for training 3D generative models that incorporates structural information into an end-to-end training pipeline.

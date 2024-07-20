@@ -1,0 +1,3 @@
+Signal Recovery under Cumulative Coherence
+
+This paper considers signal recovery in the framework of cumulative coherence. First, we show that the Lasso estimator and the Dantzig selector exhibit similar behavior under the cumulative coherence. Then we estimate the approximation equivalence between the Lasso and the Dantzig selector by calculating prediction loss difference under the condition of cumulative coherence. And we also prove that the cumulative coherence implies the restricted eigenvalue condition. Last, we illustrate the advantages of cumulative coherence condition for three class matrices, in terms of the recovery performance of sparse signals via extensive numerical experiments.

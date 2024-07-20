@@ -1,0 +1,3 @@
+A new algorithm for Many to Many Matching with Demands and Capacities
+
+Let A={a_1,a_2,...,a_s} and {b_1,b_2,...,b_t} with s+r=n, the many to many point matching with demands and capacities matches each point a_i in A to at least alpha_i and at most alpha_i points in B, and each point b_j in B to at least beta_j and at most beta_j points in A for all 1 <= i <= s and 1 <= j <= t. In this paper, we present an O(n^4) time and O(n) space algorithm for this problem.

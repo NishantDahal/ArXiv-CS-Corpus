@@ -1,0 +1,3 @@
+Misspecified Nonconvex Statistical Optimization for Phase Retrieval
+
+Existing nonconvex statistical optimization theory and methods crucially rely on the correct specification of the underlying "true" statistical models. To address this issue, we take a first step towards taming model misspecification by studying the high-dimensional sparse phase retrieval problem with misspecified link functions. In particular, we propose a simple variant of the thresholded Wirtinger flow algorithm that, given a proper initialization, linearly converges to an estimator with optimal statistical accuracy for a broad family of unknown link functions. We further provide extensive numerical experiments to support our theoretical findings.

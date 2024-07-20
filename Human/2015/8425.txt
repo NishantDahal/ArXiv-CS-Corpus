@@ -1,0 +1,3 @@
+An algorithm for discrete fractional Hadamard transform
+
+We present a novel algorithm for calculating the discrete fractional Hadamard transform for data vectors whose size N is a power of two. A direct method for calculation of the discrete fractional Hadamard transform requires $N^2$ multiplications, while in proposed algorithm the number of real multiplications is reduced to $N$log$_2N$.

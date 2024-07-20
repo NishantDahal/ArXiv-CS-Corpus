@@ -1,0 +1,3 @@
+Compliant motion control for handling a single object by two similar industrial robots
+
+In this paper, we propose a compliant motion control strategy for handling a single object by two similar industrial robots. The dynamics of the object carried by the two robots is assimilated to the dynamics of a mass-spring-damper system described by a piecewise linear model (PWA). The coordination of the two robots is accomplished using a master slave synchronization approach dedicated for PWA systems, based on the Lyapunov theory, and solved via Linear Matrix Inequalities (LMIs). The performances of the proposed approach are proved by simulation results and compared to a related approach.

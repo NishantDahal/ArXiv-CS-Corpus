@@ -1,0 +1,4 @@
+Embedding graphs into embedded graphs
+
+A (possibly denerate) drawing of a graph $G$ in the plane is approximable by an embedding if it can be turned into an embedding by an arbitrarily small perturbation. We show that testing, whether a straight-line drawing of a planar graph $G$ in the plane is approximable by an embedding, can be carried out in polynomial time, if a desired embedding of $G$ belongs to a fixed isotopy class. In other words, we show that c-planarity with embedded pipes is tractable for graphs with fixed embeddings.
+  To the best of our knowledge an analogous result was previously known essentially only when $G$ is a cycle.

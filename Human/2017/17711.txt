@@ -1,0 +1,3 @@
+Quantum Online Algorithms with Respect to Space Complexity
+
+Online algorithm is a well-known computational model. We introduce quantum online algorithms and investigate them with respect to a competitive ratio in two points of view: space complexity and advice complexity. We start with exploring a model with restricted memory and show that quantum online algorithms can be better than classical ones (deterministic or randomized) for sublogarithmic space (memory), and they can be better than deterministic online algorithms without restriction for memory. Additionally, we consider polylogarithmic space case and show that in this case, quantum online algorithms can be better than deterministic ones as well.

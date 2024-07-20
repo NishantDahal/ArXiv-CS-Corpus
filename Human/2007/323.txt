@@ -1,0 +1,3 @@
+VPSPACE and a Transfer Theorem over the Reals
+
+We introduce a new class VPSPACE of families of polynomials. Roughly speaking, a family of polynomials is in VPSPACE if its coefficients can be computed in polynomial space. Our main theorem is that if (uniform, constant-free) VPSPACE families can be evaluated efficiently then the class PAR of decision problems that can be solved in parallel polynomial time over the real numbers collapses to P. As a result, one must first be able to show that there are VPSPACE families which are hard to evaluate in order to separate over the reals P from NP, or even from PAR.

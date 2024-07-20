@@ -1,0 +1,3 @@
+A New Method to Visualize Deep Neural Networks
+
+We present a method for visualising the response of a deep neural network to a specific input. For image data for instance our method will highlight areas that provide evidence in favor of, and against choosing a certain class. The method overcomes several shortcomings of previous methods and provides great additional insight into the decision making process of convolutional networks, which is important both to improve models and to accelerate the adoption of such methods in e.g. medicine. In experiments on ImageNet data, we illustrate how the method works and can be applied in different ways to understand deep neural nets.

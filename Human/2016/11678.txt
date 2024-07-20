@@ -1,0 +1,3 @@
+Computing maximal cliques in link streams
+
+A link stream is a collection of triplets $(t, u, v)$ indicating that an interaction occurred between u and v at time t. We generalize the classical notion of cliques in graphs to such link streams: for a given $Δ$, a $Δ$-clique is a set of nodes and a time interval such that all pairs of nodes in this set interact at least once during each sub-interval of duration $Δ$. We propose an algorithm to enumerate all maximal (in terms of nodes or time interval) cliques of a link stream, and illustrate its practical relevance on a real-world contact trace.

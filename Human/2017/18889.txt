@@ -1,0 +1,3 @@
+KUKA Sunrise Toolbox: Interfacing Collaborative Robots with MATLAB
+
+Collaborative robots are increasingly present in our lives. The KUKA LBR iiwa equipped with the KUKA Sunrise.OS controller is a good example of a collaborative/sensitive robot. This paper presents a MATLAB Toolbox, the KUKA Sunrise Toolbox (KST), to interface KUKA Sunrise.OS using MATLAB. The KST contains functionalities for networking, real-time control, point-to-point motion, setters and getters of parameters and physical interaction. KST includes more than 50 functions and runs on a remote computer connected with the KUKA Sunrise controller via transmission control Protocol/Internet Protocol (TCP/IP). The KST potentialities are demonstrated in three use cases.

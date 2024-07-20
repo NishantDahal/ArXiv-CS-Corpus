@@ -1,0 +1,3 @@
+Graphlet-based lazy associative graph classification
+
+The paper addresses the graph classification problem and introduces a modification of the lazy associative classification method to efficiently handle intersections of graphs. Graph intersections are approximated with all common subgraphs up to a fixed size similarly to what is done with graphlet kernels. We explain the idea of the algorithm with a toy example and describe our experiments with a predictive toxicology dataset.

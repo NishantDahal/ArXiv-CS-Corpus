@@ -1,0 +1,3 @@
+Convex Independence in Permutation Graphs
+
+A set C of vertices of a graph is P_3-convex if every vertex outside C has at most one neighbor in C. The convex hull σ(A) of a set A is the smallest P_3-convex set that contains A. A set M is convexly independent if for every vertex x \in M, x \notin σ(M-x). We show that the maximal number of vertices that a convexly independent set in a permutation graph can have, can be computed in polynomial time.

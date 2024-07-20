@@ -1,0 +1,3 @@
+A Service-Centric Approach to a Parameterized RBAC Service
+
+Significant research has been done in the area of Role Based Access Control [RBAC]. Within this research there has been a thread of work focusing on adding parameters to the role and permissions within RBAC. The primary benefit of parameter support in RBAC comes in the form of a significant increase in specificity in how permissions may be granted. This paper focuses on implementing a parameterized implementation based heavily upon existing standards.

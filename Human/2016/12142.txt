@@ -1,0 +1,3 @@
+Proving chaotic behaviour of CBC mode of operation
+
+The cipher block chaining (CBC) block cipher mode of operation was invented by IBM (International Business Machine) in 1976. It presents a very popular way of encrypting which is used in various applications. In this paper, we have mathematically proven that, under some conditions, the CBC mode of operation can admit a chaotic behaviour according to Devaney. Some cases will be properly studied in order to put in evidence this idea.

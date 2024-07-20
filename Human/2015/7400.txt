@@ -1,0 +1,3 @@
+An Elimination Method to Solve Interval Polynomial Systems
+
+There are several efficient methods to solve linear interval polynomial systems in the context of interval computations, however, the general case of interval polynomial systems is not yet covered as well. In this paper we introduce a new elimination method to solve and analyse interval polynomial systems, in general case. This method is based on computational algebraic geometry concepts such as polynomial ideals and Groebner basis computation. Specially, we use the comprehensive Groebner system concept to keep the dependencies between interval coefficients. At the end of paper, we will state some applications of our method to evaluate its performance.

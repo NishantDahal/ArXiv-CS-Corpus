@@ -1,0 +1,3 @@
+The Module Isomorphism Problem for Finite Rings and Related Results
+
+Let $R$ be a finite ring and let $M, N$ be two finite left $R$-modules. We present two distinct deterministic algorithms that decide in polynomial time whether or not $M$ and $N$ are isomorphic, and if they are, exhibit an isomorphism. As by-products, we are able to determine the largest isomorphic common direct summand between two modules and the minimum number of generators of a module. By not requiring $R$ to contain a field, avoiding computation of the Jacobson radical and not distinguishing between large and small characteristic, both algorithms constitute improvements to known results.

@@ -1,0 +1,5 @@
+1-way quantum finite automata: strengths, weaknesses and generalizations
+
+We study 1-way quantum finite automata (QFAs). First, we compare them with their classical counterparts. We show that, if an automaton is required to give the correct answer with a large probability (over 0.98), then the power of 1-way QFAs is equal to the power of 1-way reversible automata. However, quantum automata giving the correct answer with smaller probabilities are more powerful than reversible automata.
+  Second, we show that 1-way QFAs can be very space-efficient. Namely, we construct a 1-way QFA which is exponentially smaller than any equivalent classical (even randomized) finite automaton. This construction may be useful for design of other space-efficient quantum algorithms.
+  Third, we consider several generalizations of 1-way QFAs. Here, our goal is to find a model which is more powerful than 1-way QFAs keeping the quantum part as simple as possible.

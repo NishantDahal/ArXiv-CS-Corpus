@@ -1,0 +1,3 @@
+Counting the Palstars
+
+A palstar (after Knuth, Morris, and Pratt) is a concatenation of even-length palindromes. We show that, asymptotically, there are $Θ(α_k^n)$ palstars of length $2n$ over a $k$-letter alphabet, where $α_k$ is a constant such that $2k-1 < α_k < 2k-{1 \over 2}$. In particular, $α_2 \doteq 3.33513193$.

@@ -1,0 +1,4 @@
+Functional Baby Talk: Analysis of Code Fragments from Novice Haskell Programmers
+
+What kinds of mistakes are made by novice Haskell developers, as they learn about functional programming? Is it possible to analyze these errors in order to improve the pedagogy of Haskell? In 2016, we delivered a massive open online course which featured an interactive code evaluation environment. We captured and analyzed 161K interactions from learners. We report typical novice developer behavior; for instance, the mean time spent on an interactive tutorial is around eight minutes. Although our environment was restricted, we gain some understanding of Haskell novice errors. Parenthesis mismatches, lexical scoping errors and do block misunderstandings are common. Finally, we make recommendations about how such beginner code evaluation environments might be enhanced.
+

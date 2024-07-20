@@ -1,0 +1,3 @@
+Fast Image Scanning with Deep Max-Pooling Convolutional Neural Networks
+
+Deep Neural Networks now excel at image classification, detection and segmentation. When used to scan images by means of a sliding window, however, their high computational complexity can bring even the most powerful hardware to its knees. We show how dynamic programming can speedup the process by orders of magnitude, even when max-pooling layers are present.

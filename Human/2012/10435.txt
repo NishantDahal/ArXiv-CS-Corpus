@@ -1,0 +1,3 @@
+Bayesian one-mode projection for dynamic bipartite graphs
+
+We propose a Bayesian methodology for one-mode projecting a bipartite network that is being observed across a series of discrete time steps. The resulting one mode network captures the uncertainty over the presence/absence of each link and provides a probability distribution over its possible weight values. Additionally, the incorporation of prior knowledge over previous states makes the resulting network less sensitive to noise and missing observations that usually take place during the data collection process. The methodology consists of computationally inexpensive update rules and is scalable to large problems, via an appropriate distributed implementation.

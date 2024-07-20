@@ -1,0 +1,3 @@
+A Novel Method for Vectorization
+
+Vectorization of images is a key concern uniting computer graphics and computer vision communities. In this paper we are presenting a novel idea for efficient, customizable vectorization of raster images, based on Catmull Rom spline fitting. The algorithm maintains a good balance between photo-realism and photo abstraction, and hence is applicable to applications with artistic concerns or applications where less information loss is crucial. The resulting algorithm is fast, parallelizable and can satisfy general soft realtime requirements. Moreover, the smoothness of the vectorized images aesthetically outperforms outputs of many polygon-based methods

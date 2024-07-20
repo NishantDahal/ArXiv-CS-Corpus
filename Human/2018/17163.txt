@@ -1,0 +1,3 @@
+Causal Modeling with Probabilistic Simulation Models
+
+Recent authors have proposed analyzing conditional reasoning through a notion of intervention on a simulation program, and have found a sound and complete axiomatization of the logic of conditionals in this setting. Here we extend this setting to the case of probabilistic simulation models. We give a natural definition of probability on formulas of the conditional language, allowing for the expression of counterfactuals, and prove foundational results about this definition. We also find an axiomatization for reasoning about linear inequalities involving probabilities in this setting. We prove soundness, completeness, and NP-completeness of the satisfiability problem for this logic.

@@ -1,0 +1,3 @@
+Model Predictive Control for Signal Temporal Logic Specification
+
+We present a mathematical programming-based method for model predictive control of cyber-physical systems subject to signal temporal logic (STL) specifications. We describe the use of STL to specify a wide range of properties of these systems, including safety, response and bounded liveness. For synthesis, we encode STL specifications as mixed integer-linear constraints on the system variables in the optimization problem at each step of a receding horizon control framework. We prove correctness of our algorithms, and present experimental results for controller synthesis for building energy and climate control.

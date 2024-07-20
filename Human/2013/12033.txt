@@ -1,0 +1,3 @@
+On the rank of $n\times n$ matrix multiplication
+
+For every $p\leq n$ positive integer we obtain the lower bound $(3-\frac{1}{p+1})n^2-\big(2\binom{2p}{p+1}-\binom{2p-2}{p-1}+2\big)n$ for the rank of the $n\times n$ matrix multiplication. This bound improves the previous one $(3-\frac{1}{p+1})n^2-\big(1+2p\binom{2p}{p}\big)n$ due to Landsberg. Furthermore our bound improves the classic bound $\frac{5}{2}n^2-3n$, due to Bläser, for every $n\geq 132$. Finally, for $p = 2$, with a sligtly different strategy we menage to obtain the lower bound $\frac{8}{3}n^2-7n$ which improves Bläser's bound for any $n\geq 24$.

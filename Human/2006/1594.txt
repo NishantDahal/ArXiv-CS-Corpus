@@ -1,0 +1,3 @@
+Lightweight security mechanism for PSTN-VoIP cooperation
+
+In this paper we describe a new, lightweight security mechanism for PSTN-VoIP cooperation that is based on two information hiding techniques: digital watermarking and steganography. Proposed scheme is especially suitable for PSTN-IP-PSTN (toll-by-passing) scenario which nowadays is very popular application of IP Telephony systems. With the use of this mechanism we authenticate end-to-end transmitted voice between PSTN users. Additionally we improve IP part traffic security (both media stream and VoIP signalling messages). Exemplary scenario is presented for SIP signalling protocol along with SIP-T extension and H.248/Megaco protocol.

@@ -1,0 +1,3 @@
+Distributed $(Δ+1)$-Coloring in Sublogarithmic Rounds
+
+We give a new randomized distributed algorithm for $(Δ+1)$-coloring in the LOCAL model, running in $O(\sqrt{\log Δ})+ 2^{O(\sqrt{\log \log n})}$ rounds in a graph of maximum degree~$Δ$. This implies that the $(Δ+1)$-coloring problem is easier than the maximal independent set problem and the maximal matching problem, due to their lower bounds of $Ω\left( \min \left( \sqrt{\frac{\log n}{\log \log n}}, \frac{\log Δ}{\log \log Δ} \right) \right)$ by Kuhn, Moscibroda, and Wattenhofer [PODC'04]. Our algorithm also extends to list-coloring where the palette of each node contains $Δ+1$ colors. We extend the set of distributed symmetry-breaking techniques by performing a decomposition of graphs into dense and sparse parts.

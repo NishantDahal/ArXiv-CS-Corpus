@@ -1,0 +1,3 @@
+Modeling disease progression in longitudinal EHR data using continuous-time hidden Markov models
+
+Modeling disease progression in healthcare administrative databases is complicated by the fact that patients are observed only at irregular intervals when they seek healthcare services. In a longitudinal cohort of 76,888 patients with chronic obstructive pulmonary disease (COPD), we used a continuous-time hidden Markov model with a generalized linear model to model healthcare utilization events. We found that the fitted model provides interpretable results suitable for summarization and hypothesis generation.

@@ -1,0 +1,5 @@
+The Tu--Deng Conjecture holds almost surely
+
+The Tu--Deng Conjecture is concerned with the sum of digits $w(n)$ of $n$ in base~$2$ (the Hamming weight of the binary expansion of $n$) and states the following: assume that $k$ is a positive integer and $1\leq t<2^k-1$. Then \[\Bigl \lvert\Bigl\{(a,b)\in\bigl\{0,\ldots,2^k-2\bigr\}^2:a+b\equiv t\bmod 2^k-1, w(a)+w(b)<k\Bigr\}\Bigr \rvert\leq 2^{k-1}.\]
+  We prove that the Tu--Deng Conjecture holds almost surely in the following sense: the proportion of $t\in[1,2^k-2]$ such that the above inequality holds approaches $1$ as $k\rightarrow\infty$.
+  Moreover, we prove that the Tu--Deng Conjecture implies a conjecture due to T.~W.~Cusick concerning the sum of digits of $n$ and $n+t$.

@@ -1,0 +1,3 @@
+Three-Element Min-Sol and Conservative Min-Cost-Hom
+
+Thapper and Zivny [STOC'13] recently classified the complexity of VCSP for all finite-valued constraint languages. However, the complexity of VCSPs for constraint languages that are not finite-valued remains poorly understood. In this paper we study the complexity of two such VCSPs, namely Min-Cost-Hom and Min-Sol. We obtain a full classification for the complexity of Min-Sol on domains that contain at most three elements and for the complexity of conservative Min-Cost-Hom on arbitrary finite domains. Our results answer a question raised by Takhanov [STACS'10, COCOON'10].

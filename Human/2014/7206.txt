@@ -1,0 +1,4 @@
+A parallel repetition theorem for entangled two-player one-round games under product distributions
+
+We show a parallel repetition theorem for the entangled value $ω^*(G)$ of any two-player one-round game $G$ where the questions $(x,y) \in \mathcal{X}\times\mathcal{Y}$ to Alice and Bob are drawn from a product distribution on $\mathcal{X}\times\mathcal{Y}$. We show that for the $k$-fold product $G^k$ of the game $G$ (which represents the game $G$ played in parallel $k$ times independently),
+  $ ω^*(G^k) =\left(1-(1-ω^*(G))^3\right)^{Ω\left(\frac{k}{\log(|\mathcal{A}| \cdot |\mathcal{B}|)}\right)} $, where $\mathcal{A}$ and $\mathcal{B}$ represent the sets from which the answers of Alice and Bob are drawn.

@@ -1,0 +1,3 @@
+Attribute Recognition from Adaptive Parts
+
+Previous part-based attribute recognition approaches perform part detection and attribute recognition in separate steps. The parts are not optimized for attribute recognition and therefore could be sub-optimal. We present an end-to-end deep learning approach to overcome the limitation. It generates object parts from key points and perform attribute recognition accordingly, allowing adaptive spatial transform of the parts. Both key point estimation and attribute recognition are learnt jointly in a multi-task setting. Extensive experiments on two datasets verify the efficacy of proposed end-to-end approach.

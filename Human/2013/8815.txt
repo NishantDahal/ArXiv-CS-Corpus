@@ -1,0 +1,3 @@
+The Complexity of Robot Games on the Integer Line
+
+In robot games on Z, two players add integers to a counter. Each player has a finite set from which he picks the integer to add, and the objective of the first player is to let the counter reach 0. We present an exponential-time algorithm for deciding the winner of a robot game given the initial counter value, and prove a matching lower bound.

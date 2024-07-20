@@ -1,0 +1,3 @@
+Improving Weakly-Supervised Object Localization By Micro-Annotation
+
+Weakly-supervised object localization methods tend to fail for object classes that consistently co-occur with the same background elements, e.g. trains on tracks. We propose a method to overcome these failures by adding a very small amount of model-specific additional annotation. The main idea is to cluster a deep network's mid-level representations and assign object or distractor labels to each cluster. Experiments show substantially improved localization results on the challenging ILSVC2014 dataset for bounding box detection and the PASCAL VOC2012 dataset for semantic segmentation.

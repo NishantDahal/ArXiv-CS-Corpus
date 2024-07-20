@@ -1,0 +1,3 @@
+Decision-Theoretic Troubleshooting: Hardness of Approximation
+
+Decision-theoretic troubleshooting is one of the areas to which Bayesian networks can be applied. Given a probabilistic model of a malfunctioning man-made device, the task is to construct a repair strategy with minimal expected cost. The problem has received considerable attention over the past two decades. Efficient solution algorithms have been found for simple cases, whereas other variants have been proven NP-complete. We study several variants of the problem found in literature, and prove that computing approximate troubleshooting strategies is NP-hard. In the proofs, we exploit a close connection to set-covering problems.

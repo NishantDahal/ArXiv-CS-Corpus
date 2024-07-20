@@ -1,0 +1,6 @@
+Backward-Shifted Coding (BSC) based on Scalable Video Coding for HAS
+
+The main task of HTTP Adaptive Streaming is to adapt video quality dynamically under variable network conditions. This is a key feature for multimedia delivery especially when quality of service cannot be granted network-wide and, e.g., throughput may suffer short term fluctuations.
+  Hence, robust bitrate adaptation schemes become crucial in order to improve video quality. The objective, in this context, is to control the filling level of the playback buffer and maximize the quality of the video, while avoiding unnecessary video quality variations.
+  In this paper we study bitrate adaptation algorithms based on Backward-Shifted Coding (BSC), a scalable video coding scheme able to greatly improve video quality. We design bitrate adaptation algorithms that balance video rate smoothness and high network capacity utilization, leveraging both on throughput-based and buffer-based adaptation mechanisms.
+  Extensive simulations using synthetic and real-world video traffic traces show that the proposed scheme performs remarkably well even under challenging network conditions.

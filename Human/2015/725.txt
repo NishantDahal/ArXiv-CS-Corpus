@@ -1,0 +1,3 @@
+Online Computation of Abelian Runs
+
+Given a word $w$ and a Parikh vector $\mathcal{P}$, an abelian run of period $\mathcal{P}$ in $w$ is a maximal occurrence of a substring of $w$ having abelian period $\mathcal{P}$. We give an algorithm that finds all the abelian runs of period $\mathcal{P}$ in a word of length $n$ in time $O(n\times |\mathcal{P}|)$ and space $O(σ+|\mathcal{P}|)$.

@@ -1,0 +1,3 @@
+Clustering and Classification in Text Collections Using Graph Modularity
+
+A new fast algorithm for clustering and classification of large collections of text documents is introduced. The new algorithm employs the bipartite graph that realizes the word-document matrix of the collection. Namely, the modularity of the bipartite graph is used as the optimization functional. Experiments performed with the new algorithm on a number of text collections had shown a competitive quality of the clustering (classification), and a record-breaking speed.

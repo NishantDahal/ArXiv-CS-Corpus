@@ -1,0 +1,3 @@
+Formal Component-Based Semantics
+
+One of the proposed solutions for improving the scalability of semantics of programming languages is Component-Based Semantics, introduced by Peter D. Mosses. It is expected that this framework can also be used effectively for modular meta theoretic reasoning. This paper presents a formalization of Component-Based Semantics in the theorem prover Coq. It is based on Modular SOS, a variant of SOS, and makes essential use of dependent types, while profiting from type classes. This formalization constitutes a contribution towards modular meta theoretic formalizations in theorem provers. As a small example, a modular proof of determinism of a mini-language is developed.

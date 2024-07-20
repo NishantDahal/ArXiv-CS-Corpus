@@ -1,0 +1,3 @@
+On parallel solution of ordinary differential equations
+
+In this paper the performance of a parallel iterated Runge-Kutta method is compared versus those of the serial fouth order Runge-Kutta and Dormand-Prince methods. It was found that, typically, the runtime for the parallel method is comparable to that of the serial versions, thought it uses considerably more computational resources. A new algorithm is proposed where full parallelization is used to estimate the best stepsize for integration. It is shown that this new method outperforms the others, notably, in the integration of very large systems.

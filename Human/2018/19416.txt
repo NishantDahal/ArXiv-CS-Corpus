@@ -1,0 +1,3 @@
+3D Human Pose Estimation with Relational Networks
+
+In this paper, we propose a novel 3D human pose estimation algorithm from a single image based on neural networks. We adopted the structure of the relational networks in order to capture the relations among different body parts. In our method, each pair of different body parts generates features, and the average of the features from all the pairs are used for 3D pose estimation. In addition, we propose a dropout method that can be used in relational modules, which inherently imposes robustness to the occlusions. The proposed network achieves state-of-the-art performance for 3D pose estimation in Human 3.6M dataset, and it effectively produces plausible results even in the existence of missing joints.

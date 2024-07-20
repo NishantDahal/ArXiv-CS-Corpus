@@ -1,0 +1,3 @@
+Resolving Spatial-Time Conflicts In A Set Of Any-angle Or Angle-constrained Grid Paths
+
+We study the multi-agent path finding problem (MAPF) for a group of agents which are allowed to move into arbitrary directions on a 2D square grid. We focus on centralized conflict resolution for independently computed plans. We propose an algorithm that eliminates conflicts by using local re-planning and introducing time offsets to the execution of paths by different agents. Experimental results show that the algorithm can find high quality conflict-free solutions at low computational cost.

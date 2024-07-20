@@ -1,0 +1,3 @@
+Handling Skew in Multiway Joins in Parallel Processing
+
+Handling skew is one of the major challenges in query processing. In distributed computational environments such as MapReduce, uneven distribution of the data to the servers is not desired. One of the dominant measures that we want to optimize in distributed environments is communication cost. In a MapReduce job this is the amount of data that is transferred from the mappers to the reducers. In this paper we will introduce a novel technique for handling skew when we want to compute a multiway join in one MapReduce round with minimum communication cost. This technique is actually an adaptation of the Shares algorithm [Afrati et. al, TKDE 2011].

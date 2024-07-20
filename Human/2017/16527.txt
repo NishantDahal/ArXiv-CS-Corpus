@@ -1,0 +1,3 @@
+Seating Assignment Using Constrained Signed Spectral Clustering
+
+In this paper, we present a novel method for constrained cluster size signed spectral clustering which allows us to subdivide large groups of people based on their relationships. In general, signed clustering only requires K hard clusters and does not constrain the cluster sizes. We extend signed clustering to include cluster size constraints. Using an example of seating assignment, we efficiently find groups of people with high social affinity while mitigating awkward social interaction between people who dislike each other.

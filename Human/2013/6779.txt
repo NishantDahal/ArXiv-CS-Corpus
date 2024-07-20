@@ -1,0 +1,3 @@
+Algorithms for Computing Abelian Periods of Words
+
+Constantinescu and Ilie (Bulletin EATCS 89, 167--170, 2006) introduced the notion of an \emph{Abelian period} of a word. A word of length $n$ over an alphabet of size $σ$ can have $Θ(n^{2})$ distinct Abelian periods. The Brute-Force algorithm computes all the Abelian periods of a word in time $O(n^2 \times σ)$ using $O(n \times σ)$ space. We present an off-line algorithm based on a $\sel$ function having the same worst-case theoretical complexity as the Brute-Force one, but outperforming it in practice. We then present on-line algorithms that also enable to compute all the Abelian periods of all the prefixes of $w$.

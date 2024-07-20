@@ -1,0 +1,3 @@
+A Novel Approach in detecting pose orientation of a 3D face required for face
+
+In this paper we present a novel approach that takes as input a 3D image and gives as output its pose i.e. it tells whether the face is oriented with respect the X, Y or Z axes with angles of rotation up to 40 degree. All the experiments have been performed on the FRAV3D Database. After applying the proposed algorithm to the 3D facial surface we have obtained i.e. on 848 3D face images our method detected the pose correctly for 566 face images,thus giving an approximately 67 % of correct pose detection.

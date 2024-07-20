@@ -1,0 +1,5 @@
+Up-To Techniques for Behavioural Metrics via Fibrations
+
+Up-to techniques are a well-known method for enhancing coinductive proofs of behavioural equivalences. We introduce up-to techniques for behavioural metrics between systems modelled as coalgebras and we provide abstract results to prove their oundness in a compositional way.
+  In order to obtain a general framework, we need a systematic way to lift functors: we show that the Wasserstein lifting of a functor, introduced in a previous work, corresponds to a change of base in a fibrational sense. This observation enables us to reuse existing results about soundness of up-to techniques in a fibrational setting.
+  We focus on the fibrations of predicates and relations valued in a quantale, for which pseudo-metric spaces are an example. To illustrate our approach we provide an example on distances between regular languages.

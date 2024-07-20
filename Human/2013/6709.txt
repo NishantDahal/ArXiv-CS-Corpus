@@ -1,0 +1,3 @@
+Simple Schemas for Unordered XML
+
+We consider unordered XML, where the relative order among siblings is ignored, and propose two simple yet practical schema formalisms: disjunctive multiplicity schemas (DMS), and its restriction, disjunction-free multiplicity schemas (MS). We investigate their computational properties and characterize the complexity of the following static analysis problems: schema satisfiability, membership of a tree to the language of a schema, schema containment, twig query satisfiability, implication, and containment in the presence of schema. Our research indicates that the proposed formalisms retain much of the expressiveness of DTDs without an increase in computational complexity.

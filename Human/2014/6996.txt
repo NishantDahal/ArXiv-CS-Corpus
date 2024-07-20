@@ -1,0 +1,3 @@
+Joint density of eigenvalues in spiked multivariate models
+
+The classical methods of multivariate analysis are based on the eigenvalues of one or two sample covariance matrices. In many applications of these methods, for example to high dimensional data, it is natural to consider alternative hypotheses which are a low rank departure from the null hypothesis. For rank one alternatives, this note provides a representation for the joint eigenvalue density in terms of a single contour integral. This will be of use for deriving approximate distributions for likelihood ratios and linear statistics used in testing.

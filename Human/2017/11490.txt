@@ -1,0 +1,3 @@
+Proposal for a High Precision Tensor Processing Unit
+
+This whitepaper proposes the design and adoption of a new generation of Tensor Processing Unit which has the performance of Google's TPU, yet performs operations on wide precision data. The new generation TPU is made possible by implementing arithmetic circuits which compute using a new general purpose, fractional arithmetic based on the residue number system.

@@ -1,0 +1,3 @@
+Machine Learning of Linear Differential Equations using Gaussian Processes
+
+This work leverages recent advances in probabilistic machine learning to discover conservation laws expressed by parametric linear equations. Such equations involve, but are not limited to, ordinary and partial differential, integro-differential, and fractional order operators. Here, Gaussian process priors are modified according to the particular form of such operators and are employed to infer parameters of the linear equations from scarce and possibly noisy observations. Such observations may come from experiments or "black-box" computer simulations.

@@ -1,0 +1,3 @@
+On the Tape-Number Problem for Deterministic Time Classes
+
+For any time bound f, let H(f) denote the hierarchy conjecture which means that the restriction of the numbers of work tapes of deterministic Turing machines to some b generates an infinite hierarchy of proper subclasses DTIME_b(f) \subset \DTIME(f). We show that H(f) implies separations of deterministic from nondeterministic time classes. H(f) follows from the gap property, G(f), which says that there is a time-constructible bound f_2 such that f \in o(f_2) and DTIME(f)=DTIME(f_2). G(f) implies further separations. All these relationships relativize.

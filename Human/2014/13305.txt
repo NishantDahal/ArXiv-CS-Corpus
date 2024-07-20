@@ -1,0 +1,3 @@
+QPEL: Quantum Program and Effect Language
+
+We present the syntax and rules of deduction of QPEL (Quantum Program and Effect Language), a language for describing both quantum programs, and properties of quantum programs - effects on the appropriate Hilbert space.  We show how semantics may be given in terms of state-and-effect triangles, a categorical setting that allows semantics in terms of Hilbert spaces, C*-algebras, and other categories.  We prove soundness and completeness results that show the derivable judgements are exactly those provable in all state-and-effect triangles.

@@ -1,0 +1,4 @@
+Secure Communication Using Qubits
+
+A two-layer quantum protocol for secure transmission of data using qubits is presented. The protocol is an improvement over the BB84 QKD protocol. BB84, in conjunction with the one-time pad algorithm, has been shown to be unconditionally secure. However it suffers from two drawbacks: (1) Its security relies on the assumption that Alice's qubit source is perfect in the sense that it does not inadvertently emit multiple copies of the same qubit. A multi-qubit emission attack can be launched if this assumption is violated. (2) BB84 cannot transfer predetermined keys; the keys it can distribute are generated in the process. Our protocol does not have these drawbacks.
+  As in BB84, our protocol requires an authenticated public channel so as to detect an intruder's interaction with the quantum channel, but unlike in symmetric-key cryptography, the confidentiality of transmitted data does not rely on a shared secret key.

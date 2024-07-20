@@ -1,0 +1,3 @@
+Monoidal functional dependencies
+
+We present a complete logic for reasoning with functional dependencies (FDs) with semantics defined over classes of commutative integral partially ordered monoids and complete residuated lattices. The dependencies allow us to express stronger relationships between attribute values than the ordinary FDs. In our setting, the dependencies not only express that certain values are determined by others but also express that similar values of attributes imply similar values of other attributes. We show complete axiomatization using a system of Armstrong-like rules, comment on related computational issues, and the relational vs. propositional semantics of the dependencies.

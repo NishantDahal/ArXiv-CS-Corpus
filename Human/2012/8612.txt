@@ -1,0 +1,3 @@
+A polygon-based interpolation operator for super-resolution imaging
+
+We outline the super-resolution reconstruction problem posed as a maximization of probability. We then introduce an interpolation method based on polygonal pixel overlap, express it as a linear operator, and use it to improve reconstruction. Polygon interpolation outperforms the simpler bilinear interpolation operator and, unlike Gaussian modeling of pixels, requires no parameter estimation. A free software implementation that reproduces the results shown is provided.

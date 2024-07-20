@@ -1,0 +1,5 @@
+Confluence of Conditional Term Rewrite Systems via Transformations
+
+Conditional term rewriting is an intuitive yet complex extension of term rewriting. In order to benefit from the simpler framework of unconditional rewriting, transformations have been defined to eliminate the conditions of conditional term rewrite systems. 
+  Recent results provide confluence criteria for conditional term rewrite systems via transformations, yet they are restricted to CTRSs with certain syntactic properties like weak left-linearity.  These syntactic properties imply that the transformations are sound for the given CTRS.
+  This paper shows how to use transformations to prove confluence of operationally  terminating, right-stable deterministic conditional term rewrite systems without the necessity of soundness restrictions. For this purpose, it is shown that certain rewrite strategies, in particular almost U-eagerness and innermost rewriting, always imply soundness.

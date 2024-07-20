@@ -1,0 +1,3 @@
+Alphabet-dependent Parallel Algorithm for Suffix Tree Construction for Pattern Searching
+
+Suffix trees have recently become very successful data structures in handling large data sequences such as DNA or Protein sequences. Consequently parallel architectures have become ubiquitous. We present a novel alphabet-dependent parallel algorithm which attempts to take advantage of the perverseness of the multicore architecture. Microsatellites are important for their biological relevance hence our algorithm is based on time efficient construction for identification of such. We experimentally achieved up to 15x speedup over the sequential algorithm on different input sizes of biological sequences.

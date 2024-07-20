@@ -1,0 +1,3 @@
+Automatic Annotation of Axoplasmic Reticula in Pursuit of Connectomes using High-Resolution Neural EM Data
+
+Accurately estimating the wiring diagram of a brain, known as a connectome, at an ultrastructure level is an open research problem. Specifically, precisely tracking neural processes is difficult, especially across many image slices. Here, we propose a novel method to automatically identify and annotate small subcellular structures present in axons, known as axoplasmic reticula, through a 3D volume of high-resolution neural electron microscopy data. Our method produces high precision annotations, which can help improve automatic segmentation by using our results as seeds for segmentation, and as cues to aid segment merging.

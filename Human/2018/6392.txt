@@ -1,0 +1,3 @@
+Deep Information Networks
+
+We describe a novel classifier with a tree structure, designed using information theory concepts. This Information Network is made of information nodes, that compress the input data, and multiplexers, that connect two or more input nodes to an output node. Each information node is trained, independently of the others, to minimize a local cost function that minimizes the mutual information between its input and output with the constraint of keeping a given mutual information between its output and the target (information bottleneck). We show that the system is able to provide good results in terms of accuracy, while it shows many advantages in terms of modularity and reduced complexity.

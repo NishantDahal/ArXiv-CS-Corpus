@@ -1,0 +1,3 @@
+Modeling and Control of Humanoid Robots in Dynamic Environments: iCub Balancing on a Seesaw
+
+Forthcoming applications concerning humanoid robots may involve physical interaction between the robot and a dynamic environment. In such scenario, classical balancing and walking controllers that neglect the environment dynamics may not be sufficient for achieving a stable robot behavior. This paper presents a modeling and control framework for balancing humanoid robots in contact with a dynamic environment. We first model the robot and environment dynamics, together with the contact constraints. Then, a control strategy for stabilizing the full system is proposed. Theoretical results are verified in simulation with robot iCub balancing on a seesaw.

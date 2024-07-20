@@ -1,0 +1,3 @@
+FdConfig: A Constraint-Based Interactive Product Configurator
+
+We present a constraint-based approach to interactive product configuration. Our configurator tool FdConfig is based on feature models for the representation of the product domain. Such models can be directly mapped into constraint satisfaction problems and dealt with by appropriate constraint solvers. During the interactive configuration process the user generates new constraints as a result of his configuration decisions and even may retract constraints posted earlier. We discuss the configuration process, explain the underlying techniques and show optimizations.

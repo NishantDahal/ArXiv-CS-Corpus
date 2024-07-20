@@ -1,0 +1,3 @@
+Running Identical Threads in C-Slow Retiming based Designs for Functional Failure Detection
+
+This paper shows the usage of C-Slow Retiming (CSR) in safety critical and low power applications. CSR generates C copies of a design by reusing the given logic resources in a time sliced fashion. When all C design copies are stimulated with the same input values, then all C design copies should behave the same way and will therefore create a redundant system. The paper shows that this special method of using CSR offers great benefits when used in safety critical and low power applications. Additional optimization techniques towards reducing register count are shown and an on-the-fly recovery mechanism is discussed.

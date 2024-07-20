@@ -1,0 +1,3 @@
+A note on Reed's Conjecture about $ω$, $Δ$ and $χ$ with respect to vertices of high degree
+
+Reed conjectured that for every graph, $χ\leq \left \lceil \frac{Δ+ ω+ 1}{2} \right \rceil$ holds, where $χ$, $ω$ and $Δ$ denote the chromatic number, clique number and maximum degree of the graph, respectively. We develop an algorithm which takes a hypothetical counterexample as input. The output discloses some hidden structures closely related to high vertex degrees. Consequently, we deduce two graph classes where Reed's Conjecture holds: One contains all graphs in which the vertices of degree at least $5$ form a stable set. The other contains all graphs in which every induced cycle of odd length contains a vertex of at most degree 3.

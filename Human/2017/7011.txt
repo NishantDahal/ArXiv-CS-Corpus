@@ -1,0 +1,5 @@
+More on additive triples of bijections
+
+We study additive properties of the set $S$ of bijections (or permutations) $\{1,\dots,n\}\to G$, thought of as a subset of $G^n$, where $G$ is an arbitrary abelian group of order $n$. Our main result is an asymptotic for the number of solutions to $π_1 + π_2 + π_3 = f$ with $π_1,π_2,π_3\in S$, where $f:\{1,\dots,n\}\to G$ is an arbitary function satisfying $\sum_{i=1}^n f(i) = \sum G$. This extends recent work of Manners, Mrazović, and the author. Using the same method we also prove a less interesting asymptotic for solutions to $π_1 + π_2 + π_3 + π_4 = f$, and we also show that the distribution $π_1+π_2$ is close to flat in $L^2$.
+  As in the previous paper, our method is based on Fourier analysis, and we prove our results by carefully carving up $\widehat{G}^n$ and bounding various character sums. This is most complicated when $G$ has even order, say when $G = \mathbf{F}_2^d$.
+  At the end of the paper we explain two applications, one coming from the Latin squares literature (counting transversals in Latin hypercubes) and one from cryptography (PRP-to-PRF conversion).

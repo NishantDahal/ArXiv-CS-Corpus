@@ -1,0 +1,3 @@
+A Bloom filter based semi-index on $q$-grams
+
+We present a simple $q$-gram based semi-index, which allows to look for a pattern typically only in a small fraction of text blocks. Several space-time tradeoffs are presented. Experiments on Pizza & Chili datasets show that our solution is up to three orders of magnitude faster than the Claude et al. \cite{CNPSTjda10} semi-index at a comparable space usage.

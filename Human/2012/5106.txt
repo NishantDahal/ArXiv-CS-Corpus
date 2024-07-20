@@ -1,0 +1,3 @@
+Dynamic Dependency Pairs for Algebraic Functional Systems
+
+We extend the higher-order termination method of dynamic dependency pairs to Algebraic Functional Systems (AFSs). In this setting, simply typed lambda-terms with algebraic reduction and separate β-steps are considered. For left-linear AFSs, the method is shown to be complete. For so-called local AFSs we define a variation of usable rules and an extension of argument filterings. All these techniques have been implemented in the higher-order termination tool WANDA. 

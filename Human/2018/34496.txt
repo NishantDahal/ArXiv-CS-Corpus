@@ -1,0 +1,3 @@
+Functional Design of Computation Graph
+
+Representing the control flow of a computer program as a computation graph can bring many benefits in a broad variety of domains where performance is critical. This technique is a core component of most major numerical libraries (TensorFlow, PyTorch, Theano, MXNet,...) and is successfully used to speed up and optimise many computationally-intensive tasks. However, different design choices in each of these libraries lead to noticeable differences in efficiency and in the way an end user writes efficient code. In this report, we detail the implementation and features of the computation graph support in OCaml's numerical library Owl, a recent entry in the world of scientific computing.

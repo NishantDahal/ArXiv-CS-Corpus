@@ -1,0 +1,3 @@
+On Strong NP-Completeness of Rational Problems
+
+The computational complexity of the partition, 0-1 subset sum, unbounded subset sum, 0-1 knapsack and unbounded knapsack problems and their multiple variants were studied in numerous papers in the past where all the weights and profits were assumed to be integers. We re-examine here the computational complexity of all these problems in the setting where the weights and profits are allowed to be any rational numbers. We show that all of these problems in this setting become strongly NP-complete and, as a result, no pseudo-polynomial algorithm can exist for solving them unless P=NP. Despite this result we show that they all still admit a fully polynomial-time approximation scheme.

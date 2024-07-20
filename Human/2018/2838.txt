@@ -1,0 +1,3 @@
+Linear Equations with Ordered Data
+
+Following a recently considered generalization of linear equations to unordered data vectors, we perform a further generalization to ordered data vectors. These generalized equations naturally appear in the analysis of vector addition systems (or Petri nets) extended with ordered data. We show that nonnegative-integer solvability of linear equations is computationally equivalent (up to an exponential blowup) with the reachability problem for (plain) vector addition systems. This high complexity is surprising, and contrasts with NP-completeness for unordered data vectors. Also surprisingly, we achieve polynomial time complexity of the solvability problem when the nonnegative-integer restriction on solutions is dropped.

@@ -1,0 +1,3 @@
+Rational Verification in Iterated Electric Boolean Games
+
+Electric boolean games are compact representations of games where the players have qualitative objectives described by LTL formulae and have limited resources. We study the complexity of several decision problems related to the analysis of rationality in electric boolean games with LTL objectives. In particular, we report that the problem of deciding whether a profile is a Nash equilibrium in an iterated electric boolean game is no harder than in iterated boolean games without resource bounds. We show that it is a PSPACE-complete problem. As a corollary, we obtain that both rational elimination and rational construction of Nash equilibria by a supervising authority are PSPACE-complete problems.

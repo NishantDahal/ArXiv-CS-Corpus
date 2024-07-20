@@ -1,0 +1,3 @@
+On Computing Average Common Substring Over Run Length Encoded Sequences
+
+The Average Common Substring (ACS) is a popular alignment-free distance measure for phylogeny reconstruction. The ACS can be computed in O(n) space and time, where n=x+y is the input size. The compressed string matching is the study of string matching problems with the following twist: the input data is in a compressed format and the underling task must be performed with little or no decompression. In this paper, we revisit the ACS problem under this paradigm where the input sequences are given in their run-length encoded format. We present an algorithm to compute ACS(X,Y) in O(Nlog N) time using O(N) space, where N is the total length of sequences after run-length encoding.

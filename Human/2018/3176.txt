@@ -1,0 +1,3 @@
+Achieving the Age-Energy Tradeoff with a Finite-Battery Energy Harvesting Source
+
+We study the problem of minimizing the time-average expected Age of Information for status updates sent by an energy-harvesting source with a finite-capacity battery. In prior literature, optimal policies were observed to have a threshold structure under Poisson energy arrivals, for the special case of a unit-capacity battery. In this paper, we generalize this result to any (integer) battery capacity, and explicitly characterize the threshold structure. We obtain tools to derive the optimal policy for arbitrary energy buffer (i.e. battery) size. One of these results is the unexpected equivalence of the minimum average AoI and the optimal threshold for the highest energy state.

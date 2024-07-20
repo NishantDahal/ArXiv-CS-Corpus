@@ -1,0 +1,3 @@
+Understanding SAT is in P
+
+We introduce the idea of an understanding with respect to a set of clauses as a satisfying truth assignment explained by the contexts of the literals in the clauses. Following this idea, we present a mechanical process that obtains, if it exists, an understanding with respect to a 3-SAT problem instance based on the contexts of each literal in the instance, otherwise it determines that none exists. We demonstrate that our process is correct and efficient in solving 3-SAT.

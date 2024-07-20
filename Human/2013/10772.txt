@@ -1,0 +1,3 @@
+An Overview and Evaluation of Various Face and Eyes Detection Algorithms for Driver Fatigue Monitoring Systems
+
+In this work various methods and algorithms for face and eyes detection are examined in order to decide which of them are applicable for use in a driver fatigue monitoring system. In the case of face detection the standard Viola-Jones face detector has shown best results, while the method of finding the eye centers by means of gradients has proven to be most appropriate in the case of eyes detection. The later method has also a potential for retrieving behavioral parameters needed for estimation of the level of driver fatigue. This possibility will be examined in future work.

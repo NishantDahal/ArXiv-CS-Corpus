@@ -1,0 +1,3 @@
+Measuring Communication in Parallel Communicating Finite Automata
+
+Systems of deterministic finite automata communicating by sending their states upon request are investigated, when the amount of communication is restricted. The computational power and decidability properties are studied for the case of returning centralized systems, when the number of necessary communications during the computations of the system is bounded by a function depending on the length of the input. It is proved that an infinite hierarchy of language families exists, depending on the number of messages sent during their most economical recognitions. Moreover, several properties are shown to be not semi-decidable for the systems under consideration.

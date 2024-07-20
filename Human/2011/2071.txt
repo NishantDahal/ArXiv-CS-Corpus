@@ -1,0 +1,3 @@
+Automated code generation for discontinuous Galerkin methods
+
+A compiler approach for generating low-level computer code from high-level input for discontinuous Galerkin finite element forms is presented. The input language mirrors conventional mathematical notation, and the compiler generates efficient code in a standard programming language. This facilitates the rapid generation of efficient code for general equations in varying spatial dimensions. Key concepts underlying the compiler approach and the automated generation of computer code are elaborated. The approach is demonstrated for a range of common problems, including the Poisson, biharmonic, advection--diffusion and Stokes equations.

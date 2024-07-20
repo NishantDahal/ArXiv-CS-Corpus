@@ -1,0 +1,3 @@
+Enhanced Low-Rank Matrix Approximation
+
+This letter proposes to estimate low-rank matrices by formulating a convex optimization problem with non-convex regularization. We employ parameterized non-convex penalty functions to estimate the non-zero singular values more accurately than the nuclear norm. A closed-form solution for the global optimum of the proposed objective function (sum of data fidelity and the non-convex regularizer) is also derived. The solution reduces to singular value thresholding method as a special case. The proposed method is demonstrated for image denoising.

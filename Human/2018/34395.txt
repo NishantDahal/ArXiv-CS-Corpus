@@ -1,0 +1,3 @@
+Blended smoothing splines on Riemannian manifolds
+
+We present a method to compute a fitting curve B to a set of data points d0,...,dm lying on a manifold M. That curve is obtained by blending together Euclidean Bézier curves obtained on different tangent spaces. The method guarantees several properties among which B is C1 and is the natural cubic smoothing spline when M is the Euclidean space. We show examples on the sphere S2 as a proof of concept.

@@ -1,0 +1,5 @@
+Lower Bound on Weights of Large Degree Threshold Functions
+
+An integer polynomial $p$ of $n$ variables is called a \emph{threshold gate} for a Boolean function $f$ of $n$ variables if for all $x \in \zoon$ $f(x)=1$ if and only if $p(x)\geq 0$. The \emph{weight} of a threshold gate is the sum of its absolute values.
+ In this paper we study how large a weight might be needed if we fix some function and some threshold degree. We prove $2^{Ω(2^{2n/5})}$ lower bound on this value. The best previous bound was $2^{Ω(2^{n/8})}$ (Podolskii, 2009).
+ In addition we present substantially simpler proof of the weaker $2^{Ω(2^{n/4})}$ lower bound. This proof is conceptually similar to other proofs of the bounds on weights of nonlinear threshold gates, but avoids a lot of technical details arising in other proofs. We hope that this proof will help to show the ideas behind the construction used to prove these lower bounds.

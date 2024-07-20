@@ -1,0 +1,3 @@
+Complexity of Left-Ideal, Suffix-Closed and Suffix-Free Regular Languages
+
+A language $L$ over an alphabet $Σ$ is suffix-convex if, for any words $x,y,z\inΣ^*$, whenever $z$ and $xyz$ are in $L$, then so is $yz$. Suffix-convex languages include three special cases: left-ideal, suffix-closed, and suffix-free languages. We examine complexity properties of these three special classes of suffix-convex regular languages. In particular, we study the quotient/state complexity of boolean operations, product (concatenation), star, and reversal on these languages, as well as the size of their syntactic semigroups, and the quotient complexity of their atoms.

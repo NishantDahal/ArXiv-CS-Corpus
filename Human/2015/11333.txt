@@ -1,0 +1,3 @@
+Realistic, Extensible DNS and mDNS Models for INET/OMNeT++
+
+The domain name system (DNS) is one of the core services in today's network structures. In local and ad-hoc networks DNS is often enhanced or replaced by mDNS. As of yet, no simulation models for DNS and mDNS have been developed for INET/OMNeT++. We introduce DNS and mDNS simulation models for OMNeT++, which allow researchers to easily prototype and evaluate extensions for these protocols. In addition, we present models for our own experimental extensions, namely Stateless DNS and Privacy-Enhanced mDNS, that are based on the aforementioned models. Using our models we were able to further improve the efficiency of our protocol extensions.

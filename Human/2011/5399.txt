@@ -1,0 +1,3 @@
+Increasing Physical Layer Security through Scrambled Codes and ARQ
+
+We develop the proposal of non-systematic channel codes on the AWGN wire-tap channel. Such coding technique, based on scrambling, achieves high transmission security with a small degradation of the eavesdropper's channel with respect to the legitimate receiver's channel. In this paper, we show that, by implementing scrambling and descrambling on blocks of concatenated frames, rather than on single frames, the channel degradation needed is further reduced. The usage of concatenated scrambling allows to achieve security also when both receivers experience the same channel quality. However, in this case, the introduction of an ARQ protocol with authentication is needed.

@@ -1,0 +1,3 @@
+Rich Image Captioning in the Wild
+
+We present an image caption system that addresses new challenges of automatically describing images in the wild. The challenges include high quality caption quality with respect to human judgments, out-of-domain data handling, and low latency required in many applications. Built on top of a state-of-the-art framework, we developed a deep vision model that detects a broad range of visual concepts, an entity recognition model that identifies celebrities and landmarks, and a confidence model for the caption output. Experimental results show that our caption engine outperforms previous state-of-the-art systems significantly on both in-domain dataset (i.e. MS COCO) and out of-domain datasets.

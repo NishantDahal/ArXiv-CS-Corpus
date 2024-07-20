@@ -1,0 +1,3 @@
+Database Consistency Models
+
+A data store allows application processes to put and get data from a shared memory. In general, a data store cannot be modelled as a strictly sequential process. Applications observe non-sequential behaviours, called anomalies. The set of pos- sible behaviours, and conversely of possible anomalies, constitutes the consistency model of the data store.

@@ -1,0 +1,5 @@
+On the Design of Distributed Programming Models
+
+Programming large-scale distributed applications requires new abstractions and models to be done well. We demonstrate that these models are possible.
+  Following from both the FLP result and CAP theorem, we show that concurrent programming models are necessary, but not sufficient, in the construction of large-scale distributed systems because of the problem of failure and network partitions: languages need to be able to capture and encode the tradeoffs between consistency and availability.
+  We present two programming models, Lasp and Austere, each of which makes a strong tradeoff with respects to the CAP theorem. These two models outline the bounds of distributed model design: strictly AP or strictly CP. We argue that all possible distributed programming models must come from this design space, and present one practical design that allows declarative specification of consistency tradeoffs, called Spry.

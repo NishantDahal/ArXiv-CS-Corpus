@@ -1,0 +1,3 @@
+$χ$-bounds, operations and chords
+
+A \emph{long unichord} in a graph is an edge that is the unique chord of some cycle of length at least 5. A graph is \emph{long-unichord-free} if it does not contain any long-unichord. We prove a structure theorem for long-unichord-free graph. We give an $O(n^4m)$-time algorithm to recognize them. We show that any long-unichord-free graph $G$ can be colored with at most $O(ω^3)$ colors, where $ω$ is the maximum number of pairwise adjacent vertices in $G$.

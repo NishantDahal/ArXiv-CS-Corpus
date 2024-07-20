@@ -1,0 +1,3 @@
+A Deep Generative Model for Semi-Supervised Classification with Noisy Labels
+
+Class labels are often imperfectly observed, due to mistakes and to genuine ambiguity among classes. We propose a new semi-supervised deep generative model that explicitly models noisy labels, called the Mislabeled VAE (M-VAE). The M-VAE can perform better than existing deep generative models which do not account for label noise. Additionally, the derivation of M-VAE gives new theoretical insights into the popular M1+M2 semi-supervised model.

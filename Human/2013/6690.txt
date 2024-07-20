@@ -1,0 +1,3 @@
+Distributed quantum election scheme
+
+In an electronic voting protocol, a distributed scheme can be used for forbidding the malicious acts of the voting administrator and the counter during the election, but it cannot prevent them from collaborating to trace the ballots and destroy their privacy after the election. We present a distributed anonymous quantum key distribution scheme and further construct a distributed quantum election scheme with a voting administrator made up of more than one part. This quantum election scheme can resist the malicious acts of the voting administrator and the counter after the election and can work in a system with lossy and noisy quantum channels.

@@ -1,0 +1,3 @@
+A Game of Life on Penrose tilings
+
+We define rules for cellular automata played on quasiperiodic tilings of the plane arising from the multigrid method in such a way that these cellular automata are isomorphic to Conway's Game of Life. Although these tilings are nonperiodic, determining the next state of each tile is a local computation, requiring only knowledge of the local structure of the tiling and the states of finitely many nearby tiles. As an example, we show a version of a "glider" moving through a region of a Penrose tiling. This constitutes a potential theoretical framework for a method of executing computations in non-periodically structured substrates such as quasicrystals.

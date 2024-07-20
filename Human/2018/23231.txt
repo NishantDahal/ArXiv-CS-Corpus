@@ -1,0 +1,3 @@
+FusedLSTM: Fusing frame-level and video-level features for Content-based Video Relevance Prediction
+
+This paper describes two of my best performing approaches on the Content-based Video Relevance Prediction challenge. In the FusedLSTM based approach, the inception-pool3 and the C3D-pool5 features are combined using an LSTM and a dense layer to form embeddings with the objective to minimize the triplet loss function. In the second approach, an Online Kernel Similarity Learning method is proposed to learn a non-linear similarity measure to adhere the relevance training data. The last section gives a complete comparison of all the approaches implemented during this challenge, including the one presented in the baseline paper.

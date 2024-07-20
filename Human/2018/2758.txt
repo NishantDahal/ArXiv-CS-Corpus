@@ -1,0 +1,4 @@
+The isomorphism problem for finite extensions of free groups is in PSPACE
+
+We present an algorithm for the following problem: given a context-free grammar for the word problem of a virtually free group $G$, compute a finite graph of groups $\mathcal{G}$ with finite vertex groups and fundamental group $G$. Our algorithm is non-deterministic and runs in doubly exponential time. It follows that the isomorphism problem of context-free groups can be solved in doubly exponential space.
+  Moreover, if, instead of a grammar, a finite extension of a free group is given as input, the construction of the graph of groups is in NP and, consequently, the isomorphism problem in PSPACE.

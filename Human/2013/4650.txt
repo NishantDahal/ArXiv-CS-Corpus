@@ -1,0 +1,3 @@
+Longitudinal Analysis of Android Ad Library Permissions
+
+This paper investigates changes over time in the behavior of Android ad libraries. Taking a sample of 100,000 apps, we extract and classify the ad libraries. By considering the release dates of the applications that use a specific ad library version, we estimate the release date for the library, and thus build a chronological map of the permissions used by various ad libraries over time. We find that the use of most permissions has increased over the last several years, and that more libraries are able to use permissions that pose particular risks to user privacy and security.

@@ -1,0 +1,4 @@
+Session Type Inference in Haskell
+
+We present an inference system for a version of the Pi-calculus in Haskell for the session type proposed by Honda et al.  The session type is very useful in checking if the communications are well-behaved.  The full session type implementation in Haskell was first presented by Pucella and Tov,  which is 'semi-automatic' in that the manual operations for the type representation was necessary.  We give an automatic type inference for the session type by using a more abstract representation for the session type based on the 'de Bruijn levels'. We show an example of the session type inference for a simple SMTP client.
+

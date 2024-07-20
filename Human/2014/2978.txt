@@ -1,0 +1,3 @@
+First order convergence and roots
+
+Nesetril and Ossona de Mendez introduced the notion of first order convergence, which unifies the notions of convergence for sparse and dense graphs. They asked whether if G_i is a sequence of graphs with M being their first order limit and v is a vertex of M, then there exists a sequence v_i of vertices such that the graphs G_i rooted at v_i converge to M rooted at v. We show that this holds for almost all vertices v of M and we give an example showing that the statement need not hold for all vertices.

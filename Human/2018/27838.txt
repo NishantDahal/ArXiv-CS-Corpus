@@ -1,0 +1,3 @@
+Improvement of K Mean Clustering Algorithm Based on Density
+
+The purpose of this paper is to improve the traditional K-means algorithm. In the traditional K mean clustering algorithm, the initial clustering centers are generated randomly in the data set. It is easy to fall into the local minimum solution when the initial cluster centers are randomly generated. The initial clustering center selected by K-means clustering algorithm which based on density is more representative. The experimental results show that the improved K clustering algorithm can eliminate the dependence on the initial cluster, and the accuracy of clustering is improved.

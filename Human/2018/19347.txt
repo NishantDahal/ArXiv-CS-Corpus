@@ -1,0 +1,3 @@
+The Potential of the Return Distribution for Exploration in RL
+
+This paper studies the potential of the return distribution for exploration in deterministic reinforcement learning (RL) environments. We study network losses and propagation mechanisms for Gaussian, Categorical and Gaussian mixture distributions. Combined with exploration policies that leverage this return distribution, we solve, for example, a randomized Chain task of length 100, which has not been reported before when learning with neural networks.

@@ -1,0 +1,10 @@
+On computational complexity of Set Automata
+
+We consider a computational model which is known as set automata.
+  The set automata are one-way finite automata with an additional storage---the set. There are two kinds of set automata---the deterministic and the nondeterministic ones. We denote them as DSA and NSA respectively. The model was introduced by M. Kutrib, A. Malcher, M. Wendlandt in 2014. It was shown that DSA-languages look similar to DCFL due to their closure properties and NSA-languages look similar to CFL due to their undecidability properties.
+  In this paper we show that this similarity is natural: we prove that languages recognizable by NSA form a rational cone, so as CFL.
+  The main topic of this paper is computational complexity: we prove that
+  - languages recognizable by DSA belong to P and there are P-complete languages among them;
+  - languages recognizable by NSA are in NP and there are NP-complete languages among them;
+  - the word membership problem is P-complete for DSA without epsilon-loops and PSPACE-complete for general DSA;
+  - the emptiness problem is in PSPACE for NSA and, moreover, it is PSPACE-complete for DSA.

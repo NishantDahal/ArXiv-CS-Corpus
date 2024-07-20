@@ -1,0 +1,3 @@
+Multi-Bernoulli Sensor-Control via Minimization of Expected Estimation Errors
+
+This paper presents a sensor-control method for choosing the best next state of the sensor(s), that provide(s) accurate estimation results in a multi-target tracking application. The proposed solution is formulated for a multi-Bernoulli filter and works via minimization of a new estimation error-based cost function. Simulation results demonstrate that the proposed method can outperform the state-of-the-art methods in terms of computation time and robustness to clutter while delivering similar accuracy.

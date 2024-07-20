@@ -1,0 +1,3 @@
+Predicting Completeness in Knowledge Bases
+
+Knowledge bases such as Wikidata, DBpedia, or YAGO contain millions of entities and facts. In some knowledge bases, the correctness of these facts has been evaluated. However, much less is known about their completeness, i.e., the proportion of real facts that the knowledge bases cover. In this work, we investigate different signals to identify the areas where a knowledge base is complete. We show that we can combine these signals in a rule mining approach, which allows us to predict where facts may be missing. We also show that completeness predictions can help other applications such as fact prediction.

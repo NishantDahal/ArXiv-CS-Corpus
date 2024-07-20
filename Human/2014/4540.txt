@@ -1,0 +1,3 @@
+Sampling and Representation Complexity of Revenue Maximization
+
+We consider (approximate) revenue maximization in auctions where the distribution on input valuations is given via "black box" access to samples from the distribution. We observe that the number of samples required -- the sample complexity -- is tightly related to the representation complexity of an approximately revenue-maximizing auction. Our main results are upper bounds and an exponential lower bound on these complexities.

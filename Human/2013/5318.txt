@@ -1,0 +1,3 @@
+Tiling simply connected regions with rectangles
+
+In [BNRR], it was shown that tiling of general regions with two rectangles is NP-complete, except for a few trivial special cases. In a different direction, Rémila showed that for simply connected regions by two rectangles, the tileability can be solved in quadratic time (in the area). We prove that there is a finite set of at most 10^6 rectangles for which the tileability problem of simply connected regions is NP-complete, closing the gap between positive and negative results in the field. We also prove that counting such rectangular tilings is #P-complete, a first result of this kind.

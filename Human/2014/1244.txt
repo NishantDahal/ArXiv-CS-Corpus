@@ -1,0 +1,3 @@
+Fast Software Polar Decoders
+
+Among error-correcting codes, polar codes are the first to provably achieve channel capacity with an explicit construction. In this work, we present software implementations of a polar decoder that leverage the capabilities of modern general-purpose processors to achieve an information throughput in excess of 200 Mbps, a throughput well suited for software-defined-radio applications. We also show that, for a similar error-correction performance, the throughput of polar decoders both surpasses that of LDPC decoders targeting general-purpose processors and is competitive with that of state-of-the-art software LDPC decoders running on graphic processing units.

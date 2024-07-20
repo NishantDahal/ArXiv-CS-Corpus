@@ -1,0 +1,3 @@
+Aggregating incoherent agents who disagree
+
+In this paper, we explore how we should aggregate the degrees of belief of of a group of agents to give a single coherent set of degrees of belief, when at least some of those agents might be probabilistically incoherent. There are a number of way of aggregating degrees of belief, and there are a number of ways of fixing incoherent degrees of belief. When we have picked one of each, should we aggregate first and then fix, or fix first and then aggregate? Or should we try to do both at once? And when do these different procedures agree with one another? In this paper, we focus particularly on the final question.

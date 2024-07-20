@@ -1,0 +1,3 @@
+Trading off Completeness for Efficiency --- The \textsc{ParseTalk} Performance Grammar Approach to Real-World Text Parsing
+
+We argue for a performance-based design of natural language grammars and their associated parsers in order to meet the constraints posed by real-world natural language understanding. This approach incorporates declarative and procedural knowledge about language and language use within an object-oriented specification framework. We discuss several message passing protocols for real-world text parsing and provide reasons for sacrificing completeness of the parse in favor of efficiency.

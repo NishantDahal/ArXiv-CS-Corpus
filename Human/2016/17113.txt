@@ -1,0 +1,3 @@
+Data Partitioning View of Mining Big Data
+
+There are two main approximations of mining big data in memory. One is to partition a big dataset to several subsets, so as to mine each subset in memory. By this way, global patterns can be obtained by synthesizing all local patterns discovered from these subsets. Another is the statistical sampling method. This indicates that data partitioning should be an important strategy for mining big data. This paper recalls our work on mining big data with a data partitioning and shows some interesting findings among the local patterns discovered from subsets of a dataset.

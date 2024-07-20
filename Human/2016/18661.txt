@@ -1,0 +1,3 @@
+Solving discrete logarithms on a 170-bit MNT curve by pairing reduction
+
+Pairing based cryptography is in a dangerous position following the breakthroughs on discrete logarithms computations in finite fields of small characteristic. Remaining instances are built over finite fields of large characteristic and their security relies on the fact that the embedding field of the underlying curve is relatively large. How large is debatable. The aim of our work is to sustain the claim that the combination of degree 3 embedding and too small finite fields obviously does not provide enough security. As a computational example, we solve the DLP on a 170-bit MNT curve, by exploiting the pairing embedding to a 508-bit, degree-3 extension of the base field.

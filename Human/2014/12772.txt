@@ -1,0 +1,4 @@
+Branch-Avoiding Graph Algorithms
+
+This paper quantifies the impact of branches and branch mispredictions on the single-core performance for two classes of graph problems. Specifically, we consider classical algorithms for computing connected components and breadth-first search (BFS). We show that branch mispredictions are costly and can reduce performance by as much as 30%-50%. This insight suggests that one should seek graph algorithms and implementations that avoid branches.
+  As a proof-of-concept, we devise such implementations for both the classic top-down algorithm for BFS and the Shiloach-Vishkin algorithm for connected components. We evaluate these implementations on current x86 and ARM-based processors to show the efficacy of the approach. Our results suggest how both compiler writers and architects might exploit this insight to improve graph processing systems more broadly and create better systems for such problems.

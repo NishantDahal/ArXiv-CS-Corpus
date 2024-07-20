@@ -1,0 +1,5 @@
+Lower bounds on the dilation of plane spanners
+
+(I) We exhibit a set of 23 points in the plane that has dilation at least $1.4308$, improving the previously best lower bound of $1.4161$ for the worst-case dilation of plane spanners.
+  (II) For every integer $n\geq13$, there exists an $n$-element point set $S$ such that the degree 3 dilation of $S$ denoted by $δ_0(S,3) \text{ equals } 1+\sqrt{3}=2.7321\ldots$ in the domain of plane geometric spanners. In the same domain, we show that for every integer $n\geq6$, there exists a an $n$-element point set $S$ such that the degree 4 dilation of $S$ denoted by $δ_0(S,4) \text{ equals } 1 + \sqrt{(5-\sqrt{5})/2}=2.1755\ldots$ The previous best lower bound of $1.4161$ holds for any degree.
+  (III) For every integer $n\geq6 $, there exists an $n$-element point set $S$ such that the stretch factor of the greedy triangulation of $S$ is at least $2.0268$.

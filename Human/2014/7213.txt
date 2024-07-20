@@ -1,0 +1,5 @@
+Local computation mechanism design
+
+We introduce the notion of Local Computation Mechanism Design - designing game theoretic mechanisms which run in polylogarithmic time and space. Local computation mechanisms reply to each query in polylogarithmic time and space, and the replies to different queries are consistent with the same global feasible solution. In addition, the computation of the payments is also done in polylogarithmic time and space. Furthermore, the mechanisms need to maintain incentive compatibility with respect to the allocation and payments.
+  We present local computation mechanisms for a variety of classical game-theoretical problems: 1. stable matching, 2. job scheduling, 3. combinatorial auctions for unit-demand and k-minded bidders, and 4. the housing allocation problem.
+  For stable matching, some of our techniques may have general implications. Specifically, we show that when the men's preference lists are bounded, we can achieve an arbitrarily good approximation to the stable matching within a fixed number of iterations of the Gale-Shapley algorithm.

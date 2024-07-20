@@ -1,0 +1,3 @@
+Syntactic Complexity of R- and J-Trivial Regular Languages
+
+The syntactic complexity of a regular language is the cardinality of its syntactic semigroup. The syntactic complexity of a subclass of the class of regular languages is the maximal syntactic complexity of languages in that class, taken as a function of the state complexity n of these languages. We study the syntactic complexity of R- and J-trivial regular languages, and prove that n! and floor of [e(n-1)!] are tight upper bounds for these languages, respectively. We also prove that 2^{n-1} is the tight upper bound on the state complexity of reversal of J-trivial regular languages.

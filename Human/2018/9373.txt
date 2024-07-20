@@ -1,0 +1,3 @@
+On Undetected Redundancy in the Burrows-Wheeler Transform
+
+The Burrows-Wheeler-Transform (BWT) is an invertible permutation of a text known to be highly compressible but also useful for sequence analysis, what makes the BWT highly attractive for lossless data compression. In this paper, we present a new technique to reduce the size of a BWT using its combinatorial properties, while keeping it invertible. The technique can be applied to any BWT-based compressor, and, as experiments show, is able to reduce the encoding size by 8-16 % on average and up to 33-57 % in the best cases (depending on the BWT-compressor used), making BWT-based compressors competitive or even superior to today's best lossless compressors.

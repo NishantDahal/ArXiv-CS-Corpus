@@ -1,0 +1,4 @@
+Modelling of a Permanent Magnet Synchronous Machine Using Isogeometric Analysis
+
+Isogeometric analysis (IGA) is used to simulate a permanent magnet synchronous machine. IGA uses non-uniform rational B-splines to parametrise the domain and to approximate the solution space, thus allowing for the exact description of the geometries even on the coarsest level of mesh refinement. Given the properties of the isogeometric basis functions, this choice guarantees a higher accuracy than the classical finite element method.
+  For dealing with the different stator and rotor topologies, the domain is split into two non-overlapping parts on which Maxwell's equations are solved independently in the context of a classical Dirichlet-to-Neumann domain decomposition scheme. The results show good agreement with the ones obtained by the classical finite element approach.

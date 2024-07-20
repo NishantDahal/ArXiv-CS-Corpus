@@ -1,0 +1,3 @@
+Distance verification for LDPC codes
+
+The problem of finding code distance has been long studied for the generic ensembles of linear codes and led to several algorithms that substantially reduce exponential complexity of this task. However, no asymptotic complexity bounds are known for distance verification in other ensembles of linear codes. Our goal is to re-design the existing generic algorithms of distance verification and derive their complexity for LDPC codes. We obtain new complexity bounds with provable performance expressed in terms of the erasure-correcting thresholds of long LDPC codes. These bounds exponentially reduce complexity estimates known for linear codes.

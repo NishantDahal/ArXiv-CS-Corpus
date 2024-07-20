@@ -1,0 +1,3 @@
+A Statistical Method for Object Counting
+
+In this paper we present a new object counting method that is intended for counting similarly sized and mostly round objects. Unlike many other algorithms of the same purpose, the proposed method does not rely on identifying every object, it uses statistical data obtained from the image instead. The method is evaluated on images with human bone cells, oranges and pills achieving good accuracy. Its strengths are ability to deal with touching and partly overlapping objects, ability to work with different kinds of objects without prior configuration and good performance.

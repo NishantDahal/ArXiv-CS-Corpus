@@ -1,0 +1,3 @@
+Improving the Visualization of Alloy Instances
+
+Alloy is a lightweight formal specification language, supported by an IDE, which has proven well-suited for reasoning about software design in early development stages. The IDE provides a visualizer that produces graphical representations of analysis results, which is essential for the proper validation of the model. Alloy is a rich language but inherently static, so behavior needs to be explicitly encoded and reasoned about. Even though this is a common scenario, the visualizer presents limitations when dealing with such models. The main contribution of this paper is a principled approach to generate instance visualizations, which improves the current Alloy Visualizer, focusing on the representation of behavior.

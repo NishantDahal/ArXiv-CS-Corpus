@@ -1,0 +1,3 @@
+Regularized Finite Dimensional Kernel Sobolev Discrepancy
+
+We show in this note that the Sobolev Discrepancy introduced in Mroueh et al in the context of generative adversarial networks, is actually the weighted negative Sobolev norm $||.||_{\dot{H}^{-1}(ν_q)}$, that is known to linearize the Wasserstein $W_2$ distance and plays a fundamental role in the dynamic formulation of optimal transport of Benamou and Brenier. Given a Kernel with finite dimensional feature map we show that the Sobolev discrepancy can be approximated from finite samples. Assuming this discrepancy is finite, the error depends on the approximation error in the function space induced by the finite dimensional feature space kernel and on a statistical error due to the finite sample approximation.

@@ -1,0 +1,7 @@
+Team Diagonalization
+
+Ten years ago, Glaßer, Pavan, Selman, and Zhang [GPSZ08] proved that if P $\neq$ NP, then all NP-complete sets can be simply split into two NP-complete sets.
+  That advance might naturally make one wonder about a quite different potential consequence of NP-completeness: Can the union of easy NP sets ever be hard? In particular, can the union of two non-NP-complete NP sets ever be NP-complete?
+  Amazingly, Ladner [Lad75] resolved this more than forty years ago: If P $\neq$ NP, then all NP-complete sets can be simply split into two non-NP-complete NP sets. Indeed, this holds even when one requires the two non-NP-complete NP sets to be disjoint.
+  We present this result as a mini-tutorial. We give a relatively detailed proof of this result, using the same technique and idea Ladner [Lad75] invented and used in proving a rich collection of results that include many that are more general than this result: delayed diagonalization. In particular, the proof presented is based on what one can call team diagonalization (or if one is being playful, perhaps even tag-team diagonalization): Multiple sets are formed separately by delayed diagonalization, yet those diagonalizations are mutually aware and delay some of their actions until their partner(s) have also succeeded in some coordinated action.
+  We relatedly note that, as a consequence of Ladner's result, if P $\neq$ NP, there exist OptP functions f and g whose composition is NP-hard yet neither f nor g is NP-hard.

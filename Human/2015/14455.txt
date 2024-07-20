@@ -1,0 +1,3 @@
+Asynchronous Parallel Computing Algorithm implemented in 1D Heat Equation with CUDA
+
+In this note, we present the stability as well as performance analysis of asynchronous parallel computing algorithm implemented in 1D heat equation with CUDA. The primary objective of this note lies in dissemination of asynchronous parallel computing algorithm by providing CUDA code for fast and easy implementation. We show that the simulations carried out on nVIDIA GPU device with asynchronous scheme outperforms synchronous parallel computing algorithm. In addition, we also discuss some drawbacks of asynchronous parallel computing algorithms.

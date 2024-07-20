@@ -1,0 +1,3 @@
+Embeddability in the 3-sphere is decidable
+
+We show that the following algorithmic problem is decidable: given a $2$-dimensional simplicial complex, can it be embedded (topologically, or equivalently, piecewise linearly) in $\mathbf{R}^3$? By a known reduction, it suffices to decide the embeddability of a given triangulated 3-manifold $X$ into the 3-sphere $S^3$. The main step, which allows us to simplify $X$ and recurse, is in proving that if $X$ can be embedded in $S^3$, then there is also an embedding in which $X$ has a short meridian, i.e., an essential curve in the boundary of $X$ bounding a disk in $S^3\setminus X$ with length bounded by a computable function of the number of tetrahedra of $X$.

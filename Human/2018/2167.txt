@@ -1,0 +1,3 @@
+Incorporating User Interaction into Imperative Languages
+
+In this paper, we present two new forms of the $write$ statement: one of the form $write(x);G$ where $G$ is a statement and the other of the form $write(x);D$ where $D$ is a module. The former is a generalization of traditional $write$ statement and is quite useful. The latter is useful for implementing interactive modules.

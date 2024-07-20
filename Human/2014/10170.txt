@@ -1,0 +1,5 @@
+Coproducts of Monads on Set
+
+Coproducts of monads on Set have arisen in both the study of computational effects and universal algebra.
+  We describe coproducts of consistent monads on Set by an initial algebra formula, and prove also the converse: if the coproduct exists, so do the required initial algebras. That formula was, in the case of ideal monads, also used by Ghani and Uustalu. We deduce that coproduct embeddings of consistent monads are injective; and that a coproduct of injective monad morphisms is injective.
+  Two consistent monads have a coproduct iff either they have arbitrarily large common fixpoints, or one is an exception monad, possibly modified to preserve the empty set. Hence a consistent monad has a coproduct with every monad iff it is an exception monad, possibly modified to preserve the empty set. We also show other fixpoint results, including that a functor (not constant on nonempty sets) is finitary iff every sufficiently large cardinal is a fixpoint.

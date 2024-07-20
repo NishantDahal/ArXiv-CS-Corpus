@@ -1,0 +1,3 @@
+A fast algorithm for solving linearly recurrent sequences
+
+We present an algorithm which computes the $D^{th}$ term of a sequence satisfying a linear recurrence relation of order $d$ over a field $K$ in $O( \mathsf{M}(\bar d)\log(D) + \mathsf{M}(d)\log(d))$ operations in $K$, where $\bar d \leq d$ is the degree of the squarefree part of the annihilating polynomial of the recurrence and $\mathsf{M}$ is the cost of polynomial multiplication in $K$. This is a refinement of the previously optimal result of $O( \mathsf{M}(d)\log(D) )$ operations, due to Fiduccia.

@@ -1,0 +1,3 @@
+Boolean Equi-propagation for Optimized SAT Encoding
+
+We present an approach to propagation based solving, Boolean equi-propagation, where constraints are modelled as propagators of information about equalities between Boolean literals. Propagation based solving applies this information as a form of partial evaluation resulting in optimized SAT encodings. We demonstrate for a variety of benchmarks that our approach results in smaller CNF encodings and leads to speed-ups in solving times.

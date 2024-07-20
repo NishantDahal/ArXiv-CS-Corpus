@@ -1,0 +1,3 @@
+MRRR-based Eigensolvers for Multi-core Processors and Supercomputers
+
+The real symmetric tridiagonal eigenproblem is of outstanding importance in numerical computations; it arises frequently as part of eigensolvers for standard and generalized dense Hermitian eigenproblems that are based on a reduction to tridiagonal form. For its solution, the algorithm of Multiple Relatively Robust Representations (MRRR or MR3 in short) - introduced in the late 1990s - is among the fastest methods. To compute k eigenpairs of a real n-by-n tridiagonal T, MRRR only requires O(kn) arithmetic operations; in contrast, all the other practical methods require O(k^2 n) or O(n^3) operations in the worst case. This thesis centers around the performance and accuracy of MRRR.

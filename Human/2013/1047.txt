@@ -1,0 +1,3 @@
+Chaotic multi-objective optimization based design of fractional order PIλDμ controller in AVR system
+
+In this paper, a fractional order (FO) PIλDμcontroller is designed to take care of various contradictory objective functions for an Automatic Voltage Regulator (AVR) system. An improved evolutionary Non-dominated Sorting Genetic Algorithm II (NSGA II), which is augmented with a chaotic map for greater effectiveness, is used for the multi-objective optimization problem. The Pareto fronts showing the trade-off between different design criteria are obtained for the PIλDμand PID controller. A comparative analysis is done with respect to the standard PID controller to demonstrate the merits and demerits of the fractional order PIλDμcontroller.

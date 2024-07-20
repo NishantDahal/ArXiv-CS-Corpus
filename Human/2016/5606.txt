@@ -1,0 +1,3 @@
+Recognition of unipolar and generalised split graphs
+
+A graph is unipolar if it can be partitioned into a clique and a disjoint union of cliques, and a graph is a generalised split graph if it or its complement is unipolar. A unipolar partition of a graph can be used to find efficiently the clique number, the stability number, the chromatic number, and to solve other problems that are hard for general graphs. We present the first $O(n^2)$ time algorithm for recognition of $n$-vertex unipolar and generalised split graphs, improving on previous $O(n^3)$ time algorithms.

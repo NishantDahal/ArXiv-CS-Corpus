@@ -1,0 +1,3 @@
+Formal Verification of Station Keeping Maneuvers for a Planar Autonomous Hybrid System
+
+We formally verify a hybrid control law designed to perform a station keeping maneuver for a planar vehicle.  Such maneuver requires that the vehicle reaches a neighborhood of its station in finite time and remains in it while waiting for further instructions.    We model the dynamics as well as the control law as a hybrid program and   formally verify both the reachability and safety properties involved.  We highlight in particular the automated generation of invariant regions which turns out to be crucial in performing such verification.  We use the theorem prover Keymaera X to discharge some of the generated proof obligations.

@@ -1,0 +1,6 @@
+Enrich-by-need Protocol Analysis for Diffie-Hellman (Extended Version)
+
+Enrich-by-need protocol analysis is a style of symbolic protocol analysis that characterizes all executions of a protocol that extend a given scenario. In effect, it computes a strongest security goal the protocol achieves in that scenario. CPSA, a Cryptographic Protocol Shapes Analyzer, implements enrich-by-need protocol analysis.
+  In this paper, we describe how to analyze protocols using the Diffie-Hellman mechanism for key agreement (DH) in the enrich-by-need style. DH, while widespread, has been challenging for protocol analysis because of its algebraic structure. DH essentially involves fields and cyclic groups, which do not fit the standard foundational framework of symbolic protocol analysis. By contrast, we justify our analysis via an algebraically natural model.
+  This foundation makes the extended CPSA implementation reliable. Moreover, it provides informative and efficient results.
+  An appendix explains how unification is efficiently done in our framework.

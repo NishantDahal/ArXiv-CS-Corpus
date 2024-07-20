@@ -1,0 +1,3 @@
+A note on the shortest common superstring of NGS reads
+
+The Shortest Superstring Problem (SSP) consists, for a set of strings S = {s_1,...,s_n}, to find a minimum length string that contains all s_i, 1 <= i <= k, as substrings. This problem is proved to be NP-Complete and APX-hard. Guaranteed approximation algorithms have been proposed, the current best ratio being 2+11/23, which has been achieved following a long and difficult quest. However, SSP is highly used in practice on next generation sequencing (NGS) data, which plays an increasingly important role in sequencing. In this note, we show that the SSP approximation ratio can be improved on NGS reads by assuming specific characteristics of NGS data that are experimentally verified on a very large sampling set.

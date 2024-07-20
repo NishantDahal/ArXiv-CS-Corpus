@@ -1,0 +1,3 @@
+Some observations on the optimization of a parallel SHAKE function using Sakura
+
+Some parallel constructions of a SHAKE hash function using Sakura coding are introduced, whose basic operation is the Keccak's permutation. For each proposed tree-based algorithm, observations are made on both its parallel running time (depth) and the required number of processors to reach it. This preliminary work makes the assumption that the tree-level chaining value length is equal to the capacity of the underlying sponge construction, as recommended in the Sakura paper.

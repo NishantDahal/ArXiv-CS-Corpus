@@ -1,0 +1,3 @@
+Computing finite models using free Boolean generators
+
+A parallel method for computing Boolean expressions based on the properties of finite free Boolean algebras is presented. We also show how various finite combinatorial objects can be codded in the formalism of Boolean algebras and counted by this procedure. Particularly, using a translation of first order predicate formulas to propositional formulas, we give a method for constructing and counting finite models of the first order theories. An implementation of the method that can be run on multi-core CPUs as well as on highly parallel GPUs is outlined.

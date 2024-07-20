@@ -1,0 +1,3 @@
+Numerically Stable Evaluation of Moments of Random Gram Matrices with Applications
+
+This paper is focuses on the computation of the positive moments of one-side correlated random Gram matrices. Closed-form expressions for the moments can be obtained easily, but numerical evaluation thereof is prone to numerical stability, especially in high-dimensional settings. This letter provides a numerically stable method that efficiently computes the positive moments in closed-form. The developed expressions are more accurate and can lead to higher accuracy levels when fed to moment based-approaches. As an application, we show how the obtained moments can be used to approximate the marginal distribution of the eigenvalues of random Gram matrices.

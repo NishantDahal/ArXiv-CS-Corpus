@@ -1,0 +1,3 @@
+AMGCL: an Efficient, Flexible, and Extensible Algebraic Multigrid Implementation
+
+The paper presents AMGCL -- an opensource C++ library implementing the algebraic multigrid method (AMG) for solution of large sparse linear systems of equations, usually arising from discretization of partial differential equations on an unstructured grid. The library supports both shared and distributed memory computation, allows to utilize modern massively parallel processors via OpenMP, OpenCL, or CUDA technologies, has minimal dependencies, and is easily extensible. The design principles behind AMGCL are discussed and it is shown that the code performance is on par with alternative implementations.

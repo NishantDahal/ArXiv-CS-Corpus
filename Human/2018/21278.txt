@@ -1,0 +1,3 @@
+Aligator.jl - A Julia Package for Loop Invariant Generation
+
+We describe the Aligator.jl software package for automatically generating all polynomial invariants of the rich class of extended P-solvable loops with nested conditionals. Aligator.jl is written in the programming language Julia and is open-source. Aligator.jl transforms program loops into a system of algebraic recurrences and implements techniques from symbolic computation to solve recurrences, derive closed form solutions of loop variables and infer the ideal of polynomial invariants by variable elimination based on Gröbner basis computation.

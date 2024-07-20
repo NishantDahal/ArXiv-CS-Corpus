@@ -1,0 +1,3 @@
+Genetic Algorithm-Based Solver for Very Large Multiple Jigsaw Puzzles of Unknown Dimensions and Piece Orientation
+
+In this paper we propose the first genetic algorithm (GA)-based solver for jigsaw puzzles of unknown puzzle dimensions and unknown piece location and orientation. Our solver uses a novel crossover technique, and sets a new state-of-the-art in terms of the puzzle sizes solved and the accuracy obtained. The results are significantly improved, even when compared to previous solvers assuming known puzzle dimensions. Moreover, the solver successfully contends with a mixed bag of multiple puzzle pieces, assembling simultaneously all puzzles.

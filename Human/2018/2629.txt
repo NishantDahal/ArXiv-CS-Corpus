@@ -1,0 +1,3 @@
+Faster integer multiplication using short lattice vectors
+
+We prove that $n$-bit integers may be multiplied in $O(n \log n \, 4^{\log^* n})$ bit operations. This complexity bound had been achieved previously by several authors, assuming various unproved number-theoretic hypotheses. Our proof is unconditional, and depends in an essential way on Minkowski's theorem concerning lattice vectors in symmetric convex sets.

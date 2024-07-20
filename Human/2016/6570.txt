@@ -1,0 +1,3 @@
+AUTO2, a saturation-based heuristic prover for higher-order logic
+
+We introduce a new theorem prover for classical higher-order logic named auto2. The prover is designed to make use of human-specified heuristics when searching for proofs. The core algorithm is a best-first search through the space of propositions derivable from the initial assumptions, where new propositions are added by user-defined functions called proof steps. We implemented the prover in Isabelle/HOL, and applied it to several formalization projects in mathematics and computer science, demonstrating the high level of automation it can provide in a variety of possible proof tasks.

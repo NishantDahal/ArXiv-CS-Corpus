@@ -1,0 +1,3 @@
+Classification of entities via their descriptive sentences
+
+Hypernym identification of open-domain entities is crucial for taxonomy construction as well as many higher-level applications. Current methods suffer from either low precision or low recall. To decrease the difficulty of this problem, we adopt a classification-based method. We pre-define a concept taxonomy and classify an entity to one of its leaf concept, based on the name and description information of the entity. A convolutional neural network classifier and a K-means clustering module are adopted for classification. We applied this system to 2.1 million Baidu Baike entities, and 1.1 million of them were successfully identified with a precision of 99.36%.

@@ -1,0 +1,3 @@
+Toward a Uniform Approach to the Unfolding of Nets
+
+In this paper we introduce the notion of spread net. Spread nets are (safe) Petri nets equipped with vector clocks on places and with ticking functions on transitions, and are such that vector clocks are consistent with the ticking of transitions. Such nets generalize previous families of nets like unfoldings, merged processes and trellis processes, and can thus be used to represent runs of a net in a true concurrency semantics through an operation called the spreading of a net. By contrast with previous constructions, which may identify conflicts, spread nets allow loops in time

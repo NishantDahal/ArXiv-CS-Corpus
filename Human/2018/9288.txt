@@ -1,0 +1,3 @@
+Coding of Graphs with Application to Graph Anomaly Detection
+
+This paper has dual aims. First is to develop practical universal coding methods for unlabeled graphs. Second is to use these for graph anomaly detection. The paper develops two coding methods for unlabeled graphs: one based on the degree distribution, the second based on the triangle distribution. It is shown that these are efficient for different types of random graphs, and on real-world graphs. These coding methods is then used for detecting anomalous graphs, based on structure alone. It is shown that anomalous graphs can be detected with high probability.

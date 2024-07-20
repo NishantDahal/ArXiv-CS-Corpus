@@ -1,0 +1,3 @@
+An Online Algorithm for Learning Buyer Behavior under Realistic Pricing Restrictions
+
+We propose a new efficient online algorithm to learn the parameters governing the purchasing behavior of a utility maximizing buyer, who responds to prices, in a repeated interaction setting. The key feature of our algorithm is that it can learn even non-linear buyer utility while working with arbitrary price constraints that the seller may impose. This overcomes a major shortcoming of previous approaches, which use unrealistic prices to learn these parameters making them unsuitable in practice.

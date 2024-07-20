@@ -1,0 +1,3 @@
+String Cadences
+
+We say a string has a cadence if a certain character is repeated at regular intervals, possibly with intervening occurrences of that character. We call the cadence anchored if the first interval must be the same length as the others. We give a sub-quadratic algorithm for determining whether a string has any cadence consisting of at least three occurrences of a character, and a nearly linear algorithm for finding all anchored cadences.

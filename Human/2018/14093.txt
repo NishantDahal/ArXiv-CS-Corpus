@@ -1,0 +1,3 @@
+Modeling Majorness as a Perceptual Property in Music from Listener Ratings
+
+For the tasks of automatic music emotion recognition, genre recognition, music recommendation it is helpful to be able to extract mode from any section of a musical piece as a perceived amount of major or minor mode (majorness) inside that section, perceived as a whole (one or several melodies and any harmony present). In this paper we take a data-driven approach (modeling directly from data without giving an explicit definition or explicitly programming an algorithm) towards modeling this property. We collect annotations from musicians and show that majorness can be understood by musicians in an intuitive way. We model this property from the data using deep learning.

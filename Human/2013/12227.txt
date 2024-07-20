@@ -1,0 +1,3 @@
+Modèle à processus latent et algorithme EM pour la régression non linéaire
+
+A non linear regression approach which consists of a specific regression model incorporating a latent process, allowing various polynomial regression models to be activated preferentially and smoothly, is introduced in this paper. The model parameters are estimated by maximum likelihood performed via a dedicated expecation-maximization (EM) algorithm. An experimental study using simulated and real data sets reveals good performances of the proposed approach.

@@ -1,0 +1,3 @@
+Meta-Learner with Linear Nulling
+
+We propose a meta-learning algorithm utilizing a linear transformer that carries out null-space projection of neural network outputs. The main idea is to construct an alternative classification space such that the error signals during few-shot learning are quickly zero-forced on that space so that reliable classification on low data is possible. The final decision on a query is obtained utilizing a null-space-projected distance measure between the network output and reference vectors, both of which have been trained in the initial learning phase. Among the known methods with a given model size, our meta-learner achieves the best or near-best image classification accuracies with Omniglot and miniImageNet datasets.

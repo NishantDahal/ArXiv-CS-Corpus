@@ -1,0 +1,3 @@
+Design of a PCIe Interface Card Control Software Based on WDF
+
+Based on a clear analysis of the latest Windows driver framework WDF, this paper has implemented a driver of the PCIe-SpaceWire interface card device and put forward a discussion about ensuring the stability of PCIe driver. At the same time, Qt and OpenGL are used to design the upper application. Finally, a functional verification of the control software is provided.

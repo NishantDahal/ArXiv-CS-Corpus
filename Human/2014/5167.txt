@@ -1,0 +1,3 @@
+Numerical Hilbert functions for Macaulay2
+
+The NumericalHilbert package for Macaulay2 includes algorithms for computing local dual spaces of polynomial ideals, and related local combinatorial data about its scheme structure. These techniques are numerically stable, and can be used with floating point arithmetic over the complex numbers. They provide a viable alternative in this setting to purely symbolic methods such as standard bases. In particular, these methods can be used to compute initial ideals, local Hilbert functions and Hilbert regularity.

@@ -1,0 +1,3 @@
+Approach for Video Classification with Multi-label on YouTube-8M Dataset
+
+Video traffic is increasing at a considerable rate due to the spread of personal media and advancements in media technology. Accordingly, there is a growing need for techniques to automatically classify moving images. This paper use NetVLAD and NetFV models and the Huber loss function for video classification problem and YouTube-8M dataset to verify the experiment. We tried various attempts according to the dataset and optimize hyperparameters, ultimately obtain a GAP score of 0.8668.

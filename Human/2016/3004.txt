@@ -1,0 +1,3 @@
+Exponential Concentration of a Density Functional Estimator
+
+We analyze a plug-in estimator for a large class of integral functionals of one or more continuous probability densities. This class includes important families of entropy, divergence, mutual information, and their conditional versions. For densities on the $d$-dimensional unit cube $[0,1]^d$ that lie in a $β$-Hölder smoothness class, we prove our estimator converges at the rate $O \left( n^{-\fracβ{β+ d}} \right)$. Furthermore, we prove the estimator is exponentially concentrated about its mean, whereas most previous related results have proven only expected error bounds on estimators.

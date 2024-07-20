@@ -1,0 +1,3 @@
+Acquiring Lexical Paraphrases from a Single Corpus
+
+This paper studies the potential of identifying lexical paraphrases within a single corpus, focusing on the extraction of verb paraphrases. Most previous approaches detect individual paraphrase instances within a pair (or set) of comparable corpora, each of them containing roughly the same information, and rely on the substantial level of correspondence of such corpora. We present a novel method that successfully detects isolated paraphrase instances within a single corpus without relying on any a-priori structure and information. A comparison suggests that an instance-based approach may be combined with a vector based approach in order to assess better the paraphrase likelihood for many verb pairs.

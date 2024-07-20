@@ -1,0 +1,3 @@
+Non regression testing for the JOREK code
+
+Non Regression Testing (NRT) aims to check if software modifications result in undesired behaviour. Suppose the behaviour of the application previously known, this kind of test makes it possible to identify an eventual regression, a bug. Improving and tuning a parallel code can be a time-consuming and difficult task, especially whenever people from different scientific fields interact closely. The JOREK code aims at investing Magnetohydrodynamic (MHD) instabilities in a Tokamak plasma. This paper describes the NRT procedure that has been tuned for this simulation code. Automation of the NRT is one keypoint to keeping the code healthy in a source code repository.

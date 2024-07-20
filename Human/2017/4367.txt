@@ -1,0 +1,3 @@
+Bootstrapping LCF Declarative Proofs
+
+Suppose we have been sold on the idea that formalised proofs in an LCF system should resemble their written counterparts, and so consist of formulas that only provide signposts for a fully verified proof. To be practical, most of the fully elaborated verification must then be done by way of general purpose proof procedures. Now if these are the only procedures we implement outside the kernel of logical rules, what does the theorem prover look like? We give our account, working from scratch in the ProofPeer theorem prover, making observations about this new setting along the way.

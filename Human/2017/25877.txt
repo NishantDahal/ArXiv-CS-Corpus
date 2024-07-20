@@ -1,0 +1,3 @@
+An Upper Bound on the GKS Game via Max Bipartite Matching
+
+The sensitivity conjecture is a longstanding conjecture concerning the relationship between the degree and sensitivity of a Boolean function. In 2015, a communication game was formulated by Justin Gilmer, Michal Koucký, and Michael Saks to attempt to make progress on this conjecture. Andrew Drucker independently formulated this game. Shortly after the creation of the GKS game, Nisan Szegedy obtained a protocol for the game with a cost of $O(n^{.4732})$. We improve Szegedy's result to a cost of $O(n^{.4696})$ by providing a technique to identify whether a set of codewords can be used as a viable strategy in this game.

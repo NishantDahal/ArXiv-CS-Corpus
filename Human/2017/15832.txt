@@ -1,0 +1,3 @@
+Design-Time Quantification of Integrity in Cyber-Physical-Systems
+
+In a software system it is possible to quantify the amount of information that is leaked or corrupted by analysing the flows of information present in the source code. In a cyber-physical system, information flows are not only present at the digital level, but also at a physical level, and to and fro the two levels. In this work, we provide a methodology to formally analyse a Cyber-Physical System composite model (combining physics and control) using an information flow-theoretic approach. We use this approach to quantify the level of vulnerability of a system with respect to attackers with different capabilities. We illustrate our approach by means of a water distribution case study.

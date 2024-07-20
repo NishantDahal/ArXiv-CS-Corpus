@@ -1,0 +1,3 @@
+Approximating the Chromatic Polynomial
+
+Chromatic polynomials are important objects in graph theory and statistical physics, but as a result of computational difficulties, their study is limited to graphs that are small, highly structured, or very sparse. We have devised and implemented two algorithms that approximate the coefficients of the chromatic polynomial $P(G,x)$, where $P(G,k)$ is the number of proper $k$-colorings of a graph $G$ for $k\in\mathbb{N}$. Our algorithm is based on a method of Knuth that estimates the order of a search tree. We compare our results to the true chromatic polynomial in several known cases, and compare our error with previous approximation algorithms.

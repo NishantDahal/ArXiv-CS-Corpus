@@ -1,0 +1,3 @@
+Towards Deep Representation Learning with Genetic Programming
+
+Genetic Programming (GP) is an evolutionary algorithm commonly used for machine learning tasks. In this paper we present a method that allows GP to transform the representation of a large-scale machine learning dataset into a more compact representation, by means of processing features from the original representation at individual level. We develop as a proof of concept of this method an autoencoder. We tested a preliminary version of our approach in a variety of well-known machine learning image datasets. We speculate that this method, used in an iterative manner, can produce results competitive with state-of-art deep neural networks.

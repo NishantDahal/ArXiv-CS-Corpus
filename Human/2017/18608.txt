@@ -1,0 +1,3 @@
+Optimal Sensor Design and Zero-Delay Source Coding for Continuous-Time Vector Gauss-Markov Processes
+
+We consider the situation in which a continuous-time vector Gauss-Markov process is observed through a vector Gaussian channel (sensor) and estimated by the Kalman-Bucy filter. Unlike in standard filtering problems where a sensor model is given a priori, we are concerned with the optimal sensor design by which (i) the mutual information between the source random process and the reproduction (estimation) process is minimized, and (ii) the minimum mean-square estimation error meets a given distortion constraint. We show that such a sensor design problem is tractable by semidefinite programming. The connection to zero-delay source-coding is also discussed.

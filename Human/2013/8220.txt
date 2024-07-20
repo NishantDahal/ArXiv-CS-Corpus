@@ -1,0 +1,4 @@
+The Fractal Dimension of SAT Formulas
+
+Modern SAT solvers have experienced a remarkable progress on solving industrial instances. Most of the techniques have been developed after an intensive experimental testing process. Recently, there have been some attempts to analyze the structure of these formulas in terms of complex networks, with the long-term aim of explaining the success of these SAT solving techniques, and possibly improving them.
+  We study the fractal dimension of SAT formulas, and show that most industrial families of formulas are self-similar, with a small fractal dimension. We also show that this dimension is not affected by the addition of learnt clauses. We explore how the dimension of a formula, together with other graph properties can be used to characterize SAT instances. Finally, we give empirical evidence that these graph properties can be used in state-of-the-art portfolios.

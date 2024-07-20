@@ -1,0 +1,3 @@
+Multithreading for the expression-dag-based number type Real_algebraic
+
+Many algorithms, especially in the field of computational geometry, are based on the premise that arithmetic operations are performed exactly. Real machines are based on inexact floating-point arithmetic. Various number types have been developed to close this gap by providing exact computation or ensuring exact decisions. In this report we describe the implementation of an extension to the exact-decisions number type Real_algebraic that enables us to take advantage of multiple processing units.

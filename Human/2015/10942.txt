@@ -1,0 +1,3 @@
+On the Complexity of Flanked Finite State Automata
+
+We define a new subclass of nondeterministic finite automata for prefix-closed languages called Flanked Finite Automata (FFA). We show that this class enjoys good complexity properties while preserving the succinctness of nondeterministic automata. In particular, we show that the universality problem for FFA is in linear time and that language inclusion can be checked in polynomial time. A useful application of FFA is to provide an efficient way to compute the quotient and inclusion of regular languages without the need to use the powerset construction. These operations are the building blocks of several verification algorithms.

@@ -1,0 +1,3 @@
+A Fixed Point Theorem for Non-Monotonic Functions
+
+We present a fixed point theorem for a class of (potentially) non-monotonic functions over specially structured complete lattices. The theorem has as a special case the Knaster-Tarski fixed point theorem when restricted to the case of monotonic functions and Kleene's theorem when the functions are additionally continuous. From the practical side, the theorem has direct applications in the semantics of negation in logic programming. In particular, it leads to a more direct and elegant proof of the least fixed point result of [Rondogiannis and W.W.Wadge, ACM TOCL 6(2): 441-467 (2005)]. Moreover, the theorem appears to have potential for possible applications outside the logic programming domain.

@@ -1,0 +1,3 @@
+Solving the Uncapacitated Single Allocation p-Hub Median Problem on GPU
+
+A parallel genetic algorithm (GA) implemented on GPU clusters is proposed to solve the Uncapacitated Single Allocation p-Hub Median problem. The GA uses binary and integer encoding and genetic operators adapted to this problem. Our GA is improved by generated initial solution with hubs located at middle nodes. The obtained experimental results are compared with the best known solutions on all benchmarks on instances up to 1000 nodes. Furthermore, we solve our own randomly generated instances up to 6000 nodes. Our approach outperforms most well-known heuristics in terms of solution quality and time execution and it allows hitherto unsolved problems to be solved.

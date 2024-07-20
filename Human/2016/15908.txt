@@ -1,0 +1,3 @@
+A New Perspective on Randomized Gossip Algorithms
+
+In this short note we propose a new approach for the design and analysis of randomized gossip algorithms which can be used to solve the average consensus problem. We show how that Randomized Block Kaczmarz (RBK) method - a method for solving linear systems - works as gossip algorithm when applied to a special system encoding the underlying network. The famous pairwise gossip algorithm arises as a special case. Subsequently, we reveal a hidden duality of randomized gossip algorithms, with the dual iterative process maintaining a set of numbers attached to the edges as opposed to nodes of the network. We prove that RBK obtains a superlinear speedup in the size of the block, and demonstrate this effect through experiments.

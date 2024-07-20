@@ -1,0 +1,3 @@
+Bitcoin Beacon
+
+We examine a protocol $π_{\text{beacon}}$ that outputs unpredictable and publicly verifiable randomness, meaning that the output is unknown at the time that $π_{\text{beacon}}$ starts, yet everyone can verify that the output is close to uniform after $π_{\text{beacon}}$ terminates. We show that $π_{\text{beacon}}$ can be instantiated via Bitcoin under sensible assumptions; in particular we consider an adversary with an arbitrarily large initial budget who may not operate at a loss indefinitely. In case the adversary has an infinite budget, we provide an impossibility result that stems from the similarity between the Bitcoin model and Santha-Vazirani sources. We also give a hybrid protocol that combines trusted parties and a Bitcoin-based beacon.

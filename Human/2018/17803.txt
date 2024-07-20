@@ -1,0 +1,3 @@
+TCP SYN Cookie Vulnerability
+
+TCP SYN Cookies were implemented to mitigate against DoS attacks. It ensured that the server did not have to store any information for half-open connections. A SYN cookie contains all information required by the server to know the request is valid. However, the usage of these cookies introduces a vulnerability that allows an attacker to guess the initial sequence number and use that to spoof a connection or plant false logs.

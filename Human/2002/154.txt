@@ -1,0 +1,3 @@
+On the Computational Complexity of Consistent Query Answers
+
+We consider here the problem of obtaining reliable, consistent information from inconsistent databases -- databases that do not have to satisfy given integrity constraints. We use the notion of consistent query answer -- a query answer which is true in every (minimal) repair of the database. We provide a complete classification of the computational complexity of consistent answers to first-order queries w.r.t. functional dependencies and denial constraints. We show how the complexity depends on the {\em type} of the constraints considered, their {\em number}, and the {\em size} of the query. We obtain several new PTIME cases, using new algorithms.

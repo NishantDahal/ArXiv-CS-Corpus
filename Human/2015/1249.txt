@@ -1,0 +1,3 @@
+CppSs -- a C++ Library for Efficient Task Parallelism
+
+We present the C++ library CppSs (C++ super-scalar), which provides efficient task-parallelism without the need for special compilers or other software. Any C++ compiler that supports C++11 is sufficient. CppSs features different directionality clauses for defining data dependencies. While the variable argument lists of the taskified functions are evaluated at compile time, the resulting task dependencies are fixed by the runtime value of the arguments and are thus analysed at runtime. With CppSs, we provide task-parallelism using merely native C++.

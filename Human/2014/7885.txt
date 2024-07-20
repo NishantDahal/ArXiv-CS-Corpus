@@ -1,0 +1,3 @@
+Approximate well-supported Nash equilibria in symmetric bimatrix games
+
+The $\varepsilon$-well-supported Nash equilibrium is a strong notion of approximation of a Nash equilibrium, where no player has an incentive greater than $\varepsilon$ to deviate from any of the pure strategies that she uses in her mixed strategy. The smallest constant $\varepsilon$ currently known for which there is a polynomial-time algorithm that computes an $\varepsilon$-well-supported Nash equilibrium in bimatrix games is slightly below $2/3$. In this paper we study this problem for symmetric bimatrix games and we provide a polynomial-time algorithm that gives a $(1/2+δ)$-well-supported Nash equilibrium, for an arbitrarily small positive constant $δ$.

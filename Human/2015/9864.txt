@@ -1,0 +1,3 @@
+Unlocking Blocked Communicating Processes
+
+We study the problem of disentangling locked processes via code refactoring. We identify and characterise a class of processes that is not lock-free; then we formalise an algorithm that statically detects potential locks and propose refactoring procedures that disentangle detected locks. Our development is cast within a simple setting of a finite linear CCS variant â although it suffices to illustrate the main concepts, we also discuss how our work extends to other language extensions.

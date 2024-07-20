@@ -1,0 +1,4 @@
+Monotone Paths in Geometric Triangulations
+
+(I) We prove that the (maximum) number of monotone paths in a geometric triangulation of $n$ points in the plane is $O(1.7864^n)$. This improves an earlier upper bound of $O(1.8393^n)$; the current best lower bound is $Ω(1.7003^n)$.
+  (II) Given a planar geometric graph $G$ with $n$ vertices, we show that the number of monotone paths in $G$ can be computed in $O(n^2)$ time.

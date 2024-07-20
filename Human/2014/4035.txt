@@ -1,0 +1,3 @@
+A Deterministic TCP Bandwidth Sharing Model
+
+Traditionally TCP bandwidth sharing has been investigated mainly by stochastic approaches due to its seemingly chaotic nature. Even though of great generality, the theories deal mainly with expectation values, which is prone to misinterpretation with respect to the Quality-of-Experience (QoE). We disassemble TCP operating conditions into dominating scenarios and show that bandwidth sharing alone follows mostly deterministic rules. From the analysis we derive significant root causes of well-known TCP aspects like unequal sharing, burstiness of losses, global synchronization, and on buffer sizing. We base our model on a detailed analysis of bandwidth sharing experiments with subsequent mathematical reproduction.

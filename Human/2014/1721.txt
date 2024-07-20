@@ -1,0 +1,3 @@
+Boolean Logic Gates From A Single Memristor Via Low-Level Sequential Logic
+
+By using the memristor's memory to both store a bit and perform an operation with a second input bit, simple Boolean logic gates have been built with a single memristor. The operation makes use of the interaction of current spikes (occasionally called current transients) found in both memristors and other devices. The sequential time-based logic methodology allows two logical input bits to be used on a one-port by sending the bits separated in time. The resulting logic gate is faster than one relying on memristor's state switching, low power and requires only one memristor. We experimentally demonstrate working OR and XOR gates made with a single flexible Titanium dioxide sol-gel memristor.

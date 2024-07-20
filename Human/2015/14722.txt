@@ -1,0 +1,3 @@
+Oracles with Costs
+
+While powerful tools have been developed to analyze quantum query complexity, there are still many natural problems that do not fit neatly into the black box model of oracles. We create a new model that allows multiple oracles with differing costs. This model captures more of the difficulty of certain natural problems. We test this model on a simple problem, Search with Two Oracles, for which we create a quantum algorithm that we prove is asymptotically optimal. We further give some evidence, using a geometric picture of Grover's algorithm, that our algorithm is exactly optimal.

@@ -1,0 +1,3 @@
+Cross-identification of stellar catalogs with multiple stars: Complexity and Resolution
+
+In this work, I present an optimization problem which consists of assigning entries of a stellar catalog to multiple entries of another stellar catalog such that the probability of such assignment is maximum. I show a way of modeling it as a Maximum Weighted Stable Set Problem which is further used to solve a real astronomical instance and I partially characterize the forbidden subgraphs of the resulting family of graphs given by that reduction. Finally, I prove that the problem is NP-Hard.

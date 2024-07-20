@@ -1,0 +1,3 @@
+Renaming Global Variables in C Mechanically Proved Correct
+
+Most integrated development environments are shipped with refactoring tools. However, their refactoring operations are often known to be unreliable. As a consequence, developers have to test their code after applying an automatic refactoring.  In this article, we consider a refactoring operation (renaming of global variables in C), and we prove that its core implementation preserves the set of possible behaviors of transformed programs. That proof of correctness relies on the operational semantics of C provided by CompCert C in Coq. 

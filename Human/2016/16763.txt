@@ -1,0 +1,3 @@
+The Existence of the Tau One-Way Functions Class as a Proof that P != NP
+
+We prove that P != NP by proving the existence of a class of functions we call Tau, each of whose members satisfies the conditions of one-way functions. Each member of Tau is a function computable in polynomial time, with negligible probability of finding its inverse by any polynomial probabilistic algorithm. We also prove that no polynomial-time algorithm exists to compute the inverse of members of Tau, and that the problem of computing the inverse of Tau cannot be reduced to FSAT in polynomial time.

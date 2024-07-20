@@ -1,0 +1,3 @@
+Distributive Laws and Decidable Properties of SOS Specifications
+
+Some formats of well-behaved operational specifications, correspond to natural transformations of certain types (for example, GSOS and coGSOS laws). These transformations have a common generalization: distributive laws of monads over comonads. We prove that this elegant theoretical generalization has limited practical benefits: it does not translate to any concrete rule format that would be complete for specifications that contain both GSOS and coGSOS rules. This is shown for the case of labeled transition systems and deterministic stream systems.

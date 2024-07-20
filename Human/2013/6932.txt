@@ -1,0 +1,4 @@
+Characterisation of Strongly Normalising lambda-mu-Terms
+
+We provide a characterisation of strongly normalising terms of the lambda-mu-calculus by means of a type system that uses intersection and product types. The presence of the latter and a restricted use of the type omega enable us to represent the particular notion of continuation used in the literature for the definition of semantics for the lambda-mu-calculus.  This makes it possible to lift the well-known characterisation property for strongly-normalising lambda-terms - that uses intersection types - to the lambda-mu-calculus.  From this result an alternative proof of strong normalisation for terms typeable in Parigot's propositional logical system follows, by means of an interpretation of that system into ours. 
+

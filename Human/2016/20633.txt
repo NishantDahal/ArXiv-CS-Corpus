@@ -1,0 +1,4 @@
+On the Approximation Performance of Degree Heuristics for Matching
+
+In the design of greedy algorithms for the maximum cardinality matching problem the utilization of degree information when selecting the next edge is a well established and successful approach.
+  We define the class of "degree sensitive" greedy matching algorithms, which allows us to analyze many well-known heuristics, and provide tight approximation guarantees under worst case tie breaking. We exhibit algorithms in this class with optimal approximation guarantee for bipartite graphs. In particular the Karp-Sipser algorithm, which picks an edge incident with a degree-1 node if possible and otherwise an arbitrary edge, turns out to be optimal with approximation guarantee D/(2D-2), where D is the maximum degree.

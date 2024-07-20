@@ -1,0 +1,3 @@
+No small nondeterministic read-once branching programs for CNFs of bounded treewidth
+
+In this paper, given a parameter $k$, we demonstrate an infinite class of {\sc cnf}s of treewidth at most $k$ of their primary graphs such that the equivalent nondeterministic read-once branching programs ({\sc nrobp}s) are of size at least $n^{ck}$ for some universal constant $c$. Thus we rule out the possibility of fixed-parameter space complexity of {\sc nrobp}s parameterized by the smallest treewidth of the equivalent {\sc cnf}.

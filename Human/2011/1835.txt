@@ -1,0 +1,3 @@
+Fixed Block Compression Boosting in FM-Indexes
+
+A compressed full-text self-index occupies space close to that of the compressed text and simultaneously allows fast pattern matching and random access to the underlying text. Among the best compressed self-indexes, in theory and in practice, are several members of the FM-index family. In this paper, we describe new FM-index variants that combine nice theoretical properties, simple implementation and improved practical performance. Our main result is a new technique called fixed block compression boosting, which is a simpler and faster alternative to optimal compression boosting and implicit compression boosting used in previous FM-indexes.

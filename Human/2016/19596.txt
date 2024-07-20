@@ -1,0 +1,6 @@
+A Lazy Language Needs a Lazy Type System: Introducing Polymorphic Contexts
+
+Most type systems that support polymorphic functions are based on a version of System-F. We argue that this limits useful programming paradigms for languages with lazy evaluation. We motivate an extension of System-F alleviating this limitation.
+  First, using a sequence of examples, we show that for lazily evaluated languages current type systems may force one to write a program in an unnatural way; we in particular argue that in such languages the relationship between polymorphic and existential types can be made more systematic by allowing to pass back (part of) an existential result of a function call as an argument to the the function call that produced that value.
+  After presenting our extension to System-F we show how we can implement the strict-state thread monad $\mathrm{ST}$ by using a returned existential type in specialising the polymorphic function which returns that type. Currently this monad is built-in into the runtime system of GHC and as such has become part of the language.
+  Our proposed language extension, i.e. the introduction of polymorphic contexts, reverses the relationship between the context of a function call and the called function with respect to where it is decided with which type to instantiate a type variable.

@@ -1,0 +1,4 @@
+(Quantified) Horn Constraint Solving for Program Verification and Synthesis
+
+We show how automatic tools for the verification of linear and branching time properties of procedural, multi-threaded, and functional programs as well as program synthesis can be naturally and uniformly seen as solvers of constraints in form of (quantified) Horn clauses over background logical theories. Such a perspective can offer various advantages, e. g., a logical separation of concerns between constraint generation (also known as generation of proof obligations) and constraint solving (also known as proof discovery), reuse of solvers across different verifications tasks, and liberation of proof designers from low level algorithmic concerns and vice versa.
+  To appear in Theory and Practice of Logic Programming (TPLP)

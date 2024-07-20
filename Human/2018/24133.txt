@@ -1,0 +1,4 @@
+The Serverless Scheduling Problem and NOAH
+
+The serverless scheduling problem poses a new challenge to Cloud service platform providers because it is rather a job scheduling problem than a traditional resource allocation or request load balancing problem. Traditionally, elastic cloud applications use managed virtual resource allocation and employ request load balancers to orchestrate the deployment. With serverless, the provider needs to solve both the load balancing and the allocation.
+  This work reviews the current Apache OpenWhisk serverless event load balancing and a noncooperative game-theoretic load balancing approach for response time minimization in distributed systems. It is shown by simulation that neither performs well under high system utilization which inspired a noncooperative online allocation heuristic that allows tuning the trade-off between for response time and resource cost of each serverless function.

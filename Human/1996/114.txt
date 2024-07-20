@@ -1,0 +1,3 @@
+Learning Translation Rules From A Bilingual Corpus
+
+This paper proposes a mechanism for learning pattern correspondences between two languages from a corpus of translated sentence pairs. The proposed mechanism uses analogical reasoning between two translations. Given a pair of translations, the similar parts of the sentences in the source language must correspond the similar parts of the sentences in the target language. Similarly, the different parts should correspond to the respective parts in the translated sentences. The correspondences between the similarities, and also differences are learned in the form of translation rules. The system is tested on a small training dataset and produced promising results for further investigation.

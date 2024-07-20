@@ -1,0 +1,4 @@
+Views over RDF Datasets: A State-of-the-Art and Open Challenges
+
+Views on RDF datasets have been discussed in several works, nevertheless there is no consensus on their definition nor the requirements they should fulfill. In traditional data management systems, views have proved to be useful in different application scenarios such as data integration, query answering, data security, and query modularization.
+  In this work we have reviewed existent work on views over RDF datasets, and discussed the application of existent view definition mechanisms to four scenarios in which views have proved to be useful in traditional (relational) data management systems. To give a framework for the discussion we provided a definition of views over RDF datasets, an issue over which there is no consensus so far. We finally chose the three proposals closer to this definition, and analyzed them with respect to four selected goals.

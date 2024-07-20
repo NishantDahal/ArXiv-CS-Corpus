@@ -1,0 +1,4 @@
+Oversampled Adaptive Sensing
+
+We develop a Bayesian framework for sensing which adapts the sensing time and/or basis functions to the instantaneous sensing quality measured in terms of the expected posterior mean-squared error. For sparse Gaussian sources a significant reduction in average sensing time and/or mean-squared error is achieved in comparison to non-adaptive sensing. For compression ratio 3, a sparse 10% Gaussian source and equal average sensing times, the proposed method gains about 2 dB over the performance bound of optimum compressive sensing, about 3 dB over non-adaptive 3-fold oversampled orthogonal sensing and about 6 to 7 dB to LASSO-based recovery schemes while enjoying polynomial time complexity.
+  We utilize that in the presence of Gaussian noise the mean-squared error conditioned on the current observation is proportional to the derivative of the conditional mean estimate with respect to this observation.

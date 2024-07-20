@@ -1,0 +1,5 @@
+On integral points on biquadratic curves and near-multiples of squares in Lucas sequences
+
+We describe an algorithmic reduction of the search for integral points on a curve y^2 = ax^4 + bx^2 + c with nonzero ac(b^2-4ac) to solving a finite number of Thue equations. While existence of such reduction is anticipated from arguments of algebraic number theory, our algorithm is elementary and to best of our knowledge is the first published algorithm of this kind. In combination with other methods and powered by existing software Thue equations solvers, it allows one to efficiently compute integral points on biquadratic curves.
+  We illustrate this approach with a particular application of finding near-multiples of squares in Lucas sequences. As an example, we establish that among Fibonacci numbers only 2 and 34 are of the form 2m^2+2; only 1, 13, and 1597 are of the form m^2-3; and so on.
+  As an auxiliary result, we also give an algorithm for solving a Diophantine equation k^2 = f(m,n)/g(m,n) in integers m,n,k, where f and g are homogeneous quadratic polynomials.

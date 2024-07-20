@@ -1,0 +1,3 @@
+Turkish Text Retrieval Experiments Using Lemur Toolkit
+
+We used Lemur Toolkit, an open source toolkit designed for Information Retrieval (IR) research, for our automated indexing and retrieval experiments on a TREC-like test collection for Turkish. We study and compare three retrieval models Lemur supports, especially Language modeling approach to IR, combined with language specific preprocessing techniques. Our experiments show that all retrieval models benefits from language specific preprocessing in terms of retrieval quality. Also Language Modeling approach is the best performing retrieval model when language specific preprocessing applied.

@@ -1,0 +1,3 @@
+Detecting Data Races on OpenCL Kernels with Symbolic Execution
+
+We present an automatic analysis technique for checking data races on OpenCL kernels. Our method defines symbolic execution techniques based on separation logic with suitable abstractions to automatically detect non-benign racy behaviours on kernel

@@ -1,0 +1,3 @@
+The 2D Tree Sliding Window Discrete Fourier Transform
+
+We present a new algorithm for the 2D Sliding Window Discrete Fourier Transform (SWDFT). Our algorithm avoids repeating calculations in overlapping windows by storing them in a tree data-structure based on the ideas of the Cooley- Tukey Fast Fourier Transform (FFT). For an $N_0 \times N_1$ array and $n_0 \times n_1$ windows, our algorithm takes $O(N_0 N_1 n_0 n_1)$ operations. We provide a C implementation of our algorithm for the Radix-2 case, compare ours with existing algorithms, and show how our algorithm easily extends to higher dimensions.

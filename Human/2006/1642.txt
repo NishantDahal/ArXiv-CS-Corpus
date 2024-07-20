@@ -1,0 +1,4 @@
+Markov-modulated on/off processes for long-range dependent internet traffic
+
+The aim of this paper is to use a very simple queuing model to compare a number of models from the literature which have been used to replicate the statistical nature of internet traffic and, in particular, the long-range dependence of this traffic. The four models all have the form of discrete time Markov-modulated processes (two other models are introduced for comparison purposes).
+  While it is often stated that long-range dependence has a critical effect on queuing performance, it appears that the models used here do not well replicated the queuing performance of real internet traffic. In particular, they fail to replicate the mean queue length (and hence the mean delay) and the probability of the queue length exceeding a given level.

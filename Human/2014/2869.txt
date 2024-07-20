@@ -1,0 +1,3 @@
+The lower bound of the PCM quantization error in high dimension
+
+In this note, we investigate the performance of the PCM scheme with linear quantization rule for quantizing unit-norm tight frame expansions for ${\mathbb R}^d$ without the White Noise Hypothesis. In \cite{WX}, Wang and Xu showed that for asymptotically equidistributed unit-norm tight frame the PCM quantization error has an upper bound ${\mathcal O}(δ^{(d+1)/2})$ and they conjecture the upper bound is sharp. In this note, we confirm the conjecture with employing the asymptotic estimate of the Bessel functions.

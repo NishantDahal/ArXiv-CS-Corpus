@@ -1,0 +1,3 @@
+Similarity detection of rational space curves
+
+We provide an algorithm to check whether two rational space curves are related by a similarity. The algorithm exploits the relationship between the curvatures and torsions of two similar curves, which is formulated in a computer algebra setting. Helical curves, where curvature and torsion are proportional, need to be distinguished as a special case. The algorithm is easy to implement, as it involves only standard computer algebra techniques, such as greatest common divisors and resultants, and Gröbner basis for the special case of helical curves. Details on the implementation and experimentation carried out using the computer algebra system Maple 18 are provided.

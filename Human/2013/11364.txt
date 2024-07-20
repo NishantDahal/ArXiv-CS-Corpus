@@ -1,0 +1,6 @@
+Nucleation-free $3D$ rigidity
+
+When all non-edge distances of a graph realized in $\mathbb{R}^{d}$ as a {\em bar-and-joint framework} are generically {\em implied} by the bar (edge) lengths, the graph is said to be {\em rigid} in $\mathbb{R}^{d}$. For $d=3$, characterizing rigid graphs, determining implied non-edges and {\em dependent} edge sets remains an elusive, long-standing open problem.
+  One obstacle is to determine when implied non-edges can exist without non-trivial rigid induced subgraphs, i.e., {\em nucleations}, and how to deal with them.
+  In this paper, we give general inductive construction schemes and proof techniques to generate {\em nucleation-free graphs} (i.e., graphs without any nucleation) with implied non-edges. As a consequence, we obtain (a) dependent graphs in $3D$ that have no nucleation; and (b) $3D$ nucleation-free {\em rigidity circuits}, i.e., minimally dependent edge sets in $d=3$. It additionally follows that true rigidity is strictly stronger than a tractable approximation to rigidity given by Sitharam and Zhou \cite{sitharam:zhou:tractableADG:2004}, based on an inductive combinatorial characterization.
+  As an independently interesting byproduct, we obtain a new inductive construction for independent graphs in $3D$. Currently, very few such inductive constructions are known, in contrast to $2D$.

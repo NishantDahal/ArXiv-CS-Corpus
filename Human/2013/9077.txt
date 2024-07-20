@@ -1,0 +1,3 @@
+Probabilistic Conditional Preference Networks
+
+In order to represent the preferences of a group of individuals, we introduce Probabilistic CP-nets (PCP-nets). PCP-nets provide a compact language for representing probability distributions over preference orderings. We argue that they are useful for aggregating preferences or modelling noisy preferences. Then we give efficient algorithms for the main reasoning problems, namely for computing the probability that a given outcome is preferred to another one, and the probability that a given outcome is optimal. As a by-product, we obtain an unexpected linear-time algorithm for checking dominance in a standard, tree-structured CP-net.

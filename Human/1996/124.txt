@@ -1,0 +1,5 @@
+Natural Language Processing: Structure and Complexity
+
+We introduce a method for analyzing the complexity of natural language processing tasks, and for predicting the difficulty new NLP tasks.
+  Our complexity measures are derived from the Kolmogorov complexity of a class of automata --- {\it meaning automata}, whose purpose is to extract relevant pieces of information from sentences. Natural language semantics is defined only relative to the set of questions an automaton can answer.
+  The paper shows examples of complexity estimates for various NLP programs and tasks, and some recipes for complexity management. It positions natural language processing as a subdomain of software engineering, and lays down its formal foundation.

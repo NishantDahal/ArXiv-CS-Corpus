@@ -1,0 +1,5 @@
+Modularity of regular and treelike graphs
+
+Clustering algorithms for large networks typically use modularity values to test which partitions of the vertex set better represent structure in the data. The modularity of a graph is the maximum modularity of a partition. We consider the modularity of two kinds of graphs.
+  For $r$-regular graphs with a given number of vertices, we investigate the minimum possible modularity, the typical modularity, and the maximum possible modularity. In particular, we see that for random cubic graphs the modularity is usually in the interval $(0.666, 0.804)$, and for random $r$-regular graphs with large $r$ it usually is of order $1/\sqrt{r}$. These results help to establish baselines for statistical tests on regular graphs.
+  The modularity of cycles and low degree trees is known to be close to 1: we extend these results to `treelike' graphs, where the product of treewidth and maximum degree is much less than the number of edges. This yields for example the (deterministic) lower bound $0.666$ mentioned above on the modularity of random cubic graphs.

@@ -1,0 +1,3 @@
+Insufficient properties of image encryption algorithms
+
+We analyze the security of recently proposed image encryption scheme [1]. We show that the scheme is insecure and the methods used to evaluate its security are insufficient. By designing the Deliberately Weak Cipher, a completely vulnerable cipher with good statistical properties, we illustrate our main point -- a solid analysis cannot be replaced by some selected set of statistical properties.

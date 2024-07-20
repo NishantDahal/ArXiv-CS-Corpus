@@ -1,0 +1,4 @@
+Design and Implementation of an IP based authentication mechanism for Open Source Proxy Servers in Interception Mode
+
+Proxy servers are being increasingly deployed at organizations for performance benefits; however, there still exists drawbacks in ease of client authentication in interception proxy mode mainly for Open Source Proxy Servers.
+  Technically, an interception mode is not designed for client authentication, but implementation in certain organizations does require this feature. In this paper, we focus on the World Wide Web, highlight the existing transparent proxy authentication mechanisms, its drawbacks and propose an authentication scheme for transparent proxy users by using external scripts based on the clients Internet Protocol Address. This authentication mechanism has been implemented and verified on Squid-one of the most widely used HTTP Open Source Proxy Server.

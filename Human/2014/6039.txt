@@ -1,0 +1,3 @@
+Inverse Procedural Modeling of Facade Layouts
+
+In this paper, we address the following research problem: How can we generate a meaningful split grammar that explains a given facade layout? To evaluate if a grammar is meaningful, we propose a cost function based on the description length and minimize this cost using an approximate dynamic programming framework. Our evaluation indicates that our framework extracts meaningful split grammars that are competitive with those of expert users, while some users and all competing automatic solutions are less successful.

@@ -1,0 +1,3 @@
+A note on approximate strengths of edges in a hypergraph
+
+Let $H=(V,E)$ be an edge-weighted hypergraph of rank $r$. Kogan and Krauthgamer extended Benczúr and Karger's random sampling scheme for cut sparsification from graphs to hypergraphs. The sampling requires an algorithm for computing the approximate strengths of edges. In this note we extend the algorithm for graphs to hypergraphs and describe a near-linear time algorithm to compute approximate strengths of edges; we build on a sparsification result for hypergraphs from our recent work. Combined with prior results we obtain faster algorithms for finding $(1+ε)$-approximate mincuts when the rank of the hypergraph is small.

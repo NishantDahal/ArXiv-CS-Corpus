@@ -1,0 +1,3 @@
+Expressing Algorithms As Concise As Possible via Computability Logic
+
+This paper proposes a new approach to defining and expressing algorithms: the notion of {\it task logical} algorithms. This notion allows the user to define an algorithm for a task $T$ as a set of agents who can collectively perform $T$. This notion considerably simplifies the algorithm development process and can be seen as an integration of the sequential pseudocode and logical algorithms. This observation requires some changes to algorithm development process. We propose a two-step approach: the first step is to define an algorithm for a task $T$ via a set of agents that can collectively perform $T$. The second step is to translate these agents into (higher-order) computability logic.

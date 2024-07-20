@@ -1,0 +1,4 @@
+Local Correction of Juntas
+
+A Boolean function f over n variables is said to be q-locally correctable if, given a black-box access to a function g which is "close" to an isomorphism f_sigma of f, we can compute f_sigma(x) for any x in Z_2^n with good probability using q queries to g.
+  We observe that any k-junta, that is, any function which depends only on k of its input variables, is O(2^k)-locally correctable. Moreover, we show that there are examples where this is essentially best possible, and locally correcting some k-juntas requires a number of queries which is exponential in k. These examples, however, are far from being typical, and indeed we prove that for almost every k-junta, O(k log k) queries suffice.

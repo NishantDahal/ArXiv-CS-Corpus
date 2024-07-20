@@ -1,0 +1,3 @@
+CARET analysis of multithreaded programs
+
+Dynamic Pushdown Networks (DPNs) are a natural model for multithreaded programs with (recursive) procedure calls and thread creation. On the other hand, CARET is a temporal logic that allows to write linear temporal formulas while taking into account the matching between calls and returns. We consider in this paper the model-checking problem of DPNs against CARET formulas. We show that this problem can be effectively solved by a reduction to the emptiness problem of Büchi Dynamic Pushdown Systems. We then show that CARET model checking is also decidable for DPNs communicating with locks. Our results can, in particular, be used for the detection of concurrent malware.

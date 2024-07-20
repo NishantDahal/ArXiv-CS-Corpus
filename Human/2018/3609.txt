@@ -1,0 +1,3 @@
+On Synthesis of Reversible Circuits with Small Number of Additional Inputs Consisting of NOT, CNOT and 2-CNOT Gates
+
+The paper discusses the gate complexity of reversible circuits with the small number of additional inputs consisting of NOT, CNOT and 2-CNOT gates. We study Shannon's gate complexity function $L(n, q)$ for a reversible circuit implementing a Boolean transformation $f\colon \mathbb Z_2^n \to \mathbb Z_2^n$ with $q \leqslant O(n^2)$ additional inputs. The general bound $L(n,q) \asymp n2^n \mathop / \log_2 n$ is proved for this case.

@@ -1,0 +1,3 @@
+A Note on Total and Paired Domination of Cartesian Product Graphs
+
+A dominating set $D$ for a graph $G$ is a subset of $V(G)$ such that any vertex not in $D$ has at least one neighbor in $D$. The domination number $γ(G)$ is the size of a minimum dominating set in $G$. Vizing's conjecture from 1968 states that for the Cartesian product of graphs $G$ and $H$, $γ(G) γ(H) \leq γ(G \Box H)$, and Clark and Suen (2000) proved that $γ(G) γ(H) \leq 2γ(G \Box H)$. In this paper, we modify the approach of Clark and Suen to prove a variety of similar bounds related to total and paired domination, and also extend these bounds to the $n$-Cartesian product of graphs $A^1$ through $A^n$.

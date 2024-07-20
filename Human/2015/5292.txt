@@ -1,0 +1,3 @@
+Finitary Corecursion for the Infinitary Lambda Calculus
+
+Kurz et al. have recently shown that infinite $λ$-trees with finitely many free variables modulo $α$-equivalence form a final coalgebra for a functor on the category of nominal sets. Here we investigate the rational fixpoint of that functor. We prove that it is formed by all rational $λ$-trees, i.e. those $λ$-trees which have only finitely many subtrees (up to isomorphism). This yields a corecursion principle that allows the definition of operations such as substitution on rational $λ$-trees.

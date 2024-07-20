@@ -1,0 +1,3 @@
+A Note on the Practicality of Maximal Planar Subgraph Algorithms
+
+Given a graph $G$, the NP-hard Maximum Planar Subgraph problem (MPS) asks for a planar subgraph of $G$ with the maximum number of edges. There are several heuristic, approximative, and exact algorithms to tackle the problem, but---to the best of our knowledge---they have never been compared competitively in practice. We report on an exploratory study on the relative merits of the diverse approaches, focusing on practical runtime, solution quality, and implementation complexity. Surprisingly, a seemingly only theoretically strong approximation forms the building block of the strongest choice.

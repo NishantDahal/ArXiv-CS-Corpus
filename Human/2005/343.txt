@@ -1,0 +1,3 @@
+Constraint-Based Qualitative Simulation
+
+We consider qualitative simulation involving a finite set of qualitative relations in presence of complete knowledge about their interrelationship. We show how it can be naturally captured by means of constraints expressed in temporal logic and constraint satisfaction problems. The constraints relate at each stage the 'past' of a simulation with its 'future'. The benefit of this approach is that it readily leads to an implementation based on constraint technology that can be used to generate simulations and to answer queries about them.

@@ -1,0 +1,5 @@
+Data Access - Experiences Implementing an Object Oriented Library on Various Platforms
+
+Data Access will be the next generation data abstraction layer for EPICS. Its implementation in C++ brought up a number of issues that are related to object oriented technology's impact on CPU and memory usage.
+  What is gained by the new abstract interface? What is the price that has to be paid for these gains? What compromises seem applicable and affordable?
+  This paper discusses tests that have been made about performance and memory usage as well as the different measures that have been taken to optimize the situation.

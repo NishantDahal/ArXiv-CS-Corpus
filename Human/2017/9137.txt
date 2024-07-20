@@ -1,0 +1,3 @@
+Distributed-Memory Breadth-First Search on Massive Graphs
+
+This chapter studies the problem of traversing large graphs using the breadth-first search order on distributed-memory supercomputers. We consider both the traditional level-synchronous top-down algorithm as well as the recently discovered direction optimizing algorithm. We analyze the performance and scalability trade-offs in using different local data structures such as CSR and DCSC, enabling in-node multithreading, and graph decompositions such as 1D and 2D decomposition.

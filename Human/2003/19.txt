@@ -1,0 +1,3 @@
+Smoothed Analysis of Interior-Point Algorithms: Termination
+
+We perform a smoothed analysis of the termination phase of an interior-point method. By combining this analysis with the smoothed analysis of Renegar's interior-point algorithm by Dunagan, Spielman and Teng, we show that the smoothed complexity of an interior-point algorithm for linear programming is $O (m^{3} \log (m/σ))$. In contrast, the best known bound on the worst-case complexity of linear programming is $O (m^{3} L)$, where $L$ could be as large as $m$. We include an introduction to smoothed analysis and a tutorial on proof techniques that have been useful in smoothed analyses.

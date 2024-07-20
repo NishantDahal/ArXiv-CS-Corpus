@@ -1,0 +1,3 @@
+Detecting regularities on grammar-compressed strings
+
+We solve the problems of detecting and counting various forms of regularities in a string represented as a Straight Line Program (SLP). Given an SLP of size $n$ that represents a string $s$ of length $N$, our algorithm compute all runs and squares in $s$ in $O(n^3h)$ time and $O(n^2)$ space, where $h$ is the height of the derivation tree of the SLP. We also show an algorithm to compute all gapped-palindromes in $O(n^3h + gnh\log N)$ time and $O(n^2)$ space, where $g$ is the length of the gap. The key technique of the above solution also allows us to compute the periods and covers of the string in $O(n^2 h)$ time and $O(nh(n+\log^2 N))$ time, respectively.

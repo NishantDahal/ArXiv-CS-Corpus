@@ -1,0 +1,3 @@
+A Multi-Level Deep Ensemble Model for Skin Lesion Classification in Dermoscopy Images
+
+A multi-level deep ensemble (MLDE) model that can be trained in an 'end to end' manner is proposed for skin lesion classification in dermoscopy images. In this model, four pre-trained ResNet-50 networks are used to characterize the multiscale information of skin lesions and are combined by using an adaptive weighting scheme that can be learned during the error back propagation. The proposed MLDE model achieved an average AUC value of 86.5% on the ISIC-skin 2018 official validation dataset, which is substantially higher than the average AUC values achieved by each of four ResNet-50 networks.

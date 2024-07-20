@@ -1,0 +1,3 @@
+MDP environments for the OpenAI Gym
+
+The OpenAI Gym provides researchers and enthusiasts with simple to use environments for reinforcement learning. Even the simplest environment have a level of complexity that can obfuscate the inner workings of RL approaches and make debugging difficult. This whitepaper describes a Python framework that makes it very easy to create simple Markov-Decision-Process environments programmatically by specifying state transitions and rewards of deterministic and non-deterministic MDPs in a domain-specific language in Python. It then presents results and visualizations created with this MDP framework.

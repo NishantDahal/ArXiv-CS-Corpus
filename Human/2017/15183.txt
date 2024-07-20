@@ -1,0 +1,3 @@
+Dual-fisheye lens stitching for 360-degree imaging
+
+Dual-fisheye lens cameras have been increasingly used for 360-degree immersive imaging. However, the limited overlapping field of views and misalignment between the two lenses give rise to visible discontinuities in the stitching boundaries. This paper introduces a novel method for dual-fisheye camera stitching that adaptively minimizes the discontinuities in the overlapping regions to generate full spherical 360-degree images. Results show that this approach can produce good quality stitched images for Samsung Gear 360 -- a dual-fisheye camera, even with hard-to-stitch objects in the stitching borders.

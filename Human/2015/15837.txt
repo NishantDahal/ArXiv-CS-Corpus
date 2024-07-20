@@ -1,0 +1,3 @@
+Forkable Regular Expressions
+
+We consider forkable regular expressions, which enrich regular expressions with a fork operator, to establish a formal basis for static and dynamic analysis of the communication behavior of concurrent programs. We define a novel compositional semantics for forkable expressions, establish their fundamental properties, and define derivatives for them as a basis for the generation of automata, for matching, and for language containment tests. Forkable expressions may give rise to non-regular languages, in general, but we identify sufficient conditions on expressions that guarantee finiteness of the automata construction via derivatives.

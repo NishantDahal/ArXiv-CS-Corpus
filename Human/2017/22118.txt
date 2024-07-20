@@ -1,0 +1,4 @@
+Computing majority with low-fan-in majority queries
+
+In this paper we examine the problem of computing majority function $\mathrm{MAJ}_n$ on $n$ bits by depth-two formula, where each gate is a majority function on at most $k$ inputs. We present such formula that gives the first nontrivial upper bound for this problem, with $k = \frac{2}{3} n + 4$. This answers an open question in [Kulikov, Podolskii, 2017].
+  We also look at this problem in adaptive setting - when we are allowed to query for value of $\mathrm{MAJ}_k$ on any subset, and wish to minimize the number of such queries. We give a simple lower bound for this setting with $\lceil n/k \rceil$ queries, and we present two algorithms for this model: the first one makes $\approx 2\frac{n}{k} \log k$ queries in the case when we are limited to the standard majority functions, and the second one makes $\frac{n}{k} \log k$ queries when we are allowed to change the threshold of majority function.

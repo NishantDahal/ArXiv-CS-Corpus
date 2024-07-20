@@ -1,0 +1,3 @@
+Data Compaction - Compression without Decompression
+
+Data compaction is a new approach for lossless and lossy compression of read-only array data. The biggest advantage over existing approaches is the possibility to access compressed data without any decompression. This makes data compaction most suitable for systems that could currently not apply compression techniques due to real-time or memory constraints. This is true for the majority of all computers, i.e. a wide range of embedded systems.

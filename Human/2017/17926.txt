@@ -1,0 +1,3 @@
+Survey on Semi-Explicit Time Integration of Eddy Current Problems
+
+The spatial discretization of the magnetic vector potential formulation of magnetoquasistatic field problems results in an infinitely stiff differential-algebraic equation system. It is transformed into a finitely stiff ordinary differential equation system by applying a generalized Schur complement. Applying the explicit Euler time integration scheme to this system results in a small maximum stable time step size. Fast computations are required in every time step to yield an acceptable overall simulation time. Several acceleration methods are presented.

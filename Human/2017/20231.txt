@@ -1,0 +1,3 @@
+Stable Blind Deconvolution over the Reals from Additional Autocorrelations
+
+Recently the one-dimensional time-discrete blind deconvolution problem was shown to be solvable uniquely, up to a global phase, by a semi-definite program for almost any signal, provided its autocorrelation is known. We will show in this work that under a sufficient zero separation of the corresponding signal in the $z-$domain, a stable reconstruction against additive noise is possible. Moreover, the stability constant depends on the signal dimension and on the signals magnitude of the first and last coefficients. We give an analytical expression for this constant by using spectral bounds of Vandermonde matrices.

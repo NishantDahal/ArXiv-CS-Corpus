@@ -1,0 +1,4 @@
+Recognizing Optimal 1-Planar Graphs in Linear Time
+
+A graph with n vertices is 1-planar if it can be drawn in the plane such that each edge is crossed at most once, and is optimal if it has the maximum of 4n-8 edges.
+  We show that optimal 1-planar graphs can be recognized in linear time. Our algorithm implements a graph reduction system with two rules, which can be used to reduce every optimal 1-planar graph to an irreducible extended wheel graph. The graph reduction system is non-deterministic, constraint, and non-confluent.

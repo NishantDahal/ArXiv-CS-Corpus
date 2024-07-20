@@ -1,0 +1,3 @@
+Using transition systems to describe and predict the behaviour of structured excitable media
+
+I show how transition systems can be applied to the naturally concurrent behaviour of excitable media. I consider structured excitable media, in which excitations are constrained to propagate only in defined narrow channels, and cannot propagate elsewhere. I define a type of transition system that can be used to describe the complete set of behaviours exhibited by simple structures. The composition rules that result from this definition can be used to automatically deduce the behaviour of more complex structures composed from simpler structures. Several examples illustrate the method, and a software implementation is provided.

@@ -1,0 +1,3 @@
+Discrete Independent Component Analysis (DICA) with Belief Propagation
+
+We apply belief propagation to a Bayesian bipartite graph composed of discrete independent hidden variables and discrete visible variables. The network is the Discrete counterpart of Independent Component Analysis (DICA) and it is manipulated in a factor graph form for inference and learning. A full set of simulations is reported for character images from the MNIST dataset. The results show that the factorial code implemented by the sources contributes to build a good generative model for the data that can be used in various inference modes.

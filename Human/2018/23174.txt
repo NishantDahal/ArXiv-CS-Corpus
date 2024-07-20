@@ -1,0 +1,3 @@
+Memristor-based Deep Convolution Neural Network: A Case Study
+
+In this paper, we firstly introduce a method to efficiently implement large-scale high-dimensional convolution with realistic memristor-based circuit components. An experiment verified simulator is adapted for accurate prediction of analog crossbar behavior. An improved conversion algorithm is developed to convert convolution kernels to memristor-based circuits, which minimizes the error with consideration of the data and kernel patterns in CNNs. With circuit simulation for all convolution layers in ResNet-20, we found that 8-bit ADC/DAC is necessary to preserve software level classification accuracy.

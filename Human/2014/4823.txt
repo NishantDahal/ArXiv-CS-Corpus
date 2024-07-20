@@ -1,0 +1,3 @@
+LDPC for QKD Reconciliation
+
+We present the Low Density Parity Check (LDPC) forward error correction algorithm adapted for the Quantum Key Distribution (QKD) protocol in a form readily applied by developers. A sparse parity check matrix is required for the LDPC algorithm and we suggest using some that have been defined by the IEEE and ETSI standards organizations for use in various communication protocols. We evaluate the QKD performance of these various parity check matrices as a function of the quantum bit error rate. We also discuss the computational precision required for this LPDC algorithm. As QKD evolves towards deployment, complete algorithm descriptions and performance analysis, as we present, will be required.

@@ -1,0 +1,3 @@
+The Fresh-Finger Property
+
+The unified property roughly states that searching for an element is fast when the current access is close to a recent access. Here, "close" refers to rank distance measured among all elements stored by the dictionary. We show that distance need not be measured this way: in fact, it is only necessary to consider a small working-set of elements to measure this rank distance. This results in a data structure with access time that is an improvement upon those offered by the unified property for many query sequences.

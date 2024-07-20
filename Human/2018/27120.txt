@@ -1,0 +1,3 @@
+Robust Receiver Design for Non-orthogonal Multiple Access
+
+Non-orthogonal multiple access (NOMA) has been proposed for massive connectivity in future generations of wireless communications. A dominant NOMA scheme is based on power optimization, in which decoding of target user is assumed to be perfect. In this work, rather than optimize on power domain, we are aimed to propose a robust receiver that can detect and decode the data streams of target user by FEC code diversity. Compared with existing NOMA receivers, our novel receiver substantially improves the bit-error-rate (BER) performance, and BER flooring can even be eliminated by assigning proper interleaving patterns to different users.

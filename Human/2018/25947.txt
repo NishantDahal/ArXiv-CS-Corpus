@@ -1,0 +1,3 @@
+Quantum Encryption and Generalized Quantum Shannon Impossibility
+
+The famous Shannon impossibility result says that any encryption scheme with perfect secrecy requires a secret key at least as long as the message. In this paper we provide its quantum analogue with imperfect secrecy and imperfect correctness. We also give a systematic study of information-theoretically secure quantum encryption with two secrecy definitions. We show that the weaker one implies the stronger but with a security loss in $d$, where $d$ is the dimension of the encrypted quantum system. This is good enough if the target secrecy error is of $o(d^{-1})$.

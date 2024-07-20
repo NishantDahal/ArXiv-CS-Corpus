@@ -1,0 +1,3 @@
+Highly corrupted image inpainting through hypoelliptic diffusion
+
+We present a new image inpainting algorithm, the Averaging and Hypoelliptic Evolution (AHE) algorithm, inspired by the one presented in [SIAM J. Imaging Sci., vol. 7, no. 2, pp. 669--695, 2014] and based upon a semi-discrete variation of the Citti-Petitot-Sarti model of the primary visual cortex V1. The AHE algorithm is based on a suitable combination of sub-Riemannian hypoelliptic diffusion and ad-hoc local averaging techniques. In particular, we focus on reconstructing highly corrupted images (i.e. where more than the 80% of the image is missing), for which we obtain reconstructions comparable with the state-of-the-art.

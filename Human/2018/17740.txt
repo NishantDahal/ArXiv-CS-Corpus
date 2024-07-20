@@ -1,0 +1,3 @@
+What Can (and Can't) we Do with Sparse Polynomials?
+
+Simply put, a sparse polynomial is one whose zero coefficients are not explicitly stored. Such objects are ubiquitous in exact computing, and so naturally we would like to have efficient algorithms to handle them. However, with this compact storage comes new algorithmic challenges, as fast algorithms for dense polynomials may no longer be efficient. In this tutorial we examine the state of the art for sparse polynomial algorithms in three areas: arithmetic, interpolation, and factorization. The aim is to highlight recent progress both in theory and in practice, as well as opportunities for future work.

@@ -1,0 +1,3 @@
+On Guarding Orthogonal Polygons with Bounded Treewidth
+
+There exist many variants of guarding an orthogonal polygon in an orthogonal fashion: sometimes a guard can see an entire rectangle, or along a staircase, or along an orthogonal path with at most $k$ bends. In this paper, we study all these guarding models in the special case of orthogonal polygons that have bounded treewidth in some sense. Exploiting algorithms for graphs of bounded treewidth, we show that the problem of finding the minimum number of guards in these models becomes linear-time solvable in orthogonal polygons of bounded treewidth.

@@ -1,0 +1,3 @@
+Generic-Precision algorithm for DCT-Cordic architectures
+
+In this paper we propose a generic algorithm to calculate the rotation parameters of CORDIC angles required for the Discrete Cosine Transform algorithm (DCT). This leads us to increase the precision of calculation meeting any accuracy.Our contribution is to use this decomposition in CORDIC based DCT which is appropriate for domains which require high quality and top precision. We then propose a hardware implementation of the novel transformation, and as expected, a substantial improvement in PSNR quality is found.

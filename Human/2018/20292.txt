@@ -1,0 +1,3 @@
+MSCE: An edge preserving robust loss function for improving super-resolution algorithms
+
+With the recent advancement in the deep learning technologies such as CNNs and GANs, there is significant improvement in the quality of the images reconstructed by deep learning based super-resolution (SR) techniques. In this work, we propose a robust loss function based on the preservation of edges obtained by the Canny operator. This loss function, when combined with the existing loss function such as mean square error (MSE), gives better SR reconstruction measured in terms of PSNR and SSIM. Our proposed loss function guarantees improved performance on any existing algorithm using MSE loss function, without any increase in the computational complexity during testing.

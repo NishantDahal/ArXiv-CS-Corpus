@@ -1,0 +1,4 @@
+Proof Reduction of Fair Stuttering Refinement of Asynchronous Systems and Applications
+
+We present a series of definitions and theorems demonstrating how to reduce the requirements for proving system refinements ensuring containment of fair stuttering runs. A primary result of the work is the ability to reduce the requisite proofs on runs of a system of interacting state machines to a set of definitions and checks on single steps of a small number of state machines corresponding to the intuitive notions of freedom from starvation and deadlock. We further refine the definitions to afford an efficient explicit-state checking procedure in certain finite state cases. We demonstrate the proof reduction on versions of the Bakery Algorithm.
+

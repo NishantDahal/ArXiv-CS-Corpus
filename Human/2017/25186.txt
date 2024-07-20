@@ -1,0 +1,3 @@
+An Artificial Neural Network Architecture Based on Context Transformations in Cortical Minicolumns
+
+Cortical minicolumns are considered a model of cortical organization. Their function is still a source of research and not reflected properly in modern architecture of nets in algorithms of Artificial Intelligence. We assume its function and describe it in this article. Furthermore, we show how this proposal allows to construct a new architecture, that is not based on convolutional neural networks, test it on MNIST data and receive close to Convolutional Neural Network accuracy. We also show that the proposed architecture possesses an ability to train on a small quantity of samples. To achieve these results, we enable the minicolumns to remember context transformations.

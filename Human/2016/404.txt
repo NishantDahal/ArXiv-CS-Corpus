@@ -1,0 +1,3 @@
+QuickSched: Task-based parallelism with dependencies and conflicts
+
+This paper describes QuickSched, a compact and efficient Open-Source C-language library for task-based shared-memory parallel programming. QuickSched extends the standard dependency-only scheme of task-based programming with the concept of task conflicts, i.e.~sets of tasks that can be executed in any order, yet not concurrently. These conflicts are modelled using exclusively lockable hierarchical resources. The scheduler itself prioritizes tasks along the critical path of execution and is shown to perform and scale well on a 64-core parallel shared-memory machine for two example problems: A tiled QR decomposition and a task-based Barnes-Hut tree code.

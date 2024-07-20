@@ -1,0 +1,4 @@
+Information-Preserving Markov Aggregation
+
+We present a sufficient condition for a non-injective function of a Markov chain to be a second-order Markov chain with the same entropy rate as the original chain. This permits an information-preserving state space reduction by merging states or, equivalently, lossless compression of a Markov source on a sample-by-sample basis. The cardinality of the reduced state space is bounded from below by the node degrees of the transition graph associated with the original Markov chain.
+  We also present an algorithm listing all possible information-preserving state space reductions, for a given transition graph. We illustrate our results by applying the algorithm to a bi-gram letter model of an English text.

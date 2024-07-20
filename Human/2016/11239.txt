@@ -1,0 +1,3 @@
+Optimal Locally Repairable Codes with Improved Update Complexity
+
+For a systematic erasure code, update complexity (UC) is defined as the maximum number of parity blocks needed to be changed when some information blocks are updated. Locally repairable codes (LRCs) have been recently proposed and used in real-world distributed storage systems. In this paper, update complexity for optimal LRC is studied and both lower and upper bounds on UC are established in terms of length (n), dimension (k), minimum distance (d), and locality (r) of the code, when (r+1)|n. Furthermore, a class of optimal LRCs with small UC is proposed. Our proposed LRCs could be of interest as they improve UC without sacrificing optimality of the code.

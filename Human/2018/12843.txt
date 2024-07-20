@@ -1,0 +1,3 @@
+Adapting Mask-RCNN for Automatic Nucleus Segmentation
+
+Automatic segmentation of microscopy images is an important task in medical image processing and analysis. Nucleus detection is an important example of this task. Mask-RCNN is a recently proposed state-of-the-art algorithm for object detection, object localization, and object instance segmentation of natural images. In this paper we demonstrate that Mask-RCNN can be used to perform highly effective and efficient automatic segmentations of a wide range of microscopy images of cell nuclei, for a variety of cells acquired under a variety of conditions.

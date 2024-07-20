@@ -1,0 +1,3 @@
+Audio-to-Score Alignment using Transposition-invariant Features
+
+Audio-to-score alignment is an important pre-processing step for in-depth analysis of classical music. In this paper, we apply novel transposition-invariant audio features to this task. These low-dimensional features represent local pitch intervals and are learned in an unsupervised fashion by a gated autoencoder. Our results show that the proposed features are indeed fully transposition-invariant and enable accurate alignments between transposed scores and performances. Furthermore, they can even outperform widely used features for audio-to-score alignment on `untransposed data', and thus are a viable and more flexible alternative to well-established features for music alignment and matching.

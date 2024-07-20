@@ -1,0 +1,3 @@
+Elementary recursive quantifier elimination based on Thom encoding and sign determination
+
+We describe a new quantifier elimination algorithm for real closed fields based on Thom encoding and sign determination. The complexity of this algorithm is elementary recursive and its proof of correctness is completely algebraic. In particular, the notion of connected components of semialgebraic sets is not used.

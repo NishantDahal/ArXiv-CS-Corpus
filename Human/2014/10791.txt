@@ -1,0 +1,3 @@
+Forecasting Intermittent Demand by Hyperbolic-Exponential Smoothing
+
+Croston's method is generally viewed as superior to exponential smoothing when demand is intermittent, but it has the drawbacks of bias and an inability to deal with obsolescence, in which an item's demand ceases altogether. Several variants have been reported, some of which are unbiased on certain types of demand, but only one recent variant addresses the problem of obsolescence. We describe a new hybrid of Croston's method and Bayesian inference called Hyperbolic-Exponential Smoothing, which is unbiased on non-intermittent and stochastic intermittent demand, decays hyperbolically when obsolescence occurs and performs well in experiments.

@@ -1,0 +1,3 @@
+word2vec Skip-Gram with Negative Sampling is a Weighted Logistic PCA
+
+We show that the skip-gram formulation of word2vec trained with negative sampling is equivalent to a weighted logistic PCA. This connection allows us to better understand the objective, compare it to other word embedding methods, and extend it to higher dimensional models.

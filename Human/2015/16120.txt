@@ -1,0 +1,3 @@
+Percolation with small clusters on random graphs
+
+Consider the problem of determining the maximal induced subgraph in a random $d$-regular graph such that its components remain bounded as the size of the graph becomes arbitrarily large. We show, for asymptotically large $d$, that any such induced subgraph has size density at most $2(\log d)/d$ with high probability. A matching lower bound is known for independent sets. We also prove the analogous result for sparse Erdős-Rényi graphs.

@@ -1,0 +1,3 @@
+Multiple-Environment Markov Decision Processes
+
+We introduce Multi-Environment Markov Decision Processes (MEMDPs) which are MDPs with a set of probabilistic transition functions. The goal in a MEMDP is to synthesize a single controller with guaranteed performances against all environments even though the environment is unknown a priori. While MEMDPs can be seen as a special class of partially observable MDPs, we show that several verification problems that are undecidable for partially observable MDPs, are decidable for MEMDPs and sometimes have even efficient solutions.

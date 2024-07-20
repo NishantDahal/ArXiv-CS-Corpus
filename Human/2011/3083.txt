@@ -1,0 +1,4 @@
+Building a refinement checker for Z
+
+In previous work we have described how refinements can be checked using a temporal logic based model-checker, and how we have built a model-checker for Z by providing a translation of Z into the SAL input language. In this paper we draw these two strands of work together and discuss how we have implemented refinement checking in our Z2SAL toolset.
+  The net effect of this work is that the SAL toolset can be used to check refinements between Z specifications supplied as input files written in the LaTeX mark-up. Two examples are used to illustrate the approach and compare it with a manual translation and refinement check.

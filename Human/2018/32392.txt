@@ -1,0 +1,3 @@
+Streaming Kernel PCA with $\tilde{O}(\sqrt{n})$ Random Features
+
+We study the statistical and computational aspects of kernel principal component analysis using random Fourier features and show that under mild assumptions, $O(\sqrt{n} \log n)$ features suffices to achieve $O(1/ε^2)$ sample complexity. Furthermore, we give a memory efficient streaming algorithm based on classical Oja's algorithm that achieves this rate.

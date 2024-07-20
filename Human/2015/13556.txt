@@ -1,0 +1,3 @@
+Group Centric Networking: A New Approach for Wireless Multi-Hop Networking to Enable the Internet of Things
+
+In this paper, we introduce a new networking architecture called Group Centric Networking (GCN), which is designed to support the large number of devices expected with the emergence of the Internet of Things. GCN is designed to enable these devices to operate collaboratively in a highly efficient and resilient fashion, while not sacrificing their ability to communicate with one another. We do a full protocol implementation of GCN in NS3, and demonstrate that GCN utilizes up to an order of magnitude fewer network resources than traditional wireless networking schemes, while providing high connectivity and reliability.

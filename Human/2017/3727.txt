@@ -1,0 +1,3 @@
+A modal typing system for self-referential programs and specifications
+
+This paper proposes a modal typing system that enables us to handle self-referential formulae, including ones with negative self-references, which on one hand, would introduce a logical contradiction, namely Russell's paradox, in the conventional setting, while on the other hand, are necessary to capture a certain class of programs such as fixed-point combinators and objects with so-called binary methods in object-oriented programming. The proposed system provides a basis for axiomatic semantics of such a wider range of programs and a new framework for natural construction of recursive programs in the proofs-as-programs paradigm.

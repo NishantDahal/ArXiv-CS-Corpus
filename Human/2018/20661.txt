@@ -1,0 +1,4 @@
+Trace and Testing Metrics on Nondeterministic Probabilistic Processes
+
+The combination of nondeterminism and probability in concurrent systems lead to the development of several interpretations of process behavior. If we restrict our attention to linear properties only, we can identify three main approaches to trace and testing semantics: the trace distributions, the trace-by-trace and the extremal probabilities approaches. In this paper, we propose novel notions of behavioral metrics that are based on the three classic approaches above, and that can be used to measure the disparities in the linear behavior of processes wrt trace and testing semantics. We study the properties of these metrics, like non-expansiveness, and we compare their expressive powers.
+

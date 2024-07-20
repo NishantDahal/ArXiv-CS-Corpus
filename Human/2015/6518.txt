@@ -1,0 +1,6 @@
+Nested Term Graphs (Work In Progress)
+
+We report on work in progress on 'nested term graphs' for formalizing higher-order terms (e.g. finite or infinite lambda-terms), including those expressing recursion (e.g. terms in the lambda-calculus with letrec). The idea is to represent the nested scope structure of a higher-order term by a nested structure of term graphs.
+  Based on a signature that is partitioned into atomic and nested function symbols, we define nested term graphs both in a functional representation, as tree-like recursive graph specifications that associate nested symbols with usual term graphs, and in a structural representation, as enriched term graph structures. These definitions induce corresponding notions of bisimulation between nested term graphs. Our main result states that nested term graphs can be implemented faithfully by first-order term graphs. 
+
+keywords: higher-order term graphs, context-free grammars, cyclic lambda-terms, higher-order rewrite systems

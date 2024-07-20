@@ -1,0 +1,3 @@
+Loading Large Sparse Matrices Stored in Files in the Adaptive-Blocking Hierarchical Storage Format
+
+The parallel algorithm for loading large sparse matrices from files into distributed memories of high performance computing (HPC) systems is presented. This algorithm was designed specially for matrices stored in files in the space-effcient adaptive-blocking hierarchical storage format (ABHSF). The algorithm can be used even if matrix storing and loading procedures use a different number of processes, different matrix-processes mapping, or different in-memory storage format. The file format based on the utilization of the HDF5 library is described as well. Finally, the presented experimental study evaluates the proposed algorithm empirically.

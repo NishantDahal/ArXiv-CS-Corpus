@@ -1,0 +1,3 @@
+Deriving AOC C-Models from D&V Languages for Single- or Multi-Threaded Execution Using C or C++
+
+The C language is getting more and more popular as a design and verification language (DVL). SystemC, ParC [1] and Cx [2] are based on C. C-models of the design and verification environment can also be generated from new DVLs (e.g. Chisel [3]) or classical DVLs such as VHDL or Verilog. The execution of these models is usually license free and presumably faster than their alternative counterparts (simulators). This paper proposes activity-dependent, ordered, cycle-accurate (AOC) C-models to speed up simulation time. It compares the results with alternative concepts. The paper also examines the execution of the AOC C-model on a multithreaded processor environment.

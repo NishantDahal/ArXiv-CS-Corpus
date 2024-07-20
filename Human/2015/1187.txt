@@ -1,0 +1,3 @@
+A Low-throughput Wavelet-based Steganography Audio Scheme
+
+This paper presents the preliminary of a novel scheme of steganography, and introduces the idea of combining two secret keys in the operation. The first secret key encrypts the text using a standard cryptographic scheme (e.g. IDEA, SAFER+, etc.) prior to the wavelet audio decomposition. The way in which the cipher text is embedded in the file requires another key, namely a stego-key, which is associated with features of the audio wavelet analysis.

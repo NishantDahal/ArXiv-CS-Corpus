@@ -1,0 +1,3 @@
+Matrix Inversion Is As Easy As Exponentiation
+
+We prove that the inverse of a positive-definite matrix can be approximated by a weighted-sum of a small number of matrix exponentials. Combining this with a previous result [OSV12], we establish an equivalence between matrix inversion and exponentiation up to polylogarithmic factors. In particular, this connection justifies the use of Laplacian solvers for designing fast semi-definite programming based algorithms for certain graph problems. The proof relies on the Euler-Maclaurin formula and certain bounds derived from the Riemann zeta function.

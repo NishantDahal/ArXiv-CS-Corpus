@@ -1,0 +1,3 @@
+Image reconstruction from dense binary pixels
+
+Recently, the dense binary pixel Gigavision camera had been introduced, emulating a digital version of the photographic film. While seems to be a promising solution for HDR imaging, its output is not directly usable and requires an image reconstruction process. In this work, we formulate this problem as the minimization of a convex objective combining a maximum-likelihood term with a sparse synthesis prior. We present MLNet - a novel feed-forward neural network, producing acceptable output quality at a fixed complexity and is two orders of magnitude faster than iterative algorithms. We present state of the art results in the abstract.

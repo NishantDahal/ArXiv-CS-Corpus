@@ -1,0 +1,3 @@
+A representation of context-free grammars with the help of finite digraphs
+
+For any context-free grammar, we build a transition diagram, that is, a finite directed graph with labeled arcs, which describes the work of the grammar. This approach is new, and it is different from previously known graph models. We define the concept of proper walk in this transition diagram and we prove that a word belongs to a given context-free language if and only if this word can be obtained with the help of a proper walk.

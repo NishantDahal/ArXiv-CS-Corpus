@@ -1,0 +1,9 @@
+Computing the homology of groups: the geometric way
+
+In this paper we present several algorithms related with the computation of the homology of groups, from a geometric perspective (that is to say, carrying out the calculations by means of simplicial sets and using techniques of Algebraic Topology). More concretely, we have developed some algorithms which, making use of the effective homology method, construct the homology groups of Eilenberg-MacLane spaces K(G,1) for different groups G, allowing one in particular to determine the homology groups of G.
+  Our algorithms have been programmed as new modules for the Kenzo system, enhancing it with the following new functionalities:
+  - construction of the effective homology of K(G,1) from a given finite free resolution of the group G;
+  - construction of the effective homology of K(A,1) for every finitely generated Abelian group A (as a consequence, the effective homology of K(A,n) is also available in Kenzo, for all n);
+  - computation of homology groups of some 2-types;
+  - construction of the effective homology for central extensions.
+  In addition, an inverse problem is also approached in this work: given a group G such that K(G,1) has effective homology, can a finite free resolution of the group G be obtained? We provide some algorithms to solve this problem, based on a notion of norm of a group, allowing us to control the convergence of the process when building such a resolution.

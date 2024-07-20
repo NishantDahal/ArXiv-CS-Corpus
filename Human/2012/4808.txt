@@ -1,0 +1,4 @@
+Multi-terminal Secrecy in a Linear Non-coherent Packetized Networks
+
+We consider a group of m+1 trusted nodes that aim to create a shared secret key K over a network in the presence of a passive eavesdropper, Eve. We assume a linear non-coherent network coding broadcast channel (over a finite field F_q) from one of the honest nodes (i.e., Alice) to the rest of them including Eve. All of the trusted nodes can also discuss over a cost-free public channel which is also overheard by Eve.
+  For this setup, we propose upper and lower bounds for the secret key generation capacity assuming that the field size q is very large. For the case of two trusted terminals (m = 1) our upper and lower bounds match and we have complete characterization for the secrecy capacity in the large field size regime.

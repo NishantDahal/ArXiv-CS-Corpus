@@ -1,0 +1,3 @@
+Reinforcement learning from comparisons: Three alternatives is enough, two is not
+
+The paper deals with the problem of finding the best alternatives on the basis of pairwise comparisons when these comparisons need not be transitive. In this setting, we study a reinforcement urn model. We prove convergence to the optimal solution when reinforcement of a winning alternative occurs each time after considering three random alternatives. The simpler process, which reinforces the winner of a random pair does not always converges: it may cycle.

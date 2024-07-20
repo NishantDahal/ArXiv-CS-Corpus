@@ -1,0 +1,3 @@
+Convex Hull of Planar H-Polyhedra
+
+Suppose $<A_i, \vec{c}_i>$ are planar (convex) H-polyhedra, that is, $A_i \in \mathbb{R}^{n_i \times 2}$ and $\vec{c}_i \in \mathbb{R}^{n_i}$. Let $P_i = \{\vec{x} \in \mathbb{R}^2 \mid A_i\vec{x} \leq \vec{c}_i \}$ and $n = n_1 + n_2$. We present an $O(n \log n)$ algorithm for calculating an H-polyhedron $<A, \vec{c}>$ with the smallest $P = \{\vec{x} \in \mathbb{R}^2 \mid A\vec{x} \leq \vec{c} \}$ such that $P_1 \cup P_2 \subseteq P$.

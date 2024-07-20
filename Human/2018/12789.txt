@@ -1,0 +1,3 @@
+Markov Chain Neural Networks
+
+In this work we present a modified neural network model which is capable to simulate Markov Chains. We show how to express and train such a network, how to ensure given statistical properties reflected in the training data and we demonstrate several applications where the network produces non-deterministic outcomes. One example is a random walker model, e.g. useful for simulation of Brownian motions or a natural Tic-Tac-Toe network which ensures non-deterministic game behavior.

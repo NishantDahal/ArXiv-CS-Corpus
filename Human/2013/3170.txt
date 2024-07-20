@@ -1,0 +1,4 @@
+Making Systems More Robust with Flexible RPC Lookup
+
+Modern distributed systems use names everywhere. Lockservices such as Chubby and ZooKeeper provide an effective mechanism for mapping from application names to server instances, but proper usage of them requires a large amount of error-prone boiler-plate code.
+  Application programmers often try to write wrappers to abstract away this logic, but it turns out there is a more general and easier way of handling the issue. We show that by extending the existing name resolution capabilities of RPC libraries, we can remove the need for such annoying boiler-plate code while at the same time making our services more robust.

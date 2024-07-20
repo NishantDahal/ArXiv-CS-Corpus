@@ -1,0 +1,3 @@
+Compact linear programs for 2SAT
+
+For each integer $n$ we present an explicit formulation of a compact linear program, with $O(n^3)$ variables and constraints, which determines the satisfiability of any 2SAT formula with $n$ boolean variables by a single linear optimization. This contrasts with the fact that the natural polytope for this problem, formed from the convex hull of all satisfiable formulas and their satisfying assignments, has superpolynomial extension complexity. Our formulation is based on multicommodity flows. We also discuss connections of these results to the stable matching problem.

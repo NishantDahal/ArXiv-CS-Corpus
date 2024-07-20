@@ -1,0 +1,3 @@
+Polar Code Construction for List Decoding
+
+A heuristic construction of polar codes for successive cancellation list (SCL) decoding with a given list size is proposed to balance the trade-off between performance measured in frame error rate (FER) and decoding complexity. Furthermore, a construction based on dynamically frozen bits with constraints among the "low weight bits" (LWB) is presented. Simulation results show that the LWB-polar codes outperform the CRC-polar codes and the eBCH-polar codes under SCL decoding.

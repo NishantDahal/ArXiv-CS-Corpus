@@ -1,0 +1,4 @@
+A fast implementation of near neighbors queries for Fréchet distance (GIS Cup)
+
+This paper describes an implementation of fast near-neighbours queries (also known as range searching) with respect to the Fréchet distance. The algorithm is designed to be efficient on practical data such as GPS trajectories. Our approach is to use a quadtree data structure to enumerate all curves in the database that have similar start and endpoints as the query curve. On these curves we run positive and negative filters to narrow the set of potential results. Only for those trajectories where these heuristics fail, we compute the Fréchet distance exactly, by running a novel recursive variant of the classic free-space diagram algorithm.
+  Our implementation won the ACM SIGSPATIAL GIS Cup 2017.

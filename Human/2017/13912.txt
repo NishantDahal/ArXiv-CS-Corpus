@@ -1,0 +1,3 @@
+Event Stream Processing with Multiple Threads
+
+Current runtime verification tools seldom make use of multi-threading to speed up the evaluation of a property on a large event trace. In this paper, we present an extension to the BeepBeep 3 event stream engine that allows the use of multiple threads during the evaluation of a query. Various parallelization strategies are presented and described on simple examples. The implementation of these strategies is then evaluated empirically on a sample of problems. Compared to the previous, single-threaded version of the BeepBeep engine, the allocation of just a few threads to specific portions of a query provides dramatic improvement in terms of running time.

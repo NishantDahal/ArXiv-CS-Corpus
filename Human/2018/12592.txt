@@ -1,0 +1,3 @@
+Coloring even-hole-free graphs with no star cutset
+
+A \emph{hole} is a chordless cycle of length at least $4$. A graph is \emph{even-hole-free} if it does not contain any hole of even length as an induced subgraph. In this paper, we study the class of even-hole-free graphs with no star cutset. We give the optimal upper bound for its chromatic number in terms of clique number and a polynomial-time algorithm to color any graph in this class. The latter is, in fact, a direct consequence of our proof that this class has bounded rank-width.

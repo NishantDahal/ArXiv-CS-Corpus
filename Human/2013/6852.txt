@@ -1,0 +1,9 @@
+Combinatorial limitations of average-radius list-decoding
+
+We study certain combinatorial aspects of list-decoding, motivated by the exponential gap between the known upper bound (of $O(1/γ)$) and lower bound (of $Ω_p(\log (1/γ))$) for the list-size needed to decode up to radius $p$ with rate $γ$ away from capacity, i.e., $1-\h(p)-γ$ (here $p\in (0,1/2)$ and $γ> 0$). Our main result is the following:
+  We prove that in any binary code $C \subseteq \{0,1\}^n$ of rate $1-\h(p)-γ$, there must exist a set $\mathcal{L} \subset C$ of $Ω_p(1/\sqrtγ)$ codewords such that the average distance of the points in $\mathcal{L}$ from their centroid is at most $pn$. In other words, there must exist $Ω_p(1/\sqrtγ)$ codewords with low "average radius." The standard notion of list-decoding corresponds to working with the maximum distance of a collection of codewords from a center instead of average distance. The average-radius form is in itself quite natural and is implied by the classical Johnson bound.
+  The remaining results concern the standard notion of list-decoding, and help clarify the combinatorial landscape of list-decoding:
+  1. We give a short simple proof, over all fixed alphabets, of the above-mentioned $Ω_p(\log (γ))$ lower bound. Earlier, this bound followed from a complicated, more general result of Blinovsky.
+  2. We show that one {\em cannot} improve the $Ω_p(\log (1/γ))$ lower bound via techniques based on identifying the zero-rate regime for list decoding of constant-weight codes.
+  3. We show a "reverse connection" showing that constant-weight codes for list decoding imply general codes for list decoding with higher rate.
+  4. We give simple second moment based proofs of tight (up to constant factors) lower bounds on the list-size needed for list decoding random codes and random linear codes from errors as well as erasures.

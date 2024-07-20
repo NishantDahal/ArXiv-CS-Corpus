@@ -1,0 +1,3 @@
+Piecewise Convex Function Estimation and Model Selection
+
+Given noisy data, function estimation is considered when the unknown function is known apriori to consist of a small number of regions where the function is either convex or concave. When the regions are known apriori, the estimate is reduced to a finite dimensional convex optimization in the dual space. When the number of regions is unknown, the model selection problem is to determine the number of convexity change points. We use a pilot estimator based on the expected number of false inflection points.

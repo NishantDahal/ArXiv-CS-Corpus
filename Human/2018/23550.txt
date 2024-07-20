@@ -1,0 +1,3 @@
+Memory Management in Successive-Cancellation based Decoders for Multi-Kernel Polar Codes
+
+Multi-kernel polar codes have recently been proposed to construct polar codes of lengths different from powers of two. Decoder implementations for multi-kernel polar codes need to account for this feature, that becomes critical in memory management. We propose an efficient, generalized memory management framework for implementation of successivecancellation decoding of multi-kernel polar codes. It can be used on many types of hardware architectures and different flavors of SC decoding algorithms. We illustrate the proposed solution for small kernel sizes, and give complexity estimates for various kernel combinations and code lengths.

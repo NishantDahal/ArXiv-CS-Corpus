@@ -1,0 +1,3 @@
+Better approximation algorithm for point-set diameter
+
+We propose a new $(1+O(\varepsilon))$-approximation algorithm with $O(n+ 1/\varepsilon^{\frac{(d-1)}{2}})$ running time for computing the diameter of a set of $n$ points in the $d$-dimensional Euclidean space for a fixed dimension $d$, where $0 < \varepsilon\leqslant 1$. This result provides some improvements in the running time of this problem in comparison with previous algorithms.

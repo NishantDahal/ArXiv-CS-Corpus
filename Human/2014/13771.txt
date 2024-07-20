@@ -1,0 +1,3 @@
+Dafny: Statically Verifying Functional Correctness
+
+This report presents the Dafny language and verifier, with a focus on describing the main features of the language, including pre- and postconditions, assertions, loop invariants, termination metrics, quantifiers, predicates and frames. Examples of Dafny code are provided to illustrate the use of each feature, and an overview of how Dafny translates programming code into a mathematical proof of functional verification is presented. The report also includes references to useful resources on Dafny, with mentions of related works in the domain of specification languages.

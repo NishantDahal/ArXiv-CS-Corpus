@@ -1,0 +1,4 @@
+Efficient computation of Laguerre polynomials
+
+An efficient algorithm and a Fortran 90 module (LaguerrePol) for computing Laguerre polynomials $L^{(α)}_n(z)$ are presented. The standard three-term recurrence relation satisfied by the polynomials and different types of asymptotic expansions valid for $n$ large and $α$ small, are used depending on the parameter region.
+  Based on tests of contiguous relations in the parameter $α$ and the degree $n$ satisfied by the polynomials, we claim that a relative accuracy close or better than $10^{-12}$ can be obtained using the module LaguerrePol for computing the functions $L^{(α)}_n(z)$ in the parameter range $z \ge 0$, $-1 < α\le 5$, $n \ge 0$.

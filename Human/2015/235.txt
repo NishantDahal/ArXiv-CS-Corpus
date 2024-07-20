@@ -1,0 +1,3 @@
+Bayesian Learning for Low-Rank matrix reconstruction
+
+We develop latent variable models for Bayesian learning based low-rank matrix completion and reconstruction from linear measurements. For under-determined systems, the developed methods are shown to reconstruct low-rank matrices when neither the rank nor the noise power is known a-priori. We derive relations between the latent variable models and several low-rank promoting penalty functions. The relations justify the use of Kronecker structured covariance matrices in a Gaussian based prior. In the methods, we use evidence approximation and expectation-maximization to learn the model parameters. The performance of the methods is evaluated through extensive numerical simulations.

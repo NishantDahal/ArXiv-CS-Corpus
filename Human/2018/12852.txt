@@ -1,0 +1,3 @@
+Index-Stratified Types (Extended Version)
+
+We present Tores, a core language for encoding metatheoretic proofs. The novel features we introduce are well-founded Mendler-style (co)recursion over indexed data types and a form of recursion over objects in the index language to build new types. The latter, which we call index-stratified types, are analogue to the concept of large elimination in dependently typed languages. These features combined allow us to encode sophisticated case studies such as normalization for lambda calculi and normalization by evaluation. We prove the soundness of Tores as a programming and proof language via the key theorems of subject reduction and termination.

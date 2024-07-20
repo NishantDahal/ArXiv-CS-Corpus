@@ -1,0 +1,3 @@
+Stratified B-trees and versioning dictionaries
+
+A classic versioned data structure in storage and computer science is the copy-on-write (CoW) B-tree -- it underlies many of today's file systems and databases, including WAFL, ZFS, Btrfs and more. Unfortunately, it doesn't inherit the B-tree's optimality properties; it has poor space utilization, cannot offer fast updates, and relies on random IO to scale. Yet, nothing better has been developed since. We describe the `stratified B-tree', which beats all known semi-external memory versioned B-trees, including the CoW B-tree. In particular, it is the first versioned dictionary to achieve optimal tradeoffs between space, query and update performance.

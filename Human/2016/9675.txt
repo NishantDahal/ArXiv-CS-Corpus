@@ -1,0 +1,3 @@
+Active Algorithms For Preference Learning Problems with Multiple Populations
+
+In this paper we model the problem of learning preferences of a population as an active learning problem. We propose an algorithm can adaptively choose pairs of items to show to users coming from a heterogeneous population, and use the obtained reward to decide which pair of items to show next. We provide computationally efficient algorithms with provable sample complexity guarantees for this problem in both the noiseless and noisy cases. In the process of establishing sample complexity guarantees for our algorithms, we establish new results using a Nystr{ö}m-like method which can be of independent interest. We supplement our theoretical results with experimental comparisons.

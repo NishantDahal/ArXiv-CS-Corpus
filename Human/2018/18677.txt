@@ -1,0 +1,3 @@
+NAPS: Natural Program Synthesis Dataset
+
+We present a program synthesis-oriented dataset consisting of human written problem statements and solutions for these problems. The problem statements were collected via crowdsourcing and the program solutions were extracted from human-written solutions in programming competitions, accompanied by input/output examples. We propose using this dataset for the program synthesis tasks aimed for working with real user-generated data. As a baseline we present few models, with the best model achieving 8.8% accuracy, showcasing both the complexity of the dataset and large room for future research.

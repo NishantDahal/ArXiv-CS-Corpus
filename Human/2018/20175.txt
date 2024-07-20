@@ -1,0 +1,3 @@
+A unifying framework for fast randomization of ecological networks with fixed (node) degrees
+
+The switching model is a Markov chain approach to sample graphs with fixed degree sequence uniformly at random. The recently invented Curveball algorithm for bipartite graphs applies several switches simultaneously (`trades'). Here, we introduce Curveball algorithms for simple (un)directed graphs which use single or simultaneous trades. We show experimentally that these algorithms converge magnitudes faster than the corresponding switching models.

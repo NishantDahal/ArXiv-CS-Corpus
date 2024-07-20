@@ -1,0 +1,3 @@
+Technical Report: Giving Hints for Logic Programming Examples without Revealing Solutions
+
+We introduce a framework for supporting learning to program in the paradigm of Answer Set Programming (ASP), which is a declarative logic programming formalism. Based on the idea of teaching by asking the student to complete small example ASP programs, we introduce a three-stage method for giving hints to the student without revealing the correct solution of an example. We categorize mistakes into (i) syntactic mistakes, (ii) unexpected but syntactically correct input, and (iii) semantic mistakes, describe mathematical definitions of these mistakes, and show how to compute hints from these definitions.

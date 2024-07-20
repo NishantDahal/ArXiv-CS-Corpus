@@ -1,0 +1,4 @@
+Free Form based active contours for image segmentation and free space perception
+
+In this paper we present a novel approach for representing and evolving deformable active contours. The method combines piecewise regular B{é}zier models and curve evolution defined by local Free Form Deformation. The contour deformation is locally constrained which allows contour convergence with almost linear complexity while adapting to various shape settings and handling topology changes of the active contour.
+  We demonstrate the effectiveness of the new active contour scheme for visual free space perception and segmentation using omnidirectional images acquired by a robot exploring unknown indoor and outdoor environments. Several experiments validate the approach with comparison to state-of-the art parametric and geometric active contours and provide fast and real-time robot free space segmentation and navigation.

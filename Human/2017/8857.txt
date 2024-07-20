@@ -1,0 +1,3 @@
+Supervised Machine Learning for Signals Having RRC Shaped Pulses
+
+Classification performances of the supervised machine learning techniques such as support vector machines, neural networks and logistic regression are compared for modulation recognition purposes. The simple and robust features are used to distinguish continuous-phase FSK from QAM-PSK signals. Signals having root-raised-cosine shaped pulses are simulated in extreme noisy conditions having joint impurities of block fading, lack of symbol and sampling synchronization, carrier offset, and additive white Gaussian noise. The features are based on sample mean and sample variance of the imaginary part of the product of two consecutive complex signal values.

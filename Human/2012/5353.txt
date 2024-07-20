@@ -1,0 +1,3 @@
+Une approche IDM de transformation exogène de Wright vers Ada
+
+The formal ADL Wright allows to describe the structural and behavioral aspects of abstract software architecture. The behavioral aspects are described in CSP and checked using the model-checker FDR. While the ADL Wright does not offer any means to realize such architectures abstract. The objective of this work is to open up the ADL Wright for Ada through an automated approach based on MDE. To achieve this, we have developed two Ecore meta-models: the meta-model Wright and the partial meta-model of Ada. Moreover, we have designed, built and tested our program Wright2Ada written in ATL to transform software architecture described in Wright to a concurrent program in Ada.

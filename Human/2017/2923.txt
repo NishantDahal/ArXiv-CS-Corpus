@@ -1,0 +1,3 @@
+DCT-like Transform for Image Compression Requires 14 Additions Only
+
+A low-complexity 8-point orthogonal approximate DCT is introduced. The proposed transform requires no multiplications or bit-shift operations. The derived fast algorithm requires only 14 additions, less than any existing DCT approximation. Moreover, in several image compression scenarios, the proposed transform could outperform the well-known signed DCT, as well as state-of-the-art algorithms.

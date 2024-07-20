@@ -1,0 +1,3 @@
+Robust error correction for real-valued signals via message-passing decoding and spatial coupling
+
+We revisit the error correction scheme of real-valued signals when the codeword is corrupted by gross errors on a fraction of entries and a small noise on all the entries. Combining the recent developments of approximate message passing and the spatially-coupled measurement matrix in compressed sensing we show that the error correction and its robustness towards noise can be enhanced considerably. We discuss the performance in the large signal limit using previous results on state evolution, as well as for finite size signals through numerical simulations. Even for relatively small sizes, the approach proposed here outperforms convex-relaxation-based decoders.

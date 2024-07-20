@@ -1,0 +1,4 @@
+The Complexity of Change
+
+Many combinatorial problems can be formulated as "Can I transform configuration 1 into configuration 2, if certain transformations only are allowed?". An example of such a question is: given two k-colourings of a graph, can I transform the first k-colouring into the second one, by recolouring one vertex at a time, and always maintaining a proper k-colouring? Another example is: given two solutions of a SAT-instance, can I transform the first solution into the second one, by changing the truth value one variable at a time, and always maintaining a solution of the SAT-instance? Other examples can be found in many classical puzzles, such as the 15-Puzzle and Rubik's Cube.
+  In this survey we shall give an overview of some older and more recent work on this type of problem. The emphasis will be on the computational complexity of the problems: how hard is it to decide if a certain transformation is possible or not?

@@ -1,0 +1,3 @@
+Perceptually-Motivated Nonlinear Channel Decorrelation For Stereo Acoustic Echo Cancellation
+
+Acoustic echo cancellation with stereo signals is generally an under-determined problem because of the high coherence between the left and right channels. In this paper, we present a novel method of significantly reducing inter-channel coherence without affecting the audio quality. Our work takes into account psychoacoustic masking and binaural auditory cues. The proposed non-linear processing combines a shaped comb-allpass (SCAL) filter with the injection of psychoacoustically masked noise. We show that the proposed method performs significantly better than other known methods for reducing inter-channel coherence.

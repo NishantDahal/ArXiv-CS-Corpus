@@ -1,0 +1,3 @@
+Determinising Parity Automata
+
+Parity word automata and their determinisation play an important role in automata and game theory. We discuss a determinisation procedure for nondeterministic parity automata through deterministic Rabin to deterministic parity automata. We prove that the intermediate determinisation to Rabin automata is optimal. We show that the resulting determinisation to parity automata is optimal up to a small constant. Moreover, the lower bound refers to the more liberal Streett acceptance. We thus show that determinisation to Streett would not lead to better bounds than determinisation to parity. As a side-result, this optimality extends to the determinisation of Büchi automata.

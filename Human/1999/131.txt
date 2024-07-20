@@ -1,0 +1,3 @@
+Generalization of automatic sequences for numeration systems on a regular language
+
+Let L be an infinite regular language on a totally ordered alphabet (A,<). Feeding a finite deterministic automaton (with output) with the words of L enumerated lexicographically with respect to < leads to an infinite sequence over the output alphabet of the automaton. This process generalizes the concept of k-automatic sequence for abstract numeration systems on a regular language (instead of systems in base k). Here, I study the first properties of these sequences and their relations with numeration systems.

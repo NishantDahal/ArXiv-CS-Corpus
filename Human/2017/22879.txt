@@ -1,0 +1,5 @@
+Statman's Hierarchy Theorem
+
+In the Simply Typed $λ$-calculus Statman investigates the reducibility relation $\leq_{βη}$ between types: for $A,B \in \mathbb{T}^0$, types freely generated using $\rightarrow$ and a single ground type $0$, define $A \leq_{βη} B$ if there exists a $λ$-definable injection from the closed terms of type $A$ into those of type $B$. Unexpectedly, the induced partial order is the (linear) well-ordering (of order type) $ω+ 4$.
+  In the proof a finer relation $\leq_{h}$ is used, where the above injection is required to be a Böhm transformation, and an (a posteriori) coarser relation $\leq_{h^+}$, requiring a finite family of Böhm transformations that is jointly injective.
+  We present this result in a self-contained, syntactic, constructive and simplified manner. En route similar results for $\leq_h$ (order type $ω+ 5$) and $\leq_{h^+}$ (order type $8$) are obtained. Five of the equivalence classes of $\leq_{h^+}$ correspond to canonical term models of Statman, one to the trivial term model collapsing all elements of the same type, and one does not even form a model by the lack of closed terms of many types.

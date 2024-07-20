@@ -1,0 +1,3 @@
+A Self-Index on Block Trees
+
+The Block Tree is a recently proposed data structure that reaches compression close to Lempel-Ziv while supporting efficient direct access to text substrings. In this paper we show how a self-index can be built on top of a Block Tree so that it provides efficient pattern searches while using space proportional to that of the original data structure. More precisely, if a Lempel-Ziv parse cuts a text of length $n$ into $z$ non-overlapping phrases, then our index uses $O(z\log(n/z))$ words and finds the $occ$ occurrences of a pattern of length $m$ in time $O(m\log n+occ\log^εn)$ for any constant $ε>0$.

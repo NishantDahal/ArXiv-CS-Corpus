@@ -1,0 +1,3 @@
+Delay-Optimal Scheduling and Power Control for Instantaneous-Interference-Limited CRs
+
+We study an uplink multi secondary user (SU) cognitive radio system suffering statistical heterogeneity among SUs' channels. This heterogeneity may result in differentiated delay performances to these SUs and result in harmful interference to the PU. We first derive an explicit closed-form expression for the average delay in terms of an arbitrary power-control policy. Then, we propose a delay-optimal closed-form scheduling and power-control policy that can provide the required average delay guarantees to all SUs besides protecting the PU from harmful interference. We support our findings by extensive system simulations and show that it outperforms existing policies substantially.

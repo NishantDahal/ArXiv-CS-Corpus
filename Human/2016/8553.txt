@@ -1,0 +1,4 @@
+From Push/Enter to Eval/Apply by Program Transformation
+
+Push/enter and eval/apply are two calling conventions used in implementations of functional languages. In this paper, we explore the following observation: when considering functions with multiple arguments, the stack under the push/enter and eval/apply conventions behaves similarly to two particular implementations of the list datatype: the regular cons-list and a form of lists with lazy concatenation respectively. Along the lines of Danvy et al.'s functional correspondence between definitional interpreters and abstract machines, we use this observation to transform an abstract machine that implements push/enter into an abstract machine that implements eval/apply. We show that our method is flexible enough to transform the push/enter Spineless Tagless G-machine (which is the semantic core of the GHC Haskell compiler) into its eval/apply variant.
+

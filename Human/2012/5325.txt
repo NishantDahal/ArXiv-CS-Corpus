@@ -1,0 +1,3 @@
+Maintenance de l'outil Wr2fdr de traduction de Wright vers CSP
+
+The use of formal ADL like Wright is critically dependent on the tools that are made available to architects. The Wr2fdr tools accompanying the formal Wright ADL provides translation to Wright to CSP. Wr2fdr automates four standard properties concerning consistency Connectors (properties 2 and 3), Component (a property 1) and Configuration Management (Property 8) Wright using the model checker FDR. After conducting an audit activity of this tool, we were able to correct errors related to both properties 2 and 3. In addition, we proposed an implementation of both properties 1 and 8. Finally, we added the tool Wr2fdr with a semantic analyzer of Wright.

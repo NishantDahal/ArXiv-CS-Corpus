@@ -1,0 +1,3 @@
+Spectral Analysis of Pollard Rho Collisions
+
+We show that the classical Pollard rho algorithm for discrete logarithms produces a collision in expected time O(sqrt(n)(log n)^3). This is the first nontrivial rigorous estimate for the collision probability for the unaltered Pollard rho graph, and is close to the conjectured optimal bound of O(sqrt(n)). The result is derived by showing that the mixing time for the random walk on this graph is O((log n)^3); without the squaring step in the Pollard rho algorithm, the mixing time would be exponential in log n. The technique involves a spectral analysis of directed graphs, which captures the effect of the squaring step.

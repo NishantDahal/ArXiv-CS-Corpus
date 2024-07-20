@@ -1,0 +1,3 @@
+A Scheme to Verify Services with Unboundedly many Clients using NuSMV
+
+We study model checking of client - server systems, where the servers offer several types of services that may depend, at any time, on how many clients of specific types are active at that time. Since there are unboundedly many clients, the state space of such systems is infinite, rendering specification and verification hard. This problem can be circumvented by using a specification language which has monadic first-order (MFO) sentences closed with standard temporal modalities. The MFO sentences throw up a bound which can, in turn, be used to bound the state space of the input client - server system, thereby making the verification problem decidable. This scheme is implemented using the NuSMV tool.

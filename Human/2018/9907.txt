@@ -1,0 +1,3 @@
+Generating Neural Networks with Neural Networks
+
+Hypernetworks are neural networks that generate weights for another neural network. We formulate the hypernetwork training objective as a compromise between accuracy and diversity, where the diversity takes into account trivial symmetry transformations of the target network. We explain how this simple formulation generalizes variational inference. We use multi-layered perceptrons to form the mapping from the low dimensional input random vector to the high dimensional weight space, and demonstrate how to reduce the number of parameters in this mapping by parameter sharing. We perform experiments and show that the generated weights are diverse and lie on a non-trivial manifold.

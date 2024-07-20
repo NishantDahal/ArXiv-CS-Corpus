@@ -1,0 +1,4 @@
+Simple average-case lower bounds for approximate near-neighbor from isoperimetric inequalities
+
+We prove an $Ω(d/\log \frac{sw}{nd})$ lower bound for the average-case cell-probe complexity of deterministic or Las Vegas randomized algorithms solving approximate near-neighbor (ANN) problem in $d$-dimensional Hamming space in the cell-probe model with $w$-bit cells, using a table of size $s$. This lower bound matches the highest known worst-case cell-probe lower bounds for any static data structure problems.
+  This average-case cell-probe lower bound is proved in a general framework which relates the cell-probe complexity of ANN to isoperimetric inequalities in the underlying metric space. A tighter connection between ANN lower bounds and isoperimetric inequalities is established by a stronger richness lemma proved by cell-sampling techniques.

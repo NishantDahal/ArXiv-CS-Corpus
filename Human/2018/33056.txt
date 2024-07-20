@@ -1,0 +1,3 @@
+Exploiting re-voting in the Helios election system
+
+Election systems must ensure that representatives are chosen by voters. Moreover, each voter should have equal influence. Traditionally, this has been achieved by permitting voters to cast at most one ballot. More recently, this has been achieved by tallying the last ballot cast by each voter. We show this is not achieved by the Helios election system, because an adversary can cause a ballot other than a voter's last to be tallied. Moreover, we show how the adversary can choose the contents of such a ballot, thus the adversary can unduly influence the selection of representatives.

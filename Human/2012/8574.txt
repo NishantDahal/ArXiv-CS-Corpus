@@ -1,0 +1,3 @@
+Improved upper and lower bounds for the point placement problem
+
+The point placement problem is to determine the positions of a set of $n$ distinct points, P = {p1, p2, p3, ..., pn}, on a line uniquely, up to translation and reflection, from the fewest possible distance queries between pairs of points. Each distance query corresponds to an edge in a graph, called point placement graph ppg, whose vertex set is P. The uniqueness requirement of the placement translates to line rigidity of the ppg. In this paper we show how to construct in 2 rounds a line rigid point placement graph of size 9n/7 + O(1). This improves the existing best result of 4n/3 + O(1). We also improve the lower bound on 2-round algorithms from 17n/16 to 9n/8.

@@ -1,0 +1,3 @@
+On the Existence of Retransmission Permutation Arrays
+
+We investigate retransmission permutation arrays (RPAs) that are motivated by applications in overlapping channel transmissions. An RPA is an $n\times n$ array in which each row is a permutation of ${1, ..., n}$, and for $1\leq i\leq n$, all $n$ symbols occur in each $i\times\lceil\frac{n}{i}\rceil$ rectangle in specified corners of the array. The array has types 1, 2, 3 and 4 if the stated property holds in the top left, top right, bottom left and bottom right corners, respectively. It is called latin if it is a latin square. We show that for all positive integers $n$, there exists a type-$1,2,3,4$ $\RPA(n)$ and a type-1,2 latin $\RPA(n)$.

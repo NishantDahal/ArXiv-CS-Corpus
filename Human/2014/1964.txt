@@ -1,0 +1,3 @@
+Key parameters generation of the navigation data of GPS Simulator
+
+The development of the GPS (Global Positioning System) signal simulator involving to a number of key technologies, in which the generation of navigation message has important significance. Based on analysis of the structure of GPS navigation data, the paper researches the production of telemetry word and handover word, parity check code, time parameters and star clock. Using disturbing force equation and Lagrange planetary motion equation extrapolate ephemeris parameters whose feasibility is verified through the Matlab software finally.

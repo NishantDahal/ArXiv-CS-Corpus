@@ -1,0 +1,3 @@
+Circuit Breakers, Discovery, and API Gateways in Microservices
+
+We review some of the most widely used patterns for the programming of microservices: circuit breaker, service discovery, and API gateway. By systematically analysing different deployment strategies for these patterns, we reach new insight especially for the application of circuit breakers. We also evaluate the applicability of Jolie, a language for the programming of microservices, for these patterns and report on other standard frameworks offering similar solutions. Finally, considerations for future developments are presented.

@@ -1,0 +1,5 @@
+Tiny Groups Tackle Byzantine Adversaries
+
+A popular technique for tolerating malicious faults in open distributed systems is to establish small groups of participants, each of which has a non-faulty majority. These groups are used as building blocks to design attack-resistant algorithms.
+  Despite over a decade of active research, current constructions require group sizes of $O(\log n)$, where $n$ is the number of participants in the system. This group size is important since communication and state costs scale polynomially with this parameter. Given the stubbornness of this logarithmic barrier, a natural question is whether better bounds are possible.
+  Here, we consider an attacker that controls a constant fraction of the total computational resources in the system. By leveraging proof-of-work (PoW), we demonstrate how to reduce the group size exponentially to $O(\log\log n)$ while maintaining strong security guarantees. This reduction in group size yields a significant improvement in communication and state costs.

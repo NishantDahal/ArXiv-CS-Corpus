@@ -1,0 +1,4 @@
+PAS-MC: Privacy-preserving Analytics Stream for the Mobile Cloud
+
+In today's digital world, personal data is being continuously collected and analyzed without data owners' consent and choice. As data owners constantly generate data on their personal devices, the tension of storing private data on their own devices yet allowing third party analysts to perform aggregate analytics yields an interesting dilemma.
+  This paper introduces PAS-MC, the first practical privacy-preserving and anonymity stream analytics system. PAS-MC ensures that each data owner locally privatizes their sensitive data before responding to analysts' queries. PAS-MC also protects against traffic analysis attacks with minimal trust vulnerabilities.We evaluate the scheme over the California Transportation Dataset and show that we can privately and anonymously stream vehicular location updates yet preserve high accuracy.

@@ -1,0 +1,4 @@
+Greed is Super: A Fast Algorithm for Super-Resolution
+
+We present a fast two-phase algorithm for super-resolution with strong theoretical guarantees. Given the low-frequency part of the spectrum of a sequence of impulses, Phase I consists of a greedy algorithm that roughly estimates the impulse positions. These estimates are then refined by local optimization in Phase II.
+  In contrast to the convex relaxation proposed by Candès et al., our approach has a low computational complexity but requires the impulses to be separated by an additional logarithmic factor to succeed. The backbone of our work is the fundamental work of Slepian et al. involving discrete prolate spheroidal wave functions and their unique properties.

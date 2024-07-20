@@ -1,0 +1,3 @@
+DIFET: Distributed Feature Extraction Tool For High Spatial Resolution Remote Sensing Images
+
+In this paper, we propose distributed feature extraction tool from high spatial resolution remote sensing images. Tool is based on Apache Hadoop framework and Hadoop Image Processing Interface. Two corner detection (Harris and Shi-Tomasi) algorithms and five feature descriptors (SIFT, SURF, FAST, BRIEF, and ORB) are considered. Robustness of the tool in the task of feature extraction from LandSat-8 imageries are evaluated in terms of horizontal scalability.

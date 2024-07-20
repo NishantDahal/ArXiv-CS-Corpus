@@ -1,0 +1,3 @@
+Geometric Nontermination Arguments
+
+We present a new kind of nontermination argument, called geometric nontermination argument. The geometric nontermination argument is a finite representation of an infinite execution that has the form of a sum of several geometric series. For so-called linear lasso programs we can decide the existence of a geometric nontermination argument using a nonlinear algebraic $\exists$-constraint. We show that a deterministic conjunctive loop program with nonnegative eigenvalues is nonterminating if an only if there exists a geometric nontermination argument. Furthermore, we present an evaluation that demonstrates that our method is feasible in practice.

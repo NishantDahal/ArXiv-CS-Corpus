@@ -1,0 +1,3 @@
+Quantitative Homotopy Theory in Topological Data Analysis
+
+This paper lays the foundations of an approach to applying Gromov's ideas on quantitative topology to topological data analysis. We introduce the "contiguity complex", a simplicial complex of maps between simplicial complexes defined in terms of the combinatorial notion of contiguity. We generalize the Simplicial Approximation Theorem to show that the contiguity complex approximates the homotopy type of the mapping space as we subdivide the domain. We describe algorithms for approximating the rate of growth of the components of the contiguity complex under subdivision of the domain; this procedure allows us to computationally distinguish spaces with isomorphic homology but different homotopy types.

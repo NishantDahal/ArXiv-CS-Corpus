@@ -1,0 +1,3 @@
+Coexistence in preferential attachment networks
+
+We introduce a new model of competition on growing networks. This extends the preferential attachment model, with the key property that node choices evolve simultaneously with the network. When a new node joins the network, it chooses neighbours by preferential attachment, and selects its type based on the number of initial neighbours of each type. The model is analysed in detail, and in particular, we determine the possible proportions of the various types in the limit of large networks. An important qualitative feature we find is that, in contrast to many current theoretical models, often several competitors will coexist. This matches empirical observations in many real-world networks.

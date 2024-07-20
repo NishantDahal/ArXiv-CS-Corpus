@@ -1,0 +1,3 @@
+Divide-And-Conquer Computation of Cylindrical Algebraic Decomposition
+
+We present a divide-and-conquer version of the Cylindrical Algebraic Decomposition (CAD) algorithm. The algorithm represents the input as a Boolean combination of subformulas, computes cylindrical algebraic decompositions of solution sets of the subformulas, and combines the results. We propose a graph-based heuristic to find a suitable partitioning of the input and present empirical comparison with direct CAD computation.

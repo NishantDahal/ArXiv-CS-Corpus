@@ -1,0 +1,3 @@
+HySIA: Tool for Simulating and Monitoring Hybrid Automata Based on Interval Analysis
+
+We present HySIA: a reliable runtime verification tool for nonlinear hybrid automata (HA) and signal temporal logic (STL) properties. HySIA simulates an HA with interval analysis techniques so that a trajectory is enclosed sharply within a set of intervals. Then, HySIA computes whether the simulated trajectory satisfies a given STL property; the computation is performed again with interval analysis to achieve reliability. Simulation and verification using HySIA are demonstrated through several example HA and STL formulas.

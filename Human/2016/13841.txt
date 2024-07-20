@@ -1,0 +1,4 @@
+Computing Vertex-Disjoint Paths using MAOs
+
+Let G be a graph with minimum degree $δ$. It is well-known that maximal adjacency orderings (MAOs) compute a vertex set S such that every pair of S is connected by at least $δ$ internally vertex-disjoint paths in G.
+  We present an algorithm that, given any pair of S, computes these $δ$ paths in linear time O(n+m). This improves the previously best solutions for these special vertex pairs, which were flow-based. Our algorithm simplifies a proof about pendant pairs of Mader and makes a purely existential proof of Nagamochi algorithmic.

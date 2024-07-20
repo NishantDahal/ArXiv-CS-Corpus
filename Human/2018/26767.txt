@@ -1,0 +1,3 @@
+Quantum Advantage for the LOCAL Model in Distributed Computing
+
+There are two central models considered in (fault-free synchronous) distributed computing: the CONGEST model, in which communication channels have limited bandwidth, and the LOCAL model, in which communication channels have unlimited bandwidth. Very recently, Le Gall and Magniez (PODC 2018) showed the superiority of quantum distributed computing over classical distributed computing in the CONGEST model. In this work we show the superiority of quantum distributed computing in the LOCAL model: we exhibit a computational task that can be solved in a constant number of rounds in the quantum setting but requires $Ω(n)$ rounds in the classical setting, where $n$ denotes the size of the network.

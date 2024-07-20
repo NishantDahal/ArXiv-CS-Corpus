@@ -1,0 +1,3 @@
+Distributed Discovery of Large Near-Cliques
+
+Given an undirected graph and $0\leε\le1$, a set of nodes is called $ε$-near clique if all but an $ε$ fraction of the pairs of nodes in the set have a link between them. In this paper we present a fast synchronous network algorithm that uses small messages and finds a near-clique. Specifically, we present a constant-time algorithm that finds, with constant probability of success, a linear size $ε$-near clique if there exists an $ε^3$-near clique of linear size in the graph. The algorithm uses messages of $O(\log n)$ bits. The failure probability can be reduced to $n^{-Ω(1)}$ in $O(\log n)$ time, and the algorithm also works if the graph contains a clique of size $Ω(n/\log^α\log n)$ for some $α\in (0,1)$.

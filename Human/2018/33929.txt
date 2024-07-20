@@ -1,0 +1,3 @@
+Frank-Wolfe Algorithm for the Exact Sparse Problem
+
+In this paper, we study the properties of the Frank-Wolfe algorithm to solve the \ExactSparse reconstruction problem. We prove that when the dictionary is quasi-incoherent, at each iteration, the Frank-Wolfe algorithm picks up an atom indexed by the support. We also prove that when the dictionary is quasi-incoherent, there exists an iteration beyond which the algorithm converges exponentially fast.

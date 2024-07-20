@@ -1,0 +1,4 @@
+Additive Spanners: A Simple Construction
+
+We consider additive spanners of unweighted undirected graphs. Let $G$ be a graph and $H$ a subgraph of $G$. The most naïve way to construct an additive $k$-spanner of $G$ is the following: As long as $H$ is not an additive $k$-spanner repeat: Find a pair $(u,v) \in H$ that violates the spanner-condition and a shortest path from $u$ to $v$ in $G$. Add the edges of this path to $H$.
+  We show that, with a very simple initial graph $H$, this naïve method gives additive $6$- and $2$-spanners of sizes matching the best known upper bounds. For additive $2$-spanners we start with $H=\emptyset$ and end with $O(n^{3/2})$ edges in the spanner. For additive $6$-spanners we start with $H$ containing $\lfloor n^{1/3} \rfloor$ arbitrary edges incident to each node and end with a spanner of size $O(n^{4/3})$.

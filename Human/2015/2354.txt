@@ -1,0 +1,3 @@
+A Convex Formulation for Mixed Regression with Two Components: Minimax Optimal Rates
+
+We consider the mixed regression problem with two components, under adversarial and stochastic noise. We give a convex optimization formulation that provably recovers the true solution, and provide upper bounds on the recovery errors for both arbitrary noise and stochastic noise settings. We also give matching minimax lower bounds (up to log factors), showing that under certain assumptions, our algorithm is information-theoretically optimal. Our results represent the first tractable algorithm guaranteeing successful recovery with tight bounds on recovery errors and sample complexity.

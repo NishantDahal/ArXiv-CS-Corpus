@@ -1,0 +1,3 @@
+Probabilistic and Regularized Graph Convolutional Networks
+
+This paper explores the recently proposed Graph Convolutional Network architecture proposed in (Kipf & Welling, 2016) The key points of their work is summarized and their results are reproduced. Graph regularization and alternative graph convolution approaches are explored. I find that explicit graph regularization was correctly rejected by (Kipf & Welling, 2016). I attempt to improve the performance of GCN by approximating a k-step transition matrix in place of the normalized graph laplacian, but I fail to find positive results. Nonetheless, the performance of several configurations of this GCN variation is shown for the Cora, Citeseer, and Pubmed datasets.

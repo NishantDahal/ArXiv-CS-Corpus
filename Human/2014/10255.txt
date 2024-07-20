@@ -1,0 +1,3 @@
+Narrow Proofs May Be Maximally Long
+
+We prove that there are 3-CNF formulas over n variables that can be refuted in resolution in width w but require resolution proofs of size n^Omega(w). This shows that the simple counting argument that any formula refutable in width w must have a proof in size n^O(w) is essentially tight. Moreover, our lower bound generalizes to polynomial calculus resolution (PCR) and Sherali-Adams, implying that the corresponding size upper bounds in terms of degree and rank are tight as well. Our results do not extend all the way to Lasserre, however, where the formulas we study have proofs of constant rank and size polynomial in both n and w.

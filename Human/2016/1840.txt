@@ -1,0 +1,4 @@
+Tight Lower Bounds on Graph Embedding Problems
+
+We prove that unless the Exponential Time Hypothesis (ETH) fails, deciding if there is a homomorphism from graph $G$ to graph $H$ cannot be done in time $|V(H)|^{o(|V(G)|)}$. We also show an exponential-time reduction from Graph Homomorphism to Subgraph Isomorphism. This rules out (subject to ETH) a possibility of $|V(H)|^{o(|V(H)|)}$-time algorithm deciding if graph $G$ is a subgraph of $H$. For both problems our lower bounds asymptotically match the running time of brute-force algorithms trying all possible mappings of one graph into another. Thus, our work closes the gap in the known complexity of these fundamental problems.
+  Moreover, as a consequence of our reductions conditional lower bounds follow for other related problems such as Locally Injective Homomorphism, Graph Minors, Topological Graph Minors, Minimum Distortion Embedding and Quadratic Assignment Problem.

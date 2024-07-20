@@ -1,0 +1,3 @@
+A Noise-Robust Method with Smoothed \ell_1/\ell_2 Regularization for Sparse Moving-Source Mapping
+
+The method described here performs blind deconvolution of the beamforming output in the frequency domain. To provide accurate blind deconvolution, sparsity priors are introduced with a smooth \ell_1/\ell_2 regularization term. As the mean of the noise in the power spectrum domain is dependent on its variance in the time domain, the proposed method includes a variance estimation step, which allows more robust blind deconvolution. Validation of the method on both simulated and real data, and of its performance, are compared with two well-known methods from the literature: the deconvolution approach for the mapping of acoustic sources, and sound density modeling.

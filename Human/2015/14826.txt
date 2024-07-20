@@ -1,0 +1,3 @@
+Low Polynomial Exclusion of Planar Graph Patterns
+
+The celebrated grid exclusion theorem states that for every $h$-vertex planar graph $H$, there is a constant $c_{h}$ such that if a graph $G$ does not contain $H$ as a minor then $G$ has treewidth at most $c_{h}$. We are looking for patterns of $H$ where this bound can become a low degree polynomial. We provide such bounds for the following parameterized graphs: the wheel ($c_{h}=O(h)$), the double wheel ($c_{h}=O(h^2\cdot \log^{2} h)$), any graph of pathwidth at most 2 ($c_{h}=O(h^{2})$), and the yurt graph ($c_{h}=O(h^{4})$).

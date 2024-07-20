@@ -1,0 +1,3 @@
+TSSort: Probabilistic Noise Resistant Sorting
+
+In this paper we present TSSort, a probabilistic, noise resistant, quickly converging comparison sort algorithm based on Microsoft TrueSkill. The algorithm combines TrueSkill's updating rules with a newly developed next item pair selection strategy, enabling it to beat standard sorting algorithms w.r.t. convergence speed and noise resistance, as shown in simulations. TSSort is useful if comparisons of items are expensive or noisy, or if intermediate results shall be approximately ordered.

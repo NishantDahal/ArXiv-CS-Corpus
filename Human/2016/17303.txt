@@ -1,0 +1,3 @@
+Multimodal Latent Variable Analysis
+
+Consider a set of multiple, multimodal sensors capturing a complex system or a physical phenomenon of interest. Our primary goal is to distinguish the underlying sources of variability manifested in the measured data. The first step in our analysis is to find the common source of variability present in all sensor measurements. We base our work on a recent paper, which tackles this problem with alternating diffusion (AD). In this work, we suggest to further the analysis by extracting the sensor-specific variables in addition to the common source. We propose an algorithm, which we analyze theoretically, and then demonstrate on three different applications: a synthetic example, a toy problem, and the task of fetal ECG extraction.

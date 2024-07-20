@@ -1,0 +1,3 @@
+Photo-Realistic Blocksworld Dataset
+
+In this report, we introduce an artificial dataset generator for Photo-realistic Blocksworld domain. Blocksworld is one of the oldest high-level task planning domain that is well defined but contains sufficient complexity, e.g., the conflicting subgoals and the decomposability into subproblems. We aim to make this dataset a benchmark for Neural-Symbolic integrated systems and accelerate the research in this area. The key advantage of such systems is the ability to obtain a symbolic model from the real-world input and perform a fast, systematic, complete algorithm for symbolic reasoning, without any supervision and the reward signal from the environment.

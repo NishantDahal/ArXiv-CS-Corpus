@@ -1,0 +1,3 @@
+Unstructured Overlapping Mesh Distribution in Parallel
+
+We present a simple mathematical framework and API for parallel mesh and data distribution, load balancing, and overlap generation. It relies on viewing the mesh as a Hasse diagram, abstracting away information such as cell shape, dimension, and coordinates. The high level of abstraction makes our interface both concise and powerful, as the same algorithm applies to any representable mesh, such as hybrid meshes, meshes embedded in higher dimension, and overlapped meshes in parallel. We present evidence, both theoretical and experimental, that the algorithms are scalable and efficient. A working implementation can be found in the latest release of the PETSc libraries.

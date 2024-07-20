@@ -1,0 +1,3 @@
+Evaluating polynomials in several variables and their derivatives on a GPU computing processor
+
+In order to obtain more accurate solutions of polynomial systems with numerical continuation methods we use multiprecision arithmetic. Our goal is to offset the overhead of double double arithmetic accelerating the path trackers and in particular Newton's method with a general purpose graphics processing unit. In this paper we describe algorithms for the massively parallel evaluation and differentiation of sparse polynomials in several variables. We report on our implementation of the algorithmic differentiation of products of variables on the NVIDIA Tesla C2050 Computing Processor using the NVIDIA CUDA compiler tools.

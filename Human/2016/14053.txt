@@ -1,0 +1,3 @@
+State access patterns in embarrassingly parallel computations
+
+We introduce a set of state access patterns suitable for managing state in embarrassingly parallel computations on streams. The state access patterns are useful to model typical stream parallel applications. We present a classification of the patterns according to the extent and way in which the state is modified. We define precisely the state access patterns and discuss possible implementation schemas, performances and possibilities to manage adaptivity (parallelism degree) in the patterns. We present experimental results relative to an implementations on top of the structured parallel programming framework FastFlow that demonstrate the feasibility and efficiency of the proposed access patterns.

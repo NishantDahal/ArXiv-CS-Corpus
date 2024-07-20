@@ -1,0 +1,3 @@
+The Computational Wiretap Channel
+
+We present the computational wiretap channel: Alice has some data x and wants to share some computation h(x) with Bob. To do this, she sends f(x), where f is some sufficient statistic for h. An eavesdropper, Eve, is interested in computing another function g(x). We show that, under some conditions on f and g, this channel can be approximated, from Eve's point of view, by the classic Wyner wiretap channel.

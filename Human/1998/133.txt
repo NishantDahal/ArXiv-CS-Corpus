@@ -1,0 +1,3 @@
+Congestion Control with Explicit Rate Indication
+
+As the speed and the dynamic range of computer networks evolve, the issue of efficient traffic management becomes increasingly important. This work describes an approach to traffic management using explicit rate information provided to the source by the network. We present an asynchronous distributed algorithm for optimal rate calculation across the network, where optimality is understood in the maxmin sense. The algorithm quickly converges to the optimal rates and is shown to be well-behaved in transience.

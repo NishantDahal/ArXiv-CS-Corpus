@@ -1,0 +1,3 @@
+Line Spectrum Estimation with Probabilistic Priors
+
+For line spectrum estimation, we derive the maximum a posteriori probability estimator where prior knowledge of frequencies is modeled probabilistically. Since the spectrum is periodic, an appropriate distribution is the circular von Mises distribution that can parameterize the entire range of prior certainty of the frequencies. An efficient alternating projections method is used to solve the resulting optimization problem. The estimator is evaluated numerically and compared with other estimators and the Cramér-Rao bound.

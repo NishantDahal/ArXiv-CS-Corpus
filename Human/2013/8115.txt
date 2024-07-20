@@ -1,0 +1,3 @@
+Decoding color codes by projection onto surface codes
+
+We propose a new strategy to decode color codes, which is based on the projection of the error onto three surface codes. This provides a method to transform every decoding algorithm of surface codes into a decoding algorithm of color codes. Applying this idea to a family of hexagonal color codes, with the perfect matching decoding algorithm for the three corresponding surface codes, we find a phase error threshold of approximately 8.7%. Finally, our approach enables us to establish a general lower bound on the error threshold of a family of color codes depending on the threshold of the three corresponding surface codes. These results are based on a chain complex interpretation of surface codes and color codes.

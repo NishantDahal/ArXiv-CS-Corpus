@@ -1,0 +1,3 @@
+Resolving Multi-path Interference in Time-of-Flight Imaging via Modulation Frequency Diversity and Sparse Regularization
+
+Time-of-flight (ToF) cameras calculate depth maps by reconstructing phase shifts of amplitude-modulated signals. For broad illumination or transparent objects, reflections from multiple scene points can illuminate a given pixel, giving rise to an erroneous depth map. We report here a sparsity regularized solution that separates K-interfering components using multiple modulation frequency measurements. The method maps ToF imaging to the general framework of spectral estimation theory and has applications in improving depth profiles and exploiting multiple scattering.

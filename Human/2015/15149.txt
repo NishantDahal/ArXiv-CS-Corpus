@@ -1,0 +1,3 @@
+On Locally Recoverable (LRC) Codes
+
+We present simple constructions of optimal erasure-correcting LRC codes by exhibiting their parity-check matrices. When the number of local parities in a parity group plus the number of global parities is smaller than the size of the parity group, the constructed codes are optimal with a field of size at least the length of the code. We can reduce the size of the field to at least the size of the parity groups when the number of global parities equals the number of local parities in a parity group plus one.

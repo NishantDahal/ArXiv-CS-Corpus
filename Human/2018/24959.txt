@@ -1,0 +1,3 @@
+Surface Light Field Fusion
+
+We present an approach for interactively scanning highly reflective objects with a commodity RGBD sensor. In addition to shape, our approach models the surface light field, encoding scene appearance from all directions. By factoring the surface light field into view-independent and wavelength-independent components, we arrive at a representation that can be robustly estimated with IR-equipped commodity depth sensors, and achieves high quality results.

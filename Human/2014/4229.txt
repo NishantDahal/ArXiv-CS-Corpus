@@ -1,0 +1,3 @@
+The Secant-Newton Map is Optimal Among Contracting $n^{th}$ Degree Maps for $n^{th}$ Root Computation
+
+Consider the problem: given a real number $x$ and an error bound $ε$, find an interval such that it contains the $\sqrt[n]{x}$ and its width is less than $ε$. One way to solve the problem is to start with an initial interval and to repeatedly update it by applying an interval refinement map on it until it becomes narrow enough. In this paper, we prove that the well known Secant-Newton map is optimal among a certain family of natural generalizations.

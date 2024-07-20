@@ -1,0 +1,5 @@
+Semialgebraic Invariant Synthesis for the Kannan-Lipton Orbit Problem
+
+The \emph{Orbit Problem} consists of determining, given a linear transformation $A$ on $\mathbb{Q}^d$, together with vectors $x$ and $y$, whether the orbit of $x$ under repeated applications of $A$ can ever reach $y$. This problem was famously shown to be decidable by Kannan and Lipton in the 1980s.
+  In this paper, we are concerned with the problem of synthesising suitable \emph{invariants} $\mathcal{P} \subseteq \mathbb{R}^d$, \emph{i.e.}, sets that are stable under $A$ and contain $x$ and not $y$, thereby providing compact and versatile certificates of non-reachability. We show that whether a given instance of the Orbit Problem admits a semialgebraic invariant is decidable, and moreover in positive instances we provide an algorithm to synthesise suitable invariants of polynomial size.
+  It is worth noting that the existence of \emph{semilinear} invariants, on the other hand, is (to the best of our knowledge) not known to be decidable.

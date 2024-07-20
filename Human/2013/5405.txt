@@ -1,0 +1,3 @@
+HTTP Mailbox - Asynchronous RESTful Communication
+
+We describe HTTP Mailbox, a mechanism to enable RESTful HTTP communication in an asynchronous mode with a full range of HTTP methods otherwise unavailable to standard clients and servers. HTTP Mailbox allows for broadcast and multicast semantics via HTTP. We evaluate a reference implementation using ApacheBench (a server stress testing tool) demonstrating high throughput (on 1,000 concurrent requests) and a systemic error rate of 0.01%. Finally, we demonstrate our HTTP Mailbox implementation in a human assisted web preservation application called "Preserve Me".

@@ -1,0 +1,6 @@
+A #SAT Algorithm for Small Constant-Depth Circuits with PTF gates
+
+We show that there is a randomized algorithm that, when given a small constant-depth Boolean circuit $C$ made up of gates that compute constant-degree Polynomial Threshold functions or PTFs (i.e., Boolean functions that compute signs of constant-degree polynomials), counts the number of satisfying assignments to $C$ in significantly better than brute-force time.
+  Formally, for any constants $d,k$, there is an $ε> 0$ such that the algorithm counts the number of satisfying assignments to a given depth-$d$ circuit $C$ made up of $k$-PTF gates such that $C$ has size at most $n^{1+ε}$. The algorithm runs in time $2^{n-n^{Ω(ε)}}$.
+  Before our result, no algorithm for beating brute-force search was known even for a single degree-$2$ PTF (which is a depth-$1$ circuit of linear size).
+  The main new tool is the use of a learning algorithm for learning degree-$1$ PTFs (or Linear Threshold Functions) using comparison queries due to Kane, Lovett, Moran and Zhang (FOCS 2017). We show that their ideas fit nicely into a memoization approach that yields the #SAT algorithms.

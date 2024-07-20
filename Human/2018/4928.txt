@@ -1,0 +1,4 @@
+A Review of Literature on Parallel Constraint Solving
+
+As multicore computing is now standard, it seems irresponsible for constraints researchers to ignore the implications of it. Researchers need to address a number of issues to exploit parallelism, such as: investigating which constraint algorithms are amenable to parallelisation; whether to use shared memory or distributed computation; whether to use static or dynamic decomposition; and how to best exploit portfolios and cooperating search. We review the literature, and see that we can sometimes do quite well, some of the time, on some instances, but we are far from a general solution. Yet there seems to be little overall guidance that can be given on how best to exploit multicore computers to speed up constraint solving. We hope at least that this survey will provide useful pointers to future researchers wishing to correct this situation.
+  Under consideration in Theory and Practice of Logic Programming (TPLP).

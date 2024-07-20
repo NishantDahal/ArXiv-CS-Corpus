@@ -1,0 +1,3 @@
+An exact algorithm for 1-in-3 SAT
+
+1-in-3 SAT is an NP-complete variant of 3-SAT\ where a "clause" is satisfied iff exactly one of its three literal is satisfied. We present here an exact algorithm solving \oit\ in time $O^*(1.260^n)$.

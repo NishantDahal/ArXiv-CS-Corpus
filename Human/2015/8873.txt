@@ -1,0 +1,4 @@
+A New Execution Model for the logic of hereditary Harrop formulas
+
+The class of first-order Hereditary Harrop formulas ($fohh$) is a well-established extension of first-order Horn clauses. Its operational semantics is based on intuitionistic provability.
+  We propose another operational semantics for $fohh$ which is based on game semantics. This new semantics has several interesting aspects: in particular, it gives a logical status to the $read$ predicate in Prolog.

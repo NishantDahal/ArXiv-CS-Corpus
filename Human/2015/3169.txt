@@ -1,0 +1,3 @@
+A General Scheme for Noise-Tolerant Logic Design Based on Probabilistic and DCVS Approaches
+
+In this paper, a general circuit scheme for noise-tolerant logic design based on Markov Random Field theory and differential Cascade Voltage Switch technique has been proposed, which is an extension of the work in [1-3], [4]. A block with only four transistors has been successfully inserted to the original circuit scheme from [3] and extensive simulation results show that our proposed design can operate correctly with the input signal of 1 dB signal-noise-ratio. When using the evaluation parameter from [5], the output value of our design decreases by 76.5% on average than [3] which means that superior noise-immunity could be obtained through our work.

@@ -1,0 +1,3 @@
+Parameter Adjustment in Bayes Networks. The generalized noisy OR-gate
+
+Spiegelhalter and Lauritzen [15] studied sequential learning in Bayesian networks and proposed three models for the representation of conditional probabilities.  A forth model, shown here, assumes that the parameter distribution is given by a product of Gaussian functions and updates them from the _ and _r messages of evidence propagation.  We also generalize the noisy OR-gate for multivalued variables, develop the algorithm to compute probability in time proportional to the number of parents (even in networks with loops) and apply the learning model to this gate.

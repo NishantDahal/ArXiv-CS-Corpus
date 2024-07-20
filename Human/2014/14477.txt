@@ -1,0 +1,3 @@
+On Conditional Decomposability
+
+The requirement of a language to be conditionally decomposable is imposed on a specification language in the coordination supervisory control framework of discrete-event systems. In this paper, we present a polynomial-time algorithm for the verification whether a language is conditionally decomposable with respect to given alphabets. Moreover, we also present a polynomial-time algorithm to extend the common alphabet so that the language becomes conditionally decomposable. A relationship of conditional decomposability to nonblockingness of modular discrete-event systems is also discussed in this paper in the general settings. It is shown that conditional decomposability is a weaker condition than nonblockingness.

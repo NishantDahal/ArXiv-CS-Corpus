@@ -1,0 +1,3 @@
+An IMS DSL Developed at Ericsson
+
+In this paper, we present how we created a Domain Specific Language (DSL) dedicated to IP Multimedia Subsystem (IMS) at Ericsson. First, we introduce IMS and how developers are burdened by its complexity when integrating it in their application. Then we describe the principles we followed to create our new IMS DSL from its core in the Scala language to its syntax. We then present how we integrated it in two existing projects and show how it can save time for developers and how readable the syntax of the IMS DSL is.

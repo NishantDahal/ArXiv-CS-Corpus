@@ -1,0 +1,3 @@
+An Extension to Hough Transform Based on Gradient Orientation
+
+The Hough transform is one of the most common methods for line detection. In this paper we propose a novel extension of the regular Hough transform. The proposed extension combines the extension of the accumulator space and the local gradient orientation resulting in clutter reduction and yielding more prominent peaks, thus enabling better line identification. We demonstrate benefits in applications such as visual quality inspection and rectangle detection.

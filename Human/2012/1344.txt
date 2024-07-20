@@ -1,0 +1,3 @@
+An Amendment of Fast Subspace Tracking Methods
+
+Tuning stepsize between convergence rate and steady state error level or stability is a problem in some subspace tracking schemes. Methods in DPM and OJA class may show sparks in their steady state error sometimes, even with a rather small stepsize. By a study on the schemes' updating formula, it is found that the update only happens in a specific plane but not all the subspace basis. Through an analysis on relationship between the vectors in that plane, an amendment as needed is made on the algorithm routine to fix the problem by constricting the stepsize at every update step. The simulation confirms elimination of the sparks.

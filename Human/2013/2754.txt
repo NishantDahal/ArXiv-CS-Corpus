@@ -1,0 +1,3 @@
+Generalizing k-means for an arbitrary distance matrix
+
+The original k-means clustering method works only if the exact vectors representing the data points are known. Therefore calculating the distances from the centroids needs vector operations, since the average of abstract data points is undefined. Existing algorithms can be extended for those cases when the sole input is the distance matrix, and the exact representing vectors are unknown. This extension may be named relational k-means after a notation for a similar algorithm invented for fuzzy clustering. A method is then proposed for generalizing k-means for scenarios when the data points have absolutely no connection with a Euclidean space.

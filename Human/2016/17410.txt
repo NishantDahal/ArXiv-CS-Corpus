@@ -1,0 +1,3 @@
+An Update on Deductive Synthesis and Repair in the Leon Tool
+
+We report our progress in scaling deductive synthesis and repair of recursive functional Scala programs in the Leon tool. We describe new techniques, including a more precise mechanism for encoding the space of meaningful candidate programs. Our techniques increase the scope of synthesis by expanding the space of programs we can synthesize and by reducing the synthesis time in many cases. As a new example, we present a run-length encoding function for a list of values, which Leon can now automatically synthesize from specification consisting of the decoding function and the local minimality property of the encoded value.

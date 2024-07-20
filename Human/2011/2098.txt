@@ -1,0 +1,3 @@
+On the Decidability of Connectedness Constraints in 2D and 3D Euclidean Spaces
+
+We investigate (quantifier-free) spatial constraint languages with equality, contact and connectedness predicates as well as Boolean operations on regions, interpreted over low-dimensional Euclidean spaces. We show that the complexity of reasoning varies dramatically depending on the dimension of the space and on the type of regions considered. For example, the logic with the interior-connectedness predicate (and without contact) is undecidable over polygons or regular closed sets in the Euclidean plane, NP-complete over regular closed sets in three-dimensional Euclidean space, and ExpTime-complete over polyhedra in three-dimensional Euclidean space.

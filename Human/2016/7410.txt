@@ -1,0 +1,3 @@
+Combating Malicious DNS Tunnel
+
+This paper proposes a defense scheme against malicious use of DNS tunnel. A tunnel validator is designed to provide trustworthy tunnel-aware defensive recursive service. In addition to the detection algorithm of malicious tunnel domains, the tunnel validation relies on registered tunnel domains as whitelist and identified malicious tunnel domains as blacklist. A benign tunnel user is thus motivated to register its tunnel domain before using it. Through the tunnel validation, the secure domains are allowed to the recursive service provided by the tunnel validator and the insecure domains are blocked. All inbound suspicious DNS queries are recorded and stored for forensics and future malicious tunnel detection by the tunnel validator.

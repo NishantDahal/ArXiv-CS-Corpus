@@ -1,0 +1,3 @@
+An Event-B framework for the validation of Event-B refinement plugins
+
+We propose an Event-B framework for modeling the underlying theoretical foundations of Event-B. The aim of this framework is to reuse, for Event-B itself, the refinement development process. This framework introduces first, a functional kernel through an Event-B context, then, it defines Event-B projects, their static and dynamic semantics through Event-B machines. We intend to use this framework for the validation of Event-B plugins related to distribution and for Event-B extensions related to composition and decomposition.

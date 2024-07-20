@@ -1,0 +1,3 @@
+Wave-shape function analysis -- when cepstrum meets time-frequency analysis
+
+We propose to combine cepstrum and nonlinear time-frequency (TF) analysis to study mutiple component oscillatory signals with time-varying frequency and amplitude and with time-varying non-sinusoidal oscillatory pattern. The concept of cepstrum is applied to eliminate the wave-shape function influence on the TF analysis, and we propose a new algorithm, named de-shape synchrosqueezing transform (de-shape SST). The mathematical model, adaptive non-harmonic model, is introduced and the de-shape SST algorithm is theoretically analyzed. In addition to simulated signals, several different physiological, musical and biological signals are analyzed to illustrate the proposed algorithm.

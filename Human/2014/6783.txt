@@ -1,0 +1,3 @@
+A composable language for action models
+
+Action models are semantic structures similar to Kripke models that represent a change in knowledge in an epistemic setting. Whereas the language of action model logic embeds the semantic structure of an action model directly within the language, this paper introduces a language that represents action models using syntactic operators inspired by relational actions. This language admits an intuitive description of the action models it represents, and we show in several settings that it is sufficient to represent any action model up to a given modal depth and to represent the results of action model synthesis, and give a sound and complete axiomatisation in some of these settings.

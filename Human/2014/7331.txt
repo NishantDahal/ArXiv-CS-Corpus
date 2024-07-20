@@ -1,0 +1,6 @@
+ANN queries: covering Voronoi diagram with hyperboxes
+
+Given a set $S$ of $n$ points in $d$-dimensional Euclidean metric space $X$ and a small positive real number $ε$, we present an algorithm to preprocess $S$ and answer queries that require finding a set $S' \subseteq S$ of $ε$-approximate nearest neighbors (ANNs) to a given query point $q \in X$. The following are the characteristics of points belonging to set $S'$:
+  - $\forall s \in S'$, $\exists$ a point $p \in X$ such that $|pq| \le ε$ and the nearest neighbor of $p$ is $s$, and
+  - $\exists$ a $s' \in S'$ such that $s'$ is a nearest neighbor of $q$.
+  During the preprocessing phase, from the Voronoi diagram of $S$ we construct a set of box trees of size $O(4^d\frac{V}δ(\fracπε)^{d-1})$ which facilitate in querying ANNs of any input query point in $O(\frac{1}{d}lg \frac{V}δ + (\fracπε)^{d-1})$ time. Here $δ$ equals to $(\fracε{2\sqrt{d}})^d$, and $V$ is the volume of a large bounding box that contains all the points of set $S$. The average case cardinality of $S'$ is shown to rely on $S$ and $ε$.

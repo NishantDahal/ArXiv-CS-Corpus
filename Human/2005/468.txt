@@ -1,0 +1,3 @@
+Elements for Response Time Statistics in ERP Transaction Systems
+
+We present some measurements and ideas for response time statistics in ERP systems. It is shown that the response time distribution of a given transaction in a given system is generically a log-normal distribution or, in some situations, a sum of two or more log-normal distributions. We present some arguments for this form of the distribution based on heuristic rules for response times, and we show data from performance measurements in actual systems to support the log-normal form. Deviations of the log-normal form can often be traced back to performance problems in the system. Consequences for the interpretation of response time data and for service level agreements are discussed.

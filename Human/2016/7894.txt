@@ -1,0 +1,3 @@
+A Coinductive Approach to Computing with Compact Sets
+
+Exact representations of real numbers such as the signed digit representation or more generally linear fractional representations or the infinite Gray code represent real numbers as infinite streams of digits. In earlier work by the first author it was shown how to extract certified algorithms working with the signed digit representations from constructive proofs. In this paper we lay the foundation for doing a similar thing with nonempty compact sets. It turns out that a representation by streams of finitely many digits is impossible and instead trees are needed.

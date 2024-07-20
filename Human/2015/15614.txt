@@ -1,0 +1,3 @@
+A Note on Approximating 2-Transmitters
+
+A k-transmitter in a simple orthogonal polygon P is a mobile guard that travels back and forth along an orthogonal line segment s inside P. The k-transmitter can see a point p in P if there exists a point q on s such that the line segment pq is normal to s and pq intersects the boundary of P in at most k points. In this paper, we give a 2-approximation algorithm for the problem of guarding a monotone orthogonal polygon with the minimum number of 2-transmitters.

@@ -1,0 +1,6 @@
+Reductions in Distributed Computing Part I: Consensus and Atomic Commitment Tasks
+
+We introduce several notions of reduction in distributed computing, and investigate reduction properties of two fundamental agreement tasks, namely Consensus and Atomic Commitment.
+  We first propose the notion of reduction "a la Karp'', an analog for distributed computing of the classical Karp reduction. We then define a weaker reduction which is the analog of Cook reduction. These two reductions are called K-reduction and C-reduction, respectively.
+  We also introduce the notion of C*-reduction which has no counterpart in classical (namely, non distributed) systems, and which naturally arises when dealing with symmetric tasks.
+  We establish various reducibility and irreducibility theorems with respect to these three reductions. Our main result is an incomparability statement for Consensus and Atomic Commitment tasks: we show that they are incomparable with respect to the C-reduction, except when the resiliency degree is 1, in which case Atomic Commitment is strictly harder than Consensus. A side consequence of these results is that our notion of C-reduction is strictly weaker than the one of K-reduction, even for unsolvable tasks.

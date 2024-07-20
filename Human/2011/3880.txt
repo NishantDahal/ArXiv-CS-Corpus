@@ -1,0 +1,3 @@
+The Expected Order of Saturated RNA Secondary Structures
+
+We show the expected order of RNA saturated secondary structures of size $n$ is $\log_4n(1+O(\frac{\log_2n}{n}))$, if we select the saturated secondary structure uniformly at random. Furthermore, the order of saturated secondary structures is sharply concentrated around its mean. As a consequence saturated structures and structures in the traditional model behave the same with respect to the expected order. Thus we may conclude that the traditional model has already drawn the right picture and conclusions inferred from it with respect to the order (the overall shape) of a structure remain valid even if enforcing saturation (at least in expectation).

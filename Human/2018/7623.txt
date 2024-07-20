@@ -1,0 +1,3 @@
+Efficient Auctions With Common Values
+
+Consider the problem of allocating goods to buyers through an auction. An auction is efficient if the resulting allocation maximizes total welfare, conditional on the information available. If buyers have private values, the Vickrey-Groves-Clarke mechanism is efficient. If buyers have common values and a buyer's information can be summarized as a one-dimensional signal, Dasgupta and Maskin present an efficient auction. We construct an efficient auction mechanism in case buyer information is multidimensional, for a restricted class of valuation functions, and we prove which of the assumptions made are necessary for the existence of an efficient mechanism.

@@ -1,0 +1,3 @@
+FPGA Implementation of High Speed Baugh-Wooley Multiplier using Decomposition Logic
+
+The Baugh-Wooley algorithm is a well-known iterative algorithm for performing multiplication in digital signal processing applications. Decomposition logic is used with Baugh-Wooley algorithm to enhance the speed and to reduce the critical path delay. In this paper a high speed multiplier is designed and implemented using decomposition logic and Baugh-Wooley algorithm. The result is compared with booth multiplier. FPGA based architecture is presented and design has been implemented using Xilinx 12.3 device.

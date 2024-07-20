@@ -1,0 +1,3 @@
+Autonomous Reinforcement of Behavioral Sequences in Neural Dynamics
+
+We introduce a dynamic neural algorithm called Dynamic Neural (DN) SARSA(λ) for learning a behavioral sequence from delayed reward. DN-SARSA(λ) combines Dynamic Field Theory models of behavioral sequence representation, classical reinforcement learning, and a computational neuroscience model of working memory, called Item and Order working memory, which serves as an eligibility trace. DN-SARSA(λ) is implemented on both a simulated and real robot that must learn a specific rewarding sequence of elementary behaviors from exploration. Results show DN-SARSA(λ) performs on the level of the discrete SARSA(λ), validating the feasibility of general reinforcement learning without compromising neural dynamics.

@@ -1,0 +1,3 @@
+Design of Low Noise Amplifiers Using Particle Swarm Optimization
+
+This short paper presents a work on the design of low noise microwave amplifiers using particle swarm optimization (PSO) technique. Particle Swarm Optimization is used as a method that is applied to a single stage amplifier circuit to meet two criteria: desired gain and desired low noise. The aim is to get the best optimized design using the predefined constraints for gain and low noise values. The code is written to apply the algorithm to meet the desired goals and the obtained results are verified using different simulators. The results obtained show that PSO can be applied very efficiently for this kind of design problems with multiple constraints.

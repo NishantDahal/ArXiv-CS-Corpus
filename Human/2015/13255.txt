@@ -1,0 +1,3 @@
+Communication Efficient Algorithms for Top-k Selection Problems
+
+We present scalable parallel algorithms with sublinear per-processor communication volume and low latency for several fundamental problems related to finding the most relevant elements in a set, for various notions of relevance: We begin with the classical selection problem with unsorted input. We present generalizations with locally sorted inputs, dynamic content (bulk-parallel priority queues), and multiple criteria. Then we move on to finding frequent objects and top-k sum aggregation. Since it is unavoidable that the output of these algorithms might be unevenly distributed over the processors, we also explain how to redistribute this data with minimal communication.

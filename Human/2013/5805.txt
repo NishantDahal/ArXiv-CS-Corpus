@@ -1,0 +1,3 @@
+An Upper Bound on the Convergence Time for Distributed Binary Consensus
+
+The problem addressed in this paper is the analysis of a distributed consensus algorithm for arbitrary networks, proposed by Bénézit et al.. In the initial setting, each node in the network has one of two possible states ("yes" or "no"). Nodes can update their states by communicating with their neighbors via a 2-bit message in an asynchronous clock setting. Eventually, all nodes reach consensus on the majority states. We use the theory of electric networks, random walks, and couplings of Markov chains to derive an O(N4 logN) upper bound for the expected convergence time on an arbitrary graph of size N.

@@ -1,0 +1,3 @@
+Learning Product Automata
+
+In this paper we give an optimization for active learning algorithms, applicable to learning Moore machines where the output comprises several observables. These machines can be decomposed themselves by projecting on each observable, resulting in smaller components. These components can then be learnt with fewer queries. This is in particular interesting for learning software, where compositional methods are important for guaranteeing scalability.

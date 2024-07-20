@@ -1,0 +1,3 @@
+The Suspension Calculus and its Relationship to Other Explicit Treatments of Substitution in Lambda Calculi
+
+The intrinsic treatment of binding in the lambda calculus makes it an ideal data structure for representing syntactic objects with binding such as formulas, proofs, types, and programs. Supporting such a data structure in an implementation is made difficult by the complexity of the substitution operation relative to lambda terms. In this paper we present the suspension calculus, an explicit treatment of meta level binding in the lambda calculus. We prove properties of this calculus which make it a suitable replacement for the lambda calculus in implementation. Finally, we compare the suspension calculus with other explicit treatments of substitution.

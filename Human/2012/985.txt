@@ -1,0 +1,3 @@
+Stiffness matrix of manipulators with passive joints: computational aspects
+
+The paper focuses on stiffness matrix computation for manipulators with passive joints, compliant actuators and flexible links. It proposes both explicit analytical expressions and an efficient recursive procedure that are applicable in the general case and allow obtaining the desired matrix either in analytical or numerical form. Advantages of the developed technique and its ability to produce both singular and non-singular stiffness matrices are illustrated by application examples that deal with stiffness modeling of two Stewart-Gough platforms.

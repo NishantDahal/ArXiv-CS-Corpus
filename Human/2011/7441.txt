@@ -1,0 +1,3 @@
+A program logic for higher-order procedural variables and non-local jumps
+
+Relying on the formulae-as-types paradigm for classical logic, we define a program logic for an imperative language with higher-order procedural variables and non-local jumps. Then, we show how to derive a sound program logic for this programming language. As a by-product, we obtain a non-dependent type system which is more permissive than what is usually found in statically typed imperative languages. As a generic example, we encode imperative versions of delimited continuations operators shift and reset.

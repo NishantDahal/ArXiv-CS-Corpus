@@ -1,0 +1,3 @@
+A Software Parallel Programming Approach to FPGA-Accelerated Computing
+
+This paper introduces an effort to incorporate reconfigurable logic (FPGA) components into a software programming model. For this purpose, we have implemented a hardware engine for remote memory communication between hardware computation nodes and CPUs. The hardware engine is compatible with the API of GASNet, a popular communication library used for parallel computing applications. We have further implemented our own x86 and ARMv7 software versions of the GASNet Core API, enabling us to write distributed applications with software and hardware GASNet components transparently communicating with each other.

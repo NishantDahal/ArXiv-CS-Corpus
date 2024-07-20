@@ -1,0 +1,3 @@
+Quantum digital-to-analog conversion algorithm using decoherence
+
+We consider the problem of mapping digital data encoded on a quantum register to analog amplitudes in parallel. It is shown to be unlikely that a fully unitary polynomial-time quantum algorithm exists for this problem; NP becomes a subset of BQP if it exists. In the practical point of view, we propose a nonunitary linear-time algorithm using quantum decoherence. It tacitly uses an exponentially large physical resource, which is typically a huge number of identical molecules. Quantumness of correlation appearing in the process of the algorithm is also discussed.

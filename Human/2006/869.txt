@@ -1,0 +1,3 @@
+Dealing with Metonymic Readings of Named Entities
+
+The aim of this paper is to propose a method for tagging named entities (NE), using natural language processing techniques. Beyond their literal meaning, named entities are frequently subject to metonymy. We show the limits of current NE type hierarchies and detail a new proposal aiming at dynamically capturing the semantics of entities in context. This model can analyze complex linguistic phenomena like metonymy, which are known to be difficult for natural language processing but crucial for most applications. We present an implementation and some test using the French ESTER corpus and give significant results.

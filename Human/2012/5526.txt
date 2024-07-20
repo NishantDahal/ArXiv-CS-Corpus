@@ -1,0 +1,5 @@
+Checking Satisfiability by Dependency Sequents
+
+We introduce a new algorithm for checking satisfiability based on a calculus of Dependency sequents (D-sequents). Given a CNF formula F(X), a D-sequent is a record stating that under a partial assignment a set of variables of X is redundant in formula \exists{X}[F]. The D-sequent calculus is based on operation join that forms a new D-sequent from two existing D-sequents. The new algorithm solves the quantified version of SAT. That is, given a satisfiable formula F, it, in general, does not produce an assignment satisfying F.
+  The new algorithm is called DS-QSAT where DS stands for Dependency Sequent and Q for Quantified.
+  Importantly, a DPLL-like procedure is only a special case of DS-QSAT where a very restricted kind of D-sequents is used. We argue that this restriction a) adversely affects scalability of SAT-solvers and b) is caused by looking for an explicit satisfying assignment rather than just proving satisfiability. We give experimental results substantiating these claims.

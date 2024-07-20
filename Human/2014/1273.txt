@@ -1,0 +1,3 @@
+Deep Scattering Spectrum
+
+A scattering transform defines a locally translation invariant representation which is stable to time-warping deformations. It extends MFCC representations by computing modulation spectrum coefficients of multiple orders, through cascades of wavelet convolutions and modulus operators. Second-order scattering coefficients characterize transient phenomena such as attacks and amplitude modulation. A frequency transposition invariant representation is obtained by applying a scattering transform along log-frequency. State-the-of-art classification results are obtained for musical genre and phone classification on GTZAN and TIMIT databases, respectively.

@@ -1,0 +1,3 @@
+Using shifted conjugacy in braid-based cryptography
+
+Conjugacy is not the only possible primitive for designing braid-based protocols. To illustrate this principle, we describe a Fiat--Shamir-style authentication protocol that be can be implemented using any binary operation that satisfies the left self-distributive law. Conjugation is an example of such an operation, but there are other examples, in particular the shifted conjugation on Artin's braid group B\_oo, and the finite Laver tables. In both cases, the underlying structures have a high combinatorial complexity, and they lead to difficult problems.

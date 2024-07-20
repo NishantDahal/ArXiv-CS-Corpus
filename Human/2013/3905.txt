@@ -1,0 +1,3 @@
+Lower bounds on the Münchhausen problem
+
+"The Baron's omni-sequence", B(n), first defined by Khovanova and Lewis (2011), is a sequence that gives for each n the minimum number of weighings on balance scales that can verify the correct labeling of n identically-looking coins with distinct integer weights between 1 gram and n grams. A trivial lower bound on B(n) is log_3(n), and it has been shown that B(n) is log_3(n) + O(log log n). In this paper we give a first nontrivial lower bound to the Münchhausen problem, showing that there is an infinite number of n values for which B(n) does not equal ceil(log_3 n). Furthermore, we show that if N(k) is the number of n values for which k = ceil(log_3 n) and B(n) does not equal k, then N(k) is an unbounded function of k.

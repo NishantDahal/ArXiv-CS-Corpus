@@ -1,0 +1,3 @@
+Reducing Offline Evaluation Bias in Recommendation Systems
+
+Recommendation systems have been integrated into the majority of large online systems. They tailor those systems to individual users by filtering and ranking information according to user profiles. This adaptation process influences the way users interact with the system and, as a consequence, increases the difficulty of evaluating a recommendation algorithm with historical data (via offline evaluation). This paper analyses this evaluation bias and proposes a simple item weighting solution that reduces its impact. The efficiency of the proposed solution is evaluated on real world data extracted from Viadeo professional social network.

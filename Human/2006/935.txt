@@ -1,0 +1,3 @@
+Cryptanalysis of a chaotic block cipher with external key and its improved version
+
+Recently, Pareek et al. proposed a symmetric key block cipher using multiple one-dimensional chaotic maps. This paper reports some new findings on the security problems of this kind of chaotic cipher: 1) a number of weak keys exists; 2) some important intermediate data of the cipher are not sufficiently random; 3) the whole secret key can be broken by a known-plaintext attack with only 120 consecutive known plain-bytes in one known plaintext. In addition, it is pointed out that an improved version of the chaotic cipher proposed by Wei et al. still suffers from all the same security defects.

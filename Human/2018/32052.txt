@@ -1,0 +1,3 @@
+Taylor-based Optimized Recursive Extended Exponential Smoothed Neural Networks Forecasting Method
+
+A newly introduced method called Taylor-based Optimized Recursive Extended Exponential Smoothed Neural Networks Forecasting method is applied and extended in this study to forecast numerical values. Unlike traditional forecasting techniques which forecast only future values, our proposed method provides a new extension to correct the predicted values which is done by forecasting the estimated error. Experimental results demonstrated that the proposed method has a high accuracy both in training and testing data and outperform the state-of-the-art RNN models on Mackey-Glass, NARMA, Lorenz and Henon map datasets.

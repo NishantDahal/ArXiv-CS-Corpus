@@ -1,0 +1,3 @@
+Robust Proximity Search for Balls using Sublinear Space
+
+Given a set of n disjoint balls b1, . . ., bn in IRd, we provide a data structure, of near linear size, that can answer (1 \pm ε)-approximate kth-nearest neighbor queries in O(log n + 1/ε^d) time, where k and εare provided at query time. If k and εare provided in advance, we provide a data structure to answer such queries, that requires (roughly) O(n/k) space; that is, the data structure has sublinear space requirement if k is sufficiently large.

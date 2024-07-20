@@ -1,0 +1,3 @@
+Weighted sampling of outer products
+
+This note gives a simple analysis of the randomized approximation scheme for matrix multiplication of Drineas et al (2006) with a particular sampling distribution over outer products. The result follows from a matrix version of Bernstein's inequality. To approximate the matrix product $AB^\top$ to spectral norm error $\varepsilon\|A\|\|B\|$, it suffices to sample on the order of $(\mathrm{sr}(A) \vee \mathrm{sr}(B)) \log(\mathrm{sr}(A) \wedge \mathrm{sr}(B)) / \varepsilon^2$ outer products, where $\mathrm{sr}(M)$ is the stable rank of a matrix $M$.

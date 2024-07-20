@@ -1,0 +1,3 @@
+Achievable Uplink Rates for Massive MIMO with Coarse Quantization
+
+The high hardware complexity of a massive MIMO base station, which requires hundreds of radio chains, makes it challenging to build commercially. One way to reduce the hardware complexity and power consumption of the receiver is to lower the resolution of the analog-to-digital converters (ADCs). We derive an achievable rate for a massive MIMO system with arbitrary quantization and use this rate to show that ADCs with as low as 3 bits can be used without significant performance loss at spectral efficiencies around 3.5 bpcu per user, also under interference from stronger transmitters and with some imperfections in the automatic gain control.

@@ -1,0 +1,4 @@
+Circuit Complexity Meets Ontology-Based Data Access
+
+Ontology-based data access is an approach to organizing access to a database augmented with a logical theory. In this approach query answering proceeds through a reformulation of a given query into a new one which can be answered without any use of theory. Thus the problem reduces to the standard database setting.
+  However, the size of the query may increase substantially during the reformulation. In this survey we review a recently developed framework on proving lower and upper bounds on the size of this reformulation by employing methods and results from Boolean circuit complexity.

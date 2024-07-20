@@ -1,0 +1,3 @@
+Block Korkin-Zolotarev algorithm generalization and their practical implementation (Russian)
+
+We propose a practical algorithm for block Korkin-Zolotarev reduction, a concept introduced by Schnorr, using CPU arbitrary length Householder QR-decomposition for orthogonalization and double precision OpenCL GPU Finke-Post shortest vector enumeration. Empirical tests was used on random lattices in the sense of Goldstein and Mayer.

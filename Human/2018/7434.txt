@@ -1,0 +1,4 @@
+Improving the upper bound on the length of the shortest reset words
+
+We improve the best known upper bound on the length of the shortest reset words of synchronizing automata. The new bound is slightly better than $114 n^3 / 685 + O(n^2)$. The Černý conjecture states that $(n-1)^2$ is an upper bound. So far, the best general upper bound was $(n^3-n)/6-1$ obtained by J.-E.~Pin and P.~Frankl in 1982. Despite a number of efforts, it remained unchanged for about 35 years.
+  To obtain the new upper bound we utilize avoiding words. A word is avoiding for a state $q$ if after reading the word the automaton cannot be in $q$. We obtain upper bounds on the length of the shortest avoiding words, and using the approach of Trahtman from 2011 combined with the well known Frankl theorem from 1982, we improve the general upper bound on the length of the shortest reset words. For all the bounds, there exist polynomial algorithms finding a word of length not exceeding the bound.

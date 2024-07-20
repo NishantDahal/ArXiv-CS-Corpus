@@ -1,0 +1,3 @@
+Constructing a Word Similarity Graph from Vector based Word Representation for Named Entity Recognition
+
+In this paper, we discuss a method for identifying a seed word that would best represent a class of named entities in a graphical representation of words and their similarities. Word networks, or word graphs, are representations of vectorized text where nodes are the words encountered in a corpus, and the weighted edges incident on the nodes represent how similar the words are to each other. We intend to build a bilingual word graph and identify seed words through community analysis that would be best used to segment a graph according to its named entities, therefore providing an unsupervised way of tagging named entities for a bilingual language base.

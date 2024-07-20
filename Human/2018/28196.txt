@@ -1,0 +1,3 @@
+Local Interpretable Model-agnostic Explanations of Bayesian Predictive Models via Kullback-Leibler Projections
+
+We introduce a method, KL-LIME, for explaining predictions of Bayesian predictive models by projecting the information in the predictive distribution locally to a simpler, interpretable explanation model. The proposed approach combines the recent Local Interpretable Model-agnostic Explanations (LIME) method with ideas from Bayesian projection predictive variable selection methods. The information theoretic basis helps in navigating the trade-off between explanation fidelity and complexity. We demonstrate the method in explaining MNIST digit classifications made by a Bayesian deep convolutional neural network.

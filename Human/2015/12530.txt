@@ -1,0 +1,5 @@
+Delaunay Triangulations of Degenerate Point Sets
+
+The Delaunay triangulation (DT) is one of the most common and useful triangulations of point sets $P$ in the plane. DT is not unique when $P$ is degenerate, specifically when it contains quadruples of co-circular points. One way to achieve uniqueness is by applying a small (or infinitesimal) perturbation to $P$.
+  We consider a specific perturbation of such degenerate sets, in which the coordinates of each point are independently perturbed by normally distributed small quantities, and investigate the effect of such perturbations on the DT of the set. We focus on two special configurations, where (1) the points of $P$ form a uniform grid, and (2) the points of $P$ are vertices of a regular polygon.
+  We present interesting (and sometimes surprising) empirical findings and properties of the perturbed DTs for these cases, and give theoretical explanations to some of them.

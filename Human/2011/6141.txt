@@ -1,0 +1,3 @@
+Distributed Evolutionary Graph Partitioning
+
+We present a novel distributed evolutionary algorithm, KaFFPaE, to solve the Graph Partitioning Problem, which makes use of KaFFPa (Karlsruhe Fast Flow Partitioner). The use of our multilevel graph partitioner KaFFPa provides new effective crossover and mutation operators. By combining these with a scalable communication protocol we obtain a system that is able to improve the best known partitioning results for many inputs in a very short amount of time. For example, in Walshaw's well known benchmark tables we are able to improve or recompute 76% of entries for the tables with 1%, 3% and 5% imbalance.

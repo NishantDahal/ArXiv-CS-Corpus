@@ -1,0 +1,3 @@
+A quantum circuit to find discrete logarithms on ordinary binary elliptic curves in depth O(log^2 n)
+
+Improving over an earlier construction by Kaye and Zalka, Maslov et al. describe an implementation of Shor's algorithm which can solve the discrete logarithm problem on binary elliptic curves in quadratic depth O(n^2). In this paper we show that discrete logarithms on such curves can be found with a quantum circuit of depth O(log^2 n). As technical tools we introduce quantum circuits for GF(2^n) multiplication in depth O(log n) and for GF(2^n) inversion in depth O(log^2 n).

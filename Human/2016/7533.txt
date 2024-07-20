@@ -1,0 +1,7 @@
+Parameterized complexity of the MINCCA problem on graphs of bounded decomposability
+
+In an edge-colored graph, the cost incurred at a vertex on a path when two incident edges with different colors are traversed is called reload or changeover cost. The "Minimum Changeover Cost Arborescence" (MINCCA) problem consists in finding an arborescence with a given root vertex such that the total changeover cost of the internal vertices is minimized. It has been recently proved by Gözüpek et al. [TCS 2016] that the problem is FPT when parameterized by the treewidth and the maximum degree of the input graph. In this article we present the following results for the MINCCA problem:
+  - the problem is W[1]-hard parameterized by the treedepth of the input graph, even on graphs of average degree at most 8. In particular, it is W[1]-hard parameterized by the treewidth of the input graph, which answers the main open problem of Gözüpek et al. [TCS 2016];
+  - it is W[1]-hard on multigraphs parameterized by the tree-cutwidth of the input multigraph;
+  - it is FPT parameterized by the star tree-cutwidth of the input graph, which is a slightly restricted version of tree-cutwidth. This result strictly generalizes the FPT result given in Gözüpek et al. [TCS 2016];
+  - it remains NP-hard on planar graphs even when restricted to instances with at most 6 colors and 0/1 symmetric costs, or when restricted to instances with at most 8 colors, maximum degree bounded by 4, and 0/1 symmetric costs.

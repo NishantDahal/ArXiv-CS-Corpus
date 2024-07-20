@@ -1,0 +1,3 @@
+Balanced Fair Resource Sharing in Computer Clusters
+
+We represent a computer cluster as a multi-server queue with some arbitrary bipartite graph of compatibilities between jobs and servers. Each server processes its jobs sequentially in FCFS order. The service rate of a job at any given time is the sum of the service rates of all servers processing this job. We show that the corresponding queue is quasi-reversible and use this property to design a scheduling algorithm achieving balanced fair sharing of the service capacity.

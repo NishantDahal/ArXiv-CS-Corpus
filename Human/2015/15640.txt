@@ -1,0 +1,3 @@
+Flips in Edge-Labelled Pseudo-Triangulations
+
+We show that $O(n^2)$ exchanging flips suffice to transform any edge-labelled pointed pseudo-triangulation into any other with the same set of labels. By using insertion, deletion and exchanging flips, we can transform any edge-labelled pseudo-triangulation into any other with $O(n \log c + h \log h)$ flips, where $c$ is the number of convex layers and $h$ is the number of points on the convex hull.

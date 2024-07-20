@@ -1,0 +1,4 @@
+A Quantitative Steinitz Theorem for Plane Triangulations
+
+We give a new proof of Steinitz's classical theorem in the case of plane triangulations, which allows us to obtain a new general bound on the grid size of the simplicial polytope realizing a given triangulation, subexponential in a number of special cases.
+  Formally, we prove that every plane triangulation $G$ with $n$ vertices can be embedded in $\mathbb{R}^2$ in such a way that it is the vertical projection of a convex polyhedral surface. We show that the vertices of this surface may be placed in a $4n^3 \times 8n^5 \times ζ(n)$ integer grid, where $ζ(n) \leq (500 n^8)^{τ(G)}$ and $τ(G)$ denotes the shedding diameter of $G$, a quantity defined in the paper.

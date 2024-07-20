@@ -1,0 +1,3 @@
+Fast integer multiplication using generalized Fermat primes
+
+For almost 35 years, Sch{ö}nhage-Strassen's algorithm has been the fastest algorithm known for multiplying integers, with a time complexity O(n $\times$ log n $\times$ log log n) for multiplying n-bit inputs. In 2007, F{ü}rer proved that there exists K > 1 and an algorithm performing this operation in O(n $\times$ log n $\times$ K log n). Recent work by Harvey, van der Hoeven, and Lecerf showed that this complexity estimate can be improved in order to get K = 8, and conjecturally K = 4. Using an alternative algorithm, which relies on arithmetic modulo generalized Fermat primes, we obtain conjecturally the same result K = 4 via a careful complexity analysis in the deterministic multitape Turing model.

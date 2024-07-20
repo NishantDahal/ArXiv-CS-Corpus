@@ -1,0 +1,3 @@
+Intelligent flat-and-textureless object manipulation in Service Robots
+
+This work introduces our approach to the flat and textureless object grasping problem. In particular, we address the tableware and cutlery manipulation problem where a service robot has to clean up a table. Our solution integrates colour and 2D and 3D geometry information to describe objects, and this information is given to the robot action planner to find the best grasping trajectory depending on the object class. Furthermore, we use visual feedback as a verification step to determine if the grasping process has successfully occurred. We evaluate our approach in both an open and a standard service robot platform following the RoboCup@Home international tournament regulations.

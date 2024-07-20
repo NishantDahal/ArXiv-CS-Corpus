@@ -1,0 +1,3 @@
+Bias Compensation in Iterative Soft-Feedback Algorithms with Application to (Discrete) Compressed Sensing
+
+In all applications in digital communications, it is crucial for an estimator to be unbiased. Although so-called soft feedback is widely employed in many different fields of engineering, typically the biased estimate is used. In this paper, we contrast the fundamental unbiasing principles, which can be directly applied whenever soft feedback is required. To this end, the problem is treated from a signal-based perspective, as well as from the approach of estimating the signal based on an estimate of the noise. Numerical results show that when employed in iterative reconstruction algorithms for Compressed Sensing, a gain of 1.2 dB due to proper unbiasing is possible.

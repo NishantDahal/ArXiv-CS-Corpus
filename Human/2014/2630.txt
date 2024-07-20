@@ -1,0 +1,3 @@
+Extended Formulations for Sparsity Matroids
+
+We show the existence of a polynomial-size extended formulation for the base polytope of a $(k,\ell)$-sparsity matroid. For an undirected graph $G=(V,E)$, the size of the formulation is $O(|V||E|)$ when $k \geq \ell$ and $O(|V|^2 |E|)$ when $k \leq \ell$. To this end, we employ the technique developed by Faenza et al. recently that uses a randomized communication protocol.

@@ -1,0 +1,4 @@
+Parallel Algorithms for Summing Floating-Point Numbers
+
+The problem of exactly summing n floating-point numbers is a fundamental problem that has many applications in large-scale simulations and computational geometry. Unfortunately, due to the round-off error in standard floating-point operations, this problem becomes very challenging. Moreover, all existing solutions rely on sequential algorithms which cannot scale to the huge datasets that need to be processed.
+  In this paper, we provide several efficient parallel algorithms for summing n floating point numbers, so as to produce a faithfully rounded floating-point representation of the sum. We present algorithms in PRAM, external-memory, and MapReduce models, and we also provide an experimental analysis of our MapReduce algorithms, due to their simplicity and practical efficiency.

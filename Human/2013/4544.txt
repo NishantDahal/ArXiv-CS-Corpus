@@ -1,0 +1,6 @@
+How to Approximate A Set Without Knowing Its Size In Advance
+
+The dynamic approximate membership problem asks to represent a set S of size n, whose elements are provided in an on-line fashion, supporting membership queries without false negatives and with a false positive rate at most epsilon. That is, the membership algorithm must be correct on each x in S, and may err with probability at most epsilon on each x not in S.
+  We study a well-motivated, yet insufficiently explored, variant of this problem where the size n of the set is not known in advance. Existing optimal approximate membership data structures require that the size is known in advance, but in many practical scenarios this is not a realistic assumption. Moreover, even if the eventual size n of the set is known in advance, it is desirable to have the smallest possible space usage also when the current number of inserted elements is smaller than n. Our contribution consists of the following results:
+  - We show a super-linear gap between the space complexity when the size is known in advance and the space complexity when the size is not known in advance.
+  - We show that our space lower bound is tight, and can even be matched by a highly efficient data structure.

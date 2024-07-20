@@ -1,0 +1,3 @@
+A horizontally-scalable multiprocessing platform based on Node.js
+
+This paper presents a scalable web-based platform called Node Scala which allows to split and handle requests on a parallel distributed system according to pre-defined use cases. We applied this platform to a client application that visualizes climate data stored in a NoSQL database MongoDB. The design of Node Scala leads to efficient usage of available computing resources in addition to allowing the system to scale simply by adding new workers. Performance evaluation of Node Scala demonstrated a gain of up to 74 % compared to the state-of-the-art techniques.

@@ -1,0 +1,3 @@
+Differentially Private Bayesian Programming
+
+We present PrivInfer, an expressive framework for writing and verifying differentially private Bayesian machine learning algorithms. Programs in PrivInfer are written in a rich functional probabilistic programming language with constructs for performing Bayesian inference. Then, differential privacy of programs is established using a relational refinement type system, in which refinements on probability types are indexed by a metric on distributions. Our framework leverages recent developments in Bayesian inference, probabilistic programming languages, and in relational refinement types. We demonstrate the expressiveness of PrivInfer by verifying privacy for several examples of private Bayesian inference.

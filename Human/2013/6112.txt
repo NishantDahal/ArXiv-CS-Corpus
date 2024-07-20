@@ -1,0 +1,5 @@
+Finding and Solving Contradictions of False Positives in Virus Scanning
+
+False positives are equally dangerous as false negatives. Ideally the false positive rate should remain 0 or very close to 0. Even a slightest increase in false positive rate is considered as undesirable.
+  Although the specific methods provide very accurate scanning by comparing viruses with their exact signatures, they fail to detect the new and unknown viruses. On the other hand the generic methods can detect even new viruses without using virus signatures. But these methods are more likely to generate false positives. There is a positive correlation between the capability to detect new and unknown viruses and false positive rate.
+  While a traditional approach tries to achieve a right balance between false positives and false negatives a TRIZ approach looks forward to achieve the Ideal Final Result. The Ideal final result is to 'detect and prevent viruses with full certainty. The chances of error should be nil and the method should not raise any false positive or false negative.' The article shows many contradictions relating to false positives and their solutions.

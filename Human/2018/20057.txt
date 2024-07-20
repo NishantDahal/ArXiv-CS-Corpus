@@ -1,0 +1,3 @@
+Compatible 4-Holes in Point Sets
+
+Counting interior-disjoint empty convex polygons in a point set is a typical Erdős-Szekeres-type problem. We study this problem for 4-gons. Let $P$ be a set of $n$ points in the plane and in general position. A subset $Q$ of $P$, with four points, is called a $4$-hole in $P$ if $Q$ is in convex position and its convex hull does not contain any point of $P$ in its interior. Two 4-holes in $P$ are compatible if their interiors are disjoint. We show that $P$ contains at least $\lfloor 5n/11\rfloor {-} 1$ pairwise compatible 4-holes. This improves the lower bound of $2\lfloor(n-2)/5\rfloor$ which is implied by a result of Sakai and Urrutia (2007).

@@ -1,0 +1,3 @@
+Synchronizing Random Almost-Group Automata
+
+In this paper we address the question of synchronizing random automata in the critical settings of almost-group automata. Group automata are automata where all letters act as permutations on the set of states, and they are not synchronizing (unless they have one state). In almost-group automata, one of the letters acts as a permutation on $n-1$ states, and the others as permutations. We prove that this small change is enough for automata to become synchronizing with high probability. More precisely, we establish that the probability that a strongly connected almost-group automaton is not synchronizing is $\frac{2^{k-1}-1}{n^{2(k-1)}}(1+o(1))$, for a $k$-letter alphabet.

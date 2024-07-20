@@ -1,0 +1,3 @@
+Dynamic Consistency Checking in Goal-Directed Answer Set Programming
+
+In answer set programming, inconsistencies arise when the constraints placed on a program become unsatisfiable. In this paper, we introduce a technique for dynamic consistency checking for our goal-directed method for computing answer sets, under which only those constraints deemed relevant to the partial answer set are tested, allowing inconsistent knowledgebases to be successfully queried. However, the algorithm guarantees that, if a program has at least one consistent answer set, any partial answer set returned will be a subset of some consistent answer set. To appear in Theory and Practice of Logic Programming (TPLP).

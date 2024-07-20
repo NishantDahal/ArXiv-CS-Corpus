@@ -1,0 +1,3 @@
+Cellular Automata are Generic
+
+Any algorithm (in the sense of Gurevich's abstract-state-machine axiomatization of classical algorithms) operating over any arbitrary unordered domain can be simulated by a dynamic cellular automaton, that is, by a pattern-directed cellular automaton with unconstrained topology and with the power to create new cells.   The advantage is that the latter is closer to physical reality. The overhead of our simulation is quadratic.

@@ -1,0 +1,3 @@
+Dimensionality reduction for acoustic vehicle classification with spectral embedding
+
+We propose a method for recognizing moving vehicles, using data from roadside audio sensors. This problem has applications ranging widely, from traffic analysis to surveillance. We extract a frequency signature from the audio signal using a short-time Fourier transform, and treat each time window as an individual data point to be classified. By applying a spectral embedding, we decrease the dimensionality of the data sufficiently for K-nearest neighbors to provide accurate vehicle identification.

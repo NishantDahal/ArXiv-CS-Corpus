@@ -1,0 +1,3 @@
+The True Destination of EGO is Multi-local Optimization
+
+Efficient global optimization is a popular algorithm for the optimization of expensive multimodal black-box functions. One important reason for its popularity is its theoretical foundation of global convergence. However, as the budgets in expensive optimization are very small, the asymptotic properties only play a minor role and the algorithm sometimes comes off badly in experimental comparisons. Many alternative variants have therefore been proposed over the years. In this work, we show experimentally that the algorithm instead has its strength in a setting where multiple optima are to be identified.

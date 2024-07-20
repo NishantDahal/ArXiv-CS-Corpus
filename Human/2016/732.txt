@@ -1,0 +1,4 @@
+Multicuts and Perturb & MAP for Probabilistic Graph Clustering
+
+We present a probabilistic graphical model formulation for the graph clustering problem. This enables to locally represent uncertainty of image partitions by approximate marginal distributions in a mathematically substantiated way, and to rectify local data term cues so as to close contours and to obtain valid partitions.
+  We exploit recent progress on globally optimal MAP inference by integer programming and on perturbation-based approximations of the log-partition function, in order to sample clusterings and to estimate marginal distributions of node-pairs both more accurately and more efficiently than state-of-the-art methods. Our approach works for any graphically represented problem instance. This is demonstrated for image segmentation and social network cluster analysis. Our mathematical ansatz should be relevant also for other combinatorial problems.

@@ -1,0 +1,5 @@
+A Higher-Order Cheeger's Inequality
+
+A basic fact in algebraic graph theory is that the number of connected components in an undirected graph is equal to the multiplicity of the eigenvalue 1 in the normalized adjacency matrix of the graph. In particular, the graph is disconnected if and only if there are at least two eigenvalues equal to 1.
+  Cheeger's inequality provides an "approximate" version of the latter fact, and it states that a graph has a sparse cut (it is "almost disconnected") if and only if there are at least two eigenvalues that are close to one.
+  It has been conjectured that an analogous characterization holds for higher multiplicities, that is there are $k$ eigenvalues close to 1 if and only if the vertex set can be partitioned into $k$ subsets, each defining a sparse cut. In this paper we resolve this conjecture. Our result provides a theoretical justification for clustering algorithms that use the top $k$ eigenvector to embed the vertices into $\R^k$, and then apply geometric considerations to the embedding.

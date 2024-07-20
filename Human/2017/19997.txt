@@ -1,0 +1,3 @@
+Segment Parameter Labelling in MCMC Mean-Shift Change Detection
+
+This work addresses the problem of segmentation in time series data with respect to a statistical parameter of interest in Bayesian models. It is common to assume that the parameters are distinct within each segment. As such, many Bayesian change point detection models do not exploit the segment parameter patterns, which can improve performance. This work proposes a Bayesian mean-shift change point detection algorithm that makes use of repetition in segment parameters, by introducing segment class labels that utilise a Dirichlet process prior. The performance of the proposed approach was assessed on both synthetic and real world data, highlighting the enhanced performance when using parameter labelling.

@@ -1,0 +1,3 @@
+Functional Decomposition using Principal Subfields
+
+Let $f\in K(t)$ be a univariate rational function. It is well known that any non-trivial decomposition $g \circ h$, with $g,h\in K(t)$, corresponds to a non-trivial subfield $K(f(t))\subsetneq L \subsetneq K(t)$ and vice-versa. In this paper we use the idea of principal subfields and fast subfield-intersection techniques to compute the subfield lattice of $K(t)/K(f(t))$. This yields a Las Vegas type algorithm with improved complexity and better run times for finding all non-equivalent complete decompositions of $f$.

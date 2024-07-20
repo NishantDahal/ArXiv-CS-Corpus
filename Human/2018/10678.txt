@@ -1,0 +1,3 @@
+Depth and nonlinearity induce implicit exploration for RL
+
+The question of how to explore, i.e., take actions with uncertain outcomes to learn about possible future rewards, is a key question in reinforcement learning (RL). Here, we show a surprising result: We show that Q-learning with nonlinear Q-function and no explicit exploration (i.e., a purely greedy policy) can learn several standard benchmark tasks, including mountain car, equally well as, or better than, the most commonly-used $ε$-greedy exploration. We carefully examine this result and show that both the depth of the Q-network and the type of nonlinearity are important to induce such deterministic exploration.

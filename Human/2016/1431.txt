@@ -1,0 +1,4 @@
+Designing A Dimmable OPPM-Based VLC System Under Channel Constraints
+
+In this paper, we design a dimming compatible visible light communication (VLC) system in a standard office room according to illumination standards under channel constraints. We use overlapping pulse position modulation (OPPM) to support dimming control by changing the code weights. The system parameters such as a valid interval for dimming together with an upper bound for bit rate according to the channel delay spread are investigated. Moreover, considering the dispersive VLC channel and using Monte Carlo (MC) simulations, a method is proposed to determine the minimum code length in different dimming levels in order to achieve a valid bit error rate (BER).
+  Finally, trellis coded modulation (TCM) is suggested to be applied to OPPM in order to take advantage of consequent coding gain which could be up to $3$ dB.

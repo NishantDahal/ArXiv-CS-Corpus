@@ -1,0 +1,3 @@
+Resolving zero-divisors using Hensel lifting
+
+Algorithms which compute modulo triangular sets must respect the presence of zero-divisors. We present Hensel lifting as a tool for dealing with them. We give an application: a modular algorithm for computing GCDs of univariate polynomials with coefficients modulo a radical triangular set over the rationals. Our modular algorithm naturally generalizes previous work from algebraic number theory. We have implemented our algorithm using Maple's RECDEN package. We compare our implementation with the procedure RegularGcd in the RegularChains package.

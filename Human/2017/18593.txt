@@ -1,0 +1,4 @@
+Monadic Second-Order Logic with Arbitrary Monadic Predicates
+
+We study Monadic Second-Order Logic (MSO) over finite words, extended with (non-uniform arbitrary) monadic predicates. We show that it defines a class of languages that has algebraic, automata-theoretic and machine-independent characterizations. We consider the regularity question: given a language in this class, when is it regular? To answer this, we show a substitution property and the existence of a syntactical predicate.
+  We give three applications. The first two are to give very simple proofs that the Straubing Conjecture holds for all fragments of MSO with monadic predicates, and that the Crane Beach Conjecture holds for MSO with monadic predicates. The third is to show that it is decidable whether a language defined by an MSO formula with morphic predicates is regular.

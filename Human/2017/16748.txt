@@ -1,0 +1,3 @@
+Online Convolutional Dictionary Learning
+
+While a number of different algorithms have recently been proposed for convolutional dictionary learning, this remains an expensive problem. The single biggest impediment to learning from large training sets is the memory requirements, which grow at least linearly with the size of the training set since all existing methods are batch algorithms. The work reported here addresses this limitation by extending online dictionary learning ideas to the convolutional context.

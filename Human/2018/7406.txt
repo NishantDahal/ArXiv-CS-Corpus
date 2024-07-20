@@ -1,0 +1,5 @@
+Complexity of Correspondence Homomorphisms
+
+Correspondence homomorphisms are both a generalization of standard homomorphisms and a generalization of correspondence colourings. For a fixed target graph $H$, the problem is to decide whether an input graph $G$, with each edge labeled by a pair of permutations of $V(H)$, admits a homomorphism to $H$ `corresponding' to the labels, in a sense explained below.
+  We classify the complexity of this problem as a function of the fixed graph $H$. It turns out that there is dichotomy -- each of the problems is polynomial-time solvable or NP-complete. While most graphs $H$ yield NP-complete problems, there are interesting cases of graphs $H$ for which the problem is solved by Gaussian elimination.
+  We also classify the complexity of the analogous correspondence {\em list homomorphism} problems, and also the complexity of a {\em bipartite version} of both problems. We emphasize the proofs for the case when $H$ is reflexive, but, for the record, we include a rough sketch of the remaining proofs in an Appendix.

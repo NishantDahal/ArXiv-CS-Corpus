@@ -1,0 +1,4 @@
+Computing Skylines on Distributed Data
+
+In this paper we study skyline queries in the distributed computational model, where we have $s$ remote sites and a central coordinator (the query node); each site holds a piece of data, and the coordinator wants to compute the skyline of the union of the $s$ datasets. The computation is in terms of rounds, and the goal is to minimize both the total communication cost and the round cost.
+  Viewing data objects as points in the Euclidean space, we consider both the horizontal data partition case where each site holds a subset of points, and the vertical data partition case where each site holds one coordinate of all the points. We give a set of algorithms that have provable theoretical guarantees, and complement them with information theoretical lower bounds. We also demonstrate the superiority of our algorithms over existing heuristics by an extensive set of experiments on both synthetic and real world datasets.

@@ -1,0 +1,3 @@
+Binary-Decision-Diagrams for Set Abstraction
+
+Whether explicit or implicit, sets are a critical part of many pieces of software. As a result, it is necessary to develop abstractions of sets for the purposes of abstract interpretation, model checking, and deductive verification. However, the construction of effective abstractions for sets is challenging because they are a higher-order construct. It is necessary to reason about contents of sets as well as relationships between sets. This paper presents a new abstraction for sets that is based on binary decision diagrams. It is optimized for precisely and efficiently representing relations between sets while still providing limited support for content reasoning.

@@ -1,0 +1,3 @@
+Phonological Derivation in Optimality Theory
+
+Optimality Theory is a constraint-based theory of phonology which allows constraints to be violated. Consequently, implementing the theory presents problems for declarative constraint-based processing frameworks. On the basis of two regularity assumptions, that candidate sets are regular and that constraints can be modelled by transducers, this paper presents and proves correct algorithms for computing the action of constraints, and hence deriving surface forms.

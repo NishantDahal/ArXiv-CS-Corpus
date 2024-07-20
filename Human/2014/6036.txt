@@ -1,0 +1,4 @@
+Maximally Atomic Languages
+
+The atoms of a regular language are non-empty intersections of complemented and uncomplemented quotients of the language. Tight upper bounds on the number of atoms of a language and on the quotient complexities of atoms are known. We introduce a new class of regular languages, called the maximally atomic languages, consisting of all languages meeting these bounds. We prove the following result: If L is a regular language of quotient complexity n and G is the subgroup of permutations in the transition semigroup T of the minimal DFA of L, then L is maximally atomic if and only if G is transitive on k-subsets of 1,...,n for 0 <= k <= n and T contains a transformation of rank n-1.
+

@@ -1,0 +1,3 @@
+Faster deterministic integer factorization
+
+The best known unconditional deterministic complexity bound for computing the prime factorization of an integer N is O(M_int(N^(1/4) log N)), where M_int(k) denotes the cost of multiplying k-bit integers. This result is due to Bostan--Gaudry--Schost, following the Pollard--Strassen approach. We show that this bound can be improved by a factor of (log log N)^(1/2).

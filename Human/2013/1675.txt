@@ -1,0 +1,3 @@
+Optimal Monte Carlo Estimation of Belief Network Inference
+
+We present two Monte Carlo sampling algorithms for probabilistic inference that guarantee polynomial-time convergence for a larger class of network than current sampling algorithms provide.  These new methods are variants of the known likelihood weighting algorithm.  We use of recent advances in the theory of optimal stopping rules for Monte Carlo simulation to obtain an inference approximation with relative error epsilon and a small failure probability delta.  We present an empirical evaluation of the algorithms which demonstrates their improved performance.

@@ -1,0 +1,3 @@
+Spectral analysis for nonstationary audio
+
+A new approach for the analysis of nonstationary signals is proposed, with a focus on audio applications. Following earlier contributions, nonstationarity is modeled via stationarity-breaking operators acting on Gaussian stationary random signals. The focus is on time warping and amplitude modulation, and an approximate maximum-likelihood approach based on suitable approximations in the wavelet transform domain is developed. This paper provides theoretical analysis of the approximations, and introduces JEFAS, a corresponding estimation algorithm. The latter is tested and validated on synthetic as well as real audio signal.

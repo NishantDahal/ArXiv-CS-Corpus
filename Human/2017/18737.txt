@@ -1,0 +1,3 @@
+Feature selection in high-dimensional dataset using MapReduce
+
+This paper describes a distributed MapReduce implementation of the minimum Redundancy Maximum Relevance algorithm, a popular feature selection method in bioinformatics and network inference problems. The proposed approach handles both tall/narrow and wide/short datasets. We further provide an open source implementation based on Hadoop/Spark, and illustrate its scalability on datasets involving millions of observations or features.

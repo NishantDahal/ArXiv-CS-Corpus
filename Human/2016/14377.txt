@@ -1,0 +1,3 @@
+Families of Optimal Binary Non-MDS Erasure Codes
+
+We introduce a definition for \emph{Families of Optimal Binary Non-MDS Erasure Codes} for $[n, k]$ codes over $GF(2)$, and propose an algorithm for finding those families by using hill climbing techniques over Balanced XOR codes. Due to the hill climbing search, those families of codes have always better decoding probability than the codes generated in a typical Random Linear Network Coding scenario, i.e., random linear codes. We also show a surprising result that for small values of $k$, the decoding probability of our codes in $GF(2)$ is very close to the decoding probability of the codes obtained by Random Linear Network Coding but in the higher finite field $GF(4)$.

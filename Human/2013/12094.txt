@@ -1,0 +1,3 @@
+Confluent Hasse diagrams
+
+We show that a transitively reduced digraph has a confluent upward drawing if and only if its reachability relation has order dimension at most two. In this case, we construct a confluent upward drawing with $O(n^2)$ features, in an $O(n) \times O(n)$ grid in $O(n^2)$ time. For the digraphs representing series-parallel partial orders we show how to construct a drawing with $O(n)$ features in an $O(n) \times O(n)$ grid in $O(n)$ time from a series-parallel decomposition of the partial order. Our drawings are optimal in the number of confluent junctions they use.

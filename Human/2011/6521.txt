@@ -1,0 +1,3 @@
+A weighted message-passing algorithm to estimate volume-related properties of random polytopes
+
+In this letter, we introduce a novel message-passing algorithm for a class of problems which can be mathematically understood as estimating volume-related properties of random polytopes. Unlike the usual approach consisting in approximating the real-valued cavity marginal distributions by a few parameters, we propose a weighted message-passing algorithm to deal with the entire function. Various alternatives of how to implement our approach are discussed and numerical results for random polytopes are compared with results using the Hit-and-Run algorithm.

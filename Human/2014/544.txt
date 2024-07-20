@@ -1,0 +1,3 @@
+A conditional compression distance that unveils insights of the genomic evolution
+
+We describe a compression-based distance for genomic sequences. Instead of using the usual conjoint information content, as in the classical Normalized Compression Distance (NCD), it uses the conditional information content. To compute this Normalized Conditional Compression Distance (NCCD), we need a normal conditional compressor, that we built using a mixture of static and dynamic finite-context models. Using this approach, we measured chromosomal distances between Hominidae primates and also between Muroidea (rat and mouse), observing several insights of evolution that so far have not been reported in the literature.

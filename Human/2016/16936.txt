@@ -1,0 +1,3 @@
+Evaluation of Denoising Techniques for EOG signals based on SNR Estimation
+
+This paper evaluates four algorithms for denoising raw Electrooculography (EOG) data based on the Signal to Noise Ratio (SNR). The SNR is computed using the eigenvalue method. The filtering algorithms are a) Finite Impulse Response (FIR) bandpass filters, b) Stationary Wavelet Transform, c) Empirical Mode Decomposition (EMD) d) FIR Median Hybrid Filters. An EOG dataset has been prepared where the subject is asked to perform letter cancelation test on 20 subjects.

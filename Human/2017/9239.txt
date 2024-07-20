@@ -1,0 +1,3 @@
+Local algorithms for the prime factorization of strong product graphs
+
+The practical application of graph prime factorization algorithms is limited in practice by unavoidable noise in the data. A first step towards error-tolerant "approximate" prime factorization, is the development of local approaches that cover the graph by factorizable patches and then use this information to derive global factors. We present here a local, quasi-linear al- gorithm for the prime factorization of "locally unrefined" graphs with respect to the strong product. To this end we introduce the backbone B(G) for a given graph G and show that the neighborhoods of the backbone vertices provide enough information to determine the global prime factors.

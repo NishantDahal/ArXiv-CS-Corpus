@@ -1,0 +1,3 @@
+Sliding k-Transmitters: Hardness and Approximation
+
+A sliding k-transmitter in an orthogonal polygon P is a mobile guard that travels back and forth along an orthogonal line segment s inside P. It can see a point p in P if the perpendicular from p onto s intersects the boundary of P at most k times. We show that guarding an orthogonal polygon P with the minimum number of k-transmitters is NP-hard, for any fixed k>0, even if P is simple and monotone. Moreover, we give an O(1)-approximation algorithm for this problem.

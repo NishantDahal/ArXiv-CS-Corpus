@@ -1,0 +1,3 @@
+PubTree: A Hierarchical Search Tool for the MEDLINE Database
+
+Keeping track of the ever-increasing body of scientific literature is an escalating challenge. We present PubTree a hierarchical search tool that efficiently searches the PubMed/MEDLINE dataset based upon a decision tree constructed using >26 million abstracts. The tool is implemented as a webpage, where users are asked a series of eighteen questions to locate pertinent articles. The implementation of this hierarchical search tool highlights issues endemic with document retrieval. However, the construction of this tree indicates that with future developments hierarchical search could become an effective tool (or adjunct) in the mining of biological literature.

@@ -1,0 +1,3 @@
+Determining the Number of Holes of a 2D Digital Component is Easy
+
+The number of holes in a connected component in 2D images is a basic invariant. In this note, a simple formula was proven using our previous results in digital topology (Chen 2004, Chen and Rong (2010). The new is: $h =1+ (|C_4|-|C_2|)/4$, where h is the number of holes, and $C_i$ indicate the set of corner points having $i$ direct adjacent points in the component.

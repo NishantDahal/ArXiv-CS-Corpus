@@ -1,0 +1,3 @@
+Motion Planning with Safety Constraints and High-Level Task Specifications
+
+We present a method to solve planning problems involving sequential decision making in unpredictable environments while accomplishing a high level task specification expressed using the formalism of linear temporal logic. Our method improves the state of the art by introducing a pruning step that preserves correctness while significantly reducing the time needed to compute an optimal policy. Our theoretical contribution is coupled with simulations substantiating the value of the proposed method.

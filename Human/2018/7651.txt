@@ -1,0 +1,3 @@
+An open-source job management framework for parameter-space exploration: OACIS
+
+We present an open-source software framework for parameter-space exploration, named OACIS, which is useful to manage vast amount of simulation jobs and results in a systematic way. Recent development of high-performance computers enabled us to explore parameter spaces comprehensively, however, in such cases, manual management of the workflow is practically impossible. OACIS is developed aiming at reducing the cost of these repetitive tasks when conducting simulations by automating job submissions and data management. In this article, an overview of OACIS as well as a getting started guide are presented.

@@ -1,0 +1,3 @@
+Convergence of the D-iteration algorithm: convergence rate and asynchronous distributed scheme
+
+In this paper, we define the general framework to describe the diffusion operators associated to a positive matrix. We define the equations associated to diffusion operators and present some general properties of their state vectors. We show how this can be applied to prove and improve the convergence of a fixed point problem associated to the matrix iteration scheme, including for distributed computation framework. The approach can be understood as a decomposition of the matrix-vector product operation in elementary operations at the vector entry level.

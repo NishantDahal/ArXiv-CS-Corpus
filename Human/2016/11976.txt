@@ -1,0 +1,3 @@
+Transient performance analysis of zero-attracting LMS
+
+Zero-attracting least-mean-square (ZA-LMS) algorithm has been widely used for online sparse system identification. It combines the LMS framework and $\ell_1$-norm regularization to promote sparsity, and relies on subgradient iterations. Despite the significant interest in ZA-LMS, few works analyzed its transient behavior. The main difficulty lies in the nonlinearity of the update rule. In this work, a detailed analysis in the mean and mean-square sense is carried out in order to examine the behavior of the algorithm. Simulation results illustrate the accuracy of the model and highlight its performance through comparisons with an existing model.

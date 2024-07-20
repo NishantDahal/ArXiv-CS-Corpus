@@ -1,0 +1,3 @@
+Parallelization of XPath Queries using Modern XQuery Processors
+
+A practical and promising approach to parallelizing XPath queries was proposed by Bordawekar et al. in 2009, which enables parallelization on top of existing XML database engines. Although they experimentally demonstrated the speedup by their approach, their practice has already been out of date because the software environment has largely changed with the capability of XQuery processing. In this work, we implement their approach in two ways on top of a state-of-the-art XML database engine and experimentally demonstrate that our implementations can bring significant speedup on a commodity server.

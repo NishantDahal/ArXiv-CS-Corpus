@@ -1,0 +1,5 @@
+Real-time correction of panoramic images using hyperbolic Möbius transformations
+
+Wide-angle images gained a huge popularity in the last years due to the development of computational photography and imaging technological advances. They present the information of a scene in a way which is more natural for the human eye but, on the other hand, they introduce artifacts such as bent lines. These artifacts become more and more unnatural as the field of view increases.
+  In this work, we present a technique aimed to improve the perceptual quality of panorama visualization. The main ingredients of our approach are, on one hand, considering the viewing sphere as a Riemann sphere, what makes natural the application of Möbius (complex) transformations to the input image, and, on the other hand, a projection scheme which changes in function of the field of view used.
+  We also introduce an implementation of our method, compare it against images produced with other methods and show that the transformations can be done in real-time, which makes our technique very appealing for new settings, as well as for existing interactive panorama applications.

@@ -1,0 +1,3 @@
+A series of maximum entropy upper bounds of the differential entropy
+
+We present a series of closed-form maximum entropy upper bounds for the differential entropy of a continuous univariate random variable and study the properties of that series. We then show how to use those generic bounds for upper bounding the differential entropy of Gaussian mixture models. This requires to calculate the raw moments and raw absolute moments of Gaussian mixtures in closed-form that may also be handy in statistical machine learning and information theory. We report on our experiments and discuss on the tightness of those bounds.

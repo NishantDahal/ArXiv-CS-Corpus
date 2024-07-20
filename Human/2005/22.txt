@@ -1,0 +1,3 @@
+Harmonic Analysis
+
+This paper describes a method of calculating the transforms, currently obtained via Fourier and reverse Fourier transforms. The method allows calculating efficiently the transforms of a signal having an arbitrary dimension of the digital representation by reducing the transform to a vector-to-circulant matrix multiplying. There is a connection between harmonic equations in rectangular and polar coordinate systems. The connection established here and used to create a very robust iterative algorithm for a conformal mapping calculation. There is also suggested a new ratio (and an efficient way of computing it) of two oscillative signals.

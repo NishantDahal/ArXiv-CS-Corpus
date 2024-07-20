@@ -1,0 +1,3 @@
+Time Petri Net Models for a New Queuless and Uncentralized Resource Discovery System
+
+In this report, we detail the model using Petri Nets of a new fully distributed resource reservation system. The basic idea of the considered distributed system is to let a user reserve a set of resources on a local network and to use them, without any specific, central administration component such as a front-end node. Resources can be, for instance, computing resources (cores, nodes, GPUs...) or some memory on a server. In order to verify some qualitative and quantitative properties provided by this system, we need to model it. We detail the algorithms used by this system and the Petri Net models we made of it.

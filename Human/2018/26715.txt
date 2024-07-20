@@ -1,0 +1,3 @@
+Fine-Grained Library Customization
+
+Code bloat widely exists in production-run software. Left untackled, it not only degrades software performance but also increases its attack surface. In this work, we conduct a case study to understand this issue in statically linked libraries. To be specific, we analyze midilib, a software package enclosing statically linked libraries. We show that it is possible to leverage dependence analysis to trim the resultless code statements re- siding in a target library. With this observation, we believe it is possible to build a tool to automatically cut off code pertaining to resultless operations.

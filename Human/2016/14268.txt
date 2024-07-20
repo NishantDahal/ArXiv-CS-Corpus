@@ -1,0 +1,3 @@
+Postprocessing for Iterative Differentially Private Algorithms
+
+Iterative algorithms for differential privacy run for a fixed number of iterations, where each iteration learns some information from data and produces an intermediate output. However, the algorithm only releases the output of the last iteration, and from which the accuracy of algorithm is judged. In this paper, we propose a post-processing algorithm that seeks to improve the accuracy by incorporating the knowledge on the data contained in intermediate outputs.

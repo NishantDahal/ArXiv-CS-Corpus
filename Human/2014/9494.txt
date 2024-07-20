@@ -1,0 +1,3 @@
+Rational approximations and quantum algorithms with postselection
+
+We study the close connection between rational functions that approximate a given Boolean function, and quantum algorithms that compute the same function using postselection. We show that the minimal degree of the former equals (up to a factor of 2) the minimal query complexity of the latter. We give optimal (up to constant factors) quantum algorithms with postselection for the Majority function, slightly improving upon an earlier algorithm of Aaronson. Finally we show how Newman's classic theorem about low-degree rational approximation of the absolute-value function follows from these algorithms.

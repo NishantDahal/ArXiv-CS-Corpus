@@ -1,0 +1,3 @@
+Symbolic Parametric Analysis of Embedded Systems with BDD-like Data-Structures
+
+We use dense variable-ordering to define HRD (Hybrid-Restriction Diagram), a new BDD-like data-structure for the representation and manipulation of state-spaces of linear hybrid automata. We present and discuss various manipulation algorithms for HRD, including the basic set-oriented operations, weakest precondition calculation, and normalization. We implemented the ideas and experimented to see their performance. Finally, we have also developed a pruning technique for state-space exploration based on parameter valuation space characterization. The technique showed good promise in our experiment.

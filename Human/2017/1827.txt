@@ -1,0 +1,3 @@
+Row-Centric Lossless Compression of Markov Images
+
+Motivated by the question of whether the recently introduced Reduced Cutset Coding (RCC) offers rate-complexity performance benefits over conventional context-based conditional coding for sources with two-dimensional Markov structure, this paper compares several row-centric coding strategies that vary in the amount of conditioning as well as whether a model or an empirical table is used in the encoding of blocks of rows. The conclusion is that, at least for sources exhibiting low-order correlations, 1-sided model-based conditional coding is superior to the method of RCC for a given constraint on complexity, and conventional context-based conditional coding is nearly as good as the 1-sided model-based coding.

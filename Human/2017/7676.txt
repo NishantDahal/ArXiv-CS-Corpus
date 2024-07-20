@@ -1,0 +1,3 @@
+Linear vs Nonlinear MPC for Trajectory Tracking Applied to Rotary Wing Micro Aerial Vehicles
+
+Precise trajectory tracking is a crucial property for \acp{MAV} to operate in cluttered environment or under disturbances. In this paper we present a detailed comparison between two state-of-the-art model-based control techniques for \ac{MAV} trajectory tracking. A classical \ac{LMPC} is presented and compared against a more advanced \ac{NMPC} that considers the full system model. In a careful analysis we show the advantages and disadvantages of the two implementations in terms of speed and tracking performance. This is achieved by evaluating hovering performance, step response, and aggressive trajectory tracking under nominal conditions and under external wind disturbances.

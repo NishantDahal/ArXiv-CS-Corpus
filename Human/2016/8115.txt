@@ -1,0 +1,3 @@
+Occam Bound on Lowest Complexity of Elements
+
+The combined universal probability M(D) of strings x in sets D is close to max_{x \in D} M({x}): their ~ logs differ by at most D's information j = I(D:H) about the halting sequence H. Thus if all x have complexity K(x) > k, D carries > i bits of information on each x where i+j ~ k. Note, there are no ways (whether natural or artificial) to generate D with significant I(D:H).

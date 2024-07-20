@@ -1,0 +1,3 @@
+Scale Normalization
+
+One of the difficulties of training deep neural networks is caused by improper scaling between layers. Scaling issues introduce exploding / gradient problems, and have typically been addressed by careful scale-preserving initialization. We investigate the value of preserving scale, or isometry, beyond the initial weights. We propose two methods of maintaing isometry, one exact and one stochastic. Preliminary experiments show that for both determinant and scale-normalization effectively speeds up learning. Results suggest that isometry is important in the beginning of learning, and maintaining it leads to faster learning.

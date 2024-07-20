@@ -1,0 +1,5 @@
+Frequent Directions : Simple and Deterministic Matrix Sketching
+
+We describe a new algorithm called Frequent Directions for deterministic matrix sketching in the row-updates model. The algorithm is presented an arbitrary input matrix $A \in R^{n \times d}$ one row at a time. It performed $O(d \times \ell)$ operations per row and maintains a sketch matrix $B \in R^{\ell \times d}$ such that for any $k < \ell$
+  $\|A^TA - B^TB \|_2 \leq \|A - A_k\|_F^2 / (\ell-k)$ and $\|A - π_{B_k}(A)\|_F^2 \leq \big(1 + \frac{k}{\ell-k}\big) \|A-A_k\|_F^2 $ .
+  Here, $A_k$ stands for the minimizer of $\|A - A_k\|_F$ over all rank $k$ matrices (similarly $B_k$) and $π_{B_k}(A)$ is the rank $k$ matrix resulting from projecting $A$ on the row span of $B_k$. We show both of these bounds are the best possible for the space allowed. The summary is mergeable, and hence trivially parallelizable. Moreover, Frequent Directions outperforms exemplar implementations of existing streaming algorithms in the space-error tradeoff.

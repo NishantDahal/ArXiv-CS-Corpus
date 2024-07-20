@@ -1,0 +1,4 @@
+Evaluation of Joint Multi-Instance Multi-Label Learning For Breast Cancer Diagnosis
+
+Multi-instance multi-label (MIML) learning is a challenging problem in many aspects. Such learning approaches might be useful for many medical diagnosis applications including breast cancer detection and classification. In this study subset of digiPATH dataset (whole slide digital breast cancer histopathology images) are used for training and evaluation of six state-of-the-art MIML methods.
+  At the end, performance comparison of these approaches are given by means of effective evaluation metrics. It is shown that MIML-kNN achieve the best performance that is %65.3 average precision, where most of other methods attain acceptable results as well.

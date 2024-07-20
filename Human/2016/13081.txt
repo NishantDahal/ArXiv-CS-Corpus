@@ -1,0 +1,3 @@
+Model Interpolation with Trans-dimensional Random Field Language Models for Speech Recognition
+
+The dominant language models (LMs) such as n-gram and neural network (NN) models represent sentence probabilities in terms of conditionals. In contrast, a new trans-dimensional random field (TRF) LM has been recently introduced to show superior performances, where the whole sentence is modeled as a random field. In this paper, we examine how the TRF models can be interpolated with the NN models, and obtain 12.1\% and 17.9\% relative error rate reductions over 6-gram LMs for English and Chinese speech recognition respectively through log-linear combination.

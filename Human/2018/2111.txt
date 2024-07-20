@@ -1,0 +1,3 @@
+Fast and accurate normalization of vectors and quaternions
+
+We present fast and accurate ways to normalize two and three dimensional vectors and quaternions and compute their length. Our approach is an adaptation of ideas used in the linear algebra library LAPACK, and we believe that the computational geometry and computer aided design communities are not aware of the possibility of speeding up these fundamental operations in the robust way proposed here.

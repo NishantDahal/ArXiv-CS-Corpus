@@ -1,0 +1,3 @@
+A note on the Survivable Network Design Problem
+
+In this note we consider the survivable network design problem (SNDP) in undirected graphs. We make two contributions. The first is a new counting argument in the iterated rounding based 2-approximation for edge-connectivity SNDP (EC-SNDP) originally due to Jain. The second is to make some additional connections between hypergraphic version of SNDP introduced by Zhao, Nagamochi and Ibaraki and edge and node-weighted versions of EC-SNDP and element-connectivity SNDP (Elem-SNDP). One useful consequence of this connection is a 2-approximation for Elem-SNDP that avoids the use of set-pair based relaxation and analysis.

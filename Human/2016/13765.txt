@@ -1,0 +1,4 @@
+Clifford algebras meet tree decompositions
+
+We introduce the Non-commutative Subset Convolution - a convolution of functions useful when working with determinant-based algorithms. In order to compute it efficiently, we take advantage of Clifford algebras, a generalization of quaternions used mainly in the quantum field theory.
+  We apply this tool to speed up algorithms counting subgraphs parameterized by the treewidth of a graph. We present an $O^*((2^ω+ 1)^{tw})$-time algorithm for counting Steiner trees and an $O^*((2^ω+ 2)^{tw})$-time algorithm for counting Hamiltonian cycles, both of which improve the previously known upper bounds. The result for Steiner Tree also translates into a deterministic algorithm for Feedback Vertex Set. All of these constitute the best known running times of deterministic algorithms for decision versions of these problems and they match the best obtained running times for pathwidth parameterization under assumption $ω= 2$.

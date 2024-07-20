@@ -1,0 +1,3 @@
+Context-Aware Sequence-to-Sequence Models for Conversational Systems
+
+This work proposes a novel approach based on sequence-to-sequence (seq2seq) models for context-aware conversational systems. Exist- ing seq2seq models have been shown to be good for generating natural responses in a data-driven conversational system. However, they still lack mechanisms to incorporate previous conversation turns. We investigate RNN-based methods that efficiently integrate previous turns as a context for generating responses. Overall, our experimental results based on human judgment demonstrate the feasibility and effectiveness of the proposed approach.

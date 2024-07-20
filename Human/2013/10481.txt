@@ -1,0 +1,3 @@
+Exact Algorithm for Graph Homomorphism and Locally Injective Graph Homomorphism
+
+For graphs $G$ and $H$, a homomorphism from $G$ to $H$ is a function $\varphi \colon V(G) \to V(H)$, which maps vertices adjacent in $G$ to adjacent vertices of $H$. A homomorphism is locally injective if no two vertices with a common neighbor are mapped to a single vertex in $H$. Many cases of graph homomorphism and locally injective graph homomorphism are NP-complete, so there is little hope to design polynomial-time algorithms for them. In this paper we present an algorithm for graph homomorphism and locally injective homomorphism working in time $\mathcal{O}^*((b + 2)^{|V(G)|})$, where $b$ is the bandwidth of the complement of $H$.

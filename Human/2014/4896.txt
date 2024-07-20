@@ -1,0 +1,6 @@
+Very narrow quantum OBDDs and width hierarchies for classical OBDDs
+
+We present several results on comparative complexity for different variants of OBDD models.
+  - We present some results on comparative complexity of classical and quantum OBDDs. We consider a partial function depending on parameter k such that for any k > 0 this function is computed by an exact quantum OBDD of width 2 but any classical OBDD (deterministic or stable bounded error probabilistic) needs width 2k+1.
+  - We consider quantum and classical nondeterminism. We show that quantum nondeterminism can be more efficient than classical one. In particular, an explicit function is presented which is computed by a quantum nondeterministic OBDD with constant width but any classical nondeterministic OBDD for this function needs non-constant width.
+  - We also present new hierarchies on widths of deterministic and non-deterministic OBDDs. We focus both on small and large widths.

@@ -1,0 +1,3 @@
+Traj2User: exploiting embeddings for computing similarity of users mobile behavior
+
+Semantic trajectories are high level representations of user movements where several aspects related to the movement context are represented as heterogeneous textual labels. With the objective of finding a meaningful similarity measure for semantically enriched trajectories, we propose Traj2User, a Word2Vec-inspired method for the generation of a vector representation of user movements as user embeddings. Traj2User uses simple representations of trajectories and delegates the definition of the similarity model to the learning process of the network. Preliminary results show that Traj2User is able to generate effective user embeddings.

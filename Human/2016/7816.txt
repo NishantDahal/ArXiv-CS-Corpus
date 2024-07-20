@@ -1,0 +1,3 @@
+Device and System Level Design Considerations for Analog-Non-Volatile-Memory Based Neuromorphic Architectures
+
+This paper gives an overview of recent progress in the brain inspired computing field with a focus on implementation using emerging memories as electronic synapses. Design considerations and challenges such as requirements and design targets on multilevel states, device variability, programming energy, array-level connectivity, fan-in/fanout, wire energy, and IR drop are presented. Wires are increasingly important in design decisions, especially for large systems, and cycle-to-cycle variations have large impact on learning performance.

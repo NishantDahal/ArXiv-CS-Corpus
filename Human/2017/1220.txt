@@ -1,0 +1,3 @@
+Automated timetabling for small colleges and high schools using huge integer programs
+
+We formulate an integer program to solve a highly constrained academic timetabling problem at the United States Merchant Marine Academy. The IP instance that results from our real case study has approximately both 170,000 rows and columns and solves to optimality in 4--24 hours using a commercial solver on a portable computer (near optimal feasible solutions were often found in 4--12 hours). Our model is applicable to both high schools and small colleges who wish to deviate from group scheduling. We also solve a necessary preprocessing student subgrouping problem, which breaks up big groups of students into small groups so they can optimally fit into small capacity classes.

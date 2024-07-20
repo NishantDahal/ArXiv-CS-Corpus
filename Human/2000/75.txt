@@ -1,0 +1,3 @@
+dcs: An Implementation of DATALOG with Constraints
+
+Answer-set programming (ASP) has emerged recently as a viable programming paradigm. We describe here an ASP system, DATALOG with constraints or DC, based on non-monotonic logic. Informally, DC theories consist of propositional clauses (constraints) and of Horn rules. The semantics is a simple and natural extension of the semantics of the propositional logic. However, thanks to the presence of Horn rules in the system, modeling of transitive closure becomes straightforward. We describe the syntax, use and implementation of DC and provide experimental results.

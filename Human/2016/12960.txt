@@ -1,0 +1,3 @@
+Verify LTL with Fairness Assumptions Efficiently
+
+This paper deals with model checking problems with respect to LTL properties under fairness assumptions. We first present an efficient algorithm to deal with a fragment of fairness assumptions and then extend the algorithm to handle arbitrary %fairness assumptions ones. Notably, by making use of some syntactic transformations, our algorithm avoids to construct corresponding Büchi automata for the whole fairness assumptions, which can be very large in practice. We implement our algorithm in NuSMV and consider a large selection of formulas. Our experiments show that in many cases our approach exceeds the automata-theoretic approach up to several orders of magnitude, in both time and memory.

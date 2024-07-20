@@ -1,0 +1,3 @@
+A Probabilistic Baby-Step Giant-Step Algorithm
+
+In this paper, a new algorithm to solve the discrete logarithm problem is presented which is similar to the usual baby-step giant-step algorithm. Our algorithm exploits the order of the discrete logarithm in the multiplicative group of a finite field. Using randomization with parallelized collision search, our algorithm indicates some weakness in NIST curves over prime fields which are considered to be the most conservative and safest curves among all NIST curves.

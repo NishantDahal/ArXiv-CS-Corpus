@@ -1,0 +1,5 @@
+What can the programming language Rust do for astrophysics?
+
+The astrophysics community uses different tools for computational tasks such as complex systems simulations, radiative transfer calculations or big data. Programming languages like Fortran, C or C++ are commonly present in these tools and, generally, the language choice was made based on the need for performance. However, this comes at a cost: safety. For instance, a common source of error is the access to invalid memory regions, which produces random execution behaviors and affects the scientific interpretation of the results.
+  In 2015, Mozilla Research released the first stable version of a new programming language named Rust. Many features make this new language attractive for the scientific community, it is open source and it guarantees memory safety while offering zero-cost abstraction.
+  We explore the advantages and drawbacks of Rust for astrophysics by re-implementing the fundamental parts of Mercury-T, a Fortran code that simulates the dynamical and tidal evolution of multi-planet systems.

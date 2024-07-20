@@ -1,0 +1,4 @@
+Classifying extrema using intervals
+
+We present a straightforward and verified method of deciding whether the n-dimensional point x (n>=1), such that \nabla f(x)=0, is the local minimizer, maximizer or just a saddle point of a real-valued function f.
+  The method scales linearly with dimensionality of the problem and never produces false results.

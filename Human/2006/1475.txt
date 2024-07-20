@@ -1,0 +1,3 @@
+Evolving controllers for simulated car racing
+
+This paper describes the evolution of controllers for racing a simulated radio-controlled car around a track, modelled on a real physical track. Five different controller architectures were compared, based on neural networks, force fields and action sequences. The controllers use either egocentric (first person), Newtonian (third person) or no information about the state of the car (open-loop controller). The only controller that was able to evolve good racing behaviour was based on a neural network acting on egocentric inputs.

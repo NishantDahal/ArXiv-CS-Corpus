@@ -1,0 +1,3 @@
+Caching and Auditing in the RPPM Model
+
+Crampton and Sellwood recently introduced a variant of relationship-based access control based on the concepts of relationships, paths and principal matching, to which we will refer as the RPPM model. In this paper, we show that the RPPM model can be extended to provide support for caching of authorization decisions and enforcement of separation of duty policies. We show that these extensions are natural and powerful. Indeed, caching provides far greater advantages in RPPM than it does in most other access control models and we are able to support a wide range of separation of duty policies.

@@ -1,0 +1,3 @@
+Detecting an induced net subdivision
+
+A {\em net} is a graph consisting of a triangle $C$ and three more vertices, each of degree one and with its neighbour in $C$, and all adjacent to different vertices of $C$. We give a polynomial-time algorithm to test whether an input graph has an induced subgraph which is a subdivision of a net. Unlike many similar questions, this does not seem to be solvable by an application of the "three-in-a-tree" subroutine.

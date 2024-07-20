@@ -1,0 +1,3 @@
+Automatic Chord Recognition with Higher-Order Harmonic Language Modelling
+
+Common temporal models for automatic chord recognition model chord changes on a frame-wise basis. Due to this fact, they are unable to capture musical knowledge about chord progressions. In this paper, we propose a temporal model that enables explicit modelling of chord changes and durations. We then apply N-gram models and a neural-network-based acoustic model within this framework, and evaluate the effect of model overconfidence. Our results show that model overconfidence plays only a minor role (but target smoothing still improves the acoustic model), and that stronger chord language models do improve recognition results, however their effects are small compared to other domains.

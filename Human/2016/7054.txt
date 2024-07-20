@@ -1,0 +1,3 @@
+Variable-length Non-overlapping Codes
+
+We define a variable-length code having the property that no (non-empty) prefix of each its codeword is a suffix of any other one, and vice versa. This kind of code can be seen as an extension of two well-known codes in literature, called respectively fix-free code and non-overlapping code. In this paper, some constructive algorithms for such codes are presented as well as numerical results about their cardinality.

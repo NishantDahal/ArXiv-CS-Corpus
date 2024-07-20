@@ -1,0 +1,3 @@
+Learning from the Kernel and the Range Space
+
+In this article, a novel approach to learning a complex function which can be written as the system of linear equations is introduced. This learning is grounded upon the observation that solving the system of linear equations by a manipulation in the kernel and the range space boils down to an estimation based on the least squares error approximation. The learning approach is applied to learn a deep feedforward network with full weight connections. The numerical experiments on network learning of synthetic and benchmark data not only show feasibility of the proposed learning approach but also provide insights into the mechanism of data representation.

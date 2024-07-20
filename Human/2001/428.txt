@@ -1,0 +1,3 @@
+Two heads are better than two tapes
+
+We show that a Turing machine with two single-head one-dimensional tapes cannot recognize the set {x2x'| x \in {0,1}^* and x' is a prefix of x} in real time, although it can do so with three tapes, two two-dimensional tapes, or one two-head tape, or in linear time with just one tape. In particular, this settles the longstanding conjecture that a two-head Turing machine can recognize more languages in real time if its heads are on the same one-dimensional tape than if they are on separate one-dimensional tapes.

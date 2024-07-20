@@ -1,0 +1,3 @@
+A likelihood-based framework for the analysis of discussion threads
+
+Online discussion threads are conversational cascades in the form of posted messages that can be generally found in social systems that comprise many-to-many interaction such as blogs, news aggregators or bulletin board systems. We propose a framework based on generative models of growing trees to analyse the structure and evolution of discussion threads. We consider the growth of a discussion to be determined by an interplay between popularity, novelty and a trend (or bias) to reply to the thread originator. The relevance of these features is estimated using a full likelihood approach and allows to characterize the habits and communication patterns of a given platform and/or community.

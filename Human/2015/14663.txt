@@ -1,0 +1,3 @@
+Predicting People's 3D Poses from Short Sequences
+
+We propose an efficient approach to exploiting motion information from consecutive frames of a video sequence to recover the 3D pose of people. Instead of computing candidate poses in individual frames and then linking them, as is often done, we regress directly from a spatio-temporal block of frames to a 3D pose in the central one. We will demonstrate that this approach allows us to effectively overcome ambiguities and to improve upon the state-of-the-art on challenging sequences.

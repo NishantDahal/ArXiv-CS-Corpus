@@ -1,0 +1,4 @@
+Deep, Dense, and Low-Rank Gaussian Conditional Random Fields
+
+In this work we introduce a fully-connected graph structure in the Deep Gaussian Conditional Random Field (G-CRF) model. For this we express the pairwise interactions between pixels as the inner-products of low-dimensional embeddings, delivered by a new subnetwork of a deep architecture. We efficiently minimize the resulting energy by solving the resulting low-rank linear system with conjugate gradients, and derive an analytic expression for the gradient of our embeddings which allows us to train them end-to-end with backpropagation.
+  We demonstrate the merit of our approach by achieving state of the art results on three challenging Computer Vision benchmarks, namely semantic segmentation, human parts segmentation, and saliency estimation. Our implementation is fully GPU based, built on top of the Caffe library, and will be made publicly available.

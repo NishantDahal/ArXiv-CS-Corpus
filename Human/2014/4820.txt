@@ -1,0 +1,4 @@
+Rényi Divergence and Kullback-Leibler Divergence
+
+Rényi divergence is related to Rényi entropy much like Kullback-Leibler divergence is related to Shannon's entropy, and comes up in many settings. It was introduced by Rényi as a measure of information that satisfies almost the same axioms as Kullback-Leibler divergence, and depends on a parameter that is called its order. In particular, the Rényi divergence of order 1 equals the Kullback-Leibler divergence.
+  We review and extend the most important properties of Rényi divergence and Kullback-Leibler divergence, including convexity, continuity, limits of $σ$-algebras and the relation of the special order 0 to the Gaussian dichotomy and contiguity. We also show how to generalize the Pythagorean inequality to orders different from 1, and we extend the known equivalence between channel capacity and minimax redundancy to continuous channel inputs (for all orders) and present several other minimax results.

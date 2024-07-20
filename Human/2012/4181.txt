@@ -1,0 +1,3 @@
+Practical Groebner Basis Computation
+
+We report on our experiences exploring state of the art Groebner basis computation. We investigate signature based algorithms in detail. We also introduce new practical data structures and computational techniques for use in both signature based Groebner basis algorithms and more traditional variations of the classic Buchberger algorithm. Our conclusions are based on experiments using our new freely available open source standalone C++ library.

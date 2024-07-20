@@ -1,0 +1,4 @@
+A Note on Plus-Contacts, Rectangular Duals, and Box-Orthogonal Drawings
+
+A plus-contact representation of a planar graph $G$ is called $c$-balanced if for every plus shape $+_v$, the number of other plus shapes incident to each arm of $+_v$ is at most $ c Δ+O(1)$, where $Δ$ is the maximum degree of $G$. Although small values of $c$ have been achieved for a few subclasses of planar graphs (e.g., $2$- and $3$-trees), it is unknown whether $c$-balanced representations with $c<1$ exist for arbitrary planar graphs.
+  In this paper we compute $(1/2)$-balanced plus-contact representations for all planar graphs that admit a rectangular dual. Our result implies that any graph with a rectangular dual has a 1-bend box-orthogonal drawings such that for each vertex $v$, the box representing $v$ is a square of side length $\frac{deg(v)}{2}+ O(1)$.

@@ -1,0 +1,3 @@
+A Short Note on Zero-error Computation for Algebraic Numbers by IPSLQ
+
+The PSLQ algorithm is one of the most popular algorithm for finding nontrivial integer relations for several real numbers. In the present work, we present an incremental version of PSLQ. For some applications needing to call PSLQ many times, such as finding the minimal polynomial of an algebraic number without knowing the degree, the incremental PSLQ algorithm is more efficient than PSLQ, both theoretically and practically.

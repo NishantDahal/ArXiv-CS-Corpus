@@ -1,0 +1,3 @@
+Propagation of content similarity through a collaborative network for live show recommendation
+
+We present a network-based recommender system for live shows (concerts, theater, circus, etc) that finds a set of people probably interested in a given, new show. We combine collaborative and content-based filtering to take benefit of past activity of users and of the features of the new show. Indeed, as this show is new we cannot rely on collaborative filtering only. To solve this cold-start problem, we perform network alignment and insert the new show in a way consistent with collaborative filtering. We refine the obtained similarities using spreading in the network. We illustrate the performances of our system on a large scale real-world dataset.

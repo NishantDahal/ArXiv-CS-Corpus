@@ -1,0 +1,3 @@
+Symmetric Strategy Improvement
+
+Symmetry is inherent in the definition of most of the two-player zero-sum games, including parity, mean-payoff, and discounted-payoff games. It is therefore quite surprising that no symmetric analysis techniques for these games exist. We develop a novel symmetric strategy improvement algorithm where, in each iteration, the strategies of both players are improved simultaneously. We show that symmetric strategy improvement defies Friedmann's traps, which shook the belief in the potential of classic strategy improvement to be polynomial.

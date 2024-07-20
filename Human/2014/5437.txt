@@ -1,0 +1,3 @@
+Optimized Composition: Generating Efficient Code for Heterogeneous Systems from Multi-Variant Components, Skeletons and Containers
+
+In this survey paper, we review recent work on frameworks for the high-level, portable programming of heterogeneous multi-/manycore systems (especially, GPU-based systems) using high-level constructs such as annotated user-level software components, skeletons (i.e., predefined generic components) and containers, and discuss the optimization problems that need to be considered in selecting among multiple implementation variants, generating code and providing runtime support for efficient execution on such systems.

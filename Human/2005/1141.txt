@@ -1,0 +1,3 @@
+A Fixpoint Semantics of Event Systems with and without Fairness Assumptions
+
+We present a fixpoint semantics of event systems. The semantics is presented in a general framework without concerns of fairness. Soundness and completeness of rules for deriving "leads-to" properties are proved in this general framework. The general framework is instantiated to minimal progress and weak fairness assumptions and similar results are obtained. We show the power of these results by deriving sufficient conditions for "leads-to" under minimal progress proving soundness of proof obligations without reasoning over state-traces.

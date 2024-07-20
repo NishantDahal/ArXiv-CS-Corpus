@@ -1,0 +1,3 @@
+Handling PDDL3.0 State Trajectory Constraints with Temporal Landmarks
+
+Temporal landmarks have been proved to be a helpful mechanism to deal with temporal planning problems, specifically to improve planners performance and handle problems with deadline constraints. In this paper, we show the strength of using temporal landmarks to handle the state trajectory constraints of PDDL3.0. We analyze the formalism of TempLM, a temporal planner particularly aimed at solving planning problems with deadlines, and we present a detailed study that exploits the underlying temporal landmark-based mechanism of TempLM for representing and reasoning with trajectory constraints.

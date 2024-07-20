@@ -1,0 +1,3 @@
+Fake Run-Time Selection of Template Arguments in C++
+
+C++ does not support run-time resolution of template type arguments. To circumvent this restriction, we can instantiate a template for all possible combinations of type arguments at compile time and then select the proper instance at run time by evaluation of some provided conditions. However, for templates with multiple type parameters such a solution may easily result in a branching code bloat. We present a template metaprogramming algorithm called for_id that allows the user to select the proper template instance at run time with theoretical minimum sustained complexity of the branching code.

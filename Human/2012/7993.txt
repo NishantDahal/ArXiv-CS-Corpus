@@ -1,0 +1,3 @@
+A Faster Grammar-Based Self-Index
+
+To store and search genomic databases efficiently, researchers have recently started building compressed self-indexes based on grammars. In this paper we show how, given a straight-line program with $r$ rules for a string (S [1..n]) whose LZ77 parse consists of $z$ phrases, we can store a self-index for $S$ in $\Oh{r + z \log \log n}$ space such that, given a pattern (P [1..m]), we can list the $\occ$ occurrences of $P$ in $S$ in $\Oh{m^2 + \occ \log \log n}$ time. If the straight-line program is balanced and we accept a small probability of building a faulty index, then we can reduce the $\Oh{m^2}$ term to $\Oh{m \log m}$. All previous self-indexes are larger or slower in the worst case.

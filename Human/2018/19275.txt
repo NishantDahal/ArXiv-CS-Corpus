@@ -1,0 +1,3 @@
+Hierarchical VampPrior Variational Fair Auto-Encoder
+
+Decision making is a process that is extremely prone to different biases. In this paper we consider learning fair representations that aim at removing nuisance (sensitive) information from the decision process. For this purpose, we propose to use deep generative modeling and adapt a hierarchical Variational Auto-Encoder to learn these fair representations. Moreover, we utilize the mutual information as a useful regularizer for enforcing fairness of a representation. In experiments on two benchmark datasets and two scenarios where the sensitive variables are fully and partially observable, we show that the proposed approach either outperforms or performs on par with the current best model.

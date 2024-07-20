@@ -1,0 +1,3 @@
+On a generalization of Nemhauser and Trotter's local optimization theorem
+
+Fellows, Guo, Moser and Niedermeier~[JCSS2011] proved a generalization of Nemhauser and Trotter's theorem, which applies to \textsc{Bounded-Degree Vertex Deletion} (for a fixed integer $d\geq 0$, to delete $k$ vertices of the input graph to make the maximum degree of it $\leq d$) and gets a linear-vertex kernel for $d=0$ and $1$, and a superlinear-vertex kernel for each $d\geq 2$. It is still left as an open problem whether \textsc{Bounded-Degree Vertex Deletion} admits a linear-vertex kernel for each $d\geq 3$. In this paper, we refine the generalized Nemhauser and Trotter's theorem and get a linear-vertex kernel for each $d\geq 0$.

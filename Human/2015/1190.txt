@@ -1,0 +1,3 @@
+T3PS: Tool for Parallel Processing in Parameter Scans
+
+T3PS is a program that can be used to quickly design and perform parameter scans while easily taking advantage of the multi-core architecture of current processors. It takes an easy to read and write parameter scan definition file format as input. Based on the parameter ranges and other options contained therein, it distributes the calculation of the parameter space over multiple processes and possibly computers. The derived data is saved in a plain text file format readable by most plotting software. The supported scanning strategies include: grid scan, random scan, Markov Chain Monte Carlo, numerical optimization. Several example parameter scans are shown and compared with results in the literature.

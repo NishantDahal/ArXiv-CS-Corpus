@@ -1,0 +1,3 @@
+Implementation of the SWIM Mobility Model in OMNeT++
+
+The Internet of Things (IoT) is expected to grow into billions of devices in the near future. Evaluating mechanisms such as networking architectures for communications in the IoT require the use of simulators due to the scale of the size of networks. Mobility is one of the key aspects that need to be evaluated when considering the different scenarios of the IoT. Small Worlds in Motion (SWIM) is a mobility model that mathematically characterises the movement patterns of humans. The work presented in this paper details the development and verification of the SWIM mobility model in the OMNeT++ simulator.

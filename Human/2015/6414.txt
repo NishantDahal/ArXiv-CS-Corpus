@@ -1,0 +1,3 @@
+A quantum approach to homomorphic encryption
+
+Encryption schemes often derive their power from the properties of the underlying algebra on the symbols used. Inspired by group theoretic tools, we use the centralizer of a subgroup of operations to present a private-key quantum homomorphic encryption scheme that enables a broad class of quantum computation on encrypted data. A particular instance of our encoding hides up to a constant fraction of the information encrypted. This fraction can be made arbitrarily close to unity with overhead scaling only polynomially in the message length. This highlights the potential of our protocol to hide a non-trivial amount of information, and is suggestive of a large class of encodings that might yield better security.

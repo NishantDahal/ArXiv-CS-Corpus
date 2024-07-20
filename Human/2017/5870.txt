@@ -1,0 +1,3 @@
+Algorithm for computing the factor ring of an ideal in Dedekind domain with finite rank
+
+We give an algorithm for computing the factor ring of a given ideal in a Dedekind domain with finite rank, which runs in deterministic and polynomial-time. We provide two applications of the algorithm: judging whether a given ideal is prime or prime power. The main algorithm is based on basis representation of finite rings which is computed via Hermite and Smith normal forms.

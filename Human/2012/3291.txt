@@ -1,0 +1,3 @@
+Improved Low-rank Matrix Decompositions via the Subsampled Randomized Hadamard Transform
+
+We comment on two randomized algorithms for constructing low-rank matrix decompositions. Both algorithms employ the Subsampled Randomized Hadamard Transform [14]. The first algorithm appeared recently in [9]; here, we provide a novel analysis that significantly improves the approximation bound obtained in [9]. A preliminary version of the second algorithm appeared in [7]; here, we present a mild modification of this algorithm that achieves the same approximation bound but significantly improves the corresponding running time.

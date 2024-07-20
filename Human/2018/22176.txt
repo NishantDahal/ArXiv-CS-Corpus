@@ -1,0 +1,4 @@
+Explicit Auditing
+
+The Calculus of Audited Units (CAU) is a typed lambda calculus resulting from a computational interpretation of Artemov's Justification Logic under the Curry-Howard isomorphism; it extends the simply typed lambda calculus by providing audited types, inhabited by expressions carrying a trail of their past computation history. Unlike most other auditing techniques, CAU allows the inspection of trails at runtime as a first-class operation, with applications in security, debugging, and transparency of scientific computation.
+  An efficient implementation of CAU is challenging: not only do the sizes of trails grow rapidly, but they also need to be normalized after every beta reduction. In this paper, we study how to reduce terms more efficiently in an untyped variant of CAU by means of explicit substitutions and explicit auditing operations, finally deriving a call-by-value abstract machine.

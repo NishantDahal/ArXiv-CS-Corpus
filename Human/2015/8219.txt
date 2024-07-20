@@ -1,0 +1,3 @@
+Optimal Power Allocation for LTE Users with Different Modulations
+
+In this paper, we demonstrate the optimal power allocation for QPSK, 16-QAM, and 64-QAM modulation schedules and the role of channel quality indicator (CQI). We used sigmoidal-like utility functions to represent the probability of successful reception of packets at user equipment (UE). CQI as a feedback to the base station (BS) indicates the data rate that a downlink channel can support. With Levenberg-Marquardt (LM) Optimization method, we present utility functions of different CQI values for standardized 15 Modulation order and Coding Scheme (MCS) in $3^{rd}$ Generation Partnership Project (3GPP). Finally, we simulate and show the results of the optimal power allocation algorithm.

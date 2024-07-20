@@ -1,0 +1,3 @@
+Distributed Approximation Algorithms for the Multiple Knapsack Problem
+
+We consider the distributed version of the Multiple Knapsack Problem (MKP), where $m$ items are to be distributed amongst $n$ processors, each with a knapsack. We propose different distributed approximation algorithms with a tradeoff between time and message complexities. The algorithms are based on the greedy approach of assigning the best item to the knapsack with the largest capacity. These algorithms obtain a solution with a bound of $\frac{1}{n+1}$ times the optimum solution, with either $\mathcal{O}\left(m\log n\right)$ time and $\mathcal{O}\left(m n\right)$ messages, or $\mathcal{O}\left(m\right)$ time and $\mathcal{O}\left(mn^{2}\right)$ messages.

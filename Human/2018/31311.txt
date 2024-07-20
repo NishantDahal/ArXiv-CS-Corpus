@@ -1,0 +1,3 @@
+Convolutional neural networks in phase space and inverse problems
+
+We study inverse problems consisting on determining medium properties using the responses to probing waves from the machine learning point of view. Based on the understanding of propagation of waves and their nonlinear interactions, we construct a deep convolutional neural network in which the parameters are used to classify and reconstruct the coefficients of nonlinear wave equations that model the medium properties. Furthermore, for given approximation accuracy, we obtain the depth and number of units of the network and their quantitative dependence on the complexity of the medium.

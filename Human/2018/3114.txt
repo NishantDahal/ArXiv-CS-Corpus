@@ -1,0 +1,3 @@
+Comparison between CS and JPEG in terms of image compression
+
+The comparison between two approaches, JPEG and Compressive Sensing, is done in the paper. The approaches are compared in terms of image compression. Comparison is done by measuring the image quality versus number of samples used for image recovering. Images are visually compared. Also, numerical quality value, PSNR, is calculated and compared for the two approaches. It is shown that images, recovered by using the Compressive Sensing approach, have higher PSNR values compared to the images under JPEG compression. Difference is larger in grayscale images with small number of details, like e.g. medical images (x-ray). The theory is supported by the experimental results.

@@ -1,0 +1,3 @@
+Hardware design for binarization and thinning of fingerprint images
+
+Two critical steps in fingerprint recognition are binarization and thinning of the image. The need for real time processing motivates us to select local adaptive thresholding approach for the binarization step. We introduce a new hardware for this purpose based on pipeline architecture. We propose a formula for selecting an optimal block size for the thresholding purpose. To decrease minutiae false detection, the binarized image is dilated. We also present in this paper a new pipeline structure for implementing the thinning algorithm

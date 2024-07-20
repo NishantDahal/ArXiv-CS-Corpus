@@ -1,0 +1,3 @@
+Partition Sort Revisited: Reconfirming the Robustness in Average Case and much more!
+
+In our previous work there was some indication that Partition Sort could be having a more robust average case O(nlogn) complexity than the popular Quick Sort. In our first study in this paper, we reconfirm this through computer experiments for inputs from Cauchy distribution for which expectation theoretically does not exist. Additionally, the algorithm is found to be sensitive to parameters of the input probability distribution demanding further investigation on parameterized complexity. The results on this algorithm for Binomial inputs in our second study are very encouraging in that direction.

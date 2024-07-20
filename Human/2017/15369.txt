@@ -1,0 +1,3 @@
+Spectral and Combinatorial Properties of Some Algebraically Defined Graphs
+
+Let $k\ge 3$ be an integer, $q$ be a prime power, and $\mathbb{F}_q$ denote the field of $q$ elements. Let $f_i, g_i\in\mathbb{F}_q[X]$, $3\le i\le k$, such that $g_i(-X) = -\, g_i(X)$. We define a graph $S(k,q) = S(k,q;f_3,g_3,\cdots,f_k,g_k)$ as a graph with the vertex set $\mathbb{F}_q^k$ and edges defined as follows: vertices $a = (a_1,a_2,\ldots,a_k)$ and $b = (b_1,b_2,\ldots,b_k)$ are adjacent if $a_1\ne b_1$ and the following $k-2$ relations on their components hold: $$ b_i-a_i = g_i(b_1-a_1)f_i\Bigl(\frac{b_2-a_2}{b_1-a_1}\Bigr)\;,\quad 3\le i\le k. $$ We show that graphs $S(k,q)$ generalize several recently studied examples of regular expanders and can provide many new such examples.

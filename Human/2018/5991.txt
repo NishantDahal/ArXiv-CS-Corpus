@@ -1,0 +1,6 @@
+Building Better Quality Predictors Using "$ε$-Dominance"
+
+Despite extensive research, many methods in software quality prediction still exhibit some degree of uncertainty in their results. Rather than treating this as a problem, this paper asks if this uncertainty is a resource that can simplify software quality prediction.
+  For example, Deb's principle of $ε$-dominance states that if there exists some $ε$ value below which it is useless or impossible to distinguish results, then it is superfluous to explore anything less than $ε$. We say that for "large $ε$ problems", the results space of learning effectively contains just a few regions. If many learners are then applied to such large $ε$ problems, they would exhibit a "many roads lead to Rome" property; i.e., many different software quality prediction methods would generate a small set of very similar results.
+  This paper explores DART, an algorithm especially selected to succeed for large $ε$ software quality prediction problems. DART is remarkable simple yet, on experimentation, it dramatically out-performs three sets of state-of-the-art defect prediction methods.
+  The success of DART for defect prediction begs the questions: how many other domains in software quality predictors can also be radically simplified? This will be a fruitful direction for future work.

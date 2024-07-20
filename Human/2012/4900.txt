@@ -1,0 +1,3 @@
+Reachability and Termination Analysis of Concurrent Quantum Programs
+
+We introduce a Markov chain model of concurrent quantum programs. This model is a quantum generalization of Hart, Sharir and Pnueli's probabilistic concurrent programs. Some characterizations of the reachable space, uniformly repeatedly reachable space and termination of a concurrent quantum program are derived by the analysis of their mathematical structures. Based on these characterizations, algorithms for computing the reachable space and uniformly repeatedly reachable space and for deciding the termination are given.

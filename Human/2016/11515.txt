@@ -1,0 +1,3 @@
+Computing Theory Prime Implicates in Modal Logic
+
+The algorithm to compute theory prime implicates, a generalization of prime implicates, in propositional logic has been suggested in \cite{Marquis}. In this paper we have extended that algorithm to compute theory prime implicates of a knowledge base $X$ with respect to another knowledge base $\Box Y$ using \cite{Bienvenu}, where $Y$ is a propositional knowledge base and $X\models Y$, in modal system $\mathcal{T}$ and we have also proved its correctness. We have also proved that it is an equivalence preserving knowledge compilation and the size of theory prime implicates of $X$ with respect to $\Box Y$ is less than the size of the prime implicates of $X\cup\Box Y$.

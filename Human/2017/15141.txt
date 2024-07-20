@@ -1,0 +1,3 @@
+The Complexity of Computing a Cardinality Repair for Functional Dependencies
+
+For a relation that violates a set of functional dependencies, we consider the task of finding a maximum number of pairwise-consistent tuples, or what is known as a "cardinality repair." We present a polynomial-time algorithm that, for certain fixed relation schemas (with functional dependencies), computes a cardinality repair. Moreover, we prove that on any of the schemas not covered by the algorithm, finding a cardinality repair is, in fact, an NP-hard problem. In particular, we establish a dichotomy in the complexity of computing a cardinality repair, and we present an efficient algorithm to determine whether a given schema belongs to the positive side or the negative side of the dichotomy.

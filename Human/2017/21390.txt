@@ -1,0 +1,3 @@
+On the Quest for an Acyclic Graph
+
+The paper aims at finding acyclic graphs under a given set of constraints. More specifically, given a propositional formula φ over edges of a fixed-size graph, the objective is to find a model of φ that corresponds to a graph that is acyclic. The paper proposes several encodings of the problem and compares them in an experimental evaluation using stateof-the-art SAT solvers.

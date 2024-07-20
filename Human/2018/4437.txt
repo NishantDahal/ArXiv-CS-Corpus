@@ -1,0 +1,3 @@
+Parallel-In-Time Simulation of Eddy Current Problems Using Parareal
+
+In this contribution the usage of the Parareal method is proposed for the time-parallel solution of the eddy current problem. The method is adapted to the particular challenges of the problem that are related to the differential algebraic character due to non-conducting regions. It is shown how the necessary modification can be automatically incorporated by using a suitable time stepping method. The paper closes with a first demonstration of a simulation of a realistic four-pole induction machine model using Parareal.

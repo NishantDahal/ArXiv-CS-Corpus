@@ -1,0 +1,3 @@
+Notes on Lynch-Morawska Systems
+
+In this paper we investigate convergent term rewriting systems that conform to the criteria set out by Christopher Lynch and Barbara Morawska in their seminal paper "Basic Syntactic Mutation." The equational unification problem modulo such a rewrite system is solvable in polynomial-time. In this paper, we derive properties of such a system which we call an $LM$-system. We show, in particular, that the rewrite rules in an $LM$-system have no left- or right-overlaps. We also show that despite the restricted nature of an $LM$-system, there are important undecidable problems, such as the deduction problem in cryptographic protocol analysis (also called the the cap problem) that remain undecidable for $LM$-systems.

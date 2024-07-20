@@ -1,0 +1,3 @@
+QRKE: Extensions
+
+Permutable Chebyshev polynomials (T polynomials) defined over the field of real numbers are suitable for creating a Diffie-Hellman-like key exchange algorithm that is able to withstand attacks using quantum computers. The algorithm takes advantage of the commutative properties of Chebyshev polynomials of the first kind. We show how T polynomial values can be computed faster and how the underlying principle can further be used to create public key encryption methods, as well as certificate-like authentication-, and signature schemes.

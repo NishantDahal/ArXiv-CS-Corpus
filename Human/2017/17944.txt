@@ -1,0 +1,3 @@
+Contact Force and Joint Torque Estimation Using Skin
+
+In this paper, we present algorithms to estimate external contact forces and joint torques using only skin, i.e. distributed tactile sensors. To deal with gaps between the tactile sensors (taxels), we use interpolation techniques. The application of these interpolation techniques allows us to estimate contact forces and joint torques without the need for expensive force-torque sensors. Validation was performed using the iCub humanoid robot.

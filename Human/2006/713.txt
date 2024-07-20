@@ -1,0 +1,3 @@
+Fast and Simple Methods For Computing Control Points
+
+The purpose of this paper is to present simple and fast methods for computing control points for polynomial curves and polynomial surfaces given explicitly in terms of polynomials (written as sums of monomials). We give recurrence formulae w.r.t. arbitrary affine frames. As a corollary, it is amusing that we can also give closed-form expressions in the case of the frame (r, s) for curves, and the frame ((1, 0, 0), (0, 1, 0), (0, 0, 1) for surfaces. Our methods have the same low polynomial (time and space) complexity as the other best known algorithms, and are very easy to implement.

@@ -1,0 +1,3 @@
+OpenJML: Software verification for Java 7 using JML, OpenJDK, and Eclipse
+
+OpenJML is a tool for checking code and specifications of Java programs. We describe our experience building the tool on the foundation of JML, OpenJDK and Eclipse, as well as on many advances in specification-based software verification. The implementation demonstrates the value of integrating specification tools directly in the software development IDE and in automating as many tasks as possible. The tool, though still in progress, has now been used for several college-level courses on software specification and verification and for small-scale studies on existing Java programs.

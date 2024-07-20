@@ -1,0 +1,4 @@
+The Shortest Connection Game
+
+We introduce Shortest Connection Game, a two-player game played on a directed graph with edge costs. Given two designated vertices in which they start, the players take turns in choosing edges emanating from the vertex they are currently located at. In this way, each of the players forms a path that origins from its respective starting vertex. The game ends as soon as the two paths meet, i.e., a connection between the players is established. Each player has to carry the cost of its chosen edges and thus aims at minimizing its own total cost.
+  In this work we analyze the computational complexity of Shortest Connection Game. On the negative side, the game turns out to be computationally hard even on restricted graph classes such as bipartite, acyclic and cactus graphs. On the positive side, we can give a polynomial time algorithm for cactus graphs when the game is restricted to simple paths.

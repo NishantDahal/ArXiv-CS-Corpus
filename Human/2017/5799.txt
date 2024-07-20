@@ -1,0 +1,3 @@
+An Investigation of Universal Background Sparse Coding Based Speaker Verification on TIMIT
+
+In this paper, we propose a universal background model, named universal background sparse coding (UBSC), for speaker verification. The proposed method trains an ensemble of clusterings by data resampling, and produces sparse codes from the clusterings by one-nearest-neighbor optimization plus binarization. The main advantage of UBSC is that it does not suffer from local minima and does not make Gaussian assumptions on data distributions. We evaluated UBSC on a clean speech corpus---TIMIT. We used the cosine similarity and inner product similarity as the scoring methods of a trial. Experimental results show that UBSC is comparable to Gaussian mixture model.

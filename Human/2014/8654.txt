@@ -1,0 +1,3 @@
+Crossing Minimization for 1-page and 2-page Drawings of Graphs with Bounded Treewidth
+
+We investigate crossing minimization for 1-page and 2-page book drawings. We show that computing the 1-page crossing number is fixed-parameter tractable with respect to the number of crossings, that testing 2-page planarity is fixed-parameter tractable with respect to treewidth, and that computing the 2-page crossing number is fixed-parameter tractable with respect to the sum of the number of crossings and the treewidth of the input graph. We prove these results via Courcelle's theorem on the fixed-parameter tractability of properties expressible in monadic second order logic for graphs of bounded treewidth.

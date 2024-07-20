@@ -1,0 +1,5 @@
+Computing by Temporal Order: Asynchronous Cellular Automata
+
+Our concern is the behaviour of the elementary cellular automata with state set 0,1 over the cell set Z/nZ (one-dimensional finite wrap-around case), under all possible update rules (asynchronicity). 
+  Over the torus Z/nZ (n<= 11),we will see that the ECA with Wolfram rule 57 maps any v in F_2^n to any w in F_2^n, varying the update rule.
+  We furthermore show that all even (element of the alternating group) bijective functions on the set F_2^n = 0,...,2^n-1,  can be computed by ECA57, by iterating it a sufficient number of times with varying update rules, at least for n <= 10.  We characterize the non-bijective functions computable by asynchronous rules.

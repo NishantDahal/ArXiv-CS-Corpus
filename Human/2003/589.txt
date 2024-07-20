@@ -1,0 +1,4 @@
+Constraint-based analysis of composite solvers
+
+Cooperative constraint solving is an area of constraint programming that studies the interaction between constraint solvers with the aim of discovering the interaction patterns that amplify the positive qualities of individual solvers. Automatisation and formalisation of such studies is an important issue of cooperative constraint solving.
+  In this paper we present a constraint-based analysis of composite solvers that integrates reasoning about the individual solvers and the processed data. The idea is to approximate this reasoning by resolution of set constraints on the finite sets representing the predicates that express all the necessary properties. We illustrate application of our analysis to two important cooperation patterns: deterministic choice and loop.

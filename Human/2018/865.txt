@@ -1,0 +1,3 @@
+SAR Image Despeckling Using Quadratic-Linear Approximated L1-Norm
+
+Speckle noise, inherent in synthetic aperture radar (SAR) images, degrades the performance of the various SAR image analysis tasks. Thus, speckle noise reduction is a critical preprocessing step for smoothing homogeneous regions while preserving details. This letter proposes a variational despeckling approach where L1-norm total variation regularization term is approximated in a quadratic and linear manner to increase accuracy while decreasing the computation time. Despeckling performance and computational efficiency of the proposed method are shown using synthetic and real-world SAR images.

@@ -1,0 +1,3 @@
+Learning the PE Header, Malware Detection with Minimal Domain Knowledge
+
+Many efforts have been made to use various forms of domain knowledge in malware detection. Currently there exist two common approaches to malware detection without domain knowledge, namely byte n-grams and strings. In this work we explore the feasibility of applying neural networks to malware detection and feature learning. We do this by restricting ourselves to a minimal amount of domain knowledge in order to extract a portion of the Portable Executable (PE) header. By doing this we show that neural networks can learn from raw bytes without explicit feature construction, and perform even better than a domain knowledge approach that parses the PE header into explicit features.

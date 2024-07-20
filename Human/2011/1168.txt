@@ -1,0 +1,4 @@
+TiA -- Documentation of TOBI Interface A
+
+This document contains the documentation of TOBI (Tools for BCI) Interface A (TiA).
+  TiA is a standardized interface to transmit raw biosignals. It is able to deal with multirate and block-oriented data transmission. Data is distinguished by different signal types (e.g., EEG, EOG, NIRS,...), whereby those signals can be acquired at the same time from different acquisition devices. TiA is built as a client-server model. Multiple clients can connect to one server. Information is exchanged via a control- and a separated data connection. Control commands and meta information are transmitted over the control connection. Raw biosignal data is delivered using the data connection in a unidirectional way. For this purpose a standardized handshaking protocol and raw data packet have been developed. Thus, an abstraction layer between hardware devices and data processing was evolved facilitating standardization.

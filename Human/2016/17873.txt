@@ -1,0 +1,3 @@
+A DNN Framework For Text Image Rectification From Planar Transformations
+
+In this paper, a novel neural network architecture is proposed attempting to rectify text images with mild assumptions. A new dataset of text images is collected to verify our model and open to public. We explored the capability of deep neural network in learning geometric transformation and found the model could segment the text image without explicit supervised segmentation information. Experiments show the architecture proposed can restore planar transformations with wonderful robustness and effectiveness.

@@ -1,0 +1,3 @@
+Visual Based Navigation of Mobile Robots
+
+We have developed an algorithm to generate a complete map of the traversable region for a personal assistant robot using monocular vision only. Using multiple taken by a simple webcam, obstacle detection and avoidance algorithms have been developed. Simple Linear Iterative Clustering (SLIC) has been used for segmentation to reduce the memory and computation cost. A simple mapping technique using inverse perspective mapping and occupancy grids, which is robust, and supports very fast updates has been used to create the map for indoor navigation.

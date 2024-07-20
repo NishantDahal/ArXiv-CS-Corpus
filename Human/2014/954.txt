@@ -1,0 +1,4 @@
+Approximating Large Frequency Moments with $O(n^{1-2/k})$ Bits
+
+In this paper we consider the problem of approximating frequency moments in the streaming model. Given a stream $D = \{p_1,p_2,\dots,p_m\}$ of numbers from $\{1,\dots, n\}$, a frequency of $i$ is defined as $f_i = |\{j: p_j = i\}|$. The $k$-th \emph{frequency moment} of $D$ is defined as $F_k = \sum_{i=1}^n f_i^k$.
+  In this paper we give an upper bound on the space required to find a $k$-th frequency moment of $O(n^{1-2/k})$ bits that matches, up to a constant factor, the lower bound of Woodruff and Zhang (STOC 12) for constant $ε$ and constant $k$. Our algorithm makes a single pass over the stream and works for any constant $k > 3$.

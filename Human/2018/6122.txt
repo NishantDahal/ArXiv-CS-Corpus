@@ -1,0 +1,3 @@
+Probabilistic Analysis of Block Wiedemann for Leading Invariant Factors
+
+We determine the probability, structure dependent, that the block Wiedemann algorithm correctly computes leading invariant factors. This leads to a tight lower bound for the probability, structure independent. We show, using block size slightly larger than $r$, that the leading $r$ invariant factors are computed correctly with high probability over any field. Moreover, an algorithm is provided to compute the probability bound for a given matrix size and thus to select the block size needed to obtain the desired probability. The worst case probability bound is improved, post hoc, by incorporating the partial information about the invariant factors.

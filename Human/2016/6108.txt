@@ -1,0 +1,4 @@
+Asymptotic properties of free monoid morphisms
+
+Motivated by applications in the theory of numeration systems and recognizable sets of integers, this paper deals with morphic words when erasing morphisms are taken into account. Cobham showed that if an infinite word $w =g(f^ω(a))$ is the image of a fixed point of a morphism $f$ under another morphism $g$, then there exist a non-erasing morphism $σ$ and a coding $τ$ such that $w =τ(σ^ω(b))$.
+  Based on the Perron theorem about asymptotic properties of powers of non-negative matrices, our main contribution is an in-depth study of the growth type of iterated morphisms when one replaces erasing morphisms with non-erasing ones. We also explicitly provide an algorithm computing $σ$ and $τ$ from $f$ and $g$.

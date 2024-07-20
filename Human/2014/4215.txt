@@ -1,0 +1,5 @@
+Asymptotics of Fingerprinting and Group Testing: Tight Bounds from Channel Capacities
+
+In this work we consider the large-coalition asymptotics of various fingerprinting and group testing games, and derive explicit expressions for the capacities for each of these models. We do this both for simple decoders (fast but suboptimal) and for joint decoders (slow but optimal).
+  For fingerprinting, we show that if the pirate strategy is known, the capacity often decreases linearly with the number of colluders, instead of quadratically as in the uninformed fingerprinting game. For many attacks the joint capacity is further shown to be strictly higher than the simple capacity.
+  For group testing, we improve upon known results about the joint capacities, and derive new explicit asymptotics for the simple capacities. These show that existing simple group testing algorithms are suboptimal, and that simple decoders cannot asymptotically be as efficient as joint decoders. For the traditional group testing model, we show that the gap between the simple and joint capacities is a factor 1.44 for large numbers of defectives.

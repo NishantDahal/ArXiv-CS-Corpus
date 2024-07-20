@@ -1,0 +1,3 @@
+Quantum Arthur-Merlin with single-qubit measurements
+
+We show that the class QAM does not change even if the verifier's ability is restricted to only single-qubit measurements. To show the result, we use the idea of the measurement-based quantum computing: the verifier, who can do only single-qubit measurements, can test the graph state sent from the prover and use it for his measurement-based quantum computing. We also introduce a new QMA-complete problem related to the stabilizer test.

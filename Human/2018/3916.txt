@@ -1,0 +1,3 @@
+State-Adaptive Coded Caching for Symmetric Broadcast Channels
+
+Coded-caching delivery is considered over a symmetric noisy broadcast channel whose state is unknown at the transmitter during the cache placement phase. In particular, the delivery phase is modeled by a state-dependent broadcast channel where the state remains constant over each transmission block and is learned by the transmitter (and the receivers) only at the beginning of each block. A state-adaptive coded caching scheme is proposed that improves either on rate or decoding latency over two baseline schemes that are based on standard coded caching.

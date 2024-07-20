@@ -1,0 +1,3 @@
+Explicit equivalence of quadratic forms over $\mathbb{F}_q(t)$
+
+We propose a randomized polynomial time algorithm for computing nontrivial zeros of quadratic forms in 4 or more variables over $\mathbb{F}_q(t)$, where $\mathbb{F}_q$ is a finite field of odd characteristic. The algorithm is based on a suitable splitting of the form into two forms and finding a common value they both represent. We make use of an effective formula for the number of fixed degree irreducible polynomials in a given residue class. We apply our algorithms for computing a Witt decomposition of a quadratic form, for computing an explicit isometry between quadratic forms and finding zero divisors in quaternion algebras over quadratic extensions of $\mathbb{F}_q(t)$.

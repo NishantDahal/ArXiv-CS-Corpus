@@ -1,0 +1,3 @@
+Quantum Block and Convolutional Codes from Self-orthogonal Product Codes
+
+We present a construction of self-orthogonal codes using product codes. From the resulting codes, one can construct both block quantum error-correcting codes and quantum convolutional codes. We show that from the examples of convolutional codes found, we can derive ordinary quantum error-correcting codes using tail-biting with parameters [[42N,24N,3]]_2. While it is known that the product construction cannot improve the rate in the classical case, we show that this can happen for quantum codes: we show that a code [[15,7,3]]_2 is obtained by the product of a code [[5,1,3]]_2 with a suitable code.

@@ -1,0 +1,4 @@
+Triangulating planar graphs while keeping the pathwidth small
+
+Any simple planar graph can be triangulated, i.e., we can add edges to it, without adding multi-edges, such that the result is planar and all faces are triangles. In this paper, we study the problem of triangulating a planar graph without increasing the pathwidth by much.
+  We show that if a planar graph has pathwidth $k$, then we can triangulate it so that the resulting graph has pathwidth $O(k)$ (where the factors are 1, 8 and 16 for 3-connected, 2-connected and arbitrary graphs). With similar techniques, we also show that any outer-planar graph of pathwidth $k$ can be turned into a maximal outer-planar graph of pathwidth at most $4k+4$. The previously best known result here was $16k+15$.

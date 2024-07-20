@@ -1,0 +1,3 @@
+Avoidability of formulas with two variables
+
+In combinatorics on words, a word $w$ over an alphabet $Σ$ is said to avoid a pattern $p$ over an alphabet $Δ$ of variables if there is no factor $f$ of $w$ such that $f=h(p)$ where $h:Δ^*\toΣ^*$ is a non-erasing morphism. A pattern $p$ is said to be $k$-avoidable if there exists an infinite word over a $k$-letter alphabet that avoids $p$. We consider the patterns such that at most two variables appear at least twice, or equivalently, the formulas with at most two variables. For each such formula, we determine whether it is $2$-avoidable, and if it is $2$-avoidable, we determine whether it is avoided by exponentially many binary words.

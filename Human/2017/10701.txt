@@ -1,0 +1,3 @@
+Domain reduction techniques for global NLP and MINLP optimization
+
+Optimization solvers routinely utilize presolve techniques, including model simplification, reformulation and domain reduction techniques. Domain reduction techniques are especially important in speeding up convergence to the global optimum for challenging nonconvex nonlinear programming (NLP) and mixed-integer nonlinear programming (MINLP) optimization problems. In this work, we survey the various techniques used for domain reduction of NLP and MINLP optimization problems. We also present a computational analysis of the impact of these techniques on the performance of various widely available global solvers on a collection of 1740 test problems.

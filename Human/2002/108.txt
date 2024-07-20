@@ -1,0 +1,5 @@
+Super Logic Programs
+
+The Autoepistemic Logic of Knowledge and Belief (AELB) is a powerful nonmonotic formalism introduced by Teodor Przymusinski in 1994. In this paper, we specialize it to a class of theories called `super logic programs'. We argue that these programs form a natural generalization of standard logic programs. In particular, they allow disjunctions and default negation of arbibrary positive objective formulas.
+  Our main results are two new and powerful characterizations of the static semant ics of these programs, one syntactic, and one model-theoretic. The syntactic fixed point characterization is much simpler than the fixed point construction of the static semantics for arbitrary AELB theories. The model-theoretic characterization via Kripke models allows one to construct finite representations of the inherently infinite static expansions.
+  Both characterizations can be used as the basis of algorithms for query answering under the static semantics. We describe a query-answering interpreter for super programs which we developed based on the model-theoretic characterization and which is available on the web.

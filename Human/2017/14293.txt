@@ -1,0 +1,3 @@
+A criterion for "easiness" of certain SAT problems
+
+A generalized 1-in-3SAT problem is defined and found to be in complexity class P when restricted to a certain subset of CNF expressions. In particular, 1-in-kSAT with no restrictions on the number of literals per clause can be decided in polynomial time when restricted to exact READ-3 formulas with equal number of clauses (m) and variables (n), and no pure literals. Also individual instances can be checked for easiness with respect to a given SAT problem. By identifying whole classes of formulas as being solvable efficiently the approach might be of interest also in the complementary search for hard instances.

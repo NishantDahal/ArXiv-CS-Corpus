@@ -1,0 +1,3 @@
+A Diffusion Kernel LMS algorithm for nonlinear adaptive networks
+
+This work presents a distributed algorithm for nonlinear adaptive learning. In particular, a set of nodes obtain measurements, sequentially one per time step, which are related via a nonlinear function; their goal is to collectively minimize a cost function by employing a diffusion based Kernel Least Mean Squares (KLMS). The algorithm follows the Adapt Then Combine mode of cooperation. Moreover, the theoretical properties of the algorithm are studied and it is proved that under certain assumptions the algorithm suffers a no regret bound. Finally, comparative experiments verify that the proposed scheme outperforms other variants of the LMS.

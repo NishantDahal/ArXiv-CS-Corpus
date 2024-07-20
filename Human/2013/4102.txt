@@ -1,0 +1,3 @@
+Exact-Regenerating Codes between MBR and MSR Points
+
+In this paper we study distributed storage systems with exact repair. We give a construction for regenerating codes between the minimum storage regenerating (MSR) and the minimum bandwidth regenerating (MBR) points and show that in the case that the parameters n, k, and d are close to each other our constructions are close to optimal when comparing to the known capacity when only functional repair is required. We do this by showing that when the distances of the parameters n, k, and d are fixed but the actual values approach to infinity, the fraction of the performance of our codes with exact repair and the known capacity of codes with functional repair approaches to one.

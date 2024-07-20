@@ -1,0 +1,3 @@
+An improvement of the convergence proof of the ADAM-Optimizer
+
+A common way to train neural networks is the Backpropagation. This algorithm includes a gradient descent method, which needs an adaptive step size. In the area of neural networks, the ADAM-Optimizer is one of the most popular adaptive step size methods. It was invented in \cite{Kingma.2015} by Kingma and Ba. The $5865$ citations in only three years shows additionally the importance of the given paper. We discovered that the given convergence proof of the optimizer contains some mistakes, so that the proof will be wrong. In this paper we give an improvement to the convergence proof of the ADAM-Optimizer.

@@ -1,0 +1,4 @@
+Blind-date Conversation Joining
+
+We focus on a form of joining conversations among multiple parties in service-oriented applications where a client may asynchronously join an existing conversation without need to know in advance any information about it. More specifically, we show how the correlation mechanism provided by orchestration languages enables a form of conversation joining that is completely transparent to clients and that we call 'blind-date joining'. We provide an implementation of this strategy by using the standard orchestration language WS-BPEL. We then present its formal semantics by resorting to COWS, a process calculus specifically designed for modelling service-oriented applications. We illustrate our approach by means of a simple, but realistic, case study from the online games domain.
+

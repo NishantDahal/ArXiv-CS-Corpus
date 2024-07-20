@@ -1,0 +1,3 @@
+Bohemian Upper Hessenberg Toeplitz Matrices
+
+We look at Bohemian matrices, specifically those with entries from $\{-1, 0, {+1}\}$. More, we specialize the matrices to be upper Hessenberg, with subdiagonal entries $1$. Even more, we consider Toeplitz matrices of this kind. Many properties remain after these specializations, some of which surprised us. Focusing on only those matrices whose characteristic polynomials have maximal height allows us to explicitly identify these polynomials and give a lower bound on their height. This bound is exponential in the order of the matrix.

@@ -1,0 +1,3 @@
+A New Upperbound for the Oblivious Transfer Capacity of Discrete Memoryless Channels
+
+We derive a new upper bound on the string oblivious transfer capacity of discrete memoryless channels. The main tool we use is the tension region of a pair of random variables introduced in Prabhakaran and Prabhakaran (2014) where it was used to derive upper bounds on rates of secure sampling in the source model. In this paper, we consider secure computation of string oblivious transfer in the channel model. Our bound is based on a monotonicity property of the tension region in the channel model. We show that our bound strictly improves upon the upper bound of Ahlswede and Csiszár (2013).

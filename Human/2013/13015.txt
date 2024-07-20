@@ -1,0 +1,3 @@
+The Dynamic Longest Increasing Subsequence Problem
+
+In this paper, we construct a data structure to efficiently compute the longest increasing subsequence of a sequence subject to dynamic updates. Our data structure supports a query for the longest increasing subsequence in $O(r+\log n)$ worst-case time and supports inserts anywhere in the sequence in $O \left(r\log{n/r}\right)$ worst-case time (where $r$ is the length of the longest increasing subsequence). The same data structure with a minor modification supports $O(\log n)$ worst-case time insertions if the insertions are performed at the end of the sequence. The data structure presented can also be augmented to support delete operations in the same worst-case time as insertions.

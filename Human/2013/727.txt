@@ -1,0 +1,3 @@
+AViTExt: Automatic Video Text Extraction, A new Approach for video content indexing Application
+
+In this paper, we propose a spatial temporal video-text detection technique which proceed in two principal steps:potential text region detection and a filtering process. In the first step we divide dynamically each pair of consecutive video frames into sub block in order to detect change. A significant difference between homologous blocks implies the appearance of an important object which may be a text region. The temporal redundancy is then used to filter these regions and forms an effective text region. The experimentation driven on a variety of video sequences shows the effectiveness of our approach by obtaining a 89,39% as precision rate and 90,19 as recall.

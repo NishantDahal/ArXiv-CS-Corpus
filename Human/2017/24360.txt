@@ -1,0 +1,3 @@
+Games for Bisimulations and Abstraction
+
+Weak bisimulations are typically used in process algebras where silent steps are used to abstract from internal behaviours. They facilitate relating implementations to specifications. When an implementation fails to conform to its specification, pinpointing the root cause can be challenging. In this paper we provide a generic characterisation of branching-, delayed-, $η$- and weak-bisimulation as a game between Spoiler and Duplicator, offering an operational understanding of the relations. We show how such games can be used to assist in diagnosing non-conformance between implementation and specification. Moreover, we show how these games can be extended to distinguish divergences.

@@ -1,0 +1,3 @@
+Unified way for computing dynamics of Bose-Einstein condensates and degenerate Fermi gases
+
+In this work we present a very simple and efficient numerical scheme which can be applied to study the dynamics of bosonic systems like, for instance, spinor Bose-Einstein condensates with nonlocal interactions but equally well works for Fermi gases. The method we use is a modification of well known Split Operator Method (SOM). We carefully examine this algorithm in the case of $F=1$ spinor Bose-Einstein condensate without and with dipolar interactions and for strongly interacting two-component Fermi gas. Our extension of the SOM method has many advantages: it is fast, stable, and keeps constant all the physical constraints (constants of motion) at high level.

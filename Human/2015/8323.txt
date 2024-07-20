@@ -1,0 +1,3 @@
+Co-clustering of Nonsmooth Graphons
+
+Performance bounds are given for exploratory co-clustering/ blockmodeling of bipartite graph data, where we assume the rows and columns of the data matrix are samples from an arbitrary population. This is equivalent to assuming that the data is generated from a nonsmooth graphon. It is shown that co-clusters found by any method can be extended to the row and column populations, or equivalently that the estimated blockmodel approximates a blocked version of the generative graphon, with estimation error bounded by $O_P(n^{-1/2})$. Analogous performance bounds are also given for degree-corrected blockmodels and random dot product graphs, with error rates depending on the dimensionality of the latent variable space.

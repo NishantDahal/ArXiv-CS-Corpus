@@ -1,0 +1,4 @@
+A Common Information-Based Multiple Access Protocol Achieving Full Throughput and Linear Delay
+
+We consider a multiple access communication system where multiple users share a common collision channel. Each user observes its local traffic and the feedback from the channel. At each time instant the feedback from the channel is one of three messages: no transmission, successful transmission, collision. The objective is to design a transmission protocol that coordinates the users' transmissions and achieves high throughput and low delay.
+  We present a decentralized Common Information-Based Multiple Access (CIMA) protocol that has the following features: (i) it achieves the full throughput region of the collision channel; (ii) it results in a delay that is linear in the number of users, and is significantly lower than that of CSMA protocols; (iii) it avoids collisions without channel sensing.

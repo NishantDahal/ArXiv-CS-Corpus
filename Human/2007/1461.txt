@@ -1,0 +1,3 @@
+A nearly tight memory-redundancy trade-off for one-pass compression
+
+Let $s$ be a string of length $n$ over an alphabet of constant size $σ$ and let $c$ and $ε$ be constants with (1 \geq c \geq 0) and (ε> 0). Using (O (n)) time, (O (n^c)) bits of memory and one pass we can always encode $s$ in (n H_k (s) + O (σ^k n^{1 - c + ε})) bits for all integers (k \geq 0) simultaneously. On the other hand, even with unlimited time, using (O (n^c)) bits of memory and one pass we cannot always encode $s$ in (O (n H_k (s) + σ^k n^{1 - c - ε})) bits for, e.g., (k = \lceil (c + ε/ 2) \log_σn \rceil).

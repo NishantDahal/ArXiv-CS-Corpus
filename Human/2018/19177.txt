@@ -1,0 +1,3 @@
+Inference, Learning, and Population Size: Projectivity for SRL Models
+
+A subtle difference between propositional and relational data is that in many relational models, marginal probabilities depend on the population or domain size. This paper connects the dependence on population size to the classic notion of projectivity from statistical theory: Projectivity implies that relational predictions are robust with respect to changes in domain size. We discuss projectivity for a number of common SRL systems, and identify syntactic fragments that are guaranteed to yield projective models. The syntactic conditions are restrictive, which suggests that projectivity is difficult to achieve in SRL, and care must be taken when working with different domain sizes.

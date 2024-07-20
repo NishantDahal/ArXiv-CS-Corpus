@@ -1,0 +1,6 @@
+A Higher-Order Implementation of Rewriting
+
+Many automatic theorem-provers rely on rewriting.  Using theorems as rewrite rules helps to simplify the subgoals that arise during a proof.
+  LCF is an interactive theorem-prover intended for reasoning about computation.  Its implementation of rewriting is presented in detail.  LCF provides a family of rewriting functions, and operators to combine them.  A succession of functions is described, from pattern matching primitives to the rewriting tool that performs most inferences in LCF proofs.
+  The design is highly modular.  Each function performs a basic, specific task, such as recognizing a certain form of tautology.  Each operator implements one method of building a rewriting function from simpler ones.  These pieces can be put together in numerous ways, yielding a variety of rewrit- ing strategies.
+  The approach involves programming with higher-order functions.  Rewriting functions are data values, produced by computation on other rewriting functions.  The code is in daily use at Cambridge, demonstrating the practical use of functional programming.

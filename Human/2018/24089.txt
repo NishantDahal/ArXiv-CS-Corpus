@@ -1,0 +1,3 @@
+Automata Guided Reinforcement Learning With Demonstrations
+
+Tasks with complex temporal structures and long horizons pose a challenge for reinforcement learning agents due to the difficulty in specifying the tasks in terms of reward functions as well as large variances in the learning signals. We propose to address these problems by combining temporal logic (TL) with reinforcement learning from demonstrations. Our method automatically generates intrinsic rewards that align with the overall task goal given a TL task specification. The policy resulting from our framework has an interpretable and hierarchical structure. We validate the proposed method experimentally on a set of robotic manipulation tasks.

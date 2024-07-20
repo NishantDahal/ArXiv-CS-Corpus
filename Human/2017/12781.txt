@@ -1,0 +1,3 @@
+A Family of Metrics for Clustering Algorithms
+
+We give the motivation for scoring clustering algorithms and a metric $M : A \rightarrow \mathbb{N}$ from the set of clustering algorithms to the natural numbers which we realize as \begin{equation} M(A) = \sum_i α_i |f_i - β_i|^{w_i} \end{equation} where $α_i,β_i,w_i$ are parameters used for scoring the feature $f_i$, which is computed empirically.. We give a method by which one can score features such as stability, noise sensitivity, etc and derive the necessary parameters. We conclude by giving a sample set of scores.

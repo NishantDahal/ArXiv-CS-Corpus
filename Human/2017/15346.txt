@@ -1,0 +1,3 @@
+Shape Registration with Directional Data
+
+We propose several cost functions for registration of shapes encoded with Euclidean and/or non-Euclidean information (unit vectors). Our framework is assessed for estimation of both rigid and non-rigid transformations between the target and model shapes corresponding to 2D contours and 3D surfaces. The experimental results obtained confirm that using the combination of a point's position and unit normal vector in a cost function can enhance the registration results compared to state of the art methods.

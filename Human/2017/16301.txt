@@ -1,0 +1,3 @@
+Pseudorandom Bits for Oblivious Branching Programs
+
+We construct a pseudorandom generator which fools read-$k$ oblivious branching programs and, more generally, any linear length oblivious branching program, assuming that the sequence according to which the bits are read is known in advance. For polynomial width branching programs, the seed lengths in our constructions are $\tilde{O}(n^{1-1/2^{k-1}})$ (for the read-$k$ case) and $O(n/ \log \log n)$ (for the linear length case). Previously, the best construction for these models required seed length $(1-Ω(1))n$.

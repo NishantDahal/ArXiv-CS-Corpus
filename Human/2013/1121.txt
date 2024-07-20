@@ -1,0 +1,3 @@
+Certifying and reasoning about cost annotations of functional programs
+
+We present a so-called labelling method to insert cost annotations in a higher-order functional program, to certify their correctness with respect to a standard compilation chain to assembly code including safe memory management, and to reason on them in a higher-order Hoare logic.

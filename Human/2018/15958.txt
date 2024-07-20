@@ -1,0 +1,3 @@
+Semi-Recurrent CNN-based VAE-GAN for Sequential Data Generation
+
+A semi-recurrent hybrid VAE-GAN model for generating sequential data is introduced. In order to consider the spatial correlation of the data in each frame of the generated sequence, CNNs are utilized in the encoder, generator, and discriminator. The subsequent frames are sampled from the latent distributions obtained by encoding the previous frames. As a result, the dependencies between the frames are maintained. Two testing frameworks for synthesizing a sequence with any number of frames are also proposed. The promising experimental results on piano music generation indicates the potential of the proposed framework in modeling other sequential data such as video.

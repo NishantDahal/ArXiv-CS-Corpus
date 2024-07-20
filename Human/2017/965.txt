@@ -1,0 +1,3 @@
+IRA codes derived from Gruenbaum graph
+
+In this paper, we consider coding of short data frames (192 bits) by IRA codes. A new interleaver for the IRA codes based on a Gruenbaum graph is proposed. The difference of the proposed algorithm from known methods consists in the following: permutation is performed by using a match smaller interleaver which is derived from the Gruenbaum graph by finding in this graph a Hamiltonian path, enumerating the passed vertices in ascending order and passing them again in the permuted order through the edges which are not included in the Hamiltonian path. For the IRA code the obtained interleaver provides 0.7-0.8 db gain over a convolutional code decoded by Viterbi algorithm.

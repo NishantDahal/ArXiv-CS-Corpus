@@ -1,0 +1,3 @@
+A Fast Algorithm for Computing the p-Curvature
+
+We design an algorithm for computing the $p$-curvature of a differential system in positive characteristic $p$. For a system of dimension $r$ with coefficients of degree at most $d$, its complexity is $\softO (p d r^ω)$ operations in the ground field (where $ω$ denotes the exponent of matrix multiplication), whereas the size of the output is about $p d r^2$. Our algorithm is then quasi-optimal assuming that matrix multiplication is (\emph{i.e.} $ω= 2$). The main theoretical input we are using is the existence of a well-suited ring of series with divided powers for which an analogue of the Cauchy--Lipschitz Theorem holds.

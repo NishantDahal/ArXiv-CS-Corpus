@@ -1,0 +1,3 @@
+Distributed Inertial Best-Response Dynamics
+
+The note considers the problem of computing pure Nash equilibrium (NE) strategies in distributed (i.e., network-based) settings. The paper studies a class of inertial best response dynamics based on the fictitious play (FP) algorithm. It is shown that inertial best response dynamics are robust to informational limitations common in distributed settings. Fully distributed variants of FP with inertia and joint strategy FP with inertia are developed and convergence is proven to the set of pure NE. The distributed algorithms rely on consensus methods. Results are validated using numerical simulations.

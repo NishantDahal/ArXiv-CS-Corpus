@@ -1,0 +1,4 @@
+Certifying coloring algorithms for graphs without long induced paths
+
+Let $P_k$ be a path, $C_k$ a cycle on $k$ vertices, and $K_{k,k}$ a complete bipartite graph with $k$ vertices on each side of the bipartition. We prove that (1) for any integers $k, t>0$ and a graph $H$ there are finitely many subgraph minimal graphs with no induced $P_k$ and $K_{t,t}$ that are not $H$-colorable and (2) for any integer $k>4$ there are finitely many subgraph minimal graphs with no induced $P_k$ that are not $C_{k-2}$-colorable.
+  The former generalizes the result of Hell and Huang [Complexity of coloring graphs without paths and cycles, Discrete Appl. Math. 216: 211--232 (2017)] and the latter extends a result of Bruce, Hoang, and Sawada [A certifying algorithm for 3-colorability of $P_5$-Free Graphs, ISAAC 2009: 594--604]. Both our results lead to polynomial-time certifying algorithms for the corresponding coloring problems.

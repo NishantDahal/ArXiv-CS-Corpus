@@ -1,0 +1,3 @@
+MengeROS: a Crowd Simulation Tool for Autonomous Robot Navigation
+
+While effective navigation in large, crowded environments is essential for an autonomous robot, preliminary testing of algorithms to support it requires simulation across a broad range of crowd scenarios. Most available simulation tools provide either realistic crowds without robots or realistic robots without realistic crowds. This paper introduces MengeROS, a 2-D simulator that realistically integrates multiple robots and crowds. MengeROS provides a broad range of settings in which to test the capabilities and performance of navigation algorithms designed for large crowded environments.

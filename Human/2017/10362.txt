@@ -1,0 +1,3 @@
+Computing Chebyshev knot diagrams
+
+A Chebyshev curve $\mathcal{C}(a,b,c,φ)$ has a parametrization of the form$ x(t)=T\_a(t)$; \ $y(t)=T\_b(t)$; $z(t)= T\_c(t + φ)$, where $a,b,c$are integers, $T\_n(t)$ is the Chebyshev polynomialof degree $n$ and $φ\in \mathbb{R}$. When $\mathcal{C}(a,b,c,φ)$ is nonsingular,it defines a polynomial knot. We determine all possible knot diagrams when $φ$ varies. Let $a,b,c$ be integers, $a$ is odd, $(a,b)=1$, we show that one can list all possible knots $\mathcal{C}(a,b,c,φ)$ in$\tilde{\mathcal{O}}(n^2)$ bit operations, with $n=abc$.

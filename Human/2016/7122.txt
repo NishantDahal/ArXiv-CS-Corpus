@@ -1,0 +1,3 @@
+A Fast 2-Approximation Algorithm for Guarding Orthogonal Terrains
+
+Terrain Guarding Problem(TGP), which is known to be NP-complete, asks to find a smallest set of guard locations on a terrain $T$ such that every point on $T$ is visible by a guard. Here, we study this problem on 1.5D orthogonal terrains where the edges are bound to be horizontal or vertical. We propose a 2-approximation algorithm that runs in O($n \log m$) time, where $n$ and $m$ are the sizes of input and output, respectively. This is an improvement over the previous best algorithm, which is a 2-approximation with O($n^2$) running time.

@@ -1,0 +1,3 @@
+A fast minimal solver for absolute camera pose with unknown focal length and radial distortion from four planar points
+
+In this paper we present a fast minimal solver for absolute camera pose estimation from four known points that lie in a plane. We assume a perspective camera model with unknown focal length and unknown radial distortion. The radial distortion is modelled using the division model with one parameter. We show that the solutions to this problem can be found from a univariate six-degree polynomial. This results in a very fast and numerically stable solver.

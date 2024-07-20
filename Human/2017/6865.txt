@@ -1,0 +1,3 @@
+A Robust Blind Watermarking Using Convolutional Neural Network
+
+This paper introduces a blind watermarking based on a convolutional neural network (CNN). We propose an iterative learning framework to secure robustness of watermarking. One loop of learning process consists of the following three stages: Watermark embedding, attack simulation, and weight update. We have learned a network that can detect a 1-bit message from a image sub-block. Experimental results show that this learned network is an extension of the frequency domain that is widely used in existing watermarking scheme. The proposed scheme achieved robustness against geometric and signal processing attacks with a learning time of one day.

@@ -1,0 +1,4 @@
+Eff Directly in OCaml
+
+The language Eff is an OCaml-like language serving as a prototype implementation of the theory of algebraic effects, intended for experimentation with algebraic effects on a large scale.
+  We present the embedding of Eff into OCaml, using the library of delimited continuations or the multicore OCaml branch.  We demonstrate the correctness of the embedding denotationally, relying on the tagless-final-style interpreter-based denotational semantics, including the novel, direct denotational semantics of multi-prompt delimited control.  The embedding is systematic, lightweight, performant and supports even higher-order, 'dynamic' effects with their polymorphism. OCaml thus may be regarded as another implementation of Eff, broadening the scope and appeal of that language.

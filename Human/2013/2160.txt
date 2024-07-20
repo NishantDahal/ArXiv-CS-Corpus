@@ -1,0 +1,3 @@
+Chernoff-Hoeffding Inequality and Applications
+
+When dealing with modern big data sets, a very common theme is reducing the set through a random process. These generally work by making "many simple estimates" of the full data set, and then judging them as a whole. Perhaps magically, these "many simple estimates" can provide a very accurate and small representation of the large data set. The key tool in showing how many of these simple estimates are needed for a fixed accuracy trade-off is the Chernoff-Hoeffding inequality[Che52,Hoe63]. This document provides a simple form of this bound, and two examples of its use.

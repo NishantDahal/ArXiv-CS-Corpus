@@ -1,0 +1,3 @@
+Return Oriented Programming - Exploit Implementation using functions
+
+Return Oriented programming was surfaced first a decade ago, and was built to overcome the buffer exploit defense mechanisms like ASLR, DEP (or W^ X) by method of reusing the system code in the form of gadgets which are stitched together to make a Turing complete attack. And to perform Turing complete attack would require greater efforts which are quite complex, and there is very little research available for performing a Turing complete attack. So, in this project, we are systematizing the knowledge of the existing research that can be used to perform a Turing complete ROP attack.

@@ -1,0 +1,3 @@
+Successive Cancellation List Decoding of BMERA Codes with Application to Higher-Order Modulation
+
+BMERA or convolutional polar codes are an extension of polar codes with a provably better error exponent than polar codes. A successive cancellation (SC) decoding algorithm for BMERA codes similar to SC polar decoders is introduced. A pseudocode description of the SC decoder that can be extended to SC list (SCL) decoding is provided. Simulation results with and without outer CRC codes under SC and SCL decoding are presented for QAM modulation over the AWGN channel to compare the performance of polar and BMERA codes. BMERA codes outperform polar codes by more than 0.5 dB under SCL decoding without outer CRC codes.

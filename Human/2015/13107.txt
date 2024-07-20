@@ -1,0 +1,3 @@
+Improved Answer-Set Programming Encodings for Abstract Argumentation
+
+The design of efficient solutions for abstract argumentation problems is a crucial step towards advanced argumentation systems. One of the most prominent approaches in the literature is to use Answer-Set Programming (ASP) for this endeavor. In this paper, we present new encodings for three prominent argumentation semantics using the concept of conditional literals in disjunctions as provided by the ASP-system clingo. Our new encodings are not only more succinct than previous versions, but also outperform them on standard benchmarks.

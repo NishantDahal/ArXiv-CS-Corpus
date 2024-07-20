@@ -1,0 +1,3 @@
+Basic completion strategies as another application of the Maude strategy language
+
+The two levels of data and actions on those data provided by the separation between equations and rules in rewriting logic are completed by a third level of strategies to control the application of those actions. This level is implemented on top of Maude as a strategy language, which has been successfully used in a wide range of applications. First we summarize the Maude strategy language design and review some of its applications; then, we describe a new case study, namely the description of completion procedures as transition rules + control, as proposed by Lescanne.

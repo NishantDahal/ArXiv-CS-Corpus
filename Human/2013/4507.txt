@@ -1,0 +1,3 @@
+Simulating DNLS models
+
+We present different techniques to numerically solve the equations of motion for the widely studied Discrete Nonlinear Schroedinger equation (DNLS). Being a Hamiltonian system, the DNLS requires symplectic routines for an efficient numerical treatment. Here, we introduce different such schemes in detail and compare their performance and accuracy by extensive numerical simulations.

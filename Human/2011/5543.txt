@@ -1,0 +1,3 @@
+Online Learning, Stability, and Stochastic Gradient Descent
+
+In batch learning, stability together with existence and uniqueness of the solution corresponds to well-posedness of Empirical Risk Minimization (ERM) methods; recently, it was proved that CV_loo stability is necessary and sufficient for generalization and consistency of ERM. In this note, we introduce CV_on stability, which plays a similar note in online learning. We show that stochastic gradient descent (SDG) with the usual hypotheses is CVon stable and we then discuss the implications of CV_on stability for convergence of SGD.

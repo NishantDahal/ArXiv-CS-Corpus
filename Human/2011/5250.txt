@@ -1,0 +1,3 @@
+$2^{\log^{1-\eps} n}$ Hardness for Closest Vector Problem with Preprocessing
+
+We prove that for an arbitrarily small constant $\eps>0,$ assuming NP$\not \subseteq$DTIME$(2^{{\log^{O(1/\eps)} n}})$, the preprocessing versions of the closest vector problem and the nearest codeword problem are hard to approximate within a factor better than $2^{\log ^{1-\eps}n}.$ This improves upon the previous hardness factor of $(\log n)^δ$ for some $δ> 0$ due to \cite{AKKV05}.

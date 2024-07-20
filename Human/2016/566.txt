@@ -1,0 +1,3 @@
+Formally Proving and Enhancing a Self-Stabilising Distributed Algorithm
+
+This paper presents the benefits of formal modelling and verification techniques for self-stabilising distributed algorithms. An algorithm is studied, that takes a set of processes connected by a tree topology and converts it to a ring configuration. The Coloured Petri net model not only facilitates the proof that the algorithm is correct and self-stabilising but also easily shows that it enjoys new properties of termination and silentness. Further, the formal results show how the algorithm can be simplified without loss of generality.

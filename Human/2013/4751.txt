@@ -1,0 +1,3 @@
+Affinity-based XML Fragmentation
+
+In this paper we tackle the fragmentation problem for highly distributed databases. In such an environment, a suitable fragmentation strategy may provide scalability and availability by minimizing distributed transactions. We propose an approach for XML fragmentation that takes as input both the application's expected workload and a storage threshold, and produces as output an XML fragmentation schema. Our workload-aware method aims to minimize the execution of distributed transactions by packing up related data in a small set of fragments. We present experiments that compare alternative fragmentation schemas, showing that the one produced by our technique provides a finer-grained result and better system throughput.

@@ -1,0 +1,3 @@
+Difference of Convex Functions Programming Applied to Control with Expert Data
+
+This paper reports applications of Difference of Convex functions (DC) programming to Learning from Demonstrations (LfD) and Reinforcement Learning (RL) with expert data. This is made possible because the norm of the Optimal Bellman Residual (OBR), which is at the heart of many RL and LfD algorithms, is DC. Improvement in performance is demonstrated on two specific algorithms, namely Reward-regularized Classification for Apprenticeship Learning (RCAL) and Reinforcement Learning with Expert Demonstrations (RLED), through experiments on generic Markov Decision Processes (MDP), called Garnets.

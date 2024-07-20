@@ -1,0 +1,3 @@
+Inferring Termination Conditions for Logic Programs using Backwards Analysis
+
+This paper focuses on the inference of modes for which a logic program is guaranteed to terminate. This generalises traditional termination analysis where an analyser tries to verify termination for a specified mode. Our contribution is a methodology in which components of traditional termination analysis are combined with backwards analysis to obtain an analyser for termination inference. We identify a condition on the components of the analyser which guarantees that termination inference will infer all modes which can be checked to terminate. The application of this methodology to enhance a traditional termination analyser to perform also termination inference is demonstrated.

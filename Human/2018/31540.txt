@@ -1,0 +1,3 @@
+Effects of Dataset properties on the training of GANs
+
+Generative Adversarial Networks are a new family of generative models, frequently used for generating photorealistic images. The theory promises for the GAN to eventually reach an equilibrium where generator produces pictures indistinguishable for the training set. In practice, however, a range of problems frequently prevents the system from reaching this equilibrium, with training not progressing ahead due to instabilities or mode collapse. This paper describes a series of experiments trying to identify patterns in regard to the effect of the training set on the dynamics and eventual outcome of the training.

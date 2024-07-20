@@ -1,0 +1,3 @@
+Broadword Implementation of Parenthesis Queries
+
+We continue the line of research started in "Broadword Implementation of Rank/Select Queries" proposing broadword (a.k.a. SWAR, "SIMD Within A Register") algorithms for finding matching closed parentheses and the k-th far closed parenthesis. Our algorithms work in time O(log w) on a word of w bits, and contain no branch and no test instruction. On 64-bit (and wider) architectures, these algorithms make it possible to avoid costly tabulations, while providing a very significant speedup with respect to for-loop implementations.

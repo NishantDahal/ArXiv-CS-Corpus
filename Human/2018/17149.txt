@@ -1,0 +1,3 @@
+Arbitration Among Vertical Services
+
+A 5G network provides several service types, tailored to specific needs such as high bandwidth or low latency. On top of these communication services, verticals are enabled to deploy their own vertical services. These vertical service instances compete for the resources of the underlying common infrastructure. We present a resource arbitration approach that allows to handle such resource conflicts on a high level and to provide guidance to lowerlevel orchestration components.

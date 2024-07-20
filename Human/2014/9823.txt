@@ -1,0 +1,3 @@
+Meta-Modeling Semantics of UML
+
+The Unified Modelling Language is emerging as a de-facto standard for modelling object-oriented systems. However, the semantics document that a part of the standard definition primarily provides a description of the language's syntax and well-formedness rules. The meaning of the language, which is mainly described in English, is too informal and unstructured to provide a foundation for developing formal analysis and development techniques. This paper outlines a formalisation strategy for making precise the core semantics of UML. This is achieved by strengthening the denotational semantics of the existing UML metamodel. To illustrate the approach, the semantics of generalization/specialization are made precise.

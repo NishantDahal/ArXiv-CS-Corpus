@@ -1,0 +1,3 @@
+Root Separation for Trinomials
+
+We give a  separation bound for the complex roots of a trinomial $f \in \mathbb{Z}[X]$. The logarithm of the inverse of our separation bound is polynomial in the size of the sparse encoding of $f$; in particular, it is polynomial in $\log (°f)$.   It is known that no such bound is possible for 4-nomials (polynomials with 4 monomials). For trinomials, the classical results (which are based on the degree of $f$ rather than the number of monomials) give separation bounds that are exponentially worse.As an algorithmic application, we show that the number of real roots of a trinomial $f$ can be computed in time polynomial in the size of the sparse encoding of~$f$. The same problem is open for 4-nomials.

@@ -1,0 +1,3 @@
+Mod-CSA: Modularity optimization by conformational space annealing
+
+We propose a new modularity optimization method, Mod-CSA, based on stochastic global optimization algorithm, conformational space annealing (CSA). Our method outperforms simulated annealing in terms of both efficiency and accuracy, finding higher modularity partitions with less computational resources required. The high modularity values found by our method are higher than, or equal to, the largest values previously reported. In addition, the method can be combined with other heuristic methods, and implemented in parallel fashion, allowing it to be applicable to large graphs with more than 10000 nodes.

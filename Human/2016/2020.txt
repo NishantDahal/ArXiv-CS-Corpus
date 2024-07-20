@@ -1,0 +1,3 @@
+Retractable Contracts
+
+In calculi for modelling communication protocols, internal and external choices play dual roles. Two external choices can be viewed naturally as dual too, as they represent an agreement between the communicating  parties. If the interaction fails, the past agreements are good candidates as points where to roll back, in order to take a different agreement. We propose a variant of contracts with synchronous rollbacks to agreement points in case of deadlock. The new calculus is equipped with a compliance relation which is shown to be decidable.

@@ -1,0 +1,3 @@
+Efficient Differentiable Programming in a Functional Array-Processing Language
+
+We present a system for the automatic differentiation of a higher-order functional array-processing language. The core functional language underlying this system simultaneously supports both source-to-source automatic differentiation and global optimizations such as loop transformations. Thanks to this feature, we demonstrate how for some real-world machine learning and computer vision benchmarks, the system outperforms the state-of-the-art automatic differentiation tools.

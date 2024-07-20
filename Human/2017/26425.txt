@@ -1,0 +1,3 @@
+Autoscaling Bloom Filter: Controlling Trade-off Between True and False Positives
+
+A Bloom filter is a simple data structure supporting membership queries on a set. The standard Bloom filter does not support the delete operation, therefore, many applications use a counting Bloom filter to enable deletion. This paper proposes a generalization of the counting Bloom filter approach, called "autoscaling Bloom filters", which allows adjustment of its capacity with probabilistic bounds on false positives and true positives. In essence, the autoscaling Bloom filter is a binarized counting Bloom filter with an adjustable binarization threshold. We present the mathematical analysis of the performance as well as give a procedure for minimization of the false positive rate.

@@ -1,0 +1,3 @@
+Beta Distribution Drift Detection for Adaptive Classifiers
+
+With today's abundant streams of data, the only constant we can rely on is change. For stream classification algorithms, it is necessary to adapt to concept drift. This can be achieved by monitoring the model error, and triggering counter measures as changes occur. In this paper, we propose a drift detection mechanism that fits a beta distribution to the model error, and treats abnormal behavior as drift. It works with any given model, leverages prior knowledge about this model, and allows to set application-specific confidence thresholds. Experiments confirm that it performs well, in particular when drift occurs abruptly.

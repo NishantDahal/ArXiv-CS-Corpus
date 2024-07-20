@@ -1,0 +1,3 @@
+Learning Functions: When Is Deep Better Than Shallow
+
+While the universal approximation property holds both for hierarchical and shallow networks, we prove that deep (hierarchical) networks can approximate the class of compositional functions with the same accuracy as shallow networks but with exponentially lower number of training parameters as well as VC-dimension. This theorem settles an old conjecture by Bengio on the role of depth in networks. We then define a general class of scalable, shift-invariant algorithms to show a simple and natural set of requirements that justify deep convolutional networks.

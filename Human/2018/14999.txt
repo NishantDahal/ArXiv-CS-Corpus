@@ -1,0 +1,3 @@
+Low-rank geometric mean metric learning
+
+We propose a low-rank approach to learning a Mahalanobis metric from data. Inspired by the recent geometric mean metric learning (GMML) algorithm, we propose a low-rank variant of the algorithm. This allows to jointly learn a low-dimensional subspace where the data reside and the Mahalanobis metric that appropriately fits the data. Our results show that we compete effectively with GMML at lower ranks.

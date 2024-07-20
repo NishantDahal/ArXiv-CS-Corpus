@@ -1,0 +1,3 @@
+Timing Attack Resilient Decoding Algorithms for Physical Unclonable Functions
+
+This paper deals with the application of list decoding of Reed--Solomon codes to a concatenated code for key reproduction using Physical Unclonable Functions. The resulting codes achieve a higher error-correction performance at the same code rate than known schemes in this scenario. We also show that their decoding algorithms can be protected from side-channel attacks on the runtime both by masking techniques and by directly modifying the algorithms to have constant runtime.

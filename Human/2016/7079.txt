@@ -1,0 +1,3 @@
+Parallel Equivalence Class Sorting: Algorithms, Lower Bounds, and Distribution-Based Analysis
+
+We study parallel comparison-based algorithms for finding all equivalence classes of a set of $n$ elements, where sorting according to some total order is not possible. Such scenarios arise, for example, in applications, such as in distributed computer security, where each of $n$ agents are working to identify the private group to which they belong, with the only operation available to them being a zero-knowledge pairwise-comparison (which is sometimes called a "secret handshake") that reveals only whether two agents are in the same group or in different groups. We provide new parallel algorithms for this problem, as well as new lower bounds and distribution-based analysis.

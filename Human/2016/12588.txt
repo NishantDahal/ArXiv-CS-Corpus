@@ -1,0 +1,3 @@
+Bidirectional Conditional Insertion Sort algorithm; An efficient progress on the classical insertion sort
+
+In this paper, we proposed a new efficient sorting algorithm based on insertion sort concept. The proposed algorithm called Bidirectional Conditional Insertion Sort (BCIS). It is in-place sorting algorithm and it has remarkably efficient average case time complexity when compared with classical insertion sort (IS). By comparing our new proposed algorithm with the Quicksort algorithm, BCIS indicated faster average case time for relatively small size arrays up to 1500 elements. Furthermore, BCIS was observed to be faster than Quicksort within high rate of duplicated elements even for large size array.

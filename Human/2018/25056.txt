@@ -1,0 +1,3 @@
+Parallel numerical method for nonlocal-in-time Schrödinger equation
+
+We present a new parallel numerical method for solving the non-stationary Schrödinger equation with linear nonlocal condition and time-dependent potential which does not commute with the stationary part of the Hamiltonian. The given problem is discretized in-time using a polynomial-based collocation scheme. We establish the conditions on the existence of solution to the discretized problem, estimate the accuracy of the discretized solution and propose the method how this solution can be approximately found in an efficient parallel manner.

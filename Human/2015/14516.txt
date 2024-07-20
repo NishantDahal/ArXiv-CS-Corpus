@@ -1,0 +1,5 @@
+Program Analysis with Local Policy Iteration
+
+We present a new algorithm for deriving numerical invariants that combines the precision of max-policy iteration with the flexibility and scalability of conventional Kleene iterations. It is defined in the Configurable Program Analysis (CPA) framework, thus allowing inter-analysis communication.
+  It uses adjustable-block encoding in order to traverse loop-free program sections, possibly containing branching, without introducing extra abstraction. Our technique operates over any template linear constraint domain, including the interval and octagon domains; templates can also be derived from the program source.
+  The implementation is evaluated on a set of benchmarks from the Software Verification Competition (SV-Comp). It competes favorably with state-of-the-art analyzers.

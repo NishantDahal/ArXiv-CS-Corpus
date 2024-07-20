@@ -1,0 +1,4 @@
+Nearly Optimal Space Efficient Algorithm for Depth First Search
+
+We design a space-efficient algorithm for performing depth-first search traversal(DFS) of a graph in $O(m+n\log^* n)$ time using $O(n)$ bits of space. While a normal DFS algorithm results in a DFS-tree (in case the graph is connected), our space bounds do not permit us even to store such a tree. However, our algorithm correctly outputs all edges of the DFS-tree.
+  The previous best algorithm (which used $O(n)$ working space) took $O(m \log n)$ time (Asano, Izumi, Kiyomi, Konagaya, Ono, Otachi, Schweitzer, Tarui, Uehara (ISAAC 2014) and Elmasry, Hagerup, Krammer (STACS 2015)). The main open question left behind in this area was to design faster algorithm for DFS using $O(n)$ bits of space. Our algorithm answers this open question as it has a nearly optimal running time (as the DFS takes $O(m+n)$ time even if there is no space restriction).

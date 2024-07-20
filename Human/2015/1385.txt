@@ -1,0 +1,3 @@
+A new upper bound for the clique cover number with applications
+
+Let $α(G)$ and $β(G)$, denote the size of a largest independent set and the clique cover number of an undirected graph $G$. Let $H$ be an interval graph with $V(G)=V(H)$ and $E(G)\subseteq E(H)$, and let $φ(G,H)$ denote the maximum of ${β(G[W])\over α(G[W])}$ overall induced subgraphs $G[W]$ of $G$ that are cliques in $H$. The main result of this paper is to prove that for any graph $G$ $${β(G)}\le 2 α(H)φ(G,H)(\log α(H)+1),$$ where, $α(H)$ is the size of a largest independent set in $H$. We further provide a generalization that significantly unifies or improves some past algorithmic and structural results concerning the clique cover number for some well known intersection graphs.

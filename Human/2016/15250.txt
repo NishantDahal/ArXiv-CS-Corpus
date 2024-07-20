@@ -1,0 +1,3 @@
+File Synchronization Systems Survey
+
+Several solutions exist for file storage, sharing, and synchronization. Many of them involve a central server, or a collection of servers, that either store the files, or act as a gateway for them to be shared. Some systems take a decentralized approach, wherein interconnected users form a peer-to-peer (P2P) network, and partake in the sharing process: they share the files they possess with others, and can obtain the files owned by other peers. In this paper, we survey various technologies, both cloud-based and P2P-based, that users use to synchronize their files across the network, and discuss their strengths and weaknesses.

@@ -1,0 +1,3 @@
+Optimizing Causal Orderings for Generating DAGs from Data
+
+An algorithm for generating the structure of a directed acyclic graph from data using the notion of causal input lists is presented.  The algorithm manipulates the ordering of the variables with operations which very much resemble arc reversal.  Operations are only applied if the DAG after the operation represents at least the independencies represented by the DAG before the operation until no more arcs can be removed from the DAG.  The resulting DAG is a minimal l-map.

@@ -1,0 +1,3 @@
+Uncertainty in Multitask Transfer Learning
+
+Using variational Bayes neural networks, we develop an algorithm capable of accumulating knowledge into a prior from multiple different tasks. The result is a rich and meaningful prior capable of few-shot learning on new tasks. The posterior can go beyond the mean field approximation and yields good uncertainty on the performed experiments. Analysis on toy tasks shows that it can learn from significantly different tasks while finding similarities among them. Experiments of Mini-Imagenet yields the new state of the art with 74.5% accuracy on 5 shot learning. Finally, we provide experiments showing that other existing methods can fail to perform well in different benchmarks.

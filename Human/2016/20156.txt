@@ -1,0 +1,3 @@
+Efficient Pose and Cell Segmentation using Column Generation
+
+We study the problems of multi-person pose segmentation in natural images and instance segmentation in biological images with crowded cells. We formulate these distinct tasks as integer programs where variables correspond to poses/cells. To optimize, we propose a generic relaxation scheme for solving these combinatorial problems using a column generation formulation where the program for generating a column is solved via exact optimization of very small scale integer programs. This results in efficient exploration of the spaces of poses and cells.

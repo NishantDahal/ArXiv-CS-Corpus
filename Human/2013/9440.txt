@@ -1,0 +1,3 @@
+Cache Performance Study of Portfolio-Based Parallel CDCL SAT Solvers
+
+Parallel SAT solvers are becoming mainstream. Their performance has made them win the past two SAT competitions consecutively and are in the limelight of research and industry. The problem is that it is not known exactly what is needed to make them perform even better; that is, how to make them solve more problems in less time. Also, it is also not know how well they scale in massive multi-core environments which, predictably, is the scenario of comming new hardware. In this paper we show that cache contention is a main culprit of a slowing down in scalability, and provide empirical results that for some type of searches, physically sharing the clause Database between threads is beneficial.

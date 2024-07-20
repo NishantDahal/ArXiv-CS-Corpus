@@ -1,0 +1,5 @@
+Fast Snapshottable Concurrent Braun Heaps
+
+This paper proposes a new concurrent heap algorithm, based on a stateless shape property, which efficiently maintains balance during insert and removeMin operations implemented with hand-over-hand locking. It also provides a O(1) linearizable snapshot operation based on lazy copy-on-write semantics. Such snapshots can be used to provide consistent views of the heap during iteration, as well as to make speculative updates (which can later be dropped).
+  The simplicity of the algorithm allows it to be easily proven correct, and the choice of shape property provides priority queue performance which is competitive with highly optimized skiplist implementations (and has stronger bounds on worst-case time complexity).
+  A Scala reference implementation is provided.

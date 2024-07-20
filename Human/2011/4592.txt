@@ -1,0 +1,3 @@
+A type checking algorithm for qualified session types
+
+We present a type checking algorithm for establishing a session-based discipline in the pi calculus of Milner, Parrow and Walker. Our session types are qualified as linear or unrestricted. Linearly typed communication channels are guaranteed to occur in exactly one thread, possibly multiple times; afterwards they evolve as unrestricted channels. Session protocols are described by a type constructor that denotes the two ends of one and the same communication channel. We ensure the soundness of the algorithm by showing that processes consuming all linear resources are accepted by a type system preserving typings during the computation and that type checking is consistent w.r.t. structural congruence.

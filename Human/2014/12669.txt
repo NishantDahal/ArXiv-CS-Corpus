@@ -1,0 +1,3 @@
+Unshared Secret Key Cryptography: Finite Constellation Inputs and Ideal Secrecy Outage
+
+The Unshared Secret Key Cryptography (USK), recently proposed by the authors, guarantees Shannon's ideal secrecy and perfect secrecy for MIMO wiretap channels, without requiring secret key exchange. However, the requirement of infinite constellation inputs limits its applicability to practical systems. In this paper, we propose a practical USK scheme using finite constellation inputs. The new scheme is based on a cooperative jamming technique, and is valid for the case where the eavesdropper has more antennas than the transmitter. We show that Shannon's ideal secrecy can be achieved with an arbitrarily small outage probability.

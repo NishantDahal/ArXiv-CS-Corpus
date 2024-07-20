@@ -1,0 +1,4 @@
+GADTs and Exhaustiveness: Looking for the Impossible
+
+Sound exhaustiveness checking of pattern-matching is an essential feature of functional programming languages, and OCaml supports it for GADTs. However this check is incomplete, in that it may fail to detect that a pattern can match no concrete value. In this paper we show that this problem is actually undecidable, but that we can strengthen the exhaustiveness and redundancy checks so that they cover more practical cases. The new algorithm relies on a clever modification of type inference for patterns.
+

@@ -1,0 +1,3 @@
+Is Space a Stronger Resource than Time? Positive Answer for the Nondeterministic at-Least-Quadratic Time Case
+
+We show that all languages accepted in time f(n) >= n^2 can be accepted in space O(f(n)^{1/2})_and_ in time O(f(n)). The proof is carried out by simulation, based on the idea of guessing the sequences of internal states of the simulated TM when entering certain critical cells, whose location is also guessed. Our method cannot be generalised easily to many-tapes TMs, and in no case can it be relativised.

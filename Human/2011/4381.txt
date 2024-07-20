@@ -1,0 +1,4 @@
+A Logic with Reverse Modalities for History-preserving Bisimulations
+
+We introduce event identifier logic (EIL) which extends Hennessy-Milner logic by the addition of (1) reverse as well as forward modalities, and (2) identifiers to keep track of events. We show that this logic corresponds to hereditary history-preserving (HH) bisimulation equivalence within a particular true-concurrency model, namely stable configuration structures. We furthermore show how natural sublogics of EIL correspond to coarser equivalences. In particular we provide logical characterisations of weak history-preserving (WH) and history-preserving (H) bisimulation. Logics corresponding to HH and H bisimulation have been given previously, but not to WH bisimulation (when autoconcurrency is allowed), as far as we are aware. We also present characteristic formulas which characterise individual structures with respect to history-preserving equivalences.
+

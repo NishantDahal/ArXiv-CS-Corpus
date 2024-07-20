@@ -1,0 +1,4 @@
+A Type System for proving Depth Boundedness in the pi-calculus
+
+The depth-bounded fragment of the pi-calculus is an expressive class of systems enjoying decidability of some important verification problems. Unfortunately membership of the fragment is undecidable. We propose a novel type system, parameterised over a finite forest, that formalises name usage by pi-terms in a manner that respects the forest. Type checking is decidable and type inference is computable; furthermore typable pi-terms are guaranteed to be depth bounded.
+  The second contribution of the paper is a proof of equivalence between the semantics of typable terms and nested data class memory automata, a class of automata over data words. We believe this connection can help to establish new links between the rich theory of infinite-alphabet automata and nominal calculi.

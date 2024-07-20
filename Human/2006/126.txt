@@ -1,0 +1,3 @@
+Phantom Types and Subtyping
+
+We investigate a technique from the literature, called the phantom-types technique, that uses parametric polymorphism, type constraints, and unification of polymorphic types to model a subtyping hierarchy. Hindley-Milner type systems, such as the one found in Standard ML, can be used to enforce the subtyping relation, at least for first-order values. We show that this technique can be used to encode any finite subtyping hierarchy (including hierarchies arising from multiple interface inheritance). We formally demonstrate the suitability of the phantom-types technique for capturing first-order subtyping by exhibiting a type-preserving translation from a simple calculus with bounded polymorphism to a calculus embodying the type system of SML.

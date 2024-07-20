@@ -1,0 +1,4 @@
+A cumulative approach to quantification for sentiment analysis
+
+We estimate sentiment categories proportions for retrieval within large retrieval sets. In general, estimates are produced by counting the classification outcomes and then by adjusting such category sizes taking into account misclassification error matrix. However, both the accuracy of the classifier and the precision of the retrieval produce a large number of errors that makes difficult the application of an aggregative approach to sentiment analysis as a reliable and efficient estimation of proportions for sentiment categories.
+  The challenge for real time analytics during retrieval is thus to overcome misclassification errors, and more importantly, to apply sentiment classification or any other similar post-processing analytics at retrieval time. We present a non-aggregative approach that can be applied to very large retrieval sets of queries.

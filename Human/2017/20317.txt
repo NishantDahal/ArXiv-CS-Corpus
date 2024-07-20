@@ -1,0 +1,3 @@
+On Using Linear Diophantine Equations to Tune the extent of Look Ahead while Hiding Decision Tree Rules
+
+This paper focuses on preserving the privacy of sensitive pat-terns when inducing decision trees. We adopt a record aug-mentation approach for hiding sensitive classification rules in binary datasets. Such a hiding methodology is preferred over other heuristic solutions like output perturbation or crypto-graphic techniques - which restrict the usability of the data - since the raw data itself is readily available for public use. In this paper, we propose a look ahead approach using linear Diophantine equations in order to add the appropriate number of instances while minimally disturbing the initial entropy of the nodes.

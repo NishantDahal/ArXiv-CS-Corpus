@@ -1,0 +1,3 @@
+Towards Enabling Architectural Refactorings through Source Code Annotations
+
+It is well known that software needs to change to meet new requirements. The synchronization of software architecture models and implementation is of high importance to keep the architecture documents useful and the software evolution process manageable. In this paper we achieve this synchronization by a two-step process. First, we augment the source code with architectural information. Second, this "lightweight architectural model" can be checked more easily against the full architectural description. Based on this approach refactorings on either side (code or architecture) are detected automatically and conformance checks become possible.

@@ -1,0 +1,3 @@
+Automation of Smartphone Traffic Generation in a Virtualized Environment
+
+Scalable and comprehensive analysis of rapidly evolving mobile device application traffic is extremely important but a challenging problem for the Deep Packet Inspection (DPI) engines to perform effective policy management. We present a test framework in which a test driver can automate/orchestrate traffic generation by invoking appropriate method (intent) of real mobile applications (as opposed to traffic replay) in regression or functional testing of mobile application traffic analysis engines in a virtualized environment, without real hardware. We demonstrate the concept by automating a real-time Skype call through a DPI engine in a virtual test setup using Android VMs.

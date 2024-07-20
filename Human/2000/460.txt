@@ -1,0 +1,3 @@
+Value Withdrawal Explanation in CSP
+
+This work is devoted to constraint solving motivated by the debugging of constraint logic programs a la GNU-Prolog. The paper focuses only on the constraints. In this framework, constraint solving amounts to domain reduction. A computation is formalized by a chaotic iteration. The computed result is described as a closure. This model is well suited to the design of debugging notions and tools, for example failure explanations or error diagnosis. In this paper we detail an application of the model to an explanation of a value withdrawal in a domain. Some other works have already shown the interest of such a notion of explanation not only for failure analysis.

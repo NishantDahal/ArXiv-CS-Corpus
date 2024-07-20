@@ -1,0 +1,3 @@
+Faster Algorithms for Constructing a Concept (Galois) Lattice
+
+In this paper, we present a fast algorithm for constructing a concept (Galois) lattice of a binary relation, including computing all concepts and their lattice order. We also present two efficient variants of the algorithm, one for computing all concepts only, and one for constructing a frequent closed itemset lattice. The running time of our algorithms depends on the lattice structure and is faster than all other existing algorithms for these problems.

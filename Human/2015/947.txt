@@ -1,0 +1,3 @@
+Optimal Time Random Access to Grammar-Compressed Strings in Small Space
+
+The random access problem for compressed strings is to build a data structure that efficiently supports accessing the character in position $i$ of a string given in compressed form. Given a grammar of size $n$ compressing a string of size $N$, we present a data structure using $O(nΔ\log_Δ\frac N n \log N)$ bits of space that supports accessing position $i$ in $O(\log_ΔN)$ time for $Δ\leq \log^{O(1)} N$. The query time is optimal for polynomially compressible strings, i.e., when $n=O(N^{1-ε})$.

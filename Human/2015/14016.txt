@@ -1,0 +1,4 @@
+Proof Outlines as Proof Certificates: A System Description
+
+We apply the foundational proof certificate (FPC) framework to the problem of designing high-level outlines of proofs.  The FPC framework provides a means to formally define and check a wide range of proof evidence.  A focused proof system is central to this framework and such a proof system provides an interesting approach to proof reconstruction during the process of proof checking (relying on an underlying logic programming implementation).  Here, we illustrate how the FPC framework can be used to design proof outlines and then to exploit proof checkers as a means for expanding outlines into fully detailed proofs.  In order to validate this approach to proof outlines, we have built the ACheck system that allows us to take a sequence of theorems and apply the proof outline "do the obvious induction and close the proof using previously proved lemmas".
+

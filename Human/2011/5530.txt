@@ -1,0 +1,3 @@
+Permission-Based Separation Logic for Message-Passing Concurrency
+
+We develop local reasoning techniques for message passing concurrent programs based on ideas from separation logics and resource usage analysis. We extend processes with permission- resources and define a reduction semantics for this extended language. This provides a foundation for interpreting separation formulas for message-passing concurrency. We also define a sound proof system permitting us to infer satisfaction compositionally using local, separation-based reasoning. 

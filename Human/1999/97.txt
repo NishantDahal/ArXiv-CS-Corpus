@@ -1,0 +1,3 @@
+An Implementation of the Bestvina-Handel Algorithm for Surface Homeomorphisms
+
+Bestvina and Handel have found an effective algorithm that determines whether a given homeomorphism of an orientable, possibly punctured surface is pseudo-Anosov. We present a software package in Java that realizes this algorithm for surfaces with one puncture. Moreover, the package allows the user to define homeomorphisms in terms of Dehn twists, and in the pseudo-Anosov case it generates images of train tracks in the sense of Bestvina-Handel.

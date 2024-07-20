@@ -1,0 +1,3 @@
+Robust Lane Tracking with Multi-mode Observation Model and Particle Filtering
+
+Automatic lane tracking involves estimating the underlying signal from a sequence of noisy signal observations. Many models and methods have been proposed for lane tracking, and dynamic targets tracking in general. The Kalman Filter is a widely used method that works well on linear Gaussian models. But this paper shows that Kalman Filter is not suitable for lane tracking, because its Gaussian observation model cannot faithfully represent the procured observations. We propose using a Particle Filter on top of a novel multiple mode observation model. Experiments show that our method produces superior performance to a conventional Kalman Filter.

@@ -1,0 +1,7 @@
+Randomness and Differentiability
+
+We characterize some major algorithmic randomness notions via differentiability of effective functions.
+  (1) As the main result we show that a real number z in [0,1] is computably random if and only if each nondecreasing computable function [0,1]->R is differentiable at z.
+  (2) We prove that a real number z in [0,1] is weakly 2-random if and only if each almost everywhere differentiable computable function [0,1]->R is differentiable at z.
+  (3) Recasting in classical language results dating from 1975 of the constructivist Demuth, we show that a real z is ML random if and only if every computable function of bounded variation is differentiable at z, and similarly for absolutely continuous functions.
+  We also use our analytic methods to show that computable randomness of a real is base invariant, and to derive other preservation results for randomness notions.

@@ -1,0 +1,3 @@
+On the Powerball Method for Optimization
+
+We propose a new method to accelerate the convergence of optimization algorithms. This method simply adds a power coefficient $γ\in[0,1)$ to the gradient during optimization. We call this the Powerball method and analyze the convergence rate for the Powerball method for strongly convex functions. While theoretically the Powerball method is guaranteed to have a linear convergence rate in the same order of the gradient method, we show that empirically it significantly outperforms the gradient descent and Newton's method, especially during the initial iterations. We demonstrate that the Powerball method provides a $10$-fold speedup of the convergence of both gradient descent and L-BFGS on multiple real datasets.

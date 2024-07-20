@@ -1,0 +1,3 @@
+A Brief Study of In-Domain Transfer and Learning from Fewer Samples using A Few Simple Priors
+
+Domain knowledge can often be encoded in the structure of a network, such as convolutional layers for vision, which has been shown to increase generalization and decrease sample complexity, or the number of samples required for successful learning. In this study, we ask whether sample complexity can be reduced for systems where the structure of the domain is unknown beforehand, and the structure and parameters must both be learned from the data. We show that sample complexity reduction through learning structure is possible for at least two simple cases. In studying these cases, we also gain insight into how this might be done for more complex domains.

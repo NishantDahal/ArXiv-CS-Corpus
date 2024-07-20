@@ -1,0 +1,3 @@
+Consensus Halving is PPA-Complete
+
+We show that the computational problem CONSENSUS-HALVING is PPA-complete, the first PPA-completeness result for a problem whose definition does not involve an explicit circuit. We also show that an approximate version of this problem is polynomial-time equivalent to NECKLACE SPLITTING, which establishes PPAD-hardness for NECKLACE SPLITTING, and suggests that it is also PPA-complete.

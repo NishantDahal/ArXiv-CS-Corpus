@@ -1,0 +1,3 @@
+Imparo is complete by inverse subsumption
+
+In Inverse subsumption for complete explanatory induction Yamamoto et al. investigate which inductive logic programming systems can learn a correct hypothesis $H$ by using the inverse subsumption instead of inverse entailment. We prove that inductive logic programming system Imparo is complete by inverse subsumption for learning a correct definite hypothesis $H$ wrt the definite background theory $B$ and ground atomic examples $E$, by establishing that there exists a connected theory $T$ for $B$ and $E$ such that $H$ subsumes $T$.

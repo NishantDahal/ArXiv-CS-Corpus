@@ -1,0 +1,3 @@
+On Probabilistic Applicative Bisimulation and Call-by-Value $λ$-Calculi (Long Version)
+
+Probabilistic applicative bisimulation is a recently introduced coinductive methodology for program equivalence in a probabilistic, higher-order, setting. In this paper, the technique is applied to a typed, call-by-value, lambda-calculus. Surprisingly, the obtained relation coincides with context equivalence, contrary to what happens when call-by-name evaluation is considered. Even more surprisingly, full-abstraction only holds in a symmetric setting.

@@ -1,0 +1,3 @@
+Predicting Branch Visits and Credit Card Up-selling using Temporal Banking Data
+
+There is an abundance of temporal and non-temporal data in banking (and other industries), but such temporal activity data can not be used directly with classical machine learning models. In this work, we perform extensive feature extraction from the temporal user activity data in an attempt to predict user visits to different branches and credit card up-selling utilizing user information and the corresponding activity data, as part of \emph{ECML/PKDD Discovery Challenge 2016 on Bank Card Usage Analysis}. Our solution ranked \nth{4} for \emph{Task 1} and achieved an AUC of \textbf{$0.7056$} for \emph{Task 2} on public leaderboard.

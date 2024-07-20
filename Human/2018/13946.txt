@@ -1,0 +1,3 @@
+Efficient Multichannel in XML Wireless Broadcast Stream
+
+In this paper we recommend the use of multi-channel for XML data in wireless broadcasting. First we divide XML data into information units as bucket, then extract path information (XPath) for any unit and build an index tree from the data path. Finally, make wireless data stream with merging parts of index tree and parts of XML data in multichannel XML. Then, create a protocol that allows mobile users access to the wireless XML stream generated with our method. We study 11 channels in server side and 3 orthogonal channels in client side.

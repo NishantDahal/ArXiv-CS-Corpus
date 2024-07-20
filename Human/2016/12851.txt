@@ -1,0 +1,3 @@
+Rate Reduction for State-labelled Markov Chains with Upper Time-bounded CSL Requirements
+
+This paper presents algorithms for identifying and reducing a dedicated set of controllable transition rates of a state-labelled continuous-time Markov chain model. The purpose of the reduction is to make states to satisfy a given requirement, specified as a CSL upper time-bounded Until formula. We distinguish two different cases, depending on the type of probability bound. A natural partitioning of the state space allows us to develop possible solutions, leading to simple algorithms for both cases.

@@ -1,0 +1,3 @@
+Probabilistic Operational Semantics for the Lambda Calculus
+
+Probabilistic operational semantics for a nondeterministic extension of pure lambda calculus is studied. In this semantics, a term evaluates to a (finite or infinite) distribution of values. Small-step and big-step semantics are both inductively and coinductively defined. Moreover, small-step and big-step semantics are shown to produce identical outcomes, both in call-by- value and in call-by-name. Plotkin's CPS translation is extended to accommodate the choice operator and shown correct with respect to the operational semantics. Finally, the expressive power of the obtained system is studied: the calculus is shown to be sound and complete with respect to computable probability distributions.

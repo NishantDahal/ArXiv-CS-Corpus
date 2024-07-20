@@ -1,0 +1,3 @@
+Automatic Tracker Selection w.r.t Object Detection Performance
+
+The tracking algorithm performance depends on video content. This paper presents a new multi-object tracking approach which is able to cope with video content variations. First the object detection is improved using Kanade- Lucas-Tomasi (KLT) feature tracking. Second, for each mobile object, an appropriate tracker is selected among a KLT-based tracker and a discriminative appearance-based tracker. This selection is supported by an online tracking evaluation. The approach has been experimented on three public video datasets. The experimental results show a better performance of the proposed approach compared to recent state of the art trackers.

@@ -1,0 +1,3 @@
+Lower Bound for the Unique Games Problem
+
+We consider a randomized algorithm for the unique games problem, using independent multinomial probabilities to assign labels to the vertices of a graph. The expected value of the solution obtained by the algorithm is expressed as a function of the probabilities. Finding probabilities that maximize this expected value is shown to be equivalent to obtaining an optimal solution to the unique games problem. We attain an upper bound on the optimal solution value by solving a semidefinite programming relaxation of the problem in polynomial time. We use a different but related formulation to show that this upper bound is no greater than π/2 times the value of the optimal solution to the unique games problem.

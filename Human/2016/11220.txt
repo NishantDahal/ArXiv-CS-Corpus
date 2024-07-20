@@ -1,0 +1,3 @@
+An Optimal Algorithm for Range Search on Multidimensional Points
+
+This paper proposes an efficient and novel method to address range search on multidimensional points in $θ(t)$ time, where $t$ is the number of points reported in $\Re^k$ space. This is accomplished by introducing a new data structure, called BITS $k$d-tree. This structure also supports fast updation that takes $θ(1)$ time for insertion and $O(\log n)$ time for deletion. The earlier best known algorithm for this problem is $O(\log^k n+t)$ time in the pointer machine model.

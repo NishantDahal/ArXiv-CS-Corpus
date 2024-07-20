@@ -1,0 +1,3 @@
+Parallelepipeds obtaining HBL lower bounds
+
+This work studies the application of the discrete Holder-Brascamp-Lieb (HBL) inequalities to the design of communication optimal algorithms. In particular, it describes optimal tiling (blocking) strategies for nested loops that lack data dependencies and exhibit linear memory access patterns. We attain known lower bounds for communication costs by unraveling the relationship between the HBL linear program, its dual, and tile selection. The methods used are constructive and algorithmic. The case when all arrays have one index is explored in depth, as a useful example in which a particularly efficient tiling can be determined.

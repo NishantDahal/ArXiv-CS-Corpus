@@ -1,0 +1,3 @@
+Cache-aware data structures for packet forwarding tables on general purpose CPUs
+
+Longest prefix matching has long been the bottleneck of the Bloom filter-based solutions for packet forwarding implemented in software. We propose a search algorithm to match a destination IP address against a compact representation of the FIB table in CPU cache on general purpose hardware with an average performance target of O(log n) for an n-bit address.

@@ -1,0 +1,3 @@
+Fillable arrays with constant time operations and a single bit of redundancy
+
+In the fillable array problem one must maintain an array A[1..n] of $w$-bit entries subject to random access reads and writes, and also a $\texttt{fill}(Δ)$ operation which sets every entry of to some $Δ\in\{0,\ldots,2^w-1\}$. We show that with just one bit of redundancy, i.e. a data structure using $nw+1$ bits of memory, $\texttt{read}/\texttt{fill}$ can be implemented in worst case constant time, and $\texttt{write}$ can be implemented in either amortized constant time (deterministically) or worst case expected constant (randomized). In the latter case, we need to store an additional $O(\log n)$ random bits to specify a permutation drawn from an $1/n^2$-almost pairwise independent family.

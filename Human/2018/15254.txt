@@ -1,0 +1,24 @@
+Perturbation Resilient Clustering for $k$-Center and Related Problems via LP Relaxations
+
+We consider clustering in the perturbation resilience model that has
+been studied since the work of Bilu and Linial [ICS, 2010] and
+Awasthi, Blum and Sheffet [Inf. Proc. Lett., 2012]. A clustering instance
+$I$ is said to be $α$-perturbation resilient if the optimal
+solution does not change when the pairwise distances are modified by
+a factor of $α$ and the perturbed distances satisfy the metric
+property --- this is the metric perturbation resilience property
+introduced in Angelidakis et. al. [STOC, 2010] and a weaker requirement than prior
+models. We make two high-level contributions.
+ 1) We show that the natural LP relaxation of $k$-center and
+asymmetric $k$-center is integral for $2$-perturbation resilient
+instances. We belive that demonstrating the goodness of standard
+LP relaxations complements existing results that are based on combinatorial algorithms
+designed for the perturbation model.
+ 2) We define a simple new model of perturbation resilience for
+clustering with \emph{outliers}. Using this model we show that the
+unified MST and dynamic programming based algorithm proposed by Angelidakis et. al. [STOC, 2010]
+exactly solves the clustering with outliers
+problem for several common center based objectives (like $k$-center,
+$k$-means, $k$-median) when the instances is $2$-perturbation resilient.
+We further show that a natural LP relxation is integral for
+$2$-perturbation resilient instances of \kcenter with outliers.

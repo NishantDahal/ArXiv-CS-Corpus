@@ -1,0 +1,3 @@
+Computing the inverses, their power sums, and extrema for Euler's totient and other multiplicative functions
+
+We propose a generic algorithm for computing the inverses of a multiplicative function under the assumption that the set of inverses is finite. More generally, our algorithm can compute certain functions of the inverses, such as their power sums (e.g., cardinality) or extrema, without direct enumeration of the inverses. We illustrate our algorithm with Euler's totient function $\varphi(\cdot)$ and the $k$-th power sum of divisors $σ_k(\cdot)$. For example, we can establish that the number of solutions to $σ_1(x) = 10^{1000}$ is 15,512,215,160,488,452,125,793,724,066,873,737,608,071,476, while it is intractable to iterate over the actual solutions.

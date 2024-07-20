@@ -1,0 +1,3 @@
+A O(c^k n) 5-Approximation Algorithm for Treewidth
+
+We give an algorithm that for an input n-vertex graph G and integer k>0, in time 2^[O(k)]n either outputs that the treewidth of G is larger than k, or gives a tree decomposition of G of width at most 5k+4. This is the first algorithm providing a constant factor approximation for treewidth which runs in time single-exponential in k and linear in n. Treewidth based computations are subroutines of numerous algorithms. Our algorithm can be used to speed up many such algorithms to work in time which is single-exponential in the treewidth and linear in the input size.

@@ -1,0 +1,3 @@
+Restricted Max-Min Fair Allocation
+
+The restricted max-min fair allocation problem seeks an allocation of resources to players that maximizes the minimum total value obtained by any player. It is NP-hard to approximate the problem to a ratio less than 2. Comparing the current best algorithm for estimating the optimal value with the current best for constructing an allocation, there is quite a gap between the ratios that can be achieved in polynomial time: roughly 4 for estimation and roughly $6 + 2\sqrt{10}$ for construction. We propose an algorithm that constructs an allocation with value within a factor of $6 + δ$ from the optimum for any constant $δ> 0$. The running time is polynomial in the input size for any constant $δ$ chosen.

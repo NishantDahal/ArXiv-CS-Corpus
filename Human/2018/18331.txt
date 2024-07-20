@@ -1,0 +1,3 @@
+On Universal Sensor Registration
+
+We present a simple approach for sensor registration in target tracking applications. The proposed method uses targets of opportunity and, without making assumptions on their dynamical models, allows simultaneous calibration of multiple three- and two-dimensional sensors. Whereas for two-sensor scenarios only relative registration is possible, in practical cases with three or more sensors unambiguous absolute calibration may be achieved. The derived algorithms are straightforward to implement and do not require tuning of parameters. The performance of the algorithms is tested in a numerical study.

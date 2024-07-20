@@ -1,0 +1,3 @@
+Guided Image Inpainting: Replacing an Image Region by Pulling Content from Another Image
+
+Deep generative models have shown success in automatically synthesizing missing image regions using surrounding context. However, users cannot directly decide what content to synthesize with such approaches. We propose an end-to-end network for image inpainting that uses a different image to guide the synthesis of new content to fill the hole. A key challenge addressed by our approach is synthesizing new content in regions where the guidance image and the context of the original image are inconsistent. We conduct four studies that demonstrate our results yield more realistic image inpainting results over seven baselines.

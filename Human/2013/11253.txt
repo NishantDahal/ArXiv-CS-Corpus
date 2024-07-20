@@ -1,0 +1,3 @@
+Skin Texture Recognition Using Neural Networks
+
+Skin recognition is used in many applications ranging from algorithms for face detection, hand gesture analysis, and to objectionable image filtering. In this work a skin recognition system was developed and tested. While many skin segmentation algorithms relay on skin color, our work relies on both skin color and texture features (features derives from the GLCM) to give a better and more efficient recognition accuracy of skin textures. We used feed forward neural networks to classify input textures images to be skin or non skin textures. The system gave very encouraging results during the neural network generalization face.

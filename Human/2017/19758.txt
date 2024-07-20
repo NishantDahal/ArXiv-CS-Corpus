@@ -1,0 +1,3 @@
+Oblivious transfer based on single-qubit rotations
+
+We present a bit-string quantum oblivious transfer protocol based on single-qubit rotations. Our protocol is built upon a previously proposed quantum public-key protocol and its practical security relies on the laws of Quantum Mechanics. Practical security is reflected in the fact that, due to technological limitations, the receiver (Bob) of the transferred bit-string is restricted to performing only "few-qubit" coherent measurements. We also present a single-bit oblivious transfer based on the proposed bit-string protocol. The protocol can be implemented with current technology based on optics.

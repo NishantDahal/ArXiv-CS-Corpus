@@ -1,0 +1,3 @@
+Statistical Windows in Testing for the Initial Distribution of a Reversible Markov Chain
+
+We study the problem of hypothesis testing between two discrete distributions, where we only have access to samples after the action of a known reversible Markov chain, playing the role of noise. We derive instance-dependent minimax rates for the sample complexity of this problem, and show how its dependence in time is related to the spectral properties of the Markov chain. We show that there exists a wide statistical window, in terms of sample complexity for hypothesis testing between different pairs of initial distributions. We illustrate these results in several concrete examples.

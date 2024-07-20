@@ -1,0 +1,3 @@
+Stability and performance guarantees in networks with cyclic dependencies
+
+With the development of real-time networks such as reactive embedded systems, there is a need to compute deterministic performance bounds. This paper focuses on the performance guarantees and stability conditions in networks with cyclic dependencies in the network calculus framework. We first propose an algorithm that computes tight backlog bounds in tree networks for any set of flows crossing a server. Then, we show how this algorithm can be applied to improve bounds from the literature fir any topology, including cyclic networks. In particular, we show that the ring is stable in the network calculus framework.

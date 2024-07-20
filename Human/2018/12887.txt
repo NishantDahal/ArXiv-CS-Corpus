@@ -1,0 +1,3 @@
+Semantic Binary Segmentation using Convolutional Networks without Decoders
+
+In this paper, we propose an efficient architecture for semantic image segmentation using the depth-to-space (D2S) operation. Our D2S model is comprised of a standard CNN encoder followed by a depth-to-space reordering of the final convolutional feature maps. Our approach eliminates the decoder portion of traditional encoder-decoder segmentation models and reduces the amount of computation almost by half. As a participant of the DeepGlobe Road Extraction competition, we evaluate our models on the corresponding road segmentation dataset. Our highly efficient D2S models exhibit comparable performance to standard segmentation models with much lower computational cost.

@@ -1,0 +1,3 @@
+Sidecoin: a snapshot mechanism for bootstrapping a blockchain
+
+Sidecoin is a mechanism that allows a snapshot to be taken of Bitcoin's blockchain. We compile a list of Bitcoin's unspent transaction outputs, then use these outputs and their corresponding balances to bootstrap a new blockchain. This allows the preservation of Bitcoin's economic state in the context of a new blockchain, which may provide new features and technical innovations.

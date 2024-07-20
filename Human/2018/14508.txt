@@ -1,0 +1,3 @@
+Experimental Analysis of Distributed Graph Systems
+
+This paper evaluates eight parallel graph processing systems: Hadoop, HaLoop, Vertica, Giraph, GraphLab (PowerGraph), Blogel, Flink Gelly, and GraphX (SPARK) over four very large datasets (Twitter, World Road Network, UK 200705, and ClueWeb) using four workloads (PageRank, WCC, SSSP and K-hop). The main objective is to perform an independent scale-out study by experimentally analyzing the performance, usability, and scalability (using up to 128 machines) of these systems. In addition to performance results, we discuss our experiences in using these systems and suggest some system tuning heuristics that lead to better performance.

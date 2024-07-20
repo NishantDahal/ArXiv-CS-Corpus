@@ -1,0 +1,3 @@
+Balanced XOR-ed Coding
+
+This paper concerns with the construction of codes over $GF(2)$ which reach the max-flow for single source multicast acyclic networks with delay. The coding is always a bitwise XOR of packets with equal lengths, and is based on highly symmetrical and balanced designs. For certain setups and parameters, our approach offers additional plausible security properties: an adversary needs to eavesdrop at least max-flow links in order to decode at least one original packet.

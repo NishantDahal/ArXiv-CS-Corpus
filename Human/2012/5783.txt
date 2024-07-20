@@ -1,0 +1,3 @@
+Verifying an algorithm computing Discrete Vector Fields for digital imaging
+
+In this paper, we present a formalization of an algorithm to construct admissible discrete vector fields in the Coq theorem prover taking advantage of the SSReflect library. Discrete vector fields are a tool which has been welcomed in the homological analysis of digital images since it provides a procedure to reduce the amount of information but preserving the homological properties. In particular, thanks to discrete vector fields, we are able to compute, inside Coq, homological properties of biomedical images which otherwise are out of the reach of this system.

@@ -1,0 +1,3 @@
+A Super-Grover Separation Between Randomized and Quantum Query Complexities
+
+We construct a total Boolean function $f$ satisfying $R(f)=\tildeΩ(Q(f)^{5/2})$, refuting the long-standing conjecture that $R(f)=O(Q(f)^2)$ for all total Boolean functions. Assuming a conjecture of Aaronson and Ambainis about optimal quantum speedups for partial functions, we improve this to $R(f)=\tildeΩ(Q(f)^3)$. Our construction is motivated by the Göös-Pitassi-Watson function but does not use it.

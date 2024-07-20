@@ -1,0 +1,3 @@
+Throughput of TCP over Cognitive Radio Channels
+
+In this paper, we study the performance of a TCP connection over cognitive radio networks. In these networks, the network may not always be available for transmission. Also, the packets can be lost due to wireless channel impairments. We evaluate the throughput and packet retransmission timeout probability of a secondary TCP connection over an ON/OFF channel. We first assume that the ON and OFF time durations are exponential and later extend it to more general distributions. We then consider multiple TCP connections over the ON/OFF channel. We validate our theoretical models and the approximations made therein via ns2 simulations.

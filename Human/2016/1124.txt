@@ -1,0 +1,4 @@
+Unbounded Lookahead in WMSO+U Games
+
+Delay games are two-player games of infinite duration in which one player may delay her moves to obtain a lookahead on her opponent's moves. We consider delay games with winning conditions expressed in weak monadic second order logic with the unbounding quantifier (WMSO+U), which is able to express (un)boundedness properties. It is decidable whether the delaying player is able to win such a game with bounded lookahead, i.e., if she only skips a finite number of moves.
+  However, bounded lookahead is not always sufficient: we present a game that can be won with unbounded lookahead, but not with bounded lookahead. Then, we consider WMSO+U delay games with unbounded lookahead and show that the exact evolution of the lookahead is irrelevant: the winner is always the same, as long as the initial lookahead is large enough and the lookahead tends to infinity.

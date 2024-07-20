@@ -1,0 +1,3 @@
+The HOMFLY-PT polynomial is fixed-parameter tractable
+
+Many polynomial invariants of knots and links, including the Jones and HOMFLY-PT polynomials, are widely used in practice but #P-hard to compute. It was shown by Makowsky in 2001 that computing the Jones polynomial is fixed-parameter tractable in the treewidth of the link diagram, but the parameterised complexity of the more powerful HOMFLY-PT polynomial remained an open problem. Here we show that computing HOMFLY-PT is fixed-parameter tractable in the treewidth, and we give the first sub-exponential time algorithm to compute it for arbitrary links.

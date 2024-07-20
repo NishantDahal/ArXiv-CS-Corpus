@@ -1,0 +1,3 @@
+Completely inapproximable monotone and antimonotone parameterized problems
+
+We prove that weighted circuit satisfiability for monotone or antimonotone circuits has no fixed-parameter tractable approximation algorithm with any approximation ratio function $ρ$, unless $FPT\neq W[1]$. In particular, not having such an fpt-approximation algorithm implies that these problems have no polynomial-time approximation algorithms with ratio $ρ(OPT)$ for any nontrivial function $ρ$.

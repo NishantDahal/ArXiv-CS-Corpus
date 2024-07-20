@@ -1,0 +1,3 @@
+An Alternative Decoding Method for Gabidulin Codes in Characteristic Zero
+
+Gabidulin codes, originally defined over finite fields, are an important class of rank metric codes with various applications. Recently, their definition was generalized to certain fields of characteristic zero and a Welch--Berlekamp like algorithm with complexity $O(n^3)$ was given. We propose a new application of Gabidulin codes over infinite fields: low-rank matrix recovery. Also, an alternative decoding approach is presented based on a Gao type key equation, reducing the complexity to at least $O(n^2)$. This method immediately connects the decoding problem to well-studied problems, which have been investigated in terms of coefficient growth and numerical stability.

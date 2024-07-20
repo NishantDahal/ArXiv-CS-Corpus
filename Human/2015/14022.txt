@@ -1,0 +1,3 @@
+Specifying a Realistic File System
+
+We present the most interesting elements of the correctness specification of BilbyFs, a performant Linux flash file system. The BilbyFs specification supports asynchronous writes, a feature that has been overlooked by several file system verification projects, and has been used to verify the correctness of BilbyFs's fsync() C implementation. It makes use of nondeterminism to be concise and is shallowly-embedded in higher-order logic.

@@ -1,0 +1,3 @@
+Non Uniform On Chip Power Delivery Network Synthesis Methodology
+
+In this paper, we proposed a non-uniform power delivery network (PDN) synthesis methodology. It first constructs initial PDN using uniform approach. Then preliminary power integrity analysis is performed to derive IR-safe candidate window. Congestion map is obtained based global route congestion estimation. A self-adaptive non-uniform PDN synthesis is then performed to globally and locally optimize PDN over selected regions. The PDN synthesis is congestion-driven and IR- guarded. Experimental results show significant timing important in trade-off small PDN length reduction with no EM/IR impact. We further explored potential power savings using our non-uniform PDN synthesis methodology.

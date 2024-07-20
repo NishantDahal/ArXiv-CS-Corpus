@@ -1,0 +1,3 @@
+Using IKAROS to provide Scalable I/O bandwidth
+
+We present IKAROS as a utility that permit us to form scalable storage platforms. IKAROS enable us to create ad-hoc nearby storage formations and use a huge number of I/O nodes in order to increase the available bandwidth. We measure the performance and scalability of IKAROS versus the IBMs General Parallel File System (GPFS) under a variety of conditions. The measurements are based on benchmark programs that allow us to vary block sizes and to measure aggregate throughput rates.

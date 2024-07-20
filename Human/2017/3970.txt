@@ -1,0 +1,3 @@
+Concurrent Software Design Based on Constraints on State Diagrams
+
+Concurrent software for engineering computations consists of multiple cooperating modules. The behavior of individual modules is described by means on state diagrams. In the paper, the constraints on state diagrams are proposed, allowing for the specification of designer's intentions as to the synchronization of modules. Also, the translation of state diagrams (with enforcement constraints) into Concurrent State Machines is shown, which provides formal framework for the verification of inter-module synchronization. An example of engineering software design based on the method is presented.

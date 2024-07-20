@@ -1,0 +1,5 @@
+Adding Sessions to BPEL
+
+By considering an essential subset of the BPEL orchestration language, we define SeB, a session based style of this subset. We discuss the formal semantics of SeB and we present its main properties. We use a new approach to address the formal semantics, based on a translation into so-called control graphs. Our semantics handles control links and addresses the static semantics that prescribes the valid usage of variables. We also provide the semantics of collections of networked services. 
+  Relying on these semantics, we define precisely what is meant by interaction safety, paving the way to the formal analysis of safe interactions between BPEL services.
+

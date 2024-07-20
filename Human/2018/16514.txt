@@ -1,0 +1,3 @@
+Automatic Generation of Bounds for Polynomial Systems with Application to the Lorenz System
+
+This study covers an analytical approach to calculate positively invariant sets of dynamical systems. Using Lyapunov techniques and quantifier elimination methods, an automatic procedure for determining bounds in the state space as an enclosure of attractors is proposed. The available software tools permit an algorithmizable process, which normally requires a good insight into the systems dynamics and experience. As a result we get an estimation of the attractor, whose conservatism only results from the initial choice of the Lyapunov candidate function. The proposed approach is illustrated on the well-known Lorenz system.

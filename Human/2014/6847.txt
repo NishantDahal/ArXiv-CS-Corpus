@@ -1,0 +1,8 @@
+Median Filtering is Equivalent to Sorting
+
+This work shows that the following problems are equivalent, both in theory and in practice:
+  - median filtering: given an $n$-element vector, compute the sliding window median with window size $k$,
+  - piecewise sorting: given an $n$-element vector, divide it in $n/k$ blocks of length $k$ and sort each block.
+  By prior work, median filtering is known to be at least as hard as piecewise sorting: with a single median filter operation we can sort $Θ(n/k)$ blocks of length $Θ(k)$. The present work shows that median filtering is also as easy as piecewise sorting: we can do median filtering with one piecewise sorting operation and linear-time postprocessing. In particular, median filtering can directly benefit from the vast literature on sorting algorithms---for example, adaptive sorting algorithms imply adaptive median filtering algorithms.
+  The reduction is very efficient in practice---for random inputs the performance of the new sorting-based algorithm is on a par with the fastest heap-based algorithms, and for benign data distributions it typically outperforms prior algorithms.
+  The key technical idea is that we can represent the sliding window with a pair of sorted doubly-linked lists: we delete items from one list and add items to the other list. Deletions are easy; additions can be done efficiently if we reverse the time twice: First we construct the full list and delete the items in the reverse order. Then we undo each deletion with Knuth's dancing links technique.

@@ -1,0 +1,3 @@
+All Ternary Permutation Constraint Satisfaction Problems Parameterized Above Average Have Kernels with Quadratic Numbers of Variables
+
+A ternary Permutation-CSP is specified by a subset $Π$ of the symmetric group $\mathcal S_3$. An instance of such a problem consists of a set of variables $V$ and a multiset of constraints, which are ordered triples of distinct variables of $V.$ The objective is to find a linear ordering $α$ of $V$ that maximizes the number of triples whose ordering (under $α$) follows a permutation in $Π$. We prove that all ternary Permutation-CSPs parameterized above average have kernels with quadratic numbers of variables.

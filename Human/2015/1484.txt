@@ -1,0 +1,6 @@
+How to Bootstrap Anonymous Communication
+
+We ask whether it is possible to anonymously communicate a large amount of data using only public (non-anonymous) communication together with a small anonymous channel. We think this is a central question in the theory of anonymous communication and to the best of our knowledge this is the first formal study in this direction. To solve this problem, we introduce the concept of anonymous steganography: think of a leaker Lea who wants to leak a large document to Joe the journalist. Using anonymous steganography Lea can embed this document in innocent looking communication on some popular website (such as cat videos on YouTube or funny memes on 9GAG). Then Lea provides Joe with a short key $k$ which, when applied to the entire website, recovers the document while hiding the identity of Lea among the large number of users of the website. Our contributions include:
+  - Introducing and formally defining anonymous steganography,
+  - A construction showing that anonymous steganography is possible (which uses recent results in circuits obfuscation),
+  - A lower bound on the number of bits which are needed to bootstrap anonymous communication.

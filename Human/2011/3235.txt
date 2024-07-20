@@ -1,0 +1,3 @@
+A Linear Time Natural Evolution Strategy for Non-Separable Functions
+
+We present a novel Natural Evolution Strategy (NES) variant, the Rank-One NES (R1-NES), which uses a low rank approximation of the search distribution covariance matrix. The algorithm allows computation of the natural gradient with cost linear in the dimensionality of the parameter space, and excels in solving high-dimensional non-separable problems, including the best result to date on the Rosenbrock function (512 dimensions).

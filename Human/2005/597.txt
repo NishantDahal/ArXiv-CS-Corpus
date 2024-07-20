@@ -1,0 +1,3 @@
+Finite automata for testing uniqueness of Eulerian trails
+
+We investigate the condition under which the Eulerian trail of a digraph is unique, and design a finite automaton to examine it. The algorithm is effective, for if the condition is violated, it will be noticed immediately without the need to trace through the whole trail.

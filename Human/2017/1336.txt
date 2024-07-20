@@ -1,0 +1,3 @@
+Partial Derivatives for Context-Free Languages: From $μ$-Regular Expressions to Pushdown Automata
+
+We extend Antimirov's partial derivatives from regular expressions to $μ$-regular expressions that describe context-free languages. We prove the correctness of partial derivatives as well as the finiteness of the set of iterated partial derivatives. The latter are used as pushdown symbols in our construction of a nondeterministic pushdown automaton, which generalizes Antimirov's NFA construction.

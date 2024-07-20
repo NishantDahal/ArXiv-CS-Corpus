@@ -1,0 +1,3 @@
+Decoding of Interleaved Reed-Solomon Codes Using Improved Power Decoding
+
+We propose a new partial decoding algorithm for $m$-interleaved Reed--Solomon (IRS) codes that can decode, with high probability, a random error of relative weight $1-R^{\frac{m}{m+1}}$ at all code rates $R$, in time polynomial in the code length $n$. For $m>2$, this is an asymptotic improvement over the previous state-of-the-art for all rates, and the first improvement for $R>1/3$ in the last $20$ years. The method combines collaborative decoding of IRS codes with power decoding up to the Johnson radius.

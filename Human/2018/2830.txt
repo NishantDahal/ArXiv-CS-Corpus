@@ -1,0 +1,3 @@
+Deep Echo State Networks for Diagnosis of Parkinson's Disease
+
+In this paper, we introduce a novel approach for diagnosis of Parkinson's Disease (PD) based on deep Echo State Networks (ESNs). The identification of PD is performed by analyzing the whole time-series collected from a tablet device during the sketching of spiral tests, without the need for feature extraction and data preprocessing. We evaluated the proposed approach on a public dataset of spiral tests. The results of experimental analysis show that DeepESNs perform significantly better than shallow ESN model. Overall, the proposed approach obtains state-of-the-art results in the identification of PD on this kind of temporal data.

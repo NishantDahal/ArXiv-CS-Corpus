@@ -1,0 +1,3 @@
+Sparsity-Aware Filtered-X Affine Projection Algorithms for Active Noise Control
+
+This paper describes a novel technique for promoting sparsity in the modified filtered-x algorithms required for active noise control. The proposed algorithms are based on recent techniques incorporating approximations to the \ell_0-norm in the cost functions that are used to derive adaptive filtering algorithms. In particular, zero-attracting and reweighted zero-attracting filtered-x adaptive algorithms are developed and considered for active noise control problems. The results of simulations indicate that the proposed techniques improve the convergence of the existing modified algorithm in the case where the primary and secondary paths exhibit a degree of sparsity.

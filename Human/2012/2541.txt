@@ -1,0 +1,4 @@
+The Design of GP 2
+
+This papers defines the syntax and semantics of GP 2, a revised version of the graph programming language GP. New concepts are illustrated and explained with example programs. Changes to the first version of GP include an improved type system for labels, a built-in marking mechanism for nodes and edges, a more powerful edge predicate for conditional rule schemata, and functions returning the indegree and outdegree of matched nodes. Moreover, the semantics of the branching and loop statement have been simplified to allow their efficient implementation.
+

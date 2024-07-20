@@ -1,0 +1,3 @@
+Lower bounds for testing digraph connectivity with one-pass streaming algorithms
+
+In this note, we show that three graph properties - strong connectivity, acyclicity, and reachability from a vertex $s$ to all vertices - each require a working memory of $Ω(εm)$ on a graph with $m$ edges to be determined correctly with probability greater than $(1+ε)/2$.

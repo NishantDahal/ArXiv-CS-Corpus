@@ -1,0 +1,3 @@
+Towards an algebraic natural proofs barrier via polynomial identity testing
+
+We observe that a certain kind of algebraic proof - which covers essentially all known algebraic circuit lower bounds to date - cannot be used to prove lower bounds against VP if and only if what we call succinct hitting sets exist for VP. This is analogous to the Razborov-Rudich natural proofs barrier in Boolean circuit complexity, in that we rule out a large class of lower bound techniques under a derandomization assumption. We also discuss connections between this algebraic natural proofs barrier, geometric complexity theory, and (algebraic) proof complexity.

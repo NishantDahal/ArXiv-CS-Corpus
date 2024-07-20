@@ -1,0 +1,3 @@
+Optimal Record and Replay under Causal Consistency
+
+We investigate the minimum record needed to replay executions of processes that share causally consistent memory. For a version of causal consistency, we identify optimal records under both offline and online recording setting. Under the offline setting, a central authority has information about every process' view of the execution and can decide what information to record for each process. Under the online setting, each process has to decide on the record at runtime as the operations are observed.

@@ -1,0 +1,3 @@
+Bayesian Inference of Diffusion Networks with Unknown Infection Times
+
+The analysis of diffusion processes in real-world propagation scenarios often involves estimating variables that are not directly observed. These hidden variables include parental relationships, the strengths of connections between nodes, and the moments of time that infection occurs. In this paper, we propose a framework in which all three sets of parameters are assumed to be hidden and we develop a Bayesian approach to infer them. After justifying the model assumptions, we evaluate the performance efficiency of our proposed approach through numerical simulations on synthetic datasets and real-world diffusion processes.

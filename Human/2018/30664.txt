@@ -1,0 +1,3 @@
+Robust cross-domain disfluency detection with pattern match networks
+
+In this paper we introduce a novel pattern match neural network architecture that uses neighbor similarity scores as features, eliminating the need for feature engineering in a disfluency detection task. We evaluate the approach in disfluency detection for four different speech genres, showing that the approach is as effective as hand-engineered pattern match features when used on in-domain data and achieves superior performance in cross-domain scenarios.

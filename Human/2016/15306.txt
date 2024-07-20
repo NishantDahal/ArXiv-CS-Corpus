@@ -1,0 +1,3 @@
+The Joint Signature and Encryption Revisited
+
+We study the Sign_then_Encrypt, Commit_then_Encrypt_and_Sign, and Encrypt_then_Sign paradigms in the context of two cryptographic primitives, namely designated confirmer signatures and signcryption. Our study identifies weaknesses in those paradigms which impose the use of expensive encryption (as a building block) in order to meet a reasonable security level. Next, we propose some optimizations which annihilate the found weaknesses and allow consequently cheap encryption without compromising the overall security. Our optimizations further enjoy verifiability, a property profoundly needed in many real-life applications of the studied primitives.

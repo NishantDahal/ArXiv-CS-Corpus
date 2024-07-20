@@ -1,0 +1,3 @@
+First Study on Data Readiness Level
+
+We introduce the idea of Data Readiness Level (DRL) to measure the relative richness of data to answer specific questions often encountered by data scientists. We first approach the problem in its full generality explaining its desired mathematical properties and applications and then we propose and study two DRL metrics. Specifically, we define DRL as a function of at least four properties of data: Noisiness, Believability, Relevance, and Coherence. The information-theoretic based metrics, Cosine Similarity and Document Disparity, are proposed as indicators of Relevance and Coherence for a piece of data. The proposed metrics are validated through a text-based experiment using Twitter data.

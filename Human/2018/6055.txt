@@ -1,0 +1,3 @@
+Extreme Learning Machine for Graph Signal Processing
+
+In this article, we improve extreme learning machines for regression tasks using a graph signal processing based regularization. We assume that the target signal for prediction or regression is a graph signal. With this assumption, we use the regularization to enforce that the output of an extreme learning machine is smooth over a given graph. Simulation results with real data confirm that such regularization helps significantly when the available training data is limited in size and corrupted by noise.

@@ -1,0 +1,4 @@
+Pretty-big-step-semantics-based Certified Abstract Interpretation (Preliminary version)
+
+We present a technique for deriving semantic program analyses from a natural semantics specification of the programming language.  The technique is based on a particular kind of semantics called pretty-big-step semantics.  We present a pretty-big-step semantics of a language with simple objects called O'While and specify a series of instrumentations of the semantics that explicitates the flows of values in a program.  This leads to a semantics-based dependency analysis, at the core, e.g., of tainting analysis in software security.  The formalization has been realized with the Coq proof assistant.
+

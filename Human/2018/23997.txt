@@ -1,0 +1,3 @@
+Branch-and-bound for bi-objective integer programming
+
+In bi-objective integer optimization the optimal result corresponds to a set of non-dominated solutions. We propose a generic bi-objective branch-and-bound algorithm that uses a problem-independent branching rule exploiting available integer solutions and takes advantage of integer objective coefficients. The developed algorithm is applied to bi-objective facility location problems, to the bi-objective set covering problem, as well as to the bi-objective team orienteering problem with time windows. In the latter case, lower bound sets are computed by means of column generation. Comparison to state-of-the-art exact algorithms shows the effectiveness of the proposed branch-and-bound algorithm.

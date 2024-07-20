@@ -1,0 +1,3 @@
+Uncertainty Measures and Limiting Distributions for Filament Estimation
+
+A filament is a high density, connected region in a point cloud. There are several methods for estimating filaments but these methods do not provide any measure of uncertainty. We give a definition for the uncertainty of estimated filaments and we study statistical properties of the estimated filaments. We show how to estimate the uncertainty measures and we construct confidence sets based on a bootstrapping technique. We apply our methods to astronomy data and earthquake data.

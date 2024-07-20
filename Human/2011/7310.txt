@@ -1,0 +1,3 @@
+Deriving a Hoare-Floyd logic for non-local jumps from a formulae-as-types notion of control
+
+We derive a Hoare-Floyd logic for non-local jumps and mutable higher-order procedural variables from a formulæ-as-types notion of control for classical logic. The main contribution of this work is the design of an imperative dependent type system for non-local jumps which corresponds to classical logic but where the famous consequence rule is still derivable.

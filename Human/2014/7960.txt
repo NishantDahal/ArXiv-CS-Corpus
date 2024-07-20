@@ -1,0 +1,3 @@
+Eulerian digraphs and Dyck words, a bijection
+
+The main goal of this work is to establish a bijection between Dyck words and a family of Eulerian digraphs. We do so by providing two algorithms implementing such bijection in both directions. The connection between Dyck words and Eulerian digraphs exploits a novel combinatorial structure: a binary matrix, we call Dyck matrix, representing the cycles of an Eulerian digraph.

@@ -1,0 +1,3 @@
+The Mixing Time of Glauber Dynamics for Colouring Regular Trees
+
+We consider Metropolis Glauber dynamics for sampling proper $q$-colourings of the $n$-vertex complete $b$-ary tree when $3\leq q\leq b/2\ln(b)$. We give both upper and lower bounds on the mixing time. For fixed $q$ and $b$, our upper bound is $n^{O(b/\log b)}$ and our lower bound is $n^{Ω(b/q \log(b))}$, where the constants implicit in the $O()$ and $Ω()$ notation do not depend upon $n$, $q$ or $b$.

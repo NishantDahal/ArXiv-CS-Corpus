@@ -1,0 +1,3 @@
+Benchmarking Automatic Machine Learning Frameworks
+
+AutoML serves as the bridge between varying levels of expertise when designing machine learning systems and expedites the data science process. A wide range of techniques is taken to address this, however there does not exist an objective comparison of these techniques. We present a benchmark of current open source AutoML solutions using open source datasets. We test auto-sklearn, TPOT, auto_ml, and H2O's AutoML solution against a compiled set of regression and classification datasets sourced from OpenML and find that auto-sklearn performs the best across classification datasets and TPOT performs the best across regression datasets.

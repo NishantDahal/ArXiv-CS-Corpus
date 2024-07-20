@@ -1,0 +1,5 @@
+Tracking a Random Walk First-Passage Time Through Noisy Observations
+
+Given a Gaussian random walk (or a Wiener process), possibly with drift, observed through noise, we consider the problem of estimating its first-passage time $τ_\ell$ of a given level $\ell$ with a stopping time $η$ defined over the noisy observation process.
+  Main results are upper and lower bounds on the minimum mean absolute deviation $\inf_η\ex|η-τ_\ell|$ which become tight as $\ell\to\infty$. Interestingly, in this regime the estimation error does not get smaller if we allow $ η$ to be an arbitrary function of the entire observation process, not necessarily a stopping time.
+  In the particular case where there is no drift, we show that it is impossible to track $τ_\ell$: $\inf_η\ex|η-τ_\ell|^p=\infty$ for any $\ell>0$ and $p\geq1/2$.

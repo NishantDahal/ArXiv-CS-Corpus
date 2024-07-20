@@ -1,0 +1,3 @@
+Sessions as Propositions
+
+Recently, Wadler presented a continuation-passing translation from a session-typed functional language, GV, to a process calculus based on classical linear logic, CP. However, this translation is one-way: CP is more expressive than GV. We propose an extension of GV, called HGV, and give translations showing that it is as expressive as CP. The new translations shed light both on the original translation from GV to CP, and on the limitations in expressiveness of GV.

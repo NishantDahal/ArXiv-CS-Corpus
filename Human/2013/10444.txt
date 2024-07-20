@@ -1,0 +1,4 @@
+Evaluating parametric holonomic sequences using rectangular splitting
+
+We adapt the rectangular splitting technique of Paterson and Stockmeyer to the problem of evaluating terms in holonomic sequences that depend on a parameter. This approach allows computing the $n$-th term in a recurrent sequence of suitable type using $O(n^{1/2})$ "expensive" operations at the cost of an increased number of "cheap" operations.
+  Rectangular splitting has little overhead and can perform better than either naive evaluation or asymptotically faster algorithms for ranges of $n$ encountered in applications. As an example, fast numerical evaluation of the gamma function is investigated. Our work generalizes two previous algorithms of Smith.

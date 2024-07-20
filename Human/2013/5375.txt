@@ -1,0 +1,6 @@
+Compressed threshold pivoting for sparse symmetric indefinite systems
+
+A key technique for controlling numerical stability in sparse direct solvers is threshold partial pivoting. When selecting a pivot, the entire candidate pivot column below the diagonal must be up-to-date and must be scanned. If the factorization is parallelized across a large number of cores, communication latencies can be the dominant computational cost.
+  In this paper, we propose two alternative pivoting strategies for sparse symmetric indefinite matrices that significantly reduce communication by compressing the necessary data into a small matrix that can be used to select pivots. Once pivots have been chosen, they can be applied in a communication-efficient fashion.
+  For an n x p submatrix on P processors, we show our methods perform a factorization using O(log P) messages instead of the O(p log P) for threshold partial pivoting. The additional costs in terms of operations and communication bandwidth are relatively small.
+  A stability proof is given and numerical results using a range of symmetric indefinite matrices arising from practical problems are used to demonstrate the practical robustness. Timing results on large random examples illustrate the potential speedup on current multicore machines.

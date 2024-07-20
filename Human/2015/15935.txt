@@ -1,0 +1,6 @@
+Fixed parameter complexity of distance constrained labeling and uniform channel assignment problems
+
+We study computational complexity of the class of distance-constrained graph labeling problems from the fixed parameter tractability point of view. The parameters studied are neighborhood diversity and clique width.
+  We rephrase the distance constrained graph labeling problem as a specific uniform variant of the Channel Assignment problem and show that this problem is fixed parameter tractable when parameterized by the neighborhood diversity together with the largest weight. Consequently, every $L(p_1, p_2, \dots, p_k)$-labeling problem is FPT when parameterized by the neighborhood diversity, the maximum $p_i$ and $k.$
+  Our results yield also FPT algorithms for all $L(p_1, p_2, \dots, p_k)$-labeling problems when parameterized by the size of a minimum vertex cover, answering an open question of Fiala et al.: Parameterized complexity of coloring problems: Treewidth versus vertex cover. The same consequence applies on Channel Assignment when the maximum weight is additionally included among the parameters.
+  Finally, we show that the uniform variant of the Channel Assignment problem becomes NP-complete when generalized to graphs of bounded clique width.

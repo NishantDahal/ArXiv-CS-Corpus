@@ -1,0 +1,3 @@
+Compressed Manifold Modes: Fast Calculation and Natural Ordering
+
+Compressed manifold modes are locally supported analogues of eigenfunctions of the Laplace-Beltrami operator of a manifold. In this paper we describe an algorithm for the calculation of modes for discrete manifolds that, in experiments, requires on average 47% fewer iterations and 44% less time than the previous algorithm. We show how to naturally order the modes in an analogous way to eigenfunctions, that is we define a compressed eigenvalue. Furthermore, in contrast to the previous algorithm we permit unlumped mass matrices for the operator and we show, unlike the case of eigenfunctions, that modes can, in general, be oriented.

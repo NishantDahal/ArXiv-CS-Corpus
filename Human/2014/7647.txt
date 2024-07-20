@@ -1,0 +1,5 @@
+Low-Effort Specification Debugging and Analysis
+
+Reactive synthesis deals with the automated construction of implementations of reactive systems from their specifications. To make the approach feasible in practice, systems engineers need effective and efficient means of debugging these specifications.
+  In this paper, we provide techniques for report-based specification debugging, wherein salient properties of a specification are analyzed, and the result presented to the user in the form of a report. This provides a low-effort way to debug specifications, complementing high-effort techniques including the simulation of synthesized implementations.
+  We demonstrate the usefulness of our report-based specification debugging toolkit by providing examples in the context of generalized reactivity(1) synthesis.

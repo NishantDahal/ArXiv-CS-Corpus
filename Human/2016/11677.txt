@@ -1,0 +1,3 @@
+Ideal Tree-drawings of Approximately Optimal Width (And Small Height)
+
+For rooted trees, an ideal drawing is one that is planar, straight-line, strictly-upward, and order-preserving. This paper considers ideal drawings of rooted trees with the objective of keeping the width of such drawings small. It is not known whether finding the minimum-possible width is NP-hard or polynomial. This paper gives a 2-approximation for this problem, and a $2Δ$-approximation (for $Δ$-ary trees) where additionally the height is $O(n)$. For trees with $Δ\leq 3$, the former algorithm finds ideal drawings with minimum-possible width.

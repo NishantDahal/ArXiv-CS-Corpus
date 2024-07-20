@@ -1,0 +1,4 @@
+ESmodels: An Epistemic Specification Solver
+
+(To appear in Theory and Practice of Logic Programming (TPLP))
+  ESmodels is designed and implemented as an experiment platform to investigate the semantics, language, related reasoning algorithms, and possible applications of epistemic specifications.We first give the epistemic specification language of ESmodels and its semantics. The language employs only one modal operator K but we prove that it is able to represent luxuriant modal operators by presenting transformation rules. Then, we describe basic algorithms and optimization approaches used in ESmodels. After that, we discuss possible applications of ESmodels in conformant planning and constraint satisfaction. Finally, we conclude with perspectives.

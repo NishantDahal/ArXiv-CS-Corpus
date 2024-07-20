@@ -1,0 +1,3 @@
+Dynamic Complexity of Parity Games with Bounded Tree-Width
+
+Dynamic complexity is concerned with updating the output of a problem when the input is slightly changed. We study the dynamic complexity of two-player parity games over graphs of bounded tree-width, where updates may add or delete edges, or change the owner or color of states. We show that this problem is in DynFO (with LOGSPACE precomputation); this is achieved by a reduction to a Dyck-path problem on an acyclic automaton.

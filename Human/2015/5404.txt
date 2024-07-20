@@ -1,0 +1,3 @@
+A combinatorial approach to knot recognition
+
+This is a report on our ongoing research on a combinatorial approach to knot recognition, using coloring of knots by certain algebraic objects called quandles. The aim of the paper is to summarize the mathematical theory of knot coloring in a compact, accessible manner, and to show how to use it for computational purposes. In particular, we address how to determine colorability of a knot, and propose to use SAT solving to search for colorings. The computational complexity of the problem, both in theory and in our implementation, is discussed. In the last part, we explain how coloring can be utilized in knot recognition.

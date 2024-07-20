@@ -1,0 +1,3 @@
+Decentralized Biconnectivity Conditions in Multi-robot Systems
+
+The network connectivity in a group of cooperative robots can be easily broken if one of them loses its connectivity with the rest of the group. In case of having robustness with respect to one-robot-fail, the communication network is termed biconnected. In simple words, to have a biconnected network graph, we need to prove that there exists no articulation point. We propose a decentralized approach that provides sufficient conditions for biconnectivity of the network, and we prove that these conditions are related to the third smallest eigenvalue of the Laplacian matrix. Data exchange among the robots is supposed to be neighbor-to-neighbor.

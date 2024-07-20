@@ -1,0 +1,3 @@
+Joint CFO and Channel Estimation in Millimeter Wave Systems with One-Bit ADCs
+
+We develop a method to jointly estimate the carrier frequency offset (CFO) and the narrowband channel in millimeter wave (mmWave) MIMO systems operating with one-bit analog-to-digital converters (ADCs). We assume perfect timing synchronization and transform the underlying CFO-channel optimization problem to a higher dimensional space using lifting techniques. Exploiting the sparsity of mmWave MIMO channels in the angle domain, we perform joint estimation by solving a noisy quantized compressed sensing problem of the lifted version, using generalized approximate message passing. Simulation results show that our method is able to recover both the channel and the CFO using one-bit measurements.

@@ -1,0 +1,3 @@
+In-depth comparison of the Berlekamp -- Massey -- Sakata and the Scalar-FGLM algorithms: the non adaptive variants
+
+We compare thoroughly the Berlekamp -- Massey -- Sakata algorithm and the Scalar-FGLM algorithm, which compute both the ideal of relations of a multi-dimensional linear recurrent sequence. Suprisingly, their behaviors differ. We detail in which way they do and prove that it is not possible to tweak one of the algorithms in order to mimic exactly the behavior of the other.

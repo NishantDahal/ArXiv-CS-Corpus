@@ -1,0 +1,3 @@
+How to Allocate Resources For Features Acquisition?
+
+We study classification problems where features are corrupted by noise and where the magnitude of the noise in each feature is influenced by the resources allocated to its acquisition. This is the case, for example, when multiple sensors share a common resource (power, bandwidth, attention, etc.). We develop a method for computing the optimal resource allocation for a variety of scenarios and derive theoretical bounds concerning the benefit that may arise by non-uniform allocation. We further demonstrate the effectiveness of the developed method in simulations.

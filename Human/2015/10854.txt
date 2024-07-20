@@ -1,0 +1,3 @@
+An Automata Theoretic Approach to the Zero-One Law for Regular Languages: Algorithmic and Logical Aspects
+
+A zero-one language L is a regular language whose asymptotic probability converges to either zero or one. In this case, we say that L obeys the zero-one law. We prove that a regular language obeys the zero-one law if and only if its syntactic monoid has a zero element, by means of Eilenberg's variety theoretic approach. Our proof gives an effective automata characterisation of the zero-one law for regular languages, and it leads to a linear time algorithm for testing whether a given regular language is zero-one. In addition, we discuss the logical aspects of the zero-one law for regular languages.

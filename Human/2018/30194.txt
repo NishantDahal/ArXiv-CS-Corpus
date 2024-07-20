@@ -1,0 +1,3 @@
+Amortized Bayesian inference for clustering models
+
+We develop methods for efficient amortized approximate Bayesian inference over posterior distributions of probabilistic clustering models, such as Dirichlet process mixture models. The approach is based on mapping distributed, symmetry-invariant representations of cluster arrangements into conditional probabilities. The method parallelizes easily, yields iid samples from the approximate posterior of cluster assignments with the same computational cost of a single Gibbs sampler sweep, and can easily be applied to both conjugate and non-conjugate models, as training only requires samples from the generative model.

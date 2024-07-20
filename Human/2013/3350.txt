@@ -1,0 +1,3 @@
+A Generalization of the Noisy-Or Model
+
+The Noisy-Or model is convenient for describing a class of uncertain relationships in Bayesian networks [Pearl 1988]. Pearl describes the Noisy-Or model for Boolean variables.  Here we generalize the model to nary input and output variables and to arbitrary functions other than the Boolean OR function.  This generalization is a useful modeling aid for construction of Bayesian networks.  We illustrate with some examples including digital circuit diagnosis and network reliability analysis.

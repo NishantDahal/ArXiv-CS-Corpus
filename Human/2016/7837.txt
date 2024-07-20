@@ -1,0 +1,3 @@
+Distributed protocols for spanning tree construction and leader election
+
+We present fast deterministic distributed protocols in synchronous networks for leader election and spanning tree construction. The protocols are designed under the assumption that nodes in a network have identifiers but the size of an identifier is unlimited. So time bounds of protocols depend on the sizes of identifiers. We present fast protocols running in time $O(D\log L+L)$, where $L$ is the size of the minimal identifier and $D$ is the diameter of a network.

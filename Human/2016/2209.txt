@@ -1,0 +1,3 @@
+A Note on the Complexity of Computing the Number of Reachable Vertices in a Digraph
+
+In this work, we consider the following problem: given a digraph $G=(V,E)$, for each vertex $v$, we want to compute the number of vertices reachable from $v$. In other words, we want to compute the out-degree of each vertex in the transitive closure of $G$. We show that this problem is not solvable in time $\mathcal{O}\left(|E|^{2-ε}\right)$ for any $ε>0$, unless the Strong Exponential Time Hypothesis is false. This result still holds if $G$ is assumed to be acyclic.

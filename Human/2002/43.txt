@@ -1,0 +1,3 @@
+Preferred History Semantics for Iterated Updates
+
+We give a semantics to iterated update by a preference relation on possible developments. An iterated update is a sequence of formulas, giving (incomplete) information about successive states of the world. A development is a sequence of models, describing a possible trajectory through time. We assume a principle of inertia and prefer those developments, which are compatible with the information, and avoid unnecessary changes. The logical properties of the updates defined in this way are considered, and a representation result is proved.

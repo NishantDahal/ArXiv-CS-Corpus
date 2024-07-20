@@ -1,0 +1,5 @@
+Compressed Indexing with Signature Grammars
+
+The compressed indexing problem is to preprocess a string $S$ of length $n$ into a compressed representation that supports pattern matching queries. That is, given a string $P$ of length $m$ report all occurrences of $P$ in $S$.
+  We present a data structure that supports pattern matching queries in $O(m + occ (\lg\lg n + \lg^εz))$ time using $O(z \lg(n / z))$ space where $z$ is the size of the LZ77 parse of $S$ and $ε> 0$ is an arbitrarily small constant, when the alphabet is small or $z = O(n^{1 - δ})$ for any constant $δ> 0$. We also present two data structures for the general case; one where the space is increased by $O(z\lg\lg z)$, and one where the query time changes from worst-case to expected. These results improve the previously best known solutions. Notably, this is the first data structure that decides if $P$ occurs in $S$ in $O(m)$ time using $O(z\lg(n/z))$ space.
+  Our results are mainly obtained by a novel combination of a randomized grammar construction algorithm with well known techniques relating pattern matching to 2D-range reporting.

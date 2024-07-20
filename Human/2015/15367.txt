@@ -1,0 +1,4 @@
+Control Flow Analysis for SF Combinator Calculus
+
+Programs that transform other programs often require access to the internal structure of the program to be transformed. This is at odds with the usual extensional view of functional programming, as embodied by the lambda calculus and SK combinator calculus. The recently-developed SF combinator calculus offers an alternative, intensional model of computation that may serve as a foundation for developing principled languages in which to express intensional computation, including program transformation. Until now there have been no static analyses for reasoning about or verifying programs written in SF-calculus. We take the first step towards remedying this by developing a formulation of the popular control flow analysis 0CFA for SK-calculus and extending it to support SF-calculus. We prove its correctness and demonstrate that the analysis is invariant under the usual translation from SK-calculus into SF-calculus.
+

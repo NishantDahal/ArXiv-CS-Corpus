@@ -1,0 +1,3 @@
+Towards Building an RGBD-M Scanner
+
+We present a portable device to capture both shape and reflectance of an indoor scene. Consisting of a Kinect, an IR camera and several IR LEDs, our device allows the user to acquire data in a similar way as he/she scans with a single Kinect. Scene geometry is reconstructed by KinectFusion. To estimate reflectance from incomplete and noisy observations, 3D vertices of the same material are identified by our material segmentation propagation algorithm. Then BRDF observations at these vertices are merged into a more complete and accurate BRDF for the material. Effectiveness of our device is demonstrated by quality results on real-world scenes.

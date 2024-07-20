@@ -1,0 +1,3 @@
+Stochastic variance reduced multiplicative update for nonnegative matrix factorization
+
+Nonnegative matrix factorization (NMF), a dimensionality reduction and factor analysis method, is a special case in which factor matrices have low-rank nonnegative constraints. Considering the stochastic learning in NMF, we specifically address the multiplicative update (MU) rule, which is the most popular, but which has slow convergence property. This present paper introduces on the stochastic MU rule a variance-reduced technique of stochastic gradient. Numerical comparisons suggest that our proposed algorithms robustly outperform state-of-the-art algorithms across different synthetic and real-world datasets.

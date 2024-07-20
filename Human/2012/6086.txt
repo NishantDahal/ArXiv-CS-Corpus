@@ -1,0 +1,3 @@
+Map-aided Fusion Using Evidential Grids for Mobile Perception in Urban Environment
+
+Evidential grids have been recently used for mobile object perception. The novelty of this article is to propose a perception scheme using prior map knowledge. A geographic map is considered an additional source of information fused with a grid representing sensor data. Yager's rule is adapted to exploit the Dempster-Shafer conflict information at large. In order to distinguish stationary and mobile objects, a counter is introduced and used as a factor for mass function specialisation. Contextual discounting is used, since we assume that different pieces of information become obsolete at different rates. Tests on real-world data are also presented.

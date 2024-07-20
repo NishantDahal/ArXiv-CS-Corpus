@@ -1,0 +1,3 @@
+Obfuscation in Bitcoin: Techniques and Politics
+
+In the cryptographic currency Bitcoin, all transactions are recorded in the blockchain - a public, global, and immutable ledger. Because transactions are public, Bitcoin and its users employ obfuscation to maintain a degree of financial privacy. Critically, and in contrast to typical uses of obfuscation, in Bitcoin obfuscation is not aimed against the system designer but is instead enabled by design. We map sixteen proposed privacy-preserving techniques for Bitcoin on an obfuscation-vs.-cryptography axis, and find that those that are used in practice tend toward obfuscation. We argue that this has led to a balance between privacy and regulatory acceptance.

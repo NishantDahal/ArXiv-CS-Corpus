@@ -1,0 +1,3 @@
+Syntax and Typing for Cedille Core
+
+This document specifies a core version of the type theory implemented in the Cedille tool. Cedille is a language for dependently typed programming and computer-checked proof. Cedille can elaborate source programs down to Cedille Core, which can be checked in a straightforward way by a small checker (a reference implementation included with Cedille is under 1000 lines of Haskell). Other tools could also target Cedille Core as an expressive backend type theory. The document describes syntax and typing rules for Cedille Core.

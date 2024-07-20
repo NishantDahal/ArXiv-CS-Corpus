@@ -1,0 +1,4 @@
+Domain Theory: An Introduction
+
+This monograph is an ongoing revision of "Lectures On A Mathematical Theory of Computation" by Dana Scott. Scott's monograph uses a formulation of domains called neighborhood systems in which finite elements are selected subsets of a master set of objects called "tokens". Since tokens have little intuitive significance, Scott has discarded neighborhood systems in favor of an equivalent formulation of domains called information systems. Unfortunately, he has not rewritten his monograph to reflect this change.
+  We have rewritten Scott's monograph in terms of finitary bases instead of information systems. A finitary basis is an information system that is closed under least upper bounds on finite consistent subsets. This convention ensures that every finite answer is represented by a single basis object instead of a set of objects.

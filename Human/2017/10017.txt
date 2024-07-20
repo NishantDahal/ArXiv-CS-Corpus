@@ -1,0 +1,3 @@
+On OR Many-Access Channels
+
+OR multi-access channel is a simple model where the channel output is the Boolean OR among the Boolean channel inputs. We revisit this model, showing that employing Bloom filter, a randomized data structure, as channel inputs achieves its capacity region with joint decoding and the symmetric sum rate of $\ln 2$ bits per channel use without joint decoding. We then proceed to the "many-access" regime where the number of potential users grows without bound, treating both activity recognition and message transmission problems, establishing scaling laws which are optimal within a constant factor, based on Bloom filter channel inputs.

@@ -1,0 +1,3 @@
+A Logarithmic Integrality Gap Bound for Directed Steiner Tree in Quasi-bipartite Graphs
+
+We demonstrate that the integrality gap of the natural cut-based LP relaxation for the directed Steiner tree problem is $O(\log k)$ in quasi-bipartite graphs with $k$ terminals. Such instances can be seen to generalize set cover, so the integrality gap analysis is tight up to a constant factor. A novel aspect of our approach is that we use the primal-dual method; a technique that is rarely used in designing approximation algorithms for network design problems in directed graphs.

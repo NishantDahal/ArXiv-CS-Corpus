@@ -1,0 +1,3 @@
+Online Convolutional Dictionary Learning for Multimodal Imaging
+
+Computational imaging methods that can exploit multiple modalities have the potential to enhance the capabilities of traditional sensing systems. In this paper, we propose a new method that reconstructs multimodal images from their linear measurements by exploiting redundancies across different modalities. Our method combines a convolutional group-sparse representation of images with total variation (TV) regularization for high-quality multimodal imaging. We develop an online algorithm that enables the unsupervised learning of convolutional dictionaries on large-scale datasets that are typical in such applications. We illustrate the benefit of our approach in the context of joint intensity-depth imaging.

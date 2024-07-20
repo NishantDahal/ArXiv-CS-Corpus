@@ -1,0 +1,3 @@
+Fast Linear Model for Knowledge Graph Embeddings
+
+This paper shows that a simple baseline based on a Bag-of-Words (BoW) representation learns surprisingly good knowledge graph embeddings. By casting knowledge base completion and question answering as supervised classification problems, we observe that modeling co-occurences of entities and relations leads to state-of-the-art performance with a training time of a few minutes using the open sourced library fastText.

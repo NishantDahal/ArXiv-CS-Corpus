@@ -1,0 +1,3 @@
+3DES ECB Optimized for Massively Parallel CUDA GPU Architecture
+
+Modern computers have graphics cards with much higher theoretical efficiency than conventional CPU. The paper presents application possibilities GPU CUDA acceleration for encryption of data using the new architecture tailored to the 3DES algorithm, characterized by increased security compared to the normal DES. The algorithm used in ECB mode (Electronic Codebook), in which 64-bit data blocks are encrypted independently by stream processors (CUDA cores).

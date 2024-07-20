@@ -1,0 +1,3 @@
+Behavioral an real-time verification of a pipeline in the COSMA environment
+
+The case study analyzed in the paper illustrates the example of model checking in the COSMA environment. The system itself is a three-stage pipeline consisting of mutually concurrent modules which also compete for a shared resource. System components are specified in terms of Concurrent State Machines (CSM) The paper shows verification of behavioral properties, model reduction technique, analysis of counter-example and checking of real time properties.

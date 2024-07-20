@@ -1,0 +1,3 @@
+Sequences of radius $k$ for complete bipartite graphs
+
+A \emph{$k$-radius sequence} for a graph $G$ is a sequence of vertices of $G$ (typically with repetitions) such that for every edge $uv$ of $G$ vertices $u$ and $v$ appear at least once within distance $k$ in the sequence. The length of a shortest $k$-radius sequence for $G$ is denoted by $f_k(G)$. We give an asymptotically tight estimation on $f_k(G)$ for complete bipartite graphs {which matches a lower bound, valid for all bipartite graphs}. We also show that determining $f_k(G)$ for an arbitrary graph $G$ is NP-hard for every constant $k>1$.

@@ -1,0 +1,3 @@
+Vehicle Speed Detecting App
+
+The report presents the measurement of vehicular speed using a smartphone camera. The speed measurement is accomplished by detecting the position of the vehicle on a camera frame using the LBP cascade classifier of OpenCV API, the displacement of the detected vehicle with time is used to compute the speed. Conversion coefficient is determined to map the pixel displacement to actual vehicle distance. The speeds measured are proportional to the ground truth speeds.

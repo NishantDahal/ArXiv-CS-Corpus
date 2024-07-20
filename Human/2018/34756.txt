@@ -1,0 +1,3 @@
+Binaural Source Localization based on Modulation-Domain Features and Decision Pooling
+
+In this work we apply Amplitude Modulation Spectrum (AMS) features to the source localization problem. Our approach computes 36 bilateral features for 2s long signal segments and estimates the azimuthal directions of a sound source through a binaurally trained classifier. This directional information of a sound source could be e.g. used to steer the beamformer in a hearing aid to the source of interest in order to increase the SNR. We evaluated our approach on the development set of the IEEE-AASP Challenge on sound source localization and tracking (LOCATA) and achieved a 4.25° smaller MAE than the baseline approach. Additionally, our approach is computationally less complex.

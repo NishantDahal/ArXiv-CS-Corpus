@@ -1,0 +1,4 @@
+Operations on Partial Orders
+
+We define analogues of Boolean operations on not necessarily complete partial orders, they often have as results sets of elements rather than single elements. It proves useful to add to such sets X if they are intended to be sup(X) or inf(X), even if sup and inf do not always exist.
+  We then define the height of an element as the maximal length of chains going from BOTTOM to that element, and use height to define probability measures.

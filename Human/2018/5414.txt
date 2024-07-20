@@ -1,0 +1,3 @@
+Age of Information in a Network of Preemptive Servers
+
+A source submits status updates to a network for delivery to a destination monitor. Updates follow a route through a series of network nodes. Each node is a last-come-first-served queue supporting preemption in service. We characterize the average age of information at the input and output of each node in the route induced by the updates passing through. For Poisson arrivals to a line network of preemptive memoryless servers, we show that average age accumulates through successive network nodes.

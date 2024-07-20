@@ -1,0 +1,3 @@
+Extending the theory of Owicki and Gries with a logic of progress
+
+This paper describes a logic of progress for concurrent programs. The logic is based on that of UNITY, molded to fit a sequential programming model. Integration of the two is achieved by using auxiliary variables in a systematic way that incorporates program counters into the program text. The rules for progress in UNITY are then modified to suit this new system. This modification is however subtle enough to allow the theory of Owicki and Gries to be used without change.

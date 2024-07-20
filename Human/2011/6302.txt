@@ -1,0 +1,3 @@
+Exponential Inapproximability of Selecting a Maximum Volume Sub-matrix
+
+Given a matrix $A \in \mathbb{R}^{m \times n}$ ($n$ vectors in $m$ dimensions), and a positive integer $k < n$, we consider the problem of selecting $k$ column vectors from $A$ such that the volume of the parallelepiped they define is maximum over all possible choices. We prove that there exists $δ<1$ and $c>0$ such that this problem is not approximable within $2^{-ck}$ for $k = δn$, unless $P=NP$.

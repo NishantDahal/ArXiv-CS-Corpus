@@ -1,0 +1,3 @@
+Optimal DoF region of the K-User MISO BC with Partial CSIT
+
+We consider the $K$-User Multiple-Input-Single-Output (MISO) Broadcast Channel (BC) where the transmitter, equipped with $M$ antennas, serves $K$ users, with $K \leq M$. The transmitter has access to a partial channel state information of the users. This is modelled by letting the variance of the Channel State Information at the Transmitter (CSIT) error of user $i$ scale as $O(P^{-α_i}$) for the Signal-to-Noise Ratio (SNR) $P$ and some constant $α_i \geq 0$. In this work we derive the optimal Degrees-of-Freedom (DoF) region in such setting and we show that Rate-Splitting (RS) is the key scheme to achieve such a region.

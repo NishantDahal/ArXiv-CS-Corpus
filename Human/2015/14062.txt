@@ -1,0 +1,3 @@
+Generalized Alternating Projection Based Total Variation Minimization for Compressive Sensing
+
+We consider the total variation (TV) minimization problem used for compressive sensing and solve it using the generalized alternating projection (GAP) algorithm. Extensive results demonstrate the high performance of proposed algorithm on compressive sensing, including two dimensional images, hyperspectral images and videos. We further derive the Alternating Direction Method of Multipliers (ADMM) framework with TV minimization for video and hyperspectral image compressive sensing under the CACTI and CASSI framework, respectively. Connections between GAP and ADMM are also provided.

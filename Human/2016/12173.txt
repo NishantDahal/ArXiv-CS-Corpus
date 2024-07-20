@@ -1,0 +1,4 @@
+Implementing a Relevance Tracker Module
+
+PC(ID) extends propositional logic with inductive definitions: rule sets under the well-founded semantics. Recently, a notion of relevance was introduced for this language. This notion determines the set of undecided literals that can still influence the satisfiability of a PC(ID) formula in a given partial assignment. The idea is that the PC(ID) solver can make decisions only on relevant literals without losing soundness and thus safely ignore irrelevant literals.
+  One important insight that the relevance of a literal is completely determined by the current solver state. During search, the solver state changes have an effect on the relevance of literals. In this paper, we discuss an incremental, lightweight implementation of a relevance tracker module that can be added to and interact with an out-of-the-box SAT(ID) solver.

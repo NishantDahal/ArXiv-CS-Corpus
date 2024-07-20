@@ -1,0 +1,3 @@
+Ordered Statistics Vertex Extraction and Tracing Algorithm (OSVETA)
+
+We propose an algorithm for identifying vertices from three dimensional (3D) meshes that are most important for a geometric shape creation. Extracting such a set of vertices from a 3D mesh is important in applications such as digital watermarking, but also as a component of optimization and triangulation. In the first step, the Ordered Statistics Vertex Extraction and Tracing Algorithm (OSVETA) estimates precisely the local curvature, and most important topological features of mesh geometry. Using the vertex geometric importance ranking, the algorithm traces and extracts a vector of vertices, ordered by decreasing index of importance.

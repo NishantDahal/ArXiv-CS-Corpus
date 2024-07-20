@@ -1,0 +1,4 @@
+Differentially Private Continual Release of Graph Statistics
+
+Motivated by understanding the dynamics of sensitive social networks over time, we consider the problem of continual release of statistics in a network that arrives online, while preserving privacy of its participants. For our privacy notion, we use differential privacy -- the gold standard in privacy for statistical data analysis. The main challenge in this problem is maintaining a good privacy-utility tradeoff; naive solutions that compose across time, as well as solutions suited to tabular data either lead to poor utility or do not directly apply. In this work, we show that if there is a publicly known upper bound on the maximum degree of any node in the entire network sequence, then we can release many common graph statistics such as degree distributions and subgraph counts continually with a better privacy-accuracy tradeoff.
+  Code available at https://bitbucket.org/shs037/graphprivacycode

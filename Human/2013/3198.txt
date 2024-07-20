@@ -1,0 +1,3 @@
+State estimation under non-Gaussian Levy noise: A modified Kalman filtering method
+
+The Kalman filter is extensively used for state estimation for linear systems under Gaussian noise. When non-Gaussian Lévy noise is present, the conventional Kalman filter may fail to be effective due to the fact that the non-Gaussian Lévy noise may have infinite variance. A modified Kalman filter for linear systems with non-Gaussian Lévy noise is devised. It works effectively with reasonable computational cost. Simulation results are presented to illustrate this non-Gaussian filtering method.

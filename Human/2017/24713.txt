@@ -1,0 +1,3 @@
+Features of Agent-based Models
+
+The design of agent-based models (ABMs) is often ad-hoc when it comes to defining their scope. In order for the inclusion of features such as network structure, location, or dynamic change to be justified, their role in a model should be systematically analysed. We propose a mechanism to compare and assess the impact of such features. In particular we are using techniques from software engineering and semantics to support the development and assessment of ABMs, such as graph transformations as semantic representations for agent-based models, feature diagrams to identify ingredients under consideration, and extension relations between graph transformation systems to represent model fragments expressing features.

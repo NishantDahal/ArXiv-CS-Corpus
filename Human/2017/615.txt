@@ -1,0 +1,3 @@
+Optimal Caching and Scheduling for Cache-enabled D2D Communications
+
+To maximize offloading gain of cache-enabled device-to-device (D2D) communications, content placement and delivery should be jointly designed. In this letter, we jointly optimize caching and scheduling policies to maximize successful offloading probability, defined as the probability that a user can obtain desired file in local cache or via D2D link with data rate larger than a given threshold. We obtain the optimal scheduling factor for a random scheduling policy that can control interference in a distributed manner, and a low complexity solution to compute caching distribution. We show that the offloading gain can be remarkably improved by the joint optimization.

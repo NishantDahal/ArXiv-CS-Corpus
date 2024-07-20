@@ -1,0 +1,3 @@
+Selecting polynomials for the Function Field Sieve
+
+The Function Field Sieve algorithm is dedicated to computing discrete logarithms in a finite field GF(q^n), where q is small an prime power. The scope of this article is to select good polynomials for this algorithm by defining and measuring the size property and the so-called root and cancellation properties. In particular we present an algorithm for rapidly testing a large set of polynomials. Our study also explains the behaviour of inseparable polynomials, in particular we give an easy way to see that the algorithm encompass the Coppersmith algorithm as a particular case.

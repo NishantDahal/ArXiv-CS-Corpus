@@ -1,0 +1,3 @@
+Plane and Planarity Thresholds for Random Geometric Graphs
+
+A random geometric graph, $G(n,r)$, is formed by choosing $n$ points independently and uniformly at random in a unit square; two points are connected by a straight-line edge if they are at Euclidean distance at most $r$. For a given constant $k$, we show that $n^{\frac{-k}{2k-2}}$ is a distance threshold function for $G(n,r)$ to have a connected subgraph on $k$ points. Based on this, we show that $n^{-2/3}$ is a distance threshold for $G(n,r)$ to be plane, and $n^{-5/8}$ is a distance threshold to be planar. We also investigate distance thresholds for $G(n,r)$ to have a non-crossing edge, a clique of a given size, and an independent set of a given size.

@@ -1,0 +1,3 @@
+Finding models through graph saturation
+
+We give a procedure that can be used to automatically satisfy invariants of a certain shape. These invariants may be written with the operations intersection, composition and converse over binary relations, and equality over these operations. We call these invariants \tr{}s that we interpret over graphs. For questions stated through sets of these sentences, this paper gives a semi-decision procedure we call graph saturation. It decides entailment over these \tr{}s, inspired on graph rewriting. We prove correctness of the procedure. Moreover, we show the corresponding decision problem to be undecidable. This confirms a conjecture previously stated by the author.

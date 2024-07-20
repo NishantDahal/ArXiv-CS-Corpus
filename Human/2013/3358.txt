@@ -1,0 +1,3 @@
+Causal Modeling
+
+Causal Models are like Dependency Graphs and Belief Nets in that they provide a structure and a set of assumptions from which a joint distribution can, in principle, be computed.  Unlike Dependency Graphs, Causal Models are models of hierarchical and/or parallel processes, rather than models of distributions (partially) known to a model builder through some sort of gestalt.  As such, Causal Models are more modular, easier to build, more intuitive, and easier to understand than Dependency Graph Models.  Causal Models are formally defined and Dependency Graph Models are shown to be a special case of them.  Algorithms supporting inference are presented.  Parsimonious methods for eliciting dependent probabilities are presented.

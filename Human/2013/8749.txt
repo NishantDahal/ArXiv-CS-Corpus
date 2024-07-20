@@ -1,0 +1,3 @@
+Soundness and Completeness of the NRB Verification Logic
+
+This short paper gives a model for and a proof of completeness of the NRB verification logic for deterministic imperative programs, the logic having been used in the past as the basis for automated semantic checks of large, fast-changing, open source C code archives, such as that of the Linux kernel source. The model is a colored state transitions model that approximates from above the set of transitions possible for a program. Correspondingly, the logic catches all traces that may trigger a particular defect at a given point in the program, but may also flag false positives.

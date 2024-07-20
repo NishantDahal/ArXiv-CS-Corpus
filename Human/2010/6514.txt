@@ -1,0 +1,3 @@
+Measures of edge-uncolorability
+
+The resistance $r(G)$ of a graph $G$ is the minimum number of edges that have to be removed from $G$ to obtain a graph which is $Δ(G)$-edge-colorable. The paper relates the resistance to other parameters that measure how far is a graph from being $Δ$-edge-colorable. The first part considers regular graphs and the relation of the resistance to structural properties in terms of 2-factors. The second part studies general (multi-) graphs $G$. Let $r_v(G)$ be the minimum number of vertices that have to be removed from $G$ to obtain a class 1 graph. We show that $\frac{r(G)}{r_v(G)} \leq \lfloor \frac{Δ(G)}{2} \rfloor$, and that this bound is best possible.

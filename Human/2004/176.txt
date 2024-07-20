@@ -1,0 +1,6 @@
+Speculation on graph computation architectures and computing via synchronization
+
+A speculative overview of a future topic of research. The paper is a collection of ideas concerning two related areas:
+  1) Graph computation machines ("computing with graphs"). This is the class of models of computation in which the state of the computation is represented as a graph or network.
+  2) Arc-based neural networks, which store information not as activation in the nodes, but rather by adding and deleting arcs. Sometimes the arcs may be interpreted as synchronization.
+  Warnings to readers: this is not the sort of thing that one might submit to a journal or conference. No proofs are presented. The presentation is informal, and written at an introductory level. You'll probably want to wait for a more concise presentation.

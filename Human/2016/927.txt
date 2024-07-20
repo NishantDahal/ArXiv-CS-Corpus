@@ -1,0 +1,3 @@
+Sparse Diffusion Steepest-Descent for One Bit Compressed Sensing in Wireless Sensor Networks
+
+This letter proposes a sparse diffusion steepest-descent algorithm for one bit compressed sensing in wireless sensor networks. The approach exploits the diffusion strategy from distributed learning in the one bit compressed sensing framework. To estimate a common sparse vector cooperatively from only the sign of measurements, steepest-descent is used to minimize the suitable global and local convex cost functions. A diffusion strategy is suggested for distributive learning of the sparse vector. Simulation results show the effectiveness of the proposed distributed algorithm compared to the state-of-the-art non distributive algorithms in the one bit compressed sensing framework.

@@ -1,0 +1,3 @@
+A GMM-Based Stair Quality Model for Human Perceived JPEG Images
+
+Based on the notion of just noticeable differences (JND), a stair quality function (SQF) was recently proposed to model human perception on JPEG images. Furthermore, a k-means clustering algorithm was adopted to aggregate JND data collected from multiple subjects to generate a single SQF. In this work, we propose a new method to derive the SQF using the Gaussian Mixture Model (GMM). The newly derived SQF can be interpreted as a way to characterize the mean viewer experience. Furthermore, it has a lower information criterion (BIC) value than the previous one, indicating that it offers a better model. A specific example is given to demonstrate the advantages of the new approach.

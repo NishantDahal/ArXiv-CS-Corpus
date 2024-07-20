@@ -1,0 +1,3 @@
+Maximum-width Axis-Parallel Empty Rectangular Annulus
+
+Given a set $P$ of $n$ points on $\mathbb R^{2}$, we address the problem of computing an axis-parallel empty rectangular annulus $A$ of maximum-width such that no point of $P$ lies inside $A$ but all points of $P$ must lie inside, outside and on the boundaries of two parallel rectangles forming the annulus $A$. We propose an $O(n^3)$ time and $O(n)$ space algorithm to solve the problem. In a particular case when the inner rectangle of an axis-parallel empty rectangular annulus reduces to an input point we can solve the problem in $O(n \log n)$ time and $O(n)$ space.

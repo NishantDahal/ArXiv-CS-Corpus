@@ -1,0 +1,3 @@
+A Type-Theoretic Approach to Resolution
+
+We propose a new type-theoretic approach to SLD-resolution and Horn-clause logic programming. It views Horn formulas as types, and derivations for a given query as a construction of the inhabitant (a proof-term) for the type given by the query. We propose a method of program transformation that allows to transform logic programs in such a way that proof evidence is computed alongside SLD-derivations. We discuss two applications of this approach: in recently proposed productivity theory of structural resolution, and in type class inference.

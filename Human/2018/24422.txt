@@ -1,0 +1,3 @@
+Reversing the asymmetry in data exfiltration
+
+Preventing data exfiltration from computer systems typically depends on perimeter defences, but these are becoming increasingly fragile. Instead we suggest an approach in which each at-risk document is supplemented by many fake versions of itself. An attacker must either exfiltrate all of them; or try to discover which is the real one while operating within the penetrated system, and both are difficult. Creating and maintaining many fakes is relatively inexpensive, so the advantage that typically accrues to an attacker now lies with the defender. We show that algorithmically generated fake documents are reasonably difficult to detect using algorithmic analytics.

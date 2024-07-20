@@ -1,0 +1,3 @@
+Comparing persistence diagrams through complex vectors
+
+The natural pseudo-distance of spaces endowed with filtering functions is precious for shape classification and retrieval; its optimal estimate coming from persistence diagrams is the bottleneck distance, which unfortunately suffers from combinatorial explosion. A possible algebraic representation of persistence diagrams is offered by complex polynomials; since far polynomials represent far persistence diagrams, a fast comparison of the coefficient vectors can reduce the size of the database to be classified by the bottleneck distance. This article explores experimentally three transformations from diagrams to polynomials and three distances between the complex vectors of coefficients.

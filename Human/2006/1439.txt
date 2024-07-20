@@ -1,0 +1,4 @@
+Numerical Simulation guided Lazy Abstraction Refinement for Nonlinear Hybrid Automata
+
+This draft suggests a new counterexample guided abstraction refinement (CEGAR) framework that uses the combination of numerical simulation for nonlinear differential equations with linear programming for linear hybrid automata (LHA) to perform reachability analysis on nonlinear hybrid automata. A notion of $ε-$ structural robustness is also introduced which allows the algorithm to validate counterexamples using numerical simulations.
+  Keywords: verification, model checking, hybrid systems, hybrid automata, robustness, robust hybrid systems, numerical simulation, cegar, abstraction refinement.

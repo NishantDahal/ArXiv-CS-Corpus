@@ -1,0 +1,3 @@
+Labeling Panoramas with Spherical Hourglass Networks
+
+With the recent proliferation of consumer-grade 360° cameras, it is worth revisiting visual perception challenges with spherical cameras given the potential benefit of their global field of view. To this end we introduce a spherical convolutional hourglass network (SCHN) for the dense labeling on the sphere. The SCHN is invariant to camera orientation (lifting the usual requirement for `upright' panoramic images), and its design is scalable for larger practical datasets. Initial experiments show promising results on a spherical semantic segmentation task.

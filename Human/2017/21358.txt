@@ -1,0 +1,3 @@
+A Conservation Law Method in Optimization
+
+We propose some algorithms to find local minima in nonconvex optimization and to obtain global minima in some degree from the Newton Second Law without friction. With the key observation of the velocity observable and controllable in the motion, the algorithms simulate the Newton Second Law without friction based on symplectic Euler scheme. From the intuitive analysis of analytical solution, we give a theoretical analysis for the high-speed convergence in the algorithm proposed. Finally, we propose the experiments for strongly convex function, non-strongly convex function and nonconvex function in high-dimension.

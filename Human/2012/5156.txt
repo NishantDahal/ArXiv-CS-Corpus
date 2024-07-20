@@ -1,0 +1,3 @@
+q-Gaussian based Smoothed Functional Algorithm for Stochastic Optimization
+
+The q-Gaussian distribution results from maximizing certain generalizations of Shannon entropy under some constraints. The importance of q-Gaussian distributions stems from the fact that they exhibit power-law behavior, and also generalize Gaussian distributions. In this paper, we propose a Smoothed Functional (SF) scheme for gradient estimation using q-Gaussian distribution, and also propose an algorithm for optimization based on the above scheme. Convergence results of the algorithm are presented. Performance of the proposed algorithm is shown by simulation results on a queuing model.

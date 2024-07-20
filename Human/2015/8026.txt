@@ -1,0 +1,3 @@
+Recursive Descriptions of Polar Codes
+
+Polar codes are recursive general concatenated codes. This property motivates a recursive formalization of the known decoding algorithms: Successive Cancellation, Successive Cancellation with Lists and Belief Propagation. Using such description allows an easy development of these algorithms for arbitrary polarizing kernels. Hardware architectures for these decoding algorithms are also described in a recursive way, both for Arikan's standard polar codes and for arbitrary polarizing kernels.

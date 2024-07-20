@@ -1,0 +1,4 @@
+Type Classes for Lightweight Substructural Types
+
+Linear and substructural types are powerful tools, but adding them to standard functional programming languages often means introducing extra annotations and typing machinery. We propose a lightweight substructural type system design that recasts the structural rules of weakening and contraction as type classes; we demonstrate this design in a prototype language, Clamp.
+  Clamp supports polymorphic substructural types as well as an expressive system of mutable references. At the same time, it adds little additional overhead to a standard Damas-Hindley-Milner type system enriched with type classes. We have established type safety for the core model and implemented a type checker with type inference in Haskell.

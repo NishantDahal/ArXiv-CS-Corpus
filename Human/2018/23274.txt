@@ -1,0 +1,3 @@
+Camera Pose Estimation from Sequence of Calibrated Images
+
+In this paper a method for camera pose estimation from a sequence of images is presented. The method assumes camera is calibrated (intrinsic parameters are known) which allows to decrease a number of required pairs of corresponding points compared to uncalibrated case. Our algorithm can be used as a first stage in a structure from motion stereo reconstruction system.

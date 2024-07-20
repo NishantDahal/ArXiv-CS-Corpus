@@ -1,0 +1,5 @@
+Need Polynomial Systems be Doubly-exponential?
+
+Polynomial Systems, or at least their algorithms, have the reputation of being doubly-exponential in the number of variables [Mayr and Mayer, 1982], [Davenport and Heintz, 1988]. Nevertheless, the Bezout bound tells us that that number of zeros of a zero-dimensional system is singly-exponential in the number of variables. How should this contradiction be reconciled?
+  We first note that [Mayr and Ritscher, 2013] shows that the doubly exponential nature of Gröbner bases is with respect to the dimension of the ideal, not the number of variables. This inspires us to consider what can be done for Cylindrical Algebraic Decomposition which produces a doubly-exponential number of polynomials of doubly-exponential degree.
+  We review work from ISSAC 2015 which showed the number of polynomials could be restricted to doubly-exponential in the (complex) dimension using McCallum's theory of reduced projection in the presence of equational constraints. We then discuss preliminary results showing the same for the degree of those polynomials. The results are under primitivity assumptions whose importance we illustrate.

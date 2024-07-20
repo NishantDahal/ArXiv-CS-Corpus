@@ -1,0 +1,3 @@
+Depth, balancing, and limits of the Elo model
+
+-Much work has been devoted to the computational complexity of games. However, they are not necessarily relevant for estimating the complexity in human terms. Therefore, human-centered measures have been proposed, e.g. the depth. This paper discusses the depth of various games, extends it to a continuous measure. We provide new depth results and present tool (given-first-move, pie rule, size extension) for increasing it. We also use these measures for analyzing games and opening moves in Y, NoGo, Killall Go, and the effect of pie rules.

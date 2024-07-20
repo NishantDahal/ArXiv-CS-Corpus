@@ -1,0 +1,3 @@
+Lifting QBF Resolution Calculi to DQBF
+
+We examine the existing Resolution systems for quantified Boolean formulas (QBF) and answer the question which of these calculi can be lifted to the more powerful Dependency QBFs (DQBF). An interesting picture emerges: While for QBF we have the strict chain of proof systems Q-Resolution < IR-calc < IRM-calc, the situation is quite different in DQBF. Q-Resolution and likewise universal Resolution are too weak: they are not complete. IR-calc has the right strength: it is sound and complete. IRM-calc is too strong: it is not sound any more, and the same applies to long-distance Resolution. Conceptually, we use the relation of DQBF to EPR and explain our new DQBF calculus based on IR-calc as a subsystem of FO-Resolution.

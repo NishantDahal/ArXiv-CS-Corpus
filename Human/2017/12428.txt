@@ -1,0 +1,3 @@
+$H$-supermagic labelings for firecrackers, banana trees and flowers
+
+A simple graph $G=(V,E)$ admits an $H$-covering if every edge in $E$ is contained in a subgraph $H'=(V',E')$ of $G$ which is isomorphic to $H$. In this case we say that $G$ is $H$-supermagic if there is a bijection $f:V\cup E\to\{1,\ldots\lvert V\rvert+\lvert E\rvert\}$ such that $f(V)=\{1,\ldots,\lvert V\rvert\}$ and $\sum_{v\in V(H')}f(v)+\sum_{e\in E(H')}f(e)$ is constant over all subgraphs $H'$ of $G$ which are isomorphic to $H$. In this paper, we show that for odd $n$ and arbitrary $k$, the firecracker $F_{k,n}$ is $F_{2,n}$-supermagic, the banana tree $B_{k,n}$ is $B_{1,n}$-supermagic and the flower $F_n$ is $C_3$-supermagic.

@@ -1,0 +1,3 @@
+In my Wish List, an Automated Tool for Fail-Secure Design Analysis: an Alloy-Based Feasibility Draft
+
+A system is said to be fail-secure, sometimes confused with fail-safe, if it maintains its security requirements even in the event of some faults. Fail-secure analyses are required by some validation schemes, such as some Common Criteria or NATO certifications. However, it is an aspect of security which as been overlooked by the community. This paper attempts to shed some light on the fail-secure field of study by: giving a definition of fail-secure as used in those certification schemes, and emphasizing the differences with fail-safe; and exhibiting a first feasibility draft of a fail-secure design analysis tool based on the Alloy model checker.

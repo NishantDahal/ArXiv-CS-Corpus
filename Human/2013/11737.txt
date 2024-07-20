@@ -1,0 +1,3 @@
+Off-The-Grid Spectral Compressed Sensing With Prior Information
+
+Recent research in off-the-grid compressed sensing (CS) has demonstrated that, under certain conditions, one can successfully recover a spectrally sparse signal from a few time-domain samples even though the dictionary is continuous. In this paper, we extend off-the-grid CS to applications where some prior information about spectrally sparse signal is known. We specifically consider cases where a few contributing frequencies or poles, but not their amplitudes or phases, are known a priori. Our results show that equipping off-the-grid CS with the known-poles algorithm can increase the probability of recovering all the frequency components.

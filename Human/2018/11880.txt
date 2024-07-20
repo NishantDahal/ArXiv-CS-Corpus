@@ -1,0 +1,3 @@
+Parameterized Model Checking Modulo Explicit Weak Memory Models
+
+We present a modular framework for model checking parameterized array-based transition systems with explicit access operations on weak memory. Our approach extends the MCMT (Model Checking Modulo Theories) framework of Ghilardi and Ranise with explicit weak memory models. We have implemented this new framework in Cubicle-W, an extension of the Cubicle model checker. The modular architecture of our tool allows us to change the underlying memory model seamlessly (TSO, PSO...).  Our first experiments with a TSO-like memory model look promising.

@@ -1,0 +1,3 @@
+DPP-PMRF: Rethinking Optimization for a Probabilistic Graphical Model Using Data-Parallel Primitives
+
+We present a new parallel algorithm for probabilistic graphical model optimization. The algorithm relies on data-parallel primitives (DPPs), which provide portable performance over hardware architecture. We evaluate results on CPUs and GPUs for an image segmentation problem. Compared to a serial baseline, we observe runtime speedups of up to 13X (CPU) and 44X (GPU). We also compare our performance to a reference, OpenMP-based algorithm, and find speedups of up to 7X (CPU).

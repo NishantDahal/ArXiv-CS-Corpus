@@ -1,0 +1,3 @@
+Optimal CUR Matrix Decompositions
+
+The CUR decomposition of an $m \times n$ matrix $A$ finds an $m \times c$ matrix $C$ with a subset of $c < n$ columns of $A,$ together with an $r \times n$ matrix $R$ with a subset of $r < m$ rows of $A,$ as well as a $c \times r$ low-rank matrix $U$ such that the matrix $C U R$ approximates the matrix $A,$ that is, $ || A - CUR ||_F^2 \le (1+ε) || A - A_k||_F^2$, where $||.||_F$ denotes the Frobenius norm and $A_k$ is the best $m \times n$ matrix of rank $k$ constructed via the SVD. We present input-sparsity-time and deterministic algorithms for constructing such a CUR decomposition where $c=O(k/ε)$ and $r=O(k/ε)$ and rank$(U) = k$. Up to constant factors, our algorithms are simultaneously optimal in $c, r,$ and rank$(U)$.

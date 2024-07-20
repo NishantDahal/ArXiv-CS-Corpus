@@ -1,0 +1,3 @@
+The Complexity of Concurrent Rational Synthesis
+
+In this paper, we investigate the rational synthesis problem for concurrent game structure for a variety of objectives ranging from reachability to Muller condition. We propose a new algorithm that establishes the decidability of the non cooperative rational synthesis problem that relies solely on game theoretic technique as opposed to previous approaches that are logic based. Thanks to this approach, we construct a zero-sum turn-based game that can be adapted to each one of the afore mentioned objectives thus obtain new complexity results. In particular, we show that reachability, safety, Büchi, and co-Büchi conditions are PSpace-complete, Muller, Street, and Rabin are PSpace-hard and in ExpTime.

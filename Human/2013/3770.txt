@@ -1,0 +1,3 @@
+How well can we estimate a sparse vector?
+
+The estimation of a sparse vector in the linear model is a fundamental problem in signal processing, statistics, and compressive sensing. This paper establishes a lower bound on the mean-squared error, which holds regardless of the sensing/design matrix being used and regardless of the estimation procedure. This lower bound very nearly matches the known upper bound one gets by taking a random projection of the sparse vector followed by an $\ell_1$ estimation procedure such as the Dantzig selector. In this sense, compressive sensing techniques cannot essentially be improved.

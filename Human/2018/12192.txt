@@ -1,0 +1,3 @@
+Dealing with sequences in the RGBDT space
+
+Most of the current research in computer vision is focused on working with single images without taking in account temporal information. We present a probabilistic non-parametric model that mixes multiple information cues from devices to segment regions that contain moving objects in image sequences. We prepared an experimental setup to show the importance of using previous information for obtaining an accurate segmentation result, using a novel dataset that provides sequences in the RGBDT space. We label the detected regions ts with a state-of-the-art human detector. Each one of the detected regions is at least marked as human once.

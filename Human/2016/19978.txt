@@ -1,0 +1,4 @@
+Towards a Step Semantics for Story-Driven Modelling
+
+Graph Transformation (GraTra) provides a formal, declarative means of specifying model transformation. In practice, GraTra rule applications are often programmed via an additional language with which the order of rule applications can be suitably controlled.
+  Story-Driven Modelling (SDM) is a dialect of programmed GraTra, originally developed as part of the Fujaba CASE tool suite. Using an intuitive, UML-inspired visual syntax, SDM provides usual imperative control flow constructs such as sequences, conditionals and loops that are fairly simple, but whose interaction with individual GraTra rules is nonetheless non-trivial. In this paper, we present the first results of our ongoing work towards providing a formal step semantics for SDM, which focuses on the execution of an SDM specification.

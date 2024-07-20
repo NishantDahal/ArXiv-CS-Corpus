@@ -1,0 +1,3 @@
+Interpretable Apprenticeship Learning with Temporal Logic Specifications
+
+Recent work has addressed using formulas in linear temporal logic (LTL) as specifications for agents planning in Markov Decision Processes (MDPs). We consider the inverse problem: inferring an LTL specification from demonstrated behavior trajectories in MDPs. We formulate this as a multiobjective optimization problem, and describe state-based ("what actually happened") and action-based ("what the agent expected to happen") objective functions based on a notion of "violation cost". We demonstrate the efficacy of the approach by employing genetic programming to solve this problem in two simple domains.

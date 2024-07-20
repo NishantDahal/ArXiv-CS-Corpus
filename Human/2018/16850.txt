@@ -1,0 +1,4 @@
+CASP Solutions for Planning in Hybrid Domains
+
+CASP is an extension of ASP that allows for numerical constraints to be added in the rules. PDDL+ is an extension of the PDDL standard language of automated planning for modeling mixed discrete-continuous dynamics.
+  In this paper, we present CASP solutions for dealing with PDDL+ problems, i.e., encoding from PDDL+ to CASP, and extensions to the algorithm of the EZCSP CASP solver in order to solve CASP programs arising from PDDL+ domains. An experimental analysis, performed on well-known linear and non-linear variants of PDDL+ domains, involving various configurations of the EZCSP solver, other CASP solvers, and PDDL+ planners, shows the viability of our solution.

@@ -1,0 +1,3 @@
+Improving Pyramid Vector Quantizer with power projection
+
+Pyramid Vector Quantizer (PVQ) is a promising technique especially for multimedia data compression, already used in Opus audio codec and considered for AV1 video codec. It quantizes vectors from Euclidean unit sphere by first projecting them to $L^1$ norm unit sphere, then quantizing and encoding there. This paper shows that the used standard radial projection is suboptimal and proposes to tune its deformations by using parameterized power projection: $x\to x^p/\|x^p\|$ instead, where the optimized power $p$ is applied coordinate-wise, getting usually $\geq 0.5\, dB$ improvement comparing to radial projection.

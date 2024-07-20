@@ -1,0 +1,4 @@
+On non-abelian homomorphic public-key cryptosystems
+
+An important problem of modern cryptography concerns secret public-key computations in algebraic structures. We construct homomorphic cryptosystems being (secret) epimorphisms f:G --> H, where G, H are (publically known) groups and H is finite. A letter of a message to be encrypted is an element h element of H, while its encryption g element of G is such that f(g)=h. A homomorphic cryptosystem allows one to perform computations (operating in a group G) with encrypted information (without knowing the original message over H).
+  In this paper certain homomorphic cryptosystems are constructed for the first time for non-abelian groups H (earlier, homomorphic cryptosystems were known only in the Abelian case). In fact, we present such a system for any solvable (fixed) group H.

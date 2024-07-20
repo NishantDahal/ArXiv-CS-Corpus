@@ -1,0 +1,3 @@
+Performance Portability Study of Linear Algebra Kernels in OpenCL
+
+The performance portability of OpenCL kernel implementations for common memory bandwidth limited linear algebra operations across different hardware generations of the same vendor as well as across vendors is studied. Certain combinations of kernel implementations and work sizes are found to exhibit good performance across compute kernels, hardware generations, and, to a lesser degree, vendors. As a consequence, it is demonstrated that the optimization of a single kernel is often sufficient to obtain good performance for a large class of more complicated operations.

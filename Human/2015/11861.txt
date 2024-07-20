@@ -1,0 +1,3 @@
+Homing Vector Automata
+
+We introduce homing vector automata, which are finite automata augmented by a vector that is multiplied at each step by a matrix determined by the current transition, and have to return the vector to its original setting in order to accept the input. The computational power of the deterministic, nondeterministic and blind versions of these real-time machines are examined and compared to various related types of automata. A generalized version of the Stern-Brocot encoding method, suitable for representing strings on arbitrary alphabets, is also developed.

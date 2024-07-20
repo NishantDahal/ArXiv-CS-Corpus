@@ -1,0 +1,3 @@
+Age and Value of Information: Non-linear Age Case
+
+We consider a real-time status update system consisting of a source-destination network. A stochastic process is observed at the source, and samples, so called status updates, are extracted at random time instances, and delivered to the destination. In this paper, we expand the concept of information ageing by introducing the Cost of Update Delay (CoUD) metric to characterize the cost of having stale information at the destination. We introduce the Value of Information of Update (VoIU) metric that captures the reduction of CoUD upon reception of an update. The importance of the VoIU metric lies on its tractability which enables the minimization of the average CoUD.

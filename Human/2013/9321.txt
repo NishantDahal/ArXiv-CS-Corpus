@@ -1,0 +1,3 @@
+Photon counting compressive depth mapping
+
+We demonstrate a compressed sensing, photon counting lidar system based on the single-pixel camera. Our technique recovers both depth and intensity maps from a single under-sampled set of incoherent, linear projections of a scene of interest at ultra-low light levels around 0.5 picowatts. Only two-dimensional reconstructions are required to image a three-dimensional scene. We demonstrate intensity imaging and depth mapping at 256 x 256 pixel transverse resolution with acquisition times as short as 3 seconds. We also show novelty filtering, reconstructing only the difference between two instances of a scene. Finally, we acquire 32 x 32 pixel real-time video for three-dimensional object tracking at 14 frames-per-second.

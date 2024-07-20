@@ -1,0 +1,3 @@
+Fully Homomorphic Encryption Scheme with Symmetric Keys
+
+Homomorphic encryption has largely been studied in context of public key cryptosystems. But there are applications which inherently would require symmetric keys. We propose a symmetric key encryption scheme with fully homomorphic evaluation capabilities. The operations are matrix based, that is the scheme consists of mapping the operations on integers to operations on matrix. We also include a protocol which uses the proposed scheme for private data processing in clouds.

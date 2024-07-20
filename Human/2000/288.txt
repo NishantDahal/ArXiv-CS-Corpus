@@ -1,0 +1,4 @@
+One-Dimensional Peg Solitaire, and Duotaire
+
+We solve the problem of one-dimensional Peg Solitaire. In particular, we show that the set of configurations that can be reduced to a single peg forms a regular language, and that a linear-time algorithm exists for reducing any configuration to the minimum number of pegs.
+  We then look at the impartial two-player game, proposed by Ravikumar, where two players take turns making peg moves, and whichever player is left without a move loses. We calculate some simple nim-values and discuss when the game separates into a disjunctive sum of smaller games. In the version where a series of hops can be made in a single move, we show that neither the P-positions nor the N-positions (i.e. wins for the previous or next player) are described by a regular or context-free language.

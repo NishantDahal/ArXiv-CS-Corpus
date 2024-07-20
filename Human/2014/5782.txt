@@ -1,0 +1,3 @@
+A formal approach for correct-by-construction system substitution
+
+The substitution of a system with another one may occur in several situations like system adaptation, system failure management, system resilience, system reconfiguration, etc. It consists in replacing a running system by another one when given conditions hold. This contribution summarizes our proposal to define a formal setting for proving the correctness of system substitution. It relies on refinement and on the Event-B method.

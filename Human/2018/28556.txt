@@ -1,0 +1,3 @@
+Learnable Pooling Methods for Video Classification
+
+We introduce modifications to state-of-the-art approaches to aggregating local video descriptors by using attention mechanisms and function approximations. Rather than using ensembles of existing architectures, we provide an insight on creating new architectures. We demonstrate our solutions in the "The 2nd YouTube-8M Video Understanding Challenge", by using frame-level video and audio descriptors. We obtain testing accuracy similar to the state of the art, while meeting budget constraints, and touch upon strategies to improve the state of the art. Model implementations are available in https://github.com/pomonam/LearnablePoolingMethods.

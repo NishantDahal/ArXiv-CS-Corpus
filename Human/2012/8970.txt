@@ -1,0 +1,3 @@
+Towards Tight Bounds for Local Broadcasting
+
+We consider the local broadcasting problem in the SINR model, which is a basic primitive for gathering initial information among $n$ wireless nodes. Assuming that nodes can measure received power, we achieve an essentially optimal constant approximate algorithm (with a $\log^2 n$ additive term). This improves upon the previous best $O(\log n)$-approximate algorithm. Without power measurement, our algorithm achieves $O(\log n)$-approximation, matching the previous best result, but with a simpler approach that works under harsher conditions, such as arbitrary node failures. We give complementary lower bounds under reasonable assumptions.

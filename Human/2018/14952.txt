@@ -1,0 +1,3 @@
+A Sauer-Shelah-Perles Lemma for Sumsets
+
+We show that any family of subsets $A\subseteq 2^{[n]}$ satisfies $\lvert A\rvert \leq O\bigl(n^{\lceil{d}/{2}\rceil}\bigr)$, where $d$ is the VC dimension of $\{S\triangle T \,\vert\, S,T\in A\}$, and $\triangle$ is the symmetric difference operator. We also observe that replacing $\triangle$ by either $\cup$ or $\cap$ fails to satisfy an analogous statement. Our proof is based on the polynomial method; specifically, on an argument due to [Croot, Lev, Pach '17].

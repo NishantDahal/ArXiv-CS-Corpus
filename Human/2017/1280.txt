@@ -1,0 +1,5 @@
+Transaction-based Sandboxing for JavaScript
+
+Today's JavaScript applications are composed of scripts from different origins that are loaded at run time. As not all of these origins are equally trusted, the execution of these scripts should be isolated from one another. However, some scripts must access the application state and some may be allowed to change it, while preserving the confidentiality and integrity constraints of the application.
+  This paper presents design and implementation of DecentJS, a language-embedded sandbox for full JavaScript. It enables scripts to run in a configurable degree of isolation with fine-grained access control. It provides a transactional scope in which effects are logged for review by the access control policy. After inspection of the log, effects can be committed to the application state or rolled back.
+  The implementation relies on JavaScript proxies to guarantee full interposition for the full language and for all code, including dynamically loaded scripts and code injected via eval. Its only restriction is that scripts must be compliant with JavaScript's strict mode.

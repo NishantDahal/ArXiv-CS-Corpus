@@ -1,0 +1,3 @@
+QoS-aware Energy-Efficient Algorithms for Ethernet Link Aggregates in Software-Defined Networks
+
+In this paper we discuss the implementation of an ONOS application that leverages Energy-Efficient Ethernet links between a pair of switches and shares incoming traffic among the link in the way that minimizes overall energy usage. As the straightforward solution can result in excessive traffic delay, we provide two alternative solutions to meet the demands of real time traffic arriving to the link aggregate. Experimental results show that our final application can keep low energy usage while meeting the demands of time-sensitive traffic, as long as the latter does not represent an excessive share of traffic demand.

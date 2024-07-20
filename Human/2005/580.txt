@@ -1,0 +1,3 @@
+Software Performance Analysis
+
+The key to speeding up applications is often understanding where the elapsed time is spent, and why. This document reviews in depth the full array of performance analysis tools and techniques available on Linux for this task, from the traditional tools like gcov and gprof, to the more advanced tools still under development like oprofile and the Linux Trace Toolkit. The focus is more on the underlying data collection and processing algorithms, and their overhead and precision, than on the cosmetic details of the graphical user interface frontends.

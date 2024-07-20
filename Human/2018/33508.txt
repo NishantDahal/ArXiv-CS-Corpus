@@ -1,0 +1,3 @@
+Cops, robbers, and burning bridges
+
+We consider a variant of Cops and Robbers wherein each edge traversed by the robber is deleted from the graph. The focus is on determining the minimum number of cops needed to capture a robber on a graph $G$, called the {\em bridge-burning cop number} of $G$ and denoted $c_b(G)$. We determine $c_b(G)$ exactly for several elementary classes of graphs and give a polynomial-time algorithm to compute $c_b(T)$ when $T$ is a tree. We also study two-dimensional square grids and tori, as well as hypercubes, and we give bounds on the capture time of a graph (the minimum number of rounds needed for a single cop to capture a robber on $G$, provided that $c_b(G) = 1$).

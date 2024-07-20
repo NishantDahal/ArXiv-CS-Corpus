@@ -1,0 +1,4 @@
+A randomized online quantile summary in $O(\frac{1}{\varepsilon} \log \frac{1}{\varepsilon})$ words
+
+A quantile summary is a data structure that approximates to $\varepsilon$-relative error the order statistics of a much larger underlying dataset.
+  In this paper we develop a randomized online quantile summary for the cash register data input model and comparison data domain model that uses $O(\frac{1}{\varepsilon} \log \frac{1}{\varepsilon})$ words of memory. This improves upon the previous best upper bound of $O(\frac{1}{\varepsilon} \log^{3/2} \frac{1}{\varepsilon})$ by Agarwal et. al. (PODS 2012). Further, by a lower bound of Hung and Ting (FAW 2010) no deterministic summary for the comparison model can outperform our randomized summary in terms of space complexity. Lastly, our summary has the nice property that $O(\frac{1}{\varepsilon} \log \frac{1}{\varepsilon})$ words suffice to ensure that the success probability is $1 - e^{-\text{poly}(1/\varepsilon)}$.

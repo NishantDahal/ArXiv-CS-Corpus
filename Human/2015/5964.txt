@@ -1,0 +1,3 @@
+Noise in Structured-Light Stereo Depth Cameras: Modeling and its Applications
+
+Depth maps obtained from commercially available structured-light stereo based depth cameras, such as the Kinect, are easy to use but are affected by significant amounts of noise. This paper is devoted to a study of the intrinsic noise characteristics of such depth maps, i.e. the standard deviation of noise in estimated depth varies quadratically with the distance of the object from the depth camera. We validate this theoretical model against empirical observations and demonstrate the utility of this noise model in three popular applications: depth map denoising, volumetric scan merging for 3D modeling, and identification of 3D planes in depth maps.

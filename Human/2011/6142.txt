@@ -1,0 +1,3 @@
+A binary noisy channel to model errors in printing process
+
+To model printing noise a binary noisy channel and a set of controlled gates are introduced. The channel input is an image created by a halftoning algorithm and its output is the printed picture. Using this channel robustness to noise between halftoning algorithms can be studied. We introduced relative entropy to describe immunity of the algorithm to noise and tested several halftoning algorithms.

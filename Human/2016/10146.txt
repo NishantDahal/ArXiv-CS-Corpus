@@ -1,0 +1,3 @@
+Bounds on the Rate of Linear Locally Repairable Codes over Small Alphabets
+
+Locally repairable codes (LRC) have recently been a subject of intense research due to theoretical appeal and their application in distributed storage systems. In an LRC, any coordinate of a codeword can be recovered by accessing only few other coordinates. For LRCs over small alphabet (such as binary), the optimal rate-distance trade-off is unknown. In this paper we provide the tightest known upper bound on the rate of linear LRCs of a given relative distance, an improvement over any previous result, in particular \cite{cadambe2013upper}.

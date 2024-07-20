@@ -1,0 +1,3 @@
+Versatile Auxiliary Regressor with Generative Adversarial network (VAR+GAN)
+
+Being able to generate constrained samples is one of the most appealing applications of the deep generators. Conditional generators are one of the successful implementations of such models wherein the created samples are constrained to a specific class. In this work, the application of these networks is extended to regression problems wherein the conditional generator is restrained to any continuous aspect of the data. A new loss function is presented for the regression network and also implementations for generating faces with any particular set of landmarks is provided.

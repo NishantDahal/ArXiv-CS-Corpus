@@ -1,0 +1,3 @@
+Min-Max Regret Scheduling To Minimize the Total Weight of Late Jobs With Interval Uncertainty
+
+We study the single machine scheduling problem with the objective to minimize the total weight of late jobs. It is assumed that the processing times of jobs are not exactly known at the time when a complete schedule must be dispatched. Instead, only interval bounds for these parameters are given. In contrast to the stochastic optimization approach, we consider the problem of finding a robust schedule, which minimizes the maximum regret of a solution. Heuristic algorithm based on mixed-integer linear programming is presented and examined through computational experiments.

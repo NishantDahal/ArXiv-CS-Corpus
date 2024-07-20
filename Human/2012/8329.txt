@@ -1,0 +1,3 @@
+Bipolar Proof Nets for MALL
+
+In this work we present a computation paradigm based on a concurrent and incremental construction of proof nets (de-sequentialized or graphical proofs) of the pure multiplicative and additive fragment of Linear Logic, a resources conscious refinement of Classical Logic. Moreover, we set a correspon- dence between this paradigm and those more pragmatic ones inspired to transactional or distributed systems. In particular we show that the construction of additive proof nets can be interpreted as a model for super-ACID (or co-operative) transactions over distributed transactional systems (typi- cally, multi-databases).

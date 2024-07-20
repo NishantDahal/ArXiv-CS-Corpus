@@ -1,0 +1,3 @@
+A Polling Model with Multiple Priority Levels
+
+In this paper we consider a single-server cyclic polling system. Between visits to successive queues, the server is delayed by a random switch-over time. The order in which customers are served in each queue is determined by a priority level that is assigned to each customer at his arrival. For this situation the following service disciplines are considered: gated, exhaustive, and globally gated. We study the cycle time distribution, the waiting times for each customer type, the joint queue length distribution of all priority classes at all queues at polling epochs, and the steady-state marginal queue length distributions for each customer type.

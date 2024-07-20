@@ -1,0 +1,3 @@
+On Petri Nets with Hierarchical Special Arcs
+
+We investigate the decidability of termination, reachability, coverability and deadlock-freeness of Petri nets endowed with a hierarchy on places, and with inhibitor arcs, reset arcs and transfer arcs that respect this hierarchy. We also investigate what happens when we have a mix of these special arcs, some of which respect the hierarchy, while others do not. We settle the decidability status of the above four problems for all combinations of hierarchy, inhibitor, reset and transfer arcs, except the termination problem for two combinations. For both these combinations, we show that the termination problem is as hard as deciding positivity for linear recurrent sequences -- a long-standing open problem.

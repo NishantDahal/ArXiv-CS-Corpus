@@ -1,0 +1,3 @@
+R3Net: Random Weights, Rectifier Linear Units and Robustness for Artificial Neural Network
+
+We consider a neural network architecture with randomized features, a sign-splitter, followed by rectified linear units (ReLU). We prove that our architecture exhibits robustness to the input perturbation: the output feature of the neural network exhibits a Lipschitz continuity in terms of the input perturbation. We further show that the network output exhibits a discrimination ability that inputs that are not arbitrarily close generate output vectors which maintain distance between each other obeying a certain lower bound. This ensures that two different inputs remain discriminable while contracting the distance in the output feature space.

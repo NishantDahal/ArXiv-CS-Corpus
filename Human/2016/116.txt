@@ -1,0 +1,3 @@
+Unsupervised Learning in Neuromemristive Systems
+
+Neuromemristive systems (NMSs) currently represent the most promising platform to achieve energy efficient neuro-inspired computation. However, since the research field is less than a decade old, there are still countless algorithms and design paradigms to be explored within these systems. One particular domain that remains to be fully investigated within NMSs is unsupervised learning. In this work, we explore the design of an NMS for unsupervised clustering, which is a critical element of several machine learning algorithms. Using a simple memristor crossbar architecture and learning rule, we are able to achieve performance which is on par with MATLAB's k-means clustering.

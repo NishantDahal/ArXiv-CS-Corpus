@@ -1,0 +1,4 @@
+Generating Functionally Equivalent Programs Having Non-Isomorphic Control-Flow Graphs
+
+One of the big challenges in program obfuscation consists in modifying not only the program's straight-line code (SLC) but also the program's control flow graph (CFG). Indeed, if only SLC is modified, the program's CFG can be extracted and analyzed. Usually, the CFG leaks a considerable amount of information on the program's structure.
+  In this work we propose a method allowing to re-write a code P into a functionally equivalent code P' such that CFG{P} and CFG{P'} are radically different.

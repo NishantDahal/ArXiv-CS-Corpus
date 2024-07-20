@@ -1,0 +1,3 @@
+Action Categorization for Computationally Improved Task Learning and Planning
+
+This paper explores the problem of task learning and planning, contributing the Action-Category Representation (ACR) to improve computational performance of both Planning and Reinforcement Learning (RL). ACR is an algorithm-agnostic, abstract data representation that maps objects to action categories (groups of actions), inspired by the psychological concept of action codes. We validate our approach in StarCraft and Lightworld domains; our results demonstrate several benefits of ACR relating to improved computational performance of planning and RL, by reducing the action space for the agent.

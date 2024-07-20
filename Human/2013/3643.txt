@@ -1,0 +1,3 @@
+Quantum-to-classical rate distortion coding
+
+We establish a theory of quantum-to-classical rate distortion coding. In this setting, a sender Alice has many copies of a quantum information source. Her goal is to transmit classical information about the source, obtained by performing a measurement on it, to a receiver Bob, up to some specified level of distortion. We derive a single-letter formula for the minimum rate of classical communication needed for this task. We also evaluate this rate in the case in which Bob has some quantum side information about the source. Our results imply that, in general, Alice's best strategy is a non-classical one, in which she performs a collective measurement on successive outputs of the source.

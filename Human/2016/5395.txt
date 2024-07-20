@@ -1,0 +1,3 @@
+GPIC - GPU Power Iteration Cluster
+
+This work presents a new clustering algorithm, the GPIC, a Graphics Processing Unit (GPU) accelerated algorithm for Power Iteration Clustering (PIC). Our algorithm is based on the original PIC proposal, adapted to take advantage of the GPU architecture, maintining the algorith original properties. The proposed method was compared against the serial and parallel Spark implementation, achieving a considerable speed-up in the test problems.

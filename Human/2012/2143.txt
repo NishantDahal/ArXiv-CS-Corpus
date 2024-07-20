@@ -1,0 +1,3 @@
+A handy systematic method for data hazards detection in an instruction set of a pipelined microprocessor
+
+It is intended in this document to introduce a handy systematic method for enumerating all possible data dependency cases that could occur between any two instructions that might happen to be processed at the same time at different stages of the pipeline. Given instructions of the instruction set, specific information about operands of each instruction and when an instruction reads or writes data, the method could be used to enumerate all possible data hazard cases and to determine whether forwarding or stalling is suitable for resolving each case.

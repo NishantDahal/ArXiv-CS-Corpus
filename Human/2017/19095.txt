@@ -1,0 +1,3 @@
+Planar L-Drawings of Directed Graphs
+
+We study planar drawings of directed graphs in the L-drawing standard. We provide necessary conditions for the existence of these drawings and show that testing for the existence of a planar L-drawing is an NP-complete problem. Motivated by this result, we focus on upward-planar L-drawings. We show that directed st-graphs admitting an upward- (resp. upward-rightward-) planar L-drawing are exactly those admitting a bitonic (resp. monotonically increasing) st-ordering. We give a linear-time algorithm that computes a bitonic (resp. monotonically increasing) st-ordering of a planar st-graph or reports that there exists none.

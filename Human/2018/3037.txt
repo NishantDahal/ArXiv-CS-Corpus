@@ -1,0 +1,3 @@
+List Heaps
+
+This paper presents a simple extension of the binary heap, the List Heap. We use List Heaps to demonstrate the idea of adaptive heaps: heaps whose performance is a function of both the size of the problem instance and the disorder of the problem instance. We focus on the presortedness of the input sequence as a measure of disorder for the problem instance. A number of practical applications that rely on heaps deal with input that is not random. Even random input contains presorted subsequences. Devising heaps that exploit this structure may provide a means for improving practical performance. We present some basic empirical tests to support this claim. Additionally, adaptive heaps may provide an interesting direction for theoretical investigation.

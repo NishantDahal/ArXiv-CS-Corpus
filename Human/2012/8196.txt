@@ -1,0 +1,3 @@
+Resolution Enhancement of Range Images via Color-Image Segmentation
+
+We report a method for super-resolution of range images. Our approach leverages the interpretation of LR image as sparse samples on the HR grid. Based on this interpretation, we demonstrate that our recently reported approach, which reconstructs dense range images from sparse range data by exploiting a registered colour image, can be applied for the task of resolution enhancement of range images. Our method only uses a single colour image in addition to the range observation in the super-resolution process. Using the proposed approach, we demonstrate super-resolution results for large factors (e.g. 4) with good localization accuracy.

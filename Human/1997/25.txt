@@ -1,0 +1,3 @@
+Finite size scaling of the bayesian perceptron
+
+We study numerically the properties of the bayesian perceptron through a gradient descent on the optimal cost function. The theoretical distribution of stabilities is deduced. It predicts that the optimal generalizer lies close to the boundary of the space of (error-free) solutions. The numerical simulations are in good agreement with the theoretical distribution. The extrapolation of the generalization error to infinite input space size agrees with the theoretical results. Finite size corrections are negative and exhibit two different scaling regimes, depending on the training set size. The variance of the generalization error vanishes for $N \rightarrow \infty$ confirming the property of self-averaging.

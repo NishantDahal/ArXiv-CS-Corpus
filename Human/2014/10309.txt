@@ -1,0 +1,3 @@
+An Operational Semantics for Activity Diagrams using SMV
+
+This document defines an operational semantics for activity diagrams (ADs) using a translation to SMV. The translation is inspired by the work of Eshuis [Esh06] and extends it with support for data. Each execution step of the SMV module obtained from an AD represents an executed action of this AD with interleaved execution of concurrent branches. An implementation of the given translation was used in the context of semantic differencing for ADs [MRR11]. We define the translation and give two examples, showing ADs and their complete representation in SMV.

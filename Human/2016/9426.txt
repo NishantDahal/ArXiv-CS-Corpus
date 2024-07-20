@@ -1,0 +1,3 @@
+An Improved Lower Bound for $n$-Brinkhuis $k$-Triples
+
+Let $s_n$ be the number of words consisting of the ternary alphabet consisting of the digits 0, 1, and 2 such that no subword (or factor) is a square (a word concatenated with itself, e.g., $11$, $1212$, or $102102$). From computational evidence, $s_n$ grows exponentially at a rate of about $1.317277^n$. While known upper bounds are already relatively close to the conjectured rate, effective lower bounds are much more difficult to obtain. In this paper, we construct a $54$-Brinkhuis $952$-triple, which leads to an improved lower bound on the number of $n$-letter ternary squarefree words: $952^{n/53} \approx 1.1381531^n$.

@@ -1,0 +1,3 @@
+Valence Induction with a Head-Lexicalized PCFG
+
+This paper presents an experiment in learning valences (subcategorization frames) from a 50 million word text corpus, based on a lexicalized probabilistic context free grammar. Distributions are estimated using a modified EM algorithm. We evaluate the acquired lexicon both by comparison with a dictionary and by entropy measures. Results show that our model produces highly accurate frame distributions.

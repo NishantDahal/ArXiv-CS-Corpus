@@ -1,0 +1,3 @@
+Biclique coverings, rectifier networks and the cost of $\varepsilon$-removal
+
+We relate two complexity notions of bipartite graphs: the minimal weight biclique covering number $\mathrm{Cov}(G)$ and the minimal rectifier network size $\mathrm{Rect}(G)$ of a bipartite graph $G$. We show that there exist graphs with $\mathrm{Cov}(G)\geq \mathrm{Rect}(G)^{3/2-ε}$. As a corollary, we establish that there exist nondeterministic finite automata (NFAs) with $\varepsilon$-transitions, having $n$ transitions total such that the smallest equivalent $\varepsilon$-free NFA has $Ω(n^{3/2-ε})$ transitions. We also formulate a version of previous bounds for the weighted set cover problem and discuss its connections to giving upper bounds for the possible blow-up.

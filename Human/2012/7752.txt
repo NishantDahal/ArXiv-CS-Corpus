@@ -1,0 +1,3 @@
+A New Algorithm for Data Compression Optimization
+
+People tend to store a lot of files inside theirs storage. When the storage nears it limit, they then try to reduce those files size to minimum by using data compression software. In this paper we propose a new algorithm for data compression, called j-bit encoding (JBE). This algorithm will manipulates each bit of data inside file to minimize the size without losing any data after decoding which is classified to lossless compression. This basic algorithm is intended to be combining with other data compression algorithms to optimize the compression ratio. The performance of this algorithm is measured by comparing combination of different data compression algorithms.

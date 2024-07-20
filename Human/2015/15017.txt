@@ -1,0 +1,3 @@
+NPEFix: Automatic Runtime Repair of Null Pointer Exceptions in Java
+
+Null pointer exceptions, also known as null dereferences are the number one exceptions in the field. In this paper, we propose 9 alternative execution semantics when a null pointer exception is about to happen. We implement those alternative execution strategies using code transformation in a tool called NPEfix. We evaluate our prototype implementation on 11 field null dereference bugs and 519 seeded failures and show that NPEfix is able to repair at runtime 10/11 and 318/519 failures.

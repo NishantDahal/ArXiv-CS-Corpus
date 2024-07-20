@@ -1,0 +1,3 @@
+Low-Complexity MIMO Precoding with Discrete Signals and Statistical CSI
+
+In this paper, we investigate the design of multiple-input multiple-output single-user precoders for finite-alphabet signals under the premise of statistical channel-state information at the transmitter. Based on an asymptotic expression for the mutual information of channels exhibiting antenna correlations, we propose a low-complexity iterative algorithm that radically reduces the computational load of existing approaches by orders of magnitude with only minimal losses in performance. The savings increase with the number of transmit antennas and with the cardinality of the signal alphabet, making it possible to supports values thereof that were unwieldy in existing solutions.

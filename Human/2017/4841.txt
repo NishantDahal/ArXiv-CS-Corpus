@@ -1,0 +1,4 @@
+On time and consistency in multi-level agent-based simulations
+
+The integration of multiple viewpoints became an increasingly popular approach to deal with agent-based simulations. Despite their disparities, recent approaches successfully manage to run such multi-level simulations. Yet, are they doing it appropriately?
+  This paper tries to answer that question, with an analysis based on a generic model of the temporal dynamics of multi-level simulations. This generic model is then used to build an orthogonal approach to multi-level simulation called SIMILAR. In this approach, most time-related issues are explicitly modeled, owing to an implementation-oriented approach based on the influence/reaction principle.

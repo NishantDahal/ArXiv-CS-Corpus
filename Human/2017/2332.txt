@@ -1,0 +1,6 @@
+Models of Type Theory with Strict Equality
+
+This thesis introduces the idea of two-level type theory, an extension of Martin-Löf type theory that adds a notion of strict equality as an internal primitive.
+  A type theory with a strict equality alongside the more conventional form of equality, the latter being of fundamental importance for the recent innovation of homotopy type theory (HoTT), was first proposed by Voevodsky, and is usually referred to as HTS.
+  Here, we generalise and expand this idea, by developing a semantic framework that gives a systematic account of type formers for two-level systems, and proving a conservativity result relating back to a conventional type theory like HoTT.
+  Finally, we show how a two-level theory can be used to provide partial solutions to open problems in HoTT. In particular, we use it to construct semi-simplicial types, and lay out the foundations of an internal theory of $(\infty, 1)$-categories.

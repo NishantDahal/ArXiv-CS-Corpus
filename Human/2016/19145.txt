@@ -1,0 +1,3 @@
+A Distributed Algorithm for Quality-of-Service Provisioning in Multihop Networks
+
+We present a distributed algorithm for joint power control, routing and scheduling in multihop wireless networks. The algorithm also provides for Quality of Service (QoS) guarantees, namely, end-to-end mean delay guarantees and hard deadline guarantees, for different users. It is easily implementable and works by giving local dynamic priority to flows requiring QoS, the priority being a function of the queue length at the nodes. We provide theoretical bounds for the stability properties of the algorithm. We also compare the performance of the algorithm with other existing algorithms by means of extensive simulations, and demonstrate its efficacy in providing QoS on demand.

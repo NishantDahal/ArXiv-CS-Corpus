@@ -1,0 +1,3 @@
+A New Approach for Solving Singular Systems in Topology Optimization Using Krylov Subspace Methods
+
+In topology optimization, the design parameter with no contribution to the objective function vanishes. This causes the stiffness matrix to become singular. We show that a local optimal solution is obtained by Conjugate Residual Method and Conjugate Gradient Method even if the stiffness matrix becomes singular. We prove that CGMconverges to a local optimal solution in that case. Computer simulation shows that CGM gives the same solutions obtained by CRM in case of a cantilever beam problem.

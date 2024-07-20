@@ -1,0 +1,3 @@
+Communication Complexity of Discrete Fair Division
+
+We initiate the study of the communication complexity of fair division with indivisible goods. We focus on some of the most well-studied fairness notions (envy-freeness, proportionality, and approximations thereof) and valuation classes (submodular, subadditive and unrestricted). Within these parameters, our results completely resolve whether the communication complexity of computing a fair allocation (or determining that none exist) is polynomial or exponential (in the number of goods), for every combination of fairness notion, valuation class, and number of players, for both deterministic and randomized protocols.

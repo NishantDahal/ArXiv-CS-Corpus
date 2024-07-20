@@ -1,0 +1,3 @@
+Real-Time Stereo Vision on FPGAs with SceneScan
+
+We present a flexible FPGA stereo vision implementation that is capable of processing up to 100 frames per second or image resolutions up to 3.4 megapixels, while consuming only 8 W of power. The implementation uses a variation of the Semi-Global Matching (SGM) algorithm, which provides superior results compared to many simpler approaches. The stereo matching results are improved significantly through a post-processing chain that operates on the computed cost cube and the disparity map. With this implementation we have created two stand-alone hardware systems for stereo vision, called SceneScan and SceneScan Pro. Both systems have been developed to market maturity and are available from Nerian Vision GmbH.

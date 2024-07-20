@@ -1,0 +1,7 @@
+Tight lower bounds on the number of faces of the Minkowski sum of convex polytopes via the Cayley trick
+
+Consider a set of $r$ convex $d$-polytopes $P_1,P_2,...,P_r$, where $d\ge{}3$ and $r\ge{}2$, and let $n_i$ be the number of vertices of $P_i$, $1\le{}i\le{}r$. It has been shown by Fukuda and Weibel that the number of $k$-faces of the Minkowski sum, $P_1+P_2+...+P_r$, is bounded from above by $Φ_{k+r}(n_1,n_2,...,n_r)$, where
+$Φ_{\ell}(n_1,n_2,...,n_r)= \sum_{\substack{1\le{}s_i\le{}n_i
+s_1+...+s_r=\ell}} \prod_{i=1}^r\binom{n_i}{s_i}$, $\ell\ge{}r$.
+Fukuda and Weibel have also shown that the upper bound mentioned above is tight for $d\ge{}4$, $2\le{}r\le{}\lfloor\frac{d}{2}\rfloor$, and for all $0\le{}k\le{}\lfloor\frac{d}{2}\rfloor-r$.
+  In this paper we construct a set of $r$ neighborly $d$-polytopes $P_1,P_2,...,P_r$, where $d\ge{}3$ and $2\le{}r\le{}d-1$, for which the upper bound of Fukuda and Weibel is attained for all $0\le{}k\le{}\lfloor\frac{d+r-1}{2}\rfloor-r$. Our approach is based on what is known as the Cayley trick for Minkowski sums. A direct consequence of our result is a tight asymptotic bound on the complexity of the Minkowski sum $P_1+P_2+...+P_r$, for any fixed dimension $d$ and any $2\le{}r\le{}d-1$, when the number of vertices of the polytopes is (asymptotically) the same.

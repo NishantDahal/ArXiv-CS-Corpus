@@ -1,0 +1,6 @@
+Fixed-Parameter Algorithms for DAG Partitioning
+
+Finding the origin of short phrases propagating through the web has been formalized by Leskovec et al. [ACM SIGKDD 2009] as DAG Partitioning: given an arc-weighted directed acyclic graph on $n$ vertices and $m$ arcs, delete arcs with total weight at most $k$ such that each resulting weakly-connected component contains exactly one sink---a vertex without outgoing arcs. DAG Partitioning is NP-hard.
+  We show an algorithm to solve DAG Partitioning in $O(2^k \cdot (n+m))$ time, that is, in linear time for fixed $k$. We complement it with linear-time executable data reduction rules. Our experiments show that, in combination, they can optimally solve DAG Partitioning on simulated citation networks within five minutes for $k\leq190$ and $m$ being $10^7$ and larger. We use our obtained optimal solutions to evaluate the solution quality of Leskovec et al.'s heuristic.
+  We show that Leskovec et al.'s heuristic works optimally on trees and generalize this result by showing that DAG Partitioning is solvable in $2^{O(w^2)}\cdot n$ time if a width-$w$ tree decomposition of the input graph is given. Thus, we improve an algorithm and answer an open question of Alamdari and Mehrabian [WAW 2012].
+  We complement our algorithms by lower bounds on the running time of exact algorithms and on the effectivity of data reduction.

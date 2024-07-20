@@ -1,0 +1,3 @@
+Subgroups of minimal index in polynomial time
+
+Let $G$ be a finite group and let $H$ be a proper subgroup of $G$ of minimal index. By applying an old result of Y. Berkovich, we provide a polynomial algorithm for computing $|G : H|$ for a permutation group $G$. Moreover, we find $H$ explicitly if $G$ is given by a Cayley table. As a corollary, we get an algorithm for testing whether a finite permutation group acts on a tree or not.

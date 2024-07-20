@@ -1,0 +1,4 @@
+RealCertify: a Maple package for certifying non-negativity
+
+Let $\mathbb{Q}$ (resp. $\mathbb{R}$) be the field of rational (resp. real) numbers and $X = (X_1, \ldots, X_n)$ be variables. Deciding the non-negativity of polynomials in $\mathbb{Q}[X]$ over $\mathbb{R}^n$ or over semi-algebraic domains defined by polynomial constraints in $\mathbb{Q}[X]$ is a classical algorithmic problem for symbolic computation.
+  The Maple package \textsc{RealCertify} tackles this decision problem by computing sum of squares certificates of non-negativity for inputs where such certificates hold over the rational numbers. It can be applied to numerous problems coming from engineering sciences, program verification and cyber-physical systems. It is based on hybrid symbolic-numeric algorithms based on semi-definite programming.

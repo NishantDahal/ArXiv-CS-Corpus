@@ -1,0 +1,3 @@
+Cache Hierarchy Optimization
+
+Power consumption, off-chip memory bandwidth, chip area and Network on Chip (NoC) capacity are among main chip resources limiting the scalability of Chip Multiprocessors (CMP). A closed form analytical solution for optimizing the CMP cache hierarchy and optimally allocating area among hierarchy levels under such constrained resources is developed. The optimization framework is extended by incorporating the impact of data sharing on cache miss rate. An analytical model for cache access time as a function of cache size is proposed and verified using CACTI simulation.

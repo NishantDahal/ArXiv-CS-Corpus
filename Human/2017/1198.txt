@@ -1,0 +1,3 @@
+(Quasi-)linear time algorithm to compute LexDFS, LexUP and LexDown orderings
+
+We consider the three graph search algorithm LexDFS, LexUP and LexDOWN. We show that LexUP orderings can be computed in linear time by an algorithm similar to the one which compute LexBFS. Furthermore, LexDOWN orderings and LexDFS orderings can be computed in time $\left(n+m\log m\right)$ where $n$ is the number of vertices and $m$ the number of edges.

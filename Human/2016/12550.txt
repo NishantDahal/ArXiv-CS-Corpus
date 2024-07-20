@@ -1,0 +1,3 @@
+A Formal, Resource Consumption-Preserving Translation of Actors to Haskell
+
+We present a formal translation of an actor-based language with cooperative scheduling to the functional language Haskell. The translation is proven correct with respect to a formal semantics of the source language and a high-level operational semantics of the target, i.e. a subset of Haskell. The main correctness theorem is expressed in terms of a simulation relation between the operational semantics of actor programs and their translation. This allows us to then prove that the resource consumption is preserved over this translation, as we establish an equivalence of the cost of the original and Haskell-translated execution traces.

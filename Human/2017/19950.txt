@@ -1,0 +1,3 @@
+Deep Learning for Accelerated Ultrasound Imaging
+
+In portable, 3-D, or ultra-fast ultrasound (US) imaging systems, there is an increasing demand to reconstruct high quality images from limited number of data. However, the existing solutions require either hardware changes or computationally expansive algorithms. To overcome these limitations, here we propose a novel deep learning approach that interpolates the missing RF data by utilizing the sparsity of the RF data in the Fourier domain. Extensive experimental results from sub-sampled RF data from a real US system confirmed that the proposed method can effectively reduce the data rate without sacrificing the image quality.

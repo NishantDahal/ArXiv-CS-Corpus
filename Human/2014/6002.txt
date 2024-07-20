@@ -1,0 +1,3 @@
+Priority-based intersection management with kinodynamic constraints
+
+We consider the problem of coordinating a collection of robots at an intersection area taking into account dynamical constraints due to actuator limitations. We adopt the coordination space approach, which is standard in multiple robot motion planning. Assuming the priorities between robots are assigned in advance and the existence of a collision-free trajectory respecting those priorities, we propose a provably safe trajectory planner satisfying kinodynamic constraints. The algorithm is shown to run in real time and to return safe (collision-free) trajectories. Simulation results on synthetic data illustrate the benefits of the approach.

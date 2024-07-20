@@ -1,0 +1,3 @@
+Generating Paths with WFC
+
+Motion plans are often randomly generated for minor game NPCs. Repetitive or regular movements, however, require non-trivial programming effort and/or integration with a pathing system. We here describe an example-based approach to path generation that requires little or no additional programming effort. Our work modifies the Wave Function Collapse (WFC) algorithm, adapting it to produce pathing plans similar to an input sketch. We show how simple sketch modifications control path characteristics, and demonstrate feasibility through a usable Unity implementation.

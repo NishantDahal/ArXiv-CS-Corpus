@@ -1,0 +1,3 @@
+SSL Enhancement
+
+With the development of e-commerce, ssl protocol is more and more widely applied to various network services. It is one of key technologies to keep user's data in secure transmission via internet. This document majorly focuses on "SSLStrip" which generates the most recent attack in the secure network connections. It strips out all the secure connections to unsecure plain connection. In this article we depict this attack and to nullify it, we have proposed a technique cum practical solution to strengthen data security by developing mozilla-firefox add-on and servlet code which will strengthen our defense against the https hijacking attacks.

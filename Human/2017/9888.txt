@@ -1,0 +1,3 @@
+Decidability of the Monadic Shallow Linear First-Order Fragment with Straight Dismatching Constraints
+
+The monadic shallow linear Horn fragment is well-known to be decidable and has many application, e.g., in security protocol analysis, tree automata, or abstraction refinement. It was a long standing open problem how to extend the fragment to the non-Horn case, preserving decidability, that would, e.g., enable to express non-determinism in protocols. We prove decidability of the non-Horn monadic shallow linear fragment via ordered resolution further extended with dismatching constraints and discuss some applications of the new decidable fragment.

@@ -1,0 +1,3 @@
+Projection-Free Bandit Convex Optimization
+
+In this paper, we propose the first computationally efficient projection-free algorithm for bandit convex optimization (BCO). We show that our algorithm achieves a sublinear regret of $O(nT^{4/5})$ (where $T$ is the horizon and $n$ is the dimension) for any bounded convex functions with uniformly bounded gradients. We also evaluate the performance of our algorithm against baselines on both synthetic and real data sets for quadratic programming, portfolio selection and matrix completion problems.

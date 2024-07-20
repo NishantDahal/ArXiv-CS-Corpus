@@ -1,0 +1,3 @@
+Linear Complexity Lossy Compressor for Binary Redundant Memoryless Sources
+
+A lossy compression algorithm for binary redundant memoryless sources is presented. The proposed scheme is based on sparse graph codes. By introducing a nonlinear function, redundant memoryless sequences can be compressed. We propose a linear complexity compressor based on the extended belief propagation, into which an inertia term is heuristically introduced, and show that it has near-optimal performance for moderate block lengths.

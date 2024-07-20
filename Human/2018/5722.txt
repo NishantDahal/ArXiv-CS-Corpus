@@ -1,0 +1,3 @@
+Towards Advanced Phenotypic Mutations in Cartesian Genetic Programming
+
+Cartesian Genetic Programming is often used with a point mutation as the sole genetic operator. In this paper, we propose two phenotypic mutation techniques and take a step towards advanced phenotypic mutations in Cartesian Genetic Programming. The functionality of the proposed mutations is inspired by biological evolution which mutates DNA sequences by inserting and deleting nucleotides. Experiments with symbolic regression and boolean functions problems show a better search performance when the proposed mutations are in use. The results of our experiments indicate that the use of phenotypic mutations could be beneficial for the use of Cartesian Genetic Programming.

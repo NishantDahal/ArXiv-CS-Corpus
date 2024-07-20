@@ -1,0 +1,4 @@
+Approximate Randomization of Quantum States With Fewer Bits of Key
+
+Randomization of quantum states is the quantum analogue of the classical one-time pad. We present an improved, efficient construction of an approximately randomizing map that uses O(d/epsilon^2) Pauli operators to map any d-dimensional state to a state that is within trace distance epsilon of the completely mixed state. Our bound is a log d factor smaller than that of Hayden, Leung, Shor, and Winter (2004), and Ambainis and Smith (2004).
+  Then, we show that a random sequence of essentially the same number of unitary operators, chosen from an appropriate set, with high probability form an approximately randomizing map for d-dimensional states. Finally, we discuss the optimality of these schemes via connections to different notions of pseudorandomness, and give a new lower bound for small epsilon.

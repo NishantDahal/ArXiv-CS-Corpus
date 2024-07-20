@@ -1,0 +1,3 @@
+Reducing over-clustering via the powered Chinese restaurant process
+
+Dirichlet process mixture (DPM) models tend to produce many small clusters regardless of whether they are needed to accurately characterize the data - this is particularly true for large data sets. However, interpretability, parsimony, data storage and communication costs all are hampered by having overly many clusters. We propose a powered Chinese restaurant process to limit this kind of problem and penalize over clustering. The method is illustrated using some simulation examples and data with large and small sample size including MNIST and the Old Faithful Geyser data.

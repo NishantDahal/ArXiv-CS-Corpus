@@ -1,0 +1,3 @@
+Relative Expressiveness of Defeasible Logics
+
+We address the relative expressiveness of defeasible logics in the framework DL. Relative expressiveness is formulated as the ability to simulate the reasoning of one logic within another logic. We show that such simulations must be modular, in the sense that they also work if applied only to part of a theory, in order to achieve a useful notion of relative expressiveness. We present simulations showing that logics in DL with and without the capability of team defeat are equally expressive. We also show that logics that handle ambiguity differently -- ambiguity blocking versus ambiguity propagating -- have distinct expressiveness, with neither able to simulate the other under a different formulation of expressiveness.

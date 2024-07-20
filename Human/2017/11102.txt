@@ -1,0 +1,3 @@
+LiDAR point clouds correction acquired from a moving car based on CAN-bus data
+
+In this paper, we investigate the impact of different kind of car trajectories on LiDAR scans. In fact, LiDAR scanning speeds are considerably slower than car speeds introducing distortions. We propose a method to overcome this issue as well as new metrics based on CAN bus data. Our results suggest that the vehicle trajectory should be taken into account when building 3D large-scale maps from a LiDAR mounted on a moving vehicle.

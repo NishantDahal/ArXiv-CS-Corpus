@@ -1,0 +1,3 @@
+Node Specificity in Convolutional Deep Nets Depends on Receptive Field Position and Size
+
+In convolutional deep neural networks, receptive field (RF) size increases with hierarchical depth. When RF size approaches full coverage of the input image, different RF positions result in RFs with different specificity, as portions of the RF fall out of the input space. This leads to a departure from the convolutional concept of positional invariance and opens the possibility for complex forms of context specificity.

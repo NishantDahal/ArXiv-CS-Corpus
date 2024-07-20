@@ -1,0 +1,4 @@
+ICNLoWPAN -- Named-Data Networking for Low Power IoT Networks
+
+Information Centric Networking is considered a promising communication technology for the constrained IoT, but NDN was designed only for standard network infrastructure.
+  In this paper, we design and evaluate an NDN convergence layer for low power lossy links that (1) augments the NDN stateful forwarding with a highly efficient name eliding, (2) devises stateless compression schemes for standard NDN use cases, (3) adapts NDN packets to the small MTU size of IEEE 802.15.4, and (4) generates compatibility with 6LoWPAN so that IPv6 and NDN can coexist on the same LoWPAN links. Our findings indicate that stateful compression can reduce the size of NDN data packets by more than 70% in realistic examples. Our experiments show that for common use cases ICNLoWPAN saves 33% of transmission resources over NDN, and about 20% over 6LoWPAN.

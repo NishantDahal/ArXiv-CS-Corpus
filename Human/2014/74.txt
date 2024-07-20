@@ -1,0 +1,3 @@
+Secure SAML validation to prevent XML signature wrapping attacks
+
+SAML assertions are becoming popular method for passing authentication and authorisation information between identity providers and consumers using various single sign-on protocols. However their practical security strongly depends on correct implementation, especially on the consumer side. Somorovsky and others have demonstrated a number of XML signature related vulnerabilities in SAML assertion validation frameworks. This article demonstrates how bad library documentation and examples can lead to vulnerable consumer code and how this can be avoided.

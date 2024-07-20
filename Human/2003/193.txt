@@ -1,0 +1,3 @@
+Configuration Database for BaBar On-line
+
+The configuration database is one of the vital systems in the BaBar on-line system. It provides services for the different parts of the data acquisition system and control system, which require run-time parameters. The original design and implementation of the configuration database played a significant role in the successful BaBar operations since the beginning of experiment. Recent additions to the design of the configuration database provide better means for the management of data and add new tools to simplify main configuration tasks. We describe the design of the configuration database, its implementation with the Objectivity/DB object-oriented database, and our experience collected during the years of operation.

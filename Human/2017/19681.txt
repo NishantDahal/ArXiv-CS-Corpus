@@ -1,0 +1,5 @@
+Easy to Win, Hard to Master: Optimal Strategies in Parity Games with Costs
+
+The winning condition of a parity game with costs requires an arbitrary, but fixed bound on the cost incurred between occurrences of odd colors and the next occurrence of a larger even one. Such games quantitatively extend parity games while retaining most of their attractive properties, i.e, determining the winner is in NP and co-NP and one player has positional winning strategies.
+  We show that the characteristics of parity games with costs are vastly different when asking for strategies realizing the minimal such bound: The solution problem becomes PSPACE-complete and exponential memory is both necessary in general and always sufficient. Thus, solving and playing parity games with costs optimally is harder than just winning them. Moreover, we show that the tradeoff between the memory size and the realized bound is gradual in general. All these results hold true for both a unary and binary encoding of costs.
+  Moreover, we investigate Streett games with costs. Here, playing optimally is as hard as winning, both in terms of complexity and memory.

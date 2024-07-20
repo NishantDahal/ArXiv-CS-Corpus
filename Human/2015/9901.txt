@@ -1,0 +1,3 @@
+Rethinking the Intercept Probability of Random Linear Network Coding
+
+This letter considers a network comprising a transmitter, which employs random linear network coding to encode a message, a legitimate receiver, which can recover the message if it gathers a sufficient number of linearly independent coded packets, and an eavesdropper. Closed-form expressions for the probability of the eavesdropper intercepting enough coded packets to recover the message are derived. Transmission with and without feedback is studied. Furthermore, an optimization model that minimizes the intercept probability under delay and reliability constraints is presented. Results validate the proposed analysis and quantify the secrecy gain offered by a feedback link from the legitimate receiver.

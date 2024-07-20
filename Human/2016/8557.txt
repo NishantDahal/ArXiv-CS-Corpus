@@ -1,0 +1,4 @@
+A verified abstract machine for functional coroutines
+
+Functional coroutines are a restricted form of control mechanism, where each coroutine is represented with both a continuation and an environment. This restriction was originally obtained by considering a constructive version of Parigot's classical natural deduction which is sound and complete for the Constant Domain logic. In this article, we present a refinement of de Groote's abstract machine for functional coroutines and we prove its correctness. Therefore, this abstract machine also provides a direct computational interpretation of the Constant Domain logic.
+

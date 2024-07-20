@@ -1,0 +1,3 @@
+Functional Logic Programming with Generalized Circular Coinduction
+
+We propose a method to adapt functional logic programming to deal with reasoning on coinductively interpreted programs as well as on inductively interpreted programs. In order to do so, we consider a class of objects interesting for this coinductive interpretation, namely regular terms. We show how the usual data structures can be adapted to capture these objects. We adapt the operational semantics of Curry to interpret programs coinductively. We illustrate this method with several examples that show the working of our method and several cases in which it could be useful. Finally, we suggest how the declarative semantics can be adapted suitably.

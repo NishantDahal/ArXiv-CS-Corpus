@@ -1,0 +1,3 @@
+Probabilistic behavior of hash tables
+
+We extend a result of Goldreich and Ron about estimating the collision probability of a hash function. Their estimate has a polynomial tail. We prove that when the load factor is greater than a certain constant, the estimator has a gaussian tail. As an application we find an estimate of an upper bound for the average search time in hashing with chaining, for a particular user (we allow the overall key distribution to be different from the key distribution of a particular user). The estimator has a gaussian tail.

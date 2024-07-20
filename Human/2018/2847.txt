@@ -1,0 +1,3 @@
+On the computation of Shannon Entropy from Counting Bloom Filters
+
+In this short note a method for computing the naive plugin estimator of discrete entropy from a counting Bloom filter will be presented. The method does work reasonably as long as the collision probability in the bloom filter is kept low.

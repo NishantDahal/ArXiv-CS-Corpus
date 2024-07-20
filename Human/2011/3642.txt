@@ -1,0 +1,5 @@
+Upgrading Subgroup Triple Product Property Triples
+
+In 2003 COHN and UMANS introduced a group-theoretic approach to fast matrix multiplication. This involves finding large subsets of a group $G$ satisfying the Triple Product Property (TPP) as a means to bound the exponent $ω$ of matrix multiplication. Recently, Hedtke and Murthy discussed several methods to find TPP triples. Because the search space for subset triples is too large, it is only possible to focus on subgroup triples.
+  We present methods to upgrade a given TPP triple to a bigger TPP triple. If no upgrade is possible we use reduction methods (based on random experiments and heuristics) to create a smaller TPP triple that can be used as input for the upgrade methods.
+  If we apply the upgrade process for subset triples after one step with the upgrade method for subgroup triples we achieve an enlargement of the triple size of 100 % in the best case.

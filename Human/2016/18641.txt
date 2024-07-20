@@ -1,0 +1,3 @@
+Non-aligned drawings of planar graphs
+
+A non-aligned drawing of a graph is a drawing where no two vertices are in the same row or column. Auber et al. showed that not all planar graphs have non-aligned drawings that are straight-line, planar, and in the minimal-possible $n\times n$-grid. They also showed that such drawings exist if up to $n-3$ edges may have a bend. In this paper, we give algorithms for non-aligned planar drawings that improve on the results by Auber et al. In particular, we give such drawings in an $n\times n$-grid with significantly fewer bends, and we study what grid-size can be achieved if we insist on having straight-line drawings.

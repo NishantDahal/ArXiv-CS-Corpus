@@ -1,0 +1,6 @@
+A comparable study of modeling units for end-to-end Mandarin speech recognition
+
+End-To-End speech recognition have become increasingly popular in mandarin speech recognition and achieved delightful performance.
+  Mandarin is a tonal language which is different from English and requires special treatment for the acoustic modeling units. There have been several different kinds of modeling units for mandarin such as phoneme, syllable and Chinese character.
+  In this work, we explore two major end-to-end models: connectionist temporal classification (CTC) model and attention based encoder-decoder model for mandarin speech recognition. We compare the performance of three different scaled modeling units: context dependent phoneme(CDP), syllable with tone and Chinese character.
+  We find that all types of modeling units can achieve approximate character error rate (CER) in CTC model and the performance of Chinese character attention model is better than syllable attention model. Furthermore, we find that Chinese character is a reasonable unit for mandarin speech recognition. On DidiCallcenter task, Chinese character attention model achieves a CER of 5.68% and CTC model gets a CER of 7.29%, on the other DidiReading task, CER are 4.89% and 5.79%, respectively. Moreover, attention model achieves a better performance than CTC model on both datasets.

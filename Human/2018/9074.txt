@@ -1,0 +1,5 @@
+A Performance and Resource Consumption Assessment of Secure Multiparty Computation
+
+In recent years, secure multiparty computation (SMC) advanced from a theoretical technique to a practically applicable technology. Several frameworks were proposed of which some are still actively developed.
+  We perform a first comprehensive study of performance characteristics of SMC protocols using a promising implementation based on secret sharing, a common and state-of-the-art foundation. Therefor, we analyze its scalability with respect to environmental parameters as the number of peers, network properties -- namely transmission rate, packet loss, network latency -- and parallelization of computations as parameters and execution time, CPU cycles, memory consumption and amount of transmitted data as variables.
+  Our insights on the resource consumption show that such a solution is practically applicable in intranet environments and -- with limitations -- in Internet settings.

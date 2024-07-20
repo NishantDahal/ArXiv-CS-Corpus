@@ -1,0 +1,3 @@
+Image compression using anti-forensics method
+
+A large number of image forensics methods are available which are capable of identifying image tampering. But these techniques are not capable of addressing the anti-forensics method which is able to hide the trace of image tampering. In this paper anti-forensics method for digital image compression has been proposed. This anti-forensics method is capable of removing the traces of image compression. Additionally, technique is also able to remove the traces of blocking artifact that are left by image compression algorithms that divide an image into segments during compression process. This method is targeted to remove the compression fingerprints of JPEG compression.

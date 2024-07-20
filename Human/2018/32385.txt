@@ -1,0 +1,3 @@
+Age of Information Upon Decisions
+
+We consider an M/M/1 update-and-decide system where Poisson distributed decisions are made based on the received updates. We propose to characterize the freshness of the received updates at decision epochs with Age upon Decisions (AuD). Under the first-come-first-served policy (FCFS), the closed form average AuD is derived. We show that the average AuD of the system is determined by the arrival rate and the service rate, and is independent of the decision rate. Thus, merely increasing the decision rate does not improve the timeliness of decisions. Nevertheless, increasing the arrival rate and the service rate simultaneously can decrease the average AuD efficiently.

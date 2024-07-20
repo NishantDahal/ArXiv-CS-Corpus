@@ -1,0 +1,3 @@
+Phase-error estimation and image reconstruction from digital-holography data using a Bayesian framework
+
+The estimation of phase errors from digital-holography data is critical for applications such as imaging or wave-front sensing. Conventional techniques require multiple i.i.d. data and perform poorly in the presence of high noise or large phase errors. In this paper we propose a method to estimate isoplanatic phase errors from a single data realization. We develop a model-based iterative reconstruction algorithm which computes the maximum a posteriori estimate of the phase and the speckle-free object reflectance. Using simulated data, we show that the algorithm is robust against high noise and strong phase errors.

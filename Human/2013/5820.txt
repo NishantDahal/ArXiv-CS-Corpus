@@ -1,0 +1,3 @@
+Factoring bivariate lacunary polynomials without heights
+
+We present an algorithm which computes the multilinear factors of bivariate lacunary polynomials. It is based on a new Gap Theorem which allows to test whether a polynomial of the form P(X,X+1) is identically zero in time polynomial in the number of terms of P(X,Y). The algorithm we obtain is more elementary than the one by Kaltofen and Koiran (ISSAC'05) since it relies on the valuation of polynomials of the previous form instead of the height of the coefficients. As a result, it can be used to find some linear factors of bivariate lacunary polynomials over a field of large finite characteristic in probabilistic polynomial time.

@@ -1,0 +1,3 @@
+When is Network Lasso Accurate: The Vector Case
+
+A recently proposed learning algorithm for massive network-structured data sets (big data over networks) is the network Lasso (nLasso), which extends the well- known Lasso estimator from sparse models to network-structured datasets. Efficient implementations of the nLasso have been presented using modern convex optimization methods. In this paper, we provide sufficient conditions on the network structure and available label information such that nLasso accurately learns a vector-valued graph signal (representing label information) from the information provided by the labels of a few data points.

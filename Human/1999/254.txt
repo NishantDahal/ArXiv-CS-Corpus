@@ -1,0 +1,3 @@
+Genetic Algorithms in Time-Dependent Environments
+
+The influence of time-dependent fitnesses on the infinite population dynamics of simple genetic algorithms (without crossover) is analyzed. Based on general arguments, a schematic phase diagram is constructed that allows one to characterize the asymptotic states in dependence on the mutation rate and the time scale of changes. Furthermore, the notion of regular changes is raised for which the population can be shown to converge towards a generalized quasispecies. Based on this, error thresholds and an optimal mutation rate are approximately calculated for a generational genetic algorithm with a moving needle-in-the-haystack landscape. The so found phase diagram is fully consistent with our general considerations.

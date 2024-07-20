@@ -1,0 +1,3 @@
+Modeling Vanilla Option prices: A simulation study by an implicit method
+
+Option contracts can be valued by using the Black-Scholes equation, a partial differential equation with initial conditions. An exact solution for European style options is known. The computation time and the error need to be minimized simultaneously. In this paper, the authors have solved the Black-Scholes equation by employing a reasonably accurate implicit method. Options with known analytic solutions have been evaluated. Furthermore, an overall second order accurate space and time discretization is proposed in this paper Keywords: Computational finance, implicit methods, finite differences, call/put options.

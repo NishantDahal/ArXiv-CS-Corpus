@@ -1,0 +1,3 @@
+Multi-Class Source-Channel Coding
+
+This paper studies an almost-lossless source-channel coding scheme in which source messages are assigned to different classes and encoded with a channel code that depends on the class index. The code performance is analyzed by means of random-coding error exponents and validated by simulation of a low-complexity implementation using existing source and channel codes. While each class code can be seen as a concatenation of a source code and a channel code, the overall performance improves on that of separate source-channel coding and approaches that of joint source-channel coding when the number of classes increases.

@@ -1,0 +1,3 @@
+Efficient Optimal Joint Channel Estimation and Data Detection for Massive MIMO Systems
+
+In this paper, we propose an efficient optimal joint channel estimation and data detection algorithm for massive MIMO wireless systems. Our algorithm is optimal in terms of the generalized likelihood ratio test (GLRT). For massive MIMO systems, we show that the expected complexity of our algorithm grows polynomially in the channel coherence time. Simulation results demonstrate significant performance gains of our algorithm compared with suboptimal non-coherent detection algorithms. To the best of our knowledge, this is the first algorithm which efficiently achieves GLRT-optimal non-coherent detections for massive MIMO systems with general constellations.

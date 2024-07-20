@@ -1,0 +1,3 @@
+On Clustering Time Series Using Euclidean Distance and Pearson Correlation
+
+For time series comparisons, it has often been observed that z-score normalized Euclidean distances far outperform the unnormalized variant. In this paper we show that a z-score normalized, squared Euclidean Distance is, in fact, equal to a distance based on Pearson Correlation. This has profound impact on many distance-based classification or clustering methods. In addition to this theoretically sound result we also show that the often used k-Means algorithm formally needs a mod ification to keep the interpretation as Pearson correlation strictly valid. Experimental results demonstrate that in many cases the standard k-Means algorithm generally produces the same results.

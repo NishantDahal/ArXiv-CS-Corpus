@@ -1,0 +1,4 @@
+Predicting The Performance of Minimax and Product in Game-Tree
+
+The discovery that the minimax decision rule performs poorly in some games has sparked interest in possible alternatives to minimax. Until recently, the only games in which minimax was known to perform poorly were games which were mainly of theoretical interest. However, this paper reports results showing poor performance of minimax in a more common game called kalah. For the kalah games tested, a non-minimax decision rule called the product rule performs significantly better than minimax.
+ This paper also discusses a possible way to predict whether or not minimax will perform well in a game when compared to product. A parameter called the rate of heuristic flaw (rhf) has been found to correlate positively with the. performance of product against minimax. Both analytical and experimental results are given that appear to support the predictive power of rhf.

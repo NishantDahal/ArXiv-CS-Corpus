@@ -1,0 +1,4 @@
+Extending Nunchaku to Dependent Type Theory
+
+Nunchaku is a new higher-order counterexample generator based on a sequence of transformations from polymorphic higher-order logic to first-order logic. Unlike its predecessor Nitpick for Isabelle, it is designed as a stand-alone tool, with frontends for various proof assistants. In this short paper, we present some ideas to extend Nunchaku with partial support for dependent types and type classes, to make frontends for Coq and other systems based on dependent type theory more useful.
+

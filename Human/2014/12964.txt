@@ -1,0 +1,3 @@
+Demo Abstract: NILMTK v0.2: A Non-intrusive Load Monitoring Toolkit for Large Scale Data Sets
+
+In this demonstration, we present an open source toolkit for evaluating non-intrusive load monitoring research; a field which aims to disaggregate a household's total electricity consumption into individual appliances. The toolkit contains: a number of importers for existing public data sets, a set of preprocessing and statistics functions, a benchmark disaggregation algorithm and a set of metrics to evaluate the performance of such algorithms. Specifically, this release of the toolkit has been designed to enable the use of large data sets by only loading individual chunks of the whole data set into memory at once for processing, before combining the results of each chunk.

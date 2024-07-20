@@ -1,0 +1,3 @@
+Randomized Ternary Search Tries
+
+This paper presents a new kind of self-balancing ternary search trie that uses a randomized balancing strategy adapted from Aragon and Seidel's randomized binary search trees ("treaps"). After any sequence of insertions and deletions of strings, the tree looks like a ternary search trie built by inserting strings in random order. As a result, the time cost of searching, inserting, or deleting a string of length k in a tree with n strings is at most O(k + log n) with high probability.

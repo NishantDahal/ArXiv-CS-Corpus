@@ -1,0 +1,3 @@
+Critical behavior of the SIS epidemic model with time-dependent infection rate
+
+In this work we study a modified Susceptible-Infected-Susceptible (SIS) model in which the infection rate $λ$ decays exponentially with the number of reinfections $n$, saturating after $n=l$. We find a critical decaying rate $ε_{c}(l)$ above which a finite fraction of the population becomes permanently infected. From the mean-field solution and computer simulations on hypercubic lattices we find evidences that the upper critical dimension is 6 like in the SIR model, which can be mapped in ordinary percolation.

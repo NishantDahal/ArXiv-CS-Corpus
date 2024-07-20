@@ -1,0 +1,3 @@
+Differential Privacy: An Estimation Theory-Based Method for Choosing Epsilon
+
+Differential privacy is achieved by the introduction of Laplacian noise in the response to a query, establishing a precise trade-off between the level of differential privacy and the accuracy of the database response (via the amount of noise introduced). However, the amount of noise to add is typically defined through the scale parameter of the Laplace distribution, whose use may not be so intuitive. In this paper we propose to use two parameters instead, related to the notion of interval estimation, which provide a more intuitive picture of how precisely the true output of a counting query may be gauged from the noise-polluted one (hence, how much the individual's privacy is protected).

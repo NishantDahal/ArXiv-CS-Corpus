@@ -1,0 +1,3 @@
+Learning from Outside the Viability Kernel: Why we Should Build Robots that can Fall with Grace
+
+Despite impressive results using reinforcement learning to solve complex problems from scratch, in robotics this has still been largely limited to model-based learning with very informative reward functions. One of the major challenges is that the reward landscape often has large patches with no gradient, making it difficult to sample gradients effectively. We show here that the robot state-initialization can have a more important effect on the reward landscape than is generally expected. In particular, we show the counter-intuitive benefit of including initializations that are unviable, in other words initializing in states that are doomed to fail.

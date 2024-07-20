@@ -1,0 +1,3 @@
+Routing Games over Time with FIFO policy
+
+We study atomic routing games where every agent travels both along its decided edges and through time. The agents arriving on an edge are first lined up in a \emph{first-in-first-out} queue and may wait: an edge is associated with a capacity, which defines how many agents-per-time-step can pop from the queue's head and enter the edge, to transit for a fixed delay. We show that the best-response optimization problem is not approximable, and that deciding the existence of a Nash equilibrium is complete for the second level of the polynomial hierarchy. Then, we drop the rationality assumption, introduce a behavioral concept based on GPS navigation, and study its worst-case efficiency ratio to coordination.

@@ -1,0 +1,3 @@
+Decentralised Random Number Generation
+
+Decentralised random number generation algorithms suffer from the Last Actor Problem, in which the last participant to reveal their share can manipulate the generated random value by withholding their share. This paper proposes an encrypted share threshold scheme which prevents this attack.

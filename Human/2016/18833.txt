@@ -1,0 +1,3 @@
+A System for Compressive Sensing Signal Reconstruction
+
+An architecture for hardware realization of a system for sparse signal reconstruction is presented. The threshold based reconstruction method is considered, which is further modified in this paper to reduce the system complexity in order to provide easier hardware realization. Instead of using the partial random Fourier transform matrix, the minimization problem is reformulated using only the triangular R matrix from the QR decomposition. The triangular R matrix can be efficiently implemented in hardware without calculating the orthogonal Q matrix. A flexible and scalable realization of matrix R is proposed, such that the size of R changes with the number of available samples and sparsity level.

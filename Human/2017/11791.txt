@@ -1,0 +1,3 @@
+Bayesian LSTMs in medicine
+
+The medical field stands to see significant benefits from the recent advances in deep learning. Knowing the uncertainty in the decision made by any machine learning algorithm is of utmost importance for medical practitioners. This study demonstrates the utility of using Bayesian LSTMs for classification of medical time series. Four medical time series datasets are used to show the accuracy improvement Bayesian LSTMs provide over standard LSTMs. Moreover, we show cherry-picked examples of confident and uncertain classifications of the medical time series. With simple modifications of the common practice for deep learning, significant improvements can be made for the medical practitioner and patient.

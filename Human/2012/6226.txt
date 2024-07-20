@@ -1,0 +1,3 @@
+Deciding Probabilistic Automata Weak Bisimulation in Polynomial Time
+
+Deciding in an efficient way weak probabilistic bisimulation in the context of Probabilistic Automata is an open problem for about a decade. In this work we close this problem by proposing a procedure that checks in polynomial time the existence of a weak combined transition satisfying the step condition of the bisimulation. We also present several extensions of weak combined transitions, such as hyper-transitions and the new concepts of allowed weak combined and hyper-transitions and of equivalence matching, that turn out to be verifiable in polynomial time as well. These results set the ground for the development of more effective compositional analysis algorithms for probabilistic systems.

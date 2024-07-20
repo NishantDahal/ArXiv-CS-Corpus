@@ -1,0 +1,3 @@
+Mutual information matrices are not always positive semi-definite
+
+For discrete random variables X_1,..., X_n we construct an n by n matrix. In the (i,j) entry we put the mutual information I(X_i;X_j) between X_i and X_j. In particular, in the (i,i) entry we put the entropy H(X_i)=I(X_i;X_i) of X_i. This matrix, called the mutual information matrix of (X_1,...,X_n), has been conjectured to be positive semi-definite. In this note, we give counterexamples to the conjecture, and show that the conjecture holds for up to three random variables.

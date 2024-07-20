@@ -1,0 +1,3 @@
+Automatic Annotation of XHTML Pages with Audio Components
+
+In this paper we present Deiush, a multimodal system for browsing hypertext Web documents. The Deiush system is based on our novel approach to automatically annotate hypertext Web documents (i.e. XHTML pages) with browsable audio components. It combines two key technologies: (1) middleware automatic separation of Web documents through structural and semantic analysis which is annotated with audio components, transforming them into XHTML+VoiceXML format to represent multimodal dialog; and (2) Opera Browser, an already standardized browser which we adopt as an interface of the XHTML+VoiceXML output of annotating. This paper describes the annotation technology of Deiush and presents an initial system evaluation.

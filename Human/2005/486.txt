@@ -1,0 +1,3 @@
+Polynomial Synthesis of Asynchronous Automata
+
+Zielonka's theorem shows that each regular set of Mazurkiewicz traces can be implemented as a system of synchronized processes with a distributed control structure called asynchronous automaton. This paper gives a polynomial algorithm for the synthesis of a non-deterministic asynchronous automaton from a regular Mazurkiewicz trace language. This new construction is based on an unfolding approach that improves the complexity of Zielonka's and Pighizzini's techniques in terms of the number of states.

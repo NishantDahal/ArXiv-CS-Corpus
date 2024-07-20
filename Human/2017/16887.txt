@@ -1,0 +1,3 @@
+Spatial random multiple access with multiple departure
+
+We introduce a new model of spatial random multiple access systems with a non-standard departure policy: all arriving messages are distributed uniformly on a finite sphere in the space, and when a successful transmission of a single message occurs, the transmitted message leaves the system together with all its neighbours within a ball of a given radius centred at the message's location. We consider three classes of protocols: centralised protocols and decentralised protocols with either ternary or binary feedback; and analyse their stability. Further, we discuss some asymptotic properties of stable protocols.

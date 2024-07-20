@@ -1,0 +1,3 @@
+CaloriNet: From silhouettes to calorie estimation in private environments
+
+We propose a novel deep fusion architecture, CaloriNet, for the online estimation of energy expenditure for free living monitoring in private environments, where RGB data is discarded and replaced by silhouettes. Our fused convolutional neural network architecture is trainable end-to-end, to estimate calorie expenditure, using temporal foreground silhouettes alongside accelerometer data. The network is trained and cross-validated on a publicly available dataset, SPHERE_RGBD + Inertial_calorie. Results show state-of-the-art minimum error on the estimation of energy expenditure (calories per minute), outperforming alternative, standard and single-modal techniques.

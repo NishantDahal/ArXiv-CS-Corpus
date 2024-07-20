@@ -1,0 +1,3 @@
+Tree-Deletion Pruning in Label-Correcting Algorithms for the Multiobjective Shortest Path Problem
+
+In this paper, we re-evaluate the basic strategies for label correcting algorithms for the multiobjective shortest path (MOSP) problem, i.e., node and label selection. In contrast to common believe, we show that---when carefully implemented---the node-selection strategy usually beats the label-selection strategy. Moreover, we present a new pruning method which is easy to implement and performs very well on real-world road networks. In this study, we test our hypotheses on artificial MOSP instances from the literature with up to 15 objectives and real-world road networks with up to almost 160,000 nodes.

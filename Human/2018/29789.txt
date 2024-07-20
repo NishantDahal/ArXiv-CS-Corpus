@@ -1,0 +1,3 @@
+A Study of the Complexity and Accuracy of Direction of Arrival Estimation Methods Based on GCC-PHAT for a Pair of Close Microphones
+
+This paper investigates the accuracy of various Generalized Cross-Correlation with Phase Transform (GCC-PHAT) methods for a close pair of microphones. We investigate interpolation-based methods and also propose another approach based on Singular Value Decomposition (SVD). All investigated methods are implemented in C code, and the execution time is measured to determine which approach is the most appealing for real-time applications on low-cost embedded hardware.

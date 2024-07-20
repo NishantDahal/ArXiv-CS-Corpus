@@ -1,0 +1,3 @@
+Efficient Natural Evolution Strategies
+
+Efficient Natural Evolution Strategies (eNES) is a novel alternative to conventional evolutionary algorithms, using the natural gradient to adapt the mutation distribution. Unlike previous methods based on natural gradients, eNES uses a fast algorithm to calculate the inverse of the exact Fisher information matrix, thus increasing both robustness and performance of its evolution gradient estimation, even in higher dimensions. Additional novel aspects of eNES include optimal fitness baselines and importance mixing (a procedure for updating the population with very few fitness evaluations). The algorithm yields competitive results on both unimodal and multimodal benchmarks.

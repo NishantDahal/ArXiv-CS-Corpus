@@ -1,0 +1,3 @@
+Impact of MQTT Based Sensor Network Architecture on Delivery Delay Time
+
+The purpose of this study is to present two new architectures of the complexes of embedded systems in the context of the Internet of Things. The proposed new schemes use the MQTT protocol, but provide both an autonomous operation and an online mode. This is achieved by adding one additional layer, which consists of its own MQTT-broker and critical messages handler, so that in case of the Internet access disappearance, the system could continue to respond to changes. The research of message delivery delays has been carried out for the proposed models. The comparative analysis was conducted to identify the advantages and disadvantages of both solutions.

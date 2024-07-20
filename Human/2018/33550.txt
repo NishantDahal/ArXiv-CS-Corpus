@@ -1,0 +1,3 @@
+Computations in Stochastic Acceptors
+
+Machine learning provides algorithms that can learn from data and make inferences or predictions on data. Stochastic acceptors or probabilistic automata are stochastic automata without output that can model components in machine learning scenarios. In this paper, we provide dynamic programming algorithms for the computation of input marginals and the acceptance probabilities in stochastic acceptors. Furthermore, we specify an algorithm for the parameter estimation of the conditional probabilities using the expectation-maximization technique and a more efficient implementation related to the Baum-Welch algorithm.

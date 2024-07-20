@@ -1,0 +1,3 @@
+Finding missing edges in networks based on their community structure
+
+Many edge prediction methods have been proposed, based on various local or global properties of the structure of an incomplete network. Community structure is another significant feature of networks: Vertices in a community are more densely connected than average. It is often true that vertices in the same community have "similar" properties, which suggests that missing edges are more likely to be found within communities than elsewhere. We use this insight to propose a strategy for edge prediction that combines existing edge prediction methods with community detection. We show that this method gives better prediction accuracy than existing edge prediction methods alone.

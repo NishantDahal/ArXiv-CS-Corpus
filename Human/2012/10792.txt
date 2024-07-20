@@ -1,0 +1,4 @@
+Note on Existence and Non-Existence of Large Subsets of Binary Vectors with Similar Distances
+
+We consider vectors from $\{0,1\}^n$. The weight of such a vector $v$ is the sum of the coordinates of $v$. The distance ratio of a set $L$ of vectors is ${\rm dr}(L):=\max \{ρ(x,y):\ x,y \in L\}/ \min \{ρ(x,y):\ x,y \in L,\ x\neq y\},$ where $ρ(x,y)$ is the Hamming distance between $x$ and $y$. We prove that (a) for every constant $λ>1$ there are no positive constants $α$ and $C$ such that every set $K$ of at least $λ^p$ vectors with weight $p$ contains a subset $K'$ with $|K'|\ge |K|^α$ and ${\rm dr}(K')\le C$, % even when $|K|\ge λ$,
+  (b) For a set $K$ of vectors with weight $p$, and a constant $C>2$, there exists $K'\subseteq K$ such that ${\rm dr}(K')\le C$ and $|K'| \ge |K|^α$, where $α= 1/ \lceil \log(p/2)/\log(C/2) \rceil$.

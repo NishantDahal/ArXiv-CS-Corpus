@@ -1,0 +1,4 @@
+Order-Revealing Encryption and the Hardness of Private Learning
+
+An order-revealing encryption scheme gives a public procedure by which two ciphertexts can be compared to reveal the ordering of their underlying plaintexts. We show how to use order-revealing encryption to separate computationally efficient PAC learning from efficient $(ε, δ)$-differentially private PAC learning. That is, we construct a concept class that is efficiently PAC learnable, but for which every efficient learner fails to be differentially private. This answers a question of Kasiviswanathan et al. (FOCS '08, SIAM J. Comput. '11).
+  To prove our result, we give a generic transformation from an order-revealing encryption scheme into one with strongly correct comparison, which enables the consistent comparison of ciphertexts that are not obtained as the valid encryption of any message. We believe this construction may be of independent interest.

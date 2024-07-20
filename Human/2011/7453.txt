@@ -1,0 +1,4 @@
+On the satisfiability of random regular signed SAT formulas
+
+Regular signed SAT is a variant of the well-known satisfiability problem in which the variables can take values in a fixed set V \subset [0,1], and the `literals' have the form "x \le a" or "x \ge a".
+  We answer some open question regarding random regular signed k-SAT formulas: the probability that a random formula is satisfiable increases with |V|; there is a constant upper bound on the ratio m/n of clauses m over variables n, beyond which a random formula is asypmtotically almost never satisfied; for k=2 and V=[0,1], there is a phase transition at m/n=2.

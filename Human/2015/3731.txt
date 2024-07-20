@@ -1,0 +1,3 @@
+Sublinear Column-wise Actions of the Matrix Exponential on Social Networks
+
+We consider stochastic transition matrices from large social and information networks. For these matrices, we describe and evaluate three fast methods to estimate one column of the matrix exponential. The methods are designed to exploit the properties inherent in social networks, such as a power-law degree distribution. Using only this property, we prove that one of our algorithms has a sublinear runtime. We present further experimental evidence showing that all of them run quickly on social networks with billions of edges and accurately identify the largest elements of the column.

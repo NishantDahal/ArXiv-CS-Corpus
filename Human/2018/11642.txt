@@ -1,0 +1,3 @@
+A Note on Polynomial Identity Testing for Depth-3 Circuits
+
+Let $C$ be a depth-3 arithmetic circuit of size at most $s$, computing a polynomial $ f \in \mathbb{F}[x_1,\ldots, x_n] $ (where $\mathbb{F}$ = $\mathbb{Q}$ or $\mathbb{C}$) and the fan-in of the product gates of $C$ is bounded by $d$. We give a deterministic polynomial identity testing algorithm to check whether $f\equiv 0$ or not in time $ 2^d \text{ poly}(n,s) $.

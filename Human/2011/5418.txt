@@ -1,0 +1,6 @@
+Adaptation-Based Programming in Haskell
+
+We present an embedded DSL to support adaptation-based programming (ABP) in Haskell. ABP is an abstract model for defining adaptive values, called adaptives, which adapt in response to some associated feedback. We show how our design choices in Haskell motivate higher-level combinators and constructs and help us derive more complicated compositional adaptives.
+  We also show an important specialization of ABP is in support of reinforcement learning constructs, which optimize adaptive values based on a programmer-specified objective function. This permits ABP users to easily define adaptive values that express uncertainty anywhere in their programs. Over repeated executions, these adaptive values adjust to more efficient ones and enable the user's programs to self optimize.
+  The design of our DSL depends significantly on the use of type classes. We will illustrate, along with presenting our DSL, how the use of type classes can support the gradual evolution of DSLs.
+

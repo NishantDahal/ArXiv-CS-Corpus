@@ -1,0 +1,3 @@
+A Survey on Operational State Complexity
+
+Descriptional complexity is the study of the conciseness of the various models representing formal languages. The state complexity of a regular language is the size, measured by the number of states of the smallest, either deterministic or nondeterministic, finite automaton that recognises it. Operational state complexity is the study of the state complexity of operations over languages. In this survey, we review the state complexities of individual regularity preserving language operations on regular and some subregular languages. Then we revisit the state complexities of the combination of individual operations. We also review methods of estimation and approximation of state complexity of more complex combined operations.

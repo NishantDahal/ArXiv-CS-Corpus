@@ -1,0 +1,3 @@
+A simple application of FIC to model selection
+
+We have recently proposed a new information-based approach to model selection, the Frequentist Information Criterion (FIC), that reconciles information-based and frequentist inference. The purpose of this current paper is to provide a simple example of the application of this criterion and a demonstration of the natural emergence of model complexities with both AIC-like ($N^0$) and BIC-like ($\log N$) scaling with observation number $N$. The application developed is deliberately simplified to make the analysis analytically tractable.

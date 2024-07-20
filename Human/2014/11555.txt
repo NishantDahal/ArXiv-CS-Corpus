@@ -1,0 +1,3 @@
+Writing on dirty flash memory
+
+The most important challenge in the scaling down of flash memory is its increased inter-cell interference (ICI). If side information about ICI is known to the encoder, the flash memory channel can be viewed as similar to Costa's "writing on dirty paper (dirty paper coding)." We first explain why flash memories are dirty due to ICI. We then show that "dirty flash memory" can be changed into "memory with defective cells" model by using only one pre-read operation. The asymmetry between write and erase operations in flash memory plays an important role in this change. Based on the "memory with defective cells" model, we show that additive encoding can significantly improve the probability of decoding failure by using the side information.

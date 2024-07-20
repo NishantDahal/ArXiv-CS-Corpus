@@ -1,0 +1,3 @@
+A Prolog Specification of Giant Number Arithmetic
+
+The tree based representation described in this paper, hereditarily binary numbers, applies recursively a run-length compression mechanism that enables computations limited by the structural complexity of their operands rather than by their bitsizes. While within constant factors from their traditional counterparts for their worst case behavior, our arithmetic operations open the doors for interesting numerical computations, impossible with traditional number representations. We provide a complete specification of our algorithms in the form of a purely declarative Prolog program.

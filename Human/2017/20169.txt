@@ -1,0 +1,3 @@
+A Unified Spectral Method for FPDEs with Two-sided Derivatives; Stability, and Error Analysis
+
+We present the stability and error analysis of the unified Petrov-Galerkin spectral method, developed in \cite{samiee2017Unified}, for linear fractional partial differential equations with two-sided derivatives and constant coefficients in any ($1+d$)-dimensional space-time hypercube, $d = 1, 2, 3, \cdots$, subject to homogeneous Dirichlet initial/boundary conditions. Specifically, we prove the existence and uniqueness of the weak form and perform the corresponding stability and error analysis of the proposed method. Finally, we perform several numerical simulations to compare the theoretical and computational rates of convergence.

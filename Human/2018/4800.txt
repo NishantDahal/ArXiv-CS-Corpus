@@ -1,0 +1,3 @@
+Generic Description of Well-Scoped, Well-Typed Syntaxes
+
+We adapt the technique of type-generic programming via descriptions pointing into a universe to the domain of typed languages with binders and variables, implementing a notion of "syntax-generic programming" in a dependently typed programming language. We present an Agda library implementation of type-preserving renaming and substitution (including proofs about their behaviour) "once and for all" over all applicable languages using our technique.

@@ -1,0 +1,3 @@
+Systematic study of color spaces and components for the segmentation of sky/cloud images
+
+Sky/cloud imaging using ground-based Whole Sky Imagers (WSI) is a cost-effective means to understanding cloud cover and weather patterns. The accurate segmentation of clouds in these images is a challenging task, as clouds do not possess any clear structure. Several algorithms using different color models have been proposed in the literature. This paper presents a systematic approach for the selection of color spaces and components for optimal segmentation of sky/cloud images. Using mainly principal component analysis (PCA) and fuzzy clustering for evaluation, we identify the most suitable color components for this task.

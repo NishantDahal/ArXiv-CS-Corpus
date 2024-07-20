@@ -1,0 +1,3 @@
+Conditional Tables in practice
+
+Due to the ever increasing importance of the internet, interoperability of heterogeneous data sources is as well of ever increasing importance. Interoperability can be achieved e.g. through data integration and data exchange. Common to both approaches is the need for the DBMS to be able to store and query incomplete databases. In this report we present PossDB, a DBMS capable of storing and querying incomplete databases. The system is wrapper over PostgreSQL, and the query language is an extension of a subset of standard SQL. Our experimental results show that our system scales well, actually better than comparable systems.

@@ -1,0 +1,5 @@
+Merging Multiparty Protocols in Multiparty Choreographies
+
+Choreography-based programming is a powerful paradigm for defining  communication-based systems from a global viewpoint. A choreography can be checked against multiparty protocol specifications, given as behavioural types, that may be instantiated indefinitely  at runtime. Each protocol instance is started with a  synchronisation among the involved peers. 
+  We analyse a simple transformation from a choreography with a possibly  unbounded number of protocol instantiations to a choreography  instantiating a single protocol, which is the merge of the original  ones. This gives an effective methodology for obtaining new protocols  by composing existing ones. Moreover, by removing all synchronisations  required for starting protocol instances, our transformation reduces  the number of communications and resources needed to execute a choreography.
+

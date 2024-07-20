@@ -1,0 +1,4 @@
+Critical Graphs for Minimum Vertex Cover
+
+In the context of the chromatic-number problem, a critical graph is an instance where the deletion of any element would decrease the graph's chromatic number. Such instances have shown to be interesting objects of study for deepen the understanding of the optimization problem.
+  This work introduces critical graphs in context of Minimum Vertex Cover. We demonstrate their potential for the generation of larger graphs with hidden a priori known solutions. Firstly, we propose a parametrized graph-generation process which preserves the knowledge of the minimum cover. Secondly, we conduct a systematic search for small critical graphs. Thirdly, we illustrate the applicability for benchmarking purposes by reporting on a series of experiments using the state-of-the-art heuristic solver NuMVC.

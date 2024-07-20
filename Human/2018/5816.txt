@@ -1,0 +1,3 @@
+Modelling and Analysing the Landing Gear System: a Solution with Event-B/Rodin
+
+This paper presents a solution to the landing gear system case study using Event-B and Rodin. We study the whole system (both the digital part and the controlled part). We use feature augmentation to build an abstract model of the whole system and structural refinement to detail more specifically the digital part. The required safety properties are formalised and proved. We propose a specific approach to deal with a family of reachability properties. The experimentations conducted during the study are supported by the Rodin tools. We show that the presented solution is systematic and it can be applied to similar case studies.

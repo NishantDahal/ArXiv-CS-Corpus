@@ -1,0 +1,3 @@
+Faster Lightweight Lempel-Ziv Parsing
+
+We present an algorithm that computes the Lempel-Ziv decomposition in $O(n(\logσ+ \log\log n))$ time and $n\logσ+ εn$ bits of space, where $ε$ is a constant rational parameter, $n$ is the length of the input string, and $σ$ is the alphabet size. The $n\logσ$ bits in the space bound are for the input string itself which is treated as read-only.

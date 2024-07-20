@@ -1,0 +1,3 @@
+Deep Radial Kernel Networks: Approximating Radially Symmetric Functions with Deep Networks
+
+We prove that a particular deep network architecture is more efficient at approximating radially symmetric functions than the best known 2 or 3 layer networks. We use this architecture to approximate Gaussian kernel SVMs, and subsequently improve upon them with further training. The architecture and initial weights of the Deep Radial Kernel Network are completely specified by the SVM and therefore sidesteps the problem of empirically choosing an appropriate deep network architecture.

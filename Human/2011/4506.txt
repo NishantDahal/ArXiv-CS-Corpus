@@ -1,0 +1,3 @@
+Reversibility in Massive Concurrent Systems
+
+Reversing a (forward) computation history means undoing the history. In concurrent systems, undoing the history is not performed in a deterministic way but in a causally consistent fashion, where states that are reached during a backward computation are states that could have been reached during the computation history by just performing independent actions in a different order.

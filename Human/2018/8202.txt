@@ -1,0 +1,3 @@
+A Channel-based Exact Inference Algorithm for Bayesian Networks
+
+This paper describes a new algorithm for exact Bayesian inference that is based on a recently proposed compositional semantics of Bayesian networks in terms of channels. The paper concentrates on the ideas behind this algorithm, involving a linearisation (`stretching') of the Bayesian network, followed by a combination of forward state transformation and backward predicate transformation, while evidence is accumulated along the way. The performance of a prototype implementation of the algorithm in Python is briefly compared to a standard implementation (pgmpy): first results show competitive performance.

@@ -1,0 +1,3 @@
+Deep Reinforcement Learning for Resource Allocation in V2V Communications
+
+In this article, we develop a decentralized resource allocation mechanism for vehicle-to-vehicle (V2V) communication systems based on deep reinforcement learning. Each V2V link is considered as an agent, making its own decisions to find optimal sub-band and power level for transmission. Since the proposed method is decentralized, the global information is not required for each agent to make its decisions, hence the transmission overhead is small. From the simulation results, each agent can learn how to satisfy the V2V constraints while minimizing the interference to vehicle-to-infrastructure (V2I) communications.

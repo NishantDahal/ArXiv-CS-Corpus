@@ -1,0 +1,3 @@
+Microservices: Granularity vs. Performance
+
+Microservice Architectures (MA) have the potential to increase the agility of software development. In an era where businesses require software applications to evolve to support software emerging requirements, particularly for Internet of Things (IoT) applications, we examine the issue of microservice granularity and explore its effect upon application latency. Two approaches to microservice deployment are simulated; the first with microservices in a single container, and the second with microservices partitioned across separate containers. We observed a neglibible increase in service latency for the multiple container deployment over a single container.

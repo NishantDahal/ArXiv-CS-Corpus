@@ -1,0 +1,3 @@
+Lazy Probabilistic Model Checking without Determinisation
+
+The bottleneck in the quantitative analysis of Markov chains and Markov decision processes against specifications given in LTL or as some form of nondeterministic Büchi automata is the inclusion of a determinisation step of the automaton under consideration. In this paper, we show that full determinisation can be avoided: subset and breakpoint constructions suffice. We have implemented our approach---both explicit and symbolic versions---in a prototype tool. Our experiments show that our prototype can compete with mature tools like PRISM.

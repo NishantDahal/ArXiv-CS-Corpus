@@ -1,0 +1,3 @@
+Depth versus Breadth in Convolutional Polar Codes
+
+Polar codes were introduced in 2009 by Arikan as the first efficient encoding and decoding scheme that is capacity achieving for symmetric binary-input memoryless channels. Recently, this code family was extended by replacing the block-structured polarization step of polar codes by a convolutional structure. This article presents a numerical exploration of this so-called convolutional polar codes family to find efficient generalizations of polar codes, both in terms of decoding speed and decoding error probability. The main conclusion drawn from our study is that increasing the convolution depth is more efficient than increasing the polarization kernel's breadth as previously explored.

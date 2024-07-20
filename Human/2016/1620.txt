@@ -1,0 +1,4 @@
+Complexity of Manipulating Sequential Allocation
+
+Sequential allocation is a simple allocation mechanism in which agents are given pre-specified turns and each agents gets the most preferred item that is still available. It has long been known that sequential allocation is not strategyproof.
+  Bouveret and Lang (2014) presented a polynomial-time algorithm to compute a best response of an agent with respect to additively separable utilities and claimed that (1) their algorithm correctly finds a best response, and (2) each best response results in the same allocation for the manipulator. We show that both claims are false via an example. We then show that in fact the problem of computing a best response is NP-complete. On the other hand, the insights and results of Bouveret and Lang (2014) for the case of two agents still hold.

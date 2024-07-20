@@ -1,0 +1,3 @@
+Approximate Minimum-Weight Matching with Outliers under Translation
+
+Our goal is to compare two planar point sets by finding subsets of a given size such that a minimum-weight matching between them has the smallest weight. This can be done by a translation of one set that minimizes the weight of the matching. We give efficient algorithms (a) for finding approximately optimal matchings, when the cost of a matching is the $L_p$-norm of the tuple of the Euclidean distances between the pairs of matched points, for any $p\in [1,\infty]$, and (b)~for constructing small-size approximate minimization (or matching) diagrams: partitions of the translation space into regions, together with an approximate optimal matching for each region.

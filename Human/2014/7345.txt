@@ -1,0 +1,3 @@
+Real-Time Impulse Noise Suppression from Images Using an Efficient Weighted-Average Filtering
+
+In this paper, we propose a method for real-time high density impulse noise suppression from images. In our method, we first apply an impulse detector to identify the corrupted pixels and then employ an innovative weighted-average filter to restore them. The filter takes the nearest neighboring interpolated image as the initial image and computes the weights according to the relative positions of the corrupted and uncorrupted pixels. Experimental results show that the proposed method outperforms the best existing methods in both PSNR measure and visual quality and is quite suitable for real-time applications.

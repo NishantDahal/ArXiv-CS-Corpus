@@ -1,0 +1,3 @@
+Evidence-invariant Sensitivity Bounds
+
+The sensitivities revealed by a sensitivity analysis of a probabilistic network typically depend on the entered evidence. For a real-life network therefore, the analysis is performed a number of times, with different evidence. Although efficient algorithms for sensitivity analysis exist, a complete analysis is often infeasible because of the large range of possible combinations of observations. In this paper we present a method for studying sensitivities that are invariant to the evidence entered. Our method builds upon the idea of establishing bounds between which a parameter can be varied without ever inducing a change in the most likely value of a variable of interest.

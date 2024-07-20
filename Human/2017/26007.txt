@@ -1,0 +1,3 @@
+Polar Coding for the Large Hadron Collider: Challenges in Code Concatenation
+
+In this work, we present a concatenated repetition-polar coding scheme that is aimed at applications requiring highly unbalanced unequal bit-error protection, such as the Beam Interlock System of the Large Hadron Collider at CERN. Even though this concatenation scheme is simple, it reveals significant challenges that may be encountered when designing a concatenated scheme that uses a polar code as an inner code, such as error correlation and unusual decision log-likelihood ratio distributions. We explain and analyze these challenges and we propose two ways to overcome them.

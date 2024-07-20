@@ -1,0 +1,3 @@
+Amortized $\tilde{O}(|V|)$-Delay Algorithm for Listing Chordless Cycles in Undirected Graphs
+
+Chordless cycles are very natural structures in undirected graphs, with an important history and distinguished role in graph theory. Motivated also by previous work on the classical problem of listing cycles, we study how to list chordless cycles. The best known solution to list all the $C$ chordless cycles contained in an undirected graph $G = (V,E)$ takes $O(|E|^2 +|E|\cdot C)$ time. In this paper we provide an algorithm taking $\tilde{O}(|E| + |V |\cdot C)$ time. We also show how to obtain the same complexity for listing all the $P$ chordless $st$-paths in $G$ (where $C$ is replaced by $P$ ).

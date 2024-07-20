@@ -1,0 +1,3 @@
+The combinatorial algorithm for computing $π(x)$
+
+This paper describes recent advances in the combinatorial method for computing $π(x)$, the number of primes $\leq x$. In particular, the memory usage has been reduced by a factor of $\log x$, and modifications for shared- and distributed-memory parallelism have been incorporated. The resulting method computes $π(x)$ with complexity $O(x^{2/3}\mathrm{log}^{-2}x)$ in time and $O(x^{1/3}\mathrm{log}^{2}x)$ in space. The algorithm has been implemented and used to compute $π(10^n)$ for $1 \leq n \leq 26$ and $π(2^m)$ for $1\leq m \leq 86$. The mathematics presented here is consistent with and builds on that of previous authors.

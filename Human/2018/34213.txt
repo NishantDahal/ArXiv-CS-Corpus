@@ -1,0 +1,7 @@
+3-Manifold triangulations with small treewidth
+
+Motivated by fixed-parameter tractable (FPT) problems in computational topology, we consider the treewidth of a compact, connected 3-manifold $M$ defined by \[
+  \operatorname{tw}(M) = \min\{\operatorname{tw}(Γ(\mathcal{T})):\mathcal{T}~\text{is a triangulation of }M\}, \] where $Γ(\mathcal{T})$ denotes the dual graph of $\mathcal{T}$. In this setting the relationship between the topology of a 3-manifold and its treewidth is of particular interest.
+  First, as a corollary of work of Jaco and Rubinstein, we prove that for any closed, orientable 3-manifold $M$ the treewidth $\operatorname{tw}(M)$ is at most $4\mathfrak{g}(M)-2$ where $\mathfrak{g}(M)$ denotes the Heegaard genus of $M$. In combination with our earlier work with Wagner, this yields that for non-Haken manifolds the Heegaard genus and the treewidth are within a constant factor.
+  Second, we characterize all 3-manifolds of treewidth one: These are precisely the lens spaces and a single other Seifert fibered space. Furthermore, we show that all remaining orientable Seifert fibered spaces over the 2-sphere or a non-orientable surface have treewidth two. In particular, for every spherical 3-manifold we exhibit a triangulation of treewidth at most two.
+  Our results further validate the parameter of treewidth (and other related parameters such as cutwidth, or congestion) to be useful for topological computing, and also shed more light on the scope of existing FPT algorithms in the field.

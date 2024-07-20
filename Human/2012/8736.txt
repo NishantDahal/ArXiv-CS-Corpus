@@ -1,0 +1,3 @@
+Semisupervised Classifier Evaluation and Recalibration
+
+How many labeled examples are needed to estimate a classifier's performance on a new dataset? We study the case where data is plentiful, but labels are expensive. We show that by making a few reasonable assumptions on the structure of the data, it is possible to estimate performance curves, with confidence bounds, using a small number of ground truth labels. Our approach, which we call Semisupervised Performance Evaluation (SPE), is based on a generative model for the classifier's confidence scores. In addition to estimating the performance of classifiers on new datasets, SPE can be used to recalibrate a classifier by re-estimating the class-conditional confidence distributions.

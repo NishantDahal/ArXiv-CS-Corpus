@@ -1,0 +1,3 @@
+(1, k)-Swap Local Search for Maximum Clique Problem
+
+Given simple undirected graph G = (V, E), the Maximum Clique Problem(MCP) is that of finding a maximum-cardinality subset Q of V such that any two vertices in Q are adjacent. We present a modified local search algorithm for this problem. Our algorithm build some maximal solution and can determine in polynomial time if a maximal solution can be improved by replacing a single vertex with k, k > 1, others. We test our algorithms on DIMACS[5], Sloane[15], BHOSLIB[1], Iovanella[8] and our random instances.

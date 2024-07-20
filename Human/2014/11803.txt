@@ -1,0 +1,3 @@
+Labelings for Decreasing Diagrams
+
+This article is concerned with automating the decreasing diagrams technique of van Oostrom for establishing confluence of term rewrite systems. We study abstract criteria that allow to lexicographically combine labelings to show local diagrams decreasing. This approach has two immediate benefits. First, it allows to use labelings for linear rewrite systems also for left-linear ones, provided some mild conditions are satisfied. Second, it admits an incremental method for proving confluence which subsumes recent developments in automating decreasing diagrams. The techniques proposed in the article have been implemented and experimental results demonstrate how, e.g., the rule labeling benefits from our contributions.

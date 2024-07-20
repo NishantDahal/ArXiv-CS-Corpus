@@ -1,0 +1,3 @@
+Lagrange's Theorem for Binary Squares
+
+We show how to prove theorems in additive number theory using a decision procedure based on finite automata. Among other things, we obtain the following analogue of Lagrange's theorem: every natural number > 686 is the sum of at most 4 natural numbers whose canonical base-2 representation is a binary square, that is, a string of the form xx for some block of bits x. Here the number 4 is optimal. While we cannot embed this theorem itself in a decidable theory, we show that stronger lemmas that imply that the theorem can be embedded in decidable theories, and show how automated methods can be used to search for these stronger lemmas.

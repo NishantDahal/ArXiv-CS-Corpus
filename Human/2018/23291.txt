@@ -1,0 +1,3 @@
+Cost-Sensitive Learning for Predictive Maintenance
+
+In predictive maintenance, model performance is usually assessed by means of precision, recall, and F1-score. However, employing the model with best performance, e.g. highest F1-score, does not necessarily result in minimum maintenance cost, but can instead lead to additional expenses. Thus, we propose to perform model selection based on the economic costs associated with the particular maintenance application. We show that cost-sensitive learning for predictive maintenance can result in significant cost reduction and fault tolerant policies, since it allows to incorporate various business constraints and requirements.

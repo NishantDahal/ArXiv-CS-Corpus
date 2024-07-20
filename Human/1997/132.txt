@@ -1,0 +1,5 @@
+Evaluating Parsing Schemes with Entropy Indicators
+
+This paper introduces an objective metric for evaluating a parsing scheme. It is based on Shannon's original work with letter sequences, which can be extended to part-of-speech tag sequences. It is shown that this regular language is an inadequate model for natural language, but a representation is used that models language slightly higher in the Chomsky hierarchy.
+  We show how the entropy of parsed and unparsed sentences can be measured. If the entropy of the parsed sentence is lower, this indicates that some of the structure of the language has been captured.
+  We apply this entropy indicator to support one particular parsing scheme that effects a top down segmentation. This approach could be used to decompose the parsing task into computationally more tractable subtasks. It also lends itself to the extraction of predicate/argument structure.

@@ -1,0 +1,3 @@
+Hardened Paxos Through Consistency Validation
+
+Due to the emergent adoption of distributed systems when building applications, demand for reliability and availability has increased. These properties can be achieved through replication techniques using middleware algorithms that must be capable of tolerating faults. Certain faults such as arbitrary faults, however, may be more difficult to tolerate, resulting in more complex and resource intensive algorithms that end up being not so practical to use. We propose and experiment with the use of consistency validation techniques to harden a benign fault-tolerant Paxos, thus being able to detect and tolerate non-malicious arbitrary faults.

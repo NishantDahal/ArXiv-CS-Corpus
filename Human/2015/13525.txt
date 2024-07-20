@@ -1,0 +1,3 @@
+Modeling of anechoich chambers with equivalent materials and equivalent sources
+
+Numerical simulation of anechoic chambers is a hot topic since it can provide useful data about the performance of the EMC site. However, the mathematical nature of the problem, the physical dimensions of the simulated sites and the frequency ranges pose nontrivial challenges to the simulation. Computational requirements in particular will quickly become unmanageable if adequate techniques are not employed. In this work we describe a novel approach, based on equivalent elements, that enables the simulation of large chambers with modest computational resources. The method is then validated against real measurement results.

@@ -1,0 +1,3 @@
+Are random axioms useful?
+
+The famous Gödel incompleteness theorem says that for every sufficiently rich formal theory (containing formal arithmetic in some natural sense) there exist true unprovable statements. Such statements would be natural candidates for being added as axioms, but where can we obtain them? One classical (and well studied) approach is to add (to some theory T) an axiom that claims the consistency of T. In this note we discuss the other one (motivated by Chaitin's version of the Gödel theorem) and show that it is not really useful (in the sense that it does not help us to prove new interesting theorems), at least if we are not limiting the proof complexity. We discuss also some related questions.

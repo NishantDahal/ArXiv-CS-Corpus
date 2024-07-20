@@ -1,0 +1,6 @@
+Two Compact Incremental Prime Sieves
+
+A prime sieve is an algorithm that finds the primes up to a bound $n$. We say that a prime sieve is incremental, if it can quickly determine if $n+1$ is prime after having found all primes up to $n$. We say a sieve is compact if it uses roughly $\sqrt{n}$ space or less. In this paper we present two new results:
+  (1) We describe the rolling sieve, a practical, incremental prime sieve that takes $O(n\log\log n)$ time and $O(\sqrt{n}\log n)$ bits of space, and
+  (2) We show how to modify the sieve of Atkin and Bernstein (2004) to obtain a sieve that is simultaneously sublinear, compact, and incremental.
+  The second result solves an open problem given by Paul Pritchard in 1994.

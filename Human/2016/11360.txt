@@ -1,0 +1,3 @@
+Derivative-Based Diagnosis of Regular Expression Ambiguity
+
+Regular expressions are often ambiguous. We present a novel method based on Brzozowski's derivatives to aid the user in diagnosing ambiguous regular expressions. We introduce a derivative-based finite state transducer to generate parse trees and minimal counter-examples. The transducer can be easily customized to either follow the POSIX or Greedy disambiguation policy and based on a finite set of examples it is possible to examine if there are any differences among POSIX and Greedy.

@@ -1,0 +1,3 @@
+An asymptotically optimal, online algorithm for weighted random sampling with replacement
+
+This paper presents a novel algorithm solving the classic problem of generating a random sample of size s from population of size n with non-uniform probabilities. The sampling is done with replacement. The algorithm requires constant additional memory, and works in O(n) time (even when s >> n, in which case the algorithm produces a list containing, for every population member, the number of times it has been selected for sample). The algorithm works online, and as such is well-suited to processing streams. In addition, a novel method of mass-sampling from any discrete distribution using the algorithm is presented.

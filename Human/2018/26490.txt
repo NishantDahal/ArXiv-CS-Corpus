@@ -1,0 +1,3 @@
+Distinct Sampling on Streaming Data with Near-Duplicates
+
+In this paper we study how to perform distinct sampling in the streaming model where data contain near-duplicates. The goal of distinct sampling is to return a distinct element uniformly at random from the universe of elements, given that all the near-duplicates are treated as the same element. We also extend the result to the sliding window cases in which we are only interested in the most recent items. We present algorithms with provable theoretical guarantees for datasets in the Euclidean space, and also verify their effectiveness via an extensive set of experiments.

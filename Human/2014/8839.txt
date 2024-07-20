@@ -1,0 +1,3 @@
+Restpark: Minimal RESTful API for Retrieving RDF Triples
+
+How do RDF datasets currently get published on the Web? They are either available as large RDF files, which need to be downloaded and processed locally, or they exist behind complex SPARQL endpoints. By providing a RESTful API that can access triple data, we allow users to query a dataset through a simple interface based on just a couple of HTTP parameters. If RDF resources were published this way we could quickly build applications that depend on these datasets, without having to download and process them locally. This is what Restpark is: a set of HTTP GET parameters that servers need to handle, and respond with JSON-LD.

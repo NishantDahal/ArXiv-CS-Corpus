@@ -1,0 +1,3 @@
+Incremental Maintenance of Maximal Cliques in a Dynamic Graph
+
+We consider the maintenance of the set of all maximal cliques in a dynamic graph that is changing through the addition or deletion of edges. We present nearly tight bounds on the magnitude of change in the set of maximal cliques, as well as the first change-sensitive algorithms for clique maintenance, whose runtime is proportional to the magnitude of the change in the set of maximal cliques. We present experimental results showing these algorithms are efficient in practice and are faster than prior work by two to three orders of magnitude.

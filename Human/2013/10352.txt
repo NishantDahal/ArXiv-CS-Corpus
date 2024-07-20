@@ -1,0 +1,4 @@
+Fine-grained Categorization -- Short Summary of our Entry for the ImageNet Challenge 2012
+
+In this paper, we tackle the problem of visual categorization of dog breeds, which is a surprisingly challenging task due to simultaneously present low interclass distances and high intra-class variances. Our approach combines several techniques well known in our community but often not utilized for fine-grained recognition:
+  (1) automatic segmentation, (2) efficient part detection, and (3) combination of multiple features. In particular, we demonstrate that a simple head detector embedded in an off-the-shelf recognition pipeline can improve recognition accuracy quite significantly, highlighting the importance of part features for fine-grained recognition tasks. Using our approach, we achieved a 24.59% mean average precision performance on the Stanford dog dataset.

@@ -1,0 +1,3 @@
+Computing the Unique Information
+
+Given a pair of predictor variables and a response variable, how much information do the predictors have about the response, and how is this information distributed between unique, redundant, and synergistic components? Recent work has proposed to quantify the unique component of the decomposition as the minimum value of the conditional mutual information over a constrained set of information channels. We present an efficient iterative divergence minimization algorithm to solve this optimization problem with convergence guarantees and evaluate its performance against other techniques.

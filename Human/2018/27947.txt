@@ -1,0 +1,3 @@
+Comparison of U-net-based Convolutional Neural Networks for Liver Segmentation in CT
+
+Various approaches for liver segmentation in CT have been proposed: Besides statistical shape models, which played a major role in this research area, novel approaches on the basis of convolutional neural networks have been introduced recently. Using a set of 219 liver CT datasets with reference segmentations from liver surgery planning, we evaluate the performance of several neural network classifiers based on 2D and 3D U-net architectures. An interesting observation is that slice-wise approaches perform surprisingly well, with mean and median Dice coefficients above 0.97, and may be preferable over 3D approaches given current hardware and software limitations.

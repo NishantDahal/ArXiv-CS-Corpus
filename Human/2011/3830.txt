@@ -1,0 +1,3 @@
+K-sort: A new sorting algorithm that beats Heap sort for n <= 70 lakhs!
+
+Sundararajan and Chakraborty (2007) introduced a new version of Quick sort removing the interchanges. Khreisat (2007) found this algorithm to be competing well with some other versions of Quick sort. However, it uses an auxiliary array thereby increasing the space complexity. Here, we provide a second version of our new sort where we have removed the auxiliary array. This second improved version of the algorithm, which we call K-sort, is found to sort elements faster than Heap sort for an appreciably large array size (n <= 70,00,000) for uniform U[0, 1] inputs.

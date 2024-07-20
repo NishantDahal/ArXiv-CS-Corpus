@@ -1,0 +1,3 @@
+POD-based reduced-order model of an eddy-current levitation problem
+
+The accurate and efficient treatment of eddy-current problems with movement is still a challenge. Very few works applying reduced-order models are available in the literature. In this paper, we propose a proper-orthogonal-decomposition reduced-order model to handle these kind of motional problems. A classical magnetodynamic finite element formulation based on the magnetic vector potential is used as reference and to build up the reduced models. Two approaches are proposed. The TEAM workshop problem 28 is chosen as a test case for validation. Results are compared in terms of accuracy and computational cost.

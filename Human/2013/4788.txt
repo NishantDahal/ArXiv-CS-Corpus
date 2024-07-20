@@ -1,0 +1,3 @@
+Sparsity Averaging for Compressive Imaging
+
+We discuss a novel sparsity prior for compressive imaging in the context of the theory of compressed sensing with coherent redundant dictionaries, based on the observation that natural images exhibit strong average sparsity over multiple coherent frames. We test our prior and the associated algorithm, based on an analysis reweighted $\ell_1$ formulation, through extensive numerical simulations on natural images for spread spectrum and random Gaussian acquisition schemes. Our results show that average sparsity outperforms state-of-the-art priors that promote sparsity in a single orthonormal basis or redundant frame, or that promote gradient sparsity. Code and test data are available at https://github.com/basp-group/sopt.

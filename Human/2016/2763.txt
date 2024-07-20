@@ -1,0 +1,3 @@
+A Neural Network Anomaly Detector Using the Random Cluster Model
+
+The random cluster model is used to define an upper bound on a distance measure as a function of the number of data points to be classified and the expected value of the number of classes to form in a hybrid K-means and regression classification methodology, with the intent of detecting anomalies. Conditions are given for the identification of classes which contain anomalies and individual anomalies within identified classes. A neural network model describes the decision region-separating surface for offline storage and recall in any new anomaly detection.

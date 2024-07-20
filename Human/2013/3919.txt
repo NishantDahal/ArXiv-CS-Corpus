@@ -1,0 +1,3 @@
+Recovery of bilevel causal signals with finite rate of innovation using positive sampling kernels
+
+Bilevel signal $x$ with maximal local rate of innovation $R$ is a continuous-time signal that takes only two values 0 and 1 and that there is at most one transition position in any time period of 1/R.In this note, we introduce a recovery method for bilevel causal signals $x$ with maximal local rate of innovation $R$ from their uniform samples $x*h(nT), n\ge 1$, where the sampling kernel $h$ is causal and positive on $(0, T)$, and the sampling rate $τ:=1/T$ is at (or above) the maximal local rate of innovation $R$. We also discuss stability of the bilevel signal recovery procedure in the presence of bounded noises.

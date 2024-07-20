@@ -1,0 +1,3 @@
+ConeRANK: Ranking as Learning Generalized Inequalities
+
+We propose a new data mining approach in ranking documents based on the concept of cone-based generalized inequalities between vectors. A partial ordering between two vectors is made with respect to a proper cone and thus learning the preferences is formulated as learning proper cones. A pairwise learning-to-rank algorithm (ConeRank) is proposed to learn a non-negative subspace, formulated as a polyhedral cone, over document-pair differences. The algorithm is regularized by controlling the `volume' of the cone. The experimental studies on the latest and largest ranking dataset LETOR 4.0 shows that ConeRank is competitive against other recent ranking approaches.

@@ -1,0 +1,3 @@
+Improved Content Based Image Watermarking
+
+This paper presents a robust and transparent scheme of watermarking that exploits the human visual systems' sensitivity to frequency, along with local image characteristics obtained from the spatial domain. The underlying idea is generating a visual mask based on the visual systems' perception of image content. This mask is used to embed a decimal sequence while keeping its amplitude below the distortion sensitivity of the image pixel. We consider texture, luminance, corner and the edge information in the image to generate a mask that makes the addition of the watermark imperceptible to the human eye.

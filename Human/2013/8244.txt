@@ -1,0 +1,3 @@
+Machine Code Optimization - Improving Executable Object Code
+
+This dissertation explores classes of compiler optimization techniques that are applicable late in the compilation process, after all executable code for a program has been linked. I concentrate on techniques which, for various reasons, cannot be applied earlier in the compilation process. In addition to a theoretical treatment of this class of optimization techniques, this dissertation reports on an implementation of these techniques in a production environment. I describe the details of the implementation which allows these techniques to be re-targeted easily and report on improvements gained when optimizing production software.

@@ -1,0 +1,4 @@
+How to Build an RSS Feed using ASP
+
+RSS is a XML based format. The Current popular version of RSS is RSS version 2.0. The purpose of adding an RSS feed to your site is to show if anything new is added to the site. For example, if a new article or blog or news item is added to your site that should automatically appear in the RSS feed so that the visitors/ RSS readers will automatically get updated about this new addition. The RSS feed is also called RSS channel.
+  There are two main elements of the RSS XML file, one is the header or channel element that describes the details about the site/feeder and other is the body or item element that describes the consists of individual articles/entries updated in the site. As the format of the RSS feed file is pretty simple, it can be coded in any language, ASP, PHP or anything of that sort. We will build an RSS feeder using classical ASP (Active Server Pages) code in this article.

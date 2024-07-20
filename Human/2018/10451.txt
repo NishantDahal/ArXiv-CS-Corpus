@@ -1,0 +1,3 @@
+Programming Discrete Distributions with Chemical Reaction Networks
+
+We explore the range of probabilistic behaviours that can be engineered with Chemical Reaction Networks (CRNs). We show that at steady state CRNs are able to "program" any distribution with finite support in $\mathbb{N}^m$, with $m \geq 1$. Moreover, any distribution with countable infinite support can be approximated with arbitrarily small error under the $L^1$ norm. We also give optimized schemes for special distributions, including the uniform distribution. Finally, we formulate a calculus to compute on distributions that is complete for finite support distributions, and can be compiled to a restricted class of CRNs that at steady state realize those distributions.

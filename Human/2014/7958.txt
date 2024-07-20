@@ -1,0 +1,3 @@
+Counting Markov Blanket Structures
+
+Learning Markov blanket (MB) structures has proven useful in performing feature selection, learning Bayesian networks (BNs), and discovering causal relationships. We present a formula for efficiently determining the number of MB structures given a target variable and a set of other variables. As expected, the number of MB structures grows exponentially. However, we show quantitatively that there are many fewer MB structures that contain the target variable than there are BN structures that contain it. In particular, the ratio of BN structures to MB structures appears to increase exponentially in the number of variables.

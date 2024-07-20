@@ -1,0 +1,3 @@
+Genetic Algorithms for Mentor-Assisted Evaluation Function Optimization
+
+In this paper we demonstrate how genetic algorithms can be used to reverse engineer an evaluation function's parameters for computer chess. Our results show that using an appropriate mentor, we can evolve a program that is on par with top tournament-playing chess programs, outperforming a two-time World Computer Chess Champion. This performance gain is achieved by evolving a program with a smaller number of parameters in its evaluation function to mimic the behavior of a superior mentor which uses a more extensive evaluation function. In principle, our mentor-assisted approach could be used in a wide range of problems for which appropriate mentors are available.

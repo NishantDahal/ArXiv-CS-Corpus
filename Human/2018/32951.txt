@@ -1,0 +1,3 @@
+Upper Bound on Normalized Maximum Likelihood Codes for Gaussian Mixture Models
+
+This paper shows that the normalized maximum likelihood~(NML) code-length calculated in [1] is an upper bound on the NML code-length strictly calculated for the Gaussian Mixture Model. When we use this upper bound on the NML code-length, we must change the scale of the data sequence to satisfy the restricted domain. However, we also show that the algorithm for model selection is essentially universal, regardless of the scale conversion of the data in Gaussian Mixture Models, and that, consequently, the experimental results in [1] can be used as they are. In addition to this, we correct the NML code-length in [1] for generalized logistic distributions.

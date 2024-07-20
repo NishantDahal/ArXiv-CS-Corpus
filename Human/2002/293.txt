@@ -1,0 +1,3 @@
+Modulo Three Problem With A Cellular Automaton Solution
+
+An important global property of a bit string is the number of ones in it. It has been found that the parity (odd or even) of this number can be found by a sequence of deterministic, translational invariant cellular automata with parallel update in succession for a total of O(N^2) time. In this paper, we discover a way to check if this number is divisible by three using the same kind of cellular automata in O(N^3) time. We also speculate that the method described here could be generalized to check if it is divisible by four and other positive integers.

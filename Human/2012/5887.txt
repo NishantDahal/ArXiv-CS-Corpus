@@ -1,0 +1,3 @@
+On Formal Specification of Maple Programs
+
+This paper is an example-based demonstration of our initial results on the formal specification of programs written in the computer algebra language MiniMaple (a substantial subset of Maple with slight extensions). The main goal of this work is to define a verification framework for MiniMaple. Formal specification of MiniMaple programs is rather complex task as it supports non-standard types of objects, e.g. symbols and unevaluated expressions, and additional functions and predicates, e.g. runtime type tests etc. We have used the specification language to specify various computer algebra concepts respective objects of the Maple package DifferenceDifferential developed at our institute.

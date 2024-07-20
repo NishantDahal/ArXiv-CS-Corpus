@@ -1,0 +1,4 @@
+Simulating Special but Natural Quantum Circuits
+
+We identify a sub-class of BQP that captures certain structural commonalities among many quantum algorithms including Shor's algorithms. This class does not contain all of BQP (e.g. Grover's algorithm does not fall into this class). Our main result is that any algorithm in this class that measures at most O(log n) qubits can be simulated by classical randomized polynomial time algorithms. This does not dequantize Shor's algorithm (as the latter measures n qubits) but our work also highlights a new potentially hard function for cryptographic applications.
+  Our main technical contribution is (to the best of our knowledge) a new exact characterization of certain sums of Fourier-type coefficients (with exponentially many summands).

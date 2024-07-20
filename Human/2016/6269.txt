@@ -1,0 +1,5 @@
+Simple one-pass algorithm for penalized linear regression with cross-validation on MapReduce
+
+In this paper, we propose a one-pass algorithm on MapReduce for penalized linear regression
+  \[f_λ(α, β) = \|Y - α\mathbf{1} - Xβ\|_2^2 + p_λ(β)\] where $α$ is the intercept which can be omitted depending on application; $β$ is the coefficients and $p_λ$ is the penalized function with penalizing parameter $λ$. $f_λ(α, β)$ includes interesting classes such as Lasso, Ridge regression and Elastic-net. Compared to latest iterative distributed algorithms requiring multiple MapReduce jobs, our algorithm achieves huge performance improvement; moreover, our algorithm is exact compared to the approximate algorithms such as parallel stochastic gradient decent. Moreover, what our algorithm distinguishes with others is that it trains the model with cross validation to choose optimal $λ$ instead of user specified one.
+  Key words: penalized linear regression, lasso, elastic-net, ridge, MapReduce

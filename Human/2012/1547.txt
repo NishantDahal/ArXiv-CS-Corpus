@@ -1,0 +1,4 @@
+Solving Mahjong Solitaire boards with peeking
+
+We first prove that solving Mahjong Solitaire boards with peeking is NP-complete, even if one only allows isolated stacks of the forms /aab/ and /abb/. We subsequently show that layouts of isolated stacks of heights one and two can always be solved with peeking, and that doing so is in P, as well as finding an optimal algorithm for such layouts without peeking.
+  Next, we describe a practical algorithm for solving Mahjong Solitaire boards with peeking, which is simple and fast. The algorithm uses an effective pruning criterion and a heuristic to find and prioritize critical groups. The ideas of the algorithm can also be applied to solving Shisen-Sho with peeking.

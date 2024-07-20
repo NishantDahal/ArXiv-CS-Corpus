@@ -1,0 +1,3 @@
+Global Types for Open Systems
+
+Global-type formalisms enable to describe the overall behaviour of distributed systems and at the same time to enforce  safety properties for communications between system components. Our goal is that of amending a weakness of such formalisms: the difficulty in describing open systems, i.e. systems which can be connected and interact with other open systems. We parametrically extend, with the notion of interface role and interface connection, the syntax of global-type formalisms. Semantically, global types with interface roles denote open systems of communicating finite state machines connected by means of gateways obtained from compatible interfaces. We show that safety properties are preserved when open systems are connected that way.

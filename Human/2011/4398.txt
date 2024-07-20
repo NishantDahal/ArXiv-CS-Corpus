@@ -1,0 +1,4 @@
+Complexity of a Single Face in an Arrangement of s-Intersecting Curves
+
+Consider a face F in an arrangement of n Jordan curves in the plane, no two of which intersect more than s times. We prove that the combinatorial complexity of F is O(λ_s(n)), O(λ_{s+1}(n)), and O(λ_{s+2}(n)), when the curves are bi-infinite, semi-infinite, or bounded, respectively; λ_k(n) is the maximum length of a Davenport-Schinzel sequence of order k on an alphabet of n symbols.
+  Our bounds asymptotically match the known worst-case lower bounds. Our proof settles the still apparently open case of semi-infinite curves. Moreover, it treats the three cases in a fairly uniform fashion.

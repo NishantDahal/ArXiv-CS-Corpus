@@ -1,0 +1,3 @@
+Compression with Actions
+
+We consider the setting where actions can be used to modify a state sequence before compression. The minimum rate needed to losslessly describe the optimal modified sequence is characterized when the state sequence is either non-causally or causally available at the action encoder. The achievability is closely related to the optimal channel coding strategy for channel with states. We also extend the analysis to the the lossy case.

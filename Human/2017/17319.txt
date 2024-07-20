@@ -1,0 +1,4 @@
+On the moment distance of Poisson processes
+
+Consider the distance between two i.i.d. and independent Poisson processes with arrival rate $λ>0$ and respective arrival times $X_1,X_2,\dots$ and $Y_1,Y_2,\dots$ on a line. We give a closed analytical formula for the %expected distance to the power $a$ $\E{|X_{k+r}-Y_k|^a}, $ for any integer $k\ge 1, r\ge 0$ and $a\ge 1.$ The expected difference of the arrival times to the power $a$ between two i.i.d. and independent Poisson processes we represent as the combination of the Pochhammer polynomials.
+  Especially, for $r=0$ and any positive integer $a,$ the following identity is valid $$ \E{|X_k-Y_k|^a}=\frac{a!}{λ^a}\frac{Γ\left(\frac{a}{2}+k\right)}{Γ(k)Γ\left(\frac{a}{2}+1\right)}, $$ where $Γ(z)$ is Gamma function.

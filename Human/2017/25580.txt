@@ -1,0 +1,3 @@
+Difficulties of Timestamping Archived Web Pages
+
+We show that state-of-the-art services for creating trusted timestamps in blockchain-based networks do not adequately allow for timestamping of web pages. They accept data by value (e.g., images and text), but not by reference (e.g., URIs of web pages). Also, we discuss difficulties in repeatedly generating the same cryptographic hash value of an archived web page. We then introduce several requirements to be fulfilled in order to produce repeatable hash values for archived web pages.

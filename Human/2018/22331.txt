@@ -1,0 +1,3 @@
+Real-Time Subpixel Fast Bilateral Stereo
+
+Stereo vision technique has been widely used in robotic systems to acquire 3-D information. In recent years, many researchers have applied bilateral filtering in stereo vision to adaptively aggregate the matching costs. This has greatly improved the accuracy of the estimated disparity maps. However, the process of filtering the whole cost volume is very time consuming and therefore the researchers have to resort to some powerful hardware for the real-time purpose. This paper presents the implementation of fast bilateral stereo on a state-of-the-art GPU. By highly exploiting the parallel computing architecture of the GPU, the fast bilateral stereo performs in real time when processing the Middlebury stereo datasets.

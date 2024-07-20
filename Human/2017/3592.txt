@@ -1,0 +1,3 @@
+A formally verified proof of the Central Limit Theorem
+
+We describe a proof of the Central Limit Theorem that has been formally verified in the Isabelle proof assistant. Our formalization builds upon and extends Isabelle's libraries for analysis and measure-theoretic probability. The proof of the theorem uses characteristic functions, which are a kind of Fourier transform, to demonstrate that, under suitable hypotheses, sums of random variables converge weakly to the standard normal distribution. We also discuss the libraries and infrastructure that supported the formalization, and reflect on some of the lessons we have learned from the effort.

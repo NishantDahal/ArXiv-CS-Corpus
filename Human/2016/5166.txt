@@ -1,0 +1,3 @@
+Note on VCG vs. Price Raising for Matching Markets
+
+In \cite{EK10} the use of VCG in matching markets is motivated by saying that in order to compute market clearing prices in a matching market, the auctioneer needs to know the true valuations of the bidders. Hence VCG and corresponding personalized prices are proposed as an incentive compatible mechanism. The same line of argument pops up in several lecture sheets and other documents related to courses based on Easley and Kleinberg's book, seeming to suggest that computing market clearing prices and corresponding assignments were \emph{not} incentive compatible. Main purpose of our note is to observe that, in contrast, assignments based on buyer optimal market clearing prices are indeed incentive compatible.

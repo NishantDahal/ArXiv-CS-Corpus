@@ -1,0 +1,3 @@
+Analysis of Hard-Thresholding for Distributed Compressed Sensing with One-Bit Measurements
+
+A simple hard-thresholding operation is shown to be able to recover $L$ signals $\mathbf{x}_1,...,\mathbf{x}_L \in \mathbb{R}^n$ that share a common support of size $s$ from $m = \mathcal{O}(s)$ one-bit measurements per signal if $L \ge \log(en/s)$. This result improves the single signal recovery bounds with $m = \mathcal{O}(s\log(en/s))$ measurements in the sense that asymptotically fewer measurements per non-zero entry are needed. Numerical evidence supports the theoretical considerations.

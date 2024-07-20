@@ -1,0 +1,3 @@
+Implementation of an efficient Fuzzy Logic based Information Retrieval System
+
+This paper exemplifies the implementation of an efficient Information Retrieval (IR) System to compute the similarity between a dataset and a query using Fuzzy Logic. TREC dataset has been used for the same purpose. The dataset is parsed to generate keywords index which is used for the similarity comparison with the user query. Each query is assigned a score value based on its fuzzy similarity with the index keywords. The relevant documents are retrieved based on the score value. The performance and accuracy of the proposed fuzzy similarity model is compared with Cosine similarity model using Precision-Recall curves. The results prove the dominance of Fuzzy Similarity based IR system.

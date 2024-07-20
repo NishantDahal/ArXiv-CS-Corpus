@@ -1,0 +1,3 @@
+M2CAI Workflow Challenge: Convolutional Neural Networks with Time Smoothing and Hidden Markov Model for Video Frames Classification
+
+Our approach is among the three best to tackle the M2CAI Workflow challenge. The latter consists in recognizing the operation phase for each frames of endoscopic videos. In this technical report, we compare several classification models and temporal smoothing methods. Our submitted solution is a fine tuned Residual Network-200 on 80% of the training set with temporal smoothing using simple temporal averaging of the predictions and a Hidden Markov Model modeling the sequence.

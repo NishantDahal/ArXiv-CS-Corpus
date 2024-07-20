@@ -1,0 +1,3 @@
+An improvement direction for filter selection techniques using information theory measures and quadratic optimization
+
+Filter selection techniques are known for their simplicity and efficiency. However this kind of methods doesn't take into consideration the features inter-redundancy. Consequently the un-removed redundant features remain in the final classification model, giving lower generalization performance. In this paper we propose to use a mathematical optimization method that reduces inter-features redundancy and maximize relevance between each feature and the target variable.

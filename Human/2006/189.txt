@@ -1,0 +1,3 @@
+Self-stabilization of Circular Arrays of Automata
+
+[Gacs, Kurdiumov, Levin, 78] proposed simple one-dimensional cellular automata with 2 states. In an infinite array they are self-stabilizing: if all but a finite minority of automata are in the same state, the minority states disappear. Implicit in the paper was a stronger result that a sufficiently small minority of states vanish even in a finite circular array. The following note makes this strengthening explicit.

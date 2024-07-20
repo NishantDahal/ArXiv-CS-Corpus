@@ -1,0 +1,3 @@
+Block Iterative Reweighted Algorithms for Super-Resolution of Spectrally Sparse Signals
+
+We propose novel algorithms that enhance the performance of recovering unknown continuous-valued frequencies from undersampled signals. Our iterative reweighted frequency recovery algorithms employ the support knowledge gained from earlier steps of our algorithms as block prior information to enhance frequency recovery. Our methods improve the performance of the atomic norm minimization which is a useful heuristic in recovering continuous-valued frequency contents. Numerical results demonstrate that our block iterative reweighted methods provide both better recovery performance and faster speed than other known methods.

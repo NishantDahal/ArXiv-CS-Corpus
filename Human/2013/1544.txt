@@ -1,0 +1,3 @@
+An Algorithm for Computing the Limit Points of the Quasi-component of a Regular Chain
+
+For a regular chain $R$, we propose an algorithm which computes the (non-trivial) limit points of the quasi-component of $R$, that is, the set $\bar{W(R)} \setminus W(R)$. Our procedure relies on Puiseux series expansions and does not require to compute a system of generators of the saturated ideal of $R$. We focus on the case where this saturated ideal has dimension one and we discuss extensions of this work in higher dimensions. We provide experimental results illustrating the benefits of our algorithms.

@@ -1,0 +1,3 @@
+Correct Convergence of Min-Sum Loopy Belief Propagation in a Block Interpolation Problem
+
+This work proves a new result on the correct convergence of Min-Sum Loopy Belief Propagation (LBP) in an interpolation problem on a square grid graph. The focus is on the notion of local solutions, a numerical quantity attached to each site of the graph that can be used for obtaining MAP estimates. The main result is that over an $N\times N$ grid graph with a one-run boundary configuration, the local solutions at each $i \in B$ can be calculated using Min-Sum LBP by passing difference messages in $2N$ iterations, which parallels the well-known convergence time in trees.

@@ -1,0 +1,3 @@
+Computation of the Weight Distribution of CRC Codes
+
+In this article, we illustrate an algorithm for the computation of the weight distribution of CRC codes. The recursive structure of CRC codes will give us an iterative way to compute the weight distribution of their dual codes starting from just some ``representative'' words. Thanks to MacWilliams Theorem, the computation of the weight distribution of dual codes can be easily brought back to that of CRC codes. This algorithm is a good alternative to the standard algorithm that involves listing every word of the code.

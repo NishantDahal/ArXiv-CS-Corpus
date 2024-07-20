@@ -1,0 +1,3 @@
+A Block-Sensitivity Lower Bound for Quantum Testing Hamming Distance
+
+The Gap-Hamming distance problem is the promise problem of deciding if the Hamming distance $h$ between two strings of length $n$ is greater than $a$ or less than $b$, where the gap $g=|a-b|\geq 1$ and $a$ and $b$ could depend on $n$. In this short note, we give a lower bound of $Ω( \sqrt{n/g})$ on the quantum query complexity of computing the Gap-Hamming distance between two given strings of lenght $n$. The proof is a combinatorial argument based on block sensitivity and a reduction from a threshold function.

@@ -1,0 +1,7 @@
+On termination of meta-programs
+
+The term {\em meta-programming} refers to the ability of writing programs that have other programs as data and exploit their semantics.
+  The aim of this paper is presenting a methodology allowing us to perform a correct termination analysis for a broad class of practical meta-interpreters, including negation and performing different tasks during the execution. It is based on combining the power of general orderings, used in proving termination of term-rewrite systems and programs, and on the well-known acceptability condition, used in proving termination of logic programs.
+  The methodology establishes a relationship between the ordering needed to prove termination of the interpreted program and the ordering needed to prove termination of the meta-interpreter together with this interpreted program. If such a relationship is established, termination of one of those implies termination of the other one, i.e., the meta-interpreter preserves termination.
+  Among the meta-interpreters that are analysed correctly are a proof trees constructing meta-interpreter, different kinds of tracers and reasoners.
+  To appear without appendix in Theory and Practice of Logic Programming.

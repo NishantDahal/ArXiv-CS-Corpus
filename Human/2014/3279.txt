@@ -1,0 +1,3 @@
+Point compression for the trace zero subgroup over a small degree extension field
+
+Using Semaev's summation polynomials, we derive a new equation for the $\mathbb{F}_q$-rational points of the trace zero variety of an elliptic curve defined over $\mathbb{F}_q$. Using this equation, we produce an optimal-size representation for such points. Our representation is compatible with scalar multiplication. We give a point compression algorithm to compute the representation and a decompression algorithm to recover the original point (up to some small ambiguity). The algorithms are efficient for trace zero varieties coming from small degree extension fields. We give explicit equations and discuss in detail the practically relevant cases of cubic and quintic field extensions.

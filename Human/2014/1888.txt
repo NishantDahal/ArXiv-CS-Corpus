@@ -1,0 +1,4 @@
+Large Cuts with Local Algorithms on Triangle-Free Graphs
+
+We study the problem of finding large cuts in $d$-regular triangle-free graphs. In prior work, Shearer (1992) gives a randomised algorithm that finds a cut of expected size $(1/2 + 0.177/\sqrt{d})m$, where $m$ is the number of edges. We give a simpler algorithm that does much better: it finds a cut of expected size $(1/2 + 0.28125/\sqrt{d})m$. As a corollary, this shows that in any $d$-regular triangle-free graph there exists a cut of at least this size.
+  Our algorithm can be interpreted as a very efficient randomised distributed algorithm: each node needs to produce only one random bit, and the algorithm runs in one synchronous communication round. This work is also a case study of applying computational techniques in the design of distributed algorithms: our algorithm was designed by a computer program that searched for optimal algorithms for small values of $d$.

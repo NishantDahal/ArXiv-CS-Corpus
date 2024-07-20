@@ -1,0 +1,6 @@
+Recursive Exponential Weighting for Online Non-convex Optimization
+
+In this paper, we investigate the online non-convex optimization problem which generalizes the classic {online convex optimization problem by relaxing the convexity assumption on the cost function.
+  For this type of problem, the classic exponential weighting online algorithm has recently been shown to attain a sub-linear regret of $O(\sqrt{T\log T})$.
+  In this paper, we introduce a novel recursive structure to the online algorithm to define a recursive exponential weighting algorithm that attains a regret of $O(\sqrt{T})$, matching the well-known regret lower bound.
+  To the best of our knowledge, this is the first online algorithm with provable $O(\sqrt{T})$ regret for the online non-convex optimization problem.

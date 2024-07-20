@@ -1,0 +1,3 @@
+Ranking Triples using Entity Links in a Large Web Crawl - The Chicory Triple Scorer at WSDM Cup 2017
+
+This paper describes the participation of team Chicory in the Triple Ranking Challenge of the WSDM Cup 2017. Our approach deploys a large collection of entity tagged web data to estimate the correctness of the relevance relation expressed by the triples, in combination with a baseline approach using Wikipedia abstracts following [1]. Relevance estimations are drawn from ClueWeb12 annotated by Google's entity linker, available publicly as the FACC1 dataset. Our implementation is automatically generated from a so-called 'search strategy' that specifies declaratively how the input data are combined into a final ranking of triples.

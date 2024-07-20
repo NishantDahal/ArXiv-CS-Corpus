@@ -1,0 +1,3 @@
+Structured Neural Network Dynamics for Model-based Control
+
+We present a structured neural network architecture that is inspired by linear time-varying dynamical systems. The network is designed to mimic the properties of linear dynamical systems which makes analysis and control simple. The architecture facilitates the integration of learned system models with gradient-based model predictive control algorithms, and removes the requirement of computing potentially costly derivatives online. We demonstrate the efficacy of this modeling technique in computing autonomous control policies through evaluation in a variety of standard continuous control domains.

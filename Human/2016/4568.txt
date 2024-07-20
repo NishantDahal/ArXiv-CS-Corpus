@@ -1,0 +1,3 @@
+Decomposing Cubic Graphs into Connected Subgraphs of Size Three
+
+Let $S=\{K_{1,3},K_3,P_4\}$ be the set of connected graphs of size 3. We study the problem of partitioning the edge set of a graph $G$ into graphs taken from any non-empty $S'\subseteq S$. The problem is known to be NP-complete for any possible choice of $S'$ in general graphs. In this paper, we assume that the input graph is cubic, and study the computational complexity of the problem of partitioning its edge set for any choice of $S'$. We identify all polynomial and NP-complete problems in that setting, and give graph-theoretic characterisations of $S'$-decomposable cubic graphs in some cases.

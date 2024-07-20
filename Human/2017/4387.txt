@@ -1,0 +1,3 @@
+Compiling Purely Functional Structured Programs
+
+We present a marriage of functional and structured imperative programming that embeds in pure lambda calculus. We describe how we implement the core of this language in a monadic DSL which is structurally equivalent to our intended source language and which, when evaluated, generates pure lambda terms in continuation-passing-style.

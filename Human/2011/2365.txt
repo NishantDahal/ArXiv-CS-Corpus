@@ -1,0 +1,3 @@
+Efficient Learning of Sparse Invariant Representations
+
+We propose a simple and efficient algorithm for learning sparse invariant representations from unlabeled data with fast inference. When trained on short movies sequences, the learned features are selective to a range of orientations and spatial frequencies, but robust to a wide range of positions, similar to complex cells in the primary visual cortex. We give a hierarchical version of the algorithm, and give guarantees of fast convergence under certain conditions.

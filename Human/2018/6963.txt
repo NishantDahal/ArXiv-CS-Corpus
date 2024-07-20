@@ -1,0 +1,3 @@
+Higher-order surface FEM for incompressible Navier-Stokes flows on manifolds
+
+Stationary and instationary Stokes and Navier-Stokes flows are considered on two-dimensional manifolds, i.e., on curved surfaces in three dimensions. The higher-order surface FEM is used for the approximation of the geometry, velocities, pressure, and Lagrange multiplier to enforce tangential velocities. Individual element orders are employed for these various fields. Stream-line upwind stabilization is employed for flows at high Reynolds numbers. Applications are presented which extend classical benchmark test cases from flat domains to general manifolds. Highly accurate solutions are obtained and higher-order convergence rates are confirmed.

@@ -1,0 +1,3 @@
+A Problem Reduction Approach for Visual Relationships Detection
+
+Identifying different objects (man and cup) is an important problem on its own, but identifying the relationship between them (holding) is critical for many real world use cases. This paper describes an approach to reduce a visual relationship detection problem to object detection problems. The method was applied to Google AI Open Images V4 Visual Relationship Track Challenge, which was held in conjunction with 2018 European Conference on Computer Vision (ECCV 2018) and it finished as a prize winner. The challenge was to build an algorithm that detects pairs of objects in particular relations: things like "woman playing guitar," "beer on table," or "dog inside car.".

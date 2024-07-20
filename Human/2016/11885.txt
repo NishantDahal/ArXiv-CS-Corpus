@@ -1,0 +1,3 @@
+Total variation reconstruction for compressive sensing using nonlocal Lagrangian multiplier
+
+Total variation has proved its effectiveness in solving inverse problems for compressive sensing. Besides, the nonlocal means filter used as regularization preserves texture better for recovered images, but it is quite complex to implement. In this paper, based on existence of both noise and image information in the Lagrangian multiplier, we propose a simple method in term of implementation called nonlocal Lagrangian multiplier (NLLM) in order to reduce noise and boost useful image information. Experimental results show that the proposed NLLM is superior both in subjective and objective qualities of recovered image over other recovery algorithms.

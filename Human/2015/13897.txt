@@ -1,0 +1,3 @@
+On path sequences of graphs
+
+A subset $S$ of vertices of a graph $G=(V,E)$ is called a $k$-path vertex cover if every path on $k$ vertices in $G$ contains at least one vertex from $S$. Denote by $ψ_k(G)$ the minimum cardinality of a $k$-path vertex cover in $G$ and form a sequence $ψ(G)=(ψ_1(G),ψ_2(G),\ldots,ψ_{|V|}(G))$, called the path sequence of $G$. In this paper we prove necessary and sufficient conditions for two integers to appear on fixed positions in $ψ(G)$. A complete list of all possible path sequences (with multiplicities) for small connected graphs is also given.

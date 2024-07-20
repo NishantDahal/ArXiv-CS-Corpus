@@ -1,0 +1,3 @@
+Branching Bisimilarity of Normed BPA Processes is in NEXPTIME
+
+Branching bisimilarity on normed BPA processes was recently shown to be decidable by Yuxi Fu (ICALP 2013) but his proof has not provided any upper complexity bound. We present a simpler approach based on relative prime decompositions that leads to a nondeterministic exponential-time algorithm; this is close to the known exponential-time lower bound.

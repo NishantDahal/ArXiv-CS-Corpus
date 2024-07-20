@@ -1,0 +1,3 @@
+From Syntactic Theories to Interpreters: A Specification Language and Its Compilation
+
+Recent years have seen an increasing need of high-level specification languages and tools generating code from specifications. In this paper, we introduce a specification language, {\splname}, which is tailored to the writing of syntactic theories of language semantics. More specifically, the language supports specifying primitive notions such as dynamic constraints, contexts, axioms, and inference rules. We also introduce a system which generates interpreters from {\splname} specifications. A prototype system is implemented and has been tested on a number of examples, including a syntactic theory for Verilog.

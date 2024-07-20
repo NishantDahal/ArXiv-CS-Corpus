@@ -1,0 +1,3 @@
+Processing XML for Domain Specific Languages
+
+XML is a standard and universal language for representing information. XML processing is supported by two key frameworks: DOM and SAX. SAX is efficient, but leaves the developer to encode much of the processing. This paper introduces a language for expressing XML-based languages via grammars that can be used to process XML documents and synthesize arbitrary values. The language is declarative and shields the developer from SAX implementation details. The language is specified and an efficient implementation is defined as an abstract machine.

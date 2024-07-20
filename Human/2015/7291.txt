@@ -1,0 +1,3 @@
+A Non-Oblivious Reduction of Counting Ones to Multiplication
+
+An algorithm counting the number of ones in a binary word is presented running in time $O(\log\log b)$ where $b$ is the number of ones. The operations available include bit-wise logical operations and multiplication.

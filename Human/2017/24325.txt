@@ -1,0 +1,3 @@
+Solida: A Blockchain Protocol Based on Reconfigurable Byzantine Consensus
+
+The decentralized cryptocurrency Bitcoin has experienced great success but also encountered many challenges. One of the challenges has been the long confirmation time. Another challenge is the lack of incentives at certain steps of the protocol, raising concerns for transaction withholding, selfish mining, etc. To address these challenges, we propose Solida, a decentralized blockchain protocol based on reconfigurable Byzantine consensus augmented by proof-of-work. Solida improves on Bitcoin in confirmation time, and provides safety and liveness assuming the adversary control less than (roughly) one-third of the total mining power.

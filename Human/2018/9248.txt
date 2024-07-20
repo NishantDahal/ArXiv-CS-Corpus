@@ -1,0 +1,3 @@
+A Proposal of Interactive Growing Hierarchical SOM
+
+Self Organizing Map is trained using unsupervised learning to produce a two-dimensional discretized representation of input space of the training cases. Growing Hierarchical SOM is an architecture which grows both in a hierarchical way representing the structure of data distribution and in a horizontal way representation the size of each individual maps. The control method of the growing degree of GHSOM by pruning off the redundant branch of hierarchy in SOM is proposed in this paper. Moreover, the interface tool for the proposed method called interactive GHSOM is developed. We discuss the computation results of Iris data by using the developed tool.

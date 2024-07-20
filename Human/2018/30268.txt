@@ -1,0 +1,3 @@
+Recognizing Graph Search Trees
+
+Graph searches and the corresponding search trees can exhibit important structural properties and are used in various graph algorithms. The problem of deciding whether a given spanning tree of a graph is a search tree of a particular search on this graph was introduced by Hagerup and Nowak in 1985, and independently by Korach and Ostfeld in 1989 where the authors showed that this problem is efficiently solvable for DFS trees. A linear time algorithm for BFS trees was obtained by Manber in 1990. In this paper we prove that the search tree problem is also in P for LDFS, in contrast to LBFS, MCS, and MNS, where we show NP-completeness. We complement our results by providing linear time algorithms for these searches on split graphs.

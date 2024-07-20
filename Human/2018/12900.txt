@@ -1,0 +1,3 @@
+A Linear-Time Approximation Algorithm for the Orthogonal Terrain Guarding Problem
+
+In this paper, we consider the 1.5-dimensional orthogonal terrain guarding problem. In this problem, we assign an x-monotone chain T because each edge is either horizontal or vertical, and determine the minimal number of vertex guards for all vertices of T. A vertex vi sees a point p on T if the line segment connecting vi to p is on or above T. We provide an optimal algorithm with O(n) for a subproblem of the orthogonal terrain guarding problem. In this subproblem, we determine the minimal number of vertex guards for all right(left) convex verteices of T. Finally, we provide a 2-approximation algorithm that solves the 1.5-dimensional orthogonal terrain guarding problem in O(n).

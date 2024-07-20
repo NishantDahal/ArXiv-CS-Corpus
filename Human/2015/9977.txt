@@ -1,0 +1,4 @@
+OOASP: Connecting Object-oriented and Logic Programming
+
+Most of contemporary software systems are implemented using an object-oriented approach. Modeling phases -- during which software engineers analyze requirements to the future system using some modeling language -- are an important part of the development process, since modeling errors are often hard to recognize and correct.
+  In this paper we present a framework which allows the integration of Answer Set Programming into the object-oriented software development process. OOASP supports reasoning about object-oriented software models and their instantiations. Preliminary results of the OOASP application in CSL Studio, which is a Siemens internal modeling environment for product configurators, show that it can be used as a lightweight approach to verify, create and transform instantiations of object models at runtime and to support the software development process during design and testing.

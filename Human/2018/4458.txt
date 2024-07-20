@@ -1,0 +1,4 @@
+Solving the Conjugacy Decision Problem via Machine Learning
+
+Machine learning and pattern recognition techniques have been successfully applied to algorithmic problems in free groups. In this paper, we seek to extend these techniques to finitely presented non-free groups, with a particular emphasis on polycyclic and metabelian groups that are of interest to non-commutative cryptography.
+  As a prototypical example, we utilize supervised learning methods to construct classifiers that can solve the conjugacy decision problem, i.e., determine whether or not a pair of elements from a specified group are conjugate. The accuracies of classifiers created using decision trees, random forests, and N-tuple neural network models are evaluated for several non-free groups. The very high accuracy of these classifiers suggests an underlying mathematical relationship with respect to conjugacy in the tested groups.

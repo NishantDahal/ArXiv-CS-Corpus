@@ -1,0 +1,3 @@
+Nonnegative Rank vs. Binary Rank
+
+Motivated by (and using tools from) communication complexity, we investigate the relationship between the following two ranks of a $0$-$1$ matrix: its nonnegative rank and its binary rank (the $\log$ of the latter being the unambiguous nondeterministic communication complexity). We prove that for partial $0$-$1$ matrices, there can be an exponential separation. For total $0$-$1$ matrices, we show that if the nonnegative rank is at most $3$ then the two ranks are equal, and we show a separation by exhibiting a matrix with nonnegative rank $4$ and binary rank $5$, as well as a family of matrices for which the binary rank is $4/3$ times the nonnegative rank.

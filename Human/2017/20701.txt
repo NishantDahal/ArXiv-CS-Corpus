@@ -1,0 +1,3 @@
+Local Convergence of Proximal Splitting Methods for Rank Constrained Problems
+
+We analyze the local convergence of proximal splitting algorithms to solve optimization problems that are convex besides a rank constraint. For this, we show conditions under which the proximal operator of a function involving the rank constraint is locally identical to the proximal operator of its convex envelope, hence implying local convergence. The conditions imply that the non-convex algorithms locally converge to a solution whenever a convex relaxation involving the convex envelope can be expected to solve the non-convex problem.

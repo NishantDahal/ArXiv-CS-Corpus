@@ -1,0 +1,3 @@
+O-notation in algorithm analysis
+
+We provide an extensive list of desirable properties for an O-notation --- as used in algorithm analysis --- and reduce them to 8 primitive properties. We prove that the primitive properties are equivalent to the definition of the O-notation as linear dominance. We abstract the existing definitions of the O-notation under local linear dominance, and show that it has a characterization by limits over filters for positive functions. We define the O-mappings as a general tool for manipulating the O-notation, and show that Master theorems hold under linear dominance.

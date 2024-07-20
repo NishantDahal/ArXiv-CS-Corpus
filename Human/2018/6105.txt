@@ -1,0 +1,3 @@
+Approximate Range Queries for Clustering
+
+We study the approximate range searching for three variants of the clustering problem with a set $P$ of $n$ points in $d$-dimensional Euclidean space and axis-parallel rectangular range queries: the $k$-median, $k$-means, and $k$-center range-clustering query problems. We present data structures and query algorithms that compute $(1+\varepsilon)$-approximations to the optimal clusterings of $P\cap Q$ efficiently for a query consisting of an orthogonal range $Q$, an integer $k$, and a value $\varepsilon>0$.

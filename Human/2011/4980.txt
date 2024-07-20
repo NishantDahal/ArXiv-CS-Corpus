@@ -1,0 +1,4 @@
+Generative Prior Knowledge for Discriminative Classification
+
+We present a novel framework for integrating prior knowledge into discriminative classifiers.  Our framework allows discriminative classifiers such as Support Vector Machines (SVMs) to utilize prior knowledge specified in the generative setting. The dual objective of fitting the data and respecting prior knowledge is formulated as a bilevel program, which is solved (approximately) via iterative application of second-order cone programming.  To test our approach, we consider the problem of using WordNet (a semantic database of English language) to improve low-sample classification accuracy of newsgroup categorization.  WordNet is viewed as an approximate, but readily available source of background knowledge, and our framework is capable of utilizing it in a flexible way.
+

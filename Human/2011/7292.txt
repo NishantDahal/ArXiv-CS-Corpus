@@ -1,0 +1,3 @@
+A Compressed Sensing Framework of Frequency-Sparse Signals through Chaotic Systems
+
+This paper proposes a compressed sensing (CS) framework for the acquisition and reconstruction of frequency-sparse signals with chaotic dynamical systems. The sparse signal is acting as an excitation term of a discrete-time chaotic system and the compressed measurement is obtained by downsampling the system output. The reconstruction is realized through the estimation of the excitation coefficients with principle of impulsive chaos synchronization. The -norm regularized nonlinear least squares is used to find the estimation. The proposed framework is easily implementable and creates secure measurements. The Henon map is used as an example to illustrate the principle and the performance.

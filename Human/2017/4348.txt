@@ -1,0 +1,3 @@
+Destructive Read by Wave Interference for Arbitration
+
+With the advent of big data and deep learning, computation power has become a bottleneck for many applications. Network-on-Chip (NoC) has been proposed to enable multiprocessor acceleration for deep learning computation, and efficient arbitration is a key issue for high performance. In this paper, an arbitration scheme based on interference of wave is proposed. In this scheme, home node sends out multiple tokens in different frequencies, and nodes that are competing for bus can capture token by sending out wave that cancels its specific wave token. In this scheme, speed-of-light arbitration can be achieved, and full information is available to all nodes in arbitration.

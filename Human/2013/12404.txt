@@ -1,0 +1,3 @@
+Permuted NMF: A Simple Algorithm Intended to Minimize the Volume of the Score Matrix
+
+Non-Negative Matrix Factorization, NMF, attempts to find a number of archetypal response profiles, or parts, such that any sample profile in the dataset can be approximated by a close profile among these archetypes or a linear combination of these profiles. The non-negativity constraint is imposed while estimating archetypal profiles, due to the non-negative nature of the observed signal. Apart from non negativity, a volume constraint can be applied on the Score matrix W to enhance the ability of learning parts of NMF. In this report, we describe a very simple algorithm, which in effect achieves volume minimization, although indirectly.

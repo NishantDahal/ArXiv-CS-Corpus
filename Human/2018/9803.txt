@@ -1,0 +1,7 @@
+A Natural Generalization of Stable Matching Solved via New Insights into Ideal Cuts
+
+We study a natural generalization of stable matching to the maximum weight stable matching problem and we obtain a combinatorial polynomial time algorithm for it by reducing it to the problem of finding a maximum weight ideal cut in a DAG. We give the first polynomial time algorithm for the latter problem; this algorithm is also combinatorial.
+  The combinatorial nature of our algorithms not only means that they are efficient but also that they enable us to obtain additional structural and algorithmic results:
+  - We show that the set, $\cal M'$, of maximum weight stable matchings forms a sublattice $\cal L'$ of the lattice $\cal L$ of all stable matchings.
+  - We give an efficient algorithm for finding boy-optimal and girl-optimal matchings in $\cal M'$.
+  - We generalize the notion of rotation, a central structural notion in the context of the stable matching problem, to meta-rotation. Just as rotations help traverse the lattice of all stable matchings, macro-rotations help traverse the sublattice over $\cal M'$.

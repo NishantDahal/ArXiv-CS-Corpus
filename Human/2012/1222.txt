@@ -1,0 +1,3 @@
+Improving feature selection algorithms using normalised feature histograms
+
+The proposed feature selection method builds a histogram of the most stable features from random subsets of a training set and ranks the features based on a classifier based cross-validation. This approach reduces the instability of features obtained by conventional feature selection methods that occur with variation in training data and selection criteria. Classification results on four microarray and three image datasets using three major feature selection criteria and a naive Bayes classifier show considerable improvement over benchmark results.

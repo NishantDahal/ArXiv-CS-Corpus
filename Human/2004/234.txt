@@ -1,0 +1,3 @@
+Pruning Search Space in Defeasible Argumentation
+
+Defeasible argumentation has experienced a considerable growth in AI in the last decade. Theoretical results have been combined with development of practical applications in AI & Law, Case-Based Reasoning and various knowledge-based systems. However, the dialectical process associated with inference is computationally expensive. This paper focuses on speeding up this inference process by pruning the involved search space. Our approach is twofold. On one hand, we identify distinguished literals for computing defeat. On the other hand, we restrict ourselves to a subset of all possible conflicting arguments by introducing dialectical constraints.

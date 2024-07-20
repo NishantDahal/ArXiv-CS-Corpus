@@ -1,0 +1,3 @@
+Semi-dynamic connectivity in the plane
+
+Motivated by a path planning problem we consider the following procedure. Assume that we have two points $s$ and $t$ in the plane and take $\mathcal{K}=\emptyset$. At each step we add to $\mathcal{K}$ a compact convex set that does not contain $s$ nor $t$. The procedure terminates when the sets in $\mathcal{K}$ separate $s$ and $t$. We show how to add one set to $\mathcal{K}$ in $O(1+kα(n))$ amortized time plus the time needed to find all sets of $\mathcal{K}$ intersecting the newly added set, where $n$ is the cardinality of $\mathcal{K}$, $k$ is the number of sets in $\mathcal{K}$ intersecting the newly added set, and $α(\cdot)$ is the inverse of the Ackermann function.

@@ -1,0 +1,3 @@
+A Note on Parallel Algorithmic Speedup Bounds
+
+A parallel program can be represented as a directed acyclic graph. An important performance bound is the time to execute the critical path through the graph. We show how this performance metric is related to Amdahl speedup and the degree of average parallelism. These bounds formally exclude superlinear performance.

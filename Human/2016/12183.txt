@@ -1,0 +1,3 @@
+Towards Reversible Computation in Erlang
+
+In a reversible language, any forward computation can be undone by a finite sequence of backward steps. Reversible computing has been studied in the context of different programming languages and formalisms, where it has been used for debugging and for enforcing fault-tolerance, among others. In this paper, we consider a subset of Erlang, a concurrent language based on the actor model. We formally introduce a reversible semantics for this language. To the best of our knowledge, this is the first attempt to define a reversible semantics for Erlang.

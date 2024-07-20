@@ -1,0 +1,3 @@
+How good is the Shapley value-based approach to the influence maximization problem?
+
+The Shapley value has been recently advocated as a method to choose the seed nodes for the process of information diffusion. Intuitively, since the Shapley value evaluates the average marginal contribution of a player to the coalitional game, it can be used in the network context to evaluate the marginal contribution of a node in the process of information diffusion given various groups of already 'infected' nodes. Although the above direction of research seems promising, the current liter- ature is missing a throughout assessment of its performance. The aim of this work is to provide such an assessment of the existing Shapley value-based approaches to information diffusion.

@@ -1,0 +1,3 @@
+A note on distance labeling in planar graphs
+
+A distance labeling scheme is an assignments of labels, that is binary strings, to all nodes of a graph, so that the distance between any two nodes can be computed from their labels and the labels are as short as possible. A major open problem is to determine the complexity of distance labeling in unweighted and undirected planar graphs. It is known that, in such a graph on $n$ nodes, some labels must consist of $Ω(n^{1/3})$ bits, but the best known labeling scheme uses labels of length $O(\sqrt{n}\log n)$ [Gavoille, Peleg, Pérennes, and Raz, J. Algorithms, 2004]. We show that, in fact, labels of length $O(\sqrt{n})$ are enough.

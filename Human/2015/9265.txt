@@ -1,0 +1,3 @@
+Constructing Binary Descriptors with a Stochastic Hill Climbing Search
+
+Binary descriptors of image patches provide processing speed advantages and require less storage than methods that encode the patch appearance with a vector of real numbers. We provide evidence that, despite its simplicity, a stochastic hill climbing bit selection procedure for descriptor construction defeats recently proposed alternatives on a standard discriminative power benchmark. The method is easy to implement and understand, has no free parameters that need fine tuning, and runs fast.

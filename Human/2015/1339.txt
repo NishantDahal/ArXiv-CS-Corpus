@@ -1,0 +1,4 @@
+Optimal Sparse Linear Auto-Encoders and Sparse PCA
+
+Principal components analysis (PCA) is the optimal linear auto-encoder of data, and it is often used to construct features. Enforcing sparsity on the principal components can promote better generalization, while improving the interpretability of the features. We study the problem of constructing optimal sparse linear auto-encoders. Two natural questions in such a setting are: i) Given a level of sparsity, what is the best approximation to PCA that can be achieved? ii) Are there low-order polynomial-time algorithms which can asymptotically achieve this optimal tradeoff between the sparsity and the approximation quality?
+  In this work, we answer both questions by giving efficient low-order polynomial-time algorithms for constructing asymptotically \emph{optimal} linear auto-encoders (in particular, sparse features with near-PCA reconstruction error) and demonstrate the performance of our algorithms on real data.

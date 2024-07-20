@@ -1,0 +1,4 @@
+Stochastic Multi-armed Bandits in Constant Space
+
+We consider the stochastic bandit problem in the sublinear space setting, where one cannot record the win-loss record for all $K$ arms. We give an algorithm using $O(1)$ words of space with regret \[
+  \sum_{i=1}^{K}\frac{1}{Δ_i}\log \frac{Δ_i}Δ\log T \] where $Δ_i$ is the gap between the best arm and arm $i$ and $Δ$ is the gap between the best and the second-best arms. If the rewards are bounded away from $0$ and $1$, this is within an $O(\log 1/Δ)$ factor of the optimum regret possible without space constraints.

@@ -1,0 +1,3 @@
+Intuitionistic Logic Programming for SQL (Extended Abstract)
+
+Intuitionistic logic programming provides the notion of embedded implication in rule bodies, which can be used to reason about a current database modified by the antecedent. This can be applied to a system that translates SQL to Datalog to solve SQL WITH queries, for which relations are locally defined and can therefore be understood as added to the current database. In addition, assumptions in SQL queries as either adding or removing data can be modelled in this way as well, which is an interesting feature for decision-support scenarios. This work suggests a way to apply intuitionistic logic programming to SQL, and provides a pointer to a working system implementing this idea.

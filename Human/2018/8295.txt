@@ -1,0 +1,3 @@
+Graph-based Hypothesis Generation for Parallax-tolerant Image Stitching
+
+The seam-driven approach has been proven fairly effective for parallax-tolerant image stitching, whose strategy is to search for an invisible seam from finite representative hypotheses of local alignment. In this paper, we propose a graph-based hypothesis generation and a seam-guided local alignment for improving the effectiveness and the efficiency of the seam-driven approach. The experiment demonstrates the significant reduction of number of hypotheses and the improved quality of naturalness of final stitching results, comparing to the state-of-the-art method SEAGULL.

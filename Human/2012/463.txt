@@ -1,0 +1,3 @@
+Rigorous computer analysis of the Chow-Robbins game
+
+Flip a coin repeatedly, and stop whenever you want. Your payoff is the proportion of heads, and you wish to maximize this payoff in expectation. This so-called Chow-Robbins game is amenable to computer analysis, but while simple-minded number crunching can show that it is best to continue in a given position, establishing rigorously that stopping is optimal seems at first sight to require "backward induction from infinity". We establish a simple upper bound on the expected payoff in a given position, allowing efficient and rigorous computer analysis of positions early in the game. In particular we confirm that with 5 heads and 3 tails, stopping is optimal.

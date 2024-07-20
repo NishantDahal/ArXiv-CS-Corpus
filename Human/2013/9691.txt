@@ -1,0 +1,3 @@
+From Branching to Linear Time, Coalgebraically
+
+We consider state-based systems modelled as coalgebras whose type incorporates branching, and show that by suitably adapting the definition of coalgebraic bisimulation, one obtains a general and uniform account of the linear-time behaviour of a state in such a coalgebra. By moving away from a boolean universe of truth values, our approach can measure the extent to which a state in a system with branching is able to exhibit a particular linear-time behaviour. This instantiates to measuring the probability of a specific behaviour occurring in a probabilistic system, or measuring the minimal cost of exhibiting a specific behaviour in the case of weighted computations.

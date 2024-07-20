@@ -1,0 +1,3 @@
+Linear Network Coding on Multi-Mesh of Trees (MMT) using All to All Broadcast (AAB)
+
+We introduce linear network coding on parallel architecture for multi-source finite acyclic network. In this problem, different messages in diverse time periods are broadcast and every nonsource node in the network decodes and encodes the message based on further communication.We wish to minimize the communication steps and time complexity involved in transfer of data from node-to-node during parallel communication.We have used Multi-Mesh of Trees (MMT) topology for implementing network coding. To envisage our result, we use all-to-all broadcast as communication algorithm.

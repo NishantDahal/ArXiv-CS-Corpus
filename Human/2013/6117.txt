@@ -1,0 +1,3 @@
+Parallel Algorithm for Longest Common Subsequence in a String
+
+In the area of Pattern Recognition and Matching, finding a Longest Common Subsequence plays an important role. In this paper, we have proposed one algorithm based on parallel computation. We have used OpenMP API package as middleware to send the data to different processors. We have tested our algorithm in a system having four processors and 2 GB physical memory. The best result showed that the parallel algorithm increases the performance (speed of computation) by 3.22.

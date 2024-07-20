@@ -1,0 +1,3 @@
+Process algebra with conditionals in the presence of epsilon
+
+In a previous paper, we presented several extensions of ACP with conditional expressions, including one with a retrospection operator on conditions to allow for looking back on conditions under which preceding actions have been performed. In this paper, we add a constant for a process that is only capable of terminating successfully to those extensions of ACP, which can be very useful in applications. It happens that in all cases the addition of this constant is unproblematic.

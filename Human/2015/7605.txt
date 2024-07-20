@@ -1,0 +1,3 @@
+Differential Geometric SLAM
+
+The simultaneous localization and mapping (SLAM) problem is considered in three dimensions. The proposed algorithm, differential geometric SLAM (DG-SLAM), employs methods from differential geometry to propagate the state and map estimates. Unlike EKF SLAM, the proposed filter is provably asymptotically stable under the assumption of no measurement noise or biases. The robustness of the DG-SLAM algorithm is assessed in simulation with measurement noise. The simulation demonstrates successful localization and mapping.

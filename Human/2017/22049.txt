@@ -1,0 +1,3 @@
+CTL* synthesis via LTL synthesis
+
+We reduce synthesis for CTL* properties to synthesis for LTL. In the context of model checking this is impossible - CTL* is more expressive than LTL. Yet, in synthesis we have knowledge of the system structure and we can add new outputs. These outputs can be used to encode witnesses of the satisfaction of CTL* subformulas directly into the system. This way, we construct an LTL formula, over old and new outputs and original inputs, which is realisable if, and only if, the original CTL* formula is realisable. The CTL*-via-LTL synthesis approach preserves the problem complexity, although it might increase the minimal system size. We implemented the reduction, and evaluated the CTL*-via-LTL synthesiser on several examples.

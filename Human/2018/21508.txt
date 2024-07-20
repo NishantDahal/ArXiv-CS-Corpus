@@ -1,0 +1,3 @@
+A prototype-based approach to object reclassification
+
+We investigate, in the context of functional prototype-based lan- guages, a calculus of objects which might extend themselves upon receiving a message, a capability referred to by Cardelli as a self-inflicted operation. We present a sound type system for this calculus which guarantees that evaluating a well-typed expression will never yield a message-not-found runtime error. The resulting calculus is an attempt towards the definition of a language combining the safety advantage of static type checking with the flexibility normally found in dynamically typed languages.

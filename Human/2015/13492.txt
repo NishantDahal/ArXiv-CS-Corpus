@@ -1,0 +1,3 @@
+A GA based approach for task scheduling in multi-cloud environment
+
+In multi-cloud environment, task scheduling has attracted a lot of attention due to NP-Complete nature of the problem. Moreover, it is very challenging due to heterogeneity of the cloud resources with varying capacities and functionalities. Therefore, minimizing the makespan for task scheduling is a challenging issue. In this paper, we propose a genetic algorithm (GA) based approach for solving task scheduling problem. The algorithm is described with innovative idea of fitness function derivation and mutation. The proposed algorithm is exposed to rigorous testing using various benchmark datasets and its performance is evaluated in terms of total makespan.

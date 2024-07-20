@@ -1,0 +1,3 @@
+Synthesizing invariants by solving solvable loops
+
+When proving invariance properties of a program, we face two problems. The first problem is related to the necessity of proving tautologies of considered assertion language, whereas the second manifests in the need of finding sufficiently strong invariants. This paper focuses on the second problem and describes a new method for the automatic generation of loop invariants that handles polynomial and non deterministic assignments. This technique is based on the eigenvector generation for a given linear transformation and on the polynomial optimization problem, which we implemented in the open-source tool Pilat.

@@ -1,0 +1,3 @@
+Revisiting the Majority Problem: Average-Case Analysis with Arbitrarily Many Colours
+
+The majority problem is a special case of the heavy hitters problem. Given a collection of coloured balls, the task is to identify the majority colour or state that no such colour exists. Whilst the special case of two-colours has been well studied, the average-case performance for arbitrarily many colours has not. In this paper, we present heuristic analysis of the average-case performance of three deterministic algorithms that appear in the literature. We empirically validate our analysis with large scale simulations.

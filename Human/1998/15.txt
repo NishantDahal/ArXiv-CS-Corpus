@@ -1,0 +1,3 @@
+Treatment of Epsilon-Moves in Subset Construction
+
+The paper discusses the problem of determinising finite-state automata containing large numbers of epsilon-moves. Experiments with finite-state approximations of natural language grammars often give rise to very large automata with a very large number of epsilon-moves. The paper identifies three subset construction algorithms which treat epsilon-moves. A number of experiments has been performed which indicate that the algorithms differ considerably in practice. Furthermore, the experiments suggest that the average number of epsilon-moves per state can be used to predict which algorithm is likely to perform best for a given input automaton.

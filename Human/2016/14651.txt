@@ -1,0 +1,4 @@
+Block Crossings in Storyline Visualizations
+
+Storyline visualizations help visualize encounters of the characters in a story over time. Each character is represented by an x-monotone curve that goes from left to right. A meeting is represented by having the characters that participate in the meeting run close together for some time. In order to keep the visual complexity low, rather than just minimizing pairwise crossings of curves, we propose to count block crossings, that is, pairs of intersecting bundles of lines.
+  Our main results are as follows. We show that minimizing the number of block crossings is NP-hard, and we develop, for meetings of bounded size, a constant-factor approximation. We also present two fixed-parameter algorithms and, for meetings of size 2, a greedy heuristic that we evaluate experimentally.

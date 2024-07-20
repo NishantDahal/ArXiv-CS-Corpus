@@ -1,0 +1,3 @@
+Ergodicity of Random Walks on Random DFA
+
+Given a DFA we consider the random walk that starts at the initial state and at each time step moves to a new state by taking a random transition from the current state. This paper shows that for typical DFA this random walk induces an ergodic Markov chain. The notion of typical DFA is formalized by showing that ergodicity holds with high probability when a DFA is sampled uniformly at random from the set of all automata with a fixed number of states. We also show the same result applies to DFA obtained by minimizing typical DFA.

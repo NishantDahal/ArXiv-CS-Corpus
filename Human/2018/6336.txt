@@ -1,0 +1,3 @@
+wARP-Path: Implications of adapting the Ethernet-based ARP-Path bridging protocol to a wireless environment
+
+The ARP-Path protocol has flourished as a promise for wired networks, creating shortest paths with the simplicity of pure bridging and competing directly with TRILL and SPB. After analyzing different alternatives of ARP-Path and creating the All-Path family, the idea of migrating the protocol to wireless networks appeared to be a good alternative to protocols such as a AODV. In this article, we check the implications of adapting ARP-Path to a wireless environment, and we prove that good ideas for wired networks might not be directly applicable to wireless networks, as not only the media differs, but also the characterization of these networks varies.

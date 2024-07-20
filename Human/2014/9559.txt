@@ -1,0 +1,3 @@
+Robust Causality Check for Sampled Scattering Parameters via a Filtered Fourier Transform
+
+We introduce a robust numerical technique to verify the causality of sampled scattering parameters given on a finite bandwidth. The method is based on a filtered Fourier transform and includes a rigorous estimation of the errors caused by missing out-of-band samples. Compared to existing techniques, the method is simpler to implement and provides a useful insight on the time-domain characteristics of the detected violation. Through an applicative example, we shows its usefulness to improve the accuracy and reliability of macromodeling techniques used to convert sampled scattering parameters into models for transient analysis.

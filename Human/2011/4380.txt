@@ -1,0 +1,3 @@
+Synchrony vs. Causality in Asynchronous Petri Nets
+
+Given a synchronous system, we study the question whether the behaviour of that system can be exhibited by a (non-trivially) distributed and hence asynchronous implementation. In this paper we show, by counterexample, that synchronous systems cannot in general be implemented in an asynchronous fashion without either introducing an infinite implementation or changing the causal structure of the system behaviour.

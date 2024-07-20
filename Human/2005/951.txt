@@ -1,0 +1,3 @@
+Coding for the Optical Channel: the Ghost-Pulse Constraint
+
+We consider a number of constrained coding techniques that can be used to mitigate a nonlinear effect in the optical fiber channel that causes the formation of spurious pulses, called ``ghost pulses.'' Specifically, if $b_1 b_2 ... b_{n}$ is a sequence of bits sent across an optical channel, such that $b_k=b_l=b_m=1$ for some $k,l,m$ (not necessarily all distinct) but $b_{k+l-m} = 0$, then the ghost-pulse effect causes $b_{k+l-m}$ to change to 1, thereby creating an error. We design and analyze several coding schemes using binary and ternary sequences constrained so as to avoid patterns that give rise to ghost pulses. We also discuss the design of encoders and decoders for these coding schemes.

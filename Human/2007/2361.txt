@@ -1,0 +1,3 @@
+Coloring vertices of a graph or finding a Meyniel obstruction
+
+A Meyniel obstruction is an odd cycle with at least five vertices and at most one chord. A graph is Meyniel if and only if it has no Meyniel obstruction as an induced subgraph. Here we give a O(n^2) algorithm that, for any graph, finds either a clique and coloring of the same size or a Meyniel obstruction. We also give a O(n^3) algorithm that, for any graph, finds either aneasily recognizable strong stable set or a Meyniel obstruction.

@@ -1,0 +1,3 @@
+Timing Channel: Achievable Rate in the Finite Block-Length Regime
+
+The exponential server timing channel is known to be the simplest, and in some sense canonical, queuing timing channel. The capacity of this infinite-memory channel is known. Here, we discuss practical finite-length restrictions on the codewords and attempt to understand the maximal rate that can be achieved for a target error probability. By using Markov chain analysis, we prove a lower bound on the maximal channel coding rate achievable at blocklength $n$ and error probability $ε$. The bound is approximated by $C- n^{-1/2} σQ^{-1}(ε)$ where $Q$ denotes the Q-function and $σ^2$ is the asymptotic variance of the underlying Markov chain. A closed form expression for $σ^2$ is given.

@@ -1,0 +1,6 @@
+DPerm: Assisting the Migration of Android Apps to Runtime Permissions
+
+Android apps require permissions when accessing resources related to privacy or system integrity. Starting from Android 6, these permissions have to be asked at runtime. However, migrating to the new permission model poses multiple challenges for developers. First, developers have to discover where the app uses permissions, which requires a permission specification. To date several such specifications have been built, yet these are either imprecise, incomplete or don't support all types of protected resources.
+  We first present DPSpec, a novel permission specification built from several documentation formats supplied with the Android SDK. Compared with the state the art specification, it contains 2.5x as many entries for protected methods and detects dangerous permission usages in more than twice as many apps.
+  A second challenge for developers is where to insert permission requests, with possible locations restricted by the request mechanism.
+  We also present DPerm, a static analysis for Android apps that recommends locations for permission requests in code. It achieves high precision through context sensitivity and improves recall through a general call graph augmentation algorithm for incomplete code. Our empirical evaluation on 32 apps shows a precision of 96% and recall of 89%.

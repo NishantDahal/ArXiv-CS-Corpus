@@ -1,0 +1,4 @@
+A Short Note on Improved Logic Circuits in a Hexagonal Minesweeper
+
+This paper aims to present an advanced version of PP-hardness proof of Minesweeper by Bondt. The advancement includes improved Minesweeper configurations for 'logic circuits' in a hexagonal Minesweeper. To do so, I demonstrate logical uncertainty in Minesweeper, which ironically allows a possibility to make some Boolean operators.
+  The fact that existing hexagonal logic circuits did not clearly distinguish the true and false signal needs an improved form of a hexagonal wire. I introduce new forms of logic circuits such as NOT, AND, OR gates, a curve and a splitter of wires. Moreover, these new logic circuits complement Bondt's proof for PP-hardness of Minesweeper by giving a new figure.

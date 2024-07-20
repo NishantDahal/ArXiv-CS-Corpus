@@ -1,0 +1,3 @@
+Semantic subtyping for non-strict languages
+
+Semantic subtyping is an approach to define subtyping relations for type systems featuring union and intersection type connectives. It has been studied only for strict languages, and it is unsound for non-strict semantics. In this work, we study how to adapt this approach to non-strict languages: in particular, we define a type system using semantic subtyping for a functional language with a call-by-need semantics. We do so by introducing an explicit representation for divergence in the types, so that the type system distinguishes expressions that are results from those which are computations that might diverge.

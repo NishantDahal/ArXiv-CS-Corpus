@@ -1,0 +1,4 @@
+Correctness and completeness of logic programs
+
+We discuss proving correctness and completeness of definite clause logic programs. We propose a method for proving completeness, while for proving correctness we employ a method which should be well known but is often neglected. Also, we show how to prove completeness and correctness in the presence of SLD-tree pruning, and point out that approximate specifications simplify specifications and proofs.
+  We compare the proof methods to declarative diagnosis (algorithmic debugging), showing that approximate specifications eliminate a major drawback of the latter. We argue that our proof methods reflect natural declarative thinking about programs, and that they can be used, formally or informally, in every-day programming.

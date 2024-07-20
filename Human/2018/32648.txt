@@ -1,0 +1,3 @@
+The Global Optimization Geometry of Shallow Linear Neural Networks
+
+We examine the squared error loss landscape of shallow linear neural networks. We show---with significantly milder assumptions than previous works---that the corresponding optimization problems have benign geometric properties: there are no spurious local minima and the Hessian at every saddle point has at least one negative eigenvalue. This means that at every saddle point there is a directional negative curvature which algorithms can utilize to further decrease the objective value. These geometric properties imply that many local search algorithms (such as the gradient descent which is widely utilized for training neural networks) can provably solve the training problem with global convergence.

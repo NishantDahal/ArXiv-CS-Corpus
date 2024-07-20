@@ -1,0 +1,3 @@
+Robust PCA for Anomaly Detection in Cyber Networks
+
+This paper uses network packet capture data to demonstrate how Robust Principal Component Analysis (RPCA) can be used in a new way to detect anomalies which serve as cyber-network attack indicators. The approach requires only a few parameters to be learned using partitioned training data and shows promise of ameliorating the need for an exhaustive set of examples of different types of network attacks. For Lincoln Lab's DARPA intrusion detection data set, the method achieves low false-positive rates while maintaining reasonable true-positive rates on individual packets. In addition, the method correctly detected packet streams in which an attack which was not previously encountered, or trained on, appears.

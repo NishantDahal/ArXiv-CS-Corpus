@@ -1,0 +1,3 @@
+Distributed Adaptive LMF Algorithm for Sparse Parameter Estimation in Gaussian Mixture Noise
+
+A distributed adaptive algorithm for estimation of sparse unknown parameters in the presence of nonGaussian noise is proposed in this paper based on normalized least mean fourth (NLMF) criterion. At the first step, local adaptive NLMF algorithm is modified by zero norm in order to speed up the convergence rate and also to reduce the steady state error power in sparse conditions. Then, the proposed algorithm is extended for distributed scenario in which more improvement in estimation performance is achieved due to cooperation of local adaptive filters. Simulation results show the superiority of the proposed algorithm in comparison with conventional NLMF algorithms.

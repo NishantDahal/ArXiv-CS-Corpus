@@ -1,0 +1,3 @@
+Semantic Classification of 3D Point Clouds with Multiscale Spherical Neighborhoods
+
+This paper introduces a new definition of multiscale neighborhoods in 3D point clouds. This definition, based on spherical neighborhoods and proportional subsampling, allows the computation of features with a consistent geometrical meaning, which is not the case when using k-nearest neighbors. With an appropriate learning strategy, the proposed features can be used in a random forest to classify 3D points. In this semantic classification task, we show that our multiscale features outperform state-of-the-art features using the same experimental conditions. Furthermore, their classification power competes with more elaborate classification approaches including Deep Learning methods.

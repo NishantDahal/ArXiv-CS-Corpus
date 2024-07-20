@@ -1,0 +1,3 @@
+Conductance and Eigenvalue
+
+We show the following. \begin{theorem} Let $M$ be an finite-state ergodic time-reversible Markov chain with transition matrix $P$ and conductance $φ$. Let $λ\in (0,1)$ be an eigenvalue of $P$. Then, $$φ^2 + λ^2 \leq 1$$ \end{theorem} This strengthens the well-known~\cite{HLW,Dod84, AM85, Alo86, JS89} inequality $λ\leq 1- φ^2/2$. We obtain our result by a slight variation in the proof method in \cite{JS89, HLW}; the same method was used earlier in \cite{RS06} to obtain the same inequality for random walks on regular undirected graphs.

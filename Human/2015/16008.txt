@@ -1,0 +1,3 @@
+Dualization in Lattices Given by Ordered Sets of Irreducibles
+
+Dualization of a monotone Boolean function on a finite lattice can be represented by transforming the set of its minimal 1 to the set of its maximal 0 values. In this paper we consider finite lattices given by ordered sets of their meet and join irreducibles (i.e., as a concept lattice of a formal context). We show that in this case dualization is equivalent to the enumeration of so-called minimal hypotheses. In contrast to usual dualization setting, where a lattice is given by the ordered set of its elements, dualization in this case is shown to be impossible in output polynomial time unless P = NP. However, if the lattice is distributive, dualization is shown to be possible in subexponential time.

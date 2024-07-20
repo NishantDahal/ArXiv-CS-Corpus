@@ -1,0 +1,7 @@
+Stochastic Models for Budget Optimization in Search-Based Advertising
+
+Internet search companies sell advertisement slots based on users' search queries via an auction. Advertisers have to determine how to place bids on the keywords of their interest in order to maximize their return for a given budget: this is the budget optimization problem. The solution depends on the distribution of future queries.
+  In this paper, we formulate stochastic versions of the budget optimization problem based on natural probabilistic models of distribution over future queries, and address two questions that arise.
+  [Evaluation] Given a solution, can we evaluate the expected value of the objective function?
+  [Optimization] Can we find a solution that maximizes the objective function in expectation?
+  Our main results are approximation and complexity results for these two problems in our three stochastic models. In particular, our algorithmic results show that simple prefix strategies that bid on all cheap keywords up to some level are either optimal or good approximations for many cases; we show other cases to be NP-hard.

@@ -1,0 +1,3 @@
+Determination of hysteresis in finite-state random walks using Bayesian cross validation
+
+Consider the problem of modeling hysteresis for finite-state random walks using higher-order Markov chains. This Letter introduces a Bayesian framework to determine, from data, the number of prior states of recent history upon which a trajectory is statistically dependent. The general recommendation is to use leave-one-out cross validation, using an easily-computable formula that is provided in closed form. Importantly, Bayes factors using flat model priors are biased in favor of too-complex a model (more hysteresis) when a large amount of data is present and the Akaike information criterion (AIC) is biased in favor of too-sparse a model (less hysteresis) when few data are present.

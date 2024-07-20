@@ -1,0 +1,3 @@
+Asynchronous Event-Driven Particle Algorithms
+
+We present, in a unifying way, the main components of three asynchronous event-driven algorithms for simulating physical systems of interacting particles. The first example, hard-particle molecular dynamics, is well-known. We also present a recently-developed diffusion kinetic Monte Carlo algorithm, as well as a novel stochastic molecular-dynamics algorithm that builds on the Direct Simulation Monte Carlo. We explain how to effectively combine asynchronous event-driven with classical time-driven or with synchronous event-driven handling. Finally, we discuss some promises and challenges for event-driven simulation of realistic physical systems.

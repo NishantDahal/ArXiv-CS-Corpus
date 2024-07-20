@@ -1,0 +1,3 @@
+Optimized Hidden Markov Model based on Constrained Particle Swarm Optimization
+
+As one of Bayesian analysis tools, Hidden Markov Model (HMM) has been used to in extensive applications. Most HMMs are solved by Baum-Welch algorithm (BWHMM) to predict the model parameters, which is difficult to find global optimal solutions. This paper proposes an optimized Hidden Markov Model with Particle Swarm Optimization (PSO) algorithm and so is called PSOHMM. In order to overcome the statistical constraints in HMM, the paper develops re-normalization and re-mapping mechanisms to ensure the constraints in HMM. The experiments have shown that PSOHMM can search better solution than BWHMM, and has faster convergence speed.

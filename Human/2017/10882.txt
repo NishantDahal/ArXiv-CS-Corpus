@@ -1,0 +1,3 @@
+An approach to reachability analysis for feed-forward ReLU neural networks
+
+We study the reachability problem for systems implemented as feed-forward neural networks whose activation function is implemented via ReLU functions. We draw a correspondence between establishing whether some arbitrary output can ever be outputed by a neural system and linear problems characterising a neural system of interest. We present a methodology to solve cases of practical interest by means of a state-of-the-art linear programs solver. We evaluate the technique presented by discussing the experimental results obtained by analysing reachability properties for a number of benchmarks in the literature.

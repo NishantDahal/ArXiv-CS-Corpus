@@ -1,0 +1,3 @@
+The Complexity of Ferromagnetic Two-spin Systems with External Fields
+
+We study the approximability of computing the partition function for ferromagnetic two-state spin systems. The remarkable algorithm by Jerrum and Sinclair showed that there is a fully polynomial-time randomized approximation scheme (FPRAS) for the special ferromagnetic Ising model with any given uniform external field. Later, Goldberg and Jerrum proved that it is #BIS-hard for Ising model if we allow inconsistent external fields on different nodes. In contrast to these two results, we prove that for any ferromagnetic two-state spin systems except the Ising model, there exists a threshold for external fields beyond which the problem is #BIS-hard, even if the external field is uniform.

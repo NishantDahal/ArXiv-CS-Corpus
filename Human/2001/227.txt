@@ -1,0 +1,3 @@
+Approximating the satisfiability threshold for random k-XOR-formulas
+
+In this paper we study random linear systems with $k$ variables per equation over the finite field GF(2), or equivalently $k$-XOR-CNF formulas. In a previous paper Creignou and Daudé proved that the phase transition for the consistency (satisfiability) of such systems (formulas) exhibits a sharp threshold. Here we prove that the phase transition occurs as the number of equations (clauses) is proportional to the number of variables. For any $k\ge 3$ we establish first estimates for the critical ratio. For $k=3$ we get 0.93 as an upper bound, 0.89 as a lower bound, whereas experiments suggest that the critical ratio is approximately 0.92.

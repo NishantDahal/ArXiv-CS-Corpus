@@ -1,0 +1,3 @@
+CycleGAN Face-off
+
+Face-off is an interesting case of style transfer where the facial expressions and attributes of one person could be fully transformed to another face. We are interested in the unsupervised training process which only requires two sequences of unaligned video frames from each person and learns what shared attributes to extract automatically. In this project, we explored various improvements for adversarial training (i.e. CycleGAN[Zhu et al., 2017]) to capture details in facial expressions and head poses and thus generate transformation videos of higher consistency and stability.

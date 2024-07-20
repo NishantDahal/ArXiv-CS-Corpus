@@ -1,0 +1,4 @@
+Testing Java implementations of algebraic specifications
+
+In this paper we focus on exploiting a specification and the structures that satisfy it, to obtain a means of comparing implemented and expected behaviours and find the origin of faults in implementations. We present an approach to the creation of tests that are based on those specification-compliant structures, and to the interpretation of those tests' results leading to the discovery of the method responsible for an eventual test failure. Results of comparative experiments with a tool implementing this approach are presented.
+

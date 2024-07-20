@@ -1,0 +1,3 @@
+Building and displaying name relations using automatic unsupervised analysis of newspaper articles
+
+We present a tool that, from automatically recognised names, tries to infer inter-person relations in order to present associated people on maps. Based on an in-house Named Entity Recognition tool, applied on clusters of an average of 15,000 news articles per day, in 15 different languages, we build a knowledge base that allows extracting statistical co-occurrences of persons and visualising them on a per-person page or in various graphs.

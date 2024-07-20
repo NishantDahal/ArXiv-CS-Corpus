@@ -1,0 +1,3 @@
+Scheduling Autonomous Vehicle Platoons Through an Unregulated Intersection
+
+We study various versions of the problem of scheduling platoons of autonomous vehicles through an unregulated intersection, where an algorithm must schedule which platoons should wait so that others can go through, so as to minimize the maximum delay for any vehicle. We provide polynomial-time algorithms for constructing such schedules for a $k$-way merge intersection, for constant $k$, and for a crossing intersection involving two-way traffic. We also show that the more general problem of scheduling autonomous platoons through an intersection that includes both a $k$-way merge, for non-constant $k$, and a crossing of two-way traffic is NP-complete.

@@ -1,0 +1,3 @@
+When Are Nonconvex Problems Not Scary?
+
+In this note, we focus on smooth nonconvex optimization problems that obey: (1) all local minimizers are also global; and (2) around any saddle point or local maximizer, the objective has a negative directional curvature. Concrete applications such as dictionary learning, generalized phase retrieval, and orthogonal tensor decomposition are known to induce such structures. We describe a second-order trust-region algorithm that provably converges to a global minimizer efficiently, without special initializations. Finally we highlight alternatives, and open problems in this direction.

@@ -1,0 +1,5 @@
+A Near-Linear Pseudopolynomial Time Algorithm for Subset Sum
+
+Given a set $Z$ of $n$ positive integers and a target value $t$, the Subset Sum problem asks whether any subset of $Z$ sums to $t$. A textbook pseudopolynomial time algorithm by Bellman from 1957 solves Subset Sum in time $O(nt)$. This has been improved to $O(n \max Z)$ by Pisinger [J. Algorithms'99] and recently to $\tilde O(\sqrt{n} t)$ by Koiliaris and Xu [SODA'17].
+  Here we present a simple randomized algorithm running in time $\tilde O(n+t)$. This improves upon a classic algorithm and is likely to be near-optimal, since it matches conditional lower bounds from Set Cover and k-Clique.
+  We then use our new algorithm and additional tricks to improve the best known polynomial space solution from time $\tilde O(n^3 t)$ and space $\tilde O(n^2)$ to time $\tilde O(nt)$ and space $\tilde O(n \log t)$, assuming the Extended Riemann Hypothesis. Unconditionally, we obtain time $\tilde O(n t^{1+\varepsilon})$ and space $\tilde O(n t^\varepsilon)$ for any constant $\varepsilon > 0$.

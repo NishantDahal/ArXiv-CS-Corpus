@@ -1,0 +1,3 @@
+Parallel Enumeration of Triangulations
+
+We report on the implementation of an algorithm for computing the set of all regular triangulations of finitely many points in Euclidean space. This algorithm, which we call down-flip reverse search, can be restricted, e.g., to computing full triangulations only; this case is particularly relevant for tropical geometry. Most importantly, down-flip reverse search allows for massive parallelization, i.e., it scales well even for many cores. Our implementation allows to compute the triangulations of much larger point sets than before.

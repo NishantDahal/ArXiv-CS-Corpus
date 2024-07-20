@@ -1,0 +1,3 @@
+Self-Aligned Double Patterning Friendly Configuration for Standard Cell Library Considering Placement
+
+Self-aligned double patterning (SADP) has become a promising technique to push pattern resolution limit to sub-22nm technology node. Although SADP provides good overlay controllability, it encounters many challenges in physical design stages to obtain conflict-free layout decomposition. In this paper, we study the impact on placement by different standard cell layout decomposition strategies. We propose a SADP friendly standard cell configuration which provides pre-coloring results for standard cells. These configurations are brought into the placement stage to help ensure layout decomposability and save the extra effort for solving conflicts in later stages.

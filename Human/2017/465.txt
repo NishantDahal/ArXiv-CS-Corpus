@@ -1,0 +1,3 @@
+Using LLVM-based JIT Compilation in Genetic Programming
+
+The paper describes an approach to implementing genetic programming, which uses the LLVM library to just-in-time compile/interpret the evolved abstract syntax trees. The solution is described in some detail, including a parser (based on FlexC++ and BisonC++) that can construct the trees from a simple toy language with C-like syntax. The approach is compared with a previous implementation (based on direct execution of trees using polymorphic functors) in terms of execution speed.

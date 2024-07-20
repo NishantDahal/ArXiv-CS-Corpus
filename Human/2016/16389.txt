@@ -1,0 +1,3 @@
+Approximation Algorithms for Stochastic k-TSP
+
+We consider the stochastic $k$-TSP problem where rewards at vertices are random and the objective is to minimize the expected length of a tour that collects reward $k$. We present an adaptive $O(\log k)$-approximation algorithm, and a non-adaptive $O(\log^2k)$-approximation algorithm. We also show that the adaptivity gap of this problem is between $e$ and $O(\log^2k)$.

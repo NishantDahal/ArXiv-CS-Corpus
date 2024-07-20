@@ -1,0 +1,3 @@
+Unsupervised preprocessing for Tactile Data
+
+Tactile information is important for gripping, stable grasp, and in-hand manipulation, yet the complexity of tactile data prevents widespread use of such sensors. We make use of an unsupervised learning algorithm that transforms the complex tactile data into a compact, latent representation without the need to record ground truth reference data. These compact representations can either be used directly in a reinforcement learning based controller or can be used to calibrate the tactile sensor to physical quantities with only a few datapoints. We show the quality of our latent representation by predicting important features and with a simple control task.

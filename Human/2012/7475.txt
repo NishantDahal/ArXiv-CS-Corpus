@@ -1,0 +1,4 @@
+Testing Lipschitz Property over Product Distribution and its Applications to Statistical Data Privacy
+
+In this work, we present a connection between Lipschitz property testing and a relaxed notion of differential privacy, where we assume that the datasets are being sampled from a domain according to some distribution defined on it. Specifically, we show that testing whether an algorithm is private can be reduced to testing Lipschitz property in the distributional setting.
+  We also initiate the study of distribution Lipschitz testing. We present an efficient Lipschitz tester for the hypercube domain when the "distance to property" is measured with respect to product distribution. Most previous works in property testing of functions (including prior works on Lipschitz testing) work with uniform distribution.

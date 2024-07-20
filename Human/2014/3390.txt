@@ -1,0 +1,3 @@
+Dynamic autotuning of adaptive fast multipole methods on hybrid multicore CPU & GPU systems
+
+We discuss an implementation of adaptive fast multipole methods targeting hybrid multicore CPU- and GPU-systems. From previous experiences with the computational profile of our version of the fast multipole algorithm, suitable parts are off-loaded to the GPU, while the remaining parts are threaded and executed concurrently by the CPU. The parameters defining the algorithm affects the performance and by measuring this effect we are able to dynamically balance the algorithm towards optimal performance. Our setup uses the dynamic nature of the computations and is therefore of general character.

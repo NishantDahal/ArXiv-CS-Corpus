@@ -1,0 +1,3 @@
+The Primal versus the Dual Ising Model
+
+We represent the Ising model of statistical physics by normal factor graphs in the primal and in the dual domains. By analogy with Kirchhoff's voltage and current laws, we show that in the primal normal factor graphs, the dependency among the variables is along the cycles, whereas in the dual normal factor graphs, the dependency is on the cutsets. In the primal (resp. dual) domain, dependent variables can be computed via their fundamental cycles (resp. fundamental cutsets). Using Onsager's closed form solution, we illustrate the opposite behavior of the uniform sampling estimator for estimating the partition function in the primal and in the dual of the homogeneous Ising model on a two-dimensional torus.

@@ -1,0 +1,3 @@
+A Framework for Prefetching Relevant Web Pages using Predictive Prefetching Engine (PPE)
+
+This paper presents a framework for increasing the relevancy of the web pages retrieved by the search engine. The approach introduces a Predictive Prefetching Engine (PPE) which makes use of various data mining algorithms on the log maintained by the search engine. The underlying premise of the approach is that in the case of cluster accesses, the next pages requested by users of the Web server are typically based on the current and previous pages requested. Based on same, rules are drawn which then lead the path for prefetching the desired pages. To carry out the desired task of prefetching the more relevant pages, agents have been introduced.

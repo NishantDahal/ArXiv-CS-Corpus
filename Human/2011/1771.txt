@@ -1,0 +1,4 @@
+Determining L(2,1)-Span in Polynomial Space
+
+A $k$-L(2,1)-labeling of a graph is a function from its vertex set into the set $\{0,...,k\}$, such that the labels assigned to adjacent vertices differ by at least 2, and labels assigned to vertices of distance 2 are different. It is known that finding the smallest $k$ admitting the existence of a $k$-L(2,1)-labeling of any given graph is NP-Complete.
+  In this paper we present an algorithm for this problem, which works in time $O(\complexity ^n)$ and polynomial memory, where $\eps$ is an arbitrarily small positive constant. This is the first exact algorithm for L(2,1)-labeling problem with time complexity $O(c^n)$ for some constant $c$ and polynomial space complexity.

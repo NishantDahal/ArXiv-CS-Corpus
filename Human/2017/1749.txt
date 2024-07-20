@@ -1,0 +1,3 @@
+A Linear Time Algorithm for Solving #2SAT on Cactus Formulas
+
+An O(n+m)-time algorithm is presented for counting the number of models of a two Conjunctive Normal Form Formula F that represents a Cactus graph, where n is the number of variables and m is the number of clauses of F. Although, it was already known that this class of formulas could be computed in polynomial time, we compare our proposal algorithm with two state of the art implementations for the same problem, sharpSAT and countAntom. The results of the comparison show that our algorithm outperforms both implementations, and it can be considered as a base case for general counting of two Conjunctive Normal Form Formulas.

@@ -1,0 +1,3 @@
+Transformer for Emotion Recognition
+
+This paper describes the UMONS solution for the OMG-Emotion Challenge. We explore a context-dependent architecture where the arousal and valence of an utterance are predicted according to its surrounding context (i.e. the preceding and following utterances of the video). We report an improvement when taking into account context for both unimodal and multimodal predictions.

@@ -1,0 +1,3 @@
+House Price Prediction Using LSTM
+
+In this paper, we use the house price data ranging from January 2004 to October 2016 to predict the average house price of November and December in 2016 for each district in Beijing, Shanghai, Guangzhou and Shenzhen. We apply Autoregressive Integrated Moving Average model to generate the baseline while LSTM networks to build prediction model. These algorithms are compared in terms of Mean Squared Error. The result shows that the LSTM model has excellent properties with respect to predict time series. Also, stateful LSTM networks and stack LSTM networks are employed to further study the improvement of accuracy of the house prediction model.

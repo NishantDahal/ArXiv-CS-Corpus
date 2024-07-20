@@ -1,0 +1,3 @@
+Automatic Generation of a Hybrid Query Execution Engine
+
+The ever-increasing need for fast data processing demands new methods for efficient query execution. Just-in-time query compilation techniques have been demonstrated to improve performance in a set of analytical tasks significantly. In this work, we investigate the possibility of adding this approach to existing database solutions and the benefits it provides. To that end, we create a set of automated tools to create a runtime code generation engine and integrate such an engine into SQLite which is one of the most popular relational databases in the world and is used in a large variety of contexts. Speedups of up to 1.7x were observed in microbenchmarks with queries involving a large number of operations.

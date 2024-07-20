@@ -1,0 +1,3 @@
+Algorithms using Java for Spreadsheet Dependent Cell Recomputation
+
+Java implementations of algorithms used by spreadsheets to automatically recompute the set of cells dependent on a changed cell are described using a mathematical model for spreadsheets based on graph theory. These solutions comprise part of a Java API that allows a client application to read, modify, and maintain spreadsheet data without using the spreadsheet application program that produced it. Features of the Java language that successfully improve the running time performance of the algorithms are also described.

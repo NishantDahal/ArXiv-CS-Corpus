@@ -1,0 +1,3 @@
+The Golden Quantizer: The Complex Gaussian Random Variable Case
+
+The problem of quantizing a circularly-symmetric complex Gaussian random variable is considered. For this purpose, we design two non-uniform quantizers, a high-rate-, and a Lloyd-Max-, quantizer that are both based on the (golden angle) spiral-phyllotaxis packing principle. We find that the proposed schemes have lower mean-square error distortion compared to (non)-uniform polar/rectangular-quantizers, and near-identical to the best performing trained vector quantizers. The proposed quantizer scheme offers a structured design, a simple natural index ordering, and allow for any number of centroids.

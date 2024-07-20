@@ -1,0 +1,3 @@
+Efficient Authenticated Encryption Schemes with Public Verifiability
+
+An authenticated encryption scheme allows messages to be encrypted and authenticated simultaneously. In 2003, Ma and Chen proposed such a scheme with public verifiability. That is, in their scheme the receiver can efficiently prove to a third party that a message is indeed originated from a specific sender. In this paper, we first identify two security weaknesses in the Ma-Chen authenticated encryption scheme. Then, based on the Schnorr signature, we proposed an efficient and secure improved scheme such that all the desired security requirements are satisfied.

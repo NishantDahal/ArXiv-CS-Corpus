@@ -1,0 +1,3 @@
+Mathematical Model for Detection of Leakage in Domestic Water Supply Systems by Reading Consumption from an Analogue Water Meter
+
+In this article we introduce the principles to detect leakage using a mathematical model based on machine learning and domestic water consumption monitoring in real time. The model uses data which is measured from a water meter, analyzes the water consumption, and uses two criteria simultaneously: deviation from the average consumption, and comparison of steady water consumptions over a period of time. Simulation of the model on a regular household consumer was implemented on Antileaks - device that we have built that designed to transfer consumption information from an analogue water meter to a digital form in real time.

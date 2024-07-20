@@ -1,0 +1,3 @@
+Deep Algorithms: designs for networks
+
+A new design methodology for neural networks that is guided by traditional algorithm design is presented. To prove our point, we present two heuristics and demonstrate an algorithmic technique for incorporating additional weights in their signal-flow graphs. We show that with training the performance of these networks can not only exceed the performance of the initial network, but can match the performance of more-traditional neural network architectures. A key feature of our approach is that these networks are initialized with parameters that provide a known performance threshold for the architecture on a given task.

@@ -1,0 +1,3 @@
+Golden-Coded Index Coding
+
+We study the problem of constructing good space-time codes for broadcasting $K$ independent messages over a MIMO network to $L$ users, where each user demands all the messages and already has a subset of messages as side information. As a first attempt, we consider the $2\times 2$ case and propose golden-coded index coding by partitioning the golden codes into $K$ subcodes, one for each message. The proposed scheme is shown to have the property that for any side information configuration, the minimum determinant of the code increases exponentially with the amount of information contained in the side information.

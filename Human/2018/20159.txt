@@ -1,0 +1,3 @@
+A Calculus of Cyber-Physical Systems
+
+We propose a hybrid process calculus for modelling and reasoning on cyber-physical systems (CPS{s}). The dynamics of the calculus is expressed in terms of a labelled transition system in the SOS style of Plotkin. This is used to define a bisimulation-based behavioural semantics which support compositional reasonings. Finally, we prove run-time properties and system equalities for a non-trivial case study.

@@ -1,0 +1,3 @@
+Translating Event-B machines to Eiffel programs
+
+Formal modelling languages play a key role in the development of software since they enable users to prove correctness of system properties. However, there is still not a clear understanding on how to map a formal model to a specific programming language. In order to propose a solution, this paper presents a source-to-source mapping between Event- B models and Eiffel programs, therefore enabling the proof of correctness of certain system properties via Design-by-Contract (natively supported by Eiffel), while still making use of all features of O-O programming.

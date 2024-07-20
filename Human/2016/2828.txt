@@ -1,0 +1,3 @@
+TrendLearner: Early Prediction of Popularity Trends of User Generated Content
+
+We here focus on the problem of predicting the popularity trend of user generated content (UGC) as early as possible. Taking YouTube videos as case study, we propose a novel two-step learning approach that: (1) extracts popularity trends from previously uploaded objects, and (2) predicts trends for new content. Unlike previous work, our solution explicitly addresses the inherent tradeoff between prediction accuracy and remaining interest in the content after prediction, solving it on a per-object basis. Our experimental results show great improvements of our solution over alternatives, and its applicability to improve the accuracy of state-of-the-art popularity prediction methods.

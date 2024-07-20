@@ -1,0 +1,6 @@
+Further limitations of the known approaches for matrix multiplication
+
+We consider the techniques behind the current best algorithms for matrix multiplication. Our results are threefold.
+  (1) We provide a unifying framework, showing that all known matrix multiplication running times since 1986 can be achieved from a single very natural tensor - the structural tensor $T_q$ of addition modulo an integer $q$.
+  (2) We show that if one applies a generalization of the known techniques (arbitrary zeroing out of tensor powers to obtain independent matrix products in order to use the asymptotic sum inequality of Schönhage) to an arbitrary monomial degeneration of $T_q$, then there is an explicit lower bound, depending on $q$, on the bound on the matrix multiplication exponent $ω$ that one can achieve. We also show upper bounds on the value $α$ that one can achieve, where $α$ is such that $n\times n^α\times n$ matrix multiplication can be computed in $n^{2+o(1)}$ time.
+  (3) We show that our lower bound on $ω$ approaches $2$ as $q$ goes to infinity. This suggests a promising approach to improving the bound on $ω$: for variable $q$, find a monomial degeneration of $T_q$ which, using the known techniques, produces an upper bound on $ω$ as a function of $q$. Then, take $q$ to infinity. It is not ruled out, and hence possible, that one can obtain $ω=2$ in this way.

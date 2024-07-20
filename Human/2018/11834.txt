@@ -1,0 +1,3 @@
+The cover time of a biased random walk on a random regular graph of odd degree
+
+We consider a random walk process which prefers to visit previously unvisited edges, on the random $r$-regular graph $G_r$ for any odd $r\geq 3$. We show that this random walk process has asymptotic vertex and edge cover times $\frac{1}{r-2}n\log n$ and $\frac{r}{2(r-2)}n\log n$, respectively, generalizing the result from Cooper, Frieze and Johansson from $r = 3$ to any larger odd $r$. This completes the study of the vertex cover time for fixed $r\geq 3$, with Berenbrink, Cooper and Friedetzky having previously shown that $G_r$ has vertex cover time asymptotic to $\frac{rn}{2}$ when $r\geq 4$ is even.

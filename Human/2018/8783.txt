@@ -1,0 +1,5 @@
+On the Complexity of Team Logic and its Two-Variable Fragment
+
+We study the logic FO(~), the extension of first-order logic with team semantics by unrestricted Boolean negation. It was recently shown axiomatizable, but otherwise has not yet received much attention in questions of computational complexity.
+  In this paper, we consider its two-variable fragment FO2(~) and prove that its satisfiability problem is decidable, and in fact complete for the recently introduced non-elementary class TOWER(poly). Moreover, we classify the complexity of model checking of FO(~) with respect to the number of variables and the quantifier rank, and prove a dichotomy between PSPACE- and ATIME-ALT(exp, poly)-completeness.
+  To achieve the lower bounds, we propose a translation from modal team logic MTL to FO2(~) that extends the well-known standard translation from modal logic ML to FO2. For the upper bounds, we translate to a fragment of second-order logic.

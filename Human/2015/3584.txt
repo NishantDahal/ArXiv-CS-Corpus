@@ -1,0 +1,3 @@
+Generating a Quadratic Forms from a Given Genus
+
+Given a non-empty genus in $n$ dimensions with determinant $d$, we give a randomized algorithm that outputs a quadratic form from this genus. The time complexity of the algorithm is poly$(n,\log d)$; assuming Generalized Riemann Hypothesis (GRH).

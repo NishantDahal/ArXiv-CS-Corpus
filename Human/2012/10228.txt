@@ -1,0 +1,3 @@
+A General Framework for the Derivation of Regular Expressions
+
+The aim of this paper is to design a theoretical framework that allows us to perform the computation of regular expression derivatives through a space of generic structures. Thanks to this formalism, the main properties of regular expression derivation, such as the finiteness of the set of derivatives, need only be stated and proved one time, at the top level. Moreover, it is shown how to construct an alternating automaton associated with the derivation of a regular expression in this general framework. Finally, Brzozowski's derivation and Antimirov's derivation turn out to be a particular case of this general scheme and it is shown how to construct a DFA, a NFA and an AFA for both of these derivations.

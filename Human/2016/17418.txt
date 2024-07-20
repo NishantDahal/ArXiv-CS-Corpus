@@ -1,0 +1,3 @@
+A Framework for Collision-Tolerant Optimal Trajectory Planning of Autonomous Vehicles
+
+Collision-tolerant trajectory planning is the consideration that collisions, if they are planned appropriately, enable more effective path planning for robots capable of handling them. A mixed integer programming (MIP) optimization formulation demonstrates the computational practicality of optimizing trajectories that comprise planned collisions. A damage quantification function is proposed, and the influence of damage functions constraints on the trajectory are studied in simulation. Using a simple example, an increase in performance is achieved under this schema as compared to collision-free optimal trajectories.

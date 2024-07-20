@@ -1,0 +1,3 @@
+Effects of GIMP Retinex Filtering Evaluated by the Image Entropy
+
+A GIMP Retinex filtering can be used for enhancing images, with good results on foggy images, as recently discussed. Since this filter has some parameters that can be adjusted to optimize the output image, several approaches can be decided according to desired results. Here, as a criterion for optimizing the filtering parameters, we consider the maximization of the image entropy. We use, besides the Shannon entropy, also a generalized entropy.

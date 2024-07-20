@@ -1,0 +1,3 @@
+A note on Thue games
+
+In this work we improve on a result from~\cite{GryKosZma15}. In particular, we investigate the situation where a word is constructed jointly by two players who alternately append letters to the end of an existing word. One of the players (Ann) tries to avoid (non-trivial) repetitions, while the other one (Ben) tries to enforce them. We show a construction that is closer to the lower bound showed in~\cite{GryKozMic13} using entropy compression, and building on the probabilistic arguments based on a version of the Lovász Local Lemma from~\cite{Peg11}. We provide an explicit strategy for Ann to avoid (non-trivial) repetitions over a $7$-letter alphabet.

@@ -1,0 +1,5 @@
+Contributions to Biclustering of Microarray Data Using Formal Concept Analysis
+
+Biclustering is an unsupervised data mining technique that aims to unveil patterns (biclusters) from gene expression data matrices. In the framework of this thesis, we propose new biclustering algorithms for microarray data. The latter is done using data mining techniques. The objective is to identify positively and negatively correlated biclusters.
+  This thesis is divided into two part: In the first part, we present an overview of the pattern-mining techniques and the biclustering of microarray data. In the second part, we present our proposed biclustering algorithms where we rely on two axes. In the first axis, we initially focus on extracting biclusters of positive correlations. For this, we use both Formal Concept Analysis and Association Rules. In the second axis, we focus on the extraction of negatively correlated biclusters.
+  The performed experimental studies highlight the very promising results offered by the proposed algorithms. Our biclustering algorithms are evaluated and compared statistically and biologically.

@@ -1,0 +1,3 @@
+Hop Doubling Label Indexing for Point-to-Point Distance Querying on Scale-Free Networks
+
+We study the problem of point-to-point distance querying for massive scale-free graphs, which is important for numerous applications. Given a directed or undirected graph, we propose to build an index for answering such queries based on a hop-doubling labeling technique. We derive bounds on the index size, the computation costs and I/O costs based on the properties of unweighted scale-free graphs. We show that our method is much more efficient compared to the state-of-the-art technique, in terms of both querying time and indexing time. Our empirical study shows that our method can handle graphs that are orders of magnitude larger than existing methods.

@@ -1,0 +1,5 @@
+Tight Approximation Ratio of Anonymous Pricing
+
+We consider two canonical Bayesian mechanism design settings. In the single-item setting, we prove tight approximation ratio for anonymous pricing: compared with Myerson Auction, it extracts at least $\frac{1}{2.62}$-fraction of revenue; there is a matching lower-bound example.
+  In the unit-demand single-buyer setting, we prove tight approximation ratio between the simplest and optimal deterministic mechanisms: in terms of revenue, uniform pricing admits a $2.62$-approximation of item pricing; we further validate the tightness of this ratio.
+  These results settle two open problems asked in~\cite{H13,CD15,AHNPY15,L17,JLTX18}. As an implication, in the single-item setting: we improve the approximation ratio of the second-price auction with anonymous reserve to $2.62$, which breaks the state-of-the-art upper bound of $e \approx 2.72$.

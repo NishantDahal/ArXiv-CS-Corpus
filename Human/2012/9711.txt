@@ -1,0 +1,3 @@
+Faster Approximation of Max Flow for Directed Graphs
+
+I extend the methods in "Electrical Flows, Laplacian Systems, and Faster Approximation of Maximum Flow in Undirected Graphs, with Paul Christiano, Jonathan Kelner, Daniel Spielman, and Shang-Hua Teng" to directed graphs with a variation of the framework in the paper, which lead to an algorithm that approximately solves the directed max flow problem in nearly-linear time.

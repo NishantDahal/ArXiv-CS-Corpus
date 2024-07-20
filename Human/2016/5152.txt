@@ -1,0 +1,3 @@
+A New Method of Verification of Functional Programs
+
+In the paper the problem of verification of functional programs (FPs) over strings is considered, where specifications of properties of FPs are defined by other FPs, and a FP S1 meets a specification defined by another FP S2 iff a composition of functions defined by the FPs S1 and S2 is equal to the constant 1. We introduce a concept of a state diagram of a FP, and reduce the verification problem to the problem of an analysis of the state diagrams of FPs. The proposed approach is illustrated by the example of verification of a sorting program.

@@ -1,0 +1,3 @@
+A Concurrent Model for Imperative Languages with Improved Atomicity
+
+We propose a new concurrent model for imperative languages where concurrency occurs at a subprogram level. This model introduces a new {\it block sequential} statement of the form $#(G_1,\ldots,G_n)$ where each $G_i$ is a statement. This statement tells the machine to execute $G_1,\ldots,G_n$ sequentially and atomically (\ie, without interleaving). It therefore enhances atomicity and predictability in concurrent programming. We illustrate our idea via $C^{\|}$, an extension of the core concurrent C with the new block sequential statement.

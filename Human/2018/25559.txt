@@ -1,0 +1,3 @@
+A Purely Functional Computer Algebra System Embedded in Haskell
+
+We demonstrate how methods in Functional Programming can be used to implement a computer algebra system. As a proof-of-concept, we present the computational-algebra package. It is a computer algebra system implemented as an embedded domain-specific language in Haskell, a purely functional programming language. Utilising methods in functional programming and prominent features of Haskell, this library achieves safety, composability, and correctness at the same time. To demonstrate the advantages of our approach, we have implemented advanced Gröbner basis algorithms, such as Faugère's $F_4$ and $F_5$, in a composable way.

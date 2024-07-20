@@ -1,0 +1,6 @@
+Exploring Oracle RDBMS latches using Solaris DTrace
+
+Rise of hundreds cores technologies bring again to the first plan the problem of interprocess synchronization in database engines. Spinlocks are widely used in contemporary DBMS to synchronize processes at microsecond timescale. Latches are Oracle RDBMS specific spinlocks. The latch contention is common to observe in contemporary high concurrency OLTP environments.
+  In contrast to system spinlocks used in operating systems kernels, latches work in user context. Such user level spinlocks are influenced by context preemption and multitasking. Until recently there were no direct methods to measure effectiveness of user spinlocks. This became possible with the emergence of Solaris 10 Dynamic Tracing framework. DTrace allows tracing and profiling both OS and user applications.
+  This work investigates the possibilities to diagnose and tune Oracle latches. It explores the contemporary latch realization and spinning-blocking strategies, analyses corresponding statistic counters.
+  A mathematical model developed to estimate analytically the effect of tuning _SPIN_COUNT value.

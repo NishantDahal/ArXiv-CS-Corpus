@@ -1,0 +1,3 @@
+Considering Polymorphism in Change-Based Test Suite Reduction
+
+With the increasing popularity of continuous integration, algorithms for selecting the minimal test-suite to cover a given set of changes are in order. This paper reports on how polymorphism can handle false negatives in a previous algorithm which uses method-level changes in the base-code to deduce which tests need to be rerun. We compare the approach with and without polymorphism on two distinct cases ---PMD and CruiseControl--- and discovered an interesting trade-off: incorporating polymorphism results in more relevant tests to be included in the test suite (hence improves accuracy), however comes at the cost of a larger test suite (hence increases the time to run the minimal test-suite).

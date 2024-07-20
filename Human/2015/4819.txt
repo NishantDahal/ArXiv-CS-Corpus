@@ -1,0 +1,4 @@
+Space proof complexity for random 3-CNFs
+
+We investigate the space complexity of refuting $3$-CNFs in Resolution and algebraic systems. We prove that every Polynomial Calculus with Resolution refutation of a random $3$-CNF $φ$ in $n$ variables requires, with high probability, $Ω(n)$ distinct monomials to be kept simultaneously in memory. The same construction also proves that every Resolution refutation $φ$ requires, with high probability, $Ω(n)$ clauses each of width $Ω(n)$ to be kept at the same time in memory. This gives a $Ω(n^2)$ lower bound for the total space needed in Resolution to refute $φ$. These results are best possible (up to a constant factor).
+  The main technical innovation is a variant of Hall's Lemma. We show that in bipartite graphs $G$ with bipartition $(L,R)$ and left-degree at most 3, $L$ can be covered by certain families of disjoint paths, called VW-matchings, provided that $L$ expands in $R$ by a factor of $(2-ε)$, for $ε< 1/23$.

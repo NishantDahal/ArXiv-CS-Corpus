@@ -1,0 +1,3 @@
+Facial Expression Recognition Using Sparse Gaussian Conditional Random Field
+
+The analysis of expression and facial Action Units (AUs) detection are very important tasks in fields of computer vision and Human Computer Interaction (HCI) due to the wide range of applications in human life. Many works has been done during the past few years which has their own advantages and disadvantages. In this work we present a new model based on Gaussian Conditional Random Field. We solve our objective problem using ADMM and we show how well the proposed model works. We train and test our work on two facial expression datasets, CK+ and RU-FACS. Experimental evaluation shows that our proposed approach outperform state of the art expression recognition.

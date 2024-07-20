@@ -1,0 +1,3 @@
+Performance Peculiarities of Viterbi Decoder in Mathworks Simulink, GNU Radio and Other Systems with Likewise Implementation
+
+The performance of convolutional codes decoding by the Viterbi algorithm should not depend on the particular distribution of zeros and ones in the input messages, as they are linear. However, it was identified that specific implementations of Add-Compare-Select unit for the Viterbi Algorithm demonstrate the decoding performance that depends on proportion of elements in the input message. It is conjectured that the modern commercial hard- and software defined communication equipment may also feature similar implementation and as such their decoding performance could also vary.

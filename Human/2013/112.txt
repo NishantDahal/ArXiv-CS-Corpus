@@ -1,0 +1,3 @@
+Towards Interactive Object-Oriented Programming
+
+To represent interactive objects, we propose a choice-disjunctive declaration statement of the form S R where S;R are the (procedure or field) declaration statements within a class. This statement has the following semantics: request the user to choose one between S and R when an object of this class is created. This statement is useful for representing interactive objects that require interactions with the user.

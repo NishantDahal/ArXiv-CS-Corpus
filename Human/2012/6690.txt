@@ -1,0 +1,4 @@
+Fixed Parameter Undecidability for Wang Tilesets
+
+Deciding if a given set of Wang tiles admits a tiling of the plane  is decidable if the number of Wang tiles (or the  number of colors) is bounded, for a trivial reason, as there are  only finitely many such tilesets. We prove however that the tiling  problem remains undecidable if the difference between the number of  tiles and the number of colors is bounded by 43. 
+  One of the main new tool is the concept of Wang bars, which are  equivalently inflated Wang tiles or thin polyominoes. 

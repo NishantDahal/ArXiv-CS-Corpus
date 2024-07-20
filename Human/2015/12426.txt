@@ -1,0 +1,3 @@
+Characterizing SEAndroid Policies in the Wild
+
+Starting from the 5.0 Lollipop release all Android processes must be run inside confined SEAndroid access control domains. As a result, Android device manufacturers were compelled to develop SEAndroid expertise in order to create policies for their device-specific components. In this paper we analyse SEAndroid policies from a number of 5.0 Lollipop devices on the market, and identify patterns of common problems we found. We also suggest some practical tools that can improve policy design and analysis. We implemented the first of such tools, SEAL.

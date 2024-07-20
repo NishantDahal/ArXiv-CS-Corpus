@@ -1,0 +1,3 @@
+A Factorization Approach to Inertial Affine Structure from Motion
+
+We consider the problem of reconstructing a 3-D scene from a moving camera with high frame rate using the affine projection model. This problem is traditionally known as Affine Structure from Motion (Affine SfM), and can be solved using an elegant low-rank factorization formulation. In this paper, we assume that an accelerometer and gyro are rigidly mounted with the camera, so that synchronized linear acceleration and angular velocity measurements are available together with the image measurements. We extend the standard Affine SfM algorithm to integrate these measurements through the use of image derivatives.

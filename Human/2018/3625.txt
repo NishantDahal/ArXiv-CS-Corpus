@@ -1,0 +1,3 @@
+Recovering decimation-based cryptographic sequences by means of linear CAs
+
+The sequences produced by the cryptographic sequence generator known as the shrinking generator can be modelled as the output sequences of linear elementary cellular automata. These sequences are composed of interleaved m-sequences produced by linear structures based on feedback shifts. This profitable characteristic can be used in the cryptanalysis of this generator. In this work we propose an algorithm that takes advantage of the inherent linearity of these cellular automata and the interleaved m-sequences. Although irregularly decimated generators have been conceived and designed as non-linear sequence generators, in practice they can be easily analysed in terms of simple linear structures.

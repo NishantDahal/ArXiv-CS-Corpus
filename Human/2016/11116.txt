@@ -1,0 +1,4 @@
+Lecture Notes on the ARV Algorithm for Sparsest Cut
+
+One of the landmarks in approximation algorithms is the $O(\sqrt{\log n})$-approximation algorithm for the Uniform Sparsest Cut problem by Arora, Rao and Vazirani from 2004. The algorithm is based on a semidefinite program that finds an embedding of the nodes respecting the triangle inequality. Their core argument shows that a random hyperplane approach will find two large sets of $Θ(n)$ many nodes each that have a distance of $Θ(1/\sqrt{\log n})$ to each other if measured in terms of $\|\cdot \|_2^2$.
+  Here we give a detailed set of lecture notes describing the algorithm. For the proof of the Structure Theorem we use a cleaner argument based on expected maxima over $k$-neighborhoods that significantly simplifies the analysis.

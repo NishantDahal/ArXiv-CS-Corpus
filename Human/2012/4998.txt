@@ -1,0 +1,3 @@
+Dynamic Verification for File Safety of Multithreaded Programs
+
+In this paper, we present a new semantics to check file safety of multithreaded programs. A file-safe program is one that reaches a final configuration under the proposed semantics. We extend the While language with file operations and multi-threading commands, and call the new language whilef. This paper shows that the file safety is an un-decidable property for whilef. The file safety becomes a decidable property in a special case shown in this paper. The case happens when users provide pointer information. If the file is safe we call it a strongly safe file program. We modify the syntax and the semantic of the language and called it SafeWhilef.

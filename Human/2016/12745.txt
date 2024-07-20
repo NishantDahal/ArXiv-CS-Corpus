@@ -1,0 +1,6 @@
+Few paths, fewer words: model selection with automatic structure functions
+
+We consider the problem of finding an optimal statistical model for a given binary string. Following Kolmogorov, we use structure functions. In order to get concrete results, we replace Turing machines by finite automata and Kolmogorov complexity by Shallit and Wang's automatic complexity.
+  The $p$-value of a model for given data $x$ is the probability that there exists a model with as few states, accepting as few words, fitting uniformly randomly selected data $y$.
+  Deterministic and nondeterministic automata can give different optimal models. For $x=011\, 110\, 110\, 11$, the best deterministic model has $p$-value $0.3$, whereas the best nondeterministic model has $p$-value $0.04$.
+  In the nondeterministic case, counting paths and counting words can give different optimal models. For $x=01100\, 01000$, the best path-counting model has $p$-value $0.79$, whereas the best word-counting model has $p$-value $0.60$.

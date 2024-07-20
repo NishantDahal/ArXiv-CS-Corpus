@@ -1,0 +1,3 @@
+Identity Testing and Lower Bounds for Read-$k$ Oblivious Algebraic Branching Programs
+
+Read-$k$ oblivious algebraic branching programs are a natural generalization of the well-studied model of read-once oblivious algebraic branching program (ROABPs). In this work, we give an exponential lower bound of $\exp(n/k^{O(k)})$ on the width of any read-$k$ oblivious ABP computing some explicit multilinear polynomial $f$ that is computed by a polynomial size depth-$3$ circuit. We also study the polynomial identity testing (PIT) problem for this model and obtain a white-box subexponential-time PIT algorithm. The algorithm runs in time $2^{\tilde{O}(n^{1-1/2^{k-1}})}$ and needs white box access only to know the order in which the variables appear in the ABP.

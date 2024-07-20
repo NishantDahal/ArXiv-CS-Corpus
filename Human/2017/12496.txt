@@ -1,0 +1,3 @@
+Offline software for the DAMPE experiment
+
+A software system has been developed for the DArk Matter Particle Explorer (DAMPE) mission, a satellite-based experiment. The DAMPE software is mainly written in C++ and steered using Python script. This article presents an overview of the DAMPE offline software, including the major architecture design and specific implementation for simulation, calibration and reconstruction. The whole system has been successfully applied to DAMPE data analysis, based on which some results from simulation and beam test experiments are obtained and presented.

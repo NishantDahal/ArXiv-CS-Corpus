@@ -1,0 +1,3 @@
+Space-Time MIMO Multicasting
+
+Multicasting is the general method of conveying the same information to multiple users over a broadcast channel. In this work, the Gaussian MIMO broadcast channel is considered, with multiple users and any number of antennas at each node. A "closed loop" scenario is assumed, for which a practical capacity-achieving multicast scheme is constructed. In the proposed scheme, linear modulation is carried over time and space together, which allows to transform the problem into that of transmission over parallel scalar sub-channels, the gains of which are equal, except for a fraction of sub-channels that vanishes with the number of time slots used. Over these sub-channels, off-the-shelf fixed-rate AWGN codes can be used to approach capacity.

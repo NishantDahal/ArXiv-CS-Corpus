@@ -1,0 +1,3 @@
+A Public-Key Cryptosystem from Interleaved Goppa Codes
+
+In this paper, a code-based public-key cryptosystem based on interleaved Goppa codes is presented. The scheme is based on encrypting several ciphertexts with the same Goppa code and adding a burst error to them. Possible attacks are outlined and the key size of several choices of parameters is compared to those of known schemes for the same security level. For example, for security level 128 bits, we obtain a key size of 696 Kbits whereas the classical McEliece scheme based on Goppa codes using list decoding requires a key size of 1935 Kbits.

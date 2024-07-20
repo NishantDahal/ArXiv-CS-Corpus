@@ -1,0 +1,3 @@
+Comments on "Optimal Utilization of a Cognitive Shared Channel with a Rechargeable Primary Source Node"
+
+In a recent paper [1], the authors investigated the maximum stable throughput region of a network composed of a rechargeable primary user and a secondary user plugged to a reliable power supply. The authors studied the cases of an infinite and a finite energy queue at the primary transmitter. However, the results of the finite case are incorrect. We show that under the proposed energy queue model (a decoupled ${\rm M/D/1}$ queueing system with Bernoulli arrivals and the consumption of one energy packet per time slot), the energy queue capacity does not affect the stability region of the network.

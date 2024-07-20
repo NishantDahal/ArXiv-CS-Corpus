@@ -1,0 +1,3 @@
+Risk-Management Methods for the Libor Market Model Using Semidefinite Programming
+
+When interest rate dynamics are described by the Libor Market Model as in BGM97, we show how some essential risk-management results can be obtained from the dual of the calibration program. In particular, if the objetive is to maximize another swaption's price, we show that the optimal dual variables describe a hedging portfolio in the sense of \cite{Avel96}. In the general case, the local sensitivity of the covariance matrix to all market movement scenarios can be directly computed from the optimal dual solution. We also show how semidefinite programming can be used to manage the Gamma exposure of a portfolio.

@@ -1,0 +1,3 @@
+A Dynamic Overlay Supporting Just-In-Time Assembly to Construct Customized Hardware Accelerators
+
+Barriers that prevent programmers from using FPGAs include the need to work within vendor specific CAD tools, knowledge of hardware programming models, and the requirement to pass each design through synthesis, place and route. In this work, a dynamic overlay is designed to support Just- In-Time assembly by composing hardware operators to construct full accelerators. The hardware operators are pre-synthesized bit- streams and can be downloaded to Partially Reconfigurable(PR) regions at runtime.

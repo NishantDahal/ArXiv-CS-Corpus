@@ -1,0 +1,3 @@
+Sparse Signal Recovery in the Presence of Intra-Vector and Inter-Vector Correlation
+
+This work discusses the problem of sparse signal recovery when there is correlation among the values of non-zero entries. We examine intra-vector correlation in the context of the block sparse model and inter-vector correlation in the context of the multiple measurement vector model, as well as their combination. Algorithms based on the sparse Bayesian learning are presented and the benefits of incorporating correlation at the algorithm level are discussed. The impact of correlation on the limits of support recovery is also discussed highlighting the different impact intra-vector and inter-vector correlations have on such limits.

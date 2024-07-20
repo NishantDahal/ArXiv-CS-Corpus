@@ -1,0 +1,3 @@
+Comparison of RNN Encoder-Decoder Models for Anomaly Detection
+
+In this paper, we compare different types of Recurrent Neural Network (RNN) Encoder-Decoders in anomaly detection viewpoint. We focused on finding the model that can learn the same data more effectively. We compared multiple models under the same conditions, such as the number of parameters, optimizer, and learning rate. However, the difference is whether to predict the future sequence or restore the current sequence. We constructed the dataset with simple vectors and used them for the experiment. Finally, we experimentally confirmed that the model performs better when the model restores the current sequence, rather than predict the future sequence.

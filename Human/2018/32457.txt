@@ -1,0 +1,3 @@
+Theoretical Model of Computation and Algorithms for FPGA-based Hardware Accelerators
+
+While FPGAs have been used extensively as hardware accelerators in industrial computation, no theoretical model of computation has been devised for the study of FPGA-based accelerators. In this paper, we present a theoretical model of computation on a system with conventional CPU and an FPGA, based on word-RAM. We show several algorithms in this model which are asymptotically faster than their word-RAM counterparts. Specifically, we show an algorithm for sorting, evaluation of associative operation and general techniques for speeding up some recursive algorithms and some dynamic programs. We also derive lower bounds on the running times needed to solve some problems.

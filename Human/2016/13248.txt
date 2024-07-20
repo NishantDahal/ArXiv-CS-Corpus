@@ -1,0 +1,4 @@
+Weighted de Bruijn Graphs for the Menage Problem and Its Generalizations
+
+We address the problem of enumeration of seating arrangements of married couples around a circular table such that no spouses sit next to each other and no k consecutive persons are of the same gender. While the case of k=2 corresponds to the classical problème des ménages with a well-studied solution, no closed-form expression for the number of seating arrangements is known when k>=3.
+  We propose a novel approach for this type of problems based on enumeration of walks in certain algebraically weighted de Bruijn graphs. Our approach leads to new expressions for the menage numbers and their exponential generating function and allows one to efficiently compute the number of seating arrangements in general cases, which we illustrate in detail for the ternary case of k=3.

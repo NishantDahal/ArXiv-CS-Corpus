@@ -1,0 +1,4 @@
+Nash Social Welfare, Matrix Permanent, and Stable Polynomials
+
+We study the problem of allocating $m$ items to $n$ agents subject to maximizing the Nash social welfare (NSW) objective. We write a novel convex programming relaxation for this problem, and we show that a simple randomized rounding algorithm gives a $1/e$ approximation factor of the objective.
+  Our main technical contribution is an extension of Gurvits's lower bound on the coefficient of the square-free monomial of a degree $m$-homogeneous stable polynomial on $m$ variables to all homogeneous polynomials. We use this extension to analyze the expected welfare of the allocation returned by our randomized rounding algorithm.

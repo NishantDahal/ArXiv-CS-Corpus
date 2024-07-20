@@ -1,0 +1,3 @@
+Twisted Centralizer Codes
+
+Given an $n\times n$ matrix $A$ over a field $F$ and a scalar $a\in F$, we consider the linear codes $C(A,a):=\{B\in F^{n\times n}\mid \,AB=aBA\}$ of length $n^2$. We call $C(A,a)$ a twisted centralizer code. We investigate properties of these codes including their dimensions, minimum distances, parity-check matrices, syndromes, and automorphism groups. The minimal distance of a centralizer code (when $a=1$) is at most $n$, however for $a\ne 0,1$ the minimal distance can be much larger, as large as $n^2$.

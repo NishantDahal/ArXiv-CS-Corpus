@@ -1,0 +1,3 @@
+Nagoya Termination Tool
+
+This paper describes the implementation and techniques of the Nagoya Termination Tool, a termination prover for term rewrite systems. The main features of the tool are: the first implementation of the weighted path order which subsumes most of the existing reduction pairs, and the efficiency due to the strong cooperation with external SMT solvers. We present some new ideas that contribute to the efficiency and power of the tool.

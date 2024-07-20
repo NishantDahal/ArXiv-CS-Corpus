@@ -1,0 +1,3 @@
+On the sum of the L1 influences of bounded functions
+
+Let $f\colon \{-1,1\}^n \to [-1,1]$ have degree $d$ as a multilinear polynomial. It is well-known that the total influence of $f$ is at most $d$. Aaronson and Ambainis asked whether the total $L_1$ influence of $f$ can also be bounded as a function of $d$. Bačkurs and Bavarian answered this question in the affirmative, providing a bound of $O(d^3)$ for general functions and $O(d^2)$ for homogeneous functions. We improve on their results by providing a bound of $d^2$ for general functions and $O(d\log d)$ for homogeneous functions. In addition, we prove a bound of $d/(2 π)+o(d)$ for monotone functions, and provide a matching example.

@@ -1,0 +1,3 @@
+R-SPIDER: A Fast Riemannian Stochastic Optimization Algorithm with Curvature Independent Rate
+
+We study smooth stochastic optimization problems on Riemannian manifolds. Via adapting the recently proposed SPIDER algorithm \citep{fang2018spider} (a variance reduced stochastic method) to Riemannian manifold, we can achieve faster rate than known algorithms in both the finite sum and stochastic settings. Unlike previous works, by \emph{not} resorting to bounding iterate distances, our analysis yields curvature independent convergence rates for both the nonconvex and strongly convex cases.

@@ -1,0 +1,3 @@
+A tight bound on the size of certain separating hash families
+
+In this paper, we present a new lower bound on the size of separating hash families of type {w_1^{q-1},w_2} where w_1 < w_2. Our result extends the paper by Guo et al. on binary frameproof codes. This bound compares well against known general bounds, and is especially useful when trying to bound the size of strong separating hash families. We also show that our new bound is tight by constructing hash families that meet the new bound with equality.

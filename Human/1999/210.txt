@@ -1,0 +1,3 @@
+Finding an ordinary conic and an ordinary hyperplane
+
+Given a finite set of non-collinear points in the plane, there exists a line that passes through exactly two points. Such a line is called an ordinary line. An efficient algorithm for computing such a line was proposed by Mukhopadhyay et al. In this note we extend this result in two directions. We first show how to use this algorithm to compute an ordinary conic, that is, a conic passing through exactly five points, assuming that all the points do not lie on the same conic. Both our proofs of existence and the consequent algorithms are simpler than previous ones. We next show how to compute an ordinary hyperplane in three and higher dimensions.

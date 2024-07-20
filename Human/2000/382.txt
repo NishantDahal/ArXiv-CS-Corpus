@@ -1,0 +1,3 @@
+An Approach to the Implementation of Overlapping Rules in Standard ML
+
+We describe an approach to programming rule-based systems in Standard ML, with a focus on so-called overlapping rules, that is rules that can still be active when other rules are fired. Such rules are useful when implementing rule-based reactive systems, and to that effect we show a simple implementation of Loyall's Active Behavior Trees, used to control goal-directed agents in the Oz virtual environment. We discuss an implementation of our framework using a reactive library geared towards implementing those kind of systems.

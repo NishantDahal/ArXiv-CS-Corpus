@@ -1,0 +1,4 @@
+Experiences with Some Benchmarks for Deductive Databases and Implementations of Bottom-Up Evaluation
+
+OpenRuleBench is a large benchmark suite for rule engines, which includes deductive databases. We previously proposed a translation of Datalog to C++ based on a method that "pushes" derived tuples immediately to places where they are used. In this paper, we report performance results of various implementation variants of this method compared to XSB, YAP and DLV. We study only a fraction of the OpenRuleBench problems, but we give a quite detailed analysis of each such task and the factors which influence performance. The results not only show the potential of our method and implementation approach, but could be valuable for anybody implementing systems which should be able to execute tasks of the discussed types.
+

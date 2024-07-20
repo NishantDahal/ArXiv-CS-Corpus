@@ -1,0 +1,3 @@
+Permutation Reconstruction from Differences
+
+We prove that the problem of reconstructing a permutation $π_1,\dotsc,π_n$ of the integers $[1\dotso n]$ given the absolute differences $|π_{i+1}-π_i|$, $i = 1,\dotsc,n-1$ is NP-complete. As an intermediate step we first prove the NP-completeness of the decision version of a new puzzle game that we call Crazy Frog Puzzle. The permutation reconstruction from differences is one of the simplest combinatorial problems that have been proved to be computationally intractable.

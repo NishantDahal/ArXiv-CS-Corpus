@@ -1,0 +1,3 @@
+Lessons learnt from the NetIDE project: Taking SDN programming to the next level
+
+SDN promises to overcome vendor lock-in by enabling a multi-vendor hardware and software ecosystem in operator networks. However, we observe that this is currently not happening. A framework allowing to compose SDN applications combining different frameworks can help revert the trend. In this paper, we analyze the challenges in the current SDN landscape and then present the multi-controller SDN framework developed by the NetIDE project. Our architecture supports different SDN southbound protocols and we have implemented a proof of concept using the OpenFlow protocol, which has given us a greater insight on its shortcomings.

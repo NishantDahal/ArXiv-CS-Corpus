@@ -1,0 +1,3 @@
+Anytime Bi-Objective Optimization with a Hybrid Multi-Objective CMA-ES (HMO-CMA-ES)
+
+We propose a multi-objective optimization algorithm aimed at achieving good anytime performance over a wide range of problems. Performance is assessed in terms of the hypervolume metric. The algorithm called HMO-CMA-ES represents a hybrid of several old and new variants of CMA-ES, complemented by BOBYQA as a warm start. We benchmark HMO-CMA-ES on the recently introduced bi-objective problem suite of the COCO framework (COmparing Continuous Optimizers), consisting of 55 scalable continuous optimization problems, which is used by the Black-Box Optimization Benchmarking (BBOB) Workshop 2016.

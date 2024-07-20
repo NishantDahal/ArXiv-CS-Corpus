@@ -1,0 +1,3 @@
+Aspects de la Programmation d'Applications Win32 avec un Langage Fonctionnel
+
+A useful programming language needs to support writing programs that take advantage of services and communication mechanisms supplied by the operating system. We examine the problem of programming native Win32 applications under Windows with Standard ML. We introduce an framework based on the IDL interface language et a minimal foreign-functions interface to explore the Win32 API et COM in the context of Standard ML.

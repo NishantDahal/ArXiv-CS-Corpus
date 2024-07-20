@@ -1,0 +1,3 @@
+Convex recovery of a structured signal from independent random linear measurements
+
+This chapter develops a theoretical analysis of the convex programming method for recovering a structured signal from independent random linear measurements. This technique delivers bounds for the sampling complexity that are similar with recent results for standard Gaussian measurements, but the argument applies to a much wider class of measurement ensembles. To demonstrate the power of this approach, the paper presents a short analysis of phase retrieval by trace-norm minimization. The key technical tool is a framework, due to Mendelson and coauthors, for bounding a nonnegative empirical process.

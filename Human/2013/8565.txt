@@ -1,0 +1,3 @@
+A Parallel Algorithm for Calculation of Large Determinants with High Accuracy for GPUs and MPI clusters
+
+We present a parallel algorithm for calculating very large determinants with arbitrary precision on computer clusters. This algorithm minimises data movements between the nodes and computes not only the determinant but also all minors corresponding to a particular row or column at a little extra cost, and also the determinants and minors of all submatrices in the top left corner at no extra cost. We implemented the algorithm in arbitrary precision arithmetic, suitable for very ill conditioned matrices, and empirically estimated the loss of precision. The algorithm was applied to studies of Riemann's zeta function.

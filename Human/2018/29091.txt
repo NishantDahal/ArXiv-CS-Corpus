@@ -1,0 +1,3 @@
+Comments on "Defeating HaTCh: Building Malicious IP Cores"
+
+Recently, Haider et al. introduced the first rigorous hardware Trojan detection algorithm called HaTCh. The foundation of HaTCh is a formal framework of hardware Trojan design, which formally characterizes all the hardware Trojans based on its properties. However, Bhardwaj et al. recently published one paper "Defeating HaTCh: Building Malicious IP Cores", which incorrectly claims that their newly designed hardware Trojan can evade the detection by HaTCh. In this paper, we explain why the claim of "defeating HaTCh" is incorrect, and we clarify several common misunderstandings about HaTCh.

@@ -1,0 +1,3 @@
+Flipped-Adversarial AutoEncoders
+
+We propose a flipped-Adversarial AutoEncoder (FAAE) that simultaneously trains a generative model G that maps an arbitrary latent code distribution to a data distribution and an encoder E that embodies an "inverse mapping" that encodes a data sample into a latent code vector. Unlike previous hybrid approaches that leverage adversarial training criterion in constructing autoencoders, FAAE minimizes re-encoding errors in the latent space and exploits adversarial criterion in the data space. Experimental evaluations demonstrate that the proposed framework produces sharper reconstructed images while at the same time enabling inference that captures rich semantic representation of data.

@@ -1,0 +1,3 @@
+Towards Interactive, Incremental Programming of ROS Nodes
+
+Writing software for controlling robots is a complex task, usually demanding command of many programming languages and requiring significant experimentation. We believe that a bottom-up development process that complements traditional component- and MDSD-based approaches can facilitate experimentation. We propose the use of an internal DSL providing both a tool to interactively create ROS nodes and a behaviour-replacement mechanism to interactively reshape existing ROS nodes by wrapping the external interfaces (the publish/subscribe topics), dynamically controlled using the Python command line interface.

@@ -1,0 +1,3 @@
+Pairwise Secret Key Agreement based on Location-derived Common Randomness
+
+A source model of key sharing between three users is considered in which each pair of them wishes to agree on a secret key hidden from the remaining user. There are rate-limited public channels for communications between the users. We give an inner bound on the secret key capacity region in this framework. Moreover, we investigate a practical setup in which localization information of the users as the correlated observations are exploited to share pairwise keys between the users. The inner and outer bounds of the key capacity region are analyzed in this setup for the case of i.i.d. Gaussian observations.

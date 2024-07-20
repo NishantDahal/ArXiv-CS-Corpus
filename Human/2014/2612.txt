@@ -1,0 +1,3 @@
+Expectation-Maximization Technique and Spatial-Adaptation Applied to Pel-Recursive Motion Estimation
+
+Pel-recursive motion estimation isa well-established approach. However, in the presence of noise, it becomes an ill-posed problem that requires regularization. In this paper, motion vectors are estimated in an iterative fashion by means of the Expectation-Maximization (EM) algorithm and a Gaussian data model. Our proposed algorithm also utilizes the local image properties of the scene to improve the motion vector estimates following a spatially adaptive approach. Numerical experiments are presented that demonstrate the merits of our method.

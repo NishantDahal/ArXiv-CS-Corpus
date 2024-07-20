@@ -1,0 +1,3 @@
+Map-guided Hyperspectral Image Superpixel Segmentation Using Proportion Maps
+
+A map-guided superpixel segmentation method for hyperspectral imagery is developed and introduced. The proposed approach develops a hyperspectral-appropriate version of the SLIC superpixel segmentation algorithm, leverages map information to guide segmentation, and incorporates the semi-supervised Partial Membership Latent Dirichlet Allocation (sPM-LDA) to obtain a final superpixel segmentation. The proposed method is applied to two real hyperspectral data sets and quantitative cluster validity metrics indicate that the proposed approach outperforms existing hyperspectral superpixel segmentation methods.

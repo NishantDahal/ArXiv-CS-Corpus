@@ -1,0 +1,9 @@
+An intuitionistic version of Ramsey Theorem (italian version)
+
+Ramsey Theorem [6] for pairs is intuitionistically but not classically provable: it is equivalent to a subclassical principle [2]. In this note we show that Ramsey may be restated in an intuitionistically provable form, which is informative (or at least without negations), and classically equivalent to the original. With respect to previous works of the same kind, we do not use no counterexample as in [1], [5], nor we add a new principle to the intuitionism as in [4]. We claim that this intuitionistic version of Ramsey could be use to replace Ramsey Theorem in the convergence proof of programs included in [3].
+  [1] Gianluigi Bellin. Ramsey interpreted: a parametric version of Ramsey Theorem. In AMS, editor, Logic and Computation: Proceedings of a Symposium held at Carnegie Mellon University, volume 106.
+  [2] Stefano Berardi, Silvia Steila, Ramsey Theorem for pairs as a classical principle in Intuitionistic Arithmetic, Submitted to the proceedings of Types 2013 in Toulouse.
+  [3] Byron Cook, Abigail See, Florian Zuleger, Ramsey vs. Lexicographic Termination Proving, LNCS 7795, 2013, Springer Berlin Heidelberg.
+  [4] Thierry Coquand. A direct proof of Ramsey Theorem.
+  [5] Paulo Oliva and Thomas Powell. A Constructive Interpretation of Ramsey Theorem via the Product of Selection Functions. CoRR, arXiv:1204.5631, 2012.
+  [6] F. P. Ramsey. On a problem in formal logic. Proc. London Math. Soc., 1930.

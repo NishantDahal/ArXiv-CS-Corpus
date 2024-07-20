@@ -1,0 +1,3 @@
+Time Series Analysis and Forecasting of Internet Congestion Data
+
+There has been a lot of discussion on Net Neutrality and policies that various network service providers and distributors adopt, at times leading to greater network congestion and thus more debates. The aim of this project is to use congestion traffic data to look at correlations between different service providers and message requests for different AS (Autonomous Systems). The RTT (Round Trip Time) from the time-series data of these messages is evaluated, to provide conclusive results of favoring certain websites over others. Lastly, this project attempts time-series prediction to forecast what a the time series will look like a few hours or days from now given the history of what it looked like before.

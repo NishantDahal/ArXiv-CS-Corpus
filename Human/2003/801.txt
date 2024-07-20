@@ -1,0 +1,3 @@
+Approximate Squaring
+
+We study the ``approximate squaring'' map f(x) := x ceiling(x) and its behavior when iterated. We conjecture that if f is repeatedly applied to a rational number r = l/d > 1 then eventually an integer will be reached. We prove this when d=2, and provide evidence that it is true in general by giving an upper bound on the density of the ``exceptional set'' of numbers which fail to reach an integer. We give similar results for a p-adic analogue of f, when the exceptional set is nonempty, and for iterating the ``approximate multiplication'' map f_r(x) := r ceiling(x) where r is a fixed rational number.

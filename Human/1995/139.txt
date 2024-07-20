@@ -1,0 +1,3 @@
+New Techniques for Context Modeling
+
+We introduce three new techniques for statistical language models: extension modeling, nonmonotonic contexts, and the divergence heuristic. Together these techniques result in language models that have few states, even fewer parameters, and low message entropies. For example, our techniques achieve a message entropy of 1.97 bits/char on the Brown corpus using only 89,325 parameters. In contrast, the character 4-gram model requires more than 250 times as many parameters in order to achieve a message entropy of only 2.47 bits/char. The fact that our model performs significantly better while using vastly fewer parameters indicates that it is a better probability model of natural language text.

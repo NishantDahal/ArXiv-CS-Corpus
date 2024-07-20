@@ -1,0 +1,4 @@
+Demystifying Reachability in Vector Addition Systems
+
+More than 30 years after their inception, the decidability proofs for reachability in vector addition systems (VAS) still retain much of their mystery. These proofs rely crucially on a decomposition of runs successively refined by Mayr, Kosaraju, and Lambert, which appears rather magical, and for which no complexity upper bound is known.
+  We first offer a justification for this decomposition technique, by showing that it computes the ideal decomposition of the set of runs, using the natural embedding relation between runs as well quasi ordering. In a second part, we apply recent results on the complexity of termination thanks to well quasi orders and well orders to obtain a cubic Ackermann upper bound for the decomposition algorithms, thus providing the first known upper bounds for general VAS reachability.

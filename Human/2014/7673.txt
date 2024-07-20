@@ -1,0 +1,3 @@
+The Expressive Power of Epistemic $μ$-Calculus
+
+While the $μ$-calculus notoriously subsumes Alternating-time Temporal Logic (ATL), we show that the epistemic $μ$-calculus does not subsume ATL with imperfect information (ATL$_i$) for the synchronous perfect-recall semantics. To prove this we first establish that jumping parity tree automata (JTA), a recently introduced extension of alternating parity tree automata, are expressively equivalent to the epistemic $μ$-calculus, and this for any knowledge semantics. Using this result we also show that, for bounded-memory semantics, the epistemic $μ$-calculus is not more expressive than the standard $μ$-calculus, and that its satisfiability problem is EXPTIME-complete.

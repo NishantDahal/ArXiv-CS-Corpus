@@ -1,0 +1,5 @@
+Node-balancing by edge-increments
+
+Suppose you are given a graph $G=(V,E)$ with a weight assignment $w:V\rightarrow\mathbb{Z}$ and that your objective is to modify $w$ using legal steps such that all vertices will have the same weight, where in each legal step you are allowed to choose an edge and increment the weights of its end points by $1$.
+  In this paper we study several variants of this problem for graphs and hypergraphs. On the combinatorial side we show connections with fundamental results from matching theory such as Hall's Theorem and Tutte's Theorem. On the algorithmic side we study the computational complexity of associated decision problems.
+  Our main results are a characterization of the graphs for which any initial assignment can be balanced by edge-increments and a strongly polynomial-time algorithm that computes a balancing sequence of increments if one exists.

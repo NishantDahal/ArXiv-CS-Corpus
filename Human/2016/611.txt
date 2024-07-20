@@ -1,0 +1,3 @@
+Graph Fourier Transform based on Directed Laplacian
+
+In this paper, we redefine the Graph Fourier Transform (GFT) under the DSP$_\mathrm{G}$ framework. We consider the Jordan eigenvectors of the directed Laplacian as graph harmonics and the corresponding eigenvalues as the graph frequencies. For this purpose, we propose a shift operator based on the directed Laplacian of a graph. Based on our shift operator, we then define total variation of graph signals, which is used in frequency ordering. We achieve natural frequency ordering and interpretation via the proposed definition of GFT. Moreover, we show that our proposed shift operator makes the LSI filters under DSP$_\mathrm{G}$ to become polynomial in the directed Laplacian.

@@ -1,0 +1,3 @@
+Fixed-Form Variational Posterior Approximation through Stochastic Linear Regression
+
+We propose a general algorithm for approximating nonstandard Bayesian posterior distributions. The algorithm minimizes the Kullback-Leibler divergence of an approximating distribution to the intractable posterior distribution. Our method can be used to approximate any posterior distribution, provided that it is given in closed form up to the proportionality constant. The approximation can be any distribution in the exponential family or any mixture of such distributions, which means that it can be made arbitrarily precise. Several examples illustrate the speed and accuracy of our approximation method in practice.

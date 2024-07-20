@@ -1,0 +1,4 @@
+Generalized powerlocales via relation lifting
+
+This paper introduces an endofunctor $\VT$ on the category of frames, parametrized by an endofunctor $\T$ on the category $\Set$ that satisfies certain constraints. This generalizes Johnstone's construction of the Vietoris powerlocale, in the sense that his construction is obtained by taking for $\T$ the finite covariant power set functor. Our construction of the $\T$-powerlocale $\VT \bbL$ out of a frame $\bbL$ is based on ideas from coalgebraic logic and makes explicit the connection between the Vietoris construction and Moss's coalgebraic cover modality.
+  We show how to extend certain natural transformations between set functors to natural transformations between $\T$-powerlocale functors. Finally, we prove that the operation $\VT$ preserves some properties of frames, such as regularity, zero-dimensionality, and the combination of zero-dimensionality and compactness.

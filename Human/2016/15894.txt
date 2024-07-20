@@ -1,0 +1,4 @@
+Trees That Grow
+
+We study the notion of extensibility in functional data types, as a new approach to the problem of decorating abstract syntax trees with additional sets of information. We observed the need for such extensibility while redesigning the data types representing Haskell abstract syntax inside GHC.
+  Specifically, we describe our approach to the tree-decoration problem using a novel syntactic machinery in Haskell for expressing extensible data types. We show that the syntactic machinery is complete in that it can express all the syntactically possible forms of extensions to algebraic data type declarations. Then, we describe an encoding of the syntactic machinery based on the existing features in Glasgow Haskell Compiler(GHC).

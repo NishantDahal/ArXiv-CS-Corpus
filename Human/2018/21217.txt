@@ -1,0 +1,3 @@
+Proving Type Class Laws for Haskell
+
+Type classes in Haskell are used to implement ad-hoc polymorphism, i.e. a way to ensure both to the programmer and the compiler that a set of functions are defined for a specific data type. All instances of such type classes are expected to behave in a certain way and satisfy laws associated with the respective class. These are however typically just stated in comments and as such, there is no real way to enforce that they hold. In this paper we describe a system which allows the user to write down type class laws which are then automatically instantiated and sent to an inductive theorem prover when declaring a new instance of a type class.

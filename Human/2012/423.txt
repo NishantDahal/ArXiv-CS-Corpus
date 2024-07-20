@@ -1,0 +1,4 @@
+Sublogarithmic uniform Boolean proof nets
+
+Using a proofs-as-programs correspondence, Terui was able to compare two models of parallel computation: Boolean circuits and proof nets for multiplicative linear logic. Mogbil et. al. gave a logspace translation allowing us to compare their computational power as uniform complexity classes. This paper presents a novel translation in AC0 and focuses on a simpler restricted notion of uniform Boolean proof nets. We can then encode constant-depth circuits and compare complexity classes below logspace, which were out of reach with the previous translations.
+

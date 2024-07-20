@@ -1,0 +1,3 @@
+Skin Lesion Classification using Class Activation Map
+
+We proposed a two stage framework with only one network to analyze skin lesion images, we firstly trained a convolutional network to classify these images, and cropped the import regions which the network has the maximum activation value. In the second stage, we retrained this CNN with the image regions extracted from stage one and output the final probabilities. The two stage framework achieved a mean AUC of 0.857 in ISIC-2017 skin lesion validation set and is 0.04 higher than that of the original inputs, 0.821.

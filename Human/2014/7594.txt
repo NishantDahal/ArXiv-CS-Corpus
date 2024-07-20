@@ -1,0 +1,3 @@
+Implementing cryptographic pairings at standard security levels
+
+This study reports on an implementation of cryptographic pairings in a general purpose computer algebra system. For security levels equivalent to the different AES flavours, we exhibit suitable curves in parametric families and show that optimal ate and twisted ate pairings exist and can be efficiently evaluated. We provide a correct description of Miller's algorithm for signed binary expansions such as the NAF and extend a recent variant due to Boxall et al. to addition-subtraction chains. We analyse and compare several algorithms proposed in the literature for the final exponentiation. Finally, we ive recommendations on which curve and pairing to choose at each security level.

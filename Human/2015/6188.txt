@@ -1,0 +1,3 @@
+SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes
+
+We are interested in automatic scene understanding from geometric cues. To this end, we aim to bring semantic segmentation in the loop of real-time reconstruction. Our semantic segmentation is built on a deep autoencoder stack trained exclusively on synthetic depth data generated from our novel 3D scene library, SynthCam3D. Importantly, our network is able to segment real world scenes without any noise modelling. We present encouraging preliminary results.

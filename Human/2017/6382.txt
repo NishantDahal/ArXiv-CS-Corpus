@@ -1,0 +1,3 @@
+Settling the query complexity of non-adaptive junta testing
+
+We prove that any non-adaptive algorithm that tests whether an unknown Boolean function $f: \{0, 1\}^n\to \{0, 1\}$ is a $k$-junta or $ε$-far from every $k$-junta must make $\widetildeΩ(k^{3/2} / ε)$ many queries for a wide range of parameters $k$ and $ε$. Our result dramatically improves previous lower bounds from [BGSMdW13, STW15], and is essentially optimal given Blais's non-adaptive junta tester from [Blais08], which makes $\widetilde{O}(k^{3/2})/ε$ queries. Combined with the adaptive tester of [Blais09] which makes $O(k\log k + k /ε)$ queries, our result shows that adaptivity enables polynomial savings in query complexity for junta testing.

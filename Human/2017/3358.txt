@@ -1,0 +1,3 @@
+Towards Plane Spanners of Degree 3
+
+Let $S$ be a finite set of points in the plane that are in convex position. We present an algorithm that constructs a plane $\frac{3+4π}{3}$-spanner of $S$ whose vertex degree is at most 3. Let $Λ$ be the vertex set of a finite non-uniform rectangular lattice in the plane. We present an algorithm that constructs a plane $3\sqrt{2}$-spanner for $Λ$ whose vertex degree is at most 3. For points that are in the plane and in general position, we show how to compute plane degree-3 spanners with a linear number of Steiner points.

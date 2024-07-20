@@ -1,0 +1,3 @@
+Surface Reconstruction from Scattered Point via RBF Interpolation on GPU
+
+In this paper we describe a parallel implicit method based on radial basis functions (RBF) for surface reconstruction. The applicability of RBF methods is hindered by its computational demand, that requires the solution of linear systems of size equal to the number of data points. Our reconstruction implementation relies on parallel scientific libraries and is supported for massively multi-core architectures, namely Graphic Processor Units (GPUs). The performance of the proposed method in terms of accuracy of the reconstruction and computing time shows that the RBF interpolant can be very effective for such problem.

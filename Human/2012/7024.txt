@@ -1,0 +1,3 @@
+Non-Local Euclidean Medians
+
+In this letter, we note that the denoising performance of Non-Local Means (NLM) at large noise levels can be improved by replacing the mean by the Euclidean median. We call this new denoising algorithm the Non-Local Euclidean Medians (NLEM). At the heart of NLEM is the observation that the median is more robust to outliers than the mean. In particular, we provide a simple geometric insight that explains why NLEM performs better than NLM in the vicinity of edges, particularly at large noise levels. NLEM can be efficiently implemented using iteratively reweighted least squares, and its computational complexity is comparable to that of NLM. We provide some preliminary results to study the proposed algorithm and to compare it with NLM.

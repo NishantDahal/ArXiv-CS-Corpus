@@ -1,0 +1,3 @@
+Lesion segmentation using U-Net network
+
+This paper explains the method used in the segmentation challenge (Task 1) in the International Skin Imaging Collaboration's (ISIC) Skin Lesion Analysis Towards Melanoma Detection challenge held in 2018. We have trained a U-Net network to perform the segmentation. The key elements for the training were first to adjust the loss function to incorporate unbalanced proportion of background and second to perform post-processing operation to adjust the contour of the prediction.

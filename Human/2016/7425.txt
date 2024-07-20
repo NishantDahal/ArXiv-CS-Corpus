@@ -1,0 +1,3 @@
+Tools for assessing and optimizing the energy requirements of high performance scientific computing software
+
+Score-P is a measurement infrastructure originally designed for the analysis and optimization of the performance of HPC codes. Recent extensions of Score-P and its associated tools now also allow the investigation of energy-related properties and support the user in the implementation of corresponding improvements. Since it would be counterproductive to completely ignore performance issues in this connection, the focus should not be laid exclusively on energy. We therefore aim to optimize software with respect to an objective function that takes into account energy and run time.

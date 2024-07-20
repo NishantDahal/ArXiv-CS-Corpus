@@ -1,0 +1,4 @@
+A General, Sound and Efficient Natural Language Parsing Algorithm based on Syntactic Constraints Propagation
+
+This paper presents a new context-free parsing algorithm based on a bidirectional strictly horizontal strategy which incorporates strong top-down predictions (derivations and adjacencies). From a functional point of view, the parser is able to propagate syntactic constraints reducing parsing ambiguity.
+  From a computational perspective, the algorithm includes different techniques aimed at the improvement of the manipulation and representation of the structures used.

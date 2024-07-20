@@ -1,0 +1,3 @@
+Using Correlated Subset Structure for Compressive Sensing Recovery
+
+Compressive sensing is a methodology for the reconstruction of sparse or compressible signals using far fewer samples than required by the Nyquist criterion. However, many of the results in compressive sensing concern random sampling matrices such as Gaussian and Bernoulli matrices. In common physically feasible signal acquisition and reconstruction scenarios such as super-resolution of images, the sensing matrix has a non-random structure with highly correlated columns. Here we present a compressive sensing recovery algorithm that exploits this correlation structure. We provide algorithmic justification as well as empirical comparisons.

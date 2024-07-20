@@ -1,0 +1,3 @@
+The Effect of Planarization on Width
+
+We study the effects of planarization (the construction of a planar diagram $D$ from a non-planar graph $G$ by replacing each crossing by a new vertex) on graph width parameters. We show that for treewidth, pathwidth, branchwidth, clique-width, and tree-depth there exists a family of $n$-vertex graphs with bounded parameter value, all of whose planarizations have parameter value $Ω(n)$. However, for bandwidth, cutwidth, and carving width, every graph with bounded parameter value has a planarization of linear size whose parameter value remains bounded. The same is true for the treewidth, pathwidth, and branchwidth of graphs of bounded degree.

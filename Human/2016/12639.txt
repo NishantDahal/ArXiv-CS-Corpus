@@ -1,0 +1,3 @@
+How Much Did it Rain? Predicting Real Rainfall Totals Based on Radar Data
+
+We applied a variety of parametric and non-parametric machine learning models to predict the probability distribution of rainfall based on 1M training examples over a single year across several U.S. states. Our top performing model based on a squared loss objective was a cross-validated parametric k-nearest-neighbor predictor that took about six days to compute, and was competitive in a world-wide competition.

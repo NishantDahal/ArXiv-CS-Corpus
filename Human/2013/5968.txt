@@ -1,0 +1,3 @@
+Towards Secure Two-Party Computation from the Wire-Tap Channel
+
+We introduce a new protocol for secure two-party computation of linear functions in the semi-honest model, based on coding techniques. We first establish a parallel between the second version of the wire-tap channel model and secure two-party computation. This leads us to our protocol, that combines linear coset coding and oblivious transfer techniques. Our construction requires the use of binary intersecting codes or $q$-ary minimal codes, which are also studied in this paper.

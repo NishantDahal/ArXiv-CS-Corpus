@@ -1,0 +1,3 @@
+The Manne et al. self-stabilizing 2/3-approximation matching algorithm is sub-exponential
+
+Manne et al. designed the first algorithm computing a maximal matching that is a 2/3 -approximation of the maximum matching in $O(^2n)$ moves. However, the complexity tightness was not proved. In this paper, we exhibit a sub-exponential execution of this matching algorithm.

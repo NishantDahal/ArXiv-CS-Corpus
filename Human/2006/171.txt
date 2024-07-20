@@ -1,0 +1,4 @@
+Revisiting Evolutionary Algorithms with On-the-Fly Population Size Adjustment
+
+In an evolutionary algorithm, the population has a very important role as its size has direct implications regarding solution quality, speed, and reliability. Theoretical studies have been done in the past to investigate the role of population sizing in evolutionary algorithms. In addition to those studies, several self-adjusting population sizing mechanisms have been proposed in the literature. This paper revisits the latter topic and pays special attention to the genetic algorithm with adaptive population size (APGA), for which several researchers have claimed to be very effective at autonomously (re)sizing the population.
+  As opposed to those previous claims, this paper suggests a complete opposite view. Specifically, it shows that APGA is not capable of adapting the population size at all. This claim is supported on theoretical grounds and confirmed by computer simulations.

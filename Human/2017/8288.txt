@@ -1,0 +1,4 @@
+Universal Framework for Wireless Scheduling Problems
+
+An overarching issue in resource management of wireless networks is assessing their capacity: How much communication can be achieved in a network, utilizing all the tools available: power control, scheduling, routing, channel assignment and rate adjustment? We propose the first framework for approximation algorithms in the physical model that addresses these questions in full, including rate control. The approximations obtained are doubly logarithmic in the link length and rate diversity. Where previous bounds are known, this gives an exponential improvement.
+  A key contribution is showing that the complex interference relationship of the physical model can be simplified into a novel type of amenable conflict graphs, at a small cost. We also show that the approximation obtained is provably the best possible for any conflict graph formulation.

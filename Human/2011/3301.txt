@@ -1,0 +1,4 @@
+Separation of Test-Free Propositional Dynamic Logics over Context-Free Languages
+
+For a class L of languages let PDL[L] be an extension of Propositional Dynamic Logic which allows programs to be in a language of L rather than just to be regular.  If L contains a non-regular language, PDL[L] can express non-regular properties, in contrast to pure PDL.
+  For regular, visibly pushdown and deterministic context-free languages, the separation of the respective PDLs can be proven by automata-theoretic techniques.  However, these techniques introduce non-determinism on the automata side.  As non-determinism is also the difference between DCFL and CFL, these techniques seem to be inappropriate to separate PDL[DCFL] from PDL[CFL].  Nevertheless, this separation is shown but for programs without test operators.

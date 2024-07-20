@@ -1,0 +1,3 @@
+Certified Ordered Completion
+
+On the one hand, ordered completion is a fundamental technique in equational theorem proving that is employed by automated tools. On the other hand, their complexity makes such tools inherently error prone. As a remedy to this situation we give an Isabelle/HOL formalization of ordered rewriting and completion that comes with a formally verified certifier for ordered completion proofs. By validating generated proof certificates, our certifier increases the reliability of ordered completion tools.

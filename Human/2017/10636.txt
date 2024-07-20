@@ -1,0 +1,3 @@
+Contraction and Deletion Blockers for Perfect Graphs and $H$-free Graphs
+
+We study the following problem: for given integers $d$, $k$ and graph $G$, can we reduce some fixed graph parameter $π$ of $G$ by at least $d$ via at most $k$ graph operations from some fixed set $S$? As parameters we take the chromatic number $χ$, clique number $ω$ and independence number $α$, and as operations we choose the edge contraction ec and vertex deletion vd. We determine the complexity of this problem for $S=\{\mbox{ec}\}$ and $S=\{\mbox{vd}\}$ and $π\in \{χ,ω,α\}$ for a number of subclasses of perfect graphs. We use these results to determine the complexity of the problem for $S=\{\mbox{ec}\}$ and $S=\{\mbox{vd}\}$ and $π\in \{χ,ω,α\}$ restricted to $H$-free graphs.

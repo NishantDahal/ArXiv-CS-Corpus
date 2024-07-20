@@ -1,0 +1,3 @@
+Proof-Carrying Hardware via IC3
+
+Proof-carrying hardware (PCH) is an approach to achieving safety of dynamically reconfigurable hardware, transferring the idea of proof-carrying code to the hardware domain. Current PCH approaches are, however, either limited to combinational and bounded unfoldings of sequential circuits, or only provide semi-automatic proof generation. We propose a new approach to PCH which employs IC3 as proof generator, making automatic PCH applicable to sequential circuits in their full generality. We demonstrate feasibility of our approach by showing that proof validation is several orders of magnitude faster than original proof generation while (most often) generating smaller proofs than current PCHs.

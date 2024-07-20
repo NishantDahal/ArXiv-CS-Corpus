@@ -1,0 +1,8 @@
+Probabilistic Argumentation. An Equational Approach
+
+There is a generic way to add any new feature to a system. It involves 1) identifying the basic units which build up the system and 2) introducing the new feature to each of these basic units.
+  In the case where the system is argumentation and the feature is probabilistic we have the following. The basic units are: a. the nature of the arguments involved; b. the membership relation in the set S of arguments; c. the attack relation; and d. the choice of extensions.
+  Generically to add a new aspect (probabilistic, or fuzzy, or temporal, etc) to an argumentation network <S,R> can be done by adding this feature to each component a-d. This is a brute-force method and may yield a non-intuitive or meaningful result.
+  A better way is to meaningfully translate the object system into another target system which does have the aspect required and then let the target system endow the aspect on the initial system. In our case we translate argumentation into classical propositional logic and get probabilistic argumentation from the translation.
+  Of course what we get depends on how we translate.
+  In fact, in this paper we introduce probabilistic semantics to abstract argumentation theory based on the equational approach to argumentation networks. We then compare our semantics with existing proposals in the literature including the approaches by M. Thimm and by A. Hunter. Our methodology in general is discussed in the conclusion.

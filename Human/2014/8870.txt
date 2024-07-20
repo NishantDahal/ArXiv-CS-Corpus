@@ -1,0 +1,3 @@
+Unsupervised Parallel Extraction based Texture for Efficient Image Representation
+
+SOM is a type of unsupervised learning where the goal is to discover some underlying structure of the data. In this paper, a new extraction method based on the main idea of Concurrent Self-Organizing Maps (CSOM), representing a winner-takes-all collection of small SOM networks is proposed. Each SOM of the system is trained individually to provide best results for one class only. The experiments confirm that the proposed features based CSOM is capable to represent image content better than extracted features based on a single big SOM and these proposed features improve the final decision of the CAD. Experiments held on Mammographic Image Analysis Society (MIAS) dataset.

@@ -1,0 +1,3 @@
+Classical Authentication Aided Three-Stage Quantum Protocol
+
+This paper modifies Kak's three-stage protocol so that it can guarantee secure transmission of information. Although avoiding man-in-the-middle attack is our primary objective in the introduction of classical authentication inside the three-stage protocol, we also benefit from the inherent advantages of the chosen classical authentication protocol. We have tried to implement ideas like key distribution center, session key, time-stamp, and nonce, within the quantum cryptography protocol.

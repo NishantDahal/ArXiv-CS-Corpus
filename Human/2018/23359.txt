@@ -1,0 +1,4 @@
+Sharing Information with Competitors
+
+We study the mechanism design problem in the setting where agents are rewarded using information only. This problem is motivated by the increasing interest in secure multiparty computation techniques. More specifically, we consider the setting of a joint computation where different agents have inputs of different quality and each agent is interested in learning as much as possible while maintaining exclusivity for information.
+  Our high level question is to design mechanisms that motivate all agents (even those with high-quality input) to participate in the computation and we formally study problems such as set union, intersection, and average.

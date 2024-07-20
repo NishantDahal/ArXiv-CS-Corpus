@@ -1,0 +1,3 @@
+A simplified framework for first-order languages and its formalization in Mizar
+
+A strictly formal, set-theoretical treatment of classical first-order logic is given. Since this is done with the goal of a concrete Mizar formalization of basic results (Lindenbaum lemma; Henkin, satisfiability, completeness and Lowenheim-Skolem theorems) in mind, it turns into a systematic pursue of simplification: we give up the notions of free occurrence, of derivation tree, and study what inference rules are strictly needed to prove the mentioned results. Afterwards, we discuss details of the actual Mizar implementation, and give general techniques developed therein.

@@ -1,0 +1,3 @@
+A Matrix Laurent Series-based Fast Fourier Transform for Blocklengths N=4 (mod 8)
+
+General guidelines for a new fast computation of blocklength 8m+4 DFTs are presented, which is based on a Laurent series involving matrices. Results of non-trivial real multiplicative complexity are presented for blocklengths N=64, achieving lower multiplication counts than previously published FFTs. A detailed description for the cases m=1 and m=2 is presented.

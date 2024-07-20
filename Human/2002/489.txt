@@ -1,0 +1,3 @@
+Quantum Certificate Complexity
+
+Given a Boolean function f, we study two natural generalizations of the certificate complexity C(f): the randomized certificate complexity RC(f) and the quantum certificate complexity QC(f). Using Ambainis' adversary method, we exactly characterize QC(f) as the square root of RC(f). We then use this result to prove the new relation R0(f) = O(Q2(f)^2 Q0(f) log n) for total f, where R0, Q2, and Q0 are zero-error randomized, bounded-error quantum, and zero-error quantum query complexities respectively. Finally we give asymptotic gaps between the measures, including a total f for which C(f) is superquadratic in QC(f), and a symmetric partial f for which QC(f) = O(1) yet Q2(f) = Omega(n/log n).

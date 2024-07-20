@@ -1,0 +1,4 @@
+On Polynomial Remainder Codes
+
+Polynomial remainder codes are a large class of codes derived from the Chinese remainder theorem that includes Reed-Solomon codes as a special case. In this paper, we revisit these codes and study them more carefully than in previous work. We explicitly allow the code symbols to be polynomials of different degrees, which leads to two different notions of weight and distance.
+  Algebraic decoding is studied in detail. If the moduli are not irreducible, the notion of an error locator polynomial is replaced by an error factor polynomial. We then obtain a collection of gcd-based decoding algorithms, some of which are not quite standard even when specialized to Reed-Solomon codes.

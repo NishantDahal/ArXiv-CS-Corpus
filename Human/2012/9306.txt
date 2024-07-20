@@ -1,0 +1,3 @@
+Non-Asymptotic Analysis of Privacy Amplification via Renyi Entropy and Inf-Spectral Entropy
+
+This paper investigates the privacy amplification problem, and compares the existing two bounds: the exponential bound derived by one of the authors and the min-entropy bound derived by Renner. It turns out that the exponential bound is better than the min-entropy bound when a security parameter is rather small for a block length, and that the min-entropy bound is better than the exponential bound when a security parameter is rather large for a block length. Furthermore, we present another bound that interpolates the exponential bound and the min-entropy bound by a hybrid use of the Renyi entropy and the inf-spectral entropy.

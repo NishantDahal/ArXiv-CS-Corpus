@@ -1,0 +1,3 @@
+Practical Algorithms for Best-K Identification in Multi-Armed Bandits
+
+In the Best-$K$ identification problem (Best-$K$-Arm), we are given $N$ stochastic bandit arms with unknown reward distributions. Our goal is to identify the $K$ arms with the largest means with high confidence, by drawing samples from the arms adaptively. This problem is motivated by various practical applications and has attracted considerable attention in the past decade. In this paper, we propose new practical algorithms for the Best-$K$-Arm problem, which have nearly optimal sample complexity bounds (matching the lower bound up to logarithmic factors) and outperform the state-of-the-art algorithms for the Best-$K$-Arm problem (even for $K=1$) in practice.

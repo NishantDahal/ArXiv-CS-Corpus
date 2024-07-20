@@ -1,0 +1,3 @@
+Adaptive Planar Point Location
+
+We present self-adjusting data structures for answering point location queries in convex and connected subdivisions. Let $n$ be the number of vertices in a convex or connected subdivision. Our structures use $O(n)$ space. For any convex subdivision $S$, our method processes any online query sequence $σ$ in $O(\mathrm{OPT} + n)$ time, where $\mathrm{OPT}$ is the minimum time required by any linear decision tree for answering point location queries in $S$ to process $σ$. For connected subdivisions, the processing time is $O(\mathrm{OPT} + n + |σ|\log(\log^* n))$. In both cases, the time bound includes the $O(n)$ preprocessing time.

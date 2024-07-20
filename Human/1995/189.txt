@@ -1,0 +1,3 @@
+On Constraint-Based Lambek Calculi
+
+We explore the consequences of layering a Lambek proof system over an arbitrary (constraint) logic. A simple model-theoretic semantics for our hybrid language is provided for which a particularly simple combination of Lambek's and the proof system of the base logic is complete. Furthermore the proof system for the underlying base logic can be assumed to be a black box. The essential reasoning needed to be performed by the black box is that of {\em entailment checking}. Assuming feature logic as the base logic entailment checking amounts to a {\em subsumption} test which is a well-known quasi-linear time decidable problem.

@@ -1,0 +1,7 @@
+System of unbiased representatives for a collection of bicolorings
+
+Let $\mathcal{B}$ denote a set of bicolorings of $[n]$, where each bicoloring is a mapping of the points in $[n]$ to $\{-1,+1\}$.
+  For each $B \in \mathcal{B}$, let $Y_B=(B(1),\ldots,B(n))$.
+  For each $A \subseteq [n]$, let $X_A \in \{0,1\}^n$ denote the incidence vector of $A$.
+  A non-empty set $A$ is said to be an `unbiased representative' for a bicoloring $B \in \mathcal{B}$ if $\left\langle X_A,Y_B\right\rangle =0$.
+  Given a set $\mathcal{B}$ of bicolorings, we study the minimum cardinality of a family $\mathcal{A}$ consisting of subsets of $[n]$ such that every bicoloring in $\mathcal{B}$ has an unbiased representative in $\mathcal{A}$.

@@ -1,0 +1,3 @@
+Thin circulant matrices and lower bounds on the complexity of some Boolean operators
+
+We prove a lower bound $Ω\left(\frac{k+l}{k^2l^2}N^{2-\frac{k+l+2}{kl}}\right)$ on the maximal possible weight of a $(k,l)$-free (that is, free of all-ones $k\times l$ submatrices) Boolean circulant $N \times N$ matrix. The bound is close to the known bound for the class of all $(k,l)$-free matrices. As a consequence, we obtain new bounds for several complexity measures of Boolean sums' systems and a lower bound $Ω(N^2\log^{-6} N)$ on the monotone complexity of the Boolean convolution of order $N$.

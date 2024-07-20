@@ -1,0 +1,5 @@
+Tableaux for Policy Synthesis for MDPs with PCTL* Constraints
+
+Markov decision processes (MDPs) are the standard formalism for modelling sequential decision making in stochastic environments. Policy synthesis addresses the problem of how to control or limit the decisions an agent makes so that a given specification is met. In this paper we consider PCTL*, the probabilistic counterpart of CTL*, as the specification language. Because in general the policy synthesis problem for PCTL* is undecidable, we restrict to policies whose execution history memory is finitely bounded a priori.
+  Surprisingly, no algorithm for policy synthesis for this natural and expressive framework has been developed so far. We close this gap and describe a tableau-based algorithm that, given an MDP and a PCTL* specification, derives in a non-deterministic way a system of (possibly nonlinear) equalities and inequalities. The solutions of this system, if any, describe the desired (stochastic) policies.
+  Our main result in this paper is the correctness of our method, i.e., soundness, completeness and termination.

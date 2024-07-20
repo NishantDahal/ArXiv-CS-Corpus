@@ -1,0 +1,3 @@
+Global optimization using Lévy flights
+
+This paper studies a class of enhanced diffusion processes in which random walkers perform Lévy flights and apply it for global optimization. Lévy flights offer controlled balance between exploitation and exploration. We develop four optimization algorithms based on such properties. We compare new algorithms with the well-known Simulated Annealing on hard test functions and the results are very promising.

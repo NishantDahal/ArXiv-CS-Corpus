@@ -1,0 +1,3 @@
+Bird Species Classification using Transfer Learning with Multistage Training
+
+Bird species classification has received more and more attention in the field of computer vision, for its promising applications in biology and environmental studies. Recognizing bird species is difficult due to the challenges of discriminative region localization and fine-grained feature learning. In this paper, we have introduced a Transfer learning based method with multistage training. We have used both Pre-Trained Mask-RCNN and an ensemble model consisting of Inception Nets (InceptionV3 & InceptionResNetV2 ) to get localization and species of the bird from the images respectively. Our final model achieves an F1 score of 0.5567 or 55.67 % on the dataset provided in CVIP 2018 Challenge.

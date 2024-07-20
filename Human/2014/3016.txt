@@ -1,0 +1,3 @@
+Erasure codes with simplex locality
+
+We focus on erasure codes for distributed storage. The distributed storage setting imposes locality requirements because of easy repair demands on the decoder. We first establish the characterization of various locality properties in terms of the generator matrix of the code. These lead to bounds on locality and notions of optimality. We then examine the locality properties of a family of non-binary codes with simplex structure. We investigate their optimality and design several easy repair decoding methods. In particular, we show that any correctable erasure pattern can be solved by easy repair.

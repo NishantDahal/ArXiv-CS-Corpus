@@ -1,0 +1,4 @@
+Small Complete Minors Above the Extremal Edge Density
+
+A fundamental result of Mader from 1972 asserts that a graph of high average degree contains a highly connected subgraph with roughly the same average degree. We prove a lemma showing that one can strengthen Mader's result by replacing the notion of high connectivity by the notion of vertex expansion.
+  Another well known result in graph theory states that for every integer t there is a smallest real c(t) so that every n-vertex graph with c(t)n edges contains a K_t-minor. Fiorini, Joret, Theis and Wood conjectured that if an n-vertex graph G has (c(t)+ε)n edges then G contains a K_t-minor of order at most C(ε)log n. We use our extension of Mader's theorem to prove that such a graph G must contain a K_t-minor of order at most C(ε)log n loglog n. Known constructions of graphs with high girth show that this result is tight up to the loglog n factor.

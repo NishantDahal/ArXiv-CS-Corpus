@@ -1,0 +1,3 @@
+On the NP-hardness of scheduling with time restrictions
+
+In a recent paper, Braun, Chung and Graham [1] have addressed a single-processor scheduling problem with time restrictions. Given a fixed integer $B \geq 2$, there is a set of jobs to be processed by a single processor subject to the following B-constraint. For any real $x$, no unit time interval $[x, x+1)$ is allowed to intersect more than $B$ jobs. The problem has been shown to be NP-hard when $B$ is part of the input and left as an open question whether it remains NP-hard or not if $B$ is fixed [1, 5, 7]. This paper contributes to answering this question that we prove the problem is NP-hard even when $B=2$. A PTAS is also presented for any constant $B \geq 2$.

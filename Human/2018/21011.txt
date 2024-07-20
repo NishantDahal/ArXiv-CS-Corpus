@@ -1,0 +1,3 @@
+Real-time Analog Pixel-to-pixel Dynamic Frame Differencing with Memristive Sensing Circuits
+
+In this paper, we propose an analog pixel differencing circuit for differentiating pixels between frames directly from CMOS pixels. The analog information processing at sensor is a topic of growing appeal to develop edge AI devices. The proposed circuit is integrated into a pixel-parallel and pixel-column architectures. The proposed system is design using TSMC $180nm$ CMOS technology. The power dissipation of the proposed circuit is $96.64mW$, and on-chip ares is $531.66 μm^2$. The architectures are tested for moving object detection application.

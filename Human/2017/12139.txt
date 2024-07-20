@@ -1,0 +1,3 @@
+Approximate Convex Hulls: sketching the convex hull using curvature
+
+Convex hulls are fundamental objects in computational geometry. In moderate dimensions or for large numbers of vertices, computing the convex hull can be impractical due to the computational complexity of convex hull algorithms. In this article we approximate the convex hull in using a scalable algorithm which finds high curvature vertices with high probability. The algorithm is particularly effective for approximating convex hulls which have a relatively small number of extreme points.

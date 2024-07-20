@@ -1,0 +1,3 @@
+Inferring Types for Parallel Programs
+
+The Message Passing Interface (MPI) framework is widely used in implementing imperative pro- grams that exhibit a high degree of parallelism. The PARTYPES approach proposes a behavioural type discipline for MPI-like programs in which a type describes the communication protocol followed by the entire program. Well-typed programs are guaranteed to be exempt from deadlocks. In this paper we describe a type inference algorithm for a subset of the original system; the algorithm allows to statically extract a type for an MPI program from its source code.

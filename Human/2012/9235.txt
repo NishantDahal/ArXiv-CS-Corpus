@@ -1,0 +1,6 @@
+Rendezvous of two robots with visible bits
+
+We study the rendezvous problem for two robots moving in the plane (or on a line). Robots are autonomous, anonymous, oblivious, and carry colored lights that are visible to both. We consider deterministic distributed algorithms in which robots do not use distance information, but try to reduce (or increase) their distance by a constant factor, depending on their lights' colors.
+  We give a complete characterization of the number of colors that are necessary to solve the rendezvous problem in every possible model, ranging from fully synchronous to semi-synchronous to asynchronous, rigid and non-rigid, with preset or arbitrary initial configuration.
+  In particular, we show that three colors are sufficient in the non-rigid asynchronous model with arbitrary initial configuration. In contrast, two colors are insufficient in the rigid asynchronous model with arbitrary initial configuration and in the non-rigid asynchronous model with preset initial configuration.
+  Additionally, if the robots are able to distinguish between zero and non-zero distances, we show how they can solve rendezvous and detect termination using only three colors, even in the non-rigid asynchronous model with arbitrary initial configuration.

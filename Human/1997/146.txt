@@ -1,0 +1,3 @@
+Disambiguating with Controlled Disjunctions
+
+In this paper, we propose a disambiguating technique called controlled disjunctions. This extension of the so-called named disjunctions relies on the relations existing between feature values (covariation, control, etc.). We show that controlled disjunctions can implement different kind of ambiguities in a consistent and homogeneous way. We describe the integration of controlled disjunctions into a HPSG feature structure representation. Finally, we present a direct implementation by means of delayed evaluation and we develop an example within the functionnal programming paradigm.

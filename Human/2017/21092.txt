@@ -1,0 +1,3 @@
+Improving Compression Based Dissimilarity Measure for Music Score Analysis
+
+In this paper, we propose a way to improve the compression based dissimilarity measure, CDM. We propose to use a modified value of the file size, where the original CDM uses an unmodified file size. Our application is a music score analysis. We have chosen piano pieces from five different composers. We have selected 75 famous pieces (15 pieces for each composer). We computed the distances among all pieces by using the modified CDM. We use the K-nearest neighbor method when we estimate the composer of each piece of music. The modified CDM shows improved accuracy. The difference is statistically significant.

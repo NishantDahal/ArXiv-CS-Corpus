@@ -1,0 +1,3 @@
+Analyzing high-dimensional time-series data using kernel transfer operator eigenfunctions
+
+Kernel transfer operators, which can be regarded as approximations of transfer operators such as the Perron-Frobenius or Koopman operator in reproducing kernel Hilbert spaces, are defined in terms of covariance and cross-covariance operators and have been shown to be closely related to the conditional mean embedding framework developed by the machine learning community. The goal of this paper is to show how the dominant eigenfunctions of these operators in combination with gradient-based optimization techniques can be used to detect long-lived coherent patterns in high-dimensional time-series data. The results will be illustrated using video data and a fluid flow example.

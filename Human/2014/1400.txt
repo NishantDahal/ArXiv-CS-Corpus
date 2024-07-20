@@ -1,0 +1,3 @@
+Cellular Automata based adaptive resampling technique for the processing of remotely sensed imagery
+
+Resampling techniques are being widely used at different stages of satellite image processing. The existing methodologies cannot perfectly recover features from a completely under sampled image and hence an intelligent adaptive resampling methodology is required. We address these issues and adopt an error metric from the available literature to define interpolation quality. We also propose a new resampling scheme that adapts itself with regard to the pixel and texture variation in the image. The proposed CNN based hybrid method has been found to perform better than the existing methods as it adapts itself with reference to the image features.

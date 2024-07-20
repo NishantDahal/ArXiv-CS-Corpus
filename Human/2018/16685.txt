@@ -1,0 +1,4 @@
+Recovering sparse graphs
+
+We construct a fixed parameter algorithm parameterized by d and k that takes as an input a graph G' obtained from a d-degenerate graph G by complementing on at most k arbitrary subsets of the vertex set of G and outputs a graph H such that G and H agree on all but f(d,k) vertices.
+  Our work is motivated by the first order model checking in graph classes that are first order interpretable in classes of sparse graphs. We derive as a corollary that if G_0 is a graph class with bounded expansion, then the first order model checking is fixed parameter tractable in the class of all graphs that can obtained from a graph G from G_0 by complementing on at most k arbitrary subsets of the vertex set of G; this implies an earlier result that the first order model checking is fixed parameter tractable in graph classes interpretable in classes of graphs with bounded maximum degree.

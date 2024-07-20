@@ -1,0 +1,3 @@
+COCO: Performance Assessment
+
+We present an any-time performance assessment for benchmarking numerical optimization algorithms in a black-box scenario, applied within the COCO benchmarking platform. The performance assessment is based on runtimes measured in number of objective function evaluations to reach one or several quality indicator target values. We argue that runtime is the only available measure with a generic, meaningful, and quantitative interpretation. We discuss the choice of the target values, runlength-based targets, and the aggregation of results by using simulated restarts, averages, and empirical distribution functions.

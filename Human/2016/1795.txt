@@ -1,0 +1,5 @@
+11 x 11 Domineering is Solved: The first player wins
+
+We have developed a program called MUDoS (Maastricht University Domineering Solver) that solves Domineering positions in a very efficient way. This enables the solution of known positions so far (up to the 10 x 10 board) much quicker (measured in number of investigated nodes).
+  More importantly, it enables the solution of the 11 x 11 Domineering board, a board up till now far out of reach of previous Domineering solvers. The solution needed the investigation of 259,689,994,008 nodes, using almost half a year of computation time on a single simple desktop computer. The results show that under optimal play the first player wins the 11 x 11 Domineering game, irrespective if Vertical or Horizontal starts the game.
+  In addition, several other boards hitherto unsolved were solved. Using the convention that Vertical starts, the 8 x 15, 11 x 9, 12 x 8, 12 x 15, 14 x 8, and 17 x 6 boards are all won by Vertical, whereas the 6 x 17, 8 x 12, 9 x 11, and 11 x 10 boards are all won by Horizontal.

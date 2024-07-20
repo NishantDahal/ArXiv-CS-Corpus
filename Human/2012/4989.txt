@@ -1,0 +1,3 @@
+Parallel random variates generator for GPUs based on normal numbers
+
+Pseudorandom number generators are required for many computational tasks, such as stochastic modelling and simulation. This paper investigates the serial CPU and parallel GPU implementation of a Linear Congruential Generator based on the binary representation of the normal number $α_{2,3}$. We adapted two methods of modular reduction which allowed us to perform most operations in 64-bit integer arithmetic, improving on the original implementation based on 106-bit double-double operations. We found that our implementation is faster than existing methods in literature, and our generation rate is close to the limiting rate imposed by the efficiency of writing to a GPU's global memory.

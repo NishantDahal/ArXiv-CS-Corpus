@@ -1,0 +1,3 @@
+Evolutionary optimization of an experimental apparatus
+
+In recent decades, cold atom experiments have become increasingly complex. While computers control most parameters, optimization is mostly done manually. This is a time-consuming task for a high-dimensional parameter space with unknown correlations. Here we automate this process using a genetic algorithm based on Differential Evolution. We demonstrate that this algorithm optimizes 21 correlated parameters and that it is robust against local maxima and experimental noise. The algorithm is flexible and easy to implement. Thus, the presented scheme can be applied to a wide range of experimental optimization tasks.

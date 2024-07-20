@@ -1,0 +1,3 @@
+Fast B-spline Curve Fitting by L-BFGS
+
+We propose a novel method for fitting planar B-spline curves to unorganized data points. In traditional methods, optimization of control points and foot points are performed in two very time-consuming steps in each iteration: 1) control points are updated by setting up and solving a linear system of equations; and 2) foot points are computed by projecting each data point onto a B-spline curve. Our method uses the L-BFGS optimization method to optimize control points and foot points simultaneously and therefore it does not need to perform either matrix computation or foot point projection in every iteration. As a result, our method is much faster than existing methods.

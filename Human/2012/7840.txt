@@ -1,0 +1,3 @@
+Pirates and Treasure
+
+In this paper we introduce a new game; in this game there are two players who play as rival pirate gangs. The goal is to gather more treasure than your rival. The game is played on a graph and a player gathers treasure by moving to an unvisited vertex. At the end of the game, the player with the most treasure wins. We will show that this game is NP-Hard, and we will also look at the structure of this game under the disjunctive sum. We will show that there are cases where this game behaves like a normal play game, and cases where it behaves like a mis`ere play game. We then leave an open problem about scoring play games in general.

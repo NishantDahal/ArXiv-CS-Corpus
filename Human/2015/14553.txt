@@ -1,0 +1,3 @@
+Asynchronous Byzantine Agreement with Optimal Resilience and Linear Complexity
+
+Given a system with $n > 3t + 1$ processes, where $t$ is the tolerated number of faulty ones, we present a fast asynchronous Byzantine agreement protocol that can reach agreement in $O(t)$ expected running time. This improves the $O(n^2)$ expected running time of Abraham, Dolev, and Halpern [PODC 2008]. Furthermore, if $n = (3 + \varepsilon) t$ for any $\varepsilon > 0$, our protocol can reach agreement in $O (1 / \varepsilon)$ expected running time. This improves the result of Feldman and Micali [STOC 1988] (with constant expected running time when $n > 4 t$).

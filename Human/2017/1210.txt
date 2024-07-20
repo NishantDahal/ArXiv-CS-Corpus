@@ -1,0 +1,3 @@
+Fast counting of medium-sized rooted subgraphs
+
+We prove that counting copies of any graph $F$ in another graph $G$ can be achieved using basic matrix operations on the adjacency matrix of $G$. Moreover, the resulting algorithm is competitive for medium-sized $F$: our algorithm recovers the best known complexity for rooted 6-clique counting and improves on the best known for 9-cycle counting. Underpinning our proofs is the new result that, for a general class of graph operators, matrix operations are homomorphisms for operations on rooted graphs.

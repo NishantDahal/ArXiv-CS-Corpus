@@ -1,0 +1,3 @@
+Automatic Determination of Chord Roots
+
+Even though chord roots constitute a fundamental concept in music theory, existing models do not explain and determine them to full satisfaction. We present a new method which takes sequential context into account to resolve ambiguities and detect nonharmonic tones. We extract features from chord pairs and use a decision tree to determine chord roots. This leads to a quantitative improvement in correctness of the predicted roots in comparison to other models. All this raises the question how much harmonic and nonharmonic tones actually contribute to the perception of chord roots.

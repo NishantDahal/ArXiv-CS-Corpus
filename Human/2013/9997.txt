@@ -1,0 +1,3 @@
+Many collinear k-tuples with no k+1 collinear points
+
+For every $k>3$, we give a construction of planar point sets with many collinear $k$-tuples and no collinear $(k+1)$-tuples. We show that there are $n_0=n_0(k)$ and $c=c(k)$ such that if $n\geq n_0$, then there exists a set of $n$ points in the plane that does not contain $k+1$ points on a line, but it contains at least $n^{2-\frac{c}{\sqrt{\log n}}}$ collinear $k$-tuples of points. Thus, we significantly improve the previously best known lower bound for the largest number of collinear $k$-tuples in such a set, and get reasonably close to the trivial upper bound $O(n^2)$.

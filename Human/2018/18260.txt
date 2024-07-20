@@ -1,0 +1,3 @@
+Deep neural network ensemble by data augmentation and bagging for skin lesion classification
+
+This work summarizes our submission for the Task 3: Disease Classification of ISIC 2018 challenge in Skin Lesion Analysis Towards Melanoma Detection. We use a novel deep neural network (DNN) ensemble architecture introduced by us that can effectively classify skin lesions by using data-augmentation and bagging to address paucity of data and prevent over-fitting. The ensemble is composed of two DNN architectures: Inception-v4 and Inception-Resnet-v2. The DNN architectures are combined in to an ensemble by using a $1\times1$ convolution for fusion in a meta-learning layer.

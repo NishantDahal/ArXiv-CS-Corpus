@@ -1,0 +1,4 @@
+Query Answering for Rough EL Ontologies (Extended Technical Report)
+
+Querying large datasets with incomplete and vague data is still a challenge. Ontology-based query answering extends standard database query answering by background knowledge from an ontology to augment incomplete data. We focus on ontologies written in rough description logics (DLs), which allow to represent vague knowledge by partitioning the domain of discourse into classes of indiscernible elements.
+  In this paper, we extend the combined approach for ontology-based query answering to a variant of the DL EL augmented with rough concept constructors. We show that this extension preserves the good computational properties of classical EL and can be implemented by standard database systems.

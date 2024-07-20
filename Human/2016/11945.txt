@@ -1,0 +1,4 @@
+Algorithms for Colourful Simplicial Depth and Medians in the Plane
+
+The colourful simplicial depth of a point x in the plane relative to a configuration of n points in k colour classes is exactly the number of closed simplices (triangles) with vertices from 3 different colour classes that contain x in their convex hull. We consider the problems of efficiently computing the colourful simplicial depth of a point x, and of finding a point, called a median, that maximizes colourful simplicial depth.
+  For computing the colourful simplicial depth of x, our algorithm runs in time O(n log(n) + k n) in general, and O(kn) if the points are sorted around x. For finding the colourful median, we get a time of O(n^4). For comparison, the running times of the best known algorithm for the monochrome version of these problems are O(n log(n)) in general, improving to O(n) if the points are sorted around x for monochrome depth, and O(n^4) for finding a monochrome median.

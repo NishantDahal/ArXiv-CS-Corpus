@@ -1,0 +1,3 @@
+New Algorithms for Subset Sum Problem
+
+Given a set (or multiset) S of n numbers and a target number t, the subset sum problem is to decide if there is a subset of S that sums up to t. There are several methods for solving this problem, including exhaustive search, divide-and-conquer method, and Bellman's dynamic programming method. However, none of them could generate universal and light code. In this paper, we present a new deterministic algorithm based on a novel data arrangement, which could generate such code and return all solutions. If n is small enough, it is efficient for usual purpose. We also present a probabilistic version with one-sided error and a greedy algorithm which could generate a solution with minimized variance.

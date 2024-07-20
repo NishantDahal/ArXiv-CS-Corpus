@@ -1,0 +1,3 @@
+Embedded-width: A variant of treewidth for plane graphs
+
+We define a special case of tree decompositions for planar graphs that respect a given embedding of the graph. We study the analogous width of the resulting decomposition we call the embedded-width of a plane graph. We show both upper bounds and lower bounds for the embedded-width of a graph in terms of its treewidth and describe a fixed parameter tractable algorithm to calculate the embedded-width of a plane graph. To do so, we give novel bounds on the size of matchings in planar graphs.

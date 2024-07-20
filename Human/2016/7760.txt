@@ -1,0 +1,3 @@
+Secure Index Coding: Existence and Construction
+
+We investigate the construction of weakly-secure index codes for a sender to send messages to multiple receivers with side information in the presence of an eavesdropper. We derive a sufficient and necessary condition for the existence of index codes that are secure against an eavesdropper with access to any subset of messages of cardinality $t$, for any fixed $t$. In contrast to the benefits of using random keys in secure network coding, we prove that random keys do not promote security in three classes of index-coding instances.

@@ -1,0 +1,5 @@
+Generating k-Facets by Induction on the Dimension
+
+Let S be a set of n >= d points in general position in R^d. An oriented (d-1)-simplex spanned by d points from S is called a k-facet iff the positive side of its affine hull contains exactly k points from S. A (<=k)-facet is simply an i-facet for some i <= k. Let E_k(S) denote the number of (<=k)-facets. Of particular interest is the problem of bounding E_k(S) in terms of n, d, and k.
+  We present and analyze a method of generating all oriented d-tuples of points from S (and therefore all k-facets for 0 <= k <= n-d) that is inductive with regard to the dimension d. The motivation behind this is to shed light on the problem of bounding E_k(S) by drawing parallels with a simple method of sampling from certain beta distributions. In particular, we aim to provide a fresh perspective on a difficult open problem, the Generalized Upper Bound Conjecture proposed by Eckhoff, Linhart, and Welzl.
+  After presenting our analysis of the generation technique, we apply it to obtain a simple proof of a lower bound for E_k(S). This bound was known for d=2 but holds for a wider range of k than previous bounds when d >= 3.

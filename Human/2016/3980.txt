@@ -1,0 +1,5 @@
+Scalable Metric Learning via Weighted Approximate Rank Component Analysis
+
+We are interested in the large-scale learning of Mahalanobis distances, with a particular focus on person re-identification.
+  We propose a metric learning formulation called Weighted Approximate Rank Component Analysis (WARCA). WARCA optimizes the precision at top ranks by combining the WARP loss with a regularizer that favors orthonormal linear mappings, and avoids rank-deficient embeddings. Using this new regularizer allows us to adapt the large-scale WSABIE procedure and to leverage the Adam stochastic optimization algorithm, which results in an algorithm that scales gracefully to very large data-sets. Also, we derive a kernelized version which allows to take advantage of state-of-the-art features for re-identification when data-set size permits kernel computation.
+  Benchmarks on recent and standard re-identification data-sets show that our method beats existing state-of-the-art techniques both in term of accuracy and speed. We also provide experimental analysis to shade lights on the properties of the regularizer we use, and how it improves performance.

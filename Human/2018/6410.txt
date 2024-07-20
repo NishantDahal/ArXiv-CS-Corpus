@@ -1,0 +1,6 @@
+Induced and Weak Induced Arboricities
+
+We define the induced arboricity of a graph $G$, denoted by ${\rm ia}(G)$, as the smallest $k$ such that the edges of $G$ can be covered with $k$ induced forests in $G$. This notion generalizes the classical notions of the arboricity and strong chromatic index.
+  For a class $\mathcal{F}$ of graphs and a graph parameter $p$, let $p(\mathcal{F}) = \sup\{p(G) \mid G\in \mathcal{F}\}$. We show that ${\rm ia}(\mathcal{F})$ is bounded from above by an absolute constant depending only on $\mathcal{F}$, that is ${\rm ia}(\mathcal{F})\neq\infty$ if and only if $χ(\mathcal{F} \nabla \frac{1}{2}) \neq\infty$, where $\mathcal{F} \nabla \frac{1}{2}$ is the class of $\frac{1}{2}$-shallow minors of graphs from $\mathcal{F}$ and $χ$ is the chromatic number.
+  Further, we give bounds on ${\rm ia}(\mathcal{F})$ when $\mathcal{F}$ is the class of planar graphs, the class of $d$-degenerate graphs, or the class of graphs having tree-width at most $d$. Specifically, we show that if $\mathcal{F}$ is the class of planar graphs, then $8 \leq {\rm ia}(\mathcal{F}) \leq 10$.
+  In addition, we establish similar results for so-called weak induced arboricities and star arboricities of classes of graphs.

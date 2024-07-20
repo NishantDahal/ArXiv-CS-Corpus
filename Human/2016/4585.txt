@@ -1,0 +1,3 @@
+Two Differentially Private Rating Collection Mechanisms for Recommender Systems
+
+We design two mechanisms for the recommender system to collect user ratings. One is modified Laplace mechanism, and the other is randomized response mechanism. We prove that they are both differentially private and preserve the data utility.

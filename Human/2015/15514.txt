@@ -1,0 +1,3 @@
+Modelling Decoding Errors in HARQ
+
+In this work we address the issues of probabilistic modelling of the decoding errors in hybrid ARQ (HARQ) rounds. In particular we i) claim that the assumption of independence of decoding errors, used implicitly in various works on this subject, is an approximation, and ii) propose equally simple but much more accurate method to calculate the probability of the sequence of decoding errors. The model we propose is useful from the point of view of performance evaluation, system-level simulation, and/or link adaptation. Its simplicity leads also to closed form expression for the outage probability and for the average number of transmissions in block-fading channel.

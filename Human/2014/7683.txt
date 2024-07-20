@@ -1,0 +1,3 @@
+Solving Large Imperfect Information Games Using CFR+
+
+Counterfactual Regret Minimization and variants (e.g. Public Chance Sampling CFR and Pure CFR) have been known as the best approaches for creating approximate Nash equilibrium solutions for imperfect information games such as poker. This paper introduces CFR$^+$, a new algorithm that typically outperforms the previously known algorithms by an order of magnitude or more in terms of computation time while also potentially requiring less memory.

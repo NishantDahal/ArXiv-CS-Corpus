@@ -1,0 +1,3 @@
+Human Head Pose Estimation by Facial Features Location
+
+We describe a method for estimating human head pose in a color image that contains enough of information to locate the head silhouette and detect non-trivial color edges of individual facial features. The method works by spotting the human head on an arbitrary background, extracting the head outline, and locating facial features necessary to describe the head orientation in the 3D space. It is robust enough to work with both color and gray-level images featuring quasi-frontal views of a human head under variable lighting conditions.

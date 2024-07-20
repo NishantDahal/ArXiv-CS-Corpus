@@ -1,0 +1,3 @@
+Concurrent Constraint Machine Improvisation: Models and Implementation
+
+Machine improvisation creates music either by explicit coding of rules or by applying machine learning methods. We deal with the latter case. An improvisation system capable of real-time must execute two process concurrently: one to apply machine learning methods to musical sequences in order to capture prominent musical features, and one to produce musical sequences stylistically consistent with the learned material. As an example, the Concurrent Constraint Factor Oracle Model for Music Improvisation (ccfomi), based upon Non-deterministic Timed Concurrent Constraint (ntcc) calculus, uses the Factor Oracle to store the learned sequences.

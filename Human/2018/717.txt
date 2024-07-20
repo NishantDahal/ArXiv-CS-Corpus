@@ -1,0 +1,3 @@
+In-network Neural Networks
+
+We present N2Net, a system that implements binary neural networks using commodity switching chips deployed in network switches and routers. Our system shows that these devices can run simple neural network models, whose input is encoded in the network packets' header, at packet processing speeds (billions of packets per second). Furthermore, our experience highlights that switching chips could support even more complex models, provided that some minor and cheap modifications to the chip's design are applied. We believe N2Net provides an interesting building block for future end-to-end networked systems.

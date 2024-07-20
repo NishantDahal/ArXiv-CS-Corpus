@@ -1,0 +1,4 @@
+Compact Oblivious Routing
+
+Oblivious routing is an attractive paradigm for large distributed systems in which centralized control and frequent reconfigurations are infeasible or undesired (e.g., costly). Over the last almost 20 years, much progress has been made in devising oblivious routing schemes that guarantee close to optimal load and also algorithms for constructing such schemes efficiently have been designed. However, a common drawback of existing oblivious routing schemes is that they are not compact: they require large routing tables (of polynomial size), which does not scale.
+  This paper presents the first oblivious routing scheme which guarantees close to optimal load and is compact at the same time -- requiring routing tables of polylogarithmic size. Our algorithm maintains the polynomial runtime and polylogarithmic competitive ratio of existing algorithms, and is hence particularly well-suited for emerging large-scale networks.

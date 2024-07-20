@@ -1,0 +1,3 @@
+Kishon's Poker Game
+
+We present an approach for proving the correctness of distributed algorithms that obviate interleaving of processes' actions. The main part of the correctness proof is conducted at a higher abstract level and uses Tarskian system executions that combine two separate issues: the specification of the serial process that executes its protocol alone (no concurrency here), and the specification of the communication objects (no code here). In order to explain this approach a short algorithm for two concurrent processes that we call "Kishon's Poker" is introduced and is used as a platform where this approach is compared to the standard one which is based on the notions of global state, step, and history.

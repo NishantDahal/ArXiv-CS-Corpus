@@ -1,0 +1,3 @@
+MTD(f), A Minimax Algorithm Faster Than NegaScout
+
+MTD(f) is a new minimax search algorithm, simpler and more efficient than previous algorithms. In tests with a number of tournament game playing programs for chess, checkers and Othello it performed better, on average, than NegaScout/PVS (the AlphaBeta variant used in practically all good chess, checkers, and Othello programs). One of the strongest chess programs of the moment, MIT's parallel chess program Cilkchess uses MTD(f) as its search algorithm, replacing NegaScout, which was used in StarSocrates, the previous version of the program.

@@ -1,0 +1,3 @@
+Denosing Using Wavelets and Projections onto the L1-Ball
+
+Both wavelet denoising and denosing methods using the concept of sparsity are based on soft-thresholding. In sparsity based denoising methods, it is assumed that the original signal is sparse in some transform domains such as the wavelet domain and the wavelet subsignals of the noisy signal are projected onto L1-balls to reduce noise. In this lecture note, it is shown that the size of the L1-ball or equivalently the soft threshold value can be determined using linear algebra. The key step is an orthogonal projection onto the epigraph set of the L1-norm cost function.

@@ -1,0 +1,4 @@
+Instability of one-step replica-symmetry-broken phase in satisfiability problems
+
+We reconsider the one-step replica-symmetry-breaking (1RSB) solutions of two random combinatorial problems: k-XORSAT and k-SAT. We present a general method for establishing the stability of these solutions with respect to further steps of replica-symmetry breaking. Our approach extends the ideas of [A.Montanari and F. Ricci-Tersenghi, Eur.Phys.J. B 33, 339 (2003)] to more general combinatorial problems.
+  It turns out that 1RSB is always unstable at sufficiently small clauses density alpha or high energy. In particular, the recent 1RSB solution to 3-SAT is unstable at zero energy for alpha< alpha_m, with alpha_m\approx 4.153. On the other hand, the SAT-UNSAT phase transition seems to be correctly described within 1RSB.

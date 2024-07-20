@@ -1,0 +1,6 @@
+Bizur: A Key-value Consensus Algorithm for Scalable File-systems
+
+Bizur is a consensus algorithm exposing a key-value interface. It is used by a distributed file-system that scales to 100s of servers, delivering millions of IOPS, both data and metadata, with consistent low-latency.
+  Bizur is aimed for services that require strongly consistent state, but do not require a distributed log; for example, a distributed lock manager or a distributed service locator. By avoiding a distributed log scheme, Bizur outperforms distributed log based consensus algorithms, producing more IOPS and guaranteeing lower latencies during normal operation and especially during failures.
+  Paxos-like algorithms (e.g., Zab and Raft) which are used by existing distributed file-systems, can have artificial contention points due to their dependence on a distributed log. The distributed log is needed when replicating a general service, but when the desired service is key-value based, the contention points created by the distributed log can be avoided.
+  Bizur does exactly that, by reaching consensus independently on independent keys. This independence allows Bizur to handle failures more efficiently and to scale much better than other consensus algorithms, allowing the file-system that utilizes Bizur to scale with it.

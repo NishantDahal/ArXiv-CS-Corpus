@@ -1,0 +1,3 @@
+Axioms in Model-based Planners
+
+Axioms can be used to model derived predicates in domain- independent planning models. Formulating models which use axioms can sometimes result in problems with much smaller search spaces and shorter plans than the original model. Previous work on axiom-aware planners focused solely on state- space search planners. We propose axiom-aware planners based on answer set programming and integer programming. We evaluate them on PDDL domains with axioms and show that they can exploit additional expressivity of axioms.

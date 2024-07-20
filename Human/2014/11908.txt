@@ -1,0 +1,3 @@
+A Framework for Evaluation of Composite Memento Temporal Coherence
+
+Most archived HTML pages embed other web resources, such as images and stylesheets. Playback of the archived web pages typically provides only the capture date (or Memento-Datetime) of the root resource and not the Memento-Datetime of the embedded resources. In the course of our research, we have discovered that the Memento-Datetime of embedded resources can be up to several years in the future or past, relative to the Memento-Datetime of the embedding root resource. We introduce a framework for assessing temporal coherence between a root resource and its embedded resource depending on Memento-Datetime, Last-Modified datetime, and entity body.

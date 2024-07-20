@@ -1,0 +1,6 @@
+Equivalence of Intuitionistic Inductive Definitions and Intuitionistic Cyclic Proofs under Arithmetic
+
+A cyclic proof system gives us another way of representing inductive definitions and efficient proof search. In 2011 Brotherston and Simpson conjectured the equivalence between the provability of the classical cyclic proof system and that of the classical system of Martin-Lof's inductive definitions.
+  This paper studies the conjecture for intuitionistic logic.
+  This paper first points out that the countermodel of FOSSACS 2017 paper by the same authors shows the conjecture for intuitionistic logic is false in general. Then this paper shows the conjecture for intuitionistic logic is true under arithmetic, namely, the provability of the intuitionistic cyclic proof system is the same as that of the intuitionistic system of Martin-Lof's inductive definitions when both systems contain Heyting arithmetic HA.
+  For this purpose, this paper also shows that HA proves Podelski-Rybalchenko theorem for induction and Kleene-Brouwer theorem for induction. These results immediately give another proof to the conjecture under arithmetic for classical logic shown in LICS 2017 paper by the same authors.

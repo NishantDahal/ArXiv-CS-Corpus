@@ -1,0 +1,4 @@
+Using the distribution of cells by dimension in a cylindrical algebraic decomposition
+
+We investigate the distribution of cells by dimension in cylindrical algebraic decompositions (CADs). We find that they follow a standard distribution which seems largely independent of the underlying problem or CAD algorithm used. Rather, the distribution is inherent to the cylindrical structure and determined mostly by the number of variables.
+  This insight is then combined with an algorithm that produces only full-dimensional cells to give an accurate method of predicting the number of cells in a complete CAD. Since constructing only full-dimensional cells is relatively inexpensive (involving no costly algebraic number calculations) this leads to heuristics for helping with various questions of problem formulation for CAD, such as choosing an optimal variable ordering. Our experiments demonstrate that this approach can be highly effective.

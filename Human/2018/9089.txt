@@ -1,0 +1,3 @@
+Factorisation systems for logical relations and monadic lifting in type-and-effect system semantics
+
+Type-and-effect systems incorporate information about the computational effects, e.g., state mutation, probabilistic choice, or I/O, a program phrase may invoke alongside its return value. A semantics for type-and-effect systems involves a parameterised family of monads whose size is exponential in the number of effects. We derive such refined semantics from a single monad over a category, a choice of algebraic operations for this monad, and a suitable factorisation system over this category. We relate the derived semantics to the original semantics using fibrations for logical relations. Our proof uses a folklore technique for lifting monads with operations.

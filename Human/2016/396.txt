@@ -1,0 +1,6 @@
+Efficient Compilation to Event-Driven Task Programs
+
+As illustrated by the emergence of a class of new languages and runtimes, it is expected that a large portion of the programs to run on extreme scale computers will need to be written as graphs of event-driven tasks (EDTs). EDT runtime systems, which schedule such collections of tasks, enable more concurrency than traditional runtimes by reducing the amount of inter-task synchronization, improving dynamic load balancing and making more operations asynchronous.
+  We present an efficient technique to generate such task graphs from a polyhedral representation of a program, both in terms of compilation time and asymptotic execution time. Task dependences become materialized in different forms, depending upon the synchronization model available with the targeted runtime.
+  We explore the different ways of programming EDTs using each synchronization model, and identify important sources of overhead associated with them. We evaluate these programming schemes according to the cost they entail in terms of sequential start-up, in-flight task management, space used for synchronization objects, and garbage collection of these objects.
+  While our implementation and evaluation take place in a polyhedral compiler, the presented overhead cost analysis is useful in the more general context of automatic code generation.

@@ -1,0 +1,7 @@
+Byzantine Vector Consensus in Complete Graphs
+
+Consider a network of n processes each of which has a d-dimensional vector of reals as its input. Each process can communicate directly with all the processes in the system; thus the communication network is a complete graph. All the communication channels are reliable and FIFO (first-in-first-out). The problem of Byzantine vector consensus (BVC) requires agreement on a d-dimensional vector that is in the convex hull of the d-dimensional input vectors at the non-faulty processes. We obtain the following results for Byzantine vector consensus in complete graphs while tolerating up to f Byzantine failures:
+  * We prove that in a synchronous system, n >= max(3f+1, (d+1)f+1) is necessary and sufficient for achieving Byzantine vector consensus.
+  * In an asynchronous system, it is known that exact consensus is impossible in presence of faulty processes. For an asynchronous system, we prove that n >= (d+2)f+1 is necessary and sufficient to achieve approximate Byzantine vector consensus.
+  Our sufficiency proofs are constructive. We show sufficiency by providing explicit algorithms that solve exact BVC in synchronous systems, and approximate BVC in asynchronous systems.
+  We also obtain tight bounds on the number of processes for achieving BVC using algorithms that are restricted to a simpler communication pattern.

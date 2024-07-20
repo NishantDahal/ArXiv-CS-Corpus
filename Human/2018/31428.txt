@@ -1,0 +1,3 @@
+Poster: Parallel Implementation of the OMNeT++ INET Framework for V2X Communications
+
+The field of parallel network simulation frameworks is evolving at a great pace. That is also because of the growth of Intelligent Transportation Systems (ITS) and the necessity for cost-effective large-scale trials. In this contribution, we will focus on the INET Framework and how we re-factor its single-thread code to make it run in a multi-thread fashion. Our parallel version of the INET Framework can significantly reduce the computation time in city-scale scenarios, and it is completely transparent to the user. When tested in different configurations, our version of INET ensures a reduction in the computation time of up to 43%.

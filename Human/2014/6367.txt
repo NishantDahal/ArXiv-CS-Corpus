@@ -1,0 +1,8 @@
+Computational Complexity of Certifying Restricted Isometry Property
+
+Given a matrix $A$ with $n$ rows, a number $k<n$, and $0<δ< 1$, $A$ is $(k,δ)$-RIP (Restricted Isometry Property) if, for any vector $x \in \mathbb{R}^n$, with at most $k$ non-zero co-ordinates, $$(1-δ) \|x\|_2 \leq \|A x\|_2 \leq (1+δ)\|x\|_2$$ In many applications, such as compressed sensing and sparse recovery, it is desirable to construct RIP matrices with a large $k$ and a small $δ$. Given the efficacy of random constructions in generating useful RIP matrices, the problem of certifying the RIP parameters of a matrix has become important.
+  In this paper, we prove that it is hard to approximate the RIP parameters of a matrix assuming the Small-Set-Expansion-Hypothesis. Specifically, we prove that for any arbitrarily large constant $C>0$ and any arbitrarily small constant $0<δ<1$, there exists some $k$ such that given a matrix $M$, it is SSE-Hard to distinguish the following two cases:
+  - (Highly RIP) $M$ is $(k,δ)$-RIP.
+  - (Far away from RIP) $M$ is not $(k/C, 1-δ)$-RIP.
+  Most of the previous results on the topic of hardness of RIP certification only hold for certification when $δ=o(1)$. In practice, it is of interest to understand the complexity of certifying a matrix with $δ$ being close to $\sqrt{2}-1$, as it suffices for many real applications to have matrices with $δ= \sqrt{2}-1$. Our hardness result holds for any constant $δ$. Specifically, our result proves that even if $δ$ is indeed very small, i.e. the matrix is in fact \emph{strongly RIP}, certifying that the matrix exhibits \emph{weak RIP} itself is SSE-Hard.
+  In order to prove the hardness result, we prove a variant of the Cheeger's Inequality for sparse vectors.

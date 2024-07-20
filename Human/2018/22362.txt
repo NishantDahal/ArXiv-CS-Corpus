@@ -1,0 +1,3 @@
+Clipping noise approximate analysis and power allocation for photon-detection-based DCO-OFDM and ACO-OFDM
+
+The clipping noise of the photon-level detector for both direct current-biased optical OFDM (DCO-OFDM) and asymmetrically clipped optical OFDM (ACO-OFDM) is investigated. Based on Bussgang theorem and central limit theorem (CLT), we obtain the approximate closed-form SNR of each subcarrier, based on which we further formulate the power allocation among the subcarriers. Numerical results show that the SNR obtained from theoretical analysis can well approximate that obtained from simulation results, and uniform power allocation suffices to perform close to the optimized power allocation from Genetic Algorithm (GA) with significantly reduced computational complexity.

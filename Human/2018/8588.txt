@@ -1,0 +1,3 @@
+A New Decidable Class of Tuple Generating Dependencies: The Triangularly-Guarded Class
+
+In this paper we introduce a new class of tuple-generating dependencies (TGDs) called triangularly-guarded TGDs, which are TGDs with certain restrictions on the atomic derivation track embedded in the underlying rule set. We show that conjunctive query answering under this new class of TGDs is decidable. We further show that this new class strictly contains some other decidable classes such as weak-acyclic, guarded, sticky and shy, which, to the best of our knowledge, provides a unified representation of all these aforementioned classes.

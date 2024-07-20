@@ -1,0 +1,3 @@
+Object-Oriented Parallel Programming
+
+We introduce an object-oriented framework for parallel programming, which is based on the observation that programming objects can be naturally interpreted as processes. A parallel program consists of a collection of persistent processes that communicate by executing remote methods. We discuss code parallelization and process persistence, and explain the main ideas in the context of computations with very large data objects.

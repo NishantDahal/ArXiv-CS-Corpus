@@ -1,0 +1,5 @@
+HEP@Home - A distributed computing system based on BOINC
+
+Project SETI@HOME has proven to be one of the biggest successes of distributed computing during the last years. With a quite simple approach SETI manages to process large volumes of data using a vast amount of distributed computer power.
+  To extend the generic usage of this kind of distributed computing tools, BOINC is being developed. In this paper we propose HEP@HOME, a BOINC version tailored to the specific requirements of the High Energy Physics (HEP) community.
+  The HEP@HOME will be able to process large amounts of data using virtually unlimited computing power, as BOINC does, and it should be able to work according to HEP specifications. In HEP the amounts of data to be analyzed or reconstructed are of central importance. Therefore, one of the design principles of this tool is to avoid data transfer. This will allow scientists to run their analysis applications and taking advantage of a large number of CPUs. This tool also satisfies other important requirements in HEP, namely, security, fault-tolerance and monitoring.

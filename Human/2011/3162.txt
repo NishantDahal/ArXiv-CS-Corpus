@@ -1,0 +1,3 @@
+Injectivity of 2D Toric Bézier Patches
+
+Rational Bézier functions are widely used as mapping functions in surface reparameterization, finite element analysis, image warping and morphing. The injectivity (one-to-one property) of a mapping function is typically necessary for these applications. Toric Bézier patches are generalizations of classical patches (triangular, tensor product) which are defined on the convex hull of a set of integer lattice points. We give a geometric condition on the control points that we show is equivalent to the injectivity of every 2D toric Bézier patch with those control points for all possible choices of weights. This condition refines that of Craciun, et al., which only implied injectivity on the interior of a patch.

@@ -1,0 +1,3 @@
+Maximum-Area Triangle in a Convex Polygon, Revisited
+
+We revisit the following problem: Given a convex polygon $P$, find the largest-area inscribed triangle. We show by example that the linear-time algorithm presented in 1979 by Dobkin and Snyder for solving this problem fails. We then proceed to show that with a small adaptation, their approach does lead to a quadratic-time algorithm. We also present a more involved $O(n\log n)$ time divide-and-conquer algorithm. Also we show by example that the algorithm presented in 1979 by Dobkin and Snyder for finding the largest-area $k$-gon that is inscribed in a convex polygon fails to find the optimal solution for $k=4$. Finally, we discuss the implications of our discoveries on the literature.

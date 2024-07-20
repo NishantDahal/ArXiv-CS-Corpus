@@ -1,0 +1,3 @@
+Interactive Runtime Verification
+
+Monitoring is the study of a system at runtime, looking for input and output events to discover, check or enforce behavioral properties. Interactive debugging is the study of a system at runtime in order to discover and understand its bugs and fix them, inspecting interactively its internal state. Interactive Runtime Verification (i-RV) combines monitoring and interactive debugging. We define an efficient and convenient way to check behavioral properties automatically on a program using a debugger. We aim at helping bug discovery while keeping the classical debugging techniques and interactivity, which allow understanding and fixing bugs.

@@ -1,0 +1,3 @@
+A faster fixed parameter algorithm for two-layer crossing minimization
+
+We give an algorithm that decides whether the bipartite crossing number of a given graph is at most $k$. The running time of the algorithm is upper bounded by $2^{O(k)} + n^{O(1)}$, where $n$ is the number of vertices of the input graph, which improves the previously known algorithm due to Kobayashi et al. (TCS 2014) that runs in $2^{O(k \log k)} + n^{O(1)}$ time. This result is based on a combinatorial upper bound on the number of two-layer drawings of a connected bipartite graph with a bounded crossing number.

@@ -1,0 +1,3 @@
+Knowledge distillation using unlabeled mismatched images
+
+Current approaches for Knowledge Distillation (KD) either directly use training data or sample from the training data distribution. In this paper, we demonstrate effectiveness of 'mismatched' unlabeled stimulus to perform KD for image classification networks. For illustration, we consider scenarios where this is a complete absence of training data, or mismatched stimulus has to be used for augmenting a small amount of training data. We demonstrate that stimulus complexity is a key factor for distillation's good performance. Our examples include use of various datasets for stimulating MNIST and CIFAR teachers.

@@ -1,0 +1,4 @@
+Quasi-4-Connected Components
+
+We introduce a new decomposition of a graphs into quasi-4-connected components, where we call a graph quasi-4-connected if it is 3-connected and it only has separations of order 3 that remove a single vertex. Moreover, we give a cubic time algorithm computing the decomposition of a given graph.
+  Our decomposition into quasi-4-connected components refines the well-known decompositions of graphs into biconnected and triconnected components. We relate our decomposition to Robertson and Seymour's theory of tangles by establishing a correspondence between the quasi-4-connected components of a graph and its tangles of order 4.

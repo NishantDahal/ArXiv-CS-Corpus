@@ -1,0 +1,3 @@
+An Optimal Randomized Broadcasting Algorithm in Radio Networks with Collision Detection
+
+We present a randomized distributed algorithm that in radio networks with collision detection broadcasts a single message in $O(D+\log^2 n)$ time slots, with high probability. In view of the lower-bound $Ω(D+\log^2 n)$, our algorithm is optimal in the considered model answering the decades-old question of Alon, Bar-Noy, Linial and Peleg [JCSS 1991].

@@ -1,0 +1,3 @@
+Coverage and Rate of Downlink Sequence Transmissions with Reliability Guarantees
+
+Real-time distributed control is a promising application of 5G in which communication links should satisfy certain reliability guarantees. In this letter, we derive closed-form maximum average rate when a device (e.g. industrial machine) downloads a sequence of n operational commands through cellular connection, while guaranteeing a certain signal-to-interference ratio (SIR) coverage for all n messages. The result is based on novel closed-form n-successive SIR coverage bounds. The proposed bounds provide simple approximations that are increasingly accurate in the high reliability region.

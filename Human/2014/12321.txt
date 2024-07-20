@@ -1,0 +1,3 @@
+Linking GloVe with word2vec
+
+The Global Vectors for word representation (GloVe), introduced by Jeffrey Pennington et al. is reported to be an efficient and effective method for learning vector representations of words. State-of-the-art performance is also provided by skip-gram with negative-sampling (SGNS) implemented in the word2vec tool. In this note, we explain the similarities between the training objectives of the two models, and show that the objective of SGNS is similar to the objective of a specialized form of GloVe, though their cost functions are defined differently.

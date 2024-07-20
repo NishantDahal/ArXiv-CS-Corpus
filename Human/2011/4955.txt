@@ -1,0 +1,3 @@
+A Reduced Multiple Gabor Frame for Local Time Adaptation of the Spectrogram
+
+In this paper we propose a method for automatic local time adap- tation of the spectrogram of an audio signal, based on its decomposition within a Gabor multi-frame. The sparsity of the analyses within each individual frame is evaluated through the Rényi entropies measures. According to the sparsity of the decompositions, an optimal resolution and a reduced multi-frame are determined, defining an adapted spectrogram with variable resolution and hop size. The composition of such a reduced multi-frame allows an immediate definition of a dual frame: re-synthesis techniques for this adapted analysis are easily derived by the traditional phase vocoder scheme.

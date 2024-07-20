@@ -1,0 +1,3 @@
+Traffic dynamics in scale-free networks with limited packet-delivering capacity
+
+We propose a limited packet-delivering capacity model for traffic dynamics in scale-free networks. In this model, the total node's packet-delivering capacity is fixed, and the allocation of packet-delivering capacity on node $i$ is proportional to $k_{i}^φ$, where $k_{i}$ is the degree of node $i$ and $φ$ is a adjustable parameter. We have applied this model on the shortest path routing strategy as well as the local routing strategy, and found that there exists an optimal value of parameter $φ$ leading to the maximal network capacity under both routing strategies. We provide some explanations for the emergence of optimal $φ$.

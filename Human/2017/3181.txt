@@ -1,0 +1,3 @@
+Termination of Monotone Programs
+
+We present an efficient approach to prove termination of monotone programs with integer variables, an expressive class of loops that is often encountered in computer programs. Our approach is based on a lightweight static analysis method and takes advantage of simple %nice properties of monotone functions. Our preliminary implementation %beats shows that our tool has an advantage over existing tools and can prove termination for a high percentage of loops for a class of benchmarks.

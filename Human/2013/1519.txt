@@ -1,0 +1,3 @@
+Trajectory generation and display for free flight
+
+In this study a new approach is proposed for the generation of aircraft trajectories. The relative guidance of an aircraft, which is aimed to join in minimum time the track of a leader aircraft, is particularly considered. In a first place, a minimum time relative convergence problem is considered and optimal trajectories are characterized. Then the synthesis of a neural approximator for optimal trajectories is discussed. Trained neural networks are used in an adaptive manner to generate intent trajectories during operation. Finally simulation results involving two wide body aircraft are presented.

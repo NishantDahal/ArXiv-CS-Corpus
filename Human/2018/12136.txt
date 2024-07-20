@@ -1,0 +1,3 @@
+Computing Coverage Kernels Under Restricted Settings
+
+We consider the Minimum Coverage Kernel problem: given a set $B$ of $d$-dimensional boxes, find a subset of $B$ of minimum size covering the same region as $B$. This problem is $\mathsf{NP}$-hard, but as for many $\mathsf{NP}$-hard problems on graphs, the problem becomes solvable in polynomial time under restrictions on the graph induced by $B$. We consider various classes of graphs, show that Minimum Coverage Kernel remains $\mathsf{NP}$-hard even for severely restricted instances, and provide two polynomial time approximation algorithms for this problem.

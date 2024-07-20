@@ -1,0 +1,5 @@
+Population Anomaly Detection through Deep Gaussianization
+
+We introduce an algorithmic method for population anomaly detection based on gaussianization through an adversarial autoencoder. This method is applicable to detection of `soft' anomalies in arbitrarily distributed highly-dimensional data.
+  A soft, or population, anomaly is characterized by a shift in the distribution of the data set, where certain elements appear with higher probability than anticipated. Such anomalies must be detected by considering a sufficiently large sample set rather than a single sample.
+  Applications include, but not limited to, payment fraud trends, data exfiltration, disease clusters and epidemics, and social unrests. We evaluate the method on several domains and obtain both quantitative results and qualitative insights.

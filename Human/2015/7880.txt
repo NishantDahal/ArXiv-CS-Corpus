@@ -1,0 +1,3 @@
+A PTAS for Agnostically Learning Halfspaces
+
+We present a PTAS for agnostically learning halfspaces w.r.t. the uniform distribution on the $d$ dimensional sphere. Namely, we show that for every $μ>0$ there is an algorithm that runs in time $\mathrm{poly}(d,\frac{1}ε)$, and is guaranteed to return a classifier with error at most $(1+μ)\mathrm{opt}+ε$, where $\mathrm{opt}$ is the error of the best halfspace classifier. This improves on Awasthi, Balcan and Long [ABL14] who showed an algorithm with an (unspecified) constant approximation ratio. Our algorithm combines the classical technique of polynomial regression (e.g. [LMN89, KKMS05]), together with the new localization technique of [ABL14].

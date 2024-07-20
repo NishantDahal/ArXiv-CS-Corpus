@@ -1,0 +1,3 @@
+Bypassing Feature Squeezing by Increasing Adversary Strength
+
+Feature Squeezing is a recently proposed defense method which reduces the search space available to an adversary by coalescing samples that correspond to many different feature vectors in the original space into a single sample. It has been shown that feature squeezing defenses can be combined in a joint detection framework to achieve high detection rates against state-of-the-art attacks. However, we demonstrate on the MNIST and CIFAR-10 datasets that by increasing the adversary strength of said state-of-the-art attacks, one can bypass the detection framework with adversarial examples of minimal visual distortion. These results suggest for proposed defenses to validate against stronger attack configurations.

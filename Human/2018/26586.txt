@@ -1,0 +1,3 @@
+An Efficient Implementation of Riemannian Manifold Hamiltonian Monte Carlo for Gaussian Process Models
+
+This technical report presents pseudo-code for a Riemannian manifold Hamiltonian Monte Carlo (RMHMC) method to efficiently simulate samples from $N$-dimensional posterior distributions $p(x|y)$, where $x \in R^N$ is drawn from a Gaussian Process (GP) prior, and observations $y_n$ are independent given $x_n$. Sufficient technical and algorithmic details are provided for the implementation of RMHMC for distributions arising from GP priors.

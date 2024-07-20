@@ -1,0 +1,3 @@
+Constant-factor approximations for Capacitated Arc Routing without triangle inequality
+
+Given an undirected graph with edge costs and edge demands, the Capacitated Arc Routing problem (CARP) asks for minimum-cost routes for equal-capacity vehicles so as to satisfy all demands. Constant-factor polynomial-time approximation algorithms were proposed for CARP with triangle inequality, while CARP was claimed to be NP-hard to approximate within any constant factor in general. Correcting this claim, we show that any factor α approximation for CARP with triangle inequality yields a factor α approximation for the general CARP.

@@ -1,0 +1,3 @@
+An Upper Bound on the Average Size of Silhouettes
+
+It is a widely observed phenomenon in computer graphics that the size of the silhouette of a polyhedron is much smaller than the size of the whole polyhedron. This paper provides, for the first time, theoretical evidence supporting this for a large class of objects, namely for polyhedra that approximate surfaces in some reasonable way; the surfaces may be non-convex and non-differentiable and they may have boundaries. We prove that such polyhedra have silhouettes of expected size $O(\sqrt{n})$ where the average is taken over all points of view and n is the complexity of the polyhedron.

@@ -1,0 +1,3 @@
+Formal Analysis of Vulnerabilities of Web Applications Based on SQL Injection (Extended Version)
+
+We present a formal approach that exploits attacks related to SQL Injection (SQLi) searching for security flaws in a web application. We give a formal representation of web applications and databases, and show that our formalization effectively exploits SQLi attacks. We implemented our approach in a prototype tool called SQLfast and we show its efficiency on real-world case studies, including the discovery of an attack on Joomla! that no other tool can find.

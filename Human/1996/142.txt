@@ -1,0 +1,3 @@
+Shellsort with three increments
+
+A perturbation technique can be used to simplify and sharpen A. C. Yao's theorems about the behavior of shellsort with increments $(h,g,1)$. In particular, when $h=Θ(n^{7/15})$ and $g=Θ(h^{1/5})$, the average running time is $O(n^{23/15})$. The proof involves interesting properties of the inversions in random permutations that have been $h$-sorted and $g$-sorted.

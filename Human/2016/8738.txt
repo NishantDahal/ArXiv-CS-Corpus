@@ -1,0 +1,3 @@
+The Pattern Basis Approach to Circuit Complexity
+
+We describe and motivate a proposed new approach to lowerbounding the circuit complexity of boolean functions, based on a new formalization of "patterns" as elements of a special basis of the vector space of all truth table properties. We prove that a "pattern basis" with certain properties would lead to a useful complexity formula of a specific form, and speculate on how to find such a basis. This formula might take as long to compute on arbitrary functions as a brute-force search among circuits, thus addressing the natural proofs barrier, but has a form amenable to proving lower bounds for well-understood explicit functions.

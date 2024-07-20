@@ -1,0 +1,3 @@
+A local search $4/3$-approximation algorithm for the minimum $3$-path partition problem
+
+Given a graph $G = (V, E)$, the $3$-path partition problem is to find a minimum collection of vertex-disjoint paths each of order at most $3$ to cover all the vertices of $V$. It is different from but closely related to the well-known $3$-set cover problem. The best known approximation algorithm for the $3$-path partition problem was proposed recently and has a ratio $13/9$. Here we present a local search algorithm and show, by an amortized analysis, that it is a $4/3$-approximation. This ratio matches up to the best approximation ratio for the $3$-set cover problem.

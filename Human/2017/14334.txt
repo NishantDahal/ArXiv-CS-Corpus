@@ -1,0 +1,3 @@
+DE-PACRR: Exploring Layers Inside the PACRR Model
+
+Recent neural IR models have demonstrated deep learning's utility in ad-hoc information retrieval. However, deep models have a reputation for being black boxes, and the roles of a neural IR model's components may not be obvious at first glance. In this work, we attempt to shed light on the inner workings of a recently proposed neural IR model, namely the PACRR model, by visualizing the output of intermediate layers and by investigating the relationship between intermediate weights and the ultimate relevance score produced. We highlight several insights, hoping that such insights will be generally applicable.

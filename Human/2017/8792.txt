@@ -1,0 +1,4 @@
+Being even slightly shallow makes life hard
+
+We study the computational complexity of identifying dense substructures, namely $r/2$-shallow topological minors and $r$-subdivisions. Of particular interest is the case when $r=1$, when these substructures correspond to very localized relaxations of subgraphs. Since Densest Subgraph can be solved in polynomial time, we ask whether these slight relaxations also admit efficient algorithms.
+  In the following, we provide a negative answer: Dense $r/2$-Shallow Topological Minor and Dense $r$-Subdivsion are already NP-hard for $r = 1$ in very sparse graphs. Further, they do not admit algorithms with running time $2^{o(\mathbf{tw}^2)} n^{O(1)}$ when parameterized by the treewidth of the input graph for $r \geq 2$ unless ETH fails.

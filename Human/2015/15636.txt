@@ -1,0 +1,3 @@
+Motion trails from time-lapse video
+
+From an image sequence captured by a stationary camera, background subtraction can detect moving foreground objects in the scene. Distinguishing foreground from background is further improved by various heuristics. Then each object's motion can be emphasized by duplicating its positions as a motion trail. These trails clarify the objects' spatial relationships. Also, adding motion trails to a video before previewing it at high speed reduces the risk of overlooking transient events.

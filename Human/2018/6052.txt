@@ -1,0 +1,3 @@
+Multi-kernel Regression For Graph Signal Processing
+
+We develop a multi-kernel based regression method for graph signal processing where the target signal is assumed to be smooth over a graph. In multi-kernel regression, an effective kernel function is expressed as a linear combination of many basis kernel functions. We estimate the linear weights to learn the effective kernel function by appropriate regularization based on graph smoothness. We show that the resulting optimization problem is shown to be convex and pro- pose an accelerated projected gradient descent based solution. Simulation results using real-world graph signals show efficiency of the multi-kernel based approach over a standard kernel based approach.

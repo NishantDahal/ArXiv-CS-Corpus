@@ -1,0 +1,3 @@
+Short Paper: On Deployment of DNS-based Security Enhancements
+
+Although the Domain Name System (DNS) was designed as a naming system, its features have made it appealing to repurpose it for the deployment of novel systems. One important class of such systems are security enhancements, and this work sheds light on their deployment. We show the characteristics of these solutions and measure reliability of DNS in these applications. We investigate the compatibility of these solutions with the Tor network, signal necessary changes, and report on surprising drawbacks in Tor's DNS resolution.

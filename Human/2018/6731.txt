@@ -1,0 +1,3 @@
+Formal Semantics of the Language Cypher
+
+Cypher is a query language for property graphs. It was originally designed and implemented as part of the Neo4j graph database, and it is currently used in a growing number of commercial systems, industrial applications and research projects. In this work, we provide denotational semantics of the core fragment of the read-only part of Cypher, which features in particular pattern matching, filtering, and most relational operations on tables.

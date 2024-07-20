@@ -1,0 +1,3 @@
+Barycentric Coordinates as Interpolants
+
+Barycentric coordinates are frequently used as interpolants to shade computer graphics images. A simple equation transforms barycentric coordinates from screen space into eye space in order to undo the perspective transformation and permit accurate interpolative shading of texture maps. This technique is amenable to computation using a block-normalized integer representation.

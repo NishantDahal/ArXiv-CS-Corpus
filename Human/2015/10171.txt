@@ -1,0 +1,3 @@
+An efficient parallel algorithm for computing determinant of non square matrices
+
+One of the most significant challenges in Computing Determinant of Rectangular Matrices is high time complexity of its algorithm. Among all definitions of determinant of rectangular matrices, used definition has special features which make it more notable. But in this definition, C(n m) sub matrices of the order m*m needed to be generated that put this problem in NP hard class. On the other hand, any row or column reduction operation may hardly lead to diminish the volume of calculation. Therefore, in this paper we try to present the parallel algorithm which can decrease the time complexity of computing the determinant of non-square matrices to O(pow(n,2)).

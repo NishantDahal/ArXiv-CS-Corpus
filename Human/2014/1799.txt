@@ -1,0 +1,3 @@
+On the Spectrum of Wenger Graphs
+
+Let $q=p^e$, where $p$ is a prime and $e\geq 1$ is an integer. For $m\geq 1$, let $P$ and $L$ be two copies of the $(m+1)$-dimensional vector spaces over the finite field $\mathbb{F}_q$. Consider the bipartite graph $W_m(q)$ with partite sets $P$ and $L$ defined as follows: a point $(p)=(p_1,p_2,\ldots,p_{m+1})\in P$ is adjacent to a line $[l]=[l_1,l_2,\ldots,l_{m+1}]\in L$ if and only if the following $m$ equalities hold: $l_{i+1} + p_{i+1}=l_{i}p_1$ for $i=1,\ldots, m$. We call the graphs $W_m(q)$ Wenger graphs. In this paper, we determine all distinct eigenvalues of the adjacency matrix of $W_m(q)$ and their multiplicities. We also survey results on Wenger graphs.

@@ -1,0 +1,3 @@
+Research on Shape Mapping of 3D Mesh Models based on Hidden Markov Random Field and EM Algorithm
+
+How to establish the matching (or corresponding) between two different 3D shapes is a classical problem. This paper focused on the research on shape mapping of 3D mesh models, and proposed a shape mapping algorithm based on Hidden Markov Random Field and EM algorithm, as introducing a hidden state random variable associated with the adjacent blocks of shape matching when establishing HMRF. This algorithm provides a new theory and method to ensure the consistency of the edge data of adjacent blocks, and the experimental results show that the algorithm in this paper has a great improvement on the shape mapping of 3D mesh models.

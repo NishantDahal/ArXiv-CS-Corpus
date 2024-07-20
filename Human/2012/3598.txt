@@ -1,0 +1,3 @@
+Toward Sustainable Networking: Storage Area Networks with Network Coding
+
+This manuscript provides a model to characterize the energy savings of network coded storage (NCS) in storage area networks (SANs). We consider blocking probability of drives as our measure of performance. A mapping technique to analyze SANs as independent M/G/K/K queues is presented, and blocking probabilities for uncoded storage schemes and NCS are derived and compared. We show that coding operates differently than the amalgamation of file chunks and energy savings are shown to scale well with striping number. We illustrate that for enterprise-level SANs energy savings of 20-50% can be realized.

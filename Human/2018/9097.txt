@@ -1,0 +1,3 @@
+Evaluating Actuators in a Purely Information-Theory Based Reward Model
+
+AGINAO builds its cognitive engine by applying self-programming techniques to create a hierarchy of interconnected codelets - the tiny pieces of code executed on a virtual machine. These basic processing units are evaluated for their applicability and fitness with a notion of reward calculated from self-information gain of binary partitioning of the codelet's input state-space. This approach, however, is useless for the evaluation of actuators. Instead, a model is proposed in which actuators are evaluated by measuring the impact that an activation of an effector, and consequently the feedback from the robot sensors, has on average reward received by the processing units.

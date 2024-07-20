@@ -1,0 +1,3 @@
+Learning Paths from Signature Tensors
+
+Matrix congruence extends naturally to the setting of tensors. We apply methods from tensor decomposition, algebraic geometry and numerical optimization to this group action. Given a tensor in the orbit of another tensor, we compute a matrix which transforms one to the other. Our primary application is an inverse problem from stochastic analysis: the recovery of paths from their third order signature tensors. We establish identifiability results, both exact and numerical, for piecewise linear paths, polynomial paths, and generic dictionaries. Numerical optimization is applied for recovery from inexact data. We also compute the shortest path with a given signature tensor.

@@ -1,0 +1,3 @@
+A Stochastic Broadcast Pi-Calculus
+
+In this paper we propose a stochastic broadcast PI-calculus which can be used to model server-client based systems where synchronization is always governed by only one participant. Therefore, there is no need to determine the joint synchronization rates. We also take immediate transitions into account which is useful to model behaviors with no impact on the temporal properties of a system. Since immediate transitions may introduce non-determinism, we will show how these non-determinism can be resolved, and as result a valid CTMC will be obtained finally. Also some practical examples are given to show the application of this calculus.

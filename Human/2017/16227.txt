@@ -1,0 +1,3 @@
+Learning non-parametric Markov networks with mutual information
+
+We propose a method for learning Markov network structures for continuous data without invoking any assumptions about the distribution of the variables. The method makes use of previous work on a non-parametric estimator for mutual information which is used to create a non-parametric test for multivariate conditional independence. This independence test is then combined with an efficient constraint-based algorithm for learning the graph structure. The performance of the method is evaluated on several synthetic data sets and it is shown to learn considerably more accurate structures than competing methods when the dependencies between the variables involve non-linearities.

@@ -1,0 +1,3 @@
+Min-Sum algorithm for lattices constructed by Construction D
+
+The so-called min-sum algorithm has been applied for decoding lattices constructed by Construction D'. We generalize this iterative decoding algorithm to decode lattices constructed by Construction D. An upper bound on the decoding complexity per iteration, in terms of coding gain, label group sizes of the lattice and other factors is derived. We show that iterative decoding of LDGM lattices has a reasonably low complexity such that lattices with dimensions of a few thousands can be easily decoded.

@@ -1,0 +1,4 @@
+On the realizability of contracts in dishonest systems
+
+We develop a theory of contracting systems, where behavioural contracts may be violated by dishonest participants after they have been agreed upon - unlike in traditional approaches based on behavioural types. We consider the contracts of \cite{CastagnaPadovaniGesbert09toplas}, and we embed them in a calculus that allows distributed participants to advertise contracts, reach agreements, query the fulfilment of contracts, and realise them (or choose not to).
+  Our contract theory makes explicit who is culpable at each step of a computation. A participant is honest in a given context S when she is not culpable in each possible interaction with S. Our main result is a sufficient criterion for classifying a participant as honest in all possible contexts.

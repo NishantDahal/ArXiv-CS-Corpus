@@ -1,0 +1,3 @@
+Map Graphs
+
+We consider a modified notion of planarity, in which two nations of a map are considered adjacent when they share any point of their boundaries (not necessarily an edge, as planarity requires). Such adjacencies define a map graph. We give an NP characterization for such graphs, and a cubic time recognition algorithm for a restricted version: given a graph, decide whether it is realized by adjacencies in a map without holes, in which at most four nations meet at any point.

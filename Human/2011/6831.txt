@@ -1,0 +1,3 @@
+Graph Regularized Nonnegative Matrix Factorization for Hyperspectral Data Unmixing
+
+Spectral unmixing is an important tool in hyperspectral data analysis for estimating endmembers and abundance fractions in a mixed pixel. This paper examines the applicability of a recently developed algorithm called graph regularized nonnegative matrix factorization (GNMF) for this aim. The proposed approach exploits the intrinsic geometrical structure of the data besides considering positivity and full additivity constraints. Simulated data based on the measured spectral signatures, is used for evaluating the proposed algorithm. Results in terms of abundance angle distance (AAD) and spectral angle distance (SAD) show that this method can effectively unmix hyperspectral data.

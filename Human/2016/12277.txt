@@ -1,0 +1,3 @@
+Quicksort with median of medians is considered practical
+
+The linear pivot selection algorithm, known as median-of-medians, makes the worst case complexity of quicksort be $\mathrm{O}(n\ln n)$. Nevertheless, it has often been said that this algorithm is too expensive to use in quicksort. In this article, we show that we can make the quicksort with this kind of pivot selection approach be efficient.

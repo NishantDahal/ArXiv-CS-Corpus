@@ -1,0 +1,3 @@
+A Random Dot Product Model for Weighted Networks
+
+This paper presents a generalization of the random dot product model for networks whose edge weights are drawn from a parametrized probability distribution. We focus on the case of integer weight edges and show that many previously studied models can be recovered as special cases of this generalization. Our model also determines a dimension--reducing embedding process that gives geometric interpretations of community structure and centrality. The dimension of the embedding has consequences for the derived community structure and we exhibit a stress function for determining appropriate dimensions. We use this approach to analyze a coauthorship network and voting data from the U.S. Senate.

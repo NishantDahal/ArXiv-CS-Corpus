@@ -1,0 +1,3 @@
+Automatic Liver Segmentation with Adversarial Loss and Convolutional Neural Network
+
+Automatic segmentation of medical images is among most demanded works in the medical information field since it saves time of the experts in the field and avoids human error factors. In this work, a method based on Conditional Adversarial Networks and Fully Convolutional Networks is proposed for the automatic segmentation of the liver MRIs. The proposed method, without any post-processing, is achieved the second place in the SIU Liver Segmentation Challenge 2018, data of which is provided by Dokuz Eylül University. In this paper, some improvements for the post-processing step are also proposed and it is shown that with these additions, the method outperforms other baseline methods.

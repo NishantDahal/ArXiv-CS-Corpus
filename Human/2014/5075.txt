@@ -1,0 +1,3 @@
+Low-complexity video encoder for smart eyes based on underdetermined blind signal separation
+
+This paper presents a low complexity video coding method based on Underdetermined Blind Signal Separation (UBSS). The detailed coding framework is designed. Three key techniques are proposed to enhance the compression ratio and the quality of the decoded frames. The experiments validate that the proposed method costs 30ms encoding time less than DISCOVER. The simulation shows that this new method can save 50% energy compared with H.264.

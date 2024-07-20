@@ -1,0 +1,3 @@
+Discovering Neighbor Devices in Computer Network: Development of CDP and LLDP Simulation Modules for OMNeT++
+
+The purpose of data-link layer discovery protocols is to provide the network administrator with the current information (i.e., various Layer 2 and 3 parameters) about neighbor devices. These protocols are invaluable for network monitoring, maintenance, and troubleshooting. However, they start to play an important role in the operation of data-centers and other high-availability networks. This paper outlines design, implementation and deployment of Cisco Discovery Protocol and Link Layer Discovery Protocol simulation modules in OMNeT++ simulator.

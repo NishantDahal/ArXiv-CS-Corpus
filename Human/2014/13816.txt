@@ -1,0 +1,3 @@
+Resolving multi-proxy transitive vote delegation
+
+Solving a delegation graph for transitive votes is already a non-trivial task for many programmers. When extending the current main paradigm, where each voter can only appoint a single transitive delegation, to a system where each vote can be separated over multiple delegations, solving the delegation graph becomes even harder. This article presents a solution of an example graph, and a non-formal proof of why this algorithm works.

@@ -1,0 +1,3 @@
+Improved Power Decoding of One-Point Hermitian Codes
+
+We propose a new partial decoding algorithm for one-point Hermitian codes that can decode up to the same number of errors as the Guruswami--Sudan decoder. Simulations suggest that it has a similar failure probability as the latter one. The algorithm is based on a recent generalization of the power decoding algorithm for Reed--Solomon codes and does not require an expensive root-finding step. In addition, it promises improvements for decoding interleaved Hermitian codes.

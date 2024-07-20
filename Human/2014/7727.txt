@@ -1,0 +1,3 @@
+Estimation of phase noise in oscillators with colored noise sources
+
+In this letter we study the design of algorithms for estimation of phase noise (PN) with colored noise sources. A soft-input maximum a posteriori PN estimator and a modified soft-input extended Kalman smoother are proposed. The performance of the proposed algorithms are compared against those studied in the literature, in terms of mean square error of PN estimation, and symbol error rate of the considered communication system. The comparisons show that considerable performance gains can be achieved by designing estimators that employ correct knowledge of the PN statistics.

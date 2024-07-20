@@ -1,0 +1,4 @@
+Planarizing an Unknown Surface
+
+It has been recently shown that any graph of genus g>0 can be stochastically embedded into a distribution over planar graphs, with distortion Olog (g+1)) [Sidiropoulos, FOCS 2010]. This embedding can be computed in polynomial time, provided that a drawing of the input graph into a genus-g surface is given.
+  We show how to compute the above embedding without having such a drawing. This implies a general reduction for solving problems on graphs of small genus, even when the drawing into a small genus surface is unknown. To the best of our knowledge, this is the first result of this type.

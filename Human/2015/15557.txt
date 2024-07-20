@@ -1,0 +1,3 @@
+Level-Based Analysis of Genetic Algorithms for Combinatorial Optimization
+
+The paper is devoted to upper bounds on run-time of Non-Elitist Genetic Algorithms until some target subset of solutions is visited for the first time. In particular, we consider the sets of optimal solutions and the sets of local optima as the target subsets. Previously known upper bounds are improved by means of drift analysis. Finally, we propose conditions ensuring that a Non-Elitist Genetic Algorithm efficiently finds approximate solutions with constant approximation ratio on the class of combinatorial optimization problems with guaranteed local optima (GLO).

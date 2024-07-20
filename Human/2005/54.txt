@@ -1,0 +1,4 @@
+An Empirical Study of MDL Model Selection with Infinite Parametric Complexity
+
+Parametric complexity is a central concept in MDL model selection. In practice it often turns out to be infinite, even for quite simple models such as the Poisson and Geometric families. In such cases, MDL model selection as based on NML and Bayesian inference based on Jeffreys' prior can not be used. Several ways to resolve this problem have been proposed. We conduct experiments to compare and evaluate their behaviour on small sample sizes.
+  We find interestingly poor behaviour for the plug-in predictive code; a restricted NML model performs quite well but it is questionable if the results validate its theoretical motivation. The Bayesian model with the improper Jeffreys' prior is the most dependable.

@@ -1,0 +1,3 @@
+Estimators in Cryptography
+
+One of the main problems in cryptography is to give criteria to provide good comparators of cipher systems. The security of a cipher system must include the security of the algorithm, the security of the key generator and management module (see [BM94], [CM97],[Mau92a]) and the security of the cryptographic key agreement protocol (see [Mau93a],[MC94],[Mau93b],[Mau92b]). This paper gives show the necessary mathematical background to estimate the most important cryptographic measures of the key generators and of the unconditionally key agreement protocols. These cryptographic measures are the Shannon entropy (for the key generator module) and Renyi entropy of order alpha for the key agreement protocol.

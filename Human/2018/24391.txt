@@ -1,0 +1,3 @@
+Towards Coinductive Theory Exploration in Horn Clause Logic: Position Paper
+
+Coinduction occurs in two guises in Horn clause logic: in proofs of self-referencing properties and relations, and in proofs involving construction of (possibly irregular) infinite data. Both instances of coinductive reasoning appeared in the literature before, but a systematic analysis of   these two kinds of proofs and of their relation was lacking.   We propose  a  general proof-theoretic framework for handling both kinds of coinduction arising in Horn clause logic. To this aim, we propose a coinductive extension of Miller et al's framework of uniform proofs and prove its soundness relative to coinductive models of Horn clause logic.

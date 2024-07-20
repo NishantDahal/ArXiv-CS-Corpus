@@ -1,0 +1,3 @@
+Confidence sets for persistence diagrams
+
+Persistent homology is a method for probing topological properties of point clouds and functions. The method involves tracking the birth and death of topological features (2000) as one varies a tuning parameter. Features with short lifetimes are informally considered to be "topological noise," and those with a long lifetime are considered to be "topological signal." In this paper, we bring some statistical ideas to persistent homology. In particular, we derive confidence sets that allow us to separate topological signal from topological noise.

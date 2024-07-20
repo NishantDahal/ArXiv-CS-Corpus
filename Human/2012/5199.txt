@@ -1,0 +1,3 @@
+Solving Dense Generalized Eigenproblems on Multi-threaded Architectures
+
+We compare two approaches to compute a portion of the spectrum of dense symmetric definite generalized eigenproblems: one is based on the reduction to tridiagonal form, and the other on the Krylov-subspace iteration. Two large-scale applications, arising in molecular dynamics and material science, are employed to investigate the contributions of the application, architecture, and parallelism of the method to the performance of the solvers. The experimental results on a state-of-the-art 8-core platform, equipped with a graphics processing unit (GPU), reveal that in real applications, iterative Krylov-subspace methods can be a competitive approach also for the solution of dense problems.

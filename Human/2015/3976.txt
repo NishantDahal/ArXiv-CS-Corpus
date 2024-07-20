@@ -1,0 +1,3 @@
+Overlapping Community Detection by Online Cluster Aggregation
+
+We present a new online algorithm for detecting overlapping communities. The main ingredients are a modification of an online k-means algorithm and a new approach to modelling overlap in communities. An evaluation on large benchmark graphs shows that the quality of discovered communities compares favorably to several methods in the recent literature, while the running time is significantly improved.

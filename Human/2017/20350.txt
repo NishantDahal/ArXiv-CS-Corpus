@@ -1,0 +1,3 @@
+Network Load Balancing Methods: Experimental Comparisons and Improvement
+
+Load balancing algorithms play critical roles in systems where the workload has to be distributed across multiple resources, such as cores in multiprocessor system, computers in distributed computing, and network links. In this paper, we study and evaluate four load balancing methods: random, round robin, shortest queue, and shortest queue with stale load information. We build a simulation model and compare mean delay of the systems for the load balancing methods. We also provide a method to improve shortest queue with stale load information load balancing. A performance analysis for the improvement is also presented in this paper.

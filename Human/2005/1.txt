@@ -1,0 +1,3 @@
+Structuring quantum effects: superoperators as arrows
+
+We show that the model of quantum computation based on density matrices and superoperators can be decomposed in a pure classical (functional) part and an effectful part modeling probabilities and measurement. The effectful part can be modeled using a generalization of monads called arrows. We express the resulting executable model of quantum computing in the programming language Haskell using its special syntax for arrow computations. The embedding in Haskell is however not perfect: a faithful model of quantum computing requires type capabilities which are not directly expressible in Haskell.

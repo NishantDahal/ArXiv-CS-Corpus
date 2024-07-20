@@ -1,0 +1,3 @@
+Order-preserving drawings of trees with approximately optimal height (and small width)
+
+In this paper, we study how to draw trees so that they are planar, straight-line and respect a given order of edges around each node. We focus on minimizing the height, and show that we can always achieve a height of at most 2pw(T)+1, where pw(T) (the so-called pathwidth) is a known lower bound on the height. Hence we give an asymptotic 2-approximation algorithm. We also create a drawing whose height is at most 3pw(T ), but where the width can be bounded by the number of nodes. Finally we construct trees that require height 2pw(T)+1 in all planar order-preserving straight-line drawings.

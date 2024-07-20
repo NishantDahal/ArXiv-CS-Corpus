@@ -1,0 +1,3 @@
+Fundamental Results for a Generic Implementation of Barriers using Optical Interconnects
+
+In this report, we report some fundamental results and bounds on the number of messages and storage required to implement barriers using futuristic on-chip optical and RF networks. We prove that it is necessary to maintain a count to at least N (number of threads) in memory, broadcast the barrier id at least once, and if we elect a co-ordinator, we can reduce the number of messages by a factor of O(N ).

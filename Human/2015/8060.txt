@@ -1,0 +1,4 @@
+Systematic Verification of the Modal Logic Cube in Isabelle/HOL
+
+We present an automated verification of the well-known modal logic cube in Isabelle/HOL, in which we prove the inclusion relations between the cube's logics using automated reasoning tools. Prior work addresses this problem but without restriction to the modal logic cube, and using encodings in first-order logic in combination with first-order automated theorem provers. In contrast, our solution is more elegant, transparent and effective. It employs an embedding of quantified modal logic in classical higher-order logic. Automated reasoning tools, such as Sledgehammer with LEO-II, Satallax and CVC4, Metis and Nitpick, are employed to achieve full automation. Though successful, the experiments also motivate some technical improvements in the Isabelle/HOL tool.
+

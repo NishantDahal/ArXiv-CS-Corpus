@@ -1,0 +1,3 @@
+Further scramblings of Marsaglia's xorshift generators
+
+xorshift* generators are a variant of Marsaglia's xorshift generators that eliminate linear artifacts typical of generators based on $\mathbf Z/2\mathbf Z$-linear operations using multiplication by a suitable constant. Shortly after high-dimensional xorshift* generators were introduced, Saito and Matsumoto suggested a different way to eliminate linear artifacts based on addition in $\mathbf Z/2^{32}\mathbf Z$, leading to the XSadd generator. Starting from the observation that the lower bits of XSadd are very weak, as its reverse fails systematically several statistical tests, we explore xorshift+, a variant of XSadd using 64-bit operations, which leads, in small dimension, to extremely fast high-quality generators.

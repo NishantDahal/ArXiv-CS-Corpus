@@ -1,0 +1,3 @@
+GuStL - An Experimental Guarded States Language
+
+Programming a parallel computing system that consists of several thousands or even up to a million message passing processing units may ask for a language that supports waiting for and sending messages over hardware channels. As programs are looked upon as state machines, the language provides syntax to implement a main event driven loop. The language presented herewith surely will not serve as a generic programming language for any arbitrary task. Its main purpose is to allow for a prototypical implementation of a dynamic software system as a proof of concept.

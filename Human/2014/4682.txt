@@ -1,0 +1,3 @@
+Online Approximate Optimal Station Keeping of an Autonomous Underwater Vehicle
+
+Online approximation of an optimal station keeping strategy for a fully actuated six degrees-of-freedom autonomous underwater vehicle is considered. The developed controller is an approximation of the solution to a two player zero-sum game where the controller is the minimizing player and an external disturbance is the maximizing player. The solution is approximated using a reinforcement learning-based actor-critic framework. The result guarantees uniformly ultimately bounded (UUB) convergence of the states and UUB convergence of the approximated policies to the optimal polices without the requirement of persistence of excitation.

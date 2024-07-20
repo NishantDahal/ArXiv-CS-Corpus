@@ -1,0 +1,4 @@
+Moving robots efficiently using the combinatorics of CAT(0) cubical complexes
+
+Given a reconfigurable system X, such as a robot moving on a grid or a set of particles traversing a graph without colliding, the possible positions of X naturally form a cubical complex S(X). When S(X) is a CAT(0) space, we can explicitly construct the shortest path between any two points, for any of the four most natural metrics: distance, time, number of moves, and number of steps of simultaneous moves.
+  CAT(0) cubical complexes are in correspondence with posets with inconsistent pairs (PIPs), so we can prove that a state complex S(X) is CAT(0) by identifying the corresponding PIP. We illustrate this very general strategy with one known and one new example: Abrams and Ghrist's positive robotic arm on a square grid, and the robotic arm in a strip. We then use the PIP as a combinatorial "remote control" to move these robots efficiently from one position to another.

@@ -1,0 +1,3 @@
+Efficient Termination of Spatially-Coupled Codes
+
+Spatially-coupled low-density parity-check codes attract much attention due to their capacity-achieving performance and a memory-efficient sliding-window decoding algorithm. On the other hand, the encoder needs to solve large linear equations to terminate the encoding process. In this paper, we propose modified spatially-coupled codes. The modified $(\dl,\dr,L)$ codes have less rate-loss, i.e., higher coding rate, and have the same threshold as $(\dl,\dr,L)$ codes and are efficiently terminable by using an accumulator.

@@ -1,0 +1,5 @@
+A framework for compositional verification of security protocols
+
+Automatic security protocol analysis is currently feasible only for small protocols. Since larger protocols quite often are composed of many small protocols, compositional analysis is an attractive, but non-trivial approach.
+  We have developed a framework for compositional analysis of a large class of security protocols. The framework is intended to facilitate automatic as well as manual verification of large structured security protocols. Our approach is to verify properties of component protocols in a multi-protocol environment, then deduce properties about the composed protocol. To reduce the complexity of multi-protocol verification, we introduce a notion of protocol independence and prove a number of theorems that enable analysis of independent component protocols in isolation.
+  To illustrate the applicability of our framework to real-world protocols, we study a key establishment sequence in WiMax consisting of three subprotocols. Except for a small amount of trivial reasoning, the analysis is done using automatic tools.

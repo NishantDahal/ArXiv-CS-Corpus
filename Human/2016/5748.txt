@@ -1,0 +1,3 @@
+A Classical Realizability Model for a Semantical Value Restriction
+
+We present a new type system with support for proofs of programs in a call-by-value language with control operators. The proof mechanism relies on observational equivalence of (untyped) programs. It appears in two type constructors, which are used for specifying program properties and for encoding dependent products. The main challenge arises from the lack of expressiveness of dependent products due to the value restriction. To circumvent this limitation we relax the syntactic restriction and only require equivalence to a value. The consistency of the system is obtained semantically by constructing a classical realizability model in three layers (values, stacks and terms).

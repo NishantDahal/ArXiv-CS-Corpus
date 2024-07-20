@@ -1,0 +1,3 @@
+CFW: A Collaborative Filtering System Using Posteriors Over Weights Of Evidence
+
+We describe CFW, a computationally efficient algorithm for collaborative filtering that uses posteriors over weights of evidence. In experiments on real data, we show that this method predicts as well or better than other methods in situations where the size of the user query is small. The new approach works particularly well when the user s query CONTAINS low frequency(unpopular) items.The approach complements that OF dependency networks which perform well WHEN the size OF the query IS large.Also IN this paper, we argue that the USE OF posteriors OVER weights OF evidence IS a natural way TO recommend similar items collaborative - filtering task.

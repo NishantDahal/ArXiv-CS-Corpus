@@ -1,0 +1,5 @@
+Specialized Language Models using Dialogue Predictions
+
+This paper analyses language modeling in spoken dialogue systems for accessing a database. The use of several language models obtained by exploiting dialogue predictions gives better results than the use of a single model for the whole dialogue interaction. For this reason several models have been created, each one for a specific system question, such as the request or the confirmation of a parameter.
+  The use of dialogue-dependent language models increases the performance both at the recognition and at the understanding level, especially on answers to system requests. Moreover other methods to increase performance, like automatic clustering of vocabulary words or the use of better acoustic models during recognition, does not affect the improvements given by dialogue-dependent language models.
+  The system used in our experiments is Dialogos, the Italian spoken dialogue system used for accessing railway timetable information over the telephone. The experiments were carried out on a large corpus of dialogues collected using Dialogos.

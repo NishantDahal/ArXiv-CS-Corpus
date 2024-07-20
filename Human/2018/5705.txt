@@ -1,0 +1,3 @@
+Approximate Method of Variational Bayesian Matrix Factorization/Completion with Sparse Prior
+
+We derive analytical expression of matrix factorization/completion solution by variational Bayes method, under the assumption that observed matrix is originally the product of low-rank dense and sparse matrices with additive noise. We assume the prior of sparse matrix is Laplace distribution by taking matrix sparsity into consideration. Then we use several approximations for derivation of matrix factorization/completion solution. By our solution, we also numerically evaluate the performance of sparse matrix reconstruction in matrix factorization, and completion of missing matrix element in matrix completion.

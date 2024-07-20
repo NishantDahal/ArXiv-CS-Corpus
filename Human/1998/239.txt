@@ -1,0 +1,3 @@
+A Linear Shift Invariant Multiscale Transform
+
+This paper presents a multiscale decomposition algorithm. Unlike standard wavelet transforms, the proposed operator is both linear and shift invariant. The central idea is to obtain shift invariance by averaging the aligned wavelet transform projections over all circular shifts of the signal. It is shown how the same transform can be obtained by a linear filter bank.

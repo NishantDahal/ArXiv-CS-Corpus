@@ -1,0 +1,3 @@
+GUBS, a Behavior-based Language for Open System Dedicated to Synthetic Biology
+
+In this article, we propose a domain specific language, GUBS (Genomic Unified Behavior Specification), dedicated to the behavioral specification of synthetic biological devices, viewed as discrete open dynamical systems. GUBS is a rule-based declarative language. By contrast to a closed system, a program is always a partial description of the behavior of the system. The semantics of the language accounts the existence of some hidden non-specified actions possibly altering the behavior of the programmed device. The compilation framework follows a scheme similar to automatic theorem proving, aiming at improving synthetic biological design safety.

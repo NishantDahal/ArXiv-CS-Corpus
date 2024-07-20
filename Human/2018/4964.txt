@@ -1,0 +1,3 @@
+Pseudo-marginal Bayesian inference for supervised Gaussian process latent variable models
+
+We introduce a Bayesian framework for inference with a supervised version of the Gaussian process latent variable model. The framework overcomes the high correlations between latent variables and hyperparameters by using an unbiased pseudo estimate for the marginal likelihood that approximately integrates over the latent variables. This is used to construct a Markov Chain to explore the posterior of the hyperparameters. We demonstrate the procedure on simulated and real examples, showing its ability to capture uncertainty and multimodality of the hyperparameters and improved uncertainty quantification in predictions when compared with variational inference.

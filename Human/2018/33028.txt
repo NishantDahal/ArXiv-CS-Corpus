@@ -1,0 +1,6 @@
+Approximating Optimization Problems using EAs on Scale-Free Networks
+
+It has been observed that many complex real-world networks have certain properties, such as a high clustering coefficient, a low diameter, and a power-law degree distribution. A network with a power-law degree distribution is known as scale-free network. In order to study these networks, various random graph models have been proposed, e.g. Preferential Attachment, Chung-Lu, or Hyperbolic.
+  We look at the interplay between the power-law degree distribution and the run time of optimization techniques for well known combinatorial problems. We observe that on scale-free networks, simple evolutionary algorithms (EAs) quickly reach a constant-factor approximation ratio on common covering problems
+  We prove that the single-objective (1+1)EA reaches a constant-factor approximation ratio on the Minimum Dominating Set problem, the Minimum Vertex Cover problem, the Minimum Connected Dominating Set problem, and the Maximum Independent Set problem in expected polynomial number of calls to the fitness function.
+  Furthermore, we prove that the multi-objective GSEMO algorithm reaches a better approximation ratio than the (1+1)EA on those problems, within polynomial fitness evaluations.

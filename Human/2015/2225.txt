@@ -1,0 +1,3 @@
+A Global Approach for Solving Edge-Matching Puzzles
+
+We consider apictorial edge-matching puzzles, in which the goal is to arrange a collection of puzzle pieces with colored edges so that the colors match along the edges of adjacent pieces. We devise an algebraic representation for this problem and provide conditions under which it exactly characterizes a puzzle. Using the new representation, we recast the combinatorial, discrete problem of solving puzzles as a global, polynomial system of equations with continuous variables. We further propose new algorithms for generating approximate solutions to the continuous problem by solving a sequence of convex relaxations.

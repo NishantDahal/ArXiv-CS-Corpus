@@ -1,0 +1,4 @@
+Trading Determinism for Time in Space Bounded Computations
+
+Savitch showed in $1970$ that nondeterministic logspace (NL) is contained in deterministic $\mathcal{O}(\log^2 n)$ space but his algorithm requires quasipolynomial time. The question whether we can have a deterministic algorithm for every problem in NL that requires polylogarithmic space and simultaneously runs in polynomial time was left open.
+  In this paper we give a partial solution to this problem and show that for every language in NL there exists an unambiguous nondeterministic algorithm that requires $\mathcal{O}(\log^2 n)$ space and simultaneously runs in polynomial time.

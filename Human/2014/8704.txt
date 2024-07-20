@@ -1,0 +1,4 @@
+On the Path-Width of Integer Linear Programming
+
+We consider the feasibility problem of integer linear programming (ILP). We show that solutions of any ILP instance can be naturally represented by an FO-definable class of graphs. For each solution there may be many graphs representing it. However, one of these graphs is of path-width at most 2n, where n is the number of variables in the instance. Since FO is decidable on graphs of bounded path- width, we obtain an alternative decidability result for ILP. The technique we use underlines a common principle to prove decidability which has previously been employed for automata with auxiliary storage. We also show how this new result links to automata theory and program verification.
+

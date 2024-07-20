@@ -1,0 +1,3 @@
+Cumulative Sum Algorithm for Detecting SYN Flooding Attacks
+
+SYN flooding attacks generate enormous packets by a large number of agents and can easily exhaust the computing and communication resources of a victim within a short period of time. In this paper, we propose a lightweight method for detecting SYN flooding attack by non-parametric cumulative sum algorithm. We experiment with real SYN flooding attack data set in order to evaluate our method. The results show that our method can detect SYN flooding attack very well.

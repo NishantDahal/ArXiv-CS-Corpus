@@ -1,0 +1,3 @@
+Formal Context Generation using Dirichlet Distributions
+
+We suggest an improved way to randomly generate formal contexts based on Dirichlet distributions. For this purpose we investigate the predominant way to generate formal contexts, a coin-tossing model, recapitulate some of its shortcomings and examine its stochastic model. Building up on this we propose our Dirichlet model and develop an algorithm employing this idea. By comparing our generation model to a coin-tossing model we show that our approach is a significant improvement with respect to the variety of contexts generated. Finally, we outline a possible application in null model generation for formal contexts.

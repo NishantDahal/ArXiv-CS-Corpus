@@ -1,0 +1,3 @@
+Generalized preferential attachment: tunable power-law degree distribution and clustering coefficient
+
+We propose a wide class of preferential attachment models of random graphs, generalizing previous approaches. Graphs described by these models obey the power-law degree distribution, with the exponent that can be controlled in the models. Moreover, clustering coefficient of these graphs can also be controlled. We propose a concrete flexible model from our class and provide an efficient algorithm for generating graphs in this model. All our theoretical results are demonstrated in practice on examples of graphs obtained using this algorithm. Moreover, observations of generated graphs lead to future questions and hypotheses not yet justified by theory.

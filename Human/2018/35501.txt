@@ -1,0 +1,3 @@
+Subsampled Rényi Differential Privacy and Analytical Moments Accountant
+
+We study the problem of subsampling in differential privacy (DP), a question that is the centerpiece behind many successful differentially private machine learning algorithms. Specifically, we provide a tight upper bound on the Rényi Differential Privacy (RDP) (Mironov, 2017) parameters for algorithms that: (1) subsample the dataset, and then (2) applies a randomized mechanism M to the subsample, in terms of the RDP parameters of M and the subsampling probability parameter. Our results generalize the moments accounting technique, developed by Abadi et al. (2016) for the Gaussian mechanism, to any subsampled RDP mechanism.

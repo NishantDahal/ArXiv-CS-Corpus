@@ -1,0 +1,3 @@
+A new class of irreducible pentanomials for polynomial based multipliers in binary fields
+
+We introduce a new class of irreducible pentanomials over $\mathbb{F}_2$ of the form $f(x) = x^{2b+c} + x^{b+c} + x^b + x^c + 1$. Let $m=2b+c$ and use $f$ to define the finite field extension of degree $m$. We give the exact number of operations required for computing the reduction modulo $f$. We also provide a multiplier based on Karatsuba algorithm in $\mathbb{F}_2[x]$ combined with our reduction process. We give the total cost of the multiplier and found that the bit-parallel multiplier defined by this new class of polynomials has improved XOR and AND complexity. Our multiplier has comparable time delay when compared to other multipliers based on Karatsuba algorithm.

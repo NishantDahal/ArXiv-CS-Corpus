@@ -1,0 +1,4 @@
+A fast new algorithm for weak graph regularity
+
+We provide a deterministic algorithm that finds, in $ε^{-O(1)} n^2$ time, an $ε$-regular Frieze-Kannan partition of a graph on $n$ vertices. The algorithm outputs an approximation of a given graph as a weighted sum of $ε^{-O(1)}$ many complete bipartite graphs.
+  As a corollary, we give a deterministic algorithm for estimating the number of copies of $H$ in an $n$-vertex graph $G$ up to an additive error of at most $εn^{v(H)}$, in time $ε^{-O_H(1)}n^2$.

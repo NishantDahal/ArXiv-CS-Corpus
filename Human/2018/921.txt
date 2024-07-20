@@ -1,0 +1,3 @@
+Semi-supervised Fisher vector network
+
+In this work we explore how the architecture proposed in [8], which expresses the processing steps of the classical Fisher vector pipeline approaches, i.e. dimensionality reduction by principal component analysis (PCA) projection, Gaussian mixture model (GMM) and Fisher vector descriptor extraction as network layers, can be modified into a hybrid network that combines the benefits of both unsupervised and supervised training methods, resulting in a model that learns a semi-supervised Fisher vector descriptor of the input data. We evaluate the proposed model at image classification and action recognition problems and show how the model's classification performance improves as the amount of unlabeled data increases during training.

@@ -1,0 +1,3 @@
+Detection and Isolation of Failures in Linear Multi-Agent Networks
+
+In this paper the focus is on the relationship between the occurrence of failures in a (directed or undirected) network of linear single integrator agents and the presence of jump discontinuities in the derivatives of the network output. Based on this relationship, an algorithm for sensor placement is proposed, which enables the designer to detect and isolate any link failures across the network, based on the jump discontinuities observed by the sensor nodes. These results are explained through elaborative examples and computer experiments.

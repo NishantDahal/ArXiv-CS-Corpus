@@ -1,0 +1,3 @@
+A Structural Characterization for Certifying Robinsonian Matrices
+
+A symmetric matrix is Robinsonian if its rows and columns can be simultaneously reordered in such a way that entries are monotone nondecreasing in rows and columns when moving toward the diagonal. The adjacency matrix of a graph is Robinsonian precisely when the graph is a unit interval graph, so that Robinsonian matrices form a matrix analogue of the class of unit interval graphs. Here we provide a structural characterization for Robinsonian matrices in terms of forbidden substructures, extending the notion of asteroidal triples to weighted graphs. This implies the known characterization of unit interval graphs and leads to an efficient algorithm for certifying that a matrix is not Robinsonian.

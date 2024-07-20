@@ -1,0 +1,6 @@
+Space Exploration via Proximity Search
+
+We investigate what computational tasks can be performed on a point set in $\Re^d$, if we are only given black-box access to it via nearest-neighbor search. This is a reasonable assumption if the underlying point set is either provided implicitly, or it is stored in a data structure that can answer such queries. In particular, we show the following:
+(A) One can compute an approximate bi-criteria $k$-center clustering of the point set, and more generally compute a greedy permutation of the point set. 
+(B) One can decide if a query point is (approximately) inside the convex-hull of the point set.
+  We also investigate the problem of clustering the given point set, such that meaningful proximity queries can be carried out on the centers of the clusters, instead of the whole point set.

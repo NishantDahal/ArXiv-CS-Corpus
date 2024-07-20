@@ -1,0 +1,3 @@
+Towards Precision of Probabilistic Bounds Propagation
+
+The DUCK-calculus presented here is a recent approach to cope with probabilistic uncertainty in a sound and efficient way.  Uncertain rules with bounds for probabilities and explicit conditional independences can be maintained incrementally.  The basic inference mechanism relies on local bounds propagation, implementable by deductive databases with a bottom-up fixpoint evaluation.  In situations, where no precise bounds are deducible, it can be combined with simple operations research techniques on a local scope.  In particular, we provide new precise analytical bounds for probabilistic entailment.

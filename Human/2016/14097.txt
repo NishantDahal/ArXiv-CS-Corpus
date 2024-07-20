@@ -1,0 +1,3 @@
+C-Planarity of Overlapping Clusterings Including Unions of Two Partitions
+
+We show that clustered planarity with overlapping clusters as introduced by Didimo et al. can be solved in polynomial time if each cluster induces a connected subgraph. It can be solved in linear time if the set of clusters is the union of two partitions of the vertex set such that, for each cluster, both the cluster and its complement, induce connected subgraphs. Clustered planarity with overlapping clusters is NP-complete, even if restricted to instances where the underlying graph is 2-connected, the set of clusters is the union of two partitions and each cluster contains at most two connected components while their complements contain at most three connected components.

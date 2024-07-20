@@ -1,0 +1,4 @@
+Tracing in 2D to Reduce the Annotation Effort for 3D Deep Delineation
+
+The difficulty of obtaining annotations to build training databases still slows down the adoption of recent deep learning approaches for biomedical image analysis. In this paper, we show that we can train a Deep Net to perform 3D volumetric delineation given only 2D annotations in Maximum Intensity Projections (MIP). As a consequence, we can decrease the amount of time spent annotating by a factor of two while maintaining similar performance.
+  Our approach is inspired by space carving, a classical technique of reconstructing complex 3D shapes from arbitrarily-positioned cameras. We will demonstrate its effectiveness on 3D light microscopy images of neurons and retinal blood vessels and on Magnetic Resonance Angiography (MRA) brain scans.

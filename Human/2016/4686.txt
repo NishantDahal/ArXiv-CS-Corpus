@@ -1,0 +1,3 @@
+The $p$-Center Problem in Tree Networks Revisited
+
+We present two improved algorithms for weighted discrete $p$-center problem for tree networks with $n$ vertices. One of our proposed algorithms runs in $O(n \log n + p \log^2 n \log(n/p))$ time. For all values of $p$, our algorithm thus runs as fast as or faster than the most efficient $O(n\log^2 n)$ time algorithm obtained by applying Cole's speed-up technique [cole1987] to the algorithm due to Megiddo and Tamir [megiddo1983], which has remained unchallenged for nearly 30 years. Our other algorithm, which is more practical, runs in $O(n \log n + p^2 \log^2(n/p))$ time, and when $p=O(\sqrt{n})$ it is faster than Megiddo and Tamir's $O(n \log^2n \log\log n)$ time algorithm [megiddo1983].

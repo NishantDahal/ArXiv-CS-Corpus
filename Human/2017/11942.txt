@@ -1,0 +1,4 @@
+A fast algorithm for the gas station problem
+
+In the gas station problem we want to find the cheapest path between two vertices of an $n$-vertex graph. Our car has a specific fuel capacity and at each vertex we can fill our car with gas, with the fuel cost depending on the vertex. Furthermore, we are allowed at most $Δ$ stops for refuelling.
+  In this short paper we provide an algorithm solving the problem in $O(Δn^2 + n^2\log{n})$ steps improving an earlier result by Khuller, Malekian and Mestre.

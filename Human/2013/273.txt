@@ -1,0 +1,3 @@
+Phase Diagram and Approximate Message Passing for Blind Calibration and Dictionary Learning
+
+We consider dictionary learning and blind calibration for signals and matrices created from a random ensemble. We study the mean-squared error in the limit of large signal dimension using the replica method and unveil the appearance of phase transitions delimiting impossible, possible-but-hard and possible inference regions. We also introduce an approximate message passing algorithm that asymptotically matches the theoretical performance, and show through numerical tests that it performs very well, for the calibration problem, for tractable system sizes.

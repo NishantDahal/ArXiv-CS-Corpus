@@ -1,0 +1,3 @@
+Simpler proof for nonlinearity of majority function
+
+Given a Boolean function f, the (Hamming) weight wt(f) and the nonlinearity N(f) are well known to be important in designing functions that are useful in cryptography. The nonlinearity is expensive to compute, in general, so any shortcuts for doing that for particular functions f are significant. The well known majority function has been extensively studied in a cryptographic context for the last dozen years or so, and there is a formula for its nonlinearity. The known proofs for this formula rely on many detailed results for the Krawtchouk polynomials. This paper gives a much simpler proof.

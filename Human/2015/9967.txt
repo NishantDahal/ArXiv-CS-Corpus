@@ -1,0 +1,5 @@
+MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm
+
+This article introduces an algorithm, MergeShuffle, which is an extremely efficient algorithm to generate random permutations (or to randomly permute an existing array). It is easy to implement, runs in $n\log_2 n + O(1)$ time, is in-place, uses $n\log_2 n + Θ(n)$ random bits, and can be parallelized accross any number of processes, in a shared-memory PRAM model. Finally, our preliminary simulations using OpenMP suggest it is more efficient than the Rao-Sandelius algorithm, one of the fastest existing random permutation algorithms.
+  We also show how it is possible to further reduce the number of random bits consumed, by introducing a second algorithm BalancedShuffle, a variant of the Rao-Sandelius algorithm which is more conservative in the way it recursively partitions arrays to be shuffled. While this algorithm is of lesser practical interest, we believe it may be of theoretical value.
+  Our full code is available at: https://github.com/axel-bacher/mergeshuffle

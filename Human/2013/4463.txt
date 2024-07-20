@@ -1,0 +1,4 @@
+Symbolic Arithmetic and Integer Factorization
+
+In this paper, we create a systematic and automatic procedure for transforming the integer factorization problem into the problem of solving a system of Boolean equations. Surprisingly, the resulting system of Boolean equations takes on a "life of its own" and becomes a new type of integer, which we call a generic integer.
+  We then proceed to use the newly found algebraic structure of the ring of generic integers to create two new integer factoring algorithms, called respectively the Boolean factoring (BF) algorithm, and the multiplicative Boolean factoring (MBF) algorithm. Although these two algorithms are not competitive with current classical integer factoring algorithms, it is hoped that they will become stepping stones to creating much faster and more competitive algorithms, and perhaps be precursors of a new quantum algorithm for integer factoring.

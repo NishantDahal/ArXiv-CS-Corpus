@@ -1,0 +1,3 @@
+Multipath-TCP in ns-3
+
+In this paper we present our work on designing and implementing an ns-3 model for MultiPath TCP (MPTCP). Our MPTCP model closely follows MPTCP specifications, as described in RFC 6824, and supports TCP NewReno loss recovery on a per subflow basis. Subflow management is based on MPTCP's kernel implementation. We briefly describe how we integrate our MPTCP model with ns-3 and present example simulation results to showcase its working state.

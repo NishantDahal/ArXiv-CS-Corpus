@@ -1,0 +1,3 @@
+Transparent hardware synthesis of Java for predictable large-scale distributed systems
+
+The JUNIPER project is developing a framework for the construction of large-scale distributed systems in which execution time bounds can be guaranteed. Part of this work involves the automatic implementation of input Java code on FPGAs, both for speed and predictability. An important focus of this work is to make the use of FPGAs transparent though runtime co-design and partial reconfiguration. Initial results show that the use of Java does not hamper hardware generation, and provides tight execution time estimates. This paper describes an overview the approach taken, and presents some preliminary results that demonstrate the promise in the technique.

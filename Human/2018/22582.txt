@@ -1,0 +1,3 @@
+A Markov Model of Slice Admission Control
+
+The emerging feature of network slicing in future Fifth Generation (5G) networks calls for efficient slice management. Recent studies have been focusing on the mechanism of slice admission control, which functions in a manner of state machine. This paper proposes a general state model for synchronous slice admission control, and proves it to be Markovian under a set of weak constraints. An analytical approximation of the state transition matrix to reduce computational complexity in practical applications is also proposed and evaluated.

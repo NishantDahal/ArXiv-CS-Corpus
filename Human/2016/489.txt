@@ -1,0 +1,3 @@
+Some results of linear codes over the ring $\mathbb{Z}_4+u\mathbb{Z}_4+v\mathbb{Z}_4+uv\mathbb{Z}_4$
+
+In this paper, we mainly study the theory of linear codes over the ring $R =\mathbb{Z}_4+u\mathbb{Z}_4+v\mathbb{Z}_4+uv\mathbb{Z}_4$. By the Chinese Remainder Theorem, we have $R$ is isomorphic to the direct sum of four rings $\mathbb{Z}_4$. We define a Gray map $Φ$ from $R^{n}$ to $\mathbb{Z}_4^{4n}$, which is a distance preserving map. The Gray image of a cyclic code over $R^{n}$ is a linear code over $\mathbb{Z}_4$. Furthermore, we study the MacWilliams identities of linear codes over $R$ and give the the generator polynomials of cyclic codes over $R$. Finally, we discuss some properties of MDS codes over $R$.

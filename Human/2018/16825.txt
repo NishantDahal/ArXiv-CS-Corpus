@@ -1,0 +1,3 @@
+A neural network system for transformation of regional cuisine style
+
+We propose a novel system which can transform a recipe into any selected regional style (e.g., Japanese, Mediterranean, or Italian). This system has two characteristics. First the system can identify the degree of regional cuisine style mixture of any selected recipe and visualize such regional cuisine style mixtures using barycentric Newton diagrams. Second, the system can suggest ingredient substitutions through an extended word2vec model, such that a recipe becomes more authentic for any selected regional cuisine style. Drawing on a large number of recipes from Yummly, an example shows how the proposed system can transform a traditional Japanese recipe, Sukiyaki, into French style.

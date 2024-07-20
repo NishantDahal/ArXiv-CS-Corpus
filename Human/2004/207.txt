@@ -1,0 +1,3 @@
+Delimited continuations in natural language: quantification and polarity sensitivity
+
+Making a linguistic theory is like making a programming language: one typically devises a type system to delineate the acceptable utterances and a denotational semantics to explain observations on their behavior. Via this connection, the programming language concept of delimited continuations can help analyze natural language phenomena such as quantification and polarity sensitivity. Using a logical metalanguage whose syntax includes control operators and whose semantics involves evaluation order, these analyses can be expressed in direct style rather than continuation-passing style, and these phenomena can be thought of as computational side effects.

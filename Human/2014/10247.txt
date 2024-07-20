@@ -1,0 +1,3 @@
+Scalable Genomics with R and Bioconductor
+
+This paper reviews strategies for solving problems encountered when analyzing large genomic data sets and describes the implementation of those strategies in R by packages from the Bioconductor project. We treat the scalable processing, summarization and visualization of big genomic data. The general ideas are well established and include restrictive queries, compression, iteration and parallel computing. We demonstrate the strategies by applying Bioconductor packages to the detection and analysis of genetic variants from a whole genome sequencing experiment.

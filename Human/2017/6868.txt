@@ -1,0 +1,3 @@
+Persian Wordnet Construction using Supervised Learning
+
+This paper presents an automated supervised method for Persian wordnet construction. Using a Persian corpus and a bi-lingual dictionary, the initial links between Persian words and Princeton WordNet synsets have been generated. These links will be discriminated later as correct or incorrect by employing seven features in a trained classification system. The whole method is just a classification system, which has been trained on a train set containing FarsNet as a set of correct instances. State of the art results on the automatically derived Persian wordnet is achieved. The resulted wordnet with a precision of 91.18% includes more than 16,000 words and 22,000 synsets.

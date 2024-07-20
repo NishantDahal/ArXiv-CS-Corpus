@@ -1,0 +1,3 @@
+Optimality of orders one to three and beyond: characterization and evaluation complexity in constrained nonconvex optimization
+
+Necessary conditions for high-order optimality in smooth nonlinear constrained optimization are explored and their inherent intricacy discussed. A two-phase minimization algorithm is proposed which can achieve approximate first-, second- and third-order criticality and its evaluation complexity is analyzed as a function of the choice (among existing methods) of an inner algorithm for solving subproblems in each of the two phases. The relation between high-order criticality and penalization techniques is finally considered, showing that standard algorithmic approaches will fail if approximate constrained high-order critical points are sought.

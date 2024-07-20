@@ -1,0 +1,3 @@
+Approximating Incomplete Kernel Matrices by the em Algorithm
+
+In biological data, it is often the case that observed data are available only for a subset of samples. When a kernel matrix is derived from such data, we have to leave the entries for unavailable samples as missing. In this paper, we make use of a parametric model of kernel matrices, and estimate missing entries by fitting the model to existing entries. The parametric model is created as a set of spectral variants of a complete kernel matrix derived from another information source. For model fitting, we adopt the em algorithm based on the information geometry of positive definite matrices. We will report promising results on bacteria clustering experiments using two marker sequences: 16S and gyrB.

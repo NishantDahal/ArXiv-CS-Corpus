@@ -1,0 +1,3 @@
+Completeness of Cyclic Proofs for Symbolic Heaps
+
+Separation logic is successful for software verification in both theory and practice. Decision procedure for symbolic heaps is one of the key issues. This paper proposes a cyclic proof system for symbolic heaps with general form of inductive definitions, and shows its soundness and completeness. The decision procedure for entailments of symbolic heaps with inductive definitions is also given. Decidability for entailments of symbolic heaps with inductive definitions is an important question. Completeness of cyclic proof systems is also an important question. The results of this paper answer both questions. The decision procedure is feasible since it is nondeterministic double-exponential time complexity.

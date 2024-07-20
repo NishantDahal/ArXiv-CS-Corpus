@@ -1,0 +1,3 @@
+Gradual Tuning: a better way of Fine Tuning the parameters of a Deep Neural Network
+
+In this paper we present an alternative strategy for fine-tuning the parameters of a network. We named the technique Gradual Tuning. Once trained on a first task, the network is fine-tuned on a second task by modifying a progressively larger set of the network's parameters. We test Gradual Tuning on different transfer learning tasks, using networks of different sizes trained with different regularization techniques. The result shows that compared to the usual fine tuning, our approach significantly reduces catastrophic forgetting of the initial task, while still retaining comparable if not better performance on the new task.

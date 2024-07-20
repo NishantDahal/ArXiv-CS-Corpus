@@ -1,0 +1,3 @@
+Structured Interactive Music Scores
+
+Interactive Scores is a formalism for the design and performance of interactive scenarios that provides temporal relations (TRs) among the objects of the scenario. We can model TRs among objects in Time Stream Petri nets, but it is difficult to represent global constraints. This can be done explicitly in the Non-deterministic Timed Concurrent Constraint (ntcc) calculus. We want to formalize a heterogeneous system that controls in one subsystem the concurrent execution of the objects using ntcc, and audio and video processing in the other. We also plan to develop an automatic verifier for ntcc.

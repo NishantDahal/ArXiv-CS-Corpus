@@ -1,0 +1,3 @@
+An Approach to Automatic Indexing of Scientific Publications in High Energy Physics for Database SPIRES HEP
+
+We introduce an approach to automatic indexing of e-prints based on a pattern-matching technique making extensive use of an Associative Patterns Dictionary (APD), developed by us. Entries in the APD consist of natural language phrases with the same semantic interpretation as a set of keywords from a controlled vocabulary. The method also allows to recognize within e-prints formulae written in TeX notations that might also appear as keywords. We present an automatic indexing system, AUTEX, which we have applied to keyword index e-prints in selected areas in high energy physics (HEP) making use of the DESY-HEPI thesaurus as a controlled vocabulary.

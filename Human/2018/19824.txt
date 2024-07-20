@@ -1,0 +1,3 @@
+Bubble-Flip -- A New Generation Algorithm for Prefix Normal Words
+
+We present a new recursive generation algorithm for prefix normal words. These are binary strings with the property that no substring has more 1s than the prefix of the same length. The new algorithm uses two operations on binary strings, which exploit certain properties of prefix normal words in a smart way. We introduce infinite prefix normal words and show that one of the operations used by the algorithm, if applied repeatedly to extend the string, produces an ultimately periodic infinite word, which is prefix normal. Moreover, based on the original finite word, we can predict both the length and the density of an ultimate period of this infinite word.

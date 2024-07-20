@@ -1,0 +1,3 @@
+Fast Xor-based Erasure Coding based on Polynomial Ring Transforms
+
+The complexity of software implementations of MDS erasure codes mainly depends on the efficiency of the finite field operations implementation. In this paper, we propose a method to reduce the complexity of the finite field multiplication by using fast transforms between a field and a ring to perform the multiplication in a ring. We show that moving to a ring reduces the complexity of the operations. Then, we show that this construction allows the use of simple scheduling to reduce the number of operations.

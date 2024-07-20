@@ -1,0 +1,3 @@
+Numerical resolution of some BVP using Bernstein polynomials
+
+In this work we present a method, based on the use of Bernstein polynomials, for the numerical resolution of some boundary values problems. The computations have not need of particular approximations of derivatives, such as finite differences, or particular techniques, such as finite elements. Also, the method doesn't require the use of matrices, as in resolution of linear algebraic systems, nor the use of like-Newton algorithms, as in resolution of non linear sets of equations. An initial equation is resolved only once, then the method is based on iterated evaluations of appropriate polynomials.

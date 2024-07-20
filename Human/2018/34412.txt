@@ -1,0 +1,5 @@
+Efficient Precoding Scheme for Dual-Polarization Multi-Soliton Spectral Amplitude Modulation
+
+Spectral amplitude modulation for dual-polarization multi-soliton transmission is considered. We show, that spectral amplitudes become highly correlated during propagation along a noisy fiber link. Thus, joint equalization is generally needed at the receiver.
+  We propose a simple precoding scheme to almost remove these correlations. It significantly improves the detection performance even without any complex equalization. The spectral amplitudes are transformed into pairs of common and differential information part. We show, that the differential part is almost preserved along the link, even in the presence of noise. Thus, it can be detected directly from the received spectral amplitudes with high reliability. Using the precoding, disjoint detection of the common and the differential part causes only a small performance loss.
+  We analyze our precoding and verify its performance gain in Split-Step-Fourier simulations by comparing it to the conventional independent modulation of spectral amplitudes for first and second order solitons.

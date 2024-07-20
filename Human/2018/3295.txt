@@ -1,0 +1,3 @@
+Alternating Nonzero Automata
+
+We introduce a new class of automata on infinite trees called \emph{alternating nonzero automata}, which extends the class of non-deterministic nonzero automata. We reduce the emptiness problem for alternating nonzero automata to the same problem for non-deterministic ones, which implies decidability. We obtain as a corollary algorithms for the satisfiability of a probabilistic temporal logic extending both CTL* and the qualitative fragment of pCTL*.

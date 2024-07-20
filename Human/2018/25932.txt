@@ -1,0 +1,3 @@
+Sliding Suffix Tree using LCA
+
+We consider a sliding window $W$ over a stream of characters from some alphabet of constant size. The user wants to perform deterministic substring matching on the current sliding window content and obtain positions of the matches. We present an indexed version of the sliding window using the suffix tree, the link tree and the lowest common ancestor. The data structure of size $Θ(|W|)$ has optimal time queries $Θ(m+occ)$ and amortized constant time updates, where $m$ is the length of the query string and $occ$ is the number of its occurrences.

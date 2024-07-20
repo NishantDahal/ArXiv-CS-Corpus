@@ -1,0 +1,5 @@
+Parity Decision Tree Complexity is Greater Than Granularity
+
+We prove a new lower bound on the parity decision tree complexity $\mathsf{D}_{\oplus}(f)$ of a Boolean function $f$. Namely, granularity of the Boolean function $f$ is the smallest $k$ such that all Fourier coefficients of $f$ are integer multiples of $1/2^k$. We show that $\mathsf{D}_{\oplus}(f)\geq k+1$.
+  This lower bound is an improvement of lower bounds through the sparsity of $f$ and through the degree of $f$ over $\mathbb{F}_2$. Using our lower bound we determine the exact parity decision tree complexity of several important Boolean functions including majority and recursive majority. For majority the complexity is $n - \mathsf{B}(n)+1$, where $\mathsf{B}(n)$ is the number of ones in the binary representation of $n$. For recursive majority the complexity is $\frac{n+1}{2}$. Finally, we provide an example of a function for which our lower bound is not tight.
+  Our results imply new lower bound of $n - \mathsf{B}(n)$ on the multiplicative complexity of majority.

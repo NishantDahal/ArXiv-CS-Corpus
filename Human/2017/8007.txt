@@ -1,0 +1,4 @@
+Honest signaling in zero-sum games is hard, and lying is even harder
+
+We prove that, assuming the exponential time hypothesis, finding an ε-approximately optimal symmetric signaling scheme in a two-player zero-sum game requires quasi-polynomial time. This is tight by [Cheng et al., FOCS'15] and resolves an open question of [Dughmi, FOCS'14]. We also prove that finding a multiplicative approximation is NP-hard.
+  We also introduce a new model where a dishonest signaler may publicly commit to use one scheme, but post signals according to a different scheme. For this model, we prove that even finding a (1-2^{-n})-approximately optimal scheme is NP-hard.

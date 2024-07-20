@@ -1,0 +1,3 @@
+Computing Popov and Hermite forms of rectangular polynomial matrices
+
+We consider the computation of two normal forms for matrices over the univariate polynomials: the Popov form and the Hermite form. For matrices which are square and nonsingular, deterministic algorithms with satisfactory cost bounds are known. Here, we present deterministic, fast algorithms for rectangular input matrices. The obtained cost bound for the Popov form matches the previous best known randomized algorithm, while the cost bound for the Hermite form improves on the previous best known ones by a factor which is at least the largest dimension of the input matrix.

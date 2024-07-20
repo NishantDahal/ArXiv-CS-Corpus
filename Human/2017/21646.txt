@@ -1,0 +1,3 @@
+Learning rates for classification with Gaussian kernels
+
+This paper aims at refined error analysis for binary classification using support vector machine (SVM) with Gaussian kernel and convex loss. Our first result shows that for some loss functions such as the truncated quadratic loss and quadratic loss, SVM with Gaussian kernel can reach the almost optimal learning rate, provided the regression function is smooth. Our second result shows that, for a large number of loss functions, under some Tsybakov noise assumption, if the regression function is infinitely smooth, then SVM with Gaussian kernel can achieve the learning rate of order $m^{-1}$, where $m$ is the number of samples.

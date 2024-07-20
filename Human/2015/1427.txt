@@ -1,0 +1,3 @@
+Robust CS reconstruction based on appropriate minimization norm
+
+Noise robust compressive sensing algorithm is considered. This algorithm allows an efficient signal reconstruction in the presence of different types of noise due to the possibility to change minimization norm. For instance, the commonly used l1 and l2 norms, provide good results in case of Laplace and Gaussian noise. However, when the signal is corrupted by Cauchy or Cubic Gaussian noise, these norms fail to provide accurate reconstruction. Therefore, in order to achieve accurate reconstruction, the application of l3 minimization norm is analyzed. The efficiency of algorithm will be demonstrated on examples.

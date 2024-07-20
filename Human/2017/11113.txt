@@ -1,0 +1,3 @@
+Inactivation Decoding of LT and Raptor Codes: Analysis and Code Design
+
+In this paper we analyze LT and Raptor codes under inactivation decoding. A first order analysis is introduced, which provides the expected number of inactivations for an LT code, as a function of the output distribution, the number of input symbols and the decoding overhead. The analysis is then extended to the calculation of the distribution of the number of inactivations. In both cases, random inactivation is assumed. The developed analytical tools are then exploited to design LT and Raptor codes, enabling a tight control on the decoding complexity vs. failure probability trade-off. The accuracy of the approach is confirmed by numerical simulations.

@@ -1,0 +1,3 @@
+Two step recovery of jointly sparse and low-rank matrices: theoretical guarantees
+
+We introduce a two step algorithm with theoretical guarantees to recover a jointly sparse and low-rank matrix from undersampled measurements of its columns. The algorithm first estimates the row subspace of the matrix using a set of common measurements of the columns. In the second step, the subspace aware recovery of the matrix is solved using a simple least square algorithm. The results are verified in the context of recovering CINE data from undersampled measurements; we obtain good recovery when the sampling conditions are satisfied.

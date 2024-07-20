@@ -1,0 +1,6 @@
+Using Duality in Circuit Complexity
+
+We investigate in a method for proving separation results for abstract classes of languages. A well established method to characterize varieties of regular languages are identities. We use a recently established generalization of these identities to non-regular languages by Gehrke, Grigorieff, and Pin: so called equations, which are capable of describing arbitrary Boolean algebras of languages.
+  While the main concern of their result is the existence of these equations, we investigate in a general method that could allow to find equations for language classes in an inductive manner.
+  Thereto we extend an important tool -- the block product or substitution principle -- known from logic and algebra, to non-regular language classes. Furthermore, we abstract this concept by defining it directly as an operation on (non-regular) language classes. We show that this principle can be used to obtain equations for certain circuit classes, given equations for the gate types.
+  Concretely, we demonstrate the applicability of this method by obtaining a description via equations for all languages recognized by circuit families that contain a constant number of (inner) gates, given a description of the gate types via equations.

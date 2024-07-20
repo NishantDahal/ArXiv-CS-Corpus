@@ -1,0 +1,3 @@
+Bayesian hypothesis testing for one bit compressed sensing with sensing matrix perturbation
+
+This letter proposes a low-computational Bayesian algorithm for noisy sparse recovery in the context of one bit compressed sensing with sensing matrix perturbation. The proposed algorithm which is called BHT-MLE comprises a sparse support detector and an amplitude estimator. The support detector utilizes Bayesian hypothesis test, while the amplitude estimator uses an ML estimator which is obtained by solving a convex optimization problem. Simulation results show that BHT-MLE algorithm offers more reconstruction accuracy than that of an ML estimator (MLE) at a low computational cost.

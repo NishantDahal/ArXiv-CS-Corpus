@@ -1,0 +1,3 @@
+Robust Estimation of Multiple Inlier Structures
+
+The robust estimator presented in this paper processes each structure independently. The scales of the structures are estimated adaptively and no threshold is involved in spite of different objective functions. The user has to specify only the number of elemental subsets for random sampling. After classifying all the input data, the segmented structures are sorted by their strengths and the strongest inlier structures come out at the top. Like any robust estimators, this algorithm also has limitations which are described in detail. Several synthetic and real examples are presented to illustrate every aspect of the algorithm.

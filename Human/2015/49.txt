@@ -1,0 +1,3 @@
+Blob indentation identification via curvature measurement
+
+This paper presents a novel method for identifying indentations on the boundary of solid 2D shape. It uses the signed curvature at a set of points along the boundary to identify indentations and provides one parameter for tuning the selection mechanism for discriminating indentations from other boundary irregularities. An efficient implementation is described based on the Fourier transform for calculating curvature from a sequence of points obtained from the boundary of a binary blob.

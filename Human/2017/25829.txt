@@ -1,0 +1,3 @@
+Counter Simulations via Higher Order Quantifier Elimination: a preliminary report
+
+Quite often, verification tasks for distributed systems are accomplished via counter abstractions. Such abstractions can sometimes be justified via simulations and bisimulations. In this work, we supply logical foundations to this practice, by a specifically designed technique for second order quantifier elimination. Our method, once applied to specifications of verification problems for parameterized distributed systems, produces integer variables systems that are ready to be model-checked by current SMT-based tools. We demonstrate the feasibility of the approach with a prototype implementation and first experiments.

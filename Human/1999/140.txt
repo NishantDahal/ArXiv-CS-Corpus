@@ -1,0 +1,3 @@
+MSO definable string transductions and two-way finite state transducers
+
+String transductions that are definable in monadic second-order (mso) logic (without the use of parameters) are exactly those realized by deterministic two-way finite state transducers. Nondeterministic mso definable string transductions (i.e., those definable with the use of parameters) correspond to compositions of two nondeterministic two-way finite state transducers that have the finite visit property. Both families of mso definable string transductions are characterized in terms of Hennie machines, i.e., two-way finite state transducers with the finite visit property that are allowed to rewrite their input tape.

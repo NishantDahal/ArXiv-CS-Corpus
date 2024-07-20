@@ -1,0 +1,3 @@
+Odd minimum cut sets and b-matchings revisited
+
+The famous Padberg-Rao separation algorithm for b-matching polyhedra can be implemented to run in O(n^2m log(n^2/m)) time in the uncapacitated case, and in O(nm^2 log(n^2/m)) time in the capacitated case (where n is the number of vertices and m is the number of edges of the underlying graph). We give a new and simple algorithm for the capacitated case which can be implemented to run in O(n^2m log(n^2/m)) time.

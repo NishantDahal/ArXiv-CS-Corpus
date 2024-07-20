@@ -1,0 +1,3 @@
+Monotone 3-Sat-4 is NP-complete
+
+Monotone 3-Sat-4 is a variant of the satisfiability problem for boolean formulae in conjunctive normal form. In this variant, each clause contains exactly three literals---either all or none of them are positive, i.e., no clause contains both a positive and a negative literal---and every variable appears at most four times in the formula. Moreover, every clause consists of three distinct literals. We show that Monotone 3-Sat-4 is NP-complete.

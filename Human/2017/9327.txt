@@ -1,0 +1,3 @@
+A Note on the Power of Non-Deterministic Circuits with Gate Restrictions
+
+We investigate the power of non-deterministic circuits over restricted sets of base gates. We note that the power of non-deterministic circuits exhibit a dichotomy, in the following sense: For weak enough bases, non-deterministic circuits are no more powerful than deterministic circuits, and for the remaining bases, non-deterministic circuits are super polynomial more efficient than deterministic circuits (under the assumption that $P/poly \neq NP/poly$). Moreover, we give a precise characterization of the borderline between the two situations.

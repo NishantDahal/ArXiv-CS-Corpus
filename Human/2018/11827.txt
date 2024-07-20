@@ -1,0 +1,3 @@
+Graph Signal Sampling via Reinforcement Learning
+
+We formulate the problem of sampling and recovering clustered graph signal as a multi-armed bandit (MAB) problem. This formulation lends naturally to learning sampling strategies using the well-known gradient MAB algorithm. In particular, the sampling strategy is represented as a probability distribution over the individual arms of the MAB and optimized using gradient ascent. Some illustrative numerical experiments indicate that the sampling strategies based on the gradient MAB algorithm outperform existing sampling methods.

@@ -1,0 +1,3 @@
+A Game Semantics of Concurrent Separation Logic
+
+In this paper, we develop a game-theoretic account of concurrent separation logic. To every execution trace of the Code confronted to the Environment, we associate a specification game where Eve plays for the Code, and Adam for the Environment. The purpose of Eve and Adam is to decompose every intermediate machine state of the execution trace into three pieces: one piece for the Code, one piece for the Environment, and one piece for the available shared resources. We establish the soundness of concurrent separation logic by interpreting every derivation tree of the logic as a winning strategy of this specification game.

@@ -1,0 +1,3 @@
+Decoding Interleaved Gabidulin Codes using Alekhnovich's Algorithm
+
+We prove that Alekhnovich's algorithm can be used for row reduction of skew polynomial matrices. This yields an $O(\ell^3 n^{(ω+1)/2} \log(n))$ decoding algorithm for $\ell$-Interleaved Gabidulin codes of length $n$, where $ω$ is the matrix multiplication exponent, improving in the exponent of $n$ compared to previous results.

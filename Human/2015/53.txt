@@ -1,0 +1,3 @@
+Vector Quantization by Minimizing Kullback-Leibler Divergence
+
+This paper proposes a new method for vector quantization by minimizing the Kullback-Leibler Divergence between the class label distributions over the quantization inputs, which are original vectors, and the output, which is the quantization subsets of the vector set. In this way, the vector quantization output can keep as much information of the class label as possible. An objective function is constructed and we also developed an iterative algorithm to minimize it. The new method is evaluated on bag-of-features based image classification problem.

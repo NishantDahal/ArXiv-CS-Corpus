@@ -1,0 +1,4 @@
+Resilient Blocks for Summarising Distributed Data
+
+Summarising distributed data is a central routine for parallel programming, lying at the core of widely used frameworks such as the map/reduce paradigm. In the IoT context it is even more crucial, being a privileged mean to allow long-range interactions: in fact, summarising is needed to avoid data explosion in each computational unit.
+  We introduce a new algorithm for dynamic summarising of distributed data, weighted multi-path, improving over the state-of-the-art multi-path algorithm. We validate the new algorithm in an archetypal scenario, taking into account sources of volatility of many sorts and comparing it to other existing implementations. We thus show that weighted multi-path retains adequate accuracy even in high-variability scenarios where the other algorithms are diverging significantly from the correct values.

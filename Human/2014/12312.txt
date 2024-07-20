@@ -1,0 +1,3 @@
+New Bounds For Frameproof Codes
+
+Frameproof codes are used to fingerprint digital data. It can prevent copyrighted materials from unauthorized use. In this paper, we study upper and lower bounds for $w$-frameproof codes of length $N$ over an alphabet of size $q$. The upper bound is based on a combinatorial approach and the lower bound is based on a probabilistic construction. Both bounds can improve previous results when $q$ is small compared to $w$, say $cq\leq w$ for some constant $c\leq q$. Furthermore, we pay special attention to binary frameproof codes. We show a binary $w$-frameproof code of length $N$ can not have more than $N$ codewords if $N<\binom{w+1}{2}$.

@@ -1,0 +1,3 @@
+Isometric sketching of any set via the Restricted Isometry Property
+
+In this paper we show that for the purposes of dimensionality reduction certain class of structured random matrices behave similarly to random Gaussian matrices. This class includes several matrices for which matrix-vector multiply can be computed in log-linear time, providing efficient dimensionality reduction of general sets. In particular, we show that using such matrices any set from high dimensions can be embedded into lower dimensions with near optimal distortion. We obtain our results by connecting dimensionality reduction of any set to dimensionality reduction of sparse vectors via a chaining argument.

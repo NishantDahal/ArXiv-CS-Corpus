@@ -1,0 +1,3 @@
+Large N Quantum Cryptography
+
+In quantum cryptography, the level of security attainable by a protocol which implements a particular task $N$ times bears no simple relation to the level of security attainable by a protocol implementing the task once. Useful partial security, and even near-perfect security in an appropriate sense, can be obtained for $N$ copies of a task which itself cannot be securely implemented. We illustrate this with protocols for quantum bit string commitment and quantum random number generation between mistrustful parties.

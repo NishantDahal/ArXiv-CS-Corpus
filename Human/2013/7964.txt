@@ -1,0 +1,4 @@
+Linear Time Algorithm for Optimal Feed-link Placement
+
+Given a polygon representing a transportation network together with a point p in its interior, we aim to extend the network by inserting a line segment, called a feed-link, which connects p to the boundary of the polygon. Once a feed link is fixed, the geometric dilation of some point q on the boundary is the ratio between the length of the shortest path from p to q through the extended network, and their Euclidean distance. The utility of a feed-link is inversely proportional to the maximal dilation over all boundary points.
+  We give a linear time algorithm for computing the feed-link with the minimum overall dilation, thus improving upon the previously known algorithm of complexity that is roughly O(n log n).

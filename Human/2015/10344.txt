@@ -1,0 +1,4 @@
+Sparsified Cholesky Solvers for SDD linear systems
+
+We show that Laplacian and symmetric diagonally dominant (SDD) matrices can be well approximated by linear-sized sparse Cholesky factorizations. We show that these matrices have constant-factor approximations of the form $L L^{T}$, where $L$ is a lower-triangular matrix with a number of nonzero entries linear in its dimension. Furthermore linear systems in $L$ and $L^{T}$ can be solved in $O (n)$ work and $O(\log{n}\log^2\log{n})$ depth, where $n$ is the dimension of the matrix.
+  We present nearly linear time algorithms that construct solvers that are almost this efficient. In doing so, we give the first nearly-linear work routine for constructing spectral vertex sparsifiers---that is, spectral approximations of Schur complements of Laplacian matrices.

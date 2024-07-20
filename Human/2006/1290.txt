@@ -1,0 +1,3 @@
+An Isabelle formalization of protocol-independent secrecy with an application to e-commerce
+
+A protocol-independent secrecy theorem is established and applied to several non-trivial protocols. In particular, it is applied to protocols proposed for protecting the computation results of free-roaming mobile agents doing comparison shopping. All the results presented here have been formally proved in Isabelle by building on Larry Paulson's inductive approach. This therefore provides a library of general theorems that can be applied to other protocols.

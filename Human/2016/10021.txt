@@ -1,0 +1,3 @@
+Towards More Practical Linear Programming-based Techniques for Algorithmic Mechanism Design
+
+R. Lavy and C. Swamy (FOCS 2005, J. ACM 2011) introduced a general method for obtaining truthful-in-expectation mechanisms from linear programming based approximation algorithms. Due to the use of the Ellipsoid method, a direct implementation of the method is unlikely to be efficient in practice. We propose to use the much simpler and usually faster multiplicative weights update method instead. The simplification comes at the cost of slightly weaker approximation and truthfulness guarantees.

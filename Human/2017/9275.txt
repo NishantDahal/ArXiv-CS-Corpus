@@ -1,0 +1,8 @@
+A Duality Between Depth-Three Formulas and Approximation by Depth-Two
+
+We establish an explicit link between depth-3 formulas and one-sided approximation by depth-2 formulas, which were previously studied independently. Specifically, we show that the minimum size of depth-3 formulas is (up to a factor of n) equal to the inverse of the maximum, over all depth-2 formulas, of one-sided-error correlation bound divided by the size of the depth-2 formula, on a certain hard distribution. We apply this duality to obtain several consequences:
+  1. Any function f can be approximated by a CNF formula of size $O(ε2^n / n)$ with one-sided error and advantage $ε$ for some $ε$, which is tight up to a constant factor.
+  2. There exists a monotone function f such that f can be approximated by some polynomial-size CNF formula, whereas any monotone CNF formula approximating f requires exponential size.
+  3. Any depth-3 formula computing the parity function requires $Ω(2^{2 \sqrt{n}})$ gates, which is tight up to a factor of $\sqrt n$. This establishes a quadratic separation between depth-3 circuit size and depth-3 formula size.
+  4. We give a characterization of the depth-3 monotone circuit complexity of the majority function, in terms of a natural extremal problem on hypergraphs. In particular, we show that a known extension of Turan's theorem gives a tight (up to a polynomial factor) circuit size for computing the majority function by a monotone depth-3 circuit with bottom fan-in 2.
+  5. AC0[p] has exponentially small one-sided correlation with the parity function for odd prime p.

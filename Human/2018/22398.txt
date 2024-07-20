@@ -1,0 +1,4 @@
+A note on the security of CSIDH
+
+We propose an algorithm for computing an isogeny between two elliptic curves $E_1,E_2$ defined over a finite field such that there is an imaginary quadratic order $\mathcal{O}$ satisfying $\mathcal{O}\simeq \operatorname{End}(E_i)$ for $i = 1,2$. This concerns ordinary curves and supersingular curves defined over $\mathbb{F}_p$ (the latter used in the recent CSIDH proposal). Our algorithm has heuristic asymptotic run time $e^{O\left(\sqrt{\log(|Δ|)}\right)}$ and requires polynomial quantum memory and $e^{O\left(\sqrt{\log(|Δ|)}\right)}$ classical memory, where $Δ$ is the discriminant of $\mathcal{O}$. This asymptotic complexity outperforms all other available method for computing isogenies.
+  We also show that a variant of our method has asymptotic run time $e^{\tilde{O}\left(\sqrt{\log(|Δ|)}\right)}$ while requesting only polynomial memory (both quantum and classical).

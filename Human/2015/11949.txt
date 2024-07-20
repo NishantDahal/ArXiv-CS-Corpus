@@ -1,0 +1,7 @@
+Equations over free inverse monoids with idempotent variables
+
+We introduce the notion of idempotent variables for studying equations in inverse monoids.
+  It is proved that it is decidable in singly exponential time (DEXPTIME) whether a system of equations in idempotent variables over a free inverse monoid has a solution. The result is proved by a direct reduction to solve language equations with one-sided concatenation and a known complexity result by Baader and Narendran: Unification of concept terms in description logics, 2001. We also show that the problem becomes DEXPTIME hard , as soon as the quotient group of the free inverse monoid has rank at least two.
+  Decidability for systems of typed equations over a free inverse monoid with one irreducible variable and at least one unbalanced equation is proved with the same complexity for the upper bound.
+  Our results improve known complexity bounds by Deis, Meakin, and Senizergues: Equations in free inverse monoids, 2007.
+  Our results also apply to larger families of equations where no decidability has been previously known.

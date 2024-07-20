@@ -1,0 +1,3 @@
+SubGraD- An Approach for Subgraph Detection
+
+A new approach of graph matching is introduced in this paper, which efficiently solves the problem of graph isomorphism and subgraph isomorphism. In this paper we are introducing a new approach called SubGraD, for query graph detection in source graph. Firstly consider the model graph (query graph) and make the possible sets called model sets starting from the chosen initial node or starter. Similarly, for the source graph (reference graph), all the possible sets called reference sets could be made. Our aim is to make the reference set on the basis of the model set. If it is possible to make the reference set, then it is said that query graph has been detected in the source graph.

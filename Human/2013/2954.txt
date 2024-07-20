@@ -1,0 +1,4 @@
+FreeIMU: An Open Hardware Framework for Orientation and Motion Sensing
+
+Orientation and Motion Sensing are widely implemented on various consumer products, such as mobile phones, tablets and cameras as they enable immediate interaction with virtual information. The prototyping phase of any orientation and motion sensing capable device is however a quite difficult process as it may involve complex hardware designing, math algorithms and programming.
+  In this paper, we present FreeIMU, an Open Hardware Framework for prototyping orientation and motion sensing capable devices. The framework consists in a small circuit board containing various sensors and a software library, built on top of the Arduino platform. Both the hardware and library are released under open licences and supported by an active community allowing to be implemented into research and commercial projects.

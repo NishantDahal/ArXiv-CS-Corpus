@@ -1,0 +1,3 @@
+Conservative Extensions in Guarded and Two-Variable Fragments
+
+We investigate the decidability and computational complexity of (deductive) conservative extensions in fragments of first-order logic (FO), with a focus on the two-variable fragment FO$^2$ and the guarded fragment GF. We prove that conservative extensions are undecidable in any FO fragment that contains FO$^2$ or GF (even the three-variable fragment thereof), and that they are decidable and 2\ExpTime-complete in the intersection GF$^2$ of FO$^2$ and GF.

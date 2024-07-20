@@ -1,0 +1,3 @@
+On Urgency in Asynchronous Timed Session Types
+
+We study an urgent semantics of asynchronous timed session types, where input actions happen as soon as possible. We show that with this semantics we can recover to the timed setting an appealing property of untimed session types: namely, deadlock-freedom is preserved when passing from synchronous to asynchronous communication.

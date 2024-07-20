@@ -1,0 +1,3 @@
+EpiRL: A Reinforcement Learning Agent to Facilitate Epistasis Detection
+
+Epistasis (gene-gene interaction) is crucial to predicting genetic disease. Our work tackles the computational challenges faced by previous works in epistasis detection by modeling it as a one-step Markov Decision Process where the state is genome data, the actions are the interacted genes, and the reward is an interaction measurement for the selected actions. A reinforcement learning agent using policy gradient method then learns to discover a set of highly interacted genes.

@@ -1,0 +1,3 @@
+Schedulers for Rule-based Constraint Programming
+
+We study here schedulers for a class of rules that naturally arise in the context of rule-based constraint programming. We systematically derive a scheduler for them from a generic iteration algorithm of Apt [2000]. We apply this study to so-called membership rules of Apt and Monfroy [2001]. This leads to an implementation that yields for these rules a considerably better performance than their execution as standard CHR rules.

@@ -1,0 +1,3 @@
+A Computationally Surveyable Proof of the Group Properties of an Elliptic Curve
+
+We present an elementary proof of the group properties of the elliptic curve known as "Curve25519", as a component of a comprehensive proof of correctness of a hardware implementation of the associated Diffie-Hellman key agreement algorithm.  The entire proof has been formalized and mechanically verified with ACL2, and is computationally surveyable in the sense that all steps that require mechanical support are presented in such a way that they may readily reproduced in any suitable programming language.

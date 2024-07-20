@@ -1,0 +1,3 @@
+Proof Generation from Delta-Decisions
+
+We show how to generate and validate logical proofs of unsatisfiability from delta-complete decision procedures that rely on error-prone numerical algorithms. Solving this problem is important for ensuring correctness of the decision procedures. At the same time, it is a new approach for automated theorem proving over real numbers. We design a first-order calculus, and transform the computational steps of constraint solving into logic proofs, which are then validated using proof-checking algorithms. As an application, we demonstrate how proofs generated from our solver can establish many nonlinear lemmas in the the formal proof of the Kepler Conjecture.

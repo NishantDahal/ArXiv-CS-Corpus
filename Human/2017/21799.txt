@@ -1,0 +1,3 @@
+Packing arborescences in random digraphs
+
+We study the problem of packing arborescences in the random digraph $\mathcal D(n,p)$, where each possible arc is included uniformly at random with probability $p=p(n)$. Let $λ(\mathcal D(n,p))$ denote the largest integer $λ\geq 0$ such that, for all $0\leq \ell\leq λ$, we have $\sum_{i=0}^{\ell-1} (\ell-i)|\{v: d^{in}(v) = i\}| \leq \ell$. We show that the maximum number of arc-disjoint arborescences in $\mathcal D(n,p)$ is $λ(\mathcal D(n,p))$ a.a.s. We also give tight estimates for $λ(\mathcal D(n,p))$ depending on the range of $p$.

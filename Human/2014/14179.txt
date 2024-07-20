@@ -1,0 +1,3 @@
+A Unified Semantic Embedding: Relating Taxonomies and Attributes
+
+We propose a method that learns a discriminative yet semantic space for object categorization, where we also embed auxiliary semantic entities such as supercategories and attributes. Contrary to prior work which only utilized them as side information, we explicitly embed the semantic entities into the same space where we embed categories, which enables us to represent a category as their linear combination. By exploiting such a unified model for semantics, we enforce each category to be represented by a supercategory + sparse combination of attributes, with an additional exclusive regularization to learn discriminative composition.

@@ -1,0 +1,3 @@
+Grammar-Based Graph Compression
+
+We present a new graph compressor that works by recursively detecting repeated substructures and representing them through grammar rules. We show that for a large number of graphs the compressor obtains smaller representations than other approaches. Specific queries such as reachability between two nodes or regular path queries can be evaluated in linear time (or quadratic times, respectively), over the grammar, thus allowing speed-ups proportional to the compression ratio.

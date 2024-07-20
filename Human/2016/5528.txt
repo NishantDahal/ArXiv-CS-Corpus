@@ -1,0 +1,3 @@
+Non-deterministic branching programs with logarithmic repetition cannot efficiently compute small monotone CNFs
+
+In this paper we establish an exponential lower bound on the size of syntactic non-deterministic read $d$-times branching programs for $d \leq \log n /10^5$ computing a class of monotone CNFs with a linear number of clauses. This result provides the first separation of classes NP and co-NP for syntactic branching programs with a logarithmic repetition and the first separation of syntactic non-deterministic branching programs with a logarithmic repetition from small monotone CNFs.

@@ -1,0 +1,3 @@
+Language embeddings that preserve staging and safety
+
+We study embeddings of programming languages into one another that preserve what reductions take place at compile-time, i.e., staging. A certain condition -- what we call a `Turing complete kernel' -- is sufficient for a language to be stage-universal in the sense that any language may be embedded in it while preserving staging. A similar line of reasoning yields the notion of safety-preserving embeddings, and a useful characterization of safety-universality. Languages universal with respect to staging and safety are good candidates for realizing domain-specific embedded languages (DSELs) and `active libraries' that provide domain-specific optimizations and safety checks.

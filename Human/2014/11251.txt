@@ -1,0 +1,3 @@
+Non-parametric Bayesian Learning with Deep Learning Structure and Its Applications in Wireless Networks
+
+In this paper, we present an infinite hierarchical non-parametric Bayesian model to extract the hidden factors over observed data, where the number of hidden factors for each layer is unknown and can be potentially infinite. Moreover, the number of layers can also be infinite. We construct the model structure that allows continuous values for the hidden factors and weights, which makes the model suitable for various applications. We use the Metropolis-Hastings method to infer the model structure. Then the performance of the algorithm is evaluated by the experiments. Simulation results show that the model fits the underlying structure of simulated data.

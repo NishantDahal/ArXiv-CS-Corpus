@@ -1,0 +1,3 @@
+Bayesian inference via rejection filtering
+
+We provide a method for approximating Bayesian inference using rejection sampling. We not only make the process efficient, but also dramatically reduce the memory required relative to conventional methods by combining rejection sampling with particle filtering. We also provide an approximate form of rejection sampling that makes rejection filtering tractable in cases where exact rejection sampling is not efficient. Finally, we present several numerical examples of rejection filtering that show its ability to track time dependent parameters in online settings and also benchmark its performance on MNIST classification problems.

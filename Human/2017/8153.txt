@@ -1,0 +1,3 @@
+A Logic for Non-Deterministic Parallel Abstract State Machines
+
+We develop a logic which enables reasoning about single steps of non-deterministic parallel Abstract State Machines (ASMs). Our logic builds upon the unifying logic introduced by Nanchen and Stärk for reasoning about hierarchical (parallel) ASMs. Our main contribution to this regard is the handling of non-determinism (both bounded and unbounded) within the logical formalism. Moreover, we do this without sacrificing the completeness of the logic for statements about single steps of non-deterministic parallel ASMs, such as invariants of rules, consistency conditions for rules, or step-by-step equivalence of rules.

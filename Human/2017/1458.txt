@@ -1,0 +1,5 @@
+Tight Algorithms for Vertex Cover with Hard Capacities on Multigraphs and Hypergraphs
+
+In this paper we give a f-approximation algorithm for the minimum unweighted Vertex Cover problem with Hard Capacity constraints (VCHC) on f-hypergraphs. This problem generalizes standard vertex cover for which the best known approximation ratio is also f and cannot be improved assuming the unique game conjecture. Our result is therefore essentially the best possible. This improves over the previous 2.155 (for f=2) and 2f-approximation algorithms by Cheung, Goemans and Wong (CGW).
+  At the heart of our approach is to apply iterative rounding to the problem with ideas coming from several previous works. We also give a faster implementation of the method based on certain iteratively rounding the solution to certain CGW-style covering LPs.
+  We note that independent of this work, Kao [#kao2017iterative] also recently obtained the same result.

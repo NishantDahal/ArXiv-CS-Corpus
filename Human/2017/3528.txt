@@ -1,0 +1,3 @@
+t factor: A metric for measuring impact on Twitter
+
+Based on the definition of the well-known h index we propose a t factor for measuring the impact of publications (and other entities) on Twitter. The new index combines tweet and retweet data in a balanced way whereby retweets are seen as data reflecting the impact of initial tweets. The t factor is defined as follows: A unit (single publication, journal, researcher, research group etc.) has factor t if t of its Nt tweets have at least t retweets each and the other (Nt-t) tweets have <=t retweets each.

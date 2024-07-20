@@ -1,0 +1,3 @@
+Metadata in SDN API
+
+This paper discusses the system aspects of development of applied programming interfaces in Software-Defined Networking (SDN). Almost all existing SDN interfaces use so-called Representational State Transfer (REST) services as a basic model. This model is simple and straightforward for developers, but often does not support the information (metadata) necessary for programming automation. In this article, we cover the issues of representation of metadata in the SDN API.

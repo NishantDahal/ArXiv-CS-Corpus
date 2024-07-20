@@ -1,0 +1,3 @@
+Partitioning Data on Features or Samples in Communication-Efficient Distributed Optimization?
+
+In this paper we study the effect of the way that the data is partitioned in distributed optimization. The original DiSCO algorithm [Communication-Efficient Distributed Optimization of Self-Concordant Empirical Loss, Yuchen Zhang and Lin Xiao, 2015] partitions the input data based on samples. We describe how the original algorithm has to be modified to allow partitioning on features and show its efficiency both in theory and also in practice.

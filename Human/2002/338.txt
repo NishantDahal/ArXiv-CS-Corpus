@@ -1,0 +1,5 @@
+Question Answering over Unstructured Data without Domain Restrictions
+
+Information needs are naturally represented as questions. Automatic Natural-Language Question Answering (NLQA) has only recently become a practical task on a larger scale and without domain constraints.
+  This paper gives a brief introduction to the field, its history and the impact of systematic evaluation competitions.
+  It is then demonstrated that an NLQA system for English can be built and evaluated in a very short time using off-the-shelf parsers and thesauri. The system is based on Robust Minimal Recursion Semantics (RMRS) and is portable with respect to the parser used as a frontend. It applies atomic term unification supported by question classification and WordNet lookup for semantic similarity matching of parsed question representation and free text.

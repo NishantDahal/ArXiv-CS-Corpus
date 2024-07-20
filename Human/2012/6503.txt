@@ -1,0 +1,3 @@
+Hamilton Operators, Discrete Symmetries, Brute Force and SymbolicC++
+
+To find the discrete symmetries of a Hamilton operator $\hat H$ is of central importance in quantum theory. Here we describe and implement a brute force method to determine the discrete symmetries given by permutation matrices for Hamilton operators acting in a finite-dimensional Hilbert space. Spin and Fermi systems are considered as examples. A computer algebra implementation in SymbolicC++ is provided.

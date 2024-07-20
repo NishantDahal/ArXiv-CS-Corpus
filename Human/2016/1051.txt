@@ -1,0 +1,3 @@
+Counting Ones Without Broadword Operations
+
+A lower time bound $Ω(\min(ν(x), n-ν(x))$ for counting the number of ones in a binary input word $x$ of length $n$ is presented, where $ν(x)$ is the number of ones. The operations available are increment, decrement, bit-wise logical operations, and assignment. The only constant available is zero. An almost matching upper bound is also obtained.

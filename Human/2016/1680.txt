@@ -1,0 +1,3 @@
+Developing a Repeating Model Using the Structured Spreadsheet Modelling and Implementation Methodology
+
+Spreadsheets often have variables and formulas that are similar, differing only by the fact that they refer to different instances of an entity. For example, the calculation of the sales revenues of the South and East regions are Revenues South = Price * Quantity Sold South and Revenues East = Price * Quantity Sold East. In this paper, we present a conceptual modelling approach that takes advantage of these similarities and leads the spreadsheet developer to the formula Revenues = Price * Quantity. We then present simple but strict rules to implement the spreadsheet.

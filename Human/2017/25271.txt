@@ -1,0 +1,3 @@
+A Brief Overview of the KTA WCET Tool
+
+KTA (KTH's timing analyzer) is a research tool for performing timing analysis of program code. The currently available toolchain can perform two different kinds of analyses: i) exhaustive fine-grained timing analysis, where timing information can be provided between arbitrary timing program points within a function, and ii) abstract search-based timing analysis, where the tool can perform optimal worst-case execution time (WCET) analysis. The latter is based on a technique that combines divide-and-conquer search and abstract interpretation. The tool is under development and currently supports a subset of the MIPS instruction set architecture.

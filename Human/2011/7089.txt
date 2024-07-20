@@ -1,0 +1,3 @@
+Chaotic Encryption Method Based on Life-Like Cellular Automata
+
+We propose a chaotic encryption method based on Cellular Automata(CA), specifically on the family called the "Life-Like" type. Thus, the encryption process lying on the pseudo-random numbers generated (PRNG) by each CA's evolution, which transforms the password as the initial conditions to encrypt messages. Moreover, is explored the dynamical behavior of CA to reach a "good" quality as PRNG based on measures to quantify "how chaotic a dynamical system is", through the combination of the entropy, Lyapunov exponent, and Hamming distance. Finally, we present the detailed security analysis based on experimental tests: DIEHARD and ENT suites, as well as Fouriers Power Spectrum, used as a security criteria.

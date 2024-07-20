@@ -1,0 +1,3 @@
+Evaluating the Non-Intrusive Room Acoustics Algorithm with the ACE Challenge
+
+We present a single channel data driven method for non-intrusive estimation of full-band reverberation time and full-band direct-to-reverberant ratio. The method extracts a number of features from reverberant speech and builds a model using a recurrent neural network to estimate the reverberant acoustic parameters. We explore three configurations by including different data and also by combining the recurrent neural network estimates using a support vector machine. Our best method to estimate DRR provides a Root Mean Square Deviation (RMSD) of 3.84 dB and a RMSD of 43.19 % for T60 estimation.

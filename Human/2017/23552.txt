@@ -1,0 +1,4 @@
+PS-DBSCAN: An Efficient Parallel DBSCAN Algorithm Based on Platform Of AI (PAI)
+
+We present PS-DBSCAN, a communication efficient parallel DBSCAN algorithm that combines the disjoint-set data structure and Parameter Server framework in Platform of AI (PAI). Since data points within the same cluster may be distributed over different workers which result in several disjoint-sets, merging them incurs large communication costs. In our algorithm, we employ a fast global union approach to union the disjoint-sets to alleviate the communication burden. Experiments over the datasets of different scales demonstrate that PS-DBSCAN outperforms the PDSDBSCAN with 2-10 times speedup on communication efficiency.
+  We have released our PS-DBSCAN in an algorithm platform called Platform of AI (PAI - https://pai.base.shuju.aliyun.com/) in Alibaba Cloud. We have also demonstrated how to use the method in PAI.

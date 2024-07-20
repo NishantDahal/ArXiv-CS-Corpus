@@ -1,0 +1,3 @@
+File system on CRDT
+
+In this report we show how to manage a distributed hierarchical structure representing a file system. This structure is optimistically replicated, each user work on his local replica, and updates are sent to other replica. The different replicas eventually observe same view of file systems. At this stage, conflicts between updates are very common. We claim that conflict resolution should rely as little as possible on users. In this report we propose a simple and modular solution to resolve these problems and maintain data consistency.

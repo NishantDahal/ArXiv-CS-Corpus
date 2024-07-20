@@ -1,0 +1,3 @@
+Double Q($σ$) and Q($σ, λ$): Unifying Reinforcement Learning Control Algorithms
+
+Temporal-difference (TD) learning is an important field in reinforcement learning. Sarsa and Q-Learning are among the most used TD algorithms. The Q($σ$) algorithm (Sutton and Barto (2017)) unifies both. This paper extends the Q($σ$) algorithm to an online multi-step algorithm Q($σ, λ$) using eligibility traces and introduces Double Q($σ$) as the extension of Q($σ$) to double learning. Experiments suggest that the new Q($σ, λ$) algorithm can outperform the classical TD control methods Sarsa($λ$), Q($λ$) and Q($σ$).

@@ -1,0 +1,4 @@
+Tight Approximation Ratio for Minimum Maximal Matching
+
+We study a combinatorial problem called Minimum Maximal Matching, where we are asked to find in a general graph the smallest that can not be extended. We show that this problem is hard to approximate with a constant smaller than 2, assuming the Unique Games Conjecture.
+  As a corollary we show, that Minimum Maximal Matching in bipartite graphs is hard to approximate with constant smaller than $\frac{4}{3}$, with the same assumption. With a stronger variant of the Unique Games Conjecture --- that is Small Set Expansion Hypothesis --- we are able to improve the hardness result up to the factor of $\frac{3}{2}$.

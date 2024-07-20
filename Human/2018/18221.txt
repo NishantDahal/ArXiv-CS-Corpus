@@ -1,0 +1,3 @@
+An asynchronous message-passing distributed algorithm for the global critical section problem
+
+This paper considers the global $(l,k)$-CS problem which is the problem of controlling the system in such a way that, at least $l$ and at most $k$ processes must be in the CS at a time in the network. In this paper, a distributed solution is proposed in the asynchronous message-passing model. Our solution is a versatile composition method of algorithms for $l$-mutual inclusion and $k$-mutual exclusion. Its message complexity is $O(|Q|)$, where $|Q|$ is the maximum size for the quorum of a coterie used by the algorithm, which is typically $|Q| = \sqrt{n}$.

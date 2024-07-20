@@ -1,0 +1,3 @@
+Substation Signal Matching with a Bagged Token Classifier
+
+Currently, engineers at substation service providers match customer data with the corresponding internally used signal names manually. This paper proposes a machine learning method to automate this process based on substation signal mapping data from a repository of executed projects. To this end, a bagged token classifier is proposed, letting words (tokens) in the customer signal name vote for provider signal names. In our evaluation, the proposed method exhibits better performance in terms of both accuracy and efficiency over standard classifiers.

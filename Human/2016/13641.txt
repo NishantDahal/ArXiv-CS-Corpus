@@ -1,0 +1,3 @@
+Automatic Construction of a Recurrent Neural Network based Classifier for Vehicle Passage Detection
+
+Recurrent Neural Networks (RNNs) are extensively used for time-series modeling and prediction. We propose an approach for automatic construction of a binary classifier based on Long Short-Term Memory RNNs (LSTM-RNNs) for detection of a vehicle passage through a checkpoint. As an input to the classifier we use multidimensional signals of various sensors that are installed on the checkpoint. Obtained results demonstrate that the previous approach to handcrafting a classifier, consisting of a set of deterministic rules, can be successfully replaced by an automatic RNN training on an appropriately labelled data.

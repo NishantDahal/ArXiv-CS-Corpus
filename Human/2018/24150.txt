@@ -1,0 +1,3 @@
+Uncertainty Propagation in Deep Neural Networks Using Extended Kalman Filtering
+
+Extended Kalman Filtering (EKF) can be used to propagate and quantify input uncertainty through a Deep Neural Network (DNN) assuming mild hypotheses on the input distribution. This methodology yields results comparable to existing methods of uncertainty propagation for DNNs while lowering the computational overhead considerably. Additionally, EKF allows model error to be naturally incorporated into the output uncertainty.

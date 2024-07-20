@@ -1,0 +1,3 @@
+ICN enabling CoAP Extensions for IP based IoT devices
+
+The Constrained Application Protocol (CoAP) and its extensions, such as observe and group communication, offer the potential for developing novel IoT applications. However, a full-fledged CoAP-based application requires delay-tolerant communication and support for multicast: since these properties cannot be easily provided by existing IP networks, developers cannot take full advantage of CoAP, preferring to use HTTP instead. In this demo we show how proxying CoAP traffic over an ICN network can unleash the full potential of CoAP, simultaneously shifting overhead and complexity from the (constrained) endpoints to the network.

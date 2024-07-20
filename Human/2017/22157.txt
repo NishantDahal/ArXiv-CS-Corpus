@@ -1,0 +1,3 @@
+The Time-Invariant Multidimensional Gaussian Sequential Rate-Distortion Problem Revisited
+
+We revisit the sequential rate-distortion (SRD) trade-off problem for vector-valued Gauss-Markov sources with mean-squared error distortion constraints. We show via a counterexample that the dynamic reverse water-filling algorithm suggested by [1, eq. (15)] is not applicable to this problem, and consequently the closed form expression of the asymptotic SRD function derived in [1, eq. (17)] is not correct in general. Nevertheless, we show that the multidimensional Gaussian SRD function is semidefinite representable and thus it is readily computable.

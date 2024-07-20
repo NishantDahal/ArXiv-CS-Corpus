@@ -1,0 +1,3 @@
+Techreport: Time-sensitive probabilistic inference for the edge
+
+In recent years the two trends of edge computing and artificial intelligence became both crucial for information processing infrastructures. While the centralized analysis of massive amounts of data seems to be at odds with computation on the outer edge of distributed systems, we explore the properties of eventually consistent systems and statistics to identify sound formalisms for probabilistic inference on the edge. In particular we treat time itself as a random variable that we incorporate into statistical models through probabilistic programming.

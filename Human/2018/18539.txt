@@ -1,0 +1,3 @@
+Effects of Some Lattice Reductions on the Success Probability of the Zero-Forcing Decoder
+
+Zero-forcing (ZF) decoder is a commonly used approximation solution of the integer least squares problem which arises in communications and many other applications. Numerically simulations have shown that the LLL reduction can usually improve the success probability $P_{ZF}$ of the ZF decoder. In this paper, we first rigorously show that both SQRD and V-BLAST, two commonly used lattice reductions, have no effect on $P_{ZF}$. Then, we show that LLL reduction can improve $P_{ZF}$ when $n=2$, we also analyze how the parameter $δ$ in the LLL reduction affects the enhancement of $P_{ZF}$. Finally, an example is given which shows that the LLL reduction decrease $P_{ZF}$ when $n\geq3$.

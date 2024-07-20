@@ -1,0 +1,3 @@
+A Formulation of Recursive Self-Improvement and Its Possible Efficiency
+
+Recursive self-improving (RSI) systems have been dreamed of since the early days of computer science and artificial intelligence. However, many existing studies on RSI systems remain philosophical, and lacks clear formulation and results. In this paper, we provide a formal definition for one class of RSI systems, and then demonstrate the existence of computable and efficient RSI systems on a restricted version. We use simulation to empirically show that we achieve logarithmic runtime complexity with respect to the size of the search space, and these results suggest it is possible to achieve an efficient recursive self-improvement.

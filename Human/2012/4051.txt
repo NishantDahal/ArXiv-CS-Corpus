@@ -1,0 +1,4 @@
+Inductive types in homotopy type theory
+
+Homotopy type theory is an interpretation of Martin-Löf's constructive type theory into abstract homotopy theory. There results a link between constructive mathematics and algebraic topology, providing topological semantics for intensional systems of type theory as well as a computational approach to algebraic topology via type theory-based proof assistants such as Coq.
+  The present work investigates inductive types in this setting. Modified rules for inductive types, including types of well-founded trees, or W-types, are presented, and the basic homotopical semantics of such types are determined. Proofs of all results have been formally verified by the Coq proof assistant, and the proof scripts for this verification form an essential component of this research.

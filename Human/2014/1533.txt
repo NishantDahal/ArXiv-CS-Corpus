@@ -1,0 +1,3 @@
+Sparse phase retrieval via group-sparse optimization
+
+This paper deals with sparse phase retrieval, i.e., the problem of estimating a vector from quadratic measurements under the assumption that few components are nonzero. In particular, we consider the problem of finding the sparsest vector consistent with the measurements and reformulate it as a group-sparse optimization problem with linear constraints. Then, we analyze the convex relaxation of the latter based on the minimization of a block l1-norm and show various exact recovery and stability results in the real and complex cases. Invariance to circular shifts and reflections are also discussed for real vectors measured via complex matrices.

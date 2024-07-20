@@ -1,0 +1,3 @@
+Delay Bounds for Multiclass FIFO
+
+FIFO is perhaps the simplest scheduling discipline. For single-class FIFO, its delay guarantee performance has been extensively studied: The well-known results include a stochastic delay bound for $GI/GI/1$ by Kingman and a deterministic delay bound for $D/D/1$ by Cruz. However, for multiclass FIFO, few such results are available. To fill the gap, we prove delay bounds for multiclass FIFO in this work, considering both deterministic and stochastic cases. Specifically, delay bounds are presented for multiclass D/D/1, GI/GI/1 and G/G/1. In addition, examples are provided for several basic settings to demonstrate the obtained bounds in more explicit forms, which are also compared with simulation results.

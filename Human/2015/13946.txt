@@ -1,0 +1,3 @@
+Hadoop Mapreduce Performance Enhancement Using In-node Combiners
+
+While advanced analysis of large dataset is in high demand, data sizes have surpassed capabilities of conventional software and hardware. Hadoop framework distributes large datasets over multiple commodity servers and performs parallel computations. We discuss the I/O bottlenecks of Hadoop framework and propose methods for enhancing I/O performance. A proven approach is to cache data to maximize memory-locality of all map tasks. We introduce an approach to optimize I/O, the in-node combining design which extends the traditional combiner to a node level. The in-node combiner reduces the total number of intermediate results and curtail network traffic between mappers and reducers.

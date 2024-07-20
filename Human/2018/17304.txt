@@ -1,0 +1,4 @@
+Alternating Path and Coloured Clustering
+
+In the Coloured Clustering problem, we wish to colour vertices of an edge coloured graph to produce as many stable edges as possible, i.e., edges with the same colour as their ends. In this paper, we reveal that the problem is in fact a maximum subgraph problem concerning monochromatic subgraphs and alternating paths, and demonstrate the usefulness of such connection in studying these problems.
+  We obtain a faster algorithm to solve the problem for edge-bicoloured graphs by reducing the problem to a minimum cut problem. On the other hand, we push the NP-completeness of the problem to edge-tricoloured planar bipartite graphs of maximum degree four. Furthermore, we also give FPT algorithms for the problem when we take the numbers of stable edges and unstable edges, respectively, as parameters.

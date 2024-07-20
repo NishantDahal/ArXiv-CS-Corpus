@@ -1,0 +1,3 @@
+The Set Partitions: Solution for the sharing secret keys
+
+Confidentiality was and will always remain a critical need in the exchanges either between persons or the official parties. Recently, cryptology has made a jump, from classical form to the quantum one, we talk about quantum cryptography. This theory, although is perfectly safe, there are still binding limits of implementation. In this paper, we developed a new cryptographic protocol, called BCB12 protocol, which will be used to provide random keys shared via a classical channel, using the set partitions. Each key can be long enough that the plain text in question, in purpose, for instance, to hide then to transmit the secret information using the Vernam cipher.

@@ -1,0 +1,3 @@
+Imagining the Unseen: Learning a Distribution over Incomplete Images with Dense Latent Trees
+
+Images are composed as a hierarchy of object parts. We use this insight to create a generative graphical model that defines a hierarchical distribution over image parts. Typically, this leads to intractable inference due to loops in the graph. We propose an alternative model structure, the Dense Latent Tree (DLT), which avoids loops and allows for efficient exact inference, while maintaining a dense connectivity between parts of the hierarchy. The usefulness of DLTs is shown for the example task of image completion on partially observed MNIST and Fashion-MNIST data. We verify having successfully learned a hierarchical model of images by visualising its latent states.

@@ -1,0 +1,3 @@
+Expectation Consistent Approximate Inference: Generalizations and Convergence
+
+Approximations of loopy belief propagation, including expectation propagation and approximate message passing, have attracted considerable attention for probabilistic inference problems. This paper proposes and analyzes a generalization of Opper and Winther's expectation consistent (EC) approximate inference method. The proposed method, called Generalized Expectation Consistency (GEC), can be applied to both maximum a posteriori (MAP) and minimum mean squared error (MMSE) estimation. Here we characterize its fixed points, convergence, and performance relative to the replica prediction of optimality.

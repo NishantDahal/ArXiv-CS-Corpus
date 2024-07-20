@@ -1,0 +1,3 @@
+A Secure Self-synchronized Stream Cipher
+
+We follow two main objectives in this article. On the one hand, we introduce a security model called LORBACPA$^+$ for self-synchronized stream ciphers which is stronger than the blockwise LOR-IND-CPA, where we show that standard constructions as delayed CBC or similar existing self-synchronized modes of operation are not secure in this stronger model. Then, on the other hand, following contributions of G.~Millérioux et.al., we introduce a new self-synchronized stream cipher and prove its security in LORBACPA$^+$ model.

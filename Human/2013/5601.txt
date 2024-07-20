@@ -1,0 +1,3 @@
+Combinatorial Pair Testing: Distinguishing Workers from Slackers
+
+We formalize a problem we call combinatorial pair testing (CPT), which has applications to the identification of uncooperative or unproductive participants in pair programming, massively distributed computing, and crowdsourcing environments. We give efficient adaptive and nonadaptive CPT algorithms and we show that our methods use an optimal number of testing rounds to within constant factors. We also provide an empirical evaluation of some of our methods.

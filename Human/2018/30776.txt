@@ -1,0 +1,3 @@
+Neural network state estimation for full quantum state tomography
+
+An efficient state estimation model, neural network estimation (NNE), empowered by machine learning techniques, is presented for full quantum state tomography (FQST). A parameterized function based on neural network is applied to map the measurement outcomes to the estimated quantum states. Parameters are updated with supervised learning procedures. From the computational complexity perspective our algorithm is the most efficient one among existing state estimation algorithms for full quantum state tomography. We perform numerical tests to prove both the accuracy and scalability of our model.

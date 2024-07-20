@@ -1,0 +1,3 @@
+Diversity in Ranking using Negative Reinforcement
+
+In this paper, we consider the problem of diversity in ranking of the nodes in a graph. The task is to pick the top-k nodes in the graph which are both 'central' and 'diverse'. Many graph-based models of NLP like text summarization, opinion summarization involve the concept of diversity in generating the summaries. We develop a novel method which works in an iterative fashion based on random walks to achieve diversity. Specifically, we use negative reinforcement as a main tool to introduce diversity in the Personalized PageRank framework. Experiments on two benchmark datasets show that our algorithm is competitive to the existing methods.

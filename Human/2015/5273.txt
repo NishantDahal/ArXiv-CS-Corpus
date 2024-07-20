@@ -1,0 +1,3 @@
+Symbolic Segmentation Using Algorithm Selection
+
+In this paper we present an alternative approach to symbolic segmentation; instead of implementing a new method we approach symbolic segmentation as an algorithm selection problem. That is, let there be $n$ available algorithms for symbolic segmentation, a selection mechanism forms a set of input features and image attributes and selects on a case by case basis the best algorithm. The selection mechanism is demonstrated from within an algorithm framework where the selection is done in a set of various algorithm networks. Two sets of experiments are performed and in both cases we demonstrate that the algorithm selection allows to increase the result of the symbolic segmentation by a considerable amount.

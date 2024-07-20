@@ -1,0 +1,3 @@
+A Classification Leveraged Object Detector
+
+Currently, the state-of-the-art image classification algorithms outperform the best available object detector by a big margin in terms of average precision. We, therefore, propose a simple yet principled approach that allows us to leverage object detection through image classification on supporting regions specified by a preliminary object detector. Using a simple bag-of- words model based image classification algorithm, we leveraged the performance of the deformable model objector from 35.9% to 39.5% in average precision over 20 categories on standard PASCAL VOC 2007 detection dataset.

@@ -1,0 +1,4 @@
+Simulating Human Grandmasters: Evolution and Coevolution of Evaluation Functions
+
+This paper demonstrates the use of genetic algorithms for evolving a grandmaster-level evaluation function for a chess program. This is achieved by combining supervised and unsupervised learning. In the supervised learning phase the organisms are evolved to mimic the behavior of human grandmasters, and in the unsupervised learning phase these evolved organisms are further improved upon by means of coevolution.
+  While past attempts succeeded in creating a grandmaster-level program by mimicking the behavior of existing computer chess programs, this paper presents the first successful attempt at evolving a state-of-the-art evaluation function by learning only from databases of games played by humans. Our results demonstrate that the evolved program outperforms a two-time World Computer Chess Champion.

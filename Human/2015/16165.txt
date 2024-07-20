@@ -1,0 +1,6 @@
+Schwerdtfeger-Fillmore-Springer-Cnops Construction Implemented in GiNaC
+
+This paper presents an implementation of the Schwerdtfeger-Fillmore-Springer-Cnops construction (SFSCc) along with illustrations of its usage. SFSCc linearises the linear-fraction action of the Moebius group in R^n. This has clear advantages in several theoretical and applied fields including engineering. Our implementation is based on the Clifford algebra capacities of the GiNaC computer algebra system (http://www.ginac.de/), which were described in cs.MS/0410044.
+  The core of this realisation of SFSCc is done for an arbitrary dimension of R^n with a metric given by an arbitrary bilinear form. We also present a subclass for two dimensional cycles (i.e. circles, parabolas and hyperbolas), which add some 2D specific routines including a visualisation to PostScript files through the MetaPost (http://www.tug.org/metapost.html) or Asymptote (http://asymptote.sourceforge.net/) packages.
+  This software is the backbone of many results published in math.CV/0512416 and we use its applications their for demonstration. The library can be ported (with various level of required changes) to other CAS with Clifford algebras capabilities similar to GiNaC.
+  There is an ISO image of a Live Debian DVD attached to this paper as an auxiliary file, a copy is stored on Google Drive as well.

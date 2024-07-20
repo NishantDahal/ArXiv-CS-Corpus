@@ -1,0 +1,3 @@
+IoU is not submodular
+
+This short article aims at demonstrate that the Intersection over Union (or Jaccard index) is not a submodular function. This mistake has been made in an article which is cited and used as a foundation in another article. The Intersection of Union is widely used in machine learning as a cost function especially for imbalance data and semantic segmentation.

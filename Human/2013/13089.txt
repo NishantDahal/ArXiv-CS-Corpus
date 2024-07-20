@@ -1,0 +1,3 @@
+Computing class polynomials for abelian surfaces
+
+We describe a quasi-linear algorithm for computing Igusa class polynomials of Jacobians of genus 2 curves via complex floating-point approximations of their roots. After providing an explicit treatment of the computations in quartic CM fields and their Galois closures, we pursue an approach due to Dupont for evaluating $θ$- constants in quasi-linear time using Newton iterations on the Borchardt mean. We report on experiments with our implementation and present an example with class number 17608.

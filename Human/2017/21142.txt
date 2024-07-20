@@ -1,0 +1,3 @@
+Training Feedforward Neural Networks with Standard Logistic Activations is Feasible
+
+Training feedforward neural networks with standard logistic activations is considered difficult because of the intrinsic properties of these sigmoidal functions. This work aims at showing that these networks can be trained to achieve generalization performance comparable to those based on hyperbolic tangent activations. The solution consists on applying a set of conditions in parameter initialization, which have been derived from the study of the properties of a single neuron from an information-theoretic perspective. The proposed initialization is validated through an extensive experimental analysis.

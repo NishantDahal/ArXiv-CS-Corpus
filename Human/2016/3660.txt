@@ -1,0 +1,3 @@
+Catching Fire via "Likes": Inferring Topic Preferences of Trump Followers on Twitter
+
+In this paper, we propose a framework to infer the topic preferences of Donald Trump's followers on Twitter. We first use latent Dirichlet allocation (LDA) to derive the weighted mixture of topics for each Trump tweet. Then we use negative binomial regression to model the "likes," with the weights of each topic serving as explanatory variables. Our study shows that attacking Democrats such as President Obama and former Secretary of State Hillary Clinton earns Trump the most "likes." Our framework of inference is generalizable to the study of other politicians.

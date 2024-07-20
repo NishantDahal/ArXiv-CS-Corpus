@@ -1,0 +1,4 @@
+ACL2(ml): Machine-Learning for ACL2
+
+ACL2(ml) is an extension for the Emacs interface of ACL2. This tool uses machine-learning to help the ACL2 user during the proof-development. Namely, ACL2(ml) gives hints to the user in the form of families of similar theorems, and generates auxiliary lemmas automatically. In this paper, we present the two most recent extensions for ACL2(ml). First, ACL2(ml) can suggest now families of similar function definitions, in addition to the families of similar theorems. Second, the lemma generation tool implemented in ACL2(ml) has been improved with a method to generate preconditions using the guard mechanism of ACL2. The user of ACL2(ml) can also invoke directly the latter extension to obtain preconditions for his own conjectures.
+

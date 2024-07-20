@@ -1,0 +1,3 @@
+Partial complementation of graphs
+
+A partial complement of the graph $G$ is a graph obtained from $G$ by complementing all the edges in one of its induced subgraphs. We study the following algorithmic question: for a given graph $G$ and graph class $\mathcal{G}$, is there a partial complement of $G$ which is in $\mathcal{G}$? We show that this problem can be solved in polynomial time for various choices of the graphs class $\mathcal{G}$, such as bipartite, degenerate, or cographs. We complement these results by proving that the problem is NP-complete when $\mathcal{G}$ is the class of $r$-regular graphs.

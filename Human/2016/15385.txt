@@ -1,0 +1,4 @@
+Recognizing IC-Planar and NIC-Planar Graphs
+
+We prove that triangulated IC-planar and NIC-planar graphs can be recognized in cubic time.
+  A graph is 1-planar if it can be drawn in the plane with at most one crossing per edge. A drawing is IC-planar if, in addition, each vertex is incident to at most one crossing edge and NIC-planar if two pairs of crossing edges share at most one vertex. In a triangulated drawing each face is a triangle. In consequence, planar-maximal and maximal IC-planar and NIC-planar graphs can be recognized in O(n^5) time and maximum and optimal ones in O(n^3) time. In contrast, recognizing 3-connected IC-planar and NIC-planar graphs is NP-complete, even if the graphs are given with a rotation system which describes the cyclic ordering of the edges at each vertex. Our results complement similar ones for 1-planar graphs.

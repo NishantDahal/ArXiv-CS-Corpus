@@ -1,0 +1,3 @@
+Fourier Codes and Hartley Codes
+
+Real-valued block codes are introduced, which are derived from Discrete Fourier Transforms (DFT) and Discrete Hartley Transforms (DHT). These algebraic structures are built from the eigensequences of the transforms. Generator and parity check matrices were computed for codes up to block length N=24. They can be viewed as lattices codes so the main parameters (dimension, minimal norm, area of the Voronoi region, density, and centre density) are computed. Particularly, Hamming-Hartley and Golay-Hartley block codes are presented. These codes may possibly help an efficient computation of a DHT/DFT.

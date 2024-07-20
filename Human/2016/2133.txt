@@ -1,0 +1,5 @@
+LSTM Deep Neural Networks Postfiltering for Improving the Quality of Synthetic Voices
+
+Recent developments in speech synthesis have produced systems capable of outcome intelligible speech, but now researchers strive to create models that more accurately mimic human voices. One such development is the incorporation of multiple linguistic styles in various languages and accents.
+  HMM-based Speech Synthesis is of great interest to many researchers, due to its ability to produce sophisticated features with small footprint. Despite such progress, its quality has not yet reached the level of the predominant unit-selection approaches that choose and concatenate recordings of real speech. Recent efforts have been made in the direction of improving these systems.
+  In this paper we present the application of Long-Short Term Memory Deep Neural Networks as a Postfiltering step of HMM-based speech synthesis, in order to obtain closer spectral characteristics to those of natural speech. The results show how HMM-voices could be improved using this approach.

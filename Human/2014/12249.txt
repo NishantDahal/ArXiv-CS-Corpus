@@ -1,0 +1,5 @@
+Hardware Counted Profile-Guided Optimization
+
+Profile-Guided Optimization (PGO) is an excellent means to improve the performance of a compiled program. Indeed, the execution path data it provides helps the compiler to generate better code and better cacheline packing.
+  At the time of this writing, compilers only support instrumentation-based PGO. This proved effective for optimizing programs. However, few projects use it, due to its complicated dual-compilation model and its high overhead. Our solution of sampling Hardware Performance Counters overcome these drawbacks. In this paper, we propose a PGO solution for GCC by sampling Last Branch Record (LBR) events and using debug symbols to recreate source locations of binary instructions.
+  By using LBR-Sampling, the generated profiles are very accurate. This solution achieved an average of 83% of the gains obtained with instrumentation-based PGO and 93% on C++ benchmarks only. The profiling overhead is only 1.06% on average whereas instrumentation incurs a 16% overhead on average.

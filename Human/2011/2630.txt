@@ -1,0 +1,3 @@
+Evaluating the Efficiency of Asynchronous Systems with FASE
+
+In this paper, we present FASE (Faster Asynchronous Systems Evaluation), a tool for evaluating the worst-case efficiency of asynchronous systems. The tool is based on some well-established results in the setting of a timed process algebra (PAFAS: a Process Algebra for Faster Asynchronous Systems). To show the applicability of FASE to concrete meaningful examples, we consider three implementations of a bounded buffer and use FASE to automatically evaluate their worst-case efficiency. We finally contrast our results with previous ones where the efficiency of the same implementations has already been considered.

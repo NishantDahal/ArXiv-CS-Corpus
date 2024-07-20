@@ -1,0 +1,3 @@
+The remote_build Tool
+
+This is an introduction to the remote_build tool for transparent remote session builds. The intended workflow for a user is to locally issue a build command for some session heap images and then continue working, while the actual build runs on a remote machine and the resulting heap images are synchronized incrementally as soon as they are available.

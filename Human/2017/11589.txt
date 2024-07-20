@@ -1,0 +1,4 @@
+Climbing a shaky ladder: Better adaptive risk estimation
+
+We revisit the \emph{leaderboard problem} introduced by Blum and Hardt (2015) in an effort to reduce overfitting in machine learning benchmarks. We show that a randomized version of their Ladder algorithm achieves leaderboard error O(1/n^{0.4}) compared with the previous best rate of O(1/n^{1/3}).
+  Short of proving that our algorithm is optimal, we point out a major obstacle toward further progress. Specifically, any improvement to our upper bound would lead to asymptotic improvements in the general adaptive estimation setting as have remained elusive in recent years. This connection also directly leads to lower bounds for specific classes of algorithms. In particular, we exhibit a new attack on the leaderboard algorithm that both theoretically and empirically distinguishes between our algorithm and previous leaderboard algorithms.

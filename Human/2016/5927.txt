@@ -1,0 +1,3 @@
+Accelerated graph-based nonlinear denoising filters
+
+Denoising filters, such as bilateral, guided, and total variation filters, applied to images on general graphs may require repeated application if noise is not small enough. We formulate two acceleration techniques of the resulted iterations: conjugate gradient method and Nesterov's acceleration. We numerically show efficiency of the accelerated nonlinear filters for image denoising and demonstrate 2-12 times speed-up, i.e., the acceleration techniques reduce the number of iterations required to reach a given peak signal-to-noise ratio (PSNR) by the above indicated factor of 2-12.

@@ -1,0 +1,3 @@
+Directed Time Series Regression for Control
+
+We propose directed time series regression, a new approach to estimating parameters of time-series models for use in certainty equivalent model predictive control. The approach combines merits of least squares regression and empirical optimization. Through a computational study involving a stochastic version of a well known inverted pendulum balancing problem, we demonstrate that directed time series regression can generate significant improvements in controller performance over either of the aforementioned alternatives.

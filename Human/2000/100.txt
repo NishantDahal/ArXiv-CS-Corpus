@@ -1,0 +1,3 @@
+Declarative Representation of Revision Strategies
+
+In this paper we introduce a nonmonotonic framework for belief revision in which reasoning about the reliability of different pieces of information based on meta-knowledge about the information is possible, and where revision strategies can be described declaratively. The approach is based on a Poole-style system for default reasoning in which entrenchment information is represented in the logical language. A notion of inference based on the least fixed point of a monotone operator is used to make sure that all theories possess a consistent set of conclusions.

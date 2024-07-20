@@ -1,0 +1,3 @@
+Read-once polynomials: How many summands suffice?
+
+An arithmetic read-once formula (ROF) is a formula (circuit of fan-out 1) over $+, \times$ where each variable labels at most one leaf. Every multilinear polynomial can be expressed as the sum of ROFs. In this work, we prove, for certain multilinear polynomials, a tight lower bound on the number of summands in such an expression.

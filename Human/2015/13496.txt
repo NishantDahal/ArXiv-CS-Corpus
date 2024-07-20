@@ -1,0 +1,3 @@
+On oriented cliques with respect to push operation
+
+To push a vertex $v$ of a directed graph $\overrightarrow{G}$ is to change the orientations of all the arcs incident with $v$. An oriented graph is a directed graph without any cycle of length at most 2. An oriented clique is an oriented graph whose non-adjacent vertices are connected by a directed 2-path. A push clique is an oriented clique that remains an oriented clique even if one pushes any set of vertices of it. We show that it is NP-complete to decide if an undirected graph is underlying graph of a push clique or not. We also prove that a planar push clique can have at most 8 vertices. We also provide an exhaustive list of minimal (with respect to spanning subgraph inclusion) planar push cliques.

@@ -1,0 +1,3 @@
+Network Optimization on Partitioned Pairs of Points
+
+Given $n$ pairs of points, $\mathcal{S} = \{\{p_1, q_1\}, \{p_2, q_2\}, \dots, \{p_n, q_n\}\}$, in some metric space, we study the problem of two-coloring the points within each pair, red and blue, to optimize the cost of a pair of node-disjoint networks, one over the red points and one over the blue points. In this paper we consider our network structures to be spanning trees, traveling salesman tours or matchings. We consider several different weight functions computed over the network structures induced, as well as several different objective functions. We show that some of these problems are NP-hard, and provide constant factor approximation algorithms in all cases.

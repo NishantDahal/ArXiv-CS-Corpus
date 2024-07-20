@@ -1,0 +1,3 @@
+Why are images smooth?
+
+It is a well observed phenomenon that natural images are smooth, in the sense that nearby pixels tend to have similar values. We describe a mathematical model of images that makes no assumptions on the nature of the environment that images depict. It only assumes that images can be taken at different scales (zoom levels). We provide quantitative bounds on the smoothness of a typical image in our model, as a function of the number of available scales. These bounds can serve as a baseline against which to compare the observed smoothness of natural images.

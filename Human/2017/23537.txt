@@ -1,0 +1,3 @@
+A Rudimentary Model for Low-Latency Anonymous Communication Systems
+
+In this paper we present a rudimentary model for low-latency anonymous communication systems. Specifically, we study distributed OR algorithm as an abstract of the system. Based on our model, we give several satisfactory lower bounds of anonymity leakage of a deterministic OR algorithm. Some of them reveal a trade-off between anonymity and communication complexity. For the randomized OR algorithm, we only give a relatively trivial but possibly tight lower bound when leaving out communication complexity. And we find the relationship between our model and some open case in the study of secret sharing scheme, if considering communication complexity.

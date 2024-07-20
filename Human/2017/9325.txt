@@ -1,0 +1,3 @@
+Computing the Lambert W function in arbitrary-precision complex interval arithmetic
+
+We describe an algorithm to evaluate all the complex branches of the Lambert W function with rigorous error bounds in interval arithmetic, which has been implemented in the Arb library. The classic 1996 paper on the Lambert W function by Corless et al. provides a thorough but partly heuristic numerical analysis which needs to be complemented with some explicit inequalities and practical observations about managing precision and branch cuts.

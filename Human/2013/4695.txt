@@ -1,0 +1,3 @@
+Creative telescoping for rational functions using the Griffiths-Dwork method
+
+Creative telescoping algorithms compute linear differential equations satisfied by multiple integrals with parameters. We describe a precise and elementary algorithmic version of the Griffiths-Dwork method for the creative telescoping of rational functions. This leads to bounds on the order and degree of the coefficients of the differential equation, and to the first complexity result which is simply exponential in the number of variables. One of the important features of the algorithm is that it does not need to compute certificates. The approach is vindicated by a prototype implementation.

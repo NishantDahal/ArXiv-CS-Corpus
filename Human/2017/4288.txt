@@ -1,0 +1,3 @@
+Implicit Gradient Neural Networks with a Positive-Definite Mass Matrix for Online Linear Equations Solving
+
+Motivated by the advantages achieved by implicit analogue net for solving online linear equations, a novel implicit neural model is designed based on conventional explicit gradient neural networks in this letter by introducing a positive-definite mass matrix. In addition to taking the advantages of the implicit neural dynamics, the proposed implicit gradient neural networks can still achieve globally exponential convergence to the unique theoretical solution of linear equations and also global stability even under no-solution and multi-solution situations. Simulative results verify theoretical convergence analysis on the proposed neural dynamics.

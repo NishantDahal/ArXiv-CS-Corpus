@@ -1,0 +1,3 @@
+Can GAN Learn Topological Features of a Graph?
+
+This paper is first-line research expanding GANs into graph topology analysis. By leveraging the hierarchical connectivity structure of a graph, we have demonstrated that generative adversarial networks (GANs) can successfully capture topological features of any arbitrary graph, and rank edge sets by different stages according to their contribution to topology reconstruction. Moreover, in addition to acting as an indicator of graph reconstruction, we find that these stages can also preserve important topological features in a graph.

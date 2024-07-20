@@ -1,0 +1,3 @@
+Super-Isolated Elliptic Curves and Abelian Surfaces in Cryptography
+
+We call a simple abelian variety over $\mathbb{F}_p$ super-isolated if its ($\mathbb{F}_p$-rational) isogeny class contains no other varieties. The motivation for considering these varieties comes from concerns about isogeny based attacks on the discrete log problem. We heuristically estimate that the number of super-isolated elliptic curves over $\mathbb{F}_p$ with prime order and $p \leq N$, is roughly $\tildeΘ(\sqrt{N})$. In contrast, we prove that there are only 2 super-isolated surfaces of cryptographic size and near-prime order.

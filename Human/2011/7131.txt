@@ -1,0 +1,3 @@
+Epidemic Spreading in Weighted Networks: An Edge-Based Mean-Field Solution
+
+Weight distribution largely impacts the epidemic spreading taking place on top of networks. This paper studies a susceptible-infected-susceptible model on regular random networks with different kinds of weight distributions. Simulation results show that the more homogeneous weight distribution leads to higher epidemic prevalence, which, unfortunately, could not be captured by the traditional mean-field approximation. This paper gives an edge-based mean-field solution for general weight distribution, which can quantitatively reproduce the simulation results. This method could find its applications in characterizing the non-equilibrium steady states of dynamical processes on weighted networks.

@@ -1,0 +1,3 @@
+Equalizing Financial Impact in Supervised Learning
+
+Notions of "fair classification" that have arisen in computer science generally revolve around equalizing certain statistics across protected groups. This approach has been criticized as ignoring societal issues, including how errors can hurt certain groups disproportionately. We pose a modification of one of the fairness criteria from Hardt, Price, and Srebro [NIPS, 2016] that makes a small step towards addressing this issue in the case of financial decisions like giving loans. We call this new notion "equalized financial impact."

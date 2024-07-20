@@ -1,0 +1,3 @@
+Submodular Functions Are Noise Stable
+
+We show that all non-negative submodular functions have high {\em noise-stability}. As a consequence, we obtain a polynomial-time learning algorithm for this class with respect to any product distribution on $\{-1,1\}^n$ (for any constant accuracy parameter $ε$). Our algorithm also succeeds in the agnostic setting. Previous work on learning submodular functions required either query access or strong assumptions about the types of submodular functions to be learned (and did not hold in the agnostic setting).

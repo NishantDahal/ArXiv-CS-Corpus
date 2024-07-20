@@ -1,0 +1,3 @@
+Multilayer Hadamard Decomposition of Discrete Hartley Transforms
+
+Discrete transforms such as the discrete Fourier transform (DFT) or the discrete Hartley transform (DHT) furnish an indispensable tool in signal processing. The successful application of transform techniques relies on the existence of the so-called fast transforms. In this paper some fast algorithms are derived which meet the lower bound on the multiplicative complexity of the DFT/DHT. The approach is based on a decomposition of the DHT into layers of Walsh-Hadamard transforms. In particular, fast algorithms for short block lengths such as $N \in \{4, 8, 12, 24\}$ are presented.

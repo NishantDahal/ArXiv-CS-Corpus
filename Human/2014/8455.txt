@@ -1,0 +1,3 @@
+Query Complexity of Approximate Nash Equilibria
+
+We study the query complexity of approximate notions of Nash equilibrium in games with a large number of players $n$. Our main result states that for $n$-player binary-action games and for constant $\varepsilon$, the query complexity of an $\varepsilon$-well-supported Nash equilibrium is exponential in $n$. One of the consequences of this result is an exponential lower bound on the rate of convergence of adaptive dynamics to approxiamte Nash equilibrium.

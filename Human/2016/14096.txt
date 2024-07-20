@@ -1,0 +1,3 @@
+From H&M to Gap for Lightweight BWT Merging
+
+Recently, Holt and McMillan [Bionformatics 2014, ACM-BCB 2014] have proposed a simple and elegant algorithm to merge the Burrows-Wheeler transforms of a family of strings. In this paper we show that the H&M algorithm can be improved so that, in addition to merging the BWTs, it can also merge the Longest Common Prefix (LCP) arrays. The new algorithm, called Gap because of how it operates, has the same asymptotic cost as the H&M algorithm and requires additional space only for storing the LCP values.

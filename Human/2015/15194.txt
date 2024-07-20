@@ -1,0 +1,3 @@
+Improving Latency in a Signal Processing System on the Epiphany Architecture
+
+In this paper we use the Adapteva Epiphany manycore chip to demonstrate how the throughput and the latency of a baseband signal processing chain, typically found in LTE or WiFi, can be optimized by a combination of task- and data parallelization, and data pipelining. The parallelization and data pipelining are facilitated by the shared memory architecture of the Epiphany, and the fact that a processor on one core can write directly into the memory of any other core on the chip.

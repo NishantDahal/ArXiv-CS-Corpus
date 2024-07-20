@@ -1,0 +1,3 @@
+The Rough Guide to Constraint Propagation
+
+We provide here a simple, yet very general framework that allows us to explain several constraint propagation algorithms in a systematic way. In particular, using the notions commutativity and semi-commutativity, we show how the well-known AC-3, PC-2, DAC and DPC algorithms are instances of a single generic algorithm. The work reported here extends and simplifies that of Apt, cs.AI/9811024.

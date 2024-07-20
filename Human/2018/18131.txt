@@ -1,0 +1,3 @@
+Design and Implementation of a Digital Signature Scheme Based on Low-density Generator Matrix Codes
+
+In this paper we consider a post-quantum digital signature scheme based on low-density generator matrix codes and propose efficient algorithmic solutions for its implementation. We also review all known attacks against this scheme and derive closed-form estimates of their complexity when running over both classical and quantum computers. Based on these estimates, we propose new parametrization for the considered system to achieve given pre-quantum and post-quantum security levels. Finally, we provide and discuss performance benchmarks obtained through a suitably developed and publicly available reference implementation of the considered system.

@@ -1,0 +1,3 @@
+The Partition Spanning Forest Problem
+
+Given a set of colored points in the plane, we ask if there exists a crossing-free straight-line drawing of a spanning forest, such that every tree in the forest contains exactly the points of one color class. We show that the problem is NP-complete, even if every color class contains at most five points, but it is solvable in $O(n^2)$ time when each color class contains at most three points. If we require that the spanning forest is a linear forest, then the problem becomes NP-complete even if every color class contains at most four points.

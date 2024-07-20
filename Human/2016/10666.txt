@@ -1,0 +1,4 @@
+Removing Unnecessary Variables from Horn Clause Verification Conditions
+
+Verification conditions (VCs) are logical formulas whose satisfiability guarantees program correctness.  We consider VCs in the form of constrained Horn clauses (CHC) which are automatically generated from the encoding of (an interpreter of) the operational semantics of the programming language.  VCs are derived through program specialization based on the unfold/fold transformation rules and, as it often happens when specializing interpreters, they contain unnecessary variables, that is, variables which are not required for the correctness proofs of the programs under verification.  In this paper we adapt to the CHC setting some of the techniques that were developed for removing unnecessary variables from logic programs, and we show that, in some cases, the application of these techniques increases the effectiveness of Horn clause solvers when proving program correctness.
+

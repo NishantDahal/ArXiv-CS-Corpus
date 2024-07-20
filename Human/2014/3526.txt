@@ -1,0 +1,3 @@
+A Dynamic I/O-Efficient Structure for One-Dimensional Top-k Range Reporting
+
+We present a structure in external memory for "top-k range reporting", which uses linear space, answers a query in O(lg_B n + k/B) I/Os, and supports an update in O(lg_B n) amortized I/Os, where n is the input size, and B is the block size. This improves the state of the art which incurs O(lg^2_B n) amortized I/Os per update.

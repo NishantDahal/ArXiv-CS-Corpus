@@ -1,0 +1,3 @@
+Replicator Dynamics of Co-Evolving Networks
+
+We propose a simple model of network co-evolution in a game-dynamical system of interacting agents that play repeated games with their neighbors, and adapt their behaviors and network links based on the outcome of those games. The adaptation is achieved through a simple reinforcement learning scheme. We show that the collective evolution of such a system can be described by appropriately defined replicator dynamics equations. In particular, we suggest an appropriate factorization of the agents' strategies that results in a coupled system of equations characterizing the evolution of both strategies and network structure, and illustrate the framework on two simple examples.

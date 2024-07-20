@@ -1,0 +1,3 @@
+An Empirical Analysis of Proximal Policy Optimization with Kronecker-factored Natural Gradients
+
+In this technical report, we consider an approach that combines the PPO objective and K-FAC natural gradient optimization, for which we call PPOKFAC. We perform a range of empirical analysis on various aspects of the algorithm, such as sample complexity, training speed, and sensitivity to batch size and training epochs. We observe that PPOKFAC is able to outperform PPO in terms of sample complexity and speed in a range of MuJoCo environments, while being scalable in terms of batch size. In spite of this, it seems that adding more epochs is not necessarily helpful for sample efficiency, and PPOKFAC seems to be worse than its A2C counterpart, ACKTR.

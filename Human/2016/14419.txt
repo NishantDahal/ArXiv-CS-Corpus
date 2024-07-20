@@ -1,0 +1,3 @@
+The method of shifted partial derivatives cannot separate the permanent from the determinant
+
+The method of shifted partial derivatives was used to prove a super-polynomial lower bound on the size of depth four circuits needed to compute the permanent. We show that this method alone cannot prove that the padded permanent $\ell^{n-m} perm_m$ cannot be realized inside the $GL_{n^2}$-orbit closure of the determinant $ det_n$ when $n>2m^2+2m$. Our proof relies on several simple degenerations of the determinant polynomial, Macaulay's theorem that gives a lower bound on the growth of an ideal, and a lower bound estimate from Gupta et. al. regarding the shifted partial derivatives of the determinant.

@@ -1,0 +1,5 @@
+Computing Shapley values in the plane
+
+We consider the problem of computing Shapley values for points in the plane, where each point is interpreted as a player, and the value of a coalition is defined by the area of usual geometric objects, such as the convex hull or the minimum axis-parallel bounding box.
+  For sets of $n$ points in the plane, we show how to compute in roughly $O(n^{3/2})$ time the Shapley values for the area of the minimum axis-parallel bounding box and the area of the union of the rectangles spanned by the origin and the input points. When the points form an increasing or decreasing chain, the running time can be improved to near-linear. In all these cases, we use linearity of the Shapley values and algebraic methods.
+  We also show that Shapley values for the area and the perimeter of the convex hull or the minimum enclosing disk can be computed in $O(n^2)$ and $O(n^3)$ time, respectively. In this case the computation is closely related to the model of stochastic point sets considered in computational geometry, but here we have to consider random insertion orders of the points instead of a probabilistic existence of points.

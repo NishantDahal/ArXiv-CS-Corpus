@@ -1,0 +1,3 @@
+Computing Integer Sequences: Filtering vs Generation (Functional Pearl)
+
+As a report of a teaching experience, we analyse Haskell programs computing two integer sequences: the Hamming sequence and the Ulam sequence. For both of them, we investigate two strategies of computation: the first is based on filtering out those natural numbers that do not belong to the sequence, whereas the second is based on the direct generation of num- bers that belong to the sequence. Advocating cross-fertilisation among ideas emerging when programming in different programming paradigms, in the background, we sketch out some considerations about corresponding C programs solving the same two problems.

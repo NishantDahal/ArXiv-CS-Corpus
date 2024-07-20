@@ -1,0 +1,3 @@
+Availability Guarantee for Deterministic Replay Starting Points in Real-Time Systems
+
+Cyclic debugging requires repeatable executions. As non-deterministic or real-time systems typically do not have the potential to provide this, special methods are required. One such method is replay, a process that requires monitoring of a running system and logging of the data produced by that monitoring. We shall discuss the process of preparing the replay, a part of the process that has not been very well described before.

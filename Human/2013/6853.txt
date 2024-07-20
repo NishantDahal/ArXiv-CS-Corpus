@@ -1,0 +1,3 @@
+Near-optimal Coresets For Least-Squares Regression
+
+We study (constrained) least-squares regression as well as multiple response least-squares regression and ask the question of whether a subset of the data, a coreset, suffices to compute a good approximate solution to the regression. We give deterministic, low order polynomial-time algorithms to construct such coresets with approximation guarantees, together with lower bounds indicating that there is not much room for improvement upon our results.

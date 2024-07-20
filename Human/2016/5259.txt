@@ -1,0 +1,3 @@
+Simulation of Underwater RF Wireless Sensor Networks using Castalia
+
+We use real measurements of the underwater channel to simulate a whole underwater RF wireless sensor networks, including propagation impairments (e.g., noise, interference), radio hardware (e.g., modulation scheme, bandwidth, transmit power), hardware limitations (e.g., clock drift, transmission buffer) and complete MAC and routing protocols. The results should be useful for designing centralized and distributed algorithms for applications like monitoring, event detection, localization and aid to navigation. We also explain the changes that have to be done to Castalia in order to perform the simulations.

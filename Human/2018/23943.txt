@@ -1,0 +1,3 @@
+A survey of advances in epistemic logic program solvers
+
+Recent research in extensions of Answer Set Programming has included a renewed interest in the language of Epistemic Specifications, which adds modal operators K ("known") and M ("may be true") to provide for more powerful introspective reasoning and enhanced capability, particularly when reasoning with incomplete information. An epistemic logic program is a set of rules in this language. Infused with the research has been the desire for an efficient solver to enable the practical use of such programs for problem solving. In this paper, we report on the current state of development of epistemic logic program solvers.

@@ -1,0 +1,3 @@
+Bi-stochastic kernels via asymmetric affinity functions
+
+In this short letter we present the construction of a bi-stochastic kernel p for an arbitrary data set X that is derived from an asymmetric affinity function α. The affinity function α measures the similarity between points in X and some reference set Y. Unlike other methods that construct bi-stochastic kernels via some convergent iteration process or through solving an optimization problem, the construction presented here is quite simple. Furthermore, it can be viewed through the lens of out of sample extensions, making it useful for massive data sets.

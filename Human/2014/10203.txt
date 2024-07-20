@@ -1,0 +1,6 @@
+HTML5 WebSocket protocol and its application to distributed computing
+
+HTML5 WebSocket protocol brings real time communication in web browsers to a new level. Daily, new products are designed to stay permanently connected to the web. WebSocket is the technology enabling this revolution. WebSockets are supported by all current browsers, but it is still a new technology in constant evolution.
+  WebSockets are slowly replacing older client-server communication technologies. As opposed to comet-like technologies WebSockets' remarkable performances is a result of the protocol's fully duplex nature and because it doesn't rely on HTTP communications.
+  To begin with this paper studies the WebSocket protocol and different WebSocket servers implementations. This first theoretic part focuses more deeply on heterogeneous implementations and OpenCL. The second part is a benchmark of a new promising library.
+  The real-time engine used for testing purposes is SocketCluster. SocketCluster provides a highly scalable WebSocket server that makes use of all available cpu cores on an instance. The scope of this work is reduced to vertical scaling of SocketCluster.

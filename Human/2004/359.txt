@@ -1,0 +1,3 @@
+A Fast, Vectorizable Algorithm for Producing Single-Precision Sine-Cosine Pairs
+
+This paper presents an algorithm for computing Sine-Cosine pairs to modest accuracy, but in a manner which contains no conditional tests or branching, making it highly amenable to vectorization. An exemplary implementation for PowerPC AltiVec processors is included, but the algorithm should be easily portable to other achitectures, such as Intel SSE.

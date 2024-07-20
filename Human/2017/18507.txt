@@ -1,0 +1,3 @@
+A Modified Levy Jump-Diffusion Model Based on Market Sentiment Memory for Online Jump Prediction
+
+In this paper, we propose a modified Levy jump diffusion model with market sentiment memory for stock prices, where the market sentiment comes from data mining implementation using Tweets on Twitter. We take the market sentiment process, which has memory, as the signal of Levy jumps in the stock price. An online learning and optimization algorithm with the Unscented Kalman filter (UKF) is then proposed to learn the memory and to predict possible price jumps. Experiments show that the algorithm provides a relatively good performance in identifying asset return trends.

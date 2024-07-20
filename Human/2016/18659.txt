@@ -1,0 +1,3 @@
+Constructing Data Graphs for Keyword Search
+
+A data graph is a convenient paradigm for supporting keyword search that takes into account available semantic structure and not just textual relevance. However, the problem of constructing data graphs that facilitate both efficiency and effectiveness of the underlying system has hardly been addressed. A conceptual model for this task is proposed. Principles for constructing good data graphs are explained. Transformations for generating data graphs from RDB and XML are developed. The results obtained from these transformations are analyzed. It is shown that XML is a better starting point for getting a good data graph.

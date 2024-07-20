@@ -1,0 +1,3 @@
+Is the 1-norm the best convex sparse regularization?
+
+The 1-norm is a good convex regularization for the recovery of sparse vectors from under-determined linear measurements. No other convex regularization seems to surpass its sparse recovery performance. How can this be explained? To answer this question, we define several notions of "best" (convex) regulariza-tion in the context of general low-dimensional recovery and show that indeed the 1-norm is an optimal convex sparse regularization within this framework.

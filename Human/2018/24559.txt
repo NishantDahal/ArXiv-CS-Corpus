@@ -1,0 +1,3 @@
+The $ε$-error Capacity of Symmetric PIR with Byzantine Adversaries
+
+The capacity of symmetric private information retrieval with $K$ messages, $N$ servers (out of which any $T$ may collude), and an omniscient Byzantine adversary (who can corrupt any $B$ answers) is shown to be $1 - \frac{T+2B}{N}$ [1], under the requirement of zero probability of error. In this work, we show that by weakening the adversary slightly (either providing secret low rate channels between the servers and the user, or limiting the observation of the adversary), and allowing vanishing probability of error, the capacity increases to $1 - \frac{T+B}{N}$.

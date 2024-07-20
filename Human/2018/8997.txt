@@ -1,0 +1,4 @@
+Interdependent Gibbs Samplers
+
+Gibbs sampling, as a model learning method, is known to produce the most accurate results available in a variety of domains, and is a de facto standard in these domains. Yet, it is also well known that Gibbs random walks usually have bottlenecks, sometimes termed "local maxima", and thus samplers often return suboptimal solutions. In this paper we introduce a variation of the Gibbs sampler which yields high likelihood solutions significantly more often than the regular Gibbs sampler.
+  Specifically, we show that combining multiple samplers, with certain dependence (coupling) between them, results in higher likelihood solutions. This side-steps the well known issue of identifiability, which has been the obstacle to combining samplers in previous work. We evaluate the approach on a Latent Dirichlet Allocation model, and also on HMM's, where precise computation of likelihoods and comparisons to the standard EM algorithm are possible.

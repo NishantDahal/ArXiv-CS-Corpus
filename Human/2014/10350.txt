@@ -1,0 +1,3 @@
+Perfrewrite -- Program Complexity Analysis via Source Code Instrumentation
+
+Most program profiling methods output the execution time of one specific program execution, but not its computational complexity class in terms of the big-O notation. Perfrewrite is a tool based on LLVM's Clang compiler to rewrite a program such that it tracks semantic information while the program executes and uses it to guess memory usage, communication and computational complexity. While source code instrumentation is a standard technique for profiling, using it for deriving formulas is an uncommon approach.

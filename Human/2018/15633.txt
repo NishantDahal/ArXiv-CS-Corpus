@@ -1,0 +1,3 @@
+Deploying Deep Ranking Models for Search Verticals
+
+In this paper, we present an architecture executing a complex machine learning model such as a neural network capturing semantic similarity between a query and a document; and deploy to a real-world production system serving 500M+users. We present the challenges that arise in a real-world system and how we solve them. We demonstrate that our architecture provides competitive modeling capability without any significant performance impact to the system in terms of latency. Our modular solution and insights can be used by other real-world search systems to realize and productionize recent gains in neural networks.

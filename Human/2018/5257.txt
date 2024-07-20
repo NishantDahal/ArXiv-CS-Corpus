@@ -1,0 +1,4 @@
+On the structure of matrices avoiding interval-minor patterns
+
+We study the structure of 01-matrices avoiding a pattern P as an interval minor. We focus on critical P-avoiders, i.e., on the P-avoiding matrices in which changing a 0-entry to a 1-entry always creates a copy of P as an interval minor.
+  Let Q be the 3x3 permutation matrix corresponding to the permutation 231. As our main result, we show that for every pattern P that has no rotated copy of Q as interval minor, there is a constant c(P) such that any row and any column in any critical P-avoiding matrix can be partitioned into at most c(P) intervals, each consisting entirely of 0-entries or entirely of 1-entries. In contrast, for any pattern P that contains a rotated copy of Q, we construct critical P-avoiding matrices of arbitrary size $n\times n$ having a row with $Ω(n)$ alternating intervals of 0-entries and 1-entries.

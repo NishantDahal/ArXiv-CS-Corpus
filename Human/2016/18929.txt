@@ -1,0 +1,4 @@
+Simultaneous Drawing of Planar Graphs with Right-Angle Crossings and Few Bends
+
+Given two planar graphs that are defined on the same set of vertices, a RAC simultaneous drawing is one in which each graph is drawn planar, there are no edge overlaps and the crossings between the two graphs form right angles. The geometric version restricts the problem to straight-line drawings. It is known, however, that there exists a wheel and a matching which do not admit a geometric RAC simultaneous drawing.
+  In order to enlarge the class of graphs that admit RAC simultaneous drawings, we allow bends in the resulting drawings. We prove that two planar graphs always admit a RAC simultaneous drawing with six bends per edge each, in quadratic area. For more restricted classes of planar graphs (i.e., matchings, paths, cycles, outerplanar graphs and subhamiltonian graphs), we manage to significantly reduce the required number of bends per edge, while keeping the area quadratic.

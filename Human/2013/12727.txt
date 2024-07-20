@@ -1,0 +1,3 @@
+Finite automata with advice tapes
+
+We define a model of advised computation by finite automata where the advice is provided on a separate tape. We consider several variants of the model where the advice is deterministic or randomized, the input tape head is allowed real-time, one-way, or two-way access, and the automaton is classical or quantum. We prove several separation results among these variants, demonstrate an infinite hierarchy of language classes recognized by automata with increasing advice lengths, and establish the relationships between this and the previously studied ways of providing advice to finite automata.

@@ -1,0 +1,6 @@
+A general framework for Noetherian well ordered polynomial reductions
+
+Polynomial reduction is one of the main tools in computational algebra with innumerable applications in many areas, both pure and applied. Since many years both the theory and an efficient design of the related algorithm have been solidly established.
+  This paper presents a general definition of polynomial reduction structure, studies its features and highlights the aspects needed in order to grant and to efficiently test the main properties (noetherianity, confluence, ideal membership).
+  The most significant aspect of this analysis is a negative reappraisal of the role of the notion of term order which is usually considered a central and crucial tool in the theory. In fact, as it was already established in the computer science context in relation with termination of algorithms, most of the properties can be obtained simply considering a well-founded ordering, while the classical requirement that it be preserved by multiplication is irrelevant.
+  The last part of the paper shows how the polynomial basis concepts present in literature are interpreted in our language and their properties are consequences of the general results established in the first part of the paper.

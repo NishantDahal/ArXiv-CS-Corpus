@@ -1,0 +1,3 @@
+The maximum weight stable set problem in $(P_6,\mbox{bull})$-free graphs
+
+We present a polynomial-time algorithm that finds a maximum weight stable set in a graph that does not contain as an induced subgraph an induced path on six vertices or a bull (the graph with vertices $a, b, c, d, e$ and edges $ab, bc, cd, be, ce$).

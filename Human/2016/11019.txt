@@ -1,0 +1,3 @@
+A Modified Activation Function with Improved Run-Times For Neural Networks
+
+In this paper we present a modified version of the Hyperbolic Tangent Activation Function as a learning unit generator for neural networks. The function uses an integer calibration constant as an approximation to the Euler number, e, based on a quadratic Real Number Formula (RNF) algorithm and an adaptive normalization constraint on the input activations to avoid the vanishing gradient. We demonstrate the effectiveness of the proposed modification using a hypothetical and real world dataset and show that lower run-times can be achieved by learning algorithms using this function leading to improved speed-ups and learning accuracies during training.

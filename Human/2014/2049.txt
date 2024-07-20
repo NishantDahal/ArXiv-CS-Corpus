@@ -1,0 +1,3 @@
+Checking the strict positivity of Kraus maps is NP-hard
+
+Basic properties in Perron-Frobenius theory are strict positivity, primitivityand irreducibility. Whereas for nonnegative matrices, these properties are equivalent to elementary graph properties which can be checked in polynomial time, we show that for Kraus maps- the noncommutative generalization of stochastic matrices - checking strict positivity (whether the map sends the cone to its interior) is NP-hard. The proof proceeds by reducing to the latter problem the existence of a non-zero solution of a special system of bilinear equations. The complexity of irreducibility and primitivity is also discussed in the noncommutative setting.

@@ -1,0 +1,3 @@
+Evaluation of Temporal Formulas Based on "Checking By Spheres"
+
+Classical algorithms of evaluation of temporal CTL formulas are constructed "bottom-up". A formula must be evaluated completely to give the result. In the paper, a new concept of "top-down" evaluation of temporal QsCTL (CTL with state quantifiers) formulas, called "Checking By Spheres" is presented. The new algorithm has two general advantages: the evaluation may be stopped on certain conditions in early steps of the algorithm (not the whole formula and not whole state space should be analyzed), and state quantification may be used in formulas (even if a range of a quantifier is not statically obtainable).

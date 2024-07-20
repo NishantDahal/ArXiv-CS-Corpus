@@ -1,0 +1,3 @@
+Ultra-Large Repair Search Space with Automatically Mined Templates: the Cardumen Mode of Astor
+
+Astor is a program repair library which has different modes. In this paper, we present the Cardumen mode of Astor, a repair approach based mined templates that has an ultra-large search space. We evaluate the capacity of Cardumen to discover test-suite adequate patches (aka plausible patches) over the 356 real bugs from Defects4J. Cardumen finds 8935 patches over 77 bugs of Defects4J. This is the largest number of automatically synthesized patches ever reported, all patches being available in an open-science repository. Moreover, Cardumen identifies 8 unique patches, that are patches for Defects4J bugs that were never repaired in the whole history of program repair.

@@ -1,0 +1,3 @@
+PrideMM: A Solver for Relaxed Memory Models
+
+Relaxed memory models are notoriously delicate. To ease their study, several ad hoc simulators have been developed for axiomatic memory models. We show how axiomatic memory models can be simulated using a solver for $\exists$SO. Further, we show how memory models based on event structures can be simulated using a solver for MSO. Finally, we present a solver for SO, built on top of QBF solvers.

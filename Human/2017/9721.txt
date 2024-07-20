@@ -1,0 +1,3 @@
+Limitations of OpenFlow Topology Discovery Protocol
+
+OpenFlow Discovery Protocol (OFDP) is the de-facto protocol used by OpenFlow controllers to discover the underlying topology. In this paper, we show that OFDP has some serious security, efficiency and functionality limitations that make it non suitable for production deployments. Instead, we briefly introduce sOFTD, a new discovery protocol with a built-in security characteristics and which is more efficient than traditional OFDP.

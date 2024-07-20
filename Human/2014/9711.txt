@@ -1,0 +1,3 @@
+A Smart Cushion for Real-Time Heart Rate Monitoring
+
+This paper presents a smart cushion for real time heart rate monitoring. The cushion comprises of an integrated micro-bending fiber sensor, which records the BCG (Ballistocardiogram) signal without direct skin-electrode contact, and an optical transceiver that does signal amplification, digitization, and pre-filtering. To remove the artifacts and extract heart rate from BCG signal, a computationally efficient heart rate detection algorithm is developed. The system doesn't require any pre-training and is highly responsive with the outputs updated every 3 sec and initial response within first 10 sec. Tests conducted on human subjects show the detected heart rate closely matches the one from a commercial SpO2 device.

@@ -1,0 +1,7 @@
+Towards Automated Performance Bug Identification in Python
+
+Context: Software performance is a critical non-functional requirement, appearing in many fields such as mission critical applications, financial, and real time systems. In this work we focused on early detection of performance bugs; our software under study was a real time system used in the advertisement/marketing domain.
+  Goal: Find a simple and easy to implement solution, predicting performance bugs.
+  Method: We built several models using four machine learning methods, commonly used for defect prediction: C4.5 Decision Trees, Naïve Bayes, Bayesian Networks, and Logistic Regression.
+  Results: Our empirical results show that a C4.5 model, using lines of code changed, file's age and size as explanatory variables, can be used to predict performance bugs (recall=0.73, accuracy=0.85, and precision=0.96). We show that reducing the number of changes delivered on a commit, can decrease the chance of performance bug injection.
+  Conclusions: We believe that our approach can help practitioners to eliminate performance bugs early in the development cycle. Our results are also of interest to theoreticians, establishing a link between functional bugs and (non-functional) performance bugs, and explicitly showing that attributes used for prediction of functional bugs can be used for prediction of performance bugs.

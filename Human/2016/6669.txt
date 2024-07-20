@@ -1,0 +1,3 @@
+3D Face Tracking and Texture Fusion in the Wild
+
+We present a fully automatic approach to real-time 3D face reconstruction from monocular in-the-wild videos. With the use of a cascaded-regressor based face tracking and a 3D Morphable Face Model shape fitting, we obtain a semi-dense 3D face shape. We further use the texture information from multiple frames to build a holistic 3D face representation from the video frames. Our system is able to capture facial expressions and does not require any person-specific training. We demonstrate the robustness of our approach on the challenging 300 Videos in the Wild (300-VW) dataset. Our real-time fitting framework is available as an open source library at http://4dface.org.

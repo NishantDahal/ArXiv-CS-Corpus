@@ -1,0 +1,3 @@
+Dynamic Stacked Generalization for Node Classification on Networks
+
+We propose a novel stacked generalization (stacking) method as a dynamic ensemble technique using a pool of heterogeneous classifiers for node label classification on networks. The proposed method assigns component models a set of functional coefficients, which can vary smoothly with certain topological features of a node. Compared to the traditional stacking model, the proposed method can dynamically adjust the weights of individual models as we move across the graph and provide a more versatile and significantly more accurate stacking model for label prediction on a network. We demonstrate the benefits of the proposed model using both a simulation study and real data analysis.

@@ -1,0 +1,3 @@
+Depth First Always On Routing Trace Algorithm
+
+In this paper, we discussed current limitation in the electronic-design-automotation (EDA) tool on tracing the always on routing. We developed an algorithm to efficiently track the secondary power routing and accurately estimate the routing quality using approximate voltage drop as the criteria. The fast check can identify potential hotspot issues without going through sign-off checks. It helps designers to capture issues at early stages and fix the issues with less design effort. We also discussed some limitations to our algorithm.

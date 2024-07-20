@@ -1,0 +1,3 @@
+Plane Bichromatic Trees of Low Degree
+
+Let $R$ and $B$ be two disjoint sets of points in the plane such that $|B|\leqslant |R|$, and no three points of $R\cup B$ are collinear. We show that the geometric complete bipartite graph $K(R,B)$ contains a non-crossing spanning tree whose maximum degree is at most $\max\left\{3, \left\lceil \frac{|R|-1}{|B|}\right\rceil + 1\right\}$; this is the best possible upper bound on the maximum degree. This solves an open problem posed by Abellanas et al. at the Graph Drawing Symposium, 1996.

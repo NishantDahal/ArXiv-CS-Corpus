@@ -1,0 +1,3 @@
+Computing spectral sequences
+
+In this paper, a set of programs enhancing the Kenzo system is presented. Kenzo is a Common Lisp program designed for computing in Algebraic Topology, in particular it allows the user to calculate homology and homotopy groups of complicated spaces. The new programs presented here entirely compute Serre and Eilenberg-Moore spectral sequences, in particular the groups and differential maps for arbitrary r. They also determine when the spectral sequence has converged and describe the filtration of the target homology groups induced by the spectral sequence.

@@ -1,0 +1,3 @@
+Alignment-free phylogenetic reconstruction: Sample complexity via a branching process analysis
+
+We present an efficient phylogenetic reconstruction algorithm allowing insertions and deletions which provably achieves a sequence-length requirement (or sample complexity) growing polynomially in the number of taxa. Our algorithm is distance-based, that is, it relies on pairwise sequence comparisons. More importantly, our approach largely bypasses the difficult problem of multiple sequence alignment.

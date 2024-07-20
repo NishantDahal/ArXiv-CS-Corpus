@@ -1,0 +1,3 @@
+Implementation of discretized Gabor frames and their duals
+
+The usefulness of Gabor frames depends on the easy computability of a suitable dual window. This question is addressed under several aspects: several versions of Schulz's iterative algorithm for the approximation of the canonical dual window are analyzed for their numerical stability. For Gabor frames with totally positive windows or with exponential B-splines a direct algorithm yields a family of exact dual windows with compact support. It is shown that these dual windows converge exponentially fast to the canonical dual window.

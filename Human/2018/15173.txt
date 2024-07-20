@@ -1,0 +1,4 @@
+Online Parallel Portfolio Selection with Heterogeneous Island Model
+
+We present an online parallel portfolio selection algorithm based on the island model commonly used for parallelization of evolutionary algorithms. In our case each of the islands runs a different optimization algorithm. The distributed computation is managed by a central planner which periodically changes the running methods during the execution of the algorithm -- less successful methods are removed while new instances of more successful methods are added.
+  We compare different types of planners in the heterogeneous island model among themselves and also to the traditional homogeneous model on a wide set of problems. The tests include experiments with different representations of the individuals and different duration of fitness function evaluations. The results show that heterogeneous models are a more general and universal computational tool compared to homogeneous models.

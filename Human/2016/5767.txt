@@ -1,0 +1,3 @@
+Operations on Weakly Recognizing Morphisms
+
+Weakly recognizing morphisms from free semigroups onto finite semigroups are a classical way for defining the class of omega-regular languages, i.e., a set of infinite words is weakly recognizable by such a morphism if and only if it is accepted by some Büchi automaton. We consider the descriptional complexity of various constructions for weakly recognizing morphisms. This includes the conversion from and to Büchi automata, the conversion into strongly recognizing morphisms, and complementation. For some problems, we are able to give more precise bounds in the case of binary alphabets or simple semigroups.

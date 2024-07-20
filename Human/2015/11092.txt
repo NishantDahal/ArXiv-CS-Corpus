@@ -1,0 +1,3 @@
+Sync-and-Burst: Force-Directed Graph Drawing with Uniform Force Magnitudes
+
+We introduce a force-directed algorithm, called Sync-and-Burst, which falls into the category of classical force-directed graph drawing algorithms. A distinct feature in Sync-and-Burst is the use of simplified forces of attraction and repulsion whose magnitude does not depend on the distance between vertices. Instead, magnitudes are uniform throughout the graph at each iteration and monotonically increase as the number of iterations grows. The Sync-and-Burst layouts are always circular in shape with relatively even distribution of vertices throughout the drawing area. We demonstrate that aesthetically pleasing layouts are achieved in O(n) iterations.

@@ -1,0 +1,3 @@
+On Batch Orthogonalization Layers
+
+Batch normalization has become ubiquitous in many state-of-the-art nets. It accelerates training and yields good performance results. However, there are various other alternatives to normalization, e.g. orthonormalization. The objective of this paper is to explore the possible alternatives to channel normalization with orthonormalization layers. The performance of the algorithms are compared together with BN with prescribed performance measures.

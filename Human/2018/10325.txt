@@ -1,0 +1,3 @@
+Controlling Lipschitz functions
+
+Given any positive integers $m$ and $d$, we say the a sequence of points $(x_i)_{i\in I}$ in $\mathbb R^m$ is {\em Lipschitz-$d$-controlling} if one can select suitable values $y_i\; (i\in I)$ such that for every Lipschitz function $f:\mathbb R^m\rightarrow \mathbb R^d$ there exists $i$ with $|f(x_i)-y_i|<1$. We conjecture that for every $m\le d$, a sequence $(x_i)_{i\in I}\subset\mathbb R^m$ is $d$-controlling if and only if $$\sup_{n\in\mathbb N}\frac{|\{i\in I\, :\, |x_i|\le n\}|}{n^d}=\infty.$$ We prove that this condition is necessary and a slightly stronger one is already sufficient for the sequence to be $d$-controlling. We also prove the conjecture for $m=1$.

@@ -1,0 +1,3 @@
+A Framework for Fast Face and Eye Detection
+
+Face detection is an essential step in many computer vision applications like surveillance, tracking, medical analysis, facial expression analysis etc. Several approaches have been made in the direction of face detection. Among them, Haar-like features based method is a robust method. In spite of the robustness, Haar - like features work with some limitations. However, with some simple modifications in the algorithm, its performance can be made faster and more robust. The present work refers to the increase in speed of operation of the original algorithm by down sampling the frames and its analysis with different scale factors. It also discusses the detection of tilted faces using an affine transformation of the input image.

@@ -1,0 +1,3 @@
+Nonuniform Fuchsian codes for noisy channels
+
+We develop a new transmission scheme for additive white Gaussian noisy (AWGN) channels based on Fuchsian groups from rational quaternion algebras. The structure of the proposed Fuchsian codes is nonlinear and nonuniform, hence conventional decoding methods based on linearity and symmetry do not apply. Previously, only brute force decoding methods with complexity that is linear in the code size exist for general nonuniform codes. However, the properly discontinuous character of the action of the Fuchsian groups on the complex upper half-plane translates into decoding complexity that is logarithmic in the code size via a recently introduced point reduction algorithm.

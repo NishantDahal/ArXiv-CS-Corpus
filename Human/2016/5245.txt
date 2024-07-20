@@ -1,0 +1,3 @@
+Shannon Capacity of Signal Transduction for Multiple Independent Receptors
+
+Cyclic adenosine monophosphate (cAMP) is considered a model system for signal transduction, the mechanism by which cells exchange chemical messages. Our previous work calculated the Shannon capacity of a single cAMP receptor; however, a typical cell may have thousands of receptors operating in parallel. In this paper, we calculate the capacity of a cAMP signal transduction system with an arbitrary number of independent, indistinguishable receptors. By leveraging prior results on feedback capacity for a single receptor, we show (somewhat unexpectedly) that the capacity is achieved by an IID input distribution, and that the capacity for n receptors is n times the capacity for a single receptor.

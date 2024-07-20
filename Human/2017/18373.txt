@@ -1,0 +1,5 @@
+Liveness-Driven Random Program Generation
+
+Randomly generated programs are popular for testing compilers and program analysis tools, with hundreds of bugs in real-world C compilers found by random testing. However, existing random program generators may generate large amounts of dead code (computations whose result is never used). This leaves relatively little code to exercise a target compiler's more complex optimizations.
+  To address this shortcoming, we introduce liveness-driven random program generation. In this approach the random program is constructed bottom-up, guided by a simultaneous structural data-flow analysis to ensure that the generator never generates dead code.
+  The algorithm is implemented as a plugin for the Frama-C framework. We evaluate it in comparison to Csmith, the standard random C program generator. Our tool generates programs that compile to more machine code with a more complex instruction mix.

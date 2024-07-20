@@ -1,0 +1,3 @@
+Pushing the Limits of Encrypted Databases with Secure Hardware
+
+Encrypted databases have been studied for more than 10 years and are quickly emerging as a critical technology for the cloud. The current state of the art is to use property-preserving encrypting techniques (e.g., deterministic encryption) to protect the confidentiality of the data and support query processing at the same time. Unfortunately, these techniques have many limitations. Recently, trusted computing platforms (e.g., Intel SGX) have emerged as an alternative to implement encrypted databases. This paper demonstrates some vulnerabilities and the limitations of this technology, but it also shows how to make best use of it in order to improve on confidentiality, functionality, and performance.

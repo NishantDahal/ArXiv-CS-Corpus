@@ -1,0 +1,3 @@
+Integrating Multiple Knowledge Sources for Robust Semantic Parsing
+
+This work explores a new robust approach for Semantic Parsing of unrestricted texts. Our approach considers Semantic Parsing as a Consistent Labelling Problem (CLP), allowing the integration of several knowledge types (syntactic and semantic) obtained from different sources (linguistic and statistic). The current implementation obtains 95% accuracy in model identification and 72% in case-role filling.

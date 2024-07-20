@@ -1,0 +1,3 @@
+Acyclic Edge coloring of Planar Graphs
+
+An $acyclic$ edge coloring of a graph is a proper edge coloring such that there are no bichromatic cycles. The \emph{acyclic chromatic index} of a graph is the minimum number k such that there is an acyclic edge coloring using k colors and is denoted by $a'(G)$. It was conjectured by Alon, Sudakov and Zaks (and much earlier by Fiamcik) that $a'(G)\le Δ+2$, where $Δ=Δ(G)$ denotes the maximum degree of the graph. We prove that if $G$ is a planar graph with maximum degree $Δ$, then $a'(G)\le Δ+ 12$.

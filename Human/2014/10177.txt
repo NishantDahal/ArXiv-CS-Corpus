@@ -1,0 +1,3 @@
+Data Reductions and Combinatorial Bounds for Improved Approximation Algorithms
+
+Kernelization algorithms in the context of Parameterized Complexity are often based on a combination of reduction rules and combinatorial insights. We will expose in this paper a similar strategy for obtaining polynomial-time approximation algorithms. Our method features the use of approximation-preserving reductions, akin to the notion of parameterized reductions. We exemplify this method to obtain the currently best approximation algorithms for \textsc{Harmless Set}, \textsc{Differential} and \textsc{Multiple Nonblocker}, all of them can be considered in the context of securing networks or information propagation.

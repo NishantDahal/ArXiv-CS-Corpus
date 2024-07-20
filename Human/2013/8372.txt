@@ -1,0 +1,3 @@
+The Entity Registry System: Implementing 5-Star Linked Data Without the Web
+
+Linked Data applications often assume that connectivity to data repositories and entity resolution services are always available. This may not be a valid assumption in many cases. Indeed, there are about 4.5 billion people in the world who have no or limited Web access. Many data-driven applications may have a critical impact on the life of those people, but are inaccessible to those populations due to the architecture of today's data registries. In this paper, we propose and evaluate a new open-source system that can be used as a general-purpose entity registry suitable for deployment in poorly-connected or ad-hoc environments.

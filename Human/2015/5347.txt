@@ -1,0 +1,3 @@
+Needed Computations Shortcutting Needed Steps
+
+We define a compilation scheme for a constructor-based, strongly-sequential, graph rewriting system which shortcuts some needed steps. The object code  is another constructor-based graph rewriting system. This system is normalizing for the original system when using an innermost strategy. Consequently, the object code can be easily implemented by eager functions in a variety of programming languages. We modify this object code in a way that  avoids total or partial construction of the contracta of some needed steps of a computation. When computing normal forms in this way, both memory consumption and execution time are reduced compared to ordinary rewriting computations in the original system.

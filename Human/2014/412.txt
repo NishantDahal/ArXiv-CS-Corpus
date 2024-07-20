@@ -1,0 +1,4 @@
+Over-constrained Weierstrass iteration and the nearest consistent system
+
+We propose a generalization of the Weierstrass iteration for over-constrained systems of equations and we prove that the proposed method is the Gauss-Newton iteration to find the nearest system which has at least $k$ common roots and which is obtained via a perturbation of prescribed structure. In the univariate case we show the connection of our method to the optimization problem formulated by Karmarkar and Lakshman for the nearest GCD. In the multivariate case we generalize the expressions of Karmarkar and Lakshman, and give explicitly several iteration functions to compute the optimum.
+  The arithmetic complexity of the iterations is detailed.

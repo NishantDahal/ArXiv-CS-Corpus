@@ -1,0 +1,3 @@
+A Polynomial Time Nilpotence Test for Galois Groups and Related Results
+
+We give a deterministic polynomial-time algorithm to check whether the Galois group $\Gal{f}$ of an input polynomial $f(X) \in \Q[X]$ is nilpotent: the running time is polynomial in $\size{f}$. Also, we generalize the Landau-Miller solvability test to an algorithm that tests if $\Gal{f}$ is in $Γ_d$: this algorithm runs in time polynomial in $\size{f}$ and $n^d$ and, moreover, if $\Gal{f}\inΓ_d$ it computes all the prime factors of $# \Gal{f}$.

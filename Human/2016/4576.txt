@@ -1,0 +1,3 @@
+Array Program Transformation with Loo.py by Example: High-Order Finite Elements
+
+To concisely and effectively demonstrate the capabilities of our program transformation system Loo.py, we examine a transformation path from two real-world Fortran subroutines as found in a weather model to a single high-performance computational kernel suitable for execution on modern GPU hardware. Along the transformation path, we encounter kernel fusion, vectorization, prefetch- ing, parallelization, and algorithmic changes achieved by mechanized conversion between imperative and functional/substitution- based code, among a number more. We conclude with performance results that demonstrate the effects and support the effectiveness of the applied transformations.

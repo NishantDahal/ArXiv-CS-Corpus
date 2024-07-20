@@ -1,0 +1,3 @@
+Learning to Run with Actor-Critic Ensemble
+
+We introduce an Actor-Critic Ensemble(ACE) method for improving the performance of Deep Deterministic Policy Gradient(DDPG) algorithm. At inference time, our method uses a critic ensemble to select the best action from proposals of multiple actors running in parallel. By having a larger candidate set, our method can avoid actions that have fatal consequences, while staying deterministic. Using ACE, we have won the 2nd place in NIPS'17 Learning to Run competition, under the name of "Megvii-hzwer".

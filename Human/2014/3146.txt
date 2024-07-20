@@ -1,0 +1,3 @@
+Non-singular assembly mode changing trajectories in the workspace for the 3-RPS parallel robot
+
+Having non-singular assembly modes changing trajectories for the 3-RPS parallel robot is a well-known feature. The only known solution for defining such trajectory is to encircle a cusp point in the joint space. In this paper, the aspects and the characteristic surfaces are computed for each operation mode to define the uniqueness of the domains. Thus, we can easily see in the workspace that at least three assembly modes can be reached for each operation mode. To validate this property, the mathematical analysis of the determinant of the Jacobian is done. The image of these trajectories in the joint space is depicted with the curves associated with the cusp points.

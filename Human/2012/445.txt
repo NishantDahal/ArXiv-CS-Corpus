@@ -1,0 +1,3 @@
+Weaknesses of a dynamic identity based authentication protocol for multi-server architecture
+
+Recently, Li et al. proposed a dynamic identity based authentication protocol for multi-server architecture. They claimed their protocol is secure and can withstand various attacks. But we found some security loopholes in the protocol. Accordingly, the current paper demonstrates that Li et al.'s protocol is vulnerable to the replay attack, the password guessing attack and the masquerade attack.

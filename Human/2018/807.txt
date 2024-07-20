@@ -1,0 +1,3 @@
+An Accurate and Real-time Self-blast Glass Insulator Location Method Based On Faster R-CNN and U-net with Aerial Images
+
+The location of broken insulators in aerial images is a challenging task. This paper, focusing on the self-blast glass insulator, proposes a deep learning solution. We address the broken insulators location problem as a low signal-noise-ratio image location framework with two modules: 1) object detection based on Fast R-CNN, and 2) classification of pixels based on U-net. A diverse aerial image set of some grid in China is tested to validated the proposed approach. Furthermore, a comparison is made among different methods and the result shows that our approach is accurate and real-time.

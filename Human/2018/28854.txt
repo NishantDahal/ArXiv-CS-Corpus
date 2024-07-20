@@ -1,0 +1,3 @@
+Analysis and Optimization of Deep Counterfactual Value Networks
+
+Recently a strong poker-playing algorithm called DeepStack was published, which is able to find an approximate Nash equilibrium during gameplay by using heuristic values of future states predicted by deep neural networks. This paper analyzes new ways of encoding the inputs and outputs of DeepStack's deep counterfactual value networks based on traditional abstraction techniques, as well as an unabstracted encoding, which was able to increase the network's accuracy.

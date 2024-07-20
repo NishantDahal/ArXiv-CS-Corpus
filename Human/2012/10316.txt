@@ -1,0 +1,3 @@
+Coherent Minimisation: Towards efficient tamper-proof compilation
+
+Automata representing game-semantic models of programs are meant to operate in environments whose input-output behaviour is constrained by the rules of a game. This can lead to a notion of equivalence between states which is weaker than the conventional notion of bisimulation, since not all actions are available to the environment. An environment which attempts to break the rules of the game is, effectively, mounting a low-level attack against a system. In this paper we show how (and why) to enforce game rules in games-based hardware synthesis and how to use this weaker notion of equivalence, called coherent equivalence, to aggressively minimise automata.

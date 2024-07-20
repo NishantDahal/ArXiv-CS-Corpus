@@ -1,0 +1,3 @@
+Verifying Sierpiński and Riesel Numbers in ACL2
+
+A Sierpinski number is an odd positive integer, k, such that no positive integer of the form k * 2^n + 1 is prime.  Similar to a Sierpinski number, a Riesel number is an odd positive integer, k, such that no positive integer of the form k * 2^n + 1 is prime.  A cover for such a k is a finite list of positive integers such that each integer j of the appropriate form has a factor, d, in the cover, with 1 < d < j.  Given a k and its cover, ACL2 is used to systematically verify that each integer of the given form has a non-trivial factor in the cover.

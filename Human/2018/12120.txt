@@ -1,0 +1,3 @@
+Maximum entropy approach to link prediction in bipartite networks
+
+Within network analysis, the analytical maximum entropy framework has been very successful for different tasks as network reconstruction and filtering. In a recent paper, the same framework was used for link-prediction for monopartite networks: link probabilities for all unobserved links in a graph are provided and the most probable links are selected. Here we propose the extension of such an approach to bipartite graphs. We test our method on two real world networks with different topological characteristics. Our performances are compared to state-of-the-art methods, and the results show that our entropy-based approach has a good overall performance.

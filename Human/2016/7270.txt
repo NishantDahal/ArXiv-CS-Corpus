@@ -1,0 +1,3 @@
+On Image segmentation using Fractional Gradients-Learning Model Parameters using Approximate Marginal Inference
+
+Estimates of image gradients play a ubiquitous role in image segmentation and classification problems since gradients directly relate to the boundaries or the edges of a scene. This paper proposes an unified approach to gradient estimation based on fractional calculus that is computationally cheap and readily applicable to any existing algorithm that relies on image gradients. We show experiments on edge detection and image segmentation on the Stanford Backgrounds Dataset where these improved local gradients outperforms state of the art, achieving a performance of 79.2% average accuracy.

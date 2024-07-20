@@ -1,0 +1,5 @@
+Cluster Variation Method in Statistical Physics and Probabilistic Graphical Models
+
+The cluster variation method (CVM) is a hierarchy of approximate variational techniques for discrete (Ising--like) models in equilibrium statistical mechanics, improving on the mean--field approximation and the Bethe--Peierls approximation, which can be regarded as the lowest level of the CVM. In recent years it has been applied both in statistical physics and to inference and optimization problems formulated in terms of probabilistic graphical models.
+  The foundations of the CVM are briefly reviewed, and the relations with similar techniques are discussed. The main properties of the method are considered, with emphasis on its exactness for particular models and on its asymptotic properties.
+  The problem of the minimization of the variational free energy, which arises in the CVM, is also addressed, and recent results about both provably convergent and message-passing algorithms are discussed.

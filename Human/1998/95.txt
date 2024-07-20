@@ -1,0 +1,3 @@
+A Natural Deduction style proof system for propositional $μ$-calculus and its formalization in inductive type theories
+
+In this paper, we present a formalization of Kozen's propositional modal $μ$-calculus, in the Calculus of Inductive Constructions. We address several problematic issues, such as the use of higher-order abstract syntax in inductive sets in presence of recursive constructors, the encoding of modal (``proof'') rules and of context sensitive grammars. The encoding can be used in the \Coq system, providing an experimental computer-aided proof environment for the interactive development of error-free proofs in the $μ$-calculus. The techniques we adopted can be readily ported to other languages and proof systems featuring similar problematic issues.

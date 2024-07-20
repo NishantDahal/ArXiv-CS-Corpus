@@ -1,0 +1,3 @@
+RDF2Vec-based Classification of Ontology Alignment Changes
+
+When ontologies cover overlapping topics, the overlap can be represented using ontology alignments. These alignments need to be continuously adapted to changing ontologies. Especially for large ontologies this is a costly task often consisting of manual work. Finding changes that do not lead to an adaption of the alignment can potentially make this process significantly easier. This work presents an approach to finding these changes based on RDF embeddings and common classification techniques. To examine the feasibility of this approach, an evaluation on a real-world dataset is presented. In this evaluation, the best classifiers reached a precision of 0.8.

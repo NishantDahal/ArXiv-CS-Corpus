@@ -1,0 +1,3 @@
+Reliability of Computational Experiments on Virtualised Hardware
+
+We present preliminary results of an investigation into the suitability of virtualised hardware -- in particular clouds -- for running computational experiments. Our main concern was that the reported CPU time would not be reliable and reproducible. The results demonstrate that while this is true in cases where many virtual machines are running on the same physical hardware, there is no inherent variation introduced by using virtualised hardware compared to non-virtualised hardware.

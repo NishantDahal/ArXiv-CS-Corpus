@@ -1,0 +1,5 @@
+Alias and Change Calculi, Applied to Frame Inference
+
+Alias analysis, which determines whether two expressions in a program may reference to the same object, has many potential applications in program construction and verification. We have developed a theory for alias analysis, the "alias calculus", implemented its application to an object-oriented language, and integrated the result into a modern IDE. The calculus has a higher level of precision than many existing alias analysis techniques.
+  One of the principal applications is to allow automatic change analysis, which leads to inferring "modifies clauses", providing a significant advance towards addressing the Frame Problem. Experiments were able to infer the "modifies" clauses of an existing formally specified library. Other applications, in particular to concurrent programming, also appear possible.
+  The article presents the calculus, the application to frame analysis including ex-perimental results, and other projected applications. The ongoing work includes building more efficient model capturing aliasing properties and soundness proof for its essential elements.

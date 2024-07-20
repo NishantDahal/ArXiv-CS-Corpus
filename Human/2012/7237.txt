@@ -1,0 +1,3 @@
+Partial Gaussian Graphical Model Estimation
+
+This paper studies the partial estimation of Gaussian graphical models from high-dimensional empirical observations. We derive a convex formulation for this problem using $\ell_1$-regularized maximum-likelihood estimation, which can be solved via a block coordinate descent algorithm. Statistical estimation performance can be established for our method. The proposed approach has competitive empirical performance compared to existing methods, as demonstrated by various experiments on synthetic and real datasets.

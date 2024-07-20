@@ -1,0 +1,3 @@
+Reconciling a component and process view
+
+In many cases we need to represent on the same abstraction level not only system components but also processes within the system, and if for both representation different frameworks are used, the system model becomes hard to read and to understand. We suggest a solution how to cover this gap and to reconcile component and process views on system representation: a formal framework that gives the advantage of solving design problems for large-scale component systems.

@@ -1,0 +1,3 @@
+On a cepstrum-based speech detector robust to white noise
+
+We study effects of additive white noise on the cepstral representation of speech signals. Distribution of each individual cepstrum coefficient of speech is shown to depend strongly on noise and to overlap significantly with the cepstrum distribution of noise. Based on these studies, we suggest a scalar quantity, V, equal to the sum of weighted cepstral coefficients, which is able to classify frames containing speech against noise-like frames. The distributions of V for speech and noise frames are reasonably well separated above SNR = 5 dB, demonstrating the feasibility of robust speech detector based on V.

@@ -1,0 +1,3 @@
+A Certain Tendency Of The Database Community
+
+We posit that striving for distributed systems that provide "single system image" semantics is fundamentally flawed and at odds with how systems operate in the physical world. We realize the database as an optimization of this system: a required, essential optimization in practice that facilitates central data placement and ease of access to participants in a system. We motivate a new model of computation that is designed to address the problems of computation over "eventually consistent" information in a large-scale distributed system.

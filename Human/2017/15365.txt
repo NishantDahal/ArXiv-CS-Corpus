@@ -1,0 +1,3 @@
+Joint Structured Learning and Predictions under Logical Constraints in Conditional Random Fields
+
+This paper is concerned with structured machine learning, in a supervised machine learning context. It discusses how to make joint structured learning on interdependent objects of different nature, as well as how to enforce logical con-straints when predicting labels. We explain how this need arose in a Document Understanding task. We then discuss a general extension to Conditional Random Field (CRF) for this purpose and present the contributed open source implementation on top of the open source PyStruct library. We evaluate its performance on a publicly available dataset.

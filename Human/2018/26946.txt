@@ -1,0 +1,3 @@
+Nonequispaced Fast Fourier Transform (NFFT) Interface for Julia
+
+This report describes the newly added Julia interface to the NFFT3 library. We explain the multidimensional NFFT algorithm and basics of the interface. Furthermore, we go into detail about the different parameters and how to adjust them properly.

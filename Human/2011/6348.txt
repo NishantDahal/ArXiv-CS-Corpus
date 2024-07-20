@@ -1,0 +1,3 @@
+Picture Collage with Genetic Algorithm and Stereo vision
+
+In this paper, a salient region extraction method for creating picture collage based on stereo vision is proposed. Picture collage is a kind of visual image summary to arrange all input images on a given canvas, allowing overlay, to maximize visible visual information. The salient regions of each image are firstly extracted and represented as a depth map. The output picture collage shows as many visible salient regions (without being overlaid by others) from all images as possible. A very efficient Genetic algorithm is used here for the optimization. The experimental results showed the superior performance of the proposed method.

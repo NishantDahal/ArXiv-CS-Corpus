@@ -1,0 +1,3 @@
+Visual Sensor Network Reconfiguration with Deep Reinforcement Learning
+
+We present an approach for reconfiguration of dynamic visual sensor networks with deep reinforcement learning (RL). Our RL agent uses a modified asynchronous advantage actor-critic framework and the recently proposed Relational Network module at the foundation of its network architecture. To address the issue of sample inefficiency in current approaches to model-free reinforcement learning, we train our system in an abstract simulation environment that represents inputs from a dynamic scene. Our system is validated using inputs from a real-world scenario and preexisting object detection and tracking algorithms.

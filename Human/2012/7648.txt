@@ -1,0 +1,4 @@
+Conformance Verification of Normative Specifications using C-O Diagrams
+
+C-O Diagrams have been introduced as a means to have a visual representation of normative texts and electronic contracts, where it is possible to represent the obligations, permissions and prohibitions of the different signatories, as well as what are the penalties in case of not fulfillment of their obligations and prohibitions. In such diagrams we are also able to represent absolute and relative timing constrains.
+  In this paper we consider a formal semantics for C-O Diagrams based on a network of timed automata and we present several relations to check the consistency of a contract in terms of realizability, to analyze whether an implementation satisfies the requirements defined on its contract, and to compare several implementations using the executed permissions as criteria.

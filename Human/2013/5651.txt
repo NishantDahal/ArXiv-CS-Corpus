@@ -1,0 +1,3 @@
+Device-Free Person Detection and Ranging in UWB Networks
+
+We present a novel device-free stationary person detection and ranging method, that is applicable to ultra-wide bandwidth (UWB) networks. The method utilizes a fixed UWB infrastructure and does not require a training database of template waveforms. Instead, the method capitalizes on the fact that a human presence induces small low-frequency variations that stand out against the background signal, which is mainly affected by wideband noise. We analyze the detection probability, and validate our findings with numerical simulations and experiments with off-the-shelf UWB transceivers in an indoor environment.

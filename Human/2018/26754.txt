@@ -1,0 +1,3 @@
+A Markov model for inferring flows in directed contact networks
+
+Directed contact networks (DCNs) are a particularly flexible and convenient class of temporal networks, useful for modeling and analyzing the transfer of discrete quantities in communications, transportation, epidemiology, etc. Transfers modeled by contacts typically underlie flows that associate multiple contacts based on their spatiotemporal relationships. To infer these flows, we introduce a simple inhomogeneous Markov model associated to a DCN and show how it can be effectively used for data reduction and anomaly detection through an example of kernel-level information transfers within a computer.

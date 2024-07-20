@@ -1,0 +1,3 @@
+Discovering Interesting Plots in Production Yield Data Analytics
+
+An analytic process is iterative between two agents, an analyst and an analytic toolbox. Each iteration comprises three main steps: preparing a dataset, running an analytic tool, and evaluating the result, where dataset preparation and result evaluation, conducted by the analyst, are largely domain-knowledge driven. In this work, the focus is on automating the result evaluation step. The underlying problem is to identify plots that are deemed interesting by an analyst. We propose a methodology to learn such analyst's intent based on Generative Adversarial Networks (GANs) and demonstrate its applications in the context of production yield optimization using data collected from several product lines.

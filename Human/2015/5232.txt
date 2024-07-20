@@ -1,0 +1,3 @@
+A Deterministic Analysis of Decimation for Sigma-Delta Quantization of Bandlimited Functions
+
+We study Sigma-Delta ($ΣΔ$) quantization of oversampled bandlimited functions. We prove that digitally integrating blocks of bits and then down-sampling, a process known as decimation, can efficiently encode the associated $ΣΔ$ bit-stream. It allows a large reduction in the bit-rate while still permitting good approximation of the underlying bandlimited function via an appropriate reconstruction kernel. Specifically, in the case of stable $r$th order $ΣΔ$ schemes we show that the reconstruction error decays exponentially in the bit-rate. For example, this result applies to the 1-bit, greedy, first-order $ΣΔ$ scheme.

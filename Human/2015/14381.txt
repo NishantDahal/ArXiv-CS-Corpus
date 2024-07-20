@@ -1,0 +1,3 @@
+Undirected Cat-and-Mouse is P-complete
+
+Cat-and-mouse is a two-player game on a finite graph. Chandra and Stockmeyer showed cat-and-mouse is P-complete on directed graphs. We show cat-and-mouse is P-complete on undirected graphs. To our knowledge, no proof of the directed case was ever published. To fill this gap we give a proof for directed graphs and extend it to undirected graphs. The proof is a reduction from a variant of the circuit value problem.

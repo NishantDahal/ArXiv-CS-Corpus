@@ -1,0 +1,3 @@
+BiEntropy - The Approximate Entropy of a Finite Binary String
+
+We design, implement and test a simple algorithm which computes the approximate entropy of a finite binary string of arbitrary length. The algorithm uses a weighted average of the Shannon Entropies of the string and all but the last binary derivative of the string. We successfully test the algorithm in the fields of Prime Number Theory (where we prove explicitly that the sequence of prime numbers is not periodic), Human Vision, Cryptography, Random Number Generation and Quantitative Finance.

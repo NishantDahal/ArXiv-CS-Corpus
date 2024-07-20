@@ -1,0 +1,3 @@
+Formalization of closure properties for context-free grammars
+
+Context-free language theory is a well-established area of mathematics, relevant to computer science foundations and technology. This paper presents the preliminary results of an ongoing formalization project using context-free grammars and the Coq proof assistant. The results obtained so far include the representation of context-free grammars, the description of algorithms for some operations on them (union, concatenation and closure) and the proof of related theorems (e.g. the correctness of these algorithms). A brief survey of related works is presented, as well as plans for further development.

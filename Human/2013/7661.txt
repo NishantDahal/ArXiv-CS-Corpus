@@ -1,0 +1,3 @@
+Lempel-Ziv Parsing in External Memory
+
+For decades, computing the LZ factorization (or LZ77 parsing) of a string has been a requisite and computationally intensive step in many diverse applications, including text indexing and data compression. Many algorithms for LZ77 parsing have been discovered over the years; however, despite the increasing need to apply LZ77 to massive data sets, no algorithm to date scales to inputs that exceed the size of internal memory. In this paper we describe the first algorithm for computing the LZ77 parsing in external memory. Our algorithm is fast in practice and will allow the next generation of text indexes to be realised for massive strings and string collections.

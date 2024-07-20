@@ -1,0 +1,8 @@
+A Novel Biologically Mechanism-Based Visual Cognition Model--Automatic Extraction of Semantics, Formation of Integrated Concepts and Re-selection Features for Ambiguity
+
+Integration between biology and information science benefits both fields. Many related models have been proposed, such as computational visual cognition models, computational motor control models, integrations of both and so on. In general, the robustness and precision of recognition is one of the key problems for object recognition models.
+  In this paper, inspired by features of human recognition process and their biological mechanisms, a new integrated and dynamic framework is proposed to mimic the semantic extraction, concept formation and feature re-selection in human visual processing. The main contributions of the proposed model are as follows:
+  (1) Semantic feature extraction: Local semantic features are learnt from episodic features that are extracted from raw images through a deep neural network;
+  (2) Integrated concept formation: Concepts are formed with local semantic information and structural information learnt through network.
+  (3) Feature re-selection: When ambiguity is detected during recognition process, distinctive features according to the difference between ambiguous candidates are re-selected for recognition.
+  Experimental results on hand-written digits and facial shape dataset show that, compared with other methods, the new proposed model exhibits higher robustness and precision for visual recognition, especially in the condition when input samples are smantic ambiguous. Meanwhile, the introduced biological mechanisms further strengthen the interaction between neuroscience and information science.

@@ -1,0 +1,3 @@
+Mixing HOL and Coq in Dedukti (Extended Abstract)
+
+We use Dedukti as a logical framework for interoperability. We use automated tools to translate different developments made in HOL and in Coq to Dedukti, and we combine them to prove new results. We illustrate our approach with a concrete example where we instantiate a sorting algorithm written in Coq with the natural numbers of HOL.

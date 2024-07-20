@@ -1,0 +1,3 @@
+Critical Vertices and Edges in $H$-free Graphs
+
+A vertex or edge in a graph is critical if its deletion reduces the chromatic number of the graph by 1. We consider the problems of deciding whether a graph has a critical vertex or edge, respectively. We give a complexity dichotomy for both problems restricted to $H$-free graphs, that is, graphs with no induced subgraph isomorphic to $H$. Moreover, we show that an edge is critical if and only if its contraction reduces the chromatic number by 1. Hence, we also obtain a complexity dichotomy for the problem of deciding if a graph has an edge whose contraction reduces the chromatic number by 1.

@@ -1,0 +1,3 @@
+Reduced egomotion estimation drift using omnidirectional views
+
+Estimation of camera motion from a given image sequence becomes degraded as the length of the sequence increases. In this letter, this phenomenon is demonstrated and an approach to increase the estimation accuracy is proposed. The proposed method uses an omnidirectional camera in addition to the perspective one and takes advantage of its enlarged view by exploiting the correspondences between the omnidirectional and perspective images. Simulated and real image experiments show that the proposed approach improves the estimation accuracy.

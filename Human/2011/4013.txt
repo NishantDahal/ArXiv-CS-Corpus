@@ -1,0 +1,3 @@
+Analysis of Non-Linear Probabilistic Hybrid Systems
+
+This paper shows how to compute, for probabilistic hybrid systems, the clock approximation and linear phase-portrait approximation that have been proposed for non probabilistic processes by Henzinger et al.  The techniques permit to define a rectangular probabilistic process from a non rectangular one, hence allowing the model-checking of any class of systems. Clock approximation, which applies under some restrictions, aims at replacing a non rectangular variable   by a clock variable.     Linear phase-approximation applies without restriction and yields an approximation that simulates the original process. The conditions that we need for probabilistic processes are the same as those for the classic case.

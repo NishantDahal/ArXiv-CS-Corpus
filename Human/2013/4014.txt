@@ -1,0 +1,3 @@
+Implementing hash-consed structures in Coq
+
+We report on three different approaches to use hash-consing in programs certified with the Coq system, using binary decision diagrams (BDD) as running example. The use cases include execution inside Coq, or execution of the extracted OCaml code. There are different trade-offs between faithful use of pristine extracted code, and code that is fine-tuned to make use of OCaml programming constructs not available in Coq. We discuss the possible consequences in terms of performances and guarantees.

@@ -1,0 +1,3 @@
+Compressing Sparse Sequences under Local Decodability Constraints
+
+We consider a variable-length source coding problem subject to local decodability constraints. In particular, we investigate the blocklength scaling behavior attainable by encodings of $r$-sparse binary sequences, under the constraint that any source bit can be correctly decoded upon probing at most $d$ codeword bits. We consider both adaptive and non-adaptive access models, and derive upper and lower bounds that often coincide up to constant factors. Notably, such a characterization for the fixed-blocklength analog of our problem remains unknown, despite considerable research over the last three decades. Connections to communication complexity are also briefly discussed.

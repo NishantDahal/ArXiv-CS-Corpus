@@ -1,0 +1,3 @@
+Logarithmic-Time Updates and Queries in Probabilistic Networks
+
+In this paper we propose a dynamic data structure that supports efficient algorithms for updating and querying singly connected Bayesian networks (causal trees and polytrees).  In the conventional algorithms, new evidence in absorbed in time O(1) and queries are processed in time O(N), where N is the size of the network.  We propose a practical algorithm which, after a preprocessing phase, allows us to answer queries in time O(log N) at the expense of O(logn N) time per evidence absorption.  The usefulness of sub-linear processing time manifests itself in applications requiring (near) real-time response over large probabilistic databases.

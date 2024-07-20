@@ -1,0 +1,3 @@
+A Note on Unconditional Subexponential-time Pseudo-deterministic Algorithms for BPP Search Problems
+
+We show the first unconditional pseudo-determinism result for all of search-BPP. Specifically, we show that every BPP search problem can be computed pseudo-deterministically on average for infinitely many input lengths. In other words, for infinitely many input lengths and for any polynomial-time samplable distribution our algorithm succeeds in producing a unique answer (if one exists) with high probability over the distribution and the coins tossed.

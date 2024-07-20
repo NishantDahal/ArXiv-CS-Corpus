@@ -1,0 +1,3 @@
+Coding for Fast Content Download
+
+We study the fundamental trade-off between storage and content download time. We show that the download time can be significantly reduced by dividing the content into chunks, encoding it to add redundancy and then distributing it across multiple disks. We determine the download time for two content access models - the fountain and fork-join models that involve simultaneous content access, and individual access from enqueued user requests respectively. For the fountain model we explicitly characterize the download time, while in the fork-join model we derive the upper and lower bounds. Our results show that coding reduces download time, through the diversity of distributing the data across more disks, even for the total storage used.

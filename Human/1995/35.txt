@@ -1,0 +1,3 @@
+A Robust and Efficient Three-Layered Dialogue Component for a Speech-to-Speech Translation System
+
+We present the dialogue component of the speech-to-speech translation system VERBMOBIL. In contrast to conventional dialogue systems it mediates the dialogue while processing maximally 50% of the dialogue in depth. Special requirements like robustness and efficiency lead to a 3-layered hybrid architecture for the dialogue module, using statistics, an automaton and a planner. A dialogue memory is constructed incrementally.

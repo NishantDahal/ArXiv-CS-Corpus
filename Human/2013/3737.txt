@@ -1,0 +1,3 @@
+A formal proof of the optimal frame setting for Dynamic-Frame Aloha with known population size
+
+In Dynamic-Frame Aloha subsequent frame lengths must be optimally chosen to maximize throughput. When the initial population size ${\cal N}$ is known, numerical evaluations show that the maximum efficiency is achieved by setting the frame length equal to the backlog size at each subsequent frame; however, at best of our knowledge, a formal proof of this result is still missing, and is provided here. As byproduct, we also prove that the asymptotical efficiency in the optimal case is $e^{-1}$, provide upper and lower bounds for the length of the entire transmission period and show that its asymptotical behaviour is $\sim ne-ζ\ln (n)$, with $ζ=0.5/\ln(1-e^{-1})$.

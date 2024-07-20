@@ -1,0 +1,3 @@
+Implicitly Incorporating Morphological Information into Word Embedding
+
+In this paper, we propose three novel models to enhance word embedding by implicitly using morphological information. Experiments on word similarity and syntactic analogy show that the implicit models are superior to traditional explicit ones. Our models outperform all state-of-the-art baselines and significantly improve the performance on both tasks. Moreover, our performance on the smallest corpus is similar to the performance of CBOW on the corpus which is five times the size of ours. Parameter analysis indicates that the implicit models can supplement semantic information during the word embedding training process.

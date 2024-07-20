@@ -1,0 +1,3 @@
+Adaptive Fractional PID Controller for Robot Manipulator
+
+A Fractional adaptive PID (FPID) controller for a robot manipulator will be proposed. The PID parameters have been optimized by Genetic algorithm. The proposed controller is found robust by means of simulation in a tracking job. The validity of the proposed controller is shown by simulation of two-link robot manipulator. The result then is compared with integer type adaptive PID controller. It is found that when error signals in the learning stage are bounded, the trajectory of the robot converges to the desired one asymptotically.

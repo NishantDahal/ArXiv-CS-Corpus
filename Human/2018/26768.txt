@@ -1,0 +1,3 @@
+Use of Magnetoresistive Random-Access Memory as Approximate Memory for Training Neural Networks
+
+Hardware neural networks that implement synaptic weights with embedded non-volatile memory, such as spin torque memory (ST-MRAM), are a major lead for low energy artificial intelligence. In this work, we propose an approximate storage approach for their memory. We show that this strategy grants effective control of the bit error rate by modulating the programming pulse amplitude or duration. Accounting for the devices variability issue, we evaluate energy savings, and show how they translate when training a hardware neural network. On an image recognition example, 74% of programming energy can be saved by losing only 1% on the recognition performance.

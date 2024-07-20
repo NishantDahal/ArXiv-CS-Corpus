@@ -1,0 +1,3 @@
+A direct proof for Lovett's bound on the communication complexity of low rank matrices
+
+The log-rank conjecture in communication complexity suggests that the deterministic communication complexity of any Boolean rank-r function is bounded by polylog(r). Recently, major progress was made by Lovett who proved that the communication complexity is bounded by O(r^1/2 * log r). Lovett's proof is based on known estimates on the discrepancy of low-rank matrices. We give a simple, direct proof based on a hyperplane rounding argument that in our opinion sheds more light on the reason why a root factor suffices and what is necessary to improve on this factor.

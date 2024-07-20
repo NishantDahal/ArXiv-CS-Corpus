@@ -1,0 +1,3 @@
+Network planning tool based on network classification and load prediction
+
+Real Call Detail Records (CDR) are analyzed and classified based on Support Vector Machine (SVM) algorithm. The daily classification results in three traffic classes. We use two different algorithms, K-means and SVM to check the classification efficiency. A second support vector regression (SVR) based algorithm is built to make an online prediction of traffic load using the history of CDRs. Then, these algorithms will be integrated to a network planning tool which will help cellular operators on planning optimally their access network.

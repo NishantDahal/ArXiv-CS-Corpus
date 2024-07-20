@@ -1,0 +1,3 @@
+Lower Bounds on Regular Expression Size
+
+We introduce linear programs encoding regular expressions of finite languages. We show that, given a language, the optimum value of the associated linear program is a lower bound on the size of any regular expression of the language. Moreover we show that any regular expression can be turned into a dual feasible solution with an objective value that is equal to the size of the regular expression. For binomial languages we can relax the associated linear program using duality theorem. We use this relaxation to prove lower bounds on the size of regular expressions of binomial and threshold languages.

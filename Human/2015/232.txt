@@ -1,0 +1,3 @@
+An ${\cal O}(m\log n)$ algorithm for the weighted stable set problem in claw-free graphs with $α({G}) \le 3$
+
+In this paper we show how to solve the \emph{Maximum Weight Stable Set Problem} in a claw-free graph $G(V, E)$ with $α(G) \le 3$ in time ${\cal O}(|E|\log|V|)$. More precisely, in time ${\cal O}(|E|)$ we check whether $α(G) \le 3$ or produce a stable set with cardinality at least $4$; moreover, if $α(G) \le 3$ we produce in time ${\cal O}(|E|\log|V|)$ a maximum stable set of $G$. This improves the bound of ${\cal O}(|E||V|)$ due to Faenza et al.

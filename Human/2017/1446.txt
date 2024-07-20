@@ -1,0 +1,4 @@
+LazySVD: Even Faster SVD Decomposition Yet Without Agonizing Pain
+
+We study $k$-SVD that is to obtain the first $k$ singular vectors of a matrix $A$. Recently, a few breakthroughs have been discovered on $k$-SVD: Musco and Musco [1] proved the first gap-free convergence result using the block Krylov method, Shamir [2] discovered the first variance-reduction stochastic method, and Bhojanapalli et al. [3] provided the fastest $O(\mathsf{nnz}(A) + \mathsf{poly}(1/\varepsilon))$-time algorithm using alternating minimization.
+  In this paper, we put forward a new and simple LazySVD framework to improve the above breakthroughs. This framework leads to a faster gap-free method outperforming [1], and the first accelerated and stochastic method outperforming [2]. In the $O(\mathsf{nnz}(A) + \mathsf{poly}(1/\varepsilon))$ running-time regime, LazySVD outperforms [3] in certain parameter regimes without even using alternating minimization.

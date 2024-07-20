@@ -1,0 +1,4 @@
+The Weight Distribution of Quasi-quadratic Residue Codes
+
+In this paper, we begin by reviewing some of the known properties of QQR codes and proved that $PSL_2(p)$ acts on the extended QQR code when $p \equiv 3 \pmod 4$. Using this discovery, we then showed their weight polynomials satisfy a strong divisibility condition, namely that they are divisible by $(x^2 + y^2)^{d-1}$, where $d$ is the corresponding minimum distance. Using this result, we were able to construct an efficient algorithm to compute weight polynomials for QQR codes and correct errors in existing results on quadratic residue codes.
+  In the second half, we use the relation between the weight of codewords and the number of points on hyperelliptic curves to prove that the symmetrized distribution of a set of hyperelliptic curves is asymptotically normal.

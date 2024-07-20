@@ -1,0 +1,3 @@
+On plant roots logical gates
+
+Theoretical constructs of logical gates implemented with plant roots are morphological computing asynchronous devices. Values of Boolean variables are represented by plant roots. A presence of a plant root at a given site symbolises the logical {\sc True}, an absence the logical {\sc False}. Logical functions are calculated via interaction between roots. Two types of two-inputs-two-outputs gates are proposed: a gate $\langle x, y \rangle \rightarrow \langle xy, x+y \rangle$ where root apexes are guided by gravity and a gate $\langle x, y \rangle \rightarrow \langle \overline{x}y, x \rangle$ where root apexes are guided by humidity. We propose a design of binary half-adder based on the gates.

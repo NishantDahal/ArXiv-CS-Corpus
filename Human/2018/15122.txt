@@ -1,0 +1,3 @@
+Real-time on-device nod and shake recognition
+
+We discuss methods for teaching systems to identify gestures such as head nod and shake. We use iPhone X depth camera to gather data and later use similar data as input for a working app. These methods have proved robust for training with limited datasets and thus we make the argument that similar methods could be adapted to learn other human to human non-verbal gestures. We showcase how to augment Euler angle gesture sequences to train models with a relatively large number of parameters such as LSTM and GRU and gain better performance than reported for smaller models such as HMM. In the examples here, we demonstrate how to train such models with Keras and run the resulting models real time on device with CoreML.

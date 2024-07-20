@@ -1,0 +1,3 @@
+Interning Ground Terms in XSB
+
+This paper presents an implementation of interning of ground terms in the XSB Tabled Prolog system. This is related to the idea of hash-consing. I describe the concept of interning atoms and discuss the issues around interning ground structured terms, motivating why tabling Prolog systems may change the cost-benefit tradeoffs from those of traditional Prolog systems. I describe the details of the implementation of interning ground terms in the XSB Tabled Prolog System and show some of its performance properties. This implementation achieves the effects of that of Zhou and Have but is tuned for XSB's representations and is arguably simpler.

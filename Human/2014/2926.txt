@@ -1,0 +1,4 @@
+Proving Security Goals With Shape Analysis Sentences
+
+The paper that introduced shape analysis sentences presented a method for extracting a sentence in first-order logic that completely characterizes a run of CPSA. Logical deduction can then be used to determine if a security goal is satisfied.
+  This paper presents a method for importing shape analysis sentences into a proof assistant on top of a detailed theory of strand spaces. The result is a semantically rich environment in which the validity of a security goal can be determined using shape analysis sentences and the foundation on which they are based.

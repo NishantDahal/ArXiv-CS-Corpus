@@ -1,0 +1,3 @@
+Bounding ground state energy of Hopfield models
+
+In this paper we look at a class of random optimization problems that arise in the forms typically known as Hopfield models. We view two scenarios which we term as the positive Hopfield form and the negative Hopfield form. For both of these scenarios we define the binary optimization problems that essentially emulate what would typically be known as the ground state energy of these models. We then present a simple mechanism that can be used to create a set of theoretical rigorous bounds for these energies. In addition to purely theoretical bounds, we also present a couple of fast optimization algorithms that can also be used to provide solid (albeit a bit weaker) algorithmic bounds for the ground state energies.

@@ -1,0 +1,3 @@
+A polynomial-time algorithm for the ground state of one-dimensional gapped Hamiltonians
+
+A (deterministic) polynomial-time algorithm is proposed for approximating the ground state of (general) one-dimensional gapped Hamiltonians. Let $ε,n,η$ be the energy gap, the system size, and the desired precision, respectively. Neglecting $ε$-dependent subpolynomial (in $n$) and constant factors, the running time of the algorithm is $n^{O(1)}$ for $η=n^{-O(1)}$.

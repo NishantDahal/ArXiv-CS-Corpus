@@ -1,0 +1,3 @@
+On the Stability of Random Multiple Access with Feedback Exploitation and Queue Priority
+
+In this paper, we study the stability of two interacting queues under random multiple access in which the queues leverage the feedback information. We derive the stability region under random multiple access where one of the two queues exploits the feedback information and backs off under negative acknowledgement (NACK) and the other, higher priority, queue will access the channel with probability one. We characterize the stability region of this feedback-based random access protocol and prove that this derived stability region encloses the stability region of the conventional random access (RA) scheme that does not exploit the feedback information.

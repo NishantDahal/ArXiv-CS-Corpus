@@ -1,0 +1,3 @@
+Uniform Information Exchange in Multi-channel Wireless Ad Hoc Networks
+
+In the information exchange problem, k packets that are initially maintained by k nodes need to be disseminated to the whole network as quickly as possible. We consider this problem in single-hop multi- channel networks of n nodes, and propose a uniform protocol that with high probability accomplishes the dissemination in O(k/F + F \cdot log n) rounds, assuming F available channels and collision detection. This result is asymptotically optimal when k is large (k \geq F^2 \cdot log n). To our knowledge, this is the first uniform protocol for information exchange in multi-channel networks.

@@ -1,0 +1,3 @@
+On Compiling Structured CNFs to OBDDs
+
+We present new results on the size of OBDD representations of structurally characterized classes of CNF formulas. First, we identify a natural sufficient condition, which we call the few subterms property, for a class of CNFs to have polynomial OBDD size; we then prove that CNFs whose incidence graphs are variable convex have few subterms (and hence have polynomial OBDD size), and observe that the few subterms property also explains the known fact that classes of CNFs of bounded treewidth have polynomial OBDD size. Second, we prove an exponential lower bound on the OBDD size of a family of CNF classes with incidence graphs of bounded degree, exploiting the combinatorial properties of expander graphs.

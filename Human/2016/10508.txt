@@ -1,0 +1,3 @@
+Features and Kernels for Audio Event Recognition
+
+One of the most important problems in audio event detection research is absence of benchmark results for comparison with any proposed method. Different works consider different sets of events and datasets which makes it difficult to comprehensively analyze any novel method with an existing one. In this paper we propose to establish results for audio event recognition on two recent publicly-available datasets. In particular we use Gaussian Mixture model based feature representation and combine them with linear as well as non-linear kernel Support Vector Machines.

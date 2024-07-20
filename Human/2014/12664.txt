@@ -1,0 +1,3 @@
+The Johnson-Lindenstrauss lemma is optimal for linear dimensionality reduction
+
+For any $n>1$ and $0<\varepsilon<1/2$, we show the existence of an $n^{O(1)}$-point subset $X$ of $\mathbb{R}^n$ such that any linear map from $(X,\ell_2)$ to $\ell_2^m$ with distortion at most $1+\varepsilon$ must have $m = Ω(\min\{n, \varepsilon^{-2}\log n\})$. Our lower bound matches the upper bounds provided by the identity matrix and the Johnson-Lindenstrauss lemma, improving the previous lower bound of Alon by a $\log(1/\varepsilon)$ factor.

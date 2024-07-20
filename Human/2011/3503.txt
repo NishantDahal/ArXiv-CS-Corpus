@@ -1,0 +1,4 @@
+A Nearly-Quadratic Gap Between Adaptive and Non-Adaptive Property Testers
+
+We show that for all integers $t\geq 8$ and arbitrarily small $ε>0$, there exists a graph property $Π$ (which depends on $ε$) such that $ε$-testing $Π$ has non-adaptive query complexity $Q=\~Θ(q^{2-2/t})$, where $q=\~Θ(ε^{-1})$ is the adaptive query complexity. This resolves the question of how beneficial adaptivity is, in the context of proximity-dependent properties (\cite{benefits-of-adaptivity}). This also gives evidence that the canonical transformation of Goldreich and Trevisan (\cite{canonical-testers}) is essentially optimal when converting an adaptive property tester to a non-adaptive property tester.
+  To do so, we provide optimal adaptive and non-adaptive testers for the combined property of having maximum degree $O(εN)$ and being a \emph{blow-up collection} of an arbitrary base graph $H$.

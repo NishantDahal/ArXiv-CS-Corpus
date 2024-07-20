@@ -1,0 +1,3 @@
+Impartial games emulating one-dimensional cellular automata and undecidability
+
+We study two-player \emph{take-away} games whose outcomes emulate two-state one-dimensional cellular automata, such as Wolfram's rules 60 and 110. Given an initial string consisting of a central data pattern and periodic left and right patterns, the rule 110 cellular automaton was recently proved Turing-complete by Matthew Cook. Hence, many questions regarding its behavior are algorithmically undecidable. We show that similar questions are undecidable for our \emph{rule 110} game.

@@ -1,0 +1,3 @@
+A Prefixed-Itemset-Based Improvement For Apriori Algorithm
+
+Association rules is a very important part of data mining. It is used to find the interesting patterns from transaction databases. Apriori algorithm is one of the most classical algorithms of association rules, but it has the bottleneck in efficiency. In this article, we proposed a prefixed-itemset-based data structure for candidate itemset generation, with the help of the structure we managed to improve the efficiency of the classical Apriori algorithm.

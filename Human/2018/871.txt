@@ -1,0 +1,3 @@
+Combining Stereo Disparity and Optical Flow for Basic Scene Flow
+
+Scene flow is a description of real world motion in 3D that contains more information than optical flow. Because of its complexity there exists no applicable variant for real-time scene flow estimation in an automotive or commercial vehicle context that is sufficiently robust and accurate. Therefore, many applications estimate the 2D optical flow instead. In this paper, we examine the combination of top-performing state-of-the-art optical flow and stereo disparity algorithms in order to achieve a basic scene flow. On the public KITTI Scene Flow Benchmark we demonstrate the reasonable accuracy of the combination approach and show its speed in computation.

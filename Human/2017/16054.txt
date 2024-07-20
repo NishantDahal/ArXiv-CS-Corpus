@@ -1,0 +1,3 @@
+Implementation of the Logistic Map with FPGA using 32 bits fixed point standard
+
+This article presents a design of the logistic map by means of FPGA (Field Programmable Gate Ar-ray) under fixed-point standard and 32-bits of precision. The design was carried out with Altera Quartus platform. The hardware description language VHDL-93 has been adopted and the results were simulated by means of Altera ModelSim package. The main of the project was to produce a cha-otic system with a low energy and time cost. Using the VHDL, it was possible to use only 1439 logical gates from 114480 available. The Lyapunov exponent has been calculated with good agreement with literature reference, which shows the effectiveness the proposed method.

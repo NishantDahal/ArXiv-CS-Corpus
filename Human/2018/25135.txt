@@ -1,0 +1,5 @@
+Reasoning in Bayesian Opinion Exchange Networks Is PSPACE-Hard
+
+We study the Bayesian model of opinion exchange of fully rational agents arranged on a network. In this model, the agents receive private signals that are indicative of an unkown state of the world. Then, they repeatedly announce the state of the world they consider most likely to their neighbors, at the same time updating their beliefs based on their neighbors' announcements.
+  This model is extensively studied in economics since the work of Aumann (1976) and Geanakoplos and Polemarchakis (1982). It is known that the agents eventually agree with high probability on any network. It is often argued that the computations needed by agents in this model are difficult, but prior to our results there was no rigorous work showing this hardness.
+  We show that it is PSPACE-hard for the agents to compute their actions in this model. Furthermore, we show that it is equally difficult even to approximate an agent's posterior: It is PSPACE-hard to distinguish between the posterior being almost entirely concentrated on one state of the world or another.

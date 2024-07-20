@@ -1,0 +1,4 @@
+A Polynomial Time Subsumption Algorithm for Nominal Safe $\mathcal{ELO}_\bot$ under Rational Closure
+
+Description Logics (DLs) under Rational Closure (RC) is a well-known framework for non-monotonic reasoning in DLs. In this paper, we address the concept subsumption decision problem under RC for nominal safe $\mathcal{ELO}_\bot$, a notable and practically important DL representative of the OWL 2 profile OWL 2 EL.
+  Our contribution here is to define a polynomial time subsumption procedure for nominal safe $\mathcal{ELO}_\bot$ under RC that relies entirely on a series of classical, monotonic $\mathcal{EL}_\bot$ subsumption tests. Therefore, any existing classical monotonic $\mathcal{EL}_\bot$ reasoner can be used as a black box to implement our method. We then also adapt the method to one of the known extensions of RC for DLs, namely Defeasible Inheritance-based DLs without losing the computational tractability.

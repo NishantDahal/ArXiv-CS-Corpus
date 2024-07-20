@@ -1,0 +1,4 @@
+Big Geo Data Surface Approximation using Radial Basis Functions: A Comparative Study
+
+Approximation of scattered data is often a task in many engineering problems. The Radial Basis Function (RBF) approximation is appropriate for big scattered datasets in $n-$dimensional space. It is a non-separable approximation, as it is based on the distance between two points. This method leads to the solution of an overdetermined linear system of equations.
+  In this paper the RBF approximation methods are briefly described, a new approach to the RBF approximation of big datasets is presented, and a comparison for different Compactly Supported RBFs (CS-RBFs) is made with respect to the accuracy of the computation. The proposed approach uses symmetry of a matrix, partitioning the matrix into blocks and data structures for storage of the sparse matrix. The experiments are performed for synthetic and real datasets.

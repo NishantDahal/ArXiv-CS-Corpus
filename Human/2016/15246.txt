@@ -1,0 +1,3 @@
+Optimal Prefix Codes with Fewer Distinct Codeword Lengths are Faster to Construct
+
+A new method for constructing minimum-redundancy binary prefix codes is described. Our method does not explicitly build a Huffman tree; instead it uses a property of optimal prefix codes to compute the codeword lengths corresponding to the input weights. Let $n$ be the number of weights and $k$ be the number of distinct codeword lengths as produced by the algorithm for the optimum codes. The running time of our algorithm is $O(k \cdot n)$. Following our previous work in \cite{be}, no algorithm can possibly construct optimal prefix codes in $o(k \cdot n)$ time. When the given weights are presorted our algorithm performs $O(9^k \cdot \log^{2k}{n})$ comparisons.

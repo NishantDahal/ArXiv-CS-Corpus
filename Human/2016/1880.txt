@@ -1,0 +1,3 @@
+Affine computation and affine automaton
+
+We introduce a quantum-like classical computational model, called affine computation, as a generalization of probabilistic computation. After giving the basics of affine computation, we define affine finite automata (AfA) and compare it with quantum and probabilistic finite automata (QFA and PFA, respectively) with respect to three basic language recognition modes. We show that, in the cases of bounded and unbounded error, AfAs are more powerful than QFAs and PFAs, and, in the case of nondeterministic computation, AfAs are more powerful than PFAs but equivalent to QFAs.

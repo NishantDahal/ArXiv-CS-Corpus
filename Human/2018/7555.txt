@@ -1,0 +1,11 @@
+A loopless and branchless $O(1)$ algorithm to generate the next Dyck word
+
+Let integer be any C/C++ unsigned integer type up to 64-bits long. Given a Dyck word the following code returns the next Dyck word of the same size, provided it exists.
+  integer next_dyck_word(integer w) {
+  integer const a = w & -w;
+  integer const b = w + a;
+  integer c = w ^ b;
+  c = (c / a >> 2) + 1;
+  c = ((c * c - 1) & 0xaaaaaaaaaaaaaaaa) | b;
+  return c;
+  }

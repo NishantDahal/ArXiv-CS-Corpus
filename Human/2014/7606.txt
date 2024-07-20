@@ -1,0 +1,3 @@
+Mechanical Proofs of Properties of the Tribonacci Word
+
+We implement a decision procedure for answering questions about a class of infinite words that might be called (for lack of a better name) "Tribonacci-automatic". This class includes, for example, the famous Tribonacci word T = 0102010010202 ..., the fixed point of the morphism 0 -> 01, 1 -> 02, 2 -> 0. We use it to reprove some old results about the Tribonacci word from the literature, such as assertions about the occurrences in T of squares, cubes, palindromes, and so forth. We also obtain some new results.

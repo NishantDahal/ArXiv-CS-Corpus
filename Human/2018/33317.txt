@@ -1,0 +1,3 @@
+Scalable GAM using sparse variational Gaussian processes
+
+Generalized additive models (GAMs) are a widely used class of models of interest to statisticians as they provide a flexible way to design interpretable models of data beyond linear models. We here propose a scalable and well-calibrated Bayesian treatment of GAMs using Gaussian processes (GPs) and leveraging recent advances in variational inference. We use sparse GPs to represent each component and exploit the additive structure of the model to efficiently represent a Gaussian a posteriori coupling between the components.

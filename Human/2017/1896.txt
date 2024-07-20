@@ -1,0 +1,3 @@
+Multichannel Linear Prediction for Blind Reverberant Audio Source Separation
+
+A class of methods based on multichannel linear prediction (MCLP) can achieve effective blind dereverberation of a source, when the source is observed with a microphone array. We propose an inventive use of MCLP as a pre-processing step for blind source separation with a microphone array. We show theoretically that, under certain assumptions, such pre-processing reduces the original blind reverberant source separation problem to a non-reverberant one, which in turn can be effectively tackled using existing methods. We demonstrate our claims using real recordings obtained with an eight-microphone circular array in reverberant environments.

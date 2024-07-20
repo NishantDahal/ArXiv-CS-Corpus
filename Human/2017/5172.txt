@@ -1,0 +1,3 @@
+Two strings at Hamming distance 1 cannot be both quasiperiodic
+
+We present a generalization of a known fact from combinatorics on words related to periodicity into quasiperiodicity. A string is called periodic if it has a period which is at most half of its length. A string $w$ is called quasiperiodic if it has a non-trivial cover, that is, there exists a string $c$ that is shorter than $w$ and such that every position in $w$ is inside one of the occurrences of $c$ in $w$. It is a folklore fact that two strings that differ at exactly one position cannot be both periodic. Here we prove a more general fact that two strings that differ at exactly one position cannot be both quasiperiodic. Along the way we obtain new insights into combinatorics of quasiperiodicities.

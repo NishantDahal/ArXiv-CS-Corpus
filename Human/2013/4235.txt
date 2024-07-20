@@ -1,0 +1,3 @@
+Iterative Detection with Soft Decision in Spectrally Efficient FDM Systems
+
+In Spectrally Efficient Frequency Division Multiplexing systems the input data stream is divided into several adjacent subchannels where the distance of the subchannels is less than that of Orthogonal Frequency Division Multiplexing(OFDM)systems. Since the subcarriers are not orthogonal in SEFDM systems, they lead to interference at the receiver side. In this paper, an iterative method is proposed for interference compensation for SEFDM systems. In this method a soft mapping technique is used after each iteration block to improve its performance. The performance of the proposed method is comparable to that of Sphere Detection(SD)which is a nearly optimal detection method.

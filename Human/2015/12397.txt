@@ -1,0 +1,3 @@
+What's the point? Frame-wise Pointing Gesture Recognition with Latent-Dynamic Conditional Random Fields
+
+We use Latent-Dynamic Conditional Random Fields to perform skeleton-based pointing gesture classification at each time instance of a video sequence, where we achieve a frame-wise pointing accuracy of roughly 83%. Subsequently, we determine continuous time sequences of arbitrary length that form individual pointing gestures and this way reliably detect pointing gestures at a false positive detection rate of 0.63%.

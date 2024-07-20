@@ -1,0 +1,3 @@
+Unique reconstruction threshold for random jigsaw puzzles
+
+A random jigsaw puzzle is constructed by arranging $n^2$ square pieces into an $n \times n$ grid and assigning to each edge of a piece one of $q$ available colours uniformly at random, with the restriction that touching edges receive the same colour. We show that if $q = o(n)$ then with high probability such a puzzle does not have a unique solution, while if $q \ge n^{1 + \varepsilon}$ for any constant $\varepsilon > 0$ then the solution is unique. This solves a conjecture of Mossel and Ross (Shotgun assembly of labeled graphs, arXiv:1504.07682).

@@ -1,0 +1,3 @@
+One-bit Decentralized Detection with a Rao Test for Multisensor Fusion
+
+In this letter we propose the Rao test as a simpler alternative to the generalized likelihood ratio test (GLRT) for multisensor fusion. We consider sensors observing an unknown deterministic parameter with symmetric and unimodal noise. A decision fusion center (DFC) receives quantized sensor observations through error-prone binary symmetric channels and makes a global decision. We analyze the optimal quantizer thresholds and we study the performance of the Rao test in comparison to the GLRT. Also, a theoretical comparison is made and asymptotic performance is derived in a scenario with homogeneous sensors. All the results are confirmed through simulations.

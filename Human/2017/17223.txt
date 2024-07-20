@@ -1,0 +1,4 @@
+Hyper Normalisation and Conditioning for Discrete Probability Distributions
+
+Normalisation in probability theory turns a subdistribution into a proper distribution. It is a partial operation, since it is undefined for the zero subdistribution. This partiality makes it hard to reason equationally about normalisation. A novel description of normalisation is given as a mathematically well-behaved total function. The output of this `hyper' normalisation operation is a distribution of distributions. It improves reasoning about normalisation.
+  After developing the basics of this theory of (hyper) normalisation, it is put to use in a similarly new description of conditioning, producing a distribution of conditional distributions. This is used to give a clean abstract reformulation of refinement in quantitative information flow.

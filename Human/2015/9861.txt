@@ -1,0 +1,4 @@
+Semantics-based Automated Web Testing
+
+We present TAO, a software testing tool performing automated test and oracle generation based on a semantic approach. TAO entangles grammar-based test generation with automated semantics evaluation using a denotational semantics framework. We show how TAO can be incorporated with the Selenium automation tool for automated web testing, and how TAO can be further extended to support  automated delta debugging, where a failing web test script can be systematically reduced based on grammar-directed strategies. A real-life parking website is adopted throughout the paper to demonstrate the effectivity of our semantics-based web testing approach.
+

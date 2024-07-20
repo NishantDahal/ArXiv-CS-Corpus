@@ -1,0 +1,5 @@
+Stay-point Identification as Curve Extrema
+
+In a nutshell, stay-points are locations that a person has stopped for some amount of time. Previous work depends mainly on stay-point identification methods using experimentally fine tuned threshold values. These behave well on their experimental datasets but may exhibit reduced performance on other datasets.
+  In this work, we demonstrate the potential of a geometry-based method for stay-point extraction. This is accomplished by transforming the user's trajectory path to a two-dimensional discrete time series curve that in turn transforms the stay-points to the local minima of the first derivative of this curve.
+  To demonstrate the soundness of the proposed method, we evaluated it on raw, noisy trajectory data acquired over the period of 28 different days using four different techniques. The results demonstrate, among others, that given a good trajectory tracking technique, we can identify correctly 86% to 98% of the stay-points.

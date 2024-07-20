@@ -1,0 +1,3 @@
+Real-Time Synthesis is Hard!
+
+We study the reactive synthesis problem (RS) for specifications given in Metric Interval Temporal Logic (MITL). RS is known to be undecidable in a very general setting, but on infinite words only; and only the very restrictive BRRS subcase is known to be decidable (see D'Souza et al. and Bouyer et al.). In this paper, we precise the decidability border of MITL synthesis. We show RS is undecidable on finite words too, and present a landscape of restrictions (both on the logic and on the possible controllers) that are still undecidable. On the positive side, we revisit BRRS and introduce an efficient on-the-fly algorithm to solve it.

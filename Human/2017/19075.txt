@@ -1,0 +1,3 @@
+On Heterogeneous Coded Distributed Computing
+
+We consider the recently proposed Coded Distributed Computing (CDC) framework that leverages carefully designed redundant computations to enable coding opportunities that substantially reduce the communication load of distributed computing. We generalize this framework to heterogeneous systems where different nodes in the computing cluster can have different storage (or processing) capabilities. We provide the information-theoretically optimal data set placement and coded data shuffling scheme that minimizes the communication load in a cluster with 3 nodes. For clusters with $K>3$ nodes, we provide an algorithm description to generalize our coding ideas to larger networks.

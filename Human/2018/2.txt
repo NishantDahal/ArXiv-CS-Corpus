@@ -1,0 +1,3 @@
+A predictor-corrector method for the training of deep neural networks
+
+The training of deep neural nets is expensive. We present a predictor- corrector method for the training of deep neural nets. It alternates a predictor pass with a corrector pass using stochastic gradient descent with backpropagation such that there is no loss in validation accuracy. No special modifications to SGD with backpropagation is required by this methodology. Our experiments showed a time improvement of 9% on the CIFAR-10 dataset.

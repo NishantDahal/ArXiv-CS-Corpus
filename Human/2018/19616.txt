@@ -1,0 +1,3 @@
+Asynchronous opinion dynamics on the $k$-nearest-neighbors graph
+
+This paper is about a new model of opinion dynamics with opinion-dependent connectivity. We assume that agents update their opinions asynchronously and that each agent's new opinion depends on the opinions of the $k$ agents that are closest to it. We show that the resulting dynamics is substantially different from comparable models in the literature, such as bounded-confidence models. We study the equilibria of the dynamics, observing that they are robust to perturbations caused by the introduction of new agents. We also prove that if the number of agents $n$ is smaller than $2k$, the dynamics converge to consensus. This condition is only sufficient.

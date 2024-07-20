@@ -1,0 +1,3 @@
+Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks
+
+Knowledge-based planning (KBP) is an automated approach to radiation therapy treatment planning that involves predicting desirable treatment plans before they are then corrected to deliverable ones. We propose a generative adversarial network (GAN) approach for predicting desirable 3D dose distributions that eschews the previous paradigms of site-specific feature engineering and predicting low-dimensional representations of the plan. Experiments on a dataset of oropharyngeal cancer patients show that our approach significantly outperforms previous methods on several clinical satisfaction criteria and similarity metrics.

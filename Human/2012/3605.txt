@@ -1,0 +1,3 @@
+Error-correcting pairs for a public-key cryptosystem
+
+Code-based cryptography is an interesting alternative to classic number-theory PKC since it is conjectured to be secure against quantum computer attacks. Many families of codes have been proposed for these cryptosystems, one of the main requirements is having high performance t-bounded decoding algorithms which in the case of having high an error-correcting pair is achieved. In this article the class of codes with a t-ECP is proposed for the McEliece cryptosystem. The hardness of retrieving the t-ECP for a given code is considered. As a first step distinguishers of several subclasses are given.

@@ -1,0 +1,3 @@
+Multiple-Instance, Cascaded Classification for Keyword Spotting in Narrow-Band Audio
+
+We propose using cascaded classifiers for a keyword spotting (KWS) task on narrow-band (NB), 8kHz audio acquired in non-IID environments --- a more challenging task than most state-of-the-art KWS systems face. We present a model that incorporates Deep Neural Networks (DNNs), cascading, multiple-feature representations, and multiple-instance learning. The cascaded classifiers handle the task's class imbalance and reduce power consumption on computationally-constrained devices via early termination. The KWS system achieves a false negative rate of 6% at an hourly false positive rate of 0.75

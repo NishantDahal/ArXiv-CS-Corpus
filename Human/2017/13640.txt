@@ -1,0 +1,3 @@
+Cultivating DNN Diversity for Large Scale Video Labelling
+
+We investigate factors controlling DNN diversity in the context of the Google Cloud and YouTube-8M Video Understanding Challenge. While it is well-known that ensemble methods improve prediction performance, and that combining accurate but diverse predictors helps, there is little knowledge on how to best promote & measure DNN diversity. We show that diversity can be cultivated by some unexpected means, such as model over-fitting or dropout variations. We also present details of our solution to the video understanding problem, which ranked #7 in the Kaggle competition (competing as the Yeti team).

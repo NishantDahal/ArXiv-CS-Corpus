@@ -1,0 +1,3 @@
+Time parallel gravitational collapse simulation
+
+This article demonstrates the applicability of the parallel-in-time method Parareal to the numerical solution of the Einstein gravity equations for the spherical collapse of a massless scalar field. To account for the shrinking of the spatial domain in time, a tailored load balancing scheme is proposed and compared to load balancing based on number of time steps alone. The performance of Parareal is studied for both the sub-critical and black hole case; our experiments show that Parareal generates substantial speedup and, in the super-critical regime, can reproduce Choptuik's black hole mass scaling law.

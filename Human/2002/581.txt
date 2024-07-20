@@ -1,0 +1,3 @@
+A Goppa-like bound on the trellis state complexity of algebraic geometric codes
+
+For a linear code $\cC$ of length $n$ and dimension $k$, Wolf noticed that the trellis state complexity $s(\cC)$ of $\cC$ is upper bounded by $w(\cC):=\min(k,n-k)$. In this paper we point out some new lower bounds for $s(\cC)$. In particular, if $\cC$ is an Algebraic Geometric code, then $s(\cC)\geq w(\cC)-(g-a)$, where $g$ is the genus of the underlying curve and $a$ is the abundance of the code.

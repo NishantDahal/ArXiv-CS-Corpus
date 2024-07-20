@@ -1,0 +1,3 @@
+A lower bound on the average entropy of a function determined up to a diagonal linear map on F_q^n
+
+In this note, it is shown that if $f\colon\efq^n\to\efq^n$ is any function and $\bA=(A_1,..., A_n)$ is uniformly distributed over $\efq^n$, then the average over $(k_1,...,k_n)\in \efq^n$ of the Renyi (and hence, of the Shannon) entropy of $f(\bA)+(k_1A_1,...,k_nA_n)$ is at least about $\log_2(q^n)-n$. In fact, it is shown that the average collision probability of $f(\bA)+(k_1A_1,...,k_nA_n)$ is at most about $2^n/q^n$.

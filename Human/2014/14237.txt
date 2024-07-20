@@ -1,0 +1,3 @@
+Random Access Protocols with Collision Resolution in a Noncoherent Setting
+
+Wireless systems are increasingly used for Machine-Type Communication (MTC), where the users sporadically send very short messages. In such a setting, the overhead imposed by channel estimation is substantial, thereby demanding noncoherent communication. In this paper we consider a noncoherent setup in which users randomly access the medium to send short messages to a common receiver. We propose a transmission scheme based on Gabor frames, where each user has a dedicated codebook of M possible codewords, while the codebook simultaneously serves as an ID for the user. The scheme is used as a basis for a simple protocol for collision resolution.

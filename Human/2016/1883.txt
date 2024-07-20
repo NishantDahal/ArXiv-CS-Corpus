@@ -1,0 +1,3 @@
+Customizable Precision of Floating-Point Arithmetic with Bitslice Vector Types
+
+Customizing the precision of data can provide attractive trade-offs between accuracy and hardware resources. We propose a novel form of vector computing aimed at arrays of custom-precision floating point data. We represent these vectors in bitslice format. Bitwise instructions are used to implement arithmetic circuits in software that operate on customized bit-precision. Experiments show that this approach can be efficient for vectors of low-precision custom floating point types, while providing arbitrary bit precision.

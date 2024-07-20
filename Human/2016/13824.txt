@@ -1,0 +1,3 @@
+The Cascading Haar Wavelet algorithm for computing the Walsh-Hadamard Transform
+
+We propose a novel algorithm for computing the Walsh-Hadamard Transform (WHT) which consists entirely of Haar wavelet transforms. We prove that the algorithm, which we call the Cascading Haar Wavelet (CHW) algorithm, shares precisely the same serial complexity as the popular divide-and-conquer algorithm for the WHT. We also propose a natural way of parallelizing the algorithm which has a number of attractive features.

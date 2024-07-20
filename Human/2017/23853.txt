@@ -1,0 +1,3 @@
+Semantic Document Distance Measures and Unsupervised Document Revision Detection
+
+In this paper, we model the document revision detection problem as a minimum cost branching problem that relies on computing document distances. Furthermore, we propose two new document distance measures, word vector-based Dynamic Time Warping (wDTW) and word vector-based Tree Edit Distance (wTED). Our revision detection system is designed for a large scale corpus and implemented in Apache Spark. We demonstrate that our system can more precisely detect revisions than state-of-the-art methods by utilizing the Wikipedia revision dumps https://snap.stanford.edu/data/wiki-meta.html and simulated data sets.

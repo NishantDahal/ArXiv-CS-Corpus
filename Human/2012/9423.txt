@@ -1,0 +1,3 @@
+Higher-order port-graph rewriting
+
+The biologically inspired framework of port-graphs has been successfully used to specify complex systems. It is the basis of the PORGY modelling tool. To facilitate the specification of proof normalisation procedures via graph rewriting, in this paper we add higher-order features to the original port-graph syntax, along with a generalised notion of graph morphism.  We provide a matching algorithm which enables to implement higher-order port-graph rewriting in PORGY, thus one can visually study the dynamics of the systems modelled. We illustrate the expressive power of higher-order port-graphs with examples taken from proof-net reduction systems.

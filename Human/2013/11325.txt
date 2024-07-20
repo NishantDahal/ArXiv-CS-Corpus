@@ -1,0 +1,3 @@
+Achievable Rate Regions for Two-Way Relay Channel using Nested Lattice Coding
+
+This paper studies Gaussian Two-Way Relay Channel where two communication nodes exchange messages with each other via a relay. It is assumed that all nodes operate in half duplex mode without any direct link between the communication nodes. A compress-and-forward relaying strategy using nested lattice codes is first proposed. Then, the proposed scheme is improved by performing a layered coding : a common layer is decoded by both receivers and a refinement layer is recovered only by the receiver which has the best channel conditions. The achievable rates of the new scheme are characterized and are shown to be higher than those provided by the decode-and-forward strategy in some regions.

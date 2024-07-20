@@ -1,0 +1,3 @@
+STAM: A Framework for Spatio-Temporal Affordance Maps
+
+Affordances have been introduced in literature as action opportunities that objects offer, and used in robotics to semantically represent their interconnection. However, when considering an environment instead of an object, the problem becomes more complex due to the dynamism of its state. To tackle this issue, we introduce the concept of Spatio-Temporal Affordances (STA) and Spatio-Temporal Affordance Map (STAM). Using this formalism, we encode action semantics related to the environment to improve task execution capabilities of an autonomous robot. We experimentally validate our approach to support the execution of robot tasks by showing that affordances encode accurate semantics of the environment.

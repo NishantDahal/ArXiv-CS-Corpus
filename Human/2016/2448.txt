@@ -1,0 +1,4 @@
+Stereo Matching by Joint Energy Minimization
+
+In [18], Mozerov et al. propose to perform stereo matching as a two-step energy minimization problem. For the first step they solve a fully connected MRF model. And in the next step the marginal output is employed as the unary cost for a locally connected MRF model.
+  In this paper we intend to combine the two steps of energy minimization in order to improve stereo matching results. We observe that the fully connected MRF leads to smoother disparity maps, while the locally connected MRF achieves superior results in fine-structured regions. Thus we propose to jointly solve the fully connected and locally connected models, taking both their advantages into account. The joint model is solved by mean field approximations. While remaining efficient, our joint model outperforms the two-step energy minimization approach in both time and estimation error on the Middlebury stereo benchmark v3.

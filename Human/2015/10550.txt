@@ -1,0 +1,6 @@
+New Algorithms and Hard Instances for Non-Commutative Computation
+
+Motivated by the recent developments on the complexity of non-com\-mu\-ta\-tive determinant and permanent [Chien et al.\ STOC 2011, Bläser ICALP 2013, Gentry CCC 2014] we attempt at obtaining a tight characterization of hard instances of non-commutative permanent.
+  We show that computing Cayley permanent and determinant on weight\-ed adjacency matrices of graphs of component size six is $\#{\sf P}$ complete on algebras that contain $2\times 2$ matrices and the permutation group $S_3$. Also, we prove a lower bound of $2^{Ω(n)}$ on the size of branching programs computing the Cayley permanent on adjacency matrices of graphs with component size bounded by two. Further, we observe that the lower bound holds for almost all graphs of component size two.
+  On the positive side, we show that the Cayley permanent on graphs of component size $c$ can be computed in time $n^{c{\sf poly}(t)}$, where $t$ is a parameter depending on the labels of the vertices.
+  Finally, we exhibit polynomials that are equivalent to the Cayley permanent polynomial but are easy to compute over commutative domains.

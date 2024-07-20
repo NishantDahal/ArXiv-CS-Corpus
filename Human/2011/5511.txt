@@ -1,0 +1,3 @@
+Fast computation of Bernoulli, Tangent and Secant numbers
+
+We consider the computation of Bernoulli, Tangent (zag), and Secant (zig or Euler) numbers. In particular, we give asymptotically fast algorithms for computing the first n such numbers in O(n^2.(log n)^(2+o(1))) bit-operations. We also give very short in-place algorithms for computing the first n Tangent or Secant numbers in O(n^2) integer operations. These algorithms are extremely simple, and fast for moderate values of n. They are faster and use less space than the algorithms of Atkinson (for Tangent and Secant numbers) and Akiyama and Tanigawa (for Bernoulli numbers).

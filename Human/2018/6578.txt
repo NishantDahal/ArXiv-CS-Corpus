@@ -1,0 +1,3 @@
+Classical Transitions
+
+We introduce the calculus of Classical Transitions (CT), which extends the research line on the relationship between linear logic and processes to labelled transitions. The key twist from previous work is registering parallelism in typing judgements, by generalising linear logic judgements from one sequents to many (hypersequents). This allows us to bridge the gap between the structures of operators used as proof terms in previous work and those of the standard π-calculus (in particular parallel operator and restriction). The proof theory of CT allows for new proof transformations, which we show correspond to a labelled transition system (LTS) for processes. We prove that CT enjoys subject reduction and progress.

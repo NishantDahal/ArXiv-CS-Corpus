@@ -1,0 +1,3 @@
+The Saddlepoint Approximation: Unified Random Coding Asymptotics for Fixed and Varying Rates
+
+This paper presents a saddlepoint approximation of the random-coding union bound of Polyanskiy et al. for i.i.d. random coding over discrete memoryless channels. The approximation is single-letter, and can thus be computed efficiently. Moreover, it is shown to be asymptotically tight for both fixed and varying rates, unifying existing achievability results in the regimes of error exponents, second-order coding rates, and moderate deviations. For fixed rates, novel exact-asymptotics expressions are specified to within a multiplicative 1+o(1) term. A numerical example is provided for which the approximation is remarkably accurate even at short block lengths.

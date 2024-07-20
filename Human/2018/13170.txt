@@ -1,0 +1,3 @@
+Almost Sure Productivity
+
+We define Almost Sure Productivity (ASP), a probabilistic generalization of the productivity condition for coinductively defined structures. Intuitively, a probabilistic coinductive stream or tree is ASP if it produces infinitely many outputs with probability 1. Formally, we define almost sure productivity using a final coalgebra semantics of programs inspired from Kerstan and König. Then, we introduce a core language for probabilistic streams and trees, and provide two approaches to verify ASP: a sufficient syntactic criterion, and a reduction to model-checking pCTL* formulas on probabilistic pushdown automata. The reduction shows that ASP is decidable for our core language.

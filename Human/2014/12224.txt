@@ -1,0 +1,7 @@
+Deletion codes in the high-noise and high-rate regimes
+
+The noise model of deletions poses significant challenges in coding theory, with basic questions like the capacity of the binary deletion channel still being open. In this paper, we study the harder model of worst-case deletions, with a focus on constructing efficiently decodable codes for the two extreme regimes of high-noise and high-rate. Specifically, we construct polynomial-time decodable codes with the following trade-offs (for any eps > 0):
+  (1) Codes that can correct a fraction 1-eps of deletions with rate poly(eps) over an alphabet of size poly(1/eps);
+  (2) Binary codes of rate 1-O~(sqrt(eps)) that can correct a fraction eps of deletions; and
+  (3) Binary codes that can be list decoded from a fraction (1/2-eps) of deletions with rate poly(eps)
+  Our work is the first to achieve the qualitative goals of correcting a deletion fraction approaching 1 over bounded alphabets, and correcting a constant fraction of bit deletions with rate aproaching 1. The above results bring our understanding of deletion code constructions in these regimes to a similar level as worst-case errors.

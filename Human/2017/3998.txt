@@ -1,0 +1,3 @@
+Synchronizing non-deterministic finite automata
+
+In this paper, we show that every D3-directing CNFA can be mapped uniquely to a DFA with the same synchronizing word length. This implies that Černý's conjecture generalizes to CNFAs and that the general upper bound for the length of a shortest D3-directing word is equal to the Pin-Frankl bound for DFAs. As a second consequence, for several classes of CNFAs sharper bounds are established. Finally, our results allow us to detect all critical CNFAs on at most 6 states. It turns out that only very few critical CNFAs exist.

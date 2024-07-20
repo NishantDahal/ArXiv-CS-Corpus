@@ -1,0 +1,3 @@
+Depth-Gated LSTM
+
+In this short note, we present an extension of long short-term memory (LSTM) neural networks to using a depth gate to connect memory cells of adjacent layers. Doing so introduces a linear dependence between lower and upper layer recurrent units. Importantly, the linear dependence is gated through a gating function, which we call depth gate. This gate is a function of the lower layer memory cell, the input to and the past memory cell of this layer. We conducted experiments and verified that this new architecture of LSTMs was able to improve machine translation and language modeling performances.

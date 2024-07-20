@@ -1,0 +1,3 @@
+Faster Deterministic Fully-Dynamic Graph Connectivity
+
+We give new deterministic bounds for fully-dynamic graph connectivity. Our data structure supports updates (edge insertions/deletions) in $O(\log^2n/\log\log n)$ amortized time and connectivity queries in $O(\log n/\log\log n)$ worst-case time, where $n$ is the number of vertices of the graph. This improves the deterministic data structures of Holm, de Lichtenberg, and Thorup (STOC 1998, J.ACM 2001) and Thorup (STOC 2000) which both have $O(\log^2n)$ amortized update time and $O(\log n/\log\log n)$ worst-case query time. Our model of computation is the same as that of Thorup, i.e., a pointer machine with standard $AC^0$ instructions.

@@ -1,0 +1,3 @@
+One-bit compressed sensing by linear programming
+
+We give the first computationally tractable and almost optimal solution to the problem of one-bit compressed sensing, showing how to accurately recover an s-sparse vector x in R^n from the signs of O(s log^2(n/s)) random linear measurements of x. The recovery is achieved by a simple linear program. This result extends to approximately sparse vectors x. Our result is universal in the sense that with high probability, one measurement scheme will successfully recover all sparse vectors simultaneously. The argument is based on solving an equivalent geometric problem on random hyperplane tessellations.

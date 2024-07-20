@@ -1,0 +1,3 @@
+Non-negative sparse coding
+
+Non-negative sparse coding is a method for decomposing multivariate data into non-negative sparse components. In this paper we briefly describe the motivation behind this type of data representation and its relation to standard sparse coding and non-negative matrix factorization. We then give a simple yet efficient multiplicative algorithm for finding the optimal values of the hidden components. In addition, we show how the basis vectors can be learned from the observed data. Simulations demonstrate the effectiveness of the proposed method.

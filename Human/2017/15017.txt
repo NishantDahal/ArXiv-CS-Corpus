@@ -1,0 +1,3 @@
+A Simple and Correct Even-Odd Algorithm for the Point-in-Polygon Problem for Complex Polygons
+
+Determining if a point is in a polygon or not is used by a lot of applications in computer graphics, computer games and geoinformatics. Implementing this check is error-prone since there are many special cases to be considered. This holds true in particular for complex polygons whose edges intersect each other creating holes. In this paper we present a simple even-odd algorithm to solve this problem for complex polygons in linear time and prove its correctness for all possible points and polygons. We furthermore provide examples and implementation notes for this algorithm.

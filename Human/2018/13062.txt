@@ -1,0 +1,3 @@
+Centralized Caching with Unequal Cache Sizes
+
+We address a centralized caching problem with unequal cache sizes. We consider a system with a server of files connected through a shared error-free link to a group of cache-enabled users where one subgroup has a larger cache size than the other. We propose an explicit caching scheme for the considered system aimed at minimizing the load of worst-case demands over the shared link. As suggested by numerical evaluations, our scheme improves upon the best existing explicit scheme by having a lower worst-case load; also, our scheme performs within a multiplicative factor of 1.11 from the scheme that can be obtained by solving an optimisation problem in which the number of parameters grows exponentially with the number of users.

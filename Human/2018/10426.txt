@@ -1,0 +1,4 @@
+On the Moment Distance Between Sensors and Anchor Points
+
+The present paper contains additional asymptotic result over an earlier investigation of Kapelko and Kranakis.
+  Consider $n$ mobile sensors placed independently at random with the uniform distribution on the unit interval $[0,1]$. Fix $a$ an odd natural number. Let $X_i$ be the the $i-$th closest sensor to $0$ on the interval $[0,1].$ Then the following identity holds $$\sum_{i=1}^n\mathbf{E}\left[\left|X_i-\left(\frac{i}{n}-\frac{1}{2n}\right)\right|^a\right]=\frac{Γ\left(\frac{a}{2}+1\right)}{2^{\frac{a}{2}}(1+a)}\frac{1}{n^{\frac{a}{2}-1}}+O\left(\frac{1}{n^{\frac{a-1}{2}}}\right),$$ when $a$ is an odd natural number, where $Γ(z)$ is the Gamma function.

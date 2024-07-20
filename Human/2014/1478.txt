@@ -1,0 +1,3 @@
+Estimating verification time
+
+This essay is divided in four parts: In section (I) I explain why I think detecting hot-spots in verification is complicated and in particular, more complicated than detection when developing crude software. In section (II) I introduce the factors I think mostly affect performance in verification. In section (III) I propose a method to find functions that are most promising to be optimized. Finally, in section (IV) I draw some conclusions and discuss pros/cons of the proposed solution.

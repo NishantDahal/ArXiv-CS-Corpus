@@ -1,0 +1,3 @@
+A General Framework for Distributed Vote Aggregation
+
+We present a general model for opinion dynamics in a social network together with several possibilities for object selections at times when the agents are communicating. We study the limiting behavior of such a dynamics and show that this dynamics almost surely converges. We consider some special implications of the convergence result for gossip and top-$k$ selective gossip models. In particular, we provide an answer to the open problem of the convergence property of the top-$k$ selective gossip model, and show that the convergence holds in a much more general setting. Moreover, we propose an extension of the gossip and top-$k$ selective gossip models and provide some results for their limiting behavior.

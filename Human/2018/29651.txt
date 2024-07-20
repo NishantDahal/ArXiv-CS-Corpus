@@ -1,0 +1,4 @@
+Metric Based Quadrilateral Mesh Generation
+
+This work proposes a novel metric based algorithm for quadrilateral mesh generating. Each quad-mesh induces a Riemannian metric satisfying special conditions: the metric is a flat metric with cone signualrites conformal to the original metric, the total curvature satisfies the Gauss-Bonnet condition, the holonomy group is a subgroup of the rotation group $\{e^{ikπ/2}\}$, furthermore there is cross field obtained by parallel translation which is aligned with the boundaries, and its streamlines are finite geodesics. Inversely, such kind of metric induces a quad-mesh. Based on discrete Ricci flow and conformal structure deformation, one can obtain a metric satisfying all the conditions and obtain the desired quad-mesh.
+  This method is rigorous, simple and automatic. Our experimental results demonstrate the efficiency and efficacy of the algorithm.

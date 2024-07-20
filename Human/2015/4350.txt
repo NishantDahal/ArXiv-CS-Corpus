@@ -1,0 +1,3 @@
+Towards Verifiably Ethical Robot Behaviour
+
+Ensuring that autonomous systems work ethically is both complex and difficult. However, the idea of having an additional `governor' that assesses options the system has, and prunes them to select the most ethical choices is well understood. Recent work has produced such a governor consisting of a `consequence engine' that assesses the likely future outcomes of actions then applies a Safety/Ethical logic to select actions. Although this is appealing, it is impossible to be certain that the most ethical options are actually taken. In this paper we extend and apply a well-known agent verification approach to our consequence engine, allowing us to verify the correctness of its ethical decision-making.

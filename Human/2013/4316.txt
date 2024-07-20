@@ -1,0 +1,3 @@
+Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique
+
+Several passive microwave satellites orbit the Earth and measure rainfall. These measurements have the advantage of almost full global coverage when compared to surface rain gauges. However, these satellites have low temporal revisit and missing data over some regions. Image fusion is a useful technique to fill in the gaps of one image (one satellite measurement) using another one. The proposed algorithm uses an iterative fusion scheme to integrate information from two satellite measurements. The algorithm is implemented on two datasets for 7 years of half-hourly data. The results show significant improvements in rain detection and rain intensity in the merged measurements.

@@ -1,0 +1,3 @@
+Sub-clustering in decomposable graphs and size-varying junction trees
+
+This paper proposes a novel representation of decomposable graphs based on semi-latent tree-dependent bipartite graphs. The novel representation has two main benefits. First, it enables a form of sub-clustering within maximal cliques of the graph, adding informational richness to the general use of decomposable graphs that could be harnessed in applications with behavioural type of data. Second, it allows for a new node-driven Markov chain Monte Carlo sampler of decomposable graphs that can easily parallelize and scale. The proposed sampler also benefits from the computational efficiency of junction-tree-based samplers of decomposable graphs.

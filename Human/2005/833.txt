@@ -1,0 +1,3 @@
+Secure multiplex coding to attain the channel capacity in wiretap channels
+
+It is known that a message can be transmitted safely against any wiretapper via a noisy channel without a secret key if the coding rate is less than the so-called secrecy capacity $C_S$, which is usually smaller than the channel capacity $C$. In order to remove the loss $C - C_S$, we propose a multiplex coding scheme with plural independent messages. In this paper, it is shown that the proposed multiplex coding scheme can attain the channel capacity as the total rate of the plural messages and the perfect secrecy for each message. The coding theorem is proved by extending Hayashi's proof, in which the coding of the channel resolvability is applied to wiretap channels.

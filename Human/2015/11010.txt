@@ -1,0 +1,5 @@
+Complexity Analysis of CSMA Scheduling via Dependencies Matrix
+
+The complexity of a CSMA algorithm has been translated to the norm properties of a dependencies matrix.
+  The maximum throughput optimization is reformulated by including the dependencies matrix in the formulations. It has been shown that for the interference graphs $\mathcal{G}$ that have minimum vertex cover size $\mathcal{C}(\mathcal{G})=\log n$ where $n$ is the number of the links, the optimal strategy of the links is to transmit with the probability 1, i.e a service-rate agnostic approach.
+  Several numerical analyses have been conducted in order to illustrate the effect of the interference graph, transmission strategy and arrival rate on the dependencies matrix.

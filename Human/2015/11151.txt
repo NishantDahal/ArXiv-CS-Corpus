@@ -1,0 +1,3 @@
+Confluence of Layered Rewrite Systems
+
+We investigate the new, Turing-complete class of layered systems, whose lefthand sides of rules can only be overlapped at a multiset of disjoint or equal positions. Layered systems define a natural notion of rank for terms: the maximal number of non-overlapping redexes along a path from the root to a leaf. Overlappings are allowed in finite or infinite trees. Rules may be non-terminating, non-left-linear, or non-right-linear. Using a novel unification technique, cyclic unification, and the so-alled subrewriting relation, we show that rank non-increasing layered systems are confluent provided their cyclic critical pairs have cyclic-joinable decreasing diagrams. 

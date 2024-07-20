@@ -1,0 +1,3 @@
+A better model of computation for digital physics?
+
+This note is meant to invite the reader to consider interaction nets, a relatively recently discovered model of computation, as a possible alternative for cellular automata which are often employed as the basis for digital physics. Defined as graph-like structures (in contrast to the grids for cellular automata), interaction nets possess a set of interesting properties, such as locality, linearity, and strong confluence, which together result in so-called clockless computation in the sense that they do not require any global clock in order to operate. We believe that an attempt of using interaction nets as a replacement for cellular automata may lead to a new view in digital physics.

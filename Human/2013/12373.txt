@@ -1,0 +1,3 @@
+An Adaptive Dictionary Learning Approach for Modeling Dynamical Textures
+
+Video representation is an important and challenging task in the computer vision community. In this paper, we assume that image frames of a moving scene can be modeled as a Linear Dynamical System. We propose a sparse coding framework, named adaptive video dictionary learning (AVDL), to model a video adaptively. The developed framework is able to capture the dynamics of a moving scene by exploring both sparse properties and the temporal correlations of consecutive video frames. The proposed method is compared with state of the art video processing methods on several benchmark data sequences, which exhibit appearance changes and heavy occlusions.

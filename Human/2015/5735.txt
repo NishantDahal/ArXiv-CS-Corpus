@@ -1,0 +1,3 @@
+Fast and numerically stable circle fit
+
+We develop a new algorithm for fitting circles that does not have drawbacks commonly found in existing circle fits. Our fit achieves ultimate accuracy (to machine precision), avoids divergence, and is numerically stable even when fitting circles get arbitrary large. Lastly, our algorithm takes less than 10 iterations to converge, on average.

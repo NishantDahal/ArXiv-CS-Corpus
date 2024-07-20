@@ -1,0 +1,10 @@
+Unleashing the power of Schrijver's permanental inequality with the help of the Bethe Approximation
+
+Let $A \in Ω_n$ be doubly-stochastic $n \times n$ matrix. Alexander Schrijver proved in 1998 the following remarkable inequality per(\widetilde{A}) \geq \prod_{1 \leq i,j \leq n} (1- A(i,j)); \widetilde{A}(i,j) =: A(i,j)(1-A(i,j)), 1 \leq i,j \leq n.
+  We use the above Shrijver's inequality to prove the following lower bound:
+  \frac{per(A)}{F(A)} \geq 1; F(A) =: \prod_{1 \leq i,j \leq n} (1- A(i,j))^{1- A(i,j)}.
+  We use this new lower bound to prove S.Friedland's Asymptotic Lower Matching Conjecture(LAMC) on monomer-dimer problem.
+  We use some ideas of our proof of (LAMC) to disprove [Lu,Mohr,Szekely] positive correlation conjecture.
+  We present explicit doubly-stochastic $n \times n$ matrices $A$ with the ratio $\frac{per(A)}{F(A)} = \sqrt{2}^{n}$; conjecture that
+  \max_{A \in Ω_n}\frac{per(A)}{F(A)} \approx (\sqrt{2})^{n} and give some examples supporting the conjecture.
+  If true, the conjecture (and other ones stated in the paper) would imply a deterministic poly-time algorithm to approximate the permanent of $n \times n$ nonnegative matrices within the relative factor $(\sqrt{2})^{n}$. The best current such factor is $e^n$.

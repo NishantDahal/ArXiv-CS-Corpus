@@ -1,0 +1,3 @@
+Differentially Private Confidence Intervals for Empirical Risk Minimization
+
+The process of data mining with differential privacy produces results that are affected by two types of noise: sampling noise due to data collection and privacy noise that is designed to prevent the reconstruction of sensitive information. In this paper, we consider the problem of designing confidence intervals for the parameters of a variety of differentially private machine learning models. The algorithms can provide confidence intervals that satisfy differential privacy (as well as the more recently proposed concentrated differential privacy) and can be used with existing differentially private mechanisms that train models using objective perturbation and output perturbation.

@@ -1,0 +1,3 @@
+A survey of sparse matrix-vector multiplication performance on large matrices
+
+We contribute a third-party survey of sparse matrix-vector (SpMV) product performance on industrial-strength, large matrices using: (1) The SpMV implementations in Intel MKL, the Trilinos project (Tpetra subpackage), the CUSPARSE library, and the CUSP library, each running on modern architectures. (2) NVIDIA GPUs and Intel multi-core CPUs (supported by each software package). (3) The CSR, BSR, COO, HYB, and ELL matrix formats (supported by each software package).

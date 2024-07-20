@@ -1,0 +1,3 @@
+Acceleration of the PDHGM on strongly convex subspaces
+
+We propose several variants of the primal-dual method due to Chambolle and Pock. Without requiring full strong convexity of the objective functions, our methods are accelerated on subspaces with strong convexity. This yields mixed rates, $O(1/N^2)$ with respect to initialisation and $O(1/N)$ with respect to the dual sequence, and the residual part of the primal sequence. We demonstrate the efficacy of the proposed methods on image processing problems lacking strong convexity, such as total generalised variation denoising and total variation deblurring.

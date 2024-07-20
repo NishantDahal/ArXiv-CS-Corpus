@@ -1,0 +1,3 @@
+Efficiently determining Convergence in Polynomial Recurrence Sequences
+
+We derive the necessary and sufficient condition, for a given Polynomial Recurrence Sequence to converge to a given target rational K. By converge, we mean that the Nth term of the sequence, is equal to K, as N tends to positive infinity. The basic idea of our approach is to construct a univariate polynomial equation in x, whose coefficients correspond to the terms of the Sequence. The approach then obtains the condition by analyzing five cases that cover all possible real values of x. The condition can be evaluated within time that is a polynomial function of the size of the description of the Polynomial Recurrence Sequence, hence convergence or non-convergence can be efficiently determined.

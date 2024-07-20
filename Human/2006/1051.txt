@@ -1,0 +1,3 @@
+Secure Controlled Teleportation
+
+Several protocols for controlled teleportation were suggested by Yang, Chu, and Han [PRA 70, 022329 (2004)]. In these protocols, Alice teleports qubits (in an unknown state) to Bob iff a controller allows it. We view this problem in the perspective of secure multi-party quantum computation. We show that the suggested entanglement-efficient protocols for $m$-qubit controlled teleportation are open to cheating; Alice and Bob may teleport $(m-1)$-qubits of quantum information, out of the controllers' control. We conjecture that the straightforward protocol for controlled teleportation, which requires each controller to hold $m$ entangled qubits, is optimal. We prove this conjecture for a limited, but interesting, subset of protocols.

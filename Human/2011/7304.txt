@@ -1,0 +1,3 @@
+Estimation of the length of interactions in arena game semantics
+
+We estimate the maximal length of interactions between strategies in HO/N game semantics, in the spirit of the work by Schwichtenberg and Beckmann for the length of reduction in simply typed lambdacalculus. Because of the operational content of game semantics, the bounds presented here also apply to head linear reduction on lambda-terms and to the execution of programs by abstract machines (PAM/KAM), including in presence of computational effects such as non-determinism or ground type references. The proof proceeds by extracting from the games model a combinatorial rewriting rule on trees of natural numbers, which can then be analyzed independently of game semantics or lambda-calculus.

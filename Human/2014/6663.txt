@@ -1,0 +1,3 @@
+A Cascade Neural Network Architecture investigating Surface Plasmon Polaritons propagation for thin metals in OpenMP
+
+Surface plasmon polaritons (SPPs) confined along metal-dielectric interface have attracted a relevant interest in the area of ultracompact photonic circuits, photovoltaic devices and other applications due to their strong field confinement and enhancement. This paper investigates a novel cascade neural network (NN) architecture to find the dependance of metal thickness on the SPP propagation. Additionally, a novel training procedure for the proposed cascade NN has been developed using an OpenMP-based framework, thus greatly reducing training time. The performed experiments confirm the effectiveness of the proposed NN architecture for the problem at hand.

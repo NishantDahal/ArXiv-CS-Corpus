@@ -1,0 +1,4 @@
+Towards an algebraic characterization of rational word functions
+
+In formal language theory, several different models characterize regular languages, such as finite automata, congruences of finite index, or monadic second-order logic (MSO). Moreover, several fragments of MSO have effective characterizations based on algebraic properties. When we consider transducers instead of automata, such characterizations are much more challenging, because many of the properties of regular languages do not generalize to regular word functions.
+  In this paper we consider word functions that are definable by one-way transducers (rational functions). We show that the canonical bimachine of Reutenauer and Schützenberger preserves certain algebraic properties of rational functions, similar to the case of word languages. In particular, we give an effective characterization of functions that can be defined by an aperiodic one-way transducer.

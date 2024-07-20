@@ -1,0 +1,3 @@
+Cross Device Matching for Online Advertising with Neural Feature Ensembles : First Place Solution at CIKM Cup 2016
+
+We describe the 1st place winning approach for the CIKM Cup 2016 Challenge. In this paper, we provide an approach to reasonably identify same users across multiple devices based on browsing logs. Our approach regards a candidate ranking problem as pairwise classification and utilizes an unsupervised neural feature ensemble approach to learn latent features of users. Combined with traditional hand crafted features, each user pair feature is fed into a supervised classifier in order to perform pairwise classification. Lastly, we propose supervised and unsupervised inference techniques.

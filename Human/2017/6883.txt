@@ -1,0 +1,3 @@
+Semantic Identification of Web Browsing Sessions
+
+We introduce a semantic identification attack, in which an adversary uses semantic signals about the pages visited in one browsing session to identify other browsing sessions launched by the same user. Current user fingerprinting methods fail when a single machine is used by multiple users (e.g., in cybercafes or spaces with public computers) as these methods fingerprint devices, not individuals. We demonstrate how an adversary can employ a SIA to successfully fingerprint users on public or shared machines and identify them across browsing sessions. We additionally describe and evaluate possible countermeasures to prevent identification.

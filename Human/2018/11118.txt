@@ -1,0 +1,3 @@
+Cleaning up the neighborhood: A full classification for adversarial partial monitoring
+
+Partial monitoring is a generalization of the well-known multi-armed bandit framework where the loss is not directly observed by the learner. We complete the classification of finite adversarial partial monitoring to include all games, solving an open problem posed by Bartok et al. [2014]. Along the way we simplify and improve existing algorithms and correct errors in previous analyses. Our second contribution is a new algorithm for the class of games studied by Bartok [2013] where we prove upper and lower regret bounds that shed more light on the dependence of the regret on the game structure.

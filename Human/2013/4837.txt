@@ -1,0 +1,3 @@
+Convergence analysis of the FOCUSS algorithm
+
+FOCal Underdetermined System Solver (FOCUSS) is a powerful tool for sparse representation and underdetermined inverse problems, which is extremely easy to implement. In this paper, we give a comprehensive convergence analysis on the FOCUSS algorithm towards establishing a systematic convergence theory by providing three primary contributions as follows. First, we give a rigorous derivation for this algorithm exploiting the auxiliary function. Then, we prove its convergence. Third, we systematically study its convergence rate with respect to the sparsity parameter p and demonstrate its convergence rate by numerical experiments.

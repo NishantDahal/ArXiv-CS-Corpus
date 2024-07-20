@@ -1,0 +1,3 @@
+An accelerated CLPSO algorithm
+
+The particle swarm approach provides a low complexity solution to the optimization problem among various existing heuristic algorithms. Recent advances in the algorithm resulted in improved performance at the cost of increased computational complexity, which is undesirable. Literature shows that the particle swarm optimization algorithm based on comprehensive learning provides the best complexity-performance trade-off. We show how to reduce the complexity of this algorithm further, with a slight but acceptable performance loss. This enhancement allows the application of the algorithm in time critical applications, such as, real-time tracking, equalization etc.

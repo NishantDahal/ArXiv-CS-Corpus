@@ -1,0 +1,3 @@
+The Expressive Power of DL-Lite
+
+Description logics are knowledge representation formalisms that provide the formal underpinning of the semantic web and in particular of the $\text{OWL}$ Ontology Web Language. In this paper we investigate the expressive power of logic $\text{DL-Lite}_{R,\sqcap}$, and some of its computational properties. We rely on simulations to characterize the absolute expressive power of $\text{DL-Lite}_{R,\sqcap}$ as a concept language, and to show that disjunction is not expressible. We also show that no simulation-based closure property exists for $\text{DL-Lite}_{R,\sqcap}$ assertions. Finally, we show that query answering of unions of conjunctive queries is $\text{NP-complete}$.

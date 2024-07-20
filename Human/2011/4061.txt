@@ -1,0 +1,3 @@
+The second-price auction solves King Solomon's dilemma
+
+The planner wants to give k identical, indivisible objects to the top k valuation agents at zero costs. Each agent knows her own valuation of the object and whether it is among the top k. Modify the (k+1)st-price sealed-bid auction by introducing a small participation fee and the option not to participate in it. This simple mechanism implements the desired outcome in iteratively undominated strategies. Moreover, no pair of agents can profitably deviate from the equilibrium by coordinating their strategies or bribing each other.

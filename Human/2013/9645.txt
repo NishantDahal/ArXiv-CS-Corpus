@@ -1,0 +1,4 @@
+Induction by Coinduction and Control Operators in Call-by-Name
+
+This paper studies emulation of induction by coinduction in a call-by-name language with control operators.  Since it is known that call-by-name programming languages with control operators cannot have general initial algebras, interaction of induction and control operators is often restricted to effect-free functions.  We show that some class of such restricted inductive types can be derived from full coinductive types by the power of control operators.  As a typical example of our results, the type of natural numbers is represented by the type of streams.  The underlying idea is a counterpart of the fact that some coinductive types can be expressed by inductive types in call-by-name pure language without side-effects.
+

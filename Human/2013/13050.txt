@@ -1,0 +1,3 @@
+Fast Polar Decoders: Algorithm and Implementation
+
+Polar codes provably achieve the symmetric capacity of a memoryless channel while having an explicit construction. This work aims to increase the throughput of polar decoder hardware by an order of magnitude relative to the state of the art successive-cancellation decoder. We present an algorithm, architecture, and FPGA implementation of a gigabit-per-second polar decoder.

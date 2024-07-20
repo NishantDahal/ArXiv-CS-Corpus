@@ -1,0 +1,3 @@
+ExpTime Tableaux with Global Caching for the Description Logic SHOQ
+
+We give the first ExpTime (complexity-optimal) tableau decision procedure for checking satisfiability of a knowledge base in the description logic SHOQ, which extends the basic description logic ALC with transitive roles, hierarchies of roles, nominals and quantified number restrictions. The complexity is measured using unary representation for numbers. Our procedure is based on global caching and integer linear feasibility checking.

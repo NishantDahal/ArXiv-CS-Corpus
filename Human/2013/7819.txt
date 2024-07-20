@@ -1,0 +1,5 @@
+Optimizing CUDA Code By Kernel Fusion---Application on BLAS
+
+Modern GPUs are able to perform significantly more arithmetic operations than transfers of a single word to or from global memory. Hence, many GPU kernels are limited by memory bandwidth and cannot exploit the arithmetic power of GPUs. However, the memory locality can be often improved by kernel fusion when a sequence of kernels is executed and some kernels in this sequence share data.
+  In this paper, we show how kernels performing map, reduce or their nested combinations can be fused automatically by our source-to-source compiler. To demonstrate the usability of the compiler, we have implemented several BLAS-1 and BLAS-2 routines and show how the performance of their sequences can be improved by fusions.
+  Compared to similar sequences using CUBLAS, our compiler is able to generate code that is up to 2.61x faster for the examples tested.

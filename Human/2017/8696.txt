@@ -1,0 +1,5 @@
+Formalized Lambek Calculus in Higher Order Logic (HOL4)
+
+In this project, a rather complete proof-theoretical formalization of Lambek Calculus (non-associative with arbitrary extensions) has been ported from Coq proof assistent to HOL4 theorem prover, with some improvements and new theorems.
+  Three deduction systems (Syntactic Calculus, Natural Deduction and Sequent Calculus) of Lambek Calculus are defined with many related theorems proved. The equivalance between these systems are formally proved. Finally, a formalization of Sequent Calculus proofs (where Coq has built-in supports) has been designed and implemented in HOL4. Some basic results including the sub-formula properties of the so-called "cut-free" proofs are formally proved.
+  This work can be considered as the preliminary work towards a language parser based on category grammars which is not multimodal but still has ability to support context-sensitive languages through customized extensions.

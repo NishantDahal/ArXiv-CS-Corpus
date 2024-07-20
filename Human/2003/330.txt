@@ -1,0 +1,3 @@
+A Community Authorization Service for Group Collaboration
+
+In "Grids" and "collaboratories," we find distributed communities of resource providers and resource consumers, within which often complex and dynamic policies govern who can use which resources for which purpose. We propose a new approach to the representation, maintenance, and enforcement of such policies that provides a scalable mechanism for specifying and enforcing these policies. Our approach allows resource providers to delegate some of the authority for maintaining fine-grained access control policies to communities, while still maintaining ultimate control over their resources. We also describe a prototype implementation of this approach and an application in a data management context.

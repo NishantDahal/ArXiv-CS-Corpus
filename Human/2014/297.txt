@@ -1,0 +1,5 @@
+Partition Expanders
+
+We introduce a new concept, which we call partition expanders. The basic idea is to study quantitative properties of graphs in a slightly different way than it is in the standard definition of expanders. While in the definition of expanders it is required that the number of edges between any pair of sufficiently large sets is close to the expected number, we consider partitions and require this condition only for most of the pairs of blocks. As a result, the blocks can be substantially smaller.
+  We show that for some range of parameters, to be a partition expander a random graph needs exponentially smaller degree than any expander would require in order to achieve similar expanding properties.
+  We apply the concept of partition expanders in communication complexity. First, we give a PRG for the SMP model of the optimal seed length, n+O(log k). Second, we compare the model of SMP to that of Simultaneous Two-Way Communication, and give a new separation that is stronger both qualitatively and quantitatively than the previously known ones.

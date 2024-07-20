@@ -1,0 +1,3 @@
+Online and Adaptive Pseudoinverse Solutions for ELM Weights
+
+The ELM method has become widely used for classification and regressions problems as a result of its accuracy, simplicity and ease of use. The solution of the hidden layer weights by means of a matrix pseudoinverse operation is a significant contributor to the utility of the method; however, the conventional calculation of the pseudoinverse by means of a singular value decomposition (SVD) is not always practical for large data sets or for online updates to the solution. In this paper we discuss incremental methods for solving the pseudoinverse which are suitable for ELM. We show that careful choice of methods allows us to optimize for accuracy, ease of computation, or adaptability of the solution.

@@ -1,0 +1,3 @@
+Asymptotics of the number of threshold functions on a two-dimensional rectangular grid
+
+Let $m,n\ge 2$, $m\le n$. It is well-known that the number of (two-dimensional) threshold functions on an $m\times n$ rectangular grid is {eqnarray*} t(m,n)=\frac{6}{π^2}(mn)^2+O(m^2n\log{n})+O(mn^2\log{\log{n}})= \frac{6}{π^2}(mn)^2+O(mn^2\log{m}). {eqnarray*} We improve the error term by showing that $$ t(m,n)=\frac{6}{π^2}(mn)^2+O(mn^2). $$

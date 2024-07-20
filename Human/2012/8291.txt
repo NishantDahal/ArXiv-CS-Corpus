@@ -1,0 +1,3 @@
+Enhancing Algebraic Query Relaxation with Semantic Similarity
+
+Cooperative database systems support a database user by searching for answers that are closely related to his query and hence are informative answers. Common operators to relax the user query are Dropping Condition, Anti-Instantiation and Goal Replacement. In this article, we provide an algebraic version of these operators. Moreover we propose some heuristics to assign a degree of similarity to each tuple of an answer table; this degree can help the user to determine whether this answer is relevant for him or not.

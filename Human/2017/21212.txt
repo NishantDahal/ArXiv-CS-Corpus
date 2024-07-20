@@ -1,0 +1,3 @@
+New Subexponential Fewnomial Hypersurface Bounds
+
+Suppose $c_1,\ldots,c_{n+k}$ are real numbers, $\{a_1,\ldots,a_{n+k}\}\!\subset\!\mathbb{R}^n$ is a set of points not all lying in the same affine hyperplane, $y\!\in\!\mathbb{R}^n$, $a_j\cdot y$ denotes the standard real inner product of $a_j$ and $y$, and we set $g(y)\!:=\!\sum^{n+k}_{j=1} c_j e^{a_j\cdot y}$. We prove that, for generic $c_j$, the number of connected components of the real zero set of $g$ is $O\!\left(n^2+\sqrt{2}^{k^2}(n+2)^{k-2}\right)$. The best previous upper bounds, when restricted to the special case $k\!=\!3$ and counting just the non-compact components, were already exponential in $n$.

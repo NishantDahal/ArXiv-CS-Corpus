@@ -1,0 +1,5 @@
+On the hardness of switching to a small number of edges
+
+Seidel's switching is a graph operation which makes a given vertex adjacent to precisely those vertices to which it was non-adjacent before, while keeping the rest of the graph unchanged. Two graphs are called switching-equivalent if one can be made isomorphic to the other one by a sequence of switches.
+  Jelínková et al. [DMTCS 13, no. 2, 2011] presented a proof that it is NP-complete to decide if the input graph can be switched to contain at most a given number of edges. There turns out to be a flaw in their proof. We present a correct proof.
+  Furthermore, we prove that the problem remains NP-complete even when restricted to graphs whose density is bounded from above by an arbitrary fixed constant. This partially answers a question of Matoušek and Wagner [Discrete Comput. Geom. 52, no. 1, 2014].

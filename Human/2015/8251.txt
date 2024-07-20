@@ -1,0 +1,3 @@
+Building an OSS Quality Estimation Model with CATREG
+
+Open Source Software (OSS) has been a popular form in software development. In this paper, we use statistical approaches to derive OSS quality estimation models. Our objective is to build estimation models for the number of defects with metrics at project levels. First CATREG (Categorical regression with optimal scaling) is used to obtain quantifications of the qualitative variables. Then the independent variables are validated using the stepwise linear regression. The process is repeated to acquire optimal quantifications and final regression formula. This modeling process is performed based on data from the OSS communities and is proved to be practically valuable.

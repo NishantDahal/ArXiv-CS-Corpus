@@ -1,0 +1,3 @@
+A quantum Fourier transform algorithm
+
+Algorithms to compute the quantum Fourier transform over a cyclic group are fundamental to many quantum algorithms. This paper describes such an algorithm and gives a proof of its correctness, tightening some claimed performance bounds given earlier. Exact bounds are given for the number of qubits needed to achieve a desired tolerance, allowing simulation of the algorithm.

@@ -1,0 +1,6 @@
+A Comment on "Analysis of Video Image Sequences Using Point and Line Correspondences"
+
+In this paper we would like to deny the results of Wang et al. raising two fundamental claims:
+  * A line does not contribute anything to recognition of motion parameters from two images
+  * Four traceable points are not sufficient to recover motion parameters from two perspective
+  To be constructive, however, we show that four traceable points are sufficient to recover motion parameters from two frames under orthogonal projection and that five points are sufficient to simplify the solution of the two-frame problem under orthogonal projection to solving a linear equation system.

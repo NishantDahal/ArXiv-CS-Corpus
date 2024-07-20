@@ -1,0 +1,4 @@
+The Traveling Salesman Problem Under Squared Euclidean Distances
+
+Let $P$ be a set of points in $\mathbb{R}^d$, and let $α\ge 1$ be a real number. We define the distance between two points $p,q\in P$ as $|pq|^α$, where $|pq|$ denotes the standard Euclidean distance between $p$ and $q$. We denote the traveling salesman problem under this distance function by TSP($d,α$). We design a 5-approximation algorithm for TSP(2,2) and generalize this result to obtain an approximation factor of $3^{α-1}+\sqrt{6}^α/3$ for $d=2$ and all $α\ge2$.
+  We also study the variant Rev-TSP of the problem where the traveling salesman is allowed to revisit points. We present a polynomial-time approximation scheme for Rev-TSP$(2,α)$ with $α\ge2$, and we show that Rev-TSP$(d, α)$ is APX-hard if $d\ge3$ and $α>1$. The APX-hardness proof carries over to TSP$(d, α)$ for the same parameter ranges.

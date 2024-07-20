@@ -1,0 +1,3 @@
+Quantum adiabatic machine learning
+
+We develop an approach to machine learning and anomaly detection via quantum adiabatic evolution. In the training phase we identify an optimal set of weak classifiers, to form a single strong classifier. In the testing phase we adiabatically evolve one or more strong classifiers on a superposition of inputs in order to find certain anomalous elements in the classification space. Both the training and testing phases are executed via quantum adiabatic evolution. We apply and illustrate this approach in detail to the problem of software verification and validation.

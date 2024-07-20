@@ -1,0 +1,7 @@
+Horn Linear Logic and Minsky Machines
+
+Here we give a detailed proof for the crucial point in our Minsky machine simulation - that any linear logic derivation for a specific Horn sequent can be transformed into a Minsky computation leading from an initial configuration to the halting configuration.
+  Among other things, the presentation advantage of the 3-step program is that the non-trivial tricky points are distributed between the independent parts each of which we justify following its own intrinsic methodology (to say nothing of the induction used in the opposite directions):
+  (1) From LL to HLL - we use purely proof-theoretic arguments.
+  (2) From HLL to Horn programs - we translate trees (HLL derivations) into another trees (Horn programs)of the same shape, almost.
+  (3) From Horn programs to Minsky computations - we use purely computational arguments.

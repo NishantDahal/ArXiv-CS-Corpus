@@ -1,0 +1,3 @@
+Increasing precision of uniform pseudorandom number generators
+
+A general method to produce uniformly distributed pseudorandom numbers with extended precision by combining two pseudorandom numbers with lower precision is proposed. In particular, this method can be used for pseudorandom number generation with extended precision on graphics processing units (GPU), where the performance of single and double precision operations can vary significantly.

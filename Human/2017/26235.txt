@@ -1,0 +1,3 @@
+Tight Semi-Nonnegative Matrix Factorization
+
+The nonnegative matrix factorization is a widely used, flexible matrix decomposition, finding applications in biology, image and signal processing and information retrieval, among other areas. Here we present a related matrix factorization. A multi-objective optimization problem finds conical combinations of templates that approximate a given data matrix. The templates are chosen so that as far as possible only the initial data set can be represented this way. However, the templates are not required to be nonnegative nor convex combinations of the original data.

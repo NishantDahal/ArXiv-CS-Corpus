@@ -1,0 +1,3 @@
+A o(n) monotonicity tester for Boolean functions over the hypercube
+
+A Boolean function $f:\{0,1\}^n \mapsto \{0,1\}$ is said to be $\eps$-far from monotone if $f$ needs to be modified in at least $\eps$-fraction of the points to make it monotone. We design a randomized tester that is given oracle access to $f$ and an input parameter $\eps>0$, and has the following guarantee: It outputs {\sf Yes} if the function is monotonically non-decreasing, and outputs {\sf No} with probability $>2/3$, if the function is $\eps$-far from monotone. This non-adaptive, one-sided tester makes $O(n^{7/8}\eps^{-3/2}\ln(1/\eps))$ queries to the oracle.

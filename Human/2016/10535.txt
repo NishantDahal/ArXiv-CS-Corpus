@@ -1,0 +1,3 @@
+An Approximation Algorithm for the Art Gallery Problem
+
+Given a simple polygon $\mathcal{P}$ on $n$ vertices, two points $x,y$ in $\mathcal{P}$ are said to be visible to each other if the line segment between $x$ and $y$ is contained in $\mathcal{P}$. The Point Guard Art Gallery problem asks for a minimum set $S$ such that every point in $\mathcal{P}$ is visible from a point in $S$. The set $S$ is referred to as guards. Assuming integer coordinates and a specific general position assumption, we present the first $O(\log \text{OPT})$-approximation algorithm for the point guard problem for simple polygons. This algorithm combines ideas of a paper of Efrat and Har-Peled [Inf. Process. Lett. 2006] and Deshpande et. al. [WADS 2007]. We also point out a mistake in the latter.

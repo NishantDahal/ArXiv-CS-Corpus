@@ -1,0 +1,3 @@
+Sampling a Network to Find Nodes of Interest
+
+The focus of the current research is to identify people of interest in social networks. We are especially interested in studying dark networks, which represent illegal or covert activity. In such networks, people are unlikely to disclose accurate information when queried. We present REDLEARN, an algorithm for sampling dark networks with the goal of identifying as many nodes of interest as possible. We consider two realistic lying scenarios, which describe how individuals in a dark network may attempt to conceal their connections. We test and present our results on several real-world multilayered networks, and show that REDLEARN achieves up to a 340% improvement over the next best strategy.

@@ -1,0 +1,3 @@
+Approximate Counting of Matchings in $(3,3)$-Hypergraphs
+
+We design a fully polynomial time approximation scheme (FPTAS) for counting the number of matchings (packings) in arbitrary 3-uniform hypergraphs of maximum degree three, referred to as $(3,3)$-hypergraphs. It is the first polynomial time approximation scheme for that problem, which includes also, as a special case, the 3D Matching counting problem for 3-partite $(3,3)$-hypergraphs. The proof technique of this paper uses the general correlation decay technique and a new combinatorial analysis of the underlying structures of the intersection graphs. The proof method could be also of independent interest.

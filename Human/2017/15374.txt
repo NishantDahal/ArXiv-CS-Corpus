@@ -1,0 +1,3 @@
+Efficient barycentric point sampling on meshes
+
+We present an easy-to-implement and efficient analytical inversion algorithm for the unbiased random sampling of a set of points on a triangle mesh whose surface density is specified by barycentric interpolation of non-negative per-vertex weights. The correctness of the inversion algorithm is verified via statistical tests, and we show that it is faster on average than rejection sampling.

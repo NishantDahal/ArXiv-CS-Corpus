@@ -1,0 +1,3 @@
+Automatic Clustering of a Network Protocol with Weakly-Supervised Clustering
+
+Abstraction is a fundamental part when learning behavioral models of systems. Usually the process of abstraction is manually defined by domain experts. This paper presents a method to perform automatic abstraction for network protocols. In particular a weakly supervised clustering algorithm is used to build an abstraction with a small vocabulary size for the widely used TLS protocol. To show the effectiveness of the proposed method we compare the resultant abstract messages to a manually constructed (reference) abstraction. With a small amount of side-information in the form of a few labeled examples this method finds an abstraction that matches the reference abstraction perfectly.

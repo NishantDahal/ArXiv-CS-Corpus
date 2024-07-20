@@ -1,0 +1,3 @@
+Mantel's Theorem for random graphs
+
+For a graph $G$, denote by $t(G)$ (resp. $b(G)$) the maximum size of a triangle-free (resp. bipartite) subgraph of $G$. Of course $t(G) \geq b(G)$ for any $G$, and a classic result of Mantel from 1907 (the first case of Turán's Theorem) says that equality holds for complete graphs. A natural question, first considered by Babai, Simonovits and Spencer about 20 years ago is, when (i.e. for what $p=p(n)$) is the "Erdős-Rényi" random graph $G=G(n,p)$ likely to satisfy $t(G) = b(G)$? We show that this is true if $p>C n^{-1/2} \log^{1/2}n $ for a suitable constant $C$, which is best possible up to the value of $C$.

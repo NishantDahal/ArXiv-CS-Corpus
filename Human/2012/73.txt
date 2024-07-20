@@ -1,0 +1,3 @@
+Improvement on the decay of crossing numbers
+
+We prove that the crossing number of a graph decays in a continuous fashion in the following sense. For any epsilon>0 there is a delta>0 such that for a sufficiently large n, every graph G with n vertices and m > n^{1+epsilon} edges, has a subgraph G' of at most (1-delta)m edges and crossing number at least (1-epsilon)cr(G). This generalizes the result of J. Fox and Cs. Toth.

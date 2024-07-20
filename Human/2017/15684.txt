@@ -1,0 +1,3 @@
+Asymptotic Analysis of Plausible Tree Hash Modes for SHA-3
+
+Discussions about the choice of a tree hash mode of operation for a standardization have recently been undertaken. It appears that a single tree mode cannot address adequately all possible uses and specifications of a system. In this paper, we review the tree modes which have been proposed, we discuss their problems and propose remedies. We make the reasonable assumption that communicating systems have different specifications and that software applications are of different types (securing stored content or live-streamed content). Finally, we propose new modes of operation that address the resource usage problem for the three most representative categories of devices and we analyse their asymptotic behavior.

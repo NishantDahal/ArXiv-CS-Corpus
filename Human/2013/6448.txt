@@ -1,0 +1,3 @@
+Verification of Query Completeness over Processes [Extended Version]
+
+Data completeness is an essential aspect of data quality, and has in turn a huge impact on the effective management of companies. For example, statistics are computed and audits are conducted in companies by implicitly placing the strong assumption that the analysed data are complete. In this work, we are interested in studying the problem of completeness of data produced by business processes, to the aim of automatically assessing whether a given database query can be answered with complete information in a certain state of the process. We formalize so-called quality-aware processes that create data in the real world and store it in the company's information system possibly at a later point.

@@ -1,0 +1,3 @@
+Applying Bag of System Calls for Anomalous Behavior Detection of Applications in Linux Containers
+
+In this paper, we present the results of using bags of system calls for learning the behavior of Linux containers for use in anomaly-detection based intrusion detection system. By using system calls of the containers monitored from the host kernel for anomaly detection, the system does not require any prior knowledge of the container nature, neither does it require altering the container or the host kernel.

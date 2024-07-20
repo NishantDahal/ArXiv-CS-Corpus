@@ -1,0 +1,3 @@
+The physics of volume rendering
+
+Radiation transfer is an important topic in several physical disciplines, probably most prominently in astrophysics. Computer scientists use radiation transfer, among other things, for the visualisation of complex data sets with direct volume rendering. In this note, I point out the connection between physical radiation transfer and volume rendering, and I describe an implementation of direct volume rendering in the astrophysical radiation transfer code RADMC-3D. I show examples for the use of this module on analytical models and simulation data.

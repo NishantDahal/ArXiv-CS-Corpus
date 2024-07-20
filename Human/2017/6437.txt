@@ -1,0 +1,4 @@
+Equitable Colorings of $l$-Corona Products of Cubic Graphs
+
+A graph $G$ is equitably $k$-colorable if its vertices can be partitioned into $k$ independent sets in such a way that the number of vertices in any two sets differ by at most one. The smallest integer $k$ for which such a coloring exists is known as the \emph{equitable chromatic number} of $G$ and it is denoted by $χ_{=}(G)$.
+  In this paper the problem of determinig the value of equitable chromatic number for multicoronas of cubic graphs $G \circ^l H$ is studied. The problem of ordinary coloring of multicoronas of cubic graphs is solvable in polynomial time. The complexity of equitable coloring problem is an open question for these graphs. We provide some polynomially solvable cases of cubical multicoronas and give simple linear time algorithms for equitable coloring of such graphs which use at most $χ_=(G \circ ^l H) + 1$ colors in the remaining cases.

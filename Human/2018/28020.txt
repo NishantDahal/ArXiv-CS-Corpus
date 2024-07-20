@@ -1,0 +1,3 @@
+The equivalence between two classic algorithms for the assignment problem
+
+We give a detailed review of two algorithms that solve the minimization case of the assignment problem. The Bertsekas' auction algorithm and the Goldberg & Kennedy algorithm. We will show that these algorithms are equivalent in the sense that both perform equivalent steps in the same order. We also present experimental results comparing the performance of three algorithms for the assignment problem. They show the auction algorithm performs and scales better in practice than algorithms that are harder to implement but have better theoretical time complexity.

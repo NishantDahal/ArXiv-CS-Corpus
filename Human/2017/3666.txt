@@ -1,0 +1,3 @@
+A Polynomial-time Algorithm to Achieve Extended Justified Representation
+
+We consider a committee voting setting in which each voter approves of a subset of candidates and based on the approvals, a target number of candidates are to be selected. In particular we focus on the axiomatic property called extended justified representation (EJR). Although a committee satisfying EJR is guaranteed to exist, the computational complexity of finding such a committee has been an open problem and explicitly mentioned in multiple recent papers. We settle the complexity of finding a committee satisfying EJR by presenting a polynomial-time algorithm for the problem. Our algorithmic approach may be useful for constructing other voting rules in multi-winner voting.

@@ -1,0 +1,3 @@
+OO Model of the STAR offline production "Event Display" and its implementation based on Qt-ROOT
+
+The paper presents the "Event Display" package for the STAR offline production as a special visualization tool to debug the reconstruction code. This can be achieved if an author of the algorithm / code may build his/her own custom Event Display alone from the base software blocks and re-used some well-designed, easy to learn user-friendly patterns. For STAR offline production Event Display ROOT with Qt lower level interface was chosen as the base tools.

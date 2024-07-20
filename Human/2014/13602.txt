@@ -1,0 +1,3 @@
+A 237 Gbps Unrolled Hardware Polar Decoder
+
+In this letter we present a new architecture for a polar decoder using a reduced complexity successive cancellation decoding algorithm. This novel fully-unrolled, deeply-pipelined architecture is capable of achieving a coded throughput of over 237 Gbps for a (1024,512) polar code implemented using an FPGA. This decoder is two orders of magnitude faster than state-of-the-art polar decoders.

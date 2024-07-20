@@ -1,0 +1,3 @@
+Efficient On-line Detection of Temporal Patterns
+
+Identifying a temporal pattern of events is a fundamental task of on-line (real-time) verification. We present efficient schemes for on-line monitoring of events for identifying desired/undesired patterns of events. The schemes use preprocessing to ensure that the number of comparisons during run-time is minimized. In particular, the first comparison following the time point when an execution sub-sequence cannot be further extended to satisfy the temporal requirements, halts the process that monitors the sub-sequence.

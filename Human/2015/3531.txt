@@ -1,0 +1,5 @@
+Quadratic Zonotopes:An extension of Zonotopes to Quadratic Arithmetics
+
+Affine forms are a common way to represent convex sets of $\mathbb{R}$ using a base of error terms $ε\in [-1, 1]^m$. Quadratic forms are an extension of affine forms enabling the use of quadratic error terms $ε_i ε_j$.
+  In static analysis, the zonotope domain, a relational abstract domain based on affine forms has been used in a wide set of settings, e.g. set-based simulation for hybrid systems, or floating point analysis, providing relational abstraction of functions with a cost linear in the number of errors terms.
+  In this paper, we propose a quadratic version of zonotopes. We also present a new algorithm based on semi-definite programming to project a quadratic zonotope, and therefore quadratic forms, to intervals. All presented material has been implemented and applied on representative examples.

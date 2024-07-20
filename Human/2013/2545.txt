@@ -1,0 +1,3 @@
+Using Dempster-Shafer Theory in Knowledge Representation
+
+In this paper, we suggest marrying Dempster-Shafer (DS) theory with Knowledge Representation (KR).  Born out of this marriage is the definition of "Dempster-Shafer Belief Bases", abstract data types representing uncertain knowledge that use DS theory for representing strength of belief about our knowledge, and the linguistic structures of an arbitrary KR system for representing the knowledge itself.  A formal result guarantees that both the properties of the given KR system and of DS theory are preserved.  The general model is exemplified by defining DS Belief Bases where First Order Logic and (an extension of) KRYPTON are used as KR systems.  The implementation problem is also touched upon.

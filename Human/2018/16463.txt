@@ -1,0 +1,3 @@
+Composite Functional Gradient Learning of Generative Adversarial Models
+
+This paper first presents a theory for generative adversarial methods that does not rely on the traditional minimax formulation. It shows that with a strong discriminator, a good generator can be learned so that the KL divergence between the distributions of real data and generated data improves after each functional gradient step until it converges to zero. Based on the theory, we propose a new stable generative adversarial method. A theoretical insight into the original GAN from this new viewpoint is also provided. The experiments on image generation show the effectiveness of our new method.

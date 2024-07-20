@@ -1,0 +1,3 @@
+Distributed Bayesian Probabilistic Matrix Factorization
+
+Matrix factorization is a common machine learning technique for recommender systems. Despite its high prediction accuracy, the Bayesian Probabilistic Matrix Factorization algorithm (BPMF) has not been widely used on large scale data because of its high computational cost. In this paper we propose a distributed high-performance parallel implementation of BPMF on shared memory and distributed architectures. We show by using efficient load balancing using work stealing on a single node, and by using asynchronous communication in the distributed version we beat state of the art implementations.

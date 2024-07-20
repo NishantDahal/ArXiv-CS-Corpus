@@ -1,0 +1,3 @@
+The Road to VEGAS: Guiding the Search over Neutral Networks
+
+VEGAS (Varying Evolvability-Guided Adaptive Search) is a new methodology proposed to deal with the neutrality property of some optimization problems. ts main feature is to consider the whole neutral network rather than an arbitrary solution. Moreover, VEGAS is designed to escape from plateaus based on the evolvability of solution and a multi-armed bandit. Experiments are conducted on NK-landscapes with neutrality. Results show the importance of considering the whole neutral network and of guiding the search cleverly. The impact of the level of neutrality and of the exploration-exploitation trade-off are deeply analyzed.

@@ -1,0 +1,3 @@
+Authority-based Team Discovery in Social Networks
+
+Given a social network of experts, we address the problem of discovering a team of experts that collectively holds a set of skills required to complete a given project. Most prior work ranks possible solutions by communication cost, represented by edge weights in the expert network. Our contribution is to take experts authority into account, represented by node weights. We formulate several problems that combine communication cost and authority, we prove that they are NP-hard, and we propose and experimentally evaluate greedy algorithms to solve them.

@@ -1,0 +1,3 @@
+A Special Homotopy Continuation Method For A Class of Polynomial Systems
+
+A special homotopy continuation method, as a combination of the polyhedral homotopy and the linear product homotopy, is proposed for computing all the isolated solutions to a special class of polynomial systems. The root number bound of this method is between the total degree bound and the mixed volume bound and can be easily computed. The new algorithm has been implemented as a program called LPH using C++. Our experiments show its efficiency compared to the polyhedral or other homotopies on such systems. As an application, the algorithm can be used to find witness points on each connected component of a real variety.

@@ -1,0 +1,3 @@
+Tinker, tailor, solver, proof
+
+We introduce Tinker, a tool for designing and evaluating proof strategies based on proof-strategy graphs, a formalism previously introduced by the authors. We represent proof strategies as open-graphs, which are directed graphs with additional input/output edges. Tactics appear as nodes in a graph, and can be `piped' together by adding edges between them. Goals are added to the input edges of such a graph, and flow through the graph as the strategy is evaluated. Properties of the edges ensure that only the right `type' of goals are accepted. In this paper, we detail the Tinker tool and show how it can be integrated with two different theorem provers: Isabelle and ProofPower.

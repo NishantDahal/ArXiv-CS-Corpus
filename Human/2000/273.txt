@@ -1,0 +1,3 @@
+Phase Clocks for Transient Fault Repair
+
+Phase clocks are synchronization tools that implement a form of logical time in distributed systems. For systems tolerating transient faults by self-repair of damaged data, phase clocks can enable reasoning about the progress of distributed repair procedures. This paper presents a phase clock algorithm suited to the model of transient memory faults in asynchronous systems with read/write registers. The algorithm is self-stabilizing and guarantees accuracy of phase clocks within O(k) time following an initial state that is k-faulty. Composition theorems show how the algorithm can be used for the timing of distributed procedures that repair system outputs.

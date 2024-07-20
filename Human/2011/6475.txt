@@ -1,0 +1,3 @@
+Computation of generalized inverses using Php/MySql environment
+
+The main aim of this paper is to develop a client/server-based model for computing the weighted Moore-Penrose inverse using the partitioning method as well as for storage of generated results. The web application is developed in the PHP/MySQL environment. The source code is open and free for testing by using a web browser. Influence of different matrix representations and storage systems on the computational time is investigated. The CPU time for searching the previously stored pseudo-inverses is compared with the CPU time spent for new computation of the same inverses.

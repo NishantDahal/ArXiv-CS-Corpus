@@ -1,0 +1,3 @@
+On the equivalence of different presentations of Turner's bracket abstraction algorithm
+
+Turner's bracket abstraction algorithm is perhaps the most well-known improvement on simple bracket abstraction algorithms. It is also one of the most studied bracket abstraction algorithms. The definition of the algorithm in Turner's original paper is slightly ambiguous and it has been subject to different interpretations. It has been erroneously claimed in some papers that certain formulations of Turner's algorithm are equivalent. In this note we clarify the relationship between various presentations of Turner's algorithm and we show that some of them are in fact equivalent for translating lambda-terms in beta-normal form.

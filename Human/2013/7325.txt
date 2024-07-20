@@ -1,0 +1,5 @@
+Modularity and Openness in Modeling Multi-Agent Systems
+
+We revisit the formalism of modular interpreted systems (MIS) which encourages modular and open modeling of synchronous multi-agent systems. The original formulation of MIS did not live entirely up to its promise. In this paper, we propose how to improve modularity and openness of MIS by changing the structure of interference functions. These relatively small changes allow for surprisingly high flexibility when modeling actual multi-agent systems. We demonstrate this on two well-known examples, namely the trains, tunnel and controller, and the dining cryptographers.
+  Perhaps more importantly, we propose how the notions of multi-agency and openness, crucial for multi-agent systems, can be precisely defined based on their MIS representations.
+

@@ -1,0 +1,3 @@
+Optimal Crowdsourced Classification with a Reject Option in the Presence of Spammers
+
+We explore the design of an effective crowdsourcing system for an $M$-ary classification task. Crowd workers complete simple binary microtasks whose results are aggregated to give the final decision. We consider the scenario where the workers have a reject option so that they are allowed to skip microtasks when they are unable to or choose not to respond to binary microtasks. We present an aggregation approach using a weighted majority voting rule, where each worker's response is assigned an optimized weight to maximize crowd's classification performance.

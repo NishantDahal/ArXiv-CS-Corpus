@@ -1,0 +1,4 @@
+Linear-in-$Δ$ Lower Bounds in the LOCAL Model
+
+By prior work, there is a distributed algorithm that finds a maximal fractional matching (maximal edge packing) in $O(Δ)$ rounds, where $Δ$ is the maximum degree of the graph. We show that this is optimal: there is no distributed algorithm that finds a maximal fractional matching in $o(Δ)$ rounds.
+  Our work gives the first linear-in-$Δ$ lower bound for a natural graph problem in the standard model of distributed computing---prior lower bounds for a wide range of graph problems have been at best logarithmic in $Δ$.

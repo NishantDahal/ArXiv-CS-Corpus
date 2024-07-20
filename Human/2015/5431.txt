@@ -1,0 +1,3 @@
+Category Theory in Coq 8.5
+
+We report on our experience implementing category theory in Coq 8.5. The repository of this development can be found at https://bitbucket.org/amintimany/categories/. This implementation most notably makes use of features, primitive projections for records and universe polymorphism that are new to Coq 8.5.

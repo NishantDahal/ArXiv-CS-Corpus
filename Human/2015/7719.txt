@@ -1,0 +1,3 @@
+A note on entropy estimation
+
+We compare an entropy estimator $H_z$ recently discussed in [10] with two estimators $H_1$ and $H_2$ introduced in [6][7]. We prove the identity $H_z \equiv H_1$, which has not been taken into account in [10]. Then, we prove that the statistical bias of $H_1$ is less than the bias of the ordinary likelihood estimator of entropy. Finally, by numerical simulation we verify that for the most interesting regime of small sample estimation and large event spaces, the estimator $H_2$ has a significant smaller statistical error than $H_z$.

@@ -1,0 +1,3 @@
+Coresets and Sketches
+
+Geometric data summarization has become an essential tool in both geometric approximation algorithms and where geometry intersects with big data problems. In linear or near-linear time large data sets can be compressed into a summary, and then more intricate algorithms can be run on the summaries whose results approximate those of the full data set. Coresets and sketches are the two most important classes of these summaries. We survey five types of coresets and sketches: shape-fitting, density estimation, high-dimensional vectors, high-dimensional point sets / matrices, and clustering.

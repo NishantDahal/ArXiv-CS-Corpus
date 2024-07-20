@@ -1,0 +1,3 @@
+Disks, Partitions, Volumes and RAID Performance with the Linux Operating System
+
+Block devices in computer operating systems typically correspond to disks or disk partitions, and are used to store files in a filesystem. Disks are not the only real or virtual device which adhere to the block accessible stream of bytes block device model. Files, remote devices, or even RAM may be used as a virtual disks. This article examines several common combinations of block device layers used as virtual disks in the Linux operating system: disk partitions, loopback files, software RAID, Logical Volume Manager, and Network Block Devices. It measures their relative performance using different filesystems: Ext2, Ext3, ReiserFS, JFS, XFS,NFS.

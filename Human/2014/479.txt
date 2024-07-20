@@ -1,0 +1,9 @@
+Completeness Guarantees for Incomplete Ontology Reasoners: Theory and Practice
+
+To achieve scalability of query answering, the developers of Semantic Web applications are often forced to use incomplete OWL 2 reasoners, which fail to derive all answers for at least one query, ontology, and data set. The lack of completeness guarantees, however, may be unacceptable for applications in areas such as health care and defence, where missing answers can adversely affect the applications functionality. Furthermore, even if an application can tolerate some level of incompleteness, it is often advantageous to estimate how many and what kind of answers are being lost.
+
+In this paper, we present a novel logic-based framework that allows one to check whether a reasoner is complete for a given query Q and ontology T---that is, whether the reasoner is guaranteed to compute all answers to Q w.r.t. T and an arbitrary data set A. Since ontologies and typical queries are often fixed at application design time, our approach allows application developers to check whether a reasoner known to be incomplete in general is actually complete for the kinds of input relevant for the application.
+
+We also present a technique that, given a query Q, an ontology T, and reasoners R_1 and R_2 that satisfy certain assumptions, can be used to determine whether, for each data set A, reasoner R_1 computes more answers to Q w.r.t. T and A than reasoner R_2. This allows application developers to select the reasoner that provides the highest degree of completeness for Q and T that is compatible with the applications scalability requirements.
+
+Our results thus provide a theoretical and practical foundation for the design of future ontology-based information systems that maximise scalability while minimising or even eliminating incompleteness of query answers.

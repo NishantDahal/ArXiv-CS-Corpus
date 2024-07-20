@@ -1,0 +1,3 @@
+Simply Exponential Approximation of the Permanent of Positive Semidefinite Matrices
+
+We design a deterministic polynomial time $c^n$ approximation algorithm for the permanent of positive semidefinite matrices where $c=e^{γ+1}\simeq 4.84$. We write a natural convex relaxation and show that its optimum solution gives a $c^n$ approximation of the permanent. We further show that this factor is asymptotically tight by constructing a family of positive semidefinite matrices.

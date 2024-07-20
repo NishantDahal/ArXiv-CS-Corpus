@@ -1,0 +1,3 @@
+Small Superposition Dimension and Active Set Construction for Multivariate Integration Under Modest Error Demand
+
+Constructing active sets is a key part of the Multivariate Decomposition Method. An algorithm for constructing optimal or quasi-optimal active sets is proposed in the paper. By numerical experiments, it is shown that the new method can provide sets that are significantly smaller than the sets constructed by the already existing method. The experiments also show that the superposition dimension could surprisingly be very small, at most 3, when the error demand is not smaller than $10^{-3}$ and the weights decay sufficiently fast.

@@ -1,0 +1,3 @@
+Finding approximate palindromes in strings
+
+We introduce a novel definition of approximate palindromes in strings, and provide an algorithm to find all maximal approximate palindromes in a string with up to $k$ errors. Our definition is based on the usual edit operations of approximate pattern matching, and the algorithm we give, for a string of size $n$ on a fixed alphabet, runs in $O(k^2 n)$ time. We also discuss two implementation-related improvements to the algorithm, and demonstrate their efficacy in practice by means of both experiments and an average-case analysis.

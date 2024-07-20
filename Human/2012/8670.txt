@@ -1,0 +1,3 @@
+An Introduction on Dependency Between Hardware Life Time Components and Dynamic Voltage Scaling
+
+The main open question is how to calculate the effect of switching between frequencies in DVFS technique on the lifetime of the cluster components. As moving from one frequency to another in DVFS technique always gives a shock to the component and consequently decreases the component lifetime, therefore, it becomes interesting to answer the question of how fast a component can change its speed in order to decrease power without changing its lifetime.

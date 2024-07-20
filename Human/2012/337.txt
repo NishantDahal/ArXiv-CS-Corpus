@@ -1,0 +1,3 @@
+Adaptive Noise Reduction Scheme for Salt and Pepper
+
+In this paper, a new adaptive noise reduction scheme for images corrupted by impulse noise is presented. The proposed scheme efficiently identifies and reduces salt and pepper noise. MAG (Mean Absolute Gradient) is used to identify pixels which are most likely corrupted by salt and pepper noise that are candidates for further median based noise reduction processing. Directional filtering is then applied after noise reduction to achieve a good tradeoff between detail preservation and noise removal. The proposed scheme can remove salt and pepper noise with noise density as high as 90% and produce better result in terms of qualitative and quantitative measures of images.

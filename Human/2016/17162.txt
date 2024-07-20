@@ -1,0 +1,5 @@
+Cryptographically verifiable anonymous voting using pan-european e-IDs
+
+In this paper we explore a method to create anonymous services on top of the STORK framework, to be used for electronic surveys or elections.
+  The STORK project aims to realize a single electronic identification and authentication area across Europe. For verifiable and anonymous voting, users should be authenticated with their e-id (to prevent repeated voting) but the votes should also be anonymous. This is achieved using blind signatures and an onion routing system similar to the one used in TOR.
+  In the paper we describe the anonymous voting protocol in detail, we analyze a reference implementation and, finally, we highlight potential weaknesses and propose some improvements.

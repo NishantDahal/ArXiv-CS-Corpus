@@ -1,0 +1,5 @@
+Biabduction (and Related Problems) in Array Separation Logic
+
+We investigate array separation logic (ASL), a variant of symbolic-heap separation logic in which the data structures are either pointers or arrays, i.e., contiguous blocks of allocated memory. This logic provides a language for compositional memory safety proofs of imperative array programs.
+  We focus on the biabduction problem for this logic, which has been established as the key to automatic specification inference at the industrial scale. We present an NP decision procedure for biabduction in ASL that produces solutions of reasonable quality, and we also show that the problem of finding a consistent solution is NP-hard.
+  Along the way, we study satisfiability and entailment in our logic, giving decision procedures and complexity bounds for both problems. We show satisfiability to be NP-complete, and entailment to be decidable with high complexity. The somewhat surprising fact that biabduction is much simpler than entailment is explained by the fact that, as we show, the element of choice over biabduction solutions enables us to dramatically reduce the search space.

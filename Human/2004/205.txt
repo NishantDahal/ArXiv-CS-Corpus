@@ -1,0 +1,3 @@
+Efficient dot product over word-size finite fields
+
+We want to achieve efficiency for the exact computation of the dot product of two vectors over word-size finite fields. We therefore compare the practical behaviors of a wide range of implementation techniques using different representations. The techniques used include oating point representations, discrete logarithms, tabulations, Montgomery reduction, delayed modulus.

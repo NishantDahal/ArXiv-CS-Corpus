@@ -1,0 +1,3 @@
+Distributed Join-the-Idle-Queue for Low Latency Cloud Services
+
+Low latency is highly desirable for cloud services. To achieve low response time, stringent timing requirements are needed for task scheduling in a large-scale server farm spanning thousands of servers. In this paper, we conduct an in-depth analysis for distributed Join-the-Idle-Queue (JIQ), a promising new approximation of an idealized task-scheduling algorithm. In particular, we derive semi-closed form expressions for the delay performance of distributed JIQ, and we propose a new variant of distributed JIQ that offers clear advantages over alternative algorithms for large systems.

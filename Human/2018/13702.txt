@@ -1,0 +1,3 @@
+Subquadratic Algorithms for the Diameter and the Sum of Pairwise Distances in Planar Graphs
+
+We show how to compute for $n$-vertex planar graphs in $O(n^{11/6}{\rm polylog}(n))$ expected time the diameter and the sum of the pairwise distances. The algorithms work for directed graphs with real weights and no negative cycles. In $O(n^{15/8}{\rm polylog}(n))$ expected time we can also compute the number of pairs of vertices at distance smaller than a given threshold. These are the first algorithms for these problems using time $O(n^c)$ for some constant $c<2$, even when restricted to undirected, unweighted planar graphs.

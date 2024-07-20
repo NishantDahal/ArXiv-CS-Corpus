@@ -1,0 +1,3 @@
+A Resolution Calculus for Dynamic Semantics
+
+This paper applies resolution theorem proving to natural language semantics. The aim is to circumvent the computational complexity triggered by natural language ambiguities like pronoun binding, by interleaving pronoun binding with resolution deduction. Therefore disambiguation is only applied to expression that actually occur during derivations.

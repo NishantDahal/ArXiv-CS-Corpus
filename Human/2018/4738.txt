@@ -1,0 +1,3 @@
+Deducing Security Goals From Shape Analysis Sentences
+
+Guttman presented a model-theoretic approach to establishing security goals in the context of Strand Space theory. In his approach, a run of the Cryptographic Protocol Shapes Analyzer (CPSA) produces models that determine if a goal is satisfied. This paper presents a method for extracting a sentence that completely characterizes a run of CPSA. Logical deduction can then be used to determine if a goal is satisfied. This method has been implemented and is available to all.

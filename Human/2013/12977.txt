@@ -1,0 +1,3 @@
+A novel local search based on variable-focusing for random K-SAT
+
+We introduce a new local search algorithm for satisfiability problems. Usual approaches focus uniformly on unsatisfied clauses. The new method works by picking uniformly random variables in unsatisfied clauses. A Variable-based Focused Metropolis Search (V-FMS) is then applied to random 3-SAT. We show that it is quite comparable in performance to the clause-based FMS. Consequences for algorithmic design are discussed.

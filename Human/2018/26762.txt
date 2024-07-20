@@ -1,0 +1,3 @@
+Approximation of trees by self-nested trees
+
+The class of self-nested trees presents remarkable compression properties because of the systematic repetition of subtrees in their structure. In this paper, we provide a better combinatorial characterization of this specific family of trees. In particular, we show from both theoretical and practical viewpoints that complex queries can be quickly answered in self-nested trees compared to general trees. We also present an approximation algorithm of a tree by a self-nested one that can be used in fast prediction of edit distance between two trees.

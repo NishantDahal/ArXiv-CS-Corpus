@@ -1,0 +1,3 @@
+Efficient Decoding of Partial Unit Memory Codes of Arbitrary Rate
+
+Partial Unit Memory (PUM) codes are a special class of convolutional codes, which are often constructed by means of block codes. Decoding of PUM codes may take advantage of existing decoders for the block code. The Dettmar--Sorger algorithm is an efficient decoding algorithm for PUM codes, but allows only low code rates. The same restriction holds for several known PUM code constructions. In this paper, an arbitrary-rate construction, the analysis of its distance parameters and a generalized decoding algorithm for PUM codes of arbitrary rate are provided. The correctness of the algorithm is proven and it is shown that its complexity is cubic in the length.

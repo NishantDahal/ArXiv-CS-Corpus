@@ -1,0 +1,4 @@
+Unions of Onions: Preprocessing Imprecise Points for Fast Onion Decomposition
+
+Let $\mathcal{D}$ be a set of $n$ pairwise disjoint unit disks in the plane. We describe how to build a data structure for $\mathcal{D}$ so that for any point set $P$ containing exactly one point from each disk, we can quickly find the onion decomposition (convex layers) of $P$.
+  Our data structure can be built in $O(n \log n)$ time and has linear size. Given $P$, we can find its onion decomposition in $O(n \log k)$ time, where $k$ is the number of layers. We also provide a matching lower bound. Our solution is based on a recursive space decomposition, combined with a fast algorithm to compute the union of two disjoint onion

@@ -1,0 +1,3 @@
+Parameterized Exact and Approximation Algorithms for Maximum $k$-Set Cover and Related Satisfiability Problems
+
+Given a family of subsets $\mathcal S$ over a set of elements~$X$ and two integers~$p$ and~$k$, Max k-Set Cover consists of finding a subfamily~$\mathcal T \subseteq \mathcal S$ of cardinality at most~$k$, covering at least~$p$ elements of~$X$. This problem is W[2]-hard when parameterized by~$k$, and FPT when parameterized by $p$. We investigate the parameterized approximability of the problem with respect to parameters~$k$ and~$p$. Then, we show that Max Sat-k, a satisfiability problem generalizing Max k-Set Cover, is also FPT with respect to parameter~$p$.

@@ -1,0 +1,3 @@
+Cryptanalysis of a public key encryption scheme based on QC-LDPC and QC-MDPC codes
+
+This letter presents a cryptanalysis of the modified McEliece cryptosystem recently proposed by Moufek, Guenda and Gulliver [24]. The system is based on the juxtaposition of quasi-cyclic LDPC and quasi-cyclic MDPC codes. The idea of our attack is to find an alternative permutation matrix together with an equivalent LDPC code which allow the decoding of any cipher-text with a very high probability. We also apply a recent technique to determine weak keys [4] for this scheme. The results show that the probability of weak keys is high enough that this variant can be ruled out as a possible secure encryption scheme.

@@ -1,0 +1,3 @@
+An Optimization Method For Slice Interpolation Of Medical Images
+
+Slice interpolation is a fast growing field in medical image processing. Intensity-based interpolation and object-based interpolation are two major groups of methods in the literature. In this paper, we describe an object-oriented, optimization method based on a modified version of curvature-based image registration, in which a displacement field is computed for the missing slice between two known slices and used to interpolate the intensities of the missing slice. The proposed approach is evaluated quantitatively by using the Mean Squared Difference (MSD) as a metric. The produced results also show visual improvement in preserving sharp edges in images.

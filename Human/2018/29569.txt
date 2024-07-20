@@ -1,0 +1,4 @@
+Structural Sparsity of Complex Networks: Bounded Expansion in Random Models and Real-World Graphs
+
+This research establishes that many real-world networks exhibit bounded expansion, a strong notion of structural sparsity, and demonstrates that it can be leveraged to design efficient algorithms for network analysis. We analyze several common network models regarding their structural sparsity. We show that, with high probability, (1) graphs sampled with a prescribed s parse degree sequence; (2) perturbed bounded-degree graphs; (3) stochastic block models with small probabilities; result in graphs of bounded expansion.
+  In contrast, we show that the Kleinberg and the Barabasi-Albert model have unbounded expansion. We support our findings with empirical measurements on a corpus of real-world networks.

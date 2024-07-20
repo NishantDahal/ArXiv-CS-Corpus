@@ -1,0 +1,3 @@
+Typesafe Abstractions for Tensor Operations
+
+We propose a typesafe abstraction to tensors (i.e. multidimensional arrays) exploiting the type-level programming capabilities of Scala through heterogeneous lists (HList), and showcase typesafe abstractions of common tensor operations and various neural layers such as convolution or recurrent neural networks. This abstraction could lay the foundation of future typesafe deep learning frameworks that runs on Scala/JVM.

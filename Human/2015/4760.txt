@@ -1,0 +1,3 @@
+Single Projection Kaczmarz Extended Algorithms
+
+To find the least squares solution of a very large and inconsistent system of equations, one can employ the extended Kaczmarz algorithm. This method simultaneously removes the error term, such that a consistent system is asymptotically obtained, and applies Kaczmarz iterations for the current approximation of this system. For random corrections of the right hand side and Kaczmarz updates selected at random, convergence to the least squares solution has been shown. We consider the deterministic control strategies, and show convergence to a least squares solution when row and column updates are chosen according to the almost-cyclic or maximal-residual choice.

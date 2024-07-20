@@ -1,0 +1,3 @@
+Successive Cancellation Decoding of Single Parity-Check Product Codes
+
+We introduce successive cancellation (SC) decoding of product codes (PCs) with single parity-check (SPC) component codes. Recursive formulas are derived, which resemble the SC decoding algorithm of polar codes. We analyze the error probability of SPC-PCs over the binary erasure channel under SC decoding. A bridge with the analysis of PCs introduced by Elias in 1954 is also established. Furthermore, bounds on the block error probability under SC decoding are provided, and compared to the bounds under the original decoding algorithm proposed by Elias. It is shown that SC decoding of SPC-PCs achieves a lower block error probability than Elias' decoding.

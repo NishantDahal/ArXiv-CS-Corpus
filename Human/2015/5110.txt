@@ -1,0 +1,3 @@
+On Reachability for Unidirectional Channel Systems Extended with Regular Tests
+
+"Unidirectional channel systems" (Chambart & Schnoebelen, CONCUR 2008) are finite-state systems where one-way communication from a Sender to a Receiver goes via one reliable and one unreliable unbounded fifo channel. While reachability is decidable for these systems, equipping them with the possibility of testing regular properties on the contents of channels makes it undecidable. Decidability is preserved when only emptiness and nonemptiness tests are considered: the proof relies on an elaborate reduction to a generalized version of Post's Embedding Problem. 

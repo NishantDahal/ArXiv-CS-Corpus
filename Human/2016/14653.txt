@@ -1,0 +1,3 @@
+QoS Provisioning with Adaptive Backoff Algorithm for IEEE 802.11ac Under Multipacket Reception
+
+Recent advances in physical layer communication techniques, enable receivers to decode multiple simultaneous transmissions. This technique is known as the multipacket reception (MPR). In this paper, we propose an enhancement to the IEEE 802.11ac EDCA protocol for channels supporting MPR for QoS provisioning. We show that in the case of MPR, in addition to CWmin, CWmax and AIFSN, we can use two more parameters namely (i) threshold and (ii) counter decrement value, that can offer service differentiation. The performance evaluation of the different metrics of the proposed protocol (throughput, delay, and jitter) is carried out using extensive simulations.

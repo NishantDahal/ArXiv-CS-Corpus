@@ -1,0 +1,3 @@
+Parallel Query in the Suffix Tree
+
+Given the query string of length $m$, we explore a parallel query in a static suffix tree based data structure for $p \ll n$, where $p$ is the number of processors and $n$ is the length of the text. We present three results on CREW PRAM. The parallel query in the suffix trie requires $O(m + p)$ work, $O(m/p + \lg p)$ time and $O(n^2)$ space in the worst case. We extend the same technique to the suffix tree where we show it is, by design, inherently sequential in the worst case. Finally we perform the parallel query using an interleaved approach and achieve $O(m \lg p)$ work, $O(\frac{m}{p} \lg p)$ time and $O(n \lg p)$ space in the worst case.

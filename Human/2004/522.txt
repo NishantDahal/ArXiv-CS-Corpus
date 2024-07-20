@@ -1,0 +1,4 @@
+CHR Grammars
+
+A grammar formalism based upon CHR is proposed analogously to the way Definite Clause Grammars are defined and implemented on top of Prolog. These grammars execute as robust bottom-up parsers with an inherent treatment of ambiguity and a high flexibility to model various linguistic phenomena. The formalism extends previous logic programming based grammars with a form of context-sensitive rules and the possibility to include extra-grammatical hypotheses in both head and body of grammar rules. Among the applications are straightforward implementations of Assumption Grammars and abduction under integrity constraints for language analysis. CHR grammars appear as a powerful tool for specification and implementation of language processors and may be proposed as a new standard for bottom-up grammars in logic programming.
+  To appear in Theory and Practice of Logic Programming (TPLP), 2005

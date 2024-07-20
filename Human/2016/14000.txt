@@ -1,0 +1,3 @@
+Optimisations for Real-Time Volumetric Cloudscapes
+
+Volumetric cloudscapes are prohibitively expensive to render in real time without extensive optimisations. Previous approaches render the clouds to an offscreen buffer at one quarter resolution and update a fraction of the pixels per frame, drawing the remaining pixels by temporal reprojection. We present an alternative approach, reducing the number of raymarching steps and adding a randomly jittered offset to the raymarch. We use an analytical integration technique to make results consistent with a lower number of raymarching steps. To remove noise from the resulting image we apply a temporal anti-aliasing implementation. The result is a technique producing visually similar results with 1/16 the number of steps.

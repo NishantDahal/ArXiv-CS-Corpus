@@ -1,0 +1,3 @@
+Typing Copyless Message Passing
+
+We present a calculus that models a form of process interaction based on copyless message passing, in the style of Singularity OS. The calculus is equipped with a type system ensuring that well-typed processes are free from memory faults, memory leaks, and communication errors. The type system is essentially linear, but we show that linearity alone is inadequate, because it leaves room for scenarios where well-typed processes leak significant amounts of memory. We address these problems basing the type system upon an original variant of session types. 

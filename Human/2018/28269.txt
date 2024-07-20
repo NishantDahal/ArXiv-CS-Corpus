@@ -1,0 +1,3 @@
+Optimal Learning with Anisotropic Gaussian SVMs
+
+This paper investigates the nonparametric regression problem using SVMs with anisotropic Gaussian RBF kernels. Under the assumption that the target functions are resided in certain anisotropic Besov spaces, we establish the almost optimal learning rates, more precisely, optimal up to some logarithmic factor, presented by the effective smoothness. By taking the effective smoothness into consideration, our almost optimal learning rates are faster than those obtained with the underlying RKHSs being certain anisotropic Sobolev spaces. Moreover, if the target function depends only on fewer dimensions, faster learning rates can be further achieved.

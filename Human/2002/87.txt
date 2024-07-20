@@ -1,0 +1,5 @@
+Dimension in Complexity Classes
+
+A theory of resource-bounded dimension is developed using gales, which are natural generalizations of martingales. When the resource bound Δ(a parameter of the theory) is unrestricted, the resulting dimension is precisely the classical Hausdorff dimension (sometimes called fractal dimension). Other choices of the parameter Δyield internal dimension theories in E, E2, ESPACE, and other complexity classes, and in the class of all decidable problems. In general, if C is such a class, then every set X of languages has a dimension in C, which is a real number dim(X|C) in [0,1]. Along with the elements of this theory, two preliminary applications are presented:
+  1. For every real number αin (0,1/2), the set FREQ(<=α), consisting of all languages that asymptotically contain at most αof all strings, has dimension H(α) -- the binary entropy of α-- in E and in E2.
+  2. For every real number αin (0,1), the set SIZE(α* (2^n)/n), consisting of all languages decidable by Boolean circuits of at most α*(2^n)/n gates, has dimension αin ESPACE.

@@ -1,0 +1,4 @@
+Verifying Programs via Intermediate Interpretation
+
+We explore an approach to verification of programs via program transformation applied to an interpreter of a programming language. A specialization technique known as Turchin's supercompilation is used to specialize some interpreters with respect to the program models. We show that several safety properties of functional programs modeling a class of cache coherence protocols can be proved by a supercompiler and compare the results with our earlier work on direct verification via supercompilation not using intermediate interpretation.
+  Our approach was in part inspired by an earlier work by De E. Angelis et al. (2014-2015) where verification via program transformation and intermediate interpretation was studied in the context of specialization of constraint logic programs.

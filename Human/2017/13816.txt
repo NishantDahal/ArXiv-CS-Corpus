@@ -1,0 +1,3 @@
+Towards an automated method based on Iterated Local Search optimization for tuning the parameters of Support Vector Machines
+
+We provide preliminary details and formulation of an optimization strategy under current development that is able to automatically tune the parameters of a Support Vector Machine over new datasets. The optimization strategy is a heuristic based on Iterated Local Search, a modification of classic hill climbing which iterates calls to a local search routine.

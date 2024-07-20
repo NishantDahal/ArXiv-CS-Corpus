@@ -1,0 +1,3 @@
+Efficient C-RAN Random Access for IoT Devices: Learning Links via Recommendation Systems
+
+We focus on C-RAN random access protocols for IoT devices that yield low-latency high-rate active-device detection in dense networks of large-array remote radio heads. In this context, we study the problem of learning the strengths of links between detected devices and network sites. In particular, we develop recommendation-system inspired algorithms, which exploit random-access observations collected across the network to classify links between active devices and network sites across the network. Our simulations and analysis reveal the potential merit of data-driven schemes for such on-the-fly link classification and subsequent resource allocation across a wide-area network.

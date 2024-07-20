@@ -1,0 +1,3 @@
+System-Model-Based Simulation of UML Models
+
+Previous work has presented our ongoing e orts to define a "reference semantics" for the UML, that is, a mathematically defined system model that is envisaged to cover all of the UML eventually, and that also carefully avoids the introduction of any unwarranted restrictions or biases. Due to the use of underspecification, the system model is not executable. This paper shows how the system model can serve as the basis for a highly customizable execution and simulation environment for the UML. The design and implementation of a prototype of such an environment is described and its use for the experimentation with different semantic variation points is illustrated.

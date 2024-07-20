@@ -1,0 +1,3 @@
+Monotone Grid Drawings of Planar Graphs
+
+A monotone drawing of a planar graph $G$ is a planar straight-line drawing of $G$ where a monotone path exists between every pair of vertices of $G$ in some direction. Recently monotone drawings of planar graphs have been proposed as a new standard for visualizing graphs. A monotone drawing of a planar graph is a monotone grid drawing if every vertex in the drawing is drawn on a grid point. In this paper we study monotone grid drawings of planar graphs in a variable embedding setting. We show that every connected planar graph of $n$ vertices has a monotone grid drawing on a grid of size $O(n)\times O(n^2)$, and such a drawing can be found in O(n) time.

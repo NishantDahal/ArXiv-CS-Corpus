@@ -1,0 +1,3 @@
+Incremental Strong Connectivity and 2-Connectivity in Directed Graphs
+
+In this paper, we present new incremental algorithms for maintaining data structures that represent all connectivity cuts of size one in directed graphs (digraphs), and the strongly connected components that result by the removal of each of those cuts. We give a conditional lower bound that provides evidence that our algorithms may be tight up to sub-polynomial factors. As an additional result, with our approach we can also maintain dynamically the $2$-vertex-connected components of a digraph during any sequence of edge insertions in a total of $O(mn)$ time. This matches the bounds for the incremental maintenance of the $2$-edge-connected components of a digraph.

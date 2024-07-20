@@ -1,0 +1,3 @@
+Further Refinements of Miller Algorithm on Edwards curves
+
+Recently, Edwards curves have received a lot of attention in the cryptographic community due to their fast scalar multiplication algorithms. Then, many works on the application of these curves to pairing-based cryptography have been introduced. Xu and Lin (CT-RSA, 2010) presented refinements to improve the Miller algorithm that is central role compute pairings on Edwards curves. In this paper, we study further refinements to Miller algorithm. Our approach is generic, hence it allow to compute both Weil and Tate pairings on pairing-friendly Edwards curves of any embedding degree. We analyze and show that our algorithm is faster than the original Miller algorithm and the Xu-Lin's refinements.

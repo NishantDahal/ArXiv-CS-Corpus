@@ -1,0 +1,5 @@
+sec-cs: Getting the Most out of Untrusted Cloud Storage
+
+We present sec-cs, a hash-table-like data structure for file contents on untrusted storage that is both secure and storage-efficient. We achieve authenticity and confidentiality with zero storage overhead using deterministic authenticated encryption. State-of-the-art data deduplication approaches prevent redundant storage of shared parts of different contents irrespective of whether relationships between contents are known a priori or not.
+  Instead of just adapting existing approaches, we introduce novel (multi-level) chunking strategies, ML-SC and ML-CDC, which are significantly more storage-efficient than existing approaches in presence of high redundancy.
+  We prove sec-cs's security, publish a ready-to-use implementation, and present results of an extensive analytical and empirical evaluation that show its suitability for, e.g., future backup systems that should preserve many versions of files on little available cloud storage.

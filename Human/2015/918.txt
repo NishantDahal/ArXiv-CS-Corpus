@@ -1,0 +1,3 @@
+An infinitary model of linear logic
+
+In this paper, we construct an infinitary variant of the relational model of linear logic, where the exponential modality is interpreted as the set of finite or countable multisets. We explain how to interpret in this model the fixpoint operator Y as a Conway operator alternatively defined in an inductive or a coinductive way. We then extend the relational semantics with a notion of color or priority in the sense of parity games. This extension enables us to define a new fixpoint operator Y combining both inductive and coinductive policies. We conclude the paper by sketching the connection between the resulting model of lambda-calculus with recursion and higher-order model-checking.

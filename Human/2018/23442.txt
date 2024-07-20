@@ -1,0 +1,3 @@
+Crippling Crypto-Ransomware
+
+This research seeks to expose a major weakness in Crypto-ransomware by modeling it as four integral sub-systems consisting of: An Agent, a Command and Control Service (CNC), an anonymous payment channel (APC) and an obfuscated command channel (OCC). We will show that most modern counter-measures focus on either the Agent or the CNC subsystems and usually in a reactive way exposing the target to undue risk. However, by disrupting this fourth component - the Obfuscated Command Channel - we can proactively and safely defeat a wide variety of crypto-ransomware.

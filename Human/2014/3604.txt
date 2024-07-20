@@ -1,0 +1,3 @@
+Classical leakage resilience from fault-tolerant quantum computation
+
+Physical implementations of cryptographic algorithms leak information, which makes them vulnerable to so-called side-channel attacks. The problem of secure computation in the presence of leakage is generally known as leakage resilience. In this work, we establish a connection between leakage resilience and fault-tolerant quantum computation. We first prove that for a general leakage model, there exists a corresponding noise model in which fault tolerance implies leakage resilience. Then we show how to use constructions for fault-tolerant quantum computation to implement classical circuits that are secure in specific leakage models.

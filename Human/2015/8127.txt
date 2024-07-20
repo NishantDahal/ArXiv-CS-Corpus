@@ -1,0 +1,3 @@
+Property irrelevant predicates
+
+Although slicing removes code which has no bearing on property checking. However even after that, our study has found that there are predicates in program which have no bearing on property validation, although slicing could not eliminate them. We have cope up with a criteria to identify such predicates and then give a process to leverage them in scale up of property checking.

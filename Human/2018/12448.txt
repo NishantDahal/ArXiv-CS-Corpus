@@ -1,0 +1,3 @@
+MANETs monitoring with a distributed hybrid architecture
+
+Monitoring techniques have been deeply studied in wired networks using gossip and hierarchical approaches. However, when applied to a MANET, several problematics arise. We present a hybrid distributed monitoring architecture for MANETs. We get inspired of gossip-based and hierarchical-based algorithms for query dissemination and data aggregation. We define gossip-based mechanisms that help our virtual hierarchical topology to complete the data aggregation, and then ensure the stability and robustness of our approach in dynamic environments. We propose a fully distributed monitoring protocol that ease the nodes communications. We evaluate our approach by using NS3 and Docker.

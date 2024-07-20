@@ -1,0 +1,4 @@
+Approximating Nash Equilibria in Tree Polymatrix Games
+
+We develop a quasi-polynomial time Las Vegas algorithm for approximating Nash equilibria in polymatrix games over trees, under a mild renormalizing assumption. Our result, in particular, leads to an expected polynomial-time algorithm for computing approximate Nash equilibria of tree polymatrix games in which the number of actions per player is a fixed constant. Further, for trees with constant degree, the running time of the algorithm matches the best known upper bound for approximating Nash equilibria in bimatrix games (Lipton, Markakis, and Mehta 2003).
+  Notably, this work closely complements the hardness result of Rubinstein (2015), which establishes the inapproximability of Nash equilibria in polymatrix games over constant-degree bipartite graphs with two actions per player.

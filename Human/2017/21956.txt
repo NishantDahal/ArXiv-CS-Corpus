@@ -1,0 +1,3 @@
+Stream Attention for far-field multi-microphone ASR
+
+A stream attention framework has been applied to the posterior probabilities of the deep neural network (DNN) to improve the far-field automatic speech recognition (ASR) performance in the multi-microphone configuration. The stream attention scheme has been realized through an attention vector, which is derived by predicting the ASR performance from the phoneme posterior distribution of individual microphone stream, focusing the recognizer's attention to more reliable microphones. Investigation on the various ASR performance measures has been carried out using the real recorded dataset. Experiments results show that the proposed framework has yielded substantial improvements in word error rate (WER).

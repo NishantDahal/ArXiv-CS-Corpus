@@ -1,0 +1,5 @@
+A counterexample to the pseudo 2-factor isomorphic graph conjecture
+
+A graph $G$ is pseudo 2-factor isomorphic if the parity of the number of cycles in a 2-factor is the same for all 2-factors of $G$. Abreu et al. conjectured that $K_{3,3}$, the Heawood graph and the Pappus graph are the only essentially 4-edge-connected pseudo 2-factor isomorphic cubic bipartite graphs (Abreu et al., Journal of Combinatorial Theory, Series B, 2008, Conjecture 3.6).
+  Using a computer search we show that this conjecture is false by constructing a counterexample with 30 vertices. We also show that this is the only counterexample up to at least 40 vertices.
+  A graph $G$ is 2-factor hamiltonian if all 2-factors of $G$ are hamiltonian cycles. Funk et al. conjectured that every 2-factor hamiltonian cubic bipartite graph can be obtained from $K_{3,3}$ and the Heawood graph by applying repeated star products (Funk et al., Journal of Combinatorial Theory, Series B, 2003, Conjecture 3.2). We verify that this conjecture holds up to at least 40 vertices.

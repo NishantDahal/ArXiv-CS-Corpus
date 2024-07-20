@@ -1,0 +1,3 @@
+Compute-and-Forward over Block-Fading Channels Using Algebraic Lattices
+
+Previous approaches to compute-and-forward (C\&F) are mostly based on quantizing channel coefficients to integers. In this work, we investigate the C\&F strategy over block fading channels using Construction A over rings, so as to allow better quantization for the channels. Advantages in decoding error probabilities and computation rates are demonstrated, and the construction is shown to outperform the C\&F strategy over the integers $\mathbb{Z}$.

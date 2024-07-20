@@ -1,0 +1,3 @@
+An Extended Note on the Comparison-optimal Dual Pivot Quickselect
+
+In this note the precise minimum number of key comparisons any dual-pivot quickselect algorithm (without sampling) needs on average is determined. The result is in the form of exact as well as asymptotic formulæ of this number of a comparison-optimal algorithm. It turns out that the main terms of these asymptotic expansions coincide with the main terms of the corresponding analysis of the classical quickselect, but still---as this was shown for Yaroslavskiy quickselect---more comparisons are needed in the dual-pivot variant. The results are obtained by solving a second order differential equation for the generating function obtained from a recursive approach.

@@ -1,0 +1,3 @@
+An algorithmic approach to handle circular trading in commercial taxing system
+
+Tax manipulation comes in a variety of forms with different motivations and of varying complexities. In this paper, we deal with a specific technique used by tax-evaders known as circular trading. In particular, we define algorithms for the detection and analysis of circular trade. To achieve this, we have modelled the whole system as a directed graph with the actors being vertices and the transactions among them as directed edges. We illustrate the results obtained after running the proposed algorithm on the commercial tax dataset of the government of Telangana, India, which contains the transaction details of a set of participants involved in a known circular trade.

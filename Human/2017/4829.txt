@@ -1,0 +1,3 @@
+Random CNFs are Hard for Cutting Planes
+
+The random k-SAT model is the most important and well-studied distribution over k-SAT instances. It is closely connected to statistical physics; it is used as a testbench for satisfiability algorithms, and average-case hardness over this distribution has also been linked to hardness of approximation via Feige's hypothesis. We prove that any Cutting Planes refutation for random k-SAT requires exponential size, for k that is logarithmic in the number of variables, in the (interesting) regime where the number of clauses guarantees that the formula is unsatisfiable with high probability.

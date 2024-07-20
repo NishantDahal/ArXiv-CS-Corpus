@@ -1,0 +1,5 @@
+Multi-Hypothesis CRF-Segmentation of Neural Tissue in Anisotropic EM Volumes
+
+We present an approach for the joint segmentation and grouping of similar components in anisotropic 3D image data and use it to segment neural tissue in serial sections electron microscopy (EM) images.
+  We first construct a nested set of neuron segmentation hypotheses for each slice. A conditional random field (CRF) then allows us to evaluate both the compatibility of a specific segmentation and a specific inter-slice assignment of neuron candidates with the underlying observations. The model is solved optimally for an entire image stack simultaneously using integer linear programming (ILP), which yields the maximum a posteriori solution in amortized linear time in the number of slices.
+  We evaluate the performance of our approach on an annotated sample of the Drosophila larva neuropil and show that the consideration of different segmentation hypotheses in each slice leads to a significant improvement in the segmentation and assignment accuracy.

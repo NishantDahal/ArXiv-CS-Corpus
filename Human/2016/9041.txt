@@ -1,0 +1,3 @@
+Homomorphic Evaluation of Database Queries
+
+Homomorphic encryption is an encryption method that enables computing over encrypted data. This has a wide range of real world ramifications such as being able to blindly compute a search result sent to a remote server without revealing its content. This paper discusses how database search queries can be made secure using a homomorphic encryption scheme. We propose a new database search technique that can be used with the ring-based fully homomorphic encryption scheme proposed by Braserski.

@@ -1,0 +1,3 @@
+Normalisation by Traversals
+
+We present a novel method of computing the beta-normal eta-long form of a simply-typed lambda-term by constructing traversals over a variant abstract syntax tree of the term. In contrast to beta-reduction, which changes the term by substitution, this method of normalisation by traversals leaves the original term intact. We prove the correctness of the normalisation procedure by game semantics. As an application, we establish a path-traversal correspondence theorem which is the basis of a key decidability result in higher-order model checking.

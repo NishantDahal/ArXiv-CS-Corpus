@@ -1,0 +1,3 @@
+NP-Hardness and Inapproximability of Sparse PCA
+
+We give a reduction from {\sc clique} to establish that sparse PCA is NP-hard. The reduction has a gap which we use to exclude an FPTAS for sparse PCA (unless P=NP). Under weaker complexity assumptions, we also exclude polynomial constant-factor approximation algorithms.

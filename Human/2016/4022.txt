@@ -1,0 +1,5 @@
+Tight Hardness Results for Maximum Weight Rectangles
+
+Given $n$ weighted points (positive or negative) in $d$ dimensions, what is the axis-aligned box which maximizes the total weight of the points it contains?
+  The best known algorithm for this problem is based on a reduction to a related problem, the Weighted Depth problem [T. M. Chan, FOCS'13], and runs in time $O(n^d)$. It was conjectured [Barbay et al., CCCG'13] that this runtime is tight up to subpolynomial factors. We answer this conjecture affirmatively by providing a matching conditional lower bound. We also provide conditional lower bounds for the special case when points are arranged in a grid (a well studied problem known as Maximum Subarray problem) as well as for other related problems.
+  All our lower bounds are based on assumptions that the best known algorithms for the All-Pairs Shortest Paths problem (APSP) and for the Max-Weight k-Clique problem in edge-weighted graphs are essentially optimal.

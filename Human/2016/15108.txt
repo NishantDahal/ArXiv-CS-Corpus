@@ -1,0 +1,3 @@
+Optimal Staged Self-Assembly of General Shapes
+
+We analyze the number of tile types $t$, bins $b$, and stages necessary to assemble $n \times n$ squares and scaled shapes in the staged tile assembly model. For $n \times n$ squares, we prove $\mathcal{O}(\frac{\log{n} - tb - t\log t}{b^2} + \frac{\log \log b}{\log t})$ stages suffice and $Ω(\frac{\log{n} - tb - t\log t}{b^2})$ are necessary for almost all $n$. For shapes $S$ with Kolmogorov complexity $K(S)$, we prove $\mathcal{O}(\frac{K(S) - tb - t\log t}{b^2} + \frac{\log \log b}{\log t})$ stages suffice and $Ω(\frac{K(S) - tb - t\log t}{b^2})$ are necessary to assemble a scaled version of $S$, for almost all $S$. We obtain similarly tight bounds when the more powerful flexible glues are permitted.

@@ -1,0 +1,3 @@
+What Does a TextCNN Learn?
+
+TextCNN, the convolutional neural network for text, is a useful deep learning algorithm for sentence classification tasks such as sentiment analysis and question classification. However, neural networks have long been known as black boxes because interpreting them is a challenging task. Researchers have developed several tools to understand a CNN for image classification by deep visualization, but research about deep TextCNNs is still insufficient. In this paper, we are trying to understand what a TextCNN learns on two classical NLP datasets. Our work focuses on functions of different convolutional kernels and correlations between convolutional kernels.

@@ -1,0 +1,3 @@
+Sparsity averaging for radio-interferometric imaging
+
+We propose a novel regularization method for compressive imaging in the context of the compressed sensing (CS) theory with coherent and redundant dictionaries. Natural images are often complicated and several types of structures can be present at once. It is well known that piecewise smooth images exhibit gradient sparsity, and that images with extended structures are better encapsulated in wavelet frames. Therefore, we here conjecture that promoting average sparsity or compressibility over multiple frames rather than single frames is an extremely powerful regularization prior.

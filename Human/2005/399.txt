@@ -1,0 +1,3 @@
+Decision Sort and its Parallel Implementation
+
+In this paper, a sorting technique is presented that takes as input a data set whose primary key domain is known to the sorting algorithm, and works with an time efficiency of O(n+k), where k is the primary key domain. It is shown that the algorithm has applicability over a wide range of data sets. Later, a parallel formulation of the same is proposed and its effectiveness is argued. Though this algorithm is applicable over a wide range of general data sets, it finds special application (much superior to others) in places where sorting information that arrives in parts and in cases where input data is huge in size.

@@ -1,0 +1,3 @@
+Analysis of the flooding search algorithm with OPNET
+
+In this work, we consider the popular OPNET simulator as a tool for performance evaluation of algorithms operating in peer-to-peer (P2P) networks. We created simple framework and used it to analyse the flooding search algorithm which is a popular technique for searching files in an unstructured P2P network. We investigated the influence of the number of replicas and time to live (TTL) of search queries on the algorithm performance. Preparing the simulation we did not reported the problems which are commonly encountered in P2P dedicated simulators although the size of simulated network was limited.

@@ -1,0 +1,3 @@
+Identifying a Criminal's Network of Trust
+
+Tracing criminal ties and mining evidence from a large network to begin a crime case analysis has been difficult for criminal investigators due to large numbers of nodes and their complex relationships. In this paper, trust networks using blind carbon copy (BCC) emails were formed. We show that our new shortest paths network search algorithm combining shortest paths and network centrality measures can isolate and identify criminals' connections within a trust network. A group of BCC emails out of 1,887,305 Enron email transactions were isolated for this purpose. The algorithm uses two central nodes, most influential and middle man, to extract a shortest paths trust network.

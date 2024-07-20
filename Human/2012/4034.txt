@@ -1,0 +1,3 @@
+Compressive binary search
+
+In this paper we consider the problem of locating a nonzero entry in a high-dimensional vector from possibly adaptive linear measurements. We consider a recursive bisection method which we dub the compressive binary search and show that it improves on what any nonadaptive method can achieve. We also establish a non-asymptotic lower bound that applies to all methods, regardless of their computational complexity. Combined, these results show that the compressive binary search is within a double logarithmic factor of the optimal performance.

@@ -1,0 +1,3 @@
+Eavesdropping in Semiquantum Key Distribution Protocol
+
+In semiquantum key-distribution (Boyer et al.) Alice has the same capability as in BB84 protocol, but Bob can measure and prepare qubits only in $\{|0\rangle, |1\rangle\}$ basis and reflect any other qubit. We study an eavesdropping strategy on this scheme that listens to the channel in both the directions. With the same level of disturbance induced in the channel, Eve can extract more information using our two-way strategy than what can be obtained by the direct application of one-way eavesdropping in BB84.

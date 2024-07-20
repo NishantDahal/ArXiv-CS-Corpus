@@ -1,0 +1,3 @@
+Distributed Formation Control of Nonlonolomic Mobile Robots by Bounded Feedback in the Presence of Obstacles
+
+The problem of distributed formation control of nonholonomic mobile robots is addressed in this paper, in which the robots are designed to track a formation. Collision avoidance among agents is guaranteed using a control law based on a repulsive force. In an uncertain environment where obstacles exist, the construction of repulsive force and rotational direction enables agents to avoid and pass the obstacles. The control inputs of each robot are designed to be bounded. Numerical simulations with different formations are implemented to demonstrate the efficacy of the proposed scheme.

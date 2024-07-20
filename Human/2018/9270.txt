@@ -1,0 +1,3 @@
+MobiCoMonkey - Context Testing of Android Apps
+
+The functionality of many mobile applications is dependent on various contextual, external factors. Depending on unforeseen scenarios, mobile apps can even malfunction or crash. In this paper, we have introduced MobiCoMonkey - automated tool that allows a developer to test app against custom or auto generated contextual scenarios and help detect possible bugs through the emulator. Moreover, it reports the connection between the bugs and contextual factors so that the bugs can later be reproduced. It utilizes the tools offered by Android SDK and logcat to inject events and capture traces of the app execution.

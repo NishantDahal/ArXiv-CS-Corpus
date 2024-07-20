@@ -1,0 +1,3 @@
+Multivariate Analysis for Computing Maxima in High Dimensions
+
+We study the problem of computing the \textsc{Maxima} of a set of $n$ $d$-dimensional points. For dimensions 2 and 3, there are algorithms to solve the problem with order-oblivious instance-optimal running time. However, in higher dimensions there is still room for improvements. We present an algorithm sensitive to the structural entropy of the input set, which improves the running time, for large classes of instances, on the best solution for \textsc{Maxima} to date for $d \ge 4$.

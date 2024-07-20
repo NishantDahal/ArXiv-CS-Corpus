@@ -1,0 +1,3 @@
+Efficient Parallel Estimation for Markov Random Fields
+
+We present a new, deterministic, distributed MAP estimation algorithm for Markov Random Fields called Local Highest Confidence First (Local HCF).  The algorithm has been applied to segmentation problems in computer vision and its performance compared with stochastic algorithms.  The experiments show that Local HCF finds better estimates than stochastic algorithms with much less computation.

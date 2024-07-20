@@ -1,0 +1,3 @@
+Reordering GPU Kernel Launches to Enable Efficient Concurrent Execution
+
+Contemporary GPUs allow concurrent execution of small computational kernels in order to prevent idling of GPU resources. Despite the potential concurrency between independent kernels, the order in which kernels are issued to the GPU will significantly influence the application performance. A technique for deriving suitable kernel launch orders is therefore presented, with the aim of reducing the total execution time. Experimental results indicate that the proposed method yields solutions that are well above the 90 percentile mark in the design space of all possible permutations of the kernel launch sequences.

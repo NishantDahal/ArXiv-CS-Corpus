@@ -1,0 +1,3 @@
+Data complexity of answering conjunctive queries over SHIQ knowledge bases
+
+An algorithm for answering conjunctive queries over SHIQ knowledge bases that is coNP in data complexity is given. The algorithm is based on the tableau algorithm for reasoning with individuals in SHIQ. The blocking conditions of the tableau are weakened in such a way that the set of models the modified algorithm yields suffices to check query entailment. The modified blocking conditions are based on the ones proposed by Levy and Rousset for reasoning with Horn Rules in the description logic ALCNR.

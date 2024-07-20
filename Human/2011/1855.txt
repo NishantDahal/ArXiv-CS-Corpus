@@ -1,0 +1,3 @@
+An Optimal Real-Time Scheduling Approach: From Multiprocessor to Uniprocessor
+
+An optimal solution to the problem of scheduling real-time tasks on a set of identical processors is derived. The described approach is based on solving an equivalent uniprocessor real-time scheduling problem. Although there are other scheduling algorithms that achieve optimality, they usually impose prohibitive preemption costs. Unlike these algorithms, it is observed through simulation that the proposed approach produces no more than three preemptions points per job.

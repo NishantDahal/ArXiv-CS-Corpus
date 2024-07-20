@@ -1,0 +1,3 @@
+SalNet360: Saliency Maps for omni-directional images with CNN
+
+The prediction of Visual Attention data from any kind of media is of valuable use to content creators and used to efficiently drive encoding algorithms. With the current trend in the Virtual Reality (VR) field, adapting known techniques to this new kind of media is starting to gain momentum. In this paper, we present an architectural extension to any Convolutional Neural Network (CNN) to fine-tune traditional 2D saliency prediction to Omnidirectional Images (ODIs) in an end-to-end manner. We show that each step in the proposed pipeline works towards making the generated saliency map more accurate with respect to ground truth data.

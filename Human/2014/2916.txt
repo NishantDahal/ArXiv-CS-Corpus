@@ -1,0 +1,4 @@
+The Effect of Saturation on Belief Propagation Decoding of LDPC Codes
+
+We consider the effect of LLR saturation on belief propagation decoding of low-density parity-check codes. Saturation occurs universally in practice and is known to have a significant effect on error floor performance. Our focus is on threshold analysis and stability of density evolution.
+  We analyze the decoder for certain low-density parity-check code ensembles and show that belief propagation decoding generally degrades gracefully with saturation. Stability of density evolution is, on the other hand, rather strongly affected by saturation and the asymptotic qualitative effect of saturation is similar to reduction of variable node degree by one.

@@ -1,0 +1,3 @@
+Spectral shaping with low resolution signals
+
+We aim at investigating the impact of low resolution digital-to-analog converters (DACs) at the transmitter and low resolution analog-to-digital converters (ADCs) at the receiver on the required bandwidth and the required signalto- noise ratio (SNR). In particular, we consider the extreme case of only 1-bit resolution (with oversampling), where we propose a single carrier system architecture for minimizing the spectral occupation and the required SNR of 1-bit signals. In addition, the receiver is optimized to take into account the effects of quantization at both ends. Through simulations, we show that despite of the coarse quantization, sufficient spectral confinement is still achievable.

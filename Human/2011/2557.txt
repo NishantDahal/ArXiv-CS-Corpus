@@ -1,0 +1,3 @@
+Symmetries in observer design: review of some recent results and applications to EKF-based SLAM
+
+In this paper, we first review the theory of symmetry-preserving observers and we mention some recent results. Then, we apply the theory to Extended Kalman Filter-based Simultaneous Localization and Mapping (EKF SLAM). It allows to derive a new (symmetry-preserving) Extended Kalman Filter for the non-linear SLAM problem that possesses convergence properties. We also prove a special choice of the gains ensures global exponential convergence.

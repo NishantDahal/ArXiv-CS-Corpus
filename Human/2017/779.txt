@@ -1,0 +1,3 @@
+Manifold Alignment Determination: finding correspondences across different data views
+
+We present Manifold Alignment Determination (MAD), an algorithm for learning alignments between data points from multiple views or modalities. The approach is capable of learning correspondences between views as well as correspondences between individual data-points. The proposed method requires only a few aligned examples from which it is capable to recover a global alignment through a probabilistic model. The strong, yet flexible regularization provided by the generative model is sufficient to align the views. We provide experiments on both synthetic and real data to highlight the benefit of the proposed approach.

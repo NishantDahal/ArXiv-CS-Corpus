@@ -1,0 +1,4 @@
+Pay for a Sliding Bloom Filter and Get Counting, Distinct Elements, and Entropy for Free
+
+For many networking applications, recent data is more significant than older data, motivating the need for sliding window solutions. Various capabilities, such as DDoS detection and load balancing, require insights about multiple metrics including Bloom filters, per-flow counting, count distinct and entropy estimation.
+  In this work, we present a unified construction that solves all the above problems in the sliding window model. Our single solution offers a better space to accuracy tradeoff than the state-of-the-art for each of these individual problems! We show this both analytically and by running multiple real Internet backbone and datacenter packet traces.

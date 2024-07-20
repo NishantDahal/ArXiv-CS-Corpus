@@ -1,0 +1,3 @@
+Age group and gender recognition from human facial images
+
+This work presents an automatic human gender and age group recognition system based on human facial images. It makes an extensive experiment with row pixel intensity valued features and Discrete Cosine Transform (DCT) coefficient features with Principal Component Analysis and k-Nearest Neighbor classification to identify the best recognition approach. The final results show approaches using DCT coefficient outperform their counter parts resulting in a 99% correct gender recognition rate and 68% correct age group recognition rate (considering four distinct age groups) in unseen test images. Detailed experimental settings and obtained results are clearly presented and explained in this report.

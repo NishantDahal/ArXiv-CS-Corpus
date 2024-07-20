@@ -1,0 +1,3 @@
+A simpler approach to obtaining an O(1/t) convergence rate for the projected stochastic subgradient method
+
+In this note, we present a new averaging technique for the projected stochastic subgradient method. By using a weighted average with a weight of t+1 for each iterate w_t at iteration t, we obtain the convergence rate of O(1/t) with both an easy proof and an easy implementation. The new scheme is compared empirically to existing techniques, with similar performance behavior.

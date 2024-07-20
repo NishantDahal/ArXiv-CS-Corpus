@@ -1,0 +1,4 @@
+Token Jumping in minor-closed classes
+
+Given two $k$-independent sets $I$ and $J$ of a graph $G$, one can ask if it is possible to transform the one into the other in such a way that, at any step, we replace one vertex of the current independent set by another while keeping the property of being independent. Deciding this problem, known as the Token Jumping (TJ) reconfiguration problem, is PSPACE-complete even on planar graphs. Ito et al. proved in 2014 that the problem is FPT parameterized by $k$ if the input graph is $K_{3,\ell}$-free.
+  We prove that the result of Ito et al. can be extended to any $K_{\ell,\ell}$-free graphs. In other words, if $G$ is a $K_{\ell,\ell}$-free graph, then it is possible to decide in FPT-time if $I$ can be transformed into $J$. As a by product, the TJ-reconfiguration problem is FPT in many well-known classes of graphs such as any minor-free class.

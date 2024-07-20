@@ -1,0 +1,3 @@
+On the connectivity threshold for colorings of random graphs and hypergraphs
+
+Let $Ω_q=Ω_q(H)$ denote the set of proper $[q]$-colorings of the hypergraph $H$. Let $Γ_q$ be the graph with vertex set $Ω_q$ and an edge ${σ,τ\}$ where $σ,τ$ are colorings iff $h(σ,τ)=1$. Here $h(σ,τ)$ is the Hamming distance $|\{v\in V(H):σ(v)\neqτ(v)\}|$. We show that if $H=H_{n,m;k},\,k\geq 2$, the random $k$-uniform hypergraph with $V=[n]$ and $m=dn/k$ then w.h.p. $Γ_q$ is connected if $d$ is sufficiently large and $q\gtrsim (d/\log d)^{1/(k-1)}$.

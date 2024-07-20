@@ -1,0 +1,3 @@
+A decentralized algorithm for control of autonomous agents coupled by feasibility constraints
+
+In this paper a decentralized control algorithm for systems composed of $N$ dynamically decoupled agents, coupled by feasibility constraints, is presented. The control problem is divided into $N$ optimal control sub-problems and a communication scheme is proposed to decouple computations. The derivative of the solution of each sub-problem is used to approximate the evolution of the system allowing the algorithm to decentralize and parallelize computations. The effectiveness of the proposed algorithm is shown through simulations in a cooperative driving scenario.

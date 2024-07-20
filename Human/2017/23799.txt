@@ -1,0 +1,6 @@
+Improved Key Generation Algorithm for Gentry's Fully Homomorphic Encryption Scheme
+
+At EUROCRYPT 2011, Gentry and Halevi implemented a variant of Gentry's fully homomorphic encryption scheme. The core part in their key generation is to generate an odd-determinant ideal lattice having a particular type of Hermite Normal Form. However, they did not give a rigorous proof for the correctness. We present a better key generation algorithm, improving their algorithm from two aspects.
+  -We show how to deterministically generate ideal lattices with odd determinant, thus increasing the success probability close to 1.
+  -We give a rigorous proof for the correctness. To be more specific, we present a simpler condition for checking whether the ideal lattice has the desired Hermite Normal Form. Furthermore, our condition can be checked more efficiently.
+  As a result, our key generation is about 1.5 times faster. We also give experimental results supporting our claims. Our optimizations are based on the properties of ideal lattices, which might be of independent interests.

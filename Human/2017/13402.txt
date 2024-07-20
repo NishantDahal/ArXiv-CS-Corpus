@@ -1,0 +1,3 @@
+The Finite Satisfiability Problem for Two-Variable, First-Order Logic with one Transitive Relation is Decidable
+
+We consider the two-variable fragment of first-order logic with one distinguished binary predicate constrained to be interpreted as a transitive relation. The finite satisfiability problem for this logic is shown to be decidable, in triply exponential non-deterministic time. The complexity falls to doubly exponential non-deterministic time if the distinguished binary predicate is constrained to be interpreted as a partial order.

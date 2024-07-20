@@ -1,0 +1,3 @@
+Short Note on Costs of Floating Point Operations on current x86-64 Architectures: Denormals, Overflow, Underflow, and Division by Zero
+
+Simple floating point operations like addition or multiplication on normalized floating point values can be computed by current AMD and Intel processors in three to five cycles. This is different for denormalized numbers, which appear when an underflow occurs and the value can no longer be represented as a normalized floating-point value. Here the costs are about two magnitudes higher.

@@ -1,0 +1,3 @@
+Video Fill in the Blank with Merging LSTMs
+
+Given a video and its incomplete textural description with missing words, the Video-Fill-in-the-Blank (ViFitB) task is to automatically find the missing word. The contextual information of the sentences are important to infer the missing words; the visual cues are even more crucial to get a more accurate inference. In this paper, we presents a new method which intuitively takes advantage of the structure of the sentences and employs merging LSTMs (to merge two LSTMs) to tackle the problem with embedded textural and visual cues. In the experiments, we have demonstrated the superior performance of the proposed method on the challenging "Movie Fill-in-the-Blank" dataset.

@@ -1,0 +1,3 @@
+On the Problem of Computing the Probability of Regular Sets of Trees
+
+We consider the problem of computing the probability of regular languages of infinite trees with respect to the natural coin-flipping measure. We propose an algorithm which computes the probability of languages recognizable by \emph{game automata}. In particular this algorithm is applicable to all deterministic automata. We then use the algorithm to prove through examples three properties of measure: (1) there exist regular sets having irrational probability, (2) there exist comeager regular sets having probability $0$ and (3) the probability of \emph{game languages} $W_{i,k}$, from automata theory, is $0$ if $k$ is odd and is $1$ otherwise.

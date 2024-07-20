@@ -1,0 +1,3 @@
+Auctions with Severely Bounded Communication
+
+We study auctions with severe bounds on the communication allowed: each bidder  may only transmit t bits of information to the auctioneer. We consider both welfare- and profit-maximizing auctions under this communication restriction. For both measures, we determine the optimal auction and show that the loss incurred relative to unconstrained auctions is mild. We prove non-surprising properties of these kinds of auctions, e.g., that in optimal mechanisms bidders  simply report the interval in which their valuation lies in,  as well as some surprising properties, e.g., that asymmetric auctions  are better than symmetric ones and that multi-round auctions reduce the communication complexity only by a linear factor.

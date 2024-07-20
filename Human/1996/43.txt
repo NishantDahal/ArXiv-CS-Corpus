@@ -1,0 +1,3 @@
+Notes on LR Parser Design
+
+The design of an LR parser based on interleaving the atomic symbol processing of a context-free backbone grammar with the full constraints of the underlying unification grammar is described. The parser employs a set of reduced constraints derived from the unification grammar in the LR parsing step. Gap threading is simulated to reduce the applicability of empty productions.

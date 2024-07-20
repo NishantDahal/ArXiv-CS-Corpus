@@ -1,0 +1,4 @@
+rTraceroute: Réunion Traceroute Visualisation
+
+Traceroute is the main tools to explore Internet path. It provides limited information about each node along the path. However, Traceroute cannot go further in statistics analysis, or \emph{Man-Machine Interface (MMI)}.
+  Indeed, there are no graphical tool that is able to draw all paths used by IP routes. We present a new tool that can handle more than 1,000 Traceroute results, map them, identify graphically MPLS links, get information of usage of all routes (in percent) to improve the knowledge between countries' links. rTraceroute want to go deeper in usage of atomic traces. In this paper, we will discuss the concept of rTraceroute and present some example of usage.

@@ -1,0 +1,3 @@
+Learning from the Success of MPI
+
+The Message Passing Interface (MPI) has been extremely successful as a portable way to program high-performance parallel computers. This success has occurred in spite of the view of many that message passing is difficult and that other approaches, including automatic parallelization and directive-based parallelism, are easier to use. This paper argues that MPI has succeeded because it addresses all of the important issues in providing a parallel programming model.

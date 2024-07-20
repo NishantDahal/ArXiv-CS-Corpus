@@ -1,0 +1,3 @@
+Some Challenges of Specifying Concurrent Program Components
+
+The purpose of this paper is to address some of the challenges of formally specifying components of shared-memory concurrent programs. The focus is to provide an abstract specification of a component that is suitable for use both by clients of the component and as a starting point for refinement to an implementation of the component. We present some approaches to devising specifications, investigating different forms suitable for different contexts. We examine handling atomicity of access to data structures, blocking operations and progress properties, and transactional operations that may fail and need to be retried.

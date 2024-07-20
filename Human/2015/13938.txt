@@ -1,0 +1,3 @@
+Paxos Made Switch-y
+
+This paper describes an implementation of the well-known consensus protocol, Paxos, in the P4 programming language. P4 is a language for programming the behavior of network forwarding devices (i.e., the network data plane). Moving consensus logic into network devices could significantly improve the performance of the core infrastructure and services in data centers. Moreover, implementing Paxos in P4 provides a critical use case and set of requirements for data plane language designers. In the long term, we imagine that consensus could someday be offered as a network service, just as point-to-point communication is provided today.

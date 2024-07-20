@@ -1,0 +1,3 @@
+Generalized Byzantine-tolerant SGD
+
+We propose three new robust aggregation rules for distributed synchronous Stochastic Gradient Descent~(SGD) under a general Byzantine failure model. The attackers can arbitrarily manipulate the data transferred between the servers and the workers in the parameter server~(PS) architecture. We prove the Byzantine resilience properties of these aggregation rules. Empirical analysis shows that the proposed techniques outperform current approaches for realistic use cases and Byzantine attack scenarios.

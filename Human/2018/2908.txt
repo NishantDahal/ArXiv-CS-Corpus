@@ -1,0 +1,3 @@
+Implementation of Neural Network and feature extraction to classify ECG signals
+
+This paper presents a suitable and efficient implementation of a feature extraction algorithm (Pan Tompkins algorithm) on electrocardiography (ECG) signals, for detection and classification of four cardiac diseases: Sleep Apnea, Arrhythmia, Supraventricular Arrhythmia and Long Term Atrial Fibrillation (AF) and differentiating them from the normal heart beat by using pan Tompkins RR detection followed by feature extraction for classification purpose .The paper also presents a new approach towards signal classification using the existing neural networks classifiers.

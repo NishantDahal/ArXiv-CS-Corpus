@@ -1,0 +1,3 @@
+Emotional Expression Classification using Time-Series Kernels
+
+Estimation of facial expressions, as spatio-temporal processes, can take advantage of kernel methods if one considers facial landmark positions and their motion in 3D space. We applied support vector classification with kernels derived from dynamic time-warping similarity measures. We achieved over 99% accuracy - measured by area under ROC curve - using only the 'motion pattern' of the PCA compressed representation of the marker point vector, the so-called shape parameters. Beyond the classification of full motion patterns, several expressions were recognized with over 90% accuracy in as few as 5-6 frames from their onset, about 200 milliseconds.

@@ -1,0 +1,3 @@
+Risk-Averse Multi-Armed Bandit Problems under Mean-Variance Measure
+
+The multi-armed bandit problems have been studied mainly under the measure of expected total reward accrued over a horizon of length $T$. In this paper, we address the issue of risk in multi-armed bandit problems and develop parallel results under the measure of mean-variance, a commonly adopted risk measure in economics and mathematical finance. We show that the model-specific regret and the model-independent regret in terms of the mean-variance of the reward process are lower bounded by $Ω(\log T)$ and $Ω(T^{2/3})$, respectively. We then show that variations of the UCB policy and the DSEE policy developed for the classic risk-neutral MAB achieve these lower bounds.

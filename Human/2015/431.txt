@@ -1,0 +1,3 @@
+Categorified Reeb Graphs
+
+The Reeb graph is a construction which originated in Morse theory to study a real valued function defined on a topological space. More recently, it has been used in various applications to study noisy data which creates a desire to define a measure of similarity between these structures. Here, we exploit the fact that the category of Reeb graphs is equivalent to the category of a particular class of cosheaf. Using this equivalency, we can define an `interleaving' distance between Reeb graphs which is stable under the perturbation of a function. Along the way, we obtain a natural construction for smoothing a Reeb graph to reduce its topological complexity. The smoothed Reeb graph can be constructed in polynomial time.

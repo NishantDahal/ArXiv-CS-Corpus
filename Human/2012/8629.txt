@@ -1,0 +1,3 @@
+Distributional Framework for Emergent Knowledge Acquisition and its Application to Automated Document Annotation
+
+The paper introduces a framework for representation and acquisition of knowledge emerging from large samples of textual data. We utilise a tensor-based, distributional representation of simple statements extracted from text, and show how one can use the representation to infer emergent knowledge patterns from the textual data in an unsupervised manner. Examples of the patterns we investigate in the paper are implicit term relationships or conjunctive IF-THEN rules. To evaluate the practical relevance of our approach, we apply it to annotation of life science articles with terms from MeSH (a controlled biomedical vocabulary and thesaurus).

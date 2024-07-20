@@ -1,0 +1,9 @@
+Near Optimal Parallel Algorithms for Dynamic DFS in Undirected Graphs
+
+Depth first search (DFS) tree is a fundamental data structure for solving graph problems. The classical algorithm [SiComp74] for building a DFS tree requires $O(m+n)$ time for a given graph $G$ having $n$ vertices and $m$ edges. Recently, Baswana et al. [SODA16] presented a simple algorithm for updating DFS tree of an undirected graph after an edge/vertex update in $\tilde{O}(n)$ time. However, their algorithm is strictly sequential. We present an algorithm achieving similar bounds, that can be adopted easily to the parallel environment.
+  In the parallel model, a DFS tree can be computed from scratch using $m$ processors in expected $\tilde{O}(1)$ time [SiComp90] on an EREW PRAM, whereas the best deterministic algorithm takes $\tilde{O}(\sqrt{n})$ time [SiComp90,JAlg93] on a CRCW PRAM. Our algorithm can be used to develop optimal (upto polylog n factors deterministic algorithms for maintaining fully dynamic DFS and fault tolerant DFS, of an undirected graph.
+  1- Parallel Fully Dynamic DFS:
+  Given an arbitrary online sequence of vertex/edge updates, we can maintain a DFS tree of an undirected graph in $\tilde{O}(1)$ time per update using $m$ processors on an EREW PRAM.
+  2- Parallel Fault tolerant DFS:
+  An undirected graph can be preprocessed to build a data structure of size O(m) such that for a set of $k$ updates (where $k$ is constant) in the graph, the updated DFS tree can be computed in $\tilde{O}(1)$ time using $n$ processors on an EREW PRAM.
+  Moreover, our fully dynamic DFS algorithm provides, in a seamless manner, nearly optimal (upto polylog n factors) algorithms for maintaining a DFS tree in semi-streaming model and a restricted distributed model. These are the first parallel, semi-streaming and distributed algorithms for maintaining a DFS tree in the dynamic setting.

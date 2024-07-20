@@ -1,0 +1,3 @@
+Evaluation of a Multi-Resolution Dyadic Wavelet Transform Method for usable Speech Detection
+
+Many applications of speech communication and speaker identification suffer from the problem of co-channel speech. This paper deals with a multi-resolution dyadic wavelet transform method for usable segments of co-channel speech detection that could be processed by a speaker identification system. Evaluation of this method is performed on TIMIT database referring to the Target to Interferer Ratio measure. Co-channel speech is constructed by mixing all possible gender speakers. Results do not show much difference for different mixtures. For the overall mixtures 95.76% of usable speech is correctly detected with false alarms of 29.65%.

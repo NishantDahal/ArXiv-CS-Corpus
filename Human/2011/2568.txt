@@ -1,0 +1,3 @@
+In Search of Autocorrelation Based Vocal Cord Cues for Speaker Identification
+
+In this paper we investigate a technique to find out vocal source based features from the LP residual of speech signal for automatic speaker identification. Autocorrelation with some specific lag is computed for the residual signal to derive these features. Compared to traditional features like MFCC, PLPCC which represent vocal tract information, these features represent complementary vocal cord information. Our experiment in fusing these two sources of information in representing speaker characteristics yield better speaker identification accuracy. We have used Gaussian mixture model (GMM) based speaker modeling and results are shown on two public databases to validate our proposition.

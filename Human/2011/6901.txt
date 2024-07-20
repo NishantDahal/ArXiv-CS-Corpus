@@ -1,0 +1,3 @@
+Optimization strategies for parallel CPU and GPU implementations of a meshfree particle method
+
+Much of the current focus in high performance computing (HPC) for computational fluid dynamics (CFD) deals with grid based methods. However, parallel implementations for new meshfree particle methods such as Smoothed Particle Hydrodynamics (SPH) are less studied. In this work, we present optimizations for both central processing unit (CPU) and graphics processing unit (GPU) of a SPH method. These optimization strategies can be further applied to many other meshfree methods. The obtained performance for each architecture and a comparison between the most efficient implementations for CPU and GPU are shown.

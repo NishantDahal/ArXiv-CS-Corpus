@@ -1,0 +1,3 @@
+Counting Inversions Adaptively
+
+We give a simple and efficient algorithm for adaptively counting inversions in a sequence of $n$ integers. Our algorithm runs in $O(n + n \sqrt{\lg{(Inv/n)}})$ time in the word-RAM model of computation, where $Inv$ is the number of inversions.

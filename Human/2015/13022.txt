@@ -1,0 +1,3 @@
+Efficient Controlled Quantum Secure Direct Communication Protocols
+
+We study controlled quantum secure direct communication (CQSDC), a cryptographic scheme where a sender can send a secret bit-string to an intended recipient, without any secure classical channel, who can obtain the complete bit-string only with the permission of a controller. We report an efficient protocol to realize CQSDC using Cluster state and then go on to construct a (2-3)-CQSDC using Brown state, where a coalition of any two of the three controllers is required to retrieve the complete message. We argue both protocols to be unconditionally secure and analyze the efficiency of the protocols to show it to outperform the existing schemes while maintaining the same security specifications.

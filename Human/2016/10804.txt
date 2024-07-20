@@ -1,0 +1,3 @@
+Boundary conditions for Shape from Shading
+
+The Shape From Shading is one of a computer vision field. It studies the 3D reconstruction of an object from a single grayscale image. The difficulty of this field can be expressed in the local ambiguity (convex / concave). J.Shi and Q.Zhu have proposed a method (Global View) to solve the local ambiguity. This method based on the graph theory and the relationship between the singular points. In this work we will show that the use of singular points is not sufficient and requires further information on the object to resolve this ambiguity.

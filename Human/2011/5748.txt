@@ -1,0 +1,3 @@
+Monomer-dimer tatami tilings of square regions
+
+We prove that the number of monomer-dimer tilings of an $n\times n$ square grid, with $m<n$ monomers in which no four tiles meet at any point is $m2^m+(m+1)2^{m+1}$, when $m$ and $n$ have the same parity. In addition, we present a new proof of the result that there are $n2^{n-1}$ such tilings with $n$ monomers, which divides the tilings into $n$ classes of size $2^{n-1}$. The sum of these tilings over all monomer counts has the closed form $2^{n-1}(3n-4)+2$ and, curiously, this is equal to the sum of the squares of all parts in all compositions of $n$. We also describe two algorithms and a Gray code ordering for generating the $n2^{n-1}$ tilings with $n$ monomers, which are both based on our new proof.

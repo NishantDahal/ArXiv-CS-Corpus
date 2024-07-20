@@ -1,0 +1,3 @@
+An approximately truthful-in-expectation mechanism for combinatorial auctions using value queries
+
+This manuscript presents an alternative implementation of the truthful-in-expectation mechanism of Dughmi, Roughgarden and Yan for combinatorial auctions with weighted-matroid-rank-sum valuations. The new implementation uses only value queries and is approximately truthful-in-expectation, in the sense that by reporting truthfully each agent maximizes his utility within a multiplicative 1-o(1) factor. It still provides an optimal (1-1/e-o(1))-approximation in social welfare. We achieve this by first presenting an approximately maximal-in-distributional-range allocation rule and then showing a black-box transformation to an approximately truthful-in-expectation mechanism.

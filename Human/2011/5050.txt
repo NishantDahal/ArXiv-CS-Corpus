@@ -1,0 +1,3 @@
+Nerio: Leader Election and Edict Ordering
+
+Coordination in a distributed system is facilitated if there is a unique process, the leader, to manage the other processes. The leader creates edicts and sends them to other processes for execution or forwarding to other processes. The leader may fail, and when this occurs a leader election protocol selects a replacement. This paper describes Nerio, a class of such leader election protocols.

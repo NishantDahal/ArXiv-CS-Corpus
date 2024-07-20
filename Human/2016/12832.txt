@@ -1,0 +1,3 @@
+Derived-Term Automata of Multitape Rational Expressions (Long version)
+
+We introduce (weighted) rational expressions to denote series over Cartesian products of monoids. To this end, we propose the operator $|$ to build multitape expressions such as $(a^+|x + b^+|y)^*$. We define expansions, which generalize the concept of derivative of a rational expression, but relieved from the need of a free monoid. We propose an algorithm based on expansions to build multitape automata from multitape expressions.

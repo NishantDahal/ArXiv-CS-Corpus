@@ -1,0 +1,4 @@
+Fooling sets and rank
+
+An $n\times n$ matrix $M$ is called a \textit{fooling-set matrix of size $n$} if its diagonal entries are nonzero and $M_{k,\ell} M_{\ell,k} = 0$ for every $k\ne \ell$. Dietzfelbinger, Hromkovi{č}, and Schnitger (1996) showed that $n \le (\mbox{rk} M)^2$, regardless of over which field the rank is computed, and asked whether the exponent on $\mbox{rk} M$ can be improved.
+  We settle this question. In characteristic zero, we construct an infinite family of rational fooling-set matrices with size $n = \binom{\mbox{rk} M+1}{2}$. In nonzero characteristic, we construct an infinite family of matrices with $n= (1+o(1))(\mbox{rk} M)^2$.

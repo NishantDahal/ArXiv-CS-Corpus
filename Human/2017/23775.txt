@@ -1,0 +1,3 @@
+A generalization of the Jensen divergence: The chord gap divergence
+
+We introduce a novel family of distances, called the chord gap divergences, that generalizes the Jensen divergences (also called the Burbea-Rao distances), and study its properties. It follows a generalization of the celebrated statistical Bhattacharyya distance that is frequently met in applications. We report an iterative concave-convex procedure for computing centroids, and analyze the performance of the $k$-means++ clustering with respect to that new dissimilarity measure by introducing the Taylor-Lagrange remainder form of the skew Jensen divergences.

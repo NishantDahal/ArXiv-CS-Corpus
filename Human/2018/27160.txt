@@ -1,0 +1,3 @@
+Attribute-aware Collaborative Filtering: Survey and Classification
+
+Attribute-aware CF models aims at rating prediction given not only the historical rating from users to items, but also the information associated with users (e.g. age), items (e.g. price), or even ratings (e.g. rating time). This paper surveys works in the past decade developing attribute-aware CF systems, and discovered that mathematically they can be classified into four different categories. We provide the readers not only the high level mathematical interpretation of the existing works in this area but also the mathematical insight for each category of models. Finally we provide in-depth experiment results comparing the effectiveness of the major works in each category.

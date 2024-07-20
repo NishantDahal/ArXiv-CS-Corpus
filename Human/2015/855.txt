@@ -1,0 +1,7 @@
+On the complexity of finite valued functions
+
+The essential variables in a finite function $f$ are defined as variables which occur in $f$ and weigh with the values of that function.
+  The number of essential variables is an important measure of complexity for discrete functions.
+  When replacing some variables in a function with constants the resulting functions are called subfunctions, and when replacing all essential variables in a function with constants we obtain an implementation of this function.
+  Such an implementation corresponds with a path in an ordered decision diagram (ODD) of the function which connects the root with a leaf of the diagram. The sets of essential variables in subfunctions of $f$ are called separable in $f$. In this paper we study several properties of separable sets of variables in functions which directly impact on the number of implementations and subfunctions in these functions.
+  We define equivalence relations which classify the functions of $k$-valued logic into classes with same number of implementations, subfunctions or separable sets. These relations induce three transformation groups which are compared with the lattice of all subgroups of restricted affine group (RAG). This allows us to solve several important computational and combinatorial problems.

@@ -1,0 +1,3 @@
+Structured Optimal Transport
+
+Optimal Transport has recently gained interest in machine learning for applications ranging from domain adaptation, sentence similarities to deep learning. Yet, its ability to capture frequently occurring structure beyond the "ground metric" is limited. In this work, we develop a nonlinear generalization of (discrete) optimal transport that is able to reflect much additional structure. We demonstrate how to leverage the geometry of this new model for fast algorithms, and explore connections and properties. Illustrative experiments highlight the benefit of the induced structured couplings for tasks in domain adaptation and natural language processing.

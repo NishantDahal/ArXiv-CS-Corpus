@@ -1,0 +1,3 @@
+Convergence Analysis of Optimization Algorithms
+
+The regret bound of an optimization algorithms is one of the basic criteria for evaluating the performance of the given algorithm. By inspecting the differences between the regret bounds of traditional algorithms and adaptive one, we provide a guide for choosing an optimizer with respect to the given data set and the loss function. For analysis, we assume that the loss function is convex and its gradient is Lipschitz continuous.

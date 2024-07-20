@@ -1,0 +1,3 @@
+A general computation rule for lossy summaries/messages with examples from equalization
+
+Elaborating on prior work by Minka, we formulate a general computation rule for lossy messages. An important special case (with many applications in communications) is the conversion of "soft-bit" messages to Gaussian messages. By this method, the performance of a Kalman equalizer is improved, both for uncoded and coded transmission.

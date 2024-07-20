@@ -1,0 +1,3 @@
+Mixed context networks for semantic segmentation
+
+Semantic segmentation is challenging as it requires both object-level information and pixel-level accuracy. Recently, FCN-based systems gained great improvement in this area. Unlike classification networks, combining features of different layers plays an important role in these dense prediction models, as these features contains information of different levels. A number of models have been proposed to show how to use these features. However, what is the best architecture to make use of features of different layers is still a question. In this paper, we propose a module, called mixed context network, and show that our presented system outperforms most existing semantic segmentation systems by making use of this module.

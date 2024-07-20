@@ -1,0 +1,3 @@
+Cache optimized linear sieve
+
+Sieving is essential in different number theoretical algorithms. Sieving with large primes violates locality of memory access, thus degrading performance. Our suggestion on how to tackle this problem is to use cyclic data structures in combination with in-place bucket-sort. We present our results on the implementation of the sieve of Eratosthenes, using these ideas, which show that this approach is more robust and less affected by slow memory.

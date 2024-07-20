@@ -1,0 +1,3 @@
+Improved Approximation Algorithms for Projection Games
+
+The projection games (aka Label-Cover) problem is of great importance to the field of approximation algorithms, since most of the NP-hardness of approximation results we know today are reductions from Label-Cover. In this paper we design several approximation algorithms for projection games: 1. A polynomial-time approximation algorithm that improves on the previous best approximation by Charikar, Hajiaghayi and Karloff. 2. A sub-exponential time algorithm with much tighter approximation for the case of smooth projection games. 3. A polynomial-time approximation scheme (PTAS) for projection games on planar graphs and a tight running time lower bound for such approximation schemes.

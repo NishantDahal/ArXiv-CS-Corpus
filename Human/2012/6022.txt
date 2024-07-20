@@ -1,0 +1,3 @@
+Bayes Blocks: An Implementation of the Variational Bayesian Building Blocks Framework
+
+A software library for constructing and learning probabilistic models is presented. The library offers a set of building blocks from which a large variety of static and dynamic models can be built. These include hierarchical models for variances of other variables and many nonlinear models. The underlying variational Bayesian machinery, providing for fast and robust estimation but being mathematically rather involved, is almost completely hidden from the user thus making it very easy to use the library. The building blocks include Gaussian, rectified Gaussian and mixture-of-Gaussians variables and computational nodes which can be combined rather freely.

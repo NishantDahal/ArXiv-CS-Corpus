@@ -1,0 +1,3 @@
+Constructing Graph Node Embeddings via Discrimination of Similarity Distributions
+
+The problem of unsupervised learning node embeddings in graphs is one of the important directions in modern network science. In this work we propose a novel framework, which is aimed to find embeddings by \textit{discriminating distributions of similarities (DDoS)} between nodes in the graph. The general idea is implemented by maximizing the \textit{earth mover distance} between distributions of decoded similarities of similar and dissimilar nodes. The resulting algorithm generates embeddings which give a state-of-the-art performance in the problem of link prediction in real-world graphs.

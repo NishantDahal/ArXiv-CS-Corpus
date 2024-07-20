@@ -1,0 +1,3 @@
+Partially Recursive Acceptance Rejection
+
+Generating random variates from high-dimensional distributions is often done approximately using Markov chain Monte Carlo. In certain cases, perfect simulation algorithms exist that allow one to draw exactly from the stationary distribution, but most require $O(n \ln(n))$ time, where $n$ measures the size of the input. In this work a new protocol for creating perfect simulation algorithms that runs in $O(n)$ time for a wider range of parameters on several models (such as Strauss, Ising, and random cluster) than was known previously. This work represents an extension of the popping algorithms due to Wilson.

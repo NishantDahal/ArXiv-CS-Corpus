@@ -1,0 +1,3 @@
+Motion Style Extraction Based on Sparse Coding Decomposition
+
+We present a sparse coding-based framework for motion style decomposition and synthesis. Dynamic Time Warping is firstly used to synchronized input motions in the time domain as a pre-processing step. A sparse coding-based decomposition has been proposed, we also introduce the idea of core component and basic motion. Decomposed motions are then combined, transfer to synthesize new motions. Lastly, we develop limb length constraint as a post-processing step to remove distortion skeletons. Our framework has the advantage of less time-consuming, no manual alignment and large dataset requirement. As a result, our experiments show smooth and natural synthesized motion.

@@ -1,0 +1,3 @@
+Language-depedent I-Vectors for LRE15
+
+A standard recipe for spoken language recognition is to apply a Gaussian back-end to i-vectors. This ignores the uncertainty in the i-vector extraction, which could be important especially for short utterances. A recent paper by Cumani, Plchot and Fer proposes a solution to propagate that uncertainty into the backend. We propose an alternative method of propagating the uncertainty.

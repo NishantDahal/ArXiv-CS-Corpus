@@ -1,0 +1,3 @@
+Modular Type-Safety Proofs using Dependant Types
+
+While methods of code abstraction and reuse are widespread and well researched, methods of proof abstraction and reuse are still emerging. We consider the use of dependent types for this purpose, introducing a completely mechanical approach to proof composition. We show that common techniques for abstracting algorithms over data structures naturally translate to abstractions over proofs. We first introduce a language composed of a series of smaller language components tied together by standard techniques from Malcom (1990). We proceed by giving proofs of type preservation for each language component and show that the basic ideas used in composing the syntactic data structures can be applied to their semantics as well.

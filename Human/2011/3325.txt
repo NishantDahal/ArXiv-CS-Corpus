@@ -1,0 +1,3 @@
+$k$-quasi planar graphs
+
+A topological graph is \emph{$k$-quasi-planar} if it does not contain $k$ pairwise crossing edges. A topological graph is \emph{simple} if every pair of its edges intersect at most once (either at a vertex or at their intersection). In 1996, Pach, Shahrokhi, and Szegedy \cite{pach} showed that every $n$-vertex simple $k$-quasi-planar graph contains at most $O(n(\log n)^{2k-4})$ edges. This upper bound was recently improved (for large $k$) by Fox and Pach \cite{fox} to $n(\log n)^{O(\log k)}$. In this note, we show that all such graphs contain at most $(n\log^2n)2^{α^{c_k}(n)}$ edges, where $α(n)$ denotes the inverse Ackermann function and $c_k$ is a constant that depends only on $k$.

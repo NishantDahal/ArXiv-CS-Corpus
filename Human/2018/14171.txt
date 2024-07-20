@@ -1,0 +1,3 @@
+The application of precision time protocol on EAST timing system
+
+The timing system focuses on synchronizing and coordinating each subsystem according to the trigger signals. A new prototype timing slave node based on precision time protocol has been developed by using ARM STM32 platform. The proposed slave timing module is tested and results show that the synchronization accuracy between slave nodes is in sub-microsecond range.

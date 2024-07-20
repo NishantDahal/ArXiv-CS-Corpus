@@ -1,0 +1,3 @@
+Robust Energy Harvesting Based on a Stackelberg Game
+
+We study a Stackelberg game between a base station and a multi-antenna power beacon for wireless energy harvesting in a multiple sensor node scenario. Assuming imperfect CSI between the sensor nodes and the power beacon, we propose a utility function that is based on throughput non-outage probability at the base station. We provide an analytical solution for the equilibrium in case of a single sensor node. For the general case consisting of multiple sensor nodes, we provide upper and lower bounds on the power and price (players' strategies). We compare the bounds with solutions resulting from an exhaustive search and a relaxed semidefinite program, and find the upper bound to be tight.

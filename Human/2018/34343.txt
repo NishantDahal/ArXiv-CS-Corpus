@@ -1,0 +1,3 @@
+An Improved Scheme in the Two Query Adaptive Bitprobe Model
+
+In this paper, we look into the adaptive bitprobe model that stores subsets of size at most four from a universe of size m, and answers membership queries using two bitprobes. We propose a scheme that stores arbitrary subsets of size four using O(m^{5/6}) amount of space. This improves upon the non-explicit scheme proposed by Garg and Radhakrishnan [Garg2015] which uses O(m^{16/17}) amount of space, and the explicit scheme proposed by Garg [Thesis2015] which uses O(m^{14/15}) amount of space.

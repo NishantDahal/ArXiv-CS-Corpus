@@ -1,0 +1,3 @@
+Higher-Order Pattern Complement and the Strict Lambda-Calculus
+
+We address the problem of complementing higher-order patterns without repetitions of existential variables. Differently from the first-order case, the complement of a pattern cannot, in general, be described by a pattern, or even by a finite set of patterns. We therefore generalize the simply-typed lambda-calculus to include an internal notion of strict function so that we can directly express that a term must depend on a given variable. We show that, in this more expressive calculus, finite sets of patterns without repeated variables are closed under complement and intersection. Our principal application is the transformational approach to negation in higher-order logic programs.

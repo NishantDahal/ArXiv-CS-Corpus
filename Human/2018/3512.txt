@@ -1,0 +1,3 @@
+Stochastic subgradient method converges at the rate $O(k^{-1/4})$ on weakly convex functions
+
+We prove that the proximal stochastic subgradient method, applied to a weakly convex problem, drives the gradient of the Moreau envelope to zero at the rate $O(k^{-1/4})$. As a consequence, we resolve an open question on the convergence rate of the proximal stochastic gradient method for minimizing the sum of a smooth nonconvex function and a convex proximable function.

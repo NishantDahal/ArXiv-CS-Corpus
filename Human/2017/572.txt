@@ -1,0 +1,3 @@
+Non-Blocking Concurrent Imperative Programming with Session Types
+
+Concurrent C0 is an imperative programming language in the C family with session-typed message-passing concurrency. The previously proposed semantics implements asynchronous (non-blocking) output; we extend it here with non-blocking input. A key idea is to postpone message reception as much as possible by interpreting receive commands as a request for a message. We implemented our ideas as a translation from a blocking intermediate language to a non-blocking language. Finally, we evaluated our techniques with several benchmark programs and show the results obtained. While the abstract measure of span always decreases (or remains unchanged), only a few of the examples reap a practical benefit.

@@ -1,0 +1,3 @@
+RESID: A Practical Stochastic Model for Software Reliability
+
+A new approach called RESID is proposed in this paper for estimating reliability of a software allowing for imperfect debugging. Unlike earlier approaches based on counting number of bugs or modelling inter-failure time gaps, RESID focuses on the probability of "bugginess" of different parts of a program buggy. This perspective allows an easy way to incorporate the structure of the software under test, as well as imperfect debugging. One main design objective behind RESID is ease of implementation in practical scenarios.

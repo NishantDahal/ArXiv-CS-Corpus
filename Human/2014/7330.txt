@@ -1,0 +1,4 @@
+Consistency of multidimensional combinatorial substitutions
+
+Multidimensional combinatorial substitutions are rules that replace symbols by finite patterns of symbols in $\mathbb Z^d$. We focus on the case where the patterns are not necessarily rectangular, which requires a specific description of the way they are glued together in the image by a substitution. Two problems can arise when defining a substitution in such a way: it can fail to be consistent, and the patterns in an image by the substitution might overlap.
+  We prove that it is undecidable whether a two-dimensional substitution is consistent or overlapping, and we provide practical algorithms to decide these properties in some particular cases.

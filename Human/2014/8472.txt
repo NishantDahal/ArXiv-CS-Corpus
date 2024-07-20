@@ -1,0 +1,9 @@
+Analytical Approach to Parallel Repetition
+
+We propose an analytical framework for studying parallel repetition, a basic product operation for one-round two-player games. In this framework, we consider a relaxation of the value of a game, $\mathrm{val}_+$, and prove that for projection games, it is both multiplicative (under parallel repetition) and a good approximation for the true value.
+  These two properties imply a parallel repetition bound as $$ \mathrm{val}(G^{\otimes k}) \approx \mathrm{val}_+(G^{\otimes k}) = \mathrm{val}_+(G)^{k} \approx \mathrm{val}(G)^{k}. $$
+  Using this framework, we can also give a short proof for the NP-hardness of Label-Cover$(1,δ)$ for all $δ>0$, starting from the basic PCP theorem.
+  We prove the following new results:
+  - A parallel repetition bound for projection games with small soundness. Previously, it was not known whether parallel repetition decreases the value of such games. This result implies stronger inapproximability bounds for Set-Cover and Label-Cover.
+  - An improved bound for few parallel repetitions of projection games, showing that Raz's counterexample is tight even for a small number of repetitions.
+  Our techniques also allow us to bound the value of the direct product of multiple games, namely, a bound on $\mathrm{val}(G_1\otimes ...\otimes G_k)$ for different projection games $G_1,...,G_k$.

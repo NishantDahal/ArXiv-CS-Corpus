@@ -1,0 +1,3 @@
+Nominal Unification of Higher Order Expressions with Recursive Let
+
+A sound and complete algorithm for nominal unification of higher-order expressions with a recursive let is described, and shown to run in non-deterministic polynomial time. We also explore specializations like nominal letrec-matching for plain expressions and for DAGs and determine the complexity of corresponding unification problems.

@@ -1,0 +1,4 @@
+Evolving a New Feature for a Working Program
+
+A genetic programming system is created. A first fitness function f1 is used to evolve a program that implements a first feature. Then the fitness function is switched to a second function f2, which is used to evolve a program that implements a second feature while still maintaining the first feature. The median number of generations G1 and G2 needed to evolve programs that work as defined by f1 and f2 are measured. The behavior of G1 and G2 are observed as the difficulty of the problem is increased.
+  In these systems, the density D1 of programs that work (for fitness function f1) is measured in the general population of programs. The relationship G1~1/sqrt(D1) is observed to approximately hold. Also, the density D2 of programs that work (for fitness function f2) is measured in the general population of programs. The relationship G2~1/sqrt(D2) is observed to approximately hold.

@@ -1,0 +1,3 @@
+3D Camouflaging Object using RGB-D Sensors
+
+This paper proposes a new optical camouflage system that uses RGB-D cameras, for acquiring point cloud of background scene, and tracking observers eyes. This system enables a user to conceal an object located behind a display that surrounded by 3D objects. If we considered here the tracked point of observer s eyes is a light source, the system will work on estimating shadow shape of the display device that falls on the objects in background. The system uses the 3d observer s eyes and the locations of display corners to predict their shadow points which have nearest neighbors in the constructed point cloud of background scene.

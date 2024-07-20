@@ -1,0 +1,3 @@
+Automatic Hardware Synthesis for a Hybrid Reconfigurable CPU Featuring Philips CPLDs
+
+A high-level architecture of a Hybrid Reconfigurable CPU, based on a Philips-supported core processor, is introduced. It features the Philips XPLA2 CPLD as a reconfigurable functional unit. A compilation chain is presented, in which automatic implementation of time-critical program segments in custom hardware is performed. The entire process is transparent from the programmer's point of view. The hardware synthesis module of the chain, which translates segments of assembly code into a hardware netlist, is discussed in details. Application examples are also presented.

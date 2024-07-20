@@ -1,0 +1,3 @@
+Handling Concept Drift via Model Reuse
+
+In many real-world applications, data are often collected in the form of stream, and thus the distribution usually changes in nature, which is referred as concept drift in literature. We propose a novel and effective approach to handle concept drift via model reuse, leveraging previous knowledge by reusing models. Each model is associated with a weight representing its reusability towards current data, and the weight is adaptively adjusted according to the model performance. We provide generalization and regret analysis. Experimental results also validate the superiority of our approach on both synthetic and real-world datasets.

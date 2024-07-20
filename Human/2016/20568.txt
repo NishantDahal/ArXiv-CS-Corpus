@@ -1,0 +1,3 @@
+Approximation-Friendly Discrepancy Rounding
+
+Rounding linear programs using techniques from discrepancy is a recent approach that has been very successful in certain settings. However this method also has some limitations when compared to approaches such as randomized and iterative rounding. We provide an extension of the discrepancy-based rounding algorithm due to Lovett-Meka that (i) combines the advantages of both randomized and iterated rounding, (ii) makes it applicable to settings with more general combinatorial structure such as matroids. As applications of this approach, we obtain new results for various classical problems such as linear system rounding, degree-bounded matroid basis and low congestion routing.

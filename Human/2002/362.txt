@@ -1,0 +1,3 @@
+Reducing the Computational Requirements of the Differential Quadrature Method
+
+This paper shows that the weighting coefficient matrices of the differential quadrature method (DQM) are centrosymmetric or skew-centrosymmetric if the grid spacings are symmetric irrespective of whether they are equal or unequal. A new skew centrosymmetric matrix is also discussed. The application of the properties of centrosymmetric and skew centrosymmetric matrix can reduce the computational effort of the DQM for calculations of the inverse, determinant, eigenvectors and eigenvalues by 75%. This computational advantage are also demonstrated via several numerical examples.

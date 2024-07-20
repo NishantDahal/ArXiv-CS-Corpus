@@ -1,0 +1,3 @@
+Analytic Definition of Curves and Surfaces by Parabolic Blending
+
+A procedure for interpolating between specified points of a curve or surface is described. The method guarantees slope continuity at all junctions. A surface panel divided into p x q contiguous patches is completely specified by the coordinates of (p+1) x (q+1) points. Each individual patch, however, depends parametrically on the coordinates of 16 points, allowing shape flexibility and global conformity.

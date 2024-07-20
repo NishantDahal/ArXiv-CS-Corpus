@@ -1,0 +1,3 @@
+An Improved Proof-Theoretic Compilation of Logic Programs
+
+In prior work, we showed that logic programming compilation can be given a proof-theoretic justification for generic abstract logic programming languages, and demonstrated this technique in the case of hereditary Harrop formulas and their linear variant. Compiled clauses were themselves logic formulas except for the presence of a second-order abstraction over the atomic goals matching their head. In this paper, we revisit our previous results into a more detailed and fully logical justification that does away with this spurious abstraction. We then refine the resulting technique to support well-moded programs efficiently.

@@ -1,0 +1,3 @@
+Peterson-Gorenstein-Zierler algorithm for skew RS codes
+
+We design a non-commutative version of the Peterson-Gorenstein-Zierler decoding algorithm for a class of codes that we call skew RS codes. These codes are left ideals of a quotient of a skew polynomial ring, which endow them of a sort of non-commutative cyclic structure. Since we work over an arbitrary field, our techniques may be applied both to linear block codes and convolutional codes. In particular, our decoding algorithm applies for block codes beyond the classical cyclic case.

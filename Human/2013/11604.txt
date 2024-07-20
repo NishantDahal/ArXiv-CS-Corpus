@@ -1,0 +1,3 @@
+Flexible Parallel Algorithms for Big Data Optimization
+
+We propose a decomposition framework for the parallel optimization of the sum of a differentiable function and a (block) separable nonsmooth, convex one. The latter term is typically used to enforce structure in the solution as, for example, in Lasso problems. Our framework is very flexible and includes both fully parallel Jacobi schemes and Gauss-Seidel (Southwell-type) ones, as well as virtually all possibilities in between (e.g., gradient- or Newton-type methods) with only a subset of variables updated at each iteration. Our theoretical convergence results improve on existing ones, and numerical results show that the new method compares favorably to existing algorithms.

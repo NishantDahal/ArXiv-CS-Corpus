@@ -1,0 +1,4 @@
+Decidability of the Clark's Completion Semantics for Monadic Programs and Queries
+
+There are many different semantics for general logic programs (i.e. programs that use negation in the bodies of clauses). Most of these semantics are Turing complete (in a sense that can be made precise), implying that they are undecidable. To obtain decidability one needs to put additional restrictions on programs and queries. In logic programming it is natural to put restrictions on the underlying first-order language. In this note we show the decidability of the Clark's completion semantics for monadic general programs and queries.
+  To appear in Theory and Practice of Logic Programming (TPLP)

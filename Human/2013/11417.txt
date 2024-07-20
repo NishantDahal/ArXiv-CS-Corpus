@@ -1,0 +1,4 @@
+Checking Race Freedom of Clocked X10 Programs
+
+One of many approaches to better take advantage of parallelism, which has now become mainstream, is the introduction of parallel programming languages. However, parallelism is by nature non-deterministic, and not all parallel bugs can be avoided by language design. This paper proposes a method for guaranteeing absence of data races in the polyhedral subset of clocked X10 programs.
+  Clocks in X10 are similar to barriers, but are more dynamic; the subset of processes that participate in the synchronization can dynamically change at runtime. We construct the happens-before relation for clocked X10 programs, and show that the problem of race detection is undecidable. However, in many practical cases, modern tools are able to find solutions or disprove their existence. We present a set of benchmarks for which the analysis is possible and has an acceptable running time.

@@ -1,0 +1,3 @@
+Tabulation of Noncrossing Acyclic Digraphs
+
+I present an algorithm that, given a number $n \geq 1$, computes a compact representation of the set of all noncrossing acyclic digraphs with $n$ nodes. This compact representation can be used as the basis for a wide range of dynamic programming algorithms on these graphs. As an illustration, along with this note I am releasing the implementation of an algorithm for counting the number of noncrossing acyclic digraphs of a given size. The same tabulation can be modified to count other classes of combinatorial structures, including weakly connected noncrossing acyclic digraphs, general noncrossing digraphs, noncrossing undirected graphs.

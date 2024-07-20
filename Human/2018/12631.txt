@@ -1,0 +1,3 @@
+eDisco: Discovering Edge Nodes Along the Path
+
+Edge computing is seen as an enabler for upcoming applications requiring low latency offloading, such as augmented reality, and as a key building block for Internet of Things. Edge computing extends the centralized cloud computing model by distributing servers also close to the users, at the edge of the network. A key challenge for the clients remains on how to discover the nearby edge servers and how to access them. In this paper, we present eDisco, DNS-based edge discovery, that leverages existing protocols and requires no modifications to deployed infrastructure. eDisco enables service providers and clients to discover edge servers, and determine the optimal edge deployment configuration.

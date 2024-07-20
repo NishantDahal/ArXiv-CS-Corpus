@@ -1,0 +1,3 @@
+Efficient Quasigroup Block Cipher for Sensor Networks
+
+We present a new quasigroup based block encryption system with and without cipher-block-chaining. We compare its performance against Advanced Encryption Standard-256 (AES256) bit algorithm using the NIST statistical test suite (NIST-STS) that tests for randomness of a sequence. Since it is well known that a good encryption algorithm must destroy any statistical properties of the input sequence and produce an output close to a true random sequence, the NIST-STS suite results provide a good test bench. In almost all tests from the suite the proposed algorithm performs better than AES256.

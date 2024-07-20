@@ -1,0 +1,3 @@
+Sensitivity Analysis of Resonant Circuits
+
+We use first-order perturbation theory to provide a local linear relation between the circuit parameters and the poles of an RLC network. The sensitivity matrix, which defines this relationship, is obtained from the systems eigenvectors and the derivative of its eigenvalues. In general, the sensitivity matrix is related to the equilibrium fluctuations of the system. In particular, it may be used as the basis for a statistical model to efficiently predict the sensitivity of the circuit response to small component variations. The method is illustrated with a calculation of conditional probabilities by Monte Carlo Simulation.

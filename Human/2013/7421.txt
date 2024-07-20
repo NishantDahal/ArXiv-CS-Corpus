@@ -1,0 +1,3 @@
+Partition Function of the Ising Model via Factor Graph Duality
+
+The partition function of a factor graph and the partition function of the dual factor graph are related to each other by the normal factor graph duality theorem. We apply this result to the classical problem of computing the partition function of the Ising model. In the one-dimensional case, we thus obtain an alternative derivation of the (well-known) analytical solution. In the two-dimensional case, we find that Monte Carlo methods are much more efficient on the dual graph than on the original graph, especially at low temperature.

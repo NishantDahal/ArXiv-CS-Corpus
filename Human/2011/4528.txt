@@ -1,0 +1,3 @@
+Multi-robot Deployment From LTL Specifications with Reduced Communication
+
+In this paper, we develop a computational framework for fully automatic deployment of a team of unicycles from a global specification given as an LTL formula over some regions of interest. Our hierarchical approach consists of four steps: (i) the construction of finite abstractions for the motions of each robot, (ii) the parallel composition of the abstractions, (iii) the generation of a satisfying motion of the team; (iv) mapping this motion to individual robot control and communication strategies. The main result of the paper is an algorithm to reduce the amount of inter-robot communication during the fourth step of the procedure.

@@ -1,0 +1,3 @@
+Resolution structure in HornSAT and CNFSAT
+
+This article describes about the difference of resolution structure and size between HornSAT and CNFSAT. We can compute HornSAT by using clauses causality. Therefore we can compute proof diagram by using Log space reduction. But we must compute CNFSAT by using clauses correlation. Therefore we cannot compute proof diagram by using Log space reduction, and reduction of CNFSAT is not P-Complete.

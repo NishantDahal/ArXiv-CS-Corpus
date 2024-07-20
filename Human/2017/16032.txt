@@ -1,0 +1,3 @@
+Deep Incremental Boosting
+
+This paper introduces Deep Incremental Boosting, a new technique derived from AdaBoost, specifically adapted to work with Deep Learning methods, that reduces the required training time and improves generalisation. We draw inspiration from Transfer of Learning approaches to reduce the start-up time to training each incremental Ensemble member. We show a set of experiments that outlines some preliminary results on some common Deep Learning datasets and discuss the potential improvements Deep Incremental Boosting brings to traditional Ensemble methods in Deep Learning.

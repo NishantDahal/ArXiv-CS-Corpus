@@ -1,0 +1,4 @@
+Diverse M-Best Solutions by Dynamic Programming
+
+Many computer vision pipelines involve dynamic programming primitives such as finding a shortest path or the minimum energy solution in a tree-shaped probabilistic graphical model. In such cases, extracting not merely the best, but the set of M-best solutions is useful to generate a rich collection of candidate proposals that can be used in downstream processing. In this work, we show how M-best solutions of tree-shaped graphical models can be obtained by dynamic programming on a special graph with M layers. The proposed multi-layer concept is optimal for searching M-best solutions, and so flexible that it can also approximate M-best diverse solutions. We illustrate the usefulness with applications to object detection, panorama stitching and centerline extraction.
+  Note: We have observed that an assumption in section 4 of our paper is not always fulfilled, see the attached corrigendum for details.

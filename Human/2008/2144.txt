@@ -1,0 +1,3 @@
+Pitch Tracking of Acoustic Signals based on Average Squared Mean Difference Function
+
+In this paper, a method of pitch tracking based on variance minimization of locally periodic subsamples of an acoustic signal is presented. Replicates along the length of the periodically sampled data of the signal vector are taken and locally averaged sample variances are minimized to estimate the fundamental frequency. Using this method, pitch tracking of any text independent voiced signal is possible for different speakers.

@@ -1,0 +1,3 @@
+Connectivity Scaling Laws in Wireless Networks
+
+We present scaling laws that dictate both local and global connectivity properties of bounded wireless networks. These laws are defined with respect to the key system parameters of per-node transmit power and the number of antennas exploited for diversity coding and/or beamforming at each node. We demonstrate that the local probability of connectivity scales like $\mathcal{O}(z^\mathcal C)$ in these parameters, where $\mathcal C$ is the ratio of the dimension of the network domain to the path loss exponent, thus enabling efficient boundary effect mitigation and network topology control.

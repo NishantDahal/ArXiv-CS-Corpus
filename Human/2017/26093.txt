@@ -1,0 +1,3 @@
+On $P_5$-free Chordal bipartite graphs
+
+A bipartite graph is chordal bipartite if every cycle of length at least 6 has a chord in it. In this paper, we investigate the structure of $P_5$-free chordal bipartite graphs and show that these graphs have a Nested Neighborhood Ordering, a special ordering among its vertices. Further, using this ordering, we present polynomial-time algorithms for classical problems such as Hamiltonian cycle (path) and longest path. Two variants of Hamiltonian path include Steiner path and minimum leaf spanning tree, and we obtain polynomial-time algorithms for these problems as well restricted to $P_5$-free chordal bipartite graphs.

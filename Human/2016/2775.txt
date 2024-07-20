@@ -1,0 +1,3 @@
+Unit Vector Games
+
+McLennan and Tourky (2010) showed that "imitation games" provide a new view of the computation of Nash equilibria of bimatrix games with the Lemke-Howson algorithm. In an imitation game, the payoff matrix of one of the players is the identity matrix. We study the more general "unit vector games", which are already known, where the payoff matrix of one player is composed of unit vectors. Our main application is a simplification of the construction by Savani and von Stengel (2006) of bimatrix games where two basic equilibrium-finding algorithms take exponentially many steps: the Lemke-Howson algorithm, and support enumeration.

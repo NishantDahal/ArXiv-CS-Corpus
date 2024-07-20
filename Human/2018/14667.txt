@@ -1,0 +1,3 @@
+Tensor-Tensor Product Toolbox
+
+The tensor-tensor product (t-product) [M. E. Kilmer and C. D. Martin, 2011] is a natural generalization of matrix multiplication. Based on t-product, many operations on matrix can be extended to tensor cases, including tensor SVD, tensor spectral norm, tensor nuclear norm [C. Lu, et al., 2018] and many others. The linear algebraic structure of tensors are similar to the matrix cases. We develop a Matlab toolbox to implement several basic operations on tensors based on t-product. The toolbox is available at https://github.com/canyilu/tproduct.

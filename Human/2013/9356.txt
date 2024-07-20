@@ -1,0 +1,3 @@
+Stochastic Optimization of Service Provision with Selfish Users
+
+We develop a computationally efficient technique to solve a fairly general distributed service provision problem with selfish users and imperfect information. In particular, in a context in which the service capacity of the existing infrastructure can be partially adapted to the user load by activating just some of the service units, we aim at finding the configuration of active service units that achieves the best trade-off between maintenance (e.g.\ energetic) costs for the provider and user satisfaction. The core of our technique resides in the implementation of a belief-propagation (BP) algorithm to evaluate the cost configurations. Numerical results confirm the effectiveness of our approach.

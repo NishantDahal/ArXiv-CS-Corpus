@@ -1,0 +1,3 @@
+How Many Dissimilarity/Kernel Self Organizing Map Variants Do We Need?
+
+In numerous applicative contexts, data are too rich and too complex to be represented by numerical vectors. A general approach to extend machine learning and data mining techniques to such data is to really on a dissimilarity or on a kernel that measures how different or similar two objects are. This approach has been used to define several variants of the Self Organizing Map (SOM). This paper reviews those variants in using a common set of notations in order to outline differences and similarities between them. It discusses the advantages and drawbacks of the variants, as well as the actual relevance of the dissimilarity/kernel SOM for practical applications.

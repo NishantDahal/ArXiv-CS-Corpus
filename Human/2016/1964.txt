@@ -1,0 +1,4 @@
+Energy, Latency, and Reliability Tradeoffs in Coding Circuits
+
+It is shown that fully-parallel encoding and decoding schemes with asymptotic block error probability that scales as $O\left(f\left(n\right)\right)$ have Thompson energy that scales as $Ω\left(\sqrt{\ln f\left(n\right)}n\right)$. As well, it is shown that the number of clock cycles (denoted $T\left(n\right)$) required for any encoding or decoding scheme that reaches this bound must scale as $T\left(n\right)\ge\sqrt{\ln f\left(n\right)}$. Similar scaling results are extended to serialized computation.
+  The Grover information-friction energy model is generalized to three dimensions and the optimal energy of encoding or decoding schemes with probability of block error $P_\mathrm{e}$ is shown to be at least $Ω\left(n\left(\ln P_{\mathrm{e}}\left(n\right)\right)^{\frac{1}{3}}\right)$.

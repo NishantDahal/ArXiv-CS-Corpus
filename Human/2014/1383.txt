@@ -1,0 +1,3 @@
+Fast restoration of natural images corrupted by high-density impulse noise
+
+In this paper, we suggest a general model for the fixed-valued impulse noise and propose a two-stage method for high density noise suppression while preserving the image details. In the first stage, we apply an iterative impulse detector, exploiting the image entropy, to identify the corrupted pixels and then employ an Adaptive Iterative Mean filter to restore them. The filter is adaptive in terms of the number of iterations, which is different for each noisy pixel, according to the Euclidean distance from the nearest uncorrupted pixel. Experimental results show that the proposed filter is fast and outperforms the best existing techniques in both objective and subjective performance measures.

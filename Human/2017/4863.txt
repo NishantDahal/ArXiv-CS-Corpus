@@ -1,0 +1,3 @@
+Space-efficient K-MER algorithm for generalized suffix tree
+
+Suffix trees have emerged to be very fast for pattern searching yielding O (m) time, where m is the pattern size. Unfortunately their high memory requirements make it impractical to work with huge amounts of data. We present a memory efficient algorithm of a generalized suffix tree which reduces the space size by a factor of 10 when the size of the pattern is known beforehand. Experiments on the chromosomes and Pizza&Chili corpus show significant advantages of our algorithm over standard linear time suffix tree construction in terms of memory usage for pattern searching.

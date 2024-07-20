@@ -1,0 +1,3 @@
+QPACE 2 and Domain Decomposition on the Intel Xeon Phi
+
+We give an overview of QPACE 2, which is a custom-designed supercomputer based on Intel Xeon Phi processors, developed in a collaboration of Regensburg University and Eurotech. We give some general recommendations for how to write high-performance code for the Xeon Phi and then discuss our implementation of a domain-decomposition-based solver and present a number of benchmarks.

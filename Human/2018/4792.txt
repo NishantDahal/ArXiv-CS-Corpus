@@ -1,0 +1,3 @@
+Decoding Superposed LoRa Signals
+
+Long-range low-power wireless communications, such as LoRa, are used in many IoT and environmental monitoring applications. They typically increase the communication range to several kilometers, at the cost of reducing the bitrate to a few bits per seconds. Collisions further reduce the performance of these communications. In this paper, we propose two algorithms to decode colliding signals: one algorithm requires the transmitters to be slightly desynchronized, and the other requires the transmitters to be synchronized. To do so, we use the timing information to match the correct symbols to the correct transmitters. We show that our algorithms are able to significantly improve the overall throughput of LoRa.

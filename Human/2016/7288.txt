@@ -1,0 +1,3 @@
+Fast Bilateral Filtering of Vector-Valued Images
+
+In this paper, we consider a natural extension of the edge-preserving bilateral filter for vector-valued images. The direct computation of this non-linear filter is slow in practice. We demonstrate how a fast algorithm can be obtained by first approximating the Gaussian kernel of the bilateral filter using raised-cosines, and then using Monte Carlo sampling. We present simulation results on color images to demonstrate the accuracy of the algorithm and the speedup over the direct implementation.

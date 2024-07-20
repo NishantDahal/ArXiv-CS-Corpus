@@ -1,0 +1,5 @@
+Time and Space Bounds for Reversible Simulation
+
+We prove a general upper bound on the tradeoff between time and space that suffices for the reversible simulation of irreversible computation. Previously, only simulations using exponential time or quadratic space were known.
+  The tradeoff shows for the first time that we can simultaneously achieve subexponential time and subquadratic space.
+  The boundary values are the exponential time with hardly any extra space required by the Lange-McKenzie-Tapp method and the ($\log 3$)th power time with square space required by the Bennett method. We also give the first general lower bound on the extra storage space required by general reversible simulation. This lower bound is optimal in that it is achieved by some reversible simulations.

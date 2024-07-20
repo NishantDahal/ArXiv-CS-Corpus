@@ -1,0 +1,3 @@
+Nominal LCF: A Language for Generic Proof
+
+The syntax and semantics of user-supplied hypothesis names in tactic languages is a thorny problem, because the binding structure of a proof is a function of the goal at which a tactic script is executed. We contribute a new language to deal with the dynamic and interactive character of names in tactic scripts called Nominal LCF, and endow it with a denotational semantics in dI-domains. A large fragment of Nominal LCF has already been implemented and used to great effect in the new RedPRL proof assistant.

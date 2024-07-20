@@ -1,0 +1,3 @@
+An Incremental Knowledge Compilation in First Order Logic
+
+An algorithm to compute the set of prime implicates of a quantifier-free clausal formula X in first order logic had been presented in earlier work. As the knowledge base X is dynamic, new clauses are added to the old knowledge base. In this paper an incremental algorithm is presented to compute the prime implicates of X and a clause C from $π(X)\cup C$. The correctness of the algorithm is also proved.

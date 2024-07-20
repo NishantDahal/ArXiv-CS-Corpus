@@ -1,0 +1,4 @@
+On the Power of Conditional Samples in Distribution Testing
+
+In this paper we define and examine the power of the {\em conditional-sampling} oracle in the context of distribution-property testing. The conditional-sampling oracle for a discrete distribution $μ$ takes as input a subset $S \subset [n]$ of the domain, and outputs a random sample $i \in S$ drawn according to $μ$, conditioned on $S$ (and independently of all prior samples). The conditional-sampling oracle is a natural generalization of the ordinary sampling oracle in which $S$ always equals $[n]$.
+  We show that with the conditional-sampling oracle, testing uniformity, testing identity to a known distribution, and testing any label-invariant property of distributions is easier than with the ordinary sampling oracle. On the other hand, we also show that for some distribution properties the sample-complexity remains near-maximal even with conditional sampling.

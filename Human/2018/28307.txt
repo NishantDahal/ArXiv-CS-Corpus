@@ -1,0 +1,3 @@
+Shakedown: compiler-based moving target protection for Return Oriented Programing attacks on an industrial IoT device
+
+Cybercriminals use Return Oriented Programming techniques to attack systems and IoT devices. While defenses have been developed, not all of them are applicable to constrained devices. We present Shakedown, which is a compile-time randomizing build tool which creates several versions of the binary, each with a distinct memory layout. An attack developed against one device will not work on another device which has a different memory layout. We tested Shakedown on an industrial IoT device and shown that its normal functionality remained intact while an exploit was blocked.

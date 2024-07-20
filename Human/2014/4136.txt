@@ -1,0 +1,3 @@
+Compressive classification and the rare eclipse problem
+
+This paper addresses the fundamental question of when convex sets remain disjoint after random projection. We provide an analysis using ideas from high-dimensional convex geometry. For ellipsoids, we provide a bound in terms of the distance between these ellipsoids and simple functions of their polynomial coefficients. As an application, this theorem provides bounds for compressive classification of convex sets. Rather than assuming that the data to be classified is sparse, our results show that the data can be acquired via very few measurements yet will remain linearly separable. We demonstrate the feasibility of this approach in the context of hyperspectral imaging.

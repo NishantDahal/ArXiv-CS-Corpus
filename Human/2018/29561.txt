@@ -1,0 +1,3 @@
+IMP with exceptions over decorated logic
+
+In this paper, we facilitate the reasoning about impure programming languages, by annotating terms with `decorations' that describe what computational (side) effect evaluation of a term may involve. In a point-free categorical language,called the `decorated logic', we formalize the mutable state and the exception effects first separately, exploiting anice duality between them, and then combined. The combined decorated logic is used as the target language forthe denotational semantics of the IMP+Exc imperative programming language, and allows us to prove equivalencesbetween programs written in IMP+Exc. The combined logic is encoded in Coq, and this encoding is used to certifysome program equivalence proofs.

@@ -1,0 +1,3 @@
+Artificial Neural Network Based Optical Character Recognition
+
+Optical Character Recognition deals in recognition and classification of characters from an image. For the recognition to be accurate, certain topological and geometrical properties are calculated, based on which a character is classified and recognized. Also, the Human psychology perceives characters by its overall shape and features such as strokes, curves, protrusions, enclosures etc. These properties, also called Features are extracted from the image by means of spatial pixel-based calculation. A collection of such features, called Vectors, help in defining a character uniquely, by means of an Artificial Neural Network that uses these Feature Vectors.

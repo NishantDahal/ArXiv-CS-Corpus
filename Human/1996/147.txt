@@ -1,0 +1,4 @@
+A Sign-Based Phrase Structure Grammar for Turkish
+
+This study analyses Turkish syntax from an informational point of view. Sign based linguistic representation and principles of HPSG (Head-driven Phrase Structure Grammar) theory are adapted to Turkish. The basic informational elements are nested and inherently sorted feature structures called signs.
+  In the implementation, logic programming tool ALE (Attribute Logic Engine) which is primarily designed for implementing HPSG grammars is used. A type and structure hierarchy of Turkish language is designed. Syntactic phenomena such a s subcategorization, relative clauses, constituent order variation, adjuncts, nomina l predicates and complement-modifier relations in Turkish are analyzed. A parser is designed and implemented in ALE.

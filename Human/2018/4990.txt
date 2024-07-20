@@ -1,0 +1,3 @@
+Effect of payload size on mean response time when message segmentations occur using $\rm{M}^{\rm X}/\rm{G}/1$ queueing model
+
+This paper proposes the $\rm{M}^{\rm X}/\rm{G}/1$ queueing model to represent arrivals of segmented packets when message segmentations occur. This queueing model enables us to derive the closed form of mean response time, given payload size, message size distribution and message arrival rate. From a numerical result, we show that the mean response time is more convex in payload sizes if message arrival rate is larger in a scenario where Web objects are delivered over a physical link.

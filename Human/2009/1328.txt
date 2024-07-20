@@ -1,0 +1,3 @@
+Fast and Compact Prefix Codes
+
+It is well-known that, given a probability distribution over $n$ characters, in the worst case it takes (Θ(n \log n)) bits to store a prefix code with minimum expected codeword length. However, in this paper we first show that, for any $0<ε<1/2$ with (1 / ε= \Oh{\polylog{n}}), it takes $\Oh{n \log \log (1 / ε)}$ bits to store a prefix code with expected codeword length within $ε$ of the minimum. We then show that, for any constant (c > 1), it takes $\Oh{n^{1 / c} \log n}$ bits to store a prefix code with expected codeword length at most $c$ times the minimum. In both cases, our data structures allow us to encode and decode any character in $\Oh{1}$ time.

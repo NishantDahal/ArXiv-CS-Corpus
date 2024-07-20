@@ -1,0 +1,4 @@
+Characterization and Efficient Search of Non-Elementary Trapping Sets of LDPC Codes with Applications to Stopping Sets
+
+In this paper, we propose a characterization for non-elementary trapping sets (NETSs) of low-density parity-check (LDPC) codes. The characterization is based on viewing a NETS as a hierarchy of embedded graphs starting from an ETS. The characterization corresponds to an efficient search algorithm that under certain conditions is exhaustive. As an application of the proposed characterization/search, we obtain lower and upper bounds on the stopping distance $s_{min}$ of LDPC codes.
+  We examine a large number of regular and irregular LDPC codes, and demonstrate the efficiency and versatility of our technique in finding lower and upper bounds on, and in many cases the exact value of, $s_{min}$. Finding $s_{min}$, or establishing search-based lower or upper bounds, for many of the examined codes are out of the reach of any existing algorithm.

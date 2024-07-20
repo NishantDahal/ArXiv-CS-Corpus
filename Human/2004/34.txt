@@ -1,0 +1,3 @@
+Unconditionally Secure Multipartite Quantum Key Distribution
+
+We consider the problem of secure key distribution among $n$ trustful agents: the goal is to distribute an identical random bit-string among the $n$ agents over a noisy channel such that eavesdroppers learn little about it. We study the general situation where the only resources required are secure bipartite key distribution and authenticated classical communication. Accordingly, multipartite quantum key distribution can be proven unconditionally secure by reducing the problem to the biparitite case and invoking the proof of security of bipartite quantum key distribution.

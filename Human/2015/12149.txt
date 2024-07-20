@@ -1,0 +1,3 @@
+A Randomized Algorithm for Long Directed Cycle
+
+Given a directed graph $G$ and a parameter $k$, the {\sc Long Directed Cycle (LDC)} problem asks whether $G$ contains a simple cycle on at least $k$ vertices, while the {\sc $k$-Path} problems asks whether $G$ contains a simple path on exactly $k$ vertices. Given a deterministic (randomized) algorithm for {\sc $k$-Path} as a black box, which runs in time $t(G,k)$, we prove that {\sc LDC} can be solved in deterministic time $O^*(\max\{t(G,2k),4^{k+o(k)}\})$ (randomized time $O^*(\max\{t(G,2k),4^k\})$). In particular, we get that {\sc LDC} can be solved in randomized time $O^*(4^k)$.

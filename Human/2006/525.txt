@@ -1,0 +1,3 @@
+Combinational Logic Circuit Design with the Buchberger Algorithm
+
+We detail a procedure for the computation of the polynomial form of an electronic combinational circuit from the design equations in a truth table. The method uses the Buchberger algorithm rather than current traditional methods based on search algorithms. We restrict the analysis to a single output, but the procedure can be generalized to multiple outputs. The procedure is illustrated with the design of a simple arithmetic and logic unit with two 3-bit operands and two control bits.

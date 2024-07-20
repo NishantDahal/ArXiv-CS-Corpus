@@ -1,0 +1,3 @@
+On the complexity of class group computations for large degree number fields
+
+In this paper, we examine the general algorithm for class group computations, when we do not have a small defining polynomial for the number field. Based on a result of Biasse and Fieker, we simplify their algorithm, improve the complexity analysis and identify the optimal parameters to reduce the runtime. We make use of the classes $\mathcal D$ defined in [GJ16] for classifying the fields according to the size of the extension degree and prove that they enable to describe all the number fields.

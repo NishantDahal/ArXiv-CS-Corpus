@@ -1,0 +1,9 @@
+Limits on representing Boolean functions by linear combinations of simple functions: thresholds, ReLUs, and low-degree polynomials
+
+We consider the problem of representing Boolean functions exactly by "sparse" linear combinations (over $\mathbb{R}$) of functions from some "simple" class ${\cal C}$. In particular, given ${\cal C}$ we are interested in finding low-complexity functions lacking sparse representations. When ${\cal C}$ is the set of PARITY functions or the set of conjunctions, this sort of problem has a well-understood answer, the problem becomes interesting when ${\cal C}$ is "overcomplete" and the set of functions is not linearly independent. We focus on the cases where ${\cal C}$ is the set of linear threshold functions, the set of rectified linear units (ReLUs), and the set of low-degree polynomials over a finite field, all of which are well-studied in different contexts.
+  We provide generic tools for proving lower bounds on representations of this kind. Applying these, we give several new lower bounds for "semi-explicit" Boolean functions. For example, we show there are functions in nondeterministic quasi-polynomial time that require super-polynomial size:
+  $\bullet$ Depth-two neural networks with sign activation function, a special case of depth-two threshold circuit lower bounds.
+  $\bullet$ Depth-two neural networks with ReLU activation function.
+  $\bullet$ $\mathbb{R}$-linear combinations of $O(1)$-degree $\mathbb{F}_p$-polynomials, for every prime $p$ (related to problems regarding Higher-Order "Uncertainty Principles"). We also obtain a function in $E^{NP}$ requiring $2^{Ω(n)}$ linear combinations.
+  $\bullet$ $\mathbb{R}$-linear combinations of $ACC \circ THR$ circuits of polynomial size (further generalizing the recent lower bounds of Murray and the author).
+  (The above is a shortened abstract. For the full abstract, see the paper.)

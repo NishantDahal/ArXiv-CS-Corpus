@@ -1,0 +1,3 @@
+Dimensionality reduction of SDPs through sketching
+
+We show how to sketch semidefinite programs (SDPs) using positive maps in order to reduce their dimension. More precisely, we use Johnson\hyp{}Lindenstrauss transforms to produce a smaller SDP whose solution preserves feasibility or approximates the value of the original problem with high probability. These techniques allow to improve both complexity and storage space requirements. They apply to problems in which the Schatten 1-norm of the matrices specifying the SDP and also of a solution to the problem is constant in the problem size. Furthermore, we provide some results which clarify the limitations of positive, linear sketches in this setting.

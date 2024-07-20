@@ -1,0 +1,3 @@
+Text Summarization as Tree Transduction by Top-Down TreeLSTM
+
+Extractive compression is a challenging natural language processing problem. This work contributes by formulating neural extractive compression as a parse tree transduction problem, rather than a sequence transduction task. Motivated by this, we introduce a deep neural model for learning structure-to-substructure tree transductions by extending the standard Long Short-Term Memory, considering the parent-child relationships in the structural recursion. The proposed model can achieve state of the art performance on sentence compression benchmarks, both in terms of accuracy and compression rate.

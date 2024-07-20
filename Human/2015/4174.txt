@@ -1,0 +1,3 @@
+Conservativity of embeddings in the lambda Pi calculus modulo rewriting (long version)
+
+The lambda Pi calculus can be extended with rewrite rules to embed any functional pure type system. In this paper, we show that the embedding is conservative by proving a relative form of normalization, thus justifying the use of the lambda Pi calculus modulo rewriting as a logical framework for logics based on pure type systems. This result was previously only proved under the condition that the target system is normalizing. Our approach does not depend on this condition and therefore also works when the source system is not normalizing.

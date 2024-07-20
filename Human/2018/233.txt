@@ -1,0 +1,3 @@
+IRSA Transmission Optimization via Online Learning
+
+In this work, we propose a new learning framework for optimising transmission strategies when irregular repetition slotted ALOHA (IRSA) MAC protocol is considered. We cast the online optimisation of the MAC protocol design as a multi-arm bandit problem that exploits the IRSA structure in the learning framework. Our learning algorithm quickly learns the optimal transmission strategy, leading to higher rate of successfully received packets with respect to baseline transmission optimizations.

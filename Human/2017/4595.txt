@@ -1,0 +1,3 @@
+On Solving Travelling Salesman Problem with Vertex Requisitions
+
+We consider the Travelling Salesman Problem with Vertex Requisitions, where for each position of the tour at most two possible vertices are given. It is known that the problem is strongly NP-hard. The proposed algorithm for this problem has less time complexity compared to the previously known one. In particular, almost all feasible instances of the problem are solvable in O(n) time using the new algorithm, where n is the number of vertices. The developed approach also helps in fast enumeration of a neighborhood in the local search and yields an integer programming model with O(n) binary variables for the problem.

@@ -1,0 +1,4 @@
+UTS submission to Google YouTube-8M Challenge 2017
+
+In this paper, we present our solution to Google YouTube-8M Video Classification Challenge 2017. We leveraged both video-level and frame-level features in the submission. For video-level classification, we simply used a 200-mixture Mixture of Experts (MoE) layer, which achieves GAP 0.802 on the validation set with a single model. For frame-level classification, we utilized several variants of recurrent neural networks, sequence aggregation with attention mechanism and 1D convolutional models. We achieved GAP 0.8408 on the private testing set with the ensemble model.
+  The source code of our models can be found in \url{https://github.com/ffmpbgrnn/yt8m}.

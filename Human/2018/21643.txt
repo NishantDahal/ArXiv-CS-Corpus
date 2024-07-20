@@ -1,0 +1,3 @@
+On the Complexity of Solving Subtraction Games
+
+We study algorithms for solving Subtraction games, which sometimes are referred to as one-heap Nim games. We describe a quantum algorithm which is applicable to any game on DAG, and show that its query compexity for solving an arbitrary Subtraction game of $n$ stones is $O(n^{3/2}\log n)$. The best known deterministic algorithms for solving such games are based on the dynamic programming approach. We show that this approach is asymptotically optimal and that classical query complexity for solving a Subtraction game is generally $Θ(n^2)$. This paper perhaps is the first explicit "quantum" contribution to algorithmic game theory.

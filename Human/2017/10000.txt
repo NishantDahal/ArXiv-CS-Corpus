@@ -1,0 +1,3 @@
+Repairing Reed-Solomon Codes With Two Erasures
+
+Despite their exceptional error-correcting properties, Reed-Solomon (RS) codes have been overlooked in distributed storage applications due to the common belief that they have poor repair bandwidth: A naive repair approach would require the whole file to be reconstructed in order to recover a single erased codeword symbol. In a recent work, Guruswami and Wootters (STOC'16) proposed a single-erasure repair method for RS codes that achieves the optimal repair bandwidth amongst all linear encoding schemes. We extend their trace collection technique to cope with two erasures.

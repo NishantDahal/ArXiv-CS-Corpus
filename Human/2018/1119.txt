@@ -1,0 +1,3 @@
+Binary CEO Problem under Log-Loss with BSC Test-Channel Model
+
+In this paper, we propose an efficient coding scheme for the two-link binary Chief Executive Officer (CEO) problem under logarithmic loss criterion. The exact rate-distortion bound for a two-link binary CEO problem under the logarithmic loss has been obtained by Courtade and Weissman. We propose an encoding scheme based on compound LDGM-LDPC codes to achieve the theoretical bounds. In the proposed encoding, a binary quantizer using LDGM codes and a syndrome-coding employing LDPC codes are applied. An iterative joint decoding is also designed as a fusion center. The proposed CEO decoder is based on the sum-product algorithm and a soft estimator.

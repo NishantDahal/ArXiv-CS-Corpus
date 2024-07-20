@@ -1,0 +1,3 @@
+Greedy can beat pure dynamic programming
+
+Many dynamic programming algorithms for discrete 0-1 optimizationproblems are "pure" in that their recursion equations only use min/max and addition operations, and do not depend on actual input weights. The well-known greedy algorithm of Kruskal solves the minimum weight spanning tree problem on $n$-vertex graphs using only $O(n^2\log n)$ operations. We prove that any pure DP algorithm for this problem must perform $2^{Ω(\sqrt{n})}$ operations. Since the greedy algorithm can also badly fail on some optimization problems, easily solvable by pure DP algorithms, our result shows that the computational powers of these two types of algorithms are incomparable.

@@ -1,0 +1,3 @@
+Huffman Coding with Letter Costs: A Linear-Time Approximation Scheme
+
+We give a polynomial-time approximation scheme for the generalization of Huffman Coding in which codeword letters have non-uniform costs (as in Morse code, where the dash is twice as long as the dot). The algorithm computes a (1+epsilon)-approximate solution in time O(n + f(epsilon) log^3 n), where n is the input size.

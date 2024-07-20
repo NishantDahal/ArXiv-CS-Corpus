@@ -1,0 +1,3 @@
+On the Adaptability of Neural Network Image Super-Resolution
+
+In this paper, we described and developed a framework for Multilayer Perceptron (MLP) to work on low level image processing, where MLP will be used to perform image super-resolution. Meanwhile, MLP are trained with different types of images from various categories, hence analyse the behaviour and performance of the neural network. The tests are carried out using qualitative test, in which Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index (SSIM). The results showed that MLP trained with single image category can perform reasonably well compared to methods proposed by other researchers.

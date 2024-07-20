@@ -1,0 +1,3 @@
+Reduction of constraint systems
+
+Geometric modeling by constraints leads to large systems of algebraic equations. This paper studies bipartite graphs underlaid by systems of equations. It shows how these graphs make possible to polynomially decompose these systems into well constrained, over-, and underconstrained subsystems. This paper also gives an efficient method to decompose well constrained systems into irreducible ones. These decompositions greatly speed up the resolution in case of reducible systems. They also allow debugging systems of constraints.

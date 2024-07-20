@@ -1,0 +1,3 @@
+Evaluation of Deep Learning on an Abstract Image Classification Dataset
+
+Convolutional Neural Networks have become state of the art methods for image classification over the last couple of years. By now they perform better than human subjects on many of the image classification datasets. Most of these datasets are based on the notion of concrete classes (i.e. images are classified by the type of object in the image). In this paper we present a novel image classification dataset, using abstract classes, which should be easy to solve for humans, but variations of it are challenging for CNNs. The classification performance of popular CNN architectures is evaluated on this dataset and variations of the dataset that might be interesting for further research are identified.

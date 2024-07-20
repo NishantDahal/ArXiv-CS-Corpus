@@ -1,0 +1,3 @@
+A Combination Framework for Complexity
+
+In this paper we present a combination framework for polynomial complexity analysis of term rewrite systems. The framework covers both derivational and runtime complexity analysis. We present generalisations of powerful complexity techniques, notably a generalisation of complexity pairs and (weak) dependency pairs. Finally, we also present a novel technique, called dependency graph decomposition, that in the dependency pair setting greatly increases modularity. We employ the framework in the automated complexity tool TCT. TCT implements a majority of the techniques found in the literature, witnessing that our framework is general enough to capture a very brought setting.

@@ -1,0 +1,3 @@
+Neural Networks Architecture Evaluation in a Quantum Computer
+
+In this work, we propose a quantum algorithm to evaluate neural networks architectures named Quantum Neural Network Architecture Evaluation (QNNAE). The proposed algorithm is based on a quantum associative memory and the learning algorithm for artificial neural networks. Unlike conventional algorithms for evaluating neural network architectures, QNNAE does not depend on initialization of weights. The proposed algorithm has a binary output and results in 0 with probability proportional to the performance of the network. And its computational cost is equal to the computational cost to train a neural network.

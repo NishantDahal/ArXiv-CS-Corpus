@@ -1,0 +1,6 @@
+Review of theory and implementation of hyper-dual numbers for first and second order automatic differentiation
+
+In this review we present hyper-dual numbers as a tool for the automatic differentiation of computer programs via operator overloading.
+  We start with a motivational introduction into the ideas of algorithmic differentiation. Then we illuminate the concepts behind operator overloading and dual numbers.
+  Afterwards, we present hyper-dual numbers (and vectors) as an extension of dual numbers for the computation of the Jacobian and the Hessian matrices of a computer program. We review a mathematical theorem that proves the correctness of the derivative information that is obtained from hyper-dual numbers.
+  Finally, we refer to a freely available implementation of a hyper-dual number class in Matlab. We explain an interface that can be called with a function as argument such that the Jacobian and Hessian of this function are returned.

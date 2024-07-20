@@ -1,0 +1,3 @@
+Support for Various HTTP Methods on the Web
+
+We examine how well various HTTP methods are supported by public web services. We sample 40,870 live URIs from the DMOZ collection (a curated directory of World Wide Web URIs) and found that about 55% URIs claim support (in the Allow header) for GET and POST methods, but less than 2% of the URIs claim support for one or more of PUT, PATCH, or DELETE methods.

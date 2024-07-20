@@ -1,0 +1,3 @@
+Non-intrusive on-the-fly data race detection using execution replay
+
+This paper presents a practical solution for detecting data races in parallel programs. The solution consists of a combination of execution replay (RecPlay) with automatic on-the-fly data race detection. This combination enables us to perform the data race detection on an unaltered execution (almost no probe effect). Furthermore, the usage of multilevel bitmaps and snooped matrix clocks limits the amount of memory used. As the record phase of RecPlay is highly efficient, there is no need to switch it off, hereby eliminating the possibility of Heisenbugs because tracing can be left on all the time.

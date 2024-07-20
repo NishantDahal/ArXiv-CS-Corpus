@@ -1,0 +1,3 @@
+Bounds on the coefficients of the characteristic and minimal polynomials
+
+This note presents absolute bounds on the size of the coefficients of the characteristic and minimal polynomials depending on the size of the coefficients of the associated matrix. Moreover, we present algorithms to compute more precise input-dependant bounds on these coefficients. Such bounds are e.g. useful to perform deterministic chinese remaindering of the characteristic or minimal polynomial of an integer matrix.

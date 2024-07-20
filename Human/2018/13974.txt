@@ -1,0 +1,3 @@
+Learning from graphs with structural variation
+
+We study the effect of structural variation in graph data on the predictive performance of graph kernels. To this end, we introduce a novel, noise-robust adaptation of the GraphHopper kernel and validate it on benchmark data, obtaining modestly improved predictive performance on a range of datasets. Next, we investigate the performance of the state-of-the-art Weisfeiler-Lehman graph kernel under increasing synthetic structural errors and find that the effect of introducing errors depends strongly on the dataset.

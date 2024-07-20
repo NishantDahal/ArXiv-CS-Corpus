@@ -1,0 +1,3 @@
+A New Upper Bound for the VC-Dimension of Visibility Regions
+
+In this paper we are proving the following fact. Let P be an arbitrary simple polygon, and let S be an arbitrary set of 15 points inside P. Then there exists a subset T of S that is not "visually discernible", that is, T is not equal to the intersection of S with the visibility region vis(v) of any point v in P. In other words, the VC-dimension d of visibility regions in a simple polygon cannot exceed 14. Since Valtr proved in 1998 that d \in [6,23] holds, no progress has been made on this bound. By epsilon-net theorems our reduction immediately implies a smaller upper bound to the number of guards needed to cover P.

@@ -1,0 +1,3 @@
+Completeness of algebraic CPS simulations
+
+The algebraic lambda calculus and the linear algebraic lambda calculus are two extensions of the classical lambda calculus with linear combinations of terms. They arise independently in distinct contexts: the former is a fragment of the differential lambda calculus, the latter is a candidate lambda calculus for quantum computation. They differ in the handling of application arguments and algebraic rules. The two languages can simulate each other using an algebraic extension of the well-known call-by-value and call-by-name CPS translations. These simulations are sound, in that they preserve reductions. In this paper, we prove that the simulations are actually complete, strengthening the connection between the two languages.

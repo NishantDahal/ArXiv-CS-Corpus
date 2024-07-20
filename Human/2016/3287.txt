@@ -1,0 +1,3 @@
+Illumination-invariant image mosaic calculation based on logarithmic search
+
+This technical report describes an improved image mosaicking algorithm. It is based on Jain's logarithmic search algorithm [Jain 1981] which is coupled to the method of Kourogi (1999} for matching images in a video sequence. Logarithmic search has a better invariance against illumination changes than the original optical-flow-based method of Kourogi.

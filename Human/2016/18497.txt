@@ -1,0 +1,4 @@
+Minkowski games
+
+We introduce and study Minkowski games. These are two player games, where the players take turns to chose positions in $\mathbb{R}^d$ based on some rules. Variants include boundedness games, where one player wants to keep the positions bounded, and the other wants to escape to infinity; as well as safety games, where one player wants to stay within a prescribed set, while the other wants to leave it.
+  We provide some general characterizations of which player can win such games, and explore the computational complexity of the associated decision problems. A natural representation of boundedness games yields coNP-completeness, whereas the safety games are undecidable.

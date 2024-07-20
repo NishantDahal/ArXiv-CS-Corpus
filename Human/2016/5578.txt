@@ -1,0 +1,4 @@
+Eilenberg--Moore Monoids and Backtracking Monad Transformers
+
+We develop an algebraic underpinning of backtracking monad transformers in the general setting of monoidal categories. As our main technical device, we introduce Eilenberg--Moore monoids, which combine monoids with algebras for strong monads. We show that Eilenberg--Moore monoids coincide with algebras for the list monad transformer ('done right') known from Haskell libraries.
+ From this, we obtain a number of results, including the facts that the list monad transformer is indeed a monad, a transformer, and an instance of the MonadPlus class. Finally, we construct an Eilenberg--Moore monoid of endomorphisms, which, via the codensity monad construction, yields a continuation-based implementation a la Hinze.

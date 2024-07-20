@@ -1,0 +1,3 @@
+A Distributed Algorithm for Least Square Solutions of Linear Equations
+
+A distributed discrete-time algorithm is proposed for multi-agent networks to achieve a common least squares solution of a group of linear equations, in which each agent only knows some of the equations and is only able to receive information from its nearby neighbors. For fixed, connected, and undirected networks, the proposed discrete-time algorithm results in each agents solution estimate to converging exponentially fast to the same least squares solution. Moreover, the convergence does not require careful choices of time-varying small step sizes.

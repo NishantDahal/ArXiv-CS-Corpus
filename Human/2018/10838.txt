@@ -1,0 +1,3 @@
+Clustering by latent dimensions
+
+This paper introduces a new clustering technique, called {\em dimensional clustering}, which clusters each data point by its latent {\em pointwise dimension}, which is a measure of the dimensionality of the data set local to that point. Pointwise dimension is invariant under a broad class of transformations. As a result, dimensional clustering can be usefully applied to a wide range of datasets. Concretely, we present a statistical model which estimates the pointwise dimension of a dataset around the points in that dataset using the distance of each point from its $n^{\text{th}}$ nearest neighbor. We demonstrate the applicability of our technique to the analysis of dynamical systems, images, and complex human movements.

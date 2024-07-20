@@ -1,0 +1,3 @@
+ClassdescMP: Easy MPI programming in C++
+
+ClassdescMP is a distributed memory parallel programming system for use with C++ and MPI. It uses the Classdesc reflection system to ease the task of building complicated messages to be sent between processes. It doesn't hide the underlying MPI API, so it is an augmentation of MPI capabilities. Users can still call standard MPI function calls if needed for performance reasons.

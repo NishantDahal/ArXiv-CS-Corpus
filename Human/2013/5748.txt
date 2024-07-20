@@ -1,0 +1,3 @@
+Lending Petri nets and contracts
+
+Choreography-based approaches to service composition typically assume that, after a set of services has been found which correctly play the roles prescribed by the choreography, each service respects his role. Honest services are not protected against adversaries. We propose a model for contracts based on a extension of Petri nets, which allows services to protect themselves while still realizing the choreography. We relate this model with Propositional Contract Logic, by showing a translation of formulae into our Petri nets which preserves the logical notion of agreement, and allows for compositional verification.

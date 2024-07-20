@@ -1,0 +1,3 @@
+Binary Fused Compressive Sensing: 1-Bit Compressive Sensing meets Group Sparsity
+
+We propose a new method, {\it binary fused compressive sensing} (BFCS), to recover sparse piece-wise smooth signals from 1-bit compressive measurements. The proposed algorithm is a modification of the previous {\it binary iterative hard thresholding} (BIHT) algorithm, where, in addition to the sparsity constraint, the total-variation of the recovered signal is upper constrained. As in BIHT, the data term of the objective function is an one-sided $\ell_1$ (or $\ell_2$) norm. Experiments on the recovery of sparse piece-wise smooth signals show that the proposed algorithm is able to take advantage of the piece-wise smoothness of the original signal, achieving more accurate recovery than BIHT.

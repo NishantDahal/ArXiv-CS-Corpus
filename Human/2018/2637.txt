@@ -1,0 +1,3 @@
+Diversity regularization in deep ensembles
+
+Calibrating the confidence of supervised learning models is important for a variety of contexts where the certainty over predictions should be reliable. However, it has been reported that deep neural network models are often too poorly calibrated for achieving complex tasks requiring reliable uncertainty estimates in their prediction. In this work, we are proposing a strategy for training deep ensembles with a diversity function regularization, which improves the calibration property while maintaining a similar prediction accuracy.

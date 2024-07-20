@@ -1,0 +1,3 @@
+Large-scale Reservoir Simulations on IBM Blue Gene/Q
+
+This paper presents our work on simulation of large-scale reservoir models on IBM Blue Gene/Q and studying the scalability of our parallel reservoir simulators. An in-house black oil simulator has been implemented. It uses MPI for communication and is capable of simulating reservoir models with hundreds of millions of grid cells. Benchmarks show that our parallel simulator are thousands of times faster than sequential simulators that designed for workstations and personal computers, and the simulator has excellent scalability.

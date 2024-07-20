@@ -1,0 +1,3 @@
+Implementation of linear maps with circulant matrices via modulo 2 rectifier circuits of bounded depth
+
+In the present note we show that for any positive integer k an arbitrary Boolean circulant matrix can be implemented via modulo 2 rectifier circuit of depth 2k-1 and complexity O(n^{1+1/k}), and also via circuit of depth 2k and complexity O(n^{1+1/k} log^{-1/k} n).

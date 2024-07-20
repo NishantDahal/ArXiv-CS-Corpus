@@ -1,0 +1,5 @@
+Fast algorithms for anti-distance matrices as a generalization of Boolean matrices
+
+We show that Boolean matrix multiplication, computed as a sum of products of column vectors with row vectors, is essentially the same as Warshall's algorithm for computing the transitive closure matrix of a graph from its adjacency matrix.
+  Warshall's algorithm can be generalized to Floyd's algorithm for computing the distance matrix of a graph with weighted edges. We will generalize Boolean matrices in the same way, keeping matrix multiplication essentially equivalent to the Floyd-Warshall algorithm. This way, we get matrices over a semiring, which are similar to the so-called "funny matrices".
+  We discuss our implementation of operations on Boolean matrices and on their generalization, which make use of vector instructions.

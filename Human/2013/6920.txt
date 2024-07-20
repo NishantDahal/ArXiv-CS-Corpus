@@ -1,0 +1,3 @@
+Performing Implicit Induction Reasoning with Certifying Proof Environments
+
+Largely adopted by proof assistants, the conventional induction methods based on explicit induction schemas are non-reductive and local, at schema level. On the other hand, the implicit induction methods used by automated theorem provers allow for lazy and mutual induction reasoning. In this paper, we present a new tactic for the Coq proof assistant able to perform automatically implicit induction reasoning. By using an automatic black-box approach, conjectures intended to be manually proved by the certifying proof environment that integrates Coq are proved instead by the Spike implicit induction theorem prover. The resulting proofs are translated afterwards into certified Coq scripts.

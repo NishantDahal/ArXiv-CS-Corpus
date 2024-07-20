@@ -1,0 +1,3 @@
+Number representations and term rewriting
+
+In this paper we examine a number of term rewriting system for integer number representations, building further upon the datatype defining systems described in [2]. In particular, we look at automated methods for proving confluence and termination in binary and decimal term rewriting systems for both append and tree constructor functions. We find that some of these term rewriting systems are not strongly terminating, which we resolve with minor changes to these systems. Moreover, most of the term rewriting systems discussed do not exhibit the confluence property, which seems more difficult to resolve.

@@ -1,0 +1,5 @@
+Cylindrical Algebraic Sub-Decompositions
+
+Cylindrical algebraic decompositions (CADs) are a key tool in real algebraic geometry, used primarily for eliminating quantifiers over the reals and studying semi-algebraic sets. In this paper we introduce cylindrical algebraic sub-decompositions (sub-CADs), which are subsets of CADs containing all the information needed to specify a solution for a given problem.
+  We define two new types of sub-CAD: variety sub-CADs which are those cells in a CAD lying on a designated variety; and layered sub-CADs which have only those cells of dimension higher than a specified value. We present algorithms to produce these and describe how the two approaches may be combined with each other and the recent theory of truth-table invariant CAD.
+  We give a complexity analysis showing that these techniques can offer substantial theoretical savings, which is supported by experimentation using an implementation in Maple.

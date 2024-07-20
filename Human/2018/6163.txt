@@ -1,0 +1,3 @@
+Scoring Formulation for Multi-Condition Joint PLDA
+
+The joint PLDA model, is a generalization of PLDA where the nuisance variable is no longer considered independent across samples, but potentially shared (tied) across samples that correspond to the same nuisance condition. The original work considered a single nuisance condition, deriving the EM and scoring formulas for this scenario. In this document, we show how to obtain likelihood ratios for scoring when multiple nuisance conditions are allowed in the model.

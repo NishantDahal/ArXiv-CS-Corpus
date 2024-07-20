@@ -1,0 +1,4 @@
+Topology of the immediate snapshot complexes
+
+The immediate snapshot complexes were introduced as combinatorial models for the protocol complexes in the context of theoretical distributed computing. In the previous work we have developed a formal language of witness structures in order to define and to analyze these complexes.
+  In this paper, we study topology of immediate snapshot complexes. It was known that these complexes are always pure and that they are pseudomanifolds. Here we prove two further independent topological properties. First, we show that immediate snapshot complexes are collapsible. Second, we show that these complexes are homeomorphic to closed balls. Specifically, given any immediate snapshot complex $P(\tr)$, we show that there exists a homeomorphism $\varphi:\da^{|\supp\tr|-1}\ra P(\tr)$, such that $\varphi(σ)$ is a subcomplex of $P(\tr)$, whenever $σ$ is a simplex in the simplicial complex $\da^{|\supp\tr|-1}$.

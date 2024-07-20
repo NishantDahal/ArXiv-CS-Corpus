@@ -1,0 +1,3 @@
+Oblivious Lookup Tables
+
+We consider the following question: given a group-homomorphic public-key encryption $E$, a ciphertext $c=E(x,pk)$ hiding a value $x$ using a key $pk$, and a "suitable" description of a function $f$, can we evaluate $E(f(x), pk)$ without decrypting $c$? We call this an "oblivious lookup table" and show the existence of such a primitive. To this end, we describe a concrete construction, discuss its security and relations to other cryptographic primitives, and point out directions of future investigations towards generalizations.

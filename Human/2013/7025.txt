@@ -1,0 +1,4 @@
+Algebraic Meta-Theory of Processes with Data
+
+There exists a rich literature of rule formats guaranteeing different algebraic properties for formalisms with a Structural Operational Semantics. Moreover, there exist a few approaches for automatically deriving axiomatizations characterizing strong bisimilarity of processes. To our knowledge, this literature has never been extended to the setting with data (e.g. to model storage and memory). We show how the rule formats for algebraic properties can be exploited in a generic manner in the setting with data. Moreover, we introduce a new approach for deriving sound and ground-complete axiom schemata for a notion of bisimilarity with data, called stateless bisimilarity, based on intuitive auxiliary function symbols for handling the store component. We do restrict, however, the axiomatization to the setting where the store component is only given in terms of constants.
+

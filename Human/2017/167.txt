@@ -1,0 +1,3 @@
+Indices in XML Databases
+
+With XML becoming a standard for business information representation and exchange, stor-ing, indexing, and querying XML documents have rapidly become major issues in database research. In this context, query processing and optimization are primordial, native-XML data-bases not being mature yet. Data structures such as indices, which help enhance performances substantially, are extensively researched, especially since XML data bear numerous specifici-ties with respect to relational data. In this paper, we survey state-of-the-art XML indices and discuss the main issues, tradeoffs and future trends in XML indexing. We also present an in-dex that we specifically designed for the particular architecture of XML data warehouses.

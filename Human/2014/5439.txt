@@ -1,0 +1,3 @@
+Resource-Aware Replication on Heterogeneous Multicores: Challenges and Opportunities
+
+Decreasing hardware feature sizes and increasing heterogeneity in multicore hardware require software that can adapt to these platforms' properties. We implemented ROMAIN, an OS service providing redundant multithreading on top of the FIASCO.OC microkernel to address the increasing unreliability of hardware. In this paper we review challenges and opportunities for ROMAIN to adapt to such multicore platforms in order to decrease execution overhead, resource requirements, and vulnerability against faults.

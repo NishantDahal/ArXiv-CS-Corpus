@@ -1,0 +1,3 @@
+Autonomous Driving System Design for Formula Student Driverless Racecar
+
+This paper summarizes the work of building the autonomous system including detection system and path tracking controller for a formula student autonomous racecar. A LIDAR-vision cooperating method of detecting traffic cone which is used as track mark is proposed. Detection algorithm of the racecar also implements a precise and high rate localization method which combines the GPS-INS data and LIDAR odometry. Besides, a track map including the location and color information of the cones is built simultaneously. Finally, the system and vehicle performance on a closed loop track is tested. This paper also briefly introduces the Formula Student Autonomous Competition (FSAC) in 2017.

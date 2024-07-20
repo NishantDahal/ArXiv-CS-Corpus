@@ -1,0 +1,3 @@
+Adaptation dynamique de services
+
+This paper proposes a software architecture for dynamical service adaptation. The services are constituted by reusable software components. The adaptation's goal is to optimize the service function of their execution context. For a first step, the context will take into account just the user needs but other elements will be added. A particular feature in our proposition is the profiles that are used not only to describe the context's elements but also the components itself. An Adapter analyzes the compatibility between all these profiles and detects the points where the profiles are not compatibles. The same Adapter search and apply the possible adaptation solutions: component customization, insertion, extraction or replacement.

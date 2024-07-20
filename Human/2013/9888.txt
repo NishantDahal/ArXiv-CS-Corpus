@@ -1,0 +1,3 @@
+Output Filter Aware Optimization of the Noise Shaping Properties of ΔΣ Modulators via Semi-Definite Programming
+
+The Noise Transfer Function (NTF) of ΔΣ modulators is typically designed after the features of the input signal. We suggest that in many applications, and notably those involving D/D and D/A conversion or actuation, the NTF should instead be shaped after the properties of the output/reconstruction filter. To this aim, we propose a framework for optimal design based on the Kalman-Yakubovich-Popov (KYP) lemma and semi-definite programming. Some examples illustrate how in practical cases the proposed strategy can outperform more standard approaches.

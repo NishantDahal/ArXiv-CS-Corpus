@@ -1,0 +1,3 @@
+Lattice Erasure Codes of Low Rank with Noise Margins
+
+We consider the following generalization of an $(n,k)$ MDS code for application to an erasure channel with additive noise. Like an MDS code, our code is required to be decodable from any $k$ received symbols, in the absence of noise. In addition, we require that the noise margin for every allowable erasure pattern be as large as possible and that the code satisfy a power constraint. In this paper we derive performance bounds and present a few designs for low rank lattice codes for an additive noise channel with erasures.

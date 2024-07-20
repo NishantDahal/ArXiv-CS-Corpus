@@ -1,0 +1,3 @@
+Fast exact digital differential analyzer for circle generation
+
+In the first part of the paper we present a short review of applications of digital differential analyzers (DDA) to generation of circles showing that they can be treated as one-step numerical schemes. In the second part we present and discuss a novel fast algorithm based on a two-step numerical scheme (explicit midpoint rule). Although our algorithm is as cheap as the simplest one-step DDA algoritm (and can be represented in terms of shifts and additions), it generates circles with maximal accuracy, i.e., it is exact up to round-off errors.

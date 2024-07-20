@@ -1,0 +1,4 @@
+On the Difficulty of Inserting Trojans in Reversible Computing Architectures
+
+Fabrication-less design houses outsource their designs to 3rd party foundries to lower fabrication cost. However, this creates opportunities for a rogue in the foundry to introduce hardware Trojans, which stay inactive most of the time and cause unintended consequences to the system when triggered. Hardware Trojans in traditional CMOS-based circuits have been studied and Design-for-Trust (DFT) techniques have been proposed to detect them.
+  Different from traditional circuits in many ways, reversible circuits implement one-to-one, bijective input/output mappings. We will investigate the security implications of reversible circuits with a particular focus on susceptibility to hardware Trojans. We will consider inherently reversible circuits and non-reversible functions embedded in reversible circuits.

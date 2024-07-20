@@ -1,0 +1,3 @@
+AlphaGomoku: An AlphaGo-based Gomoku Artificial Intelligence using Curriculum Learning
+
+In this project, we combine AlphaGo algorithm with Curriculum Learning to crack the game of Gomoku. Modifications like Double Networks Mechanism and Winning Value Decay are implemented to solve the intrinsic asymmetry and short-sight of Gomoku. Our final AI AlphaGomoku, through two days' training on a single GPU, has reached humans' playing level.

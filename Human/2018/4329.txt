@@ -1,0 +1,3 @@
+Induced 2-degenerate Subgraphs of Triangle-free Planar Graphs
+
+A graph is $k$-degenerate if every subgraph has minimum degree at most $k$. We provide lower bounds on the size of a maximum induced 2-degenerate subgraph in a triangle-free planar graph. We denote the size of a maximum induced 2-degenerate subgraph of a graph $G$ by $α_2(G)$. We prove that if $G$ is a connected triangle-free planar graph with $n$ vertices and $m$ edges, then $α_2(G) \geq \frac{6n - m - 1}{5}$. By Euler's Formula, this implies $α_2(G) \geq \frac{4}{5}n$. We also prove that if $G$ is a triangle-free planar graph on $n$ vertices with at most $n_3$ vertices of degree at most three, then $α_2(G) \geq \frac{7}{8}n - 18 n_3$.

@@ -1,0 +1,3 @@
+Fast and Simple Computation of All Longest Common Subsequences
+
+This paper shows that a simple algorithm produces the {\em all-prefixes-LCSs-graph} in $O(mn)$ time for two input sequences of size $m$ and $n$. Given any prefix $p$ of the first input sequence and any prefix $q$ of the second input sequence, all longest common subsequences (LCSs) of $p$ and $q$ can be generated in time proportional to the output size, once the all-prefixes-LCSs-graph has been constructed. The problem can be solved in the context of generating all the distinct character strings that represent an LCS or in the context of generating all ways of embedding an LCS in the two input strings.

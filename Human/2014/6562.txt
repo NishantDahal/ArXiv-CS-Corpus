@@ -1,0 +1,3 @@
+A Bengali HMM Based Speech Synthesis System
+
+The paper presents the capability of an HMM-based TTS system to produce Bengali speech. In this synthesis method, trajectories of speech parameters are generated from the trained Hidden Markov Models. A final speech waveform is synthesized from those speech parameters. In our experiments, spectral properties were represented by Mel Cepstrum Coefficients. Both the training and synthesis issues are investigated in this paper using annotated Bengali speech database. Experimental evaluation depicts that the developed text-to-speech system is capable of producing adequately natural speech in terms of intelligibility and intonation for Bengali.

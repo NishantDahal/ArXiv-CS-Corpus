@@ -1,0 +1,4 @@
+Value-at-Risk and Expected Shortfall for Quadratic portfolio of securities with mixture of elliptic Distributed Risk Factors
+
+Generally, in the financial literature, the notion of quadratic VaR is implicitly confused with the Delta-Gamma VaR, because more authors dealt with portfolios that contains derivatives instruments.
+  In this paper, we postpone to estimate the Value-at-Risk of a quadratic portfolio of securities (i.e equities) without the Delta and Gamma greeks, when the joint log-returns changes with multivariate elliptic distribution. We have reduced the estimation of the quadratic VaR of such portfolio to a resolution of one dimensional integral equation. To illustrate our method, we give special attention to the mixture of normal and mixture of t-student distribution. For given VaR, when joint Risk Factors changes with elliptic distribution, we show how to estimate an Expected Shortfall .

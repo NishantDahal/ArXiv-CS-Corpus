@@ -1,0 +1,4 @@
+Cost-Sensitive Approach to Batch Size Adaptation for Gradient Descent
+
+In this paper, we propose a novel approach to automatically determine the batch size in stochastic gradient descent methods. The choice of the batch size induces a trade-off between the accuracy of the gradient estimate and the cost in terms of samples of each update. We propose to determine the batch size by optimizing the ratio between a lower bound to a linear or quadratic Taylor approximation of the expected improvement and the number of samples used to estimate the gradient. The performance of the proposed approach is empirically compared with related methods on popular classification tasks.
+  The work was presented at the NIPS workshop on Optimizing the Optimizers. Barcelona, Spain, 2016.

@@ -1,0 +1,3 @@
+A Raindrop Algorithm for Searching The Global Optimal Solution in Non-linear Programming
+
+In this paper, we apply the random walk model in designing a raindrop algorithm to find the global optimal solution of a non-linear programming problem. The raindrop algorithm does not require the information of the first or second order derivatives of the object function. Hence it is a direct method. We investigate the properties of raindrop algorithm. Besides, we apply the raindrop algorithm to solve a non-linear optimization problem, where the object function is highly irregular (neither convex nor concave). And the global optimal solution can be found with small number of iterations.

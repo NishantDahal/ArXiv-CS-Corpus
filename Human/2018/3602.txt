@@ -1,0 +1,4 @@
+Experience Report: Formal Methods in Material Science
+
+Increased demands in the field of scientific computation require that algorithms be more efficiently implemented. Maintaining correctness in addition to efficiency is a challenge that software engineers in the field have to face.
+  In this report we share our first impressions and experiences on the applicability of formal methods to such design challenges arising in the development of scientific computation software in the field of material science. We investigated two different algorithms, one for load distribution and one for the computation of convex hulls, and demonstrate how formal methods have been used to discover counterexamples to the correctness of the existing implementations as well as proving the correctness of a revised algorithm. The techniques employed for this include SMT solvers, and automatic and interactive verification tools.

@@ -1,0 +1,3 @@
+Integration of the Packetdrill Testing Tool in INET
+
+Google released in 2013 a script-based tool called packetdrill, which allows to test transport protocols like UDP and TCP on Linux and BSD-based operating systems. The scripts defining a test-case allow to inject packets to the implementation under test, perform operations at the API controlling the transport protocol and verify the sending of packets, all at specified times. This paper describes a port of packetdrill to the INET framework for the OMNeT++ simulation environment providing a simple and powerful method of testing the transport protocols implemented in INET.

@@ -1,0 +1,3 @@
+Relaxed Operational Semantics of Concurrent Programming Languages
+
+We propose a novel, operational framework to formally describe the semantics of concurrent programs running within the context of a relaxed memory model. Our framework features a "temporary store" where the memory operations issued by the threads are recorded, in program order. A memory model then specifies the conditions under which a pending operation from this sequence is allowed to be globally performed, possibly out of order. The memory model also involves a "write grain," accounting for architectures where a thread may read a write that is not yet globally visible. Our formal model is supported by a software simulator, allowing us to run litmus tests in our semantics.

@@ -1,0 +1,3 @@
+An Efficient Topology-Based Algorithm for Transient Analysis of Power Grid
+
+In the design flow of integrated circuits, chip-level verification is an important step that sanity checks the performance is as expected. Power grid verification is one of the most expensive and time-consuming steps of chip-level verification, due to its extremely large size. Efficient power grid analysis technology is highly demanded as it saves computing resources and enables faster iteration. In this paper, a topology-base power grid transient analysis algorithm is proposed. Nodal analysis is adopted to analyze the topology which is mathematically equivalent to iteratively solving a positive semi-definite linear equation. The convergence of the method is proved.

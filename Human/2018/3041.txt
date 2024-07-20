@@ -1,0 +1,3 @@
+Model Generation for Quantified Formulas: A Taint-Based Approach
+
+We focus in this paper on generating models of quantified first-order formulas over built-in theories, which is paramount in software verification and bug finding. While standard methods are either geared toward proving the absence of solution or targeted to specific theories, we propose a generic approach based on a reduction to the quantifier-free case. Our technique allows thus to reuse all the efficient machinery developed for that context. Experiments show a substantial improvement over state-of-the-art methods.

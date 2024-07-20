@@ -1,0 +1,3 @@
+Multi range Real-time depth inference from a monocular stabilized footage using a Fully Convolutional Neural Network
+
+Using a neural network architecture for depth map inference from monocular stabilized videos with application to UAV videos in rigid scenes, we propose a multi-range architecture for unconstrained UAV flight, leveraging flight data from sensors to make accurate depth maps for uncluttered outdoor environment. We try our algorithm on both synthetic scenes and real UAV flight data. Quantitative results are given for synthetic scenes with a slightly noisy orientation, and show that our multi-range architecture improves depth inference. Along with this article is a video that present our results more thoroughly.

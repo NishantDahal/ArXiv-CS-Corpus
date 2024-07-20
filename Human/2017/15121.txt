@@ -1,0 +1,3 @@
+Planar Drawings of Fixed-Mobile Bigraphs
+
+A fixed-mobile bigraph G is a bipartite graph such that the vertices of one partition set are given with fixed positions in the plane and the mobile vertices of the other part, together with the edges, must be added to the drawing. We assume that G is planar and study the problem of finding, for a given k >= 0, a planar poly-line drawing of G with at most k bends per edge. In the most general case, we show NP-hardness. For k=0 and under additional constraints on the positions of the fixed or mobile vertices, we either prove that the problem is polynomial-time solvable or prove that it belongs to NP. Finally, we present a polynomial-time testing algorithm for a certain type of "layered" 1-bend drawings.

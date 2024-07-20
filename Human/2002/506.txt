@@ -1,0 +1,3 @@
+Current state of the Sonix -- the IBR-2 instrument control software and plans for future developments
+
+The Sonix is the main control software for the IBR-2 instruments. This is a modular configurable and flexible system created using the Varman (real time database) and the X11/OS9 graphical package in the OS-9 environment. In the last few years we were mostly focused on making this system more reliable and user friendly. Because the VME hardware and software upgrade is rather expensive we would like to replace existing VME + OS9 control computers with the PC+Windows XP ones in the future. This could be done with the help of VME-PCI adapters.

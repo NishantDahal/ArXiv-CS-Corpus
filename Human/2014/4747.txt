@@ -1,0 +1,3 @@
+Improved Static Analysis of Parameterised Boolean Equation Systems using Control Flow Reconstruction
+
+We present a sound static analysis technique for fighting the combinatorial explosion of parameterised Boolean equation systems (PBESs). These essentially are systems of mutually recursive fixed point equations ranging over first-order logic formulae. Our method detects parameters that are not live by analysing a control flow graph of a PBES, and it subsequently eliminates such parameters. We show that a naive approach to constructing a control flow graph, needed for the analysis, may suffer from an exponential blow-up, and we define an approximate analysis that avoids this problem. The effectiveness of our techniques is evaluated using a number of case studies.

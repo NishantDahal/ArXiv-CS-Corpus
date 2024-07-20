@@ -1,0 +1,5 @@
+Games for Active XML Revisited
+
+The paper studies the rewriting mechanisms for intensional documents in the Active XML framework, abstracted in the form of active context-free games. The safe rewriting problem studied in this paper is to decide whether the first player, Juliet, has a winning strategy for a given game and (nested) word; this corresponds to a successful rewriting strategy for a given intensional document. The paper examines several extensions to active context-free games.
+  The primary extension allows more expressive schemas (namely XML schemas and regular nested word languages) for both target and replacement languages and has the effect that games are played on nested words instead of (flat) words as in previous studies. Other extensions consider validation of input parameters of web services, and an alternative semantics based on insertion of service call results.
+  In general, the complexity of the safe rewriting problem is highly intractable (doubly exponential time), but the paper identifies interesting tractable cases.

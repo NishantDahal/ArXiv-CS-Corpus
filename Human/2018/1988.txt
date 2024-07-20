@@ -1,0 +1,3 @@
+A randomized, efficient algorithm for 3SAT
+
+In this paper I present a 3SAT algorithm based on the randomized algorithm of Papadimitriou from 1991, and Schoning from 1991. We also present strong arguments that this algorithm finds a solution (if it exists) for a 3SAT problem with high probability in polynomial time.

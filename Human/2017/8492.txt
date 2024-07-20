@@ -1,0 +1,5 @@
+On Patterns and Re-Use in Bioinformatics Databases
+
+As the quantity of data being depositing into biological databases continues to increase, it becomes ever more vital to develop methods that enable us to understand this data and ensure that the knowledge is correct. It is widely-held that data percolates between different databases, which causes particular concerns for data correctness; if this percolation occurs, incorrect data in one database may eventually affect many others while, conversely, corrections in one database may fail to percolate to others.
+  In this paper, we test this widely-held belief by directly looking for sentence reuse both within and between databases. Further, we investigate patterns of how sentences are reused over time. Finally, we consider the limitations of this form of analysis and the implications that this may have for bioinformatics database design.
+  We show that reuse of annotation is common within many different databases, and that also there is a detectable level of reuse between databases. In addition, we show that there are patterns of reuse that have previously been shown to be associated with percolation errors.

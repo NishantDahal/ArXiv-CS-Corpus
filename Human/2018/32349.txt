@@ -1,0 +1,3 @@
+Multiobjective Optimization Training of PLDA for Speaker Verification
+
+Most current state-of-the-art text-independent speaker verification systems take probabilistic linear discriminant analysis (PLDA) as their backend classifiers. The parameters of PLDA are often estimated by maximizing the objective function, which focuses on increasing the value of log-likelihood function, but ignoring the distinction between speakers. In order to better distinguish speakers, we propose a multi-objective optimization training for PLDA. Experiment results show that the proposed method has more than 10% relative performance improvement in both EER and MinDCF on the NIST SRE14 i-vector challenge dataset, and about 20% relative performance improvement in EER on the MCE18 dataset.

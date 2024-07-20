@@ -1,0 +1,3 @@
+Order-Preserving Encryption Using Approximate Integer Common Divisors
+
+We present a new, but simple, randomised order-preserving encryption (OPE) scheme based on the general approximate common divisor problem (GACDP). This appears to be the first OPE scheme to be based on a computational hardness primitive, rather than a security game. This scheme requires only $O(1)$ arithmetic operations for encryption and decryption. We show that the scheme has optimal information leakage under the assumption of uniformly distributed plaintexts, and we indicate that this property extends to some non-uniform distributions. We report on an extensive evaluation of our algorithms. The results clearly demonstrate highly favourable execution times in comparison with existing OPE schemes.

@@ -1,0 +1,3 @@
+PMC text mining subset in BioC: 2.3 million full text articles and growing
+
+Interest in full text mining biomedical research articles is growing. NCBI provides the PMC Open Access and Author Manuscript sets of articles which are available for text mining. We have made all of these articles available in BioC, an XML and JSON format which is convenient for sharing text, annotations, and relations. These articles are available both via ftp for bulk download and via a Web API for updates or more focused collection. Availability: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/

@@ -1,0 +1,3 @@
+Semantic Identification Attacks on Web Browsing
+
+We introduce a Semantic Identification Attack, in which an adversary uses semantic signals about the pages visited in one browsing session to identify other browsing sessions launched by the same user. This attack allows an adver- sary to determine if two browsing sessions originate from the same user regardless of any measures taken by the user to disguise their browser or network. We use the MSNBC Anonymous Browsing data set, which contains a large set of user visits (labeled by category) to implement such an attack and show that even very coarse semantic information is enough to identify users. We discuss potential counter- measures users can take to defend against this attack.

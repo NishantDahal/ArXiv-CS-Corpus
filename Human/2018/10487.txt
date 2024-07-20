@@ -1,0 +1,5 @@
+A faster method for computing Gama-Nguyen-Regev's extreme pruning coefficients
+
+This paper considers Gama-Nguyen-Regev's strategy [GNR10] for optimizing pruning coefficients for lattice vector enumeration. We give a table of optimized coefficients and proposes a faster method for computing near-optimized coefficients for any parameters by interpolation.
+  From the first version published in 2014, we inserted new Section 3.3 to introduce our recent technique to compute approximations of enumeration cost and success probability; both are completed in O(n^2) floating point operations where n is the lattice dimension.
+  For readers who are interested in this topic, we keep the descriptions of our heuristic optimization method in Section 4 although they are outdated now.

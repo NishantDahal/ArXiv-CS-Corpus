@@ -1,0 +1,3 @@
+Treetopes and their Graphs
+
+We define treetopes, a generalization of the three-dimensional roofless polyhedra (Halin graphs) to arbitrary dimensions. Like roofless polyhedra, treetopes have a designated base facet such that every face of dimension greater than one intersects the base in more than one point. We prove an equivalent characterization of the 4-treetopes using the concept of clustered planarity from graph drawing, and we use this characterization to recognize the graphs of 4-treetopes in polynomial time. This result provides one of the first classes of 4-polytopes, other than pyramids and stacked polytopes, that can be recognized efficiently from their graphs.

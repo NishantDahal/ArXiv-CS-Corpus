@@ -1,0 +1,5 @@
+Cryptanalyse de Achterbahn-128/80
+
+This paper presents two attacks against Achterbahn-128/80, the last version of one of the stream cipher proposals in the eSTREAM project. The attack against the 80-bit variant, Achterbahn-80, has complexity 2^{56.32}. The attack against Achterbahn-128 requires 2^{75.4} operations and 2^{61} keystream bits. These attacks are based on an improvement of the attack due to Hell and Johansson against Achterbahn version 2 and also on an algorithm that makes profit of the short lengths of the constituent registers.
+  *****
+  Ce papier présente deux attaques sur Achterbahn-128/80, la dernière version d'un des algorithmes proposés dans le cadre de eSTREAM. L'attaque sur la version de 80 bits, Achterbahn-80, est en 2^{56.32}. L'attaque sur Achterbahn-128 a besoin de 2^{75.4} calculs et 2^{61} bits de suite chiffrante. Ces attaques sont basées sur une amélioration de l'attaque proposée par Hell et Johansson sur la version 2 d'Achterbahn et aussi sur un algorithme qui tire profit des petites longueurs des registres.

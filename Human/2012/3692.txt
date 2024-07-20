@@ -1,0 +1,3 @@
+Multilingual Topic Models for Unaligned Text
+
+We develop the multilingual topic model for unaligned text (MuTo), a probabilistic model of text that is designed to analyze corpora composed of documents in two languages. From these documents, MuTo uses stochastic EM to simultaneously discover both a matching between the languages and multilingual latent topics. We demonstrate that MuTo is able to find shared topics on real-world multilingual corpora, successfully pairing related documents across languages. MuTo provides a new framework for creating multilingual topic models without needing carefully curated parallel corpora and allows applications built using the topic model formalism to be applied to a much wider class of corpora.

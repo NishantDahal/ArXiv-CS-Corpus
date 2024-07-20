@@ -1,0 +1,3 @@
+CITlab ARGUS for historical data tables
+
+We describe CITlab's recognition system for the ANWRESH-2014 competition attached to the 14. International Conference on Frontiers in Handwriting Recognition, ICFHR 2014. The task comprises word recognition from segmented historical documents. The core components of our system are based on multi-dimensional recurrent neural networks (MDRNN) and connectionist temporal classification (CTC). The software modules behind that as well as the basic utility technologies are essentially powered by PLANET's ARGUS framework for intelligent text recognition and image processing.

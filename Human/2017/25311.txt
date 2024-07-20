@@ -1,0 +1,3 @@
+Deep Prior
+
+The recent literature on deep learning offers new tools to learn a rich probability distribution over high dimensional data such as images or sounds. In this work we investigate the possibility of learning the prior distribution over neural network parameters using such tools. Our resulting variational Bayes algorithm generalizes well to new tasks, even when very few training examples are provided. Furthermore, this learned prior allows the model to extrapolate correctly far from a given task's training data on a meta-dataset of periodic signals.

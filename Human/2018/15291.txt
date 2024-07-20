@@ -1,0 +1,3 @@
+Rethinking Radiology: An Analysis of Different Approaches to BraTS
+
+This paper discusses the deep learning architectures currently used for pixel-wise segmentation of primary and secondary glioblastomas and low-grade gliomas. We implement various models such as the popular UNet architecture and compare the performance of these implementations on the BRATS dataset. This paper will explore the different approaches and combinations, offering an in depth discussion of how they perform and how we may improve upon them using more recent advancements in deep learning architectures.

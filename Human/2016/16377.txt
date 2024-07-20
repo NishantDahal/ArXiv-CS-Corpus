@@ -1,0 +1,3 @@
+A recursive algorithm for a pipeline maintenance scheduling problem
+
+This paper deals with the problem of preventive maintenance (PM) scheduling of pipelines subject to external corrosion defects. The preventive maintenance strategy involves an inspection step at some epoch, together with a repair schedule. This paper proposes to determine the repair schedule as well as an inspection time minimizing the maintenance cost. This problem is formulated as a binary integer non-linear programming model and we approach it under a decision support framework. We derive a polynomial-time algorithm that computes the optimum PM schedule and suggests different PM strategies in order to assist practitioners in making decision.

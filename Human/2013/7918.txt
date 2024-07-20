@@ -1,0 +1,3 @@
+An Efficient Simulation Algorithm on Kripke Structures
+
+A number of algorithms for computing the simulation preorder (and equivalence) on Kripke structures are available. Let Sigma denote the state space, -> the transition relation and Psim the partition of Sigma induced by simulation equivalence. While some algorithms are designed to reach the best space bounds, whose dominating additive term is |Psim|^2, other algorithms are devised to attain the best time complexity O(|Psim||->|). We present a novel simulation algorithm which is both space and time efficient: it runs in O(|Psim|^2 log|Psim| + |Sigma|log|Sigma|) space and O(|Psim||->|log|Sigma|) time. Our simulation algorithm thus reaches the best space bounds while closely approaching the best time complexity.

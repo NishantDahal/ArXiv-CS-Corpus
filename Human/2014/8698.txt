@@ -1,0 +1,4 @@
+A Formulation of the Potential for Communication Condition using C2KA
+
+An integral part of safeguarding systems of communicating agents from covert channel communication is having the ability to identify when a covert channel may exist in a given system and which agents are more prone to covert channels than others. In this paper, we propose a formulation of one of the necessary conditions for the existence of covert channels: the potential for communication condition. Then, we discuss when the potential for communication is preserved after the modification of system agents in a potential communication path. Our approach is based on the mathematical framework of Communicating Concurrent Kleene Algebra (C2KA). While existing approaches only consider the potential for communication via shared environments, the approach proposed in this paper also considers the potential for communication via external stimuli.
+

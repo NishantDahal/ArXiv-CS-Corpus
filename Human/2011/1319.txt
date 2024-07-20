@@ -1,0 +1,3 @@
+Computing the Fréchet Distance Between Folded Polygons
+
+Computing the Fréchet distance for surfaces is a surprisingly hard problem and the only known algorithm is limited to computing it between flat surfaces. We adapt this algorithm to create one for computing the Fréchet distance for a class of non-flat surfaces which we call folded polygons. Unfortunately, the original algorithm cannot be extended directly. We present three different methods to adapt it. The first of which is a fixed-parameter tractable algorithm. The second is a polynomial-time approximation algorithm. Finally, we present a restricted class of folded polygons for which we can compute the Fréchet distance in polynomial time.

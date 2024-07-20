@@ -1,0 +1,3 @@
+Computational Homogenization of Fresh Concrete Flow Around Reinforcing Bars
+
+Motivated by casting of fresh concrete in reinforced concrete structures, we introduce a numerical model of a steady-state non-Newtonian fluid flow through a porous domain. Our approach combines homogenization techniques to represent the reinforced domain by the Darcy law with an interface coupling of the Stokes and Darcy flows through the Beavers-Joseph-Saffman conditions. The ensuing two-scale problem is solved by the Finite Element Method with consistent linearization and the results obtained from the homogenization approach are verified against fully resolved direct numerical simulations.

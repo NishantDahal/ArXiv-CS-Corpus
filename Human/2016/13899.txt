@@ -1,0 +1,3 @@
+On Vertex Rankings of Graphs and its Relatives
+
+A vertex ranking of a graph is an assignment of ranks (or colors) to the vertices of the graph, in such a way that any simple path connecting two vertices of equal rank, must contain a vertex of a higher rank. In this paper we study a relaxation of this notion, in which the requirement above should only hold for paths of some bounded length $l$ for some fixed $l$. For instance, already the case $l=2$ exhibit quite a different behavior than proper coloring. We prove upper and lower bounds on the minimum number of ranks required for several graph families, such as trees, planar graphs, graphs excluding a fixed minor and degenerate graphs.

@@ -1,0 +1,3 @@
+Cryptanalysis of a non-commutative key exchange protocol
+
+In the papers by Alvarez et al. and Pathak and Sanghi a non-commutative based public key exchange is described. A similiar version of it has also been patented (US7184551). In this paper we present a polynomial time attack that breaks the variants of the protocol presented in the two papers. Moreover we show that breaking the patented cryptosystem US7184551 can be easily reduced to factoring. We also give some examples to show how efficiently the attack works.

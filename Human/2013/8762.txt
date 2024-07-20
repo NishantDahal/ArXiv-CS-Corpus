@@ -1,0 +1,4 @@
+Bounded Choice Queries for Logic Programming
+
+Adding versatile interactions to goals and queries in logic programming is an essential task. Unfortunately, existing logic languages can take input from the user only via the $read$ construct.
+  We propose to add a new interactive goal to allow for more controlled and more guided participation from the user. We illustrate our idea via \muprolog, an extension of Prolog with bounded choice goals.

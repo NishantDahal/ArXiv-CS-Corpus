@@ -1,0 +1,3 @@
+Lightweight Neural Networks
+
+Most of the weights in a Lightweight Neural Network have a value of zero, while the remaining ones are either +1 or -1. These universal approximators require approximately 1.1 bits/weight of storage, posses a quick forward pass and achieve classification accuracies similar to conventional continuous-weight networks. Their training regimen focuses on error reduction initially, but later emphasizes discretization of weights. They ignore insignificant inputs, remove unnecessary weights, and drop unneeded hidden neurons. We have successfully tested them on the MNIST, credit card fraud, and credit card defaults data sets using networks having 2 to 16 hidden layers and up to 4.4 million weights.

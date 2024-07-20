@@ -1,0 +1,3 @@
+Study of Uniform Jitter Mechanism for Metric-based Wireless Routing
+
+Many wireless protocols wait a small and random amount of time which is called jitter before sending a packet to avoid high contention and packet collision. Jitter has been already proposed for many routing protocols including AODV and LOADng. However, since they do not consider any link quality parameters or metrics (such as ETX) in routing, they fail to be efficient in metric-based routing protocols. A metric-based jitter mechanism is proposed in this paper and a closed form expression is derived that enables us to obtain the probability of delay inversion for all jitter mechanisms available. Simulation results are also presented to show the performance of different jitter mechanisms.

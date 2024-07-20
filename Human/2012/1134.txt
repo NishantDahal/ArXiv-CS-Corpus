@@ -1,0 +1,4 @@
+Fatgraph Algorithms and the Homology of the Kontsevich Complex
+
+Fatgraphs are multigraphs enriched with a cyclic order of the edges incident to a vertex. This paper presents algorithms to: (1) generate the set of all fatgraphs having a given genus and number of boundary cycles; (2) compute automorphisms of any given fatgraph; (3) compute the homology of the fatgraph complex. The algorithms are suitable for effective computer implementation.
+  In particular, this allows us to compute the rational homology of the moduli space of Riemann surfaces with marked points. We thus compute the Betti numbers of $M_{g,n}$ with $(2g + n) \leq 6$, corroborating known results.

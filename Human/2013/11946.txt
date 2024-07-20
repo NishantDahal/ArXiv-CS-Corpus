@@ -1,0 +1,3 @@
+Dual codes of product semi-linear codes
+
+Let $\mathbb{F}_q$ be a finite field with $q$ elements and denote by $θ: \mathbb{F}_q\to\mathbb{F}_q$ an automorphism of $\mathbb{F}_q$. In this paper, we deal with linear codes of $\mathbb{F}_q^n$ invariant under a semi-linear map $T:\mathbb{F}_q^n\to\mathbb{F}_q^n$ for some $n\geq 2$. In particular, we study three kind of their dual codes, some relations between them and we focus on codes which are products of module skew codes in the non-commutative polynomial ring $\mathbb{F}_q[X,θ]$ as a subcase of linear codes invariant by a semi-linear map $T$. In this setting we give also an algorithm for encoding, decoding and detecting errors and we show a method to construct codes invariant under a fixed $T$.

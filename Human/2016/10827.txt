@@ -1,0 +1,3 @@
+Multi-Step Bayesian Optimization for One-Dimensional Feasibility Determination
+
+Bayesian optimization methods allocate limited sampling budgets to maximize expensive-to-evaluate functions. One-step-lookahead policies are often used, but computing optimal multi-step-lookahead policies remains a challenge. We consider a specialized Bayesian optimization problem: finding the superlevel set of an expensive one-dimensional function, with a Markov process prior. We compute the Bayes-optimal sampling policy efficiently, and characterize the suboptimality of one-step lookahead. Our numerical experiments demonstrate that the one-step lookahead policy is close to optimal in this problem, performing within 98% of optimal in the experimental settings considered.

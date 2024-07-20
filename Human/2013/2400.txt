@@ -1,0 +1,3 @@
+Convergent Deduction for Probabilistic Logic
+
+This paper discusses the semantics and proof theory of Nilsson's probabilistic logic, outlining both the benefits of its well-defined model theory and the drawbacks of its proof theory. Within Nilsson's semantic framework, we derive a set of inference rules which are provably sound. The resulting proof system, in contrast to Nilsson's approach, has the important feature of convergence - that is, the inference process proceeds by computing increasingly narrow probability intervals which converge from above and below on the smallest entailed probability interval. Thus the procedure can be stopped at any time to yield partial information concerning the smallest entailed interval.

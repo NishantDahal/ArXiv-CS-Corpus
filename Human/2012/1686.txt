@@ -1,0 +1,3 @@
+Fully Analyzing an Algebraic Polya Urn Model
+
+This paper introduces and analyzes a particular class of Polya urns: balls are of two colors, can only be added (the urns are said to be additive) and at every step the same constant number of balls is added, thus only the color compositions varies (the urns are said to be balanced). These properties make this class of urns ideally suited for analysis from an "analytic combinatorics" point-of-view, following in the footsteps of Flajolet-Dumas-Puyhaubert, 2006. Through an algebraic generating function to which we apply a multiple coalescing saddle-point method, we are able to give precise asymptotic results for the probability distribution of the composition of the urn, as well as local limit law and large deviation bounds.

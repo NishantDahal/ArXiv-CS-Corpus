@@ -1,0 +1,3 @@
+Small Polynomial Time Universal Petri Nets
+
+The time complexity of the presented in 2013 by the author small universal Petri nets with the pairs of places/transitions numbers (14,42) and (14,29) was estimated as exponential. In the present paper, it is shown, that their slight modification and interpretation as timed Petri nets with multichannel transitions, introduced by the author in 1991, allows obtaining polynomial time complexity. The modification concerns using only inhibitor arcs to control transitions' firing in multiple instances and employing an inverse control flow represented by moving zero. Thus, small universal Petri nets are efficient that justifies their application as models of high performance computations.

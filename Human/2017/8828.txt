@@ -1,0 +1,3 @@
+Probabilistic Combination of Noisy Points and Planes for RGB-D Odometry
+
+This work proposes a visual odometry method that combines points and plane primitives, extracted from a noisy depth camera. Depth measurement uncertainty is modelled and propagated through the extraction of geometric primitives to the frame-to-frame motion estimation, where pose is optimized by weighting the residuals of 3D point and planes matches, according to their uncertainties. Results on an RGB-D dataset show that the combination of points and planes, through the proposed method, is able to perform well in poorly textured environments, where point-based odometry is bound to fail.

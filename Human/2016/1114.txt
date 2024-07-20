@@ -1,0 +1,3 @@
+Parallel proximal methods for total variation minimization
+
+Total variation (TV) is a widely used regularizer for stabilizing the solution of ill-posed inverse problems. In this paper, we propose a novel proximal-gradient algorithm for minimizing TV regularized least-squares cost functional. Our method replaces the standard proximal step of TV by a simpler alternative that computes several independent proximals. We prove that the proposed parallel proximal method converges to the TV solution, while requiring no sub-iterations. The results in this paper could enhance the applicability of TV for solving very large scale imaging inverse problems.

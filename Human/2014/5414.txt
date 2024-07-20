@@ -1,0 +1,3 @@
+Gait trajectory generation for a five link bipedal robot based on a reduced dynamical model
+
+In this paper, a simple trajectory generation method for biped walking is proposed. The dynamic model of the five link bipedal robot is first reduced using several biologically inspired assumptions. A sinusoidal curve is then imposed to the ankle of the swing leg's trajectory. The reduced model is finally obtained and solved: it is an homogeneous second order differential equations with constant coefficients. The algebraic solution obtained ensures a stable rhythmic gait for the bipedal robot. It's continuous in the defined time interval, easy to implement when the boundary conditions are well defined.

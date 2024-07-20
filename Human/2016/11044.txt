@@ -1,0 +1,3 @@
+Accelerating eigenvector and pseudospectra computation using blocked multi-shift triangular solves
+
+Multi-shift triangular solves are basic linear algebra calculations with applications in eigenvector and pseudospectra computation. We propose blocked algorithms that efficiently exploit Level 3 BLAS to perform multi-shift triangular solves and safe multi-shift triangular solves. Numerical experiments indicate that computing triangular eigenvectors with a safe multi-shift triangular solve achieves speedups by a factor of 60 relative to LAPACK. This algorithm accelerates the calculation of general eigenvectors threefold. When using multi-shift triangular solves to compute pseudospectra, we report ninefold speedups relative to EigTool.

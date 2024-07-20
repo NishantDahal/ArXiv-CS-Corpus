@@ -1,0 +1,4 @@
+Want a Good Answer? Ask a Good Question First!
+
+Community Question Answering (CQA) websites have become valuable repositories which host a massive volume of human knowledge. To maximize the utility of such knowledge, it is essential to evaluate the quality of an existing question or answer, especially soon after it is posted on the CQA website.
+  In this paper, we study the problem of inferring the quality of questions and answers through a case study of a software CQA (Stack Overflow). Our key finding is that the quality of an answer is strongly positively correlated with that of its question. Armed with this observation, we propose a family of algorithms to jointly predict the quality of questions and answers, for both quantifying numerical quality scores and differentiating the high-quality questions/answers from those of low quality. We conduct extensive experimental evaluations to demonstrate the effectiveness and efficiency of our methods.

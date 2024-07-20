@@ -1,0 +1,7 @@
+LTL Semantic Tableaux and Alternating $ω$-automata via Linear Factors
+
+Linear Temporal Logic (LTL) is a widely used specification framework for linear time properties of systems. The standard approach for verifying such properties is by transforming LTL formulae to suitable $ω$-automata and then applying model checking.
+  We revisit Vardi's transformation of an LTL formula to an alternating $ω$-automaton and Wolper's LTL tableau method for satisfiability checking. We observe that both constructions effectively rely on a decomposition of formulae into linear factors.
+  Linear factors have been introduced previously by Antimirov in the context of regular expressions.
+  We establish the notion of linear factors for LTL and verify essential properties such as expansion and finiteness.
+  Our results shed new insights on the connection between the construction of alternating $ω$-automata and semantic tableaux.

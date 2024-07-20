@@ -1,0 +1,3 @@
+Intrinsic Capacity
+
+Every channel can be expressed as a convex combination of deterministic channels with each deterministic channel corresponding to one particular intrinsic state. Such convex combinations are in general not unique, each giving rise to a specific intrinsic-state distribution. In this paper we study the maximum and the minimum capacities of a channel when the realization of its intrinsic state is causally available at the encoder and/or the decoder. Several conclusive results are obtained for binary-input channels and binary-output channels. Byproducts of our investigation include a generalization of the Birkhoff-von Neumann theorem and a condition on the uselessness of causal state information at the encoder.

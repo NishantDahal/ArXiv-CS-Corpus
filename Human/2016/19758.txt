@@ -1,0 +1,3 @@
+Vector Gaussian Rate-Distortion with Variable Side Information
+
+We consider rate-distortion with two decoders, each with distinct side information. This problem is well understood when the side information at the decoders satisfies a certain degradedness condition. We consider cases in which this degradedness condition is violated but the source and the side information consist of jointly Gaussian vectors. We provide a hierarchy of four lower bounds on the optimal rate. These bounds are then used to determine the optimal rate for several classes of instances.

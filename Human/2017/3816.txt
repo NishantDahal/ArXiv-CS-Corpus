@@ -1,0 +1,5 @@
+Femoral ROIs and Entropy for Texture-based Detection of Osteoarthritis from High-Resolution Knee Radiographs
+
+The relationship between knee osteoarthritis progression and changes in tibial bone structure has long been recognized and various texture descriptors have been proposed to detect early osteoarthritis (OA) from radiographs. This work aims to investigate (1) femoral textures as an OA indicator and (2) the potential of entropy as a computationally efficient alternative to established texture descriptors.
+  We design a robust semi-automatically placed layout for regions of interest (ROI), compute the Hurst coefficient and the entropy in each ROI, and employ statistical and machine learning methods to evaluate feature combinations.
+  Based on 153 high-resolution radiographs, our results identify medial femur as an effective univariate descriptor, with significance comparable to medial tibia. Entropy is shown to contribute to classification performance. A linear five-feature classifier combining femur, entropic and standard texture descriptors, achieves AUC of 0.85, outperforming the state-of-the-art by roughly 0.1.

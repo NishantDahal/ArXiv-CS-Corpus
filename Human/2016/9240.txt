@@ -1,0 +1,4 @@
+Programming Language Features for Refinement
+
+Algorithmic and data refinement are well studied topics that provide a mathematically rigorous approach to gradually introducing details in the implementation of software.  Program refinements are performed in the context of some programming language, but mainstream languages lack features for recording the sequence of refinement steps in the program text.  To experiment with the combination of refinement, automated verification, and language design, refinement features have been added to the verification-aware programming language Dafny.  This paper describes those features and reflects on some initial usage thereof. 
+

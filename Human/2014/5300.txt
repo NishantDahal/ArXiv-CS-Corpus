@@ -1,0 +1,3 @@
+Saturation of the morphisms in the database category
+
+In this paper we present the problem of saturation of a given morphism in the database category DB, which is the base category for the functiorial semantics of the database schema mapping systems used in Data Integration theory. This phenomena appears in the case when we are using the Second-Order tuple-generating dependencies (SOtgd) with existentially quantified non-built-in functions, for the database schema mappings. We provide the algorithm of the saturation for a given morphism, which represents a mapping between two relational databases, and show that the original morphism in DB can be equivalently substituted by its more powerful saturated version in any commutative diagram in DB.

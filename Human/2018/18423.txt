@@ -1,0 +1,6 @@
+Algorithmic Meta-Theorems for Monotone Submodular Maximization
+
+We consider a monotone submodular maximization problem whose constraint is described by a logic formula on a graph. Formally, we prove the following three `algorithmic metatheorems.'
+  (1) If the constraint is specified by a monadic second-order logic on a graph of bounded treewidth, the problem is solved in $n^{O(1)}$ time with an approximation factor of $O(\log n)$.
+  (2) If the constraint is specified by a first-order logic on a graph of low degree, the problem is solved in $O(n^{1 + ε})$ time for any $ε> 0$ with an approximation factor of $2$.
+  (3) If the constraint is specified by a first-order logic on a graph of bounded expansion, the problem is solved in $n^{O(\log k)}$ time with an approximation factor of $O(\log k)$, where $k$ is the number of variables and $O(\cdot)$ suppresses only constants independent of $k$.

@@ -1,0 +1,3 @@
+Reduction Rules for Colored Workflow Nets
+
+We study Colored Workflow nets, a model based on Workflow nets enriched with data. Based on earlier work by Esparza and Desel[arXiv:1307.2145,arXiv:1403.4958] on the negotiation model of concurrency, we present reduction rules for our model. Contrary to previous work, our rules preserve not only soundness, but also the data flow semantics. For free choice nets, the rules reduce all sound nets (and only them) to a net with one single transition and the same data flow semantics. We give an explicit algorithm that requires only a polynomial number of rule applications.

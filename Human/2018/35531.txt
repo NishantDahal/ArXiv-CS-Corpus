@@ -1,0 +1,3 @@
+Construction and Decoding Algorithms for for Polar Codes based on $2\times2$ Non-Binary Kernels
+
+Polar codes based on $2\times2$ non-binary kernels are discussed in this work. The kernel over $\text{GF}(q)$ is selected by maximizing the polarization effect and using Monte-Carlo simulation. Belief propagation (BP) and successive cancellation (SC) based decoding algorithms are extended to non-binary codes. Additionally, a successive cancellation list (SCL) decoding with a pruned tree is proposed. Simulation results show that the proposed decoder performs very close to a conventional SCL decoder with significantly lower complexity.

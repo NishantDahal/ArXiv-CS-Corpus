@@ -1,0 +1,3 @@
+Variable Packet-Error Coding
+
+We consider a problem in which a source is encoded into N packets, an unknown number of which are subject to adversarial errors en route to the decoder. We seek code designs for which the decoder is guaranteed to be able to reproduce the source subject to a certain distortion constraint when there are no packets errors, subject to a less stringent distortion constraint when there is one error, etc. Focusing on the special case of the erasure distortion measure, we introduce a code design based on the polytope codes of Kosut, Tong, and Tse. The resulting designs are also applied to a separate problem in distributed storage.

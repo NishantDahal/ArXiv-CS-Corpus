@@ -1,0 +1,3 @@
+Revisiting Numerical Pattern Mining with Formal Concept Analysis
+
+In this paper, we investigate the problem of mining numerical data in the framework of Formal Concept Analysis. The usual way is to use a scaling procedure --transforming numerical attributes into binary ones-- leading either to a loss of information or of efficiency, in particular w.r.t. the volume of extracted patterns. By contrast, we propose to directly work on numerical data in a more precise and efficient way, and we prove it. For that, the notions of closed patterns, generators and equivalent classes are revisited in the numerical context. Moreover, two original algorithms are proposed and used in an evaluation involving real-world data, showing the predominance of the present approach.

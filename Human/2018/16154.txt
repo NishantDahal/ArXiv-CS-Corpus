@@ -1,0 +1,3 @@
+A Fluid-Flow Interpretation of SCED Scheduling
+
+We show that a fluid-flow interpretation of Service Curve Earliest Deadline First (SCED) scheduling simplifies deadline derivations for this scheduler. By exploiting the recently reported isomorphism between min-plus and max-plus network calculus, and expressing deadlines in a max-plus algebra, deadline computations no longer require pseudo-inverse computations. SCED deadlines are provided for general convex or concave piecewise linear service curves.

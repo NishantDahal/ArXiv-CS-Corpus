@@ -1,0 +1,3 @@
+Database Operations in D4M.jl
+
+Each step in the data analytics pipeline is important, including database ingest and query. The D4M-Accumulo database connector has allowed analysts to quickly and easily ingest to and query from Apache Accumulo using MATLAB(R)/GNU Octave syntax. D4M.jl, a Julia implementation of D4M, provides much of the functionality of the original D4M implementation to the Julia community. In this work, we extend D4M.jl to include many of the same database capabilities that the MATLAB(R)/GNU Octave implementation provides. Here we will describe the D4M.jl database connector, demonstrate how it can be used, and show that it has comparable or better performance to the original implementation in MATLAB(R)/GNU Octave.

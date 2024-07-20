@@ -1,0 +1,3 @@
+Translating the EAH Data Compression Algorithm into Automata Theory
+
+Adaptive codes have been introduced in [Dragos Trinca, cs.DS/0505007] as a new class of non-standard variable-length codes. These codes associate variable-length codewords to symbols being encoded depending on the previous symbols in the input data string. A new data compression algorithm, called EAH, has been introduced in [Dragos Trinca, cs.DS/0505061], where we have behaviorally shown that for a large class of input data strings, this algorithm substantially outperforms the well-known Lempel-Ziv universal data compression algorithm. In this paper, we translate the EAH encoder into automata theory.

@@ -1,0 +1,3 @@
+An Efficient Algorithm for Monitoring Practical TPTL Specifications
+
+We provide a dynamic programming algorithm for the monitoring of a fragment of Timed Propositional Temporal Logic (TPTL) specifications. This fragment of TPTL, which is more expressive than Metric Temporal Logic, is characterized by independent time variables which enable the elicitation of complex real-time requirements. For this fragment, we provide an efficient polynomial time algorithm for off-line monitoring of finite traces. Finally, we provide experimental results on a prototype implementation of our tool in order to demonstrate the feasibility of using our tool in practical applications.

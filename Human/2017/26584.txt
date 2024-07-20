@@ -1,0 +1,6 @@
+Slowly synchronizing automata with fixed alphabet size
+
+It was conjectured by Černý in 1964 that a synchronizing DFA on $n$ states always has a shortest synchronizing word of length at most $(n-1)^2$, and he gave a sequence of DFAs for which this bound is reached.
+  In this paper, we investigate the role of the alphabet size. For each possible alphabet size, we count DFAs on $n \le 6$ states which synchronize in $(n-1)^2 - e$ steps, for all $e < 2\lceil n/2 \rceil$. Furthermore, we give constructions of automata with any number of states, and $3$, $4$, or $5$ symbols, which synchronize slowly, namely in $n^2 - 3n + O(1)$ steps.
+  In addition, our results prove Černý's conjecture for $n \le 6$. Our computation has led to $27$ DFAs on $3$, $4$, $5$ or $6$ states, which synchronize in $(n-1)^2$ steps, but do not belong to Černý's sequence. Of these $27$ DFA's, $19$ are new, and the remaining $8$ which were already known are exactly the \emph{minimal} ones: they will not synchronize any more after removing a symbol.
+  So the $19$ new DFAs are extensions of automata which were already known, including the Černý automaton on $3$ states. But for $n > 3$, we prove that the Černý automaton on $n$ states does not admit non-trivial extensions with the same smallest synchronizing word length $(n-1)^2$.

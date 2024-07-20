@@ -1,0 +1,3 @@
+Reasoning about Agent Programs using ATL-like Logics
+
+We propose a variant of Alternating-time Temporal Logic (ATL) grounded in the agents' operational know-how, as defined by their libraries of abstract plans. Inspired by ATLES, a variant itself of ATL, it is possible in our logic to explicitly refer to "rational" strategies for agents developed under the Belief-Desire-Intention agent programming paradigm. This allows us to express and verify properties of BDI systems using ATL-type logical frameworks.

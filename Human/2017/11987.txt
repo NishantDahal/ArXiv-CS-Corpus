@@ -1,0 +1,4 @@
+A Formalization of the Process Algebra CCS in HOL4
+
+An old formalization of the Process Algebra CCS (no value passing, with explicit relabeling operator) on has been ported from HOL88 theorem prover to HOL4 (Kananaskis-11 and later). Transitions between CCS processes are defined by SOS (Structured Operational Semantics) inference rules, then all algebaric laws (including the expansion theorem) were proved upon SOS transition rules.
+  We have used HOL4's new co-inductive relation support to re-define strong and weak bisimulation equivalances, and shows that the new definitions are equivalent with old ones. Finally, there's decision procedure for automatic detection of CCS transitions. The aim is to provide an up-to-date sound and effective tool to support verification and reasoning about CCS, and to provide a formal logic basis for further theoretical developments in Concurrency Theory.

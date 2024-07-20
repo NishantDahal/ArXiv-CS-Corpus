@@ -1,0 +1,4 @@
+A New Rule for LTL Tableaux
+
+Propositional linear time temporal logic (LTL) is the standard temporal logic for computing applications and many reasoning techniques and tools have been developed for it. Tableaux for deciding satisfiability have existed since the 1980s. However, the tableaux for this logic do not look like traditional tree-shaped tableau systems and their processing is often quite complicated. 
+  In this paper,  we introduce a novel style of tableau rule which supports a new simple traditional-style tree-shaped tableau for LTL. We prove that it is sound and complete. As well as being simple to understand, to introduce to students and to use, it is also simple to implement and is competitive against state of the art systems.  It is particularly suitable for parallel implementations.

@@ -1,0 +1,3 @@
+Discrete linear-complexity reinforcement learning in continuous action spaces for Q-learning algorithms
+
+In this article, we sketch an algorithm that extends the Q-learning algorithms to the continuous action space domain. Our method is based on the discretization of the action space. Despite the commonly used discretization methods, our method does not increase the discretized problem dimensionality exponentially. We will show that our proposed method is linear in complexity when the discretization is employed. The variant of the Q-learning algorithm presented in this work, labeled as Finite Step Q-Learning (FSQ), can be deployed to both shallow and deep neural network architectures.

@@ -1,0 +1,3 @@
+Maximium Priority Matchings
+
+Let $G=(V,E)$ be an undirected graph with $n$ vertices and $m$ edges, in which each vertex $u$ is assigned an integer priority in $[1,n]$, with 1 being the "highest" priority. Let $M$ be a matching of $G$. We define the priority score of $M$ to be an $n$-ary integer in which the $i$-th most-significant digit is the number of vertices with priority $i$ that are incident to an edge in $M$. We describe a variation of the augmenting path method (Edmonds' algorithm) that finds a matching with maximum priority score in $O(mn)$ time.

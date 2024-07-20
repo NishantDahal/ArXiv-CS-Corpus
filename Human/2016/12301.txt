@@ -1,0 +1,3 @@
+A Data-Driven Approach to Estimating the Number of Clusters in Hierarchical Clustering
+
+We propose two new methods for estimating the number of clusters in a hierarchical clustering framework in the hopes of creating a fully automated process with no human intervention. The methods are completely data-driven and require no input from the researcher, and as such are fully automated. They are quite easy to implement and not computationally intensive in the least. We analyze performance on several simulated data sets and the Biobase Gene Expression Set, comparing our methods to the established Gap statistic and Elbow methods and outperforming both in multi-cluster scenarios.

@@ -1,0 +1,4 @@
+Voting for Deceptive Opinion Spam Detection
+
+Consumers' purchase decisions are increasingly influenced by user-generated online reviews. Accordingly, there has been growing concern about the potential for posting deceptive opinion spam fictitious reviews that have been deliberately written to sound authentic, to deceive the readers. Existing approaches mainly focus on developing automatic supervised learning based methods to help users identify deceptive opinion spams.
+  This work, we used the LSI and Sprinkled LSI technique to reduce the dimension for deception detection. We make our contribution to demonstrate what LSI is capturing in latent semantic space and reveal how deceptive opinions can be recognized automatically from truthful opinions. Finally, we proposed a voting scheme which integrates different approaches to further improve the classification performance.

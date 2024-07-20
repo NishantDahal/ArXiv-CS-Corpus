@@ -1,0 +1,8 @@
+Tree Drawings Revisited
+
+We make progress on a number of open problems concerning the area requirement for drawing trees on a grid. We prove that
+  1. every tree of size $n$ (with arbitrarily large degree) has a straight-line drawing with area $n2^{O(\sqrt{\log\log n\log\log\log n})}$, improving the longstanding $O(n\log n)$ bound;
+  2. every tree of size $n$ (with arbitrarily large degree) has a straight-line upward drawing with area $n\sqrt{\log n}(\log\log n)^{O(1)}$, improving the longstanding $O(n\log n)$ bound;
+  3. every binary tree of size $n$ has a straight-line orthogonal drawing with area $n2^{O(\log^*n)}$, improving the previous $O(n\log\log n)$ bound by Shin, Kim, and Chwa (1996) and Chan, Goodrich, Kosaraju, and Tamassia (1996);
+  4. every binary tree of size $n$ has a straight-line order-preserving drawing with area $n2^{O(\log^*n)}$, improving the previous $O(n\log\log n)$ bound by Garg and Rusu (2003);
+  5. every binary tree of size $n$ has a straight-line orthogonal order-preserving drawing with area $n2^{O(\sqrt{\log n})}$, improving the $O(n^{3/2})$ previous bound by Frati (2007).

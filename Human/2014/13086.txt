@@ -1,0 +1,3 @@
+Complexity theoretic limitations on learning DNF's
+
+Using the recently developed framework of [Daniely et al, 2014], we show that under a natural assumption on the complexity of refuting random K-SAT formulas, learning DNF formulas is hard. Furthermore, the same assumption implies the hardness of learning intersections of $ω(\log(n))$ halfspaces, agnostically learning conjunctions, as well as virtually all (distribution free) learning problems that were previously shown hard (under complexity assumptions).

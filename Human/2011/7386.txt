@@ -1,0 +1,3 @@
+How to Lose with Least Probability
+
+Two players alternate tossing a biased coin where the probability of getting heads is p. The current player is awarded alpha points for tails and alpha+beta for heads. The first player reaching n points wins. For a completely unfair coin the player going first certainly wins. For other coin biases, the player going first has the advantage, but the advantage depends on the coin bias. We calculate the first player's advantage and the coin bias minimizing this advantage.

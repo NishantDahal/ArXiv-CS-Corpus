@@ -1,0 +1,3 @@
+Session Types for Orchestrated Interactions
+
+In the setting of the pi-calculus with binary sessions, we aim at relaxing the notion of duality of session types by the concept of retractable compliance developed in contract theory.  This leads to extending session types with a new type operator of "speculative selection" including choices not necessarily offered by a compliant partner. We address the problem of  selecting successful communicating branches  by means of an operational semantics based on orchestrators, which has been shown to be equivalent to the retractable semantics of contracts, but clearly more feasible. A type system, sound with respect to such a semantics, is hence provided.

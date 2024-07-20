@@ -1,0 +1,4 @@
+Games with Delays. A Frankenstein Approach
+
+We investigate infinite games on finite graphs where the information flow is perturbed by nondeterministic signalling delays. It is known that such perturbations make synthesis problems virtually unsolvable, in the general case. On the classical model where signals are attached to states, tractable cases are rare and difficult to identify.
+  Here, we propose a model where signals are detached from control states, and we identify a subclass on which equilibrium outcomes can be preserved, even if signals are delivered with a delay that is finitely bounded. To offset the perturbation, our solution procedure combines responses from a collection of virtual plays following an equilibrium strategy in the instant- signalling game to synthesise, in a Frankenstein manner, an equivalent equilibrium strategy for the delayed-signalling game.

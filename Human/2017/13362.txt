@@ -1,0 +1,3 @@
+A deep learning approach to diabetic blood glucose prediction
+
+We consider the question of 30-minute prediction of blood glucose levels measured by continuous glucose monitoring devices, using clinical data. While most studies of this nature deal with one patient at a time, we take a certain percentage of patients in the data set as training data, and test on the remainder of the patients; i.e., the machine need not re-calibrate on the new patients in the data set. We demonstrate how deep learning can outperform shallow networks in this example. One novelty is to demonstrate how a parsimonious deep representation can be constructed using domain knowledge.

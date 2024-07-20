@@ -1,0 +1,4 @@
+Epistemic Foundation of Stable Model Semantics
+
+Stable model semantics has become a very popular approach for the management of negation in logic programming. This approach relies mainly on the closed world assumption to complete the available knowledge and its formulation has its basis in the so-called Gelfond-Lifschitz transformation.
+  The primary goal of this work is to present an alternative and epistemic-based characterization of stable model semantics, to the Gelfond-Lifschitz transformation. In particular, we show that stable model semantics can be defined entirely as an extension of the Kripke-Kleene semantics. Indeed, we show that the closed world assumption can be seen as an additional source of `falsehood' to be added cumulatively to the Kripke-Kleene semantics. Our approach is purely algebraic and can abstract from the particular formalism of choice as it is based on monotone operators (under the knowledge order) over bilattices only.

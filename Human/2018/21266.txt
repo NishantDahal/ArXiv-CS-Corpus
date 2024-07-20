@@ -1,0 +1,3 @@
+A novel Empirical Bayes with Reversible Jump Markov Chain in User-Movie Recommendation system
+
+In this article we select the unknown dimension of the feature by re- versible jump MCMC inside a simulated annealing in bayesian set up of collaborative filter. We implement the same in MovieLens small dataset. We also tune the hyper parameter by using a modified empirical bayes. It can also be used to guess an initial choice for hyper-parameters in grid search procedure even for the datasets where MCMC oscillates around the true value or takes long time to converge.

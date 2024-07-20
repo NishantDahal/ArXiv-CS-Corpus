@@ -1,0 +1,3 @@
+SibRank: Signed Bipartite Network Analysis for Neighbor-based Collaborative Ranking
+
+Collaborative ranking is an emerging field of recommender systems that utilizes users' preference data rather than rating values. Unfortunately, neighbor-based collaborative ranking has gained little attention despite its more flexibility and justifiability. This paper proposes a novel framework, called SibRank that seeks to improve the state of the art neighbor-based collaborative ranking methods. SibRank represents users' preferences as a signed bipartite network, and finds similar users, through a novel personalized ranking algorithm in signed networks.

@@ -1,0 +1,3 @@
+An overview about Networks-on-Chip with multicast suppor
+
+Modern System-on-Chip (SoC) platforms typically consist of multiple processors and a communication interconnect between them. Network-on-Chip (NoC) arises as a solution to interconnect these systems, which provides a scalable, reusable, and an efficient interconnect. For these SoC platforms, multicast communication is significantly used for parallel applications. Cache coherency in distributed sharedmemory,clock synchronization, replication, or barrier synchronization are examples of these requests. This paper presents an overview of research on NoC with support for multicast communication and delineates the major issues addressed so far by the scientific community in this investigation area.

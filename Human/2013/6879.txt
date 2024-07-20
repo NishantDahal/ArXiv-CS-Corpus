@@ -1,0 +1,3 @@
+Deterministic Feature Selection for $k$-means Clustering
+
+We study feature selection for $k$-means clustering. Although the literature contains many methods with good empirical performance, algorithms with provable theoretical behavior have only recently been developed. Unfortunately, these algorithms are randomized and fail with, say, a constant probability. We address this issue by presenting a deterministic feature selection algorithm for k-means with theoretical guarantees. At the heart of our algorithm lies a deterministic method for decompositions of the identity.

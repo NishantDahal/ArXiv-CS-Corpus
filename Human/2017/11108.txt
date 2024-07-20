@@ -1,0 +1,3 @@
+Generic Approach to Certified Static Checking of Module-like Constructs
+
+In this paper we consider the problem of certified static checking of module-like constructs of programming languages. We argue that there are algorithms and properties related to modules that can be defined and proven in an abstract way. We advocate the design of a generic Coq library, which is aimed to provide three building blocks for each checking mechanism: propositional, computable, and correctness proofs. Implemented part of the library is justified by applying it to a certified static checker of an extension of STLC.

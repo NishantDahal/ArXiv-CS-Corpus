@@ -1,0 +1,3 @@
+An Optimized Union-Find Algorithm for Connected Components Labeling Using GPUs
+
+In this paper, we report an optimized union-find (UF) algorithm that can label the connected components on a 2D image efficiently by employing the GPU architecture. The proposed method contains three phases: UF-based local merge, boundary analysis, and link. The coarse labeling in local merge reduces the number atomic operations, while the boundary analysis only manages the pixels on the boundary of each block. Evaluation results showed that the proposed algorithm speed up the average running time by more than 1.3X.

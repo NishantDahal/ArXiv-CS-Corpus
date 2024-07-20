@@ -1,0 +1,5 @@
+A Kuratowski-Type Theorem for Planarity of Partially Embedded Graphs
+
+A partially embedded graph (or PEG) is a triple (G,H,\H), where G is a graph, H is a subgraph of G, and \H is a planar embedding of H. We say that a PEG (G,H,\H) is planar if the graph G has a planar embedding that extends the embedding \H.
+  We introduce a containment relation of PEGs analogous to graph minor containment, and characterize the minimal non-planar PEGs with respect to this relation. We show that all the minimal non-planar PEGs except for finitely many belong to a single easily recognizable and explicitly described infinite family. We also describe a more complicated containment relation which only has a finite number of minimal non-planar PEGs.
+  Furthermore, by extending an existing planarity test for PEGs, we obtain a polynomial-time algorithm which, for a given PEG, either produces a planar embedding or identifies an obstruction.

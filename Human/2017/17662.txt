@@ -1,0 +1,3 @@
+DIeSEL: DIstributed SElf-Localization of a network of underwater vehicles
+
+How can teams of artificial agents localize and position themselves in GPS-denied environments? How can each agent determine its position from pairwise ranges, own velocity, and limited interaction with neighbors? This paper addresses this problem from an optimization point of view: we directly optimize the nonconvex maximum-likelihood estimator in the presence of range measurements contaminated with Gaussian noise, and we obtain a provably convergent, accurate and distributed positioning algorithm that outperforms the extended Kalman filter, a standard centralized solution for this problem.

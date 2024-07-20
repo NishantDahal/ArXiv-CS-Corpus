@@ -1,0 +1,3 @@
+Bounds for the expected value of one-step processes
+
+Mean-field models are often used to approximate Markov processes with large state-spaces. One-step processes, also known as birth-death processes, are an important class of such processes and are processes with state space $\{0,1,\ldots,N\}$ and where each transition is of size one. We derive explicit bounds on the expected value of such a process, bracketing it between the mean-field model and another simple ODE. Our bounds require that the Markov transition rates are density dependent polynomials that satisfy a sign condition. We illustrate the tightness of our bounds on the SIS epidemic process and the voter model.

@@ -1,0 +1,3 @@
+Noise Stability is computable and low dimensional
+
+Questions of noise stability play an important role in hardness of approximation in computer science as well as in the theory of voting. In many applications, the goal is to find an optimizer of noise stability among all possible partitions of $\mathbb{R}^n$ for $n \geq 1$ to $k$ parts with given Gaussian measures $μ_1,\ldots,μ_k$. We call a partition $ε$-optimal, if its noise stability is optimal up to an additive $ε$. In this paper, we give an explicit, computable function $n(ε)$ such that an $ε$-optimal partition exists in $\mathbb{R}^{n(ε)}$. This result has implications for the computability of certain problems in non-interactive simulation, which are addressed in a subsequent work.

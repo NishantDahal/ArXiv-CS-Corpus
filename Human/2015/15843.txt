@@ -1,0 +1,3 @@
+The Vampire and the FOOL
+
+This paper presents new features recently implemented in the theorem prover Vampire, namely support for first-order logic with a first class boolean sort (FOOL) and polymorphic arrays. In addition to having a first class boolean sort, FOOL also contains if-then-else and let-in expressions. We argue that presented extensions facilitate reasoning-based program analysis, both by increasing the expressivity of first-order reasoners and by gains in efficiency.

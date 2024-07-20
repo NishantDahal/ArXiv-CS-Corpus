@@ -1,0 +1,3 @@
+Adaptive Modular Exponentiation Methods v.s. Python's Power Function
+
+In this paper we use Python to implement two efficient modular exponentiation methods: the adaptive m-ary method and the adaptive sliding-window method of window size k, where both m's are adaptively chosen based on the length of exponent. We also conduct the benchmark for both methods. Evaluation results show that compared to the industry-standard efficient implementations of modular power function in CPython and Pypy, our algorithms can reduce 1-5% computing time for exponents with more than 3072 bits.

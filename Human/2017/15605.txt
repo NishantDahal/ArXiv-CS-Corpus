@@ -1,0 +1,3 @@
+Finding shorter paths for robot arms using their redundancy
+
+Many robot arms can accomplish one task using many different joint configurations. Often only one of these configurations is used as a goal by the path planner. Ideally the robot's path planner would be able to use the extra configurations to find higher quality paths. In this paper we use the extra goal configurations to find significantly shorter paths that are faster to execute compared to a planner that chooses one goal configuration arbitrarily. In a grape vine pruning robot arm experiment our proposed approach reduced execution times by 58%.

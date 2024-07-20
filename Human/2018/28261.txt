@@ -1,0 +1,3 @@
+On Block Sensitivity and Fractional Block Sensitivity
+
+We investigate the relation between the block sensitivity $\text{bs}(f)$ and fractional block sensitivity $\text{fbs}(f)$ complexity measures of Boolean functions. While it is known that $\text{fbs}(f) = O(\text{bs}(f)^2)$, the best known separation achieves $\text{fbs}(f) = \left(\frac{1}{3\sqrt2} +o(1)\right) \text{bs(f)}^{3/2}$. We improve the constant factor and show a family of functions that give $\text{fbs}(f) = \left(\frac{1}{\sqrt6}-o(1)\right) \text{bs}(f)^{3/2}.$

@@ -1,0 +1,3 @@
+4d isip: 4d implicit surface interest point detection
+
+In this paper, we propose a new method to detect 4D spatiotemporal interest points though an implicit surface, we refer to as the 4D-ISIP. We use a 3D volume which has a truncated signed distance function(TSDF) for every voxel to represent our 3D object model. The TSDF represents the distance between the spatial points and object surface points which is an implicit surface representation. Our novelty is to detect the points where the local neighborhood has significant variations along both spatial and temporal directions. We established a system to acquire 3D human motion dataset using only one Kinect. Experimental results show that our method can detect 4D-ISIP for different human actions.

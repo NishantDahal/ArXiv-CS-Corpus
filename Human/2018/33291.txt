@@ -1,0 +1,3 @@
+End-to-end neural relation extraction using deep biaffine attention
+
+We propose a neural network model for joint extraction of named entities and relations between them, without any hand-crafted features. The key contribution of our model is to extend a BiLSTM-CRF-based entity recognition model with a deep biaffine attention layer to model second-order interactions between latent features for relation classification, specifically attending to the role of an entity in a directional relationship. On the benchmark "relation and entity recognition" dataset CoNLL04, experimental results show that our model outperforms previous models, producing new state-of-the-art performances.

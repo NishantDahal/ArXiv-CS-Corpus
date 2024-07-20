@@ -1,0 +1,4 @@
+Newton representation of functions over natural integers having integral difference ratios
+
+Different questions lead to the same class of functions from natural integers to integers: those which have integral difference ratios, i.e. verifying $f(a)-f(b)\equiv0 \pmod {(a-b)}$ for all $a>b$.
+  We characterize this class of functions via their representations as Newton series. This class, which obviously contains all polynomials with integral coefficients, also contains unexpected functions, for instance all functions $x\mapsto\lfloor e^{1/a}\;a^x\;x!\rfloor$, with $a\in\Z\setminus\{0,1\}$, and a function equal to $\lfloor e\;x!\rfloor$ except on 0. Finally, to study the complement class, we look at functions $\N\to\RR$ which are not uniformly close to any function having integral difference ratios.

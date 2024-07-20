@@ -1,0 +1,3 @@
+Spatial-Temporal BEM and Channel Estimation Strategy for Massive MIMO Time-Varying Systems
+
+This paper proposes a new channel estimation scheme for the multiuser massive multiple-input multiple-output (MIMO) systems in time-varying environment. We introduce a discrete Fourier transform (DFT) aided spatial-temporal basis expansion model (ST-BEM) to reduce the effective dimensions of uplink/downlink channels, such that training overhead and feedback cost could be greatly decreased. The newly proposed ST-BEM is suitable for both time division duplex (TDD) systems and frequency division duplex (FDD) systems thanks to the angle reciprocity, and can be efficiently deployed by fast Fourier transform (FFT). Various numerical results have corroborated the proposed studies.

@@ -1,0 +1,3 @@
+k-Anonymously Private Search over Encrypted Data
+
+In this paper we compare the performance of various homomorphic encryption methods on a private search scheme that can achieve $k$-anonymity privacy. To make our benchmarking fair, we use open sourced cryptographic libraries which are written by experts and well scrutinized. We find that Goldwasser-Micali encryption achieves good enough performance for practical use, whereas fully homomorphic encryptions are much slower than partial ones like Goldwasser-Micali and Paillier.

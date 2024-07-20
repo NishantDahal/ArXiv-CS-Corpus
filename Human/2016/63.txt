@@ -1,0 +1,3 @@
+Analysis of Distributed Snapshot Algorithms
+
+Snapshot recording durations at each process contribute to the overall efficiency of the algorithm. In this paper we are presenting the observed variations in snapshot recording durations at processes in a distributed system. We conclude with key characteristics of a reliable and effective snapshot algorithm. Simulations were achieved using SimGrid Java API.

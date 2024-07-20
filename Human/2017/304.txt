@@ -1,0 +1,3 @@
+Optimal one-shot quantum algorithm for EQUALITY and AND
+
+We study the computation complexity of Boolean functions in the quantum black box model. In this model our task is to compute a function $f:\{0,1\}\to\{0,1\}$ on an input $x\in\{0,1\}^n$ that can be accessed by querying the black box. Quantum algorithms are inherently probabilistic; we are interested in the lowest possible probability that the algorithm outputs incorrect answer (the error probability) for a fixed number of queries. We show that the lowest possible error probability for $AND_n$ and $EQUALITY_{n+1}$ is $1/2-n/(n^2+1)$.

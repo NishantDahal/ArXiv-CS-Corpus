@@ -1,0 +1,3 @@
+Fundamental Limits of Caching: Improved Bounds with Coded Prefetching
+
+We consider a cache network in which a single server is connected to multiple users via a shared error free link. The server has access to a database with $N$ files of equal length $F$, and serves $K$ users each with a cache memory of $MF$ bits. A novel centralized coded caching scheme is proposed for scenarios with more users than files $N\leq K$ and cache capacities satisfying $\frac{1}{K}\leq M\leq\frac{N}{K}$. The proposed scheme outperforms the best rate-memory region known in the literature if $N\leq K\leq\frac{N^{2}+1}{2}$.

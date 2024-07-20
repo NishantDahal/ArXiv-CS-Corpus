@@ -1,0 +1,3 @@
+Parametric channel estimation for massive MIMO
+
+Channel state information is crucial to achieving the capacity of multi-antenna (MIMO) wireless communication systems. It requires estimating the channel matrix. This estimation task is studied, considering a sparse channel model particularly suited to millimeter wave propagation, as well as a general measurement model taking into account hybrid architectures. The contribution is twofold. First, the  Cram{é}r-Rao bound in this context is derived. Second, interpretation of the Fisher Information Matrix structure allows to assess the role of system parameters, as well as to propose asymptotically optimal and computationally efficient estimation algorithms.

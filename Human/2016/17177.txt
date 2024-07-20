@@ -1,0 +1,3 @@
+A comparison study of object-oriented database clustering techniques
+
+It is widely acknowledged that a good object clustering is critical to the performance of OODBs. Clustering means storing related objects close together on secondary storage so that when one object is accessed from disk, all its related objects are also brought into memory. Then access to these related objects is a main memory access that is much faster than a disk access. The aim of this paper is to compare the performance of three clustering algorithms: Cactis, CK and ORION. Simulation experiments we performed showed that the Cactis algorithm is better than the ORION algorithm and that the CK algorithm totally out-performs both other algorithms in terms of response time and clustering overhead.

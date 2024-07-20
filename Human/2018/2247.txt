@@ -1,0 +1,6 @@
+Fibres of Failure: Classifying errors in predictive processes
+
+We describe Fibres of Failure (FiFa), a method to classify failure modes of predictive processes using the Mapper algorithm from Topological Data Analysis.
+  Our method uses Mapper to build a graph model of input data stratified by prediction error.
+  Groupings found in high-error regions of the Mapper model then provide distinct failure modes of the predictive process.
+  We demonstrate FiFa on misclassifications of MNIST images with added noise, and demonstrate two ways to use the failure mode classification: either to produce a correction layer that adjusts predictions by similarity to the failure modes; or to inspect members of the failure modes to illustrate and investigate what characterizes each failure mode.

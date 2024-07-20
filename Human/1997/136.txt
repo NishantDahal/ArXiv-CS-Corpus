@@ -1,0 +1,3 @@
+A generation algorithm for f-structure representations
+
+This paper shows that previously reported generation algorithms run into problems when dealing with f-structure representations. A generation algorithm that is suitable for this type of representations is presented: the Semantic Kernel Generation (SKG) algorithm. The SKG method has the same processing strategy as the Semantic Head Driven generation (SHDG) algorithm and relies on the assumption that it is possible to compute the Semantic Kernel (SK) and non Semantic Kernel (Non-SK) information for each input structure.

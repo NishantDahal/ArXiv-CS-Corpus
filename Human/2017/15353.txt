@@ -1,0 +1,3 @@
+Chisio: A Compound Graph Editing and Layout Framework
+
+We introduce a new free, open-source compound graph editing and layout framework named Chisio, based on the Eclipse Graph Editing Framework (GEF) and written in Java. Chisio can be used as a finished graph editor with its easy-to-use graphical interface. The framework has an architecture suitable for easy customization of the tool for end-user's specific needs as well. Chisio comes with a variety of graph layout algorithms, most supporting compound structures and non-uniform node dimensions. Furthermore, new algorithms are straightforward to add, making Chisio an ideal test environment for layout algorithm developers.

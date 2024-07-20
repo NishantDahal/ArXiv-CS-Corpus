@@ -1,0 +1,3 @@
+Sequential Circuits from Regular Expressions Revisited
+
+We revisit the long-neglected problem of sequential circuit constructions from regular expressions. The class of languages that are recognized by sequential circuits is equivalent to the class of regular languages. This fact is shown in [5] together with an inductive construction technique from regular expressions. In this note, we present an alternative algorithm, called the trigger-set approach, obtained by reversing well-known the follow-set approach to construct automata. We use our algorithm to obtain a regular expression matcher based on sequential circuits. Finally, we report our performance results in comparison with existing automata-based matchers.

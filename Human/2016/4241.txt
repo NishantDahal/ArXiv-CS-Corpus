@@ -1,0 +1,4 @@
+Partitioning graphs into induced subgraphs
+
+We study the Induced $H$ Partition problem from the parameterized complexity point of view. In the Induced $H$ Partition problem the task is to partition vertices of a graph $G$ into sets $V_1,V_2,\dots,V_n$ such that the graph $H$ is isomorphic to the subgraph of $G$ induced by each set $V_i$ for $i = 1,2,\dots,n.$ The pattern graph $H$ is fixed.
+  For the parametrization we consider three distinct structural parameters of the graph $G$ - namely the tree-width, the neighborhood diversity, and the modular-width. For the parametrization by the neighborhood diversity we obtain an FPT algorithm for every graph $H.$ For the parametrization by the tree-width we obtain an FPT algorithm for every connected graph $H.$ Finally, for the parametrization by the modular-width we derive an FPT algorithm for every prime graph $H.$

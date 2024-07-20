@@ -1,0 +1,3 @@
+A Novel Elliptic curve cryptography Processor using NoC design
+
+In this paper, we propose an elliptic curve key generation processor over GF(2m) and GF(P) with Network-on-Chip (NoC) design scheme based on binary scalar multiplication algorithm. Over the Two last decades, Elliptic Curve Cryptography (ECC) has gained increasing acceptance in the industry and the academic community. This interest is mainly caused by the same level of security with relatively small keys provided by ECC comparing to large key size in Rivest Shamir Adleman (RSA). Parallelism can be utilized in different hierarchy levels as shown in many publications. By using NoC, a new method with the reduced latency of point multiplication (with parallel field arithmetic) is introduced in this paper.

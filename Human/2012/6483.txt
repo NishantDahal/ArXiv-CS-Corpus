@@ -1,0 +1,3 @@
+An Optimized Signature Verification System for Vehicle Ad hoc NETwork
+
+This paper1 presents an efficient approach to an existing batch verification system on Identity based group signature (IBGS) which can be applied to any Mobile ad hoc network device including Vehicle Ad hoc Networks (VANET). We propose an optimized way to batch signatures in order to get maximum throughput from a device in runtime environment. In addition, we minimize the number of pairing computations in batch verification proposed by B. Qin et al. for large scale VANET. We introduce a batch scheduling algorithm for batch verification targeting further minimization the batch computation time.

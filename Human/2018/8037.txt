@@ -1,0 +1,3 @@
+Improved Algorithms for Fully Dynamic Maximal Independent Set
+
+Maintaining maximal independent set in dynamic graph is a fundamental open problem in graph theory and the first sublinear time deterministic algorithm was came up by Assadi, Onak, Schieber and Solomon(STOC'18), which achieves $O(m^{3/4})$ amortized update time. We have two main contributions in this paper. We present a new simple deterministic algorithm with $O(m^{2/3}\sqrt{\log m})$ amortized update time, which improves the previous best result. And we also present the first randomized algorithm with expected $O(\sqrt{m}\log^{1.5}m)$ amortized time against an oblivious adversary.

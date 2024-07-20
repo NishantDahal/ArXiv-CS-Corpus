@@ -1,0 +1,3 @@
+Encryption Schemes using Finite Frames and Hadamard Arrays
+
+We propose a cipher similar to the One Time Pad and McEliece cipher based on a subband coding scheme. The encoding process is an approximation to the One Time Pad encryption scheme. We present results of numerical experiments which suggest that a brute force attack to the proposed scheme does not result in all possible plaintexts, as the One Time Pad does, but still the brute force attack does not compromise the system. However, we demonstrate that the cipher is vulnerable to a chosen-plaintext attack.

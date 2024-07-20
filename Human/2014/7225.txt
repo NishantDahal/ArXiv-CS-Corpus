@@ -1,0 +1,4 @@
+Abstract interpretation as anti-refinement
+
+This article shows a correspondence between abstract interpretation of imperative programs and the refinement calculus: in the refinement calculus, an abstract interpretation of a program is a specification which is a function.
+  This correspondence can be used to guide the design of mechanically verified static analyses, keeping the correctness proof well separated from the heuristic parts of the algorithms.

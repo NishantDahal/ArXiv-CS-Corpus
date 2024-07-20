@@ -1,0 +1,3 @@
+Lower bounds on the Deterministic and Quantum Communication Complexity of Hamming Distance
+
+Alice and Bob want to know if two strings of length n are almost equal. That is, do they differ on \textit{at most} a bits? Let 0\leq a\leq n-1. We show that any deterministic protocol, as well as any error-free quantum protocol (C* version), for this problem requires at least n-2 bits of communication. We show the same bounds for the problem of determining if two strings differ in exactly a bits. We also prove a lower bound of n/2-1 for error-free Q* quantum protocols. Our results are obtained by lower-bounding the ranks of the appropriate matrices.

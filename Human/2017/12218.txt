@@ -1,0 +1,3 @@
+Deep Stochastic Radar Models
+
+Accurate simulation and validation of advanced driver assistance systems requires accurate sensor models. Modeling automotive radar is complicated by effects such as multipath reflections, interference, reflective surfaces, discrete cells, and attenuation. Detailed radar simulations based on physical principles exist but are computationally intractable for realistic automotive scenes. This paper describes a methodology for the construction of stochastic automotive radar models based on deep learning with adversarial loss connected to real-world data. The resulting model exhibits fundamental radar effects while remaining real-time capable.

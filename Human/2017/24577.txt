@@ -1,0 +1,3 @@
+On approximating the stationary distribution of time-reversible Markov chains
+
+Approximating the stationary probability of a state in a Markov chain through Markov chain Monte Carlo techniques is, in general, inefficient. Standard random walk approaches require $\tilde{O}(τ/π(v))$ operations to approximate the probability $π(v)$ of a state $v$ in a chain with mixing time $τ$, and even the best available techniques still have complexity $\tilde{O}(τ^{1.5}/π(v)^{0.5})$, and since these complexities depend inversely on $π(v)$, they can grow beyond any bound in the size of the chain or in its mixing time. In this paper we show that, for time-reversible Markov chains, there exists a simple randomized approximation algorithm that breaks this "small-$π(v)$ barrier".

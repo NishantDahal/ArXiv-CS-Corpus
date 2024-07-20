@@ -1,0 +1,3 @@
+Forbidden branches in trees with minimal atom-bond connectivity index
+
+The atom-bond connectivity (ABC) index has been, in recent years, one of the most actively studied vertex-degree-based graph invariants in chemical graph theory. For a given graph $G$, the ABC index is defined as $\sum_{uv\in E}\sqrt{\frac{d(u) +d(v)-2}{d(u)d(v)}}$, where $d(u)$ is the degree of vertex $u$ in $G$ and $E(G)$ denotes the set of edges of $G$. In this paper we present some new structural properties of trees with a minimal ABC index (also refer to as a minimal-ABC tree), which is a step further towards understanding their complete characterization. We show that a minimal-ABC tree cannot simultaneously contain a $B_4$-branch and $B_1$ or $B_2$-branches.

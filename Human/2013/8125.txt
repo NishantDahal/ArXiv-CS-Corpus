@@ -1,0 +1,4 @@
+Sealed States And Quantum Blackmail
+
+Consider a protocol in which Belinda seals a (classical) message. She gives the resulting sealed message to Charlie, who can either unseal and read the message or return it unopened to Belinda. If he returns it unopened, Belinda should be able to verify that Charlie neither read the message nor made a copy that would allow him to read it later. Such a protocol is impossible with classical cryptography: Charlie can copy a message and do anything he likes to that copy without damaging the original. With quantum cryptography, on the other hand, the no cloning theorem implies that Charlie cannot simply copy a message and unseal the copy.
+  Abstract In this paper, I prove that any conventional quantum cryptographic protocol can give at best a very weak security guarantee. However, quantum cryptography in conjunction with classical functions that can only be inverted by humans (i.e. CAPTCHAs) can potentially give exponential security.

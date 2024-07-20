@@ -1,0 +1,3 @@
+Fixed points in conjunctive networks and maximal independent sets in graph contractions
+
+Given a graph $G$, viewed as a loop-less symmetric digraph, we study the maximum number of fixed points in a conjunctive boolean network with $G$ as interaction graph. We prove that if $G$ has no induced $C_4$, then this quantity equals both the number of maximal independent sets in $G$ and the maximum number of maximal independent sets among all the graphs obtained from $G$ by contracting some edges. We also prove that, in the general case, it is coNP-hard to decide if one of these equalities holds, even if $G$ has a unique induced $C_4$.

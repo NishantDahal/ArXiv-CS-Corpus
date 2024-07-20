@@ -1,0 +1,3 @@
+CalcuList: a Functional Language Extended with Imperative Features
+
+CalcuList (Calculator with List manipulation), is an educational language for teaching functional programming extended with some imperative and side-effect features, which are enabled under explicit request by the programmer. In addition to strings and lists, the language natively supports json objects. The language adopts a Python-like syntax and enables interactive computation sessions with the user through a REPL (Read-Evaluate-Print-Loop) shell. The object code produced by a compilation is a program that will be eventually executed by the CalcuList Virtual Machine (CLVM).

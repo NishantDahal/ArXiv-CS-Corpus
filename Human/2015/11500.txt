@@ -1,0 +1,3 @@
+Bounded Model Checking of C++ Programs Based on the Qt Framework (extended version)
+
+The software development process for embedded systems is getting faster and faster, which generally incurs an increase in the associated complexity. As a consequence, consumer electronics companies usually invest a lot of resources in fast and automatic verification processes, in order to create robust systems and reduce product recall rates. Because of that, the present paper proposes a simplified version of the Qt framework, which is integrated into the Efficient SMT-Based Bounded Model Checking tool to verify actual applications that use the mentioned framework. The method proposed in this paper presents a success rate of 94.45%, for the developed test suite.

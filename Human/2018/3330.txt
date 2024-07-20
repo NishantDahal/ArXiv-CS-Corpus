@@ -1,0 +1,3 @@
+PRIL: Perceptron Ranking Using Interval Labeled Data
+
+In this paper, we propose an online learning algorithm PRIL for learning ranking classifiers using interval labeled data and show its correctness. We show its convergence in finite number of steps if there exists an ideal classifier such that the rank given by it for an example always lies in its label interval. We then generalize this mistake bound result for the general case. We also provide regret bound for the proposed algorithm. We propose a multiplicative update algorithm for PRIL called M-PRIL. We provide its correctness and convergence results. We show the effectiveness of PRIL by showing its performance on various datasets.

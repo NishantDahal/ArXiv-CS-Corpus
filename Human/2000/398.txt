@@ -1,0 +1,3 @@
+Constructing Recursion Operators in Intuitionistic Type Theory
+
+Martin-Löf's Intuitionistic Theory of Types is becoming popular for formal reasoning about computer programs. To handle recursion schemes other than primitive recursion, a theory of well-founded relations is presented. Using primitive recursion over higher types, induction and recursion are formally derived for a large class of well-founded relations. Included are < on natural numbers, and relations formed by inverse images, addition, multiplication, and exponentiation of other relations. The constructions are given in full detail to allow their use in theorem provers for Type Theory, such as Nuprl. The theory is compared with work in the field of ordinal recursion over higher types.

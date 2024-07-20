@@ -1,0 +1,3 @@
+Chi-Square Test Neural Network: A New Binary Classifier based on Backpropagation Neural Network
+
+We introduce the chi-square test neural network: a single hidden layer backpropagation neural network using chi-square test theorem to redefine the cost function and the error function. The weights and thresholds are modified using standard backpropagation algorithm. The proposed approach has the advantage of making consistent data distribution over training and testing sets. It can be used for binary classification. The experimental results on real world data sets indicate that the proposed algorithm can significantly improve the classification accuracy comparing to related approaches.

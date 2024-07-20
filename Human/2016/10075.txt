@@ -1,0 +1,3 @@
+Entropy-based link prediction in weighted networks
+
+Information entropy has been proved to be an effective tool to quantify the structural importance of complex networks. In the previous work (Xu et al, 2016 \cite{xu2016}), we measure the contribution of a path in link prediction with information entropy. In this paper, we further quantify the contribution of a path with both path entropy and path weight, and propose a weighted prediction index based on the contributions of paths, namely Weighted Path Entropy (WPE), to improve the prediction accuracy in weighted networks. Empirical experiments on six weighted real-world networks show that WPE achieves higher prediction accuracy than three typical weighted indices.

@@ -1,0 +1,4 @@
+Container solutions for HPC Systems: A Case Study of Using Shifter on Blue Waters
+
+Software container solutions have revolutionized application development approaches by enabling lightweight platform abstractions within the so-called "containers." Several solutions are being actively developed in attempts to bring the benefits of containers to high-performance computing systems with their stringent security demands on the one hand and fundamental resource sharing requirements on the other.
+  In this paper, we discuss the benefits and short-comings of such solutions when deployed on real HPC systems and applied to production scientific applications.We highlight use cases that are either enabled by or significantly benefit from such solutions. We discuss the efforts by HPC system administrators and support staff to support users of these type of workloads on HPC systems not initially designed with these workloads in mind focusing on NCSA's Blue Waters system.

@@ -1,0 +1,4 @@
+Havens: Explicit Reliable Memory Regions for HPC Applications
+
+Supporting error resilience in future exascale-class supercomputing systems is a critical challenge. Due to transistor scaling trends and increasing memory density, scientific simulations are expected to experience more interruptions caused by transient errors in the system memory. Existing hardware-based detection and recovery techniques will be inadequate to manage the presence of high memory fault rates.
+  In this paper we propose a partial memory protection scheme based on region-based memory management. We define the concept of regions called havens that provide fault protection for program objects. We provide reliability for the regions through a software-based parity protection mechanism. Our approach enables critical program objects to be placed in these havens. The fault coverage provided by our approach is application agnostic, unlike algorithm-based fault tolerance techniques.

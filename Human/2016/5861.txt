@@ -1,0 +1,3 @@
+Superdense Coding Interleaved with Forward Error Correction
+
+Superdense coding promises increased classical capacity and communication security but this advantage may be undermined by noise in the quantum channel. We present a numerical study of how forward error correction (FEC) applied to the encoded classical message can be used to mitigate against quantum channel noise. By studying the bit error rate under different FEC codes, we identify the unique role that burst errors play in superdense coding, and we show how these can be mitigated against by interleaving the FEC codewords prior to transmission. We conclude that classical FEC with interleaving is a useful method to improve the performance in near-term demonstrations of superdense coding.

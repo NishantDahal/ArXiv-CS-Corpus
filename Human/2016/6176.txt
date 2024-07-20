@@ -1,0 +1,3 @@
+An Improved Pseudo-Polynomial Upper Bound for the Value Problem and Optimal Strategy Synthesis in Mean Payoff Games
+
+In this work we offer an $O(|V|^2 |E|\, W)$ pseudo-polynomial time deterministic algorithm for solving the Value Problem and Optimal Strategy Synthesis in Mean Payoff Games. This improves by a factor $\log(|V|\, W)$ the best previously known pseudo-polynomial time upper bound due to Brim,~\etal The improvement hinges on a suitable characterization of values, and a description of optimal positional strategies, in terms of reweighted Energy Games and Small Energy-Progress Measures.

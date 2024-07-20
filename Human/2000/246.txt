@@ -1,0 +1,3 @@
+Optimization of Trading Physics Models of Markets
+
+We describe an end-to-end real-time S&P futures trading system. Inner-shell stochastic nonlinear dynamic models are developed, and Canonical Momenta Indicators (CMI) are derived from a fitted Lagrangian used by outer-shell trading models dependent on these indicators. Recursive and adaptive optimization using Adaptive Simulated Annealing (ASA) is used for fitting parameters shared across these shells of dynamic and trading models.

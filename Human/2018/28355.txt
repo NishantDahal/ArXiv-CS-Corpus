@@ -1,0 +1,3 @@
+Learning an internal representation of the end-effector configuration space
+
+Current machine learning techniques proposed to automatically discover a robot kinematics usually rely on a priori information about the robot's structure, sensors properties or end-effector position. This paper proposes a method to estimate a certain aspect of the forward kinematics model with no such information. An internal representation of the end-effector configuration is generated from unstructured proprioceptive and exteroceptive data flow under very limited assumptions. A mapping from the proprioceptive space to this representational space can then be used to control the robot.

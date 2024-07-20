@@ -1,0 +1,3 @@
+Compressive phase retrieval of sparse bandlimited signals
+
+This contribution proposes a two stage strategy to allow for phase retrieval in state of the art sub-Nyquist sampling schemes for sparse multiband signals. The proposed strategy is based on data acquisition via modulated wideband converters known from sub-Nyquist sampling. This paper describes how the modulators have to be modified such that signal recovery from sub-Nyquist amplitude samples becomes possible and a corresponding recovery algorithm is given which is computational efficient. In addition, the proposed strategy is fairly general, allowing for several constructions and recovery algorithms.

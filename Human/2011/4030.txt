@@ -1,0 +1,3 @@
+Spatial Features for Multi-Font/Multi-Size Kannada Numerals and Vowels Recognition
+
+This paper presents multi-font/multi-size Kannada numerals and vowels recognition based on spatial features. Directional spatial features viz stroke density, stroke length and the number of stokes in an image are employed as potential features to characterize the printed Kannada numerals and vowels. Based on these features 1100 numerals and 1400 vowels are classified with Multi-class Support Vector Machines (SVM). The proposed system achieves the recognition accuracy as 98.45% and 90.64% for numerals and vowels respectively.

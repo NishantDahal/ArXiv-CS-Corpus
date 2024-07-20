@@ -1,0 +1,3 @@
+On Lipschitz Bounds of General Convolutional Neural Networks
+
+Many convolutional neural networks (CNNs) have a feed-forward structure. In this paper, a linear program that estimates the Lipschitz bound of such CNNs is proposed. Several CNNs, including the scattering networks, the AlexNet and the GoogleNet, are studied numerically and compared to the theoretical bounds. Next, concentration inequalities of the output distribution to a stationary random input signal expressed in terms of the Lipschitz bound are established. The Lipschitz bound is further used to establish a nonlinear discriminant analysis designed to measure the separation between features of different classes.

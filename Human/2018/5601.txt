@@ -1,0 +1,3 @@
+Mixing Time of Markov chain of the Knapsack Problem
+
+To find the number of assignments of zeros and ones satisfying a specific Knapsack Problem is $\#P$ hard, so only approximations are envisageable. A Markov chain allowing uniform sampling of all possible solutions is given by Luby, Randall and Sinclair. In 2005, Morris and Sinclair, by using a flow argument, have shown that the mixing time of this Markov chain is $\mathcal{O}(n^{9/2+ε})$, for any $ε> 0$. By using a canonical path argument on the distributive lattice structure of the set of solutions, we obtain an improved bound, the mixing time is given as $τ_{_{x}}(ε) \leq n^{3} \ln (16 ε^{-1})$.

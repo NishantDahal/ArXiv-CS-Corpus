@@ -1,0 +1,3 @@
+A Pseudo Random Number Generator from Chaos
+
+A random number generator is proposed based on a theorem about existence of chaos in fixed point iteration of x= cot2(x). Digital computer simulation of this function iteration exhibits random behavior. A method is proposed to extract random bytes from this simulation. Diehard and NIST test suite for randomness detection is run on this bytes, and it is found to pass all the tests in the suite. Thus, this method qualifies even for cryptographic quality random number generation.

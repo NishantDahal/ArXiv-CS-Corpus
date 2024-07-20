@@ -1,0 +1,3 @@
+Hand Gesture Recognition with Leap Motion
+
+The recent introduction of depth cameras like Leap Motion Controller allows researchers to exploit the depth information to recognize hand gesture more robustly. This paper proposes a novel hand gesture recognition system with Leap Motion Controller. A series of features are extracted from Leap Motion tracking data, we feed these features along with HOG feature extracted from sensor images into a multi-class SVM classifier to recognize performed gesture, dimension reduction and feature weighted fusion are also discussed. Our results show that our model is much more accurate than previous work.

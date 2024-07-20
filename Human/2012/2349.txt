@@ -1,0 +1,3 @@
+On epsilon-optimality of the pursuit learning algorithm
+
+Estimator algorithms in learning automata are useful tools for adaptive, real-time optimization in computer science and engineering applications. This paper investigates theoretical convergence properties for a special case of estimator algorithms: the pursuit learning algorithm. In this note, we identify and fill a gap in existing proofs of probabilistic convergence for pursuit learning. It is tradition to take the pursuit learning tuning parameter to be fixed in practical applications, but our proof sheds light on the importance of a vanishing sequence of tuning parameters in a theoretical convergence analysis.

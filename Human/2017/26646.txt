@@ -1,0 +1,3 @@
+General Cut-Generating Procedures for the Stable Set Polytope
+
+We propose general separation procedures for generating cuts for the stable set polytope, inspired by a procedure by Rossi and Smriglio and applying a lifting method by Xavier and Campêlo. In contrast to existing cut-generating procedures, ours generate both rank and non-rank valid inequalities, hence they are of a more general nature than existing methods. This is accomplished by iteratively solving a lifting problem, which consists of a maximum weighted stable set problem on a smaller graph. Computational experience on DIMACS benchmark instances shows that the proposed approach may be a useful tool for generating cuts for the stable set polytope.

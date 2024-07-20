@@ -1,0 +1,3 @@
+UC Merced Submission to the ActivityNet Challenge 2016
+
+This notebook paper describes our system for the untrimmed classification task in the ActivityNet challenge 2016. We investigate multiple state-of-the-art approaches for action recognition in long, untrimmed videos. We exploit hand-crafted motion boundary histogram features as well feature activations from deep networks such as VGG16, GoogLeNet, and C3D. These features are separately fed to linear, one-versus-rest support vector machine classifiers to produce confidence scores for each action class. These predictions are then fused along with the softmax scores of the recent ultra-deep ResNet-101 using weighted averaging.

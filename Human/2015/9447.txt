@@ -1,0 +1,3 @@
+A SWAR Approach to Counting Ones
+
+We investigate the complexity of algorithms counting ones in different sets of operations. With addition and logical operations (but no shift) $O(\log^2(n))$ steps suffice to count ones. Parity can be computed with complexity $O(\log(n))$, which is the same bound as for methods using shift-operations. If multiplication is available, a solution of time complexity $O(\log^*(n))$ is possible improving the known bound $O(\log\log(n))$.

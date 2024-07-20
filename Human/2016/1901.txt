@@ -1,0 +1,3 @@
+Conflict Resolution: a First-Order Resolution Calculus with Decision Literals and Conflict-Driven Clause Learning
+
+This paper defines the (first-order) conflict resolution calculus: an extension of the resolution calculus inspired by techniques used in modern SAT-solvers. The resolution inference is restricted to (first-order) unit-propagation and the calculus is extended with a mechanism for assuming decision literals and a new inference rule for clause learning, which is a first-order generalization of the propositional conflict-driven clause learning (CDCL) procedure. The calculus is sound (because it can be simulated by natural deduction) and refutationally complete (because it can simulate resolution), and these facts are proven in detail here.

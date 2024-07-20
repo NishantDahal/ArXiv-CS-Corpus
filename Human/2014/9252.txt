@@ -1,0 +1,3 @@
+A Framework to Synergize Partial Order Reduction with State Interpolation
+
+We address the problem of reasoning about interleavings in safety verification of concurrent programs. In the literature, there are two prominent techniques for pruning the search space. First, there are well-investigated trace-based methods, collectively known as "Partial Order Reduction (POR)", which operate by weakening the concept of a trace by abstracting the total order of its transitions into a partial order. Second, there is state-based interpolation where a collection of formulas can be generalized by taking into account the property to be verified. Our main contribution is a framework that synergistically combines POR with state interpolation so that the sum is more than its parts.

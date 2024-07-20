@@ -1,0 +1,3 @@
+A Parallel and Scalable Iterative Solver for Sequences of Dense Eigenproblems Arising in FLAPW
+
+In one of the most important methods in Density Functional Theory - the Full-Potential Linearized Augmented Plane Wave (FLAPW) method - dense generalized eigenproblems are organized in long sequences. Moreover each eigenproblem is strongly correlated to the next one in the sequence. We propose a novel approach which exploits such correlation through the use of an eigensolver based on subspace iteration and accelerated with Chebyshev polynomials. The resulting solver, parallelized using the Elemental library framework, achieves excellent scalability and is competitive with current dense parallel eigensolvers.

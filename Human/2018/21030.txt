@@ -1,0 +1,3 @@
+A simple model for detection of rare sound events
+
+We propose a simple recurrent model for detecting rare sound events, when the time boundaries of events are available for training. Our model optimizes the combination of an utterance-level loss, which classifies whether an event occurs in an utterance, and a frame-level loss, which classifies whether each frame corresponds to the event when it does occur. The two losses make use of a shared vectorial representation the event, and are connected by an attention mechanism. We demonstrate our model on Task 2 of the DCASE 2017 challenge, and achieve competitive performance.

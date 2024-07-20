@@ -1,0 +1,3 @@
+Evolution in complex objects
+
+This paper describes work carried out on a model for the evolution of graph classes in complex objects. By defining evolution rules and propagation strategies on graph classes, we aim to define a user-definable means to manage data evolution model which tackles the complex nature of the classes managed, using the concepts defined in object systems. So, depending on their needs and on those of the targeted application, designers can choose the evolution mechanism they consider to suit them best. They can either create new evolutions or reuse predefined ones to respond to a given need.

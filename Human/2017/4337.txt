@@ -1,0 +1,3 @@
+System level specification and verification using Concurrent State Machines and COSMA environment
+
+Traffic Light Controller, a typical benchmark device, is specified and verified using of a formal model called Concurrent State Machines (CSM) and the software environment COSMA 2.0, which supports the system level specification and analysis of concurrent, asynchronous and communicating units. The TLC itself is a system of three concurrent components (the controller and two timers). The paper introduces briefly the CSM model and illustrates how system components are specified, how the reachability graph of a system is obtained and how the requirements are formally verified. Finally, the hints for the generation of VHDL code for the TLC are given.

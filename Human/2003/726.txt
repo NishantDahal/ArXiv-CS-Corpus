@@ -1,0 +1,4 @@
+On The Cost Distribution of a Memory Bound Function
+
+Memory Bound Functions have been proposed for fighting spam, resisting Sybil attacks and other purposes. A particular implementation of such functions has been proposed in which the average effort required to generate a proof of effort is set by parameters E and l to E * l. The distribution of effort required to generate an individual proof about this average is fairly broad. When particular uses of these functions are envisaged, the choice of E and l, and the system design surrounding the generation and verification of proofs of effort, need to take the breadth of the distribution into account.
+  We show the distribution for this implementation, discuss the system design issues in the context of two proposed applications, and suggest an improved implementation.

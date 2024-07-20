@@ -1,0 +1,5 @@
+Improved approximation algorithm for the Dense-3-Subhypergraph Problem
+
+The study of Dense-$3$-Subhypergraph problem was initiated in Chlamt{á}c et al. [Approx'16]. The input is a universe $U$ and collection ${\cal S}$ of subsets of $U$, each of size $3$, and a number $k$. The goal is to choose a set $W$ of $k$ elements from the universe, and maximize the number of sets, $S\in {\cal S}$ so that $S\subseteq W$. The members in $U$ are called {\em vertices} and the sets of ${\cal S}$ are called the {\em hyperedges}. This is the simplest extension into hyperedges of the case of sets of size $2$ which is the well known Dense $k$-subgraph problem.
+  The best known ratio for the Dense-$3$-Subhypergraph is $O(n^{0.69783..})$ by Chlamt{á}c et al. We improve this ratio to $n^{0.61802..}$. More importantly, we give a new algorithm that approximates Dense-$3$-Subhypergraph within a ratio of $\tilde O(n/k)$, which improves the ratio of $O(n^2/k^2)$ of Chlamt{á}c et al.
+  We prove that under the {\em log density conjecture} (see Bhaskara et al. [STOC'10]) the ratio cannot be better than $Ω(\sqrt{n})$ and demonstrate some cases in which this optimum can be attained.

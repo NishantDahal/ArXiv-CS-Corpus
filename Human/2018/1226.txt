@@ -1,0 +1,4 @@
+Efficient Encoding/Decoding of Irreducible Words for Codes Correcting Tandem Duplications
+
+Tandem duplication is the process of inserting a copy of a segment of DNA adjacent to the original position. Motivated by applications that store data in living organisms, Jain et al. (2017) proposed the study of codes that correct tandem duplications. Known code constructions are based on {\em irreducible words}.
+  We study efficient encoding/decoding methods for irreducible words. First, we describe an $(\ell,m)$-finite state encoder and show that when $m=Θ(1/ε)$ and $\ell=Θ(1/ε)$, the encoder achieves rate that is $ε$ away from the optimal. Next, we provide ranking/unranking algorithms for irreducible words and modify the algorithms to reduce the space requirements for the finite state encoder.

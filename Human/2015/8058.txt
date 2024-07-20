@@ -1,0 +1,3 @@
+Checking Zenon Modulo Proofs in Dedukti
+
+Dedukti has been proposed as a universal proof checker. It is a logical framework based on the lambda Pi calculus modulo that is used as a backend to verify proofs coming from theorem provers, especially those implementing some form of rewriting. We present a shallow embedding into Dedukti of proofs produced by Zenon Modulo, an extension of the tableau-based first-order theorem prover Zenon to deduction modulo and typing. Zenon Modulo is applied to the verification of programs in both academic and industrial projects. The purpose of our embedding is to increase the confidence in automatically generated proofs by separating untrusted proof search from trusted proof verification.

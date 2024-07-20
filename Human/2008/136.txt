@@ -1,0 +1,3 @@
+Two graph isomorphism polytopes
+
+The convex hull $ψ_{n,n}$ of certain $(n!)^2$ tensors was considered recently in connection with graph isomorphism. We consider the convex hull $ψ_n$ of the $n!$ diagonals among these tensors. We show: 1. The polytope $ψ_n$ is a face of $ψ_{n,n}$. 2. Deciding if a graph $G$ has a subgraph isomorphic to $H$ reduces to optimization over $ψ_n$. 3. Optimization over $ψ_n$ reduces to optimization over $ψ_{n,n}$. In particular, this implies that the subgraph isomorphism problem reduces to optimization over $ψ_{n,n}$.

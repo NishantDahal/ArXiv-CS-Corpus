@@ -1,0 +1,3 @@
+On a family of strong geometric spanners that admit local routing strategies
+
+We introduce a family of directed geometric graphs, denoted $\paz$, that depend on two parameters $λ$ and $θ$. For $0\leq θ<\fracπ{2}$ and ${1/2} < λ< 1$, the $\paz$ graph is a strong $t$-spanner, with $t=\frac{1}{(1-λ)\cosθ}$. The out-degree of a node in the $\paz$ graph is at most $\lfloor2π/\min(θ, \arccos\frac{1}{2λ})\rfloor$. Moreover, we show that routing can be achieved locally on $\paz$. Next, we show that all strong $t$-spanners are also $t$-spanners of the unit disk graph. Simulations for various values of the parameters $λ$ and $θ$ indicate that for random point sets, the spanning ratio of $\paz$ is better than the proven theoretical bounds.

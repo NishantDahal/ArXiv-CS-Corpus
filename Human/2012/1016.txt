@@ -1,0 +1,3 @@
+Irrelevance, Heterogeneous Equality, and Call-by-value Dependent Type Systems
+
+We present a full-spectrum dependently typed core language which includes both nontermination and computational irrelevance (a.k.a. erasure), a combination which has not been studied before. The two features interact: to protect type safety we must be careful to only erase terminating expressions. Our language design is strongly influenced by the choice of CBV evaluation, and by our novel treatment of propositional equality which has a heterogeneous, completely erased elimination form.

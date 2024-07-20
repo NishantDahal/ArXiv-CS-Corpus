@@ -1,0 +1,3 @@
+Un filtre temporel crédibiliste pour la reconnaissance d'actions humaines dans les vidéos
+
+In the context of human action recognition in video sequences, a temporal belief filter is presented. It allows to cope with human action disparity and low quality videos. The whole system of action recognition is based on the Transferable Belief Model (TBM) proposed by P. Smets. The TBM allows to explicitly model the doubt between actions. Furthermore, the TBM emphasizes the conflict which is exploited for action recognition. The filtering performance is assessed on real video sequences acquired by a moving camera and under several unknown view angles.

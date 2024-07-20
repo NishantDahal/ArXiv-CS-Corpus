@@ -1,0 +1,9 @@
+Program Synthesis from Axiomatic Proof of Correctness
+
+Program Synthesis is the mapping of a specification of what a computer program is supposed to do, into a computer program that does what the specification says to do. This is equivalent to constructing any computer program and a sound proof that it meets the given specification.
+  We axiomatically prove statements of the form: program PROG meets specification SPEC. We derive 7 axioms from the definition of the PHP programming language in which the programs are to be written. For each primitive function or process described, we write a program that uses only that feature (function or process), and we have an axiom that this program meets the specification described. Generic ways to alter or combine programs, that meet known specifications, into new programs that meet known specifications, are our 7 rules of inference.
+  To efficiently prove statements that some program meets a given specification, we work backwards from the specification. We apply the inverses of the rules to the specifications that we must meet, until we reach axioms that are combined by these rules to prove that a particular program meets the given specification. Due to their distinct nature, typically few inverse rules apply. To avoid complex wff and program manipulation algorithms, we advocate the use of simple table maintenance and look-up functions to simulate these complexities as a prototype.
+  Examples Include:
+  "$B=FALSE ; for ($a=1;!($j<$a);++$a){ $A=FALSE ; if (($a*$i)==$j) $A=TRUE ; if ($A) $B=TRUE ; } ; echo $B ;" and "echo ($j % $i) == 0" : Is one number a factor of another?
+  "for ($a=1 ; !($i<$a) ;++$a) {if (($i%$a) == 0) echo $a ; }" : List the factors of I.
+  "$A=FALSE ; for ($a=1;$a<$i;++$a){ if (1<$a) { if (($i % $a) == 0) $A=TRUE ; } ; } ; echo (!($A)) && (!($i<2)) ;" : Is I a prime number?

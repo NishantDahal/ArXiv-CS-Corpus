@@ -1,0 +1,5 @@
+Endpoint-transparent Multipath Transport with Software-defined Networks
+
+Multipath forwarding consists of using multiple paths simultaneously to transport data over the network. While most such techniques require endpoint modifications, we investigate how multipath forwarding can be done inside the network, transparently to endpoint hosts. With such a network-centric approach, packet reordering becomes a critical issue as it may cause critical performance degradation.
+  We present a Software Defined Network architecture which automatically sets up multipath forwarding, including solutions for reordering and performance improvement, both at the sending side through multipath scheduling algorithms, and the receiver side, by resequencing out-of-order packets in a dedicated in-network buffer.
+  We implemented a prototype with commonly available technology and evaluated it in both emulated and real networks. Our results show consistent throughput improvements, thanks to the use of aggregated path capacity. We give comparisons to Multipath TCP, where we show our approach can achieve a similar performance while offering the advantage of endpoint transparency.

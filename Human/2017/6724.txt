@@ -1,0 +1,5 @@
+Hybridizing Non-dominated Sorting Algorithms: Divide-and-Conquer Meets Best Order Sort
+
+Many production-grade algorithms benefit from combining an asymptotically efficient algorithm for solving big problem instances, by splitting them into smaller ones, and an asymptotically inefficient algorithm with a very small implementation constant for solving small subproblems. A well-known example is stable sorting, where mergesort is often combined with insertion sort to achieve a constant but noticeable speed-up.
+  We apply this idea to non-dominated sorting. Namely, we combine the divide-and-conquer algorithm, which has the currently best known asymptotic runtime of $O(N (\log N)^{M - 1})$, with the Best Order Sort algorithm, which has the runtime of $O(N^2 M)$ but demonstrates the best practical performance out of quadratic algorithms.
+  Empirical evaluation shows that the hybrid's running time is typically not worse than of both original algorithms, while for large numbers of points it outperforms them by at least 20%. For smaller numbers of objectives, the speedup can be as large as four times.

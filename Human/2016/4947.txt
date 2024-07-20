@@ -1,0 +1,3 @@
+Ensemble Enabled Weighted PageRank
+
+This paper describes our solution for WSDM Cup 2016. Ranking the query independent importance of scholarly articles is a critical and challenging task, due to the heterogeneity and dynamism of entities involved. Our approach is called Ensemble enabled Weighted PageRank (EWPR). To do this, we first propose Time-Weighted PageRank that extends PageRank by introducing a time decaying factor. We then develop an ensemble method to assemble the authorities of the heterogeneous entities involved in scholarly articles. We finally propose to use external data sources to further improve the ranking accuracy. Our experimental study shows that our EWPR is a good choice for ranking scholarly articles.

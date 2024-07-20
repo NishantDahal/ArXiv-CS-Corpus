@@ -1,0 +1,3 @@
+Quantifying Causal Effects on Query Answering in Databases
+
+The notion of actual causation, as formalized by Halpern and Pearl, has been recently applied to relational databases, to characterize and compute actual causes for possibly unexpected answers to monotone queries. Causes take the form of database tuples, and can be ranked according to their causal responsibility, a numerical measure of their relevance as a cause to the query answer. In this work we revisit this notion, introducing and making a case for an alternative measure of causal contribution, that of causal effect. The measure generalizes actual causes, and can be applied beyond monotone queries. We show that causal effect provides intuitive and intended results.

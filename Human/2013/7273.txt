@@ -1,0 +1,4 @@
+Approximate Nash Equilibria via Sampling
+
+We prove that in a normal form n-player game with m actions for each player, there exists an approximate Nash equilibrium where each player randomizes uniformly among a set of O(log(m) + log(n)) pure strategies. This result induces an $N^{\log \log N}$ algorithm for computing an approximate Nash equilibrium in games where the number of actions is polynomial in the number of players (m=poly(n)), where $N=nm^n$ is the size of the game (the input size).
+  In addition, we establish an inverse connection between the entropy of Nash equilibria in the game, and the time it takes to find such an approximate Nash equilibrium using the random sampling algorithm.

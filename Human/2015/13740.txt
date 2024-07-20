@@ -1,0 +1,4 @@
+Bezier curves and surfaces based on modified Bernstein polynomials
+
+In this paper, we use the blending functions of Bernstein polynomials with shifted knots for construction of Bezier curves and surfaces. We study the nature of degree elevation and degree reduction for Bezier Bernstein functions with shifted knots.
+  Parametric curves are represented using these modified Bernstein basis and the concept of total positivity is applied to investigate the shape properties of the curve. We get Bezier curve defined on [0, 1] when we set the parameter α=βto the value 0. We also present a de Casteljau algorithm to compute Bernstein Bezier curves and surfaces with shifted knots. The new curves have some properties similar to Bezier curves. Furthermore, some fundamental properties for Bernstein Bezier curves and surfaces are discussed.

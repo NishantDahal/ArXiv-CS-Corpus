@@ -1,0 +1,3 @@
+Linear-Time Maximum Likelihood Decoding of Surface Codes over the Quantum Erasure Channel
+
+Surface codes are among the best candidates to ensure the fault-tolerance of a quantum computer. In order to avoid the accumulation of errors during a computation, it is crucial to have at our disposal a fast decoding algorithm to quickly identify and correct errors as soon as they occur. We propose a linear-time maximum likelihood decoder for surface codes over the quantum erasure channel. This decoding algorithm for dealing with qubit loss is optimal both in terms of performance and speed.

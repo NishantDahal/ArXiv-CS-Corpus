@@ -1,0 +1,3 @@
+The Petri-Nets to Statecharts Transformation Case
+
+This paper describes a case study for the sixth Transformation Tool Contest. The case is based on a mapping from Petri-Nets to statecharts (i.e., from flat process models to hierarchical ones). The case description separates a simple mapping phase from a phase that involves the step by step destruction Petri-Net elements and the corresponding construction of a hierarchy of statechart elements. Although the focus of this case study is on the comparison of the runtime performance of solutions, we also include correctness tests as well as bonus criteria for evaluating transformation language and tool features.

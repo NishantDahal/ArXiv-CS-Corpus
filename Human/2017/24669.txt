@@ -1,0 +1,3 @@
+Accurate Bayesian Data Classification without Hyperparameter Cross-validation
+
+We extend the standard Bayesian multivariate Gaussian generative data classifier by considering a generalization of the conjugate, normal-Wishart prior distribution and by deriving the hyperparameters analytically via evidence maximization. The behaviour of the optimal hyperparameters is explored in the high-dimensional data regime. The classification accuracy of the resulting generalized model is competitive with state-of-the art Bayesian discriminant analysis methods, but without the usual computational burden of cross-validation.

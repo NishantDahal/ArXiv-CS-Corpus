@@ -1,0 +1,3 @@
+Spreading Processes and Large Components in Ordered, Directed Random Graphs
+
+Order the vertices of a directed random graph \math{v_1,...,v_n}; edge \math{(v_i,v_j)} for \math{i<j} exists independently with probability \math{p}. This random graph model is related to certain spreading processes on networks. We consider the component reachable from \math{v_1} and prove existence of a sharp threshold \math{p^*=\log n/n} at which this reachable component transitions from \math{o(n)} to \math{Ω(n)}.

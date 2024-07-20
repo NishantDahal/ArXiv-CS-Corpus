@@ -1,0 +1,3 @@
+Error Performance Analysis of the Symbol-Decision SC Polar Decoder
+
+Polar codes are the first provably capacity-achieving forward error correction codes. To improve decoder throughput, the symbol-decision SC algorithm makes hard-decision for multiple bits at a time. In this paper, we prove that for polar codes, the symbol-decision SC algorithm is better than the bit-decision SC algorithm in terms of the frame error rate (FER) performance because the symbol-decision SC algorithm performs a local maximum likelihood decoding within a symbol. Moreover, the bigger the symbol size, the better the FER performance. Finally, simulation results over both the additive white Gaussian noise channel and the binary erasure channel confirm our theoretical analysis.

@@ -1,0 +1,5 @@
+Fixed-parameter tractable canonization and isomorphism test for graphs of bounded treewidth
+
+We give a fixed-parameter tractable algorithm that, given a parameter $k$ and two graphs $G_1,G_2$, either concludes that one of these graphs has treewidth at least $k$, or determines whether $G_1$ and $G_2$ are isomorphic. The running time of the algorithm on an $n$-vertex graph is $2^{O(k^5\log k)}\cdot n^5$, and this is the first fixed-parameter algorithm for Graph Isomorphism parameterized by treewidth.
+  Our algorithm in fact solves the more general canonization problem. We namely design a procedure working in $2^{O(k^5\log k)}\cdot n^5$ time that, for a given graph $G$ on $n$ vertices, either concludes that the treewidth of $G$ is at least $k$, or: * finds in an isomorphic-invariant way a graph $\mathfrak{c}(G)$ that is isomorphic to $G$; * finds an isomorphism-invariant construction term --- an algebraic expression that encodes $G$ together with a tree decomposition of $G$ of width $O(k^4)$.
+  Hence, the isomorphism test reduces to verifying whether the computed isomorphic copies or the construction terms for $G_1$ and $G_2$ are equal.

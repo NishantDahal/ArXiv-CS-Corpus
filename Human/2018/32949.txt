@@ -1,0 +1,9 @@
+Structurally Parameterized d-Scattered Set
+
+In $d$-Scattered Set we are given an (edge-weighted) graph and are asked to select at least $k$ vertices, so that the distance between any pair is at least $d$, thus generalizing Independent Set. We provide upper and lower bounds on the complexity of this problem with respect to various standard graph parameters. In particular, we show the following:
+  - For any $d\ge2$, an $O^*(d^{\textrm{tw}})$-time algorithm, where $\textrm{tw}$ is the treewidth of the input graph.
+  - A tight SETH-based lower bound matching this algorithm's performance. These generalize known results for Independent Set.
+  - $d$-Scattered Set is W[1]-hard parameterized by vertex cover (for edge-weighted graphs), or feedback vertex set (for unweighted graphs), even if $k$ is an additional parameter.
+  - A single-exponential algorithm parameterized by vertex cover for unweighted graphs, complementing the above-mentioned hardness.
+  - A $2^{O(\textrm{td}^2)}$-time algorithm parameterized by tree-depth ($\textrm{td}$), as well as a matching ETH-based lower bound, both for unweighted graphs.
+  We complement these mostly negative results by providing an FPT approximation scheme parameterized by treewidth. In particular, we give an algorithm which, for any error parameter $ε> 0$, runs in time $O^*((\textrm{tw}/ε)^{O(\textrm{tw})})$ and returns a $d/(1+ε)$-scattered set of size $k$, if a $d$-scattered set of the same size exists.

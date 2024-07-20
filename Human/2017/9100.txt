@@ -1,0 +1,4 @@
+Which Broadcast Abstraction Captures $k$-Set Agreement?
+
+It is well-known that consensus (one-set agreement) and total order broadcast are equivalent in asynchronous systems prone to process crash failures. Considering wait-free systems, this article addresses and answers the following question: which is the communication abstraction that "captures" $k$-set agreement? To this end, it introduces a new broadcast communication abstraction, called $k$-BO-Broadcast, which restricts the disagreement on the local deliveries of the messages that have been broadcast ($1$-BO-Broadcast boils down to total order broadcast). Hence, in this context, $k=1$ is not a special number, but only the first integer in an increasing integer sequence.
+  This establishes a new "correspondence" between distributed agreement problems and communication abstractions, which enriches our understanding of the relations linking fundamental issues of fault-tolerant distributed computing.

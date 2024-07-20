@@ -1,0 +1,3 @@
+Constraint Handling Rules with Multiset Comprehension Patterns
+
+CHR is a declarative, concurrent and committed choice rule-based constraint programming language. We extend CHR with multiset comprehension patterns, providing the programmer with the ability to write multiset rewriting rules that can match a variable number of constraints in the store. This enables writing more readable, concise and declarative code for algorithms that coordinate large amounts of data or require aggregate operations. We call this extension $\mathit{CHR}^\mathit{cp}$. We give a high-level abstract semantics of $\mathit{CHR}^\mathit{cp}$, followed by a lower-level operational semantics. We then show the soundness of this operational semantics with respect to the abstract semantics.

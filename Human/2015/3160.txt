@@ -1,0 +1,3 @@
+Approximating LZ77 in Small Space
+
+Given a positive \(ε\leq 1\) and read-only access to a string \(S [1..n]\) whose LZ77 parse consists of $z$ phrases, with high probability we can build an LZ77-like parse of $S$ that consists of $\Oh{z / ε}$ phrases using $\Oh{n^{1 + ε}}$ time, $\Oh{n^{1 + ε} / B}$ I/Os (where $B$ is the size of a disk block) and $\Oh{z / ε}$ space.

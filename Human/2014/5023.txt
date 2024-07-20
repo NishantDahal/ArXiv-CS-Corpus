@@ -1,0 +1,3 @@
+Results for grundy number of the complement of bipartite graphs
+
+A Grundy k-coloring of a graph G, is a vertex k-coloring of G such that for each two colors i and j with i < j, every vertex of G colored by j has a neighbor with color i. The Grundy chromatic number (G), is the largest integer k for which there exists a Grundy k-coloring for G. In this note we first give an interpretation of (G) in terms of the total graph of G, when G is the complement of a bipartite graph. Then we prove that determining the Grundy number of the complement of bipartite graphs is an NP-Complete problem

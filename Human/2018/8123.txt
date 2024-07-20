@@ -1,0 +1,4 @@
+Efficient Pose Tracking from Natural Features in Standard Web Browsers
+
+Computer Vision-based natural feature tracking is at the core of modern Augmented Reality applications. Still, Web-based Augmented Reality typically relies on location-based sensing (using GPS and orientation sensors) or marker-based approaches to solve the pose estimation problem.
+  We present an implementation and evaluation of an efficient natural feature tracking pipeline for standard Web browsers using HTML5 and WebAssembly. Our system can track image targets at real-time frame rates tablet PCs (up to 60 Hz) and smartphones (up to 25 Hz).

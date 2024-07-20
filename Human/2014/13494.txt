@@ -1,0 +1,3 @@
+Equivalence of lower bounds on the number of perfect pairs
+
+Let c(F) be the number of perfect pairs of F and c(G) be the maximum of c(F) over all (near-) one-factorizations F of G. Wagner showed that for odd n, c(K_{n}) \geq n*phi(n)/2 and for m and n which are odd and co-prime to each other, c(K_{mn}) \geq 2*c(K_{m})*c(K_{n}). In this note, we establish that both these results are equivalent in the sense that they both give rise to the same lower bound.

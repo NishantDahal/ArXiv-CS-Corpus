@@ -1,0 +1,3 @@
+Analyzing Walksat on random formulas
+
+Let F be a uniformly distributed random k-SAT formula with n variables and m clauses. We prove that the Walksat algorithm from Papadimitriou (FOCS 1991)/Schoning (FOCS 1999) finds a satisfying assignment of F in polynomial time w.h.p. if m/n<ρ2^k/k for a certain constant ρ>0. This is an improvement by a factor of $Θ(k)$ over the best previous analysis of Walksat from Coja-Oghlan, Feige, Frieze, Krivelevich, Vilenchik (SODA 2009).

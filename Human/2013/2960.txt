@@ -1,0 +1,3 @@
+A Robust Rapid Approach to Image Segmentation with Optimal Thresholding and Watershed Transform
+
+This paper describes a novel method for partitioning image into meaningful segments. The proposed method employs watershed transform, a well-known image segmentation technique. Along with that, it uses various auxiliary schemes such as Binary Gradient Masking, dilation which segment the image in proper way. The algorithm proposed in this paper considers all these methods in effective way and takes little time. It is organized in such a manner so that it operates on input image adaptively. Its robustness and efficiency makes it more convenient and suitable for all types of images.

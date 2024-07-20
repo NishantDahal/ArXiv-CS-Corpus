@@ -1,0 +1,3 @@
+Inferring Quality in Point Cloud-based 3D Printed Objects using Topological Data Analysis
+
+Assessing the quality of 3D printed models before they are printed remains a challeng- ing problem, particularly when considering point cloud-based models. This paper introduces an approach to quality assessment, which uses techniques from the field of Topological Data Analy- sis (TDA) to compute a topological abstraction of the eventual printed model. Two main tools of TDA, Mapper and persistent homology, are used to analyze both the printed space and empty space created by the model. This abstraction enables investigating certain qualities of the model, with respect to print quality, and identifies potential anomalies that may appear in the final product.

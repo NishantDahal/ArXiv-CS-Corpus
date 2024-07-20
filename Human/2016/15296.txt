@@ -1,0 +1,3 @@
+A Scalable and Robust Framework for Intelligent Real-time Video Surveillance
+
+In this paper, we present an intelligent, reliable and storage-efficient video surveillance system using Apache Storm and OpenCV. As a Storm topology, we have added multiple information extraction modules that only write important content to the disk. Our topology is extensible, capable of adding novel algorithms as per the use case without affecting the existing ones, since all the processing is independent of each other. This framework is also highly scalable and fault tolerant, which makes it a best option for organisations that need to monitor a large network of surveillance cameras.

@@ -1,0 +1,4 @@
+Online Tree Caching
+
+We initiate the study of a natural and practically relevant new variant of online caching where the to-be-cached items can have dependencies. We assume that the universe is a tree T and items are tree nodes; we require that if a node v is cached then the whole subtree T(v) rooted at v is cached as well. This theoretical problem finds an immediate application in the context of forwarding table optimization in IP routing and software-defined networks.
+  We present an elegant online deterministic algorithm TC for this problem, and rigorously prove that its competitive ratio is O(height(T) * k_ALG/(k_ALG-k_OPT+1)), where k_ALG and k_OPT denote the cache sizes of an online and the optimal offline algorithm, respectively. The result is optimal up to a factor of O(height(T)).

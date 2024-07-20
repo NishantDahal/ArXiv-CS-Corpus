@@ -1,0 +1,3 @@
+Towards Parallel Boolean Functional Synthesis
+
+Given a relational specification R(X, Y), where X and Y are sequences of input and output variables, we wish to synthesize each output as a function of the inputs such that the specification holds. This is called the Boolean functional synthesis problem and has applications in several areas. In this paper, we present the first parallel approach for solving this problem, using compositional and CEGAR-style reasoning as key building blocks. We show by means of extensive experiments that our approach outperforms existing tools on a large class of benchmarks.

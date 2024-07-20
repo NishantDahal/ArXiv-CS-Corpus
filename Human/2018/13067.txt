@@ -1,0 +1,3 @@
+Average Cost of QuickXsort with Pivot Sampling
+
+QuickXsort is a strategy to combine Quicksort with another sorting method X, so that the result has essentially the same comparison cost as X in isolation, but sorts in place even when X requires a linear-size buffer. We solve the recurrence for QuickXsort precisely up to the linear term including the optimization to choose pivots from a sample of k elements. This allows to immediately obtain overall average costs using only the average costs of sorting method X (as if run in isolation). We thereby extend and greatly simplify the analysis of QuickHeapsort and QuickMergesort with practically efficient pivot selection, and give the first tight upper bounds including the linear term for such methods.

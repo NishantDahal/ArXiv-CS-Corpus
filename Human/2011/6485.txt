@@ -1,0 +1,3 @@
+Randomized Speedup of the Bellman-Ford Algorithm
+
+We describe a variant of the Bellman-Ford algorithm for single-source shortest paths in graphs with negative edges but no negative cycles that randomly permutes the vertices and uses this randomized order to process the vertices within each pass of the algorithm. The modification reduces the worst-case expected number of relaxation steps of the algorithm, compared to the previously-best variant by Yen (1970), by a factor of 2/3 with high probability. We also use our high probability bound to add negative cycle detection to the randomized algorithm.

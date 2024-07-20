@@ -1,0 +1,3 @@
+Towards Temporal Graph Databases
+
+In spite of the extensive literature on graph databases (GDBs), temporal GDBs have not received too much attention so far. Temporal GBDs can capture, for example, the evolution of social networks across time, a relevant topic in data analysis nowadays. In this paper we propose a data model and query language (denoted TEG-QL) for temporal GDBs, based on the notion of attribute graphs. This allows a straightforward translation to Neo4J, a well-known GBD. We present extensive examples of the use of TEG-QL, and comment our implementation.

@@ -1,0 +1,3 @@
+Multi-mode Sampling Period Selection for Embedded Real Time Control
+
+Recent studies have shown that adaptively regulating the sampling rate results in significant reduction in computational resources in embedded software based control. Selecting a uniform sampling rate for a control loop is robust, but overtly pessimistic for sharing processors among multiple control loops. Fine grained regulation of periodicity achieves better resource utilization, but is hard to implement online in a robust way. In this paper we propose multi-mode sampling period selection, derived from an offline control theoretic analysis of the system. We report significant gains in computational efficiency without trading off control performance.

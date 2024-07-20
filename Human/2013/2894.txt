@@ -1,0 +1,3 @@
+A computational scheme for Reasoning in Dynamic Probabilistic Networks
+
+A computational scheme for reasoning about dynamic systems using (causal) probabilistic networks is presented.  The scheme is based on the framework of Lauritzen and Spiegelhalter (1988), and may be viewed as a generalization of the inference methods of classical time-series analysis in the sense that it allows description of non-linear, multivariate dynamic systems with complex conditional independence structures.  Further, the scheme provides a method for efficient backward smoothing and possibilities for efficient, approximate forecasting methods.  The scheme has been implemented on top of the HUGIN shell.

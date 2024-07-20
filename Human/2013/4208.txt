@@ -1,0 +1,3 @@
+Learning and Verifying Quantified Boolean Queries by Example
+
+To help a user specify and verify quantified queries --- a class of database queries known to be very challenging for all but the most expert users --- one can question the user on whether certain data objects are answers or non-answers to her intended query. In this paper, we analyze the number of questions needed to learn or verify qhorn queries, a special class of Boolean quantified queries whose underlying form is conjunctions of quantified Horn expressions. We provide optimal polynomial-question and polynomial-time learning and verification algorithms for two subclasses of the class qhorn with upper constant limits on a query's causal density.

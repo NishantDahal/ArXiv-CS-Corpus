@@ -1,0 +1,7 @@
+Graph Isomorphism, Color Refinement, and Compactness
+
+Color refinement is a classical technique used to show that two given graphs G and H are non-isomorphic; it is very efficient, although it does not succeed on all graphs. We call a graph G amenable to color refinement if it succeeds in distinguishing G from any non-isomorphic graph H. Tinhofer (1991) explored a linear programming approach to Graph Isomorphism and defined compact graphs: A graph is compact if its fractional automorphisms polytope is integral. Tinhofer noted that isomorphism testing for compact graphs can be done quite efficiently by linear programming. However, the problem of characterizing and recognizing compact graphs in polynomial time remains an open question.
+  Our results are summarized below:
+  - We show that amenable graphs are recognizable in time O((n + m)logn), where n and m denote the number of vertices and the number of edges in the input graph.
+  - We show that all amenable graphs are compact.
+  - We study related combinatorial and algebraic graph properties introduced by Tinhofer and Godsil. The corresponding classes of graphs form a hierarchy and we prove that recognizing each of these graph classes is P-hard. In particular, this gives a first complexity lower bound for recognizing compact graphs.

@@ -1,0 +1,3 @@
+Quantum correction with three codes
+
+In this paper, we provise an implementation of five, seven and nine-qubits error correcting codes on a classical computer using the quantum simulator Feynman program. We also compare the three codes by computing the fidelity when double errors occurs in a depolarizing channel. As triple errors and more are considered very unlikely, it has negligible effect on the next results

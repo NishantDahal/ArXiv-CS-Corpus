@@ -1,0 +1,7 @@
+Notes on Approximation Algorithms for Polynomial-Expansion and Low-Density Graphs
+
+This write-up contains some minor results and notes related to our work [HQ15] (some of them already known in the literature). In particular, it shows the following:
+  - We show that a graph with polynomial expansion have sublinear separators.
+  - We show that hereditary sublinear separators imply that a graph have small divisions.
+  - We show a natural condition on a set of segments, such that they have low density. This might be of independent interest in trying to define a realistic input model for a set of segments. Unlike the previous two results, this is new.
+  For context and more details, see the main paper.

@@ -1,0 +1,6 @@
+Clustering Algorithms for the Centralized and Local Models
+
+We revisit the problem of finding a minimum enclosing ball with differential privacy: Given a set of $n$ points in the Euclidean space $\mathbb{R}^d$ and an integer $t\leq n$, the goal is to find a ball of the smallest radius $r_{opt}$ enclosing at least $t$ input points. The problem is motivated by its various applications to differential privacy, including the sample and aggregate technique, private data exploration, and clustering.
+  Without privacy concerns, minimum enclosing ball has a polynomial time approximation scheme (PTAS), which computes a ball of radius almost $r_{opt}$ (the problem is NP-hard to solve exactly). In contrast, under differential privacy, until this work, only a $O(\sqrt{\log n})$-approximation algorithm was known.
+  We provide new constructions of differentially private algorithms for minimum enclosing ball achieving constant factor approximation to $r_{opt}$ both in the centralized model (where a trusted curator collects the sensitive information and analyzes it with differential privacy) and in the local model (where each respondent randomizes her answers to the data curator to protect her privacy).
+  We demonstrate how to use our algorithms as a building block for approximating $k$-means in both models.

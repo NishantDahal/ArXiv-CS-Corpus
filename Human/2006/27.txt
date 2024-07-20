@@ -1,0 +1,3 @@
+On timed automata with input-determined guards
+
+We consider a general notion of timed automata with input-determined guards and show that they admit a robust logical framework along the lines of [D 'Souza03], in terms of a monadic second order logic characterisation and an expressively complete timed temporal logic. We then generalize these automata using the notion of recursive operators introduced by Henzinger, Raskin, and Schobbens, and show that they admit a similar logical framework. These results hold in the ``pointwise'' semantics. We finally use this framework to show that the real-time logic MITL of Alur et al is expressively complete with respect to an MSO corresponding to an appropriate input-determined operator.

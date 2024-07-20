@@ -1,0 +1,3 @@
+Refining and Delegating Strategic Ability in ATL
+
+We propose extending Alternating-time Temporal Logic (ATL) by an operator <i refines-to G> F to express that agent i can distribute its powers to a set of sub-agents G in a way which satisfies ATL condition f on the strategic ability of the coalitions they may form, possibly together with others agents. We prove the decidability of model-checking of formulas whose subformulas with this operator as the main connective have the form <i_1 refines-to G_1>...<i_m refines-to G_m> f, with no further occurrences of this operator in f.

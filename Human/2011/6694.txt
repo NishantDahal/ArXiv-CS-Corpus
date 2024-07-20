@@ -1,0 +1,3 @@
+Towards Automated Verification of Web Services
+
+This paper proposes the use of model-checking software technology for the verification of workflows and business processes behaviour based on web services, namely the use of the SPIN model checker. Since the specification of a business process behaviour based on web services can be decomposed into patterns, it is proposed a translation of a well known collection of workflow patterns into PROMELA, the input specification language of SPIN. The use of this translation is illustrated with one business process example, which demonstrates how its translation to a PROMELA model can be useful in the web service specification and verification.

@@ -1,0 +1,5 @@
+Abstract Program Slicing: an Abstract Interpretation-based approach to Program Slicing
+
+In the present paper we formally define the notion of abstract program slicing, a general form of program slicing where properties of data are considered instead of their exact value. This approach is applied to a language with numeric and reference values, and relies on the notion of abstract dependencies between program components (statements).
+  The different forms of (backward) abstract slicing are added to an existing formal framework where traditional, non-abstract forms of slicing could be compared. The extended framework allows us to appreciate that abstract slicing is a generalization of traditional slicing, since traditional slicing (dealing with syntactic dependencies) is generalized by (semantic) non-abstract forms of slicing, which are actually equivalent to an abstract form where the identity abstraction is performed on data.
+  Sound algorithms for computing abstract dependencies and a systematic characterization of program slices are provided, which rely on the notion of agreement between program states.

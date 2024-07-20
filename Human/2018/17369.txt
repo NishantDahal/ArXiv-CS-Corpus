@@ -1,0 +1,3 @@
+GenoM3 Templates: from Middleware Independence to Formal Models Synthesis
+
+GenoM is an approach to develop robotic software components, which can be controlled, and assembled to build complex applications. Its latest version GenoM3, provides a template mechanism which is versatile enough to deploy components for different middleware without any change in the specification and user code. But this same template mechanism also enables us to automatically synthesize formal models (for two Validation and Verification frameworks) of the final components. We illustrate our approach on a real deployed example of a drone flight controller for which we prove offline real-time properties, and an outdoor robot for which we synthesize a controller to perform runtime verification.

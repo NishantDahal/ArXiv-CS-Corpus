@@ -1,0 +1,3 @@
+History-Preserving Bisimulations on Reversible Calculus of Communicating Systems
+
+History-and hereditary history-preserving bisimulation (HPB and HHPB) are equivalences relations for denotational models of concurrency. Finding their counterpart in process algebras is an open problem, with some partial successes: there exists in calculus of communicating systems (CCS) an equivalence based on causal trees that corresponds to HPB. In Reversible CSS (RCCS), there is a bisimulation that corresponds to HHPB, but it considers only processes without auto-concurrency. We propose equivalences on CCS with auto-concurrency that correspond to HPB and HHPB, and their so-called "weak" variants. The equivalences exploit not only reversibility but also the memory mechanism of RCCS.

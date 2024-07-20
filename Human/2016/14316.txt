@@ -1,0 +1,4 @@
+An Empirical Study of Cycle Toggling Based Laplacian Solvers
+
+We study the performance of linear solvers for graph Laplacians based on the combinatorial cycle adjustment methodology proposed by [Kelner-Orecchia-Sidford-Zhu STOC-13]. The approach finds a dual flow solution to this linear system through a sequence of flow adjustments along cycles. We study both data structure oriented and recursive methods for handling these adjustments.
+  The primary difficulty faced by this approach, updating and querying long cycles, motivated us to study an important special case: instances where all cycles are formed by fundamental cycles on a length $n$ path. Our methods demonstrate significant speedups over previous implementations, and are competitive with standard numerical routines.

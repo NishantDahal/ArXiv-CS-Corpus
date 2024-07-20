@@ -1,0 +1,4 @@
+Mega Key Authentication Mechanism
+
+For secure communication it is not just sufficient to use strong cryptography with good and strong keys, but to actually have the assurance, that the keys in use for it are authentic and from the contact one is expecting to communicate with. Without that, it is possible to be subject to impersonation or man-in-the-middle (MitM) attacks.
+  Mega meets this problem by providing a hierarchical authentication mechanism for contacts and their keys. To avoid any hassle when using multiple types of keys and key pairs for different purposes, the whole authentication mechanism is brought down to a single "identity key".

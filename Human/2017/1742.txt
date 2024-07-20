@@ -1,0 +1,3 @@
+A Debris Backwards Flow Simulation System for Malaysia Airlines Flight 370
+
+This paper presents a system based on a Two-Way Particle-Tracking Model to analyze possible crash positions of flight MH370. The particle simulator includes a simple flow simulation of the debris based on a Lagrangian approach and a module to extract appropriated ocean current data from netCDF files. The influence of wind, waves, immersion depth and hydrodynamic behavior are not considered in the simulation.

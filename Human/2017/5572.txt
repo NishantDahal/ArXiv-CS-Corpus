@@ -1,0 +1,3 @@
+Typing weak MSOL properties
+
+We consider lambda-Y-calculus as a non-interpreted functional programming language: the result of the execution of a program is its normal form that can be seen as the tree of calls to built-in operations. Weak monadic second-order logic (wMSOL) is well suited to express properties of such trees. We give a type system for ensuring that the result of the execution of a lambda-Y-program satisfies a given wMSOL property. In order to prove soundness and completeness of the system we construct a denotational semantics of lambda-Y-calculus that is capable of computing properties expressed in wMSOL.

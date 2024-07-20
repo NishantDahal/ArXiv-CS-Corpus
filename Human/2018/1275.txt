@@ -1,0 +1,3 @@
+An Intelligent Future Mobile Terminal Architecture
+
+In this paper, a novel Extended Cognitive Mobile Terminal (ExCogNet-MT) scheme is presented. In this scheme, a "test bench" at receiver's Mobile Terminal (MT) can estimate the channel Signal to Noise Ratio (SNR) and can detect the jamming signal. The estimation scheme compares the Standard Deviation (SD) of received signal and processed signal, and on the bases of this comparison the "test bench" can determine the BER and corresponding SNR value of the channel. Simulation results demonstrated that under certain scenarios estimated SNR value can be helpful for tuning the parameters of protocol stack of 802.11a and WiMaxm.

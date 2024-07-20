@@ -1,0 +1,5 @@
+Resumption-based big-step and small-step interpreters for While with interactive I/O
+
+In this tutorial, we program big-step and small-step total interpreters for the While language extended with input and output primitives. While is a simple imperative language consisting of skip, assignment, sequence, conditional and loop. We first develop trace-based interpreters for While. Traces are potentially infinite nonempty sequences of states. The interpreters assign traces to While programs: for us, traces are denotations of While programs. The trace is finite if the program is terminating and infinite if the program is non-terminating. However, we cannot decide (i.e., write a program to determine), for any given program, whether its trace is finite or infinite, which amounts to deciding the halting problem.  We then extend While with interactive input/output primitives. Accordingly, we extend the interpreters by generalizing traces to resumptions. 
+  The tutorial is based on our previous work with T. Uustalu on reasoning about interactive programs in the setting of constructive type theory.
+

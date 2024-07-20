@@ -1,0 +1,3 @@
+Optimal Strategy in "Guess Who?": Beyond Binary Search
+
+"Guess Who?" is a popular two player game where players ask "Yes"/"No" questions to search for their opponent's secret identity from a pool of possible candidates. This is modeled as a simple stochastic game. Using this model, the optimal strategy is explicitly found. Contrary to popular belief, performing a binary search is \emph{not} always optimal. Instead, the optimal strategy for the player who trails is to make certain bold plays in an attempt catch up. This is discovered by first analyzing a continuous version of the game where players play indefinitely and the winner is never decided after finitely many rounds.

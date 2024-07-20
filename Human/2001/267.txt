@@ -1,0 +1,3 @@
+On Modular Termination Proofs of General Logic Programs
+
+We propose a modular method for proving termination of general logic programs (i.e., logic programs with negation). It is based on the notion of acceptable programs, but it allows us to prove termination in a truly modular way. We consider programs consisting of a hierarchy of modules and supply a general result for proving termination by dealing with each module separately. For programs which are in a certain sense well-behaved, namely well-moded or well-typed programs, we derive both a simple verification technique and an iterative proof method. Some examples show how our system allows for greatly simplified proofs.

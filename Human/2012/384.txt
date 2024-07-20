@@ -1,0 +1,3 @@
+Committee Algorithm: An Easy Way to Construct Wavelet Filter Banks
+
+Given a lowpass filter, finding a dual lowpass filter is an essential step in constructing non-redundant wavelet filter banks. Obtaining dual lowpass filters is not an easy task. In this paper, we introduce a new method called committee algorithm that builds a dual filter straightforwardly from two easily-constructible lowpass filters. It allows to design a wide range of new wavelet filter banks. An example based on the family of Burt-Adelson's 1-D Laplacian filters is given.

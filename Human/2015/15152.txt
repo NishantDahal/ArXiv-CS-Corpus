@@ -1,0 +1,3 @@
+The interface for functions in the dune-functions module
+
+The dune-functions dune module introduces a new programmer interface for discrete and non-discrete functions. Unlike the previous interfaces considered in the existing dune modules, it is based on overloading operator(), and returning values by-value. This makes user code much more readable, and allows the incorporation of newer C++ features such as lambda expressions. Run-time polymorphism is implemented not by inheritance, but by type erasure, generalizing the ideas of the std::function class from the C++11 standard library. We describe the new interface, show its possibilities, and measure the performance impact of type erasure and return-by-value.

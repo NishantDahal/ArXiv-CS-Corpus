@@ -1,0 +1,4 @@
+On the evaluation potential of quality functions in community detection for different contexts
+
+Due to nowadays networks' sizes, the evaluation of a community detection algorithm can only be done using quality functions. These functions measure different networks/graphs structural properties, each of them corresponding to a different definition of a community. Since there exists many definitions for a community, choosing a quality function may be a difficult task, even if the networks' statistics/origins can give some clues about which one to choose.
+  In this paper, we apply a general methodology to identify different contexts, i.e. groups of graphs where the quality functions behave similarly. In these contexts we identify the best quality functions, i.e. quality functions whose results are consistent with expectations from real life applications.

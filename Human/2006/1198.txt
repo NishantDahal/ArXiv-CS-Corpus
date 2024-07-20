@@ -1,0 +1,4 @@
+Reducing the Computation of Linear Complexities of Periodic Sequences over $GF(p^m)$
+
+The linear complexity of a periodic sequence over $GF(p^m)$ plays an important role in cryptography and communication [12]. In this correspondence, we prove a result which reduces the computation of the linear complexity and minimal connection polynomial of a period $un$ sequence over $GF(p^m)$ to the computation of the linear complexities and minimal connection polynomials of $u$ period $n$ sequences. The conditions $u|p^m-1$ and
+ $\gcd(n,p^m-1)=1$ are required for the result to hold. Some applications of this reduction in fast algorithms to determine the linear complexities and minimal connection polynomials of sequences over $GF(p^m)$ are presented.

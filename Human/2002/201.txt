@@ -1,0 +1,3 @@
+Prefix Codes: Equiprobable Words, Unequal Letter Costs
+
+Describes a near-linear-time algorithm for a variant of Huffman coding, in which the letters may have non-uniform lengths (as in Morse code), but with the restriction that each word to be encoded has equal probability. [See also ``Huffman Coding with Unequal Letter Costs'' (2002).]

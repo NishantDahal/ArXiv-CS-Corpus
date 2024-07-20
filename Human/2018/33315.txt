@@ -1,0 +1,3 @@
+Stability of Adversarial Routing with Feedback
+
+We consider the impact of scheduling disciplines on performance of routing in the framework of adversarial queuing. We propose an adversarial model which reflects stalling of packets due to transient failures and explicitly incorporates feedback produced by a network when packets are stalled. This adversarial model provides a methodology to study stability of routing protocols when flow-control and congestion-control mechanisms affect the volume of traffic. We show that any scheduling policy that is universally stable, in the regular model of routing that additionally allows packets to have two priorities, remains stable in the proposed adversarial model.

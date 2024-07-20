@@ -1,0 +1,3 @@
+Advanced LSTM: A Study about Better Time Dependency Modeling in Emotion Recognition
+
+Long short-term memory (LSTM) is normally used in recurrent neural network (RNN) as basic recurrent unit. However,conventional LSTM assumes that the state at current time step depends on previous time step. This assumption constraints the time dependency modeling capability. In this study, we propose a new variation of LSTM, advanced LSTM (A-LSTM), for better temporal context modeling. We employ A-LSTM in weighted pooling RNN for emotion recognition. The A-LSTM outperforms the conventional LSTM by 5.5% relatively. The A-LSTM based weighted pooling RNN can also complement the state-of-the-art emotion classification framework. This shows the advantage of A-LSTM.

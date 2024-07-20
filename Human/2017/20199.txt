@@ -1,0 +1,3 @@
+Aggregating Algorithm for Prediction of Packs
+
+This paper formulates the protocol for prediction of packs, which a special case of prediction under delayed feedback. Under this protocol, the learner must make a few predictions without seeing the outcomes and then the outcomes are revealed. We develop the theory of prediction with expert advice for packs. By applying Vovk's Aggregating Algorithm to this problem we obtain a number of algorithms with tight upper bounds. We carry out empirical experiments on housing data.

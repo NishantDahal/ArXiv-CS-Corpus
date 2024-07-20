@@ -1,0 +1,3 @@
+Image Disguise based on Generative Model
+
+To protect image contents, most existing encryption algorithms are designed to transform an original image into a texture-like or noise-like image, which is, however, an obvious visual sign indicating the presence of an encrypted image, results in a significantly large number of attacks. To solve this problem, in this paper, we propose a new image encryption method to generate a visually same image as the original one by sending a meaning-normal and independent image to a corresponding well-trained generative model to achieve the effect of disguising the original image. This image disguise method not only solves the problem of obvious visual implication, but also guarantees the security of the information.

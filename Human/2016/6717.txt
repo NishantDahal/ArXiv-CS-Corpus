@@ -1,0 +1,3 @@
+Big(ger) Sets: decomposed delta CRDT Sets in Riak
+
+CRDT[24] Sets as implemented in Riak[6] perform poorly for writes, both as cardinality grows, and for sets larger than 500KB[25]. Riak users wish to create high cardinality CRDT sets, and expect better than O(n) performance for individual insert and remove operations. By decomposing a CRDT set on disk, and employing delta-replication[2], we can achieve far better performance than just delta replication alone: relative to the size of causal metadata, not the cardinality of the set, and we can support sets that are 100s times the size of Riak sets, while still providing the same level of consistency. There is a trade-off in read performance but we expect it is mitigated by enabling queries on sets.

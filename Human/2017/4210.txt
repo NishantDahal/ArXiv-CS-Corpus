@@ -1,0 +1,4 @@
+The Hardness of Embedding Grids and Walls
+
+The dichotomy conjecture for the parameterized embedding problem states that the problem of deciding whether a given graph $G$ from some class $K$ of "pattern graphs" can be embedded into a given graph $H$ (that is, is isomorphic to a subgraph of $H$) is fixed-parameter tractable if $K$ is a class of graphs of bounded tree width and $W[1]$-complete otherwise.
+  Towards this conjecture, we prove that the embedding problem is $W[1]$-complete if $K$ is the class of all grids or the class of all walls.

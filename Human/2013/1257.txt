@@ -1,0 +1,3 @@
+Learning in Multi-level Stochastic games with Delayed Information
+
+Distributed decision-makers are modeled as players in a game with two levels.  High level decisions concern the game environment and determine the willingness of the players to form a coalition (or group).  Low level decisions involve the actions to be implemented within the chosen environment.  Coalition and action strategies are determined by probability distributions, which are updated using learning automata schemes.  The payoffs are also probabilistic and there is uncertainty in the state vector since information is delayed.  The goal is to reach equilibrium in both levels of decision making; the results show the conditions for instability, based on the age of information.

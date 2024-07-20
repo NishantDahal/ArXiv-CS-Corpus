@@ -1,0 +1,3 @@
+Revisiting Decision Diagrams for SAT
+
+Symbolic variants of clause distribution using decision diagrams to eliminate variables in SAT were shown to perform well on hard combinatorial instances. In this paper we revisit both existing ZDD and BDD variants of this approach. We further investigate different heuristics for selecting the next variable to eliminate. Our implementation makes further use of parallel features of the open source BDD library Sylvan.

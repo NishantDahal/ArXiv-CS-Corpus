@@ -1,0 +1,3 @@
+Probabilistic Verification for Obviously Strategyproof Mechanisms
+
+Obviously strategyproof (OSP) mechanisms maintain the incentive compatibility of agents that are not fully rational. They have been object of a number of studies since their recent definition. A research agenda, initiated in [Ferraioli&Ventre, AAAI 2017], is to find a small (possibly, the smallest) set of conditions allowing to implement an OSP mechanism. To this aim, we define a model of probabilistic verification wherein agents are caught misbehaving with a certain probability, and show how OSP mechanisms can implement every social choice function at the cost of either imposing very large fines for lies or verifying a linear number of agents.

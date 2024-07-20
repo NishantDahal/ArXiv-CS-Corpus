@@ -1,0 +1,3 @@
+A General Framework for Well-Structured Graph Transformation Systems
+
+Graph transformation systems (GTSs) can be seen as wellstructured transition systems (WSTSs), thus obtaining decidability results for certain classes of GTSs. In earlier work it was shown that wellstructuredness can be obtained using the minor ordering as a well-quasiorder. In this paper we extend this idea to obtain a general framework in which several types of GTSs can be seen as (restricted) WSTSs. We instantiate this framework with the subgraph ordering and the induced subgraph ordering and apply it to analyse a simple access rights management system.

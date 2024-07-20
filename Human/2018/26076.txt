@@ -1,0 +1,4 @@
+Connectivity in Interdependent Networks
+
+We propose and analyze a graph model to study the connectivity of interdependent networks. Two interdependent networks of arbitrary topologies are modeled as two graphs, where every node in one graph is supported by supply nodes in the other graph, and a node fails if all of its supply nodes fail. Such interdependence arises in cyber-physical systems and layered network architectures.
+  We study the \emph{supply node connectivity} of a network: namely, the minimum number of supply node removals that would disconnect the network. We develop algorithms to evaluate the supply node connectivity given arbitrary network topologies and interdependence between two networks. Moreover, we develop interdependence assignment algorithms that maximize the supply node connectivity. We prove that a random assignment algorithm yields a supply node connectivity within a constant factor from the optimal for most networks.

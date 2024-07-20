@@ -1,0 +1,3 @@
+Online Learning of Commission Avoidant Portfolio Ensembles
+
+We present a novel online ensemble learning strategy for portfolio selection. The new strategy controls and exploits any set of commission-oblivious portfolio selection algorithms. The strategy handles transaction costs using a novel commission avoidance mechanism. We prove a logarithmic regret bound for our strategy with respect to optimal mixtures of the base algorithms. Numerical examples validate the viability of our method and show significant improvement over the state-of-the-art.

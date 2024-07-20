@@ -1,0 +1,3 @@
+Algebraic Signal Processing Theory: Cooley-Tukey Type Algorithms for DCTs and DSTs
+
+This paper presents a systematic methodology based on the algebraic theory of signal processing to classify and derive fast algorithms for linear transforms. Instead of manipulating the entries of transform matrices, our approach derives the algorithms by stepwise decomposition of the associated signal models, or polynomial algebras. This decomposition is based on two generic methods or algebraic principles that generalize the well-known Cooley-Tukey FFT and make the algorithms' derivations concise and transparent. Application to the 16 discrete cosine and sine transforms yields a large class of fast algorithms, many of which have not been found before.

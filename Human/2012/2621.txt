@@ -1,0 +1,5 @@
+A Query Language for Formal Mathematical Libraries
+
+One of the most promising applications of mathematical knowledge management is search: Even if we restrict attention to the tiny fragment of mathematics that has been formalized, the amount exceeds the comprehension of an individual human.
+  Based on the generic representation language MMT, we introduce the mathematical query language QMT: It combines simplicity, expressivity, and scalability while avoiding a commitment to a particular logical formalism. QMT can integrate various search paradigms such as unification, semantic web, or XQuery style queries, and QMT queries can span different mathematical libraries.
+  We have implemented QMT as a part of the MMT API. This combination provides a scalable indexing and query engine that can be readily applied to any library of mathematical knowledge. While our focus here is on libraries that are available in a content markup language, QMT naturally extends to presentation and narration markup languages.

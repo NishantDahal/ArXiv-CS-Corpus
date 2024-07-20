@@ -1,0 +1,4 @@
+Combining Fixed-Point Definitions and Game Semantics in Logic Programming
+
+Logic programming with fixed-point definitions is a useful extension of traditional logic programming. Fixed-point definitions can capture simple model checking problems and closed-world assumptions. Its operational semantics is typically based on intuitionistic provability.
+  We extend the operational semantics of these languages with game semantics. This extended semantics has several interesting aspects: in particular, it gives a logical status to the $read$ predicate.

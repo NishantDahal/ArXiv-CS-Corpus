@@ -1,0 +1,3 @@
+A Direct Two-Dimensional Pressure Formulation in Molecular Dynamics
+
+Two-dimensional (2D) pressure field estimation in molecular dynamics (MD) simulations has been done using three-dimensional (3D) pressure field calculations followed by averaging, which is computationally expensive due to 3D convolutions. In this work, we develop a direct 2D pressure field estimation method which is much faster than 3D methods without losing accuracy. The method is validated with MD simulations on two systems: a liquid film and a cylindrical drop of argon suspended in surrounding vapor.

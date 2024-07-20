@@ -1,0 +1,3 @@
+Joining relations under discrete uncertainty
+
+In this paper we introduce and experimentally compare alternative algorithms to join uncertain relations. Different algorithms are based on specific principles, e.g., sorting, indexing, or building intermediate relational tables to apply traditional approaches. As a consequence their performance is affected by different features of the input data, and each algorithm is shown to be more efficient than the others in specific cases. In this way statistics explicitly representing the amount and kind of uncertainty in the input uncertain relations can be used to choose the most efficient algorithm.

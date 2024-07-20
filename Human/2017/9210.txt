@@ -1,0 +1,3 @@
+Faster algorithms for 1-mappability of a sequence
+
+In the k-mappability problem, we are given a string x of length n and integers m and k, and we are asked to count, for each length-m factor y of x, the number of other factors of length m of x that are at Hamming distance at most k from y. We focus here on the version of the problem where k = 1. The fastest known algorithm for k = 1 requires time O(mn log n/ log log n) and space O(n). We present two algorithms that require worst-case time O(mn) and O(n log^2 n), respectively, and space O(n), thus greatly improving the state of the art. Moreover, we present an algorithm that requires average-case time and space O(n) for integer alphabets if m = Ω(log n/ log σ), where σ is the alphabet size.

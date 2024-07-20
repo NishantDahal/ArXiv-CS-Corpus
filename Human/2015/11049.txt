@@ -1,0 +1,5 @@
+Exploring Query Categorisation for Query Expansion: A Study
+
+The vocabulary mismatch problem is one of the important challenges facing traditional keyword-based Information Retrieval Systems. The aim of query expansion (QE) is to reduce this query-document mismatch by adding related or synonymous words or phrases to the query.
+  Several existing query expansion algorithms have proved their merit, but they are not uniformly beneficial for all kinds of queries. Our long-term goal is to formulate methods for applying QE techniques tailored to individual queries, rather than applying the same general QE method to all queries. As an initial step, we have proposed a taxonomy of query classes (from a QE perspective) in this report. We have discussed the properties of each query class with examples. We have also discussed some QE strategies that might be effective for each query category.
+  In future work, we intend to test the proposed techniques using standard datasets, and to explore automatic query categorisation methods.

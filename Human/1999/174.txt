@@ -1,0 +1,4 @@
+A Reasonable C++ Wrappered Java Native Interface
+
+A reasonable C++ Java Native Interface (JNI) technique termed C++ Wrappered JNI (C++WJ) is presented. The technique simplifies current error-prone JNI development by wrappering JNI calls. Provided development is done with the aid of a C++ compiler, C++WJ offers type checking and behind the scenes caching. A tool (jH) patterned on javah automates the creation of C++WJ classes.
+  The paper presents the rationale behind the choices that led to C++WJ. Handling of Java class and interface hierarchy including Java type downcasts is discussed. Efficiency considerations in the C++WJ lead to two flavors of C++ classes: jtypes and Jtypes. A jtype is a lightweight less than full wrapper of a JNI object reference. A Jtype is a heavyweight full wrapper of a JNI object reference.

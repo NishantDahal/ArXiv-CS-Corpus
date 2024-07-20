@@ -1,0 +1,3 @@
+A formalization of convex polyhedra based on the simplex method
+
+We present a formalization of convex polyhedra in the proof assistant Coq. The cornerstone of our work is a complete implementation of the simplex method, together with the proof of its correctness and termination. This allows us to define the basic predicates over polyhedra in an effective way (i.e., as programs), and relate them with the corresponding usual logical counterparts. To this end, we make an extensive use of the Boolean reflection methodology. The benefit of this approach is that we can easily derive the proof of several fundamental results on polyhedra, such as Farkas' Lemma, the duality theorem of linear programming, and Minkowski's Theorem.

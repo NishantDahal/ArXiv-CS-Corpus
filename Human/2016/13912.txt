@@ -1,0 +1,3 @@
+Active Integrity Constraints for Multi-Context Systems
+
+We introduce a formalism to couple integrity constraints over general-purpose knowledge bases with actions that can be executed to restore consistency. This formalism generalizes active integrity constraints over databases. In the more general setting of multi-context systems, adding repair suggestions to integrity constraints allows defining simple iterative algorithms to find all possible grounded repairs - repairs for the global system that follow the suggestions given by the actions in the individual rules. We apply our methodology to ontologies, and show that it can express most relevant types of integrity constraints in this domain.

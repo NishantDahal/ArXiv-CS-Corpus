@@ -1,0 +1,5 @@
+Flat Holonomies on Automata Networks
+
+We consider asynchronous networks of identical finite (independent of network's size or topology) automata. Our automata drive any network from any initial configuration of states, to a coherent one in which it can carry efficiently any computations implementable on synchronous properly initialized networks of the same size.
+  A useful data structure on such networks is a partial orientation of its edges. It needs to be flat, i.e. have null holonomy (no excess of up or down edges in any cycle). It also needs to be centered, i.e. have a unique node with no down edges.
+  There are (interdependent) self-stabilizing asynchronous finite automata protocols assuring flat centered orientation. Such protocols may vary in assorted efficiency parameters and it is desirable to have each replaceable with any alternative, responsible for a simple limited task. We describe an efficient reduction of any computational task to any such set of protocols compliant with our interface conditions.

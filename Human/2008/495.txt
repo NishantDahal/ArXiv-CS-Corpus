@@ -1,0 +1,3 @@
+Bayesian Nonlinear Principal Component Analysis Using Random Fields
+
+We propose a novel model for nonlinear dimension reduction motivated by the probabilistic formulation of principal component analysis. Nonlinearity is achieved by specifying different transformation matrices at different locations of the latent space and smoothing the transformation using a Markov random field type prior. The computation is made feasible by the recent advances in sampling from von Mises-Fisher distributions.

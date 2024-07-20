@@ -1,0 +1,3 @@
+Symbolic Expansion of Transcendental Functions
+
+Higher transcendental function occur frequently in the calculation of Feynman integrals in quantum field theory. Their expansion in a small parameter is a non-trivial task. We report on a computer program which allows the systematic expansion of certain classes of functions. The algorithms are based on the Hopf algebra of nested sums. The program is written in C++ and uses the GiNaC library.

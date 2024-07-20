@@ -1,0 +1,3 @@
+Partitions of planar point sets into polygons
+
+In this paper, we characterize planar point sets that can be partitioned into disjoint polygons of arbitrarily specified sizes. We provide an algorithm to construct such a partition, if it exists, in polynomial time. We show that this problem is equivalent to finding a specified $2$-factor in the visibility graph of the point set. The characterization for the case where all cycles have length $3$ also translates to finding a $K_3$-factor of the visibility graph of the point set. We show that the generalized problem of finding a $K_k$-factor of the visibility graph of a given point set for $k \geq 5$ is NP-hard.

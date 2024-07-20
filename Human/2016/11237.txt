@@ -1,0 +1,3 @@
+Comments on "sub-KBT micro-electromechanical irreversible logic gate"
+
+In a recent article, Nature Communications 7 (2016) 12068, the authors claimed that they demonstrated sub-kBT energy dissipation at elementary logic operations. However, the argumentation is invalid because it neglects the dominant source of energy dissipation, namely, the charging energy of the capacitance of the input electrode, which totally dissipates during the full (0-1-0) cycle of logic values. The neglected dissipation phenomenon is identical with the mechanism that leads to the lower physical limit of dissipation (70-100 kBT) in today's microprocessors (CMOS logic) and in any other system with thermally activated errors thus the same limit holds for the new scheme, too.

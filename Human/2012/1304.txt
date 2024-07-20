@@ -1,0 +1,3 @@
+The watershed concept and its use in segmentation : a brief history
+
+The watershed is one of the most used tools in image segmentation. We present how its concept is born and developed over time. Its implementation as an algorithm or a hardwired device evolved together with the technology which allowed it. We present also how it is used in practice, first together with markers, and later introduced in a multiscale framework, in order to produce not a unique partition but a complete hierarchy.

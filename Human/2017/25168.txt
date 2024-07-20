@@ -1,0 +1,3 @@
+Self-adaptation of Genetic Operators Through Genetic Programming Techniques
+
+Here we propose an evolutionary algorithm that self modifies its operators at the same time that candidate solutions are evolved. This tackles convergence and lack of diversity issues, leading to better solutions. Operators are represented as trees and are evolved using genetic programming (GP) techniques. The proposed approach is tested with real benchmark functions and an analysis of operator evolution is provided.

@@ -1,0 +1,3 @@
+From Lock Freedom to Progress Using Session Types
+
+Inspired by Kobayashi's type system for lock freedom, we define a behavioral type system for ensuring progress in a language of binary sessions. The key idea is to annotate actions in session types with priorities representing the urgency with which such actions must be performed and to verify that processes perform such actions with the required priority. Compared to related systems for session-based languages, the presented type system is relatively simpler and establishes progress for a wider range of processes.

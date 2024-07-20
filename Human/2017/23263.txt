@@ -1,0 +1,4 @@
+Automata Minimization: a Functorial Approach
+
+In this paper we regard languages and their acceptors -- such as deterministic or weighted automata, transducers, or monoids -- as functors from input categories that specify the type of the languages and of the machines to categories that specify the type of outputs.
+  Our results are as follows: a) We provide sufficient conditions on the output category so that minimization of the corresponding automata is guaranteed. b) We show how to lift adjunctions between the categories for output values to adjunctions between categories of automata. c) We show how this framework can be applied to several phenomena in automata theory, starting with determinization and minimization (previously studied from a coalgebraic and duality theoretic perspective). We apply in particular these techniques to Choffrut's minimization algorithm for subsequential transducers and revisit Brzozowski's minimization algorithm.

@@ -1,0 +1,3 @@
+Learning with Value-Ramp
+
+We study a learning principle based on the intuition of forming ramps. The agent tries to follow an increasing sequence of values until the agent meets a peak of reward. The resulting Value-Ramp algorithm is natural, easy to configure, and has a robust implementation with natural numbers.

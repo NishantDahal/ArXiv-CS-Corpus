@@ -1,0 +1,3 @@
+D-Iteration: diffusion approach for solving PageRank
+
+In this paper we present a new method that can accelerate the computation of the PageRank importance vector. Our method, called D-Iteration (DI), is based on the decomposition of the matrix-vector product that can be seen as a fluid diffusion model and is potentially adapted to asynchronous implementation. We give theoretical results about the convergence of our algorithm and we show through experimentations on a real Web graph that DI can improve the computation efficiency compared to other classical algorithm like Power Iteration, Gauss-Seidel or OPIC.

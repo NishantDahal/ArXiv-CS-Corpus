@@ -1,0 +1,6 @@
+Batch-oriented software appliances
+
+This paper presents AppPot, a system for creating Linux software appliances. AppPot can be run as a regular batch or grid job and executed in user space, and requires no special virtualization support in the infrastructure.
+  The main design goal of AppPot is to bring the benefits of a virtualization-based IaaS cloud to existing batch-oriented computing infrastructures.
+  In particular, AppPot addresses the application deployment and configuration on large heterogeneous computing infrastructures: users are enabled to prepare their own customized virtual appliance for providing a safe execution environment for their applications. These appliances can then be executed on virtually any computing infrastructure being in a private or public cloud as well as any batch-controlled computing clusters the user may have access to.
+  We give an overview of AppPot and its features, the technology that makes it possible, and report on experiences running it in production use within the Swiss National Grid infrastructure SMSCG.

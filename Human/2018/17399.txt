@@ -1,0 +1,5 @@
+Sparips
+
+Persistent homology of the Rips filtration allows to track topological features of a point cloud over scales, and is a foundational tool of topological data analysis. Unfortunately, the Rips-filtration is exponentially sized, when considered as a filtered simplicial complex. Hence, the computation of full persistence modules is impossible for all but the tiniest of datasets; when truncating the dimension of topological features, the situation becomes slightly less intractable, but still daunting for medium-sized datasets.
+  It is theoretically possible to approximate the Rips-filtration by a much smaller and sparser, linear-sized simplicial complexs, however, possibly due to the complexity of existing approaches, we are not aware of any existing implementation.
+  We propose a different sparsification scheme, based on cover-trees, that is easy to implement, while giving similar guarantees on the computational scaling. We further propose a visualization that is adapted to approximate persistence diagrams, by incorporating a variant of error bars and keeping track of all approximation guarantees, explicitly.

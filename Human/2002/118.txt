@@ -1,0 +1,3 @@
+Required sample size for learning sparse Bayesian networks with many variables
+
+Learning joint probability distributions on n random variables requires exponential sample size in the generic case. Here we consider the case that a temporal (or causal) order of the variables is known and that the (unknown) graph of causal dependencies has bounded in-degree Delta. Then the joint measure is uniquely determined by the probabilities of all (2 Delta+1)-tuples. Upper bounds on the sample size required for estimating their probabilities can be given in terms of the VC-dimension of the set of corresponding cylinder sets. The sample size grows less than linearly with n.

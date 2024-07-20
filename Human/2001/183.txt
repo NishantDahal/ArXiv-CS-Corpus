@@ -1,0 +1,5 @@
+Acceptability with general orderings
+
+We present a new approach to termination analysis of logic programs. The essence of the approach is that we make use of general orderings (instead of level mappings), like it is done in transformational approaches to logic program termination analysis, but we apply these orderings directly to the logic program and not to the term-rewrite system obtained through some transformation. We define some variants of acceptability, based on general orderings, and show how they are equivalent to LD-termination. We develop a demand driven, constraint-based approach to verify these acceptability-variants.
+  The advantage of the approach over standard acceptability is that in some cases, where complex level mappings are needed, fairly simple orderings may be easily generated. The advantage over transformational approaches is that it avoids the transformation step all together.
+  {\bf Keywords:} termination analysis, acceptability, orderings.

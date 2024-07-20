@@ -1,0 +1,3 @@
+Deconstructing the Welch Equation Using $p$-adic Methods
+
+The Welch map $x \rightarrow g^{x-1+c}$ is similar to the discrete exponential map $x \rightarrow g^x$, which is used in many cryptographic applications including the ElGamal signature scheme. This paper analyzes the number of solutions to the Welch equation: $g^{x-1+c} \equiv x \pmod{p^e}$ where $p$ is a prime and $g$ is a unit modulo $p$, and looks at other patterns of the equation that could possibly be exploited in a similar cryptographic system. Since the equation is modulo $p^e$, where $p$ is a prime number, $p$-adic methods of analysis are used in counting the number of solutions modulo $p^e$. These methods include: $p$-adic interpolation, Hensel's lemma and Chinese Remainder Theorem.

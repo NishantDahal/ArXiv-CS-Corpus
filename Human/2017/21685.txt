@@ -1,0 +1,4 @@
+Towards a Decidable LogicWeb via Length-Bounded Derivations
+
+LogicWeb has traditionally lacked devices for dealing with intractable queries.
+  We address this limitation by adopting length-bounded inference, a form of approximate reasoning. A length-bounded inference is of the form $prov(P,G,n)$ which is a success if a query $G$ can be proved from the web page $P$ within $n$ proof steps. It thus makes LogicWeb decidable and more tractable. During the process, we propose a novel module language for logic programming as a device for structuring programs and queries.

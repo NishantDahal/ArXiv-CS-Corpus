@@ -1,0 +1,3 @@
+PhasePack User Guide
+
+"Phase retrieval" refers to the recovery of signals from the magnitudes (and not the phases) of linear measurements. While there has been a recent explosion in development of phase retrieval methods, the lack of a common interface has made it difficult to compare new methods against the current state-of-the-art. PhasePack is a software library that creates a common interface for a wide range of phase retrieval schemes. PhasePack also provides a test bed for phase retrieval methods using both synthetic data and publicly available empirical datasets.

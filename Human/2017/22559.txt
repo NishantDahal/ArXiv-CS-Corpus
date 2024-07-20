@@ -1,0 +1,3 @@
+On Nearest Neighbors in Non Local Means Denoising
+
+To denoise a reference patch, the Non-Local-Means denoising filter processes a set of neighbor patches. Few Nearest Neighbors (NN) are used to limit the computational burden of the algorithm. Here here we show analytically that the NN approach introduces a bias in the denoised patch, and we propose a different neighbors' collection criterion, named Statistical NN (SNN), to alleviate this issue. Our approach outperforms the traditional one in case of both white and colored noise: fewer SNNs generate images of higher quality, at a lower computational cost.

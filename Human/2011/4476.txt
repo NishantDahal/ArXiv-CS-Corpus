@@ -1,0 +1,3 @@
+Pattern Avoidability with Involution
+
+An infinte word  w  avoids a pattern  p  with the involution  t  if there is no substitution for the variables in  p  and no involution  t  such that the resulting word is a factor of  w.   We investigate the avoidance of patterns with respect to the size of the alphabet. For example, it is shown that the pattern  a t(a) a  can be avoided over three letters but not two letters, whereas it is well known that  a a a  is avoidable over two letters.

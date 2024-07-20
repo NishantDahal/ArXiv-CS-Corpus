@@ -1,0 +1,3 @@
+Phase Space Invertible Asynchronous Cellular Automata
+
+While for synchronous deterministic cellular automata there is an accepted definition of reversibility, the situation is less clear for asynchronous cellular automata. We first discuss a few possibilities and then investigate what we call phase space invertible asynchronous cellular automata in more detail. We will show that for each Turing machine there is such a cellular automaton simulating it, and that it is decidable whether an asynchronous cellular automaton has this property or not, even in higher dimensions.

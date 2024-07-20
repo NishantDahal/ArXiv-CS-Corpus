@@ -1,0 +1,3 @@
+A Bidirectional Adaptive Bandwidth Mean Shift Strategy for Clustering
+
+The bandwidth of a kernel function is a crucial parameter in the mean shift algorithm. This paper proposes a novel adaptive bandwidth strategy which contains three main contributions. (1) The differences among different adaptive bandwidth are analyzed. (2) A new mean shift vector based on bidirectional adaptive bandwidth is defined, which combines the advantages of different adaptive bandwidth strategies. (3) A bidirectional adaptive bandwidth mean shift (BAMS) strategy is proposed to improve the ability to escape from the local maximum density. Compared with contemporary adaptive bandwidth mean shift strategies, experiments demonstrate the effectiveness of the proposed strategy.

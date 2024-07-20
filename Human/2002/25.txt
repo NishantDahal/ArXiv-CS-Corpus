@@ -1,0 +1,6 @@
+Lower Bounds for Matrix Product
+
+We prove lower bounds on the number of product gates in bilinear and quadratic circuits that compute the product of two $n \cross n$ matrices over finite fields. In particular we obtain the following results:
+  1. We show that the number of product gates in any bilinear (or quadratic) circuit that computes the product of two $n \cross n$ matrices over $F_2$ is at least $3 n^2 - o(n^2)$.
+  2. We show that the number of product gates in any bilinear circuit that computes the product of two $n \cross n$ matrices over $F_p$ is at least $(2.5 + \frac{1.5}{p^3 -1})n^2 -o(n^2)$.
+  These results improve the former results of Bshouty '89 and Blaser '99 who proved lower bounds of $2.5 n^2 - o(n^2)$.

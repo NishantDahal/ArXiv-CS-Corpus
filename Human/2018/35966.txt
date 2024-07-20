@@ -1,0 +1,3 @@
+Improved method for finding optimal formulae for bilinear maps in a finite field
+
+In 2012, Barbulescu, Detrey, Estibals and Zimmermann proposed a new framework to exhaustively search for optimal formulae for evaluating bilinear maps, such as Strassen or Karatsuba formulae. The main contribution of this work is a new criterion to aggressively prune useless branches in the exhaustive search, thus leading to the computation of new optimal formulae, in particular for the short product modulo X 5 and the circulant product modulo (X 5 -- 1). Moreover , we are able to prove that there is essentially only one optimal decomposition of the product of 3 x 2 by 2 x 3 matrices up to the action of some group of automorphisms.

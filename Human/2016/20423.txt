@@ -1,0 +1,3 @@
+Space-Efficient Biconnected Components and Recognition of Outerplanar Graphs
+
+We present space-efficient algorithms for computing cut vertices in a given graph with $n$ vertices and $m$ edges in linear time using $O(n+\min\{m,n\log \log n\})$ bits. With the same time and using $O(n+m)$ bits, we can compute the biconnected components of a graph. We use this result to show an algorithm for the recognition of (maximal) outerplanar graphs in $O(n\log \log n)$ time using $O(n)$ bits.

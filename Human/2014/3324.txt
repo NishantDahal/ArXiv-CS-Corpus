@@ -1,0 +1,3 @@
+Pi Fractions for Generating Uniformly Distributed Sampling Points in Global Search and Optimization Algorithms
+
+Pi Fractions are used to create deterministic uniformly distributed pseudorandom decision space sample points for a global search and optimization algorithm. These fractions appear to be uniformly distributed on [0,1] and can be used in any stochastic algorithm rendering it effectively deterministic without compromising its ability to explore the decision space. Pi Fractions are generated using the BBP Pi digit extraction algorithm. The Pi Fraction approach is tested using genetic algorithm Pi-GASR with very good results. A Pi Fraction data file is available upon request.

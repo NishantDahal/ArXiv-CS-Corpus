@@ -1,0 +1,3 @@
+Priority-Based Conflict Resolution in Inconsistent Relational Databases
+
+We study here the impact of priorities on conflict resolution in inconsistent relational databases. We extend the framework of repairs and consistent query answers. We propose a set of postulates that an extended framework should satisfy and consider two instantiations of the framework: (locally preferred) l-repairs and (globally preferred) g-repairs. We study the relationships between them and the impact each notion of repair has on the computational complexity of repair checking and consistent query answers.

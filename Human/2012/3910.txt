@@ -1,0 +1,3 @@
+Fast Computation of Common Left Multiples of Linear Ordinary Differential Operators
+
+We study tight bounds and fast algorithms for LCLMs of several linear differential operators with polynomial coefficients. We analyze the arithmetic complexity of existing algorithms for LCLMs, as well as the size of their outputs. We propose a new algorithm that recasts the LCLM computation in a linear algebra problem on a polynomial matrix. This algorithm yields sharp bounds on the coefficient degrees of the LCLM, improving by one order of magnitude the best bounds obtained using previous algorithms. The complexity of the new algorithm is almost optimal, in the sense that it nearly matches the arithmetic size of the output.

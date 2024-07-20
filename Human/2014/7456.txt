@@ -1,0 +1,4 @@
+An evolutionary solver for linear integer programming
+
+In this paper we introduce an evolutionary algorithm for the solution of linear integer programs. The strategy is based on the separation of the variables into the integer subset and the continuous subset; the integer variables are fixed by the evolutionary system, and the continuous ones are determined in function of them, by a linear program solver.
+  We report results obtained for some standard benchmark problems, and compare them with those obtained by branch-and-bound. The performance of the evolutionary algorithm is promising. Good feasible solutions were generally obtained, and in some of the difficult benchmark tests it outperformed branch-and-bound.

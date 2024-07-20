@@ -1,0 +1,3 @@
+Cut-Set Bound Is Loose for Gaussian Relay Networks
+
+The cut-set bound developed by Cover and El Gamal in 1979 has since remained the best known upper bound on the capacity of the Gaussian relay channel. We develop a new upper bound on the capacity of the Gaussian primitive relay channel which is tighter than the cut-set bound. Our proof is based on typicality arguments and concentration of Gaussian measure. Combined with a simple tensorization argument proposed by Courtade and Ozgur in 2015, our result also implies that the current capacity approximations for Gaussian relay networks, which have linear gap to the cut-set bound in the number of nodes, are order-optimal and leads to a lower bound on the pre-constant.

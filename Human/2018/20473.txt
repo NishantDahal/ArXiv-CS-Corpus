@@ -1,0 +1,3 @@
+Nonlinear regression based on a hybrid quantum computer
+
+Incorporating nonlinearity into quantum machine learning is essential for learning a complicated input-output mapping. We here propose quantum algorithms for nonlinear regression, where nonlinearity is introduced with feature maps when loading classical data into quantum states. Our implementation is based on a hybrid quantum computer, exploiting both discrete and continuous variables, for their capacity to encode novel features and efficiency of processing information. We propose encoding schemes that can realize well-known polynomial and Gaussian kernel ridge regressions, with exponentially speed-up regarding to the number of samples.

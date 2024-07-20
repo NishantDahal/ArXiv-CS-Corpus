@@ -1,0 +1,3 @@
+Detecting Burnscar from Hyperspectral Imagery via Sparse Representation with Low-Rank Interference
+
+In this paper, we propose a burnscar detection model for hyperspectral imaging (HSI) data. The proposed model contains two-processing steps in which the first step separate and then suppress the cloud information presenting in the data set using an RPCA algorithm and the second step detect the burnscar area in the low-rank component output of the first step. Experiments are conducted on the public MODIS dataset available at NASA official website.

@@ -1,0 +1,3 @@
+Differential Reprogramming Based on Constructive Interference for Wireless Sensor Network
+
+To improve the performance of reprogramming in wireless sensor network, we present a novel reprogramming structure and constructive interference-based dissemination protocol (CIDP) to transmit the patch through out the network fast and reliability. CIDP disseminates the patch, which is divided into several packets, to the network exploiting constructive interference. We evaluate our implementation of CIDP using simulation under different number of nodes. Our results show that CIDP disseminates the patch less than 4 milliseconds. In general, the probability of a node receives the complete patch as high as 99.99%.

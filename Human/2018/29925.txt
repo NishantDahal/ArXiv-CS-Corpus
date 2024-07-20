@@ -1,0 +1,3 @@
+Correcting the Common Discourse Bias in Linear Representation of Sentences using Conceptors
+
+Distributed representations of words, better known as word embeddings, have become important building blocks for natural language processing tasks. Numerous studies are devoted to transferring the success of unsupervised word embeddings to sentence embeddings. In this paper, we introduce a simple representation of sentences in which a sentence embedding is represented as a weighted average of word vectors followed by a soft projection. We demonstrate the effectiveness of this proposed method on the clinical semantic textual similarity task of the BioCreative/OHNLP Challenge 2018.

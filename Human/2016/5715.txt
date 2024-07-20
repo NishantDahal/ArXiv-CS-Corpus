@@ -1,0 +1,3 @@
+Demonstrating topoS: Theorem-Prover-Based Synthesis of Secure Network Configurations
+
+In network management, when it comes to security breaches, human error constitutes a dominant factor. We present our tool topoS which automatically synthesizes low-level network configurations from high-level security goals. The automation and a feedback loop help to prevent human errors. Except for a last serialization step, topoS is formally verified with Isabelle/HOL, which prevents implementation errors. In a case study, we demonstrate topoS by example. For the first time, the complete transition from high-level security goals to both firewall and SDN configurations is presented.

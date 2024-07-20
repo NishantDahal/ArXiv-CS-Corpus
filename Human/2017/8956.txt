@@ -1,0 +1,3 @@
+Construction of Parallel RIO Codes using Coset Coding with Hamming Codes
+
+Random input/output (RIO) code is a coding scheme that enables reading of one logical page using a single read threshold in multilevel flash memory. The construction of RIO codes is equivalent to the construction of WOM codes. Parallel RIO (P-RIO) code is an RIO code that encodes all pages in parallel. In this paper, we utilize coset coding with Hamming codes in order to construct P-RIO codes. Coset coding is a technique that constructs WOM codes using linear binary codes. We leverage the information on the data of all pages to encode each page. Our constructed codes store more pages than RIO codes constructed via coset coding.

@@ -1,0 +1,3 @@
+An FCA-based Boolean Matrix Factorisation for Collaborative Filtering
+
+We propose a new approach for Collaborative Filtering which is based on Boolean Matrix Factorisation (BMF) and Formal Concept Analysis. In a series of experiments on real data (Movielens dataset) we compare the approach with the SVD- and NMF-based algorithms in terms of Mean Average Error (MAE). One of the experimental consequences is that it is enough to have a binary-scaled rating data to obtain almost the same quality in terms of MAE by BMF than for the SVD-based algorithm in case of non-scaled data.

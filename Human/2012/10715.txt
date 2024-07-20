@@ -1,0 +1,3 @@
+Incomplete Information in RDF
+
+We extend RDF with the ability to represent property values that exist, but are unknown or partially known, using constraints. Following ideas from the incomplete information literature, we develop a semantics for this extension of RDF, called RDFi, and study SPARQL query evaluation in this framework.

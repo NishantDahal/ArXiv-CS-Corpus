@@ -1,0 +1,3 @@
+Test Generation and Scheduling for a Hybrid BIST Considering Test Time and Power Constraint
+
+This paper presents a novel approach for test generation and test scheduling for multi-clock domain SoCs. A concurrent hybrid BIST architecture is proposed for testing cores. Furthermore, a heuristic for selecting cores to be tested concurrently and order of applying test patterns is proposed. Experimental results show that the proposed heuristics give us an optimized method for multi clock domain SoC testing in comparison with the previous works.

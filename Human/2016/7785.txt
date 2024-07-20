@@ -1,0 +1,3 @@
+An Iterative Algorithm for Computing the Optimal Exponent of Correct Decoding Probability for Rates below the Rate Distortion Function
+
+The form of Dueck and Körner's exponent function for correct decoding probability for discrete memoryless channels at rates above the capacity is similar to the form of Csiszár and Körner's exponent function for correct decoding probability in lossy source coding for discrete memoryless sources at rates below the rate distortion function. We recently gave a new algorithm for computing Dueck and Körner's exponent. In this paper, we give an algorithm for computing Csiszár and Körner's exponent. The proposed algorithm can be also used to compute cutoff rate and the rate distortion function.

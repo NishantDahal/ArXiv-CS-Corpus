@@ -1,0 +1,4 @@
+Iterated Variable Neighborhood Search for the resource constrained multi-mode multi-project scheduling problem
+
+The resource constrained multi-mode multi-project scheduling problem (RCMMMPSP) is a notoriously difficult combinatorial optimization problem. For a given set of activities, feasible execution mode assignments and execution starting times must be found such that some optimization function, e.g. the makespan, is optimized. When determining an optimal (or at least feasible) assignment of decision variable values, a set of side constraints, such as resource availabilities, precedence constraints, etc., has to be respected.
+  In 2013, the MISTA 2013 Challenge stipulated research in the RCMMMPSP. It's goal was the solution of a given set of instances under running time restrictions. We have contributed to this challenge with the here presented approach.

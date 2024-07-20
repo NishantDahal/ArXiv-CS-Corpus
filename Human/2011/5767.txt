@@ -1,0 +1,3 @@
+Improvement Of Barreto-Voloch Algorithm For Computing $r$th Roots Over Finite Fields
+
+Root extraction is a classical problem in computers algebra. It plays an essential role in cryptosystems based on elliptic curves. In 2006, Barreto and Voloch proposed an algorithm to compute $r$th roots in ${F}_{q^m} $ for certain choices of $m$ and $q$. If $r\,||\,q-1$ and $ (m, r)=1, $ they proved that the complexity of their method is $\widetilde{\mathcal {O}}(r(\log m+\log\log q)m\log q) $. In this paper, we extend the Barreto-Voloch algorithm to the general case that $r\,||\,q^m-1$, without the restrictions $r\,||\,q-1$ and $(m, r)=1 $. We also specify the conditions that the Barreto-Voloch algorithm can be preferably applied.

@@ -1,0 +1,3 @@
+Hardware realization of residue number system algorithms by Boolean functions minimization
+
+Residue number systems (RNS) represent numbers by their remainders modulo a set of relatively prime numbers. This paper pro- poses an efficient hardware implementation of modular multiplication and of the modulo function (X(mod P)), based on Boolean minimiza- tion. We report experiments showing a performance advantage up to 30 times for our approach vs. the results obtained by state-of-art industrial tools.

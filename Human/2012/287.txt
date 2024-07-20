@@ -1,0 +1,3 @@
+A remark on the Restricted Isometry Property in Orthogonal Matching Pursuit
+
+This paper demonstrates that if the restricted isometry constant $δ_{K+1}$ of the measurement matrix $A$ satisfies $$ δ_{K+1} < \frac{1}{\sqrt{K}+1}, $$ then a greedy algorithm called Orthogonal Matching Pursuit (OMP) can recover every $K$--sparse signal $\mathbf{x}$ in $K$ iterations from $A\x$. By contrast, a matrix is also constructed with the restricted isometry constant $$ δ_{K+1} = \frac{1}{\sqrt{K}} $$ such that OMP can not recover some $K$-sparse signal $\mathbf{x}$ in $K$ iterations. This result positively verifies the conjecture given by Dai and Milenkovic in 2009.

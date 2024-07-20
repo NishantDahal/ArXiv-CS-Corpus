@@ -1,0 +1,3 @@
+Biobjective Performance Assessment with the COCO Platform
+
+This document details the rationales behind assessing the performance of numerical black-box optimizers on multi-objective problems within the COCO platform and in particular on the biobjective test suite bbob-biobj. The evaluation is based on a hypervolume of all non-dominated solutions in the archive of candidate solutions and measures the runtime until the hypervolume value succeeds prescribed target values.

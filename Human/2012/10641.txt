@@ -1,0 +1,3 @@
+Error Bounds on Derivatives during Simulations
+
+The methods commonly used for numerical differentiation, such as the "center-difference formula" and "four-points formula" are unusable in simulations or real-time data analysis because they require knowledge of the future. In Bard'11, an algorithm was shown that generates formulas that require knowledge only of the past and present values of $f(t)$ to estimate $f'(t)$. Furthermore, the algorithm can handle irregularly spaced data and higher-order derivatives. That work did not include a rigorous proof of correctness nor the error bounds. In this paper, the correctness and error bounds of that algorithm are proven, explicit forms are given for the coefficients, and several interesting corollaries are proven.

@@ -1,0 +1,5 @@
+Joint Beamforming and Broadcasting in Massive MIMO
+
+The downlink of a massive MIMO system is considered for the case in which the base station must concurrently serve two categories of terminals: one group to which imperfect instantaneous channel state information (CSI) is available, and one group to which no CSI is available. Motivating applications include broadcasting of public channels and control information in wireless networks.
+  A new technique is developed and analyzed: joint beamforming and broadcasting (JBB), by which the base station beamforms to the group of terminals to which CSI is available, and broadcasts to the other group of terminals, to which no CSI is available. The broadcast information does not interfere with the beamforming as it is placed in the nullspace of the channel matrix collectively seen by the terminals targeted by the beamforming. JBB is compared to orthogonal access (OA), by which the base station partitions the time-frequency resources into two disjunct parts, one for each group of terminals.
+  It is shown that JBB can substantially outperform OA in terms of required total radiated power for given rate targets.

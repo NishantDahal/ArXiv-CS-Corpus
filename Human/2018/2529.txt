@@ -1,0 +1,3 @@
+ZpL: a p-adic precision package
+
+We present a new package ZpL for the mathematical software system SM. It implements a sharp tracking of precision on p-adic numbers, following the theory of ultrametric precision introduced in [4]. The underlying algorithms are mostly based on automatic dierentiation techniques. We introduce them, study their complexity and discuss our design choices. We illustrate the bene-ts of our package (in comparison with previous implementations) with a large sample of examples coming from linear algebra, com-mutative algebra and dierential equations.

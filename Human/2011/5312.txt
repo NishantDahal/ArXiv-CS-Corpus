@@ -1,0 +1,5 @@
+Graph Expansion and Communication Costs of Fast Matrix Multiplication
+
+The communication cost of algorithms (also known as I/O-complexity) is shown to be closely related to the expansion properties of the corresponding computation graphs. We demonstrate this on Strassen's and other fast matrix multiplication algorithms, and obtain first lower bounds on their communication costs.
+  In the sequential case, where the processor has a fast memory of size $M$, too small to store three $n$-by-$n$ matrices, the lower bound on the number of words moved between fast and slow memory is, for many of the matrix multiplication algorithms, $Ω((\frac{n}{\sqrt M})^{ω_0}\cdot M)$, where $ω_0$ is the exponent in the arithmetic count (e.g., $ω_0 = \lg 7$ for Strassen, and $ω_0 = 3$ for conventional matrix multiplication). With $p$ parallel processors, each with fast memory of size $M$, the lower bound is $p$ times smaller.
+  These bounds are attainable both for sequential and for parallel algorithms and hence optimal. These bounds can also be attained by many fast algorithms in linear algebra (e.g., algorithms for LU, QR, and solving the Sylvester equation).

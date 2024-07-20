@@ -1,0 +1,3 @@
+Liquid FM: Recommending Music through Viscous Democracy
+
+Most modern recommendation systems use the approach of collaborative filtering: users that are believed to behave alike are used to produce recommendations. In this work we describe an application (Liquid FM) taking a completely different approach. Liquid FM is a music recommendation system that makes the user responsible for the recommended items. Suggestions are the result of a voting scheme, employing the idea of viscous democracy. Liquid FM can also be thought of as the first testbed for this voting system. In this paper we outline the design and architecture of the application, both from the theoretical and from the implementation viewpoints.

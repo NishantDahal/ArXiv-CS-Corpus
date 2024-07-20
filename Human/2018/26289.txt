@@ -1,0 +1,3 @@
+A General, Fault tolerant, Adaptive, Deadlock-free Routing Protocol for Network-on-chip
+
+The paper presents a topology-agnostic greedy protocol for network-on-chip routing. The proposed routing algorithm can tolerate any number of permanent faults, and is proven to be deadlock-free. We introduce a specialized variant of the algorithm, which is optimized for 2D mesh networks, both flat and wireless. The adaptiveness and minimality of several variants this algorithm are analyzed through graph-based simulations.

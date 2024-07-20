@@ -1,0 +1,6 @@
+Local Testing for Membership in Lattices
+
+Motivated by the structural analogies between point lattices and linear error-correcting codes, and by the mature theory on locally testable codes, we initiate a systematic study of local testing for membership in lattices. Testing membership in lattices is also motivated in practice, by applications to integer programming, error detection in lattice-based communication, and cryptography.
+  Apart from establishing the conceptual foundations of lattice testing, our results include the following:
+  1. We demonstrate upper and lower bounds on the query complexity of local testing for the well-known family of code formula lattices. Furthermore, we instantiate our results with code formula lattices constructed from Reed-Muller codes, and obtain nearly-tight bounds.
+  2. We show that in order to achieve low query complexity, it is sufficient to design one-sided non-adaptive canonical tests. This result is akin to, and based on an analogous result for error-correcting codes due to Ben-Sasson et al. (SIAM J. Computing 35(1) pp1-21).

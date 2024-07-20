@@ -1,0 +1,3 @@
+Note on a simple type system for non-interference
+
+We consider CCS with value passing and elaborate a notion of noninterference for the process calculi, which matches closely that of the programming language. The idea is to view channels as information carriers rather than as "events", so that emitting a secret on output channel can be considered safe, while inputting a secret may lead to some kind of leakage. This is in contrast with the standard notion of noninterference for the process calculi where any causal dependency of low-level action from any high-level action is forbidden.

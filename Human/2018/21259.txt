@@ -1,0 +1,3 @@
+Experiential Robot Learning with Accelerated Neuroevolution
+
+Derivative-based optimization techniques such as Stochastic Gradient Descent has been wildly successful in training deep neural networks. However, it has constraints such as end-to-end network differentiability. As an alternative, we present the Accelerated Neuroevolution algorithm. The new algorithm is aimed towards physical robotic learning tasks following the Experiential Robot Learning method. We test our algorithm first on a simulated task of playing the game Flappy Bird, then on a physical NAO robot in a static Object Centering task. The agents successfully navigate the given tasks, in a relatively low number of generations. Based on our results, we propose to use the algorithm in more complex tasks.

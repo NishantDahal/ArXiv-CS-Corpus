@@ -1,0 +1,3 @@
+OCR Error Correction Using Character Correction and Feature-Based Word Classification
+
+This paper explores the use of a learned classifier for post-OCR text correction. Experiments with the Arabic language show that this approach, which integrates a weighted confusion matrix and a shallow language model, improves the vast majority of segmentation and recognition errors, the most frequent types of error on our dataset.

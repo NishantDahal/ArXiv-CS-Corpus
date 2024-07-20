@@ -1,0 +1,5 @@
+A Monadic Framework for Interactive Realizability
+
+We give a new presentation of interactive realizability with a more explicit syntax.
+  Interactive realizability is a realizability semantics that extends the Curry-Howard correspondence to (sub-)classical logic, more precisely to first-order intuitionistic arithmetic (Heyting Arithmetic) extended by the law of the excluded middle restricted to simply existential formulas, a system motivated by its applications in proof mining.
+  Monads can be used to structure functional programs by providing a clean and modular way to include impure features in purely functional languages. We express interactive realizers by means of an abstract framework that applies the monadic approach used in functional programming to modified realizability, in order to obtain more "relaxed" realizability notions that are suitable to classical logic. In particular we use a combination of the state and exception monads in order to capture the learning-from-mistakes nature of interactive realizers at the syntactic level.

@@ -1,0 +1,3 @@
+Sparse Random Approximation and Lossy Compression
+
+We discuss a method for sparse signal approximation, which is based on the correlation of the target signal with a pseudo-random signal, and uses a modification of the greedy matching pursuit algorithm. We show that this approach provides an efficient encoding-decoding method, which can be used also for lossy compression and encryption purposes.

@@ -1,0 +1,3 @@
+Network-wide Packet Behavior Identification and Private Network Function Outsourcing
+
+Identifying the network-wide forwarding behaviors of a packet is essential for many network management applications. We present AP Classifier, a control plane tool for packet be- havior identification. Experiments show that the processing speed of AP Classifier is faster than existing tools by at least an order of magnitude. Furthermore, AP Classifier uses very small memory and is able to support real-time updates. We also present a network function outsource framework with AP Classifier which can provide security properties.

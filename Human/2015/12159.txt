@@ -1,0 +1,4 @@
+The "Most informative boolean function" conjecture holds for high noise
+
+We prove the "Most informative boolean function" conjecture of Courtade and Kumar for high noise $ε\ge 1/2 - δ$, for some absolute constant $δ> 0$.
+  Namely, if $X$ is uniformly distributed in $\{0,1\}^n$ and $Y$ is obtained by flipping each coordinate of $X$ independently with probability $ε$, then, provided $ε\ge 1/2 - δ$, for any boolean function $f$ holds $I(f(X);Y) \le 1 - H(ε)$. This conjecture was previously known to hold only for balanced functions.

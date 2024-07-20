@@ -1,0 +1,3 @@
+Proof of Brlek-Reutenauer conjecture
+
+Brlek and Reutenauer conjectured that any infinite word u with language closed under reversal satisfies the equality 2D(u) = \sum_{n=0}^{\infty}T_u(n) in which D(u) denotes the defect of u and T_u(n) denotes C_u(n+1)-C_u(n) +2 - P_U(n+1) - P_u(n), where C_u and P_u are the factor and palindromic complexity of u, respectively. This conjecture was verified for periodic words by Brlek and Reutenauer themselves. Using their results for periodic words, we have recently proved the conjecture for uniformly recurrent words. In the present article we prove the conjecture in its general version by a new method without exploiting the result for periodic words.

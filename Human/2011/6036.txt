@@ -1,0 +1,3 @@
+Hierarchical QR factorization algorithms for multi-core cluster systems
+
+This paper describes a new QR factorization algorithm which is especially designed for massively parallel platforms combining parallel distributed multi-core nodes. These platforms make the present and the foreseeable future of high-performance computing. Our new QR factorization algorithm falls in the category of the tile algorithms which naturally enables good data locality for the sequential kernels executed by the cores (high sequential performance), low number of messages in a parallel distributed setting (small latency term), and fine granularity (high parallelism).

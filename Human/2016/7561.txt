@@ -1,0 +1,3 @@
+A Linear-Time Algorithm for the Weighted Paired-Domination Problem on Block Graphs
+
+In a graph $G = (V,E)$, a vertex subset $S\subseteq V(G)$ is said to be a dominating set of $G$ if every vertex not in $S$ is adjacent to a vertex in $S$. A dominating set $S$ of $G$ is called a paired-dominating set of $G$ if the induced subgraph $G[S]$ contains a perfect matching. In this paper, we propose an $O(n+m)$-time algorithm for the weighted paired-domination problem on block graphs using dynamic programming, which strengthens the results in [Theoret. Comput. Sci., 410(47--49):5063--5071, 2009] and [J. Comb. Optim., 19(4):457--470, 2010]. Moreover, the algorithm can be completed in $O(n)$ time if the block-cut-vertex structure of $G$ is given.

@@ -1,0 +1,3 @@
+Stereo Matching With Color-Weighted Correlation, Hierarchical Belief Propagation And Occlusion Handling
+
+In this paper, we contrive a stereo matching algorithm with careful handling of disparity, discontinuity and occlusion. This algorithm works a worldwide matching stereo model which is based on minimization of energy. The global energy comprises two terms, firstly the data term and secondly the smoothness term. The data term is approximated by a color-weighted correlation, then refined in obstruct and low-texture areas in many applications of hierarchical loopy belief propagation algorithm. The results during the experiment are evaluated on the Middlebury data sets, showing that out algorithm is the top performer among all the algorithms listed there

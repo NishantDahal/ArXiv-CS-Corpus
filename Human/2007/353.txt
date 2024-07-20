@@ -1,0 +1,4 @@
+Liveness of Heap Data for Functional Programs
+
+Functional programming languages use garbage collection for heap memory management. Ideally, garbage collectors should reclaim all objects that are dead at the time of garbage collection. An object is dead at an execution instant if it is not used in future. Garbage collectors collect only those dead objects that are not reachable from any program variable. This is because they are not able to distinguish between reachable objects that are dead and reachable objects that are live.
+  In this paper, we describe a static analysis to discover reachable dead objects in programs written in first-order, eager functional programming languages. The results of this technique can be used to make reachable dead objects unreachable, thereby allowing garbage collectors to reclaim more dead objects.

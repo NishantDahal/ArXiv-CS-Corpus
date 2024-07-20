@@ -1,0 +1,3 @@
+Polcovar: Software for Computing the Mean and Variance of Subgraph Counts in Random Graphs
+
+The mean and variance of the number of appearances of a given subgraph $H$ in an Erdős--Rényi random graph over $n$ nodes are rational polynomials in $n$. We present a piece of software named Polcovar (from "polynomial" and "covariance") that computes the exact rational coefficients of these polynomials in function of $H$.

@@ -1,0 +1,3 @@
+Low-Dimensional Stochastic Modeling of the Electrical Properties of Biological Tissues
+
+Uncertainty quantification plays an important role in biomedical engineering as measurement data is often unavailable and literature data shows a wide variability. Using state-of-the-art methods one encounters difficulties when the number of random inputs is large. This is the case, e.g., when using composite Cole-Cole equations to model random electrical properties. It is shown how the number of parameters can be significantly reduced by the Karhunen-Loeve expansion. The low-dimensional random model is used to quantify uncertainties in the axon activation during deep brain stimulation. Numerical results for a Medtronic 3387 electrode design are given.

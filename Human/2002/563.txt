@@ -1,0 +1,3 @@
+Evaluation of the Performance of the Markov Blanket Bayesian Classifier Algorithm
+
+The Markov Blanket Bayesian Classifier is a recently-proposed algorithm for construction of probabilistic classifiers. This paper presents an empirical comparison of the MBBC algorithm with three other Bayesian classifiers: Naive Bayes, Tree-Augmented Naive Bayes and a general Bayesian network. All of these are implemented using the K2 framework of Cooper and Herskovits. The classifiers are compared in terms of their performance (using simple accuracy measures and ROC curves) and speed, on a range of standard benchmark data sets. It is concluded that MBBC is competitive in terms of speed and accuracy with the other algorithms considered.

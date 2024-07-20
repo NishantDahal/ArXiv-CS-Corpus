@@ -1,0 +1,3 @@
+A generic characterization of Pol(C)
+
+We investigate the polynomial closure operation (C -> Pol(C)) defined on classes of regular languages. We present an interesting and useful connection relating the separation problem for the class C and the membership problem for it polynomial closure Pol(C). This connection is formulated as an algebraic characterization of Pol(C) which holds when C is an arbitrary \pvari of regular languages and whose statement is parameterized by C-separation. Its main application is an effective reduction from Pol(C)-membership to C-separation. Thus, as soon as one designs a C-separation algorithm, this yields "for free" a membership algorithm for the more complex class Pol(C).

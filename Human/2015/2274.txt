@@ -1,0 +1,5 @@
+Restricted Isometry Property for General p-Norms
+
+The Restricted Isometry Property (RIP) is a fundamental property of a matrix which enables sparse recovery. Informally, an $m \times n$ matrix satisfies RIP of order $k$ for the $\ell_p$ norm, if $\|Ax\|_p \approx \|x\|_p$ for every vector $x$ with at most $k$ non-zero coordinates.
+  For every $1 \leq p < \infty$ we obtain almost tight bounds on the minimum number of rows $m$ necessary for the RIP property to hold. Prior to this work, only the cases $p = 1$, $1 + 1 / \log k$, and $2$ were studied. Interestingly, our results show that the case $p = 2$ is a "singularity" point: the optimal number of rows $m$ is $\widetildeΘ(k^{p})$ for all $p\in [1,\infty)\setminus \{2\}$, as opposed to $\widetildeΘ(k)$ for $k=2$.
+  We also obtain almost tight bounds for the column sparsity of RIP matrices and discuss implications of our results for the Stable Sparse Recovery problem.

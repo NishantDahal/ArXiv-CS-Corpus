@@ -1,0 +1,3 @@
+$β$-VAEs can retain label information even at high compression
+
+In this paper, we investigate the degree to which the encoding of a $β$-VAE captures label information across multiple architectures on Binary Static MNIST and Omniglot. Even though they are trained in a completely unsupervised manner, we demonstrate that a $β$-VAE can retain a large amount of label information, even when asked to learn a highly compressed representation.

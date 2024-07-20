@@ -1,0 +1,3 @@
+A Binary Data Stream Scripting Language
+
+Any file is fundamentally a binary data stream. A practical solution was achieved to interpret binary data stream. A new scripting language named Data Format Scripting Language (DFSL) was developed to describe the physical layout of the data in a structural, more intelligible way. On the basis of the solution, a generic software application was implemented; it parses various binary data streams according to their respective DFSL scripts and generates human-readable result and XML document for data sharing. Our solution helps eliminate the error-prone low-level programming, especially in the hardware devices or network protocol development/debugging processes.

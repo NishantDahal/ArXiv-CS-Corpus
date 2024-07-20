@@ -1,0 +1,3 @@
+Stability Analysis of Optimal Adaptive Control using Value Iteration with Approximation Errors
+
+Adaptive optimal control using value iteration initiated from a stabilizing control policy is theoretically analyzed in terms of stability of the system during the learning stage without ignoring the effects of approximation errors. This analysis includes the system operated using any single/constant resulting control policy and also using an evolving/time-varying control policy. A feature of the presented results is providing estimations of the \textit{region of attraction} so that if the initial condition is within the region, the whole trajectory will remain inside it and hence, the function approximation results remain valid.

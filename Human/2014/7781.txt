@@ -1,0 +1,3 @@
+An iterative approach to Hough transform without re-voting
+
+Many bone shapes in the human skeleton are characterized by profiles that can be associated to equations of algebraic curves. Fixing the parameters in the curve equation, by means of a classical pattern recognition procedure like the Hough transform technique, it is then possible to associate an equation to a specific bone profile. However, most skeleton districts are more accurately described by piecewise defined curves. This paper utilizes an iterative approach of the Hough transform without re-voting, to provide an efficient procedure for describing the profile of a bone in the human skeleton as a collection of different but continuously attached curves.

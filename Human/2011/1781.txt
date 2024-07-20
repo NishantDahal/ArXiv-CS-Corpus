@@ -1,0 +1,3 @@
+Testing of random matrices
+
+Let $n$ be a positive integer and $X = [x_{ij}]_{1 \leq i, j \leq n}$ be an $n \times n$\linebreak \noindent sized matrix of independent random variables having joint uniform distribution $$\hbox{Pr} {x_{ij} = k \hbox{for} 1 \leq k \leq n} = \frac{1}{n} \quad (1 \leq i, j \leq n) \koz. $$ A realization $\mathcal{M} = [m_{ij}]$ of $X$ is called \textit{good}, if its each row and each column contains a permutation of the numbers $1, 2,..., n$. We present and analyse four typical algorithms which decide whether a given realization is good.

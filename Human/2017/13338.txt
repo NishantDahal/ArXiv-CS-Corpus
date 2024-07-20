@@ -1,0 +1,3 @@
+An Efficient Version of the Bombieri-Vaaler Lemma
+
+In their celebrated paper "On Siegel's Lemma", Bombieri and Vaaler found an upper bound on the height of integer solutions of systems of linear Diophantine equations. Calculating the bound directly, however, requires exponential time. In this paper, we present the bound in a different form that can be computed in polynomial time. We also give an elementary (and arguably simpler) proof for the bound.

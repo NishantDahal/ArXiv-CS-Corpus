@@ -1,0 +1,3 @@
+Towards Deeper Generative Architectures for GANs using Dense connections
+
+In this paper, we present the result of adopting skip connections and dense layers, previously used in image classification tasks, in the Fisher GAN implementation. We have experimented with different numbers of layers and inserting these connections in different sections of the network. Our findings suggests that networks implemented with the connections produce better images than the baseline, and the number of connections added has only slight effect on the result.

@@ -1,0 +1,3 @@
+The monoid of queue actions
+
+We investigate the monoid of transformations that are induced by sequences of writing to and reading from a queue storage. We describe this monoid by means of a confluent and terminating semi-Thue system and study some of its basic algebraic properties, e.g., conjugacy. Moreover, we show that while several properties concerning its rational subsets are undecidable, their uniform membership problem is NL-complete. Furthermore, we present an algebraic characterization of this monoid's recognizable subsets. Finally, we prove that it is not Thurston-automatic.

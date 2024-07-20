@@ -1,0 +1,3 @@
+An instrumental intelligibility metric based on information theory
+
+We propose a monaural intrusive instrumental intelligibility metric called speech intelligibility in bits (SIIB). SIIB is an estimate of the amount of information shared between a talker and a listener in bits per second. Unlike existing information theoretic intelligibility metrics, SIIB accounts for talker variability and statistical dependencies between time-frequency units. Our evaluation shows that relative to state-of-the-art intelligibility metrics, SIIB is highly correlated with the intelligibility of speech that has been degraded by noise and processed by speech enhancement algorithms.

@@ -1,0 +1,4 @@
+Engineering DFS-Based Graph Algorithms
+
+Depth-first search (DFS) is the basis for many efficient graph algorithms. We introduce general techniques for the efficient implementation of DFS-based graph algorithms and exemplify them on three algorithms for computing strongly connected components. The techniques lead to speed-ups by a factor of two to three compared to the implementations provided by LEDA and BOOST.
+  We have obtained similar speed-ups for biconnected components algorithms. We also compare the graph data types of LEDA and BOOST.

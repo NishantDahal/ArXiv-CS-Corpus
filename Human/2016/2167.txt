@@ -1,0 +1,3 @@
+The problem of popular primes: Logjam
+
+This paper will discuss the Logjam attack on TLS. The Logjam attack allows, under certain conditions, to defeat the security provided by TLS. This is done by manipulating server and client into using weak and deprecated export grade crypto, and subsequently breaking the Diffie-Hellman key exchange. We explore how the attack works conceptually and how exactly TLS is vulnerable to this attack. Also, the conditions under which the attack can be mounted are discussed, and an estimate of the impact of the attack is presented. Lastly, several mitigations are presented.

@@ -1,0 +1,3 @@
+Fast Power system security analysis with Guided Dropout
+
+We propose a new method to efficiently compute load-flows (the steady-state of the power-grid for given productions, consumptions and grid topology), substituting conventional simulators based on differential equation solvers. We use a deep feed-forward neural network trained with load-flows precomputed by simulation. Our architecture permits to train a network on so-called "n-1" problems, in which load flows are evaluated for every possible line disconnection, then generalize to "n-2" problems without retraining (a clear advantage because of the combinatorial nature of the problem). To that end, we developed a technique bearing similarity with "dropout", which we named "guided dropout".

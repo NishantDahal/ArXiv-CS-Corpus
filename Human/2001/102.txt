@@ -1,0 +1,3 @@
+Construction of an algorithm in parallel for the Fast Fourier Transform
+
+It has been designed,built and executed a code for the Fast Fourier Transform (FFT),compiled and executed in a cluster of 2^n computers under the operating system MacOS and using the routines MacMPI. As practical application,the code has been used to obtain the transformed from an astronomic imagen,to execute a filter on its and with a transformed inverse to recover the image with the variates given by the filter.The computers arrangement are installed in the Observatorio Astronomico National in Colombia under the name OAN Cluster and in this has been executed several applications.

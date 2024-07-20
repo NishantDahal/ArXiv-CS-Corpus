@@ -1,0 +1,3 @@
+A mathematical formalization of data parallel operations
+
+We give a mathematical formalization of `generalized data parallel' operations, a concept that covers such common scientific kernels as matrix-vector multiplication, multi-grid coarsening, load distribution, and many more. We show that from a compact specification such computational aspects as MPI messages or task dependencies can be automatically derived.

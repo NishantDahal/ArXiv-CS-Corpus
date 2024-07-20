@@ -1,0 +1,3 @@
+An exact algorithm exhibiting RS-RSB/easy-hard correspondence for the maximum independent set problem
+
+A recently proposed exact algorithm for the maximum independent set problem is analyzed. The typical running time is improved exponentially in some parameter regions compared to simple binary search. The algorithm also overcomes the core transition point, where the conventional leaf removal algorithm fails, and works up to the replica symmetry breaking (RSB) transition point. This suggests that a leaf removal core itself is not enough for typical hardness in the random maximum independent set problem, providing further evidence for RSB being the obstacle for algorithms in general.

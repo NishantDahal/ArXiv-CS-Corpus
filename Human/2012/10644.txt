@@ -1,0 +1,3 @@
+DBGen User Manual
+
+DBGen is a tool for Coq developers. It takes as input the definition of a term structure with bindings annotations and generates definitions and properties for lifting and substitution in the De Bruijn setting, up to the substitution lemma. It provides also a named syntax and a translation function to the De Bruijn syntax.

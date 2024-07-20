@@ -1,0 +1,3 @@
+Extending the Metasploit Framework to Implement an Evasive Attack Infrastructure
+
+Given a desired goal of testing the capabilities of mainstream antivirus software against evasive malicious payloads delivered via drive-by download, this work aims to extend the functionality of Metasploit--the penetration testing suite of choice--in a three-fold manner: (1) to allow it to dynamically generate evasive forms of Metasploit-packaged malicious binaries, (2) to provide an evasive means of delivering said executables through a drive-by download-derived attack vector, and (3) to coordinate the previous two functionalities in a manner which can be used to produce reproducible tests within the SPICE framework

@@ -1,0 +1,3 @@
+Static Analysis of Communicating Processes using Symbolic Transducers
+
+We present a general model allowing static analysis based on abstract interpretation for systems of communicating processes. Our technique, inspired by Regular Model Checking, represents set of program states as lattice automata and programs semantics as symbolic transducers. This model can express dynamic creation/destruction of processes and communications. Using the abstract interpretation framework, we are able to provide a sound over-approximation of the reachability set of the system thus allowing us to prove safety properties. We implemented this method in a prototype that targets the MPI library for C programs.

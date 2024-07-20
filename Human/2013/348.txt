@@ -1,0 +1,3 @@
+Complexity of Creative Telescoping for Bivariate Rational Functions
+
+The long-term goal initiated in this work is to obtain fast algorithms and implementations for definite integration in Almkvist and Zeilberger's framework of (differential) creative telescoping. Our complexity-driven approach is to obtain tight degree bounds on the various expressions involved in the method. To make the problem more tractable, we restrict to bivariate rational functions. By considering this constrained class of inputs, we are able to blend the general method of creative telescoping with the well-known Hermite reduction. We then use our new method to compute diagonals of rational power series arising from combinatorics.

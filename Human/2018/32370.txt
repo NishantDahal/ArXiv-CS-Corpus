@@ -1,0 +1,3 @@
+Guided Unfoldings for Finding Loops in Standard Term Rewriting
+
+In this paper, we reconsider the unfolding-based technique that we have introduced previously for detecting loops in standard term rewriting. We improve it by guiding the unfolding process, using distinguished positions in the rewrite rules. This results in a depth-first computation of the unfoldings, whereas the original technique was breadth-first. We have implemented this new approach in our tool NTI and compared it to the previous one on a bunch of rewrite systems. The results we get are promising (better times, more successful proofs).

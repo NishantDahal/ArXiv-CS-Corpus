@@ -1,0 +1,5 @@
+Planar Graphs: Random Walks and Bipartiteness Testing
+
+We initiate the study of property testing in arbitrary planar graphs. We prove that bipartiteness can be tested in constant time, improving on the previous bound of $\tilde{O}(\sqrt{n})$ for graphs on $n$ vertices. The constant-time testability was only known for planar graphs with bounded degree.
+  Our algorithm is based on random walks. Since planar graphs have good separators, i.e., bad expansion, our analysis diverges from standard techniques that involve the fast convergence of random walks on expanders. We reduce the problem to the task of detecting an odd-parity cycle in a multigraph induced by constant-length cycles. We iteratively reduce the length of cycles while preserving the detection probability, until the multigraph collapses to a collection of easily discoverable self-loops.
+  Our approach extends to arbitrary minor-free graphs. We also believe that our techniques will find applications to testing other properties in arbitrary minor-free graphs.

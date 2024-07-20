@@ -1,0 +1,3 @@
+Notes on Pure Dataflow Matrix Machines: Programming with Self-referential Matrix Transformations
+
+Dataflow matrix machines are self-referential generalized recurrent neural nets. The self-referential mechanism is provided via a stream of matrices defining the connectivity and weights of the network in question. A natural question is: what should play the role of untyped lambda-calculus for this programming architecture? The proposed answer is a discipline of programming with only one kind of streams, namely the streams of appropriately shaped matrices. This yields Pure Dataflow Matrix Machines which are networks of transformers of streams of matrices capable of defining a pure dataflow matrix machine.

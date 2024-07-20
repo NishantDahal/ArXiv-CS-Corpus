@@ -1,0 +1,3 @@
+Extracting Parallel Sentences with Bidirectional Recurrent Neural Networks to Improve Machine Translation
+
+Parallel sentence extraction is a task addressing the data sparsity problem found in multilingual natural language processing applications. We propose a bidirectional recurrent neural network based approach to extract parallel sentences from collections of multilingual texts. Our experiments with noisy parallel corpora show that we can achieve promising results against a competitive baseline by removing the need of specific feature engineering or additional external resources. To justify the utility of our approach, we extract sentence pairs from Wikipedia articles to train machine translation systems and show significant improvements in translation performance.

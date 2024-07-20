@@ -1,0 +1,3 @@
+Emptiness of Stack Automata is NEXPTIME-complete: A Correction
+
+A saturation algorithm for collapsible pushdown systems was published in ICALP 2012. This work introduced a class of stack automata used to recognised regular sets of collapsible pushdown configurations. It was shown that these automata form an effective boolean algebra, have a linear time membership problem, and are equivalent to an alternative automata representation appearing in LICS 2010. It was also claimed that the emptiness problem for stack automata is PSPACE-complete. Unfortunately, this claim is not true. We show that the problem is in fact NEXPTIME-complete when the stacks being accepted are collapsible pushdown stacks, rather than the annotated stacks used in ICALP 2012.

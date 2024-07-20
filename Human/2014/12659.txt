@@ -1,0 +1,3 @@
+Refinement of Pipe-and-Filter Architectures
+
+Software and hardware architectures are prone to modifications. We demonstrate how a mathematically founded powerful refinement calculus for a class of architectures, namely pipe and filter architectures, can be used to modify a system in a provably correct way. The calculus consists of basic rules to add and to remove filters (components) and pipes (channels) to a system. A networking example demonstrates some of the features of our calculus. The calculus is simple, flexible and compositional. Thus it allows us to build more complex and specific rules that e.g. embed models of existing architectures or define design patterns as transformation rules.

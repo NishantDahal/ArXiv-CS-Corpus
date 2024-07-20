@@ -1,0 +1,3 @@
+A Single Universal n-bit Gate for Reversible Circuit Synthesis
+
+Many universal reversible libraries that contain more than one gate type have been proposed in the literature. Practical implementation of reversible circuits is much easier if a single gate type is used in the circuit construction. This paper proposes a reversible n-bit gate that is universal for reversible circuits synthesis. The proposed gate is extendable according to the size of the circuit. The paper shows that the size of the synthesized circuits using the proposed gate is comparable with the size of the synthesized circuits using the hybrid reversible libraries for 3-in/out reversible circuits.

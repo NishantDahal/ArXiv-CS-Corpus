@@ -1,0 +1,3 @@
+An Algorithm for $L_\infty$ Approximation by Step Functions
+
+An algorithm is given for determining an optimal $b$-step approximation of weighted data, where the error is measured with respect to the $L_\infty$ norm. For data presorted by the independent variable the algorithm takes $Θ(n + \log n \cdot b(1+\log n/b))$ time and $Θ(n)$ space. This is $Θ(n \log n)$ in the worst case and $Θ(n)$ when $b = O(n/\log n \log\log n)$. A minor change determines an optimal reduced isotonic regression in the same time and space bounds, and the algorithm also solves the $k$-center problem for 1-dimensional weighted data.

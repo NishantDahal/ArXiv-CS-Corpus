@@ -1,0 +1,3 @@
+Diversifying Music Recommendations
+
+We compare submodular and Jaccard methods to diversify Amazon Music recommendations. Submodularity significantly improves recommendation quality and user engagement. Unlike the Jaccard method, our submodular approach incorporates item relevance score within its optimization function, and produces a relevant and uniformly diverse set.

@@ -1,0 +1,3 @@
+Partitioning sparse graphs into an independent set and a forest of bounded degree
+
+An $({\cal I},{\cal F}_d)$-partition of a graph is a partition of the vertices of the graph into two sets $I$ and $F$, such that $I$ is an independent set and $F$ induces a forest of maximum degree at most $d$. We show that for all $M<3$ and $d \ge \frac{2}{3-M} - 2$, if a graph has maximum average degree less than $M$, then it has an $({\cal I},{\cal F}_d)$-partition. Additionally, we prove that for all $\frac{8}{3} \le M < 3$ and $d \ge \frac{1}{3-M}$, if a graph has maximum average degree less than $M$ then it has an $({\cal I},{\cal F}_d)$-partition.

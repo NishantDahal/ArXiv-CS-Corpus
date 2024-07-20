@@ -1,0 +1,3 @@
+Distributed MAP in the SpinJa Model Checker
+
+Spin in Java (SpinJa) is an explicit state model checker for the Promela modelling language also used by the SPIN model checker. Designed to be extensible and reusable, the implementation of SpinJa follows a layered approach in which each new layer extends the functionality of the previous one. While SpinJa has preliminary support for shared-memory model checking, it did not yet support distributed-memory model checking. This tool paper presents a distributed implementation of a maximal accepting predecessors (MAP) search algorithm on top of SpinJa.

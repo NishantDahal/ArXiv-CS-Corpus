@@ -1,0 +1,3 @@
+Kalman filter control in the reinforcement learning framework
+
+There is a growing interest in using Kalman-filter models in brain modelling. In turn, it is of considerable importance to make Kalman-filters amenable for reinforcement learning. In the usual formulation of optimal control it is computed off-line by solving a backward recursion. In this technical note we show that slight modification of the linear-quadratic-Gaussian Kalman-filter model allows the on-line estimation of optimal control and makes the bridge to reinforcement learning. Moreover, the learning rule for value estimation assumes a Hebbian form weighted by the error of the value estimation.

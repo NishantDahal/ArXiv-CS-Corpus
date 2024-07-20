@@ -1,0 +1,3 @@
+Lattice-based Robust Distributed Source Coding
+
+In this paper, we propose a lattice-based robust distributed source coding system for two correlated sources and provide a detailed performance analysis under the high resolution assumption. It is shown, among other things, that, in the asymptotic regime where 1) the side distortion approaches 0 and 2) the ratio between the central and side distortions approaches 0, our scheme is capable of achieving the information-theoretic limit of quadratic multiple description coding when the two sources are identical, whereas a variant of the random coding scheme by Chen and Berger with Gaussian codes has a performance loss of 0.5 bits relative to this limit.

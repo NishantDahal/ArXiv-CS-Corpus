@@ -1,0 +1,3 @@
+Randomized selection revisited
+
+We show that several versions of Floyd and Rivest's algorithm Select for finding the $k$th smallest of $n$ elements require at most $n+\min\{k,n-k\}+o(n)$ comparisons on average and with high probability. This rectifies the analysis of Floyd and Rivest, and extends it to the case of nondistinct elements. Our computational results confirm that Select may be the best algorithm in practice.

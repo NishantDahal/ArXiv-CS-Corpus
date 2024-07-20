@@ -1,0 +1,3 @@
+Syntactic Conditions for Antichain Property in Consistency Restoring Prolog
+
+We study syntactic conditions which guarantee when a CR-Prolog (Consistency Restoring Prolog) program has antichain property: no answer set is a proper subset of another. A notable such condition is that the program's dependency graph being acyclic and having no directed path from one cr-rule head literal to another.

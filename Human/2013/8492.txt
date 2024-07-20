@@ -1,0 +1,3 @@
+Fast image segmentation and restoration using parametric curve evolution with junctions and topology changes
+
+Curve evolution schemes for image segmentation based on a region based contour model allowing for junctions, vector-valued images and topology changes are introduced. Together with an a posteriori denoising in the segmented homogeneous regions this leads to a fast and efficient method for image segmentation and restoration. An uneven spread of mesh points is avoided by using the tangential degrees of freedom. Several numerical simulations on artificial test problems and on real images illustrate the performance of the method.

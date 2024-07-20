@@ -1,0 +1,3 @@
+Fully polynomial time approximation schemes (FPTAS) for some counting problems
+
+In this thesis we develop FPTASs for the counting problems of m-tuples, contingency tables with two rows, and 0/1 knapsack. For the problem of counting m-tuples, we design two algorithms, one is strongly polynomial. As far as we know, these are the first FPTASs for this problem. For the problem of counting contingency tables we improve significantly over the running time of existing algorithms. For the problem of counting 0/1 knapsack solutions, we design a simple strongly polynomial algorithm, with similar running times to the existing algorithms. Our results are derived by using, as well as expanding, the method of K-approximation sets and functions.

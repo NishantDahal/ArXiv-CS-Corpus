@@ -1,0 +1,3 @@
+Directed Reduction Algorithms and Decomposable Graphs
+
+In recent years, there have been intense research efforts to develop efficient methods for probabilistic inference in probabilistic influence diagrams or belief networks.  Many people have concluded that the best methods are those based on undirected graph structures, and that those methods are inherently superior to those based on node reduction operations on the influence diagram.  We show here that these two approaches are essentially the same, since they are explicitly or implicity building and operating on the same underlying graphical structures.  In this paper we examine those graphical structures and show how this insight can lead to an improved class of directed reduction methods.

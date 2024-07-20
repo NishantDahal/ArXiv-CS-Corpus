@@ -1,0 +1,3 @@
+Tone Recognition Using Lifters and CTC
+
+In this paper, we present a new method for recognizing tones in continuous speech for tonal languages. The method works by converting the speech signal to a cepstrogram, extracting a sequence of cepstral features using a convolutional neural network, and predicting the underlying sequence of tones using a connectionist temporal classification (CTC) network. The performance of the proposed method is evaluated on a freely available Mandarin Chinese speech corpus, AISHELL-1, and is shown to outperform the existing techniques in the literature in terms of tone error rate (TER).

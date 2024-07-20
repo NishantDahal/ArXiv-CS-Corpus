@@ -1,0 +1,3 @@
+Adaptive Temporal Compressive Sensing for Video
+
+This paper introduces the concept of adaptive temporal compressive sensing (CS) for video. We propose a CS algorithm to adapt the compression ratio based on the scene's temporal complexity, computed from the compressed data, without compromising the quality of the reconstructed video. The temporal adaptivity is manifested by manipulating the integration time of the camera, opening the possibility to real-time implementation. The proposed algorithm is a generalized temporal CS approach that can be incorporated with a diverse set of existing hardware systems.

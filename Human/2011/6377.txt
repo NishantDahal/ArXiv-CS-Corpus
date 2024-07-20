@@ -1,0 +1,3 @@
+Workbook Structure Analysis - "Coping with the Imperfect"
+
+This Paper summarises the operation of software developed for the analysis of workbook structure. This comprises: the identification of layout in terms of filled areas formed into "Stripes", the identification of all the Formula Blocks/Cells and the identification of Data Blocks/Cells referenced by those formulas. This development forms part of our FormulaDataSleuth toolset. It is essential for the initial "Watching" of an existing workbook and enables the workbook to be subsequently managed and protected from damage.

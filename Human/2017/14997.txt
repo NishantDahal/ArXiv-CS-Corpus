@@ -1,0 +1,3 @@
+Exact Expression For Information Distance
+
+Information distance can be defined not only between two strings but also in a finite multiset of strings of cardinality greater than two. We give an elementary proof for expressing the information distance in terms of plain Kolmogorov complexity. It is exact since for each cardinality of the multiset the lower bound for some multiset equals the upper bound for all multisets up to a constant additive term.

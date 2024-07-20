@@ -1,0 +1,3 @@
+Mid-level Elements for Object Detection
+
+Building on the success of recent discriminative mid-level elements, we propose a surprisingly simple approach for object detection which performs comparable to the current state-of-the-art approaches on PASCAL VOC comp-3 detection challenge (no external data). Through extensive experiments and ablation analysis, we show how our approach effectively improves upon the HOG-based pipelines by adding an intermediate mid-level representation for the task of object detection. This representation is easily interpretable and allows us to visualize what our object detector "sees". We also discuss the insights our approach shares with CNN-based methods, such as sharing representation between categories helps.

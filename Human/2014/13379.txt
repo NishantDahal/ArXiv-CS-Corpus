@@ -1,0 +1,5 @@
+Detect2Rank : Combining Object Detectors Using Learning to Rank
+
+Object detection is an important research area in the field of computer vision. Many detection algorithms have been proposed. However, each object detector relies on specific assumptions of the object appearance and imaging conditions. As a consequence, no algorithm can be considered as universal. With the large variety of object detectors, the subsequent question is how to select and combine them.
+  In this paper, we propose a framework to learn how to combine object detectors. The proposed method uses (single) detectors like DPM, CN and EES, and exploits their correlation by high level contextual features to yield a combined detection list.
+  Experiments on the PASCAL VOC07 and VOC10 datasets show that the proposed method significantly outperforms single object detectors, DPM (8.4%), CN (6.8%) and EES (17.0%) on VOC07 and DPM (6.5%), CN (5.5%) and EES (16.2%) on VOC10.

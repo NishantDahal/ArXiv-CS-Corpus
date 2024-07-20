@@ -1,0 +1,3 @@
+The Security of Hardware-Based Omega(n^2) Cryptographic One-Way Functions: Beyond Satisfiability and P=NP
+
+We present a class of hardware-based cryptographic one-way functions that, in practice, would be hard to invert even if P=NP and linear-time satisfiability algorithms exist. Such functions use a hardware-based component with omega(n^2) size circuits, and omega(n^2) run time.

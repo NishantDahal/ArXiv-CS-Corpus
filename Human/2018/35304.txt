@@ -1,0 +1,4 @@
+Private Information Retrieval Schemes with Regenerating Codes
+
+A private information retrieval (PIR) scheme allows a user to retrieve a file from a database without revealing any information on the file being requested. As of now, PIR schemes have been proposed for several kinds of storage systems, including replicated and MDS-coded data. In this paper, the problem of constructing a PIR scheme on regenerating codes is considered.
+  A regenerating code is a storage code whose codewords are distributed among $n$ nodes, enabling efficient storage of files, as well as low-bandwidth retrieval of files and repair of nodes. In this work, a PIR scheme on regenerating codes is constructed, using the product-matrix (PM) framework of Rashmi, Shah and Kumar. Both the minimum-bandwidth (MBR) and minimum-storage (MSR) settings are considered, and the structure given by the PM framework is used in order to reduce the download communication complexity of our schemes.

@@ -1,0 +1,4 @@
+Robust hyperspectral image classification with rejection fields
+
+In this paper we present a novel method for robust hyperspectral image classification using context and rejection. Hyperspectral image classification is generally an ill-posed image problem where pixels may belong to unknown classes, and obtaining representative and complete training sets is costly. Furthermore, the need for high classification accuracies is frequently greater than the need to classify the entire image.
+  We approach this problem with a robust classification method that combines classification with context with classification with rejection. A rejection field that will guide the rejection is derived from the classification with contextual information obtained by using the SegSALSA algorithm. We validate our method in real hyperspectral data and show that the performance gains obtained from the rejection fields are equivalent to an increase the dimension of the training sets.

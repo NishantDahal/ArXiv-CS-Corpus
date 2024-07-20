@@ -1,0 +1,3 @@
+A PTAS for TSP with Neighborhoods Among Fat Regions in the Plane
+
+The Euclidean TSP with neighborhoods (TSPN) problem seeks a shortest tour that visits a given collection of $n$ regions ({\em neighborhoods}). We present the first polynomial-time approximation scheme for TSPN for a set of regions given by arbitrary disjoint fat regions in the plane. This improves substantially upon the known approximation algorithms, and is the first PTAS for TSPN on regions of non-comparable sizes. Our result is based on a novel extension of the $m$-guillotine method. The result applies to regions that are "fat" in a very weak sense: each region $P_i$ has area $Ω([diam(P_i)]^2)$, but is otherwise arbitrary.

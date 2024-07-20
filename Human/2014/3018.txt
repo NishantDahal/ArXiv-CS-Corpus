@@ -1,0 +1,7 @@
+Transformation von Scade-Modellen zur SMT-basierten Verifikation
+
+In this work we develop a fully automatic verification procedure of safety properties of Scade programs. We transform each such program into an SMT instance (Satisfiability Modulo Theories) and feed this to a solver. The goal is to have a publicly accessible experimentation platform for the verification of Scade programs.
+  The choice of SMT is determined by the fact that it offers more expressive logics than propositional logic, yet their solvers have been shown to perform very well. The expressiveness of SMT logics allows us to implement symbolic model checking thus avoiding the expansion of the complete state space of the models during the verification.
+  In order to reduce the complexity we transform the Scade programs into SMT instances in two steps. First they are reduced to programs of a synchronous data flow language Lama. This language has simpler semantics than Scade while still preserving some of the programmer's abstractions. Next we interpret such a Lama program as a system of quantifier free first-order formulas.
+  The remaining abstractions in Lama can be used to simplify these systems. This in turn could lead to speeding up the verification process and allowing more properties to be verifiable.
+  We implemented these transformations successfully in a software using Haskell. This work is concluded by a comparison of this software to the existing verification software "Scade Design Verifier" which comes with the Scade Suite.

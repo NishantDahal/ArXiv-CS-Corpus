@@ -1,0 +1,4 @@
+A Characterization of Approximation Resistance
+
+A predicate f:{-1,1}^k -> {0,1} with ρ(f) = \frac{|f^{-1}(1)|}{2^k} is called {\it approximation resistant} if given a near-satisfiable instance of CSP(f), it is computationally hard to find an assignment that satisfies at least ρ(f)+Ω(1) fraction of the constraints.
+  We present a complete characterization of approximation resistant predicates under the Unique Games Conjecture. We also present characterizations in the {\it mixed} linear and semi-definite programming hierarchy and the Sherali-Adams linear programming hierarchy. In the former case, the characterization coincides with the one based on UGC. Each of the two characterizations is in terms of existence of a probability measure with certain symmetry properties on a natural convex polytope associated with the predicate.

@@ -1,0 +1,3 @@
+The computational complexity of integer programming with alternations
+
+We prove that integer programming with three quantifier alternations is $NP$-complete, even for a fixed number of variables. This complements earlier results by Lenstra and Kannan, which together say that integer programming with at most two quantifier alternations can be done in polynomial time for a fixed number of variables. As a byproduct of the proof, we show that for two polytopes $P,Q \subset \mathbb{R}^4$ , counting the projection of integer points in $Q \backslash P$ is $\#P$-complete. This contrasts the 2003 result by Barvinok and Woods, which allows counting in polynomial time the projection of integer points in $P$ and $Q$ separately.

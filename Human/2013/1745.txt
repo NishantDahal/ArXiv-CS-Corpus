@@ -1,0 +1,5 @@
+Effective Marking Equivalence Checking in Systems with Dynamic Process Creation
+
+The starting point of this work is a framework allowing to model systems with dynamic process creation, equipped with a procedure to detect symmetric executions (ie., which differ only by the identities of processes). This allows to reduce the state space, potentially to an exponentially smaller size, and, because process identifiers are never reused, this also allows to reduce to finite size some infinite state spaces. However, in this approach, the procedure to detect symmetries does not allow for computationally efficient algorithms, mainly because each newly computed state has to be compared with every already reached state.
+  In this paper, we propose a new approach to detect symmetries in this framework that will solve this problem, thus enabling for efficient algorithms. We formalise a canonical representation of states and identify a sufficient condition on the analysed model that guarantees that every symmetry can be detected. For the models that do not fall into this category, our approach is still correct but does not guarantee a maximal reduction of state space.
+

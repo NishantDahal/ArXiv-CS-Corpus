@@ -1,0 +1,3 @@
+Finding binomials in polynomial ideals
+
+We describe an algorithm which finds binomials in a given ideal $I\subset\mathbb{Q}[x_1,\dots,x_n]$ and in particular decides whether binomials exist in $I$ at all. Binomials in polynomial ideals can be well hidden. For example, the lowest degree of a binomial cannot be bounded as a function of the number of indeterminates, the degree of the generators, or the Castelnuovo--Mumford regularity. We approach the detection problem by reduction to the Artinian case using tropical geometry. The Artinian case is solved with algorithms from computational number theory.

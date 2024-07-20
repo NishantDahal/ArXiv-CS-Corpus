@@ -1,0 +1,3 @@
+Interference Cancellation and Iterative Detection for Orthogonal Time Frequency Space Modulation
+
+The recently proposed orthogonal time frequency space (OTFS) modulation technique was shown to provide significant error performance advantages over orthogonal frequency division multiplexing (OFDM) in Doppler channels. In this paper, we derive the explicit input-output relation describing OTFS modulation and demodulation (mod/demod) for delay-Doppler channels. We analyze the interferences and develop a novel low-complexity yet efficient message passing (MP) algorithm for joint interference cancellation (IC) and symbol detection. The proposed MP algorithm can effectively compensate for a wide range of channel Doppler spreads.

@@ -1,0 +1,3 @@
+Channel Decorrelation For Stereo Acoustic Echo Cancellation In High-Quality Audio Communication
+
+In this paper, we address an important problem in high-quality audio communication systems. Acoustic echo cancellation with stereo signals is generally an under-determined problem because of the generally important correlation that exists between the left and right channels. In this paper, we present a novel method of significantly reducing that correlation without affecting the audio quality. This method is perceptually motivated and combines a shaped comb-allpass (SCAL) filter with the injection of psychoacoustically masked noise. We show that the proposed method performs significantly better than other known methods for channel decorrelation.

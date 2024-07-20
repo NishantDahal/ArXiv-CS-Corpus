@@ -1,0 +1,3 @@
+Developing a General algorithm for Ball Curve with GC2
+
+This paper dwells in developing a general algorithm for constructing a piecewise Ball Curve with curvature continuity (GC2). The proposed algorithm requires GC2 data in which the designer must define unit tangent vectors and signed curvatures at each interpolating points. As a numerical example, a vase is constructed using GC2 piecewise Ball Curve

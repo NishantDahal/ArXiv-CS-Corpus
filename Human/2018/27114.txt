@@ -1,0 +1,3 @@
+Spherical Parameterization Balancing Angle and Area Distortions
+
+This work presents a novel framework for spherical mesh parameterization. An efficient angle-preserving spherical parameterization algorithm is introduced, which is based on dynamic Yamabe flow and the conformal welding method with solid theoretic foundation. An area-preserving spherical parameterization is also discussed, which is based on discrete optimal mass transport theory. Furthermore, a spherical parameterization algorithm, which is based on the polar decomposition method, balancing angle distortion and area distortion is presented. The algorithms are tested on 3D geometric data and the experiments demonstrate the efficiency and efficacy of the proposed methods.

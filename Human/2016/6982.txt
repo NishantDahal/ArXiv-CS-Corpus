@@ -1,0 +1,3 @@
+An Efficient Synthesis Algorithm for Parametric Markov Chains Against Linear Time Properties
+
+In this paper, we propose an efficient algorithm for the parameter synthesis of PLTL formulas with respect to parametric Markov chains. The PLTL formula is translated to an almost fully partitioned Büchi automaton which is then composed with the parametric Markov chain. We then reduce the problem to solving an optimisation problem, allowing to decide the satisfaction of the formula using an SMT solver. The algorithm works also for interval Markov chains. The complexity is linear in the size of the Markov chain, and exponential in the size of the formula. We provide a prototype and show the efficiency of our approach on a number of benchmarks.

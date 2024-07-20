@@ -1,0 +1,4 @@
+Authoring case based training by document data extraction
+
+In this paper, we propose an scalable approach to modeling based upon word processing documents, and we describe the tool Phoenix providing the technical infrastructure.
+  For our training environment d3web.Train, we developed a tool to extract case knowledge from existing documents, usually dismissal records, extending Phoenix to d3web.CaseImporter. Independent authors used this tool to develop training systems, observing a significant decrease of time for setteling-in and a decrease of time necessary for developing a case.

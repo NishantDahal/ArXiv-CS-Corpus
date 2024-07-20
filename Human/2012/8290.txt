@@ -1,0 +1,3 @@
+Recursive Schur Decomposition
+
+In this article, we present a parallel recursive algorithm based on multi-level domain decomposition that can be used as a precondtioner to a Krylov subspace method to solve sparse linear systems of equations arising from the discretization of partial differential equations (PDEs). We tested the effectiveness of the algorithm on several PDEs using different number of sub-domains (ranging from 8 to 32768) and various problem sizes (ranging from about 2000 to over a billion degrees of freedom). We report the results from these tests; the results show that the algorithm scales very well with the number of sub-domains.

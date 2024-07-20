@@ -1,0 +1,3 @@
+A Reconnaissance Attack Mechanism for Fixed-Priority Real-Time Systems
+
+In real-time embedded systems (RTS), failures due to security breaches can cause serious damage to the system, the environment and/or injury to humans. Therefore, it is very important to understand the potential threats and attacks against these systems. In this paper we present a novel reconnaissance attack that extracts the exact schedule of real-time systems designed using fixed priority scheduling algorithms. The attack is demonstrated on both a real hardware platform and a simulator, with a high success rate. Our evaluation results show that the algorithm is robust even in the presence of execution time variation.

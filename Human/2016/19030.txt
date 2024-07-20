@@ -1,0 +1,3 @@
+On the computation of the HNF of a module over the ring of integers of a number field
+
+We present a variation of the modular algorithm for computing the Hermite normal form of an $\mathcal O_K$-module presented by Cohen, where $\mathcal O_K$ is the ring of integers of a number field $K$. An approach presented in (Cohen 1996) based on reductions modulo ideals was conjectured to run in polynomial time by Cohen, but so far, no such proof was available in the literature. In this paper, we present a modification of the approach of Cohen to prevent the coefficient swell and we rigorously assess its complexity with respect to the size of the input and the invariants of the field $K$.

@@ -1,0 +1,3 @@
+Visual saliency detection: a Kalman filter based approach
+
+In this paper we propose a Kalman filter aided saliency detection model which is based on the conjecture that salient regions are considerably different from our "visual expectation" or they are "visually surprising" in nature. In this work, we have structured our model with an immediate objective to predict saliency in static images. However, the proposed model can be easily extended for space-time saliency prediction. Our approach was evaluated using two publicly available benchmark data sets and results have been compared with other existing saliency models. The results clearly illustrate the superior performance of the proposed model over other approaches.

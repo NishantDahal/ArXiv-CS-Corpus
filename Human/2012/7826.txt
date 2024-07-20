@@ -1,0 +1,3 @@
+Solving Quadratic Equations via PhaseLift when There Are About As Many Equations As Unknowns
+
+This note shows that we can recover a complex vector x in C^n exactly from on the order of n quadratic equations of the form |<a_i, x>|^2 = b_i, i = 1, ..., m, by using a semidefinite program known as PhaseLift. This improves upon earlier bounds in [3], which required the number of equations to be at least on the order of n log n. We also demonstrate optimal recovery results from noisy quadratic measurements; these results are much sharper than previously known results.

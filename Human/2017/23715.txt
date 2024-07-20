@@ -1,0 +1,3 @@
+Bottom-up automata on data trees and vertical XPath
+
+A data tree is a finite tree whose every node carries a label from a finite alphabet and a datum from some infinite domain. We introduce a new model of automata over unranked data trees with a decidable emptiness problem. It is essentially a bottom-up alternating automaton with one register that can store one data value and can be used to perform equality tests with the data values occurring within the subtree of the current node. We show that it captures the expressive power of the vertical fragment of XPath - containing the child, descendant, parent and ancestor axes - obtaining thus a decision procedure for its satisfiability problem.

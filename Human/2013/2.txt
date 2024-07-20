@@ -1,0 +1,3 @@
+Embedding of Deterministic Test Data for In-Field Testing
+
+This paper presents a new feedback shift register-based method for embedding deterministic test patterns on-chip suitable for complementing conventional BIST techniques for in-field testing. Our experimental results on 8 real designs show that the presented approach outperforms the bit-flipping approach by 24.7% on average. We also show that it is possible to exploit the uneven distribution of don't care bits in test patterns in order to reduce the area required for storing deterministic test patterns more than 3 times with less than 2% fault coverage drop.

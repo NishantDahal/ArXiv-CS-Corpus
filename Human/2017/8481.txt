@@ -1,0 +1,3 @@
+HTTP adaptive streaming with indoors-outdoors detection in mobile networks
+
+In mobile networks, users may lose coverage when entering a building due to the high signal attenuation at windows and walls. Under such conditions, services with minimum bit-rate requirements, such as video streaming, often show poor Quality-of-Experience (QoE). We will present a Bayesian detector that combines measurements from two Smartphone sensors to decide if a user is inside a building or not. Based on this coverage classification, we will propose an HTTP adaptive streaming (HAS) algorithm to increase playback stability at a high average bitrate. Measurements in a typical office building show high accuracy for the presented detector and superior QoE for the proposed HAS algorithm.

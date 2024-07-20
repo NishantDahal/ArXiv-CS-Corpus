@@ -1,0 +1,3 @@
+Classical Proofs as Parallel Programs
+
+We introduce a first proofs-as-parallel-programs correspondence for classical logic. We define a parallel and more powerful extension of the simply typed lambda calculus corresponding to an analytic natural deduction based on the excluded middle law. The resulting functional language features a natural higher-order communication mechanism between processes, which also supports broadcasting. The normalization procedure makes use of reductions that implement novel techniques for handling and transmitting process closures.

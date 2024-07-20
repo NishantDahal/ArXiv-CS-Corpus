@@ -1,0 +1,3 @@
+Poseidon: a 2-tier Anomaly-based Intrusion Detection System
+
+We present Poseidon, a new anomaly based intrusion detection system. Poseidon is payload-based, and presents a two-tier architecture: the first stage consists of a Self-Organizing Map, while the second one is a modified PAYL system. Our benchmarks on the 1999 DARPA data set show a higher detection rate and lower number of false positives than PAYL and PHAD.

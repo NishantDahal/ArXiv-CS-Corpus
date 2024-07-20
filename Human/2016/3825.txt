@@ -1,0 +1,3 @@
+Frequent-Itemset Mining using Locality-Sensitive Hashing
+
+The Apriori algorithm is a classical algorithm for the frequent itemset mining problem. A significant bottleneck in Apriori is the number of I/O operation involved, and the number of candidates it generates. We investigate the role of LSH techniques to overcome these problems, without adding much computational overhead. We propose randomized variations of Apriori that are based on asymmetric LSH defined over Hamming distance and Jaccard similarity.

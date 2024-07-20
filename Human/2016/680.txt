@@ -1,0 +1,3 @@
+Approximation algorithms for node-weighted prize-collecting Steiner tree problems on planar graphs
+
+We study the prize-collecting version of the Node-weighted Steiner Tree problem (NWPCST) restricted to planar graphs. We give a new primal-dual Lagrangian-multiplier-preserving (LMP) 3-approximation algorithm for planar NWPCST. We then show a ($2.88 + ε$)-approximation which establishes a new best approximation guarantee for planar NWPCST. This is done by combining our LMP algorithm with a threshold rounding technique and utilizing the 2.4-approximation of Berman and Yaroslavtsev for the version without penalties. We also give a primal-dual 4-approximation algorithm for the more general forest version using techniques introduced by Hajiaghay and Jain.

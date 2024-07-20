@@ -1,0 +1,3 @@
+Quantifier elimination for the reals with a predicate for the powers of two
+
+In 1985, van den Dries showed that the theory of the reals with a predicate for the integer powers of two admits quantifier elimination in an expanded language, and is hence decidable. He gave a model-theoretic argument, which provides no apparent bounds on the complexity of a decision procedure. We provide a syntactic argument that yields a procedure that is primitive recursive, although not elementary. In particular, we show that it is possible to eliminate a single block of existential quantifiers in time $2^0_{O(n)}$, where $n$ is the length of the input formula and $2_k^x$ denotes $k$-fold iterated exponentiation.

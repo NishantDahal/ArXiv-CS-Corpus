@@ -1,0 +1,3 @@
+A polynomial-time heuristic for Circuit-SAT
+
+In this paper is presented an heuristic that, in polynomial time and space in the input dimension, determines if a circuit describes a tautology or a contradiction. If the circuit is neither a tautology nor a contradiction, then the heuristic finds an assignment to the circuit inputs such that the circuit is satisfied.

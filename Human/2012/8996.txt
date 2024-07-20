@@ -1,0 +1,3 @@
+Adaptive fast multipole methods on the GPU
+
+We present a highly general implementation of fast multipole methods on graphics processing units (GPUs). Our two-dimensional double precision code features an asymmetric type of adaptive space discretization leading to a particularly elegant and flexible implementation. All steps of the multipole algorithm are efficiently performed on the GPU, including the initial phase which assembles the topological information of the input data. Through careful timing experiments we investigate the effects of the various peculiarities of the GPU architecture.

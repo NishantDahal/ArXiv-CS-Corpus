@@ -1,0 +1,3 @@
+Representation of Evolutionary Algorithms in FPGA Cluster for Project of Large-Scale Networks
+
+Many problems are related to network projects, such as electric distribution, telecommunication and others. Most of them can be represented by graphs, which manipulate thousands or millions of nodes, becoming almost an impossible task to obtain real-time solutions. Many efficient solutions use Evolutionary Algorithms (EA), where researches show that performance of EAs can be substantially raised by using an appropriate representation, such as the Node-Depth Encoding (NDE). The objective of this work was to partition an implementation on single-FPGA (Field-Programmable Gate Array) based on NDE from 512 nodes to a multi-FPGAs approach, expanding the system to 4096 nodes.

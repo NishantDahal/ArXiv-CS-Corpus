@@ -1,0 +1,3 @@
+Reinforcement Learning for Transition-Based Mention Detection
+
+This paper describes an application of reinforcement learning to the mention detection task. We define a novel action-based formulation for the mention detection task, in which a model can flexibly revise past labeling decisions by grouping together tokens and assigning partial mention labels. We devise a method to create mention-level episodes and we train a model by rewarding correctly labeled complete mentions, irrespective of the inner structure created. The model yields results which are on par with a competitive supervised counterpart while being more flexible in terms of achieving targeted behavior through reward modeling and generating internal mention structure, especially on longer mentions.

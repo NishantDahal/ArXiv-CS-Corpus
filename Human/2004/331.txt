@@ -1,0 +1,4 @@
+Protecting Public-Access Sites Against Distributed Denial-of-Service Attacks
+
+A distributed denial-of-service (DDoS) attack can flood a victim site with malicious traffic, causing service disruption or even complete failure. Public-access sites like amazon or ebay are particularly vulnerable to such attacks, because they have no way of a priori blocking unauthorized traffic.
+  We present Active Internet Traffic Filtering (AITF), a mechanism that protects public-access sites from highly distributed attacks by causing undesired traffic to be blocked as close as possible to its sources. We identify filters as a scarce resource and show that AITF protects a significant amount of the victim's bandwidth, while requiring from each participating router a number of filters that can be accommodated by today's routers. AITF is incrementally deployable, because it offers a substantial benefit even to the first sites that deploy it.

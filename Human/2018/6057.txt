@@ -1,0 +1,3 @@
+Counting of Shortest Paths in Cubic Grid
+
+The enumeration of shortest paths in cubic grid is presented here. The cubic grid considers three neighborhods--- 6-neighborhood (face connectivity), 18-neighborhood (edge connectivity), and 26-neighborhood (vertex connectivity). The formulation for distance metrics are given here. $L_1$, $D_{18}$, and $L_\infty$ are the three metrics for 6-neighborhood, 18-neighborhood, and 26-neighborhood. The problem is to find the number of shortest paths based on neighborhoods between two given points in 3D cubic grid represented by coordinate triplets. The formulation for the three neighborhoods are presented here. This problem has theoretical importance and practical aspects.

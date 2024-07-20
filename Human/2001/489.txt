@@ -1,0 +1,3 @@
+Gradient-based Reinforcement Planning in Policy-Search Methods
+
+We introduce a learning method called ``gradient-based reinforcement planning'' (GREP). Unlike traditional DP methods that improve their policy backwards in time, GREP is a gradient-based method that plans ahead and improves its policy before it actually acts in the environment. We derive formulas for the exact policy gradient that maximizes the expected future reward and confirm our ideas with numerical experiments.

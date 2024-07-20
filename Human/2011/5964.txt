@@ -1,0 +1,5 @@
+Query Driven Visualization of Astronomical Catalogs
+
+Interactive visualization of astronomical catalogs requires novel techniques due to the huge volumes and complex structure of the data produced by existing and upcoming astronomical surveys. The creation as well as the disclosure of the catalogs can be handled by data pulling mechanisms. These prevent unnecessary processing and facilitate data sharing by having users request the desired end products.
+  In this work we present query driven visualization as a logical continuation of data pulling. Scientists can request catalogs in a declarative way and set process parameters directly from within the visualization. This results in profound interoperation between software with a high level of abstraction.
+  New messages for the Simple Application Messaging Protocol are proposed to achieve this abstraction. Support for these messages are implemented in the Astro-WISE information system and in a set of demonstrational applications.

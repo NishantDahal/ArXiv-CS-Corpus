@@ -1,0 +1,3 @@
+Gathering by Repulsion
+
+We consider a repulsion actuator located in an $n$-sided convex environment full of point particles. When the actuator is activated, all the particles move away from the actuator. We study the problem of gathering all the particles to a point. We give an $O(n^2)$ time algorithm to compute all the actuator locations that gather the particles to one point with one activation, and an $O(n)$ time algorithm to find a single such actuator location if one exists. We then provide an $O(n)$ time algorithm to place the optimal number of actuators whose sequential activation results in the gathering of the particles when such a placement exists.

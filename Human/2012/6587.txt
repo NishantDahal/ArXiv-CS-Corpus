@@ -1,0 +1,3 @@
+Hybrid Automata and ε-Analysis on a Neural Oscillator
+
+In this paper we propose a hybrid model of a neural oscillator, obtained by  partially discretizing a well-known continuous model. Our construction points  out that in this case the standard techniques, based on replacing sigmoids  with step functions, is not satisfactory. Then, we study the hybrid model  through both symbolic methods and approximation techniques. This last  analysis, in particular, allows us to show the differences between the  considered approximation approaches. Finally, we focus on approximations via  epsilon-semantics, proving how these can be computed in practice. 

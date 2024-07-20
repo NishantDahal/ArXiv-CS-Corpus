@@ -1,0 +1,3 @@
+Range Queries in Non-blocking $k$-ary Search Trees
+
+We present a linearizable, non-blocking $k$-ary search tree ($k$-ST) that supports fast searches and range queries. Our algorithm uses single-word compare-and-swap (CAS) operations, and tolerates any number of crash failures. Performance experiments show that, for workloads containing small range queries, our $k$-ST significantly outperforms other algorithms which support these operations, and rivals the performance of a leading concurrent skip-list, which provides range queries that cannot always be linearized.

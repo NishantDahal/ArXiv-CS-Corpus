@@ -1,0 +1,3 @@
+The Weighted Matching Approach to Maximum Cardinality Matching
+
+Several papers have achieved time $O(\sqrt n m)$ for cardinality matching, starting from first principles. This results in a long derivation. We simplify the task by employing well-known concepts for maximum weight matching. We use Edmonds' algorithm to derive the structure of shortest augmenting paths. We extend this to a complete algorithm for maximum cardinality matching in time $O(\sqrt n m)$.

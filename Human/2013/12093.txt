@@ -1,0 +1,3 @@
+The Rabin cryptosystem revisited
+
+The Rabin public-key cryptosystem is revisited with a focus on the problem of identifying the encrypted message unambiguously for any pair of primes. In particular, a deterministic scheme using quartic reciprocity is described that works for primes congruent 5 modulo 8, a case that was still open. Both theoretical and practical solutions are presented. The Rabin signature is also reconsidered and a deterministic padding mechanism is proposed.

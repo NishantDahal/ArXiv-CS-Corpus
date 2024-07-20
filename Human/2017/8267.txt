@@ -1,0 +1,3 @@
+Directed random walks on polytopes with few facets
+
+Let $P$ be a simple polytope with $n-d = 2$, where $d$ is the dimension and $n$ is the number of facets. The graph of such a polytope is also called a grid. It is known that the directed random walk along the edges of $P$ terminates after $O(\log^2 n)$ steps, if the edges are oriented in a (pseudo-)linear fashion. We prove that the same bound holds for the more general unique sink orientations.

@@ -1,0 +1,3 @@
+Complexity of Monadic inf-datalog. Application to temporal logic
+
+In [11] we defined Inf-Datalog and characterized the fragments of Monadic inf-Datalog that have the same expressive power as Modal Logic (resp. $CTL$, alternation-free Modal $μ$-calculus and Modal $μ$-calculus). We study here the time and space complexity of evaluation of Monadic inf-Datalog programs on finite models. We deduce a new unified proof that model checking has 1. linear data and program complexities (both in time and space) for $CTL$ and alternation-free Modal $μ$-calculus, and 2. linear-space (data and program) complexities, linear-time program complexity and polynomial-time data complexity for $Lμ\_k$ (Modal $μ$-calculus with fixed alternation-depth at most $k$).}

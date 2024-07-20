@@ -1,0 +1,3 @@
+On Self-Reducibility and Reoptimization of Closest Substring Problem
+
+In this paper, we define the reoptimization variant of the closest substring problem (CSP) under sequence addition. We show that, even with the additional information we have about the problem instance, the problem of finding a closest substring is still NP-hard. We investigate the combinatorial property of optimization problems called self-reducibility. We show that problems that are polynomial-time reducible to self-reducible problems also exhibits the same property. We illustrate this in the context of CSP. We used the property to show that although we cannot improve the approximability of the problem, we can improve the running time of the existing PTAS for CSP.

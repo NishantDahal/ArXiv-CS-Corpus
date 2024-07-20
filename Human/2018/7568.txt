@@ -1,0 +1,4 @@
+Non-adaptive Group Testing on Graphs
+
+Grebinski and Kucherov (1998) and Alon et al. (2004-2005) study the problem of learning a hidden graph for some especial cases, such as hamiltonian cycle, cliques, stars, and matchings. This problem is motivated by problems in chemical reactions, molecular biology and genome sequencing.
+  In this paper, we present a generalization of this problem. Precisely, we consider a graph G and a subgraph H of G and we assume that G contains exactly one defective subgraph isomorphic to H. The goal is to find the defective subgraph by testing whether an induced subgraph contains an edge of the defective subgraph, with the minimum number of tests. We present an upper bound for the number of tests to find the defective subgraph by using the symmetric and high probability variation of Lovász Local Lemma.

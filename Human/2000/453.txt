@@ -1,0 +1,6 @@
+Slicing of Constraint Logic Programs
+
+Slicing is a program analysis technique originally developed for imperative languages. It facilitates understanding of data flow and debugging.
+  This paper discusses slicing of Constraint Logic Programs. Constraint Logic Programming (CLP) is an emerging software technology with a growing number of applications. Data flow in constraint programs is not explicit, and for this reason the concepts of slice and the slicing techniques of imperative languages are not directly applicable.
+  This paper formulates declarative notions of slice suitable for CLP. They provide a basis for defining slicing techniques (both dynamic and static) based on variable sharing. The techniques are further extended by using groundness information.
+  A prototype dynamic slicer of CLP programs implementing the presented ideas is briefly described together with the results of some slicing experiments.

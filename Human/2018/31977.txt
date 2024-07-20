@@ -1,0 +1,3 @@
+An Empirical Exploration of Curriculum Learning for Neural Machine Translation
+
+Machine translation systems based on deep neural networks are expensive to train. Curriculum learning aims to address this issue by choosing the order in which samples are presented during training to help train better models faster. We adopt a probabilistic view of curriculum learning, which lets us flexibly evaluate the impact of curricula design, and perform an extensive exploration on a German-English translation task. Results show that it is possible to improve convergence time at no loss in translation quality. However, results are highly sensitive to the choice of sample difficulty criteria, curriculum schedule and other hyperparameters.

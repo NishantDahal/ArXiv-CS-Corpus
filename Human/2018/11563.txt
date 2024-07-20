@@ -1,0 +1,3 @@
+Recurrent knowledge distillation
+
+Knowledge distillation compacts deep networks by letting a small student network learn from a large teacher network. The accuracy of knowledge distillation recently benefited from adding residual layers. We propose to reduce the size of the student network even further by recasting multiple residual layers in the teacher network into a single recurrent student layer. We propose three variants of adding recurrent connections into the student network, and show experimentally on CIFAR-10, Scenes and MiniPlaces, that we can reduce the number of parameters at little loss in accuracy.

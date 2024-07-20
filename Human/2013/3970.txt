@@ -1,0 +1,3 @@
+The K-modes algorithm for clustering
+
+Many clustering algorithms exist that estimate a cluster centroid, such as K-means, K-medoids or mean-shift, but no algorithm seems to exist that clusters data by returning exactly K meaningful modes. We propose a natural definition of a K-modes objective function by combining the notions of density and cluster assignment. The algorithm becomes K-means and K-medoids in the limit of very large and very small scales. Computationally, it is slightly slower than K-means but much faster than mean-shift or K-medoids. Unlike K-means, it is able to find centroids that are valid patterns, truly representative of a cluster, even with nonconvex clusters, and appears robust to outliers and misspecification of the scale and number of clusters.

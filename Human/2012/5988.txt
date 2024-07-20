@@ -1,0 +1,3 @@
+Two-Way Latent Grouping Model for User Preference Prediction
+
+We introduce a novel latent grouping model for predicting the relevance of a new document to a user. The model assumes a latent group structure for both users and documents. We compared the model against a state-of-the-art method, the User Rating Profile model, where only users have a latent group structure. We estimate both models by Gibbs sampling. The new method predicts relevance more accurately for new documents that have few known ratings. The reason is that generalization over documents then becomes necessary and hence the twoway grouping is profitable.

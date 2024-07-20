@@ -1,0 +1,3 @@
+Deciding Hedged Bisimilarity
+
+The spi-calculus is a formal model for the design and analysis of cryptographic protocols: many security properties, such as authentication and strong confidentiality, can be reduced to the verification of behavioural equivalences between spi processes. In this paper we provide an algorithm for deciding hedged bisimilarity on finite processes, which is equivalent to barbed equivalence (and coarser than framed bisimilarity). This algorithm works with any term equivalence satisfying a simple set of conditions, thus encompassing many different encryption schemata.

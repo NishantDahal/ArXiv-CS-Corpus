@@ -1,0 +1,3 @@
+An Efficient Loop-free Version of AODVv2
+
+Ad hoc On Demand distance Vector (AODV) routing protocol is one of the most prominent routing protocol used in Mobile Ad-hoc Networks (MANETs). Due to the mobility of nodes, there exists many revisions as scenarios leading to the loop formation were found. We demonstrate the loop freedom property violation of AODVv2-11, AODVv2-13, and AODVv2-16 through counterexamples. We present our proposed version of AODVv2 precisely which not only ensures loop freedom but also improves the performance.

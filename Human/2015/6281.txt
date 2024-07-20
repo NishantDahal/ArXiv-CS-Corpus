@@ -1,0 +1,3 @@
+Extremal Cuts of Sparse Random Graphs
+
+For Erdős-Rényi random graphs with average degree $γ$, and uniformly random $γ$-regular graph on $n$ vertices, we prove that with high probability the size of both the Max-Cut and maximum bisection are $n\Big(\fracγ{4} + {\sf P}_* \sqrt{\fracγ{4}} + o(\sqrtγ)\Big) + o(n)$ while the size of the minimum bisection is $n\Big(\fracγ{4}-{\sf P}_*\sqrt{\fracγ{4}} + o(\sqrtγ)\Big) + o(n)$. Our derivation relates the free energy of the anti-ferromagnetic Ising model on such graphs to that of the Sherrington-Kirkpatrick model, with ${\sf P}_* \approx 0.7632$ standing for the ground state energy of the latter, expressed analytically via Parisi's formula.

@@ -1,0 +1,3 @@
+Thermal analysis of 3D associative processor
+
+Thermal density and hot spots limit three-dimensional (3D) implementation of massively-parallel SIMD processors and prohibit stacking DRAM dies above them. This study proposes replacing SIMD by an Associative Processor (AP). AP exhibits close to uniform thermal distribution with reduced hot spots. Additionally, AP may outperform SIMD processor when the data set size is sufficiently large, while dissipating less power. Comparative performance and thermal analysis supported by simulation confirm that AP might be preferable over SIMD for 3D implementation of large scale massively parallel processing engines combined with 3D DRAM integration.

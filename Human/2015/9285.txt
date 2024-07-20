@@ -1,0 +1,3 @@
+Planar lower envelope of monotone polygonal chains
+
+A simple linear search algorithm running in $O(n+mk)$ time is proposed for constructing the lower envelope of $k$ vertices from $m$ monotone polygonal chains in 2D with $n$ vertices in total. This can be applied to output-sensitive construction of lower envelopes for arbitrary line segments in optimal $O(n\log k)$ time, where $k$ is the output size. Compared to existing output-sensitive algorithms for lower envelopes, this is simpler to implement, does not require complex data structures, and is a constant factor faster.

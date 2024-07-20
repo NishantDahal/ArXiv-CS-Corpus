@@ -1,0 +1,3 @@
+Building an Ecosystem for the Tyrolean Tourism Knowledge Graph
+
+The introduction of the schema.org vocabulary was a big step towards making websites machine read- and understandable. Due to schema.org's RDF-like nature storing annotations in a graph database is easy and efficient. In this paper the authors show how they gather touristic data in the Austrian region of Tirol and provide this data publicly in a knowledge graph. The definition of subsets of the vocabulary is followed by providing means to map data sources efficiently to schema.org and then store the annotated content into the graph. To showcase the consumption of the touristic data four scenarios are described which use the knowledge graph for real life applications and data analysis.

@@ -1,0 +1,3 @@
+Odeint - Solving ordinary differential equations in C++
+
+Many physical, biological or chemical systems are modeled by ordinary differential equations (ODEs) and finding their solution is an every-day-task for many scientists. Here, we introduce a new C++ library dedicated to find numerical solutions of initial value problems of ODEs: odeint (www.odeint.com). odeint is implemented in a highly generic way and provides extensive interoperability at top performance. For example, due to it's modular design it can be easily parallized with OpenMP and even runs on CUDA GPUs. Despite that, it provides a convenient interface that allows for a simple and easy usage.

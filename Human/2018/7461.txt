@@ -1,0 +1,3 @@
+On spectral partitioning of signed graphs
+
+We argue that the standard graph Laplacian is preferable for spectral partitioning of signed graphs compared to the signed Laplacian. Simple examples demonstrate that partitioning based on signs of components of the leading eigenvectors of the signed Laplacian may be meaningless, in contrast to partitioning based on the Fiedler vector of the standard graph Laplacian for signed graphs. We observe that negative eigenvalues are beneficial for spectral partitioning of signed graphs, making the Fiedler vector easier to compute.

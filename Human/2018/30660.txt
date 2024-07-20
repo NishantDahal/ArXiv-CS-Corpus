@@ -1,0 +1,3 @@
+Optical Flow Based Online Moving Foreground Analysis
+
+Obtained by moving object detection, the foreground mask result is unshaped and can not be directly used in most subsequent processes. In this paper, we focus on this problem and address it by constructing an optical flow based moving foreground analysis framework. During the processing procedure, the foreground masks are analyzed and segmented through two complementary clustering algorithms. As a result, we obtain the instance-level information like the number, location and size of moving objects. The experimental result show that our method adapts itself to the problem and performs well enough for practical applications.

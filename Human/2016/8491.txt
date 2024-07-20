@@ -1,0 +1,3 @@
+An Overview of Approaches to Modernize Quantum Annealing Using Local Searches
+
+I describe how real quantum annealers may be used to perform local (in state space) searches around specified states, rather than the global searches traditionally implemented in the quantum annealing algorithm. The quantum annealing algorithm is an analogue of simulated annealing, a classical numerical technique which is now obsolete. Hence, I explore strategies to use an annealer in a way which takes advantage of modern classical optimization algorithms, and additionally should be less sensitive to problem mis-specification then the traditional quantum annealing algorithm.

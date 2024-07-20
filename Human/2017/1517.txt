@@ -1,0 +1,6 @@
+Epipolar Geometry Based On Line Similarity
+
+It is known that epipolar geometry can be computed from three epipolar line correspondences but this computation is rarely used in practice since there are no simple methods to find corresponding lines. Instead, methods for finding corresponding points are widely used. This paper proposes a similarity measure between lines that indicates whether two lines are corresponding epipolar lines and enables finding epipolar line correspondences as needed for the computation of epipolar geometry.
+  A similarity measure between two lines, suitable for video sequences of a dynamic scene, has been previously described. This paper suggests a stereo matching similarity measure suitable for images. It is based on the quality of stereo matching between the two lines, as corresponding epipolar lines yield a good stereo correspondence.
+  Instead of an exhaustive search over all possible pairs of lines, the search space is substantially reduced when two corresponding point pairs are given.
+  We validate the proposed method using real-world images and compare it to state-of-the-art methods. We found this method to be more accurate by a factor of five compared to the standard method using seven corresponding points and comparable to the 8-points algorithm.

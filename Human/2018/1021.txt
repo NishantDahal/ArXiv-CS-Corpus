@@ -1,0 +1,3 @@
+Counterfactual equivalence for POMDPs, and underlying deterministic environments
+
+Partially Observable Markov Decision Processes (POMDPs) are rich environments often used in machine learning. But the issue of information and causal structures in POMDPs has been relatively little studied. This paper presents the concepts of equivalent and counterfactually equivalent POMDPs, where agents cannot distinguish which environment they are in though any observations and actions. It shows that any POMDP is counterfactually equivalent, for any finite number of turns, to a deterministic POMDP with all uncertainty concentrated into the initial state. This allows a better understanding of POMDP uncertainty, information, and learning.

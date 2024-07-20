@@ -1,0 +1,3 @@
+Fast Multiplication of Large Integers: Implementation and Analysis of the DKSS Algorithm
+
+The Schönhage-Strassen algorithm (SSA) is the de-facto standard for multiplication of large integers. For $N$-bit numbers it has a time bound of $O(N \cdot \log N \cdot \log \log N)$. De, Kurur, Saha and Saptharishi (DKSS) presented an asymptotically faster algorithm with a better time bound of $N \cdot \log N \cdot 2^{O(\log^* N)}$. In this diploma thesis, results of an implementation of DKSS multiplication are presented: run-time is about 30 times larger than SSA, while memory requirements are about 3.75 times higher than SSA. A possible crossover point is estimated to be out of reach even if we utilized the whole universe for computer memory.

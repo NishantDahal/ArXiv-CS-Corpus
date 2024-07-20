@@ -1,0 +1,3 @@
+Locating a Small Cluster Privately
+
+We present a new algorithm for locating a small cluster of points with differential privacy [Dwork, McSherry, Nissim, and Smith, 2006]. Our algorithm has implications to private data exploration, clustering, and removal of outliers. Furthermore, we use it to significantly relax the requirements of the sample and aggregate technique [Nissim, Raskhodnikova, and Smith, 2007], which allows compiling of "off the shelf" (non-private) analyses into analyses that preserve differential privacy.

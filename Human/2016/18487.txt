@@ -1,0 +1,3 @@
+Numerical Approach to Maximize SNR for CDMA Systems
+
+Signal to Noise Ratio (SNR) is an important index for wireless communications. There are many methods for increasing SNR. In CDMA systems, spreading sequences are used. To increase SNR, we have to improve spreading sequences. In classical approaches, the expression of SNR is not differentiable in terms of the parameter of the spreading sequences even in no fading situations. Thus, we express it as the differentiable form and construct the non-linear programing for maximizing SNR. In particular, we solve the problem of maximizing SNR numerically by obtaining spreading sequences whose SNR is guaranteed to be high.

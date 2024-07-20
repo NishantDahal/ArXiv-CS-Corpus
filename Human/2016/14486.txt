@@ -1,0 +1,3 @@
+Quantum conditional query complexity
+
+We define and study a new type of quantum oracle, the quantum conditional oracle, which provides oracle access to the conditional probabilities associated with an underlying distribution. Amongst other properties, we (a) obtain speed-ups over the best known quantum algorithms for identity testing, equivalence testing and uniformity testing of probability distributions; (b) study the power of these oracles for testing properties of boolean functions, and obtain an algorithm for checking whether an $n$-input $m$-output boolean function is balanced or $ε$-far from balanced; and (c) give a sub-linear algorithm, requiring $\tilde{O}(n^{3/4}/ε)$ queries, for testing whether an $n$-dimensional quantum state is maximally mixed or not.

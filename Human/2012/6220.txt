@@ -1,0 +1,3 @@
+Optimal Listing of Cycles and st-Paths in Undirected Graphs
+
+We present the first optimal algorithm for the classical problem of listing all the cycles in an undirected graph. We exploit their properties so that the total cost is the time taken to read the input graph plus the time to list the output, namely, the edges in each of the cycles. The algorithm uses a reduction to the problem of listing all the paths from a vertex s to a vertex t which we also solve optimally.

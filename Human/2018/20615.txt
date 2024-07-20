@@ -1,0 +1,3 @@
+Simplified Parsing Expression Derivatives
+
+This paper presents a new derivative parsing algorithm for parsing expression grammars; this new algorithm is both simpler and faster than the existing parsing expression derivative algorithm presented by Moss. This new algorithm improves on the worst-case space and runtime bounds of the previous algorithm by a linear factor, as well as decreasing runtime by about half in practice. A proof of correctness for the new algorithm is included in this paper, a result not present in earlier work.

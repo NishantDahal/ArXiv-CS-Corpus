@@ -1,0 +1,3 @@
+Accelerated Linearized Bregman Method
+
+In this paper, we propose and analyze an accelerated linearized Bregman (ALB) method for solving the basis pursuit and related sparse optimization problems. This accelerated algorithm is based on the fact that the linearized Bregman (LB) algorithm is equivalent to a gradient descent method applied to a certain dual formulation. We show that the LB method requires $O(1/ε)$ iterations to obtain an $ε$-optimal solution and the ALB algorithm reduces this iteration complexity to $O(1/\sqrtε)$ while requiring almost the same computational effort on each iteration. Numerical results on compressed sensing and matrix completion problems are presented that demonstrate that the ALB method can be significantly faster than the LB method.

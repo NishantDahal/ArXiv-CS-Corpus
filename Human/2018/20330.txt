@@ -1,0 +1,3 @@
+The Bounded Laplace Mechanism in Differential Privacy
+
+The Laplace mechanism is the workhorse of differential privacy, applied to many instances where numerical data is processed. However, the Laplace mechanism can return semantically impossible values, such as negative counts, due to its infinite support. There are two popular solutions to this: (i) bounding/capping the output values and (ii) bounding the mechanism support. In this paper, we show that bounding the mechanism support, while using the parameters of the pure Laplace mechanism, does not typically preserve differential privacy. We also present a robust method to compute the optimal mechanism parameters to achieve differential privacy in such a setting.

@@ -1,0 +1,3 @@
+On the Scalability of Data Reduction Techniques in Current and Upcoming HPC Systems from an Application Perspective
+
+We implement and benchmark parallel I/O methods for the fully-manycore driven particle-in-cell code PIConGPU. Identifying throughput and overall I/O size as a major challenge for applications on today's and future HPC systems, we present a scaling law characterizing performance bottlenecks in state-of-the-art approaches for data reduction. Consequently, we propose, implement and verify multi-threaded data-transformations for the I/O library ADIOS as a feasible way to trade underutilized host-side compute potential on heterogeneous systems for reduced I/O latency.

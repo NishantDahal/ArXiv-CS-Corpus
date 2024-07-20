@@ -1,0 +1,3 @@
+Computing LZ77 in Run-Compressed Space
+
+In this paper, we show that the LZ77 factorization of a text T {\inΣ^n} can be computed in O(R log n) bits of working space and O(n log R) time, R being the number of runs in the Burrows-Wheeler transform of T reversed. For extremely repetitive inputs, the working space can be as low as O(log n) bits: exponentially smaller than the text itself. As a direct consequence of our result, we show that a class of repetition-aware self-indexes based on a combination of run-length encoded BWT and LZ77 can be built in asymptotically optimal O(R + z) words of working space, z being the size of the LZ77 parsing.

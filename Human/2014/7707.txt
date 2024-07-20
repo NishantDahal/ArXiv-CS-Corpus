@@ -1,0 +1,3 @@
+Mixed-integer Quadratic Programming is in NP
+
+Mixed-integer quadratic programming is the problem of optimizing a quadratic function over points in a polyhedral set where some of the components are restricted to be integral. In this paper, we prove that the decision version of mixed-integer quadratic programming is in NP, thereby showing that it is NP-complete. This is established by showing that if the decision version of mixed-integer quadratic programming is feasible, then there exists a solution of polynomial size. This result generalizes and unifies classical results that quadratic programming is in NP and integer linear programming is in NP.

@@ -1,0 +1,3 @@
+What are the Receptive, Effective Receptive, and Projective Fields of Neurons in Convolutional Neural Networks?
+
+In this work, we explain in detail how receptive fields, effective receptive fields, and projective fields of neurons in different layers, convolution or pooling, of a Convolutional Neural Network (CNN) are calculated. While our focus here is on CNNs, the same operations, but in the reverse order, can be used to calculate these quantities for deconvolutional neural networks. These are important concepts, not only for better understanding and analyzing convolutional and deconvolutional networks, but also for optimizing their performance in real-world applications.

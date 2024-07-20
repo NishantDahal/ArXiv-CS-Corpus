@@ -1,0 +1,3 @@
+Ruitenburg's Theorem via Duality and Bounded Bisimulations
+
+For a given intuitionistic propositional formula A and a propositional variable x occurring in it, define the infinite sequence of formulae { A \_i | i$\ge$1} by letting A\_1 be A and A\_{i+1} be A(A\_i/x). Ruitenburg's Theorem [8] says that the sequence { A \_i } (modulo logical equivalence) is ultimately periodic with period 2, i.e. there is N $\ge$ 0 such that A N+2 $\leftrightarrow$ A N is provable in intuitionistic propositional calculus. We give a semantic proof of this theorem, using duality techniques and bounded bisimulations ranks.

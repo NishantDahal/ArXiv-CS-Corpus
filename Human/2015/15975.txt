@@ -1,0 +1,5 @@
+A parallel edge orientation algorithm for quadrilateral meshes
+
+One approach to achieving correct finite element assembly is to ensure that the local orientation of facets relative to each cell in the mesh is consistent with the global orientation of that facet. Rognes et al. have shown how to achieve this for any mesh composed of simplex elements, and deal.II contains a serial algorithm to construct a consistent orientation of any quadrilateral mesh of an orientable manifold.
+  The core contribution of this paper is the extension of this algorithm for distributed memory parallel computers, which facilitates its seamless application as part of a parallel simulation system.
+  Furthermore, our analysis establishes a link between the well-known Union-Find algorithm and the construction of a consistent orientation of a quadrilateral mesh. As a result, existing work on the parallelisation of the Union-Find algorithm can be easily adapted to construct further parallel algorithms for mesh orientations.

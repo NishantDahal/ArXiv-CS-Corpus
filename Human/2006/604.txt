@@ -1,0 +1,3 @@
+A Delay Analysis of Maximal Matching Switching with Speedup
+
+In this paper we analyze the average queue backlog in a combined input-output queued switch using a maximal size matching scheduling algorithm. We compare this average backlog to the average backlog achieved by an optimal switch. We model the cell arrival process as independent and identically distributed between time slots and uniformly distributed among input and output ports. For switches with many input and output ports, the backlog associated with maximal size matching with speedup 3 is no more than 10/3 times the backlog associated with an optimal switch. Moreover, this performance ratio rapidly approaches 2 as speedup increases.

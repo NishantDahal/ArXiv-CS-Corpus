@@ -1,0 +1,3 @@
+Misfire Detection in IC Engine using Kstar Algorithm
+
+Misfire in an IC Engine continues to be a problem leading to reduced fuel efficiency, increased power loss and emissions containing heavy concentration of hydrocarbons. Misfiring creates a unique vibration pattern attributed to a particular cylinder. Useful features can be extracted from these patterns and can be analyzed to detect misfire. Statistical features from these vibration signals were extracted. Out of these, useful features were identified using the J48 decision tree algorithm and selected features were used for classification using the Kstar algorithm. In this paper performance analysis of Kstar algorithm is presented.

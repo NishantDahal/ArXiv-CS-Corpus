@@ -1,0 +1,3 @@
+Predicting clicks in online display advertising with latent features and side-information
+
+We review a method for click-through rate prediction based on the work of Menon et al. [11], which combines collaborative filtering and matrix factorization with a side-information model and fuses the outputs to proper probabilities in [0,1]. In addition we provide details, both for the modeling as well as the experimental part, that are not found elsewhere. We rigorously test the performance on several test data sets from consecutive days in a click-through rate prediction setup, in a manner which reflects a real-world pipeline. Our results confirm that performance can be increased using latent features, albeit the differences in the measures are small but significant.

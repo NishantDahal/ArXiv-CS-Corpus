@@ -1,0 +1,3 @@
+The LTS WorkBench
+
+Labelled Transition Systems (LTSs) are a fundamental semantic model in many areas of informatics, especially concurrency theory.  Yet, reasoning on LTSs and relations between their states can be difficult and elusive: very simple process algebra terms can give rise to a large (possibly infinite) number of intricate transitions and interactions.  To ease this kind of study, we present LTSwb, a flexible and extensible LTS toolbox: this tutorial paper discusses its design and functionalities.

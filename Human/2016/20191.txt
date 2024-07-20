@@ -1,0 +1,5 @@
+Analysing Text in Software Projects
+
+Most of the data produced in software projects is of textual nature: source code, specifications, or documentations. The advances in quantitative analysis methods drove a lot of data analytics in software engineering. This has overshadowed to some degree the importance of texts and their qualitative analysis. Such analysis has, however, merits for researchers and practitioners as well.
+  In this chapter, we describe the basics of analysing text in software projects. We first describe how to manually analyse and code textual data. Next, we give an overview of mixed methods to automatic text analysis including N-Grams and clone detection as well as more sophisticated natural language processing identifying syntax and contexts of words. Those methods and tools are of critical importance to aid in the challenges in today's huge amounts of textual data.
+  We illustrate the introduced methods via a running example and conclude by presenting two industrial studies.

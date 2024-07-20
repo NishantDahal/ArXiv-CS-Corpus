@@ -1,0 +1,4 @@
+Using Constraint Handling Rules to Provide Static Type Analysis for the Q Functional Language
+
+We describe an application of Prolog: a type checking tool for the Q functional language. Q is a terse vector processing language, a descendant of APL, which is getting more and more popular, especially in financial applications. Q is a dynamically typed language, much like Prolog. Extending Q with static typing improves both the readability of programs and programmer productivity, as type errors are discovered by the tool at compile time, rather than through debugging the program execution.
+  The type checker uses constraints that are handled by Prolog Constraint Handling Rules. During the analysis, we determine the possible type values for each program expression and detect inconsistencies. As most built-in function names of Q are overloaded, i.e. their meaning depends on the argument types, a quite complex system of constraints had to be implemented.

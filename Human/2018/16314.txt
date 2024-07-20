@@ -1,0 +1,3 @@
+Online Feature Ranking for Intrusion Detection Systems
+
+Many current approaches to the design of intrusion detection systems apply feature selection in a static, non-adaptive fashion. These methods often neglect the dynamic nature of network data which requires to use adaptive feature selection techniques. In this paper, we present a simple technique based on incremental learning of support vector machines in order to rank the features in real time within a streaming model for network data. Some illustrative numerical experiments with two popular benchmark datasets show that our approach allows to adapt to the changes in normal network behaviour and novel attack patterns which have not been experienced before.

@@ -1,0 +1,3 @@
+GNU Radio Signal Processing Models for Dynamic Multi-User Burst Modems
+
+This paper presents a modern method for implementing burst modems in GNU Radio. Since burst modems are widely used for multi-user channel access and sharing in non-broadcast radio systems, this capability is critical to the development of numerous waveforms in GNU Radio. We focus on making such systems easy to develop and adapt to wide classes of modems and computationally efficient at runtime. We use the GNU Radio Event Stream scheduler to demonstrate concise implementations of burst PSK and FSK modems in GNU Radio and compare this with alternate approaches which have been attempted in GNU Radio.

@@ -1,0 +1,3 @@
+Cryptographic security of quantum key distribution
+
+This work is intended as an introduction to cryptographic security and a motivation for the widely used Quantum Key Distribution (QKD) security definition. We review the notion of security necessary for a protocol to be usable in a larger cryptographic context, i.e., for it to remain secure when composed with other secure protocols. We then derive the corresponding security criterion for QKD. We provide several examples of QKD composed in sequence and parallel with different cryptographic schemes to illustrate how the error of a composed protocol is the sum of the errors of the individual protocols. We also discuss the operational interpretations of the distance metric used to quantify these errors.

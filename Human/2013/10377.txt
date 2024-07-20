@@ -1,0 +1,4 @@
+Choreography Synthesis as Contract Agreement
+
+We propose a formal model for distributed systems, where each participant advertises its requirements and obligations as behavioural contracts, and where multiparty sessions are started when a set of contracts allows to synthesise a choreography.  Our framework is based on the CO2 calculus for contract-oriented computing, and borrows concepts and results from the session type literature.
+  It supports sessions where the number of participants is not determined beforehand, and keeps CO2's ability to rule out participants that are culpable if contracts are not fulfilled at runtime.  We show that we have progress and session fidelity in CO2, as a result of the honesty of participants - i.e., their ability to always adhere to their contracts.

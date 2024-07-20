@@ -1,0 +1,3 @@
+A High-Quality Speech and Audio Codec With Less Than 10 ms Delay
+
+With increasing quality requirements for multimedia communications, audio codecs must maintain both high quality and low delay. Typically, audio codecs offer either low delay or high quality, but rarely both. We propose a codec that simultaneously addresses both these requirements, with a delay of only 8.7 ms at 44.1 kHz. It uses gain-shape algebraic vector quantisation in the frequency domain with time-domain pitch prediction. We demonstrate that the proposed codec operating at 48 kbit/s and 64 kbit/s out-performs both G.722.1C and MP3 and has quality comparable to AAC-LD, despite having less than one fourth of the algorithmic delay of these codecs.

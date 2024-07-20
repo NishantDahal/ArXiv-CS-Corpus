@@ -1,0 +1,4 @@
+KeyVec: Key-semantics Preserving Document Representations
+
+Previous studies have demonstrated the empirical success of word embeddings in various applications. In this paper, we investigate the problem of learning distributed representations for text documents which many machine learning algorithms take as input for a number of NLP tasks.
+  We propose a neural network model, KeyVec, which learns document representations with the goal of preserving key semantics of the input text. It enables the learned low-dimensional vectors to retain the topics and important information from the documents that will flow to downstream tasks. Our empirical evaluations show the superior quality of KeyVec representations in two different document understanding tasks.

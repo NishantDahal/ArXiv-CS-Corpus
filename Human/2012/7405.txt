@@ -1,0 +1,3 @@
+Sparse Signal Recovery from Quadratic Measurements via Convex Programming
+
+In this paper we consider a system of quadratic equations |<z_j, x>|^2 = b_j, j = 1, ..., m, where x in R^n is unknown while normal random vectors z_j in R_n and quadratic measurements b_j in R are known. The system is assumed to be underdetermined, i.e., m < n. We prove that if there exists a sparse solution x, i.e., at most k components of x are non-zero, then by solving a convex optimization program, we can solve for x up to a multiplicative constant with high probability, provided that k <= O((m/log n)^(1/2)). On the other hand, we prove that k <= O(log n (m)^(1/2)) is necessary for a class of naive convex relaxations to be exact.

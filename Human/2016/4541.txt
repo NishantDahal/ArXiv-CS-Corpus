@@ -1,0 +1,3 @@
+Undecidability of Two-dimensional Robot Games
+
+Robot game is a two-player vector addition game played on the integer lattice $\mathbb{Z}^n$. Both players have sets of vectors and in each turn the vector chosen by a player is added to the current configuration vector of the game. One of the players, called Eve, tries to play the game from the initial configuration to the origin while the other player, Adam, tries to avoid the origin. The problem is to decide whether or not Eve has a winning strategy. In this paper we prove undecidability of the robot game in dimension two answering the question formulated by Doyen and Rabinovich in 2011 and closing the gap between undecidable and decidable cases.

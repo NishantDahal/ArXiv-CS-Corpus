@@ -1,0 +1,3 @@
+Places205-VGGNet Models for Scene Recognition
+
+VGGNets have turned out to be effective for object recognition in still images. However, it is unable to yield good performance by directly adapting the VGGNet models trained on the ImageNet dataset for scene recognition. This report describes our implementation of training the VGGNets on the large-scale Places205 dataset. Specifically, we train three VGGNet models, namely VGGNet-11, VGGNet-13, and VGGNet-16, by using a Multi-GPU extension of Caffe toolbox with high computational efficiency. We verify the performance of trained Places205-VGGNet models on three datasets: MIT67, SUN397, and Places205. Our trained models achieve the state-of-the-art performance on these datasets and are made public available.

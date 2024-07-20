@@ -1,0 +1,4 @@
+INKA: An Ink-based Model of Graph Visualization
+
+Common quality metrics of graph drawing have been about the readability criteria, such as small number of edge crossings, small drawing area and small total edge length. Bold graph drawing considers more realistic drawings consisting of vertices as disks of some radius and edges as rectangles of some width. However, the relationship that links these readability criteria with the rendering criteria in node-link diagrams has still not been well-established.
+  This paper introduces a model, so-called INKA (Ink-Active), that encapsulates mathematically the relationship between all common drawing factors. Consequently, we investigate our INKA model on several common drawing algorithms and real-world graphs.

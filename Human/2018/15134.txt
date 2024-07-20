@@ -1,0 +1,3 @@
+Drawing a Rooted Tree as a Rooted $y-$Monotone Minimum Spanning Tree
+
+Given a rooted point set $P$, the rooted $y-$Monotone Minimum Spanning Tree (rooted $y-$MMST) of $P$ is the spanning geometric graph of $P$ in which all the vertices are connected to the root by some $y-$monotone path and the sum of the Euclidean lengths of its edges is the minimum. We show that the maximum degree of a rooted $y-$MMST is not bounded by a constant number. We give a linear time algorithm that draws any rooted tree as a rooted $y-$MMST and also show that there exist rooted trees that can be drawn as rooted $y-$MMSTs only in a grid of exponential area.

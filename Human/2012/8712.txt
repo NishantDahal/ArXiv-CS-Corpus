@@ -1,0 +1,6 @@
+Learn with SAT to Minimize Büchi Automata
+
+We describe a minimization procedure for nondeterministic Büchi automata (NBA). For an automaton A another automaton A_min with the minimal number of states  is learned with the help of a SAT-solver.
+  This is done by successively computing automata A' that approximate A in the  sense that they accept a given finite set of positive examples and reject a  given finite set of negative examples. In the course of the procedure these example sets are successively increased. Thus, our method can be seen as an  instance of a generic learning algorithm based on a "minimally adequate  teacher" in the sense of Angluin.
+  We use a SAT solver to find an NBA for given sets of positive and negative  examples. We use complementation via construction of deterministic parity  automata to check candidates computed in this manner for equivalence with A.   Failure of equivalence yields new positive or negative examples. Our method proved successful on complete samplings of small automata and of quite some  examples of bigger automata.
+  We successfully ran the minimization on over ten thousand automata with mostly  up to ten states, including the complements of all possible automata with two  states and alphabet size three and discuss results and runtimes; single  examples had over 100 states.

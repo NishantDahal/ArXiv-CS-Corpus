@@ -1,0 +1,3 @@
+A Dataset for StarCraft AI \& an Example of Armies Clustering
+
+This paper advocates the exploration of the full state of recorded real-time strategy (RTS) games, by human or robotic players, to discover how to reason about tactics and strategy. We present a dataset of StarCraft games encompassing the most of the games' state (not only player's orders). We explain one of the possible usages of this dataset by clustering armies on their compositions. This reduction of armies compositions to mixtures of Gaussian allow for strategic reasoning at the level of the components. We evaluated this clustering method by predicting the outcomes of battles based on armies compositions' mixtures components

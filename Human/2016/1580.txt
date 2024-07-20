@@ -1,0 +1,3 @@
+Computing approximate PSD factorizations
+
+We give an algorithm for computing approximate PSD factorizations of nonnegative matrices. The running time of the algorithm is polynomial in the dimensions of the input matrix, but exponential in the PSD rank and the approximation error. The main ingredient is an exact factorization algorithm when the rows and columns of the factors are constrained to lie in a general polyhedron. This strictly generalizes nonnegative matrix factorizations which can be captured by letting this polyhedron to be the nonnegative orthant.

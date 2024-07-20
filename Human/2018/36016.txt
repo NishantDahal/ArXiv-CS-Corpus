@@ -1,0 +1,3 @@
+Inverse Problems with Invariant Multiscale Statistics
+
+We propose a new approach to linear ill-posed inverse problems. Our algorithm alternates between enforcing two constraints: the measurements and the statistical correlation structure in some transformed space. We use a non-linear multiscale scattering transform which discards the phase and thus exposes strong spectral correlations otherwise hidden beneath the phase fluctuations. As a result, both constraints may be put into effect by linear projections in their respective spaces. We apply the algorithm to super-resolution and tomography and show that it outperforms ad hoc convex regularizers and stably recovers the missing spectrum.

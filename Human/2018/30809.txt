@@ -1,0 +1,3 @@
+A Bayesian optimization approach to compute the Nash equilibria of potential games using bandit feedback
+
+Computing Nash equilibria for strategic multi-agent systems is challenging for expensive black box systems. Motivated by the ubiquity of games involving exploitation of common resources, this paper considers the above problem for potential games. We use the Bayesian optimization framework to obtain novel algorithms to solve finite (discrete action spaces) and infinite (real interval action spaces) potential games, utilizing the structure of potential games. Numerical results illustrate the efficiency of the approach in computing the Nash equilibria of static potential games and linear Nash equilibria of dynamic potential games.

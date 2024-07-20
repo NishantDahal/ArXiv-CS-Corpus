@@ -1,0 +1,3 @@
+Locally Encodable and Decodable Codes for Distributed Storage Systems
+
+We consider the locality of encoding and decoding operations in distributed storage systems (DSS), and propose a new class of codes, called locally encodable and decodable codes (LEDC), that provides a higher degree of operational locality compared to currently known codes. For a given locality structure, we derive an upper bound on the global distance and demonstrate the existence of an optimal LEDC for sufficiently large field size. In addition, we also construct two families of optimal LEDC for fields with size linear in code length.

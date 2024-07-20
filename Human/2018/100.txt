@@ -1,0 +1,3 @@
+Symmetries and similarities of planar algebraic curves using harmonic polynomials
+
+We present novel, deterministic, efficient algorithms to compute the symmetries of a planar algebraic curve, implicitly defined, and to check whether or not two given implicit planar algebraic curves are similar, i.e. equal up to a similarity transformation. Both algorithms are based on the fact, well-known in Harmonic Analysis, that the Laplacian operator commutes with orthogonal transformations, and on efficient algorithms to find the symmetriessimilarities of a harmonic algebraic curvetwo given harmonic algebraic curves. In fact, we show that in general the problem can be reduced to the harmonic case, except for some special cases, easy to treat.

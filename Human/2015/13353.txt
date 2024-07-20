@@ -1,0 +1,3 @@
+Detecting "protein words" through unsupervised word segmentation
+
+Unsupervised word segmentation methods were applied to analyze the protein sequence. Protein sequences, such as 'MTMDKSELVQKA...', were used as input to these methods. Segmented 'protein word' sequences, such as 'MTM DKSE LVQKA', were then obtained. We compare the 'protein words' produced by unsupervised segmentation and the protein secondary structure segmentation. An interesting finding is that the unsupervised word segmentation is more efficient than secondary structure segmentation in expressing information. Our experiment also suggests there may be some 'protein ruins' in current noncoding regions.

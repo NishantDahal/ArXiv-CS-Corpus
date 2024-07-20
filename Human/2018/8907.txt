@@ -1,0 +1,4 @@
+Introducing Liveness into Multi-lane Spatial Logic lane change controllers using UPPAAL
+
+With Multi-lane Spatial Logic (MLSL) a powerful approach to formally reason about and prove safety of autonomous traffic manoeuvres was introduced. Extended timed automata controllers using MLSL were constructed to commit safe lane change manoeuvres on highways. However, the approach has only few implementation and verification results. We thus strenghen the MLSL approach by implementing their lane change controller in UPPAAL and confirming the safety of the lane change protocol. We also detect the unlive behaviour of the original controller and thus extend it to finally verify liveness of the new lane change controller.
+

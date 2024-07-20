@@ -1,0 +1,3 @@
+A Heuristic Method of Generating Diameter 3 Graphs for Order/Degree Problem
+
+We propose a heuristic method that generates a graph for order/degree problem. Target graphs of our heuristics have large order (> 4000) and diameter 3. We describe the ob- servation of smaller graphs and basic structure of our heuristics. We also explain an evaluation function of each edge for efficient 2-opt local search. Using them, we found the best solutions for several graphs.

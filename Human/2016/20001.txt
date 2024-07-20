@@ -1,0 +1,3 @@
+MCMC Louvain for Online Community Detection
+
+We introduce a novel algorithm of community detection that maintains dynamically a community structure of a large network that evolves with time. The algorithm maximizes the modularity index thanks to the construction of a randomized hierarchical clustering based on a Monte Carlo Markov Chain (MCMC) method. Interestingly, it could be seen as a dynamization of Louvain algorithm (see Blondel et Al, 2008) where the aggregation step is replaced by the hierarchical instrumental probability.

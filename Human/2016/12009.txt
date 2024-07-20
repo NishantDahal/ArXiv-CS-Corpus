@@ -1,0 +1,3 @@
+Computer-Aided Colorectal Tumor Classification in NBI Endoscopy Using CNN Features
+
+In this paper we report results for recognizing colorectal NBI endoscopic images by using features extracted from convolutional neural network (CNN). In this comparative study, we extract features from different layers from different CNN models, and then train linear SVM classifiers. Experimental results with 10-fold cross validations show that features from first few convolution layers are enough to achieve similar performance (i.e., recognition rate of 95%) with non-CNN local features such as Bag-of-Visual words, Fisher vector, and VLAD.

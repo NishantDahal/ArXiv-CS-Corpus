@@ -1,0 +1,5 @@
+Local sampling and approximation of operators with bandlimited Kohn-Nirenberg symbols
+
+Recent sampling theorems allow for the recovery of operators with bandlimited Kohn-Nirenberg symbols from their response to a single discretely supported identifier signal. The available results are inherently non-local. For example, we show that in order to recover a bandlimited operator precisely, the identifier cannot decay in time nor in frequency. Moreover, a concept of local and discrete representation is missing from the theory. In this paper, we develop tools that address these shortcomings.
+  We show that to obtain a local approximation of an operator, it is sufficient to test the operator on a truncated and mollified delta train, that is, on a compactly supported Schwarz class function. To compute the operator numerically, discrete measurements can be obtained from the response function which are localized in the sense that a local selection of the values yields a local approximation of the operator.
+  Central to our analysis is to conceptualize the meaning of localization for operators with bandlimited Kohn-Nirenberg symbol.

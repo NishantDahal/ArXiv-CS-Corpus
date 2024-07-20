@@ -1,0 +1,3 @@
+Generating Random Factored Ideals in Number Fields
+
+We present a randomized polynomial-time algorithm to generate a random integer according to the distribution of norms of ideals at most N in any given number field, along with the factorization of the integer. Using this algorithm, we can produce a random ideal in the ring of algebraic integers uniformly at random among ideals with norm up to N, in polynomial time. We also present a variant of this algorithm for generating ideals in function fields.

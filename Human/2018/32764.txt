@@ -1,0 +1,3 @@
+Solving First Order Autonomous Algebraic Ordinary Differential Equations by Places
+
+Given a first-order autonomous algebraic ordinary differential equation, we present a method for computing formal power series solutions by means of places. We provide an algorithm for computing a full characterization of possible initial values, classified in terms of the number of distinct formal power series solutions extending them. In addition, if a particular initial value is given, we present a second algorithm that computes all the formal power series solutions, up to a suitable degree, corresponding to it. Furthermore, when the ground field is the field of the complex numbers, we prove that the computed formal power series solutions are all convergent in suitable neighborhoods.

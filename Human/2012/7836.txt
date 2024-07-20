@@ -1,0 +1,3 @@
+Forward Analysis for WSTS, Part II: Complete WSTS
+
+We describe a simple, conceptual forward analysis procedure for infinity-complete WSTS S. This computes the so-called clover of a state. When S is the completion of a WSTS X, the clover in S is a finite description of the downward closure of the reachability set. We show that such completions are infinity-complete exactly when X is an omega-2-WSTS, a new robust class of WSTS. We show that our procedure terminates in more cases than the generalized Karp-Miller procedure on extensions of Petri nets and on lossy channel systems. We characterize the WSTS where our procedure terminates as those that are clover-flattable. Finally, we apply this to well-structured counter systems. 

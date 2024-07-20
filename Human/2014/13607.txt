@@ -1,0 +1,3 @@
+The Next 700 Impossibility Results in Time-Varying Graphs
+
+We address highly dynamic distributed systems modeled by time-varying graphs (TVGs). We interest in proof of impossibility results that often use informal arguments about convergence. First, we provide a distance among TVGs to define correctly the convergence of TVG sequences. Next, we provide a general framework that formally proves the convergence of the sequence of executions of any deterministic algorithm over TVGs of any convergent sequence of TVGs. Finally, we illustrate the relevance of the above result by proving that no deterministic algorithm exists to compute the underlying graph of any connected-over-time TVG, i.e., any TVG of the weakest class of long-lived TVGs.

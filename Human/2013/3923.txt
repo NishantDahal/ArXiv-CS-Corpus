@@ -1,0 +1,3 @@
+Euclidean Upgrade from a Minimal Number of Segments
+
+In this paper, we propose an algebraic approach to upgrade a projective reconstruction to a Euclidean one, and aim at computing the rectifying homography from a minimal number of 9 segments of known length. Constraints are derived from these segments which yield a set of polynomial equations that we solve by means of Gröbner bases. We explain how a solver for such a system of equations can be constructed from simplified template data. Moreover, we present experiments that demonstrate that the given problem can be solved in this way.

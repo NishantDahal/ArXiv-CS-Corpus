@@ -1,0 +1,3 @@
+Generator polynomials and generator matrix for quasi cyclic codes
+
+Quasi-cyclic (QC) codes form an important generalization of cyclic codes. It is well know that QC codes of length $s\ell$ with index $s$ over the finite field $\mathbb{F}$ are $\mathbb{F}[y]$-submodules of the ring $\frac{\mathbb{F}[x,y]}{< x^s-1,y^{\ell}-1 >}$. The aim of the present paper, is to study QC codes of length $s\ell$ with index $s$ over the finite field $\mathbb{F}$ and find generator polynomials and generator matrix for these codes. To achieve this aim, we apply a novel method to find generator polynomials for $\mathbb{F}[y]$-submodules of $\frac{\mathbb{F}[x,y]}{< x^s-1,y^{\ell}-1 >}$. These polynomials will be applied to obtain generator matrix for corresponding QC codes.

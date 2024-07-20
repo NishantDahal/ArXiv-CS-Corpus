@@ -1,0 +1,3 @@
+Normal-order reduction grammars
+
+We present an algorithm which, for given $n$, generates an unambiguous regular tree grammar defining the set of combinatory logic terms, over the set $\{S,K\}$ of primitive combinators, requiring exactly $n$ normal-order reduction steps to normalize. As a consequence of Curry and Feys's standardization theorem, our reduction grammars form a complete syntactic characterization of normalizing combinatory logic terms. Using them, we provide a recursive method of constructing ordinary generating functions counting the number of $S K$-combinators reducing in $n$ normal-order reduction steps. Finally, we investigate the size of generated grammars, giving a primitive recursive upper bound.

@@ -1,0 +1,3 @@
+New algorithm for the discrete logarithm problem on elliptic curves
+
+A new algorithms for computing discrete logarithms on elliptic curves defined over finite fields is suggested. It is based on a new method to find zeroes of summation polynomials. In binary elliptic curves one is to solve a cubic system of Boolean equations. Under a first fall degree assumption the regularity degree of the system is at most $4$. Extensive experimental data which supports the assumption is provided. An heuristic analysis suggests a new asymptotical complexity bound $2^{c\sqrt{n\ln n}}, c\approx 1.69$ for computing discrete logarithms on an elliptic curve over a field of size $2^n$. For several binary elliptic curves recommended by FIPS the new method performs better than Pollard's.

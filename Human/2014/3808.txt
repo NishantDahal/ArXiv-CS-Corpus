@@ -1,0 +1,3 @@
+Unsupervised Text Extraction from G-Maps
+
+This paper represents an text extraction method from Google maps, GIS maps/images. Due to an unsupervised approach there is no requirement of any prior knowledge or training set about the textual and non-textual parts. Fuzzy CMeans clustering technique is used for image segmentation and Prewitt method is used to detect the edges. Connected component analysis and gridding technique enhance the correctness of the results. The proposed method reaches 98.5% accuracy level on the basis of experimental data sets.

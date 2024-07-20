@@ -1,0 +1,3 @@
+An Algorithm to Decompose Permutation Representations of Finite Groups: Polynomial Algebra Approach
+
+We describe an algorithm for splitting permutation representations of finite group over fields of characteristic zero into irreducible components. The algorithm is based on the fact that the components of the invariant inner product in invariant subspaces are operators of projection into these subspaces. An important element of the algorithm is the calculation of Gröbner bases of polynomial ideals. A preliminary implementation of the algorithm splits representations up to dimensions of tens of thousands. Some examples of computations are given in appendix.

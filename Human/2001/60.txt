@@ -1,0 +1,3 @@
+Non-convex cost functionals in boosting algorithms and methods for panel selection
+
+In this document we propose a new improvement for boosting techniques as proposed in Friedman '99 by the use of non-convex cost functional. The idea is to introduce a correlation term to better deal with forecasting of additive time series. The problem is discussed in a theoretical way to prove the existence of minimizing sequence, and in a numerical way to propose a new "ArgMin" algorithm. The model has been used to perform the touristic presence forecast for the winter season 1999/2000 in Trentino (italian Alps).

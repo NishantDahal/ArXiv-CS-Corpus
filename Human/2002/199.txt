@@ -1,0 +1,3 @@
+Three-Tiered Specification of Micro-Architectures
+
+A three-tiered specification approach is developed to formally specify collections of collaborating objects, say micro-architectures. (i) The structural properties to be maintained in the collaboration are specified in the lowest tier. (ii) The behaviour of the object methods in the classes is specified in the middle tier. (iii) The interaction of the objects in the micro-architecture is specified in the third tier. The specification approach is based on Larch and accompanying notations and tools. The approach enables the unambiguous and complete specification of reusable collections of collaborating objects. The layered, formal approach is compared to other approaches including the mainstream UML approach.

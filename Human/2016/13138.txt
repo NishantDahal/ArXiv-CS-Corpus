@@ -1,0 +1,4 @@
+Enumerating all the Irreducible Polynomials over Finite Field
+
+In this paper we give a detailed analysis of deterministic and randomized algorithms that enumerate any number of irreducible polynomials of degree $n$ over a finite field and their roots in the extension field in quasilinear where $N=n^2$ is the size of the output.} time cost per element.
+  Our algorithm is based on an improved algorithm for enumerating all the Lyndon words of length $n$ in linear delay time and the known reduction of Lyndon words to irreducible polynomials.

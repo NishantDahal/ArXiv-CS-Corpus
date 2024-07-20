@@ -1,0 +1,3 @@
+Multivariate sparse interpolation using randomized Kronecker substitutions
+
+We present new techniques for reducing a multivariate sparse polynomial to a univariate polynomial. The reduction works similarly to the classical and widely-used Kronecker substitution, except that we choose the degrees randomly based on the number of nonzero terms in the multivariate polynomial, that is, its sparsity. The resulting univariate polynomial often has a significantly lower degree than the Kronecker substitution polynomial, at the expense of a small number of term collisions. As an application, we give a new algorithm for multivariate interpolation which uses these new techniques along with any existing univariate interpolation algorithm.

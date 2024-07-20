@@ -1,0 +1,3 @@
+Using Hausdorff Distance for New Medical Image Annotation
+
+Medical images annotation is most of the time a repetitive hard task. Collecting old similar annotations and assigning them to new medical images may not only enhance the annotation process, but also reduce ambiguity caused by repetitive annotations. The goal of this work is to propose an approach based on Hausdorff distance able to compute similarity between a new medical image and old stored images. User has to choose then one of the similar images and annotations related to the selected one are assigned to the new one.

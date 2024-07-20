@@ -1,0 +1,3 @@
+Identifying KDM Model of JSP Pages
+
+In this report, we propose our approach that identifies a KDM model of JSP pages. Our approach is based on two main steps. The first one aims to reduce the problem space by translating JSP pages into Java Servlets where we can use existing tools to identify a KDM model. The second step aims to complete the resulting KDM model by identifying dependencies of JSP tags that are not codified by the translation step.

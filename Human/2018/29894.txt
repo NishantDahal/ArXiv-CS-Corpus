@@ -1,0 +1,3 @@
+Reliable uncertainty estimate for antibiotic resistance classification with Stochastic Gradient Langevin Dynamics
+
+Antibiotic resistance monitoring is of paramount importance in the face of this on-going global epidemic. Deep learning models trained with traditional optimization algorithms (e.g. Adam, SGD) provide poor posterior estimates when tested against out-of-distribution (OoD) antibiotic resistant/non-resistant genes. In this paper, we introduce a deep learning model trained with Stochastic Gradient Langevin Dynamics (SGLD) to classify antibiotic resistant genes. The model provides better uncertainty estimates when tested against OoD data compared to traditional optimization methods such as Adam.

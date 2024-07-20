@@ -1,0 +1,3 @@
+Off-line Constraint Propagation for Efficient HPSG Processing
+
+We investigate the use of a technique developed in the constraint programming community called constraint propagation to automatically make a HPSG theory more specific at those places where linguistically motivated underspecification would lead to inefficient processing. We discuss two concrete HPSG examples showing how off-line constraint propagation helps improve processing efficiency.

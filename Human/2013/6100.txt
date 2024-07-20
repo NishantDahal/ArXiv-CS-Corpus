@@ -1,0 +1,3 @@
+Analysing Word Importance for Image Annotation
+
+Image annotation provides several keywords automatically for a given image based on various tags to describe its contents which is useful in Image retrieval. Various researchers are working on text based and content based image annotations [7,9]. It is seen, in traditional Image annotation approaches, annotation words are treated equally without considering the importance of each word in real world. In context of this, in this work, images are annotated with keywords based on their frequency count and word correlation. Moreover this work proposes an approach to compute importance score of candidate keywords, having same frequency count.

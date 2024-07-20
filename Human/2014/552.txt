@@ -1,0 +1,3 @@
+Towards Autotuning of OpenMP Applications on Multicore Architectures
+
+In this paper we describe an autotuning tool for optimization of OpenMP applications on highly multicore and multithreaded architectures. Our work was motivated by in-depth performance analysis of scientific applications and synthetic benchmarks on IBM Power 775 architecture. The tool provides an automatic code instrumentation of OpenMP parallel regions. Based on measurement of chosen hardware performance counters the tool decides on the number of parallel threads that should be used for execution of chosen code fragments.

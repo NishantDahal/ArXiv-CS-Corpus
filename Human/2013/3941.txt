@@ -1,0 +1,3 @@
+A Combinatorial Approach to Quantum Error Correcting Codes
+
+Motivated from the theory of quantum error correcting codes, we investigate a combinatorial problem that involves a symmetric $n$-vertices colourable graph and a group of operations (colouring rules) on the graph: find the minimum sequence of operations that maps between two given graph colourings. We provide an explicit algorithm for computing the solution of our problem, which in turn is directly related to computing the distance (performance) of an underlying quantum error correcting code. Computing the distance of a quantum code is a highly non-trivial problem and our method may be of use in the construction of better codes.

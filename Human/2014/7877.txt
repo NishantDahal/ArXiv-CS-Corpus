@@ -1,0 +1,3 @@
+Budget-restricted utility games with ordered strategic decisions
+
+We introduce the concept of budget games. Players choose a set of tasks and each task has a certain demand on every resource in the game. Each resource has a budget. If the budget is not enough to satisfy the sum of all demands, it has to be shared between the tasks. We study strategic budget games, where the budget is shared proportionally. We also consider a variant in which the order of the strategic decisions influences the distribution of the budgets. The complexity of the optimal solution as well as existence, complexity and quality of equilibria are analyzed. Finally, we show that the time an ordered budget game needs to convergence towards an equilibrium may be exponential.

@@ -1,0 +1,3 @@
+Balanced Black and White Coloring Problem on knights chessboards
+
+Graph anticoloring problem is partial coloring problem where the main feature is the opposite rule of the graph coloring problem, i.e., if two vertices are adjacent, their assigned colors must be the same or at least one of them is uncolored. In the same way, Berge in 1972 proposed the problem of placing b black queens and w white queens on a $n \times n$ chessboard such that no two queens of different color can attack to each other, the complexity of this problem remains open. In this work we deal with the knight piece under the balance property, since this special case is the most difficult for brute force algorithms.

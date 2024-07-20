@@ -1,0 +1,3 @@
+An Alternating Automaton for First-Order Linear Temporal Logic--Tech Report
+
+In this paper we give automata-based representation of LTL-FO$^+$ properties. LTL-FO$^+$ is an extension of LTL that includes first-order quantification over bounded variable, thus greatly increasing the expressivity of the language. An automata representation of this formalism allows greater ease in writing and understanding properties, as well as in performing manipulations, such as negation or emptiness checking. The automata representation of an LTL-FO$^+$ formula has finite size regardless of the domain of quantified variables, and the number of states that is linear in the size of the property.

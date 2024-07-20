@@ -1,0 +1,3 @@
+A Hardware-oriented Algorithm for Complex-valued Constant Matrix-vector Multiplication
+
+In this paper we present a hardware-oriented algorithm for constant matrix-vector product calculating, when the all elements of vector and matrix are complex numbers. The proposed algorithm versus the naive method of analogous calculations drastically reduces the number of multipliers required for FPGA implementation of complex-valued constant matrix-vector multiplication.If the fully parallel hardware implementation of naive (schoolbook) method for complex-valued matrix-vector multiplication requires 4MN multipliers, 2M N-inputs adders and 2MN two-input adders, the proposed algorithm requires only 3N(M+1)/2 multipliers and 3M(N+2)+1,5N+2 two-input adders and 3(M+1) N/2-input adders.

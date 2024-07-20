@@ -1,0 +1,3 @@
+BlockPKI: An Automated, Resilient, and Transparent Public-Key Infrastructure
+
+This paper describes BlockPKI, a blockchain-based public-key infrastructure that enables an automated, resilient, and transparent issuance of digital certificates. Our goal is to address several shortcomings of the current TLS infrastructure and its proposed extensions. In particular, we aim at reducing the power of individual certification authorities and make their actions publicly visible and accountable, without introducing yet another trusted third party. To demonstrate the benefits and practicality of our system, we present evaluation results and describe our prototype implementation.

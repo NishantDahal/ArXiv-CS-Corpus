@@ -1,0 +1,3 @@
+Open induction in a bounded arithmetic for TC^0
+
+The elementary arithmetic operations $+,\cdot,\le$ on integers are well-known to be computable in the weak complexity class $\mathrm{TC}^0$, and it is a basic question what properties of these operations can be proved using only $\mathrm{TC}^0$-computable objects, i.e., in a theory of bounded arithmetic corresponding to $\mathrm{TC}^0$. We will show that the theory $\mathit{VTC}^0$ extended with an axiom postulating the totality of iterated multiplication (which is computable in $\mathrm{TC}^0$) proves induction for quantifier-free formulas in the language $\langle +,\cdot,\le \rangle$ (IOpen), and more generally, minimization for $Σ^b_0$ formulas in the language of Buss's $S_2$.

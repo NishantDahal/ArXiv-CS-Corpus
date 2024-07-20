@@ -1,0 +1,3 @@
+Quantum Lower Bound for Recursive Fourier Sampling
+
+One of the earliest quantum algorithms was discovered by Bernstein and Vazirani, for a problem called Recursive Fourier Sampling. This paper shows that the Bernstein-Vazirani algorithm is not far from optimal. The moral is that the need to "uncompute" garbage can impose a fundamental limit on efficient quantum computation. The proof introduces a new parameter of Boolean functions called the "nonparity coefficient," which might be of independent interest.

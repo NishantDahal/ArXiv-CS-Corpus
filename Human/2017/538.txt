@@ -1,0 +1,3 @@
+Temporal Overdrive Recurrent Neural Network
+
+In this work we present a novel recurrent neural network architecture designed to model systems characterized by multiple characteristic timescales in their dynamics. The proposed network is composed by several recurrent groups of neurons that are trained to separately adapt to each timescale, in order to improve the system identification process. We test our framework on time series prediction tasks and we show some promising, preliminary results achieved on synthetic data. To evaluate the capabilities of our network, we compare the performance with several state-of-the-art recurrent architectures.

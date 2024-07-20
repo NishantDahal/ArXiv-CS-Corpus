@@ -1,0 +1,3 @@
+Loosening the notions of compliance and sub-behaviour in client/server systems
+
+In the context of "session behaviors" for client/server systems, we propose a weakening of the compliance and sub-behaviour relations where the bias toward the client (whose "requests" must be satisfied)  is pushed further with respect to the usual definitions, by admitting that "not needed" output actions from the server side can be "skipped" by the client. Both compliance and sub-behaviour relations resulting from this weakening remain decidable, though the proof of the duals-as-minima property for servers, on which the decidability of the sub-behaviour relation relies, requires a tighter analysis of client/server interactions.

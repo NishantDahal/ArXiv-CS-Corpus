@@ -1,0 +1,3 @@
+OTTER 3.3 Reference Manual
+
+OTTER is a resolution-style theorem-proving program for first-order logic with equality. OTTER includes the inference rules binary resolution, hyperresolution, UR-resolution, and binary paramodulation. Some of its other abilities and features are conversion from first-order formulas to clauses, forward and back subsumption, factoring, weighting, answer literals, term ordering, forward and back demodulation, evaluable functions and predicates, Knuth-Bendix completion, and the hints strategy. OTTER is coded in ANSI C, is free, and is portable to many different kinds of computer.

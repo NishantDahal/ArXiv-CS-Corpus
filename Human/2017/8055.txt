@@ -1,0 +1,4 @@
+Reachability is in DynFO
+
+Patnaik and Immerman introduced the dynamic complexity class DynFO of database queries that can be maintained by first-order dynamic programs with the help of auxiliary relations under insertions and deletions of edges (Patnaik and Immerman 1997). This article confirms their conjecture that the Reachability query is in DynFO.
+  As a byproduct it is shown that the rank of a matrix with small values can be maintained in DynFO(+,x). It is further shown that the (size of the) maximum matching of a graph can be maintained in non-uniform DynFO, another extension of DynFO, with non-uniform initialisation of the auxiliary relations.

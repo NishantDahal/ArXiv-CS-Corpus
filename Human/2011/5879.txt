@@ -1,0 +1,3 @@
+Metaprogramming Applied to Numerical Problems
+
+From the discovery that the template system of C++ forms a Turing complete language in 1994, a programming technique called Template Metaprogramming has emerged that allows for the creation of faster, more generic and better code. Here, we apply Template Metaprogramming to implement a generic Runge-Kutta scheme that can be used to numerically solve ordinary differential equations. We show that using Template Metaprogramming results in a significantly improved performance compared to a classical implementation.

@@ -1,0 +1,4 @@
+ComFlux: External Composition and Adaptation of Pervasive Applications
+
+Technology is becoming increasingly pervasive. At present, the system components working together to provide functionality, be they purely software or with a physical element, tend to operate within silos, bound to a particular application or usage.
+  This is counter to the wider vision of pervasive computing, where a potentially limitless number of applications can be realised through the dynamic and seamless interactions of system components. We believe this application composition should be externally controlled, driven by policy and subject to access control. We present ComFlux, our open source middleware, and show through a number of designs and implementations, how it supports this functionality with acceptable overhead.

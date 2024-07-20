@@ -1,0 +1,3 @@
+Correcting for Non-Markovian Asymptotic Effects using Markovian Representation
+
+Asymptotic properties of Markov Processes, such as steady state probabilities or hazard rate for absorbing states can be efficiently calculated by means of linear algebra even for large-scale problems. This paper discusses the methods for adjusting parameters of the Markov models to account for non-constant transition rates. In particular, transitions with fixed delays are considered along with the transitions that follow Weibull and lognormal distributions. Procedures for both steady-state solutions in the absence of an absorbing state, and for hazard rates to an absorbing state are provided and demonstrated on several examples.

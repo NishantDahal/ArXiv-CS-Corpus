@@ -1,0 +1,3 @@
+A Logical Framework for Systems Biology
+
+We propose a novel approach for the formal verification of biological systems based on the use of a modal linear logic. We show how such a logic can be used, with worlds as instants of time, as an unified framework to encode both biological systems and temporal properties of their dynamic behaviour. To illustrate our methodology, we consider a model of the P53/Mdm2 DNA-damage repair mechanism. We prove several properties that are important for such a model to satisfy and serve to illustrate the promise of our approach. We formalize the proofs of these properties in the Coq Proof Assistant, with the help of a Lambda Prolog prover for partial automation of the proofs.

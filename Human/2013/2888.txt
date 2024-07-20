@@ -1,0 +1,3 @@
+The Bounded Bayesian
+
+The ideal Bayesian agent reasons from a global probability model, but real agents are restricted to simplified models which they know to be adequate only in restricted circumstances.  Very little formal theory has been developed to help fallibly rational agents manage the process of constructing and revising small world models.  The goal of this paper is to present a theoretical framework for analyzing model management approaches.  For a probability forecasting problem, a search process over small world models is analyzed as an approximation to a larger-world model which the agent cannot explicitly enumerate or compute.  Conditions are given under which the sequence of small-world models converges to the larger-world probabilities.

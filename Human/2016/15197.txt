@@ -1,0 +1,3 @@
+Hafnians, perfect matchings and Gaussian matrices
+
+We analyze the behavior of the Barvinok estimator of the hafnian of even dimension, symmetric matrices with nonnegative entries. We introduce a condition under which the Barvinok estimator achieves subexponential errors, and show that this condition is almost optimal. Using that hafnians count the number of perfect matchings in graphs, we conclude that Barvinok's estimator gives a polynomial-time algorithm for the approximate (up to subexponential errors) evaluation of the number of perfect matchings.

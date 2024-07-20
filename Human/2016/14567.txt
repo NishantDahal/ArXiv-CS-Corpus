@@ -1,0 +1,4 @@
+Subset Sum Problems With Digraph Constraints
+
+We introduce and study four optimization problems that generalize the well-known subset sum problem. Given a node-weighted digraph, select a subset of vertices whose total weight does not exceed a given budget. Some additional constraints need to be satisfied. The (weak resp.) digraph constraint imposes that if (all incoming nodes of resp.) a node $x$ belongs to the solution, then the latter comprises all its outgoing nodes (node $x$ itself resp.). The maximality constraint ensures that a solution cannot be extended without violating the budget or the (weak) digraph constraint. We study the complexity of these problems and we present some approximation results according to the type of digraph given in input, e.g. directed acyclic graphs and oriented trees.
+  Key words. Subset Sum, Maximal problems, digraph constraints, complexity, directed acyclic graphs, oriented trees, PTAS.

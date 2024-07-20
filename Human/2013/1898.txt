@@ -1,0 +1,3 @@
+Automatically Mining Program Build Information via Signature Matching
+
+Program build information, such as compilers and libraries used, is vitally important in an auditing and benchmarking framework for HPC systems. We have developed a tool to automatically extract this information using signature-based detection, a common strategy employed by anti-virus software to search for known patterns of data within the program binaries. We formulate the patterns from various "features" embedded in the program binaries, and the experiment shows that our tool can successfully identify many different compilers, libraries, and their versions.

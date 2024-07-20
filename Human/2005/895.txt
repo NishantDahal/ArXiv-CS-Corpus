@@ -1,0 +1,3 @@
+Image compression and entanglement
+
+The pixel values of an image can be casted into a real ket of a Hilbert space using an appropriate block structured addressing. The resulting state can then be rewritten in terms of its matrix product state representation in such a way that quantum entanglement corresponds to classical correlations between different coarse-grained textures. A truncation of the MPS representation is tantamount to a compression of the original image. The resulting algorithm can be improved adding a discrete Fourier transform preprocessing and a further entropic lossless compression.

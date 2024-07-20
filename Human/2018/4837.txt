@@ -1,0 +1,3 @@
+A Rule for Committee Selection with Soft Diversity Constraints
+
+Committee selection with diversity or distributional constraints is a ubiquitous problem. However, many of the formal approaches proposed so far have certain drawbacks including (1) computationally intractability in general, and (2) inability to suggest a solution for certain instances where the hard constraints cannot be met. We propose a practical and polynomial-time algorithm for diverse committee selection that draws on the idea of using soft bounds and satisfies natural axioms.

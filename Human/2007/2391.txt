@@ -1,0 +1,3 @@
+Faster polynomial multiplication via multipoint Kronecker substitution
+
+We give several new algorithms for dense polynomial multiplication based on the Kronecker substitution method. For moderately sized input polynomials, the new algorithms improve on the performance of the standard Kronecker substitution by a sizeable constant, both in theory and in empirical tests.

@@ -1,0 +1,5 @@
+Simultaneously Moving Cops and Robbers
+
+In this paper we study the concurrent cops and robber (CCCR) game. CCCR follows the same rules as the classical, turn-based game, except for the fact that the players move simultaneously. The cops' goal is to capture the robber and the concurrent cop number of a graph is defined the minimum number of cops which guarantees capture. For the variant in which it it required to capture the robber in the shortest possible time, we let time to capture be the payoff function of CCCR; the (game theoretic) value of CCCR is the optimal capture time and (cop and robber) time optimal strategies are the ones which achieve the value. In this paper we prove the following.
+  (1) For every graph G, the concurrent cop number is equal to the "classical" cop number.
+  (2) For every graph G, CCCR has a value, the cops have an optimal strategy and, for every epsilon>0, the robber has an epsilon-optimal strategy.

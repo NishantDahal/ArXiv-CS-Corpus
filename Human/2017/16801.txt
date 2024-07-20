@@ -1,0 +1,3 @@
+Power series expansions for the planar monomer-dimer problem
+
+We compute the free energy of the planar monomer-dimer model. Unlike the classical planar dimer model, an exact solution is not known in this case. Even the computation of the low-density power series expansion requires heavy and nontrivial computations. Despite of the exponential computational complexity, we compute almost three times more terms than were previously known. Such an expansion provides both lower and upper bound for the free energy, and allows to obtain more accurate numerical values than previously possible. We expect that our methods can be applied to other similar problems.

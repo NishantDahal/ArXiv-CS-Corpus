@@ -1,0 +1,3 @@
+ECG Signal Compression and Optimization in Remote Monitoring Networks
+
+We proposed a practical ECG compression system which is beneficial for tele-monitoring cardiovascular diseases. There are two steps in the compression framework. First, we partition ECG signal into segments according to R- to R-wave periods. The partition aims at achieving more stable statistical features between segments of ECG signal which is beneficial for saving bit rates. After the partition, we optimize the bit rate in the sense of minimizing ECG reconstruction error under a constraint of consumed bits. From the experiment results, the proposed compression scheme is able to reduce the computation for updating codebook, and save channel capacity resources for transmitting ECG signals.

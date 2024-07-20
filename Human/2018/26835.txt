@@ -1,0 +1,3 @@
+Proportional fairness in wireless powered CSMA/CA based IoT networks
+
+This paper considers the deployment of a hybrid wireless data/power access point in an 802.11-based wireless powered IoT network. The proportionally fair allocation of throughputs across IoT nodes is considered under the constraints of energy neutrality and CPU capability for each device. The joint optimization of wireless powering and data communication resources takes the CSMA/CA random channel access features, e.g. the backoff procedure, collisions, protocol overhead into account. Numerical results show that the optimized solution can effectively balance individual throughput across nodes, and meanwhile proportionally maximize the overall sum throughput under energy constraints.

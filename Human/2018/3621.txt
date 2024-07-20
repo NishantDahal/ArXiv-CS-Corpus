@@ -1,0 +1,3 @@
+Automatic differentiation of ODE integration
+
+We discuss the calculation of the derivatives of ODE systems with the automatic differentiation tool ADiMat. Using the well-known Lotka-Volterra equations and the ode23 ODE solver as examples we show the analytic derivatives and detail how to differentiate a top-level function that calls ode23 somewhere with ADiMat. This involves the manual construction of substitution function to propagate the derivatives in forward and reverse mode. We also show how to use the reverse mode code to evaluate the Hessian in forward-over-reverse mode.

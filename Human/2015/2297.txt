@@ -1,0 +1,3 @@
+Adaptation Algorithm and Theory Based on Generalized Discrepancy
+
+We present a new algorithm for domain adaptation improving upon a discrepancy minimization algorithm previously shown to outperform a number of algorithms for this task. Unlike many previous algorithms for domain adaptation, our algorithm does not consist of a fixed reweighting of the losses over the training sample. We show that our algorithm benefits from a solid theoretical foundation and more favorable learning bounds than discrepancy minimization. We present a detailed description of our algorithm and give several efficient solutions for solving its optimization problem. We also report the results of several experiments showing that it outperforms discrepancy minimization.

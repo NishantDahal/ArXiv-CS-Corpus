@@ -1,0 +1,3 @@
+On symmetries of the Strassen algorithm
+
+We consider the famous Strassen algorithm for fast multiplication of matrices. We show that this algorithm has a nontrivial finite group of automorphisms of order 36 (namely the direct product of two copies of the symmetric group on 3 symbols), or even 72, if we consider "extended" Strassen algorithm. This is an indirect evidence that the (unknown at present) optimal algorithm for multiplication of two size 3 by 3 matrices also may have a large automorphism group, and this may be a fruitful idea for a search of such an algorithm. In the beginning we give a brief introduction to the subject, to make the text accessible for specialists in the representation theory of finite groups.

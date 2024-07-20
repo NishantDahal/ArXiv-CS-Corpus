@@ -1,0 +1,3 @@
+Motion Selective Prediction for Video Frame Synthesis
+
+Existing conditional video prediction approaches train a network from large databases and generalize to previously unseen data. We take the opposite stance, and introduce a model that learns from the first frames of a given video and extends its content and motion, to, eg, double its length. To this end, we propose a dual network that can use in a flexible way both dynamic and static convolutional motion kernels, to predict future frames. The construct of our model gives us the the means to efficiently analyze its functioning and interpret its output. We demonstrate experimentally the robustness of our approach on challenging videos in-the-wild and show that it is competitive wrt related baselines.

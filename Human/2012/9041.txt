@@ -1,0 +1,6 @@
+Topological approach to solve P versus NP
+
+This paper talks about difference between P and NP by using topological space that mean resolution principle. I pay attention to restrictions of antecedent and consequent in resolution, and show what kind of influence the restrictions have for difference of structure between P and NP regarding relations of relation.
+  First, I show the restrictions of antecedent and consequent in resolution principle. Antecedents connect each other, and consequent become a linkage between these antecedents. And we can make consequent as antecedents product by using some resolutions which have same joint variable. We can determine these consequents reducible and irreducible.
+  Second, I introduce RCNF that mean topology of resolution principle in CNF. RCNF is HornCNF and that variable values are presence of restrictions of CNF formula clauses. RCNF is P-Complete.
+  Last, I introduce TCNF that have 3CNF's character which relate 2 variables relations with 1 variable. I show CNF complexity by using CCNF that combine some TCNF. TCNF is NP-Complete and product irreducible. I introduce CCNF that connect TCNF like Moore graph. We cannot reduce CCNF to RCNF with polynomial size. Therefore, TCNF is not in P.

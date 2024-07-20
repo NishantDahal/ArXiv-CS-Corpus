@@ -1,0 +1,3 @@
+Global sum on symmetric networks
+
+We are interested in the following problem we call global sum. Each processor starts with a single real value. At each time step, every directed edge in the graph can simultaneously be used to transmit a single (bounded) number between the processors (vertices). How many time steps s are required to ensure that every processor acquires the global sum? We know that s is bounded below by the diameter and above by two times the diameter. We conjecture that for vertex symmetric graphs, s is equal to the diameter. We show this is true if the diameter is 2.

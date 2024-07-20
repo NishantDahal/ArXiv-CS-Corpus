@@ -1,0 +1,3 @@
+The effect of the choice of neural network depth and breadth on the size of its hypothesis space
+
+We show that the number of unique function mappings in a neural network hypothesis space is inversely proportional to $\prod_lU_l!$, where $U_{l}$ is the number of neurons in the hidden layer $l$.

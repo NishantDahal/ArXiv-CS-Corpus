@@ -1,0 +1,3 @@
+Evotype: Towards the Evolution of Type Stencils
+
+Typefaces are an essential resource employed by graphic designers. The increasing demand for innovative type design work increases the need for good technological means to assist the designer in the creation of a typeface. We present an evolutionary computation approach for the generation of type stencils to draw coherent glyphs for different characters. The proposed system employs a Genetic Algorithm to evolve populations of type stencils. The evaluation of each candidate stencil uses a hill climbing algorithm to search the best configurations to draw the target glyphs. We study the interplay between legibility, coherence and expressiveness, and show how our framework can be used in practice.

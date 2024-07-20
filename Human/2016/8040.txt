@@ -1,0 +1,3 @@
+Computing the Degenerate Ground Space of Gapped Spin Chains in Polynomial Time
+
+Given a gapped Hamiltonian of a spin chain, we give a polynomial-time algorithm for finding the degenerate ground space projector. The output is an orthonormal set of matrix product states that approximate the true ground space projector up to an inverse polynomial error in any Schatten norm, with a runtime exponential in the degeneracy. Our algorithm is an extension of the recent algorithm of Landau, Vazirani, and Vidick for the nondegenerate case, and it includes the recent improvements due to Huang. The main new idea is to incorporate the local distinguishability of ground states on the half-chain to ensure that the algorithm returns a complete set of global ground states.

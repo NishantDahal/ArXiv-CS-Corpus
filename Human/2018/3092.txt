@@ -1,0 +1,3 @@
+Enabling Interactive Mobile Simulations Through Distributed Reduced Models
+
+Currently, various hardware and software companies are developing augmented reality devices, most prominently Microsoft with its Hololens. Besides gaming, such devices can be used for serious pervasive applications, like interactive mobile simulations to support engineers in the field. Interactive simulations have high demands on resources, which the mobile device alone is unable to satisfy. Therefore, we propose a framework to support mobile simulations by distributing the computation between the mobile device and a remote server based on the reduced basis method. Evaluations show that we can speed-up the numerical computation by over 131 times while using 73 times less energy.

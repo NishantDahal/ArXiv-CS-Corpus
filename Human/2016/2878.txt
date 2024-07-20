@@ -1,0 +1,4 @@
+Faster and Simpler Width-Independent Parallel Algorithms for Positive Semidefinite Programming
+
+This paper studies the problem of finding an $(1+ε)$-approximate solution to positive semidefinite programs. These are semidefinite programs in which all matrices in the constraints and objective are positive semidefinite and all scalars are non-negative.
+  We present a simpler \NC parallel algorithm that on input with $n$ constraint matrices, requires $O(\frac{1}{ε^3} log^3 n)$ iterations, each of which involves only simple matrix operations and computing the trace of the product of a matrix exponential and a positive semidefinite matrix. Further, given a positive SDP in a factorized form, the total work of our algorithm is nearly-linear in the number of non-zero entries in the factorization.

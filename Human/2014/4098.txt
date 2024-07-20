@@ -1,0 +1,3 @@
+BeSpaceD: Towards a Tool Framework and Methodology for the Specification and Verification of Spatial Behavior of Distributed Software Component Systems
+
+In this report, we present work towards a framework for modeling and checking behavior of spatially distributed component systems. Design goals of our framework are the ability to model spatial behavior in a component oriented, simple and intuitive way, the possibility to automatically analyse and verify systems and integration possibilities with other modeling and verification tools. We present examples and the verification steps necessary to prove properties such as range coverage or the absence of collisions between components and technical details.

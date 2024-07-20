@@ -1,0 +1,3 @@
+On the ideal associated to a linear code
+
+This article aims to explore the bridge between the algebraic structure of a linear code and the complete decoding process. To this end, we associate a specific binomial ideal $I_+(\mathcal C)$ to an arbitrary linear code. The binomials involved in the reduced Gröbner basis of such an ideal relative to a degree-compatible ordering induce a uniquely defined test-set for the code, and this allows the description of a Hamming metric decoding procedure. Moreover, the binomials involved in the Graver basis of $I_+(\mathcal C)$ provide a universal test-set which turns out to be a set containing the set of codewords of minimal support of the code.

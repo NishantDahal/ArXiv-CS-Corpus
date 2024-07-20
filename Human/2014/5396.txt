@@ -1,0 +1,3 @@
+Flowgen: Flowchart-Based Documentation for C++ Codes
+
+We present the Flowgen tool, which generates flowcharts from annotated C++ source code. The tool generates a set of interconnected high-level UML activity diagrams, one for each function or method in the C++ sources. It provides a simple and visual overview of complex implementations of numerical algorithms. Flowgen is complementary to the widely-used Doxygen documentation tool. The ultimate aim is to render complex C++ computer codes accessible, and to enhance collaboration between programmers and algorithm or science specialists. We describe the tool and a proof-of-concept application to the VINCIA plug-in for simulating collisions at CERN's Large Hadron Collider.

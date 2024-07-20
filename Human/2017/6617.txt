@@ -1,0 +1,3 @@
+Random Walk Sampling for Big Data over Networks
+
+It has been shown recently that graph signals with small total variation can be accurately recovered from only few samples if the sampling set satisfies a certain condition, referred to as the network nullspace property. Based on this recovery condition, we propose a sampling strategy for smooth graph signals based on random walks. Numerical experiments demonstrate the effectiveness of this approach for graph signals obtained from a synthetic random graph model as well as a real-world dataset.

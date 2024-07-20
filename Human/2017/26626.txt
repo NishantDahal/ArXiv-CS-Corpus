@@ -1,0 +1,3 @@
+Nonconvex Sparse Learning via Stochastic Optimization with Progressive Variance Reduction
+
+We propose a stochastic variance reduced optimization algorithm for solving sparse learning problems with cardinality constraints. Sufficient conditions are provided, under which the proposed algorithm enjoys strong linear convergence guarantees and optimal estimation accuracy in high dimensions. We further extend the proposed algorithm to an asynchronous parallel variant with a near linear speedup. Numerical experiments demonstrate the efficiency of our algorithm in terms of both parameter estimation and computational performance.

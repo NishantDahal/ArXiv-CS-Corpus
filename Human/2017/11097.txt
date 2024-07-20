@@ -1,0 +1,3 @@
+Pedestrian Prediction by Planning using Deep Neural Networks
+
+Accurate traffic participant prediction is the prerequisite for collision avoidance of autonomous vehicles. In this work, we predict pedestrians by emulating their own motion planning. From online observations, we infer a mixture density function for possible destinations. We use this result as the goal states of a planning stage that performs motion prediction based on common behavior patterns. The entire system is modeled as one monolithic neural network and trained via inverse reinforcement learning. Experimental validation on real world data shows the system's ability to predict both, destinations and trajectories accurately.

@@ -1,0 +1,3 @@
+Domain Adaptations for Computer Vision Applications
+
+A basic assumption of statistical learning theory is that train and test data are drawn from the same underlying distribution. Unfortunately, this assumption doesn't hold in many applications. Instead, ample labeled data might exist in a particular `source' domain while inference is needed in another, `target' domain. Domain adaptation methods leverage labeled data from both domains to improve classification on unseen data in the target domain. In this work we survey domain transfer learning methods for various application domains with focus on recent work in Computer Vision.

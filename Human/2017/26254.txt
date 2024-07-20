@@ -1,0 +1,3 @@
+From MPI to MPI+OpenACC: Conversion of a legacy FORTRAN PCG solver for the spherical Laplace equation
+
+A real-world example of adding OpenACC to a legacy MPI FORTRAN Preconditioned Conjugate Gradient code is described, and timing results for multi-node multi-GPU runs are shown. The code is used to obtain three-dimensional spherical solutions to the Laplace equation. Its application is finding potential field solutions of the solar corona, a useful tool in space weather modeling. We highlight key tips, strategies, and challenges faced when adding OpenACC. Performance results are shown for running the code with MPI-only on multiple CPUs, and with MPI+OpenACC on multiple GPUs and CPUs.

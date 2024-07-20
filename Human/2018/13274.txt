@@ -1,0 +1,3 @@
+Coding over Sets for DNA Storage
+
+In this paper, we study error-correcting codes for the storage of data in synthetic deoxyribonucleic acid (DNA). We investigate a storage model where data is represented by an unordered set of $M$ sequences, each of length $L$. Errors within that model are losses of whole sequences and point errors inside the sequences, such as substitutions, insertions and deletions. We propose code constructions which can correct these errors with efficient encoders and decoders. By deriving upper bounds on the cardinalities of these codes using sphere packing arguments, we show that many of our codes are close to optimal.

@@ -1,0 +1,4 @@
+Constructing Permutation Rational Functions From Isogenies
+
+A permutation rational function $f\in \mathbb{F}_q(x)$ is a rational function that induces a bijection on $\mathbb{F}_q$, that is, for all $y\in\mathbb{F}_q$ there exists exactly one $x\in\mathbb{F}_q$ such that $f(x)=y$. Permutation rational functions are intimately related to exceptional rational functions, and more generally exceptional covers of the projective line, of which they form the first important example.
+  In this paper, we show how to efficiently generate many permutation rational functions over large finite fields using isogenies of elliptic curves, and discuss some cryptographic applications. Our algorithm is based on Fried's modular interpretation of certain dihedral exceptional covers of the projective line (Cont. Math., 1994).

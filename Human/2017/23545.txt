@@ -1,0 +1,3 @@
+On Automata Recognizing Birecurrent Sets
+
+In this note we study automata recognizing birecurrent sets. A set of words is birecurrent if the minimal partial DFA recognizing this set and the minimal partial DFA recognizing the reversal of this set are both strongly connected. This notion was introduced by Perrin, and Dolce et al. provided a characterization of such sets. We prove that deciding whether a partial DFA recognizes a birecurrent set is a PSPACE-complete problem. We show that this problem is PSPACE-complete even in the case of binary partial DFAs with all states accepting and in the case of binary complete DFAs. We also consider a related problem of computing the rank of a partial DFA.

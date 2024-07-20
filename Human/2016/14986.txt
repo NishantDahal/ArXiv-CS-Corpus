@@ -1,0 +1,4 @@
+Performance Localisation
+
+Performance becomes an issue particularly when execution cost hinders the functionality of a program. Typically a profiler can be used to find program code execution which represents a large portion of the overall execution cost of a program. Pinpointing where a performance issue exists provides a starting point for tracing cause back through a program.
+  While profiling shows where a performance issue manifests, we use mutation analysis to show where a performance improvement is likely to exist. We find that mutation analysis can indicate locations within a program which are highly impactful to the overall execution cost of a program yet are executed relatively infrequently. By better locating potential performance improvements in programs we hope to make performance improvement more amenable to automation.

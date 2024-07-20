@@ -1,0 +1,3 @@
+Theory of One Tape Linear Time Turing Machines
+
+A theory of one-tape (one-head) linear-time Turing machines is essentially different from its polynomial-time counterpart since these machines are closely related to finite state automata. This paper discusses structural-complexity issues of one-tape Turing machines of various types (deterministic, nondeterministic, reversible, alternating, probabilistic, counting, and quantum Turing machines) that halt in linear time, where the running time of a machine is defined as the length of any longest computation path. We explore structural properties of one-tape linear-time Turing machines and clarify how the machines' resources affect their computational patterns and power.

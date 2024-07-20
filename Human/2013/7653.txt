@@ -1,0 +1,3 @@
+Perform wordcount Map-Reduce Job in Single Node Apache Hadoop cluster and compress data using Lempel-Ziv-Oberhumer (LZO) algorithm
+
+Applications like Yahoo, Facebook, Twitter have huge data which has to be stored and retrieved as per client access. This huge data storage requires huge database leading to increase in physical storage and becomes complex for analysis required in business growth. This storage capacity can be reduced and distributed processing of huge data can be done using Apache Hadoop which uses Map-reduce algorithm and combines the repeating data so that entire data is stored in reduced format. The paper describes performing a wordcount Map-Reduce Job in Single Node Apache Hadoop cluster and compress data using Lempel-Ziv-Oberhumer (LZO) algorithm.

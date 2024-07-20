@@ -1,0 +1,3 @@
+Distributed Triangle Counting in the Graphulo Matrix Math Library
+
+Triangle counting is a key algorithm for large graph analysis. The Graphulo library provides a framework for implementing graph algorithms on the Apache Accumulo distributed database. In this work we adapt two algorithms for counting triangles, one that uses the adjacency matrix and another that also uses the incidence matrix, to the Graphulo library for server-side processing inside Accumulo. Cloud-based experiments show a similar performance profile for these different approaches on the family of power law Graph500 graphs, for which data skew increasingly bottlenecks. These results motivate the design of skew-aware hybrid algorithms that we propose for future work.

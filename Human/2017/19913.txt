@@ -1,0 +1,3 @@
+The James construction and $π_4(\mathbb{S}^3)$ in homotopy type theory
+
+In the first part of this paper we present a formalization in Agda of the James construction in homotopy type theory. We include several fragments of code to show what the Agda code looks like, and we explain several techniques that we used in the formalization. In the second part, we use the James construction to give a constructive proof that $π_4(\mathbb{S}^3)$ is of the form $\mathbb{Z}/n\mathbb{Z}$ (but we do not compute the $n$ here).

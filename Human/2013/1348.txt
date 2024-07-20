@@ -1,0 +1,3 @@
+Exact Safety Verification of Interval Hybrid Systems Based on Symbolic-Numeric Computation
+
+In this paper, we address the problem of safety verification of interval hybrid systems in which the coefficients are intervals instead of explicit numbers. A hybrid symbolic-numeric method, based on SOS relaxation and interval arithmetic certification, is proposed to generate exact inequality invariants for safety verification of interval hybrid systems. As an application, an approach is provided to verify safety properties of non-polynomial hybrid systems. Experiments on the benchmark hybrid systems are given to illustrate the efficiency of our method.

@@ -1,0 +1,4 @@
+MeGARA: Menu-based Game Abstraction and Abstraction Refinement of Markov Automata
+
+Markov automata combine continuous time, probabilistic transitions, and nondeterminism in a single model. They represent an important and powerful way to model a wide range of complex real-life systems. However, such models tend to be large and difficult to handle, making abstraction and abstraction refinement necessary. In this paper we present an abstraction and abstraction refinement technique for Markov automata, based on the game-based and menu-based abstraction of probabilistic automata. First experiments show that a significant reduction in size is possible using abstraction.
+

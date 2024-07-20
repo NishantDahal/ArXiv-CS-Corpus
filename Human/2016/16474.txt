@@ -1,0 +1,4 @@
+L-Convex Polyominoes are Recognizable in Real Time by 2D Cellular Automata
+
+A polyomino is said to be L-convex if any two of its cells are connected by a 4-connected inner path that changes direction at most once. The 2-dimensional language representing such polyominoes has been recently proved to be recognizable by tiling systems by S. Brocchi, A. Frosini, R. Pinzani and S. Rinaldi. In an attempt to compare recognition power of tiling systems and cellular automata, we have proved that this language can be recognized by 2-dimensional cellular automata working on the von Neumann neighborhood in real time.
+  Although the construction uses a characterization of L-convex polyominoes that is similar to the one used for tiling systems, the real time constraint which has no equivalent in terms of tilings requires the use of techniques that are specific to cellular automata.

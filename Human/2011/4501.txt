@@ -1,0 +1,3 @@
+Synchronization of P Systems with Simplex Channels
+
+We solve the Firing Squad Synchronization Problem (FSSP), for P systems based on digraphs with simplex channels, where communication is restricted by the direction of structural arcs. Previous work on FSSP for P systems focused exclusively on P systems with duplex channels, where communication between parents and children is bidirectional. Our P solution, the first for simplex channels, requires cell IDs, strongly connected digraphs and some awareness of the local topology (such as each cell's outdegree)---we argue that these requirements are necessary. Compared to the known solutions for cellular automata, our solution is substantially simpler and faster.

@@ -1,0 +1,3 @@
+Terminal semantics for codata types in intensional Martin-Löf type theory
+
+In this work, we study the notions of relative comonad and comodule over a relative comonad, and use these notions to give a terminal coalgebra semantics for the coinductive type families of streams and of infinite triangular matrices, respectively, in intensional Martin-Löf type theory. Our results are mechanized in the proof assistant Coq.

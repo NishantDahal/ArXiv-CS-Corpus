@@ -1,0 +1,3 @@
+A Note on Easy and Efficient Computation of Full Abelian Periods of a Word
+
+Constantinescu and Ilie (Bulletin of the EATCS 89, 167-170, 2006) introduced the idea of an Abelian period with head and tail of a finite word. An Abelian period is called full if both the head and the tail are empty. We present a simple and easy-to-implement $O(n\log\log n)$-time algorithm for computing all the full Abelian periods of a word of length $n$ over a constant-size alphabet. Experiments show that our algorithm significantly outperforms the $O(n)$ algorithm proposed by Kociumaka et al. (Proc. of STACS, 245-256, 2013) for the same problem.

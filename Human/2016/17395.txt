@@ -1,0 +1,3 @@
+Polynomial invariants by linear algebra
+
+We present in this paper a new technique for generating polynomial invariants, divided in two independent parts : a procedure that reduces polynomial assignments composed loops analysis to linear loops under certain hypotheses and a procedure for generating inductive invariants for linear loops. Both of these techniques have a polynomial complexity for a bounded number of variables and we guarantee the completeness of the technique for a bounded degree which we successfully implemented for C programs verification.

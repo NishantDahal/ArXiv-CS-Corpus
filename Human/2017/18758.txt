@@ -1,0 +1,3 @@
+Opportunistic Networking Protocol Simulator for OMNeT++
+
+The number of computing devices of the Internet of Things (IoT) is expected to grow by billions. New networking architectures are being considered to handle communications in the IoT. One of these architectures is Opportunistic Networking (OppNets). To evaluate the performance of OppNets, an OMNeT++ based modular simulator is built with models that handle the operations of the different protocol layers of an OppNets based node. The work presented here provides the details of this simulator, called the Opportunistic Protocol Simulator (OPS).

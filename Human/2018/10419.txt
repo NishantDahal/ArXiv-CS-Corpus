@@ -1,0 +1,4 @@
+Streaming Weighted Matchings: Optimal Meets Greedy
+
+We consider the problem of approximating a maximum weighted matching, when the edges of an underlying weighted graph $G(V,E)$ are revealed in a streaming fashion. We analyze a variant of the previously best-known $(4+ε)$-approximation algorithm due to Crouch and Stubbs (APPROX, 2014), and prove their conjecture that it achieves a tight approximation factor of $3.5+ε$.
+  The algorithm splits the stream into substreams on which it runs a greedy maximum matching algorithm. At the end of the stream, the selected edges are given as input to an optimal maximum weighted matching algorithm. To analyze the approximation guarantee, we develop a novel charging argument in which we decompose the edges of a maximum weighted matching of $G$ into a few natural classes, and then charge them separately to the edges of the matching output by our algorithm.

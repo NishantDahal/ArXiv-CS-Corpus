@@ -1,0 +1,3 @@
+A role of constraint in self-organization
+
+In this paper we introduce a neural network model of self-organization. This model uses a variation of Hebb rule for updating its synaptic weights, and surely converges to the equilibrium status. The key point of the convergence is the update rule that constrains the total synaptic weight and this seems to make the model stable. We investigate the role of the constraint and show that it is the constraint that makes the model stable. For analyzing this setting, we propose a simple probabilistic game that models the neural network and the self-organization process. Then, we investigate the characteristics of this game, namely, the probability that the game becomes stable and the number of the steps it takes.

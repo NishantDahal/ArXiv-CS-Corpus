@@ -1,0 +1,3 @@
+Removing Mixture of Gaussian and Impulse Noise by Patch-Based Weighted Means
+
+We first establish a law of large numbers and a convergence theorem in distribution to show the rate of convergence of the non-local means filter for removing Gaussian noise. We then introduce the notion of degree of similarity to measure the role of similarity for the non-local means filter. Based on the convergence theorems, we propose a patch-based weighted means filter for removing impulse noise and its mixture with Gaussian noise by combining the essential idea of the trilateral filter and that of the non-local means filter. Our experiments show that our filter is competitive compared to recently proposed methods.

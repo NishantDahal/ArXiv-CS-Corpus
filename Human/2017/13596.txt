@@ -1,0 +1,3 @@
+Autonomous Racing with AutoRally Vehicles and Differential Games
+
+Safe autonomous vehicles must be able to predict and react to the drivers around them. Previous control methods rely heavily on pre-computation and are unable to react to dynamic events as they unfold in real-time. In this paper, we extend Model Predictive Path Integral Control (MPPI) using differential game theory and introduce Best-Response MPPI (BR-MPPI) for real-time multi-vehicle interactions. Experimental results are presented using two AutoRally platforms in a racing format with BR-MPPI competing against a skilled human driver at the Georgia Tech Autonomous Racing Facility.

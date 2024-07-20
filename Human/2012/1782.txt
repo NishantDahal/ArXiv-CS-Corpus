@@ -1,0 +1,3 @@
+A note on the fast power series' exponential
+
+It is shown that the exponential of a complex power series up to order n can be implemented via (23/12+o(1))M(n) binary arithmetic operations over complex field, where M(n) stands for the (smoothed) complexity of multiplication of polynomials of degree <n in FFT-model. Yet, it is shown how to raise a power series to a constant power with the complexity (27/8+o(1))M(n).

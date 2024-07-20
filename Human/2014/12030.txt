@@ -1,0 +1,4 @@
+Small Jump with Negation-UTM Trampoline
+
+This paper divide some complexity class by using fixpoint and fixpointless area of Decidable Universal Turing Machine (UTM). Decidable Deterministic Turing Machine (DTM) have fixpointless combinator that add no extra resources (like Negation), but UTM makes some fixpoint in the combinator. This means that we can jump out of the fixpointless combinator system by making more complex problem from diagonalisation argument of UTM.
+  As a concrete example, we proof L is not P . We can make Polynomial time UTM that emulate all Logarithm space DTM (LDTM). LDTM set close under Negation, therefore UTM does not close under LDTM set. (We can proof this theorem like halting problem and time/space hierarchy theorem, and also we can extend this proof to divide time/space limited DTM set.) In the same way, we proof P is not NP. These are new hierarchy that use UTM and Negation.

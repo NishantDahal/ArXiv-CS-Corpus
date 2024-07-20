@@ -1,0 +1,3 @@
+Improved Inference for Checking Annotations
+
+We consider type inference in the Hindley/Milner system extended with type annotations and constraints with a particular focus on Haskell-style type classes. We observe that standard inference algorithms are incomplete in the presence of nested type annotations. To improve the situation we introduce a novel inference scheme for checking type annotations. Our inference scheme is also incomplete in general but improves over existing implementations as found e.g. in the Glasgow Haskell Compiler (GHC). For certain cases (e.g. Haskell 98) our inference scheme is complete. Our approach has been fully implemented as part of the Chameleon system (experimental version of Haskell).

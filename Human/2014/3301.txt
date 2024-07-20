@@ -1,0 +1,4 @@
+Unification and Logarithmic Space
+
+We present an algebraic characterization of the complexity classes Logspace and NLogspace, using an algebra with a composition law based on unification. This new bridge between unification and complexity classes is inspired from proof theory and more specifically linear logic and Geometry of Interaction.
+  We show how unification can be used to build a model of computation by means of specific subalgebras associated to finite permutations groups. We then prove that whether an observation (the algebraic counterpart of a program) accepts a word can be decided within logarithmic space. We also show that the construction can naturally represent pointer machines, an intuitive way of understanding logarithmic space computing.

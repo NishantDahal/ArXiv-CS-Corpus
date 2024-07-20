@@ -1,0 +1,3 @@
+Stamp-it: A more Thread-efficient, Concurrent Memory Reclamation Scheme in the C++ Memory Model
+
+We present Stamp-it, a new, concurrent, lock-less memory reclamation scheme with amortized, constant-time (thread-count independent) reclamation overhead. Stamp-it has been implemented and proved correct in the C++ memory model using as weak memory-consistency assumptions as possible. We have likewise (re)implemented six other comparable reclamation schemes. We give a detailed performance comparison, showing that Stamp-it performs favorably (sometimes better, at least as good as) than most of these other schemes while being able to reclaim free memory nodes earlier.

@@ -1,0 +1,3 @@
+A Mixed-Logical-Dynamical model for Automated Driving on highways
+
+We propose a hybrid decision-making framework for safe and efficient autonomous driving of selfish vehicles on highways. Specifically, we model the dynamics of each vehicle as a Mixed-Logical-Dynamical system and propose simple driving rules to prevent potential sources of conflict among neighboring vehicles. We formalize the coordination problem as a generalized mixed-integer potential game, where an equilibrium solution generates a sequence of mixed-integer decisions for the vehicles that trade off individual optimality and overall safety.

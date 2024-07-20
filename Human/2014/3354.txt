@@ -1,0 +1,3 @@
+Accelerating Parametric Probabilistic Verification
+
+We present a novel method for computing reachability probabilities of parametric discrete-time Markov chains whose transition probabilities are fractions of polynomials over a set of parameters. Our algorithm is based on two key ingredients: a graph decomposition into strongly connected subgraphs combined with a novel factorization strategy for polynomials. Experimental evaluations show that these approaches can lead to a speed-up of up to several orders of magnitude in comparison to existing approaches

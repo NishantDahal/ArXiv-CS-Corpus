@@ -1,0 +1,3 @@
+Storage of Natural Language Sentences in a Hopfield Network
+
+This paper look at how the Hopfield neural network can be used to store and recall patterns constructed from natural language sentences. As a pattern recognition and storage tool, the Hopfield neural network has received much attention. This attention however has been mainly in the field of statistical physics due to the model's simple abstraction of spin glass systems. A discussion is made of the differences, shown as bias and correlation, between natural language sentence patterns and the randomly generated ones used in previous experiments. Results are given for numerical simulations which show the auto-associative competence of the network when trained with natural language patterns.

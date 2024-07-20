@@ -1,0 +1,3 @@
+Ridge Fusion in Statistical Learning
+
+We propose a penalized likelihood method to jointly estimate multiple precision matrices for use in quadratic discriminant analysis and model based clustering. A ridge penalty and a ridge fusion penalty are used to introduce shrinkage and promote similarity between precision matrix estimates. Block-wise coordinate descent is used for optimization, and validation likelihood is used for tuning parameter selection. Our method is applied in quadratic discriminant analysis and semi-supervised model based clustering.

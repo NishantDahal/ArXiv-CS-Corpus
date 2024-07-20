@@ -1,0 +1,3 @@
+Mobility Mode Detection Using WiFi Signals
+
+We utilize Wi-Fi communications from smartphones to predict their mobility mode, i.e. walking, biking and driving. Wi-Fi sensors were deployed at four strategic locations in a closed loop on streets in downtown Toronto. Deep neural network (Multilayer Perceptron) along with three decision tree based classifiers (Decision Tree, Bagged Decision Tree and Random Forest) are developed. Results show that the best prediction accuracy is achieved by Multilayer Perceptron, with 86.52% correct predictions of mobility modes.

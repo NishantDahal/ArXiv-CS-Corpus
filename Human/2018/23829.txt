@@ -1,0 +1,3 @@
+Inferring short-term volatility indicators from Bitcoin blockchain
+
+In this paper, we study the possibility of inferring early warning indicators (EWIs) for periods of extreme bitcoin price volatility using features obtained from Bitcoin daily transaction graphs. We infer the low-dimensional representations of transaction graphs in the time period from 2012 to 2017 using Bitcoin blockchain, and demonstrate how these representations can be used to predict extreme price volatility events. Our EWI, which is obtained with a non-negative decomposition, contains more predictive information than those obtained with singular value decomposition or scalar value of the total Bitcoin transaction volume.

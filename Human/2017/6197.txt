@@ -1,0 +1,3 @@
+Denoising Linear Models with Permuted Data
+
+The multivariate linear regression model with shuffled data and additive Gaussian noise arises in various correspondence estimation and matching problems. Focusing on the denoising aspect of this problem, we provide a characterization the minimax error rate that is sharp up to logarithmic factors. We also analyze the performance of two versions of a computationally efficient estimator, and establish their consistency for a large range of input parameters. Finally, we provide an exact algorithm for the noiseless problem and demonstrate its performance on an image point-cloud matching task. Our analysis also extends to datasets with outliers.

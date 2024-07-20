@@ -1,0 +1,3 @@
+The Medusa of Spatial Sorting: 3D Kinetic Alpha Complexes and Implementation
+
+Motivated by an application in cell biology, we consider spatial sorting processes defined by particles moving from an initial to a final configuration. We describe an algorithm for constructing a cell complex in space-time, called the medusa, that measures topological properties of the sorting process. The algorithm requires an extension of the kinetic data structures framework from Delaunay triangulations to fixed-radius alpha complexes. We report on several techniques to accelerate the computation.

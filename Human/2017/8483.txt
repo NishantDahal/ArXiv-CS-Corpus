@@ -1,0 +1,3 @@
+Properties of Normalization for a math based intermediate representation
+
+The Normalization transformation plays a key role in the compilation of Diderot programs. The transformations are complicated and it would be easy for a bug to go undetected. To increase our confidence in normalization part of the compiler we provide a formal analysis on the rewriting system. We proof that the rewrite system is type preserving, value preserving (for tensor-valued expressions), and terminating.

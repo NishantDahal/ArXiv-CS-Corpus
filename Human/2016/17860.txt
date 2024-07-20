@@ -1,0 +1,3 @@
+On numerical approximation schemes for expectation propagation
+
+Several numerical approximation strategies for the expectation-propagation algorithm are studied in the context of large-scale learning: the Laplace method, a faster variant of it, Gaussian quadrature, and a deterministic version of variational sampling (i.e., combining quadrature with variational approximation). Experiments in training linear binary classifiers show that the expectation-propagation algorithm converges best using variational sampling, while it also converges well using Laplace-style methods with smooth factors but tends to be unstable with non-differentiable ones. Gaussian quadrature yields unstable behavior or convergence to a sub-optimal solution in most experiments.

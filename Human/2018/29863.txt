@@ -1,0 +1,3 @@
+Skin lesion segmentation using U-Net and good training strategies
+
+In this paper we approach the problem of skin lesion segmentation using a convolutional neural network based on the U-Net architecture. We present a set of training strategies that had a significant impact on the performance of this model. We evaluated this method on the ISIC Challenge 2018 - Skin Lesion Analysis Towards Melanoma Detection, obtaining threshold Jaccard index of 77.5%.

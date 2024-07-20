@@ -1,0 +1,3 @@
+Discriminatory Transfer
+
+We observe standard transfer learning can improve prediction accuracies of target tasks at the cost of lowering their prediction fairness -- a phenomenon we named discriminatory transfer. We examine prediction fairness of a standard hypothesis transfer algorithm and a standard multi-task learning algorithm, and show they both suffer discriminatory transfer on the real-world Communities and Crime data set. The presented case study introduces an interaction between fairness and transfer learning, as an extension of existing fairness studies that focus on single task learning.

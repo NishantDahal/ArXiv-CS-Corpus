@@ -1,0 +1,3 @@
+Group Affect Prediction Using Multimodal Distributions
+
+We describe our approach towards building an efficient predictive model to detect emotions for a group of people in an image. We have proposed that training a Convolutional Neural Network (CNN) model on the emotion heatmaps extracted from the image, outperforms a CNN model trained entirely on the raw images. The comparison of the models have been done on a recently published dataset of Emotion Recognition in the Wild (EmotiW) challenge, 2017. The proposed method achieved validation accuracy of 55.23% which is 2.44% above the baseline accuracy, provided by the EmotiW organizers.

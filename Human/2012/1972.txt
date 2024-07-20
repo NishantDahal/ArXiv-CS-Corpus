@@ -1,0 +1,3 @@
+FDB: A Query Engine for Factorised Relational Databases
+
+Factorised databases are relational databases that use compact factorised representations at the physical layer to reduce data redundancy and boost query performance. This paper introduces FDB, an in-memory query engine for select-project-join queries on factorised databases. Key components of FDB are novel algorithms for query optimisation and evaluation that exploit the succinctness brought by data factorisation. Experiments show that for data sets with many-to-many relationships FDB can outperform relational engines by orders of magnitude.

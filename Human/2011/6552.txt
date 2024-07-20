@@ -1,0 +1,3 @@
+Compiler Optimization: A Case for the Transformation Tool Contest
+
+An optimizing compiler consists of a front end parsing a textual programming language into an intermediate representation (IR), a middle end performing optimizations on the IR, and a back end lowering the IR to a target representation (TR) built of operations supported by the target hardware. In modern compiler construction graph-based IRs are employed. Optimization and lowering tasks can then be implemented with graph transformation rules. This case provides two compiler tasks to evaluate the participating tools regarding performance.

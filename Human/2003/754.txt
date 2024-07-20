@@ -1,0 +1,3 @@
+Partitioning schemes for quicksort and quickselect
+
+We introduce several modifications of the partitioning schemes used in Hoare's quicksort and quickselect algorithms, including ternary schemes which identify keys less or greater than the pivot. We give estimates for the numbers of swaps made by each scheme. Our computational experiments indicate that ternary schemes allow quickselect to identify all keys equal to the selected key at little additional cost.

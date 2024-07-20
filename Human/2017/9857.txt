@@ -1,0 +1,3 @@
+A Recipe for State-and-Effect Triangles
+
+In the semantics of programming languages one can view programs as state transformers, or as predicate transformers. Recently the author has introduced state-and-effect triangles which capture this situation categorically, involving an adjunction between state- and predicate-transformers. The current paper exploits a classical result in category theory, part of Jon Beck's monadicity theorem, to systematically construct such a state-and-effect triangle from an adjunction. The power of this construction is illustrated in many examples, covering many monads occurring in program semantics, including (probabilistic) power domains.

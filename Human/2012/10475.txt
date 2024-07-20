@@ -1,0 +1,3 @@
+Automated verification of termination certificates
+
+In order to increase user confidence, many automated theorem provers provide certificates that can be independently verified. In this paper, we report on our progress in developing a standalone tool for checking the correctness of certificates for the termination of term rewrite systems, and formally proving its correctness in the proof assistant Coq. To this end, we use the extraction mechanism of Coq and the library on rewriting theory and termination called CoLoR.

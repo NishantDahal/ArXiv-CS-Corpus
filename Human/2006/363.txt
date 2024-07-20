@@ -1,0 +1,3 @@
+Proof rules for purely quantum programs
+
+We apply the notion of quantum predicate proposed by D'Hondt and Panangaden to analyze a purely quantum language fragment which describes the quantum part of a future quantum computer in Knill's architecture. The denotational semantics, weakest precondition semantics, and weakest liberal precondition semantics of this language fragment are introduced. To help reasoning about quantum programs involving quantum loops, we extend proof rules for classical probabilistic programs to our purely quantum programs.

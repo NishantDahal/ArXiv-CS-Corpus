@@ -1,0 +1,3 @@
+Indexing dif/2
+
+Many Prolog programs are unnecessarily impure because of inadequate means to express syntactic inequality. While the frequently provided built-in `dif/2` is able to correctly describe expected answers, its direct use in programs often leads to overly complex and inefficient definitions --- mainly due to the lack of adequate indexing mechanisms. We propose to overcome these problems by using a new predicate that subsumes both equality and inequality via reification. Code complexity is reduced with a monotonic, higher-order if-then-else construct based on `call/N`. For comparable correct uses of impure definitions, our approach is as determinate and similarly efficient as its impure counterparts.

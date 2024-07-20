@@ -1,0 +1,4 @@
+On Memoryless Quantitative Objectives
+
+In two-player games on graph, the players construct an infinite path through the game graph and get a reward computed by a payoff function over infinite paths. Over weighted graphs, the typical and most studied payoff functions compute the limit-average or the discounted sum of the rewards along the path. Beside their simple definition, these two payoff functions enjoy the property that memoryless optimal strategies always exist.
+  In an attempt to construct other simple payoff functions, we define a class of payoff functions which compute an (infinite) weighted average of the rewards. This new class contains both the limit-average and discounted sum functions, and we show that they are the only members of this class which induce memoryless optimal strategies, showing that there is essentially no other simple payoff functions.

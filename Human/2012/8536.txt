@@ -1,0 +1,3 @@
+Coalesced communication: a design pattern for complex parallel scientific software
+
+We present a new design pattern for high-performance parallel scientific software, named coalesced communication. This pattern allows for a structured way to improve the communication performance through coalescence of multiple communication needs using two communication management components. We apply the design pattern to several simulations of a lattice-Boltzmann blood flow solver with streaming visualisation which engenders a reduction in the communication overhead of approximately 40%.

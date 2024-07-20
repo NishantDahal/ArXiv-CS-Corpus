@@ -1,0 +1,3 @@
+Simple Root Cause Analysis by Separable Likelihoods
+
+Root Cause Analysis for Anomalies is challenging because of the trade-off between the accuracy and its explanatory friendliness, required for industrial applications. In this paper we propose a framework for simple and friendly RCA within the Bayesian regime under certain restrictions (that Hessian at the mode is diagonal, here referred to as \emph{separability}) imposed on the predictive posterior. We show that this assumption is satisfied for important base models, including Multinomal, Dirichlet-Multinomial and Naive Bayes. To demonstrate the usefulness of the framework, we embed it into the Bayesian Net and validate on web server error logs (real world data set).

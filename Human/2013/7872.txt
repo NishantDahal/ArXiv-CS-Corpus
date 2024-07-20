@@ -1,0 +1,3 @@
+Polar Lattices: Where Arıkan Meets Forney
+
+In this paper, we propose the explicit construction of a new class of lattices based on polar codes, which are provably good for the additive white Gaussian noise (AWGN) channel. We follow the multilevel construction of Forney \textit{et al.} (i.e., Construction D), where the code on each level is a capacity-achieving polar code for that level. The proposed polar lattices are efficiently decodable by using multistage decoding. Computable performance bounds are derived to measure the gap to the generalized capacity at given error probability. A design example is presented to demonstrate the performance of polar lattices.

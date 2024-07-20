@@ -1,0 +1,3 @@
+A tighter Erdös-Pósa function for long cycles
+
+We prove that there exists a bivariate function f with f(k,l) = O(l k log k) such that for every naturals k and l, every graph G has at least k vertex-disjoint cycles of length at least l or a set of at most f(k,l) vertices that meets all cycles of length at least l. This improves a result by Birmelé, Bondy and Reed (Combinatorica, 2007), who proved the same result with f(k,l) = Θ(l k^2).

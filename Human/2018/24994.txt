@@ -1,0 +1,4 @@
+Yes, IoU loss is submodular - as a function of the mispredictions
+
+This note is a response to [7] in which it is claimed that [13, Proposition 11] is false. We demonstrate here that this assertion in [7] is false, and is based on a misreading of the notion of set membership in [13, Proposition 11]. We maintain that [13, Proposition 11] is true.
+  ([7] = arXiv:1809.00593,  [13] = arXiv:1512.07797)

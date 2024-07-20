@@ -1,0 +1,3 @@
+Polymorphic lemmas and definitions in Lambda Prolog and Twelf
+
+Lambda Prolog is known to be well-suited for expressing and implementing logics and inference systems. We show that lemmas and definitions in such logics can be implemented with a great economy of expression. We encode a higher-order logic using an encoding that maps both terms and types of the object logic (higher-order logic) to terms of the metalanguage (Lambda Prolog). We discuss both the Terzo and Teyjus implementations of Lambda Prolog. We also encode the same logic in Twelf and compare the features of these two metalanguages for our purposes.

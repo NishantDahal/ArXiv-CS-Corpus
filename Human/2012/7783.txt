@@ -1,0 +1,3 @@
+A Universal Scheme for Transforming Binary Algorithms to Generate Random Bits from Loaded Dice
+
+In this paper, we present a universal scheme for transforming an arbitrary algorithm for biased 2-face coins to generate random bits from the general source of an m-sided die, hence enabling the application of existing algorithms to general sources. In addition, we study approaches of efficiently generating a prescribed number of random bits from an arbitrary biased coin. This contrasts with most existing works, which typically assume that the number of coin tosses is fixed, and they generate a variable number of random bits.

@@ -1,0 +1,7 @@
+Overview of Swallow --- A Scalable 480-core System for Investigating the Performance and Energy Efficiency of Many-core Applications and Operating Systems
+
+We present Swallow, a scalable many-core architecture, with a current configuration of 480 x 32-bit processors.
+  Swallow is an open-source architecture, designed from the ground up to deliver scalable increases in usable computational power to allow experimentation with many-core applications and the operating systems that support them.
+  Scalability is enabled by the creation of a tile-able system with a low-latency interconnect, featuring an attractive communication-to-computation ratio and the use of a distributed memory configuration.
+  We analyse the energy and computational and communication performances of Swallow. The system provides 240GIPS with each core consuming 71--193mW, dependent on workload. Power consumption per instruction is lower than almost all systems of comparable scale.
+  We also show how the use of a distributed operating system (nOS) allows the easy creation of scalable software to exploit Swallow's potential. Finally, we show two use case studies: modelling neurons and the overlay of shared memory on a distributed memory system.

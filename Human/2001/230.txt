@@ -1,0 +1,5 @@
+More Robust Multiparty Protocols with Oblivious Transfer
+
+With oblivious transfer multiparty protocols become possible even in the presence of a faulty majority. But all known protocols can be aborted by just one disruptor.
+  This paper presents more robust solutions for multiparty protocols with oblivious transfer. This additional robustness against disruptors weakens the security of the protocol and the guarantee that the result is correct. We can observe a trade off between robustness against disruption and security and correctness.
+  We give an application to quantum multiparty protocols. These allow the implementation of oblivious transfer and the protocols of this paper relative to temporary assumptions, i.e., the security increases after the termination of the protocol.

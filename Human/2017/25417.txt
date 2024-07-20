@@ -1,0 +1,3 @@
+Dynamic Discrete Tomography
+
+We consider the problem of reconstructing the paths of a set of points over time, where, at each of a finite set of moments in time the current positions of points in space are only accessible through some small number of their X-rays. This particular particle tracking problem, with applications, e.g., in plasma physics, is the basic problem in dynamic discrete tomography. We introduce and analyze various different algorithmic models. In particular, we determine the computational complexity of the problem (and various of its relatives) and derive algorithms that can be used in practice. As a byproduct we provide new results on constrained variants of min-cost flow and matching problems.

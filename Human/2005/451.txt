@@ -1,0 +1,3 @@
+Pushdown dimension
+
+This paper develops the theory of pushdown dimension and explores its relationship with finite-state dimension. Pushdown dimension is trivially bounded above by finite-state dimension for all sequences, since a pushdown gambler can simulate any finite-state gambler. We show that for every rational 0 < d < 1, there exists a sequence with finite-state dimension d whose pushdown dimension is at most d/2. This establishes a quantitative analogue of the well-known fact that pushdown automata decide strictly more languages than finite automata.

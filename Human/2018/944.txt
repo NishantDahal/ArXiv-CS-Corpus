@@ -1,0 +1,3 @@
+Not All Ops Are Created Equal!
+
+Efficient and compact neural network models are essential for enabling the deployment on mobile and embedded devices. In this work, we point out that typical design metrics for gauging the efficiency of neural network architectures -- total number of operations and parameters -- are not sufficient. These metrics may not accurately correlate with the actual deployment metrics such as energy and memory footprint. We show that throughput and energy varies by up to 5X across different neural network operation types on an off-the-shelf Arm Cortex-M7 microcontroller. Furthermore, we show that the memory required for activation data also need to be considered, apart from the model parameters, for network architecture exploration studies.

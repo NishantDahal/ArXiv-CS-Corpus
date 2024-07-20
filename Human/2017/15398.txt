@@ -1,0 +1,6 @@
+The Weisfeiler-Leman Dimension of Planar Graphs is at most 3
+
+We prove that the Weisfeiler-Leman (WL) dimension of the class of all finite planar graphs is at most 3. In particular, every finite planar graph is definable in first-order logic with counting using at most 4 variables. The previously best known upper bounds for the dimension and number of variables were 14 and 15, respectively.
+  First we show that, for dimension 3 and higher, the WL-algorithm correctly tests isomorphism of graphs in a minor-closed class whenever it determines the orbits of the automorphism group of any arc-colored 3-connected graph belonging to this class.
+  Then we prove that, apart from several exceptional graphs (which have WL-dimension at most 2), the individualization of two correctly chosen vertices of a colored 3-connected planar graph followed by the 1-dimensional WL-algorithm produces the discrete vertex partition. This implies that the 3-dimensional WL-algorithm determines the orbits of a colored 3-connected planar graph.
+  As a byproduct of the proof, we get a classification of the 3-connected planar graphs with fixing number 3.

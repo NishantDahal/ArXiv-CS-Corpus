@@ -1,0 +1,4 @@
+Linear Coupling: An Ultimate Unification of Gradient and Mirror Descent
+
+First-order methods play a central role in large-scale machine learning. Even though many variations exist, each suited to a particular problem, almost all such methods fundamentally rely on two types of algorithmic steps: gradient descent, which yields primal progress, and mirror descent, which yields dual progress.
+  We observe that the performances of gradient and mirror descent are complementary, so that faster algorithms can be designed by LINEARLY COUPLING the two. We show how to reconstruct Nesterov's accelerated gradient methods using linear coupling, which gives a cleaner interpretation than Nesterov's original proofs. We also discuss the power of linear coupling by extending it to many other settings that Nesterov's methods cannot apply to.

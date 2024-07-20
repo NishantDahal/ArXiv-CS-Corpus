@@ -1,0 +1,3 @@
+Even better correction of genome sequencing data
+
+We introduce an improved version of RECKONER, an error corrector for Illumina whole genome sequencing data. By modifying its workflow we reduce the computation time even 10 times. We also propose a new method of determination of $k$-mer length, the key parameter of $k$-spectrum-based family of correctors. The correction algorithms are examined on huge data sets, i.e., human and maize genomes for both Illumina HiSeq and MiSeq instruments.

@@ -1,0 +1,3 @@
+Domino Tatami Covering is NP-complete
+
+A covering with dominoes of a rectilinear region is called \emph{tatami} if no four dominoes meet at any point. We describe a reduction from planar 3SAT to Domino Tatami Covering. As a consequence it is NP-complete to decide whether there is a perfect matching of a graph that meets every 4-cycle, even if the graph is restricted to be an induced subgraph of the grid-graph. The gadgets used in the reduction were discovered with the help of a SAT-solver.

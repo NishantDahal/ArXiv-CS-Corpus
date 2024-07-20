@@ -1,0 +1,3 @@
+A lower bound on the positive semidefinite rank of convex bodies
+
+The positive semidefinite rank of a convex body $C$ is the size of its smallest positive semidefinite formulation. We show that the positive semidefinite rank of any convex body $C$ is at least $\sqrt{\log d}$ where $d$ is the smallest degree of a polynomial that vanishes on the boundary of the polar of $C$. This improves on the existing bound which relies on results from quantifier elimination. The proof relies on the Bézout bound applied to the Karush-Kuhn-Tucker conditions of optimality. We discuss the connection with the algebraic degree of semidefinite programming and show that the bound is tight (up to constant factor) for random spectrahedra of suitable dimension.

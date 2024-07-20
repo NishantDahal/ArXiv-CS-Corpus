@@ -1,0 +1,3 @@
+Efficient algorithms for the basis of finite Abelian groups
+
+Let $G$ be a finite abelian group $G$ with $N$ elements. In this paper we give a O(N) time algorithm for computing a basis of $G$. Furthermore, we obtain an algorithm for computing a basis from a generating system of $G$ with $M$ elements having time complexity $O(M\sum_{p|N} e(p)\lceil p^{1/2}\rceil^{μ(p)})$, where $p$ runs over all the prime divisors of $N$, and $p^{e(p)}$, $μ(p)$ are the exponent and the number of cyclic groups which are direct factors of the $p$-primary component of $G$, respectively. In case where $G$ is a cyclic group having a generating system with $M$ elements, a $O(MN^ε)$ time algorithm for the computation of a basis of $G$ is obtained.

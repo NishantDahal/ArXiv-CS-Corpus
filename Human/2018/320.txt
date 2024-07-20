@@ -1,0 +1,3 @@
+A Scalable Approach for Hardware Semiformal Verification
+
+The current verification flow of complex systems uses different engines synergistically: virtual prototyping, formal verification, simulation, emulation and FPGA prototyping. However, none is able to verify a complete architecture. Furthermore, hybrid approaches aiming at complete verification use techniques that lower the overall complexity by increasing the abstraction level. This work focuses on the verification of complex systems at the RT level to handle the hardware peculiarities. Our results show an improvement of 100\% compared to the commercial tool's results for the prototype we used to validate our approach.

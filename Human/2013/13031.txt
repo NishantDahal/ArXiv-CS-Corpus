@@ -1,0 +1,6 @@
+Case study: Class diagram restructuring
+
+This case study is an update-in-place refactoring transformation on UML class diagrams. Its aim is to remove clones of attributes from a class diagram, and to identify new  classes which abstract groups of classes that share common data features.
+  It is used as one of a general collection of transformations (such as the removal of redundant inheritance, or multiple inheritance) which aim to improve the quality of a specification or design level class diagram.
+  The transformation is a typical example of a model refactoring, and illustrates the issues involved in such transformations. 
+

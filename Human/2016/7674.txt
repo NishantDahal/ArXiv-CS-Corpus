@@ -1,0 +1,3 @@
+Sequential ranking under random semi-bandit feedback
+
+In many web applications, a recommendation is not a single item suggested to a user but a list of possibly interesting contents that may be ranked in some contexts. The combinatorial bandit problem has been studied quite extensively these last two years and many theoretical results now exist : lower bounds on the regret or asymptotically optimal algorithms. However, because of the variety of situations that can be considered, results are designed to solve the problem for a specific reward structure such as the Cascade Model. The present work focuses on the problem of ranking items when the user is allowed to click on several items while scanning the list from top to bottom.

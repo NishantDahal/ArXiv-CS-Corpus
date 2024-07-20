@@ -1,0 +1,8 @@
+New upper and lower bounds for randomized and quantum Local Search
+
+Local Search problem, which finds a local minimum of a black-box function on a given graph, is of both practical and theoretical importance to combinatorial optimization, complexity theory and many other areas in theoretical computer science. In this paper, we study the problem in the randomized and quantum query models and give new lower and upper bound techniques in both models.
+  The lower bound technique works for any graph that contains a product graph as a subgraph. Applying it to the Boolean hypercube {0,1}^n and the constant dimensional grids [n]^d, two particular product graphs that recently drew much attention, we get the following tight results:
+  RLS({0,1}^n) = Θ(2^{n/2}n^{1/2}), QLS({0,1}^n) = Θ(2^{n/3}n^{1/6}),
+  RLS([n]^d) = Θ(n^{d/2}) for d \geq 4, QLS([n]^d) = Θ(n^{d/3}) for d \geq 6.
+  Here RLS(G) and QLS(G) are the randomized and quantum query complexities of Local Search on G, respectively. These improve the previous results by Aaronson [STOC'04], Ambainis (unpublished) and Santha and Szegedy [STOC'04].
+  Our new algorithms work well when the underlying graph expands slowly. As an application to [n]^2, a new quantum algorithm using O(\sqrt{n}(\log\log n)^{1.5}) queries is given. This improves the previous best known upper bound of O(n^{2/3}) (Aaronson, [STOC'04]), and implies that Local Search on grids exhibits different properties in low dimensions.

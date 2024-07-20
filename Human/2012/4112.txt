@@ -1,0 +1,4 @@
+A law of large numbers for weighted plurality
+
+Consider an election between k candidates in which each voter votes randomly (but not necessarily independently) and suppose that there is a single candidate that every voter prefers (in the sense that each voter is more likely to vote for this special candidate than any other candidate). Suppose we have a voting rule that takes all of the votes and produces a single outcome and suppose that each individual voter has little effect on the outcome of the voting rule. If the voting rule is a weighted plurality, then we show that with high probability, the preferred candidate will win the election. Conversely, we show that this statement fails for all other reasonable voting rules.
+  This result is an extension of Häggström, Kalai and Mossel, who proved the above in the case k=2.

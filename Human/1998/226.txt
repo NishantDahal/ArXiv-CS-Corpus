@@ -1,0 +1,3 @@
+A Proof Theoretic View of Constraint Programming
+
+We provide here a proof theoretic account of constraint programming that attempts to capture the essential ingredients of this programming style. We exemplify it by presenting proof rules for linear constraints over interval domains, and illustrate their use by analyzing the constraint propagation process for the {\tt SEND + MORE = MONEY} puzzle. We also show how this approach allows one to build new constraint solvers.

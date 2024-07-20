@@ -1,0 +1,3 @@
+OSDF: A Framework For Software Defined Network Programming
+
+Using SDN to configure and control a multi-site network involves writing code that handles low-level details. We describe preliminary work on a framework that takes a network description and set of policies as input, and handles all the details of deriving routes and installing flow rules in switches. The paper describes key software components and reports preliminary results.

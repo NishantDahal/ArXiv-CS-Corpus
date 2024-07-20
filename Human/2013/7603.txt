@@ -1,0 +1,3 @@
+Proof in Context -- Web Editing with Rich, Modeless Contextual Feedback
+
+The Agora system is a prototypical Wiki for formal mathematics: a web-based system for collaborating on formal mathematics, intended to support informal documentation of formal developments. This system requires a reusable proof editor component, both for collaborative editing of documents, and for embedding in the resulting documents. This paper describes the design of Agora's asynchronous editor, that is generic enough to support different tools working on editor content and providing contextual information, with interactive theorem proverss being a special, but important, case described in detail for the Coq theorem prover.

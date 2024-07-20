@@ -1,0 +1,3 @@
+Pseudo-Ring Testing Schemes and Algorithms of RAM Built-In and Embedded Self-Testing
+
+Scan and ring schemes of the pseudo-ring memory selftesting are investigated. Both schemes are based on emulation of the linear or nonlinear feedback shift register by memory itself. Peculiarities of the pseudo-ring schemes implementation for multi-port and embedded memories, and for register file are described. It is shown that only small additional logic is required and allows microcontrollers at-speed testing. Also, in this article,are given the a posteriori values of some type of memories faults coverage when pseudo-ring testing schemes are applied.

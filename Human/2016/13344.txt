@@ -1,0 +1,4 @@
+Counting Triangles in Large Graphs on GPU
+
+The clustering coefficient and the transitivity ratio are concepts often used in network analysis, which creates a need for fast practical algorithms for counting triangles in large graphs. Previous research in this area focused on sequential algorithms, MapReduce parallelization, and fast approximations.
+  In this paper we propose a parallel triangle counting algorithm for CUDA GPU. We describe the implementation details necessary to achieve high performance and present the experimental evaluation of our approach. Our algorithm achieves 8 to 15 times speedup over the CPU implementation and is capable of finding 3.8 billion triangles in an 89 million edges graph in less than 10 seconds on the Nvidia Tesla C2050 GPU.

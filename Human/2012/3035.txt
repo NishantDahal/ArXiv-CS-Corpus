@@ -1,0 +1,3 @@
+Numerical Invariants through Convex Relaxation and Max-Strategy Iteration
+
+In this article we develop a max-strategy improvement algorithm for computing least fixpoints of operators on on the reals that are point-wise maxima of finitely many monotone and order-concave operators. Computing the uniquely determined least fixpoint of such operators is a problem that occurs frequently in the context of numerical program/systems verification/analysis. As an example for an application we discuss how our algorithm can be applied to compute numerical invariants of programs by abstract interpretation based on quadratic templates.

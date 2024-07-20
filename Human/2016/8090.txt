@@ -1,0 +1,3 @@
+Looking for vertex number one
+
+Given an instance of the preferential attachment graph $G_n=([n],E_n)$, we would like to find vertex 1, using only 'local' information about the graph; that is, by exploring the neighborhoods of small sets of vertices. Borgs et. al gave an an algorithm which runs in time $O(\log^4 n)$, which is local in the sense that at each step, it needs only to search the neighborhood of a set of vertices of size $O(\log^4 n)$. We give an algorithm to find vertex 1, which w.h.p. runs in time $O(ω\log n)$ and which is local in the strongest sense of operating only on neighborhoods of single vertices. Here $ω=ω(n)$ is any function that goes to infinity with $n$.

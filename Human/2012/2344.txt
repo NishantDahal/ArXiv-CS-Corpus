@@ -1,0 +1,7 @@
+Bilinear complexity of algebras and the Chudnovsky-Chudnovsky interpolation method
+
+We give new improvements to the Chudnovsky-Chudnovsky method that provides upper bounds on the bilinear complexity of multiplication in extensions of finite fields through interpolation on algebraic curves. Our approach features three independent key ingredients:
+  (1) We allow asymmetry in the interpolation procedure. This allows to prove, via the usual cardinality argument, the existence of auxiliary divisors needed for the bounds, up to optimal degree.
+  (2) We give an alternative proof for the existence of these auxiliary divisors, which is constructive, and works also in the symmetric case, although it requires the curves to have sufficiently many points.
+  (3) We allow the method to deal not only with extensions of finite fields, but more generally with monogenous algebras over finite fields. This leads to sharper bounds, and is designed also to combine well with base field descent arguments in case the curves do not have sufficiently many points.
+  As a main application of these techniques, we fix errors in, improve, and generalize, previous works of Shparlinski-Tsfasman-Vladut, Ballet, and Cenk-Ozbudak. Besides, generalities on interpolation systems, as well as on symmetric and asymmetric bilinear complexity, are also discussed.

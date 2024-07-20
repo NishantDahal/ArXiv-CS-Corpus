@@ -1,0 +1,3 @@
+Optimal Receding Horizon Control for Finite Deterministic Systems with Temporal Logic Constraints
+
+In this paper, we develop a provably correct optimal control strategy for a finite deterministic transition system. By assuming that penalties with known probabilities of occurrence and dynamics can be sensed locally at the states of the system, we derive a receding horizon strategy that minimizes the expected average cumulative penalty incurred between two consecutive satisfactions of a desired property. At the same time, we guarantee the satisfaction of correctness specifications expressed as Linear Temporal Logic formulas. We illustrate the approach with a persistent surveillance robotics application.

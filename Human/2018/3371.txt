@@ -1,0 +1,3 @@
+An Investigation of the Monitoring Activity in Self Adaptive Systems
+
+Runtime monitoring is essential for the violation detection during the underlying software system execution. In this paper, an investigation of the monitoring activity of MAPE-K control loop is performed which aims at exploring:(1) the architecture of the monitoring activity in terms of the involved components and control and data flow between them; (2) the standard interface of the monitoring component with other MAPE-K components; (3) the adaptive monitoring and its importance to the monitoring overhead issue; and (4) the monitoring mode and its relevance to some specific situations and systems. This paper also presented a Java framework for the monitoring process for self adaptive systems.

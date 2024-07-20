@@ -1,0 +1,3 @@
+dup -- Explicit un-sharing in Haskell
+
+We propose two operations to prevent sharing in Haskell that do not require modifying the data generating code, demonstrate their use and usefulness, and compare them to other approaches to preventing sharing. Our claims are supported by a formal semantics and a prototype implementation.

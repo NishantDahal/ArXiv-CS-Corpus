@@ -1,0 +1,3 @@
+Generalized Sampling in Julia
+
+Generalized sampling is a numerically stable framework for obtaining reconstructions of signals in different bases and frames from their samples. In this paper, we will introduce a carefully documented toolbox for performing generalized sampling in Julia. Julia is a new language for technical computing with focus on performance, which is ideally suited to handle the large size problems often encountered in generalized sampling. The toolbox provides specialized solutions for the setup of Fourier bases and wavelets. The performance of the toolbox is compared to existing implementations of generalized sampling in MATLAB.

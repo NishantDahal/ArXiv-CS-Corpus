@@ -1,0 +1,5 @@
+Comparison of LZ77-type Parsings
+
+We investigate the relations between different variants of the LZ77 parsing existing in the literature. All of them are defined as greedily constructed parsings encoding each phrase by reference to a string occurring earlier in the input. They differ by the phrase encodings: encoded by pairs (length + position of an earlier occurrence) or by triples (length + position of an earlier occurrence + the letter following the earlier occurring part); and they differ by allowing or not allowing overlaps between the phrase and its earlier occurrence. For a given string of length $n$ over an alphabet of size $σ$, denote the numbers of phrases in the parsings allowing (resp., not allowing) overlaps by $z$ (resp., $\hat{z}$) for "pairs", and by $z_3$ (resp., $\hat{z}_3$) for "triples". We prove the following bounds and provide series of examples showing that these bounds are tight:
+  $\bullet$ $z \le \hat{z} \le z \cdot O(\log\frac{n}{z\log_σz})$ and $z_3 \le \hat{z}_3 \le z_3 \cdot O(\log\frac{n}{z_3\log_σz_3})$;
+  $\bullet$ $\frac{1}2\hat{z} < \hat{z}_3 \le \hat{z}$ and $\frac{1}2 z < z_3 \le z$.

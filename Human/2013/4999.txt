@@ -1,0 +1,3 @@
+Modelling and Refinement in CODA
+
+This paper provides an overview of the CODA framework for modelling and refinement of component-based embedded systems. CODA is an extension of Event-B and UML-B and is supported by a plug-in for the Rodin toolset. CODA augments Event-B with constructs for component-based modelling including components, communications ports, port connectors, timed communications and timing triggers. Component behaviour is specified through a combination of UML-B state machines and Event-B. CODA communications and timing are given an Event-B semantics through translation rules. Refinement is based on Event-B refinement and allows layered construction of CODA models in a consistent way.

@@ -1,0 +1,3 @@
+Repairing the Faure-Loidreau Public-Key Cryptosystem
+
+A repair of the Faure-Loidreau (FL) public-key code-based cryptosystem is proposed. The FL cryptosystem is based on the hardness of list decoding Gabidulin codes which are special rank-metric codes. We prove that the recent structural attack on the system by Gaborit et al. is equivalent to decoding an interleaved Gabidulin code. Since all known polynomial-time decoders for these codes fail for a large constructive class of error patterns, we are able to construct public keys that resist the attack. It is also shown that all other known attacks fail for our repair and parameter choices. Compared to other code-based cryptosystems, we obtain significantly smaller key sizes for the same security level.

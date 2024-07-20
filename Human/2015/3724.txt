@@ -1,0 +1,3 @@
+Higher Homotopies in a Hierarchy of Univalent Universes
+
+For Martin-Lof type theory with a hierarchy U(0): U(1): U(2): ... of univalent universes, we show that U(n) is not an n-type. Our construction also solves the problem of finding a type that strictly has some high truncation level without using higher inductive types. In particular, U(n) is such a type if we restrict it to n-types. We have fully formalized and verified our results within the dependently typed language and proof assistant Agda.

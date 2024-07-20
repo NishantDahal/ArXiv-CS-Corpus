@@ -1,0 +1,6 @@
+Optimization Algorithms for Faster Computational Geometry
+
+We study two fundamental problems in computational geometry: finding the maximum inscribed ball (MaxIB) inside a bounded polyhedron defined by $m$ hyperplanes, and the minimum enclosing ball (MinEB) of a set of $n$ points, both in $d$-dimensional space. We improve the running time of iterative algorithms on
+  MaxIB from $\tilde{O}(m d α^3 / \varepsilon^3)$ to $\tilde{O}(md + m \sqrt{d} α/ \varepsilon)$, a speed-up up to $\tilde{O}(\sqrt{d} α^2 / \varepsilon^2)$, and
+  MinEB from $\tilde{O}(n d / \sqrt{\varepsilon})$ to $\tilde{O}(nd + n \sqrt{d} / \sqrt{\varepsilon})$, a speed-up up to $\tilde{O}(\sqrt{d})$.
+  Our improvements are based on a novel saddle-point optimization framework. We propose a new algorithm $\mathtt{L1L2SPSolver}$ for solving a class of regularized saddle-point problems, and apply a randomized Hadamard space rotation which is a technique borrowed from compressive sensing. Interestingly, the motivation of using Hadamard rotation solely comes from our optimization view but not the original geometry problem: indeed, it is not immediately clear why MaxIB or MinEB, as a geometric problem, should be easier to solve if we rotate the space by a unitary matrix. We hope that our optimization perspective sheds lights on solving other geometric problems as well.

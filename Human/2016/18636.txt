@@ -1,0 +1,3 @@
+Audio Content based Geotagging in Multimedia
+
+In this paper we propose methods to extract geographically relevant information in a multimedia recording using its audio. Our method primarily is based on the fact that urban acoustic environment consists of a variety of sounds. Hence, location information can be inferred from the composition of sound events/classes present in the audio. More specifically, we adopt matrix factorization techniques to obtain semantic content of recording in terms of different sound classes. These semantic information are then combined to identify the location of recording.

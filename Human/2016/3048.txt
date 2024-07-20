@@ -1,0 +1,3 @@
+Timed Automata Approach for Motion Planning Using Metric Interval Temporal Logic
+
+In this paper, we consider the robot motion (or task) planning problem under some given time bounded high level specifications. We use metric interval temporal logic (MITL), a member of the temporal logic family, to represent the task specification and then we provide a constructive way to generate a timed automaton and methods to look for accepting runs on the automaton to find a feasible motion (or path) sequence for the robot to complete the task.

@@ -1,0 +1,3 @@
+Trailing the Snail: SDN Controller Security Evolution
+
+The first OpenFlow Software-Defined Network (SDN) Controller, NOX, was developed by Nicira Networks and donated to the research community in 2008. Almost 10 years later, there are at least 29 open-source SDN Controllers and many more proprietary solutions. Two of the open-source SDN controllers stand out in terms of broad deployment and strong contributor base; Open Network Operating System (ONOS) and OpenDaylight (ODL). Both have been deployed in live networks. However, despite increasing adoption of SDN, the security of the SDN control plane has developed at a snail's pace. In this paper, the evolution of ONOS and ODL security is discussed. The reflection of this on secure SDN Controller design is analyzed.

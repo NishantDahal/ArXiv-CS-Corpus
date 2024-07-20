@@ -1,0 +1,7 @@
+A new property of the Lovász number and duality relations between graph parameters
+
+We show that for any graph $G$, by considering "activation" through the strong product with another graph $H$, the relation $α(G) \leq \vartheta(G)$ between the independence number and the Lovász number of $G$ can be made arbitrarily tight: Precisely, the inequality \[
+  α(G \times H) \leq \vartheta(G \times H) = \vartheta(G)\,\vartheta(H) \] becomes asymptotically an equality for a suitable sequence of ancillary graphs $H$.
+  This motivates us to look for other products of graph parameters of $G$ and $H$ on the right hand side of the above relation. For instance, a result of Rosenfeld and Hales states that \[
+  α(G \times H) \leq α^*(G)\,α(H), \] with the fractional packing number $α^*(G)$, and for every $G$ there exists $H$ that makes the above an equality; conversely, for every graph $H$ there is a $G$ that attains equality.
+  These findings constitute some sort of duality of graph parameters, mediated through the independence number, under which $α$ and $α^*$ are dual to each other, and the Lovász number $\vartheta$ is self-dual. We also show duality of Schrijver's and Szegedy's variants $\vartheta^-$ and $\vartheta^+$ of the Lovász number, and explore analogous notions for the chromatic number under strong and disjunctive graph products.

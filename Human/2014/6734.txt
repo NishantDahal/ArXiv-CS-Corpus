@@ -1,0 +1,3 @@
+Maximizing Diversity for Multimodal Optimization
+
+Most multimodal optimization algorithms use the so called \textit{niching methods}~\cite{mahfoud1995niching} in order to promote diversity during optimization, while others, like \textit{Artificial Immune Systems}~\cite{de2010conceptual} try to find multiple solutions as its main objective. One of such algorithms, called \textit{dopt-aiNet}~\cite{de2005artificial}, introduced the Line Distance that measures the distance between two solutions regarding their basis of attraction. In this short abstract I propose the use of the Line Distance measure as the main objective-function in order to locate multiple optima at once in a population.

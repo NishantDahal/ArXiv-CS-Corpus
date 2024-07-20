@@ -1,0 +1,3 @@
+Dictator Functions Maximize Mutual Information
+
+Let $(\mathbf X, \mathbf Y)$ denote $n$ independent, identically distributed copies of two arbitrarily correlated Rademacher random variables $(X, Y)$. We prove that the inequality $I(f(\mathbf X); g(\mathbf Y)) \le I(X; Y)$ holds for any two Boolean functions: $f,g \colon \{-1,1\}^n \to \{-1,1\}$ ($I(\cdot; \cdot)$ denotes mutual information). We further show that equality in general is achieved only by the dictator functions $f(\mathbf x)=\pm g(\mathbf x)=\pm x_i$, $i \in \{1,2,\dots,n\}$.

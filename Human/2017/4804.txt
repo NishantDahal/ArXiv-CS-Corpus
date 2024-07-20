@@ -1,0 +1,3 @@
+Effective identifiability criteria for tensors and polynomials
+
+A tensor $T$, in a given tensor space, is said to be $h$-identifiable if it admits a unique decomposition as a sum of $h$ rank one tensors. A criterion for $h$-identifiability is called effective if it is satisfied in a dense, open subset of the set of rank $h$ tensors. In this paper we give effective $h$-identifiability criteria for a large class of tensors. We then improve these criteria for some symmetric tensors. For instance, this allows us to give a complete set of effective identifiability criteria for ternary quintic polynomial. Finally, we implement our identifiability algorithms in Macaulay2.

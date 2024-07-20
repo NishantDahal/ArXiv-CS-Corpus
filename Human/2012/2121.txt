@@ -1,0 +1,3 @@
+Correlation/Communication complexity of generating bipartite states
+
+We study the correlation complexity (or equivalently, the communication complexity) of generating a bipartite quantum state $ρ$. When $ρ$ is a pure state, we completely characterize the complexity for approximately generating $ρ$ by a corresponding approximate rank, closing a gap left in Ambainis, Schulman, Ta-Shma, Vazirani and Wigderson (SIAM Journal on Computing, 32(6):1570-1585, 2003). When $ρ$ is a classical distribution $P(x,y)$, we tightly characterize the complexity of generating $P$ by the psd-rank, a measure recently proposed by Fiorini, Massar, Pokutta, Tiwary and de Wolf (STOC 2012). We also present a characterization of the complexity of generating a general quantum state $ρ$.

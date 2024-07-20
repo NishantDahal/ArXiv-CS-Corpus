@@ -1,0 +1,3 @@
+Acyclic Edge Coloring through the Lovász Local Lemma
+
+We give a probabilistic analysis of a Moser-type algorithm for the Lovász Local Lemma (LLL), adjusted to search for acyclic edge colorings of a graph. We thus improve the best known upper bound to acyclic chromatic index, also obtained by analyzing a similar algorithm, but through the entropic method (basically counting argument). Specifically we show that a graph with maximum degree $Δ$ has an acyclic proper edge coloring with at most $\lceil 3.74(Δ-1)\rceil+1 $ colors, whereas, previously, the best bound was $4(Δ-1)$. The main contribution of this work is that it comprises a probabilistic analysis of a Moser-type algorithm applied to events pertaining to dependent variables.

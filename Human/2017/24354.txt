@@ -1,0 +1,3 @@
+Finite-state independence
+
+In this work we introduce a notion of independence based on finite-state automata: two infinite words are independent if no one helps to compress the other using one-to-one finite-state transducers with auxiliary input. We prove that, as expected, the set of independent pairs of infinite words has Lebesgue measure 1. We show that the join of two independent normal words is normal. However, the independence of two normal words is not guaranteed if we just require that their join is normal. To prove this we construct a normal word $x_1x_2x_3\ldots$ where $x_{2n}=x_n$ for every $n$.

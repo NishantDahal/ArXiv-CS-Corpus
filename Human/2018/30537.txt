@@ -1,0 +1,3 @@
+Novel approach to locate region of interest in mammograms for Breast cancer
+
+Locating region of interest for breast cancer masses in the mammographic image is a challenging problem in medical image processing. In this research work, the keen idea is to efficiently extract suspected mass region for further examination. In particular to this fact breast boundary segmentation on sliced rgb image using modified intensity based approach followed by quad tree based division to spot out suspicious area are proposed in the paper. To evaluate the performance DDSM standard dataset are experimented and achieved acceptable accuracy.

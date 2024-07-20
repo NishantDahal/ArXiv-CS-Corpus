@@ -1,0 +1,3 @@
+Boolean Operations using Generalized Winding Numbers
+
+The generalized winding number function measures insideness for arbitrary oriented triangle meshes. Exploiting this, I similarly generalize binary boolean operations to act on such meshes. The resulting operations for union, intersection, difference, etc. avoid volumetric discretization or pre-processing.

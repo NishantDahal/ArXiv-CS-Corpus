@@ -1,0 +1,4 @@
+Iterative Partial Rounding for Vertex Cover with Hard Capacities
+
+We provide a simple and novel algorithmic design technique, for which we call iterative partial rounding, that gives a tight rounding-based approximation for vertex cover with hard capacities (VC-HC). In particular, we obtain an $f$-approximation for VC-HC on hypergraphs, improving over a previous results of Cheung et al (SODA 2014) to the tight extent. This also closes the gap of approximation since it was posted by Chuzhoy and Naor in (FOCS 2002). We believe that our rounding technique is of independence interests when hard constraints are considered.
+  Our main technical tool for establishing the approximation guarantee is a separation lemma that certifies the existence of a strong partition for solutions that are basic feasible in an extended version of the natural LP.

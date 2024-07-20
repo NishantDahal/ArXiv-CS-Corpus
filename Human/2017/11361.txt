@@ -1,0 +1,3 @@
+Deleting vertices to graphs of bounded genus
+
+We show that a problem of deleting a minimum number of vertices from a graph to obtain a graph embeddable on a surface of a given Euler genus is solvable in time $2^{C_g \cdot k^2 \log k} n^{O(1)}$, where $k$ is the size of the deletion set, $C_g$ is a constant depending on the Euler genus $g$ of the target surface, and $n$ is the size of the input graph. On the way to this result, we develop an algorithm solving the problem in question in time $2^{O((t+g) \log (t+g))} n$, given a tree decomposition of the input graph of width $t$. The results generalize previous algorithms for the surface being a sphere by Marx and Schlotter [Algorithmica 2012], Kawarabayashi [FOCS 2009], and Jansen, Lokshtanov, and Saurabh [SODA 2014].

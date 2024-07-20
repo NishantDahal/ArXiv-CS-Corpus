@@ -1,0 +1,3 @@
+Labeled Multi-Bernoulli Tracking for Industrial Mobile Platform Safety
+
+This paper presents a track-before-detect labeled multi-Bernoulli filter tailored for industrial mobile platform safety applications. We derive two application specific separable likelihood functions that capture the geometric shape and colour information of the human targets who are wearing a high visible vest. These likelihoods are then used in a labeled multi-Bernoulli filter with a novel two step Bayesian update. Preliminary simulation results show that the proposed solution can successfully track human workers wearing a luminous yellow colour vest in an industrial environment.

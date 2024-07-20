@@ -1,0 +1,3 @@
+Pseudorandom number generation by p-adic ergodic transformations: an addendum
+
+The paper study counter-dependent pseudorandom number generators based on $m$-variate ($m>1$) ergodic mappings of the space of 2-adic integers $\Z_2$. The sequence of internal states of these generators is defined by the recurrence law $\mathbf x_{i+1}= H^B_i(\mathbf x_i)\bmod{2^n}$, whereas their output sequence is %while its output sequence is of the $\mathbf z_{i}=F^B_i(\mathbf x_i)\mod 2^n$; here $\mathbf x_j, \mathbf z_j$ are $m$-dimensional vectors over $\Z_2$. It is shown how the results obtained for a univariate case could be extended to a multivariate case.

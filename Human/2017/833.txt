@@ -1,0 +1,3 @@
+Robust Group LASSO Over Decentralized Networks
+
+This paper considers the recovery of group sparse signals over a multi-agent network, where the measurements are subject to sparse errors. We first investigate the robust group LASSO model and its centralized algorithm based on the alternating direction method of multipliers (ADMM), which requires a central fusion center to compute a global row-support detector. To implement it in a decentralized network environment, we then adopt dynamic average consensus strategies that enable dynamic tracking of the global row-support detector. Numerical experiments demonstrate the effectiveness of the proposed algorithms.

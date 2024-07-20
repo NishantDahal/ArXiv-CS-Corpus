@@ -1,0 +1,3 @@
+Grapevine: A Wine Prediction Algorithm Using Multi-dimensional Clustering Methods
+
+We present a method for a wine recommendation system that employs multidimensional clustering and unsupervised learning methods. Our algorithm first performs clustering on a large corpus of wine reviews. It then uses the resulting wine clusters as an approximation of the most common flavor palates, recommending a user a wine by optimizing over a price-quality ratio within clusters that they demonstrated a preference for.

@@ -1,0 +1,3 @@
+On the $\mathcal{NP}$-hardness of GRacSim Drawing and k-SEFE Problems
+
+We study the complexity of two problems in simultaneous graph drawing. The first problem, GRacSim Drawing, asks for finding a simultaneous geometric embedding of two graphs such that only crossings at right angles are allowed. The second problem, k-SEFE, is a restricted version of the topological simultaneous embedding with fixed edges (SEFE) problem, for two planar graphs, in which every private edge may receive at most $k$ crossings, where $k$ is a prescribed positive integer. We show that GRacSim Drawing is $\mathcal{NP}$-hard and that k-SEFE is $\mathcal{NP}$-complete. The $\mathcal{NP}$-hardness of both problems is proved using two similar reductions from 3-Partition.

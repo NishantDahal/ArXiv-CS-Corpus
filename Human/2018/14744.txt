@@ -1,0 +1,4 @@
+On the Bias of Reed-Muller Codes over Odd Prime Fields
+
+We study the bias of random bounded-degree polynomials over odd prime fields and show that, with probability exponentially close to 1, such polynomials have exponentially small bias. This also yields an exponential tail bound on the weight distribution of Reed-Muller codes over odd prime fields. These results generalize bounds of Ben-Eliezer, Hod, and Lovett who proved similar results over $\mathbb{F}_2$. A key to our bounds is the proof of a new precise extremal property for the rank of sub-matrices of the generator matrices of Reed-Muller codes over odd prime fields. This extremal property is a substantial extension of an extremal property shown by Keevash and Sudakov for the case of $\mathbb{F}_2$.
+  Our exponential tail bounds on the bias can be used to derive exponential lower bounds on the time for space-bounded learning of bounded-degree polynomials from their evaluations over odd prime fields.

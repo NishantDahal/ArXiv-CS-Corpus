@@ -1,0 +1,3 @@
+A mixed finite element for weakly-symmetric elasticity
+
+We develop a finite element discretization for the weakly symmetric equations of linear elasticity on tetrahedral meshes. The finite element combines, for $r \geq 0$, discontinuous polynomials of $r$ for the displacement, $H(\mathrm{div})$-conforming polynomials of order $r+1$ for the stress, and $H(\mathrm{curl})$-conforming polynomials of order $r+1$ for the vector representation of the multiplier. We prove that this triplet is stable and has optimal approximation properties. The lowest order case can be combined with inexact quadrature to eliminate the stress and multiplier variables, leaving a compact cell-centered finite volume scheme for the displacement.

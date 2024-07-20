@@ -1,0 +1,6 @@
+IMEX HDG-DG: a coupled implicit hybridized discontinuous Galerkin (HDG) and explicit discontinuous Galerkin (DG) approach for shallow water systems
+
+We propose IMEX HDG-DG schemes for planar and spherical shallow water systems. Of interest is subcritical flow, where the speed of the gravity wave is faster than that of nonlinear advection. In order to simulate these flows efficiently, we split the governing system into a stiff part describing the gravity wave and a non-stiff part associated with nonlinear advection. The former is discretized implicitly with the HDG method while an explicit Runge-Kutta DG discretization is employed for the latter. The proposed IMEX HDG-DG framework: 1) facilitates high-order solutions both in time and space;
+  2) avoids overly small time-step sizes;
+  3) requires only one linear system solve per time stage;
+  4) relative to DG generates smaller and sparser linear systems while promoting further parallelism. Numerical results of various test cases demonstrate that our methods are comparable to explicit Runge-Kutta DG schemes in terms of accuracy while allowing for much larger time step sizes.

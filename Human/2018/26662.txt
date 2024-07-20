@@ -1,0 +1,3 @@
+Parsing Coordination for Spoken Language Understanding
+
+Typical spoken language understanding systems provide narrow semantic parses using a domain-specific ontology. The parses contain intents and slots that are directly consumed by downstream domain applications. In this work we discuss expanding such systems to handle compound entities and intents by introducing a domain-agnostic shallow parser that handles linguistic coordination. We show that our model for parsing coordination learns domain-independent and slot-independent features and is able to segment conjunct boundaries of many different phrasal categories. We also show that using adversarial training can be effective for improving generalization across different slot types for coordination parsing.

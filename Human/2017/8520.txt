@@ -1,0 +1,3 @@
+Conscious and controlling elements in combinatorial group testing problems with more defectives
+
+In combinatorial group testing problems Questioner needs to find a defective element $x\in [n]$ by testing subsets of $[n]$. In [18] the authors introduced a new model, where each element knows the answer for those queries that contain it and each element should be able to identify the defective one. In this article we continue to investigate this kind of models with more defective elements. We also consider related models inspired by secret sharing models, where the elements should share information among them to find out the defectives. Finally the adaptive versions of the different models are also investigated.

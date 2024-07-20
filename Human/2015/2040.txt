@@ -1,0 +1,3 @@
+Context Models For Web Search Personalization
+
+We present our solution to the Yandex Personalized Web Search Challenge. The aim of this challenge was to use the historical search logs to personalize top-N document rankings for a set of test users. We used over 100 features extracted from user- and query-depended contexts to train neural net and tree-based learning-to-rank and regression models. Our final submission, which was a blend of several different models, achieved an NDCG@10 of 0.80476 and placed 4'th amongst the 194 teams winning 3'rd prize.

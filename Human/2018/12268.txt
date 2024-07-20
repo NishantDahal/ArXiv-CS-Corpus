@@ -1,0 +1,3 @@
+Deep Linking Desktop Resources
+
+Deep Linking is the process of referring to a specific piece of web content. Although users can browse their files in desktop environments, they are unable to directly traverse deeper into their content using deep links. In order to solve this issue, we demonstrate "DeepLinker", a tool which generates and interprets deep links to desktop resources, thus enabling the reference to a certain location within a file using a simple hyperlink. By default, the service responds with an HTML representation of the resource along with further links to follow. Additionally, we allow the use of RDF to interlink our deep links with other resources.

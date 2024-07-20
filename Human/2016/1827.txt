@@ -1,0 +1,6 @@
+A Ranking Algorithm for Re-finding
+
+Re-finding files from a personal computer is a frequent demand to users. When encountered a difficult re-finding task, people may not recall the attributes used by conventional re-finding methods, such as a file's path, file name, keywords etc., the re-finding would fail.
+  We proposed a method to support difficult re-finding tasks. By asking the user a list of questions about the target, such as a document's pages, author numbers, accumulated reading time, last reading location etc. Then use the user's answers to filter out the target.
+  After the user answered a list of questions about the target file, we evaluate the user's familiar degree about the target file based on the answers. We devise a ranking algorithm which sorts the candidates by comparing the user's familiarity degree about the target and the candidates.
+  We also propose a method to generate re-finding tasks artificially based on the user's own document corpus.

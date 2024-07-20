@@ -1,0 +1,3 @@
+Multi-Channel Random Access with Replications
+
+This paper considers a class of multi-channel random access algorithms, where contending devices may send multiple copies (replicas) of their messages to the central base station. We first develop a hypothetical algorithm that delivers a lower estimate for the access delay performance within this class. Further, we propose a feasible access control algorithm achieving low access delay by sending multiple message replicas, which approaches the performance of the hypothetical algorithm. The resulting performance is readily approximated by a simple lower bound, which is derived for a large number of channels.

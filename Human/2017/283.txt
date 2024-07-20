@@ -1,0 +1,3 @@
+AltGr-Ergo, a Graphical User Interface for the SMT Solver Alt-Ergo
+
+Due to undecidability and complexity of first-order logic, SMT solvers may not terminate on some problems or require a very long time.  When this happens, one would like to find the reasons why the solver fails. To this end, we have designed AltGr-Ergo, an interactive graphical interface for the SMT solver Alt-Ergo which allows users and tool developers to help the solver finish some proofs. AltGr-Ergo gives real time feedback in order to evaluate and quantify progress made by the solver, and also offers various syntactic manipulation options to allow a finer grained interaction with Alt-Ergo. This paper describes these features and their implementation, and gives usage scenarios for most of them.

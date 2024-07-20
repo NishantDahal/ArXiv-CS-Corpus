@@ -1,0 +1,3 @@
+Space-Time Codes Based on Rank-Metric Codes and Their Decoding
+
+We propose a new class of space-time block codes based on finite-field rank-metric codes in combination with a rank-metric-preserving mapping to the set of Eisenstein integers. It is shown that these codes achieve maximum diversity order and improve upon certain existing constructions. Moreover, we present a new decoding algorithm for these codes which utilizes the algebraic structure of the underlying finite-field rank-metric codes and employs lattice-reduction-aided equalization. This decoder does not achieve the same performance as the classical maximum-likelihood decoding methods, but has polynomial complexity in the matrix dimension, making it usable for large field sizes and numbers of antennas.

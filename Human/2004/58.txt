@@ -1,0 +1,3 @@
+Spam filter analysis
+
+Unsolicited bulk email (aka. spam) is a major problem on the Internet. To counter spam, several techniques, ranging from spam filters to mail protocol extensions like hashcash, have been proposed. In this paper we investigate the effectiveness of several spam filtering techniques and technologies. Our analysis was performed by simulating email traffic under different conditions. We show that genetic algorithm based spam filters perform best at server level and naive Bayesian filters are the most appropriate for filtering at user level.

@@ -1,0 +1,3 @@
+Statistical Model Checking for Stochastic Hybrid Systems
+
+This  paper  presents  novel  extensions  and  applications  of  the UPPAAL-SMC model checker. The extensions allow for statistical model checking of  stochastic hybrid systems.  We show  how our race-based stochastic  semantics extends  to  networks of  hybrid systems,  and indicate  the integration  technique applied  for  implementing this semantics  in the UPPAAL-SMC  simulation engine.   We report  on two applications of  the resulting tool-set coming  from systems biology and energy aware buildings.

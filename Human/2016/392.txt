@@ -1,0 +1,9 @@
+Autoreducibility of NP-Complete Sets
+
+We study the polynomial-time autoreducibility of NP-complete sets and obtain separations under strong hypotheses for NP. Assuming there is a p-generic set in NP, we show the following:
+  - For every $k \geq 2$, there is a $k$-T-complete set for NP that is $k$-T autoreducible, but is not $k$-tt autoreducible or $(k-1)$-T autoreducible.
+  - For every $k \geq 3$, there is a $k$-tt-complete set for NP that is $k$-tt autoreducible, but is not $(k-1)$-tt autoreducible or $(k-2)$-T autoreducible.
+  - There is a tt-complete set for NP that is tt-autoreducible, but is not btt-autoreducible.
+  Under the stronger assumption that there is a p-generic set in NP $\cap$ coNP, we show:
+  - For every $k \geq 2$, there is a $k$-tt-complete set for NP that is $k$-tt autoreducible, but is not $(k-1)$-T autoreducible.
+  Our proofs are based on constructions from separating NP-completeness notions. For example, the construction of a 2-T-complete set for NP that is not 2-tt-complete also separates 2-T-autoreducibility from 2-tt-autoreducibility.

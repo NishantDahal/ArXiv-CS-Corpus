@@ -1,0 +1,3 @@
+Space-Efficient Construction of Compressed Indexes in Deterministic Linear Time
+
+We show that the compressed suffix array and the compressed suffix tree of a string $T$ can be built in $O(n)$ deterministic time using $O(n\logσ)$ bits of space, where $n$ is the string length and $σ$ is the alphabet size. Previously described deterministic algorithms either run in time that depends on the alphabet size or need $ω(n\log σ)$ bits of working space. Our result has immediate applications to other problems, such as yielding the first linear-time LZ77 and LZ78 parsing algorithms that use $O(n \logσ)$ bits.

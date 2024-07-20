@@ -1,0 +1,3 @@
+Comparing Two Generations of Embedded GPUs Running a Feature Detection Algorithm
+
+Graphics processing units (GPUs) in embedded mobile platforms are reaching performance levels where they may be useful for computer vision applications. We compare two generations of embedded GPUs for mobile devices when running a state-of-the-art feature detection algorithm, i.e., Harris-Hessian/FREAK. We compare architectural differences, execution time, temperature, and frequency on Sony Xperia Z3 and Sony Xperia XZ mobile devices. Our results indicate that the performance soon is sufficient for real-time feature detection, the GPUs have no temperature problems, and support for large work-groups is important.

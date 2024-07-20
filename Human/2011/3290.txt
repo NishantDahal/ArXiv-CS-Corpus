@@ -1,0 +1,5 @@
+Methods of Matrix Multiplication: An Overview of Several Methods and their Implementation
+
+In this overview article we present several methods for multiplying matrices and the implementation of these methods in C. Also a little test program is given to compare their running time and the numerical stability.
+  The methods are: naive method, naive method working on arrays, naive method with the \textsc{Kahan} trick, three methods with loop unrolling, winograd method and the scaled variant, original \textsc{Strassen} method and the \textsc{Strassen}-\textsc{Winograd} variant.
+  Please note, that this is the FIRST version. The algorithms are not well tested and the implementation is not optimized. If you like to join the project, please contact me.

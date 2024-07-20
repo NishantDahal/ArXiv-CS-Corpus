@@ -1,0 +1,3 @@
+Exact counting of Euler Tours for Graphs of Bounded Treewidth
+
+In this paper we give a simple polynomial-time algorithm to exactly count the number of Euler Tours (ETs) of any Eulerian graph of bounded treewidth. The problems of counting ETs are known to be #P-complete for general graphs (Brightwell and Winkler, (Brightwell and Winkler, 2005). To date, no polynomial-time algorithm for counting Euler tours of any class of graphs is known except for the very special case of series-parallel graphs (which have treewidth 2).

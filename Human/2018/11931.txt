@@ -1,0 +1,3 @@
+A 3D Parallel Algorithm for QR Decomposition
+
+Interprocessor communication often dominates the runtime of large matrix computations. We present a parallel algorithm for computing QR decompositions whose bandwidth cost (communication volume) can be decreased at the cost of increasing its latency cost (number of messages). By varying a parameter to navigate the bandwidth/latency tradeoff, we can tune this algorithm for machines with different communication costs.

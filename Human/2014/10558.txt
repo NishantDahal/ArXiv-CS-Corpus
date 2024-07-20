@@ -1,0 +1,3 @@
+Bridging the Semantic Gap between RDF and SPARQL using Completeness Statements [Extended Version]
+
+RDF data is often treated as incomplete, following the Open-World Assumption. On the other hand, SPARQL, the standard query language over RDF, usually follows the Closed-World Assumption, assuming RDF data to be complete. This gives rise to a semantic gap between RDF and SPARQL. In this paper, we address how to close the semantic gap between RDF and SPARQL in terms of certain answers and possible answers using completeness statements.

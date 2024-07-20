@@ -1,0 +1,3 @@
+A Lower Bound on the Diameter of the Flip Graph
+
+The flip graph is the graph whose nodes correspond to non-isomorphic combinatorial triangulations and whose edges connect pairs of triangulations that can be obtained one from the other by flipping a single edge. In this note we show that the diameter of the flip graph is at least $\frac{7n}{3} + Θ(1)$, improving upon the previous $2n + Θ(1)$ lower bound.

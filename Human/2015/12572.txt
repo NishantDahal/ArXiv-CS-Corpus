@@ -1,0 +1,3 @@
+BASEL (Buffering Architecture SpEcification Language)
+
+Buffering architectures and policies for their efficient management constitute one of the core ingredients of a network architecture. In this work we introduce a new specification language, BASEL, that allows to express virtual buffering architectures and management policies representing a variety of economic models. BASEL does not require the user to implement policies in a high-level language; rather, the entire buffering architecture and its policy are reduced to several comparators and simple functions. We show examples of buffering architectures in BASEL and demonstrate empirically the impact of various settings on performance.

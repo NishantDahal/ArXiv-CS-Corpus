@@ -1,0 +1,3 @@
+Global Caching for the Alternation-free $μ$-Calculus
+
+We present a sound, complete, and optimal single-pass tableau algorithm for the alternation-free $μ$-calculus. The algorithm supports global caching with intermediate propagation and runs in time $2^{\mathcal{O}(n)}$. In game-theoretic terms, our algorithm integrates the steps for constructing and solving the Büchi game arising from the input tableau into a single procedure; this is done on-the-fly, i.e. may terminate before the game has been fully constructed. This suggests a slogan to the effect that global caching = game solving on-the-fly. A prototypical implementation shows promising initial results.

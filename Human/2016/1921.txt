@@ -1,0 +1,3 @@
+Frequency Analysis of Temporal Graph Signals
+
+This letter extends the concept of graph-frequency to graph signals that evolve with time. Our goal is to generalize and, in fact, unify the familiar concepts from time- and graph-frequency analysis. To this end, we study a joint temporal and graph Fourier transform (JFT) and demonstrate its attractive properties. We build on our results to create filters which act on the joint (temporal and graph) frequency domain, and show how these can be used to perform interference cancellation. The proposed algorithms are distributed, have linear complexity, and can approximate any desired joint filtering objective.

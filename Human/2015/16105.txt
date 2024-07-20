@@ -1,0 +1,3 @@
+On the state complexity of closures and interiors of regular languages with subwords and superwords
+
+The downward and upward closures of a regular language $L$ are obtained by collecting all the subwords and superwords of its elements, respectively. The downward and upward interiors of $L$ are obtained dually by collecting words having all their subwords and superwords in $L$, respectively. We provide lower and upper bounds on the size of the smallest automata recognizing these closures and interiors. We also consider the computational complexity of decision problems for closures of regular languages.

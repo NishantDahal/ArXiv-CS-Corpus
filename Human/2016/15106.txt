@@ -1,0 +1,3 @@
+An EKF-SLAM algorithm with consistency properties
+
+In this paper we address the inconsistency of the EKF-based SLAM algorithm that stems from non-observability of the origin and orientation of the global reference frame. We prove on the non-linear two-dimensional problem with point landmarks observed that this type of inconsistency is remedied using the Invariant EKF, a recently introduced variant ot the EKF meant to account for the symmetries of the state space. Extensive Monte-Carlo runs illustrate the theoretical results.

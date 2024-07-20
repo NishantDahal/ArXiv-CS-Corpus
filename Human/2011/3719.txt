@@ -1,0 +1,4 @@
+Counting Square-Free Numbers
+
+The main topic of this contribution is the problem of counting square-free numbers not exceeding $n$. Before this work we were able to do it in time (Comparing to the Big-O notation, Soft-O ($\softO$) ignores logarithmic factors) $\softO(\sqrt{n})$. Here, the algorithm with time complexity $\softO(n^{2/5})$ and with memory complexity $\softO(n^{1/5})$ is presented. Additionally, a parallel version is shown, which achieves full scalability.
+  As of now the highest computed value was for $n=10^{17}$. Using our implementation we were able to calculate the value for $n=10^{36}$ on a cluster.

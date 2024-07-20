@@ -1,0 +1,3 @@
+A Compressed Self-Index for Genomic Databases
+
+Advances in DNA sequencing technology will soon result in databases of thousands of genomes. Within a species, individuals' genomes are almost exact copies of each other; e.g., any two human genomes are 99.9% the same. Relative Lempel-Ziv (RLZ) compression takes advantage of this property: it stores the first genome uncompressed or as an FM-index, then compresses the other genomes with a variant of LZ77 that copies phrases only from the first genome. RLZ achieves good compression and supports fast random access; in this paper we show how to support fast search as well, thus obtaining an efficient compressed self-index.

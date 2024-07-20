@@ -1,0 +1,3 @@
+OpenCL 2.0 for FPGAs using OCLAcc
+
+Designing hardware is a time-consuming and complex process. Realization of both, embedded and high-performance applications can benefit from a design process on a higher level of abstraction. This helps to reduce development time and allows to iteratively test and optimize the hardware design during development, as common in software development. We present our tool, OCLAcc, which allows the generation of entire FPGA-based hardware accelerators from OpenCL and discuss the major novelties of OpenCL 2.0 and how they can be realized in hardware using OCLAcc.

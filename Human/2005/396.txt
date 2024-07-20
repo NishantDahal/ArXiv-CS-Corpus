@@ -1,0 +1,3 @@
+Handling boundary constraints for numerical optimization by particle swarm flying in periodic search space
+
+The periodic mode is analyzed together with two conventional boundary handling modes for particle swarm. By providing an infinite space that comprises periodic copies of original search space, it avoids possible disorganizing of particle swarm that is induced by the undesired mutations at the boundary. The results on benchmark functions show that particle swarm with periodic mode is capable of improving the search performance significantly, by compared with that of conventional modes and other algorithms.

@@ -1,0 +1,4 @@
+FPMax: a 106GFLOPS/W at 217GFLOPS/mm2 Single-Precision FPU, and a 43.7GFLOPS/W at 74.6GFLOPS/mm2 Double-Precision FPU, in 28nm UTBB FDSOI
+
+FPMax implements four FPUs optimized for latency or throughput workloads in two precisions, fabricated in 28nm UTBB FDSOI. Each unit's parameters, e.g pipeline stages, booth encoding etc., were optimized to yield 1.42ns latency at 110GLOPS/W (SP) and 1.39ns latency at 36GFLOPS/W (DP). At 100% activity, body-bias control improves the energy efficiency by about 20%; at 10% activity this saving is almost 2x.
+  Keywords: FPU, energy efficiency, hardware generator, SOI

@@ -1,0 +1,3 @@
+Lifting Private Information Retrieval from Two to any Number of Messages
+
+We study private information retrieval (PIR) on coded data with possibly colluding servers. Devising PIR schemes with optimal download rate in the case of collusion and coded data is still open in general. We provide a lifting operation that can transform what we call one-shot PIR schemes for two messages into schemes for any number of messages. We apply this lifting operation on existing PIR schemes and describe two immediate implications. First, we obtain novel PIR schemes with improved download rate in the case of MDS coded data and server collusion. Second, we provide a simplified description of existing optimal PIR schemes on replicated data as lifted secret sharing based PIR.

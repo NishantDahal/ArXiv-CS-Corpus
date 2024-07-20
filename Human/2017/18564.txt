@@ -1,0 +1,3 @@
+Vector Field Guidance for Convoy Monitoring Using Elliptical Orbits
+
+We propose a novel vector field based guidance scheme for tracking and surveillance of a convoy, moving along a possibly nonlinear trajectory on the ground, by an aerial agent. The scheme first computes a time varying ellipse that encompasses all the targets in the convoy using a simple regression based algorithm. It then ensures convergence of the agent to a trajectory that repeatedly traverses this moving ellipse. The scheme is analyzed using perturbation theory of nonlinear differential equations and supporting simulations are provided. Some related implementation issues are discussed and advantages of the scheme are highlighted.

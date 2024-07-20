@@ -1,0 +1,3 @@
+Almost All Even Yao-Yao Graphs Are Spanners
+
+It is an open problem whether Yao-Yao graphs $\mathsf{YY}_k$ (also known as sparse-Yao graphs) are all spanners when the integer parameter $k$ is large enough. In this paper we show that, for any integer $k\geq 42$, the Yao-Yao graph $\mathsf{YY}_{2k}$ is a $t_k$-spanner, with stretch factor $t_k=6.03+O(k^{-1})$ when $k$ tends to infinity. Our result generalizes the best known result which asserts that all $\mathsf{YY}_{6k}$ are spanners for $k$ large enough [Bauer and Damian, SODA'13]. Our proof is also somewhat simpler.

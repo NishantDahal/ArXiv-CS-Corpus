@@ -1,0 +1,3 @@
+Rank Maximal Equal Contribution: a Probabilistic Social Choice Function
+
+When aggregating preferences of agents via voting, two desirable goals are to incentivize agents to participate in the voting process and then identify outcomes that are Pareto efficient. We consider participation as formalized by Brandl, Brandt, and Hofbauer (2015) based on the stochastic dominance (SD) relation. We formulate a new rule called RMEC (Rank Maximal Equal Contribution) that satisfies the strongest notion of participation and is also ex post efficient. The rule is polynomial-time computable and also satisfies many other desirable fairness properties. The rule suggests a general approach to achieving ex post efficiency and very strong participation.

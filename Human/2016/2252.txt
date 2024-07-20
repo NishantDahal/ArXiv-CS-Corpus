@@ -1,0 +1,3 @@
+A short note on Merlin-Arthur protocols for subset sum
+
+In the subset sum problem we are given n positive integers along with a target integer t. A solution is a subset of these integers summing to t. In this short note we show that for a given subset sum instance there is a proof of size $O^*(\sqrt{t})$ of what the number of solutions is that can be constructed in $O^*(t)$ time and can be probabilistically verified in time $O^*(\sqrt{t})$ with at most constant error probability. Here, the $O^*()$ notation omits factors polynomial in the input size $n\log(t)$.

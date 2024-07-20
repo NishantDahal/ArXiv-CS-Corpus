@@ -1,0 +1,3 @@
+A Generic Global Constraint based on MDDs
+
+The paper suggests the use of Multi-Valued Decision Diagrams (MDDs) as the supporting data structure for a generic global constraint. We give an algorithm for maintaining generalized arc consistency (GAC) on this constraint that amortizes the cost of the GAC computation over a root-to-terminal path in the search tree. The technique used is an extension of the GAC algorithm for the regular language constraint on finite length input. Our approach adds support for skipped variables, maintains the reduced property of the MDD dynamically and provides domain entailment detection. Finally we also show how to adapt the approach to constraint types that are closely related to MDDs, such as AOMDDs and Case DAGs.

@@ -1,0 +1,3 @@
+Coloured and task-based stencil codes
+
+Simple stencil codes are and remain an important building block in scientific computing. On shared memory nodes, they are traditionally parallelised through colouring or (recursive) tiling. New OpenMP versions alternatively allow users to specify data dependencies explicitly and to outsource the decision how to distribute the work to the runtime system. We evaluate traditional multithreading strategies on both Broadwell and KNL, study the arising assignment of tasks to threads and, from there, derive two efficient ways to parallelise stencil codes on regular Cartesian grids that fuse colouring and task-based approaches.

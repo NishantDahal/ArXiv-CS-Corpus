@@ -1,0 +1,3 @@
+A Better Baseline for AVA
+
+We introduce a simple baseline for action localization on the AVA dataset. The model builds upon the Faster R-CNN bounding box detection framework, adapted to operate on pure spatiotemporal features - in our case produced exclusively by an I3D model pretrained on Kinetics. This model obtains 21.9% average AP on the validation set of AVA v2.1, up from 14.5% for the best RGB spatiotemporal model used in the original AVA paper (which was pretrained on Kinetics and ImageNet), and up from 11.3 of the publicly available baseline using a ResNet101 image feature extractor, that was pretrained on ImageNet. Our final model obtains 22.8%/21.9% mAP on the val/test sets and outperforms all submissions to the AVA challenge at CVPR 2018.

@@ -1,0 +1,3 @@
+Approximating permanents and hafnians
+
+We prove that the logarithm of the permanent of an nxn real matrix A and the logarithm of the hafnian of a 2nx2n real symmetric matrix A can be approximated within an additive error 1 > epsilon > 0 by a polynomial p in the entries of A of degree O(ln n - ln epsilon) provided the entries a_ij of A satisfy delta < a_ij < 1 for an arbitrarily small delta > 0, fixed in advance. Moreover, the polynomial p can be computed in n^{O(ln n - ln epsilon)} time. We also improve bounds for approximating ln per A, ln haf A and logarithms of multi-dimensional permanents for complex matrices and tensors A.

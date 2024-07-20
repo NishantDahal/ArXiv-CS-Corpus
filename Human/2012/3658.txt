@@ -1,0 +1,7 @@
+Inapproximability After Uniqueness Phase Transition in Two-Spin Systems
+
+A two-state spin system is specified by a 2 x 2 matrix
+  A = {A_{0,0} A_{0,1}, A_{1,0} A_{1,1}} = {β1, 1 γ}
+where β, γ\ge 0. Given an input graph G=(V,E), the partition function Z_A(G) of a system is defined as
+  Z_A(G) = \sum_{σ: V -> {0,1}} \prod_{(u,v) \in E} A_{σ(u), σ(v)}
+  We prove inapproximability results for the partition function in the region specified by the non-uniqueness condition from phase transition for the Gibbs measure. More specifically, assuming NP \ne RP, for any fixed β, γin the unit square, there is no randomized polynomial-time algorithm that approximates Z_A(G) for d-regular graphs G with relative error ε= 10^{-4}, if d = Ω(Δ(β,γ)), where Δ(β,γ) > 1/(1-βγ) is the uniqueness threshold. Up to a constant factor, this hardness result confirms the conjecture that the uniqueness phase transition coincides with the transition from computational tractability to intractability for Z_A(G). We also show a matching inapproximability result for a region of parameters β, γoutside the unit square, and all our results generalize to partition functions with an external field.

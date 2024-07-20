@@ -1,0 +1,3 @@
+A Latent-Variable Lattice Model
+
+Markov random field (MRF) learning is intractable, and its approximation algorithms are computationally expensive. We target a small subset of MRF that is used frequently in computer vision. We characterize this subset with three concepts: Lattice, Homogeneity, and Inertia; and design a non-markov model as an alternative. Our goal is robust learning from small datasets. Our learning algorithm uses vector quantization and, at time complexity O(U log U) for a dataset of U pixels, is much faster than that of general-purpose MRF.

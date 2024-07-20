@@ -1,0 +1,3 @@
+Seed selection for information cascade in multilayer networks
+
+Information spreading is an interesting field in the domain of online social media. In this work, we are investigating how well different seed selection strategies affect the spreading processes simulated using independent cascade model on eighteen multilayer social networks. Fifteen networks are built based on the user interaction data extracted from Facebook public pages and tree of them are multilayer networks downloaded from public repository (two of them being Twitter networks). The results indicate that various state of the art seed selection strategies for single-layer networks like K-Shell or VoteRank do not perform so well on multilayer networks and are outperformed by Degree Centrality.

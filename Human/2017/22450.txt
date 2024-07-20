@@ -1,0 +1,3 @@
+Contracting Nonlinear Observers: Convex Optimization and Learning from Data
+
+A new approach to design of nonlinear observers (state estimators) is proposed. The main idea is to (i) construct a convex set of dynamical systems which are contracting observers for a particular system, and (ii) optimize over this set for one which minimizes a bound on state-estimation error on a simulated noisy data set. We construct convex sets of continuous-time and discrete-time observers, as well as contracting sampled-data observers for continuous-time systems. Convex bounds for learning are constructed using Lagrangian relaxation. The utility of the proposed methods are verified using numerical simulation.

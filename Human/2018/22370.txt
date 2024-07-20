@@ -1,0 +1,6 @@
+Fractal Scaling of Population Counts Over Time Spans
+
+Attributes which are infrequently expressed in a population can require weeks or months of counting to reach statistical significance. But replacement in a stable population increases long-term counts to a degree determined by the probability distribution of lifetimes.
+  If the lifetimes are in a Pareto distribution with shape factor $1-r$ between 0 and 1, then the expected counts for a stable population are proportional to time raised to the $r$ power. Thus $r$ is the fractal dimension of counts versus time for this population.
+  Furthermore, the counts from a series of consecutive measurement intervals can be combined using the $L^p$-norm where $p=1/r$ to approximate the population count over the combined time span.
+  Data from digital advertising support these assertions and find that fractal scaling is useful for early estimates of reach, and that the largest reachable fraction of an audience over a long time span is about $1-r$.

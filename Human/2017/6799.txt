@@ -1,0 +1,6 @@
+Dilated Convolutional Neural Networks for Cardiovascular MR Segmentation in Congenital Heart Disease
+
+We propose an automatic method using dilated convolutional neural networks (CNNs) for segmentation of the myocardium and blood pool in cardiovascular MR (CMR) of patients with congenital heart disease (CHD).
+  Ten training and ten test CMR scans cropped to an ROI around the heart were provided in the MICCAI 2016 HVSMR challenge. A dilated CNN with a receptive field of 131x131 voxels was trained for myocardium and blood pool segmentation in axial, sagittal and coronal image slices. Performance was evaluated within the HVSMR challenge.
+  Automatic segmentation of the test scans resulted in Dice indices of 0.80$\pm$0.06 and 0.93$\pm$0.02, average distances to boundaries of 0.96$\pm$0.31 and 0.89$\pm$0.24 mm, and Hausdorff distances of 6.13$\pm$3.76 and 7.07$\pm$3.01 mm for the myocardium and blood pool, respectively. Segmentation took 41.5$\pm$14.7 s per scan.
+  In conclusion, dilated CNNs trained on a small set of CMR images of CHD patients showing large anatomical variability provide accurate myocardium and blood pool segmentations.

@@ -1,0 +1,7 @@
+Computing Multi-Homogeneous Bezout Numbers is Hard
+
+The multi-homogeneous Bezout number is a bound for the number of solutions of a system of multi-homogeneous polynomial equations, in a suitable product of projective spaces.
+  Given an arbitrary, not necessarily multi-homogeneous system, one can ask for the optimal multi-homogenization that would minimize the Bezout number.
+  In this paper, it is proved that the problem of computing, or even estimating the optimal multi-homogeneous Bezout number is actually NP-hard.
+  In terms of approximation theory for combinatorial optimization, the problem of computing the best multi-homogeneous structure does not belong to APX, unless P = NP.
+  Moreover, polynomial time algorithms for estimating the minimal multi-homogeneous Bezout number up to a fixed factor cannot exist even in a randomized setting, unless BPP contains NP.

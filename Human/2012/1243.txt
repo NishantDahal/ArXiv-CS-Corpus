@@ -1,0 +1,3 @@
+STANSE: Bug-finding Framework for C Programs
+
+STANSE is a free (available under the GPLv2 license) modular framework for finding bugs in C programs using static analysis. Its two main design goals are 1) ability to process large software projects like the Linux kernel and 2) extensibility with new bug-finding techniques with a minimal effort. Currently there are four bug-finding algorithms implemented within STANSE: AutomatonChecker checks properties described in an automata-based formalism, ThreadChecker detects deadlocks among multiple threads, LockChecker finds locking errors based on statistics, and ReachabilityChecker looks for unreachable code. STANSE has been tested on the Linux kernel, where it has found dozens of previously undiscovered bugs.

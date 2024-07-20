@@ -1,0 +1,3 @@
+A simple abstraction of arrays and maps by program translation
+
+We present an approach for the static analysis of programs handling arrays, with a Galois connection between the semantics of the array program and semantics of purely scalar operations. The simplest way to implement it is by automatic, syntactic transformation of the array program into a scalar program followed analysis of the scalar program with any static analysis technique (abstract interpretation, acceleration, predicate abstraction,.. .). The scalars invariants thus obtained are translated back onto the original program as universally quantified array invariants. We illustrate our approach on a variety of examples, leading to the " Dutch flag " algorithm.

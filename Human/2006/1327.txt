@@ -1,0 +1,3 @@
+Raisonnement stratifié à base de normes pour inférer les causes dans un corpus textuel
+
+To understand texts written in natural language (LN), we use our knowledge about the norms of the domain. Norms allow to infer more implicit information from the text. This kind of information can, in general, be defeasible, but it remains useful and acceptable while the text do not contradict it explicitly. In this paper we describe a non-monotonic reasoning system based on the norms of the car crash domain. The system infers the cause of an accident from its textual description. The cause of an accident is seen as the most specific norm which has been violated. The predicates and the rules of the system are stratified: organized on layers in order to obtain an efficient reasoning.

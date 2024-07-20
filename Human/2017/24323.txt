@@ -1,0 +1,3 @@
+Parameter Estimation Under Model Uncertainties by Iterative Covariance Approximation
+
+We propose a novel iterative algorithm for estimating a deterministic but unknown parameter vector in the presence of model uncertainties. This iterative algorithm is based on a system model where an overall noise term describes both, the measurement noise and the noise resulting from the model uncertainties. This overall noise term is a function of the true parameter vector, allowing for an iterative algorithm. The proposed algorithm can be applied on structured as well as unstructured models and it outperforms prior art algorithms for a broad range of applications.

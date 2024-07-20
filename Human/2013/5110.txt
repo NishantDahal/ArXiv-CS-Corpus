@@ -1,0 +1,3 @@
+Classification of automatic software build methods
+
+The process of creating working software from source code and other components (like libraries, database files, etc.) is called "software build". Apart from linking and compiling, it can include other steps like automated testing, static code analysis, documentation generation, deployment and other. All that steps can be automated using a build description of some sort (e.g. script). This article classifies the automatic software build processes beginning at build script and reaching the various types of continuous integration.

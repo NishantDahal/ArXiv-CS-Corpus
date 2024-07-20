@@ -1,0 +1,4 @@
+New lower bounds for the rank of matrix multiplication
+
+The rank of the matrix multiplication operator for nxn matrices is one of the most studied quantities in algebraic complexity theory. I prove that the rank is at least n^2-o(n^2). More precisely, for any integer p\leq n -1, the rank is at least (3- 1/(p+1))n^2-(1+2p\binom{2p}{p-1})n. The previous lower bound, due to Blaser, was 5n^2/2-3n (the case p=1).
+  The new bounds improve Blaser's bound for all n>84. I also prove lower bounds for rectangular matrices significantly better than the the previous bound.

@@ -1,0 +1,3 @@
+The Common HOL Platform
+
+The Common HOL project aims to facilitate porting source code and proofs between members of the HOL family of theorem provers.  At the heart of the project is the Common HOL Platform, which defines a standard HOL theory and API that aims to be compatible with all HOL systems.  So far, HOL Light and hol90 have been adapted for conformance, and HOL Zero was originally developed to conform. In this paper we provide motivation for a platform, give an overview of the Common HOL Platform's theory and API components, and show how to adapt legacy systems.  We also report on the platform's successful application in the hand-translation of a few thousand lines of source code from HOL Light to HOL Zero.

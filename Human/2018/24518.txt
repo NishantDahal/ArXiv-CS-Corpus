@@ -1,0 +1,3 @@
+Phaseless Subspace Tracking
+
+This work takes the first steps towards solving the "phaseless subspace tracking" (PST) problem. PST involves recovering a time sequence of signals (or images) from phaseless linear projections of each signal under the following structural assumption: the signal sequence is generated from a much lower dimensional subspace (than the signal dimension) and this subspace can change over time, albeit gradually. It can be simply understood as a dynamic (time-varying subspace) extension of the low-rank phase retrieval problem studied in recent work.

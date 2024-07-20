@@ -1,0 +1,3 @@
+Tight Mobile Byzantine Tolerant Atomic Storage
+
+This paper proposes the first implementation of an atomic storage tolerant to mobile Byzantine agents. Our implementation is designed for the round-based synchronous model where the set of Byzantine nodes changes from round to round. In this model we explore the feasibility of multi-writer multi-reader atomic register prone to various mobile Byzantine behaviors. We prove upper and lower bounds for solving the atomic storage in all the explored models. Our results, significantly different from the static case, advocate for a deeper study of the main building blocks of distributed computing while the system is prone to mobile Byzantine failures.

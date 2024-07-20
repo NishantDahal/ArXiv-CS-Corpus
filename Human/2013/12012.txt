@@ -1,0 +1,4 @@
+Approximation of grammar-based compression via recompression
+
+In this paper we present a simple linear-time algorithm constructing a context-free grammar of size O(g log(N/g)) for the input string, where N is the size of the input string and g the size of the optimal grammar generating this string. The algorithm works for arbitrary size alphabets, but the running time is linear assuming that the alphabet Σof the input string can be identified with numbers from {1, ..., N^c} for some constant c. Otherwise, additional cost of O(n log|Σ|) is needed.
+  Algorithms with such approximation guarantees and running time are known, the novelty of this paper is a particular simplicity of the algorithm as well as the analysis of the algorithm, which uses a general technique of recompression recently introduced by the author. Furthermore, contrary to the previous results, this work does not use the LZ representation of the input string in the construction, nor in the analysis.

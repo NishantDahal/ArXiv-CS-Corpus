@@ -1,0 +1,3 @@
+Measuring the likelihood of models for network evolution
+
+Many researchers have hypothesised models which explain the evolution of the topology of a target network. The framework described in this paper gives the likelihood that the target network arose from the hypothesised model. This allows rival hypothesised models to be compared for their ability to explain the target network. A null model (of random evolution) is proposed as a baseline for comparison. The framework also considers models made from linear combinations of model components. A method is given for the automatic optimisation of component weights. The framework is tested on simulated networks with known parameters and also on real data.

@@ -1,0 +1,4 @@
+Weighted Sampling Without Replacement from Data Streams
+
+Weighted sampling without replacement has proved to be a very important tool in designing new algorithms. Efraimidis and Spirakis (IPL 2006) presented an algorithm for weighted sampling without replacement from data streams. Their algorithm works under the assumption of precise computations over the interval [0,1]. Cohen and Kaplan (VLDB 2008) used similar methods for their bottom-k sketches.
+  Efraimidis and Spirakis ask as an open question whether using finite precision arithmetic impacts the accuracy of their algorithm. In this paper we show a method to avoid this problem by providing a precise reduction from k-sampling without replacement to k-sampling with replacement. We call the resulting method Cascade Sampling.

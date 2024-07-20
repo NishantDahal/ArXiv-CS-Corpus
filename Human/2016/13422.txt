@@ -1,0 +1,3 @@
+FPGA Implementation of a Scalable and Run-Time Adaptable Multi-Standard Packet Detector
+
+This paper describes a step by step approach for implementing a scalable and run-time adaptable multi-standard packet detector for orthogonal frequency divisional multiplexing (OFDM) based communication standards. The paper briefly describes considerations and design choices in making a modular system block with generic control supporting rapid prototyping and implementation of preamble-based packet detectors. The results were generated through implementation on a Xilinx Virtex-6 FPGA with a MicroBlaze processor instantiated to provide run-time control and adaptability.

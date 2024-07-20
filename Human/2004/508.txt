@@ -1,0 +1,3 @@
+FLUX: A Logic Programming Method for Reasoning Agents
+
+FLUX is a programming method for the design of agents that reason logically about their actions and sensor information in the presence of incomplete knowledge. The core of FLUX is a system of Constraint Handling Rules, which enables agents to maintain an internal model of their environment by which they control their own behavior. The general action representation formalism of the fluent calculus provides the formal semantics for the constraint solver. FLUX exhibits excellent computational behavior due to both a carefully restricted expressiveness and the inference paradigm of progression.

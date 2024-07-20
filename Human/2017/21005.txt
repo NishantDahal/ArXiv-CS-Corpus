@@ -1,0 +1,3 @@
+A study of Thompson Sampling with Parameter h
+
+Thompson Sampling algorithm is a well known Bayesian algorithm for solving stochastic multi-armed bandit. At each time step the algorithm chooses each arm with probability proportional to it being the current best arm. We modify the strategy by introducing a paramter h which alters the importance of the probability of an arm being the current best arm. We show that the optimality of Thompson sampling is robust to this perturbation within a range of parameter values for two arm bandits.

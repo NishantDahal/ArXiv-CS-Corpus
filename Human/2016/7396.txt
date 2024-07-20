@@ -1,0 +1,3 @@
+Bounded Cycle Synthesis
+
+We introduce a new approach for the synthesis of Mealy machines from specifications in linear-time temporal logic (LTL), where the number of cycles in the state graph of the implementation is limited by a given bound. Bounding the number of cycles leads to implementations that are structurally simpler and easier to understand. We solve the synthesis problem via an extension of SAT-based bounded synthesis, where we additionally construct a witness structure that limits the number of cycles. We also establish a triple-exponential upper and lower bound for the potential blow-up between the length of the LTL formula and the number of cycles in the state graph.

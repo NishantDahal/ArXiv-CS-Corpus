@@ -1,0 +1,4 @@
+How Can I Do That with ACL2? Recent Enhancements to ACL2
+
+The last several years have seen major enhancements to ACL2 functionality, largely driven by requests from its user community, including utilities now in common use such as 'make-event', 'mbe', and trust tags.  In this paper we provide user-level summaries of some ACL2 enhancements introduced after the release of Version 3.5 (in May, 2009, at about the time of the 2009 ACL2 workshop) up through the release of Version 4.3 in July, 2011, roughly a couple of years later.  Many of these features are not particularly well known yet, but most ACL2 users could take advantage of at least some of them.  Some of the changes could affect existing proof efforts, such as a change that treats pairs of functions such as 'member' and 'member-equal' as the same function.
+

@@ -1,0 +1,9 @@
+Coherence-Pattern Guided Compressive Sensing with Unresolved Grids
+
+Highly coherent sensing matrices arise in discretization of continuum imaging problems such as radar and medical imaging when the grid spacing is below the Rayleigh threshold.
+  Algorithms based on techniques of band exclusion (BE) and local optimization (LO) are proposed to deal with such coherent sensing matrices. These techniques are embedded in the existing compressed sensing algorithms such as Orthogonal Matching Pursuit (OMP), Subspace Pursuit (SP), Iterative Hard Thresholding (IHT), Basis Pursuit (BP) and Lasso, and result in the modified algorithms BLOOMP, BLOSP, BLOIHT, BP-BLOT and Lasso-BLOT, respectively.
+  Under appropriate conditions, it is proved that BLOOMP can reconstruct sparse, widely separated objects up to one Rayleigh length in the Bottleneck distance {\em independent} of the grid spacing. One of the most distinguishing attributes of BLOOMP is its capability of dealing with large dynamic ranges.
+  The BLO-based algorithms are systematically tested with respect to four performance metrics: dynamic range, noise stability, sparsity and resolution. With respect to dynamic range and noise stability, BLOOMP is the best performer. With respect to sparsity, BLOOMP is the best performer for high dynamic range while for dynamic range near unity BP-BLOT and Lasso-BLOT with the optimized regularization parameter have the best performance. In the noiseless case, BP-BLOT has the highest resolving power up to certain dynamic range.
+  The algorithms BLOSP and BLOIHT are good alternatives to
+  BLOOMP and BP/Lasso-BLOT: they are faster than both BLOOMP and BP/Lasso-BLOT and shares, to a lesser degree, BLOOMP's amazing attribute with respect to dynamic range.
+  Detailed comparisons with existing algorithms such as Spectral Iterative Hard Thresholding (SIHT) and the frame-adapted BP are given.

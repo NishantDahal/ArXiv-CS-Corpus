@@ -1,0 +1,3 @@
+Higher-Order Linearisability
+
+Linearisability is a central notion for verifying concurrent libraries: a given library is proven safe if its operational history can be rearranged into a new sequential one which, in addition, satisfies a given specification. Linearisability has been examined for libraries in which method arguments and method results are of ground type, including libraries parameterised with such methods. In this paper we extend linearisability to the general higher-order setting: methods can be passed as arguments and returned as values. A library may also depend on abstract methods of any order. We use this generalised notion to show correctness of several higher-order example libraries.

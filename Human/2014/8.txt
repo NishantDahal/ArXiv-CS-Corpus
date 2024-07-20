@@ -1,0 +1,3 @@
+Bounds on Herman's algorithm
+
+Herman's self-stabilisation algorithm allows a ring of $N$ processors having any odd number of tokens to reach a stable state where exactly one token remains. McIver and Morgan conjecture that the expected time taken for stabilisation is maximised when there are three equally-spaced tokens. We prove exact results on a related cost function, and obtain a bound on expected time which is very close to the conjectured bound.

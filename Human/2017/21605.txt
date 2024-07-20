@@ -1,0 +1,3 @@
+Stochastic L-BFGS: Improved Convergence Rates and Practical Acceleration Strategies
+
+We revisit the stochastic limited-memory BFGS (L-BFGS) algorithm. By proposing a new framework for the convergence analysis, we prove improved convergence rates and computational complexities of the stochastic L-BFGS algorithms compared to previous works. In addition, we propose several practical acceleration strategies to speed up the empirical performance of such algorithms. We also provide theoretical analyses for most of the strategies. Experiments on large-scale logistic and ridge regression problems demonstrate that our proposed strategies yield significant improvements vis-à-vis competing state-of-the-art algorithms.

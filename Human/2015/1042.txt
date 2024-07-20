@@ -1,0 +1,3 @@
+$\mathrm{Pal}^k$ Is Linear Recognizable Online
+
+Given a language $L$ that is online recognizable in linear time and space, we construct a linear time and space online recognition algorithm for the language $L\cdot\mathrm{Pal}$, where $\mathrm{Pal}$ is the language of all nonempty palindromes. Hence for every fixed positive $k$, $\mathrm{Pal}^k$ is online recognizable in linear time and space. Thus we solve an open problem posed by Galil and Seiferas in 1978.

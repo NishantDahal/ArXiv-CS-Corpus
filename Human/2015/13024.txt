@@ -1,0 +1,3 @@
+Abelian Hypergroups and Quantum Computation
+
+Motivated by a connection, described here for the first time, between the hidden normal subgroup problem (HNSP) and abelian hypergroups (algebraic objects that model collisions of physical particles), we develop a stabilizer formalism using abelian hypergroups and an associated classical simulation theorem (a la Gottesman-Knill). Using these tools, we develop the first provably efficient quantum algorithm for finding hidden subhypergroups of nilpotent abelian hypergroups and, via the aforementioned connection, a new, hypergroup-based algorithm for the HNSP on nilpotent groups. We also give efficient methods for manipulating non-unitary, non-monomial stabilizers and an adaptive Fourier sampling technique of general interest.

@@ -1,0 +1,3 @@
+Data Retrieval over DNS in SQL Injection Attacks
+
+This paper describes an advanced SQL injection technique where DNS resolution process is exploited for retrieval of malicious SQL query results. Resulting DNS requests are intercepted by attackers themselves at the controlled remote name server extracting valuable data. Open source SQL injection tool sqlmap has been adjusted to automate this task. With modifications done, attackers are able to use this technique for fast and low profile data retrieval, especially in cases where other standard ones fail.

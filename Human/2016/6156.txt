@@ -1,0 +1,3 @@
+Strong Typed Böhm Theorem and Functional Completeness on the Linear Lambda Calculus
+
+In this paper, we prove a version of the typed Böhm theorem on the linear lambda calculus, which says, for any given types A and B, when two different closed terms s1 and s2 of A and any closed terms u1 and u2 of B are given, there is a term t such that t s1 is convertible to u1 and t s2 is convertible to u2. Several years ago, a weaker version of this theorem was proved, but the stronger version was open. As a corollary of this theorem, we prove that if A has two different closed terms s1 and s2, then A is functionally complete with regard to s1 and s2. So far, it was only known that a few types are functionally complete.

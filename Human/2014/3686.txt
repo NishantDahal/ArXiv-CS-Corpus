@@ -1,0 +1,3 @@
+Going higher in the First-order Quantifier Alternation Hierarchy on Words
+
+We investigate the quantifier alternation hierarchy in first-order logic on finite words. Levels in this hierarchy are defined by counting the number of quantifier alternations in formulas. We prove that one can decide membership of a regular language to the levels $\mathcal{B}Σ_2$ (boolean combination of formulas having only 1 alternation) and $Σ_3$ (formulas having only 2 alternations beginning with an existential block). Our proof works by considering a deeper problem, called separation, which, once solved for lower levels, allows us to solve membership for higher levels.

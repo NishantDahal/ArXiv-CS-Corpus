@@ -1,0 +1,3 @@
+A General Per-Flow Service Curve for GPS
+
+Generalized Processor Sharing (GPS), which provides the theoretical underpinnings for fair packet scheduling algorithms, has been studied extensively. However, a tight formulation of the available service of a flow only exists for traffic that is regulated by affine arrival envelopes and constant-rate links. In this paper, we show that the universal service curve by Parekh and Gallager can be extended to concave arrival envelopes and links with time-variable capacity. We also dispense with the previously existing assumption of a stable system.

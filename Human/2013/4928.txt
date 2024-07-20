@@ -1,0 +1,3 @@
+Enhanced blind decoding of Tardos codes with new map-based functions
+
+This paper presents a new decoder for probabilistic binary traitor tracing codes under the marking assumption. It is based on a binary hypothesis testing rule which integrates a collusion channel relaxation so as to obtain numerical and simple accusation functions. This decoder is blind as no estimation of the collusion channel prior to the accusation is required. Experimentations show that using the proposed decoder gives better performance than the well-known symmetric version of the Tardos decoder for common attack channels.

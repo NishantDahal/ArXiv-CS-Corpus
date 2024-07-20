@@ -1,0 +1,5 @@
+Privacy-Aware Mechanism Design
+
+In traditional mechanism design, agents only care about the utility they derive from the outcome of the mechanism. We look at a richer model where agents also assign non-negative dis-utility to the information about their private types leaked by the outcome of the mechanism.
+  We present a new model for privacy-aware mechanism design, where we only assume an upper bound on the agents' loss due to leakage, as opposed to previous work where a full characterization of the loss was required.
+  In this model, under a mild assumption on the distribution of how agents value their privacy, we show a generic construction of privacy-aware mechanisms and demonstrate its applicability to electronic polling and pricing of a digital good.

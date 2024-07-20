@@ -1,0 +1,3 @@
+Adaptive Foreground and Shadow Detection inImage Sequences
+
+This paper presents a novel method of foreground segmentation that distinguishes moving objects from their moving cast shadows in monocular image sequences. The models of background, edge information, and shadow are set up and adaptively updated. A Bayesian belief network is proposed to describe the relationships among the segmentation label, background, intensity, and edge information. The notion of Markov random field is used to encourage the spatial connectivity of the segmented regions. The solution is obtained by maximizing the posterior possibility density of the segmentation field. 

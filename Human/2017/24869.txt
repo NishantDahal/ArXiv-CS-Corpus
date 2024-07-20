@@ -1,0 +1,3 @@
+Relevance Score of Triplets Using Knowledge Graph Embedding - The Pigweed Triple Scorer at WSDM Cup 2017
+
+Collaborative Knowledge Bases such as Freebase and Wikidata mention multiple professions and nationalities for a particular entity. The goal of the WSDM Cup 2017 Triplet Scoring Challenge was to calculate relevance scores between an entity and its professions/nationalities. Such scores are a fundamental ingredient when ranking results in entity search. This paper proposes a novel approach to ensemble an advanced Knowledge Graph Embedding Model with a simple bag-of-words model. The former deals with hidden pragmatics and deep semantics whereas the latter handles text-based retrieval and low-level semantics.

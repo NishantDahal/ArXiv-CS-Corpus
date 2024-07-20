@@ -1,0 +1,3 @@
+The low-rank hurdle model
+
+A composite loss framework is proposed for low-rank modeling of data consisting of interesting and common values, such as excess zeros or missing values. The methodology is motivated by the generalized low-rank framework and the hurdle method which is commonly used to analyze zero-inflated counts. The model is demonstrated on a manufacturing data set and applied to the problem of missing value imputation.

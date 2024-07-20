@@ -1,0 +1,3 @@
+Using Covariance Matrices as Feature Descriptors for Vehicle Detection from a Fixed Camera
+
+A method is developed to distinguish between cars and trucks present in a video feed of a highway. The method builds upon previously done work using covariance matrices as an accurate descriptor for regions. Background subtraction and other similar proven image processing techniques are used to identify the regions where the vehicles are most likely to be, and a distance metric comparing the vehicle inside the region to a fixed library of vehicles is used to determine the class of vehicle.

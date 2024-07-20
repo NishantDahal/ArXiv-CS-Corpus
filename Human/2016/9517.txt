@@ -1,0 +1,3 @@
+It's Time: OS Mechanisms for Enforcing Asymmetric Temporal Integrity
+
+Mixed-criticality systems combine real-time components of different levels of criticality, i.e. severity of failure, on the same processor, in order to obtain good resource utilisation. They must guarantee deadlines of highly-critical tasks at the expense of lower-criticality ones in the case of overload. Present operating systems provide inadequate support for this kind of system, which is of growing importance in avionics and other verticals. We present an approach that provides the required asymmetric integrity and its implementation in the high-assurance seL4 microkernel.

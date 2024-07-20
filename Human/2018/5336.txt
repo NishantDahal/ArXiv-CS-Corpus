@@ -1,0 +1,3 @@
+Securing the Control-plane Channel and Cache of Pull-based ID/LOC Protocols
+
+Pull-based ID/LOC split protocols, such as LISP (RFC6830), retrieve mappings from a mapping system to encapsulate and forward packets. This is done by means of a control-plane channel. In this short paper we describe three attacks against this channel (Denial-of-Service and overflowing) as well as the against the local cache used to store such mappings. We also provide a solution against such attacks that implements a per-source rate-limiter using a Count-Min Sketch data-structure.

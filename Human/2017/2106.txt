@@ -1,0 +1,3 @@
+Admissibility in Concurrent Games
+
+In this paper, we study the notion of admissibility for randomised strategies in concurrent games. Intuitively, an admissible strategy is one where the player plays `as well as possible', because there is no other strategy that dominates it, i.e., that wins (almost surely) against a super set of adversarial strategies. We prove that admissible strategies always exist in concurrent games, and we characterise them precisely. Then, when the objectives of the players are omega-regular, we show how to perform assume-admissible synthesis, i.e., how to compute admissible strategies that win (almost surely) under the hypothesis that the other players play admissible

@@ -1,0 +1,4 @@
+An Algorithmic Approach to the Asynchronous Computability Theorem
+
+The asynchronous computability theorem (ACT) uses concepts from combinatorial topology to characterize which tasks have wait-free solutions in read-write memory. A task can be expressed as a relation between two chromatic simplicial complexes. The theorem states that a task has a protocol (algorithm) if and only if there is a certain chromatic simplicial map compatible with that relation.
+  While the original proof of the ACT relied on an involved combinatorial argument, Borowsky and Gafni later proposed an alternative proof that relied on a algorithmic construction, termed the "convergence algorithm". The description of this algorithm was incomplete, and presented without proof. In this paper, we give the first complete description, along with a proof of correctness.

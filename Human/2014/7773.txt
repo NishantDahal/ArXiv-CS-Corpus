@@ -1,0 +1,3 @@
+Fast matrix completion without the condition number
+
+We give the first algorithm for Matrix Completion whose running time and sample complexity is polynomial in the rank of the unknown target matrix, linear in the dimension of the matrix, and logarithmic in the condition number of the matrix. To the best of our knowledge, all previous algorithms either incurred a quadratic dependence on the condition number of the unknown matrix or a quadratic dependence on the dimension of the matrix in the running time. Our algorithm is based on a novel extension of Alternating Minimization which we show has theoretical guarantees under standard assumptions even in the presence of noise.

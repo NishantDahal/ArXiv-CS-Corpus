@@ -1,0 +1,4 @@
+Simplified SPARQL REST API - CRUD on JSON Object Graphs via URI Paths
+
+Within the Semantic Web community, SPARQL is one of the predominant languages to query and update RDF knowledge. However, the complexity of SPARQL, the underlying graph structure and various encodings are common sources of confusion for Semantic Web novices.
+  In this paper we present a general purpose approach to convert any given SPARQL endpoint into a simple to use REST API. To lower the initial hurdle, we represent the underlying graph as an interlinked view of nested JSON objects that can be traversed by the API path.

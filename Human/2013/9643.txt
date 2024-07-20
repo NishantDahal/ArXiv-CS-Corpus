@@ -1,0 +1,4 @@
+Proving termination of evaluation for System F with control operators
+
+We present new proofs of termination of evaluation in reduction semantics (i.e., a small-step operational semantics with explicit representation of evaluation contexts) for System F with control operators. We introduce a modified version of Girard's proof method based on reducibility candidates, where the reducibility predicates are defined on values and on evaluation contexts as prescribed by the reduction semantics format. We address both abortive control operators (callcc) and delimited-control operators (shift and reset) for which we introduce novel polymorphic type systems, and we consider both the call-by-value and call-by-name evaluation strategies.
+

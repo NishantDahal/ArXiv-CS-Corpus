@@ -1,0 +1,5 @@
+Branching-Time Model Checking Gap-Order Constraint Systems (Extended Version)
+
+We consider the model checking problem for Gap-order Constraint Systems (GCS) w.r.t. the branching-time temporal logic CTL, and in particular its fragments EG and EF.
+  GCS are nondeterministic infinitely branching processes described by evolutions of integer-valued variables, subject to Presburger constraints of the form $x-y\ge k$, where $x$ and $y$ are variables or constants and $k\in\mathbb{N}$ is a non-negative constant.
+  We show that EG model checking is undecidable for GCS, while EF is decidable. In particular, this implies the decidability of strong and weak bisimulation equivalence between GCS and finite-state systems.

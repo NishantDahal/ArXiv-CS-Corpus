@@ -1,0 +1,3 @@
+Fine-Tuning VGG Neural Network For Fine-grained State Recognition of Food Images
+
+State recognition of food images can be considered as one of the promising applications of object recognition and fine-grained image classification in computer vision. In this paper, evidence is provided for the power of convolutional neural network (CNN) for food state recognition, even with a small data set. In this study, we fine-tuned a CNN initially trained on a large natural image recognition dataset (Imagenet ILSVRC) and transferred the learned feature representations to the food state recognition task. A small-scale dataset consisting of 5978 images of seven categories was constructed and annotated manually. Data augmentation was applied to increase the size of the data.

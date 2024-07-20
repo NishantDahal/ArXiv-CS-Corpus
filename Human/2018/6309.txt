@@ -1,0 +1,3 @@
+Aspiration-based Perturbed Learning Automata
+
+This paper introduces a novel payoff-based learning scheme for distributed optimization in repeatedly-played strategic-form games. Standard reinforcement-based learning exhibits several limitations with respect to their asymptotic stability. For example, in two-player coordination games, payoff-dominant (or efficient) Nash equilibria may not be stochastically stable. In this work, we present an extension of perturbed learning automata, namely aspiration-based perturbed learning automata (APLA) that overcomes these limitations. We provide a stochastic stability analysis of APLA in multi-player coordination games. We further show that payoff-dominant Nash equilibria are the only stochastically stable states.

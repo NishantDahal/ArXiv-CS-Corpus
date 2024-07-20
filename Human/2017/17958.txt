@@ -1,0 +1,3 @@
+Updating the silent speech challenge benchmark with deep learning
+
+The 2010 Silent Speech Challenge benchmark is updated with new results obtained in a Deep Learning strategy, using the same input features and decoding strategy as in the original article. A Word Error Rate of 6.4% is obtained, compared to the published value of 17.4%. Additional results comparing new auto-encoder-based features with the original features at reduced dimensionality, as well as decoding scenarios on two different language models, are also presented. The Silent Speech Challenge archive has been updated to contain both the original and the new auto-encoder features, in addition to the original raw data.

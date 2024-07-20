@@ -1,0 +1,5 @@
+Memory Efficient Arithmetic
+
+In this paper we give an algorithm for computing the mth base-b digit (m=1 is the least significant digit) of an integer n (actually, it finds sharp approximations to n/b^m mod 1), where n is defined as the last number in a sequence of integers s1,s2,...,sL=n, where s1=0, s2=1, and each successive si is either the sum, product, or difference of two previous sj's in the sequence. In many cases, the algorithm will find this mth digit using far less memory than it takes to write down all the base-b digits of n, while the number of bit operations will grow only slighly worse than linear in the number of digits.
+  One consequence of this result is that the mth base-10 digit of 2^t can be found using O(t^{2/3} log^C t) bits of storage (for some C>0), and O(t log^C t) bit operations.
+  The algorithm is also highly parallelizable, and an M-fold reduction in running time can be achieved using M processors, although the memory required will then grow by a factor of M.

@@ -1,0 +1,3 @@
+Cylindrical Algebraic Decompositions for Boolean Combinations
+
+This article makes the key observation that when using cylindrical algebraic decomposition (CAD) to solve a problem with respect to a set of polynomials, it is not always the signs of those polynomials that are of paramount importance but rather the truth values of certain quantifier free formulae involving them. This motivates our definition of a Truth Table Invariant CAD (TTICAD). We generalise the theory of equational constraints to design an algorithm which will efficiently construct a TTICAD for a wide class of problems, producing stronger results than when using equational constraints alone. The algorithm is implemented fully in Maple and we present promising results from experimentation.

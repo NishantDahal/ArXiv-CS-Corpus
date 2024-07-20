@@ -1,0 +1,3 @@
+A Measure of Arbitrariness in Abductive Explanations
+
+We study the framework of abductive logic programming extended with integrity constraints. For this framework, we introduce a new measure of the simplicity of an explanation based on its degree of \emph{arbitrariness}: the more arbitrary the explanation, the less appealing it is, with explanations having no arbitrariness - they are called constrained - being the preferred ones. In the paper, we study basic properties of constrained explanations. For the case when programs in abductive theories are stratified we establish results providing a detailed picture of the complexity of the problem to decide whether constrained explanations exist. (To appear in Theory and Practice of Logic Programming (TPLP).)

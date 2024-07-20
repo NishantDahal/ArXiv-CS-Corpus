@@ -1,0 +1,3 @@
+Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds
+
+"Concentrated differential privacy" was recently introduced by Dwork and Rothblum as a relaxation of differential privacy, which permits sharper analyses of many privacy-preserving computations. We present an alternative formulation of the concept of concentrated differential privacy in terms of the Renyi divergence between the distributions obtained by running an algorithm on neighboring inputs. With this reformulation in hand, we prove sharper quantitative results, establish lower bounds, and raise a few new questions. We also unify this approach with approximate differential privacy by giving an appropriate definition of "approximate concentrated differential privacy."

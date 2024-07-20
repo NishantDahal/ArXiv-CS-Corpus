@@ -1,0 +1,3 @@
+Timed Concurrent State Machines
+
+Timed Concurrent State Machines are an application of Alur's Timed Automata concept to coincidence-based (rather than interleaving) CSM modeling technique. TCSM support the idea of testing automata, allowing to specify time properties easier than temporal formulas. Also, calculation of a global state space in real-time domain (Region Concurrent State Machines) is defined, allowing to store a verified system in ready-to-verification form, and to multiply it by various testing automata.

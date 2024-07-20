@@ -1,0 +1,6 @@
+Downgrade Attack on TrustZone
+
+Security-critical tasks require proper isolation from untrusted software. Chip manufacturers design and include trusted execution environments (TEEs) in their processors to secure these tasks. The integrity and security of the software in the trusted environment depend on the verification process of the system.
+  We find a form of attack that can be performed on the current implementations of the widely deployed ARM TrustZone technology. The attack exploits the fact that the trustlet (TA) or TrustZone OS loading verification procedure may use the same verification key and may lack proper rollback prevention across versions. If an exploit works on an out-of-date version, but the vulnerability is patched on the latest version, an attacker can still use the same exploit to compromise the latest system by downgrading the software to an older and exploitable version.
+  We did experiments on popular devices on the market including those from Google, Samsung and Huawei, and found that all of them have the risk of being attacked. Also, we show a real-world example to exploit Qualcomm's QSEE.
+  In addition, in order to find out which device images share the same verification key, pattern matching schemes for different vendors are analyzed and summarized.

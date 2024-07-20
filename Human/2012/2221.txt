@@ -1,0 +1,3 @@
+Theorem proving for prenex Gödel logic with Delta: checking validity and unsatisfiability
+
+Gödel logic with the projection operator Delta (G_Delta) is an important many-valued as well as intermediate logic. In contrast to classical logic, the validity and the satisfiability problems of G_Delta are not directly dual to each other. We nevertheless provide a uniform, computational treatment of both problems for prenex formulas by describing appropriate translations into sets of order clauses that can be subjected to chaining resolution. For validity a version of Herbrand's Theorem allows us to show the soundness of standard Skolemization. For satisfiability the translation involves a novel, extended Skolemization method.

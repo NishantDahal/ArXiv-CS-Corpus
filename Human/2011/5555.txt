@@ -1,0 +1,4 @@
+Convex obstacle numbers of outerplanar graphs and bipartite permutation graphs
+
+The disjoint convex obstacle number of a graph G is the smallest number h such that there is a set of h pairwise disjoint convex polygons (obstacles) and a set of n points in the plane (corresponding to V(G)) so that a vertex pair uv is an edge if and only if the corresponding segment uv does not meet any obstacle.
+  We show that the disjoint convex obstacle number of an outerplanar graph is always at most 5, and of a bipartite permutation graph at most 4. The former answers a question raised by Alpert, Koch, and Laison. We complement the upper bound for outerplanar graphs with the lower bound of 4.

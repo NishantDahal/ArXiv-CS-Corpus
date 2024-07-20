@@ -1,0 +1,3 @@
+Impact of CFO Estimation on the Performance of ZF Receiver in Massive MU-MIMO Systems
+
+In this paper, we study the impact of carrier frequency offset (CFO) estimation/compensation on the information rate performance of the zero-forcing (ZF) receiver in the uplink of a multi-user massive multiple-input multiple-output (MIMO) system. Analysis of the derived closed-form expression of the per-user information rate reveals that with increasing number of BS antennas $M$, an $\mathcal{O}(\sqrt{M})$ array gain is achievable, which is same as that achieved in the ideal zero CFO scenario. Also it is observed that compared to the ideal zero CFO case, the performance degradation in the presence of residual CFO (after CFO compensation) is the same for both ZF and MRC.

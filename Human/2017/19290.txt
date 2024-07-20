@@ -1,0 +1,7 @@
+Deterministic subgraph detection in broadcast CONGEST
+
+We present simple deterministic algorithms for subgraph finding and enumeration in the broadcast CONGEST model of distributed computation:
+  -- For any constant $k$, detecting $k$-paths and trees on $k$ nodes can be done in $O(1)$ rounds.
+  -- For any constant $k$, detecting $k$-cycles and pseudotrees on $k$ nodes can be done in $O(n)$ rounds.
+  -- On $d$-degenerate graphs, cliques and $4$-cycles can be enumerated in $O(d + \log n)$ rounds, and $5$-cycles in $O(d^2 + \log n)$ rounds.
+  In many cases, these bounds are tight up to logarithmic factors. Moreover, we show that the algorithms for $d$-degenerate graphs can be improved to optimal complexity $O(d/\log n)$ and $O(d^2/\log n)$, respectively, in the supported CONGEST model, which can be seen as an intermediate model between CONGEST and the congested clique.

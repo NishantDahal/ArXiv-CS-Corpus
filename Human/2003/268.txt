@@ -1,0 +1,3 @@
+The Best Trail Algorithm for Assisted Navigation of Web Sites
+
+We present an algorithm called the Best Trail Algorithm, which helps solve the hypertext navigation problem by automating the construction of memex-like trails through the corpus. The algorithm performs a probabilistic best-first expansion of a set of navigation trees to find relevant and compact trails. We describe the implementation of the algorithm, scoring methods for trails, filtering algorithms and a new metric called \emph{potential gain} which measures the potential of a page for future navigation opportunities.

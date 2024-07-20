@@ -1,0 +1,3 @@
+Simplification Resilient LDPC-Coded Sparse-QIM Watermarking for 3D-Meshes
+
+We propose a blind watermarking scheme for 3-D meshes which combines sparse quantization index modulation (QIM) with deletion correction codes. The QIM operates on the vertices in rough concave regions of the surface thus ensuring impeccability, while the deletion correction code recovers the data hidden in the vertices which is removed by mesh optimization and/or simplification. The proposed scheme offers two orders of magnitude better performance in terms of recovered watermark bit error rate compared to the existing schemes of similar payloads and fidelity constraints.

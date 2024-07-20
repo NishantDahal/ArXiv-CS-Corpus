@@ -1,0 +1,4 @@
+Higher-Order Pushdown Systems with Data
+
+We propose a new extension of higher-order pushdown automata, which allows to use an infinite alphabet. The new automata recognize languages of data words (instead of normal words), which beside each its letter from a finite alphabet have a data value from an infinite alphabet. Those data values can be loaded to the stack of the automaton, and later compared with some farther data values on the input. Our main purpose for introducing these automata is that they may help in analyzing normal automata (without data). As an example, we give a proof that deterministic automata with collapse can recognize more languages than deterministic automata without collapse. This proof is simpler than in the no-data case. We also state a hypothesis how the new automaton model can be related to the original model of higher-order pushdown automata.
+

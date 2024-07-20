@@ -1,0 +1,3 @@
+Symbolic Multibody Methods for Real-Time Simulation of Railway Vehicles
+
+In this work, recently developed state-of-the-art symbolic multibody methods are tested to accurately model a complex railway vehicle. The model is generated using a symbolic implementation of the principle of the virtual power. Creep forces are modeled using a direct symbolic implementation of the standard linear Kalker model. No simplifications, as base parameter reduction, partial-linearization or look-up tables for contact kinematics, are used. An Implicit-Explicit integration scheme is proposed to efficiently deal with the stiff creep dynamics. Hard real-time performance is achieved: the CPU time required for a very stable 1 ms integration time step is 256 μs.

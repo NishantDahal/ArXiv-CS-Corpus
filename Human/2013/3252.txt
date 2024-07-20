@@ -1,0 +1,3 @@
+Arithmetic Branching Programs with Memory
+
+We extend the well known characterization of $\vpws$ as the class of polynomials computed by polynomial size arithmetic branching programs to other complexity classes. In order to do so we add additional memory to the computation of branching programs to make them more expressive. We show that allowing different types of memory in branching programs increases the computational power even for constant width programs. In particular, this leads to very natural and robust characterizations of $\vp$ and $\vnp$ by branching programs with memory.

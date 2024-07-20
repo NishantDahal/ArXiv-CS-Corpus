@@ -1,0 +1,4 @@
+Behavioural types for non-uniform memory accesses
+
+Concurrent programs executing on NUMA architectures consist of concurrent  entities (e.g. threads, actors) and data placed on different nodes.  Execution of these concurrent entities often reads or updates states from  remote  nodes. The performance of such systems depends on the extent to which the  concurrent entities can be executing in parallel, and on the amount  of the  remote  reads and writes. 
+  We consider an actor-based object oriented language, and propose a type  system which expresses the topology of the program (the placement of the actors and  data on the  nodes), and an effect system which characterises remote reads and writes  (in terms of  which node reads/writes from which other nodes). We use a variant of  ownership types  for the topology, and a combination of behavioural and ownership types for  the effect system.

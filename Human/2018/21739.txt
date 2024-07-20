@@ -1,0 +1,3 @@
+Random Walk Laplacian and Network Centrality Measures
+
+Random walks over directed graphs are used to model activities in many domains, such as social networks, influence propagation, and Bayesian graphical models. They are often used to compute the importance or centrality of individual nodes according to a variety of different criteria. Here we show how the pseudoinverse of the "random walk" Laplacian can be used to quickly compute measures such as the average number of visits to a given node and various centrality and betweenness measures for individual nodes, both for the network in general and in the case a subset of nodes is to be avoided. We show that with a single matrix inversion it is possible to rapidly compute many such quantities.

@@ -1,0 +1,3 @@
+Communicating Concurrent Processes
+
+Process algebra CSP only permits a process to engage in one event on a moment and records this single event into the traces of the process. CSP cannot process events simultaneously, it treat the events occurred simultaneously as one single event. We modify CSP to process the events occurred simultaneously, which is called communicating concurrent processes (CCP).

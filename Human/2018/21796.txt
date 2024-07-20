@@ -1,0 +1,3 @@
+Belief likelihood function for generalised logistic regression
+
+The notion of belief likelihood function of repeated trials is introduced, whenever the uncertainty for individual trials is encoded by a belief measure (a finite random set). This generalises the traditional likelihood function, and provides a natural setting for belief inference from statistical data. Factorisation results are proven for the case in which conjunctive or disjunctive combination are employed, leading to analytical expressions for the lower and upper likelihoods of `sharp' samples in the case of Bernoulli trials, and to the formulation of a generalised logistic regression framework.

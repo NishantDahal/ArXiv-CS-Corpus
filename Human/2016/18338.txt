@@ -1,0 +1,3 @@
+Quantum Laplacian Eigenmap
+
+Laplacian eigenmap algorithm is a typical nonlinear model for dimensionality reduction in classical machine learning. We propose an efficient quantum Laplacian eigenmap algorithm to exponentially speed up the original counterparts. In our work, we demonstrate that the Hermitian chain product proposed in quantum linear discriminant analysis (arXiv:1510.00113,2015) can be applied to implement quantum Laplacian eigenmap algorithm. While classical Laplacian eigenmap algorithm requires polynomial time to solve the eigenvector problem, our algorithm is able to exponentially speed up nonlinear dimensionality reduction.

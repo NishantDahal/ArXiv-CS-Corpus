@@ -1,0 +1,3 @@
+CORDIC-based Architecture for Powering Computation in Fixed-Point Arithmetic
+
+We present a fixed point architecture (source VHDL code is provided) for powering computation. The fully customized architecture, based on the expanded hyperbolic CORDIC algorithm, allows for design space exploration to establish trade-offs among design parameters (numerical format, number of iterations), execution time, resource usage and accuracy. We also generate Pareto-optimal realizations in the resource-accuracy space: this approach can produce optimal hardware realizations that simultaneously satisfy resource and accuracy requirements.

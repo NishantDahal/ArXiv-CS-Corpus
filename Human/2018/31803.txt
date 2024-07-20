@@ -1,0 +1,3 @@
+Low-Rank Phase Retrieval via Variational Bayesian Learning
+
+In this paper, we consider the problem of low-rank phase retrieval whose objective is to estimate a complex low-rank matrix from magnitude-only measurements. We propose a hierarchical prior model for low-rank phase retrieval, in which a Gaussian-Wishart hierarchical prior is placed on the underlying low-rank matrix to promote the low-rankness of the matrix. Based on the proposed hierarchical model, a variational expectation-maximization (EM) algorithm is developed. The proposed method is less sensitive to the choice of the initialization point and works well with random initialization. Simulation results are provided to illustrate the effectiveness of the proposed algorithm.

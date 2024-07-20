@@ -1,0 +1,3 @@
+An Algorithm for Generating Strongly Chordal Graphs
+
+Strongly chordal graphs are a subclass of chordal graphs. The interest in this subclass stems from the fact that many problems which are NP-complete for chordal graphs are solvable in polynomial time for this subclass. However, we are not aware of any algorithm that can generate instances of this class, often necessary for testing purposes. In this paper, we address this issue. Our algorithm first generates chordal graphs, using an available algorithm and then adds enough edges to make it strongly chordal, unless it is already so. The edge additions are based on a totally balanced matrix characterizations of strongly chordal graphs.

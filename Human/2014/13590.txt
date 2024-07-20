@@ -1,0 +1,3 @@
+Spread Unary Coding
+
+Unary coding is useful but it is redundant in its standard form. Unary coding can also be seen as spatial coding where the value of the number is determined by its place in an array. Motivated by biological finding that several neurons in the vicinity represent the same number, we propose a variant of unary numeration in its spatial form, where each number is represented by several 1s. We call this spread unary coding where the number of 1s used is the spread of the code. Spread unary coding is associated with saturation of the Hamming distance between code words.

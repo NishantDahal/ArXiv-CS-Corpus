@@ -1,0 +1,3 @@
+Lamarckian Evolution of Convolutional Neural Networks
+
+Convolutional neural networks belong to the most successul image classifiers, but the adaptation of their network architecture to a particular problem is computationally expensive. We show that an evolutionary algorithm saves training time during the network architecture optimization, if learned network weights are inherited over generations by Lamarckian evolution. Experiments on typical image datasets show similar or significantly better test accuracies and improved convergence speeds compared to two different baselines without weight inheritance. On CIFAR-10 and CIFAR-100 a 75 % improvement in data efficiency is observed.

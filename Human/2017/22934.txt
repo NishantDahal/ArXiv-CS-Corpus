@@ -1,0 +1,5 @@
+Near-Optimal Discrete Optimization for Experimental Design: A Regret Minimization Approach
+
+The experimental design problem concerns the selection of k points from a potentially large design pool of p-dimensional vectors, so as to maximize the statistical efficiency regressed on the selected k design points. Statistical efficiency is measured by optimality criteria, including A(verage), D(eterminant), T(race), E(igen), V(ariance) and G-optimality. Except for the T-optimality, exact optimization is NP-hard.
+  We propose a polynomial-time regret minimization framework to achieve a $(1+\varepsilon)$ approximation with only $O(p/\varepsilon^2)$ design points, for all the optimality criteria above.
+  In contrast, to the best of our knowledge, before our work, no polynomial-time algorithm achieves $(1+\varepsilon)$ approximations for D/E/G-optimality, and the best poly-time algorithm achieving $(1+\varepsilon)$-approximation for A/V-optimality requires $k = Ω(p^2/\varepsilon)$ design points.

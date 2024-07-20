@@ -1,0 +1,3 @@
+Canonical Primal-Dual Method for Solving Non-convex Minimization Problems
+
+A new primal-dual algorithm is presented for solving a class of non-convex minimization problems. This algorithm is based on canonical duality theory such that the original non-convex minimization problem is first reformulated as a convex-concave saddle point optimization problem, which is then solved by a quadratically perturbed primal-dual method. %It is proved that the popular SDP method is indeed a special case of the canonical duality theory. Numerical examples are illustrated. Comparing with the existing results, the proposed algorithm can achieve better performance.

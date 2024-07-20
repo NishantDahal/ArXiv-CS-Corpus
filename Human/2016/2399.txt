@@ -1,0 +1,3 @@
+Counting Constraints in Flat Array Fragments
+
+We identify a fragment of Presburger arithmetic enriched with free function symbols and cardinality constraints for interpreted sets, which is amenable to automated analysis. We establish decidability and complexity results for such a fragment and we implement our algorithms. The experiments run in discharging proof obligations coming from invariant checking and bounded model-checking benchmarks show the practical feasibility of our decision procedure.

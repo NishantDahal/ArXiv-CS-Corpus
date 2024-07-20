@@ -1,0 +1,3 @@
+A deep level set method for image segmentation
+
+This paper proposes a novel image segmentation approachthat integrates fully convolutional networks (FCNs) with a level setmodel. Compared with a FCN, the integrated method can incorporatesmoothing and prior information to achieve an accurate segmentation.Furthermore, different than using the level set model as a post-processingtool, we integrate it into the training phase to fine-tune the FCN. Thisallows the use of unlabeled data during training in a semi-supervisedsetting. Using two types of medical imaging data (liver CT and left ven-tricle MRI data), we show that the integrated method achieves goodperformance even when little training data is available, outperformingthe FCN or the level set model alone.

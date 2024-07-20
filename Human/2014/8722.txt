@@ -1,0 +1,3 @@
+Virtual Observatory Publishing with DaCHS
+
+The Data Center Helper Suite DaCHS is an integrated publication package for building Virtual Observatory (VO) and Web services, supporting the entire workflow from ingestion to data mapping to service definition. It implements all major data discovery, data access, and registry protocols defined by the VO. DaCHS in this sense works as glue between data produced by the data providers and the standard protocols and formats defined by the VO. This paper discusses central elements of the design of the package and gives two case studies of how VO protocols are implemented using DaCHS' concepts.

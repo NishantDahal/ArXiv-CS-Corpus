@@ -1,0 +1,3 @@
+Combined Haar-Hilbert and Log-Gabor Based Iris Encoders
+
+This chapter shows that combining Haar-Hilbert and Log-Gabor improves iris recognition performance leading to a less ambiguous biometric decision landscape in which the overlap between the experimental intra- and interclass score distributions diminishes or even vanishes. Haar-Hilbert, Log-Gabor and combined Haar-Hilbert and Log-Gabor encoders are tested here both for single and dual iris approach. The experimental results confirm that the best performance is obtained for the dual iris approach when the iris code is generated using the combined Haar-Hilbert and Log-Gabor encoder, and when the matching score fuses the information from both Haar-Hilbert and Log-Gabor channels of the combined encoder.

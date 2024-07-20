@@ -1,0 +1,4 @@
+An SDN-based approach to enhance BGP security
+
+BGP is vulnerable to a series of attacks. Many solutions have been proposed in the past two decades, but the most effective remain largely undeployed. This is due to three fundamental reasons: the solutions are too computationally expensive for current routers, they require changes to BGP, and/or they do not give the right incentives to promote deployment.
+  In this abstract we propose a Software-Defined Networking (SDN) architecture to secure BGP routing. Our solution, BGPSecX, targets an IXP and it includes techniques to allow different IXPs to collaborate. With SDN we remove the computational burden from routers and do not make changes to BGP. Targeting IXPs and promoting inter-IXP collaboration enables the creation of incentives to foster adoption of BGP security services.

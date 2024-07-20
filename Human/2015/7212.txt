@@ -1,0 +1,3 @@
+Tracking Protection in Firefox For Privacy and Performance
+
+We present Tracking Protection in the Mozilla Firefox web browser. Tracking Protection is a new privacy technology to mitigate invasive tracking of users' online activity by blocking requests to tracking domains. We evaluate our approach and demonstrate a 67.5% reduction in the number of HTTP cookies set during a crawl of the Alexa top 200 news sites. Since Firefox does not download and render content from tracking domains, Tracking Protection also enjoys performance benefits of a 44% median reduction in page load time and 39% reduction in data usage in the Alexa top 200 news sites.

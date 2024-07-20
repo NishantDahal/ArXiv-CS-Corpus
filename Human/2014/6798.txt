@@ -1,0 +1,5 @@
+Normalization by Evaluation in the Delay Monad: A Case Study for Coinduction via Copatterns and Sized Types
+
+In this paper, we present an Agda formalization of a normalizer for simply-typed lambda terms.  The normalizer consists of two coinductively defined functions in the delay monad: One is a standard evaluator of lambda terms to closures, the other a type-directed reifier from values to eta-long beta-normal forms.  Their composition, normalization-by-evaluation, is shown to be a total function a posteriori, using a standard logical-relations argument.
+  The successful formalization serves as a proof-of-concept for coinductive programming and reasoning using sized types and copatterns, a new and presently experimental feature of Agda.
+

@@ -1,0 +1,3 @@
+An Improved Integrality Gap for the Calinescu-Karloff-Rabani Relaxation for Multiway Cut
+
+We construct an improved integrality gap instance for the Calinescu-Karloff-Rabani LP relaxation of the Multiway Cut problem. In particular, for $k \geqslant 3$ terminals, our instance has an integrality ratio of $6 / (5 + \frac{1}{k - 1}) - \varepsilon$, for every constant $\varepsilon > 0$. For every $k \geqslant 4$, our result improves upon a long-standing lower bound of $8 / (7 + \frac{1}{k - 1})$ by Freund and Karloff (2000). Due to Manokaran et al.'s result (2008), our integrality gap also implies Unique Games hardness of approximating Multiway Cut of the same ratio.

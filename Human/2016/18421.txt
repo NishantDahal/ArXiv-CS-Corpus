@@ -1,0 +1,3 @@
+Best-Buddies Tracking
+
+Best-Buddies Tracking (BBT) applies the Best-Buddies Similarity measure (BBS) to the problem of model-free online tracking. BBS was introduced as a similarity measure between two point sets and was shown to be very effective for template matching. Originally, BBS was designed to work with point sets of equal size, and we propose a modification that lets it handle point sets of different size. The modified BBS is better suited to handle scale changes in the template size, as well as support a variable number of template images. We embed the modified BBS in a particle filter framework and obtain good results on a number of standard benchmarks.

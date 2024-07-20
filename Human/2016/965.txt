@@ -1,0 +1,3 @@
+Qualitative Analysis of VASS-Induced MDPs
+
+We consider infinite-state Markov decision processes (MDPs) that are induced by extensions of vector addition systems with states (VASS). Verification conditions for these MDPs are described by reachability and Buchi objectives w.r.t. given sets of control-states. We study the decidability of some qualitative versions of these objectives, i.e., the decidability of whether such objectives can be achieved surely, almost-surely, or limit-surely. While most such problems are undecidable in general, some are decidable for large subclasses in which either only the controller or only the random environment can change the counter values (while the other side can only change control-states).

@@ -1,0 +1,3 @@
+Multiclass Universum SVM
+
+We introduce Universum learning for multiclass problems and propose a novel formulation for multiclass universum SVM (MU-SVM). We also propose an analytic span bound for model selection with almost 2-4x faster computation times than standard resampling techniques. We empirically demonstrate the efficacy of the proposed MUSVM formulation on several real world datasets achieving > 20% improvement in test accuracies compared to multi-class SVM.

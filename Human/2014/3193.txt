@@ -1,0 +1,3 @@
+Counting the Number of Minimum Roman Dominating Functions of a Graph
+
+We provide two algorithms counting the number of minimum Roman dominating functions of a graph on n vertices in O(1.5673^n) time and polynomial space. We also show that the time complexity can be reduced to O(1.5014^n) if exponential space is used. Our result is obtained by transforming the Roman domination problem into other combinatorial problems on graphs for which exact algorithms already exist.

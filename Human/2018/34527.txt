@@ -1,0 +1,3 @@
+Monocular and Stereo Cues for Landing Zone Evaluation for Micro UAVs
+
+Autonomous and safe landing is important for unmanned aerial vehicles. We present a monocular and stereo image based method for fast and accurate landing zone evaluation for UAVs in various scenarios. Many existing methods rely on Lidar or depth sensor to provide accurate and dense surface reconstruction. We utilize stereo images to evaluate the slope and monocular images to compute homography error. By combining them together, our approach works for both rigid and non-rigid dynamic surfaces. Experiments on many outdoor scenes such as water, grass and roofs, demonstrate the robustness and effectiveness of our approach.

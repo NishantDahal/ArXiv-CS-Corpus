@@ -1,0 +1,4 @@
+A Unified Maximum Likelihood Approach for Optimal Distribution Property Estimation
+
+The advent of data science has spurred interest in estimating properties of distributions over large alphabets. Fundamental symmetric properties such as support size, support coverage, entropy, and proximity to uniformity, received most attention, with each property estimated using a different technique and often intricate analysis tools.
+  We prove that for all these properties, a single, simple, plug-in estimator---profile maximum likelihood (PML)---performs as well as the best specialized techniques. This raises the possibility that PML may optimally estimate many other symmetric properties.

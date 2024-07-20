@@ -1,0 +1,4 @@
+SEARS: Space Efficient And Reliable Storage System in the Cloud
+
+Today's cloud storage services must offer storage reliability and fast data retrieval for large amount of data without sacrificing storage cost. We present SEARS, a cloud-based storage system which integrates erasure coding and data deduplication to support efficient and reliable data storage with fast user response time. With proper association of data to storage server clusters, SEARS provides flexible mixing of different configurations, suitable for real-time and archival applications.
+  Our prototype implementation of SEARS over Amazon EC2 shows that it outperforms existing storage systems in storage efficiency and file retrieval time. For 3 MB files, SEARS delivers retrieval time of $2.5$ s compared to $7$ s with existing systems.

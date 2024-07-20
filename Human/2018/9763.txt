@@ -1,0 +1,4 @@
+Representation Learning in Partially Observable Environments using Sensorimotor Prediction
+
+In order to explore and act autonomously in an environment, an agent needs to learn from the sensorimotor information that is captured while acting. By extracting the regularities in this sensorimotor stream, it can learn a model of the world, which in turn can be used as a basis for action and exploration.
+  This requires the acquisition of compact representations from a possibly high dimensional raw observation, which is noisy and ambiguous. In this paper, we learn sensory representations from sensorimotor prediction. We propose a model which integrates sensorimotor information over time, and project it in a sensory representation which is useful for prediction. We emphasize on a simple example the role of motor and memory for learning sensory representations.

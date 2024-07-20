@@ -1,0 +1,4 @@
+On Smooth Orthogonal and Octilinear Drawings: Relations, Complexity and Kandinsky Drawings
+
+We study two variants of the well-known orthogonal drawing model: (i) the smooth orthogonal, and (ii) the octilinear. Both models form an extension of the orthogonal, by supporting one additional type of edge segments (circular arcs and diagonal segments, respectively).
+  For planar graphs of max-degree 4, we analyze relationships between the graph classes that can be drawn bendless in the two models and we also prove NP-hardness for a restricted version of the bendless drawing problem for both models. For planar graphs of higher degree, we present an algorithm that produces bi-monotone smooth orthogonal drawings with at most two segments per edge, which also guarantees a linear number of edges with exactly one segment.

@@ -1,0 +1,4 @@
+Reimplementing the Mathematical Subject Classification (MSC) as a Linked Open Dataset
+
+The Mathematics Subject Classification (MSC) is a widely used scheme for classifying documents in mathematics by subject. Its traditional, idiosyncratic conceptualization and representation makes the scheme hard to maintain and requires custom implementations of search, query and annotation support. This limits uptake e.g. in semantic web technologies in general and the creation and exploration of connections between mathematics and related domains (e.g. science) in particular.
+  This paper presents the new official implementation of the MSC2010 as a Linked Open Dataset, building on SKOS (Simple Knowledge Organization System). We provide a brief overview of the dataset's structure, its available implementations, and first applications.

@@ -1,0 +1,3 @@
+A Toolbox For Property Checking From Simulation Using Incremental SAT (Extended Abstract)
+
+We present a tool that primarily supports the ability to check bounded properties starting from a sequence of states in a run. The target design is compiled into an AIGNET which is then selectively and iteratively translated into an incremental SAT instance in which clauses are added for new terms and simplified by the assignment of existing literals. Additional applications of the tool can be derived by the user providing alternative attachments of constrained functions which guide the iterations and SAT checks performed. Some Verilog RTL examples are included for reference.

@@ -1,0 +1,3 @@
+Space-Bounded Kolmogorov Extractors
+
+An extractor is a function that receives some randomness and either "improves" it or produces "new" randomness. There are statistical and algorithmical specifications of this notion. We study an algorithmical one called Kolmogorov extractors and modify it to resource-bounded version of Kolmogorov complexity. Following Zimand we prove the existence of such objects with certain parameters. The utilized technique is "naive" derandomization: we replace random constructions employed by Zimand by pseudo-random ones obtained by Nisan-Wigderson generator.

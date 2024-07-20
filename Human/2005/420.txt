@@ -1,0 +1,4 @@
+Separating a Real-Life Nonlinear Image Mixture
+
+When acquiring an image of a paper document, the image printed on the back page sometimes shows through. The mixture of the front- and back-page images thus obtained is markedly nonlinear, and thus constitutes a good real-life test case for nonlinear blind source separation.
+  This paper addresses a difficult version of this problem, corresponding to the use of "onion skin" paper, which results in a relatively strong nonlinearity of the mixture, which becomes close to singular in the lighter regions of the images. The separation is achieved through the MISEP technique, which is an extension of the well known INFOMAX method. The separation results are assessed with objective quality measures. They show an improvement over the results obtained with linear separation, but have room for further improvement.

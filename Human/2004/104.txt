@@ -1,0 +1,3 @@
+Lower Bounds for Local Search by Quantum Arguments
+
+The problem of finding a local minimum of a black-box function is central for understanding local search as well as quantum adiabatic algorithms. For functions on the Boolean hypercube {0,1}^n, we show a lower bound of Omega(2^{n/4}/n) on the number of queries needed by a quantum computer to solve this problem. More surprisingly, our approach, based on Ambainis' quantum adversary method, also yields a lower bound of Omega(2^{n/2}/n^2) on the problem's classical randomized query complexity. This improves and simplifies a 1983 result of Aldous. Finally, in both the randomized and quantum cases, we give the first nontrivial lower bounds for finding local minima on grids of constant dimension greater than 2.

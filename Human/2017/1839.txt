@@ -1,0 +1,3 @@
+JETracer - A Framework for Java GUI Event Tracing
+
+The present paper introduces the open-source Java Event Tracer (JETracer) framework for real-time tracing of GUI events within applications based on the AWT, Swing or SWT graphical toolkits. Our framework provides a common event model for supported toolkits, the possibility of receiving GUI events in real-time, good performance in the case of complex target applications and the possibility of deployment over a network. The present paper provides the rationale for JETracer, presents related research and details its technical implementation. An empirical evaluation where JETracer is used to trace GUI events within five popular, open-source applications is also presented.

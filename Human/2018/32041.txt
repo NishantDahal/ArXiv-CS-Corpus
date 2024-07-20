@@ -1,0 +1,3 @@
+Dilated DenseNets for Relational Reasoning
+
+Despite their impressive performance in many tasks, deep neural networks often struggle at relational reasoning. This has recently been remedied with the introduction of a plug-in relational module that considers relations between pairs of objects. Unfortunately, this is combinatorially expensive. In this extended abstract, we show that a DenseNet incorporating dilated convolutions excels at relational reasoning on the Sort-of-CLEVR dataset, allowing us to forgo this relational module and its associated expense.

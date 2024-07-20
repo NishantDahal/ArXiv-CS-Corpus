@@ -1,0 +1,3 @@
+Local Visual Microphones: Improved Sound Extraction from Silent Video
+
+Sound waves cause small vibrations in nearby objects. A few techniques exist in the literature that can extract sound from video. In this paper we study local vibration patterns at different image locations. We show that different locations in the image vibrate differently. We carefully aggregate local vibrations and produce a sound quality that improves state-of-the-art. We show that local vibrations could have a time delay because sound waves take time to travel through the air. We use this phenomenon to estimate sound direction. We also present a novel algorithm that speeds up sound extraction by two to three orders of magnitude and reaches real-time performance in a 20KHz video.

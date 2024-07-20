@@ -1,0 +1,3 @@
+A traditional tree-style tableau for LTL
+
+Propositional linear time temporal logic (LTL) is the standard temporal logic for computing applications and many reasoning techniques and tools have been developed for it. Tableaux for deciding satisfiability have existed since the 1980s. However, the tableaux for this logic do not look like traditional tree-shaped tableau systems and their processing is often quite complicated. We present a new simple traditional-style tree-shaped tableau for LTL and prove that it is sound and complete. As well as being simple to understand, to introduce to students and to use manually, it also seems simple to implement and promises to be competitive in its automation. It is particularly suitable for parallel implementations.

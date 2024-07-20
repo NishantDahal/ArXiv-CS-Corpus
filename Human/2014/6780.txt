@@ -1,0 +1,4 @@
+Logic Programming and Logarithmic Space
+
+We present an algebraic view on logic programming, related to proof theory and more specifically linear logic and geometry of interaction. Within this construction, a characterization of logspace (deterministic and non-deterministic) computation is given via a synctactic restriction, using an encoding of words that derives from proof theory.
+  We show that the acceptance of a word by an observation (the counterpart of a program in the encoding) can be decided within logarithmic space, by reducing this problem to the acyclicity of a graph. We show moreover that observations are as expressive as two-ways multi-heads finite automata, a kind of pointer machines that is a standard model of logarithmic space computation.

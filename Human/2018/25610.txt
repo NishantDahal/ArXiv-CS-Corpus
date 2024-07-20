@@ -1,0 +1,3 @@
+Counting points on genus-3 hyperelliptic curves with explicit real multiplication
+
+We propose a Las Vegas probabilistic algorithm to compute the zeta function of a genus-3 hyperelliptic curve defined over a finite field $\mathbb F_q$, with explicit real multiplication by an order $\mathbb Z[η]$ in a totally real cubic field. Our main result states that this algorithm requires an expected number of $\widetilde O((\log q)^6)$ bit-operations, where the constant in the $\widetilde O()$ depends on the ring $\mathbb Z[η]$ and on the degrees of polynomials representing the endomorphism $η$. As a proof-of-concept, we compute the zeta function of a curve defined over a 64-bit prime field, with explicit real multiplication by $\mathbb Z[2\cos(2π/7)]$.

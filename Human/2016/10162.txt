@@ -1,0 +1,3 @@
+SEMBED: Semantic Embedding of Egocentric Action Videos
+
+We present SEMBED, an approach for embedding an egocentric object interaction video in a semantic-visual graph to estimate the probability distribution over its potential semantic labels. When object interactions are annotated using unbounded choice of verbs, we embrace the wealth and ambiguity of these labels by capturing the semantic relationships as well as the visual similarities over motion and appearance features. We show how SEMBED can interpret a challenging dataset of 1225 freely annotated egocentric videos, outperforming SVM classification by more than 5%.

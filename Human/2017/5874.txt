@@ -1,0 +1,4 @@
+Embedding Stacked Polytopes on a Polynomial-Size Grid
+
+A stacking operation adds a $d$-simplex on top of a facet of a simplicial $d$-polytope while maintaining the convexity of the polytope. A stacked $d$-polytope is a polytope that is obtained from a $d$-simplex and a series of stacking operations. We show that for a fixed $d$ every stacked $d$-polytope with $n$ vertices can be realized with nonnegative integer coordinates. The coordinates are bounded by $O(n^{2\log(2d)})$, except for one axis, where the coordinates are bounded by $O(n^{3\log(2d)})$. The described realization can be computed with an easy algorithm.
+  The realization of the polytopes is obtained with a lifting technique which produces an embedding on a large grid. We establish a rounding scheme that places the vertices on a sparser grid, while maintaining the convexity of the embedding.

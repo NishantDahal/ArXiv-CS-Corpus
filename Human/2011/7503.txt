@@ -1,0 +1,4 @@
+How Not to Win a Million Dollars: A Counterexample to a Conjecture of L. Breiman
+
+Consider a gambling game in which we are allowed to repeatedly bet a portion of our bankroll at favorable odds. We investigate the question of how to minimize the expected number of rounds needed to increase our bankroll to a given target amount.
+  Specifically, we disprove a 50-year old conjecture of L. Breiman, that there exists a threshold strategy that optimizes the expected number of rounds; that is, a strategy that always bets to try to win in one round whenever the bankroll is at least a certain threshold, and that makes Kelly bets (a simple proportional betting scheme) whenever the bankroll is below the threshold.

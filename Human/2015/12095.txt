@@ -1,0 +1,3 @@
+FIESTA 4: optimized Feynman integral calculations with GPU support
+
+This paper presents a new major release of the program FIESTA (Feynman Integral Evaluation by a Sector decomposiTion Approach). The new release is mainly aimed at optimal performance at large scales when one is increasing the number of sampling points in order to reduce the uncertainty estimates. The release now supports graphical processor units (GPU) for the numerical integration, methods to optimize cluster-usage, as well as other speed, memory, and stability improvements.

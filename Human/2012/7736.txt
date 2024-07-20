@@ -1,0 +1,3 @@
+Correctness of an Incremental and Worst-Case Optimal Decision Procedure for Modal Logic with Eventualities
+
+We present a simple theory explaining the construction and the correctness of an incremental and worst-case optimal decision procedure for modal logic with eventualities. The procedure gives an abstract account of important aspects of Goré and Widmann's PDL prover. Starting from an input formula, the procedure grows a Pratt-style graph tableau until the tableau proves or disproves the satisfiability of the formula. The procedure provides a basis for practical provers since satisfiability and unsatisfiability of formulas can often be determined with small tableaux.

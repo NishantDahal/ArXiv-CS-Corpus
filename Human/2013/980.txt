@@ -1,0 +1,3 @@
+Partiality and Recursion in Higher-order Logic
+
+We present an illative system I_s of classical higher-order logic with subtyping and basic inductive types. The system I_s allows for direct definitions of partial and general recursive functions, and provides means for handling functions whose termination has not been proven. We give examples of how properties of some recursive functions may be established in our system. In a technical appendix to the paper we prove consistency of I_s. The proof is by model construction. We then use this construction to show conservativity of I_s over classical first-order logic. Conservativity over higher-order logic is conjectured, but not proven.

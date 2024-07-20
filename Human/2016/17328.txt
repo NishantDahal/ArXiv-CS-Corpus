@@ -1,0 +1,10 @@
+Detecting communities is hard, and counting them is even harder
+
+We consider the algorithmic problem of community detection in networks. Given an undirected friendship graph $G=\left(V,E\right)$, a subset $S\subseteq V$ is an $\left(α,β\right)$-community if:
+  * Every member of the community is friends with an $α$-fraction of the community;
+  * Every non-member is friends with at most a $β$-fraction of the community.
+  Arora et al [AGSS12] gave a quasi-polynomial time algorithm for enumerating all the $\left(α,β\right)$-communities for any constants $α>β$.
+  Here, we prove that, assuming the Exponential Time Hypothesis (ETH), quasi-polynomial time is in fact necessary - and even for a much weaker approximation desideratum. Namely, distinguishing between:
+  * $G$ contains an $\left(1,o\left(1\right)\right)$-community; and
+  * $G$ does not contain an $\left(β+o\left(1\right),β\right)$-community for any $β\in\left[0,1\right]$.
+  We also prove that counting the number of $\left(1,o\left(1\right)\right)$-communities requires quasi-polynomial time assuming the weaker #ETH.

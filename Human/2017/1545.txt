@@ -1,0 +1,3 @@
+A size-sensitive inequality for cross-intersecting families
+
+Two families $\mathcal A$ and $\mathcal B$ of $k$-subsets of an $n$-set are called cross-intersecting if $A\cap B\ne\emptyset$ for all $A\in \mathcal A, B\in \mathcal B $. Strengthening the classical Erd\H os-Ko-Rado theorem, Pyber proved that $|\mathcal A||\mathcal B|\le {n-1\choose k-1}^2$ holds for $n\ge 2k$. In the present paper we sharpen this inequality. We prove that assuming $|\mathcal B|\ge {n-1\choose k-1}+{n-i\choose k-i+1}$ for some $3\le i\le k+1$ the stronger inequality $$|\mathcal A||\mathcal B|\le \Bigl({n-1\choose k-1}+{n-i\choose k-i+1}\Bigr)\Bigl({n-1\choose k-1}-{n-i\choose k-1}\Bigr)$$ holds. These inequalities are best possible.

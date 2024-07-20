@@ -1,0 +1,3 @@
+A macro placer algorithm for chip design
+
+There is a set of rectangular macros with given dimensions, and there are wires connecting some pairs (or sets) of them. We have a placement area where these macros should be placed without overlaps in order to minimize the total length of wires. We present a heuristic algorithm which utilizes a special data structure for representing two dimensional stepfunctions. This results in fast integral computation and function modification over rectangles. Our heuristics, especially our data structure for two-dimensional functions, may be useful in other applications, as well.

@@ -1,0 +1,3 @@
+Adaptive Distributed Top-k Query Processing
+
+ADiT is an adaptive approach for processing distributed top-$k$ queries over peer-to-peer networks optimizing both system load and query response time. This approach considers the size of the peer to peer network, the amount $k$ of searched objects, the network capabilities of a connected peer, i.e. the transmission rate, the amount of objects stored on each peer, and the speed of a peer in processing a local top-$k$ query. In extensive experiments with a variety of scenarios we could show that ADiT outperforms state of the art distributed query processing techniques.

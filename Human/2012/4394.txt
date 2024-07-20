@@ -1,0 +1,3 @@
+Performance Evaluation of A Proposed Variant of Frequency Count (VFC) List Accessing Algorithm
+
+Frequency Count (FC) algorithm is considered as the static optimal algorithm for the list accessing problem. In this paper, we have made a study of FC algorithm and explore its limitation. Using the concept of weak look ahead, we have proposed a novel Variant of Frequency Count (VFC) list accessing algorithm. We have evaluated the performance of FC and our proposed VFC algorithm experimentally using input data set from Calgary Corpus. Our experiments show that for all request sequences and list generated from the above data set VFC performs better than FC.

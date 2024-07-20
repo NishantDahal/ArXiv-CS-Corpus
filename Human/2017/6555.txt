@@ -1,0 +1,3 @@
+Results on Pattern Avoidance Games
+
+A zero-one matrix $A$ contains another zero-one matrix $P$ if some submatrix of $A$ can be transformed to $P$ by changing some ones to zeros. $A$ avoids $P$ if $A$ does not contain $P$. The Pattern Avoidance Game is played by two players. Starting with an all-zero matrix, two players take turns changing zeros to ones while keeping $A$ avoiding $P$. We study the strategies of this game for some patterns $P$. We also study some generalizations of this game.

@@ -1,0 +1,4 @@
+Hybrid Elections Broaden Complexity-Theoretic Resistance to Control
+
+Electoral control refers to attempts by an election's organizer ("the chair") to influence the outcome by adding/deleting/partitioning voters or candidates. The groundbreaking work of Bartholdi, Tovey, and Trick [BTT92] on (constructive) control proposes computational complexity as a means of resisting control attempts: Look for election systems where the chair's task in seeking control is itself computationally infeasible.
+  We introduce and study a method of combining two or more candidate-anonymous election schemes in such a way that the combined scheme possesses all the resistances to control (i.e., all the NP-hardnesses of control) possessed by any of its constituents: It combines their strengths. From this and new resistance constructions, we prove for the first time that there exists an election scheme that is resistant to all twenty standard types of electoral control.

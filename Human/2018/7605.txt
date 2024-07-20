@@ -1,0 +1,3 @@
+On two Algorithmic Problems about Synchronizing Automata
+
+Under the assumption $\mathcal{P} \neq \mathcal{NP}$, we prove that two natural problems from the theory of synchronizing automata cannot be solved in polynomial time. The first problem is to decide whether a given reachable partial automaton is synchronizing. The second one is, given an $n$-state binary complete synchronizing automaton, to compute its reset threshold within performance ratio less than $d \ln{(n)}$ for a specific constant $d>0$.

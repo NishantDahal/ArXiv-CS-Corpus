@@ -1,0 +1,3 @@
+The Phase Transition in Exact Cover
+
+We study EC3, a variant of Exact Cover which is equivalent to Positive 1-in-3 SAT. Random instances of EC3 were recently used as benchmarks for simulations of an adiabatic quantum algorithm. Empirical results suggest that EC3 has a phase transition from satisfiability to unsatisfiability when the number of clauses per variable r exceeds some threshold r* ~= 0.62 +- 0.01. Using the method of differential equations, we show that if r <= 0.546 w.h.p. a random instance of EC3 is satisfiable. Combined with previous results this limits the location of the threshold, if it exists, to the range 0.546 < r* < 0.644.

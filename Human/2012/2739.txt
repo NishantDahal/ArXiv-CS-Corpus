@@ -1,0 +1,3 @@
+No big deal: introducing roles to reduce the size of ATL models
+
+In the following paper we present a new semantics for the well-known strategic logic ATL. It is based on adding roles to concurrent game structures, that is at every state, each agent belongs to exactly one role, and the role specifies what actions are available to him at that state. We show advantages of the new semantics, analyze model checking complexity and prove equivalence between standard ATL semantics and our new approach.

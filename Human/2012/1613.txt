@@ -1,0 +1,3 @@
+Polynomial Interpretations for Higher-Order Rewriting
+
+The termination method of weakly monotonic algebras, which has been defined for higher-order rewriting in the HRS formalism, offers a lot of power, but has seen little use in recent years. We adapt and extend this method to the alternative formalism of algebraic functional systems, where the simply-typed lambda-calculus is combined with algebraic reduction. Using this theory, we define higher-order polynomial interpretations, and show how the implementation challenges of this technique can be tackled. A full implementation is provided in the termination tool WANDA.

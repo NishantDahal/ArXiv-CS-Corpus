@@ -1,0 +1,3 @@
+Primal-dual residual networks
+
+In this work, we propose a deep neural network architecture motivated by primal-dual splitting methods from convex optimization. We show theoretically that there exists a close relation between the derived architecture and residual networks, and further investigate this connection in numerical experiments. Moreover, we demonstrate how our approach can be used to unroll optimization algorithms for certain problems with hard constraints. Using the example of speech dequantization, we show that our method can outperform classical splitting methods when both are applied to the same task.

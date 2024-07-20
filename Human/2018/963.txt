@@ -1,0 +1,3 @@
+A Tableaux Calculus for Reducing Proof Size
+
+A tableau calculus is proposed, based on a compressed representation of clauses, where literals sharing a similar shape may be merged. The inferences applied on these literals are fused when possible, which reduces the size of the proof. It is shown that the obtained proof procedure is sound, refutationally complete and allows to reduce the size of the tableau by an exponential factor. The approach is compatible with all usual refinements of tableaux.

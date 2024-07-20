@@ -1,0 +1,3 @@
+A fully-abstract semantics of lambda-mu in the pi-calculus
+
+We study the lambda-mu-calculus, extended with explicit substitution, and define a compositional output-based interpretation into a variant of the pi-calculus with pairing that preserves single-step explicit head reduction with respect to weak bisimilarity. We define four notions of weak equivalence for lambda-mu -- one based on weak reduction, two modelling weak head-reduction and weak explicit head reduction (all considering terms without weak head-normal form equivalent as well), and one based on weak approximation -- and show they all coincide. We will then show full abstraction results for our interpretation for the weak equivalences with respect to weak bisimilarity on processes.

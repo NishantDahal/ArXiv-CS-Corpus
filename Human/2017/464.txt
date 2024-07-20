@@ -1,0 +1,3 @@
+Index appearance record for transforming Rabin automata into parity automata
+
+Transforming deterministic $ω$-automata into deterministic parity automata is traditionally done using variants of appearance records. We present a more efficient variant of this approach, tailored to Rabin automata, and several optimizations applicable to all appearance records. We compare the methods experimentally and find out that our method produces smaller automata than previous approaches. Moreover, the experiments demonstrate the potential of our method for LTL synthesis, using LTL-to-Rabin translators. It leads to significantly smaller parity automata when compared to state-of-the-art approaches on complex formulae.

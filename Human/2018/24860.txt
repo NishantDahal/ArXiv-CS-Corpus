@@ -1,0 +1,3 @@
+Reservoir Computing based Neural Image Filters
+
+Clean images are an important requirement for machine vision systems to recognize visual features correctly. However, the environment, optics, electronics of the physical imaging systems can introduce extreme distortions and noise in the acquired images. In this work, we explore the use of reservoir computing, a dynamical neural network model inspired from biological systems, in creating dynamic image filtering systems that extracts signal from noise using inverse modeling. We discuss the possibility of implementing these networks in hardware close to the sensors.

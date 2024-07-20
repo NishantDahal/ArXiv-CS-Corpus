@@ -1,0 +1,3 @@
+Improving Seek Time for Column Store Using MMH Algorithm
+
+Hash based search has, proven excellence on large data warehouses stored in column store. Data distribution has significant impact on hash based search. To reduce impact of data distribution, we have proposed Memory Managed Hash (MMH) algorithm that uses shift XOR group for Queries and Transactions in column store. Our experiments show that MMH improves read and write throughput by 22% for TPC-H distribution.

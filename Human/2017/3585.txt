@@ -1,0 +1,3 @@
+Hyperbolicity, degeneracy, and expansion of random intersection graphs
+
+We establish the conditions under which several algorithmically exploitable structural features hold for random intersection graphs, a natural model for many real-world networks where edges correspond to shared attributes. Specifically, we fully characterize the degeneracy of random intersection graphs, and prove that the model asymptotically almost surely produces graphs with hyperbolicity at least $\log{n}$. Further, we prove that in the parametric regime where random intersection graphs are degenerate an even stronger notion of sparseness, so called bounded expansion, holds with high probability. We supplement our theoretical findings with experimental evaluations of the relevant statistics.

@@ -1,0 +1,3 @@
+Linear complexity of Legendre-polynomial quotients
+
+We continue to investigate binary sequence $(f_u)$ over $\{0,1\}$ defined by $(-1)^{f_u}=\left(\frac{(u^w-u^{wp})/p}{p}\right)$ for integers $u\ge 0$, where $\left(\frac{\cdot}{p}\right)$ is the Legendre symbol and we restrict $\left(\frac{0}{p}\right)=1$. In an earlier work, the linear complexity of $(f_u)$ was determined for $w=p-1$ under the assumption of $2^{p-1}\not\equiv 1 \pmod {p^2}$. In this work, we give possible values on the linear complexity of $(f_u)$ for all $1\le w<p-1$ under the same conditions. We also state that the case of larger $w(\geq p)$ can be reduced to that of $0\leq w\leq p-1$.

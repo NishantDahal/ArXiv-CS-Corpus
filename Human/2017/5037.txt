@@ -1,0 +1,7 @@
+Symmetric Laplacians, Quantum Density Matrices and their Von-Neumann Entropy
+
+We show that the (normalized) symmetric Laplacian of a simple graph can be obtained from the partial trace over a pure bipartite quantum state that resides in a bipartite Hilbert space (one part corresponding to the vertices, the other corresponding to the edges). This suggests an interpretation of the symmetric Laplacian's Von Neumann entropy as a measure of bipartite entanglement present between the two parts of the state. We then study extreme values for a connected graph's generalized Rényi-$p$ entropy. Specifically, we show that
+  (1) the complete graph achieves maximum entropy,
+  (2) the $2$-regular graph: a) achieves minimum Rényi-$2$ entropy among all $k$-regular graphs, b) is within $\log 4/3$ of the minimum Rényi-$2$ entropy and $\log4\sqrt{2}/3$ of the minimum Von Neumann entropy among all connected graphs, c) achieves a Von Neumann entropy less than the star graph.
+  Point $(2)$ contrasts sharply with similar work applied to (normalized) combinatorial Laplacians, where it has been shown that the star graph almost always achieves minimum Von Neumann entropy. In this work we find that the star graph achieves maximum entropy in the limit as the number of vertices grows without bound.
+  Keywords: Symmetric; Laplacian; Quantum; Entropy; Bounds; Rényi.

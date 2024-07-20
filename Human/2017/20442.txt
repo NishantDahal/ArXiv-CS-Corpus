@@ -1,0 +1,3 @@
+Solving nonlinear circuits with pulsed excitation by multirate partial differential equations
+
+In this paper the concept of Multirate Partial Differential Equations (MPDEs) is applied to obtain an efficient solution for nonlinear low-frequency electrical circuits with pulsed excitation. The MPDEs are solved by a Galerkin approach and a conventional time discretization. Nonlinearities are efficiently accounted for by neglecting the high-frequency components (ripples) of the state variables and using only their envelope for the evaluation. It is shown that the impact of this approximation on the solution becomes increasingly negligible for rising frequency and leads to significant performance gains.

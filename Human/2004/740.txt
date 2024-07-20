@@ -1,0 +1,3 @@
+Utilizing Reconfigurable Hardware Processors via Grid Services
+
+Computational grids typically consist of nodes utilizing ordinary processors such as the Intel Pentium. Field Programmable Gate Arrays (FPGAs) are able to perform certain compute-intensive tasks very well due to their inherent parallel architecture, often resulting in orders of magnitude speedups. This paper explores how FPGAs can be transparently exposed for remote use via grid services, by integrating the Proteus Software Platform with the Globus Toolkit 3.0.

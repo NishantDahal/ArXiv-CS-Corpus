@@ -1,0 +1,5 @@
+Tight Lower Bounds for Planted Clique in the Degree-4 SOS Program
+
+We give a lower bound of $\tildeΩ(\sqrt{n})$ for the degree-4 Sum-of-Squares SDP relaxation for the planted clique problem. Specifically, we show that on an Erdös-Rényi graph $G(n,\tfrac{1}{2})$, with high probability there is a feasible point for the degree-4 SOS relaxation of the clique problem with an objective value of $\tildeΩ(\sqrt{n})$, so that the program cannot distinguish between a random graph and a random graph with a planted clique of size $\tilde{O}(\sqrt{n})$. This bound is tight.
+  We build on the works of Deshpande and Montanari and Meka et al., who give lower bounds of $\tildeΩ(n^{1/3})$ and $\tildeΩ(n^{1/4})$ respectively. We improve on their results by making a perturbation to the SDP solution proposed in their work, then showing that this perturbation remains PSD as the objective value approaches $\tildeΩ(n^{1/2})$.
+  In an independent work, Hopkins, Kothari and Potechin [HKP15] have obtained a similar lower bound for the degree-$4$ SOS relaxation.

@@ -1,0 +1,3 @@
+A Framework for Extending microKanren with Constraints
+
+We present a framework for building CLP languages with symbolic constraints based on microKanren, a domain-specific logic language shallowly embedded in Racket. We rely on Racket's macro system to generate a constraint solver and other components of the microKanren embedding. The framework itself and the constraints' implementations amounts to just over 100 lines of code. Our framework is both a teachable implementation for CLP as well as a test-bed and prototyping tool for symbolic constraint systems.

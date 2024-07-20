@@ -1,0 +1,3 @@
+Mix-ORAM: Using delegate shuffles
+
+Oblivious RAM (ORAM) is a key technology for providing private storage and querying on untrusted machines but is commonly seen as impractical due to the high overhead of the re-randomization, called the eviction, the client incurs. We propose in this work to securely delegate the eviction to semi-trusted third parties to enable any client to accede the ORAM technology and present four different designs inspired by mix-net technologies with reasonable periodic costs.

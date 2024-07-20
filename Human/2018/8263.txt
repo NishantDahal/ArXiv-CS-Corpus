@@ -1,0 +1,6 @@
+CUDA Support in GNA Data Analysis Framework
+
+Usage of GPUs as co-processors is a well-established approach to accelerate costly algorithms operating on matrices and vectors.
+  We aim to further improve the performance of the Global Neutrino Analysis framework (GNA) by adding GPU support in a way that is transparent to the end user. To achieve our goal we use CUDA, a state of the art technology providing GPGPU programming methods.
+  In this paper we describe new features of GNA related to CUDA support. Some specific framework features that influence GPGPU integration are also explained. The paper investigates the feasibility of GPU technology application and shows an example of the achieved acceleration of an algorithm implemented within framework. Benchmarks show a significant performance increase when using GPU transformations.
+  The project is currently in the developmental phase. Our plans include implementation of the set of transformations necessary for the data analysis in the GNA framework and tests of the GPU expediency in the complete analysis chain.

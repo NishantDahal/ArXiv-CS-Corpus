@@ -1,0 +1,3 @@
+Distributed Kernel Regression: An Algorithm for Training Collaboratively
+
+This paper addresses the problem of distributed learning under communication constraints, motivated by distributed signal processing in wireless sensor networks and data mining with distributed databases. After formalizing a general model for distributed learning, an algorithm for collaboratively training regularized kernel least-squares regression estimators is derived. Noting that the algorithm can be viewed as an application of successive orthogonal projection algorithms, its convergence properties are investigated and the statistical behavior of the estimator is discussed in a simplified theoretical setting.

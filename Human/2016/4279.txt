@@ -1,0 +1,5 @@
+An improved bound on the fraction of correctable deletions
+
+We consider codes over fixed alphabets against worst-case symbol deletions. For any fixed $k \ge 2$, we construct a family of codes over alphabet of size $k$ with positive rate, which allow efficient recovery from a worst-case deletion fraction approaching $1-\frac{2}{k+\sqrt k}$. In particular, for binary codes, we are able to recover a fraction of deletions approaching $1/(\sqrt 2 +1)=\sqrt 2-1 \approx 0.414$. Previously, even non-constructively the largest deletion fraction known to be correctable with positive rate was $1-Θ(1/\sqrt{k})$, and around $0.17$ for the binary case.
+  Our result pins down the largest fraction of correctable deletions for $k$-ary codes as $1-Θ(1/k)$, since $1-1/k$ is an upper bound even for the simpler model of erasures where the locations of the missing symbols are known.
+  Closing the gap between $(\sqrt 2 -1)$ and $1/2$ for the limit of worst-case deletions correctable by binary codes remains a tantalizing open question.

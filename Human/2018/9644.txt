@@ -1,0 +1,3 @@
+Adaptive Group Shuffled Decoding for LDPC Codes
+
+We propose new grouping methods for group shuffled (GS) decoding of both regular and irregular low-density parity check cods. These methods are independent of the check-to-variable message formula used. Integer-valued metrics for measuring the reliability of each tentative variable node (VN) decision and the associated likelihood of being corrected are developed. The metrics are used to determine the VN updating priority so the grouping may vary in each iteration. We estimate the computation complexity needed to adaptively regroup VNs. Numerical results show that our GS algorithms improve the performance of some existing GS belief-propagation decoders.

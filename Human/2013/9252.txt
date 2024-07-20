@@ -1,0 +1,5 @@
+A Comparison of Well-Quasi Orders on Trees
+
+Well-quasi orders such as homeomorphic embedding are commonly used to ensure termination of program analysis and program transformation, in particular supercompilation.
+  We compare eight well-quasi orders on how discriminative they are and their computational complexity.  The studied well-quasi orders comprise two very simple examples, two examples from literature on supercompilation and four new proposed by the author.
+  We also discuss combining several well-quasi orders to get well-quasi orders of higher discriminative power.  This adds 19 more well-quasi orders to the list.

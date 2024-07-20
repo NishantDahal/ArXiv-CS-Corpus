@@ -1,0 +1,3 @@
+Graph Convolutional Neural Networks for Polymers Property Prediction
+
+A fast and accurate predictive tool for polymer properties is demanding and will pave the way to iterative inverse design. In this work, we apply graph convolutional neural networks (GCNN) to predict the dielectric constant and energy bandgap of polymers. Using density functional theory (DFT) calculated properties as the ground truth, GCNN can achieve remarkable agreement with DFT results. Moreover, we show that GCNN outperforms other machine learning algorithms. Our work proves that GCNN relies only on morphological data of polymers and removes the requirement for complicated hand-crafted descriptors, while still offering accuracy in fast predictions.

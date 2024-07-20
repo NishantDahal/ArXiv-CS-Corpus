@@ -1,0 +1,5 @@
+What to Expect When You Are Expecting on the Grassmannian
+
+Consider an incoming sequence of vectors, all belonging to an unknown subspace $\operatorname{S}$, and each with many missing entries. In order to estimate $\operatorname{S}$, it is common to partition the data into blocks and iteratively update the estimate of $\operatorname{S}$ with each new incoming measurement block.
+  In this paper, we investigate a rather basic question: Is it possible to identify $\operatorname{S}$ by averaging the column span of the partially observed incoming measurement blocks on the Grassmannian?
+  We show that in general the span of the incoming blocks is in fact a biased estimator of $\operatorname{S}$ when data suffers from erasures, and we find an upper bound for this bias. We reach this conclusion by examining the defining optimization program for the Fréchet expectation on the Grassmannian, and with the aid of a sharp perturbation bound and standard large deviation results.

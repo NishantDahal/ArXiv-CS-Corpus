@@ -1,0 +1,4 @@
+Type Inference for Bimorphic Recursion
+
+This paper proposes bimorphic recursion, which is restricted polymorphic recursion such that every recursive call in the body of a function definition has the same type.  Bimorphic recursion allows us to assign two different types to a recursively defined function: one is for its recursive calls and the other is for its calls outside its definition.  Bimorphic recursion in this paper can be nested.  This paper shows bimorphic recursion has principal types and decidable type inference.  Hence bimorphic recursion gives us flexible typing for recursion with decidable type inference.  This paper also shows that its typability becomes undecidable because of nesting of recursions when one removes the instantiation property from the bimorphic recursion.
+

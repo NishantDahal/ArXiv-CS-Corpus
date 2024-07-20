@@ -1,0 +1,3 @@
+Formalization of Phase Ordering
+
+Phasers pose an interesting synchronization mechanism that generalizes many collective synchronization patterns seen in parallel programming languages, including barriers, clocks, and point-to-point synchronization using latches or semaphores. This work characterizes scheduling constraints on phaser operations, by relating the execution state of two tasks that operate on the same phaser. We propose a formalization of Habanero phasers, May-Happen-In-Parallel, and Happens-Before relations for phaser operations, and show that these relations conform with the semantics. Our formalization and proofs are fully mechanized using the Coq proof assistant, and are available online.

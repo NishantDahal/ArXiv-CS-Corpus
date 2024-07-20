@@ -1,0 +1,3 @@
+Adaptive Compressive Spectrum Sensing for Wideband Cognitive Radios
+
+This letter presents an adaptive spectrum sensing algorithm that detects wideband spectrum using sub-Nyquist sampling rates. By taking advantage of compressed sensing (CS), the proposed algorithm reconstructs the wideband spectrum from compressed samples. Furthermore, an l2 norm validation approach is proposed that enables cognitive radios (CRs) to automatically terminate the signal acquisition once the current spectral recovery is satisfactory, leading to enhanced CR throughput. Numerical results show that the proposed algorithm can not only shorten the spectrum sensing interval, but also improve the throughput of wideband CRs.

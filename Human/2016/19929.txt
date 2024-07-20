@@ -1,0 +1,3 @@
+Collaborative Visual Area Coverage using Unmanned Aerial Vehicles
+
+This article addresses the visual area coverage problem using a team of Unmanned Aerial Vehicles (UAVs). The UAVs are assumed to be equipped with a downward facing camera covering all points of interest within a circle on the ground. The diameter of this circular conic-section increases as the UAV flies at a larger height, yet the quality of the observed area is inverse proportional to the UAV's height. The objective is to provide a distributed control algorithm that maximizes a combined coverage-quality criterion by adjusting the UAV's altitude. Simulation studies are offered to highlight the effectiveness of the suggested scheme.

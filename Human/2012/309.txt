@@ -1,0 +1,3 @@
+Actor Garbage Collection in Distributed Systems using Graph Transformation
+
+A lot of research work has been done in the area of Garbage collection for both uniprocessor and distributed systems. Actors are associated with activity (thread) and hence usual garbage collection algorithms cannot be applied for them. Hence a separate algorithm should be used to collect them. If we transform the active reference graph into a graph which captures all the features of actors and looks like passive reference graph then any passive reference graph algorithm can be applied for it. But the cost of transformation and optimization are the core issues. An attempt has been made to walk through these issues.

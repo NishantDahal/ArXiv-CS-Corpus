@@ -1,0 +1,3 @@
+Improving incremental recommenders with online bagging
+
+Online recommender systems often deal with continuous, potentially fast and unbounded flows of data. Ensemble methods for recommender systems have been used in the past in batch algorithms, however they have never been studied with incremental algorithms that learn from data streams. We evaluate online bagging with an incremental matrix factorization algorithm for top-N recommendation with positive-only -- binary -- ratings. Our results show that online bagging is able to improve accuracy up to 35% over the baseline, with small computational overhead.

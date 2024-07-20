@@ -1,0 +1,3 @@
+A Polynomial Delay Algorithm for Generating Connected Induced Subgraphs of a Given Cardinality
+
+We give a polynomial delay algorithm, that for any graph $G$ and positive integer $k$, enumerates all connected induced subgraphs of $G$ of order $k$. Our algorithm enumerates each subgraph in at most $O((k\min\{(n-k),kΔ\})^2(Δ+\log k))$ and uses linear space $O(n+m)$, where $n$ and $m$ are respectively the number of vertices and edges of $G$ and $Δ$ is the maximum degree.

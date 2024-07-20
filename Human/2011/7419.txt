@@ -1,0 +1,3 @@
+A Formally Specified Program Logic for Higher-Order Procedural Variables and non-local Jumps
+
+We formally specified a program logic for higher-order procedural variables and non-local jumps with Ott and Twelf. Moreover, the dependent type systems and the translation are both executable specifications thanks to Twelf's logic programming engine. In particular, relying on Filinski's encoding of shift/reset using callcc/throw and a global meta-continuation (simulated in state passing style), we have mechanically checked the correctness of a few examples (all source files are available on request).

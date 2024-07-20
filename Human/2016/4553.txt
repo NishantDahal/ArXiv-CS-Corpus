@@ -1,0 +1,5 @@
+Verifying Buchberger's Algorithm in Reduction Rings
+
+In this paper we present the formal, computer-supported verification of a functional implementation of Buchberger's critical-pair/completion algorithm for computing Gröbner bases in reduction rings. We describe how the algorithm can be implemented and verified within one single software system, which in our case is the Theorema system.
+  In contrast to existing formal correctness proofs of Buchberger's algorithm in other systems, e. g. Coq and ACL2, our work is not confined to the classical setting of polynomial rings over fields, but considers the much more general setting of reduction rings; this, naturally, makes the algorithm more complicated and the verification more difficult.
+  The correctness proof is essentially based on some non-trivial results from the theory of reduction rings, which we formalized and formally proved as well. This formalization already consists of more than 800 interactively proved lemmas and theorems, making the elaboration an extensive example of higher-order theory exploration in Theorema.

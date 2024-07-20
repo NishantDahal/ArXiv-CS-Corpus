@@ -1,0 +1,3 @@
+The Omega Rule is $\mathbf{Π_{1}^{1}}$-Complete in the $λβ$-Calculus
+
+In a functional calculus, the so called Ω-rule states that if two terms P and Q applied to any closed term <i>N</i> return the same value (i.e. PN = QN), then they are equal (i.e. P = Q holds). As it is well known, in the λβ-calculus the Ω-rule does not hold, even when the η-rule (weak extensionality) is added to the calculus. A long-standing problem of H. Barendregt (1975) concerns the determination of the logical power of the Ω-rule when added to the λβ-calculus. In this paper we solve the problem, by showing that the resulting theory is Π\_{1}^{1}-complete.

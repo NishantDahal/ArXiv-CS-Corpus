@@ -1,0 +1,6 @@
+A Hiking Trip Through the Orders of Magnitude: Deriving Efficient Generators for Closed Simply-Typed Lambda Terms and Normal Forms
+
+Contrary to several other families of lambda terms, no closed formula or generating function is known and none of the sophisticated techniques devised in analytic combinatorics can currently help with counting or generating the set of {\em simply-typed closed lambda terms} of a given size.
+  Moreover, their asymptotic scarcity among the set of closed lambda terms makes counting them via brute force generation and type inference quickly intractable, with previous published work showing counts for them only up to size 10.
+  By taking advantage of the synergy between logic variables, unification with occurs check and efficient backtracking in today's Prolog systems, we climb 4 orders of magnitude above previously known counts by deriving progressively faster Horn Clause programs that generate and/or count the set of closed simply-typed lambda terms of sizes up to 14. A similar count for {\em closed simply-typed normal forms} is also derived up to size 14.
+  {\em {\bf Keywords:} logic programming transformations, type inference, combinatorics of lambda terms, simply-typed lambda calculus, simply-typed normal forms. }

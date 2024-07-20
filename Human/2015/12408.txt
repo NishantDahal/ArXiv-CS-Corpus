@@ -1,0 +1,3 @@
+Qualitative Projection Using Deep Neural Networks
+
+Deep neural networks (DNN) abstract by demodulating the output of linear filters. In this article, we refine this definition of abstraction to show that the inputs of a DNN are abstracted with respect to the filters. Or, to restate, the abstraction is qualified by the filters. This leads us to introduce the notion of qualitative projection. We use qualitative projection to abstract MNIST hand-written digits with respect to the various dogs, horses, planes and cars of the CIFAR dataset. We then classify the MNIST digits according to the magnitude of their dogness, horseness, planeness and carness qualities, illustrating the generality of qualitative projection.

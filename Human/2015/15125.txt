@@ -1,0 +1,3 @@
+Link prediction based on path entropy
+
+Information theory has been taken as a prospective tool for quantifying the complexity of complex networks. In this paper, we first study the information entropy or uncertainty of a path using the information theory. Then we apply the path entropy to the link prediction problem in real-world networks. Specifically, we propose a new similarity index, namely Path Entropy (PE) index, which considers the information entropies of shortest paths between node pairs with penalization to long paths. Empirical experiments demonstrate that PE index outperforms the mainstream link predictors.

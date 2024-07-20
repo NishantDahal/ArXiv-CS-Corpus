@@ -1,0 +1,3 @@
+A Convex Approach for Image Hallucination
+
+In this paper we propose a global convex approach for image hallucination. Altering the idea of classical multi image super resolution (SU) systems to single image SU, we incorporate aligned images to hallucinate the output. Our work is based on the paper of Tappen et al. where they use a non-convex model for image hallucination. In comparison we formulate a convex primal optimization problem and derive a fast converging primal-dual algorithm with a global optimal solution. We use a database with face images to incorporate high-frequency details to the high-resolution output. We show that we can achieve state-of-the-art results by using a convex approach.

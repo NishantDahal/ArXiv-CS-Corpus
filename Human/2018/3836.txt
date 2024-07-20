@@ -1,0 +1,3 @@
+A Model for Learned Bloom Filters and Related Structures
+
+Recent work has suggested enhancing Bloom filters by using a pre-filter, based on applying machine learning to model the data set the Bloom filter is meant to represent. Here we model such learned Bloom filters, clarifying what guarantees can and cannot be associated with such a structure.

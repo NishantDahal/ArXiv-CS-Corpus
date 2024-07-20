@@ -1,0 +1,4 @@
+1-Fan-Bundle-Planar Drawings of Graphs
+
+Edge bundling is an important concept heavily used for graph visualization purposes. To enable the comparison with other established near-planarity models in graph drawing, we formulate a new edge-bundling model which is inspired by the recently introduced fan-planar graphs. In particular, we restrict the bundling to the end segments of the edges. Similarly to 1-planarity, we call our model 1-fan-bundle-planarity, as we allow at most one crossing per bundle.
+  For the two variants where we allow either one or, more naturally, both end segments of each edge to be part of bundles, we present edge density results and consider various recognition questions, not only for general graphs, but also for the outer and 2-layer variants. We conclude with a series of challenging questions.

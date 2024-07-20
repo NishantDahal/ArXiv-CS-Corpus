@@ -1,0 +1,3 @@
+Degree reduction of composite Bézier curves
+
+This paper deals with the problem of multi-degree reduction of a composite Bézier curve with the parametric continuity constraints at the endpoints of the segments. We present a novel method which is based on the idea of using constrained dual Bernstein polynomials to compute the control points of the reduced composite curve. In contrast to other methods, ours minimizes the $L_2$-error for the whole composite curve instead of minimizing the $L_2$-errors for each segment separately. As a result, an additional optimization is possible. Examples show that the new method gives much better results than multiple application of the degree reduction of a single Bézier curve.

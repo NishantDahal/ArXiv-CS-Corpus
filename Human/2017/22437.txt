@@ -1,0 +1,3 @@
+Asymptotically optimal Boolean functions
+
+The largest Hamming distance between a Boolean function in $n$ variables and the set of all affine Boolean functions in $n$ variables is known as the covering radius $ρ_n$ of the $[2^n,n+1]$ Reed-Muller code. This number determines how well Boolean functions can be approximated by linear Boolean functions. We prove that \[ \lim_{n\to\infty}2^{n/2}-ρ_n/2^{n/2-1}=1, \] which resolves a conjecture due to Patterson and Wiedemann from 1983.

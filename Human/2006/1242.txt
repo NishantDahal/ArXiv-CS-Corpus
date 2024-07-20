@@ -1,0 +1,3 @@
+Stabilization using both noisy and noiseless feedback
+
+When designing a distributed control system, the system designer has a choice in how to connect the different units through communication channels. In practice, noiseless and noisy channels may coexist. Using the standard toy example of scalar stabilization, this paper shows how a small amount of noiseless feedback can perform a ``supervisory'' role and thereby boost the effectiveness of noisy feedback.

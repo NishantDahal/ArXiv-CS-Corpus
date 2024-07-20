@@ -1,0 +1,3 @@
+Faster integer multiplication using plain vanilla FFT primes
+
+Assuming a conjectural upper bound for the least prime in an arithmetic progression, we show that n-bit integers may be multiplied in O(n log n 4^(log^* n)) bit operations.

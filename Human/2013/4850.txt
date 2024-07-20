@@ -1,0 +1,3 @@
+On the mean square error of randomized averaging algorithms
+
+This paper regards randomized discrete-time consensus systems that preserve the average "on average". As a main result, we provide an upper bound on the mean square deviation of the consensus value from the initial average. Then, we apply our result to systems where few or weakly correlated interactions take place: these assumptions cover several algorithms proposed in the literature. For such systems we show that, when the network size grows, the deviation tends to zero, and the speed of this decay is not slower than the inverse of the size. Our results are based on a new approach, which is unrelated to the convergence properties of the system.

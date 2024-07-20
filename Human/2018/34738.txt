@@ -1,0 +1,3 @@
+Observing the Population Dynamics in GE by means of the Intrinsic Dimension
+
+We explore the use of Intrinsic Dimension (ID) for gaining insights in how populations evolve in Evolutionary Algorithms. ID measures the minimum number of dimensions needed to accurately describe a dataset and its estimators are being used more and more in Machine Learning to cope with large datasets. We postulate that ID can provide information about population which is complimentary w.r.t.\ what (a simple measure of) diversity tells. We experimented with the application of ID to populations evolved with a recent variant of Grammatical Evolution. The preliminary results suggest that diversity and ID constitute two different points of view on the population dynamics.

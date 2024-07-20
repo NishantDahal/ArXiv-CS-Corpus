@@ -1,0 +1,3 @@
+Lucretia - a type system for objects in languages with reflection
+
+Object-oriented scripting languages such as JavaScript or Python gain in popularity due to their flexibility. Still, the growing code bases written in the languages call for methods that make possible to automatically control the properties of the programs that ensure their stability in the running time. We propose a type system, called Lucretia, that makes possible to control the object structure of languages with reflection. Subject reduction and soundness of the type system with respect to the semantics of the language is proved.

@@ -1,0 +1,5 @@
+Efficient Exact Paths For Dyck and semi-Dyck Labeled Path Reachability
+
+The exact path length problem is to determine if there is a path of a given fixed cost between two vertices. This paper focuses on the exact path problem for costs $-1,0$ or $+1$ between all pairs of vertices in an edge-weighted digraph. The edge weights are from $\{ -1, +1 \}$. In this case, this paper gives an $\widetilde{O}(n^ω)$ exact path solution. Here $ω$ is the best exponent for matrix multiplication and $\widetilde{O}$ is the asymptotic upper-bound mod polylog factors.
+  Variations of this algorithm determine which pairs of digraph nodes have Dyck or semi-Dyck labeled paths between them, assuming two parenthesis. Therefore, determining digraph reachability for Dyck or semi-Dyck labeled paths costs $\widetilde{O}(n^ω)$. A path label is made by concatenating all symbols along the path's edges.
+  The exact path length problem has many applications. These applications include the labeled path problems given here, which in turn, also have numerous applications.

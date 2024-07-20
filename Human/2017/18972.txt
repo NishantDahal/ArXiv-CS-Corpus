@@ -1,0 +1,3 @@
+Distributed Colour Reduction Revisited
+
+We give a new, simple distributed algorithm for graph colouring in paths and cycles. Our algorithm is fast and self-contained, it does not need any globally consistent orientation, and it reduces the number of colours from $10^{100}$ to $3$ in three iterations.

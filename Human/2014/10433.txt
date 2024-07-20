@@ -1,0 +1,5 @@
+A variant of the Hadwiger-Debrunner (p,q)-problem in the plane
+
+Let $X$ be a convex curve in the plane (say, the unit circle), and let $\mathcal S$ be a family of planar convex bodies, such that every two of them meet at a point of $X$. Then $\mathcal S$ has a transversal $N\subset\mathbb R^2$ of size at most $1.75\cdot 10^9$.
+  Suppose instead that $\mathcal S$ only satisfies the following "$(p,2)$-condition": Among every $p$ elements of $\mathcal S$ there are two that meet at a common point of $X$. Then $\mathcal S$ has a transversal of size $O(p^8)$. For comparison, the best known bound for the Hadwiger--Debrunner $(p, q)$-problem in the plane, with $q=3$, is $O(p^6)$.
+  Our result generalizes appropriately for $\mathbb R^d$ if $X\subset \mathbb R^d$ is, for example, the moment curve.

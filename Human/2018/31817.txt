@@ -1,0 +1,5 @@
+Discrepancy in random hypergraph models
+
+We study hypergraph discrepancy in two closely related random models of hypergraphs on $n$ vertices and $m$ hyperedges. The first model, $\mathcal{H}_1$, is when every vertex is present in exactly $t$ randomly chosen hyperedges. The premise of this is closely tied to, and motivated by the Beck-Fiala conjecture. The second, perhaps more natural model, $\mathcal{H}_2$, is when the entries of the $m \times n$ incidence matrix is sampled in an i.i.d. fashion, each with probability $p$. We prove the following:
+  1. In $\mathcal{H}_1$, when $\log^{10}n \ll t \ll \sqrt{n}$, and $m = n$, we show that the discrepancy of the hypergraph is almost surely at most $O(\sqrt{t})$. This improves upon a result of Ezra and Lovett for this range of parameters.
+  2. In $\mathcal{H}_2$, when $p= \frac{1}{2}$, and $n = Ω(m \log m)$, we show that the discrepancy is almost surely at most $1$. This answers an open problem of Hoberg and Rothvoss.

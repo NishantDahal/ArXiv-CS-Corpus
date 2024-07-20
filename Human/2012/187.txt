@@ -1,0 +1,3 @@
+Image Labeling and Segmentation using Hierarchical Conditional Random Field Model
+
+The use of hierarchical Conditional Random Field model deal with the problem of labeling images . At the time of labeling a new image, selection of the nearest cluster and using the related CRF model to label this image. When one give input image, one first use the CRF model to get initial pixel labels then finding the cluster with most similar images. Then at last relabeling the input image by the CRF model associated with this cluster. This paper presents a approach to label and segment specific image having correct information.

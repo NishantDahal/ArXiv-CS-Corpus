@@ -1,0 +1,3 @@
+Fault Tolerant QR Factorization for General Matrices
+
+This paper presents a fault-tolerant algorithm for the QR factorization of general matrices. It relies on the communication-avoiding algorithm, and uses the structure of the reduction of each part of the computation to introduce redundancies that are sufficient to recover the state of a failed process. After a process has failed, its state can be recovered based on the data held by one process only. Besides, it does not add any significant operation in the critical path during failure-free execution.

@@ -1,0 +1,3 @@
+Beyond Ohba's Conjecture: A bound on the choice number of $k$-chromatic graphs with $n$ vertices
+
+Let $\text{ch}(G)$ denote the choice number of a graph $G$ (also called "list chromatic number" or "choosability" of $G$). Noel, Reed, and Wu proved the conjecture of Ohba that $\text{ch}(G)=χ(G)$ when $|V(G)|\le 2χ(G)+1$. We extend this to a general upper bound: $\text{ch}(G)\le \max\{χ(G),\lceil({|V(G)|+χ(G)-1})/{3}\rceil\}$. Our result is sharp for $|V(G)|\le 3χ(G)$ using Ohba's examples, and it improves the best-known upper bound for $\text{ch}(K_{4,\dots,4})$.

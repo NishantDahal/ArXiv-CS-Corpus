@@ -1,0 +1,3 @@
+An Acceleration Scheme for Memory Limited, Streaming PCA
+
+In this paper, we propose an acceleration scheme for online memory-limited PCA methods. Our scheme converges to the first $k>1$ eigenvectors in a single data pass. We provide empirical convergence results of our scheme based on the spiked covariance model. Our scheme does not require any predefined parameters such as the eigengap and hence is well facilitated for streaming data scenarios. Furthermore, we apply our scheme to challenging time-varying systems where online PCA methods fail to converge. Specifically, we discuss a family of time-varying systems that are based on Molecular Dynamics simulations where batch PCA converges to the actual analytic solution of such systems.

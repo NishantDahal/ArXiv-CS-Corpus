@@ -1,0 +1,3 @@
+Exact multiplicative updates for convolutional $β$-NMF in 2D
+
+In this paper, we extend the $β$-CNMF to two dimensions and derive exact multiplicative updates for its factors. The new updates generalize and correct the nonnegative matrix factor deconvolution previously proposed by Schmidt and Mørup. We show by simulation that the updates lead to a monotonically decreasing $β$-divergence in terms of the mean and the standard deviation and that the corresponding convergence curves are consistent across the most common values for $β$.

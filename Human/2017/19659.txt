@@ -1,0 +1,9 @@
+Decentralized Simultaneous Information and Energy Transmission in K-User Multiple Access Channels
+
+In this paper, the fundamental limits of decentralized simultaneous information and energy transmission in the $K$-user Gaussian multiple access channel (G-MAC), with an arbitrary $K \geqslant 2$ and one non-colocated energy harvester (EH), are fully characterized.
+  The objective of the transmitters is twofold. First, they aim to reliably communicate their message indices to the receiver; and second, to harvest energy at the EH at a rate not less than a minimum rate requirement $b$. The information rates $R_1,\dots,R_K$, in bits per channel use, are measured at the receiver and the energy rate $B$ is measured at an EH.
+  Stability is considered in the sense of an $η$-Nash equilibrium ($η$-NE), with $η> 0$.
+  The main result is a full characterization of the $η$-NE information-energy region, i.e., the set of information-energy rate tuples $(R_1,\dots,R_K,B)$ that are achievable and stable in the G-MAC when:
+  $(a)$ all the transmitters autonomously and independently tune their own transmit configurations seeking to maximize their own information transmission rates $R_1,\dots, R_K$; and
+  $(b)$ all the transmitters jointly guarantee an energy transmission rate $B$ at the EH, such that $B \geqslant b$.
+  Therefore, any rate tuple outside the $η$-NE region is not stable as there always exists at least one transmitter able to increase by at least $η$ bits per channel use its own information transmission rate by updating its own transmit configuration.

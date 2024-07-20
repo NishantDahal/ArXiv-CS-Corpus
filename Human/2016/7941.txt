@@ -1,0 +1,4 @@
+Solution sets for equations over free groups are EDT0L languages
+
+We show that, given an equation over a finitely generated free group, the set of all solutions in reduced words forms an effectively constructible EDT0L language. In particular, the set of all solutions in reduced words is an indexed language in the sense of Aho. The language characterization we give, as well as further questions about the existence or finiteness of solutions, follow from our explicit construction of a finite directed graph which encodes all the solutions. Our result incorporates the recently invented recompression technique of Jeż, and a new way to integrate solutions of linear Diophantine equations into the process.
+  As a byproduct of our techniques, we improve the complexity from quadratic nondeterministic space in previous works to $\mathsf{NSPACE}(n\log n)$ here.

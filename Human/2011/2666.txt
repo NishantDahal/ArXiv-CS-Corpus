@@ -1,0 +1,3 @@
+Considerations and Results in Multimedia and DVB Application Development on Philips Nexperia Platform
+
+This paper presents some experiments regarding applications development on high performance media processors included in Philips Nexperia Family. The PNX1302 dedicated DVB-T kit used has some limitations. Our work has succeeded to overcome these limitations and to make possible a general-purpose use of this kit. For exemplification two typical applications, important both for multimedia and DVB, are analyzed: MPEG2 video stream decoding and MP3 audio decoding. These original implementations are compared (in speed, memory requirements and costs) with Philips Nexperia Library.

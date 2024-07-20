@@ -1,0 +1,8 @@
+More General Queries and Less Generalization Error in Adaptive Data Analysis
+
+Adaptivity is an important feature of data analysis---typically the choice of questions asked about a dataset depends on previous interactions with the same dataset. However, generalization error is typically bounded in a non-adaptive model, where all questions are specified before the dataset is drawn. Recent work by Dwork et al. (STOC '15) and Hardt and Ullman (FOCS '14) initiated the formal study of this problem, and gave the first upper and lower bounds on the achievable generalization error for adaptive data analysis.
+  Specifically, suppose there is an unknown distribution $\mathcal{P}$ and a set of $n$ independent samples $x$ is drawn from $\mathcal{P}$. We seek an algorithm that, given $x$ as input, "accurately" answers a sequence of adaptively chosen "queries" about the unknown distribution $\mathcal{P}$. How many samples $n$ must we draw from the distribution, as a function of the type of queries, the number of queries, and the desired level of accuracy?
+  In this work we make two new contributions towards resolving this question:
+  *We give upper bounds on the number of samples $n$ that are needed to answer statistical queries that improve over the bounds of Dwork et al.
+  *We prove the first upper bounds on the number of samples required to answer more general families of queries. These include arbitrary low-sensitivity queries and the important class of convex risk minimization queries.
+  As in Dwork et al., our algorithms are based on a connection between differential privacy and generalization error, but we feel that our analysis is simpler and more modular, which may be useful for studying these questions in the future.

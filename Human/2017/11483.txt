@@ -1,0 +1,3 @@
+Maximum Area Rectangle Separating Red and Blue Points
+
+Given a set R of n red points and a set B of m blue points, we study the problem of finding a rectangle that contains all the red points, the minimum number of blue points and has the largest area. We call such rectangle a maximum separating rectangle. We address the planar, axis-aligned (2D) version, and present an O(mlogm+n) time, O(m+n) space algorithm. The running time reduces to O(m + n) if the points are pre-sorted by one of the coordinates. We further prove that our algorithm is optimal in the decision model of computation.

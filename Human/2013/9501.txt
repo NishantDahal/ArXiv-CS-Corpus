@@ -1,0 +1,4 @@
+Computing and Analyzing Recoverable Supports for Sparse Reconstruction
+
+Designing computational experiments involving $\ell_1$ minimization with linear constraints in a finite-dimensional, real-valued space for receiving a sparse solution with a precise number $k$ of nonzero entries is, in general, difficult. Several conditions were introduced which guarantee that, for small $k$ and for certain matrices, simply placing entries with desired characteristics on a randomly chosen support will produce vectors which can be recovered by $\ell_1$ minimization.
+  In this work, we consider the case of large $k$ and propose both a methodology to quickly check whether a given vector is recoverable, and to construct vectors with the largest possible support. Moreover, we gain new insights in the recoverability in a non-asymptotic regime. The theoretical results are illustrated with computational experiments.

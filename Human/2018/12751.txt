@@ -1,0 +1,5 @@
+Architecture for Analysis of Streaming Data
+
+While several attempts have been made to construct a scalable and flexible architecture for analysis of streaming data, no general model to tackle this task exists. Thus, our goal is to build a scalable and maintainable architecture for performing analytics on streaming data.
+  To reach this goal, we introduce a 7-layered architecture consisting of microservices and publish-subscribe software. Our study shows that this architecture yields a good balance between scalability and maintainability due to high cohesion and low coupling of the solution, as well as asynchronous communication between the layers.
+  This architecture can help practitioners to improve their analytic solutions. It is also of interest to academics, as it is a building block for a general architecture for processing streaming data.

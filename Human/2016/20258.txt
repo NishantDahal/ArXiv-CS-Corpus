@@ -1,0 +1,3 @@
+Toward Smart Moving Target Defense for Linux Container Resiliency
+
+This paper presents ESCAPE, an informed moving target defense mechanism for cloud containers. ESCAPE models the interaction between attackers and their target containers as a "predator searching for a prey" search game. Live migration of Linux-containers (prey) is used to avoid attacks (predator) and failures. The entire process is guided by a novel host-based behavior-monitoring system that seamlessly monitors containers for indications of intrusions and attacks. To evaluate ESCAPE effectiveness, we simulated the attack avoidance process based on a mathematical model mimicking the prey-vs-predator search game. Simulation results show high container survival probabilities with minimal added overhead.

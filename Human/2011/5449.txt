@@ -1,0 +1,3 @@
+Quality Up in Polynomial Homotopy Continuation by Multithreaded Path Tracking
+
+Speedup measures how much faster we can solve the same problem using many cores. If we can afford to keep the execution time fixed, then quality up measures how much better the solution will be computed using many cores. In this paper we describe our multithreaded implementation to track one solution path defined by a polynomial homotopy. Limiting quality to accuracy and confusing accuracy with precision, we strive to offset the cost of multiprecision arithmetic running multithreaded code on many cores.

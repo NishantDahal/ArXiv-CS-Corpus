@@ -1,0 +1,3 @@
+Single Index Latent Variable Models for Network Topology Inference
+
+A semi-parametric, non-linear regression model in the presence of latent variables is applied towards learning network graph structure. These latent variables can correspond to unmodeled phenomena or unmeasured agents in a complex system of interacting entities. This formulation jointly estimates non-linearities in the underlying data generation, the direct interactions between measured entities, and the indirect effects of unmeasured processes on the observed data. The learning is posed as regularized empirical risk minimization. Details of the algorithm for learning the model are outlined. Experiments demonstrate the performance of the learned model on real data.

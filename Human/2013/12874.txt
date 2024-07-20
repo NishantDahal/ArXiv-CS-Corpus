@@ -1,0 +1,3 @@
+MPWide: a light-weight library for efficient message passing over wide area networks
+
+We present MPWide, a light weight communication library which allows efficient message passing over a distributed network. MPWide has been designed to connect application running on distributed (super)computing resources, and to maximize the communication performance on wide area networks for those without administrative privileges. It can be used to provide message-passing between application, move files, and make very fast connections in client-server environments. MPWide has already been applied to enable distributed cosmological simulations across up to four supercomputers on two continents, and to couple two different bloodflow simulations to form a multiscale simulation.

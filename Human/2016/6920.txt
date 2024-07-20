@@ -1,0 +1,3 @@
+Smart Meter Privacy with Renewable Energy and a Finite Capacity Battery
+
+We address the smart meter (SM) privacy problem by considering the availability of a renewable energy source (RES) and a battery which can be exploited by a consumer to partially hide the consumption pattern from the utility provider (UP). Privacy is measured by the mutual information rate between the consumer's energy consumption and the renewable energy generation process, and the energy received from the grid, where the latter is known by the UP through the SM readings, and the former two are to be kept private. By expressing the information leakage as an additive quantity, we cast the problem as a stochastic control problem, and formulate the corresponding Bellman equations.

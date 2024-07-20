@@ -1,0 +1,3 @@
+Unbalancing Sets and an Almost Quadratic Lower Bound for Syntactically Multilinear Arithmetic Circuits
+
+We prove a lower bound of $Ω(n^2/\log^2 n)$ on the size of any syntactically multilinear arithmetic circuit computing some explicit multilinear polynomial $f(x_1, \ldots, x_n)$. Our approach expands and improves upon a result of Raz, Shpilka and Yehudayoff ([RSY08]), who proved a lower bound of $Ω(n^{4/3}/\log^2 n)$ for the same polynomial. Our improvement follows from an asymptotically optimal lower bound for a generalized version of Galvin's problem in extremal set theory.

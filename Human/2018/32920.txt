@@ -1,0 +1,3 @@
+Complexity of locally-injective homomorphisms to tournaments
+
+For oriented graphs $G$ and $H$, a homomorphism $f: G \rightarrow H$ is locally-injective if, for every $v \in V(G)$, it is injective when restricted to some combination of the in-neighbourhood and out-neighbourhood of $v$. Two of the possible definitions of local-injectivity are examined. In each case it is shown that the associated homomorphism problem is NP-complete when $H$ is a reflexive tournament on three or more vertices with a loop at every vertex, and solvable in polynomial time when $H$ is a reflexive tournament on two or fewer vertices.

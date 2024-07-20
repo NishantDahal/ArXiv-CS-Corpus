@@ -1,0 +1,3 @@
+Using Artificial Intelligence for Model Selection
+
+We apply the optimization algorithm Adaptive Simulated Annealing (ASA) to the problem of analyzing data on a large population and selecting the best model to predict that an individual with various traits will have a particular disease. We compare ASA with traditional forward and backward regression on computer simulated data. We find that the traditional methods of modeling are better for smaller data sets whereas a numerically stable ASA seems to perform better on larger and more complicated data sets.

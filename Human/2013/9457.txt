@@ -1,0 +1,3 @@
+Rigorous high-precision computation of the Hurwitz zeta function and its derivatives
+
+We study the use of the Euler-Maclaurin formula to numerically evaluate the Hurwitz zeta function $ζ(s,a)$ for $s, a \in \mathbb{C}$, along with an arbitrary number of derivatives with respect to $s$, to arbitrary precision with rigorous error bounds. Techniques that lead to a fast implementation are discussed. We present new record computations of Stieltjes constants, Keiper-Li coefficients and the first nontrivial zero of the Riemann zeta function, obtained using an open source implementation of the algorithms described in this paper.

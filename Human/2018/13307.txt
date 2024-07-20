@@ -1,0 +1,3 @@
+Conflict-free connection of trees
+
+We study the conflict-free connection coloring of trees, which is also the conflict-free coloring of the so-called edge-path hypergraphs of trees. We first prove that for a tree $T$ of order $n$, $cfc(T)\geq cfc(P_n)=\lceil \log_{2} n\rceil$, which completely confirms the conjecture of Li and Wu. We then present a sharp upper bound for the conflict-free connection number of trees by a simple algorithm. Furthermore, we show that the conflict-free connection number of the binomial tree with $2^{k-1}$ vertices is $k-1$. At last, we study trees which are $cfc$-critical, and prove that if a tree $T$ is $cfc$-critical, then the conflict-free connection coloring of $T$ is equivalent to the edge ranking of $T$.

@@ -1,0 +1,3 @@
+Towards a hardware-assisted information flow tracking ecosystem for ARM processors
+
+This work details a hardware-assisted approach for information flow tracking implemented on reconfigurable chips. Current solutions are either time-consuming or hardly portable (modifications of both sofware/hardware layers). This work takes benefits from debug components included in ARMv7 processors to retrieve details on instructions committed by the CPU. First results in terms of silicon area and time overheads are also given.

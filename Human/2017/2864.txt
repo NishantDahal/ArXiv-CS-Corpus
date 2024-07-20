@@ -1,0 +1,3 @@
+Quickest Hub Discovery in Correlation Graphs
+
+A sequential test is proposed for detection and isolation of hubs in a correlation graph. Hubs in a correlation graph of a random vector are variables (nodes) that have a strong correlation edge. It is assumed that the random vectors are high-dimensional and are multivariate Gaussian distributed. The test employs a family of novel local and global summary statistics generated from small samples of the random vectors. Delay and false alarm analysis of the test is obtained and numerical results are provided to show that the test is consistent in identifying hubs, as the false alarm rate goes to zero.

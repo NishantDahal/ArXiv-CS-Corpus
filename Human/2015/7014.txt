@@ -1,0 +1,3 @@
+Asynchronous processing of Coq documents: from the kernel up to the user interface
+
+The work described in this paper improves the reactivity of the Coq system by completely redesigning the way it processes a formal document. By subdividing such work into independent tasks the system can give precedence to the ones of immediate interest for the user and postpones the others. On the user side, a modern interface based on the PIDE middleware aggregates and present in a consistent way the output of the prover. Finally postponed tasks are processed exploiting modern, parallel, hardware to offer better scalability.

@@ -1,0 +1,3 @@
+Some approximations in Model Checking and Testing
+
+Model checking and testing are two areas with a similar goal: to verify that a system satisfies a property. They start with different hypothesis on the systems and develop many techniques with different notions of approximation, when an exact verification may be computationally too hard. We present some notions of approximation with their logic and statistics backgrounds, which yield several techniques for model checking and testing: Bounded Model Checking, Approximate Model Checking, Approximate Black-Box Checking, Approximate Model-based Testing and Approximate Probabilistic Model Checking. All these methods guarantee some quality and efficiency of the verification.

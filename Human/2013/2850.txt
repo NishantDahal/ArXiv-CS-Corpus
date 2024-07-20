@@ -1,0 +1,3 @@
+The smallest nonevasive graph property
+
+A property of n-vertex graphs is called evasive if every algorithm testing this property by asking questions of the form "is there an edge between vertices u and v" requires, in the worst case, to ask about all pairs of vertices. Most "natural" graph properties are either evasive or conjectured to be such, and of the few examples of nontrivial nonevasive properties scattered in the literature the smallest one has n=6. We exhibit a nontrivial, nonevasive property of 5-vertex graphs and show that it is essentially the unique such with n at most 5.

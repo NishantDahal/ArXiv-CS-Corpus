@@ -1,0 +1,3 @@
+TensorFlow-Serving: Flexible, High-Performance ML Serving
+
+We describe TensorFlow-Serving, a system to serve machine learning models inside Google which is also available in the cloud and via open-source. It is extremely flexible in terms of the types of ML platforms it supports, and ways to integrate with systems that convey new models and updated versions from training to serving. At the same time, the core code paths around model lookup and inference have been carefully optimized to avoid performance pitfalls observed in naive implementations. Google uses it in many production deployments, including a multi-tenant model hosting service called TFS^2.

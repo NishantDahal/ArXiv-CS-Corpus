@@ -1,0 +1,5 @@
+Graph partitioning and a componentwise PageRank algorithm
+
+In this article we will present a graph partitioning algorithm which partitions a graph into two different types of components: the well-known `strongly connected components' as well as another type of components we call `connected acyclic component'. We will give an algorithm based on Tarjan's algorithm for finding strongly connected components used to find such a partitioning. We will also show that the partitioning given by the algorithm is unique and that the underlying graph can be represented as a directed acyclic graph (similar to a pure strongly connected component partitioning).
+  In the second part we will show how such an partitioning of a graph can be used to calculate PageRank of a graph effectively by calculating PageRank for different components on the same `level' in parallel as well as allowing for the use of different types of PageRank algorithms for different types of components.
+  To evaluate the method we have calculated PageRank on four large example graphs and compared it with a basic approach, as well as our algorithm in a serial as well as parallel implementation.

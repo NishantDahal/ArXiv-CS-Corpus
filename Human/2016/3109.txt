@@ -1,0 +1,3 @@
+Global versus Local Weak-Indication Self-Timed Function Blocks - A Comparative Analysis
+
+This paper analyzes the merits and demerits of global weak-indication self-timed function blocks versus local weak-indication self-timed function blocks, implemented using a delay-insensitive data code and adhering to 4-phase return-to-zero handshaking. A self-timed ripple carry adder is considered as an example function block for the analysis. The analysis shows that while global weak-indication could help in optimizing the power, latency and area parameters, local weak-indication facilitates the optimum performance in terms of realizing the data-dependent cycle time that is characteristic of a weak-indication self-timed design.

@@ -1,0 +1,4 @@
+Scalability and Resilience of Software-Defined Networking: An Overview
+
+Software-Defined Networking (SDN) allows to control the available network resources by an intelligent and centralized authority in order to optimize traffic flows in a flexible manner. However, centralized control may face scalability issues when the network size or the number of traffic flows increases. Also, a centralized controller may form a single point of failure, thereby affecting the network resilience.
+  This article provides an overview of SDN that focuses on (1) scalability concerning the increased control overhead faced by a central controller, and (2) resiliency in terms of protection against controller failure, network topology failure and security in terms of malicious attacks.

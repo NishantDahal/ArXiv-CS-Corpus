@@ -1,0 +1,3 @@
+Real Time Implementation of Spatial Filtering On FPGA
+
+Field Programmable Gate Array (FPGA) technology has gained vital importance mainly because of its parallel processing hardware which makes it ideal for image and video processing. In this paper, a step by step approach to apply a linear spatial filter on real time video frame sent by Omnivision OV7670 camera using Zynq Evaluation and Development board based on Xilinx XC7Z020 has been discussed. Face detection application was chosen to explain above procedure. This procedure is applicable to most of the complex image processing algorithms which needs to be implemented using FPGA.

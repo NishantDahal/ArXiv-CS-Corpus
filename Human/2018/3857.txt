@@ -1,0 +1,3 @@
+Extending Causal Consistency to any Object Defined by a Sequential Specification
+
+This paper presents a simple generalization of causal consistency suited to any object defined by a sequential specification. As causality is captured by a partial order on the set of operations issued by the processes on shared objects (concurrent operations are not ordered), it follows that causal consistency allows different processes to have different views of each object history.

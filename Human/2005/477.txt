@@ -1,0 +1,3 @@
+Constructions in public-key cryptography over matrix groups
+
+The purpose of the paper is to give new key agreement protocols (a multi-party extension of the protocol due to Anshel-Anshel-Goldfeld and a generalization of the Diffie-Hellman protocol from abelian to solvable groups) and a new homomorphic public-key cryptosystem. They rely on difficulty of the conjugacy and membership problems for subgroups of a given group. To support these and other known cryptographic schemes we present a general technique to produce a family of instances being matrix groups (over finite commutative rings) which play a role for these schemes similar to the groups $Z\_n^*$ in the existing cryptographic constructions like RSA or discrete logarithm.

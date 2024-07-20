@@ -1,0 +1,3 @@
+An Optimal Algorithm for Tiling the Plane with a Translated Polyomino
+
+We give a $O(n)$-time algorithm for determining whether translations of a polyomino with $n$ edges can tile the plane. The algorithm is also a $O(n)$-time algorithm for enumerating all such tilings that are also regular, and we prove that at most $Θ(n)$ such tilings exist.

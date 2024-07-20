@@ -1,0 +1,3 @@
+Ability to Count Is Worth $Θ(Δ)$ Rounds
+
+Hella et al. (PODC 2012, Distributed Computing 2015) identified seven different models of distributed computing - one of which is the port-numbering model - and provided a complete classification of their computational power relative to each other. However, one of their simulation results involves an additive overhead of $2Δ-2$ communication rounds, and it was not clear, if this is actually optimal. In this paper we give a positive answer: there is a matching linear-in-$Δ$ lower bound. This closes the final gap in our understanding of the models, with respect to the number of communication rounds.

@@ -1,0 +1,3 @@
+Value Iteration with Options and State Aggregation
+
+This paper presents a way of solving Markov Decision Processes that combines state abstraction and temporal abstraction. Specifically, we combine state aggregation with the options framework and demonstrate that they work well together and indeed it is only after one combines the two that the full benefit of each is realized. We introduce a hierarchical value iteration algorithm where we first coarsely solve subgoals and then use these approximate solutions to exactly solve the MDP. This algorithm solved several problems faster than vanilla value iteration.

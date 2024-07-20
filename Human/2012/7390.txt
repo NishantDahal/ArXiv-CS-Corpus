@@ -1,0 +1,3 @@
+Monitoring Control Updating Period In Fast Gradient Based NMPC
+
+In this paper, a method is proposed for on-line monitoring of the control updating period in fast-gradient-based Model Predictive Control (MPC) schemes. Such schemes are currently under intense investigation as a way to accommodate for real-time requirements when dealing with systems showing fast dynamics. The method needs cheap computations that use the algorithm on-line behavior in order to recover the optimal updating period in terms of cost function decrease. A simple example of constrained triple integrator is used to illustrate the proposed method and to assess its efficiency.

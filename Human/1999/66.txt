@@ -1,0 +1,3 @@
+Designing SAT for HCP
+
+For arbitrary undirected graph $G$, we are designing SATISFIABILITY problem (SAT) for HCP, using tools of Boolean algebra only. The obtained SAT be the logic formulation of conditions for Hamiltonian cycle existence, and use $m$ Boolean variables, where $m$ is the number of graph edges. This Boolean expression is true if and only if an initial graph is Hamiltonian. That is, each satisfying assignment of the Boolean variables determines a Hamiltonian cycle of $G$, and each Hamiltonian cycle of $G$ corresponds to a satisfying assignment of the Boolean variables. In common case, the obtained Boolean expression may has an exponential length (the number of Boolean literals).

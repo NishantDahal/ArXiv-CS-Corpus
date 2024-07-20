@@ -1,0 +1,3 @@
+Geometric Convolutional Neural Network for Analyzing Surface-Based Neuroimaging Data
+
+The conventional CNN, widely used for two-dimensional images, however, is not directly applicable to non-regular geometric surface, such as a cortical thickness. We propose Geometric CNN (gCNN) that deals with data representation over a spherical surface and renders pattern recognition in a multi-shell mesh structure. The classification accuracy for sex was significantly higher than that of SVM and image based CNN. It only uses MRI thickness data to classify gender but this method can expand to classify disease from other MRI or fMRI data

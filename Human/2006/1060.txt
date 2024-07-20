@@ -1,0 +1,4 @@
+Labeling Schemes with Queries
+
+We study the question of ``how robust are the known lower bounds of labeling schemes when one increases the number of consulted labels''. Let $f$ be a function on pairs of vertices. An $f$-labeling scheme for a family of graphs $\cF$ labels the vertices of all graphs in $\cF$ such that for every graph $G\in\cF$ and every two vertices $u,v\in G$, the value $f(u,v)$ can be inferred by merely inspecting the labels of $u$ and $v$.
+  This paper introduces a natural generalization: the notion of $f$-labeling schemes with queries, in which the value $f(u,v)$ can be inferred by inspecting not only the labels of $u$ and $v$ but possibly the labels of some additional vertices. We show that inspecting the label of a single additional vertex (one {\em query}) enables us to reduce the label size of many labeling schemes significantly.

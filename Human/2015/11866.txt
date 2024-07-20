@@ -1,0 +1,3 @@
+Higher category models of the pi-calculus
+
+We present an approach to modeling computational calculi using higher category theory. Specifically we present a fully abstract semantics for the pi-calculus. The interpretation is consistent with Curry-Howard, interpreting terms as typed morphisms, while simultaneously providing an explicit interpretation of the rewrite rules of standard operational presentations as 2-morphisms. One of the key contributions, inspired by catalysis in chemical reactions, is a method of restricting the application of 2-morphisms interpreting rewrites to specific contexts.

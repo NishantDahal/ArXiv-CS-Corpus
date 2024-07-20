@@ -1,0 +1,3 @@
+Nonlinear Embedding Transform for Unsupervised Domain Adaptation
+
+The problem of domain adaptation (DA) deals with adapting classifier models trained on one data distribution to different data distributions. In this paper, we introduce the Nonlinear Embedding Transform (NET) for unsupervised DA by combining domain alignment along with similarity-based embedding. We also introduce a validation procedure to estimate the model parameters for the NET algorithm using the source data. Comprehensive evaluations on multiple vision datasets demonstrate that the NET algorithm outperforms existing competitive procedures for unsupervised DA.

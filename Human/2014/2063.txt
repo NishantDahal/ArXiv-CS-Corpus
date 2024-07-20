@@ -1,0 +1,3 @@
+Study the function of building blocks in SHA Family
+
+In this paper we analyse the role of some of the building blocks in SHA-256. We show that the disturbance correction strategy is applicable to the SHA-256 architecture and we prove that functions $Σ$, $σ$ are vital for the security of SHA-256 by showing that for a variant without them it is possible to find collisions with complexity 2 64 hash operations. As a step towards an analysis of the full function, we present the results of our experiments on Hamming weights of expanded messages for different variants of the message expansion and show that there exist low-weight expanded messages for XOR-linearised variants.

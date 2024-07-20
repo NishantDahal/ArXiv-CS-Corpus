@@ -1,0 +1,3 @@
+A Reduced Reference Image Quality Measure Using Bessel K Forms Model for Tetrolet Coefficients
+
+In this paper, we introduce a Reduced Reference Image Quality Assessment (RRIQA) measure based on the natural image statistic approach. A new adaptive transform called "Tetrolet" is applied to both reference and distorted images. To model the marginal distribution of tetrolet coefficients Bessel K Forms (BKF) density is proposed. Estimating the parameters of this distribution allows to summarize the reference image with a small amount of side information. Five distortion measures based on the BKF parameters of the original and processed image are used to predict quality scores. A comparison between these measures is presented showing a good consistency with human judgment.

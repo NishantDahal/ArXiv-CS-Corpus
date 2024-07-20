@@ -1,0 +1,4 @@
+GPU Scripting and Code Generation with PyCUDA
+
+High-level scripting languages are in many ways polar opposites to GPUs. GPUs are highly parallel, subject to hardware subtleties, and designed for maximum throughput, and they offer a tremendous advance in the performance achievable for a significant number of computational problems. On the other hand, scripting languages such as Python favor ease of use over computational speed and do not generally emphasize parallelism. PyCUDA is a package that attempts to join the two together. This chapter argues that in doing so, a programming environment is created that is greater than just the sum of its two parts.
+  We would like to note that nearly all of this chapter applies in unmodified form to PyOpenCL, a sister project of PyCUDA, whose goal it is to realize the same concepts as PyCUDA for OpenCL.

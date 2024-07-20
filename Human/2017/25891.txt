@@ -1,0 +1,3 @@
+A Quantitative Study of Java Software Buildability
+
+Researchers, students and practitioners often encounter a situation when the build process of a third-party software system fails. In this paper, we aim to confirm this observation present mainly as anecdotal evidence so far. Using a virtual environment simulating a programmer's one, we try to fully automatically build target archives from the source code of over 7,200 open source Java projects. We found that more than 38% of builds ended in failure. Build log analysis reveals the largest portion of errors are dependency-related. We also conduct an association study of factors affecting build success.

@@ -1,0 +1,3 @@
+Secret Key Generation from Correlated Sources and Secure Link
+
+In this paper, we study the problem of secret key generation from both correlated sources and a secure channel. We obtain the optimal secret key rate in this problem and show that the optimal scheme is to conduct secret key generation and key distribution jointly, where every bit in the secret channel will yield more than one bit of secret key rate. This joint scheme is better than the separation-based scheme, where the secure channel is used for key distribution, and as a result, every bit in the secure channel can only provide one bit of secret key rate.

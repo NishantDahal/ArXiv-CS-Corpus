@@ -1,0 +1,6 @@
+Toward Finding Latent Cities with Non-Negative Matrix Factorization
+
+In the last decade, digital footprints have been used to cluster population activity into functional areas of cities.
+  However, a key aspect has been overlooked: we experience our cities not only by performing activities at specific destinations, but also by moving from one place to another.
+  In this paper, we propose to analyze and cluster the city based on how people move through it. Particularly, we introduce Mobilicities, automatically generated travel patterns inferred from mobile phone network data using NMF, a matrix factorization model.
+  We evaluate our method in a large city and we find that mobilicities reveal latent but at the same time interpretable mobility structures of the city. Our results provide evidence on how clustering and visualization of aggregated phone logs could be used in planning systems to interactively analyze city structure and population activity.

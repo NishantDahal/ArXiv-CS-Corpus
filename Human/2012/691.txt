@@ -1,0 +1,3 @@
+Normal Form Bisimulations for Delimited-Control Operators
+
+We define a notion of normal form bisimilarity for the untyped call-by-value lambda calculus extended with the delimited-control operators shift and reset. Normal form bisimilarities are simple, easy-to-use behavioral equivalences which relate terms without having to test them within all contexts (like contextual equivalence), or by applying them to function arguments (like applicative bisimilarity). We prove that the normal form bisimilarity for shift and reset is sound but not complete w.r.t. contextual equivalence and we define up-to techniques that aim at simplifying bisimulation proofs. Finally, we illustrate the simplicity of the techniques we develop by proving several equivalences on terms.

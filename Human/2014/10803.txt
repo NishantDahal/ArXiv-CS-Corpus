@@ -1,0 +1,3 @@
+R3MC: A Riemannian three-factor algorithm for low-rank matrix completion
+
+We exploit the versatile framework of Riemannian optimization on quotient manifolds to develop R3MC, a nonlinear conjugate-gradient method for low-rank matrix completion. The underlying search space of fixed-rank matrices is endowed with a novel Riemannian metric that is tailored to the least-squares cost. Numerical comparisons suggest that R3MC robustly outperforms state-of-the-art algorithms across different problem instances, especially those that combine scarcely sampled and ill-conditioned data.

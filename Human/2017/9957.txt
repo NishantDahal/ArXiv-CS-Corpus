@@ -1,0 +1,4 @@
+Fast and Compact Exact Distance Oracle for Planar Graphs
+
+For a given a graph, a distance oracle is a data structure that answers distance queries between pairs of vertices. We introduce an $O(n^{5/3})$-space distance oracle which answers exact distance queries in $O(\log n)$ time for $n$-vertex planar edge-weighted digraphs. All previous distance oracles for planar graphs with truly subquadratic space i.e., space $O(n^{2 - ε})$ for some constant $ε> 0$) either required query time polynomial in $n$ or could only answer approximate distance queries.
+  Furthermore, we show how to trade-off time and space: for any $S \ge n^{3/2}$, we show how to obtain an $S$-space distance oracle that answers queries in time $O((n^{5/2}/ S^{3/2}) \log n)$. This is a polynomial improvement over the previous planar distance oracles with $o(n^{1/4})$ query time.

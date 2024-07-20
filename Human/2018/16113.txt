@@ -1,0 +1,3 @@
+Quantum Circuits for Toom-Cook Multiplication
+
+In this paper, we report efficient quantum circuits for integer multiplication using Toom-Cook algorithm. By analysing the recursive tree structure of the algorithm, we obtained a bound on the count of Toffoli gates and qubits. These bounds are further improved by employing reversible pebble games through uncomputing the intermediate results. The asymptotic bounds for different performance metrics of the proposed quantum circuit are superior to the prior implementations of multiplier circuits using schoolbook and Karatsuba algorithms.

@@ -1,0 +1,3 @@
+Optimal top dag compression
+
+It is shown that for a given ordered node-labelled tree of size $n$ and with $s$ many different node labels, one can construct in linear time a top dag of height $O(\log n)$ and size $O(n / \log_σn) \cap O(d \cdot \log n)$, where $σ= \max\{ 2, s\}$ and $d$ is the size of the minimal dag. The size bound $O(n / \log_σn)$ is optimal and improves on previous bounds.

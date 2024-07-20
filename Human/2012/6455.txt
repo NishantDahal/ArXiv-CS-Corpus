@@ -1,0 +1,3 @@
+Planning Random path distributions for ambush games in unstructured environments
+
+Operating vehicles in adversarial environments require non-conventional planning techniques. A two-player, zero-sum non-cooperative game is introduced, which is solved via a linear program. An extension is proposed to construct networks displaying good representations of the environment characteristics, while offering acceptable results for the technique used. Sensitivity of the solution to the LP solver algorithm is identified. The performances of the planner are finally assessed by comparison with those of conventional planners. Results are used to formulate secondary objectives to the problem.

@@ -1,0 +1,3 @@
+Shape optimization in laminar flow with a label-guided variational autoencoder
+
+Computational design optimization in fluid dynamics usually requires to solve non-linear partial differential equations numerically. In this work, we explore a Bayesian optimization approach to minimize an object's drag coefficient in laminar flow based on predicting drag directly from the object shape. Jointly training an architecture combining a variational autoencoder mapping shapes to latent representations and Gaussian process regression allows us to generate improved shapes in the two dimensional case we consider.

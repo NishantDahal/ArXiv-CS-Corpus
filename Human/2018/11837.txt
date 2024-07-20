@@ -1,0 +1,3 @@
+Multi-label Classification of Surgical Tools with Convolutional Neural Networks
+
+Automatic tool detection from surgical imagery has a multitude of useful applications, such as real-time computer assistance for the surgeon. Using the successful residual network architecture, a system that can distinguish 21 different tools in cataract surgery videos is created. The videos are provided as part of the 2017 CATARACTS challenge and pose difficulties found in many real-world datasets, for example a strong class imbalance. The construction of the detection system is guided by a wide array of experiments that explore different design decisions.

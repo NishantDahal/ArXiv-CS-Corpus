@@ -1,0 +1,5 @@
+An implementation of Sub-CAD in Maple
+
+Cylindrical algebraic decomposition (CAD) is an important tool for the investigation of semi-algebraic sets, with applications in algebraic geometry and beyond. We have previously reported on an implementation of CAD in Maple which offers the original projection and lifting algorithm of Collins along with subsequent improvements.
+  Here we report on new functionality: specifically the ability to build cylindrical algebraic sub-decompositions (sub-CADs) where only certain cells are returned. We have implemented algorithms to return cells of a prescribed dimensions or higher (layered {\scad}s), and an algorithm to return only those cells on which given polynomials are zero (variety {\scad}s). These offer substantial savings in output size and computation time.
+  The code described and an introductory Maple worksheet / pdf demonstrating the full functionality of the package are freely available online at http://opus.bath.ac.uk/43911/.

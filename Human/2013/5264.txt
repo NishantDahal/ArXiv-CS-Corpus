@@ -1,0 +1,3 @@
+Social Network for Smart Devices using Embedded Ethernet
+
+Embedded Ethernet is nothing but a microcontroller which is able to communicate with the network. A design of AVR controller-based embedded Ethernet interface is presented. In the design, an existing SPI serial device can be converted into a network interface peripheral to obtain compatibility with the network. By typing the IP-address of LAN on the web browser, the user gets a web page on screen; this page contains all the information about the status of the devices. The user can also control the devices interfaced to the web server by pressing buttons provided in the web page. This creates a network for easy communication among the devices.

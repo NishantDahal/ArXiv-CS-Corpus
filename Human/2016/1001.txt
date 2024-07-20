@@ -1,0 +1,3 @@
+Partitioned Successive-Cancellation List Decoding of Polar Codes
+
+Successive-cancellation list (SCL) decoding is an algorithm that provides very good error-correction performance for polar codes. However, its hardware implementation requires a large amount of memory, mainly to store intermediate results. In this paper, a partitioned SCL algorithm is proposed to reduce the large memory requirements of the conventional SCL algorithm. The decoder tree is broken into partitions that are decoded separately. We show that with careful selection of list sizes and number of partitions, the proposed algorithm can outperform conventional SCL while requiring less memory.

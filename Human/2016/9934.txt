@@ -1,0 +1,3 @@
+Achieving the Holevo bound via a bisection decoding protocol
+
+We present a new decoding protocol to realize transmission of classical information through a quantum channel at asymptotically maximum capacity, achieving the Holevo bound and thus the optimal communication rate. At variance with previous proposals, our scheme recovers the message bit by bit, making use of a series "yes-no" measurements, organized in bisection fashion, thus determining which codeword was sent in log(N) steps, N being the number of codewords.

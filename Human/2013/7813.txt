@@ -1,0 +1,3 @@
+Noisy Subspace Clustering via Thresholding
+
+We consider the problem of clustering noisy high-dimensional data points into a union of low-dimensional subspaces and a set of outliers. The number of subspaces, their dimensions, and their orientations are unknown. A probabilistic performance analysis of the thresholding-based subspace clustering (TSC) algorithm introduced recently in [1] shows that TSC succeeds in the noisy case, even when the subspaces intersect. Our results reveal an explicit tradeoff between the allowed noise level and the affinity of the subspaces. We furthermore find that the simple outlier detection scheme introduced in [1] provably succeeds in the noisy case.

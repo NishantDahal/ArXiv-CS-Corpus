@@ -1,0 +1,5 @@
+Rich square-free words
+
+A word w is rich if it has |w|+1 many distinct palindromic factors, including the empty word. A word is square-free if it does not have a factor uu, where u is a non-empty word.
+  Pelantová and Starosta (Discrete Math. 313 (2013)) proved that every infinite rich word contains a square. We will give another proof for that result. Pelantová and Starosta denoted by r(n) the length of a longest rich square-free word on an alphabet of size n. The exact value of r(n) was left as an open question. We will give an upper and a lower bound for r(n), and make a conjecture that our lower bound is exact.
+  We will also generalize the notion of repetition threshold for a limited class of infinite words. The repetition thresholds for episturmian and rich words are left as an open question.

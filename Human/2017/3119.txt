@@ -1,0 +1,3 @@
+Zero-Shot Learning posed as a Missing Data Problem
+
+This paper presents a method of zero-shot learning (ZSL) which poses ZSL as the missing data problem, rather than the missing label problem. Specifically, most existing ZSL methods focus on learning mapping functions from the image feature space to the label embedding space. Whereas, the proposed method explores a simple yet effective transductive framework in the reverse way \--- our method estimates data distribution of unseen classes in the image feature space by transferring knowledge from the label embedding space. In experiments, our method outperforms the state-of-the-art on two popular datasets.

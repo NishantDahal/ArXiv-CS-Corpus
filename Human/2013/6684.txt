@@ -1,0 +1,3 @@
+Towards a Workload for Evolutionary Analytics
+
+Emerging data analysis involves the ingestion and exploration of new data sets, application of complex functions, and frequent query revisions based on observing prior query answers. We call this new type of analysis evolutionary analytics and identify its properties. This type of analysis is not well represented by current benchmark workloads. In this paper, we present a workload and identify several metrics to test system support for evolutionary analytics. Along with our metrics, we present methodologies for running the workload that capture this analytical scenario.

@@ -1,0 +1,3 @@
+Occam's Razor Applied to the Petri Net Coverability Problem
+
+The verification of safety properties for concurrent systems often reduces to the coverability problem for Petri nets. This problem was shown to be ExpSpace-complete forty years ago. Driven by the concurrency revolution, it has regained a lot of interest over the last decade. In this paper, we propose a generic and simple approach to solve this problem. Our method is inspired from the recent approach of Blondin, Finkel, Haase and Haddad. Basically, we combine forward invariant generation techniques for Petri nets with backward reachability for well- structured transition systems. An experimental evaluation demonstrates the efficiency of our approach.

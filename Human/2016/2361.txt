@@ -1,0 +1,3 @@
+On the p-adic stability of the FGLM algorithm
+
+Nowadays, many strategies to solve polynomial systems use the computation of a Gr{ö}bner basis for the graded reverse lexicographical ordering, followed by a change of ordering algorithm to obtain a Gr{ö}bner basis for the lexicographical ordering. The change of ordering algorithm is crucial for these strategies. We study the p-adic stability of the main change of ordering algorithm, FGLM. We show that FGLM is stable and give explicit upper bound on the loss of precision occuring in its execution. The variant of FGLM designed to pass from the grevlex ordering to a Gr{ö}bner basis in shape position is also stable. Our study relies on the application of Smith Normal Form computations for linear algebra.

@@ -1,0 +1,3 @@
+Adapting SAM for CDF
+
+The CDF and D0 experiments probe the high-energy frontier and as they do so have accumulated hundreds of Terabytes of data on the way to petabytes of data over the next two years. The experiments have made a commitment to use the developing Grid based on the SAM system to handle these data. The D0 SAM has been extended for use in CDF as common patterns of design emerged to meet the similar requirements of these experiments. The process by which the merger was achieved is explained with particular emphasis on lessons learned concerning the database design patterns plus realization of the use cases.

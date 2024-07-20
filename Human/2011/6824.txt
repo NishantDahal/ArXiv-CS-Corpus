@@ -1,0 +1,3 @@
+Sparsity and Robustness in Face Recognition
+
+This report concerns the use of techniques for sparse signal representation and sparse error correction for automatic face recognition. Much of the recent interest in these techniques comes from the paper "Robust Face Recognition via Sparse Representation" by Wright et al. (2009), which showed how, under certain technical conditions, one could cast the face recognition problem as one of seeking a sparse representation of a given input face image in terms of a "dictionary" of training images and images of individual pixels. In this report, we have attempted to clarify some frequently encountered questions about this work and particularly, on the validity of using sparse representation techniques for face recognition.

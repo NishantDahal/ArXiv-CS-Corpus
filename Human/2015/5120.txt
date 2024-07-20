@@ -1,0 +1,3 @@
+Random Walks that Find Perfect Objects and the Lovász Local Lemma
+
+We give an algorithmic local lemma by establishing a sufficient condition for the uniform random walk on a directed graph to reach a sink quickly. Our work is inspired by Moser's entropic method proof of the Lovász Local Lemma (LLL) for satisfiability and completely bypasses the Probabilistic Method formulation of the LLL. In particular, our method works when the underlying state space is entirely unstructured. Similarly to Moser's argument, the key point is that the inevitability of reaching a sink is established by bounding the entropy of the walk as a function of time.

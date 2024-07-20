@@ -1,0 +1,3 @@
+Training Generative Adversarial Networks with Weights
+
+The impressive success of Generative Adversarial Networks (GANs) is often overshadowed by the difficulties in their training. Despite the continuous efforts and improvements, there are still open issues regarding their convergence properties. In this paper, we propose a simple training variation where suitable weights are defined and assist the training of the Generator. We provide theoretical arguments why the proposed algorithm is better than the baseline training in the sense of speeding up the training process and of creating a stronger Generator. Performance results showed that the new algorithm is more accurate in both synthetic and image datasets resulting in improvements ranging between 5% and 50%.

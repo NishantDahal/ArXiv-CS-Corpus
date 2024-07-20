@@ -1,0 +1,3 @@
+Automated image segmentation for detecting cell spreading for metastasizing assessments of cancer development
+
+The automated segmentation of cells in microscopic images is an open research problem that has important implications for studies of the developmental and cancer processes based on in vitro models. In this paper, we present the approach for segmentation of the DIC images of cultured cells using G-neighbor smoothing followed by Kauwahara filtering and local standard deviation approach for boundary detection. NIH FIJI/ImageJ tools are used to create the ground truth dataset. The results of this work indicate that detection of cell boundaries using segmentation approach even in the case of realistic measurement conditions is a challenging problem.

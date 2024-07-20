@@ -1,0 +1,7 @@
+Tight Bounds for Gomory-Hu-like Cut Counting
+
+By a classical result of Gomory and Hu (1961), in every edge-weighted graph $G=(V,E,w)$, the minimum $st$-cut values, when ranging over all $s,t\in V$, take at most $|V|-1$ distinct values. That is, these $\binom{|V|}{2}$ instances exhibit redundancy factor $Ω(|V|)$. They further showed how to construct from $G$ a tree $(V,E',w')$ that stores all minimum $st$-cut values. Motivated by this result, we obtain tight bounds for the redundancy factor of several generalizations of the minimum $st$-cut problem.
+  1. Group-Cut: Consider the minimum $(A,B)$-cut, ranging over all subsets $A,B\subseteq V$ of given sizes $|A|=α$ and $|B|=β$. The redundancy factor is $Ω_{α,β}(|V|)$.
+  2. Multiway-Cut: Consider the minimum cut separating every two vertices of $S\subseteq V$, ranging over all subsets of a given size $|S|=k$. The redundancy factor is $Ω_{k}(|V|)$.
+  3. Multicut: Consider the minimum cut separating every demand-pair in $D\subseteq V\times V$, ranging over collections of $|D|=k$ demand pairs. The redundancy factor is $Ω_{k}(|V|^k)$. This result is a bit surprising, as the redundancy factor is much larger than in the first two problems.
+  A natural application of these bounds is to construct small data structures that stores all relevant cut values, like the Gomory-Hu tree. We initiate this direction by giving some upper and lower bounds.

@@ -1,0 +1,3 @@
+(Un)decidable Problems about Reachability of Quantum Systems
+
+We study the reachability problem of a quantum system modelled by a quantum automaton. The reachable sets are chosen to be boolean combinations of (closed) subspaces of the state space of the quantum system. Four different reachability properties are considered: eventually reachable, globally reachable, ultimately forever reachable, and infinitely often reachable. The main result of this paper is that all of the four reachability properties are undecidable in general; however, the last three become decidable if the reachable sets are boolean combinations without negation.

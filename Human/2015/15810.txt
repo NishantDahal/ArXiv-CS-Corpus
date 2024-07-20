@@ -1,0 +1,3 @@
+Improved bounds on the peak sidelobe level of binary sequences
+
+Schmidt proved in 2014 that if $\varepsilon>0$, almost all binary sequences of length $n$ have peak sidelobe level between $(\sqrt{2}-\varepsilon)\sqrt{n\log n}$ and $(\sqrt{2}+\varepsilon)\sqrt{n\log n}$. Because of the small gap between his upper and lower bounds, it is difficult to find improved upper bounds that hold for almost all binary sequences. In this note, we prove that if $\varepsilon>0$, then almost all binary sequences of length $n$ have peak sidelobe level at most $\sqrt{2n(\log n-(1-\varepsilon)\log\log n)}$, and we provide a slightly better upper bound that holds for a positive proportion of binary sequences of length $n$.

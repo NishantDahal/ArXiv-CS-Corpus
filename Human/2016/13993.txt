@@ -1,0 +1,4 @@
+Reachability for dynamic parametric processes
+
+In a dynamic parametric process every subprocess may spawn arbitrarily many, identical child processes, that may communicate either over global variables, or over local variables that are shared with their parent.
+  We show that reachability for dynamic parametric processes is decidable under mild assumptions. These assumptions are e.g. met if individual processes are realized by pushdown systems, or even higher-order pushdown systems. We also provide algorithms for subclasses of pushdown dynamic parametric processes, with complexity ranging between NP and DEXPTIME.

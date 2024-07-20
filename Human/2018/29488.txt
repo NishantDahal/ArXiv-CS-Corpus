@@ -1,0 +1,5 @@
+Algorithm for an arbitrary-order cumulant tensor calculation in a sliding window of data streams
+
+High order cumulant tensors carry information about statistics of non-normally distributed multivariate data. In this work we present a new efficient algorithm for calculation of cumulants of arbitrary order in a sliding window for data streams. We showed that this algorithms enables speedups of cumulants updates compared to current algorithms. This algorithm can be used for processing on-line high-frequency multivariate data and can find applications in, e.g., on-line signal filtering and classification of data streams.
+  To present an application of this algorithm, we propose an estimator of non-Gaussianity of a data stream based on the norms of high-order cumulant tensors.
+  We show how to detect the transition from Gaussian distributed data to non-Gaussian ones in a~data stream. In order to achieve high implementation efficiency of operations on super-symmetric tensors, such as cumulant tensors, we employ the block structure to store and calculate only one hyper-pyramid part of such tensors.

@@ -1,0 +1,3 @@
+A New Heuristic Synchronizing Algorithm
+
+We present a new heuristic algorithm finding reset words. The algorithm called CutOff-IBFS is based on a simple idea of inverse breadth-first-search in the power automaton. We perform an experimental investigation of effectiveness compared to other algorithms existing in literature, which yields that our method generally finds a shorter word in an average case and works well in practice.

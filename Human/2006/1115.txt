@@ -1,0 +1,5 @@
+PAC Learning Mixtures of Axis-Aligned Gaussians with No Separation Assumption
+
+We propose and analyze a new vantage point for the learning of mixtures of Gaussians: namely, the PAC-style model of learning probability distributions introduced by Kearns et al. Here the task is to construct a hypothesis mixture of Gaussians that is statistically indistinguishable from the actual mixture generating the data; specifically, the KL-divergence should be at most epsilon.
+  In this scenario, we give a poly(n/epsilon)-time algorithm that learns the class of mixtures of any constant number of axis-aligned Gaussians in n-dimensional Euclidean space. Our algorithm makes no assumptions about the separation between the means of the Gaussians, nor does it have any dependence on the minimum mixing weight. This is in contrast to learning results known in the ``clustering'' model, where such assumptions are unavoidable.
+  Our algorithm relies on the method of moments, and a subalgorithm developed in previous work by the authors (FOCS 2005) for a discrete mixture-learning problem.

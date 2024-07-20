@@ -1,0 +1,3 @@
+Constant Query Time $(1 + ε)$-Approximate Distance Oracle for Planar Graphs
+
+We give a $(1+ε)$-approximate distance oracle with $O(1)$ query time for an undirected planar graph $G$ with $n$ vertices and non-negative edge lengths. For $ε>0$ and any two vertices $u$ and $v$ in $G$, our oracle gives a distance $\tilde{d}(u,v)$ with stretch $(1+ε)$ in $O(1)$ time. The oracle has size $O(n\log n ((\log n)/ε+f(ε)))$ and pre-processing time $O(n\log n((\log^3 n)/ε^2+f(ε)))$, where $f(ε)=2^{O(1/ε)}$. This is the first $(1+ε)$-approximate distance oracle with $O(1)$ query time independent of $ε$ and the size and pre-processing time nearly linear in $n$, and improves the query time $O(1/ε)$ of previous $(1+ε)$-approximate distance oracle with size nearly linear in $n$.

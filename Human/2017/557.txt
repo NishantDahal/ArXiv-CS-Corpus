@@ -1,0 +1,3 @@
+Up-To Techniques for Weighted Systems (Extended Version)
+
+We show how up-to techniques for (bi-)similarity can be used in the setting of weighted systems. The problems we consider are language equivalence, language inclusion and the threshold problem (also known as universality problem) for weighted automata. We build a bisimulation relation on the fly and work up-to congruence and up-to similarity. This requires to determine whether a pair of vectors (over a semiring) is in the congruence closure of a given relation of vectors. This problem is considered for rings and l-monoids, for the latter we provide a rewriting algorithm and show its confluence and termination. We then explain how to apply these up-to techniques to weighted automata and provide runtime results.

@@ -1,0 +1,3 @@
+On the Complexity of Realizing Facial Cycles
+
+We study the following combinatorial problem. Given a planar graph $G=(V,E)$ and a set of simple cycles $\mathcal C$ in $G$, find a planar embedding $\mathcal E$ of $G$ such that the number of cycles in $\mathcal C$ that bound a face in $\mathcal E$ is maximized. We establish a tight border of tractability for this problem in biconnected planar graphs by giving conditions under which the problem is NP-hard and showing that relaxing any of these conditions makes the problem polynomial-time solvable. Moreover, we give a $2$-approximation algorithm for series-parallel graphs and a $(4+\varepsilon)$-approximation for biconnected planar graphs.

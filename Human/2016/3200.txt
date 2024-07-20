@@ -1,0 +1,3 @@
+Strong Normalizability as a Finiteness Structure via the Taylor Expansion of λ-terms
+
+In the folklore of linear logic, a common intuition is that the structure of finiteness spaces, introduced by Ehrhard, semantically reflects the strong normalization property of cut-elimination. We make this intuition formal in the context of the non-deterministic λ-calculus by introducing a finiteness structure on resource terms, which is such that a λ-term is strongly normalizing iff the support of its Taylor expansion is finitary. An application of our result is the existence of a normal form for the Taylor expansion of any strongly normalizable non-deterministic λ-term.

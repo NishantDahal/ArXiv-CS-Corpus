@@ -1,0 +1,4 @@
+Optimal broadcasting in networks with faulty nodes
+
+Large computer networks are an essential part of modern technology, and quite often information needs to be broadcast to all the computers in the network. If all computers work perfectly all the time, this is simple. Suppose, however, that some of the computers fail occasionally. What is the fastest way to ensure that with high probability all working computers get the information?
+  In this paper, we analyze three algorithms to do so. All algorithms terminate in logarithmic time, assuming computers fail with probability $1-p$ independently of each other. We prove that the third algorithm, which runs in time $(1+o(1))(\frac{\log N}{\log(1+p)})$, is asymptotically optimal.

@@ -1,0 +1,3 @@
+Fast sequential forensic camera identification
+
+Two sequential camera source identification methods are proposed. Sequential tests implement a log-likelihood ratio test in an incremental way, thus enabling a reliable decision with a minimal number of observations. One of our methods adapts Goljan et al.'s to sequential operation. The second, which offers better performance in terms of error probabilities and average number of test observations, is based on treating the alternative hypothesis as a doubly stochastic model. We also discuss how the standard sequential test can be corrected to account for the event of weak fingerprints. Finally, we validate the goodness of our methods with experiments.

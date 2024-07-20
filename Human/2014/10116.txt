@@ -1,0 +1,3 @@
+Simulating Noisy Channel Interaction
+
+We show that $T$ rounds of interaction over the binary symmetric channel $BSC_{1/2-ε}$ with feedback can be simulated with $O(ε^2 T)$ rounds of interaction over a noiseless channel. We also introduce a more general "energy cost" model of interaction over a noisy channel. We show energy cost to be equivalent to external information complexity, which implies that our simulation results are unlikely to carry over to energy complexity. Our main technical innovation is a self-reduction from simulating a noisy channel to simulating a slightly-less-noisy channel, which may have other applications in the area of interactive compression.

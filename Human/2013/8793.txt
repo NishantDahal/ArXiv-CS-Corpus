@@ -1,0 +1,3 @@
+Compressive Shift Retrieval
+
+The classical shift retrieval problem considers two signals in vector form that are related by a shift. The problem is of great importance in many applications and is typically solved by maximizing the cross-correlation between the two signals. Inspired by compressive sensing, in this paper, we seek to estimate the shift directly from compressed signals. We show that under certain conditions, the shift can be recovered using fewer samples and less computation compared to the classical setup. Of particular interest is shift estimation from Fourier coefficients. We show that under rather mild conditions only one Fourier coefficient suffices to recover the true shift.

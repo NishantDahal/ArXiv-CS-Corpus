@@ -1,0 +1,3 @@
+Lowering IrGL to CUDA
+
+The IrGL intermediate representation is an explicitly parallel representation for irregular programs that targets GPUs. In this report, we describe IrGL constructs, examples of their use and how IrGL is compiled to CUDA by the Galois GPU compiler.

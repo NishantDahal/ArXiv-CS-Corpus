@@ -1,0 +1,3 @@
+The SL synchronous language, revisited
+
+We revisit the SL synchronous programming model introduced by Boussinot and De Simone (IEEE, Trans. on Soft. Eng., 1996). We discuss an alternative design of the model including thread spawning and recursive definitions and we explore some basic properties of the revised model: determinism, reactivity, CPS translation to a tail recursive form, computational expressivity, and a compositional notion of program equivalence.

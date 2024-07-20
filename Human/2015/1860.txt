@@ -1,0 +1,3 @@
+On the Greedy Algorithm for Combinatorial Auctions with a Random Order
+
+In this note we study the greedy algorithm for combinatorial auctions with submodular bidders. It is well known that this algorithm provides an approximation ratio of $2$ for every order of the items. We show that if the valuations are vertex cover functions and the order is random then the expected approximation ratio imrpoves to $\frac 7 4$.

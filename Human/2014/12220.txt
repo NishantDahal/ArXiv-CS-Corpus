@@ -1,0 +1,3 @@
+The square root rank of the correlation polytope is exponential
+
+The square root rank of a nonnegative matrix $A$ is the minimum rank of a matrix $B$ such that $A=B \circ B$, where $\circ$ denotes entrywise product. We show that the square root rank of the slack matrix of the correlation polytope is exponential. Our main technique is a way to lower bound the rank of certain matrices under arbitrary sign changes of the entries using properties of the roots of polynomials in number fields. The square root rank is an upper bound on the positive semidefinite rank of a matrix, and corresponds the special case where all matrices in the factorization are rank-one.

@@ -1,0 +1,5 @@
+Multilingual Sentence Categorization according to Language
+
+In this paper, we describe an approach to sentence categorization which has the originality to be based on natural properties of languages with no training set dependency. The implementation is fast, small, robust and textual errors tolerant. Tested for french, english, spanish and german discrimination, the system gives very interesting results, achieving in one test 99.4% correct assignments on real sentences.
+ The resolution power is based on grammatical words (not the most common words) and alphabet. Having the grammatical words and the alphabet of each language at its disposal, the system computes for each of them its likelihood to be selected. The name of the language having the optimum likelihood will tag the sentence --- but non resolved ambiguities will be maintained. We will discuss the reasons which lead us to use these linguistic facts and present several directions to improve the system's classification performance.
+  Categorization sentences with linguistic properties shows that difficult problems have sometimes simple solutions.

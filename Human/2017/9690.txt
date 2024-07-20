@@ -1,0 +1,3 @@
+ExpTime Tableaux with Global Caching for Hybrid PDL
+
+We present the first direct tableau decision procedure with the ExpTime complexity for HPDL (Hybrid Propositional Dynamic Logic). It checks whether a given ABox (a finite set of assertions) in HPDL is satisfiable. Technically, it combines global caching with checking fulfillment of eventualities and dealing with nominals. Our procedure contains enough details for direct implementation and has been implemented for the TGC2 (Tableaux with Global Caching) system. As HPDL can be used as a description logic for representing and reasoning about terminological knowledge, our procedure is useful for practical applications.

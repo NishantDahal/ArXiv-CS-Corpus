@@ -1,0 +1,3 @@
+Wembedder: Wikidata entity embedding web service
+
+I present a web service for querying an embedding of entities in the Wikidata knowledge graph. The embedding is trained on the Wikidata dump using Gensim's Word2Vec implementation and a simple graph walk. A REST API is implemented. Together with the Wikidata API the web service exposes a multilingual resource for over 600'000 Wikidata items and properties.

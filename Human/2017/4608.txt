@@ -1,0 +1,3 @@
+A German Corpus for Text Similarity Detection Tasks
+
+Text similarity detection aims at measuring the degree of similarity between a pair of texts. Corpora available for text similarity detection are designed to evaluate the algorithms to assess the paraphrase level among documents. In this paper we present a textual German corpus for similarity detection. The purpose of this corpus is to automatically assess the similarity between a pair of texts and to evaluate different similarity measures, both for whole documents or for individual sentences. Therefore we have calculated several simple measures on our corpus based on a library of similarity functions.

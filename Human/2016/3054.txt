@@ -1,0 +1,3 @@
+Belief Propagation on replica symmetric random factor graph models
+
+According to physics predictions, the free energy of random factor graph models that satisfy a certain "static replica symmetry" condition can be calculated via the Belief Propagation message passing scheme [Krzakala et al., PNAS 2007]. Here we prove this conjecture for two general classes of random factor graph models, namely Poisson random factor graphs and random regular factor graphs. Specifically, we show that the messages constructed just as in the case of acyclic factor graphs asymptotically satisfy the Belief Propagation equations and that the free energy density is given by the Bethe free energy formula.

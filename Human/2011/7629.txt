@@ -1,0 +1,3 @@
+Benchmarking ordering techniques for nonserial dynamic programming
+
+Five ordering algorithms for the nonserial dynamic programming algorithm for solving sparse discrete optimization problems are compared in this paper. The benchmarking reveals that the ordering of the variables has a significant impact on the run-time of these algorithms. In addition, it is shown that different orderings are most effective for different classes of problems. Finally, it is shown that, amongst the algorithms considered here, heuristics based on maximum cardinality search and minimum fill-in perform best for solving the discrete optimization problems considered in this paper.

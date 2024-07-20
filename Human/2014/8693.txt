@@ -1,0 +1,7 @@
+Visibly Pushdown Modular Games
+
+Games on recursive game graphs can be used to reason about the control flow of sequential programs with recursion. In games over recursive game graphs, the most natural notion of strategy is the modular strategy, i.e., a strategy that is local to a module and is oblivious to previous module invocations, and thus does not depend on the context of invocation. In this work, we study for the first time modular strategies with respect to winning conditions that can be expressed by a pushdown automaton. 
+  We show that such games are undecidable in general, and become decidable for visibly pushdown automata specifications. 
+  Our solution relies on a reduction to modular games with finite-state automata winning conditions, which are known in the literature. 
+  We carefully characterize the computational complexity of the considered decision problem. In particular, we show that modular games with a universal Buchi or co Buchi visibly pushdown winning condition are EXPTIME-complete, and when the winning condition is given by a CARET or NWTL temporal logic formula the problem is 2EXPTIME-complete, and it remains 2EXPTIME-hard even for simple fragments of these logics.
+  As a further contribution, we present a different solution for modular games with finite-state automata winning condition that runs faster than known solutions for large specifications and many exits.

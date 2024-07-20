@@ -1,0 +1,3 @@
+Communication Lower Bounds for Distributed-Memory Computations
+
+We give lower bounds on the communication complexity required to solve several computational problems in a distributed-memory parallel machine, namely standard matrix multiplication, stencil computations, comparison sorting, and the Fast Fourier Transform. We revisit the assumptions under which preceding results were derived and provide new lower bounds which use much weaker and appropriate hypotheses. Our bounds rely on a mild assumption on work distribution, and strengthen previous results which require either the computation to be balanced among the processors, or specific initial distributions of the input data, or an upper bound on the size of processors' local memories.

@@ -1,0 +1,3 @@
+Vanishing point detection with convolutional neural networks
+
+Inspired by the finding that vanishing point (road tangent) guides driver's gaze, in our previous work we showed that vanishing point attracts gaze during free viewing of natural scenes as well as in visual search (Borji et al., Journal of Vision 2016). We have also introduced improved saliency models using vanishing point detectors (Feng et al., WACV 2016). Here, we aim to predict vanishing points in naturalistic environments by training convolutional neural networks in an end-to-end manner over a large set of road images downloaded from Youtube with vanishing points annotated. Results demonstrate effectiveness of our approach compared to classic approaches of vanishing point detection in the literature.

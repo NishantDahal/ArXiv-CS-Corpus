@@ -1,0 +1,3 @@
+Scattered packings of cycles
+
+We consider the problem Scattered Cycles which, given a graph $G$ and two positive integers $r$ and $\ell$, asks whether $G$ contains a collection of $r$ cycles that are pairwise at distance at least $\ell$. This problem generalizes the problem Disjoint Cycles which corresponds to the case $\ell = 1$. We prove that when parameterized by $r$, $\ell$, and the maximum degree $Δ$, the problem Scattered Cycles admits a kernel on $24 \ell^2 Δ^\ell r \log(8 \ell^2 Δ^\ell r)$ vertices. We also provide a $(16 \ell^2 Δ^\ell)$-kernel for the case $r=2$ and a $(148 Δr \log r)$-kernel for the case $\ell = 1$. Our proofs rely on two simple reduction rules and a careful analysis.

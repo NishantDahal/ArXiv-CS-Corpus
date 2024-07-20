@@ -1,0 +1,3 @@
+Android Inter-App Communication Threats, Solutions, and Challenges
+
+Researchers and commercial companies have made a lot of efforts on detecting malware in Android platform. However, a recent malware threat, App collusion, makes malware detection challenging. In App collusion, two or more Apps collaborate to perform malicious actions by communicating with each other, which makes single App analysis insufficient. In this paper, we first introduce Android security mechanism and communication channels used by android Applications. Then we summarize the security vulnerabilities and potential threats introduced by App communication. Finally, we discuss state of art researches and challenges on App collusion detection.

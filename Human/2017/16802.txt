@@ -1,0 +1,3 @@
+Multiresolution Priority Queues
+
+Priority queues are container data structures essential to many high performance computing (HPC) applications. In this paper, we introduce multiresolution priority queues, a data structure that improves the performance of the standard heap based implementations by trading off a controllable amount of resolution in the space of priorities. The new data structure can reduce the worst case performance of inserting an element from O(log(n)) to O(log(r)), where n is the number of elements in the queue and r is the number of resolution groups in the priority space. The worst case cost of removing the top element is O(1). When the number of elements in the table is high, the amortized cost to insert an element becomes O(1).

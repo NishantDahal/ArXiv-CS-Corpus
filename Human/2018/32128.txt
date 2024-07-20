@@ -1,0 +1,3 @@
+Coding for Computing Arbitrary Functions Unknown to the Encoder
+
+In this paper we consider point-to-point and distributed source coding problems where the receiver is only interested in a function of the data sent by the source encoder(s), while knowledge of the function remains unknown to the encoder(s). We find the rate region for these problems, and in particular, show that if the destination is interested in computing a non-bijective function then the rate region for the point-to-point source coding problem expands over the entropy, and the rate region over the distributed source coding problem expands over the Slepian-Wolf rate region. A novel proof technique, similar to random binning, is developed to prove these results.

@@ -1,0 +1,4 @@
+Data Poisoning Attacks against Online Learning
+
+We consider data poisoning attacks, a class of adversarial attacks on machine learning where an adversary has the power to alter a small fraction of the training data in order to make the trained classifier satisfy certain objectives. While there has been much prior work on data poisoning, most of it is in the offline setting, and attacks for online learning, where training data arrives in a streaming manner, are not well understood.
+  In this work, we initiate a systematic investigation of data poisoning attacks for online learning. We formalize the problem into two settings, and we propose a general attack strategy, formulated as an optimization problem, that applies to both with some modifications. We propose three solution strategies, and perform extensive experimental evaluation. Finally, we discuss the implications of our findings for building successful defenses.

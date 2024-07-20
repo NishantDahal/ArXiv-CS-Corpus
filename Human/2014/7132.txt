@@ -1,0 +1,3 @@
+On Coloring Resilient Graphs
+
+We introduce a new notion of resilience for constraint satisfaction problems, with the goal of more precisely determining the boundary between NP-hardness and the existence of efficient algorithms for resilient instances. In particular, we study $r$-resiliently $k$-colorable graphs, which are those $k$-colorable graphs that remain $k$-colorable even after the addition of any $r$ new edges. We prove lower bounds on the NP-hardness of coloring resiliently colorable graphs, and provide an algorithm that colors sufficiently resilient graphs. We also analyze the corresponding notion of resilience for $k$-SAT. This notion of resilience suggests an array of open questions for graph coloring and other combinatorial problems.

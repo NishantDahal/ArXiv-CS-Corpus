@@ -1,0 +1,3 @@
+On Sparsity by NUV-EM, Gaussian Message Passing, and Kalman Smoothing
+
+Normal priors with unknown variance (NUV) have long been known to promote sparsity and to blend well with parameter learning by expectation maximization (EM). In this paper, we advocate this approach for linear state space models for applications such as the estimation of impulsive signals, the detection of localized events, smoothing with occasional jumps in the state space, and the detection and removal of outliers. The actual computations boil down to multivariate-Gaussian message passing algorithms that are closely related to Kalman smoothing. We give improved tables of Gaussian-message computations from which such algorithms are easily synthesized, and we point out two preferred such algorithms.

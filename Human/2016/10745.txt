@@ -1,0 +1,3 @@
+Data as processes: introducing measurement data into CARMA models
+
+Measurement data provides a precise and detailed description of components within a complex system but it is rarely used directly as a component of a system model.  In this paper we introduce a model-based representation of measurement data and use it together with modeller-defined components expressed in the CARMA modelling language.  We assess both liveness and safety properties of these models with embedded data.

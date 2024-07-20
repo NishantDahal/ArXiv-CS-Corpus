@@ -1,0 +1,4 @@
+Fast, Responsive Decentralised Graph Colouring
+
+We solve, in a fully decentralised way (\ie with no message passing), the classic problem of colouring a graph. We propose a novel algorithm that is automatically responsive to topology changes, and we prove that it converges quickly to a proper colouring in $O(N\log{N})$ time with high probability for generic graphs (and in $O(\log{N})$ time if $Δ=O(1)$) when the number of available colours is greater than $Δ$, the maximum degree of the graph.
+  We believe the proof techniques used in this work are of independent interest and provide new insight into the properties required to ensure fast convergence of decentralised algorithms.

@@ -1,0 +1,4 @@
+Fast Concurrent Cuckoo Kick-Out Eviction Schemes for High-Density Tables
+
+Cuckoo hashing guarantees constant-time lookups regardless of table density, making it a viable candidate for high-density tables. Cuckoo hashing insertions perform poorly at high table densities, however. In this paper, we mitigate this problem through the introduction of novel kick-out eviction algorithms. Experimentally, our algorithms reduce the number of bins viewed per insertion for high-density tables by as much as a factor of ten.
+  We also introduce an optimistic concurrency scheme for transactional multi-writer cuckoo hash tables (not using hardware transactional memory). For delete-light workloads, one of our kick-out algorithms avoids all competition between insertions with high probability, and significantly reduces transaction-abort frequency. This result is extended to arbitrary workloads using a new synchronization mechanism called a claim flag.

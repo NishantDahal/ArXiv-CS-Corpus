@@ -1,0 +1,4 @@
+Illustrating the Mezzo programming language
+
+When programmers want to prove strong program invariants, they are usually faced with a choice between using theorem provers and using traditional programming languages. The former requires them to provide program proofs, which, for many applications, is considered a heavy burden. The latter provides less guarantees and the programmer usually has to write run-time assertions to compensate for the lack of suitable invariants expressible in the type system.
+  We introduce Mezzo, a programming language in the tradition of ML, in which the usual concept of a type is replaced by a more precise notion of a permission. Programs written in Mezzo usually enjoy stronger guarantees than programs written in pure ML. However, because Mezzo is based on a type system, the reasoning requires no user input. In this paper, we illustrate the key concepts of Mezzo, highlighting the static guarantees our language provides.

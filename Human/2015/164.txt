@@ -1,0 +1,6 @@
+A new Definition and Classification of Physical Unclonable Functions
+
+A new definition of "Physical Unclonable Functions" (PUFs), the first one that fully captures its intuitive idea among experts, is presented. A PUF is an information-storage system with a security mechanism that is
+  1. meant to impede the duplication of a precisely described storage-functionality in another, separate system and
+  2. remains effective against an attacker with temporary access to the whole original system.
+  A novel classification scheme of the security objectives and mechanisms of PUFs is proposed and its usefulness to aid future research and security evaluation is demonstrated. One class of PUF security mechanisms that prevents an attacker to apply all addresses at which secrets are stored in the information-storage system, is shown to be closely analogous to cryptographic encryption. Its development marks the dawn of a new fundamental primitive of hardware-security engineering: cryptostorage. These results firmly establish PUFs as a fundamental concept of hardware security.

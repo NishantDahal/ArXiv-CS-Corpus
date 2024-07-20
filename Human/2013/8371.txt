@@ -1,0 +1,3 @@
+Drawing Planar Graphs with a Prescribed Inner Face
+
+Given a plane graph $G$ (i.e., a planar graph with a fixed planar embedding) and a simple cycle $C$ in $G$ whose vertices are mapped to a convex polygon, we consider the question whether this drawing can be extended to a planar straight-line drawing of $G$. We characterize when this is possible in terms of simple necessary conditions, which we prove to be sufficient. This also leads to a linear-time testing algorithm. If a drawing extension exists, it can be computed in the same running time.

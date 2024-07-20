@@ -1,0 +1,4 @@
+Classification of Point Cloud Scenes with Multiscale Voxel Deep Network
+
+In this article we describe a new convolutional neural network (CNN) to classify 3D point clouds of urban or indoor scenes. Solutions are given to the problems encountered working on scene point clouds, and a network is described that allows for point classification using only the position of points in a multi-scale neighborhood.
+  On the reduced-8 Semantic3D benchmark [Hackel et al., 2017], this network, ranked second, beats the state of the art of point classification methods (those not using a regularization step).

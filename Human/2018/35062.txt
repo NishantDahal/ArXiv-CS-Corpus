@@ -1,0 +1,3 @@
+Total 2-domination of proper interval graphs
+
+A set of vertices $W$ of a graph $G$ is a total $k$-dominating set when every vertex of $G$ has at least $k$ neighbors in $W$. In a recent article, Chiarelli et al.\ (Improved Algorithms for $k$-Domination and Total $k$-Domination in Proper Interval Graphs, Lecture Notes in Comput.\ Sci.\ 10856, 290--302, 2018) prove that a total $k$-dominating set can be computed in $O(n^{3k})$ time when $G$ is a proper interval graph with $n$ vertices and $m$ edges. In this note we reduce the time complexity to $O(m)$ for $k=2$.

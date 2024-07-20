@@ -1,0 +1,3 @@
+Approximate Distance Oracle with Constant Query Time
+
+An approximate distance oracle is a succinct data structure that provides fast answers to distance queries between any two nodes. In this paper we consider approximate distance oracles for general undirected graphs with non-negative edge weights with constant query time. We present a distance oracle of size O(k n^{1+1/k}), with 2k-1 stretch and O(1) query time. This improves the O(log{k}) query time of Wulff-Nilsen's distance oracle [SODA '13], which in turn improved the O(k) query time of Thorup and Zwick's distance oracle [J. ACM '05].

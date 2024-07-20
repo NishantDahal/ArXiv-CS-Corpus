@@ -1,0 +1,3 @@
+Odd K_3,3 subdivisions in bipartite graphs
+
+We prove that every internally 4-connected non-planar bipartite graph has an odd K_3,3 subdivision; that is, a subgraph obtained from K_3,3 by replacing its edges by internally disjoint odd paths with the same ends. The proof gives rise to a polynomial-time algorithm to find such a subdivision. (A bipartite graph G is internally 4-connected if it is 3-connected, has at least five vertices, and there is no partition (A,B,C) of V(G) such that |A|,|B|>1, |C|=3 and G has no edge with one end in A and the other in B.)

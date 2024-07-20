@@ -1,0 +1,3 @@
+On Coupled Logical Bisimulation for the Lambda-Calculus
+
+We study coupled logical bisimulation (CLB) to reason about contextual equivalence in the lambda-calculus. CLB originates in a work by Dal Lago, Sangiorgi and Alberti, as a tool to reason about a lambda-calculus with probabilistic constructs. We adapt the original definition to the pure lambda-calculus. We develop the metatheory of CLB in call-by-name and in call-by-value, and draw comparisons with applicative bisimulation (due to Abramsky) and logical bisimulation (due to Sangiorgi, Kobayashi and Sumii). We also study enhancements of the bisimulation method for CLB by developing a theory of up-to techniques for cases where the functional corresponding to bisimulation is not necessarily monotone.

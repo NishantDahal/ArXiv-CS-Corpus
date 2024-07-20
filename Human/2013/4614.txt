@@ -1,0 +1,6 @@
+Separating OR, SUM, and XOR Circuits
+
+Given a boolean n by n matrix A we consider arithmetic circuits for computing the transformation x->Ax over different semirings. Namely, we study three circuit models: monotone OR-circuits, monotone SUM-circuits (addition of non-negative integers), and non-monotone XOR-circuits (addition modulo 2). Our focus is on \emph{separating} these models in terms of their circuit complexities. We give three results towards this goal:
+  (1) We prove a direct sum type theorem on the monotone complexity of tensor product matrices. As a corollary, we obtain matrices that admit OR-circuits of size O(n), but require SUM-circuits of size Ω(n^{3/2}/\log^2n).
+  (2) We construct so-called \emph{k-uniform} matrices that admit XOR-circuits of size O(n), but require OR-circuits of size Ω(n^2/\log^2n).
+  (3) We consider the task of \emph{rewriting} a given OR-circuit as a XOR-circuit and prove that any subquadratic-time algorithm for this task violates the strong exponential time hypothesis.

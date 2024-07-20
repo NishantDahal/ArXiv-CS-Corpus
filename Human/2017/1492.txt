@@ -1,0 +1,4 @@
+Online purchasing under uncertainty
+
+Suppose there is a collection $x_1,x_2,\dots,x_N$ of independent uniform $[0,1]$ random variables, and a hypergraph $\cF$ of \emph{target structures} on the vertex set $\{1,\dots,N\}$. We would like to buy a target structure at small cost, but we do not know all the costs $x_i$ ahead of time. Instead, we inspect the random variables $x_i$ one at a time, and after each inspection, choose to either keep the vertex $i$ at cost $x_i$, or reject vertex $i$ forever.
+  In the present paper, we consider the case where $\{1,\dots,N\}$ is the edge-set of some graph, and the target structures are the spanning trees of a graph, spanning arborescences of a digraph, the paths between a fixed pair of vertices, perfect matchings, Hamilton cycles or the cliques of some fixed size.

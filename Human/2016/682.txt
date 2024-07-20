@@ -1,0 +1,3 @@
+An Application-Level Dependable Technique for Farmer-Worker Parallel Programs
+
+An application-level technique is described for farmer-worker parallel applications which allows a worker to be added or removed from the computing farm at any moment of the run time without affecting the overall outcome of the computation. The technique is based on uncoupling the farmer from the workers by means of a separate module which asynchronously feeds these latter with new "units of work" on an on-demand basis, and on a special feeding strategy based on bookkeeping the status of each work-unit. An augmentation of the LINDA model is finally proposed to exploit the bookkeeping algorithm for tuple management.

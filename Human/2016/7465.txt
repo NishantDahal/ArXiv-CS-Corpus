@@ -1,0 +1,3 @@
+A practical attack to Bouftass's cryptosystem
+
+Recently, a new fast public key exchange protocol was presented by S. Bouftass. The protocol is based on the difficulty of inverting the function $F(x)=\lfloor (zx \mod 2^p)/ 2^q \rfloor$. In this paper, we describe a practical attack against this protocol based on Closest Vector Problem (CVP) and Gaussian lattice reduction.

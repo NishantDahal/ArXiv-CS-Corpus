@@ -1,0 +1,3 @@
+Online network coding for optimal throughput and delay -- the three-receiver case
+
+For a packet erasure broadcast channel with three receivers, we propose a new coding algorithm that makes use of feedback to dynamically adapt the code. Our algorithm is throughput optimal, and we conjecture that it also achieves an asymptotically optimal average decoding delay at the receivers. We consider heavy traffic asymptotics, where the load factor ρapproaches 1 from below with either the arrival rate (λ) or the channel parameter (μ) being fixed at a number less than 1. We verify through simulations that our algorithm achieves an asymptotically optimal decoding delay of O(1/(1-ρ)).

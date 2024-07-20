@@ -1,0 +1,3 @@
+An Experimental Comparison of SONC and SOS Certificates for Unconstrained Optimization
+
+Finding the minimum of a multivariate real polynomial is a well-known hard problem with various applications. We present a polynomial time algorithm to approximate such lower bounds via sums of nonnegative circuit polynomials (SONC). As a main result, we carry out the first large-scale comparison of SONC, using this algorithm and different geometric programming (GP) solvers, with the classical sums of squares (SOS) approach, using several of the most common semidefinite programming (SDP) solvers. SONC yields bounds competitive to SOS in several cases, but using significantly less time and memory. In particular, SONC/GP can handle much larger problem instances than SOS/SDP.

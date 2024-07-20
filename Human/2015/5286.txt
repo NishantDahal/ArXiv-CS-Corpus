@@ -1,0 +1,4 @@
+Subdivision into i-packings and S-packing chromatic number of some lattices
+
+An $i$-packing in a graph $G$ is a set of vertices at pairwise distance greater than $i$. For a nondecreasing sequence of integers $S=(s\_{1},s\_{2},\ldots)$, the $S$-packing chromatic number of a graph $G$ is the least integer $k$ such that there exists a coloring of $G$ into $k$ colors where each set of vertices colored $i$, $i=1,\ldots, k$, is an $s\_i$-packing.
+This paper describes various subdivisions of an $i$-packing into $j$-packings ($j\textgreater{}i$) for the hexagonal, square and triangular lattices. These results allow us to bound the $S$-packing chromatic number for these graphs, with more precise bounds and exact values for sequences $S=(s\_{i}, i\in\mathbb{N}^{*})$, $s\_{i}=d+ \lfloor (i-1)/n \rfloor$.

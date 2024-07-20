@@ -1,0 +1,3 @@
+JExtract: An Eclipse Plug-in for Recommending Automated Extract Method Refactorings
+
+Although Extract Method is a key refactoring for improving program comprehension, refactoring tools for such purpose are often underused. To address this shortcoming, we present JExtract, a recommendation system based on structural similarity that identifies Extract Method refactoring opportunities that are directly automated by IDE-based refactoring tools. Our evaluation suggests that JExtract is far more effective (w.r.t. recall and precision) to identify misplaced code in methods than JDeodorant, a state-of-the-art tool

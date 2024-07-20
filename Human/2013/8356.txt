@@ -1,0 +1,3 @@
+Hidden Parameter Markov Decision Processes: A Semiparametric Regression Approach for Discovering Latent Task Parametrizations
+
+Control applications often feature tasks with similar, but not identical, dynamics. We introduce the Hidden Parameter Markov Decision Process (HiP-MDP), a framework that parametrizes a family of related dynamical systems with a low-dimensional set of latent factors, and introduce a semiparametric regression approach for learning its structure from data. In the control setting, we show that a learned HiP-MDP rapidly identifies the dynamics of a new task instance, allowing an agent to flexibly adapt to task variations.

@@ -1,0 +1,4 @@
+Fast Cut-Elimination using Proof Terms: An Empirical Study
+
+Urban and Bierman introduced a calculus of proof terms for the sequent  calculus LK with a strongly normalizing reduction relation. We extend this calculus to simply-typed higher-order logic with inferences for induction and equality, albeit without strong normalization. We implement thiscalculus in GAPT, our library for proof transformations. Evaluating the normalization on both artificial and real-world benchmarks, we show that this algorithm is typically  several orders of magnitude faster than the existing Gentzen-like cut-reduction, and an order  of magnitude faster than any other cut-elimination procedure implemented in GAPT.
+

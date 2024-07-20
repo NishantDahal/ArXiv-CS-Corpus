@@ -1,0 +1,3 @@
+An efficient CNN for spectral reconstruction from RGB images
+
+Recently, the example-based single image spectral reconstruction from RGB images task, aka, spectral super-resolution was approached by means of deep learning by Galliani et al. The proposed very deep convolutional neural network (CNN) achieved superior performance on recent large benchmarks. However, Aeschbacher et al showed that comparable performance can be achieved by shallow learning method based on A+, a method introduced for image super-resolution by Timofte et al. In this paper, we propose a moderately deep CNN model and substantially improve the reported performance on three spectral reconstruction standard benchmarks: ICVL, CAVE, and NUS.

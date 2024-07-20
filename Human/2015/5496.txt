@@ -1,0 +1,4 @@
+Five-list-coloring graphs on surfaces II. A linear bound for critical graphs in a disk
+
+Let $G$ be a plane graph with outer cycle $C$ and let $(L(v):v\in V(G))$ be a family of sets such that $|L(v)|\ge 5$ for every $v\in V(G)$. By an $L$-coloring of a subgraph $J$ of $G$ we mean a (proper) coloring $φ$ of $J$ such that $φ(v)\in L(v)$ for every vertex $v$ of $J$. We prove a conjecture of Dvorak et al. that if $H$ is a minimal subgraph of $G$ such that $C$ is a subgraph of $H$ and every $L$-coloring of $C$ that extends to an $L$-coloring of $H$ also extends to an $L$-coloring of $G$, then $|V(H)|\le 19|V(C)|$.
+  This is a lemma that plays an important role in subsequent papers, because it motivates the study of graphs embedded in surfaces that satisfy an isoperimetric inequality suggested by this result. Such study turned out to be quite profitable for the subject of list coloring graphs on surfaces.

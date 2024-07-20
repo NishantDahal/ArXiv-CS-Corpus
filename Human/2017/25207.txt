@@ -1,0 +1,3 @@
+An MPI-Based Python Framework for Distributed Training with Keras
+
+We present a lightweight Python framework for distributed training of neural networks on multiple GPUs or CPUs. The framework is built on the popular Keras machine learning library. The Message Passing Interface (MPI) protocol is used to coordinate the training process, and the system is well suited for job submission at supercomputing sites. We detail the software's features, describe its use, and demonstrate its performance on systems of varying sizes on a benchmark problem drawn from high-energy physics research.

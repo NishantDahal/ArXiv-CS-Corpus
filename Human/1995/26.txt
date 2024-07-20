@@ -1,0 +1,3 @@
+Deterministic Consistency Checking of LP Constraints
+
+We provide a constraint based computational model of linear precedence as employed in the HPSG grammar formalism. An extended feature logic which adds a wide range of constraints involving precedence is described. A sound, complete and terminating deterministic constraint solving procedure is given. Deterministic computational model is achieved by weakening the logic such that it is sufficient for linguistic applications involving word-order.

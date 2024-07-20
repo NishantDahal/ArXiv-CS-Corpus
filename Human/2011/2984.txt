@@ -1,0 +1,3 @@
+Learning to Coordinate Efficiently: A Model-based Approach
+
+In common-interest stochastic games all players receive an identical payoff. Players participating in such games must learn to coordinate with each other in order to receive the highest-possible value. A number of reinforcement learning algorithms have been proposed for this problem, and some have been shown to converge to good solutions in the limit. In this paper we show that using very simple model-based algorithms, much better (i.e., polynomial) convergence rates can be attained. Moreover, our model-based algorithms are guaranteed to converge to the optimal value, unlike many of the existing algorithms.

@@ -1,0 +1,7 @@
+Quasi-polynomial Hitting Sets for Circuits with Restricted Parse Trees
+
+We study the class of non-commutative Unambiguous circuits or Unique-Parse-Tree (UPT) circuits, and a related model of Few-Parse-Trees (FewPT) circuits (which were recently introduced by Lagarde, Malod and Perifel [LMP16] and Lagarde, Limaye and Srinivasan [LLS17]) and give the following constructions:
+  (1) An explicit hitting set of quasipolynomial size for UPT circuits,
+  (2) An explicit hitting set of quasipolynomial size for FewPT circuits (circuits with constantly many parse tree shapes),
+  (3) An explicit hitting set of polynomial size for UPT circuits (of known parse tree shape), when a parameter of preimage-width is bounded by a constant.
+  The above three results are extensions of the results of [AGKS15], [GKST15] and [GKS16] to the setting of UPT circuits, and hence also generalize their results in the commutative world from read-once oblivious algebraic branching programs (ROABPs) to UPT-set-multilinear circuits. The main idea is to study shufflings of non-commutative polynomials, which can then be used to prove suitable depth reduction results for UPT circuits and thereby allow a careful translation of the ideas in [AGKS15], [GKST15] and [GKS16].

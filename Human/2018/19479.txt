@@ -1,0 +1,3 @@
+Lidar Cloud Detection with Fully Convolutional Networks
+
+In this contribution, we present a novel approach for segmenting laser radar (lidar) imagery into geometric time-height cloud locations with a fully convolutional network (FCN). We describe a semi-supervised learning method to train the FCN by: pre-training the classification layers of the FCN with image-level annotations, pre-training the entire FCN with the cloud locations of the MPLCMASK cloud mask algorithm, and fully supervised learning with hand-labeled cloud locations. We show the model achieves higher levels of cloud identification compared to the cloud mask algorithm implementation.

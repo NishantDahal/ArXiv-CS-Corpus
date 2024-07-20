@@ -1,0 +1,3 @@
+Deep Active Learning over the Long Tail
+
+This paper is concerned with pool-based active learning for deep neural networks. Motivated by coreset dataset compression ideas, we present a novel active learning algorithm that queries consecutive points from the pool using farthest-first traversals in the space of neural activation over a representation layer. We show consistent and overwhelming improvement in sample complexity over passive learning (random sampling) for three datasets: MNIST, CIFAR-10, and CIFAR-100. In addition, our algorithm outperforms the traditional uncertainty sampling technique (obtained using softmax activations), and we identify cases where uncertainty sampling is only slightly better than random sampling.

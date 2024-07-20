@@ -1,0 +1,3 @@
+Diagnostic reasoning with A-Prolog
+
+In this paper we suggest an architecture for a software agent which operates a physical device and is capable of making observations and of testing and repairing the device's components. We present simplified definitions of the notions of symptom, candidate diagnosis, and diagnosis which are based on the theory of action language ${\cal AL}$. The definitions allow one to give a simple account of the agent's behavior in which many of the agent's tasks are reduced to computing stable models of logic programs.

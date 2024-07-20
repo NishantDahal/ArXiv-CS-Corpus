@@ -1,0 +1,3 @@
+Parameterized Tractability of the Maximum-Duo Preservation String Mapping Problem
+
+In this paper we investigate the parameterized complexity of the Maximum-Duo Preservation String Mapping Problem, the complementary of the Minimum Common String Partition Problem. We show that this problem is fixed-parameter tractable when parameterized by the number k of conserved duos, by first giving a parameterized algorithm based on the color-coding technique and then presenting a reduction to a kernel of size O(k^6 ).

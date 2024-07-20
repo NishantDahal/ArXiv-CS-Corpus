@@ -1,0 +1,3 @@
+Modified Binary Search Algorithm
+
+This paper proposes a modification to the traditional binary search algorithm in which it checks the presence of the input element with the middle element of the given set of elements at each iteration. Modified binary search algorithm optimizes the worst case of the binary search algorithm by comparing the input element with the first & last element of the data set along with the middle element and also checks the input number belongs to the range of numbers present in the given data set at each iteration there by reducing the time taken by the worst cases of binary search algorithm.

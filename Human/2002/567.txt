@@ -1,0 +1,3 @@
+First-order Logic as a Constraint Programming Language
+
+We provide a denotational semantics for first-order logic that captures the two-level view of the computation process typical for constraint programming. At one level we have the usual program execution. At the other level an automatic maintenance of the constraint store takes place. We prove that the resulting semantics is sound with respect to the truth definition. By instantiating it by specific forms of constraint management policies we obtain several sound evaluation policies of first-order formulas. This semantics can also be used a basis for sound implementation of constraint maintenance in presence of block declarations and conditionals.

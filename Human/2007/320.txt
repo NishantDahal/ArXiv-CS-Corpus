@@ -1,0 +1,3 @@
+On numerical stability of recursive present value computation method
+
+We analyze numerical stability of a recursive computation scheme of present value (PV) amd show that the absolute error increases exponentially for positive discount rates. We show that reversing the direction of calculations in the recurrence equation yields a robust PV computation routine.

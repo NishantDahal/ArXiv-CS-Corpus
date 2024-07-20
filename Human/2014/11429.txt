@@ -1,0 +1,3 @@
+Communicating Lists Over a Noisy Channel
+
+This work considers a communication scenario where the transmitter chooses a list of size K from a total of M messages to send over a noisy communication channel, the receiver generates a list of size L and communication is considered successful if the intersection of the lists at two terminals has cardinality greater than a threshold T. In traditional communication systems K=L=T=1. The fundamental limits of this setup in terms of K, L, T and the Shannon capacity of the channel between the terminals are examined. Specifically, necessary and/or sufficient conditions for asymptotically error free communication are provided.

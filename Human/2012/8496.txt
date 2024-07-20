@@ -1,0 +1,3 @@
+Budget Optimization for Sponsored Search: Censored Learning in MDPs
+
+We consider the budget optimization problem faced by an advertiser participating in repeated sponsored search auctions, seeking to maximize the number of clicks attained under that budget. We cast the budget optimization problem as a Markov Decision Process (MDP) with censored observations, and propose a learning algorithm based on the wellknown Kaplan-Meier or product-limit estimator. We validate the performance of this algorithm by comparing it to several others on a large set of search auction data from Microsoft adCenter, demonstrating fast convergence to optimal performance.

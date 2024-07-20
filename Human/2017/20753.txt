@@ -1,0 +1,3 @@
+Abductive functional programming, a semantic approach
+
+We propose a call-by-value lambda calculus extended with a new construct inspired by abductive inference and motivated by the programming idioms of machine learning. Although syntactically simple the abductive construct has a complex and subtle operational semantics which we express using a style based on the Geometry of Interaction. We show that the calculus is sound, in the sense that well typed programs terminate normally. We also give a visual implementation of the semantics which relies on additional garbage collection rules, which we also prove sound.

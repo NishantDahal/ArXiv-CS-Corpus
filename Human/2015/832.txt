@@ -1,0 +1,3 @@
+How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys
+
+ECDSA has become a popular choice as lightweight alternative to RSA and classic DL based signature algorithms in recent years. As standardized, the signature produced by ECDSA for a pair of a message and a key is not deterministic. This work shows how this non-deterministic choice can be exploited by an attacker to leak private information through the signature without any side channels, an attack first discovered by Young and Yung for classic DL-based cryptosystems in 1997, and how this attack affects the application of ECDSA in the Bitcoin protocol.

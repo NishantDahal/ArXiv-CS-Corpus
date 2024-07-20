@@ -1,0 +1,5 @@
+Generating Cycloidal Gears for 3D Printing
+
+(Shortened version of abstract in article itself)
+  This article describes an algorithm for producing, for any desired resolution and any desired numbers of wheel and pinion teeth, polygonal approximations to the shapes of a pair of cycloidal gears that mesh correctly. An Octave implementation of the algorithm, mostly written in 2014, is included. The Octave implementation contains a (crude, but evidently adequate, at least for reasonable numbers of wheel and pinion teeth) solution of the problem of iteratively finding the generating wheel angle corresponding to the tips of the tooth addenda.
+  However, this Octave implementation does not contain a good solution to the problem of automatically determining the generating wheel angles required to produce a polygon which approximates the curved addenda to a resolution specified by the user. A proposed better solution to this problem, involving a priority queue, is discussed.

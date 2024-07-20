@@ -1,0 +1,3 @@
+SARN: Relational Reasoning through Sequential Attention
+
+This paper proposes an attention module augmented relational network called SARN(Sequential Attention Relational Network) that can carry out relational reasoning by extracting reference objects and making efficient pairing between objects. SARN greatly reduces the computational and memory requirements of the relational network, which computes all object pairs. It also shows high accuracy on the Sort-of-CLEVR dataset compared to other models, especially on relational questions.

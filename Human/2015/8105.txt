@@ -1,0 +1,3 @@
+Distributed Mini-Batch SDCA
+
+We present an improved analysis of mini-batched stochastic dual coordinate ascent for regularized empirical loss minimization (i.e. SVM and SVM-type objectives). Our analysis allows for flexible sampling schemes, including where data is distribute across machines, and combines a dependence on the smoothness of the loss and/or the data spread (measured through the spectral norm).

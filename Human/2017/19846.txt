@@ -1,0 +1,3 @@
+Generative Adversarial Source Separation
+
+Generative source separation methods such as non-negative matrix factorization (NMF) or auto-encoders, rely on the assumption of an output probability density. Generative Adversarial Networks (GANs) can learn data distributions without needing a parametric assumption on the output density. We show on a speech source separation experiment that, a multi-layer perceptron trained with a Wasserstein-GAN formulation outperforms NMF, auto-encoders trained with maximum likelihood, and variational auto-encoders in terms of source to distortion ratio.

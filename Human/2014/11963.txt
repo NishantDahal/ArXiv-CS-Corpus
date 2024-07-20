@@ -1,0 +1,3 @@
+Mining Maximal Cliques from an Uncertain Graph
+
+We consider mining dense substructures (maximal cliques) from an uncertain graph, which is a probability distribution on a set of deterministic graphs. For parameter 0 < α < 1, we present a precise definition of an α-maximal clique in an uncertain graph. We present matching upper and lower bounds on the number of α-maximal cliques possible within an uncertain graph. We present an algorithm to enumerate α-maximal cliques in an uncertain graph whose worst-case runtime is near-optimal, and an experimental evaluation showing the practical utility of the algorithm.

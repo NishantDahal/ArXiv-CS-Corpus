@@ -1,0 +1,3 @@
+Deep Neural Networks for Survival Analysis Based on a Multi-Task Framework
+
+Survival analysis/time-to-event models are extremely useful as they can help companies predict when a customer will buy a product, churn or default on a loan, and therefore help them improve their ROI. In this paper, we introduce a new method to calculate survival functions using the Multi-Task Logistic Regression (MTLR) model as its base and a deep learning architecture as its core. Based on the Concordance index (C-index) and Brier score, this method outperforms the MTLR in all the experiments disclosed in this paper as well as the Cox Proportional Hazard (CoxPH) model when nonlinear dependencies are found.

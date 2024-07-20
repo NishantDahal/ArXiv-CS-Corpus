@@ -1,0 +1,3 @@
+Computational interpretation of classical logic with explicit structural rules
+
+We present a calculus providing a Curry-Howard correspondence to classical logic represented in the sequent calculus with explicit structural rules, namely weakening and contraction. These structural rules introduce explicit erasure and duplication of terms, respectively. We present a type system for which we prove the type-preservation under reduction. A mutual relation with classical calculus featuring implicit structural rules has been studied in detail. From this analysis we derive strong normalisation property.

@@ -1,0 +1,3 @@
+Bayesian Hypothesis Testing for Block Sparse Signal Recovery
+
+This letter presents a novel Block Bayesian Hypothesis Testing Algorithm (Block-BHTA) for reconstructing block sparse signals with unknown block structures. The Block-BHTA comprises the detection and recovery of the supports, and the estimation of the amplitudes of the block sparse signal. The support detection and recovery is performed using a Bayesian hypothesis testing. Then, based on the detected and reconstructed supports, the nonzero amplitudes are estimated by linear MMSE. The effectiveness of Block-BHTA is demonstrated by numerical experiments.

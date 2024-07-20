@@ -1,0 +1,3 @@
+Applying Part-of-Seech Enhanced LSA to Automatic Essay Grading
+
+Latent Semantic Analysis (LSA) is a widely used Information Retrieval method based on "bag-of-words" assumption. However, according to general conception, syntax plays a role in representing meaning of sentences. Thus, enhancing LSA with part-of-speech (POS) information to capture the context of word occurrences appears to be theoretically feasible extension. The approach is tested empirically on a automatic essay grading system using LSA for document similarity comparisons. A comparison on several POS-enhanced LSA models is reported. Our findings show that the addition of contextual information in the form of POS tags can raise the accuracy of the LSA-based scoring models up to 10.77 per cent.

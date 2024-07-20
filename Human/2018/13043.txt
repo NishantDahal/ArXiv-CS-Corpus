@@ -1,0 +1,5 @@
+A new hierarchy for automaton semigroups
+
+We define a new strict and computable hierarchy for the family of automaton semigroups, which reflects the various asymptotic behaviors of the state-activity growth. This hierarchy extends that given by Sidki for automaton groups, and also gives new insights into the latter. Its exponential part coincides with a notion of entropy for some associated automata.
+  We prove that the Order Problem is decidable when the state-activity is bounded. The Order Problem remains open for the next level of this hierarchy, that is, when the state-activity is linear. Gillibert showed that it is undecidable in the whole family.
+  The former results are implemented and will be available in the GAP package FR developed by the first author.

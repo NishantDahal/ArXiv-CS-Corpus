@@ -1,0 +1,3 @@
+Stable Geodesic Update on Hyperbolic Space and its Application to Poincare Embeddings
+
+A hyperbolic space has been shown to be more capable of modeling complex networks than a Euclidean space. This paper proposes an explicit update rule along geodesics in a hyperbolic space. The convergence of our algorithm is theoretically guaranteed, and the convergence rate is better than the conventional Euclidean gradient descent algorithm. Moreover, our algorithm avoids the "bias" problem of existing methods using the Riemannian gradient. Experimental results demonstrate the good performance of our algorithm in the \Poincare embeddings of knowledge base data.

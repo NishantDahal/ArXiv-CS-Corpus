@@ -1,0 +1,3 @@
+Object Recognition Based on Amounts of Unlabeled Data
+
+This paper proposes a novel semi-supervised method on object recognition. First, based on Boost Picking, a universal algorithm, Boost Picking Teaching (BPT), is proposed to train an effective binary-classifier just using a few labeled data and amounts of unlabeled data. Then, an ensemble strategy is detailed to synthesize multiple BPT-trained binary-classifiers to be a high-performance multi-classifier. The rationality of the strategy is also analyzed in theory. Finally, the proposed method is tested on two databases, CIFAR-10 and CIFAR-100. Using 2% labeled data and 98% unlabeled data, the accuracies of the proposed method on the two data sets are 78.39% and 50.77% respectively.

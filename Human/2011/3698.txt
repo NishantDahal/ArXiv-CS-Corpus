@@ -1,0 +1,3 @@
+Oblivious RAM Simulation with Efficient Worst-Case Access Overhead
+
+Oblivious RAM simulation is a method for achieving confidentiality and privacy in cloud computing environments. It involves obscuring the access patterns to a remote storage so that the manager of that storage cannot infer information about its contents. Existing solutions typically involve small amortized overheads for achieving this goal, but nevertheless involve potentially huge variations in access times, depending on when they occur. In this paper, we show how to de-amortize oblivious RAM simulations, so that each access takes a worst-case bounded amount of time.

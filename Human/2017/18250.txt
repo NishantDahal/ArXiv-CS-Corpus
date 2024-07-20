@@ -1,0 +1,3 @@
+Certified Non-Confluence with ConCon 1.5
+
+We present three methods to check CTRSs for non-confluence: (1) an ad hoc method for 4-CTRSs, (2) a specialized method for unconditional critical pairs, and finally, (3) a method that employs conditional narrowing to find non-confluence witnesses. We shortly describe our implementation of these methods in ConCon, then look into their certification with CeTA, and finally conclude with experiments on the confluence problems database (Cops).

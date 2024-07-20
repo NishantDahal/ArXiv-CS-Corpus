@@ -1,0 +1,3 @@
+Stochastic Recursive Gradient Algorithm for Nonconvex Optimization
+
+In this paper, we study and analyze the mini-batch version of StochAstic Recursive grAdient algoritHm (SARAH), a method employing the stochastic recursive gradient, for solving empirical loss minimization for the case of nonconvex losses. We provide a sublinear convergence rate (to stationary points) for general nonconvex functions and a linear convergence rate for gradient dominated functions, both of which have some advantages compared to other modern stochastic gradient algorithms for nonconvex losses.

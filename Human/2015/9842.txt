@@ -1,0 +1,3 @@
+An Information-Theoretic Measure of Dependency Among Variables in Large Datasets
+
+The maximal information coefficient (MIC), which measures the amount of dependence between two variables, is able to detect both linear and non-linear associations. However, computational cost grows rapidly as a function of the dataset size. In this paper, we develop a computationally efficient approximation to the MIC that replaces its dynamic programming step with a much simpler technique based on the uniform partitioning of data grid. A variety of experiments demonstrate the quality of our approximation.

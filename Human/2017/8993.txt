@@ -1,0 +1,3 @@
+Learning Probabilistic Programs Using Backpropagation
+
+Probabilistic modeling enables combining domain knowledge with learning from data, thereby supporting learning from fewer training instances than purely data-driven methods. However, learning probabilistic models is difficult and has not achieved the level of performance of methods such as deep neural networks on many tasks. In this paper, we attempt to address this issue by presenting a method for learning the parameters of a probabilistic program using backpropagation. Our approach opens the possibility to building deep probabilistic programming models that are trained in a similar way to neural networks.

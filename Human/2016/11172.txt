@@ -1,0 +1,3 @@
+On a Hypergraph Approach to Multistage Group Testing Problems
+
+Group testing is a well known search problem that consists in detecting up to $s$ defective elements of the set $[t]=\{1,\ldots,t\}$ by carrying out tests on properly chosen subsets of $[t]$. In classical group testing the goal is to find all defective elements by using the minimal possible number of tests. In this paper we consider multistage group testing. We propose a general idea how to use a hypergraph approach to searching defects. For the case $s=2$, we design an explicit construction, which makes use of $2\log_2t(1+o(1))$ tests in the worst case and consists of $4$ stages.

@@ -1,0 +1,4 @@
+Maximal and maximum transitive relation contained in a given binary relation
+
+We study the problem of finding a \textit{maximal} transitive relation contained in a given binary relation. Given a binary relation of size $m$ defined on a set of size $n$, we present a polynomial time algorithm that finds a maximal transitive sub-relation in time $O(n^2 + nm)$.
+  We also study the problem of finding a \textit{maximum} transitive relation contained in a binary relation. This is the problem of computing a maximum transitive subgraph in a given digraph. For the class of directed graphs with the underlying graph being triangle-free, we present a $0.874$-approximation algorithm. This is achieved via a simple connection to the problem of maximum directed cut. Further, we give an upper bound for the size of any maximum transitive relation to be $m/4 + cm^{4/5}$, where $c > 0$ and $m$ is the number of edges in the digraph.

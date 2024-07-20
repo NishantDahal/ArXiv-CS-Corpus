@@ -1,0 +1,3 @@
+Non-FPT lower bounds for structural restrictions of decision DNNF
+
+We give a non-FPT lower bound on the size of structured decision DNNF and OBDD with decomposable AND-nodes representing CNF-formulas of bounded incidence treewidth. Both models are known to be of FPT size for CNFs of bounded primal treewidth. To the best of our knowledge this is the first parameterized separation of primal treewidth and incidence treewidth for knowledge compilation models.

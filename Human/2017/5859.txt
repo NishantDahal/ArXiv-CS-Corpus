@@ -1,0 +1,3 @@
+Program Logics for Homogeneous Generative Run-Time Meta-Programming
+
+This paper provides the first program logic for homogeneous generative run-time meta-programming---using a variant of MiniML by Davies and Pfenning as its underlying meta-programming language. We show the applicability of our approach by reasoning about example meta-programs from the literature. We also demonstrate that our logics are relatively complete in the sense of Cook, enable the inductive derivation of characteristic formulae, and exactly capture the observational properties induced by the operational semantics.

@@ -1,0 +1,3 @@
+Multi-Threading And Message Communication In Qu-Prolog
+
+This paper presents the multi-threading and internet message communication capabilities of Qu-Prolog. Message addresses are symbolic and the communications package provides high-level support that completely hides details of IP addresses and port numbers as well as the underlying TCP/IP transport layer. The combination of the multi-threads and the high level inter-thread message communications provide simple, powerful support for implementing internet distributed intelligent applications.

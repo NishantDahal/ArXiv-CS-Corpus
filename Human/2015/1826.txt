@@ -1,0 +1,4 @@
+Dear CAV, We Need to Talk About Reproducibility
+
+How many times have you tried to re-implement a past CAV tool paper, and failed?
+  Reliably reproducing published scientific discoveries has been acknowledged as a barrier to scientific progress for some time but there remains only a small subset of software available to support the specific needs of the research community (i.e. beyond generic tools such as source code repositories). In this paper we propose an infrastructure for enabling reproducibility in our community, by automating the build, unit testing and benchmarking of research software.

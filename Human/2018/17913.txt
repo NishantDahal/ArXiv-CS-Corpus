@@ -1,0 +1,3 @@
+Analyzing Hypersensitive AI: Instability in Corporate-Scale Machine Learning
+
+Predictive geometric models deliver excellent results for many Machine Learning use cases. Despite their undoubted performance, neural predictive algorithms can show unexpected degrees of instability and variance, particularly when applied to large datasets. We present an approach to measure changes in geometric models with respect to both output consistency and topological stability. Considering the example of a recommender system using word2vec, we analyze the influence of single data points, approximation methods and parameter settings. Our findings can help to stabilize models where needed and to detect differences in informational value of data points on a large scale.

@@ -1,0 +1,3 @@
+Bisimulation Equivalence of First-Order Grammars
+
+A decidability proof for bisimulation equivalence of first-order grammars (finite sets of labelled rules for rewriting roots of first-order terms) is presented. The equivalence generalizes the DPDA (deterministic pushdown automata) equivalence, and the result corresponds to the result achieved by Senizergues (1998, 2005) in the framework of equational graphs, or of PDA with restricted epsilon-steps. The framework of classical first-order terms seems particularly useful for providing a proof that should be understandable for a wider audience. We also discuss an extension to branching bisimilarity, announced by Fu and Yin (2014).

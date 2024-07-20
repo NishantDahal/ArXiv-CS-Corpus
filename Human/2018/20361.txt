@@ -1,0 +1,3 @@
+Maximum Eccentric Connectivity Index for Graphs with Given Diameter
+
+The eccentricity of a vertex $v$ in a graph $G$ is the maximum distance between $v$ and any other vertex of $G$. The diameter of a graph $G$ is the maximum eccentricity of a vertex in $G$. The eccentric connectivity index of a connected graph is the sum over all vertices of the product between eccentricity and degree. Given two integers $n$ and $D$ with $D\leq n-1$, we characterize those graphs which have the largest eccentric connectivity index among all connected graphs of order $n$ and diameter $D$. As a corollary, we also characterize those graphs which have the largest eccentric connectivity index among all connected graphs of a given order $n$.

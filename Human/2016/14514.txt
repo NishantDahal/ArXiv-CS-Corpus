@@ -1,0 +1,3 @@
+On a Distributed Computation of Supervisors in Modular Supervisory Control
+
+In this paper, we discuss a supervisory control problem of modular discrete-event systems that allows for a distributed computation of supervisors. We provide a characterization and an algorithm to compute the supervisors. If the specification does not satisfy the properties, we make use of a relaxation of coordination control to compute a sublanguage of the specification for which the supervisors can be computed in a distributed way.

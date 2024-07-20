@@ -1,0 +1,3 @@
+A scalable method to find the shortest path in a graph with circuits of memristors
+
+Finding the shortest path in a graph has applications to a wide range of optimization problems. However, algorithmic methods scale with the size of the graph in terms of time and energy. We propose a method to solve the shortest path problem using circuits of nanodevices called memristors and validate it on graphs of different sizes and topologies. It is both valid for an experimentally derived memristor model and robust to device variability. The time and energy of the computation scale with the length of the shortest path rather than with the size of the graph, making this method particularly attractive for solving large graphs with small path lengths.

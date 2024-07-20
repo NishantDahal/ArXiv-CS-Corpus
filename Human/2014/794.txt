@@ -1,0 +1,3 @@
+Non-Embeddable Extensions of Embedded Minors
+
+A graph G is weakly 4-connected if it is 3-connected, has at least five vertices, and for every pair of sets (A,B) with union V(G) and intersection of size three such that no edge has one end in A-B and the other in B-A, one of the induced subgraphs G[A], G[B] has at most four edges. We describe a set of constructions that starting from a weakly 4-connected planar graph G produce a finite list of non-planar weakly 4-connected graphs, each having a minor isomorphic to G, such that every non-planar weakly 4-connected graph H that has a minor isomorphic to G has a minor isomorphic to one of the graphs in the list. Our main result is more general and applies in particular to polyhedral embeddings in any surface.

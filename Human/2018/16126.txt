@@ -1,0 +1,3 @@
+Versatile Auxiliary Classifier with Generative Adversarial Network (VAC+GAN)
+
+One of the most interesting challenges in Artificial Intelligence is to train conditional generators which are able to provide labeled adversarial samples drawn from a specific distribution. In this work, a new framework is presented to train a deep conditional generator by placing a classifier in parallel with the discriminator and back propagate the classification error through the generator network. The method is versatile and is applicable to any variations of Generative Adversarial Network (GAN) implementation, and also gives superior results compared to similar methods.

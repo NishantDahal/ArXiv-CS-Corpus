@@ -1,0 +1,3 @@
+Ironing in the Dark
+
+This paper presents the first polynomial-time algorithm for position and matroid auction environments that learns, from samples from an unknown bounded valuation distribution, an auction with expected revenue arbitrarily close to the maximum possible. In contrast to most previous work, our results apply to arbitrary (not necessarily regular) distributions and the strongest possible benchmark, the Myerson-optimal auction. Learning a near-optimal auction for an irregular distribution is technically challenging because it requires learning the appropriate "ironed intervals," a delicate global property of the distribution.

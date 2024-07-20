@@ -1,0 +1,3 @@
+Time/memory/data trade-off attack to a psuedo-random generator
+
+Time, data and memory trade off attack is one of the most important threats against pseudo- random generators and resisting against it, is considered as a main criteria of designing such generators. In this research, the pseudo-random GMGK generator will be addressed and analyzed in details. Having indicated various weaknesses of this generator, we performed three different versions of structural attack on this generator and showed that proposed TMDTO attacks to this generator can discover blocks of plaintext with lower complexity than exhaustive search of space of key generator. Results indicated that the mentioned generator is lack of the security claimed by authors.

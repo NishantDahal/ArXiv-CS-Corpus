@@ -1,0 +1,4 @@
+Formally Verifying WARP-V, an Open-Source TL-Verilog RISC-V Core Generator
+
+Timing-abstract and transaction-level design using TL-Verilog have shown significant productivity gains for logic design. In this work, we explored the natural extension of transaction-level design methodology into formal verification.
+  WARP-V is a CPU core generator written in TL-Verilog. Our primary verification vehicle for WARP-V was a formal verification framework for RISC-V, called riscv-formal. The timing-abstract and transaction-level logic modeling techniques of TL-Verilog greatly simplified the task of creating a harness connecting the WARP-V model to the verification interface of riscv-formal. Furthermore, the same harness works across all RISC-V configurations of WARP-V.

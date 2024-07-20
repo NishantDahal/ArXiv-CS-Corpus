@@ -1,0 +1,3 @@
+A multistep segmentation algorithm for vessel extraction in medical imaging
+
+The main contribution of this paper is to propose an iterative procedure for tubular structure segmentation of 2D images, which combines tight frame of Curvelet transforms with a SURE technique thresholding which is based on principle obtained by minimizing Stein Unbiased Risk Estimate for denoising. This proposed algorithm is mainly based on the TFA proposal presented in [1, 9], which we use eigenvectors of Hessian matrix of image for improving this iterative part in segmenting unclear and narrow vessels and filling the gap between separate pieces of detected vessels. The experimental results are presented to demonstrate the effectiveness of the proposed model.

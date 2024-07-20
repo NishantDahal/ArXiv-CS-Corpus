@@ -1,0 +1,3 @@
+Log-Optimal Portfolio Selection Using the Blackwell Approachability Theorem
+
+We present a method for constructing the log-optimal portfolio using the well-calibrated forecasts of market values. Dawid's notion of calibration and the Blackwell approachability theorem are used for computing well-calibrated forecasts. We select a portfolio using this "artificial" probability distribution of market values. Our portfolio performs asymptotically at least as well as any stationary portfolio that redistributes the investment at each round using a continuous function of side information. Unlike in classical mathematical finance theory, no stochastic assumptions are made about market values.

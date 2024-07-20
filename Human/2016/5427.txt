@@ -1,0 +1,3 @@
+Refinement Types for TypeScript
+
+We present Refined TypeScript (RSC), a lightweight refinement type system for TypeScript, that enables static verification of higher-order, imperative programs. We develop a formal core of RSC that delineates the interaction between refinement types and mutability. Next, we extend the core to account for the imperative and dynamic features of TypeScript. Finally, we evaluate RSC on a set of real world benchmarks, including parts of the Octane benchmarks, D3, Transducers, and the TypeScript compiler.

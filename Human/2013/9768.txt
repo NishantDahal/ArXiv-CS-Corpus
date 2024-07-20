@@ -1,0 +1,5 @@
+BEEBS: Open Benchmarks for Energy Measurements on Embedded Platforms
+
+This paper presents and justifies an open benchmark suite named BEEBS, targeted at evaluating the energy consumption of embedded processors.
+  We explore the possible sources of energy consumption, then select individual benchmarks from contemporary suites to cover these areas. Version one of BEEBS is presented here and contains 10 benchmarks that cover a wide range of typical embedded applications. The benchmark suite is portable across diverse architectures and is freely available.
+  The benchmark suite is extensively evaluated, and the properties of its constituent programs are analysed. Using real hardware platforms we show case examples which illustrate the difference in power dissipation between three processor architectures and their related ISAs. We observe significant differences in the average instruction dissipation between the architectures of 4.4x, specifically 170uW/MHz (ARM Cortex-M0), 65uW/MHz (Adapteva Epiphany) and 88uW/MHz (XMOS XS1-L1).

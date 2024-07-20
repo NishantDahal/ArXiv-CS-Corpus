@@ -1,0 +1,3 @@
+On the Complexity of the Misère Version of Three Games Played on Graphs
+
+We investigate the complexity of finding a winning strategy for the misère version of three games played on graphs : two variants of the game $\text{NimG}$, introduced by Stockmann in 2004 and the game $\text{Vertex Geography}$ on both directed and undirected graphs. We show that on general graphs those three games are $\text{PSPACE}$-Hard or Complete. For one $\text{PSPACE}$-Hard variant of $\text{NimG}$, we find an algorithm to compute an effective winning strategy in time $\mathcal{O}(\sqrt{|V(G)|}.|E(G)|)$ when $G$ is a bipartite graph.

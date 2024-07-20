@@ -1,0 +1,3 @@
+A Static-Loop-Current Attack against the KLJN Secure Key Exchange System
+
+A new attack against the Kirchhoff-Law-Johnson-Noise (KLJN) key distribution system is explored. The attack is based on utilizing a parasitic dc-voltage-source in the loop. Relevant situations often exist in the low-frequency limit in practical systems, especially when the communication is over a distance, due to a ground loop and/or electromagnetic interference (EMI). Surprisingly, the usual current/voltage comparison based defense method that exposes active attacks or parasitic features (such as wire resistance allowing information leak) does not function here. The attack is successfully demonstrated. Proposed defense methods against it are shown.

@@ -1,0 +1,3 @@
+Secure Transmission of Sensitive data using multiple channels
+
+A new scheme for transmitting sensitive data is proposed, the proposed scheme depends on partitioning the output of a block encryption module using the Chinese Remainder Theorem among a set of channels. The purpose of using the Chinese Remainder Theorem is to hide the cipher text in order to increase the difficulty of attacking the cipher. The theory, implementation and the security of this scheme are described in this paper.

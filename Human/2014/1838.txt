@@ -1,0 +1,4 @@
+The Power of Well-Structured Systems
+
+Well-structured systems, aka WSTSs, are computational models where the set of possible configurations is equipped with a well-quasi-ordering which is compatible with the transition relation between configurations. This structure supports generic decidability results that are important in verification and several other fields.
+  This paper recalls the basic theory underlying well-structured systems and shows how two classic decision algorithms can be formulated as an exhaustive search for some "bad" sequences. This lets us describe new powerful techniques for the complexity analysis of WSTS algorithms. Recently, these techniques have been successful in precisely characterising the power, in a complexity-theoretical sense, of several important WSTS models like unreliable channel systems, monotonic counter machines, or networks of timed systems.

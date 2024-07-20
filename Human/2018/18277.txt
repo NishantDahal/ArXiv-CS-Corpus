@@ -1,0 +1,3 @@
+SAT encodings for sorting networks, single-exception sorting networks and $ε-$halvers
+
+Sorting networks are oblivious sorting algorithms with many practical applications and rich theoretical properties. Propositional encodings of sorting networks are a key tool for proving concrete bounds on the minimum number of comparators or depth (number of parallel steps) of sorting networks. In this paper, we present new SAT encodings that reduce the number of variables and clauses of the sorting constraint of optimality problems. Moreover, the proposed SAT encodings can be applied to a broader class of problems, such as the search of optimal single-exception sorting networks and $ε-$halvers. We obtain optimality results for single-exception sorting networks on $n \le 10$ inputs.

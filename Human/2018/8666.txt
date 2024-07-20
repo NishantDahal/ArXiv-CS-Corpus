@@ -1,0 +1,3 @@
+A Novel Parallel Ray-Casting Algorithm
+
+The Ray-Casting algorithm is an important method for fast real-time surface display from 3D medical images. Based on the Ray-Casting algorithm, a novel parallel Ray-Casting algorithm is proposed in this paper. A novel operation is introduced and defined as a star operation, and star operations can be computed in parallel in the proposed algorithm compared with the serial chain of star operations in the Ray-Casting algorithm. The computation complexity of the proposed algorithm is reduced from $O(n)$ to $O(\log^n_2)$.

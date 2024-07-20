@@ -1,0 +1,3 @@
+Weighted Electoral Control
+
+Although manipulation and bribery have been extensively studied under weighted voting, there has been almost no work done on election control under weighted voting. This is unfortunate, since weighted voting appears in many important natural settings. In this paper, we study the complexity of controlling the outcome of weighted elections through adding and deleting voters. We obtain polynomial-time algorithms, NP-completeness results, and for many NP-complete cases, approximation algorithms. In particular, for scoring rules we completely characterize the complexity of weighted voter control. Our work shows that for quite a few important cases, either polynomial-time exact algorithms or polynomial-time approximation algorithms exist.

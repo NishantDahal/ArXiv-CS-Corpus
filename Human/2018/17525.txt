@@ -1,0 +1,3 @@
+3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration
+
+In this paper, we propose the 3DFeat-Net which learns both 3D feature detector and descriptor for point cloud matching using weak supervision. Unlike many existing works, we do not require manual annotation of matching point clusters. Instead, we leverage on alignment and attention mechanisms to learn feature correspondences from GPS/INS tagged 3D point clouds without explicitly specifying them. We create training and benchmark outdoor Lidar datasets, and experiments show that 3DFeat-Net obtains state-of-the-art performance on these gravity-aligned datasets.

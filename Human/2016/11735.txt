@@ -1,0 +1,4 @@
+Complexity and polymorphisms for digraph constraint problems under some basic constructions
+
+The role of polymorphisms in determining the complexity of constraint satisfaction problems is well established.
+  In this context we study the stability of CSP complexity and polymorphism properties under some basic graph theoretic constructions. As applications we observe a collapse in the applicability of algorithms for CSPs over directed graphs with both a total source and a total sink: the corresponding CSP is solvable by the "few subpowers algorithm" if and only if it is solvable by a local consistency check algorithm. Moreover, we find that the property of "strict width" and solvability by few subpowers are unstable under first order reductions. The analysis also yields a complete characterisation of the main polymorphism properties for digraphs whose symmetric closure is a complete graph.

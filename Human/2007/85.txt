@@ -1,0 +1,3 @@
+Propositional theories are strongly equivalent to logic programs
+
+This paper presents a property of propositional theories under the answer sets semantics (called Equilibrium Logic for this general syntax): any theory can always be reexpressed as a strongly equivalent disjunctive logic program, possibly with negation in the head. We provide two different proofs for this result: one involving a syntactic transformation, and one that constructs a program starting from the countermodels of the theory in the intermediate logic of here-and-there.

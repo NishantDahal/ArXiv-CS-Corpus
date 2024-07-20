@@ -1,0 +1,3 @@
+Nexus Authorization Logic (NAL): Logical Results
+
+Nexus Authorization Logic (NAL) [Schneider et al. 2011] is a logic for reasoning about authorization in distributed systems. A revised version of NAL is given here, including revised syntax, a revised proof theory using localized hypotheses, and a new Kripke semantics. The proof theory is proved sound with respect to the semantics, and that proof is formalized in Coq.

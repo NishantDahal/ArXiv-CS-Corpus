@@ -1,0 +1,4 @@
+Constructing Low Star Discrepancy Point Sets with Genetic Algorithms
+
+Geometric discrepancies are standard measures to quantify the irregularity of distributions. They are an important notion in numerical integration. One of the most important discrepancy notions is the so-called \emph{star discrepancy}. Roughly speaking, a point set of low star discrepancy value allows for a small approximation error in quasi-Monte Carlo integration. It is thus the most studied discrepancy notion.
+  In this work we present a new algorithm to compute point sets of low star discrepancy. The two components of the algorithm (for the optimization and the evaluation, respectively) are based on evolutionary principles. Our algorithm clearly outperforms existing approaches. To the best of our knowledge, it is also the first algorithm which can be adapted easily to optimize inverse star discrepancies.

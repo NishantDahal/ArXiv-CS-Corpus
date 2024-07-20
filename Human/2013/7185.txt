@@ -1,0 +1,4 @@
+A Tight Upper Bound on Acquaintance Time of Graphs
+
+In this note we confirm a conjecture raised by Benjamini et al. \cite{BST} on the acquaintance time of graphs, proving that for all graphs $G$ with $n$ vertices it holds that $\AC(G) = O(n^{3/2})$, which is tight up to a multiplicative constant. This is done by proving that for all graphs $G$ with $n$ vertices and maximal degree $Δ$ it holds that $\AC(G) \leq 20 Δn$. Combining this with the bound $\AC(G) \leq O(n^2/Δ)$ from \cite{BST} gives the foregoing uniform upper bound of all $n$-vertex graphs.
+  We also prove that for the $n$-vertex path $P_n$ it holds that $\AC(P_n)=n-2$. In addition we show that the barbell graph $B_n$ consisting of two cliques of sizes $\ceil{n/2}$ and $\floor{n/2}$ connected by a single edge also has $\AC(B_n) = n-2$. This shows that it is possible to add $Ω(n^2)$ edges to $P_n$ without changing the $\AC$ value of the graph.

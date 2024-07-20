@@ -1,0 +1,3 @@
+A Neural Network Approach to ECG Denoising
+
+We propose an ECG denoising method based on a feed forward neural network with three hidden layers. Particulary useful for very noisy signals, this approach uses the available ECG channels to reconstruct a noisy channel. We tested the method, on all the records from Physionet MIT-BIH Arrhythmia Database, adding electrode motion artifact noise. This denoising method improved the perfomance of publicly available ECG analysis programs on noisy ECG signals. This is an offline method that can be used to remove noise from very corrupted Holter records.

@@ -1,0 +1,3 @@
+E3Solver: decision tree unification by enumeration
+
+We introduce E3Solver, a unification-based solver for programming-by-example (PBE) participating in the 2017 edition of the SyGuS Competition. Our tool proceeds in two phases. First, for each individual example, we enumerate a terminal expression consistent with it. Then, we unify these expressions using conditional expressions in a decision tree. To this end, a suitable condition is enumerated for each pair of conflicting examples. This incremental method terminates after fitting all examples in the decision tree. E3Solver solves all 750 instances in the bitvector sub-track in an average time of few seconds each. We make our contributions publicly available (https://github.com/sygus-tools)

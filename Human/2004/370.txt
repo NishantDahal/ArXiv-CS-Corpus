@@ -1,0 +1,3 @@
+Online Companion Caching
+
+This paper is concerned with online caching algorithms for the (n,k)-companion cache, defined by Brehob et. al. In this model the cache is composed of two components: a k-way set-associative cache and a companion fully-associative cache of size n. We show that the deterministic competitive ratio for this problem is (n+1)(k+1)-1, and the randomized competitive ratio is O(\log n \log k) and Ω(\log n +\log k).

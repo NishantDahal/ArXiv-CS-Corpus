@@ -1,0 +1,3 @@
+NAVREN-RL: Learning to fly in real environment via end-to-end deep reinforcement learning using monocular images
+
+We present NAVREN-RL, an approach to NAVigate an unmanned aerial vehicle in an indoor Real ENvironment via end-to-end reinforcement learning RL. A suitable reward function is designed keeping in mind the cost and weight constraints for micro drone with minimum number of sensing modalities. Collection of small number of expert data and knowledge based data aggregation is integrated into the RL process to aid convergence. Experimentation is carried out on a Parrot AR drone in different indoor arenas and the results are compared with other baseline technologies. We demonstrate how the drone successfully avoids obstacles and navigates across different arenas.

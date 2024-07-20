@@ -1,0 +1,3 @@
+Age-Optimal Updates of Multiple Information Flows
+
+In this paper, we study an age of information minimization problem, where multiple flows of update packets are sent over multiple servers to their destinations. Two online scheduling policies are proposed. When the packet generation and arrival times are synchronized across the flows, the proposed policies are shown to be (near) optimal for minimizing any time-dependent, symmetric, and non-decreasing penalty function of the ages of the flows over time in a stochastic ordering sense.

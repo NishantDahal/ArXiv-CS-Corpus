@@ -1,0 +1,5 @@
+On the Use of Underspecified Data-Type Semantics for Type Safety in Low-Level Code
+
+In recent projects on operating-system verification, C and C++ data types are often formalized using a semantics that does not fully specify the precise byte encoding of objects. It is well-known that such an underspecified data-type semantics can be used to detect certain kinds of type errors. In general, however, underspecified data-type semantics are unsound: they assign well-defined meaning to programs that have undefined behavior according to the C and C++ language standards.
+  A precise characterization of the type-correctness properties that can be enforced with underspecified data-type semantics is still missing. In this paper, we identify strengths and weaknesses of underspecified data-type semantics for ensuring type safety of low-level systems code. We prove sufficient conditions to detect certain classes of type errors and, finally, identify a trade-off between the complexity of underspecified data-type semantics and their type-checking capabilities.
+

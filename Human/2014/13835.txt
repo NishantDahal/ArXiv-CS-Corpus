@@ -1,0 +1,4 @@
+Necessary Spectral Conditions for Coloring Hypergraphs
+
+Hoffman proved that for a simple graph $G$, the chromatic number $χ(G)$ obeys $χ(G) \le 1 - \frac{λ_1}{λ_{n}}$ where $λ_1$ and $λ_n$ are the maximal and minimal eigenvalues of the adjacency matrix of $G$ respectively. Lovász later showed that $χ(G) \le 1 - \frac{λ_1}{λ_{n}}$ for any (perhaps negatively) weighted adjacency matrix.
+  In this paper, we give a probabilistic proof of Lovász's theorem, then extend the technique to derive generalizations of Hoffman's theorem when allowed a certain proportion of edge-conflicts. Using this result, we show that if a 3-uniform hypergraph is 2-colorable, then $\bar d \le -\frac{3}{2}λ_{\min}$ where $\bar d$ is the average degree and $λ_{\min}$ is the minimal eigenvalue of the underlying graph. We generalize this further for $k$-uniform hypergraphs, for the cases $k=4$ and $5$, by considering several variants of the underlying graph.

@@ -1,0 +1,3 @@
+Robust Steganography Using LSB-XOR and Image Sharing
+
+Hiding and securing the secret digital information and data that are transmitted over the internet is of widespread and most challenging interest. This paper presents a new idea of robust steganography using bitwise-XOR operation between stego-key-image-pixel LSB (Least Significant Bit) value and secret message-character ASCII-binary value (or, secret image-pixel value). The stego-key-image is shared in dual-layer using odd-even position of each pixel to make the system robust. Due to image sharing, the detection can only be done with all the image shares.

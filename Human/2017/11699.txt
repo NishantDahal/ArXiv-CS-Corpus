@@ -1,0 +1,3 @@
+On Separating Points by Lines
+
+Given a set $P$ of $n$ points in the plane, its separability is the minimum number of lines needed to separate all its pairs of points from each other. We show that the minimum number of lines needed to separate $n$ points, picked randomly (and uniformly) in the unit square, is $Θ( n^{2/3})$, where $Θ$ hides polylogarithmic factors. In addition, we provide a fast approximation algorithm for computing the separability of a given point set in the plane. Finally, we point out the connection between separability and partitions.

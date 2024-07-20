@@ -1,0 +1,3 @@
+Signal Processing with Pulse Trains: An Algebraic Approach- Part I
+
+Recently we have shown that it is possible to represent continuous amplitude, continuous time, band limited signals with an error as small as desired using pulse trains via the integrate and fire converter (IFC). The IFC is an ultra low power converter and processing with pulse trains is compatible with the trends in the silicon technology for very low supply voltages. This paper presents the definition of addition in pulse trains created by the IFC using exclusively timing information, and proofs that it constitutes an Abelian group in the space of IFC pulse trains. We also show that pulse domain addition corresponds to pointwise addition of analog signals.

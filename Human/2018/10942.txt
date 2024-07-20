@@ -1,0 +1,3 @@
+Consequence-Based Axiom Pinpointing
+
+Axiom pinpointing refers to the problem of finding the axioms in an ontology that are relevant for understanding a given entailment or consequence. One approach for axiom pinpointing, known as glass-box, is to modify a classical decision procedure for the entailments into a method that computes the solutions for the pinpointing problem. Recently, consequence-based decision procedures have been proposed as a promising alternative for tableaux-based reasoners for standard ontology languages. In this work, we present a general framework to extend consequence-based algorithms with axiom pinpointing.

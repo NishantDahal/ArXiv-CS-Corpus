@@ -1,0 +1,3 @@
+Coroutining Folds with Hyperfunctions
+
+Fold functions are a general mechanism for computing over recursive data structures. First-order folds compute results bottom-up. With higher-order folds, computations that inherit attributes from above can also be expressed. In this paper, we explore folds over a form of recursive higher-order function, called hyperfunctions, and show that hyperfunctions allow fold computations to coroutine across data structures, as well as compute bottom up and top down.  We use the compiler technique of foldr-build as an exemplar to show how hyperfunctions can be used.

@@ -1,0 +1,3 @@
+Temporal Convolution Based Action Proposal: Submission to ActivityNet 2017
+
+In this notebook paper, we describe our approach in the submission to the temporal action proposal (task 3) and temporal action localization (task 4) of ActivityNet Challenge hosted at CVPR 2017. Since the accuracy in action classification task is already very high (nearly 90% in ActivityNet dataset), we believe that the main bottleneck for temporal action localization is the quality of action proposals. Therefore, we mainly focus on the temporal action proposal task and propose a new proposal model based on temporal convolutional network. Our approach achieves the state-of-the-art performances on both temporal action proposal task and temporal action localization task.

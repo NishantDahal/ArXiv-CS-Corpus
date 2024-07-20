@@ -1,0 +1,4 @@
+A generalization of Witsenhausen's zero-error rate for directed graphs
+
+We investigate a communication setup where a source output is sent through a free noisy channel first and an additional codeword is sent through a noiseless but expensive channel later. With the help of the second message the decoder should be able to decide with zero-error whether its decoding of the first message was error-free. This scenario leads to the definition of a digraph parameter that generalizes Witsenhausen's zero-error rate for directed graphs. We investigate this new parameter for some specific directed graphs and explore its relations to other digraph parameters like Sperner capacity and dichromatic number.
+  When the original problem is modified to require zero-error decoding of the whole message then we arrive back to the Witsenhausen rate of an appropriately defined undirected graph.

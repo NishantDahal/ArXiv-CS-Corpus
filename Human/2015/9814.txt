@@ -1,0 +1,3 @@
+A Deep Pyramid Deformable Part Model for Face Detection
+
+We present a face detection algorithm based on Deformable Part Models and deep pyramidal features. The proposed method called DP2MFD is able to detect faces of various sizes and poses in unconstrained conditions. It reduces the gap in training and testing of DPM on deep features by adding a normalization layer to the deep convolutional neural network (CNN). Extensive experiments on four publicly available unconstrained face detection datasets show that our method is able to capture the meaningful structure of faces and performs significantly better than many competitive face detection algorithms.

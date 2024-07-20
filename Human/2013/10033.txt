@@ -1,0 +1,5 @@
+A Labeling Approach to Incremental Cycle Detection
+
+In the \emph{incremental cycle detection} problem arcs are added to a directed acyclic graph and the algorithm has to report if the new arc closes a cycle. One seeks to minimize the total time to process the entire sequence of arc insertions, or until a cycle appears.
+  In a recent breakthrough, Bender, Fineman, Gilbert and Tarjan \cite{BeFiGiTa11} presented two different algorithms, with time complexity $O(n^2 \log n)$ and $O(m \cdot \min \{m^{1/2}, n^{2/3} \})$, respectively.
+  In this paper we introduce a new technique for incremental cycle detection that allows us to obtain both bounds (up to a logarithmic factor). Furthermore, our approach seems more amiable for distributed implementation.

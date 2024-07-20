@@ -1,0 +1,3 @@
+Bisimulation Metrics for Weighted Automata
+
+We develop a new bisimulation (pseudo)metric for weighted finite automata (WFA) that generalizes Boreale's linear bisimulation relation. Our metrics are induced by seminorms on the state space of WFA. Our development is based on spectral properties of sets of linear operators. In particular, the joint spectral radius of the transition matrices of WFA plays a central role. We also study continuity properties of the bisimulation pseudometric, establish an undecidability result for computing the metric, and give a preliminary account of applications to spectral learning of weighted automata.

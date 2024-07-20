@@ -1,0 +1,3 @@
+Computing optimal strategy for cop in the game of Cop v.s. Gambler
+
+We present two efficient algorithms that compute the optimal strategy for cop in the game of Cop v.s. Gambler where the gambler's strategy is not optimal but known to the cop. The first algorithm is analogous to Bellman-Ford algorithm for single source shortest path problem and runs in $O(|V(G)||E(G)|)$ time. The second is analogous to Dijkstra's algorithm and runs in $O(|E(G)|+|V(G)|\log |V(G)|)$ time. Compared with each other, they are more suitable for sparse and dense graphs, respectively.

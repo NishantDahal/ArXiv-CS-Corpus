@@ -1,0 +1,3 @@
+An Iterative Linearised Solution to the Sinusoidal Parameter Estimation Problem
+
+Signal processing applications use sinusoidal modelling for speech synthesis, speech coding, and audio coding. Estimation of the model parameters involves non-linear optimisation methods, which can be very costly for real-time applications. We propose a low-complexity iterative method that starts from initial frequency estimates and converges rapidly. We show that for N sinusoids in a frame of length L, the proposed method has a complexity of O(LN), which is significantly less than the matching pursuits method. Furthermore, the proposed method is shown to be more accurate than the matching pursuits and time-frequency reassignment methods in our experiments.

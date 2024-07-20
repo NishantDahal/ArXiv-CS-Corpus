@@ -1,0 +1,3 @@
+Gaussian-Dirichlet Posterior Dominance in Sequential Learning
+
+We consider the problem of sequential learning from categorical observations bounded in [0,1]. We establish an ordering between the Dirichlet posterior over categorical outcomes and a Gaussian posterior under observations with N(0,1) noise. We establish that, conditioned upon identical data with at least two observations, the posterior mean of the categorical distribution will always second-order stochastically dominate the posterior mean of the Gaussian distribution. These results provide a useful tool for the analysis of sequential learning under categorical outcomes.

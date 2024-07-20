@@ -1,0 +1,3 @@
+Geo-Encryption Protocol For Mobile Networks
+
+We propose a geo-encryption protocol that allow mobile nodes to communicate securely by restricting the decryption of a message to a particular location and time period. Our protocol will handle the exchange of movement parameters, so that a sender is able to geo-encrypt messages to a moving decryption zone that contains a mobile node's estimated location. We also present methods for estimating the node's movement parameters to allow for geo-encryption. Finally, we evaluate our model by measuring the induced overhead to the network and its performance in terms of decryption ratio.

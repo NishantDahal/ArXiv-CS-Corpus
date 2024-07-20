@@ -1,0 +1,5 @@
+On Defendability of Security Properties
+
+We study the security of interaction protocols when incentives of participants are taken into account. We begin by formally defining correctness of a protocol, given a notion of rationality and utilities of participating agents. Based on that, we propose how to assess security when the precise incentives are unknown. Then, the security level can be defined in terms of defender sets, i.e., sets of participants who can effectively "defend" the security property as long as they are in favor of the property. 
+  We present some theoretical characterizations of defendable protocols under Nash equilibrium, first for bijective games (a standard assumption in game theory), and then for games with non-injective outcomes that better correspond to interaction protocols. Finally, we apply our concepts to analyze fairness in the ASW contract-signing protocol.
+

@@ -1,0 +1,3 @@
+A Note on Time Measurements in LAMMPS
+
+We examine the issue of assessing the efficiency of components of a parallel program at the example of the MD package LAMMPS. In particular, we look at how LAMMPS deals with the issue and explain why the approach adopted might lead to inaccurate conclusions. The misleading nature of this approach is subsequently verified experimentally with a case study. Afterwards, we demonstrate how one should correctly determine the efficiency of the components and show what changes to the code base of LAMMPS are necessary in order to get the correct behavior.

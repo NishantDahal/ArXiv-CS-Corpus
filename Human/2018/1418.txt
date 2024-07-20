@@ -1,0 +1,3 @@
+Computational complexity lower bounds of certain discrete Radon transform approximations
+
+For the computational model where only additions are allowed, the $Ω(n^2\log n)$ lower bound on operations count with respect to image size $n\times n$ is obtained for two types of the discrete Radon transform implementations: the fast Hough transform and a generic strip pattern class which includes the classical Hough transform, implying the fast Hough transform algorithm asymptotic optimality. The proofs are based on a specific result from the boolean circuits complexity theory and are generalized for the case of boolean $\vee$ binary operation.

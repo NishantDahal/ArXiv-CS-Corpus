@@ -1,0 +1,6 @@
+Tardos fingerprinting is better than we thought
+
+We review the fingerprinting scheme by Tardos and show that it has a much better performance than suggested by the proofs in Tardos' original paper. In particular, the length of the codewords can be significantly reduced.
+  First we generalize the proofs of the false positive and false negative error probabilities with the following modifications: (1) we replace Tardos' hard-coded numbers by variables and (2) we allow for independently chosen false positive and false negative error rates. It turns out that all the collusion-resistance properties can still be proven when the code length is reduced by a factor of more than 2.
+  Second, we study the statistical properties of the fingerprinting scheme, in particular the average and variance of the accusations. We identify which colluder strategy forces the content owner to employ the longest code. Using a gaussian approximation for the probability density functions of the accusations, we show that the required false negative and false positive error rate can be achieved with codes that are a factor 2 shorter than required for rigid proofs.
+  Combining the results of these two approaches, we show that the Tardos scheme can be used with a code length approximately 5 times shorter than in the original construction.

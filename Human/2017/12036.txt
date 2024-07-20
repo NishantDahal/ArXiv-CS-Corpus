@@ -1,0 +1,3 @@
+Taming Asynchrony for Attractor Detection in Large Boolean Networks (Technical Report)
+
+Boolean networks is a well-established formalism for modelling biological systems. A vital challenge for analysing a Boolean network is to identify all the attractors. This becomes more challenging for large asynchronous Boolean networks, due to the asynchronous updating scheme. Existing methods are prohibited due to the well-known state-space explosion problem in large Boolean networks. In this paper, we tackle this challenge by proposing a SCC-based decomposition method. We prove the correctness of our proposed method and demonstrate its efficiency with two real-life biological networks.

@@ -1,0 +1,3 @@
+Age of Information Scaling in Large Networks
+
+We study age of information in a multiple source-multiple destination setting with a focus on its scaling in large wireless networks. There are $n$ nodes that are randomly paired with each other on a fixed area to form $n$ source-destination (S-D) pairs. We propose a three-phase transmission scheme which utilizes local cooperation between the nodes by forming what we call mega update packets to serve multiple S-D pairs at once. We show that under the proposed scheme average age of an S-D pair scales as $O(n^{\frac{1}{4}})$ as the number of users, $n$, in the network grows. To the best of our knowledge, this is the best age scaling result for a multiple source-multiple destination setting.

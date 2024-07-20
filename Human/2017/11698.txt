@@ -1,0 +1,3 @@
+Approximation Algorithms for the Open Shop Problem with Delivery Times
+
+In this paper we consider the open shop scheduling problem where the jobs have delivery times. The minimization criterion is the maximum lateness of the jobs. This problem is known to be NP-hard, even restricted to only 2 machines. We establish that any list scheduling algorithm has a performance ratio of 2. For a fixed number of machines, we design a polynomial time approximation scheme (PTAS) which represents the best possible result due to the strong NP-hardness of the problem.

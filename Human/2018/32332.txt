@@ -1,0 +1,3 @@
+Role of Trust in OAuth 2.0 and OpenID Connect
+
+OAuth 2.0 is a framework for authorization. Being a framework, OAuth 2.0 allows extensions to build on top of it. OpenID Connect is one such extension which adds authentication layer using identity details. OAuth 2.0 define several roles that are required to complete the protocol. Both OAuth 2.0 and OpenID Connect involve interactions between these roles. These interactions require a pre-established trust or a trust establishment while protocol operate. This paper analyzes trust establishments between OAuth 2.0 roles and discuss important aspects of them. Such analysis is required for proper understanding of the protocols.

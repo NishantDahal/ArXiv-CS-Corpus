@@ -1,0 +1,4 @@
+A $(2+ε)$-Approximation for Maximum Weight Matching in the Semi-Streaming Model
+
+We present a simple deterministic single-pass $(2+ε)$-approximation algorithm for the maximum weight matching problem in the semi-streaming model. This improves upon the currently best known approximation ratio of $(4+ε)$.
+  Our algorithm uses $O(n\log^2 n)$ bits of space for constant values of $ε$. It relies on a variation of the local-ratio theorem, which may be of use for other algorithms in the semi-streaming model as well.

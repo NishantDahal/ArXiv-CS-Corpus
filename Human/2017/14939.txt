@@ -1,0 +1,3 @@
+Recognizing Weakly Simple Polygons
+
+We present an $O(n\log n)$-time algorithm that determines whether a given planar $n$-gon is weakly simple. This improves upon an $O(n^2\log n)$-time algorithm by Chang, Erickson, and Xu (2015). Weakly simple polygons are required as input for several geometric algorithms. As such, how to recognize simple or weakly simple polygons is a fundamental question.

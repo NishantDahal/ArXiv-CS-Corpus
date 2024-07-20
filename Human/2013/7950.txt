@@ -1,0 +1,3 @@
+The non-adaptive query complexity of testing k-parities
+
+We prove tight bounds of Theta(k log k) queries for non-adaptively testing whether a function f:{0,1}^n -> {0,1} is a k-parity or far from any k-parity. The lower bound combines a recent method of Blais, Brody and Matulef [BBM11] to get lower bounds for testing from communication complexity with an Omega(k \log k) lower bound for the one-way communication complexity of k-disjointness.

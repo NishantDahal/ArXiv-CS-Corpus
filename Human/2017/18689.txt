@@ -1,0 +1,3 @@
+Fast Algorithm for Enumerating Diagonal Latin Squares of Small Order
+
+In this paper we propose an algorithm for enumerating diagonal Latin squares of small order. It relies on specific properties of diagonal Latin squares to employ symmetry breaking techniques, and on several heuristic optimizations and bit arithmetic techniques to make use of computational power of state-of-the-art CPUs. Using this approach we enumerated diagonal Latin squares of order at most 9, and vertically symmetric diagonal Latin squares of order at most 10.

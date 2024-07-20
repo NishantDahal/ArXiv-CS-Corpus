@@ -1,0 +1,3 @@
+Simple expressions for the long walk distance
+
+The walk distances in graphs are defined as the result of appropriate transformations of the $\sum_{k=0}^\infty(tA)^k$ proximity measures, where $A$ is the weighted adjacency matrix of a connected weighted graph and $t$ is a sufficiently small positive parameter. The walk distances are graph-geodetic, moreover, they converge to the shortest path distance and to the so-called long walk distance as the parameter $t$ approaches its limiting values. In this paper, simple expressions for the long walk distance are obtained. They involve the generalized inverse, minors, and inverses of submatrices of the symmetric irreducible singular M-matrix ${\cal L}=ρI-A,$ where $ρ$ is the Perron root of $A.$

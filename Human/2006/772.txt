@@ -1,0 +1,4 @@
+Strictly convex drawings of planar graphs
+
+Every three-connected planar graph with n vertices has a drawing on an O(n^2) x O(n^2) grid in which all faces are strictly convex polygons. These drawings are obtained by perturbing (not strictly) convex drawings on O(n) x O(n) grids. More generally, a strictly convex drawing exists on a grid of size O(W) x O(n^4/W), for any choice of a parameter W in the range n<W<n^2. Tighter bounds are obtained when the faces have fewer sides.
+  In the proof, we derive an explicit lower bound on the number of primitive vectors in a triangle.

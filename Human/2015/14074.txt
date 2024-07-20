@@ -1,0 +1,5 @@
+GEMMbench: a framework for reproducible and collaborative benchmarking of matrix multiplication
+
+The generic matrix-matrix multiplication (GEMM) is arguably the most popular computational kernel of the 20th century. Yet, surprisingly, no common methodology for evaluating GEMM performance has been established over the many decades of using GEMM for comparing architectures, compilers and ninja-class programmers.
+  We introduce GEMMbench, a framework and methodology for evaluating performance of GEMM implementations. GEMMbench is implemented on top of Collective Knowledge (CK), a lightweight framework for reproducible and collaborative R&D in computer systems. Using CK allows the R&D community to crowdsource hand-written and compiler-generated GEMM implementations and to study their performance across multiple platforms, data sizes and data types.
+  Our initial implementation supports hand-written OpenCL kernels operating on matrices consisting of single- and double-precision floating-point values, and producing single or multiple output elements per work-item (via thread coarsening and vectorization).

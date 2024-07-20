@@ -1,0 +1,3 @@
+Combining subspace codes with classical linear error-correcting codes
+
+We discuss how subspace codes can be used to simultaneously correct errors and erasures when the network performs random linear network coding and the edges are noisy channels. This is done by combining the subspace code with a classical linear error-correcting code. The classical code then takes care of the errors and the subspace codes takes care of the erasures.

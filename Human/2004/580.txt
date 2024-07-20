@@ -1,0 +1,3 @@
+Automatic Generation of CHR Constraint Solvers
+
+In this paper, we present a framework for automatic generation of CHR solvers given the logical specification of the constraints. This approach takes advantage of the power of tabled resolution for constraint logic programming, in order to check the validity of the rules. Compared to previous works where different methods for automatic generation of constraint solvers have been proposed, our approach enables the generation of more expressive rules (even recursive and splitting rules) that can be used directly as CHR solvers.

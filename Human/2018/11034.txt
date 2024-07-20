@@ -1,0 +1,3 @@
+Phocas: dimensional Byzantine-resilient stochastic gradient descent
+
+We propose a novel robust aggregation rule for distributed synchronous Stochastic Gradient Descent~(SGD) under a general Byzantine failure model. The attackers can arbitrarily manipulate the data transferred between the servers and the workers in the parameter server~(PS) architecture. We prove the Byzantine resilience of the proposed aggregation rules. Empirical analysis shows that the proposed techniques outperform current approaches for realistic use cases and Byzantine attack scenarios.

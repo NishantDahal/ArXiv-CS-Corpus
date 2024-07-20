@@ -1,0 +1,8 @@
+Infinite and Bi-infinite Words with Decidable Monadic Theories
+
+We study word structures of the form $(D,<,P)$ where $D$ is either $\mathbb{N}$ or $\mathbb{Z}$, $<$ is the natural linear ordering on $D$ and $P\subseteq D$ is a predicate on $D$. In particular we show:
+  (a) The set of recursive $ω$-words with decidable monadic second order theories is $Σ_3$-complete.
+  (b) Known characterisations of the $ω$-words with decidable monadic second order theories are transfered to the corresponding question for bi-infinite words.
+  (c) We show that such "tame" predicates $P$ exist in every Turing degree.
+  (d) We determine, for $P\subseteq\mathbb{Z}$, the number of predicates $Q\subseteq\mathbb{Z}$ such that $(\mathbb{Z},\le,P)$ and $(\mathbb{Z},\le,Q)$ are indistinguishable.
+  Through these results we demonstrate similarities and differences between logical properties of infinite and bi-infinite words.

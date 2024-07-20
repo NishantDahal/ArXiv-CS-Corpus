@@ -1,0 +1,4 @@
+Cast-as-Intended Mechanism with Return Codes Based on PETs
+
+We propose a method providing cast-as-intended verifiability for remote electronic voting. The method is based on plaintext equivalence tests (PETs), used to match the cast ballots against the pre-generated encrypted code tables.
+  Our solution provides an attractive balance of security and functional properties. It is based on well-known cryptographic building blocks and relies on standard cryptographic assumptions, which allows for relatively simple security analysis. Our scheme is designed with a built-in fine-grained distributed trust mechanism based on threshold decryption. It, finally, imposes only very little additional computational burden on the voting platform, which is especially important when voters use devices of restricted computational power such as mobile phones. At the same time, the computational cost on the server side is very reasonable and scales well with the increasing ballot size.

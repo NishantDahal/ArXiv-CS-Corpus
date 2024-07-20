@@ -1,0 +1,3 @@
+Polygon Convexity: Another O(n) Test
+
+An n-gon is defined as a sequence ¶=(V_0,...,V_{n-1}) of n points on the plane. An n-gon ¶is said to be convex if the boundary of the convex hull of the set {V_0,...,V_{n-1}} of the vertices of ¶coincides with the union of the edges [V_0,V_1],...,[V_{n-1},V_0]; if at that no three vertices of ¶are collinear then ¶is called strictly convex. We prove that an n-gon ¶with n\ge3 is strictly convex if and only if a cyclic shift of the sequence (\al_0,...,\al_{n-1})\in[0,2π)^n of the angles between the x-axis and the vectors V_1-V_0,...,V_0-V_{n-1} is strictly monotone. A ``non-strict'' version of this result is also proved.

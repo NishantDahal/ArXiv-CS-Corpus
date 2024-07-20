@@ -1,0 +1,3 @@
+Reinforcement Learning with A* and a Deep Heuristic
+
+A* is a popular path-finding algorithm, but it can only be applied to those domains where a good heuristic function is known. Inspired by recent methods combining Deep Neural Networks (DNNs) and trees, this study demonstrates how to train a heuristic represented by a DNN and combine it with A*. This new algorithm which we call aleph-star can be used efficiently in domains where the input to the heuristic could be processed by a neural network. We compare aleph-star to N-Step Deep Q-Learning (DQN Mnih et al. 2013) in a driving simulation with pixel-based input, and demonstrate significantly better performance in this scenario.

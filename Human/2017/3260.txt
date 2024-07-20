@@ -1,0 +1,3 @@
+Feedback Motion Planning for Liquid Transfer using Supervised Learning
+
+We present a novel motion planning algorithm for transferring a liquid body from a source to a target container. Our approach uses a receding-horizon optimization strategy that takes into account fluid constraints and avoids collisions. In order to efficiently handle the high-dimensional configuration space of a liquid body, we use system identification to learn its dynamics characteristics using a neural network. We generate the training dataset using stochastic optimization in a transfer-problem-specific search space. The runtime feedback motion planner is used for real-time planning and we observe high success rate in our simulated 2D and 3D fluid transfer benchmarks.

@@ -1,0 +1,3 @@
+Montgomery's method of polynomial selection for the number field sieve
+
+The number field sieve is the most efficient known algorithm for factoring large integers that are free of small prime factors. For the polynomial selection stage of the algorithm, Montgomery proposed a method of generating polynomials which relies on the construction of small modular geometric progressions. Montgomery's method is analysed in this paper and the existence of suitable geometric progressions is considered.

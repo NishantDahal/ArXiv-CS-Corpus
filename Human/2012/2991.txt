@@ -1,0 +1,3 @@
+Density-based group testing
+
+In this paper we study a new, generalized version of the well-known group testing problem. In the classical model of group testing we are given n objects, some of which are considered to be defective. We can test certain subsets of the objects whether they contain at least one defective element. The goal is usually to find all defectives using as few tests as possible. In our model the presence of defective elements in a test set Q can be recognized if and only if their number is large enough compared to the size of Q. More precisely for a test Q the answer is 'yes' if and only if there are at least α|Q| defective elements in Q for some fixed α.

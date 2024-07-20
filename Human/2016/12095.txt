@@ -1,0 +1,5 @@
+On the queue-number of graphs with bounded tree-width
+
+A queue layout of a graph consists of a linear order on the vertices and an assignment of the edges to queues, such that no two edges in a single queue are nested. The minimum number of queues needed in a queue layout of a graph is called its queue-number.
+  We show that for each $k\geq1$, graphs with tree-width at most $k$ have queue-number at most $2^k-1$. This improves upon double exponential upper bounds due to Dujmović et al. and Giacomo et al. As a consequence we obtain that these graphs have track-number at most $2^{O(k^2)}$.
+  We complement these results by a construction of $k$-trees that have queue-number at least $k+1$. Already in the case $k=2$ this is an improvement to existing results and solves a problem of Rengarajan and Veni Madhavan, namely, that the maximal queue-number of $2$-trees is equal to $3$.

@@ -1,0 +1,3 @@
+Monoidify! Monoids as a Design Principle for Efficient MapReduce Algorithms
+
+It is well known that since the sort/shuffle stage in MapReduce is costly, local aggregation is one important principle to designing efficient algorithms. This short paper represents an attempt to more clearly articulate this design principle in terms of monoids, which generalizes the use of combiners and the in-mapper combining pattern.

@@ -1,0 +1,3 @@
+Image Restoration with Signal-dependent Camera Noise
+
+This article describes a fast iterative algorithm for image denoising and deconvolution with signal-dependent observation noise. We use an optimization strategy based on variable splitting that adapts traditional Gaussian noise-based restoration algorithms to account for the observed image being corrupted by mixed Poisson-Gaussian noise and quantization errors.

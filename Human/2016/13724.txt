@@ -1,0 +1,3 @@
+A Tutorial on Distributed (Non-Bayesian) Learning: Problem, Algorithms and Results
+
+We overview some results on distributed learning with focus on a family of recently proposed algorithms known as non-Bayesian social learning. We consider different approaches to the distributed learning problem and its algorithmic solutions for the case of finitely many hypotheses. The original centralized problem is discussed at first, and then followed by a generalization to the distributed setting. The results on convergence and convergence rate are presented for both asymptotic and finite time regimes. Various extensions are discussed such as those dealing with directed time-varying networks, Nesterov's acceleration technique and a continuum sets of hypothesis.

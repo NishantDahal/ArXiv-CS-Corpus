@@ -1,0 +1,3 @@
+Refinement-based verification of sequential implementations of Stateflow charts
+
+Simulink/Stateflow charts are widely used in industry for the specification of control systems, which are often safety-critical. This suggests a need for a formal treatment of such models. In previous work, we have proposed a technique for automatic generation of formal models of Stateflow blocks to support refinement-based reasoning. In this article, we present a refinement strategy that supports the verification of automatically generated sequential C implementations of Stateflow charts. In particular, we discuss how this strategy can be specialised to take advantage of architectural features in order to allow a higher level of automation.

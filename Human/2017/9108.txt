@@ -1,0 +1,3 @@
+Aiming to Detect a malware of GSM frequency
+
+In order to find a specific type of malware which is related to GSM frequency, we propose an algorithm according to the most essential characteristics of this malware. At first, detect whether or not there exists a specific thread in the memory. And then, the generated binary strings will be tried to be matched with the one in the target computer. At last, determine whether this threat occurs or not. Furthermore, we study the effective of the new method via some simulations.

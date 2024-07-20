@@ -1,0 +1,3 @@
+Approximation of smallest linear tree grammar
+
+A simple linear-time algorithm for constructing a linear context-free tree grammar of size O(rg + r g log (n/r g))for a given input tree T of size n is presented, where g is the size of a minimal linear context-free tree grammar for T, and r is the maximal rank of symbols in T (which is a constant in many applications). This is the first example of a grammar-based tree compression algorithm with a good, i.e. logarithmic in terms of the size of the input tree, approximation ratio. The analysis of the algorithm uses an extension of the recompression technique from strings to trees.

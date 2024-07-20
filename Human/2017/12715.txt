@@ -1,0 +1,5 @@
+Online Inverse Reinforcement Learning via Bellman Gradient Iteration
+
+This paper develops an online inverse reinforcement learning algorithm aimed at efficiently recovering a reward function from ongoing observations of an agent's actions. To reduce the computation time and storage space in reward estimation, this work assumes that each observed action implies a change of the Q-value distribution, and relates the change to the reward function via the gradient of Q-value with respect to reward function parameter. The gradients are computed with a novel Bellman Gradient Iteration method that allows the reward function to be updated whenever a new observation is available. The method's convergence to a local optimum is proved.
+
+This work tests the proposed method in two simulated environments, and evaluates the algorithm's performance under a linear reward function and a non-linear reward function. The results show that the proposed algorithm only requires a limited computation time and storage space, but achieves an increasing accuracy as the number of observations grows. We also present a potential application to robot cleaners at home.

@@ -1,0 +1,3 @@
+Communication Complexity of Correlated Equilibrium in Two-Player Games
+
+We show a communication complexity lower bound for finding a correlated equilibrium of a two-player game. More precisely, we define a two-player $N \times N$ game called the 2-cycle game and show that the randomized communication complexity of finding a 1/poly($N$)-approximate correlated equilibrium of the 2-cycle game is $Ω(N)$. For small approximation values, this answers an open question of Babichenko and Rubinstein (STOC 2017). Our lower bound is obtained via a direct reduction from the unique set disjointness problem.

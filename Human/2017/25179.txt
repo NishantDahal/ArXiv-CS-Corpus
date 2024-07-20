@@ -1,0 +1,4 @@
+Joint Data-Aided Carrier Frequency Offset, Phase Offset, Amplitude and SNR Estimation for Millimeter-Wave MIMO Systems
+
+This work is devoted to solve the problem of estimating the carrier frequency offset, phase offset, amplitude, and SNR between two mmWave transceivers.
+  The Cramér-Rao Lower Bound (CRLB) for the different parameters is provided first, as well as the condition for the CRLB to exist, known as Regularity Condition. Thereafter, the problem of finding suitable estimators for the parameters is adressed, for which the proposed solution is the Maximum Likelihood estimator (ML).

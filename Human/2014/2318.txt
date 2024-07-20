@@ -1,0 +1,3 @@
+Computational Complexity of Smooth Differential Equations
+
+The computational complexity of the solutions $h$ to the ordinary differential equation $h(0)=0$, $h'(t) = g(t, h(t))$ under various assumptions on the function $g$ has been investigated. Kawamura showed in 2010 that the solution $h$ can be PSPACE-hard even if $g$ is assumed to be Lipschitz continuous and polynomial-time computable. We place further requirements on the smoothness of $g$ and obtain the following results: the solution $h$ can still be PSPACE-hard if $g$ is assumed to be of class $C^1$; for each $k\ge2$, the solution $h$ can be hard for the counting hierarchy even if $g$ is of class $C^k$.

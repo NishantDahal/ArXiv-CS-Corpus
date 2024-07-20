@@ -1,0 +1,3 @@
+Simulation Theorems via Pseudorandom Properties
+
+We generalize the deterministic simulation theorem of Raz and McKenzie [RM99], to any gadget which satisfies certain hitting property. We prove that inner-product and gap-Hamming satisfy this property, and as a corollary we obtain deterministic simulation theorem for these gadgets, where the gadget's input-size is logarithmic in the input-size of the outer function. This answers an open question posed by Göös, Pitassi and Watson [GPW15]. Our result also implies the previous results for the Indexing gadget, with better parameters than was previously known. A preliminary version of the results obtained in this work appeared in [CKL+17].

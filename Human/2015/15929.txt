@@ -1,0 +1,3 @@
+SAT-based Explicit LTL Reasoning
+
+We present here a new explicit reasoning framework for linear temporal logic (LTL), which is built on top of propositional satisfiability (SAT) solving. As a proof-of-concept of this framework, we describe a new LTL satisfiability tool, Aalta\_v2.0, which is built on top of the MiniSAT SAT solver. We test the effectiveness of this approach by demonnstrating that Aalta\_v2.0 significantly outperforms all existing LTL satisfiability solvers. Furthermore, we show that the framework can be extended from propositional LTL to assertional LTL (where we allow theory atoms), by replacing MiniSAT with the Z3 SMT solver, and demonstrating that this can yield an exponential improvement in performance.

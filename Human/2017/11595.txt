@@ -1,0 +1,5 @@
+What Does a Belief Function Believe In ?
+
+The conditioning in the Dempster-Shafer Theory of Evidence has been defined (by Shafer \cite{Shafer:90} as combination of a belief function and of an "event" via Dempster rule.
+  On the other hand Shafer \cite{Shafer:90} gives a "probabilistic" interpretation of a belief function (hence indirectly its derivation from a sample). Given the fact that conditional probability distribution of a sample-derived probability distribution is a probability distribution derived from a subsample (selected on the grounds of a conditioning event), the paper investigates the empirical nature of the Dempster- rule of combination.
+  It is demonstrated that the so-called "conditional" belief function is not a belief function given an event but rather a belief function given manipulation of original empirical data.\\ Given this, an interpretation of belief function different from that of Shafer is proposed. Algorithms for construction of belief networks from data are derived for this interpretation.

@@ -1,0 +1,3 @@
+Quantitative aspects of linear and affine closed lambda terms
+
+Affine $λ$-terms are $λ$-terms in which each bound variable occurs at most once and linear $λ$-terms are $λ$-terms in which each bound variables occurs once. and only once. In this paper we count the number of closed affine $λ$-terms of size $n$, closed linear $λ$-terms of size $n$, affine $β$-normal forms of size $n$ and linear $β$-normal forms of ise $n$, for different ways of measuring the size of $λ$-terms. From these formulas, we show how we can derive programs for generating all the terms of size $n$ for each class. For this we use a specific data structure, which are contexts taking into account all the holes at levels of abstractions.

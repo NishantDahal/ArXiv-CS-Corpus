@@ -1,0 +1,3 @@
+Low-Memory Adaptive Prefix Coding
+
+In this paper we study the adaptive prefix coding problem in cases where the size of the input alphabet is large. We present an online prefix coding algorithm that uses $O(σ^{1 / λ+ ε}) $ bits of space for any constants $\eps>0$, $λ>1$, and encodes the string of symbols in $O(\log \log σ)$ time per symbol \emph{in the worst case}, where $σ$ is the size of the alphabet. The upper bound on the encoding length is $λn H (s) +(λ\ln 2 + 2 + ε) n + O (σ^{1 / λ} \log^2 σ)$ bits.

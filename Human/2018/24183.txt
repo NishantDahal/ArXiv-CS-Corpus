@@ -1,0 +1,3 @@
+f-VAEs: Improve VAEs with Conditional Flows
+
+In this paper, we integrate VAEs and flow-based generative models successfully and get f-VAEs. Compared with VAEs, f-VAEs generate more vivid images, solved the blurred-image problem of VAEs. Compared with flow-based models such as Glow, f-VAE is more lightweight and converges faster, achieving the same performance under smaller-size architecture.

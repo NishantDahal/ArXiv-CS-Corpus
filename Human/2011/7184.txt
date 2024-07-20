@@ -1,0 +1,3 @@
+Towards realistic modeling of IP-level routing topology dynamics
+
+Many works have studied the Internet topology, but few have investigated the question of how it evolves over time. This paper focuses on the Internet routing IP-level topology and proposes a first step towards realistic modeling of its dynamics. We study periodic measurements of routing trees from a single monitor to a fixed destination set and identify invariant properties of its dynamics. We then propose a simple model for the underlying mechanisms of the topology dynamics. Simulations show that it effectively captures the observed behaviors, thus providing key insights of relevant mechanisms governing the Internet routing dynamics.

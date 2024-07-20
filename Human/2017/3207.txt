@@ -1,0 +1,3 @@
+A guiding vector field algorithm for path following control of nonholonomic mobile robots
+
+In this paper we propose an algorithm for path following control of the nonholonomic mobile robot based on the idea of the guiding vector field (GVF). The desired path may be an arbitrary smooth curve in its implicit form, that is, a level set of a predefined smooth function. Using this function and the robot's kinematic model, we design a GVF, whose integral curves converge to the trajectory. A nonlinear motion controller is then proposed which steers the robot along such an integral curve, bringing it to the desired path. We establish global convergence conditions for our algorithm and demonstrate its applicability and performance by experiments with real wheeled robots.

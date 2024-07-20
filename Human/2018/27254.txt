@@ -1,0 +1,3 @@
+Learning Multi-Layer Transform Models
+
+Learned data models based on sparsity are widely used in signal processing and imaging applications. A variety of methods for learning synthesis dictionaries, sparsifying transforms, etc., have been proposed in recent years, often imposing useful structures or properties on the models. In this work, we focus on sparsifying transform learning, which enjoys a number of advantages. We consider multi-layer or nested extensions of the transform model, and propose efficient learning algorithms. Numerical experiments with image data illustrate the behavior of the multi-layer transform learning algorithm and its usefulness for image denoising. Multi-layer models provide better denoising quality than single layer schemes.

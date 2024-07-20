@@ -1,0 +1,3 @@
+Büchi Types for Infinite Traces and Liveness
+
+We develop a new type and effect system based on Büchi automata to capture finite and infinite traces produced by programs in a small language which allows non-deterministic choices and infinite recursions. There are two key technical contributions: (a) an abstraction based on equivalence relations defined by the policy Büchi automaton, the Büchi abstraction; (b) a novel type and effect system to correctly capture infinite traces. We show how the Büchi abstraction fits into the abstract interpretation framework and show soundness and completeness.

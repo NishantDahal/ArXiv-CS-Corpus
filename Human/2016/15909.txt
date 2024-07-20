@@ -1,0 +1,3 @@
+A $2\ell k$ Kernel for $\ell$-Component Order Connectivity
+
+In the $\ell$-Component Order Connectivity problem ($\ell \in \mathbb{N}$), we are given a graph $G$ on $n$ vertices, $m$ edges and a non-negative integer $k$ and asks whether there exists a set of vertices $S\subseteq V(G)$ such that $|S|\leq k$ and the size of the largest connected component in $G-S$ is at most $\ell$. In this paper, we give a kernel for $\ell$-Component Order Connectivity with at most $2\ell k$ vertices that takes $n^{\mathcal{O}(\ell)}$ time for every constant $\ell$. On the way to obtaining our kernel, we prove a generalization of the $q$-Expansion Lemma to weighted graphs. This generalization may be of independent interest.

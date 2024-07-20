@@ -1,0 +1,3 @@
+Extending Message Passing Interface Windows to Storage
+
+This work presents an extension to MPI supporting the one-sided communication model and window allocations in storage. Our design transparently integrates with the current MPI implementations, enabling applications to target MPI windows in storage, memory or both simultaneously, without major modifications. Initial performance results demonstrate that the presented MPI window extension could potentially be helpful for a wide-range of use-cases and with low-overhead.

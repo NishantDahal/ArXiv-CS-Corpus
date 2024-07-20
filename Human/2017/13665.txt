@@ -1,0 +1,3 @@
+SEA-PARAM: Exploring Schedulers in Parametric MDPs
+
+We study parametric Markov decision processes (PMDPs) and their reachability probabilities "independent" of the parameters. Different to existing work on parameter synthesis (implemented in the tools PARAM and PRISM), our main focus is on describing different types of optimal deterministic memoryless schedulers for the whole parameter range. We implement a simple prototype tool SEA-PARAM that computes these optimal schedulers and show experimental results.

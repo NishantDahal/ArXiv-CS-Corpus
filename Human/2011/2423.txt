@@ -1,0 +1,3 @@
+A search for an optimal start system for numerical homotopy continuation
+
+We use our recent implementation of a certified homotopy tracking algorithm to search for start systems that minimize the average complexity of finding all roots of a regular system of polynomial equations. While finding optimal start systems is a hard problem, our experiments show that it is possible to find start systems that deliver better average complexity than the ones that are commonly used in the existing homotopy continuation software.

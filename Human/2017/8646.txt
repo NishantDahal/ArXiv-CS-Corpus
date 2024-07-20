@@ -1,0 +1,3 @@
+Imperative Functional Programs that Explain their Work
+
+Program slicing provides explanations that illustrate how program outputs were produced from inputs. We build on an approach introduced in prior work by Perera et al., where dynamic slicing was defined for pure higher-order functional programs as a Galois connection between lattices of partial inputs and partial outputs. We extend this approach to imperative functional programs that combine higher-order programming with references and exceptions. We present proofs of correctness and optimality of our approach and a proof-of-concept implementation and experimental evaluation.

@@ -1,0 +1,3 @@
+Longest Common Separable Pattern between Permutations
+
+In this article, we study the problem of finding the longest common separable pattern between several permutations. We give a polynomial-time algorithm when the number of input permutations is fixed and show that the problem is NP-hard for an arbitrary number of input permutations even if these permutations are separable. On the other hand, we show that the NP-hard problem of finding the longest common pattern between two permutations cannot be approximated better than within a ratio of $sqrt{Opt}$ (where $Opt$ is the size of an optimal solution) when taking common patterns belonging to pattern-avoiding classes of permutations.

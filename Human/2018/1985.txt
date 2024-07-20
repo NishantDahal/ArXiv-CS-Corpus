@@ -1,0 +1,3 @@
+A lattice formulation of the F4 completion procedure
+
+We write a procedure for constructing noncommutative Groebner bases. Reductions are done by particular linear projectors, called reduction operators. The operators enable us to use a lattice construction to reduce simultaneously each S-polynomial into a unique normal form. We write an implementation as well as an example to illustrate our procedure. Moreover, the lattice construction is done by Gaussian elimination, which relates our procedure to the F4 algorithm for constructing commutative Groebner bases.

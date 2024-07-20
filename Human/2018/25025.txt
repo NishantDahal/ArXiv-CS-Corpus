@@ -1,0 +1,3 @@
+Efficient Egocentric Visual Perception Combining Eye-tracking, a Software Retina and Deep Learning
+
+We present ongoing work to harness biological approaches to achieving highly efficient egocentric perception by combining the space-variant imaging architecture of the mammalian retina with Deep Learning methods. By pre-processing images collected by means of eye-tracking glasses to control the fixation locations of a software retina model, we demonstrate that we can reduce the input to a DCNN by a factor of 3, reduce the required number of training epochs and obtain over 98% classification rates when training and validating the system on a database of over 26,000 images of 9 object classes.

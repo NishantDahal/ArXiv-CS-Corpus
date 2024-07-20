@@ -1,0 +1,3 @@
+Periodicity of identifying codes in strips
+
+An identifying code in a graph is a subset of vertices having a nonempty and distinct intersection with the closed neighborhood of every vertex. We prove that the infimum density of any identifying code in $S_k$ (an infinite strip of $k$ rows in the square grid) can always be achieved by a periodic identifying code with pattern length at most $2^{4k}$. Assisted by a compute program implementing Karp's algorithm for minimum cycle mean, we find a periodic identifying code in $S_4$ with the minimum density $11/28$, and a periodic identifying code in $S_5$ with the minimum density $19/50$.

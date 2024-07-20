@@ -1,0 +1,3 @@
+Short-term prediction of localized cloud motion using ground-based sky imagers
+
+Fine-scale short-term cloud motion prediction is needed for several applications, including solar energy generation and satellite communications. In tropical regions such as Singapore, clouds are mostly formed by convection; they are very localized, and evolve quickly. We capture hemispherical images of the sky at regular intervals of time using ground-based cameras. They provide a high resolution and localized cloud images. We use two successive frames to compute optical flow and predict the future location of clouds. We achieve good prediction accuracy for a lead time of up to 5 minutes.

@@ -1,0 +1,3 @@
+The COMICS Tool - Computing Minimal Counterexamples for Discrete-time Markov Chains
+
+This report presents the tool COMICS, which performs model checking and generates counterexamples for DTMCs. For an input DTMC, COMICS computes an abstract system that carries the model checking information and uses this result to compute a critical subsystem, which induces a counterexample. This abstract subsystem can be refined and concretized hierarchically. The tool comes with a command-line version as well as a graphical user interface that allows the user to interactively influence the refinement process of the counterexample.

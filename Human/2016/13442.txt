@@ -1,0 +1,3 @@
+Counting Geodesic Paths in 1D VANETs
+
+In the IEEE 802.11p standard addressing vehicular communications, Basic Safety Messages (BSMs) can be bundled together and relayed as to increase the effective communication range of transmitting vehicles. This process forms a vehicular ad hoc network (VANET) for the dissemination of safety information. The number of "shortest multihop paths" (or geodesics) connecting two network nodes is an important statistic which can be used to enhance throughput, validate threat events, protect against collusion attacks, infer location information, and also limit redundant broadcasts thus reducing interference. To this end, we analytically calculate for the first time the mean and variance of the number of geodesics in 1D VANETs.

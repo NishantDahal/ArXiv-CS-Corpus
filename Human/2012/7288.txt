@@ -1,0 +1,3 @@
+Investigation of Hill Cipher Modifications Based on Permutation and Iteration
+
+Two recent Hill cipher modifications which iteratively use interweaving and interlacing are considered. We show that strength of these ciphers is due to non-linear transformation used in them (bit-level permutations). Impact of number of iterations on the avalanche effect is investigated. We propose two Hill cipher modifications using column swapping and arbitrary permutation with significantly less computational complexity (2 iterations are used versus 16). The proposed modifications decrease encryption time while keeping the strength of the ciphers. Numerical experiments for two proposed ciphers indicate that they can provide a substantial avalanche effect.

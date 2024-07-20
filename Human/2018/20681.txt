@@ -1,0 +1,3 @@
+Convolutional Neural Networks for Aerial Vehicle Detection and Recognition
+
+This paper investigates the problem of aerial vehicle recognition using a text-guided deep convolutional neural network classifier. The network receives an aerial image and a desired class, and makes a yes or no output by matching the image and the textual description of the desired class. We train and test our model on a synthetic aerial dataset and our desired classes consist of the combination of the class types and colors of the vehicles. This strategy helps when considering more classes in testing than in training.

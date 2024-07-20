@@ -1,0 +1,3 @@
+Deep Hybrid Scattering Image Learning
+
+A well-trained deep neural network is shown to gain capability of simultaneously restoring two kinds of images, which are completely destroyed by two distinct scattering medias respectively. The network, based on the U-net architecture, can be trained by blended dataset of speckles-reference images pairs. We experimentally demonstrate the power of the network in reconstructing images which are strongly diffused by glass diffuser or multi-mode fiber. The learning model further shows good generalization ability to reconstruct images that are distinguished from the training dataset. Our work facilitates the study of optical transmission and expands machine learning's application in optics.

@@ -1,0 +1,3 @@
+Lossy Compression with Near-uniform Encoder Outputs
+
+It is well known that lossless compression of a discrete memoryless source with near-uniform encoder output is possible at a rate above its entropy if and only if the encoder is randomized. This work focuses on deriving conditions for near-uniform encoder output(s) in the Wyner-Ziv and the distributed lossy compression problems. We show that in the Wyner-Ziv problem, near-uniform encoder output and operation close to the WZ-rate limit is simultaneously possible, whereas in the distributed lossy compression problem, jointly near-uniform outputs is achievable in the interior of the distributed lossy compression rate region if the sources share non-trivial Gács-Körner common information.

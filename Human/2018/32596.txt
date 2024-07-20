@@ -1,0 +1,3 @@
+Estimating Shell-Index in a Graph with Local Information
+
+For network scientists, it has always been an interesting problem to identify the influential nodes in a given network. The k-shell decomposition method is a widely used method which assigns a shell-index value to each node based on its influential power. The k-shell method requires the global information of the network to compute the shell-index of a node that is infeasible for large-scale real-world dynamic networks. In this work, we propose a method to estimate the shell-index of a node using its local information. We also propose hill-climbing based approach to hit the top-ranked nodes in a small number of steps. We further discuss a method to estimate the rank of a node based on the proposed estimator.

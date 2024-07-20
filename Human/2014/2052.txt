@@ -1,0 +1,3 @@
+Variational Free Energies for Compressed Sensing
+
+We consider the variational free energy approach for compressed sensing. We first show that the naïve mean field approach performs remarkably well when coupled with a noise learning procedure. We also notice that it leads to the same equations as those used for iterative thresholding. We then discuss the Bethe free energy and how it corresponds to the fixed points of the approximate message passing algorithm. In both cases, we test numerically the direct optimization of the free energies as a converging sparse-estimationalgorithm.

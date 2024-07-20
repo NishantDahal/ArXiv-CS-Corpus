@@ -1,0 +1,3 @@
+A tight Erdős-Pósa function for wheel minors
+
+Let $W_t$ denote the wheel on $t+1$ vertices. We prove that for every integer $t \geq 3$ there is a constant $c=c(t)$ such that for every integer $k\geq 1$ and every graph $G$, either $G$ has $k$ vertex-disjoint subgraphs each containing $W_t$ as minor, or there is a subset $X$ of at most $c k \log k$ vertices such that $G-X$ has no $W_t$ minor. This is best possible, up to the value of $c$. We conjecture that the result remains true more generally if we replace $W_t$ with any fixed planar graph $H$.

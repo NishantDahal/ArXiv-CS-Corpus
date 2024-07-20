@@ -1,0 +1,4 @@
+A Second Step Towards Complexity-Theoretic Analogs of Rice's Theorem
+
+Rice's Theorem states that every nontrivial language property of the recursively enumerable sets is undecidable. Borchert and Stephan initiated the search for complexity-theoretic analogs of Rice's Theorem. In particular, they proved that every nontrivial counting property of circuits is UP-hard, and that a number of closely related problems are SPP-hard.
+  The present paper studies whether their UP-hardness result itself can be improved to SPP-hardness. We show that their UP-hardness result cannot be strengthened to SPP-hardness unless unlikely complexity class containments hold. Nonetheless, we prove that every P-constructibly bi-infinite counting property of circuits is SPP-hard. We also raise their general lower bound from unambiguous nondeterminism to constant-ambiguity nondeterminism.

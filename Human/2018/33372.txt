@@ -1,0 +1,3 @@
+Finite State Machines for Semantic Scene Parsing and Segmentation
+
+We introduce in this work a novel stochastic inference process, for scene annotation and object class segmentation, based on finite state machines (FSMs). The design principle of our framework is generative and based on building, for a given scene, finite state machines that encode annotation lattices, and inference consists in finding and scoring the best configurations in these lattices. Different novel operations are defined using our FSM framework including reordering, segmentation, visual transduction, and label dependency modeling. All these operations are combined together in order to achieve annotation as well as object class segmentation.

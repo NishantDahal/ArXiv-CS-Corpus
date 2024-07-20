@@ -1,0 +1,3 @@
+A note on the edge partition of graphs containing either a light edge or an alternating 2-cycle
+
+Let $\mathcal{G}_α$ be a hereditary graph class (i.e, every subgraph of $G_α\in \mathcal{G}_α$ belongs to $\mathcal{G}_α$) such that every graph $G_α$ in $\mathcal{G}_α$ has minimum degree at most 1, or contains either an edge $uv$ such that $d_{G_α}(u)+d_{G_α}(v)\leq α$ or a 2-alternating cycle. It is proved that every graph in $\mathcal{G}_α$ ($α\geq 5$) with maximum degree $Δ$ can be edge-partitioned into two forests $F_1$, $F_2$ and a subgraph $H$ such that $Δ(F_i)\leq \max\{2,\lceil\frac{Δ-α+6}{2}\rceil\}$ for $i=1,2$ and $Δ(H)\leq α-5$.

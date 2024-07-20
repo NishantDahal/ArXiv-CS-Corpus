@@ -1,0 +1,9 @@
+Abstract Mining
+
+We have developed an application that will take a "MEDLINE" output from the PubMed database and allows the user to cluster all non-trivial words of the abstracts of the PubMed output. The number of clusters to use can be selected by the user.
+  A specific cluster may be selected, and the PMIDs and dates for all publications in the selected cluster are displayed underneath. See figure 2, where cluster 12 is selected.
+  The application also has an "Abstracts" tab, where the abstracts for the selected cluster can be perused. Here, it is also possible to download a HTML file containing the PMID, date, title, and abstract for each publication in the selected cluster.
+  A third tab is called "Titles", where all the titles for the selected cluster are displayed.
+  Via a "Use Cluster" button, the selected Cluster can itself be clustered. A "Back" button allows the user to return to any previous state.
+  Finally, it is also possible to exclude documents whose abstracts contain certain words (see figure 3).
+  The application will allow researchers to enter general search terms in the PubMed search engine, then use the application to search for publications of special interest within those search terms.

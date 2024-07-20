@@ -1,0 +1,4 @@
+Automatic Verification of Message-Based Device Drivers
+
+We develop a practical solution to the problem of automatic verification of the interface between device drivers and the OS.  Our solution relies on a combination of improved driver architecture and verification tools.  It supports drivers written in C and can be implemented in any existing OS, which sets it apart from previous proposals for verification-friendly drivers.  Our Linux-based evaluation shows that this methodology amplifies the power of existing verification tools in detecting driver bugs, making it possible to verify properties beyond the reach of traditional techniques.
+

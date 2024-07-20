@@ -1,0 +1,5 @@
+On the Eavesdropper's Correct Decision in Gaussian and Fading Wiretap Channels Using Lattice Codes
+
+In this paper, the probability of Eve the Eavesdropper's correct decision is considered both in the Gaussian and Rayleigh fading wiretap channels when using lattice codes for the transmission.
+  First, it is proved that the secrecy function determining Eve's performance attains its maximum at y=1 on all known extremal even unimodular lattices. This is a special case of a conjecture by Belfiore and Solé. Further, a very simple method to verify or disprove the conjecture on any given unimodular lattice is given.
+  Second, preliminary analysis on the behavior of Eve's probability of correct decision in the fast fading wiretap channel is provided. More specifically, we compute the truncated inverse norm power sum factors in Eve's probability expression. The analysis reveals a performance-secrecy-complexity tradeoff: relaxing on the legitimate user's performance can significantly increase the security of transmission. The confusion experienced by the eavesdropper may be further increased by using skewed lattices, but at the cost of increased complexity.

@@ -1,0 +1,3 @@
+Convolutional Sparse Coding: Boundary Handling Revisited
+
+Two different approaches have recently been proposed for boundary handling in convolutional sparse representations, avoiding potential boundary artifacts arising from the circular boundary conditions implied by the use of frequency domain solution methods by introducing a spatial mask into the convolutional sparse coding problem. In the present paper we show that, under certain circumstances, these methods fail in their design goal of avoiding boundary artifacts. The reasons for this failure are discussed, a solution is proposed, and the practical implications are illustrated in an image deblurring problem.

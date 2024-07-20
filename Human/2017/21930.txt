@@ -1,0 +1,3 @@
+Learnings Options End-to-End for Continuous Action Tasks
+
+We present new results on learning temporally extended actions for continuoustasks, using the options framework (Suttonet al.[1999b], Precup [2000]). In orderto achieve this goal we work with the option-critic architecture (Baconet al.[2017])using a deliberation cost and train it with proximal policy optimization (Schulmanet al.[2017]) instead of vanilla policy gradient. Results on Mujoco domains arepromising, but lead to interesting questions aboutwhena given option should beused, an issue directly connected to the use of initiation sets.

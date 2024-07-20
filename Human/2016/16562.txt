@@ -1,0 +1,3 @@
+MmmTurkey: A Crowdsourcing Framework for Deploying Tasks and Recording Worker Behavior on Amazon Mechanical Turk
+
+Internal HITs on Mechanical Turk can be programmatically restrictive, and as a result, many requesters turn to using external HITs as a more flexible alternative. However, creating such HITs can be redundant and time-consuming. We present MmmTurkey, a framework that enables researchers to not only quickly create and manage external HITs, but more significantly also capture and record detailed worker behavioral data characterizing how each worker completes a given task.

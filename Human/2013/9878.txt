@@ -1,0 +1,3 @@
+Gaussian Processes for Nonlinear Signal Processing
+
+Gaussian processes (GPs) are versatile tools that have been successfully employed to solve nonlinear estimation problems in machine learning, but that are rarely used in signal processing. In this tutorial, we present GPs for regression as a natural nonlinear extension to optimal Wiener filtering. After establishing their basic formulation, we discuss several important aspects and extensions, including recursive and adaptive algorithms for dealing with non-stationarity, low-complexity solutions, non-Gaussian noise models and classification scenarios. Furthermore, we provide a selection of relevant applications to wireless digital communications.

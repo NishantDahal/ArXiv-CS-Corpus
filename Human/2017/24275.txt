@@ -1,0 +1,3 @@
+Periodic balanced binary triangles
+
+A binary triangle of size $n$ is a triangle of zeroes and ones, with $n$ rows, built with the same local rule as the standard Pascal triangle modulo $2$. A binary triangle is said to be balanced if the absolute difference between the numbers of zeroes and ones that constitute this triangle is at most $1$. In this paper, the existence of balanced binary triangles of size $n$, for all positive integers $n$, is shown. This is achieved by considering periodic balanced binary triangles, that are balanced binary triangles where each row, column or diagonal is a periodic sequence.

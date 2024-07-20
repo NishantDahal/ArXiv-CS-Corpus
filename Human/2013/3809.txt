@@ -1,0 +1,3 @@
+A Step-Indexing Approach to Partial Functions
+
+We describe an ACL2 package for defining partial recursive functions that also supports efficient execution. While packages for defining partial recursive functions already exist for other theorem provers, they often require inductive definitions or recursion operators which are not available in ACL2 and they provide little, if any, support for executing the resulting definitions. We use step-indexing as the underlying implementation technology, enabling the definitions to be carried out in first order logic. We also show how recent enhancements to ACL2's guard feature can be used to enable the efficient execution of partial recursive functions.

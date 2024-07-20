@@ -1,0 +1,3 @@
+How to choose a PIN - assessment of dictionary methods
+
+Personal Identification Numbers (PINs) are commonly used as an authentication mechanism. An important security requirement is that PINs should be hard to guess for an attacker. On the other hand, remembering several random PINs can be difficult task for an individual. We evaluate several dictionary-based methods of choosing a PIN. We experimentally show that these methods are far from ideal with respect to expected covering of the PIN space and the entropy of PINs. We also discuss two methods for constructing easy to memorize PIN words for randomly chosen PINs.

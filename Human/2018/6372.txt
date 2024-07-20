@@ -1,0 +1,3 @@
+Arbitrary Discrete Sequence Anomaly Detection with Zero Boundary LSTM
+
+We propose a simple mathematical definition and new neural architecture for finding anomalies within discrete sequence datasets. Our model comprises of a modified LSTM autoencoder and an array of One-Class SVMs. The LSTM takes in elements from a sequence and creates context vectors that are used to predict the probability distribution of the following element. These context vectors are then used to train an array of One-Class SVMs. These SVMs are used to determine an outlier boundary in context space.We show that our method is consistently more stable and also outperforms standard LSTM and sliding window anomaly detection systems on two generated datasets.

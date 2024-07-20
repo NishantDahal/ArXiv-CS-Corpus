@@ -1,0 +1,5 @@
+Speeding up shortest path algorithms
+
+Given an arbitrary, non-negatively weighted, directed graph $G=(V,E)$ we present an algorithm that computes all pairs shortest paths in time $\mathcal{O}(m^* n + m \lg n + nT_ψ(m^*, n))$, where $m^*$ is the number of different edges contained in shortest paths and $T_ψ(m^*, n)$ is a running time of an algorithm to solve a single-source shortest path problem (SSSP). This is a substantial improvement over a trivial $n$ times application of $ψ$ that runs in $\mathcal{O}(nT_ψ(m,n))$. In our algorithm we use $ψ$ as a black box and hence any improvement on $ψ$ results also in improvement of our algorithm.
+  Furthermore, a combination of our method, Johnson's reweighting technique and topological sorting results in an $\mathcal{O}(m^*n + m \lg n)$ all-pairs shortest path algorithm for arbitrarily-weighted directed acyclic graphs.
+  In addition, we also point out a connection between the complexity of a certain sorting problem defined on shortest paths and SSSP.

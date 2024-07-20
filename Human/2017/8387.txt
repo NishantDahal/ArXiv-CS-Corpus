@@ -1,0 +1,3 @@
+Inapproximability of VC Dimension and Littlestone's Dimension
+
+We study the complexity of computing the VC Dimension and Littlestone's Dimension. Given an explicit description of a finite universe and a concept class (a binary matrix whose $(x,C)$-th entry is $1$ iff element $x$ belongs to concept $C$), both can be computed exactly in quasi-polynomial time ($n^{O(\log n)}$). Assuming the randomized Exponential Time Hypothesis (ETH), we prove nearly matching lower bounds on the running time, that hold even for approximation algorithms.

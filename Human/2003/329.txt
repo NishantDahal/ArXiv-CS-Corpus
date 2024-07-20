@@ -1,0 +1,3 @@
+OVAL: the CMS Testing Robot
+
+Oval is a testing tool which help developers to detect unexpected changes in the behavior of their software. It is able to automatically compile some test programs, to prepare on the fly the needed configuration files, to run the tests within a specified Unix environment, and finally to analyze the output and check expectations. Oval does not provide utility code to help writing the tests, therefore it is quite independant of the programming/scripting language of the software to be tested. It can be seen as a kind of robot which apply the tests and warn about any unexpected change in the output. Oval was developed by the LLR laboratory for the needs of the CMS experiment, and it is now recommended by the CERN LCG project.

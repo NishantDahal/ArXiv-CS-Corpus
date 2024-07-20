@@ -1,0 +1,3 @@
+Sublinear but Never Superlinear Preferential Attachment by Local Network Growth
+
+We investigate a class of network growth rules that are based on a redirection algorithm wherein new nodes are added to a network by linking to a randomly chosen target node with some probability 1-r or linking to the parent node of the target node with probability r. For fixed 0<r<1, the redirection algorithm is equivalent to linear preferential attachment. We show that when r is a decaying function of the degree of the parent of the initial target, the redirection algorithm produces sublinear preferential attachment network growth. We also argue that no local redirection algorithm can produce superlinear preferential attachment.

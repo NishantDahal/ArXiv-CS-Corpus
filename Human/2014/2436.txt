@@ -1,0 +1,3 @@
+Compressed Sensing Matrices: Binary vs. Ternary
+
+Binary matrix and ternary matrix are two types of popular sensing matrices in compressed sensing for their competitive performance and low computation. However, to the best of our knowledge, there seems no literature aiming at evaluating their performances if they hold the same sparisty, though it is of practical importance. Based on both RIP analysis and numerical simulations, this paper, for the first time, discloses that {0, 1} binary matrix holds better overall performance over {0, +1, -1} ternary matrix, if they share the same distribution on nonzero positions.

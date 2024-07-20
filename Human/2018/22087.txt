@@ -1,0 +1,3 @@
+Variational Information Bottleneck on Vector Quantized Autoencoders
+
+In this paper, we provide an information-theoretic interpretation of the Vector Quantized-Variational Autoencoder (VQ-VAE). We show that the loss function of the original VQ-VAE can be derived from the variational deterministic information bottleneck (VDIB) principle. On the other hand, the VQ-VAE trained by the Expectation Maximization (EM) algorithm can be viewed as an approximation to the variational information bottleneck(VIB) principle.

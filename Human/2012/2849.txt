@@ -1,0 +1,3 @@
+SecureSMART: A Security Architecture for BFT Replication Libraries
+
+Several research projects have shown that Byzantine fault tolerance (BFT) is practical today in terms of performance. Deficiencies in other aspects might still be an obstacle to a more wide-spread deployment in real-world applications. One of these aspects is an over-all security architecture beyond the low-level protocol. This paper proposes the security architecture SecureSMART, which provides dynamic key distribution, internal and external integrity and confidentiality measures, as well as mechanisms for availability and access control. For this purpose, it implements security mechanism among clients, nodes and an external trust center.

@@ -1,0 +1,4 @@
+A Witness Extraction Technique by Proof Normalization Based on Interactive Realizability
+
+We present a new set of reductions for derivations in natural deduction that can extract witnesses from closed derivations of simply existential formulas in Heyting Arithmetic (HA) plus the Excluded Middle Law restricted to simply existential formulas (EM1), a system motivated by its interest in proof mining.
+  The reduction we have for classical logic are quite different from all existing ones. They are inspired by the informal idea of learning by making falsifiable hypothesis and checking them, and by the interactive realizability interpretation. We extract the witnesses directly from derivations in HA+EM1 by reduction, without encoding derivations by a realizability interpretation.

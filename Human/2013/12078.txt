@@ -1,0 +1,3 @@
+A quantum genetic algorithm with quantum crossover and mutation operations
+
+In the context of evolutionary quantum computing in the literal meaning, a quantum crossover operation has not been introduced so far. Here, we introduce a novel quantum genetic algorithm which has a quantum crossover procedure performing crossovers among all chromosomes in parallel for each generation. A complexity analysis shows that a quadratic speedup is achieved over its classical counterpart in the dominant factor of the run time to handle each generation.

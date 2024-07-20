@@ -1,0 +1,3 @@
+An $O(n^{0.4732})$ upper bound on the complexity of the GKS communication game
+
+We give an $5\cdot n^{\log_{30}5}$ upper bund on the complexity of the communication game introduced by G. Gilmer, M. Koucký and M. Saks \cite{saks} to study the Sensitivity Conjecture \cite{linial}, improving on their $\sqrt{999\over 1000}\sqrt{n}$ bound. We also determine the exact complexity of the game up to $n\le 9$.

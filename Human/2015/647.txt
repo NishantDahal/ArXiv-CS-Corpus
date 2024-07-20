@@ -1,0 +1,3 @@
+HOG based Fast Human Detection
+
+Objects recognition in image is one of the most difficult problems in computer vision. It is also an important step for the implementation of several existing applications that require high-level image interpretation. Therefore, there is a growing interest in this research area during the last years. In this paper, we present an algorithm for human detection and recognition in real-time, from images taken by a CCD camera mounted on a car-like mobile robot. The proposed technique is based on Histograms of Oriented Gradient (HOG) and SVM classifier. The implementation of our detector has provided good results, and can be used in robotics tasks.

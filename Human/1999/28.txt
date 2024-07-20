@@ -1,0 +1,3 @@
+A New Ranking Principle for Multimedia Information Retrieval
+
+A theoretic framework for multimedia information retrieval is introduced which guarantees optimal retrieval effectiveness. In particular, a Ranking Principle for Distributed Multimedia-Documents (RPDM) is described together with an algorithm that satisfies this principle. Finally, the RPDM is shown to be a generalization of the Probability Ranking principle (PRP) which guarantees optimal retrieval effectiveness in the case of text document retrieval. The PRP justifies theoretically the relevance ranking adopted by modern search engines. In contrast to the classical PRP, the new RPDM takes into account transmission and inspection time, and most importantly, aspectual recall rather than simple recall.

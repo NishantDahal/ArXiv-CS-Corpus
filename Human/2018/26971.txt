@@ -1,0 +1,3 @@
+A Social Network Analysis of Articles on Social Network Analysis
+
+A collection of articles on the statistical modelling and inference of social networks is analysed in a network fashion. The references of these articles are used to construct a citation network data set, which is almost a directed acyclic graph because only existing articles can be cited. A mixed membership stochastic block model is then applied to this data set to soft cluster the articles. The results obtained from a Gibbs sampler give us insights into the influence and the categorisation of these articles.

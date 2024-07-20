@@ -1,0 +1,3 @@
+Wikis in Tuple Spaces
+
+We consider storing the pages of a wiki in a tuple space and the effects this might have on the wiki experience. In particular, wiki pages are stored in tuples with a few identifying values such as title, author, revision date, content, etc. and pages are retrieved by sending the tuple space templates, such as one that gives the title but nothing else, leaving the tuple space to resolve to a single tuple. We use a tuple space wiki to avoid deadlocks, infinite loops, and wasted efforts when page edit contention arises and examine how a tuple space wiki changes the wiki experience.

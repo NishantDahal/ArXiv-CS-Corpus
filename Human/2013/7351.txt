@@ -1,0 +1,4 @@
+The Fitness Level Method with Tail Bounds
+
+The fitness-level method, also called the method of f-based partitions, is an intuitive and widely used technique for the running time analysis of randomized search heuristics. It was originally defined to prove upper and lower bounds on the expected running time. Recently, upper tail bounds were added to the technique; however, these tail bounds only apply to running times that are at least twice as large as the expectation.
+  We remove this restriction and supplement the fitness-level method with sharp tail bounds, including lower tails. As an exemplary application, we prove that the running time of randomized local search on OneMax is sharply concentrated around n ln n - 0.1159 n.

@@ -1,0 +1,3 @@
+PAM: When Overloaded, Push Your Neighbor Aside!
+
+Recently SmartNICs are widely used to accelerate service chains in NFV. However, when the SmartNIC is overloaded, casually migrating vNFs away from SmartNIC to CPU may lead to additional packet transmissions between SmartNIC and CPU. To address this problem, we present PAM, push aside migration to effectively alleviate the hot spot on SmartNIC with no performance overhead. Our key novelty is to push vNFs on the border of SmartNIC and CPU aside to release resources for the bottleneck vNF. Evaluation shows that PAM could efficiently alleviate the hot spot on SmartNIC and generate a service chain with much lower latency compared with the naive solution.

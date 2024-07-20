@@ -1,0 +1,3 @@
+Keyphrase Extraction : Enhancing Lists
+
+This paper proposes some modest improvements to Extractor, a state-of-the-art keyphrase extraction system, by using a terabyte-sized corpus to estimate the informativeness and semantic similarity of keyphrases. We present two techniques to improve the organization and remove outliers of lists of keyphrases. The first is a simple ordering according to their occurrences in the corpus; the second is clustering according to semantic similarity. Evaluation issues are discussed. We present a novel technique of comparing extracted keyphrases to a gold standard which relies on semantic similarity rather than string matching or an evaluation involving human judges.

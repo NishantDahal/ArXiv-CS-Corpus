@@ -1,0 +1,3 @@
+On the Impossibility of Learning the Missing Mass
+
+This paper shows that one cannot learn the probability of rare events without imposing further structural assumptions. The event of interest is that of obtaining an outcome outside the coverage of an i.i.d. sample from a discrete distribution. The probability of this event is referred to as the "missing mass". The impossibility result can then be stated as: the missing mass is not distribution-free PAC-learnable in relative error. The proof is semi-constructive and relies on a coupling argument using a dithered geometric distribution. This result formalizes the folklore that in order to predict rare events, one necessarily needs distributions with "heavy tails".

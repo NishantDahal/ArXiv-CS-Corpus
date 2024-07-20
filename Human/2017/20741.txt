@@ -1,0 +1,3 @@
+Using modular decomposition technique to solve the maximum clique problem
+
+In this article we use the modular decomposition technique for exact solving the weighted maximum clique problem. Our algorithm takes the modular decomposition tree from the paper of Tedder et. al. and finds solution recursively. Also, we propose algorithms to construct graphs with modules. We show some interesting results, comparing our solution with Ostergard's algorithm on DIMACS benchmarks and on generated graphs

@@ -1,0 +1,3 @@
+Verification of Binarized Neural Networks via Inter-Neuron Factoring
+
+We study the problem of formal verification of Binarized Neural Networks (BNN), which have recently been proposed as a energy-efficient alternative to traditional learning networks. The verification of BNNs, using the reduction to hardware verification, can be even more scalable by factoring computations among neurons within the same layer. By proving the NP-hardness of finding optimal factoring as well as the hardness of PTAS approximability, we design polynomial-time search heuristics to generate factoring solutions. The overall framework allows applying verification techniques to moderately-sized BNNs for embedded devices with thousands of neurons and inputs.

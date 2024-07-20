@@ -1,0 +1,3 @@
+Link Prediction using Top-$k$ Shortest Distances
+
+In this paper, we apply an efficient top-$k$ shortest distance routing algorithm to the link prediction problem and test its efficacy. We compare the results with other base line and state-of-the-art methods as well as with the shortest path. Our results show that using top-$k$ distances as a similarity measure outperforms classical similarity measures such as Jaccard and Adamic/Adar.

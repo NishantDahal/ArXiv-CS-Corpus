@@ -1,0 +1,3 @@
+An efficient algorithm computing composition factors of $T(V)^{\otimes n}$
+
+We present an algorithm that computes the composition factors of the n-th tensor power of the free associative algebra on a vector space. The composition factors admit a description in terms of certain coefficients $c_{λμ}$ determining their irreducible structure. By reinterpreting these coefficients as counting the number of ways to solve certain `decomposition-puzzles' we are able to design an efficient algorithm extending the range of computation by a factor of over 750. Furthermore, by visualising the data appropriately, we gain insights into the nature of the coefficients leading to the development of a new representation theoretic framework called PD-modules.

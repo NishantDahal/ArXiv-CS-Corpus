@@ -1,0 +1,3 @@
+Kolmogorov Complexity of Categories
+
+Kolmogorov complexity theory is used to tell what the algorithmic informational content of a string is. It is defined as the length of the shortest program that describes the string. We present a programming language that can be used to describe categories, functors, and natural transformations. With this in hand, we define the informational content of these categorical structures as the shortest program that describes such structures. Some basic consequences of our definition are presented including the fact that equivalent categories have equal Kolmogorov complexity. We also prove different theorems about what can and cannot be described by our programming language.

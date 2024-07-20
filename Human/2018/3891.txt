@@ -1,0 +1,3 @@
+Note: Distance-Based Network Partitioning
+
+A new method for identifying soft communities in networks is proposed. Reference nodes, either selected using a priori information about the network or according to relevant node measurements, are obtained. Distance vectors between each network node and the reference nodes are then used for defining a multidimensional coordinate system representing the community structure of the network at many different scales. For modular networks, the distribution of nodes in this space often results in a well-separated clustered structure, with each cluster corresponding to a community. The potential of the method is illustrated with respect to a spatial network model and the Zachary's karate club network.

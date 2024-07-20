@@ -1,0 +1,4 @@
+A Visual Query Language for Complex-Value Databases
+
+In this paper, a visual language, VCP, for queries on complex-value databases is proposed. The main strength of the new language is that it is purely visual: (i) It has no notion of variable, quantification, partiality, join, pattern matching, regular expression, recursion, or any other construct proper to logical, functional, or other database query languages and (ii) has a very natural, strong, and intuitive design metaphor. The main operation is that of copying and pasting in a schema tree.
+  We show that despite its simplicity, VCP precisely captures complex-value algebra without powerset, or equivalently, monad algebra with union and difference. Thus, its expressive power is precisely that of the language that is usually considered to play the role of relational algebra for complex-value databases.

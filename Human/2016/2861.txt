@@ -1,0 +1,5 @@
+An Arithmetic Analogue of Fox's Triangle Removal Argument
+
+We give an arithmetic version of the recent proof of the triangle removal lemma by Fox [Fox11], for the group $\mathbb{F}_2^n$.
+  A triangle in $\mathbb{F}_2^n$ is a triple $(x,y,z)$ such that $x+y+z = 0$. The triangle removal lemma for $\mathbb{F}_2^n$ states that for every $ε> 0$ there is a $δ> 0$, such that if a subset $A$ of $\mathbb{F}_2^n$ requires the removal of at least $ε\cdot 2^n$ elements to make it triangle-free, then it must contain at least $δ\cdot 2^{2n}$ triangles. This problem was first studied by Green [Gre05] who proved a lower bound on $δ$ using an arithmetic regularity lemma. Regularity based lower bounds for triangle removal in graphs were recently improved by Fox and we give a direct proof of an analogous improvement for triangle removal in $\mathbb{F}_2^n$.
+  The improved lower bound was already known to follow (for triangle-removal in all groups), using Fox's removal lemma for directed cycles and a reduction by Král, Serra and Vena [KSV09] (see [Fox11,CF13]). The purpose of this note is to provide a direct Fourier-analytic proof for the group $\mathbb{F}_2^n.$

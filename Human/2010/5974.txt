@@ -1,0 +1,3 @@
+Compressed Sensing and Redundant Dictionaries
+
+This article extends the concept of compressed sensing to signals that are not sparse in an orthonormal basis but rather in a redundant dictionary. It is shown that a matrix, which is a composition of a random matrix of certain type and a deterministic dictionary, has small restricted isometry constants. Thus, signals that are sparse with respect to the dictionary can be recovered via Basis Pursuit from a small number of random measurements. Further, thresholding is investigated as recovery algorithm for compressed sensing and conditions are provided that guarantee reconstruction with high probability. The different schemes are compared by numerical experiments.

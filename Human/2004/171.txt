@@ -1,0 +1,3 @@
+Knowledge And The Action Description Language A
+
+We introduce Ak, an extension of the action description language A (Gelfond and Lifschitz, 1993) to handle actions which affect knowledge. We use sensing actions to increase an agent's knowledge of the world and non-deterministic actions to remove knowledge. We include complex plans involving conditionals and loops in our query language for hypothetical reasoning. We also present a translation of Ak domain descriptions into epistemic logic programs.

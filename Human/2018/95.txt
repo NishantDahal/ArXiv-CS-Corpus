@@ -1,0 +1,3 @@
+A Linear Complementarity Theorem to solve any Satisfiability Problem in conjunctive normal form in polynomial time
+
+Any satisfiability problem in conjunctive normal form can be solved in polynomial time by reducing it to a 3-sat formulation and transforming this to a Linear Complementarity problem (LCP) which is then solved as a linear program (LP). Any instance in this problem class, reduced to a LCP may be solved, provided certain necessary and sufficient conditions hold. The proof that these conditions will be satisfied for all problems in this class is the contribution of this paper and this derivation requires a nonlinear Instrumentalist methodology rather than a Realistic one and confirms the advantages of a Variational Inequalities implementation.

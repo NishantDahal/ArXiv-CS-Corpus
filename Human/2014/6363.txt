@@ -1,0 +1,5 @@
+The asymptotic complexity of matrix reduction over finite fields
+
+Consider an invertible n \times n matrix over some field. The Gauss-Jordan elimination reduces this matrix to the identity matrix using at most n^2 row operations and in general that many operations might be needed.
+  In [1] the authors considered matrices in GL(n;q), the set of n \times n invertible matrices in the finite field of q elements, and provided an algorithm using only row operations which performs asymptotically better than the Gauss-Jordan elimination. More specifically their `striped elimination algorithm' has asymptotic complexity \frac{n^2}{\log_q{n}}. Furthermore they proved that up to a constant factor this algorithm is best possible as almost all matrices in GL(n;g) need asymptotically at least \frac{n^2}{2\log_q{n}} operations.
+  In this short note we show that the `striped elimination algorithm' is asymptotically optimal by proving that almost all matrices in GL(n;q) need asymptotically at least frac{n^2}{\log_q{n}} operations.

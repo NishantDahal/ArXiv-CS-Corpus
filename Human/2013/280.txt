@@ -1,0 +1,3 @@
+A simple and fast algorithm for computing exponentials of power series
+
+As was initially shown by Brent, exponentials of truncated power series can be computed using a constant number of polynomial multiplications. This note gives a relatively simple algorithm with a low constant factor.

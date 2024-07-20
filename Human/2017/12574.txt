@@ -1,0 +1,3 @@
+L infinity Isotonic Regression for Linear, Multidimensional, and Tree Orders
+
+Algorithms are given for determining $L_\infty$ isotonic regression of weighted data. For a linear order, grid in multidimensional space, or tree, of $n$ vertices, optimal algorithms are given, taking $Θ(n)$ time. These improve upon previous algorithms by a factor of $Ω(\log n)$. For vertices at arbitrary positions in $d$-dimensional space a $Θ(n \log^{d-1} n)$ algorithm employs iterative sorting to yield the functionality of a multidimensional structure while using only $Θ(n)$ space. The algorithms utilize a new non-constructive feasibility test on a rendezvous graph, with bounded error envelopes at each vertex.

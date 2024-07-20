@@ -1,0 +1,4 @@
+Scheduling on (Un-)Related Machines with Setup Times
+
+We consider a natural generalization of scheduling $n$ jobs on $m$ parallel machines so as to minimize the makespan. In our extension the set of jobs is partitioned into several classes and a machine requires a setup whenever it switches from processing jobs of one class to jobs of a different class. During such a setup, a machine cannot process jobs and the duration of a setup may depend on the machine as well as the class of the job to be processed next.
+  For this problem, we study approximation algorithms for non-identical machines. We develop a polynomial-time approximation scheme for uniformly related machines. For unrelated machines we obtain an $O(\log n + \log m)$-approximation, which we show to be optimal (up to constant factors) unless $NP \subset RP$. We also identify two special cases that admit constant factor approximations.

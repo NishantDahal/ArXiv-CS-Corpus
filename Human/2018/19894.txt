@@ -1,0 +1,3 @@
+Verification of PCP-Related Computational Reductions in Coq
+
+We formally verify several computational reductions concerning the Post correspondence problem (PCP) using the proof assistant Coq. Our verifications include a reduction of a string rewriting problem generalising the halting problem for Turing machines to PCP, and reductions of PCP to the intersection problem and the palindrome problem for context-free grammars. Interestingly, rigorous correctness proofs for some of the reductions are missing in the literature.

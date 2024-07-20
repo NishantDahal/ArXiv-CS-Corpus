@@ -1,0 +1,3 @@
+Deep Galaxy: Classification of Galaxies based on Deep Convolutional Neural Networks
+
+In this paper, a deep convolutional neural network architecture for galaxies classification is presented. The galaxy can be classified based on its features into main three categories Elliptical, Spiral, and Irregular. The proposed deep galaxies architecture consists of 8 layers, one main convolutional layer for features extraction with 96 filters, followed by two principles fully connected layers for classification. It is trained over 1356 images and achieved 97.272% in testing accuracy. A comparative result is made and the testing accuracy was compared with other related works. The proposed architecture outperformed other related works in terms of testing accuracy.

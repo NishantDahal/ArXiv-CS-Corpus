@@ -1,0 +1,3 @@
+Distance-based species tree estimation: information-theoretic trade-off between number of loci and sequence length under the coalescent
+
+We consider the reconstruction of a phylogeny from multiple genes under the multispecies coalescent. We establish a connection with the sparse signal detection problem, where one seeks to distinguish between a distribution and a mixture of the distribution and a sparse signal. Using this connection, we derive an information-theoretic trade-off between the number of genes, $m$, needed for an accurate reconstruction and the sequence length, $k$, of the genes. Specifically, we show that to detect a branch of length $f$, one needs $m = Θ(1/[f^{2} \sqrt{k}])$.

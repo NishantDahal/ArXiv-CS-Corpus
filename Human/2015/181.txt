@@ -1,0 +1,3 @@
+S-AMP for Non-linear Observation Models
+
+Recently we extended Approximate message passing (AMP) algorithm to be able to handle general invariant matrix ensembles. In this contribution we extend our S-AMP approach to non-linear observation models. We obtain generalized AMP (GAMP) algorithm as the special case when the measurement matrix has zero-mean iid Gaussian entries. Our derivation is based upon 1) deriving expectation propagation (EP) like algorithms from the stationary-points equations of the Gibbs free energy under first- and second-moment constraints and 2) applying additive free convolution in free probability theory to get low-complexity updates for the second moment quantities.

@@ -1,0 +1,4 @@
+Symmetries of matrix multiplication algorithms. I
+
+In this work the algorithms of fast multiplication of matrices are considered. To any algorithm there associated a certain group of automorphisms. These automorphism groups are found for some well-known algorithms, including algorithms of Hopcroft, Laderman, and Pan. The automorphism group is isomorphic to $S_3\times Z_2$ and $S_4$ for Hopcroft anf Laderman algorithms, respectively. The studying of symmetry of algorithms may be a fruitful idea for finding fast algorithms, by an analogy with well-known optimization problems for codes, lattices, and graphs.
+  {\em Keywords}: Strassen algorithm, symmetry, fast matrix multiplication.

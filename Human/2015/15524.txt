@@ -1,0 +1,3 @@
+Approximation algorithms for the two-center problem of convex polygon
+
+Given a convex polygon $P$ with $n$ vertices, the two-center problem is to find two congruent closed disks of minimum radius such that they completely cover $P$. We propose an algorithm for this problem in the streaming setup, where the input stream is the vertices of the polygon in clockwise order. It produces a radius $r$ satisfying $r\leq2r_{opt}$ using $O(1)$ space, where $r_{opt}$ is the optimum solution. Next, we show that in non-streaming setup, we can improve the approximation factor by $r\leq 1.84 r_{opt}$, maintaining the time complexity of the algorithm to $O(n)$, and using $O(1)$ extra space in addition to the space required for storing the input.

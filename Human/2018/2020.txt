@@ -1,0 +1,3 @@
+A PTAS for the Time-Invariant Incremental Knapsack problem
+
+The Time-Invariant Incremental Knapsack problem (IIK) is a generalization of Maximum Knapsack to a discrete multi-period setting. At each time, capacity increases and items can be added, but not removed from the knapsack. The goal is to maximize the sum of profits over all times. IIK models various applications including specific financial markets and governmental decision processes. IIK is strongly NP-hard and there has been work on giving approximation algorithms for some special cases. In this paper, we settle the complexity of IIK by designing a PTAS based on rounding a disjuncive formulation, and provide several extensions of the technique.

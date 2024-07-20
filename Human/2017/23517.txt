@@ -1,0 +1,3 @@
+Learning Stable and Energetically Economical Walking with RAMone
+
+In this paper, we optimize over the control parameter space of our planar-bipedal robot, RAMone, for stable and energetically economical walking at various speeds. We formulate this task as an episodic reinforcement learning problem and use Covariance Matrix Adaptation. The parameters we are interested in modifying include gains from our Hybrid Zero Dynamics style controller and from RAMone's low-level motor controllers.

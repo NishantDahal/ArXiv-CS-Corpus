@@ -1,0 +1,3 @@
+Computing Runs on a General Alphabet
+
+We describe a RAM algorithm computing all runs (maximal repetitions) of a given string of length $n$ over a general ordered alphabet in $O(n\log^{\frac{2}3} n)$ time and linear space. Our algorithm outperforms all known solutions working in $Θ(n\logσ)$ time provided $σ= n^{Ω(1)}$, where $σ$ is the alphabet size. We conjecture that there exists a linear time RAM algorithm finding all runs.

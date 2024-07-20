@@ -1,0 +1,5 @@
+Adaptive Variational Particle Filtering in Non-stationary Environments
+
+Online convex optimization is a sequential prediction framework with the goal to track and adapt to the environment through evaluating proper convex loss functions. We study efficient particle filtering methods from the perspective of such a framework.
+  We formulate an efficient particle filtering methods for the non-stationary environment by making connections with the online mirror descent algorithm which is known to be a universal online convex optimization algorithm.
+  As a result of this connection, our proposed particle filtering algorithm proves to achieve optimal particle efficiency.

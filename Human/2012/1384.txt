@@ -1,0 +1,3 @@
+Cryptanalysis of a lattice-based proxy signature scheme
+
+A proxy signature scheme allows a proxy signer to sign messages on behalf of an original signer. Proxy signature schemes have found numerous practical applications such as grid computing, mobile agent systems and cloud applications. Recently, Jiang et al. proposed the first lattice-based proxy signature scheme and claimed that their scheme provides all the security properties of a secure proxy signature scheme. However, in this paper, we disprove their claim and show that an original signer is able to forge a proxy signature on any message.

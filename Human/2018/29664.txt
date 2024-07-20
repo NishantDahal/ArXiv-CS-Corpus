@@ -1,0 +1,3 @@
+Deep Multi-Agent Reinforcement Learning with Relevance Graphs
+
+Over recent years, deep reinforcement learning has shown strong successes in complex single-agent tasks, and more recently this approach has also been applied to multi-agent domains. In this paper, we propose a novel approach, called MAGnet, to multi-agent reinforcement learning (MARL) that utilizes a relevance graph representation of the environment obtained by a self-attention mechanism, and a message-generation technique inspired by the NerveNet architecture. We applied our MAGnet approach to the Pommerman game and the results show that it significantly outperforms state-of-the-art MARL solutions, including DQN, MADDPG, and MCTS.

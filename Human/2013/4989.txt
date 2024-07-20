@@ -1,0 +1,3 @@
+Full abstraction for fair testing in CCS
+
+In previous work with Pous, we defined a semantics for CCS which may both be viewed as an innocent presheaf semantics and as a concurrent game semantics. It is here proved that a behavioural equivalence induced by this semantics on CCS processes is fully abstract for fair testing equivalence. The proof relies on a new algebraic notion called playground, which represents the 'rule of the game'. From any playground, two languages, equipped with labelled transition systems, are derived, as well as a strong, functional bisimulation between them.

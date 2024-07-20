@@ -1,0 +1,3 @@
+Towards an Area-Efficient Implementation of a High ILP EDGE Soft Processor
+
+In-order scalar RISC architectures have been the dominant paradigm in FPGA soft processor design for twenty years. Prior out-of-order superscalar implementations have not exhibited competitive area or absolute performance. This paper describes a new way to build fast and area-efficient out-of-order superscalar soft processors by utilizing an Explicit Data Graph Execution (EDGE) instruction set architecture. By carefully mapping the EDGE microarchitecture, and in particular, its dataflow instruction scheduler, we demonstrate the feasibility of an out-of-order FPGA architecture. Two scheduler design alternatives are compared.

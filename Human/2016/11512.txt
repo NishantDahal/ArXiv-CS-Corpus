@@ -1,0 +1,3 @@
+Implementing Brouwer's database of strongly regular graphs
+
+Andries Brouwer maintains a public database of existence results for strongly regular graphs on $n\leq 1300$ vertices. We implemented most of the infinite families of graphs listed there in the open-source software Sagemath, as well as provided constructions of the "sporadic" cases, to obtain a graph for each set of parameters with known examples. Besides providing a convenient way to verify these existence results from the actual graphs, it also extends the database to higher values of $n$.

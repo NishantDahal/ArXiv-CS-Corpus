@@ -1,0 +1,4 @@
+Constant Approximation for Capacitated $k$-Median with $(1 + ε)$-Capacity Violation
+
+We study the Capacitated k-Median problem for which existing constant-factor approximation algorithms are all pseudo-approximations that violate either the capacities or the upper bound k on the number of open facilities. Using the natural LP relaxation for the problem, one can only hope to get the violation factor down to 2. Li [SODA'16] introduced a novel LP to go beyond the limit of 2 and gave a constant-factor approximation algorithm that opens $(1 + ε)k$ facilities.
+  We use the configuration LP of Li [SODA'16] to give a constant-factor approximation for the Capacitated k-Median problem in a seemingly harder configuration: we violate only the capacities by $1 + ε$. This result settles the problem as far as pseudo-approximation algorithms are concerned.

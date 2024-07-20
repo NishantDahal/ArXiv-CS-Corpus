@@ -1,0 +1,3 @@
+Calibrated Audio Steganalysis
+
+Calibration is a common practice in image steganalysis for extracting prominent features. Based on the idea of reembedding, a new set of calibrated features for audio steganalysis applications are proposed. These features are extracted from a model that has maximum deviation from human auditory system and had been specifically designed for audio steganalysis. Ability of the proposed system is tested extensively. Simulations demonstrate that the proposed method can accurately detect the presence of hidden messages even in very low embedding rates. Proposed method achieves an accuracy of 99.3% (StegHide@0.76% BPB) which is 9.5% higher than the previous R-MFCC based steganalysis method.

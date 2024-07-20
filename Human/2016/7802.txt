@@ -1,0 +1,3 @@
+Subexponential time algorithms for finding small tree and path decompositions
+
+The Minimum Size Tree Decomposition (MSTD) and Minimum Size Path Decomposition (MSPD) problems ask for a given n-vertex graph G and integer k, what is the minimum number of bags of a tree decomposition (respectively, path decomposition) of G of width at most k. The problems are known to be NP-complete for each fixed $k\geq 4$. We present algorithms that solve both problems for fixed k in $2^{O(n/ \log n)}$ time and show that they cannot be solved in $2^{o(n / \log n)}$ time, assuming the Exponential Time Hypothesis.

@@ -1,0 +1,3 @@
+Computational Universality and 1/f Noise in Elementary Cellular Automata
+
+It is speculated that there is a relationship between 1/f noise and computational universality in cellular automata. We use genetic algorithms to search for one-dimensional and two-state, five-neighbor cellular automata which have 1/f-type spectrum. A power spectrum is calculated from the evolution starting from a random initial configuration. The fitness is estimated from the power spectrum in consideration of the similarity to 1/f-type spectrum. The result shows that the rule with the highest average fitness has a propagating structure like other computationally universal cellular automata, although computational universality of the rule has not been proved yet.

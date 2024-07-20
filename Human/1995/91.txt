@@ -1,0 +1,3 @@
+A Computational Treatment of HPSG Lexical Rules as Covariation in Lexical Entries
+
+We describe a compiler which translates a set of HPSG lexical rules and their interaction into definite relations used to constrain lexical entries. The compiler ensures automatic transfer of properties unchanged by a lexical rule. Thus an operational semantics for the full lexical rule mechanism as used in HPSG linguistics is provided. Program transformation techniques are used to advance the resulting encoding. The final output constitutes a computational counterpart of the linguistic generalizations captured by lexical rules and allows ``on the fly'' application.

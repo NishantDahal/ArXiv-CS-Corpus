@@ -1,0 +1,9 @@
+Reducing Interpolation on Multi-Dimensional Grid to Quantizing Grid's Data-Base as a Recursion
+
+In his article "Powerlist: A Structure for Parallel Recursion" Jayadev Misra wrote:
+  "Many data parallel algorithms - Fast Fourier Transform, Batcher's sorting schemes and prefix sum - exhibit recursive structure. We propose a data structure, powerlist, that permits succinct descriptions of such algorithms, highlighting the roles of both parallelism and recursion. Simple algebraic properties of this data structure can be exploited to derive properties of these algorithms and establish equivalence of different algorithms that solve the same problem."
+  The quote above illustrates a widely shared assumption about recursion implementations: either they are done in purely structural terms or they cannot be done at all.
+  Multi-dimensional interpolation on a grid is one of hosts of semi-recursive schemes that, while often referred to as recursive and routinely described in vaguely recursive terms, cannot be implemented as a recursion in their structural entirety.
+  This article describes a computer-implemented scheme for isolating the recursive core of interpolation on a multi-grid, an arrangement that both stems from and provides a structural framework to a number of multi-dimensional interpolation optimization techniques that, once implemented, provide gains in multi-dimensional interpolation speed that, compared to some known benchmarks, measure in multiple orders of magnitude.
+  Categories and Subject Descriptors: Multi-dimensional Programming; Concurrent Programming; Recursion
+  General terms: Parallel Processing, Prioritized Processing, Interpolation, Recursion, Multi-Cube

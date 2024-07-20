@@ -1,0 +1,3 @@
+Partially Occluded Leaf Recognition via Subgraph Matching and Energy Optimization
+
+We present an approach to match partially occluded plant leaves with databases of full plant leaves. Although contour based 2D shape matching has been studied extensively in the last couple of decades, matching occluded leaves with full leaf databases is an open and little worked on problem. Classifying occluded plant leaves is even more challenging than full leaf matching because of large variations and complexity of leaf structures. Matching an occluded contour with all the full contours in a database is an NP-hard problem [Su et al. ICCV2015], so our algorithm is necessarily suboptimal.

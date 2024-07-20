@@ -1,0 +1,3 @@
+Analysis of Kelner and Levin graph sparsification algorithm for a streaming setting
+
+We derive a new proof to show that the incremental resparsification algorithm proposed by Kelner and Levin (2013) produces a spectral sparsifier in high probability. We rigorously take into account the dependencies across subsequent resparsifications using martingale inequalities, fixing a flaw in the original analysis.

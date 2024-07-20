@@ -1,0 +1,3 @@
+Detecting Adversarial Perturbations with Saliency
+
+In this paper we propose a novel method for detecting adversarial examples by training a binary classifier with both origin data and saliency data. In the case of image classification model, saliency simply explain how the model make decisions by identifying significant pixels for prediction. A model shows wrong classification output always learns wrong features and shows wrong saliency as well. Our approach shows good performance on detecting adversarial perturbations. We quantitatively evaluate generalization ability of the detector, showing that detectors trained with strong adversaries perform well on weak adversaries.

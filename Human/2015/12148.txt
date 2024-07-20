@@ -1,0 +1,3 @@
+A Deep Siamese Network for Scene Detection in Broadcast Videos
+
+We present a model that automatically divides broadcast videos into coherent scenes by learning a distance measure between shots. Experiments are performed to demonstrate the effectiveness of our approach by comparing our algorithm against recent proposals for automatic scene segmentation. We also propose an improved performance measure that aims to reduce the gap between numerical evaluation and expected results, and propose and release a new benchmark dataset.

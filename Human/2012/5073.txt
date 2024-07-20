@@ -1,0 +1,8 @@
+Streaming algorithms for recognizing nearly well-parenthesized expressions
+
+We study the streaming complexity of the membership problem of 1-turn-Dyck2 and Dyck2 when there are a few errors in the input string.
+  1-turn-Dyck2 with errors: We prove that there exists a randomized one-pass algorithm that given x checks whether there exists a string x' in 1-turn-Dyck2 such that x is obtained by flipping at most $k$ locations of x' using:
+  - O(k log n) space, O(k log n) randomness, and poly(k log n) time per item and with error at most 1/poly(n). - O(k^{1+epsilon} + log n) space for every 0 <= epsilon <= 1, O(log n) randomness, O(polylog(n) + poly(k)) time per item, with error at most 1/8.
+  Here, we also prove that any randomized one-pass algorithm that makes error at most k/n requires at least Omega(k log(n/k)) space to accept strings which are exactly k-away from strings in 1-turn-Dyck2 and to reject strings which are exactly (k+2)-away from strings in 1-turn-Dyck2. Since 1-turn-Dyck2 and the Hamming Distance problem are closely related we also obtain new upper and lower bounds for this problem.
+  Dyck2 with errors: We prove that there exists a randomized one-pass algorithm that given x checks whether there exists a string x' in Dyck2 such that x is obtained from x' by changing (in some restricted manner) at most k positions using:
+  - O(k log n + sqrt(n log n)) space, O(k log n) randomness, poly(k log n) time per element and with error at most 1/poly(n). - O(k^(1+epsilon)+ sqrt(n log n)) space for every 0 <= epsilon <= 1, O(log n) randomness, O(polylog(n) + poly(k)) time per element, with error at most 1/8.

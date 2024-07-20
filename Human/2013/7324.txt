@@ -1,0 +1,5 @@
+Satisfiability of ATL with strategy contexts
+
+Various extensions of the temporal logic ATL have recently been introduced to express rich properties of multi-agent systems. Among these, ATLsc extends ATL with strategy contexts, while Strategy Logic has first-order quantification over strategies. There is a price to pay for the rich expressiveness of these logics: model-checking is non-elementary, and satisfiability is undecidable.
+  We prove in this paper that satisfiability is decidable in several special cases. The most important one is when restricting to turn-based games. We prove that decidability also holds for concurrent games if the number of moves available to the agents is bounded. Finally, we prove that restricting strategy quantification to memoryless strategies brings back undecidability.
+

@@ -1,0 +1,3 @@
+Mechanism Design Approach for Energy Efficiency
+
+In this work we deploy a mechanism design approach for allocating a divisible commodity (electricity in our example) among consumers. We consider each consumer with an associated personal valuation function of the energy resource during a certain time interval. We aim to select the optimal consumption profile for every user avoiding consumption peaks when the total required energy could exceed the energy production. The mechanism will be able to drive users in shifting energy consumptions in different hours of the day. We start by presenting a very basic Vickrey-Clarke-Groves mechanism, we discuss its weakness and propose several more complex variants.

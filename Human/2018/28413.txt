@@ -1,0 +1,3 @@
+The Effect of Data Marshalling on Computation Offloading Decisions
+
+We conducted an extensive set of experiments with an offloading testbed to understand the impact that data marshalling techniques have on computation offloading decisions. We find that the popular JSON format to marshall data between client and server comes at a significant computational expense compared to a minimalistic raw data transfer. The computational time is significant in that it affects computation offloading decisions in a variety of conditions. We outline some of these conditions.

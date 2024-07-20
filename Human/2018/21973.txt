@@ -1,0 +1,3 @@
+Mining CFD Rules on Big Data
+
+Current conditional functional dependencies (CFDs) discovery algorithms always need a well-prepared training data set. This makes them difficult to be applied on large datasets which are always in low-quality. To handle the volume issue of big data, we develop the sampling algorithms to obtain a small representative training set. For the low-quality issue of big data, we then design the fault-tolerant rule discovery algorithm and the conflict resolution algorithm. We also propose parameter selection strategy for CFD discovery algorithm to ensure its effectiveness. Experimental results demonstrate that our method could discover effective CFD rules on billion-tuple data within reasonable time.

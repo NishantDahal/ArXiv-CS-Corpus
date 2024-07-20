@@ -1,0 +1,5 @@
+First Efficient Convergence for Streaming k-PCA: a Global, Gap-Free, and Near-Optimal Rate
+
+We study streaming principal component analysis (PCA), that is to find, in $O(dk)$ space, the top $k$ eigenvectors of a $d\times d$ hidden matrix $\bf Σ$ with online vectors drawn from covariance matrix $\bf Σ$.
+  We provide $\textit{global}$ convergence for Oja's algorithm which is popularly used in practice but lacks theoretical understanding for $k>1$. We also provide a modified variant $\mathsf{Oja}^{++}$ that runs $\textit{even faster}$ than Oja's. Our results match the information theoretic lower bound in terms of dependency on error, on eigengap, on rank $k$, and on dimension $d$, up to poly-log factors. In addition, our convergence rate can be made gap-free, that is proportional to the approximation error and independent of the eigengap.
+  In contrast, for general rank $k$, before our work (1) it was open to design any algorithm with efficient global convergence rate; and (2) it was open to design any algorithm with (even local) gap-free convergence rate in $O(dk)$ space.

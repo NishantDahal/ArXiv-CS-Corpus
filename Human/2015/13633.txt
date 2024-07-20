@@ -1,0 +1,4 @@
+An approximation algorithm for Uniform Capacitated k-Median problem with 1 + ε capacity violation
+
+We study the Capacitated k-Median problem, for which all the known constant factor approximation algorithms violate either the number of facilities or the capacities. While the standard LP-relaxation can only be used for algorithms violating one of the two by a factor of at least two, Shi Li [SODA'15, SODA'16] gave algorithms violating the number of facilities by a factor of 1+ε exploring properties of extended relaxations.
+  In this paper we develop a constant factor approximation algorithm for Uniform Capacitated k-Median violating only the capacities by a factor of 1+ε. The algorithm is based on a configuration LP. Unlike in the algorithms violating the number of facilities, we cannot simply open extra few facilities at selected locations. Instead, our algorithm decides about the facility openings in a carefully designed dependent rounding process.

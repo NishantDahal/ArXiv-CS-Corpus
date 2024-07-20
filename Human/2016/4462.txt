@@ -1,0 +1,3 @@
+Kernelizations for the hybridization number problem on multiple nonbinary trees
+
+Given a finite set $X$, a collection $\mathcal{T}$ of rooted phylogenetic trees on $X$ and an integer $k$, the Hybridization Number problem asks if there exists a phylogenetic network on $X$ that displays all trees from $\mathcal{T}$ and has reticulation number at most $k$. We show two kernelization algorithms for Hybridization Number, with kernel sizes $4k(5k)^t$ and $20k^2(Δ^+-1)$ respectively, with $t$ the number of input trees and $Δ^+$ their maximum outdegree. Experiments on simulated data demonstrate the practical relevance of these kernelization algorithms. In addition, we present an $n^{f(k)}t$-time algorithm, with $n=|X|$ and $f$ some computable function of $k$.

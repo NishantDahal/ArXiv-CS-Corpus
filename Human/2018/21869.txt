@@ -1,0 +1,3 @@
+Routing in Wireless Networks with Interferences
+
+We consider dynamic routing in multi-hop wireless networks with adversarial traffic. The model of wireless communication incorporates interferences caused by packets' arrivals into the same node that overlap in time. We consider two classes of adversaries: balanced and unbalanced. We demonstrate that, for each routing algorithm and an unbalanced adversary, the algorithm is unstable against this adversary in some networks. We develop a routing algorithm that has bounded packet latency against each balanced adversary.

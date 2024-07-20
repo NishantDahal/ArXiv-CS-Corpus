@@ -1,0 +1,3 @@
+A Type Checking Algorithm for Higher-rank, Impredicative and Second-order Types
+
+We study a type checking algorithm that is able to type check a nontrivial subclass of functional programs that use features such as higher-rank, impredicative and second-order types. The only place the algorithm requires type annotation is before each function declaration. We prove the soundness of the type checking algorithm with respect to System $\mathbf{F}_ω$, i.e. if the program is type checked, then the type checker will produce a well-typed annotated System $\mathbf{F}_ω$ term. We extend the basic algorithm to handle pattern matching and let-bindings. We implement a prototype type checker and test it on a variety of functional programs.

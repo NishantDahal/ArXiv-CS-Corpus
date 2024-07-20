@@ -1,0 +1,3 @@
+Nondeterminisic Sublinear Time Has Measure 0 in P
+
+The measure hypothesis is a quantitative strengthening of the P != NP conjecture which asserts that NP is a nonnegligible subset of EXP. Cai, Sivakumar, and Strauss (1997) showed that the analogue of this hypothesis in P is false. In particular, they showed that NTIME[n^{1/11}] has measure 0 in P. We improve on their result to show that the class of all languages decidable in nondeterministic sublinear time has measure 0 in P. Our result is based on DNF width and holds for all four major notions of measure on P.

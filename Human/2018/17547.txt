@@ -1,0 +1,3 @@
+A Simple Probabilistic Model for Uncertainty Estimation
+
+The article focuses on determining the predictive uncertainty of a model on the example of atrial fibrillation detection problem by a single-lead ECG signal. To this end, the model predicts parameters of the beta distribution over class probabilities instead of these probabilities themselves. It was shown that the described approach allows to detect atypical recordings and significantly improve the quality of the algorithm on confident predictions.

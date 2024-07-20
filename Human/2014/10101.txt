@@ -1,0 +1,3 @@
+Convolutional Networks for Image Processing by Coupled Oscillator Arrays
+
+A coupled oscillator array is shown to approximate convolutions with Gabor filters for image processing tasks. Pixelated image fragments and filter functions are converted to voltages, differenced, and input into a corresponding array of weakly coupled Voltage Controlled Oscillators (VCOs). This is referred to as Frequency Shift Keying (FSK). Upon synchronization of the array, the common node amplitude provides a metric for the degree of match between the image fragment and the filter function. The optimal oscillator parameters for synchronization are determined and favor a moderate value of the Q-factor.

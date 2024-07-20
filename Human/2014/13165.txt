@@ -1,0 +1,3 @@
+Tagging Scientific Publications using Wikipedia and Natural Language Processing Tools. Comparison on the ArXiv Dataset
+
+In this work, we compare two simple methods of tagging scientific publications with labels reflecting their content. As a first source of labels Wikipedia is employed, second label set is constructed from the noun phrases occurring in the analyzed corpus. We examine the statistical properties and the effectiveness of both approaches on the dataset consisting of abstracts from 0.7 million of scientific documents deposited in the ArXiv preprint collection. We believe that obtained tags can be later on applied as useful document features in various machine learning tasks (document similarity, clustering, topic modelling, etc.).

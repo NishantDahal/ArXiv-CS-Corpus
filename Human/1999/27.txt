@@ -1,0 +1,3 @@
+Algorithms of Two-Level Parallelization for DSMC of Unsteady Flows in Molecular Gasdynamics
+
+The general scheme of two-level parallelization (TLP) for direct simulation Monte Carlo of unsteady gas flows on shared memory multiprocessor computers has been described. The high efficient algorithm of parallel independent runs is used on the first level. The data parallelization is employed for the second one. Two versions of TLP algorithm are elaborated with static and dynamic load balancing. The method of dynamic processor reallocation is used for dynamic load balancing. Two gasdynamic unsteady problems were used to study speedup and efficiency of the algorithms. The conditions of efficient application field for the algorithms have been determined.

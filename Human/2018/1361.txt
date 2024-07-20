@@ -1,0 +1,3 @@
+Hygienic Source-Code Generation Using Functors
+
+Existing source-code-generating tools such as Lex and Yacc suffer from practical inconveniences because they use disembodied code to implement actions. To prevent this problem, such tools could generate closed functors that are then instantiated by the programmer with appropriate action code. This results in all code being type checked in its appropriate context, and it assists the type checker in localizing errors correctly. We have implemented a lexer generator and parser generator based on this technique for Standard ML, OCaml, and Haskell.

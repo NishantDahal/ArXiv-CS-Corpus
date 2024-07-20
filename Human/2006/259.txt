@@ -1,0 +1,3 @@
+Minimizing Symmetric Set Functions Faster
+
+We describe a combinatorial algorithm which, given a monotone and consistent symmetric set function d on a finite set V in the sense of Rizzi, constructs a non trivial set S minimizing d(S,V-S). This includes the possibility for the minimization of symmetric submodular functions. The presented algorithm requires at most as much time as the one described by Rizzi, but depending on the function d, it may allow several improvements.

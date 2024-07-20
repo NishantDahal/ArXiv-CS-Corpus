@@ -1,0 +1,3 @@
+Bounds on List Decoding Gabidulin Codes
+
+An open question about Gabidulin codes is whether polynomial-time list decoding beyond half the minimum distance is possible or not. In this contribution, we give a lower and an upper bound on the list size, i.e., the number of codewords in a ball around the received word. The lower bound shows that if the radius of this ball is greater than the Johnson radius, this list size can be exponential and hence, no polynomial-time list decoding is possible. The upper bound on the list size uses subspace properties.

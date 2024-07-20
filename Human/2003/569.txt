@@ -1,0 +1,3 @@
+Using Propagation for Solving Complex Arithmetic Constraints
+
+Solving a system of nonlinear inequalities is an important problem for which conventional numerical analysis has no satisfactory method. With a box-consistency algorithm one can compute a cover for the solution set to arbitrarily close approximation. Because of difficulties in the use of propagation for complex arithmetic expressions, box consistency is computed with interval arithmetic. In this paper we present theorems that support a simple modification of propagation that allows complex arithmetic expressions to be handled efficiently. The version of box consistency that is obtained in this way is stronger than when interval arithmetic is used.

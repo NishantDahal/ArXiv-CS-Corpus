@@ -1,0 +1,3 @@
+Investigating the Parameter Space of Evolutionary Algorithms
+
+The practice of evolutionary algorithms involves the tuning of many parameters. How big should the population be? How many generations should the algorithm run? What is the (tournament selection) tournament size? What probabilities should one assign to crossover and mutation? Through an extensive series of experiments over multiple evolutionary algorithm implementations and problems we show that parameter space tends to be rife with viable parameters, at least for 25 the problems studied herein. We discuss the implications of this finding in practice.

@@ -1,0 +1,3 @@
+Searching for dense subsets in a graph via the partition function
+
+For a set $S$ of vertices of a graph $G$, we define its density $0 \leq σ(S) \leq 1$ as the ratio of the number of edges of $G$ spanned by the vertices of $S$ to ${|S| \choose 2}$. We show that, given a graph $G$ with $n$ vertices and an integer $m$, the partition function $\sum_S \exp\{ γm σ(S) \}$, where the sum is taken over all $m$-subsets $S$ of vertices and $0 < γ<1$ is fixed in advance, can be approximated within relative error $0 < ε< 1$ in quasi-polynomial $n^{O(\ln m - \ln ε)}$ time. We discuss numerical experiments and observe that for the random graph $G(n, 1/2)$ one can afford a much larger $γ$, provided the ratio $n/m$ is sufficiently large.

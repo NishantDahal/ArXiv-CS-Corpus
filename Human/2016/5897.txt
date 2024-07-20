@@ -1,0 +1,3 @@
+Geometric k-Center Problems with Centers Constrained to Two Lines
+
+We consider the $k$-center problem in which the centers are constrained to lie on two lines. Given a set of $n$ weighted points in the plane, we want to locate up to $k$ centers on two parallel lines. We present an $O(n\log^2 n)$ time algorithm, which minimizes the weighted distance from any point to a center. We then consider the unweighted case, where the centers are constrained to be on two perpendicular lines. Our algorithms run in $O(n\log^2 n)$ time also in this case.

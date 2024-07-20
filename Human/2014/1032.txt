@@ -1,0 +1,5 @@
+On Verifying Resource Contracts using Code Contracts
+
+In this paper we present an approach to check resource consumption contracts using an off-the-shelf static analyzer.
+  We propose a set of annotations to support resource usage specifications, in particular,  dynamic memory consumption constraints. Since dynamic memory may be recycled by a memory manager, the consumption of this resource is not monotone. The specification language can express both memory consumption and lifetime properties in a modular fashion.
+  We develop a proof-of-concept implementation by extending Code Contracts' specification language.  To verify the correctness of these annotations we rely on the Code Contracts static verifier and a points-to analysis. We also briefly discuss possible extensions of our approach to deal with non-linear expressions.

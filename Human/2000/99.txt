@@ -1,0 +1,5 @@
+DLV - A System for Declarative Problem Solving
+
+DLV is an efficient logic programming and non-monotonic reasoning (LPNMR) system with advanced knowledge representation mechanisms and interfaces to classic relational database systems.
+  Its core language is disjunctive datalog (function-free disjunctive logic programming) under the Answer Set Semantics with integrity constraints, both default and strong (or explicit) negation, and queries. Integer arithmetics and various built-in predicates are also supported.
+  In addition DLV has several frontends, namely brave and cautious reasoning, abductive diagnosis, consistency-based diagnosis, a subset of SQL3, planning with action languages, and logic programming with inheritance.

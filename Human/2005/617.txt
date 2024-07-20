@@ -1,0 +1,3 @@
+Two-dimensional cellular automata and the analysis of correlated time series
+
+Correlated time series are time series that, by virtue of the underlying process to which they refer, are expected to influence each other strongly. We introduce a novel approach to handle such time series, one that models their interaction as a two-dimensional cellular automaton and therefore allows them to be treated as a single entity. We apply our approach to the problems of filling gaps and predicting values in rainfall time series. Computational results show that the new approach compares favorably to Kalman smoothing and filtering.

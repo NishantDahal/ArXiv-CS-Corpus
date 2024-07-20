@@ -1,0 +1,3 @@
+A decision procedure for unitary linear quantum cellular automata
+
+Linear quantum cellular automata were introduced recently as one of the models of quantum computing. A basic postulate of quantum mechanics imposes a strong constraint on any quantum machine: it has to be unitary, that is its time evolution operator has to be a unitary transformation. In this paper we give an efficient algorithm to decide if a linear quantum cellular automaton is unitary. The complexity of the algorithm is O(n^((3r-1)/(r+1))) = O(n^3) in the algebraic computational model if the automaton has a continuous neighborhood of size r, where $n$ is the size of the input.

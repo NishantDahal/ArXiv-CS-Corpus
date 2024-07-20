@@ -1,0 +1,3 @@
+Parallel Computing of Discrete Element Method on GPU
+
+We investigate applicability of GPU to DEM. NVIDIA's code obtained superior performance than CPU in computational time. A model of contact forces in NVIDIA's code is too simple for practical use. We modify this model by replacing it with the practical model. The simulation shows that the practical model obtains the computing speed 6 times faster than the practical one on CPU while 7 times slower than the simple one on GPU. The result are analyzed.

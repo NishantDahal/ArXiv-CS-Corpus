@@ -1,0 +1,3 @@
+Trusted-HB: a low-cost version of HB+ secure against Man-in-The-Middle attacks
+
+Since the introduction at Crypto'05 by Juels and Weis of the protocol HB+, a lightweight protocol secure against active attacks but only in a detection based-model, many works have tried to enhance its security. We propose here a new approach to achieve resistance against Man-in-The-Middle attacks. Our requirements - in terms of extra communications and hardware - are surprisingly low.

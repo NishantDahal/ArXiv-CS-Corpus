@@ -1,0 +1,3 @@
+Distributed Learning of Distributions via Social Sampling
+
+A protocol for distributed estimation of discrete distributions is proposed. Each agent begins with a single sample from the distribution, and the goal is to learn the empirical distribution of the samples. The protocol is based on a simple message-passing model motivated by communication in social networks. Agents sample a message randomly from their current estimates of the distribution, resulting in a protocol with quantized messages. Using tools from stochastic approximation, the algorithm is shown to converge almost surely. Examples illustrate three regimes with different consensus phenomena. Simulations demonstrate this convergence and give some insight into the effect of network topology.

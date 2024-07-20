@@ -1,0 +1,3 @@
+Capturability-based Pattern Generation for Walking with Variable Height
+
+Capturability analysis of the linear inverted pendulum (LIP) model enabled walking with constrained height based on the capture point. We generalize this analysis to the variable-height  inverted  pendulum  (VHIP)  and  show  how  it  enables 3D walking over uneven terrains based on capture inputs. Thanks to a tailored optimization scheme, we can compute these inputs fast enough for real-time model predictive control. We implement this approach as open-source software and demonstrate it in dynamic simulations.

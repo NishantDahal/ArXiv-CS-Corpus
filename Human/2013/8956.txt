@@ -1,0 +1,3 @@
+Application of a Semi-automatic Algorithm for Identification of Molecular Components in SBML Models
+
+Reactions forming a pathway can be rewritten by making explicit the different molecular components involved in them.  A molecular component represents a biological entity (e.g. a protein) in all its states (free, bound, degraded, etc.).  In this paper we show the application of a component identification algorithm to a number of real-world models to experimentally validate the approach. Components identification allows subpathways to be computed to better understand the pathway functioning.

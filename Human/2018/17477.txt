@@ -1,0 +1,3 @@
+Using Intel Optane Devices for In-situ Data Staging in HPC Workflows
+
+Emerging non-volatile memory technologies (NVRAM) offer alternatives to hard drives that are persistent, while providing similar latencies to DRAM. Intel recently released the Optane drive, which features 3D XPoint memory technology. This device can be deployed as an SSD or as persistent memory. In this paper, we provide a performance comparison between Optane (SSD DC4800X) and NVMe (SSD DC3700) drives as block devices. We study the performance from two perspectives: 1) Benchmarking of drives using FIO workloads, and 2) Assessing the impact of using Optane over NVMe within the DataSpaces framework for in-memory data staging to support in-situ scientific workflows.

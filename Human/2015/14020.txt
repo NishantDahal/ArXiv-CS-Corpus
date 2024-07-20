@@ -1,0 +1,3 @@
+Timed Automata for Modelling Caches and Pipelines
+
+In this paper, we focus on modelling the timing aspects of binary programs running on architectures featuring caches and pipelines. The objective is to obtain a timed automaton model to compute tight bounds for the worst-case execution time (WCET) of the programs using model-checking techniques.

@@ -1,0 +1,3 @@
+Music Signal Processing Using Vector Product Neural Networks
+
+We propose a novel neural network model for music signal processing using vector product neurons and dimensionality transformations. Here, the inputs are first mapped from real values into three-dimensional vectors then fed into a three-dimensional vector product neural network where the inputs, outputs, and weights are all three-dimensional values. Next, the final outputs are mapped back to the reals. Two methods for dimensionality transformation are proposed, one via context windows and the other via spectral coloring. Experimental results on the iKala dataset for blind singing voice separation confirm the efficacy of our model.

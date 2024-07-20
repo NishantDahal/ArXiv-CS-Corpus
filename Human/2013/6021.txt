@@ -1,0 +1,3 @@
+A Wrapper of PCI Express with FIFO Interfaces based on FPGA
+
+This paper proposes a PCI Express (PCIE) Wrapper core named PWrapper with FIFO interfaces. Compared with other PCIE solutions, PWrapper has several advantages such as flexibility, isolation of clock domain, etc. PWrapper is implemented and verified on Vertex -5-FX70T which is a development board provided by Xilinx Inc. Architecture of PWrapper and design of two key modules are illustrated, which timing optimization methods have been adopted. Then we explained the advantages and challenges of on-chip interfaces technology based on FIFOs. The verification results show that PWrapper can achieve the speed of 1.8Gbps (Giga bits per second).

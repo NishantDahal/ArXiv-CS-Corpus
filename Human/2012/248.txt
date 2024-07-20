@@ -1,0 +1,3 @@
+Automatic system for counting cells with elliptical shape
+
+This paper presents a new method for automatic quantification of ellipse-like cells in images, an important and challenging problem that has been studied by the computer vision community. The proposed method can be described by two main steps. Initially, image segmentation based on the k-means algorithm is performed to separate different types of cells from the background. Then, a robust and efficient strategy is performed on the blob contour for touching cells splitting. Due to the contour processing, the method achieves excellent results of detection compared to manual detection performed by specialists.

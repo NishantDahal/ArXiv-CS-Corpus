@@ -1,0 +1,3 @@
+KF-LAX: Kronecker-factored curvature estimation for control variate optimization in reinforcement learning
+
+A key challenge for gradient based optimization methods in model-free reinforcement learning is to develop an approach that is sample efficient and has low variance. In this work, we apply Kronecker-factored curvature estimation technique (KFAC) to a recently proposed gradient estimator for control variate optimization, RELAX, to increase the sample efficiency of using this gradient estimation method in reinforcement learning. The performance of the proposed method is demonstrated on a synthetic problem and a set of three discrete control task Atari games.

@@ -1,0 +1,7 @@
+Extractor-Based Time-Space Lower Bounds for Learning
+
+A matrix $M: A \times X \rightarrow \{-1,1\}$ corresponds to the following learning problem: An unknown element $x \in X$ is chosen uniformly at random. A learner tries to learn $x$ from a stream of samples, $(a_1, b_1), (a_2, b_2) \ldots$, where for every $i$, $a_i \in A$ is chosen uniformly at random and $b_i = M(a_i,x)$.
+  Assume that $k,\ell, r$ are such that any submatrix of $M$ of at least $2^{-k} \cdot |A|$ rows and at least $2^{-\ell} \cdot |X|$ columns, has a bias of at most $2^{-r}$. We show that any learning algorithm for the learning problem corresponding to $M$ requires either a memory of size at least $Ω\left(k \cdot \ell \right)$, or at least $2^{Ω(r)}$ samples. The result holds even if the learner has an exponentially small success probability (of $2^{-Ω(r)}$).
+  In particular, this shows that for a large class of learning problems, any learning algorithm requires either a memory of size at least $Ω\left((\log |X|) \cdot (\log |A|)\right)$ or an exponential number of samples, achieving a tight $Ω\left((\log |X|) \cdot (\log |A|)\right)$ lower bound on the size of the memory, rather than a bound of $Ω\left(\min\left\{(\log |X|)^2,(\log |A|)^2\right\}\right)$ obtained in previous works [R17,MM17b].
+  Moreover, our result implies all previous memory-samples lower bounds, as well as a number of new applications.
+  Our proof builds on [R17] that gave a general technique for proving memory-samples lower bounds.

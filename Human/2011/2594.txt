@@ -1,0 +1,3 @@
+Dissecting a Small InfiniBand Application Using the Verbs API
+
+InfiniBand is a switched fabric interconnect. The InfiniBand specification does not define an API. However the OFED package, libibverbs, has become the default API on Linux and Solaris systems. Sparse documentation exists for the verbs API. The simplest InfiniBand program provided by OFED, ibv_rc_pingpong, is about 800 lines long. The semantics of using the verbs API for this program is not obvious to the first time reader. This paper will dissect the ibv_rc_pingpong program in an attempt to make clear to users how to interact with verbs.

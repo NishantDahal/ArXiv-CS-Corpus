@@ -1,0 +1,4 @@
+Using a Distributional Semantic Vector Space with a Knowledge Base for Reasoning in Uncertain Conditions
+
+The inherent inflexibility and incompleteness of commonsense knowledge bases (KB) has limited their usefulness. We describe a system called Displacer for performing KB queries extended with the analogical capabilities of the word2vec distributional semantic vector space (DSVS). This allows the system to answer queries with information which was not contained in the original KB in any form. By performing analogous queries on semantically related terms and mapping their answers back into the context of the original query using displacement vectors, we are able to give approximate answers to many questions which, if posed to the KB alone, would return no results.
+  We also show how the hand-curated knowledge in a KB can be used to increase the accuracy of a DSVS in solving analogy problems. In these ways, a KB and a DSVS can make up for each other's weaknesses.

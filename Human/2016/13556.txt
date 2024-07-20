@@ -1,0 +1,3 @@
+Localization bounds for the graph translation
+
+The graph translation operator has been defined with good spectral properties in mind, and in particular with the end goal of being an isometric operator. Unfortunately, the resulting definitions do not provide good intuitions on a vertex-domain interpretation. In this paper, we show that this operator does have a vertex-domain interpretation as a diffusion operator using a polynomial approximation. We show that its impulse response exhibit an exponential decay of the energy way from the impulse, demonstrating localization preservation. Additionally, we formalize several techniques that can be used to study other graph signal operators.

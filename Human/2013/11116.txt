@@ -1,0 +1,3 @@
+Remarks on Privileged Words
+
+We discuss the notion of privileged word, recently introduced by Peltomaki. A word w is privileged if it is of length <=1, or has a privileged border that occurs exactly twice in w. We prove the following results: (1) if w^k is privileged for some k >=1, then w^j is privileged for all j >= 0; (2) the language of privileged words is neither regular nor context-free; (3) there is a linear-time algorithm to check if a given word is privileged; and (4) there are at least 2^{n-5}/n^2 privileged binary words of length n.

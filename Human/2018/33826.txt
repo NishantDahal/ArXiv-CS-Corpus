@@ -1,0 +1,3 @@
+Crack Detection Using Enhanced Thresholding on UAV based Collected Images
+
+This paper proposes a thresholding approach for crack detection in an unmanned aerial vehicle (UAV) based infrastructure inspection system. The proposed algorithm performs recursively on the intensity histogram of UAV-taken images to exploit their crack-pixels appearing at the low intensity interval. A quantified criterion of interclass contrast is proposed and employed as an object cost and stop condition for the recursive process. Experiments on different datasets show that our algorithm outperforms different segmentation approaches to accurately extract crack features of some commercial buildings.

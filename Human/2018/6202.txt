@@ -1,0 +1,3 @@
+Ensuring referential integrity under causal consistency
+
+Referential integrity (RI) is an important correctness property of a  shared, distributed object storage system.  It is sometimes thought that enforcing RI requires a strong form of  consistency.  In this paper, we argue that causal consistency suffices to maintain  RI.  We support this argument with pseudocode for a reference CRDT  data type that maintains RI under causal consistency.  QuickCheck has not found any errors in the model.

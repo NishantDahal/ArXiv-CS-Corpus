@@ -1,0 +1,3 @@
+Sliding window and compressive sensing for low-field dynamic magnetic resonance imaging
+
+We describe an acquisition/processing procedure for image reconstruction in dynamic Magnetic Resonance Imaging (MRI). The approach requires sliding window to record a set of trajectories in the k-space, standard regularization to reconstruct an estimate of the object and compressed sensing to recover image residuals. We validated this approach in the case of specific simulated experiments and, in the case of real measurements, we showed that the procedure is reliable even in the case of data acquired by means of a low-field scanner.

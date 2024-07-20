@@ -1,0 +1,3 @@
+A Note on the Space Complexity of Fast D-Finite Function Evaluation
+
+We state and analyze a generalization of the "truncation trick" suggested by Gourdon and Sebah to improve the performance of power series evaluation by binary splitting. It follows from our analysis that the values of D-finite functions (i.e., functions described as solutions of linear differential equations with polynomial coefficients) may be computed with error bounded by 2^(-p) in time O(p*(lg p)^(3+o(1))) and space O(p). The standard fast algorithm for this task, due to Chudnovsky and Chudnovsky, achieves the same time complexity bound but requires Θ(p*lg p) bits of memory.

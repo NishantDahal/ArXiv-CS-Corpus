@@ -1,0 +1,3 @@
+A Strongly Exponential Separation of DNNFs from CNF Formulas
+
+Decomposable Negation Normal Forms (DNNFs) are Boolean circuits in negation normal form where the subcircuits leading into each AND gate are defined on disjoint sets of variables. We prove a strongly exponential lower bound on the size of DNNFs for a class of CNF formulas built from expander graphs. As a corollary, we obtain a strongly exponential separation between DNNFs and CNF formulas in prime implicates form. This settles an open problem in the area of knowledge compilation (Darwiche and Marquis, 2002).

@@ -1,0 +1,3 @@
+Classically-Controlled Quantum Computation
+
+Quantum computations usually take place under the control of the classical world. We introduce a Classically-controlled Quantum Turing Machine (CQTM) which is a Turing Machine (TM) with a quantum tape for acting on quantum data, and a classical transition function for a formalized classical control. In CQTM, unitary transformations and measurements are allowed. We show that any classical TM is simulated by a CQTM without loss of efficiency. The gap between classical and quantum computations, already pointed out in the framework of measurement-based quantum computation is confirmed. To appreciate the similarity of programming classical TM and CQTM, examples are given.

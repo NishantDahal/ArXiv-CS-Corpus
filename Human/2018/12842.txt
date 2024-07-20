@@ -1,0 +1,3 @@
+Spiking Neural Algorithms for Markov Process Random Walk
+
+The random walk is a fundamental stochastic process that underlies many numerical tasks in scientific computing applications. We consider here two neural algorithms that can be used to efficiently implement random walks on spiking neuromorphic hardware. The first method tracks the positions of individual walkers independently by using a modular code inspired by the grid cell spatial representation in the brain. The second method tracks the densities of random walkers at each spatial location directly. We analyze the scaling complexity of each of these methods and illustrate their ability to model random walkers under different probabilistic conditions.

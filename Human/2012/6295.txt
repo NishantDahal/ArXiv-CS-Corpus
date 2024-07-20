@@ -1,0 +1,4 @@
+Generating random braids
+
+We present an algorithm to generate positive braids of a given length as words in Artin generators with a uniform probability. The complexity of this algorithm is polynomial in the number of strands and in the length of the generated braids.
+  As a byproduct, we describe a finite state automaton accepting the language of lexicographically minimal representatives of positive braids that has the minimal possible number of states, and we prove that its number of states is exponential in the number of strands.

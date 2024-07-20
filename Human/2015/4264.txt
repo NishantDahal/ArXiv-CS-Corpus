@@ -1,0 +1,3 @@
+Non-Uniform Stochastic Average Gradient Method for Training Conditional Random Fields
+
+We apply stochastic average gradient (SAG) algorithms for training conditional random fields (CRFs). We describe a practical implementation that uses structure in the CRF gradient to reduce the memory requirement of this linearly-convergent stochastic gradient method, propose a non-uniform sampling scheme that substantially improves practical performance, and analyze the rate of convergence of the SAGA variant under non-uniform sampling. Our experimental results reveal that our method often significantly outperforms existing methods in terms of the training objective, and performs as well or better than optimally-tuned stochastic gradient methods in terms of test error.

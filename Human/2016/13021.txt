@@ -1,0 +1,3 @@
+Estimating the number of communities in a network
+
+Community detection, the division of a network into dense subnetworks with only sparse connections between them, has been a topic of vigorous study in recent years. However, while there exist a range of powerful and flexible methods for dividing a network into a specified number of communities, it is an open question how to determine exactly how many communities one should use. Here we describe a mathematically principled approach for finding the number of communities in a network using a maximum-likelihood method. We demonstrate the approach on a range of real-world examples with known community structure, finding that it is able to determine the number of communities correctly in every case.

@@ -1,0 +1,3 @@
+Ultra-Sparse Non-Binary LDPC Codes for Probabilistic Amplitude Shaping
+
+This work shows how non-binary low-density parity-check codes over GF($2^p$) can be combined with probabilistic amplitude shaping (PAS) (Böcherer, et al., 2015), which combines forward-error correction with non-uniform signaling for power-efficient communication. Ultra-sparse low-density parity-check codes over GF(64) and GF(256) gain 0.6 dB in power efficiency over state-of-the-art binary LDPC codes at a spectral efficiency of 1.5 bits per channel use and a blocklength of 576 bits. The simulation results are compared to finite length coding bounds and complemented by density evolution analysis.

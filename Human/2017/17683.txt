@@ -1,0 +1,3 @@
+Intensional Constructed Numbers: Towards Formalizing the Notion of Algorithm
+
+This work is meant to be a step towards the formal definition of the notion of algorithm, in the sense of an equivalence class of programs working "in a similar way". But instead of defining equivalence transformations directly on programs, we look at the computation for each particular argument and give it a structure. This leads to the notion of constructed number: the result of the computation is a constructed number whose constructors (0, successor) carry a history condition (or trace) of their computation. There are equivalence relations on these conditions and on constructed numbers. Two programs are equivalent if they produce equivalent constructed numbers for each argument.

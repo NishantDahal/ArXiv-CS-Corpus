@@ -1,0 +1,3 @@
+Tracking Algorithm for Microscopic Flow Data Collection
+
+Various methods to automate traffic data collection have recently been developed by many researchers. A macroscopic data collection through image processing has been proposed. For microscopic traffic flow data, such as individual speed and time or distance headway, tracking of individual movement is needed. The tracking algorithms for pedestrian or vehicle have been developed to trace the movement of one or two pedestrians based on sign pattern, and feature detection. No research has been done to track many pedestrians or vehicles at once. This paper describes a new and fast algorithm to track the movement of many individual vehicles or pedestrians

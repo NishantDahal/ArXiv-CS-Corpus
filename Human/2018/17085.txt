@@ -1,0 +1,3 @@
+Enumerating Cryptarithms Using Deterministic Finite Automata
+
+A cryptarithm is a mathematical puzzle where given an arithmetic equation written with letters rather than numerals, a player must discover an assignment of numerals on letters that makes the equation hold true. In this paper, we propose a method to construct a DFA that accepts cryptarithms that admit (unique) solutions for each base. We implemented the method and constructed a DFA for bases $k \le 7$. Those DFAs can be used as complete catalogues of cryptarithms,whose applications include enumeration of and counting the exact numbers $G_k(n)$ of cryptarithm instances with $n$ digits that admit base-$k$ solutions. Moreover, explicit formulas for $G_2(n)$ and $G_3(n)$ are given.

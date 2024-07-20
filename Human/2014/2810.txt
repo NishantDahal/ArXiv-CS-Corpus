@@ -1,0 +1,3 @@
+Experimental Implementation of an Invariant Extended Kalman Filter-based Scan Matching SLAM
+
+We describe an application of the Invariant Extended Kalman Filter (IEKF) design methodology to the scan matching SLAM problem. We review the theoretical foundations of the IEKF and its practical interest of guaranteeing robustness to poor state estimates, then implement the filter on a wheeled robot hardware platform. The proposed design is successfully validated in experimental testing.

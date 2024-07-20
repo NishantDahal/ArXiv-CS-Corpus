@@ -1,0 +1,3 @@
+Query Optimization Using Genetic Algorithms in the Vector Space Model
+
+In information retrieval research; Genetic Algorithms (GA) can be used to find global solutions in many difficult problems. This study used different similarity measures (Dice, Inner Product) in the VSM, for each similarity measure we compared ten different GA approaches based on different fitness functions, different mutations and different crossover strategies to find the best strategy and fitness function that can be used when the data collection is the Arabic language. Our results shows that the GA approach which uses one-point crossover operator, point mutation and Inner Product similarity as a fitness function is the best IR system in VSM.

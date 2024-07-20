@@ -1,0 +1,3 @@
+Fusion of Image Segmentation Algorithms using Consensus Clustering
+
+A new segmentation fusion method is proposed that ensembles the output of several segmentation algorithms applied on a remotely sensed image. The candidate segmentation sets are processed to achieve a consensus segmentation using a stochastic optimization algorithm based on the Filtered Stochastic BOEM (Best One Element Move) method. For this purpose, Filtered Stochastic BOEM is reformulated as a segmentation fusion problem by designing a new distance learning approach. The proposed algorithm also embeds the computation of the optimum number of clusters into the segmentation fusion problem.

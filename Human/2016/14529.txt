@@ -1,0 +1,3 @@
+Improved Algorithms for Computing $k$-Sink on Dynamic Path Networks
+
+We present a novel approach to finding the $k$-sink on dynamic path networks with general edge capacities. Our first algorithm runs in $O(n \log n + k^2 \log^4 n)$ time, where $n$ is the number of vertices on the given path, and our second algorithm runs in $O(n \log^3 n)$ time. Together, they improve upon the previously most efficient $O(kn \log^2 n)$ time algorithm due to Arumugam et al. for all values of $k$. In the case where all the edges have the same capacity, we again present two algorithms that run in $O(n + k^2 \log^2n)$ time and $O(n \log n)$ time, respectively, and they together improve upon the previously best $O(kn)$ time algorithm due to Higashikawa et al. for all values of $k$.

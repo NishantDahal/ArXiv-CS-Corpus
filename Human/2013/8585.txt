@@ -1,0 +1,5 @@
+Performance and Optimization Abstractions for Large Scale Heterogeneous Systems in the Cactus/Chemora Framework
+
+We describe a set of lower-level abstractions to improve performance on modern large scale heterogeneous systems. These provide portable access to system- and hardware-dependent features, automatically apply dynamic optimizations at run time, and target stencil-based codes used in finite differencing, finite volume, or block-structured adaptive mesh refinement codes.
+  These abstractions include a novel data structure to manage refinement information for block-structured adaptive mesh refinement, an iterator mechanism to efficiently traverse multi-dimensional arrays in stencil-based codes, and a portable API and implementation for explicit SIMD vectorization.
+  These abstractions can either be employed manually, or be targeted by automated code generation, or be used via support libraries by compilers during code generation. The implementations described below are available in the Cactus framework, and are used e.g. in the Einstein Toolkit for relativistic astrophysics simulations.

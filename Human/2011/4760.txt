@@ -1,0 +1,3 @@
+Termination in a Pi-calculus with Subtyping
+
+We present a type system to guarantee termination of pi-calculus processes that exploits input/output capabilities and subtyping, as originally introduced by Pierce and Sangiorgi, in order to analyse the usage of channels. We show that our system improves over previously existing proposals by accepting more processes as terminating. This increased expressiveness allows us to capture sensible programming idioms. We demonstrate how our system can be extended to handle the encoding of the simply typed lambda-calculus, and discuss questions related to type inference.

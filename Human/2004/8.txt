@@ -1,0 +1,3 @@
+Automated Resolution of Noisy Bibliographic References
+
+We describe a system used by the NASA Astrophysics Data System to identify bibliographic references obtained from scanned article pages by OCR methods with records in a bibliographic database. We analyze the process generating the noisy references and conclude that the three-step procedure of correcting the OCR results, parsing the corrected string and matching it against the database provides unsatisfactory results. Instead, we propose a method that allows a controlled merging of correction, parsing and matching, inspired by dependency grammars. We also report on the effectiveness of various heuristics that we have employed to improve recall.

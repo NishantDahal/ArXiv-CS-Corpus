@@ -1,0 +1,3 @@
+Deep Graphs
+
+We propose an algorithm for deep learning on networks and graphs. It relies on the notion that many graph algorithms, such as PageRank, Weisfeiler-Lehman, or Message Passing can be expressed as iterative vertex updates. Unlike previous methods which rely on the ingenuity of the designer, Deep Graphs are adaptive to the estimation problem. Training and deployment are both efficient, since the cost is $O(|E| + |V|)$, where $E$ and $V$ are the sets of edges and vertices respectively. In short, we learn the recurrent update functions rather than positing their specific functional form. This yields an algorithm that achieves excellent accuracy on both graph labeling and regression tasks.

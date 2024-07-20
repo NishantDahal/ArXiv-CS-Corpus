@@ -1,0 +1,5 @@
+ScrambleSuit: A Polymorph Network Protocol to Circumvent Censorship
+
+Deep packet inspection technology became a cornerstone of Internet censorship by facilitating cheap and effective filtering of what censors consider undesired information. Moreover, filtering is not limited to simple pattern matching but makes use of sophisticated techniques such as active probing and protocol classification to block access to popular circumvention tools such as Tor.
+  In this paper, we propose ScrambleSuit; a thin protocol layer above TCP whose purpose is to obfuscate the transported application data. By using morphing techniques and a secret exchanged out-of-band, we show that ScrambleSuit can defend against active probing and other fingerprinting techniques such as protocol classification and regular expressions.
+  We finally demonstrate that our prototype exhibits little overhead and enables effective and lightweight obfuscation for application layer protocols.

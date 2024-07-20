@@ -1,0 +1,3 @@
+Note on (active-)QRAM-style data access as a quantum circuit
+
+We observe how an active (i.e., requring $2^n$ parallel control operations) QRAM-like effect $$\sum_{y=0}^{N-1} |y\rangle\langle y| \otimes U^y_{\text{result},\text{memory}_y}$$ can be realized, as a quantum circuit of depth $O(n+\sqrt m)$ (where $m$ is the size of the result register) plus the maximum over all~$z$ of the circuit depths of controlled-$U^z$ operations.

@@ -1,0 +1,3 @@
+ZKCM: a C++ library for multiprecision matrix computation with applications in quantum information
+
+ZKCM is a C++ library developed for the purpose of multiprecision matrix computation, on the basis of the GNU MP and MPFR libraries. It provides an easy-to-use syntax and convenient functions for matrix manipulations including those often used in numerical simulations in quantum physics. Its extension library, ZKCM_QC, is developed for simulating quantum computing using the time-dependent matrix-product-state simulation method. This paper gives an introduction about the libraries with practical sample programs.

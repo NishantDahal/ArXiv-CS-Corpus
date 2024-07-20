@@ -1,0 +1,3 @@
+Semi-supervised Conditional GANs
+
+We introduce a new model for building conditional generative models in a semi-supervised setting to conditionally generate data given attributes by adapting the GAN framework. The proposed semi-supervised GAN (SS-GAN) model uses a pair of stacked discriminators to learn the marginal distribution of the data, and the conditional distribution of the attributes given the data respectively. In the semi-supervised setting, the marginal distribution (which is often harder to learn) is learned from the labeled + unlabeled data, and the conditional distribution is learned purely from the labeled data. Our experimental results demonstrate that this model performs significantly better compared to existing semi-supervised conditional GAN models.

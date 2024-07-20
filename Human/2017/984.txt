@@ -1,0 +1,3 @@
+On Classification of Distorted Images with Deep Convolutional Neural Networks
+
+Image blur and image noise are common distortions during image acquisition. In this paper, we systematically study the effect of image distortions on the deep neural network (DNN) image classifiers. First, we examine the DNN classifier performance under four types of distortions. Second, we propose two approaches to alleviate the effect of image distortion: re-training and fine-tuning with noisy images. Our results suggest that, under certain conditions, fine-tuning with noisy images can alleviate much effect due to distorted inputs, and is more practical than re-training.

@@ -1,0 +1,3 @@
+The implementation of the parallel shortest vector enumerate in the block Korkin-Zolotarev method
+
+This article present a parallel CPU implementation of Kannan algorithm for solving shortest vector problem in Block Korkin-Zolotarev lattice reduction method. Implementation based on Native POSIX Thread Library and show linear decrease of runtime from number of threads.

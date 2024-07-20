@@ -1,0 +1,3 @@
+Tire Noise Optimization Problem: a Mixed Integer Linear Program Approach
+
+We present a Mixed Integer Linear Program (MILP) approach in order to model the nonlinear problem of minimizing the tire noise. We first take more industrial constraints into account than in a former work of the authors. Then, we associate a Branch-and-Cut algorithm to the MILP to obtain exact solutions. We compare our experimental results with those obtained by other methods.

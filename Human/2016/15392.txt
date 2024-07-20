@@ -1,0 +1,3 @@
+A Sound, Complete and Effective Second Order Game Semantics
+
+We define a game semantics for second order classical arithmetic PA2 (with quantifiers over predicates on integers and full comprehension axiom). Our semantics is effective: moves are described by a finite amount of information and whenever there is some winning strategy for the player defending the truth of the formula, then there is some primitive recursive winning strategy. Then we show that our game semantics is sound and complete for the truth assignment for formulas of PA2. In our game model, the value of a predicate variable is some family of "generic" games. This value is "unknown" during the play, but at the end of the play it is used by a "judge of the play" to decide who is the winner.

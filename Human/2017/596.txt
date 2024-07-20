@@ -1,0 +1,3 @@
+BTAS: A Library for Tropical Algebra
+
+GPUs are dedicated processors used for complex calculations and simulations and they can be effectively used for tropical algebra computations. Tropical algebra is based on max-plus algebra and min-plus algebra. In this paper we proposed and designed a library based on Tropical Algebra which is used to provide standard vector and matrix operations namely Basic Tropical Algebra Subroutines (BTAS). The testing of BTAS library is conducted by implementing the sequential version of Floyd Warshall Algorithm on CPU and furthermore parallel version on GPU. The developed library for tropical algebra delivered extensively better results on a less expensive GPU as compared to the same on CPU.

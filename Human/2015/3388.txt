@@ -1,0 +1,3 @@
+CLP(H): Constraint Logic Programming for Hedges
+
+CLP(H) is an instantiation of the general constraint logic programming scheme with the constraint domain of hedges. Hedges are finite sequences of unranked terms, built over variadic function symbols and three kinds of variables: for terms, for hedges, and for function symbols. Constraints involve equations between unranked terms and atoms for regular hedge language membership. We study algebraic semantics of CLP(H) programs, define a sound, terminating, and incomplete constraint solver, investigate two fragments of constraints for which the solver returns a complete set of solutions, and describe classes of programs that generate such constraints.

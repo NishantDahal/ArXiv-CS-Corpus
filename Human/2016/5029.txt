@@ -1,0 +1,3 @@
+Some medical applications of example-based super-resolution
+
+Example-based super-resolution (EBSR) reconstructs a high-resolution image from a low-resolution image, given a training set of high-resolution images. In this note I propose some applications of EBSR to medical imaging. A particular interesting application, which I call "x-ray voxelization", approximates the result of a CT scan from an x-ray image.

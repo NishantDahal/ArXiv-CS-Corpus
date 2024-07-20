@@ -1,0 +1,3 @@
+Decision problems for Clark-congruential languages
+
+A common question when studying a class of context-free grammars is whether equivalence is decidable within this class. We answer this question positively for the class of Clark-congruential grammars, which are of interest to grammatical inference. We also consider the problem of checking whether a given CFG is Clark-congruential, and show that it is decidable given that the CFG is a DCFG.

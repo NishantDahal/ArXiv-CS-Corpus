@@ -1,0 +1,3 @@
+Online Learning with an Almost Perfect Expert
+
+We study the multiclass online learning problem where a forecaster makes a sequence of predictions using the advice of $n$ experts. Our main contribution is to analyze the regime where the best expert makes at most $b$ mistakes and to show that when $b = o(\log_4{n})$, the expected number of mistakes made by the optimal forecaster is at most $\log_4{n} + o(\log_4{n})$. We also describe an adversary strategy showing that this bound is tight and that the worst case is attained for binary prediction.

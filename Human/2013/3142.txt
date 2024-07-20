@@ -1,0 +1,3 @@
+A Stochastic Grammar for Natural Shapes
+
+We consider object detection using a generic model for natural shapes. A common approach for object recognition involves matching object models directly to images. Another approach involves building intermediate representations via a generic grouping processes. We argue that these two processes (model-based recognition and grouping) may use similar computational mechanisms. By defining a generic model for shapes we can use model-based techniques to implement a mid-level vision grouping process.

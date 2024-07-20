@@ -1,0 +1,3 @@
+On the evaluation of modular polynomials
+
+We present two algorithms that, given a prime ell and an elliptic curve E/Fq, directly compute the polynomial Phi_ell(j(E),Y) in Fq[Y] whose roots are the j-invariants of the elliptic curves that are ell-isogenous to E. We do not assume that the modular polynomial Phi_ell(X,Y) is given. The algorithms may be adapted to handle other types of modular polynomials, and we consider applications to point counting and the computation of endomorphism rings. We demonstrate the practical efficiency of the algorithms by setting a new point-counting record, modulo a prime q with more than 5,000 decimal digits, and by evaluating a modular polynomial of level ell = 100,019.

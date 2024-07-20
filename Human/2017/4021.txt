@@ -1,0 +1,4 @@
+Information complexity of the AND function in the two-Party, and multiparty settings
+
+In a recent breakthrough paper [M. Braverman, A. Garg, D. Pankratov, and O. Weinstein, From information to exact communication, STOC'13] Braverman et al. developed a local characterization for the zero-error information complexity in the two party model, and used it to compute the exact internal and external information complexity of the 2-bit AND function, which was then applied to determine the exact asymptotic of randomized communication complexity of the set disjointness problem.
+  In this article, we extend their results on AND function to the multi-party number-in-hand model by proving that the generalization of their protocol has optimal internal and external information cost for certain distributions. Our proof has new components, and in particular it fixes some minor gaps in the proof of Braverman et al.

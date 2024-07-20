@@ -1,0 +1,4 @@
+Approximation Algorithms for Finding Maximum Induced Expanders
+
+We initiate the study of approximating the largest induced expander in a given graph $G$. Given a $Δ$-regular graph $G$ with $n$ vertices, the goal is to find the set with the largest induced expansion of size at least $δ\cdot n$. We design a bi-criteria approximation algorithm for this problem; if the optimum has induced spectral expansion $λ$ our algorithm returns a $\fracλ{\log^2δ\exp(Δ/λ)}$-(spectral) expander of size at least $δn$ (up to constants).
+  Our proof introduces and employs a novel semidefinite programming relaxation for the largest induced expander problem. We expect to see further applications of our SDP relaxation in graph partitioning problems. In particular, because of the close connection to the small set expansion problem, one may be able to obtain new insights into the unique games problem.

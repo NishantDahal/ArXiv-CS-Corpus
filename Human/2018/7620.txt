@@ -1,0 +1,3 @@
+Umbrella: A Unified Software Defined Development Framework
+
+The Northbound (NB) APIs that SDN controllers provide differ in terms of architecture, syntax, naming convention, data resources, and usage. Using NB APIs to write SDN applications makes each application dependent on the API of a specific controller. To bring NB APIs from different vendors under one umbrella and make programming of SDN applications independent of specific controllers, we propose a unified software defined development framework that we call Umbrella. This paper presents the key components of the software and reports some preliminary results.

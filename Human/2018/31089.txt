@@ -1,0 +1,3 @@
+Task Graph Transformations for Latency Tolerance
+
+The Integrative Model for Parallelism (IMP) derives a task graph from a higher level description of parallel algorithms. In this note we show how task graph transformations can be used to achieve latency tolerance in the program execution. We give a formal derivation of the graph transformation, and show through simulation how latency tolerant algorithms can be faster than the naive execution in a strong scaling scenario.

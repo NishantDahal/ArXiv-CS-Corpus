@@ -1,0 +1,3 @@
+Software realization of the complex spectra analysis algorithm in R
+
+Software realization of the complex spectra decomposition on unknown number of similarcomponents is proposed.The algorithm is based on non-linear minimizing the sum of squared residuals of the spectrum model. For the adequacy checking the complex of criteria is used.It tests the model residuals correspondence with the normal distribution, equality to zero of their mean value and autocorrelation. Also the closeness of residuals and experimental data variances is checked.

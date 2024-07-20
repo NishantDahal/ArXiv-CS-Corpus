@@ -1,0 +1,3 @@
+Distributed Training of Structured SVM
+
+Training structured prediction models is time-consuming. However, most existing approaches only use a single machine, thus, the advantage of computing power and the capacity for larger data sets of multiple machines have not been exploited. In this work, we propose an efficient algorithm for distributedly training structured support vector machines based on a distributed block-coordinate descent method. Both theoretical and experimental results indicate that our method is efficient.

@@ -1,0 +1,4 @@
+The Power of Normalization: Faster Evasion of Saddle Points
+
+A commonly used heuristic in non-convex optimization is Normalized Gradient Descent (NGD) - a variant of gradient descent in which only the direction of the gradient is taken into account and its magnitude ignored. We analyze this heuristic and show that with carefully chosen parameters and noise injection, this method can provably evade saddle points. We establish the convergence of NGD to a local minimum, and demonstrate rates which improve upon the fastest known first order algorithm due to Ge e al. (2015).
+  The effectiveness of our method is demonstrated via an application to the problem of online tensor decomposition; a task for which saddle point evasion is known to result in convergence to global minima.

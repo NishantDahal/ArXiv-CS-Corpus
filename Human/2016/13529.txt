@@ -1,0 +1,3 @@
+A Study on Altering PostgreSQL from Multi-Processes Structure to Multi-Threads Structure
+
+How to altering PostgreSQL database from multi-processes structure to multi-threads structure is a difficult problem. In the paper, we bring forward a comprehensive alteration scheme. Especially, put rational methods to account for three difficult points: semaphores, signal processing and global variables. At last, applied the scheme successfully to modify a famous open source DBMS.

@@ -1,0 +1,6 @@
+On Soft Power Diagrams
+
+Many applications in data analysis begin with a set of points in a Euclidean space that is partitioned into clusters. Common tasks then are to devise a classifier deciding which of the clusters a new point is associated to, finding outliers with respect to the clusters, or identifying the type of clustering used for the partition.
+  One of the common kinds of clusterings are (balanced) least-squares assignments with respect to a given set of sites. For these, there is a 'separating power diagram' for which each cluster lies in its own cell.
+  In the present paper, we aim for efficient algorithms for outlier detection and the computation of thresholds that measure how similar a clustering is to a least-squares assignment for fixed sites. For this purpose, we devise a new model for the computation of a 'soft power diagram', which allows a soft separation of the clusters with 'point counting properties'; e.g. we are able to prescribe how many points we want to classify as outliers.
+  As our results hold for a more general non-convex model of free sites, we describe it and our proofs in this more general way. Its locally optimal solutions satisfy the aforementioned point counting properties. For our target applications that use fixed sites, our algorithms are efficiently solvable to global optimality by linear programming.

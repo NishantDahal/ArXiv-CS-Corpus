@@ -1,0 +1,3 @@
+Julia Implementation of the Dynamic Distributed Dimensional Data Model
+
+Julia is a new language for writing data analysis programs that are easy to implement and run at high performance. Similarly, the Dynamic Distributed Dimensional Data Model (D4M) aims to clarify data analysis operations while retaining strong performance. D4M accomplishes these goals through a composable, unified data model on associative arrays. In this work, we present an implementation of D4M in Julia and describe how it enables and facilitates data analysis. Several experiments showcase scalable performance in our new Julia version as compared to the original Matlab implementation.

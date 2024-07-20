@@ -1,0 +1,3 @@
+Fast Algorithm for Finding Maximum Distance with Space Subdivision in E2
+
+Finding an exact maximum distance of two points in the given set is a fundamental computational problem which is solved in many applications. This paper presents a fast, simple to implement and robust algorithm for finding this maximum distance of two points in E2. This algorithm is based on a polar subdivision followed by division of remaining points into uniform grid. The main idea of the algorithm is to eliminate as many input points as possible before finding the maximum distance. The proposed algorithm gives the significant speed up compared to the standard algorithm.

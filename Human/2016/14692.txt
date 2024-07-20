@@ -1,0 +1,4 @@
+Low Ply Drawings of Trees
+
+We consider the recently introduced model of \emph{low ply graph drawing}, in which the ply-disks of the vertices do not have many common overlaps, which results in a good distribution of the vertices in the plane. The \emph{ply-disk} of a vertex in a straight-line drawing is the disk centered at it whose radius is half the length of its longest incident edge. The largest number of ply-disks having a common overlap is called the \emph{ply-number} of the drawing.
+  We focus on trees. We first consider drawings of trees with constant ply-number, proving that they may require exponential area, even for stars, and that they may not even exist for bounded-degree trees. Then, we turn our attention to drawings with logarithmic ply-number and show that trees with maximum degree $6$ always admit such drawings in polynomial area.

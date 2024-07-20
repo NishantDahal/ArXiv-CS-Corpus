@@ -1,0 +1,3 @@
+A Simple Circle Discretization Algorithm With Applications
+
+In CNC manufacturing,there often arises the need to create G-Code programs which require the calculation of discrete x-y coordinate pairs(2D).An example of this situation is when the programmer needs to create a program to machine a helix(or thread).The required toolpath will be a set of points on a helix curve.The problem now entails calculating the number of points along this curve.Too few points and the toolpath will not be smooth.Too many points and the program becomes too big.This article will serve to provide a simple way to divide a circle into discrete points,with a notion of "dimensional tolerance" built into the algorithm.

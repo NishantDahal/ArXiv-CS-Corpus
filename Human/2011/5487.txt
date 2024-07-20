@@ -1,0 +1,3 @@
+Compression and Quantitative Analysis of Buffer Map Message in P2P Streaming System
+
+BM compression is a straightforward and operable way to reduce buffer message length as well as to improve system performance. In this paper, we thoroughly discuss the principles and protocol progress of different compression schemes, and for the first time present an original compression scheme which can nearly remove all redundant information from buffer message. Theoretical limit of compression rates are deduced in the theory of information. Through the analysis of information content and simulation with our measured BM trace of UUSee, the validity and superiority of our compression scheme are validated in term of compression ratio.

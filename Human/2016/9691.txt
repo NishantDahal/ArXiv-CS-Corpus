@@ -1,0 +1,3 @@
+A simple tool for bounding the deviation of random matrices on geometric sets
+
+Let $A$ be an isotropic, sub-gaussian $m \times n$ matrix. We prove that the process $Z_x := \|Ax\|_2 - \sqrt m \|x\|_2$ has sub-gaussian increments. Using this, we show that for any bounded set $T \subseteq \mathbb{R}^n$, the deviation of $\|Ax\|_2$ around its mean is uniformly bounded by the Gaussian complexity of $T$. We also prove a local version of this theorem, which allows for unbounded sets. These theorems have various applications, some of which are reviewed in this paper. In particular, we give a new result regarding model selection in the constrained linear model.

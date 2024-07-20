@@ -1,0 +1,3 @@
+Combining non-stationary prediction, optimization and mixing for data compression
+
+In this paper an approach to modelling nonstationary binary sequences, i.e., predicting the probability of upcoming symbols, is presented. After studying the prediction model we evaluate its performance in two non-artificial test cases. First the model is compared to the Laplace and Krichevsky-Trofimov estimators. Secondly a statistical ensemble model for compressing Burrows-Wheeler-Transform output is worked out and evaluated. A systematic approach to the parameter optimization of an individual model and the ensemble model is stated.

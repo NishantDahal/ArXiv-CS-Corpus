@@ -1,0 +1,3 @@
+A ROOT/IO Based Software Framework for CMS
+
+The implementation of persistency in the Compact Muon Solenoid (CMS) Software Framework uses the core I/O functionality of ROOT. We will discuss the current ROOT/IO implementation, its evolution from the prior Objectivity/DB implementation, and the plans and ongoing work for the conversion to "POOL", provided by the LHC Computing Grid (LCG) persistency project.

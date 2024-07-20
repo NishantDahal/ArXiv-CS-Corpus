@@ -1,0 +1,3 @@
+Performance Evaluation of Virtualized Hadoop Clusters
+
+In this report we investigate the performance of Hadoop clusters, deployed with separated storage and compute layers, on top of a hypervisor managing a single physical host. We have analyzed and evaluated the different Hadoop cluster configurations by running CPU bound and I/O bound workloads. The report is structured as follows: Section 2 provides a brief description of the technologies involved in our study. An overview of the experimental platform, setup test and configurations are presented in Section 3. Our benchmark methodology is defined in Section 4. The performed experiments together with the evaluation of the results are presented in Section 5. Finally, Section 6 concludes with lessons learned.

@@ -1,0 +1,3 @@
+Directional emphasis in ambisonics
+
+We describe an ambisonics enhancement method that increases the signal strength in specified directions at low computational cost. The method can be used in a static setup to emphasize the signal arriving from a particular direction or set of directions. It can also be used in an adaptive arrangement where it sharpens directionality and reduces the distortion in timbre associated with low-degree ambisonics representations. The emphasis operator has very low computational complexity and can be applied to time-domain as well as time-frequency ambisonics representations. The operator upscales a low-degree ambisonics representation to a higher degree representation.

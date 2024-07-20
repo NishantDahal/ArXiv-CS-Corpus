@@ -1,0 +1,3 @@
+Computations by fly-automata beyond monadic second-order logic
+
+We present logically based methods for constructing XP and FPT graph algorithms, parametrized by tree-width or clique-width. We will use fly-automata introduced in a previous article. They make possible to check properties that are not monadic second-order expressible because their states may include counters, so that their sets of states may be infinite. We equip these automata with output functions, so that they can compute values associated with terms or graphs. Rather than new algorithmic results we present tools for constructing easily certain dynamic programming algorithms by combining predefined automata for basic functions and properties.

@@ -1,0 +1,4 @@
+Towards Verification of Uncertain Cyber-Physical Systems
+
+Cyber-Physical Systems (CPS) pose new challenges to verification and validation that go beyond the proof of functional correctness based on high-level models. Particular challenges are, in particular for formal methods, its heterogeneity and scalability. For numerical simulation, uncertain behavior can hardly be covered in a comprehensive way which motivates the use of symbolic methods.
+  The paper describes an approach for symbolic simulation-based verification of CPS with uncertainties. We define a symbolic model and representation of uncertain computations: Affine Arithmetic Decision Diagrams. Then we integrate this approach in the SystemC AMS simulator that supports simulation in different models of computation. We demonstrate the approach by analyzing a water-level monitor with uncertainties, self-diagnosis, and error-reactions.

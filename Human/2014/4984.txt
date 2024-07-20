@@ -1,0 +1,3 @@
+Big, but not unruly: Tractable norms for anonymous game structures
+
+We present a new strategic logic NCHATL that allows for reasoning about norm compliance on concurrent game structures that satisfy anonymity. We represent such game structures compactly, avoiding models that have exponential size in the number of agents. Then we show that model checking can be done in polynomial time with respect to this compact representation, even for normative systems that are not anonymous. That is, as long as the underlying game structures are anonymous, model checking normative formulas is tractable even if norms can prescribe different sets of forbidden actions to different agents.

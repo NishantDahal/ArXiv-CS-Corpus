@@ -1,0 +1,5 @@
+Algorithmic aspects of $M$-Lipschitz mappings of graphs
+
+$M$-Lipschitz mappings of graphs (or equivalently graph-indexed random walks) are a generalization of standard random walk on $\mathbb{Z}$. For $M \in \N$, an \emph{$M$-Lipschitz mapping} of a connected rooted graph $G = (V,E)$ is a mapping $f: V \to \Z$ such that root is mapped to zero and for every edge $(u,v) \in E$ we have $|f(u) - f(v)| \le M$.
+  We study two natural problems regarding graph-indexed random walks. - Computing the maximum range of a graph-indexed random walk for a given graph. - Deciding if we can extend a partial GI random walk into a full GI random walk for a given graph.
+  We show that both these problems are polynomial-time solvable and we show efficient algorithms for them. To our best knowledge, this is the first algorithmic treatment of Lipschitz mappings of graphs. Furthermore, our problem of extending partial mappings is connected to the problem of \emph{list homomorphism} and yields a better run-time complexity for a specific family of its instances.

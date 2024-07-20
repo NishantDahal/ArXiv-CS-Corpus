@@ -1,0 +1,3 @@
+On the scaling of polynomial features for representation matching
+
+In many neural models, new features as polynomial functions of existing ones are used to augment representations. Using the natural language inference task as an example, we investigate the use of scaled polynomials of degree 2 and above as matching features. We find that scaling degree 2 features has the highest impact on performance, reducing classification error by 5% in the best models.

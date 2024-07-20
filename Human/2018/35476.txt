@@ -1,0 +1,3 @@
+A Pragmatic, Scalable Approach to Correct-by-construction Process Composition Using Classical Linear Logic Inference
+
+The need for rigorous process composition is encountered in many situations pertaining to the development and analysis of complex systems. We discuss the use of Classical Linear Logic (CLL) for correct-by-construction resource-based process composition, with guaranteed deadlock freedom, systematic resource accounting, and concurrent execution. We introduce algorithms to automate the necessary inference steps for binary compositions of processes in parallel, conditionally, and in sequence. We combine decision procedures and heuristics to achieve intuitive and practically useful compositions in an applied setting.

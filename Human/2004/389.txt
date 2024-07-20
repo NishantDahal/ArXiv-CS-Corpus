@@ -1,0 +1,3 @@
+Secure Prolog-Based Mobile Code
+
+LogicWeb mobile code consists of Prolog-like rules embedded in Web pages, thereby adding logic programming behaviour to those pages. Since LogicWeb programs are downloaded from foreign hosts and executed locally, there is a need to protect the client from buggy or malicious code. A security model is crucial for making LogicWeb mobile code safe to execute. This paper presents such a model, which supports programs of varying trust levels by using different resource access policies. The implementation of the model derives from an extended operational semantics for the LogicWeb language, which provides a precise meaning of safety.

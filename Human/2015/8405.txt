@@ -1,0 +1,3 @@
+A survey of P2P multidimensional indexing structures
+
+Traditional databases have long since reaped the benefits of multidimensional indexes. Numerous proposals in the literature describe multidimensional index designs for P2P systems. However, none of these designs have had real world implementations. Several proposals for P2P multidimensional indexes are reviewed and analyzed. Znet and VBI-tree are the most promising from a technical standpoint. All of the proposed designs assume honest nodes and are thus open to abuse. This is a critical flaw that must be solved before any of the proposed systems can be used.

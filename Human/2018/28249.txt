@@ -1,0 +1,4 @@
+Realisability of Pomsets via Communicating Automata
+
+Pomsets are a model of concurrent computations introduced by Pratt. They can provide a syntax-oblivious description of semantics of coordination models based on asynchronous message-passing, such as Message Sequence Charts (MSCs). In this paper, we study conditions that ensure a specification expressed as a set of pomsets can be faithfully realised via communicating automata. Our main contributions are (i) the definition of a realisability condition accounting for termination soundness, (ii) conditions for global specifications with "multi-threaded" participants, and (iii) the definition of realisability conditions that can be decided directly over pomsets. A positive by-product of our approach is the efficiency gain in the verification of the realisability conditions obtained when restricting to specific classes of choreographies characterisable in term of behavioural types.
+

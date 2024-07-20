@@ -1,0 +1,3 @@
+A Quasilinear-Time Algorithm for Tiling the Plane Isohedrally with a Polyomino
+
+A plane tiling consisting of congruent copies of a shape is isohedral provided that for any pair of copies, there exists a symmetry of the tiling mapping one copy to the other. We give a $O(n\log^2{n})$-time algorithm for deciding if a polyomino with $n$ edges can tile the plane isohedrally. This improves on the $O(n^{18})$-time algorithm of Keating and Vince and generalizes recent work by Brlek, Provençal, Fédou, and the second author.

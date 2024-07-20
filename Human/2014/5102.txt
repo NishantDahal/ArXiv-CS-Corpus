@@ -1,0 +1,3 @@
+NLCertify: A Tool for Formal Nonlinear Optimization
+
+NLCertify is a software package for handling formal certification of nonlinear inequalities involving transcendental multivariate functions. The tool exploits sparse semialgebraic optimization techniques with approximation methods for transcendental functions, as well as formal features. Given a box and a transcendental multivariate function as input, NLCertify provides OCaml libraries that produce nonnegativity certificates for the function over the box, which can be ultimately proved correct inside the Coq proof assistant.

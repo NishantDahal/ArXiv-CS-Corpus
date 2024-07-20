@@ -1,0 +1,3 @@
+Weighted Spectral Embedding of Graphs
+
+We present a novel spectral embedding of graphs that incorporates weights assigned to the nodes, quantifying their relative importance. This spectral embedding is based on the first eigenvectors of some properly normalized version of the Laplacian. We prove that these eigenvectors correspond to the configurations of lowest energy of an equivalent physical system, either mechanical or electrical, in which the weight of each node can be interpreted as its mass or its capacitance, respectively. Experiments on a real dataset illustrate the impact of weighting on the embedding.

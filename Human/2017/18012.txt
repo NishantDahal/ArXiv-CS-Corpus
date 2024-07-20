@@ -1,0 +1,3 @@
+Reactive User Behavior and Mobility Models
+
+In this paper, we present a set of simulation models to more realistically mimic the behaviour of users reading messages. We propose a User Behaviour Model, where a simulated user reacts to a message by a flexible set of possible reactions (e.g. ignore, read, like, save, etc.) and a mobility-based reaction (visit a place, run away from danger, etc.). We describe our models and their implementation in OMNeT++. We strongly believe that these models will significantly contribute to the state of the art of simulating realistically opportunistic networks.

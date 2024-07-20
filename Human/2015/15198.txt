@@ -1,0 +1,3 @@
+Single-Pole IIR Channel Power Prediction with Variable Delays
+
+Exploiting outdated channel quality indicators is crucial in most adaptive wireless communication systems. This is often done through channel prediction based on previous received indicators. In this paper, we analyze the case where the feedback delay experienced by the quality indicators is not constant, but random. Focusing on a single-pole IIR predictor, we obtain analytical expressions for the MSE and the filter parameters, and study the throughput behavior through Monte Carlo simulations. Results show that prediction provides a performance advantage for average delays smaller than 30 ms for low terminal speeds.

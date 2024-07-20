@@ -1,0 +1,3 @@
+An algorithm of frequency estimation for multi-channel coprime sampling
+
+In some applications of frequency estimation, it is challenging to sample at as high as the Nyquist rate due to hardware limitations. An effective solution is to use multiple sub-Nyquist channels with coprime undersampling ratios to jointly sample. In this paper, an algorithm suitable for any number of channels is proposed, which is based on subspace techniques. Numerical simulations show that the proposed algorithm has high accuracy and good robustness.

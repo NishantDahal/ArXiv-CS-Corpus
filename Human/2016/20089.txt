@@ -1,0 +1,4 @@
+RecSys Challenge 2016: job recommendations based on preselection of offers and gradient boosting
+
+We present the Mim-Solution's approach to the RecSys Challenge 2016, which ranked 2nd. The goal of the competition was to prepare job recommendations for the users of the website Xing.com.
+  Our two phase algorithm consists of candidate selection followed by the candidate ranking. We ranked the candidates by the predicted probability that the user will positively interact with the job offer. We have used Gradient Boosting Decision Trees as the regression tool.

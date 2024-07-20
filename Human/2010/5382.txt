@@ -1,0 +1,3 @@
+On building minimal automaton for subset matching queries
+
+We address the problem of building an index for a set $D$ of $n$ strings, where each string location is a subset of some finite integer alphabet of size $σ$, so that we can answer efficiently if a given simple query string (where each string location is a single symbol) $p$ occurs in the set. That is, we need to efficiently find a string $d \in D$ such that $p[i] \in d[i]$ for every $i$. We show how to build such index in $O(n^{\log_{σ/Δ}(σ)}\log(n))$ average time, where $Δ$ is the average size of the subsets. Our methods have applications e.g.\ in computational biology (haplotype inference) and music information retrieval.

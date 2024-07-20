@@ -1,0 +1,3 @@
+Quantitative classical realizability
+
+Introduced by Dal Lago and Hofmann, quantitative realizability is a technique used to define models for logics based on Multiplicative Linear Logic. A particularity is that functions are interpreted as bounded time computable functions. It has been used to give new and uniform proofs of soundness of several type systems with respect to certain time complexity classes. We propose a reformulation of their ideas in the setting of Krivine's classical realizability. The framework obtained generalizes Dal Lago and Hofmann's realizability, and reveals deep connections between quantitative realizability and a linear variant of Cohen's forcing.

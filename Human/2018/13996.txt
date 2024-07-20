@@ -1,0 +1,3 @@
+XGBoost: Scalable GPU Accelerated Learning
+
+We describe the multi-GPU gradient boosting algorithm implemented in the XGBoost library (https://github.com/dmlc/xgboost). Our algorithm allows fast, scalable training on multi-GPU systems with all of the features of the XGBoost library. We employ data compression techniques to minimise the usage of scarce GPU memory while still allowing highly efficient implementation. Using our algorithm we show that it is possible to process 115 million training instances in under three minutes on a publicly available cloud computing instance. The algorithm is implemented using end-to-end GPU parallelism, with prediction, gradient calculation, feature quantisation, decision tree construction and evaluation phases all computed on device.

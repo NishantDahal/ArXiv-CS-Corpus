@@ -1,0 +1,5 @@
+Online Detection of Repetitions with Backtracking
+
+In this paper we present two algorithms for the following problem: given a string and a rational $e > 1$, detect in the online fashion the earliest occurrence of a repetition of exponent $\ge e$ in the string.
+  1. The first algorithm supports the backtrack operation removing the last letter of the input string. This solution runs in $O(n\log m)$ time and $O(m)$ space, where $m$ is the maximal length of a string generated during the execution of a given sequence of $n$ read and backtrack operations.
+  2. The second algorithm works in $O(n\logσ)$ time and $O(n)$ space, where $n$ is the length of the input string and $σ$ is the number of distinct letters. This algorithm is relatively simple and requires much less memory than the previously known solution with the same working time and space. a string generated during the execution of a given sequence of $n$ read and backtrack operations.

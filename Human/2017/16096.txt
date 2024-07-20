@@ -1,0 +1,3 @@
+Robust scheduling to minimize the weighted number of late jobs with interval due-date uncertainty
+
+We consider the class of single machine scheduling problems with the objective to minimize the weighted number of late jobs, under the assumption that completion due-dates are not known precisely at the time when decision-maker must provide a schedule. It is assumed that only the intervals to which the due-dates belong are known. The concept of maximum regret is used to define robust solution. A polynomial time algorithm is given for the case when weights of jobs are all equal. A mixed-integer linear programming formulation is provided for the general case, and computational experiments are reported.

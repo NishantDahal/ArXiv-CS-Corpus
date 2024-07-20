@@ -1,0 +1,3 @@
+Combinatorial Optimization in Pattern Assembly
+
+Pattern self-assembly tile set synthesis (PATS) is a combinatorial optimization problem which aim at minimizing a rectilinear tile assembly system (RTAS) that uniquely self-assembles a given rectangular pattern, and is known to be NP-hard. PATS gets practically meaningful when it is parameterized by a constant c such that any given pattern is guaranteed to contain at most c colors (c-PATS). We first investigate simple patterns and properties of minimum RTASs for them. Then based on them, we design a 59-colored pattern to which 3SAT is reduced, and prove that 59-PATS is NP-hard.

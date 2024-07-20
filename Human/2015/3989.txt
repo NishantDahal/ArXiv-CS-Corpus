@@ -1,0 +1,3 @@
+Symmetric matrix inversion using modified Gaussian elimination
+
+In this paper we present two different variants of method for symmetric matrix inversion, based on modified Gaussian elimination. Both methods avoid computation of square roots and have a reduced machine time's spending. Further, both of them can be used efficiently not only for positive (semi-) definite, but for any non-singular symmetric matrix inversion. We use simulation to verify results, which represented in this paper.

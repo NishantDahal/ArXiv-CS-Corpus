@@ -1,0 +1,3 @@
+Horn Maximum Satisfiability: Reductions, Algorithms & Applications
+
+Recent years have witness remarkable performance improvements in maximum satisfiability (MaxSAT) solvers. In practice, MaxSAT algorithms often target the most generic MaxSAT formulation, whereas dedicated solvers, which address specific subclasses of MaxSAT, have not been investigated. This paper shows that a wide range of optimization and decision problems are either naturally formulated as MaxSAT over Horn formulas, or permit simple encodings using Horn MaxSAT. Furthermore, the paper also shows how linear time decision procedures for Horn formulas can be used for developing novel algorithms for the Horn MaxSAT problem.

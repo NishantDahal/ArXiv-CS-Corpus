@@ -1,0 +1,5 @@
+Why is it hard to beat $O(n^2)$ for Longest Common Weakly Increasing Subsequence?
+
+The Longest Common Weakly Increasing Subsequence problem (LCWIS) is a variant of the classic Longest Common Subsequence problem (LCS). Both problems can be solved with simple quadratic time algorithms. A recent line of research led to a number of matching conditional lower bounds for LCS and other related problems. However, the status of LCWIS remained open.
+  In this paper we show that LCWIS cannot be solved in strongly subquadratic time unless the Strong Exponential Time Hypothesis (SETH) is false.
+  The ideas which we developed can also be used to obtain a lower bound based on a safer assumption of NC-SETH, i.e. a version of SETH which talks about NC circuits instead of less expressive CNF formulas.

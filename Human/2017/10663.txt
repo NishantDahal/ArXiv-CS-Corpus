@@ -1,0 +1,3 @@
+Symbolic Versus Numerical Computation and Visualization of Parameter Regions for Multistationarity of Biological Networks
+
+We investigate models of the mitogenactivated protein kinases (MAPK) network, with the aim of determining where in parameter space there exist multiple positive steady states. We build on recent progress which combines various symbolic computation methods for mixed systems of equalities and inequalities. We demonstrate that those techniques benefit tremendously from a newly implemented graph theoretical symbolic preprocessing method. We compare computation times and quality of results of numerical continuation methods with our symbolic approach before and after the application of our preprocessing.

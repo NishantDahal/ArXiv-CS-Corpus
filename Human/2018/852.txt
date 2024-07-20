@@ -1,0 +1,3 @@
+Disseminacao de mensagens DTN com base em grupos de interesses
+
+Recent works explore social characteristics of nodes to improve message delivery rate in Delay Tolerant Networks (DTN). This work uses machine learning techniques to create node groups organized by common interests. Messages are sent to target groups, and from there to the final destination. Simulation results using The ONE simulator show that the larger the group size the higher the message delivery rate, that reaches 100% in some cases. The paper also presents results related to the groups of interest such as message delivery rat, delivery delay and an average number of hops to deliver messages. The overall results indicate that group-based routing is a promising research filed.

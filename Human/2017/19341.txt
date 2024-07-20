@@ -1,0 +1,3 @@
+The computational complexity of the initial value problem for the three body problem
+
+The paper is concerned with the computational complexity of the initial value problem (IVP) for a system of ordinary dynamical equations. Formal problem statement is given, containing a Turing machine with an oracle for getting the initial values as real numbers. It is proven that the computational complexity of the IVP for the three body problem is not bounded by a polynomial. The proof is based on the analysis of oscillatory solutions of the Sitnikov problem that have complex dynamical behavior. These solutions contradict the existence of an algorithm that solves the IVP in polynomial time.

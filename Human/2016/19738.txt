@@ -1,0 +1,3 @@
+VIBIKNet: Visual Bidirectional Kernelized Network for Visual Question Answering
+
+In this paper, we address the problem of visual question answering by proposing a novel model, called VIBIKNet. Our model is based on integrating Kernelized Convolutional Neural Networks and Long-Short Term Memory units to generate an answer given a question about an image. We prove that VIBIKNet is an optimal trade-off between accuracy and computational load, in terms of memory and time consumption. We validate our method on the VQA challenge dataset and compare it to the top performing methods in order to illustrate its performance and speed.

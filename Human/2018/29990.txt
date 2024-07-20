@@ -1,0 +1,3 @@
+Event-Based Structured Light for Depth Reconstruction using Frequency Tagged Light Patterns
+
+This paper presents a new method for 3D depth estimation using the output of an asynchronous time driven image sensor. In association with a high speed Digital Light Processing projection system, our method achieves real-time reconstruction of 3D points cloud, up to several hundreds of hertz. Unlike state of the art methodology, we introduce a method that relies on the use of frequency tagged light pattern that make use of the high temporal resolution of event based sensors. This approch eases matching as each pattern unique frequency allow for any easy matching between displayed patterns and the event based sensor. Results are show on real scenes.

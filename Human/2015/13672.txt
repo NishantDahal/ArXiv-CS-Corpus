@@ -1,0 +1,3 @@
+Multi-Volume High Resolution RGB-D Mapping with Dynamic Volume Placement
+
+We present a novel RGB-D mapping system for generating 3D maps over spatially extended regions with higher resolution than current methods using multiple, dynamically placed mapping volumes. Our method takes in RGB-D frames and dynamically assigns multiple mapping volumes to the environment, exchanging mapping volumes between the CPU and GPU. Mapping volumes are added or removed as needed to allow for spatially extended, high resolution mapping. Our system is designed to maximize the resolution possible for such volumetric methods, while working on an unbounded space.

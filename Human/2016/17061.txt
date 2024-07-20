@@ -1,0 +1,3 @@
+Multiscale Computing in the Exascale Era
+
+We expect that multiscale simulations will be one of the main high performance computing workloads in the exascale era. We propose multiscale computing patterns as a generic vehicle to realise load balanced, fault tolerant and energy aware high performance multiscale computing. Multiscale computing patterns should lead to a separation of concerns, whereby application developers can compose multiscale models and execute multiscale simulations, while pattern software realises optimized, fault tolerant and energy aware multiscale computing. We introduce three multiscale computing patterns, present an example of the extreme scaling pattern, and discuss our vision of how this may shape multiscale computing in the exascale era.

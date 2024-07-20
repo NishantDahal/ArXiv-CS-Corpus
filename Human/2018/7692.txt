@@ -1,0 +1,3 @@
+On the Enumeration of Maximal $(Δ, γ)$-Cliques of a Temporal Network
+
+A temporal network is a mathematical way of precisely representing a time varying relationship among a group of agents. In this paper, we introduce the notion of $(Δ, γ)$-Cliques of a temporal network, where every pair of vertices present in the clique communicates atleast $γ$ times in each $Δ$ period within a given time duration. We present an algorithm for enumerating all such maximal cliques present in the network. We also implement the proposed algorithm with three human contact network data sets. Based on the obtained results, we analyze the data set on multiple values of $Δ$ and $γ$, which helps in finding out contact groups with different frequencies.

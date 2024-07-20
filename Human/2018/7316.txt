@@ -1,0 +1,3 @@
+Distributed Algorithm for Matching between Individuals and Activities
+
+In this paper, we introduce an agent-based model for coalition formation which is suitable for our usecase. We propose here two clearing-houses mechanisms that return sound matchings. The first aims at maximizing the global satisfaction of the individuals. The second ensures that all individuals are assigned as much as possible to a preferred activity. Our experiments show that the outcome of our algorithms are better than those obtained with the classical search/optimization techniques. Moreover, their distribution speeds up their runtime.

@@ -1,0 +1,3 @@
+Proving soundness of combinatorial Vickrey auctions and generating verified executable code
+
+Using mechanised reasoning we prove that combinatorial Vickrey auctions are soundly specified in that they associate a unique outcome (allocation and transfers) to any valid input (bids). Having done so, we auto-generate verified executable code from the formally defined auction. This removes a source of error in implementing the auction design. We intend to use formal methods to verify new auction designs. Here, our contribution is to introduce and demonstrate the use of formal methods for auction verification in the familiar setting of a well-known auction.

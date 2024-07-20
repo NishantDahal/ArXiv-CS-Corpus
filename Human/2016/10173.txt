@@ -1,0 +1,4 @@
+Improvable Knapsack Problems
+
+We consider a variant of the knapsack problem, where items are available with different possible weights. Using a separate budget for these item improvements, the question is: Which items should be improved to which degree such that the resulting classic knapsack problem yields maximum profit?
+  We present a detailed analysis for several cases of improvable knapsack problems, presenting constant factor approximation algorithms and two PTAS.

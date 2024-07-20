@@ -1,0 +1,3 @@
+Convolutional Sparse Representations with Gradient Penalties
+
+While convolutional sparse representations enjoy a number of useful properties, they have received limited attention for image reconstruction problems. The present paper compares the performance of block-based and convolutional sparse representations in the removal of Gaussian white noise. While the usual formulation of the convolutional sparse coding problem is slightly inferior to the block-based representations in this problem, the performance of the convolutional form can be boosted beyond that of the block-based form by the inclusion of suitable penalties on the gradients of the coefficient maps.

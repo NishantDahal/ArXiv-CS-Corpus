@@ -1,0 +1,3 @@
+The Key Authority - Secure Key Management in Hierarchical Public Key Infrastructures
+
+We model a private key`s life cycle as a finite state machine. The states are the key`s phases of life and the transition functions describe tasks to be done with the key. Based on this we define and describe the key authority, a trust center module, which potentiates the easy enforcement of secure management of private keys in hierarchical public key infrastructures. This is done by assembling all trust center tasks concerning the crucial handling of private keys within one centralized module. As this module resides under full control of the trust center`s carrier it can easily be protected by well-known organizational and technical measures.

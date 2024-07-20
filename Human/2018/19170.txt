@@ -1,0 +1,3 @@
+Dynamic load balancing strategies for hierarchical p-FEM solvers
+
+Equation systems resulting from a p-version FEM discretisation typically require a special treatment as iterative solvers are not very efficient here. Applying hierarchical concepts based on a nested dissection approach allow for both the design of sophisticated solvers as well as for advanced parallelisation strategies. To fully exploit the underlying computing power of parallel systems, dynamic load balancing strategies become an essential component.

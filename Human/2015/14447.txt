@@ -1,0 +1,3 @@
+Exploiting Redundant Computation in Communication-Avoiding Algorithms for Algorithm-Based Fault Tolerance
+
+Communication-avoiding algorithms allow redundant computations to minimize the number of inter-process communications. In this paper, we propose to exploit this redundancy for fault-tolerance purpose. We illustrate this idea with QR factorization of tall and skinny matrices, and we evaluate the number of failures our algorithm can tolerate under different semantics.

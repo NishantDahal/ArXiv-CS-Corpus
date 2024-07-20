@@ -1,0 +1,3 @@
+Uncommon Suffix Tries
+
+Common assumptions on the source producing the words inserted in a suffix trie with $n$ leaves lead to a $\log n$ height and saturation level. We provide an example of a suffix trie whose height increases faster than a power of $n$ and another one whose saturation level is negligible with respect to $\log n$. Both are built from VLMC (Variable Length Markov Chain) probabilistic sources; they are easily extended to families of sources having the same properties. The first example corresponds to a "logarithmic infinite comb" and enjoys a non uniform polynomial mixing. The second one corresponds to a "factorial infinite comb" for which mixing is uniform and exponential.

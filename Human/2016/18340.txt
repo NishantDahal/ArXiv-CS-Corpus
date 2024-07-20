@@ -1,0 +1,3 @@
+Porting the LSST Data Management Pipeline Software to Python 3
+
+The LSST data management science pipelines software consists of more than 100,000 lines of Python 2 code. LSST operations will begin after support for Python 2 has been dropped by the Python community in 2020, and we must therefore plan to migrate the codebase to Python 3. During the transition period we must also support our community of active Python 2 users and this complicates the porting significantly. We have decided to use the Python future package as the basis for our port to enable support for Python 2 and Python 3 simultaneously, whilst developing with a mindset more suited to Python 3. In this paper we report on the current status of the port and the difficulties that have been encountered.

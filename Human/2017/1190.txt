@@ -1,0 +1,3 @@
+A generalized power iteration method for solving quadratic problem on the Stiefel manifold
+
+In this paper, we first propose a novel generalized power iteration method (GPI) to solve the quadratic problem on the Stiefel manifold (QPSM) as min_{W^TW=I}Tr(W^TAW-2W^TB) along with the theoretical analysis. Accordingly, its special case known as the orthogonal least square regression (OLSR) is under further investigation. Based on the aforementioned studies, we then cast major focus on solving the unbalanced orthogonal procrustes problem (UOPP). As a result, not only a general convergent algorithm is derived theoretically but the efficiency of the proposed approach is verified empirically as well.

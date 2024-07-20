@@ -1,0 +1,3 @@
+Simple parallel and distributed algorithms for spectral graph sparsification
+
+We describe a simple algorithm for spectral graph sparsification, based on iterative computations of weighted spanners and uniform sampling. Leveraging the algorithms of Baswana and Sen for computing spanners, we obtain the first distributed spectral sparsification algorithm. We also obtain a parallel algorithm with improved work and time guarantees. Combining this algorithm with the parallel framework of Peng and Spielman for solving symmetric diagonally dominant linear systems, we get a parallel solver which is much closer to being practical and significantly more efficient in terms of the total work.

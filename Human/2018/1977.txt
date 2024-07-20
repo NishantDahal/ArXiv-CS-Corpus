@@ -1,0 +1,4 @@
+Smart elements in combinatorial group testing problems
+
+In combinatorial group testing problems Questioner needs to find a special element $x \in [n]$ by testing subsets of $[n]$. Tapolcai et al. introduced a new model, where each element knows the answer for those queries that contain it and each element should be able to identify the special one. Using classical results of extremal set theory we prove that if $\mathcal{F}_n \subset 2^{[n]}$ solves the non-adaptive version of this problem and has minimal cardinality, then $$\lim_{n \rightarrow \infty} \frac{|\mathcal{F}_n|}{\log_2 n} = \log_{(3/2)}2.$$ This improves results by Tapolcai et al.
+  We also consider related models inspired by secret sharing models, where the elements should share information among them to find out the special one. Finally the adaptive versions of the different models are investigated.

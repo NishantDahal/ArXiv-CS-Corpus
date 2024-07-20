@@ -1,0 +1,3 @@
+Computing Affine Combinations, Distances, and Correlations for Recursive Partition Functions
+
+Recursive partitioning is the core of several statistical methods including CART, random forest, and boosted trees. Despite the popularity of tree based methods, to date, there did not exist methods for combining multiple trees into a single tree, or methods for systematically quantifying the discrepancy between two trees. Taking advantage of the recursive structure in trees we formulated fast algorithms for computing affine combinations, distances and correlations in a vector subspace of recursive partition functions.

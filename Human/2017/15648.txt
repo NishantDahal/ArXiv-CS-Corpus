@@ -1,0 +1,5 @@
+A plurality problem with three colors and query size three
+
+The Plurality problem - introduced by Aigner \cite{A2004} - has many variants. In this article we deal with the following version: suppose we are given $n$ balls, each of them colored by one of three colors. A \textit{plurality ball} is one such that its color class is strictly larger than any other color class. Questioner wants to find a plurality ball as soon as possible or state there is no, by asking triplets (or $k$-sets, in general), while Adversary partition the triplets into color classes as an answer for the queries and wants to postpone the possibility of determining a plurality ball (or stating there is no).
+  We denote by $A_p(n,3)$ the largest number of queries needed to ask if both play optimally (and Questioner asks triplets). We provide an almost precise result in case of even $n$ by proving that for $n \ge 4$ even we have $$\frac{3}{4}n-2 \le A_p(n,3) \le \frac{3}{4}n-\frac{1}{2},$$ and for $n \ge 3$ odd we have $$\frac{3}{4}n-O(\log n) \le A_p(n,3) \le \frac{3}{4}n-\frac{1}{2}.$$
+  We also prove some bounds on the number of queries needed to ask for larger $k$.

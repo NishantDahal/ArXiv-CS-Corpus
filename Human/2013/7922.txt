@@ -1,0 +1,3 @@
+Online Stochastic Optimization with Multiple Objectives
+
+In this paper we propose a general framework to characterize and solve the stochastic optimization problems with multiple objectives underlying many real world learning applications. We first propose a projection based algorithm which attains an $O(T^{-1/3})$ convergence rate. Then, by leveraging on the theory of Lagrangian in constrained optimization, we devise a novel primal-dual stochastic approximation algorithm which attains the optimal convergence rate of $O(T^{-1/2})$ for general Lipschitz continuous objectives.

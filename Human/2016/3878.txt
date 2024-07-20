@@ -1,0 +1,3 @@
+Principles of Layered Attestation
+
+Systems designed with measurement and attestation in mind are often layered, with the lower layers measuring the layers above them. Attestations of such systems, which we call layered attestations, must bundle together the results of a diverse set of application-specific measurements of various parts of the system. Some methods of layered attestation are more trustworthy than others, so it is important for system designers to understand the trust consequences of different system configurations. This paper presents a formal framework for reasoning about layered attestations, and provides generic reusable principles for achieving trustworthy results.

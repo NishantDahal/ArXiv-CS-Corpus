@@ -1,0 +1,3 @@
+Approximation thresholds for combinatorial optimization problems
+
+An NP-hard combinatorial optimization problem $Π$ is said to have an {\em approximation threshold} if there is some $t$ such that the optimal value of $Π$ can be approximated in polynomial time within a ratio of $t$, and it is NP-hard to approximate it within a ratio better than $t$. We survey some of the known approximation threshold results, and discuss the pattern that emerges from the known results.

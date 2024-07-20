@@ -1,0 +1,3 @@
+Simple linear algorithms for mining graph cores
+
+Batagelj and Zaversnik proposed a linear algorithm for the well-known $k$-core decomposition problem. However, when $k$-cores are desired for a given $k$, we find that a simple linear algorithm requiring no sorting works for mining $k$-cores. In addition, this algorithm can be extended to mine $(k_1, k_2,\ldots, k_p)$-cores from $p$-partite graphs in linear time, and this mining approach can be efficiently implemented in a distributed computing environment with a lower message complexity bound in comparison with the best known method of distributed $k$-core decomposition.

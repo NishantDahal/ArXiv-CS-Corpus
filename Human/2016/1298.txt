@@ -1,0 +1,3 @@
+Globally Optimal Cell Tracking using Integer Programming
+
+We propose a novel approach to automatically tracking cell populations in time-lapse images. To account for cell occlusions and overlaps, we introduce a robust method that generates an over-complete set of competing detection hypotheses. We then perform detection and tracking simultaneously on these hypotheses by solving to optimality an integer program with only one type of flow variables. This eliminates the need for heuristics to handle missed detections due to occlusions and complex morphology. We demonstrate the effectiveness of our approach on a range of challenging sequences consisting of clumped cells and show that it outperforms state-of-the-art techniques.

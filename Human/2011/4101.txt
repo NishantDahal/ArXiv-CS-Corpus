@@ -1,0 +1,3 @@
+A Maximal Large Deviation Inequality for Sub-Gaussian Variables
+
+In this short note we prove a maximal concentration lemma for sub-Gaussian random variables stating that for independent sub-Gaussian random variables we have \[P<(\max_{1\le i\le N}S_{i}>ε>) \le\exp<(-\frac{1}{N^2}\sum_{i=1}^{N}\frac{ε^{2}}{2σ_{i}^{2}}>), \] where $S_i$ is the sum of $i$ zero mean independent sub-Gaussian random variables and $σ_i$ is the variance of the $i$th random variable.

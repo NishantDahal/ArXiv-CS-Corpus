@@ -1,0 +1,3 @@
+Partial Recovery Bounds for the Sparse Stochastic Block Model
+
+In this paper, we study the information-theoretic limits of community detection in the symmetric two-community stochastic block model, with intra-community and inter-community edge probabilities $\frac{a}{n}$ and $\frac{b}{n}$ respectively. We consider the sparse setting, in which $a$ and $b$ do not scale with $n$, and provide upper and lower bounds on the proportion of community labels recovered on average. We provide a numerical example for which the bounds are near-matching for moderate values of $a - b$, and matching in the limit as $a-b$ grows large.

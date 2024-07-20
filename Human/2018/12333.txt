@@ -1,0 +1,3 @@
+Coordination Using Individually Shared Randomness
+
+Two processors output correlated sequences using the help of a coordinator with whom they individually share independent randomness. For the case of unlimited shared randomness, we characterize the rate of communication required from the coordinator to the processors over a broadcast link. We also give an achievable trade-off between the communication and shared randomness rates.

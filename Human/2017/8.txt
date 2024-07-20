@@ -1,0 +1,3 @@
+Role model detection using low rank similarity matrix
+
+Computing meaningful clusters of nodes is crucial to analyse large networks. In this paper, we apply new clustering methods to improve the computational time. We use the properties of the adjacency matrix to obtain better role extraction. We also define a new non-recursive similarity measure and compare its results with the ones obtained with Browet's similarity measure. We will show the extraction of the different roles with a linear time complexity. Finally, we test our algorithm with real data structures and analyse the limit of our algorithm.

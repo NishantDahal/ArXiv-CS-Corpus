@@ -1,0 +1,3 @@
+FRIDA: FRI-Based DOA Estimation for Arbitrary Array Layouts
+
+In this paper we present FRIDA---an algorithm for estimating directions of arrival of multiple wideband sound sources. FRIDA combines multi-band information coherently and achieves state-of-the-art resolution at extremely low signal-to-noise ratios. It works for arbitrary array layouts, but unlike the various steered response power and subspace methods, it does not require a grid search. FRIDA leverages recent advances in sampling signals with a finite rate of innovation. It is based on the insight that for any array layout, the entries of the spatial covariance matrix can be linearly transformed into a uniformly sampled sum of sinusoids.

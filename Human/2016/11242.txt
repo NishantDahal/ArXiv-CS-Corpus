@@ -1,0 +1,3 @@
+How many subsets of edges of a directed multigraph can be represented as trails?
+
+For each subset of edges of a (directed multi-) graph, one may determine whether the edges can be represented as a trail. I prove that the fraction trail-representable subsets of edges is at most $O(\sqrt{\log m}/\sqrt{m})$, where $m$ is the number of edges, and show by example that the upper bound is nearly tight.

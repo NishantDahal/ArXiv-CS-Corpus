@@ -1,0 +1,3 @@
+Finding missing edges and communities in incomplete networks
+
+Many algorithms have been proposed for predicting missing edges in networks, but they do not usually take account of which edges are missing. We focus on networks which have missing edges of the form that is likely to occur in real networks, and compare algorithms that find these missing edges. We also investigate the effect of this kind of missing data on community detection algorithms.

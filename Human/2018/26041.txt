@@ -1,0 +1,3 @@
+Minimizing Task Space Frechet Error via Efficient Incremental Graph Search
+
+We present an anytime algorithm that generates a collision-free configuration-space path that closely follows a desired path in task space, according to the discrete Frechet distance. By leveraging tools from computational geometry, we approximate the search space using a cross-product graph. We use a variant of Dijkstra's graph-search algorithm to efficiently search for and iteratively improve the solution. We compare multiple proposed densification strategies and empirically show that our algorithm outperforms a set of state-of-the-art planners on a range of manipulation problems. Finally, we offer a proof sketch of the asymptotic optimality of our algorithm.

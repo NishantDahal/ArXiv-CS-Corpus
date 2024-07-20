@@ -1,0 +1,3 @@
+Risk Bounds For Mode Clustering
+
+Density mode clustering is a nonparametric clustering method. The clusters are the basins of attraction of the modes of a density estimator. We study the risk of mode-based clustering. We show that the clustering risk over the cluster cores --- the regions where the density is high --- is very small even in high dimensions. And under a low noise condition, the overall cluster risk is small even beyond the cores, in high dimensions.

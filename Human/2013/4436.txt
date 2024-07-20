@@ -1,0 +1,3 @@
+An Improved GEF Fast Addition Algorithm
+
+In this paper, an improved GEF fast addition algorithm is proposed. The proposed algorithm reduces time and memory space. In this algorithm, carry is calculated on the basis of arrival timing of the operand's bits without overhead of sorting. Intermediate terms are generated from the most significant bit and the carry is generated from the least significant bit using the functions of efficient operators. This algorithm shows better performance for use in the fastest computational devices of the near future.

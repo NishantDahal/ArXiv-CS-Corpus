@@ -1,0 +1,3 @@
+Generalized Secret Sharing using Permutation Ordered Binary System
+
+Secret sharing is a method of dividing a secret among n par- ticipants and allows only qualified subset to reconstruct the secret and hence provides better reliability and availability of secret data.In the generalized secret sharing scheme, a monotone access structure of the set of participants is considered. The access structure specifies a qualified subset of participants who can reconstruct the secret from their shares.Generalized secret sharing schemes can be efficiently implemented by using (n; n) scheme.We have developed an efficient (n; n) scheme using Permutation Ordered Binary (POB) number system which is then combined with cumulative arrays to obtain a generalized secret sharing scheme.

@@ -1,0 +1,3 @@
+On beta-skeleton automata with memory
+
+A β-skeleton is a proximity undirected graph whose connectivity is determined by the parameter β. We study β-skeleton automata where every node is a finite state machine taking two states, and updating its states depending on the states of adjacent automata-nodes. We allow automata-nodes to remember their previous states. In computational experiments we study how memory affects the global space-time dynamics on β-skeleton automata.

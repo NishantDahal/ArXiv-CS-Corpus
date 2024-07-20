@@ -1,0 +1,4 @@
+The Karyotype Ontology: a computational representation for human cytogenetic patterns
+
+The karyotype ontology describes the human chromosome complement as determined cytogenetically, and is designed as an initial step toward the goal of replacing the current system which is based on semantically meaningful strings. This ontology uses a novel, semi-programmatic methodology based around the tawny library to construct many classes rapidly. Here, we describe our use case, methodology and the event-based approach that we use to represent karyotypes.
+  The ontology is available at http://www.purl.org/ontolink/karyotype/. The clojure code is available at http://code.google.com/p/karyotype-clj/.

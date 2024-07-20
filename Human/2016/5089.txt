@@ -1,0 +1,3 @@
+Two Pairwise Iterative Schemes For High Dimensional Blind Source Separation
+
+This paper addresses the high dimensionality problem in blind source separation (BSS), where the number of sources is greater than two. Two pairwise iterative schemes are proposed to tackle this high dimensionality problem. The two pairwise schemes realize nonparametric independent component analysis (ICA) algorithms based on a new high-performance Convex CauchySchwarz Divergence (CCSDIV). These two schemes enable fast and efficient demixing of sources in real-world high dimensional source applications. Finally, the performance superiority of the proposed schemes is demonstrated in metric-comparison with FastICA, RobustICA, convex ICA (CICA), and other leading existing algorithms.

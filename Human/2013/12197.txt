@@ -1,0 +1,3 @@
+The Garden Hose Complexity for the Equality Function
+
+The garden hose complexity is a new communication complexity introduced by H. Buhrman, S. Fehr, C. Schaffner and F. Speelman [BFSS13] to analyze position-based cryptography protocols in the quantum setting. We focus on the garden hose complexity of the equality function, and improve on the bounds of O. Margalit and A. Matsliah[MM12] with the help of a new approach and of our handmade simulated annealing based solver. We have also found beautiful symmetries of the solutions that have lead us to develop the notion of garden hose permutation groups. Then, exploiting this new concept, we get even further, although several interesting open problems remain.

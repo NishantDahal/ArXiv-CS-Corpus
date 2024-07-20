@@ -1,0 +1,3 @@
+Squashing model for detectors and applications to quantum key distribution protocols
+
+We develop a framework that allows a description of measurements in Hilbert spaces that are smaller than their natural representation. This description, which we call a "squashing model", consists of a squashing map that maps the input states of the measurement from the original Hilbert space to the smaller one, followed by a targeted prescribed measurement on the smaller Hilbert space. This framework has applications in quantum key distribution, but also in other cryptographic tasks, as it greatly simplifies the theoretical analysis under adversarial conditions.

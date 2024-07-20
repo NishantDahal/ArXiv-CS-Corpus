@@ -1,0 +1,3 @@
+Numerical simulations of mixed states quantum computation
+
+We describe quantum-octave package of functions useful for simulations of quantum algorithms and protocols. Presented package allows to perform simulations with mixed states. We present numerical implementation of important quantum mechanical operations - partial trace and partial transpose. Those operations are used as building blocks of algorithms for analysis of entanglement and quantum error correction codes. Simulation of Shor's algorithm is presented as an example of package capabilities.

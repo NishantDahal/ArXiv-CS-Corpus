@@ -1,0 +1,3 @@
+Handling Parallelism in a Concurrency Model
+
+Programming models for concurrency are optimized for dealing with nondeterminism, for example to handle asynchronously arriving events. To shield the developer from data race errors effectively, such models may prevent shared access to data altogether. However, this restriction also makes them unsuitable for applications that require data parallelism. We present a library-based approach for permitting parallel access to arrays while preserving the safety guarantees of the original model. When applied to SCOOP, an object-oriented concurrency model, the approach exhibits a negligible performance overhead compared to ordinary threaded implementations of two parallel benchmark programs.

@@ -1,0 +1,3 @@
+Fixed-parameter Tractable Distances to Sparse Graph Classes
+
+We show that for various classes C of sparse graphs, and several measures of distance to such classes (such as edit distance and elimination distance), the problem of determining the distance of a given graph G to C is fixed-parameter tractable. The results are based on two general techniques. The first of these, building on recent work of Grohe et al. establishes that any class of graphs that is slicewise nowhere dense and slicewise first-order definable is FPT. The second shows that determining the elimination distance of a graph G to a minor-closed class C is FPT.

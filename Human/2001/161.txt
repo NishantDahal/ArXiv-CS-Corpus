@@ -1,0 +1,4 @@
+Component Programming and Interoperability in Constraint Solver Design
+
+Prolog was once the main host for implementing constraint solvers.
+  It seems that it is no longer so. To be useful, constraint solvers have to be integrable into industrial applications written in imperative or object-oriented languages; to be efficient, they have to interact with other solvers. To meet these requirements, many solvers are now implemented in the form of extensible object-oriented libraries. Following Pfister and Szyperski, we argue that ``objects are not enough,'' and we propose to design solvers as component-oriented libraries. We illustrate our approach by the description of the architecture of a prototype, and we assess its strong points and weaknesses.

@@ -1,0 +1,3 @@
+Local variation of hashtag spike trains and popularity in Twitter
+
+We draw a parallel between hashtag time series and neuron spike trains. In each case, the process presents complex dynamic patterns including temporal correlations, burstiness, and all other types of nonstationarity. We propose the adoption of the so-called local variation in order to uncover salient dynamics, while properly detrending for the time-dependent features of a signal. The methodology is tested on both real and randomized hashtag spike trains, and identifies that popular hashtags present regular and so less bursty behavior, suggesting its potential use for predicting online popularity in social media.

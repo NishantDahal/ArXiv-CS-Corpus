@@ -1,0 +1,3 @@
+Lower Bounds for Approximate LDC
+
+We study an approximate version of $q$-query LDCs (Locally Decodable Codes) over the real numbers and prove lower bounds on the encoding length of such codes. A $q$-query $(α,δ)$-approximate LDC is a set $V$ of $n$ points in $\mathbb{R}^d$ so that, for each $i \in [d]$ there are $Ω(δn)$ disjoint $q$-tuples $(\vec{u}_1,\ldots,\vec{u}_q) $ in $V$ so that $\text{span}(\vec{u}_1,\ldots,\vec{u}_q)$ contains a unit vector whose $i$'th coordinate is at least $α$. We prove exponential lower bounds of the form $n \geq 2^{Ω(αδ\sqrt{d})}$ for the case $q=2$ and, in some cases, stronger bounds (exponential in $d$).

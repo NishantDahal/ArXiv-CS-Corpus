@@ -1,0 +1,4 @@
+A Faster Algorithm for Computing Motorcycle Graphs
+
+We present a new algorithm for computing motorcycle graphs that runs in O(n^(4/3+e)) time for any e>0, improving on all previously known algorithms. The main application of this result is to computing the straight skeleton of a polygon. It allows us to compute the straight skeleton of a non-degenerate polygon with h holes in O(n.sqrt(h+1)log^2(n)+n^(4/3+e)) expected time. If all input coordinates are O(log n)-bit rational numbers, we can compute the straight skeleton of a (possibly degenerate) polygon with h holes in O(n.sqrt(h+1)log^3(n)) expected time.
+  In particular, it means that we can compute the straight skeleton of a simple polygon in O(n.log^3(n)) expected time if all input coordinates are O(\log n)-bit rationals, while all previously known algorithms have worst-case running time larger than n^(3/2).

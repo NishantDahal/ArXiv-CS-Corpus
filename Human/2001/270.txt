@@ -1,0 +1,3 @@
+Average-Case Quantum Query Complexity
+
+We compare classical and quantum query complexities of total Boolean functions. It is known that for worst-case complexity, the gap between quantum and classical can be at most polynomial. We show that for average-case complexity under the uniform distribution, quantum algorithms can be exponentially faster than classical algorithms. Under non-uniform distributions the gap can even be super-exponential. We also prove some general bounds for average-case complexity and show that the average-case quantum complexity of MAJORITY under the uniform distribution is nearly quadratically better than the classical complexity.

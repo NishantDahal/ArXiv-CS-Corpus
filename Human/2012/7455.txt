@@ -1,0 +1,3 @@
+Parallel Semi-Implicit Time Integrators
+
+In this paper, we further develop a family of parallel time integrators known as Revisionist Integral Deferred Correction methods (RIDC) to allow for the semi-implicit solution of time dependent PDEs. Additionally, we show that our semi-implicit RIDC algorithm can harness the computational potential of multiple general purpose graphical processing units (GPUs) in a single node by utilizing existing CUBLAS libraries for matrix linear algebra routines in our implementation. In the numerical experiments, we show that our implementation computes a fourth order solution using four GPUs and four CPUs in approximately the same wall clock time as a first order solution computed using a single GPU and a single CPU.

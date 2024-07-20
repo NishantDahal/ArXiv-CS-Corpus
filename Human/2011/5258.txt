@@ -1,0 +1,4 @@
+mGPT: A Probabilistic Planner Based on Heuristic Search
+
+We describe the version of the GPT planner used in the probabilistic track of the 4th International Planning Competition (IPC-4). This version, called mGPT, solves Markov Decision Processes specified in the PPDDL language by extracting and using different classes of lower bounds along with various heuristic-search algorithms. The lower bounds are extracted from deterministic relaxations where the alternative probabilistic effects of an action are mapped into different, independent, deterministic actions. The heuristic-search algorithms use these lower bounds for focusing the updates and delivering a consistent value function over all states reachable from the initial state and the greedy policy. 
+

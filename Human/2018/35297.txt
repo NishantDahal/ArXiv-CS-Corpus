@@ -1,0 +1,3 @@
+Learning Dense Stereo Matching for Digital Surface Models from Satellite Imagery
+
+Digital Surface Model generation from satellite imagery is a difficult task that has been largely overlooked by the deep learning community. Stereo reconstruction techniques developed for terrestrial systems including self driving cars do not translate well to satellite imagery where image pairs vary considerably. In this work we present neural network tailored for Digital Surface Model generation, a ground truthing and training scheme which maximizes available hardware, and we present a comparison to existing methods. The resulting models are smooth, preserve boundaries, and enable further processing. This represents one of the first attempts at leveraging deep learning in this domain.

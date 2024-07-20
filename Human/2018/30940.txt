@@ -1,0 +1,3 @@
+Lemma Functions for Frama-C: C Programs as Proofs
+
+This paper describes the development of an auto-active verification technique in the Frama-C framework. We outline the lemma functions method and present the corresponding ACSL extension, its implementation in Frama-C, and evaluation on a set of string-manipulating functions from the Linux kernel. We illustrate the benefits our approach can bring concerning the effort required to prove lemmas, compared to the approach based on interactive provers such as Coq. Current limitations of the method and its implementation are discussed.

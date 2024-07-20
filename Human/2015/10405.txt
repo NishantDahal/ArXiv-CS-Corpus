@@ -1,0 +1,3 @@
+Proof Theory of a Multi-Lane Spatial Logic
+
+We extend the Multi-lane Spatial Logic MLSL, introduced in previous work for proving the safety (collision freedom) of traffic maneuvers on a multi-lane highway, by length measurement and dynamic modalities. We investigate the proof theory of this extension, called EMLSL. To this end, we prove the undecidability of EMLSL but nevertheless present a sound proof system which allows for reasoning about the safety of traffic situations. We illustrate the latter by giving a formal proof for the reservation lemma we could only prove informally before. Furthermore we prove a basic theorem showing that the length measurement is independent from the number of lanes on the highway. 

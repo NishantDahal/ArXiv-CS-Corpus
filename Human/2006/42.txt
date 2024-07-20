@@ -1,0 +1,3 @@
+Exploring high performance distributed file storage using LDPC codes
+
+We explore the feasibility of implementing a reliable, high performance, distributed storage system on a commodity computing cluster. Files are distributed across storage nodes using erasure coding with small Low-Density Parity-Check (LDPC) codes which provide high reliability while keeping the storage and performance overhead small. We present performance measurements done on a prototype system comprising 50 nodes which are self organised using a peer-to-peer overlay.

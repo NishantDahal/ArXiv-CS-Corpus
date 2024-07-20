@@ -1,0 +1,3 @@
+Folding graphs
+
+Let G be a graph. Consider two nonadjacent vertices x and y that have a common neighbor. Folding G with respect to x and y is the operation which identifies x and y. After a maximal series of foldings the graph is a disjoint union of cliques. The minimal clique number that can appear after a maximal series of foldings is equal to the chromatic number of G. In this paper we consider the problem to determine the maximal clique number which can appear after a maximal series of foldings. We denote this number as Sigma(G) and we call it the max-folding number. We show that the problem is NP-complete, even when restricted to classes such as trivially perfect graphs, cobipartite graphs and planar graphs. We show that the max-folding number of trees is two.

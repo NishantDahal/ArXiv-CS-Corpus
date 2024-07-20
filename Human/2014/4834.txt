@@ -1,0 +1,3 @@
+Compressed Multi-Row Storage Format for Sparse Matrices on Graphics Processing Units
+
+A new format for storing sparse matrices is proposed for efficient sparse matrix-vector (SpMV) product calculation on modern graphics processing units (GPUs). This format extends the standard compressed row storage (CRS) format and can be quickly converted to and from it. Computational performance of two SpMV kernels for the new format is determined for over 130 sparse matrices on Fermi-class and Kepler-class GPUs and compared with that of five existing generic algorithms and industrial implementations, including Nvidia cuSparse CSR and HYB kernels. We found the speedup of up to $\approx 60%$ over the best of the five alternative kernels.

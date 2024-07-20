@@ -1,0 +1,3 @@
+The computational landscape of permutation patterns
+
+In the last years, different types of patterns in permutations have been studied: vincular, bivincular and mesh patterns, just to name a few. Every type of permutation pattern naturally defines a corresponding computational problem: Given a pattern P and a permutation T (the text), is P contained in T? In this paper we draw a map of the computational landscape of permutation pattern matching with different types of patterns. We provide a classical complexity analysis and investigate the impact of the pattern length on the computational hardness. Furthermore, we highlight several directions in which the study of computational aspects of permutation patterns could evolve.

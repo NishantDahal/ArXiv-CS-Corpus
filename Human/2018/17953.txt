@@ -1,0 +1,3 @@
+Circuits via topoi
+
+Leveraging topos theory a semantics can be given to sequential circuits where time-sensitive gates, such as unit delay, are treated uniformly with combinational gates. Both kinds of gates are functions in a particular topos: the topos of presheaves over the natural ordering of $\mathbb{N}$. This is used to show that sequential circuits validate the equational theory of traced categories.

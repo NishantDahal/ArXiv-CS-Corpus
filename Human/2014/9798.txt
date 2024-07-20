@@ -1,0 +1,3 @@
+Feature Specification and Refinement with State Transition Diagrams
+
+In this paper, we introduce a graphic specification technique, called state transition diagrams (STD), and show the application to the feature interaction problem. Using a stream-based formal semantics, we provide refinement rules for STDs. Refinements define an implementation relation on STD specifications. We view features as particular refinements which add previously unspecified behavior to a given STD specification. The refinement relation is then used to add features, and to define the notion of conflicting features. Our techniques are demonstrated by a systematic development of an example given in [25].

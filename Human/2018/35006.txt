@@ -1,0 +1,3 @@
+On the Relationship Between Modularity and Stability in Software Packages
+
+Modular and well-written software is an ideal that programmers strive to achieve. However, real-world project constraints limit the amount of reusable and modular code that programmers can produce. Many techniques exist that refactor code automatically using graph-based measurements and increase the quality and modularity of a codebase. While these measures work in the graph domain, their effect on the stability of software has been uncertain. In this work, we provide mathematical proof that modularity measures are indeed in favor of software stability.

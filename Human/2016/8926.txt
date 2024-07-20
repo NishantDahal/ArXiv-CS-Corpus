@@ -1,0 +1,5 @@
+Dividing by zero - how bad is it, really?
+
+In computable analysis testing a real number for being zero is a fundamental example of a non-computable task. This causes problems for division: We cannot ensure that the number we want to divide by is not zero. In many cases, any real number would be an acceptable outcome if the divisor is zero - but even this cannot be done in a computable way.
+  In this note we investigate the strength of the computational problem "Robust division": Given a pair of real numbers, the first not greater than the other, output their quotient if well-defined and any real number else. The formal framework is provided by Weihrauch reducibility. One particular result is that having later calls to the problem depending on the outcomes of earlier ones is strictly more powerful than performing all calls concurrently. However, having a nesting depths of two already provides the full power. This solves an open problem raised at a recent Dagstuhl meeting on Weihrauch reducibility.
+  As application for "Robust division", we show that it suffices to execute Gaussian elimination.

@@ -1,0 +1,3 @@
+Fast, Trainable, Multiscale Denoising
+
+Denoising is a fundamental imaging problem. Versatile but fast filtering has been demanded for mobile camera systems. We present an approach to multiscale filtering which allows real-time applications on low-powered devices. The key idea is to learn a set of kernels that upscales, filters, and blends patches of different scales guided by local structure analysis. This approach is trainable so that learned filters are capable of treating diverse noise patterns and artifacts. Experimental results show that the presented approach produces comparable results to state-of-the-art algorithms while processing time is orders of magnitude faster.

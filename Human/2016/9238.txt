@@ -1,0 +1,3 @@
+A Theory of Service Dependency
+
+Service composition has become commonplace nowadays, in large part due to the increased complexity of software and supporting networks. Composition can be of many types, for instance sequential, prioritising, non-deterministic. However, a fundamental feature of the services to be composed consists in their dependencies with respect to each other. In this paper we propose a theory of service dependency, modelled around a dependency operator in the Action Systems formalism. We analyze its properties, composition behaviour, and refinement conditions with accompanying examples.

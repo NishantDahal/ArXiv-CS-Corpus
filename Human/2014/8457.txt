@@ -1,0 +1,3 @@
+Expanders with respect to Hadamard spaces and random graphs
+
+It is shown that there exists a sequence of 3-regular graphs $\{G_n\}_{n=1}^\infty$ and a Hadamard space $X$ such that $\{G_n\}_{n=1}^\infty$ forms an expander sequence with respect to $X$, yet random regular graphs are not expanders with respect to $X$. This answers a question of \cite{NS11}. $\{G_n\}_{n=1}^\infty$ are also shown to be expanders with respect to random regular graphs, yielding a deterministic sublinear time constant factor approximation algorithm for computing the average squared distance in subsets of a random graph. The proof uses the Euclidean cone over a random graph, an auxiliary continuous geometric object that allows for the implementation of martingale methods.

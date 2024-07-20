@@ -1,0 +1,3 @@
+The central nature of the Hidden Subgroup problem
+
+We show that several problems that figure prominently in quantum computing, including Hidden Coset, Hidden Shift, and Orbit Coset, are equivalent or reducible to Hidden Subgroup for a large variety of groups. We also show that, over permutation groups, the decision version and search version of Hidden Subgroup are polynomial-time equivalent. For Hidden Subgroup over dihedral groups, such an equivalence can be obtained if the order of the group is smooth. Finally, we give nonadaptive program checkers for Hidden Subgroup and its decision version.

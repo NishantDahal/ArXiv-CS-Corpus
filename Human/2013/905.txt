@@ -1,0 +1,7 @@
+On Two Infinite Families of Pairing Bijections
+
+We describe two general mechanisms for producing pairing bijections (bijective functions defined from N x N to N).
+  The first mechanism, using n-adic valuations results in parameterized algorithms generating a countable family of distinct pairing bijections.
+  The second mechanism, using characteristic functions of subsets of N provides 2^N distinct pairing bijections.
+  Mechanisms to combine such pairing functions and their application to generate families of permutations of N are also described.
+  The paper uses a small subset of the functional language Haskell to provide type checked executable specifications of all the functions defined in a literate programming style. The self-contained Haskell code extracted from the paper is available at http://logic.cse.unt.edu/tarau/research/2012/infpair.hs .

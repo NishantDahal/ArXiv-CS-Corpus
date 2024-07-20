@@ -1,0 +1,5 @@
+Batch Codes through Dense Graphs without Short Cycles
+
+Consider a large database of $n$ data items that need to be stored using $m$ servers. We study how to encode information so that a large number $k$ of read requests can be performed in parallel while the rate remains constant (and ideally approaches one). This problem is equivalent to the design of multiset Batch Codes introduced by Ishai, Kushilevitz, Ostrovsky and Sahai [17].
+  We give families of multiset batch codes with asymptotically optimal rates of the form $1-1/\text{poly}(k)$ and a number of servers $m$ scaling polynomially in the number of read requests $k$. An advantage of our batch code constructions over most previously known multiset batch codes is explicit and deterministic decoding algorithms and asymptotically optimal fault tolerance.
+  Our main technical innovation is a graph-theoretic method of designing multiset batch codes using dense bipartite graphs with no small cycles. We modify prior graph constructions of dense, high-girth graphs to obtain our batch code results. We achieve close to optimal tradeoffs between the parameters for bipartite graph based batch codes.

@@ -1,0 +1,3 @@
+Speculate-Correct Error Bounds for k-Nearest Neighbor Classifiers
+
+We introduce the speculate-correct method to derive error bounds for local classifiers. Using it, we show that k nearest neighbor classifiers, in spite of their famously fractured decision boundaries, have exponential error bounds with O(sqrt((k + ln n) / n)) error bound range for n in-sample examples.

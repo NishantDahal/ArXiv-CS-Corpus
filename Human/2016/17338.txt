@@ -1,0 +1,3 @@
+On measuring performances of C-SPARQL and CQELS
+
+To cope with the massive growth of semantic data streams, several RDF Stream Processing (RSP) engines have been implemented. The efficiency of their throughput, latency and memory consumption can be evaluated using available benchmarks such as LSBench and City- Bench. Nevertheless, these benchmarks lack an in-depth performance evaluation as some measurement metrics have not been considered. The main goal of this paper is to analyze the performance of two popular RSP engines, namely C-SPARQL and CQELS, when varying a set of performance metrics. More precisely, we evaluate the impact of stream rate, number of streams and window size on execution time as well as on memory consumption.

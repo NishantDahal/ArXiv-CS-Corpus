@@ -1,0 +1,6 @@
+Two-Way Finite Automata: Old and Recent Results
+
+The notion of two-way automata was introduced at the very beginning of automata theory. In 1959, Rabin and Scott and, independently, Shepherdson, proved that these models,  both in the deterministic and in the nondeterministic versions, have the same power of  one-way automata, namely, they characterize the class of regular languages.
+  In 1978, Sakoda and Sipser posed the question of the cost, in the number of the states,  of the simulation of one-way and two-way nondeterministic automata by  two-way deterministic automata.  They conjectured that these costs are exponential. In spite of all attempts to solve it,  this question is still open.
+  In the last ten years the problem of Sakoda and Sipser was widely reconsidered and many new results  related to it have been obtained. In this work we discuss some of them.  In particular, we focus on the restriction to the unary case and on the connections with open  questions in space complexity.
+

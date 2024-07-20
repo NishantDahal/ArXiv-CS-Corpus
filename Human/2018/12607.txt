@@ -1,0 +1,3 @@
+Bayesian active learning for choice models with deep Gaussian processes
+
+In this paper, we propose an active learning algorithm and models which can gradually learn individual's preference through pairwise comparisons. The active learning scheme aims at finding individual's most preferred choice with minimized number of pairwise comparisons. The pairwise comparisons are encoded into probabilistic models based on assumptions of choice models and deep Gaussian processes. The next-to-compare decision is determined by a novel acquisition function. We benchmark the proposed algorithm and models using functions with multiple local optima and one public airline itinerary dataset. The experiments indicate the effectiveness of our active learning algorithm and models.

@@ -1,0 +1,3 @@
+Heterogeneous substitution systems revisited
+
+Matthes and Uustalu (TCS 327(1-2):155-174, 2004) presented a categorical description of substitution systems capable of capturing syntax involving binding which is independent of whether the syntax is made up from least or greatest fixed points. We extend this work in two directions: we continue the analysis by creating more categorical structure, in particular by organizing substitution systems into a category and studying its properties, and we develop the proofs of the results of the cited paper and our new ones in UniMath, a recent library of univalent mathematics formalized in the Coq theorem prover.

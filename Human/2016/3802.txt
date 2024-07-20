@@ -1,0 +1,3 @@
+Low-Complexity Iterative Sinusoidal Parameter Estimation
+
+Sinusoidal parameter estimation is a computationally-intensive task, which can pose problems for real-time implementations. In this paper, we propose a low-complexity iterative method for estimating sinusoidal parameters that is based on the linearisation of the model around an initial frequency estimate. We show that for N sinusoids in a frame of length L, the proposed method has a complexity of O(LN), which is significantly less than the matching pursuits method. Furthermore, the proposed method is shown to be more accurate than the matching pursuits and time frequency reassignment methods in our experiments.

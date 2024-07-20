@@ -1,0 +1,3 @@
+Heuristic for Maximizing Grouping Efficiency in the Cell Formation Problem
+
+In our paper we consider the Cell Formation Problem in Group Technology with grouping efficiency as an objective function. We present a heuristic approach for obtaining high-quality solutions of the CFP. The suggested heuristic applies an improvement procedure to obtain solutions with high grouping efficiency. This procedure is repeated many times for randomly generated cell configurations. Our computational experiments are performed for popular benchmark instances taken from the literature with sizes from 10x20 to 50x150. Better solutions unknown before are found for 23 instances of the 24 considered.

@@ -1,0 +1,3 @@
+The real nonnegative inverse eigenvalue problem is NP-hard
+
+A list of complex numbers is realizable if it is the spectrum of a nonnegative matrix. In 1949 Suleimanova posed the nonnegative inverse eigenvalue problem (NIEP): the problem of determining which lists of complex numbers are realizable. The version for reals of the NIEP (RNIEP) asks for realizable lists of real numbers. In the literature there are many sufficient conditions or criteria for lists of real numbers to be realizable. We will present an unified account of these criteria. Then we will see that the decision problem associated to the RNIEP is NP-hard and we will study the complexity for the decision problems associated to known criteria.

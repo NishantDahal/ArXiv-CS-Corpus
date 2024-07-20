@@ -1,0 +1,3 @@
+A Distance Between Channels: the average error of mismatched channels
+
+Two channels are equivalent if their maximum likelihood (ML) decoders coincide for every code. We show that this equivalence relation partitions the space of channels into a generalized hyperplane arrangement. With this, we define a coding distance between channels in terms of their ML-decoders which is meaningful from the decoding point of view, in the sense that the closer two channels are, the larger is the probability of them sharing the same ML-decoder. We give explicit formulas for these probabilities.

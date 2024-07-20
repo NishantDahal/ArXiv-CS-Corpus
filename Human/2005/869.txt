@@ -1,0 +1,3 @@
+Strong normalisation for applied lambda calculi
+
+We consider the untyped lambda calculus with constructors and recursively defined constants. We construct a domain-theoretic model such that any term not denoting bottom is strongly normalising provided all its `stratified approximations' are. From this we derive a general normalisation theorem for applied typed lambda-calculi: If all constants have a total value, then all typeable terms are strongly normalising. We apply this result to extensions of Gödel's system T and system F extended by various forms of bar recursion for which strong normalisation was hitherto unknown.

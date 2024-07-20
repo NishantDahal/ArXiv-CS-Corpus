@@ -1,0 +1,3 @@
+NEXP-completeness and Universal Hardness Results for Justification Logic
+
+We provide a lower complexity bound for the satisfiability problem of a multi-agent justification logic, establishing that the general NEXP upper bound from our previous work is tight. We then use a simple modification of the corresponding reduction to prove that satisfiability for all multi-agent justification logics from there is hard for the Sigma 2 p class of the second level of the polynomial hierarchy - given certain reasonable conditions. Our methods improve on these required conditions for the same lower bound for the single-agent justification logics, proven by Buss and Kuznets in 2009, thus answering one of their open questions.

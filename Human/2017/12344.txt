@@ -1,0 +1,3 @@
+Feasible Interpolation for QBF Resolution Calculi
+
+In sharp contrast to classical proof complexity we are currently short of lower bound techniques for QBF proof systems. In this paper we establish the feasible interpolation technique for all resolution-based QBF systems, whether modelling CDCL or expansion-based solving. This both provides the first general lower bound method for QBF proof systems as well as largely extends the scope of classical feasible interpolation. We apply our technique to obtain new exponential lower bounds to all resolution-based QBF systems for a new class of QBF formulas based on the clique problem. Finally, we show how feasible interpolation relates to the recently established lower bound method based on strategy extraction.

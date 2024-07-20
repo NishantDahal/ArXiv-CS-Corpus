@@ -1,0 +1,3 @@
+Cutoff Phenomenon for Random Walks on Kneser Graphs
+
+The cutoff phenomenon for an ergodic Markov chain describes a sharp transition in the convergence to its stationary distribution, over a negligible period of time, known as cutoff window. We study the cutoff phenomenon for simple random walks on Kneser graphs, which is a family of ergodic Markov chains. Given two integers $n$ and $k$, the Kneser graph $K(2n+k,n)$ is defined as the graph with vertex set being all subsets of $\{1,\ldots,2n+k\}$ of size $n$ and two vertices $A$ and $B$ being connected by an edge if $A\cap B =\emptyset$. We show that for any $k=O(n)$, the random walk on $K(2n+k,n)$ exhibits a cutoff at $\frac{1}{2}\log_{1+k/n}{(2n+k)}$ with a window of size $O(\frac{n}{k})$.

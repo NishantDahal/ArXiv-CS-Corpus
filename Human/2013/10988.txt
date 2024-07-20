@@ -1,0 +1,3 @@
+Broadcast Using Certified Propagation Algorithm in Presence of Byzantine Faults
+
+We explore the correctness of the Certified Propagation Algorithm (CPA) [6, 1, 8, 5] in solving broadcast with locally bounded Byzantine faults. CPA allows the nodes to use only local information regarding the network topology. We provide a tight necessary and sufficient condition on the network topology for the correctness of CPA. To the best of our knowledge, this work is the first to solve the open problem in [8]. We also present some simple extensions of this result

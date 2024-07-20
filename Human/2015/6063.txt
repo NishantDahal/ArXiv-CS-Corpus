@@ -1,0 +1,3 @@
+Visual Summary of Egocentric Photostreams by Representative Keyframes
+
+Building a visual summary from an egocentric photostream captured by a lifelogging wearable camera is of high interest for different applications (e.g. memory reinforcement). In this paper, we propose a new summarization method based on keyframes selection that uses visual features extracted by means of a convolutional neural network. Our method applies an unsupervised clustering for dividing the photostreams into events, and finally extracts the most relevant keyframe for each event. We assess the results by applying a blind-taste test on a group of 20 people who assessed the quality of the summaries.

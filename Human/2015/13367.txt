@@ -1,0 +1,4 @@
+A Computational Trichotomy for Connectivity of Boolean Satisfiability
+
+For Boolean satisfiability problems, the structure of the solution space is characterized by the solution graph, where the vertices are the solutions, and two solutions are connected iff they differ in exactly one variable. In 2006, Gopalan et al. studied connectivity properties of the solution graph and related complexity issues for CSPs, motivated mainly by research on satisfiability algorithms and the satisfiability threshold. They proved dichotomies for the diameter of connected components and for the complexity of the st-connectivity question, and conjectured a trichotomy for the connectivity question.
+  Building on this work, we here prove the trichotomy: Connectivity is either in P, coNP-complete, or PSPACE-complete. Also, we correct a minor mistake of Gopalan et al., which leads to a slight shift of the boundaries towards the hard side.

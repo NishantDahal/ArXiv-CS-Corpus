@@ -1,0 +1,3 @@
+Uncertainty propagation in neural networks for sparse coding
+
+A novel method to propagate uncertainty through the soft-thresholding nonlinearity is proposed in this paper. At every layer the current distribution of the target vector is represented as a spike and slab distribution, which represents the probabilities of each variable being zero, or Gaussian-distributed. Using the proposed method of uncertainty propagation, the gradients of the logarithms of normalisation constants are derived, that can be used to update a weight distribution. A novel Bayesian neural network for sparse coding is designed utilising both the proposed method of uncertainty propagation and Bayesian inference algorithm.

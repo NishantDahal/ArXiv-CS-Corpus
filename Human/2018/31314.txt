@@ -1,0 +1,3 @@
+Identify, locate and separate: Audio-visual object extraction in large video collections using weak supervision
+
+We tackle the problem of audiovisual scene analysis for weakly-labeled data. To this end, we build upon our previous audiovisual representation learning framework to perform object classification in noisy acoustic environments and integrate audio source enhancement capability. This is made possible by a novel use of non-negative matrix factorization for the audio modality. Our approach is founded on the multiple instance learning paradigm. Its effectiveness is established through experiments over a challenging dataset of music instrument performance videos. We also show encouraging visual object localization results.

@@ -1,0 +1,3 @@
+Bounds on Binary Locally Repairable Codes Tolerating Multiple Erasures
+
+Recently, locally repairable codes has gained significant interest for their potential applications in distributed storage systems. However, most constructions in existence are over fields with size that grows with the number of servers, which makes the systems computationally expensive and difficult to maintain. Here, we study linear locally repairable codes over the binary field, tolerating multiple local erasures. We derive bounds on the minimum distance on such codes, and give examples of LRCs achieving these bounds. Our main technical tools come from matroid theory, and as a byproduct of our proofs, we show that the lattice of cyclic flats of a simple binary matroid is atomic.

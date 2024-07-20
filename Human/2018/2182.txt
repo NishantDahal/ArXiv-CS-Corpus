@@ -1,0 +1,3 @@
+Isomorphism within Naive Type Theory
+
+We provide a treatment of isomorphism within a set-theoretic formulation of dependent type theory. Type expressions are assigned their natural set-theoretic compositional meaning. Types are divided into small and large types --- sets and proper classes respectively. Each proper class, such as "group" or "topological space", has an associated notion of isomorphism in correspondence with standard definitions. Isomorphism is handled by definging a groupoid structure on the space of all definable values. The values are simultaneously objects (oids) and morphism --- they are "morphoids". Soundness can then be proved for simple and natural inference rules deriving isomorphisms and for the substitution of isomorphics.

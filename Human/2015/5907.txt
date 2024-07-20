@@ -1,0 +1,3 @@
+Live Inspection of Spreadsheets
+
+Existing approaches for detecting anomalies in spreadsheets can help to discover faults, but they are often applied too late in the spreadsheet lifecycle. By contrast, our approach detects anomalies immediately whenever users change their spreadsheets. This live inspection approach has been implemented as part of the Spreadsheet Inspection Framework, enabling the tool to visually report findings without disturbing the users' workflow. An advanced list representation allows users to keep track of the latest findings, prioritize open problems, and check progress on solving the issues. Results from a first user study indicate that users find the approach useful.

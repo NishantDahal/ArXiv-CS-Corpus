@@ -1,0 +1,3 @@
+Understanding disentangling in $β$-VAE
+
+We present new intuitions and theoretical assessments of the emergence of disentangled representation in variational autoencoders. Taking a rate-distortion theory perspective, we show the circumstances under which representations aligned with the underlying generative factors of variation of data emerge when optimising the modified ELBO bound in $β$-VAE, as training progresses. From these insights, we propose a modification to the training regime of $β$-VAE, that progressively increases the information capacity of the latent code during training. This modification facilitates the robust learning of disentangled representations in $β$-VAE, without the previous trade-off in reconstruction accuracy.

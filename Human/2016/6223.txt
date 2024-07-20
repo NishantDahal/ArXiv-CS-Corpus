@@ -1,0 +1,3 @@
+A Cost / Speed / Reliability Trade-off to Erasing
+
+We present a KL-control treatment of the fundamental problem of erasing a bit. We introduce notions of "reliability" of information storage via a reliability timescale $τ_r$, and "speed" of erasing via an erasing timescale $τ_e$. Our problem formulation captures the tradeoff between speed, reliability, and the Kullback-Leibler (KL) cost required to erase a bit. We show that rapid erasing of a reliable bit costs at least $\log 2 - \log\left(1 - \operatorname{e}^{-\frac{τ_e}{τ_r}}\right) > \log 2$, which goes to $\frac{1}{2} \log\frac{2τ_r}{τ_e}$ when $τ_r>>τ_e$.

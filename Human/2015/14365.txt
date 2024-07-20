@@ -1,0 +1,5 @@
+Equality, Revisited
+
+We develop a new lower bound method for analysing the complexity of the Equality function (EQ) in the Simultaneous Message Passing (SMP) model of communication complexity. The new technique gives tight lower bounds of $Ω(\sqrt n)$ for both EQ and its negation NE in the non-deterministic version of quantum-classical SMP, where Merlin is also quantum $-$ this is the strongest known version of SMP where the complexity of both EQ and NE remain high (previously known techniques seem to be insufficient for this).
+  Besides, our analysis provides to a unified view of the communication complexity of EQ and NE, allowing to obtain tight characterisation in all previously studied and a few newly introduced versions of SMP, including all possible combination of either quantum or randomised Alice, Bob and Merlin in the non-deterministic case.
+  Some of our results highlight that NE is easier than EQ in the presence of classical proofs, whereas the problems have (roughly) the same complexity when a quantum proof is present.

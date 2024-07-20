@@ -1,0 +1,3 @@
+Runtime Verification Through Forward Chaining
+
+In this paper we present a novel rule-based approach for Runtime Verification of FLTL properties over finite but expanding traces. Our system exploits Horn clauses in implication form and relies on a forward chaining-based monitoring algorithm. This approach avoids the branching structure and exponential complexity typical of tableaux-based formulations, creating monitors with a single state and a fixed number of rules. This allows for a fast and scalable tool for Runtime Verification: we present the technical details together with a working implementation.

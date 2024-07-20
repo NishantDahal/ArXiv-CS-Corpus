@@ -1,0 +1,3 @@
+Universality of causal graph dynamics
+
+Causal Graph Dynamics generalize Cellular Automata, extending them to bounded degree, time varying graphs. The dynamics rewrite the graph at each time step with respect to two physics-like symmetries: causality (bounded speed of information) and homogeneity (the rewriting acts the same everywhere on the graph, at every time step). Universality is the ability simulating every other instances of another (or the same) model of computation. In this work, we study three different notions of simulation for Causal Graph Dynamics, each of them leading to a definition of universality.

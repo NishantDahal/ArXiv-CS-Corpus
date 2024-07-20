@@ -1,0 +1,3 @@
+Updating attribute in CP-ABE: A New Approach
+
+In Ciphertext-Policy Attribute Based Encryption (CP-ABE), attributes are attached to the user's secret key and access policy is at-tached to the ciphertext. If attributes in the secret key of a user satisfy the policy then only the genuine user can decrypt the ciphertext. However, such scenario also necessitates periodic updating of the secret key with the changing attributes. According to our observations, the existing attempts at doing so are not efficient. In this paper, we propose a newer approach to add, update or delete the value of particular attribute effi-ciently without the knowledge of the other attributes.

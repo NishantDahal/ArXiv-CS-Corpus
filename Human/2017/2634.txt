@@ -1,0 +1,3 @@
+Effective face landmark localization via single deep network
+
+In this paper, we propose a novel face alignment method using single deep network (SDN) on existing limited training data. Rather than using a max-pooling layer followed one convolutional layer in typical convolutional neural networks (CNN), SDN adopts a stack of 3 layer groups instead. Each group layer contains two convolutional layers and a max-pooling layer, which can extract the features hierarchically. Moreover, an effective data augmentation strategy and corresponding training skills are also proposed to over-come the lack of training images on COFW and 300-W da-tasets. The experiment results show that our method outper-forms state-of-the-art methods in both detection accuracy and speed.

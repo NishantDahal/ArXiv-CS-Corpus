@@ -1,0 +1,3 @@
+A spectral method for community detection in moderately-sparse degree-corrected stochastic block models
+
+We consider community detection in Degree-Corrected Stochastic Block Models (DC-SBM). We propose a spectral clustering algorithm based on a suitably normalized adjacency matrix. We show that this algorithm consistently recovers the block-membership of all but a vanishing fraction of nodes, in the regime where the lowest degree is of order log$(n)$ or higher. Recovery succeeds even for very heterogeneous degree-distributions. The used algorithm does not rely on parameters as input. In particular, it does not need to know the number of communities.

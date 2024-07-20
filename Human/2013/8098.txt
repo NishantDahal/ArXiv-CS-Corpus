@@ -1,0 +1,3 @@
+A dual algorithm for a class of augmented convex models
+
+Convex optimization models find interesting applications, especially in signal/image processing and compressive sensing. We study some augmented convex models, which are perturbed by strongly convex functions, and propose a dual gradient algorithm. The proposed algorithm includes the linearized Bregman algorithm and the singular value thresholding algorithm as special cases. Based on fundamental properties of proximal operators, we present a concise approach to establish the convergence of both primal and dual sequences, improving the results in the existing literature.

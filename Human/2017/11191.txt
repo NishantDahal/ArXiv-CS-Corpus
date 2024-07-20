@@ -1,0 +1,3 @@
+A Coq-based synthesis of Scala programs which are correct-by-construction
+
+The present paper introduces Scala-of-Coq, a new compiler that allows a Coq-based synthesis of Scala programs which are "correct-by-construction". A typical workflow features a user implementing a Coq functional program, proving this program's correctness with regards to its specification and making use of Scala-of-Coq to synthesize a Scala program that can seamlessly be integrated into an existing industrial Scala or Java application.

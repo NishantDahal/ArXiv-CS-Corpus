@@ -1,0 +1,5 @@
+Minimization of Büchi Automata using Fair Simulation
+
+We present an algorithm, which reduces the size of Büchi automata using fair simulation. Its time complexity is $\mathcal{O}(|Q|^4 \cdot |Δ|^2)$, the space complexity is $\mathcal{O}(|Q| \cdot |Δ|)$.
+  Simulation is a common approach for minimizing $ω$-automata such as Büchi automata. Direct simulation, delayed simulation and fair simulation are different types of simulation. As we will show, minimization based on direct or delayed simulation is conceptually simple. Whereas the algorithm based on fair simulation is more complex. However, fair simulation allows a stronger minimization of the automaton.
+  Further, we illustrate the theory behind the algorithm, cover optimizations useful in practice, give experimental results and compare our technique to other minimization strategies.

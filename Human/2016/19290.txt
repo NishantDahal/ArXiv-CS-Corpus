@@ -1,0 +1,3 @@
+Nondeterministic unitary OBDDs
+
+We investigate the width complexity of nondeterministic unitary OBDDs (NUOBDDs). Firstly, we present a generic lower bound on their widths based on the size of strong 1-fooling sets. Then, we present classically cheap functions that are expensive for NUOBDDs and vice versa by improving the previous gap. We also present a function for which neither classical nor unitary nondeterminism does help. Moreover, based on our results, we present a width hierarchy for NUOBDDs. Lastly, we provide the bounds on the widths of NUOBDDs for the basic Boolean operations negation, union, and intersection.

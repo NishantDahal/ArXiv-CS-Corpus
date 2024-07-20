@@ -1,0 +1,5 @@
+Parameterized Analogues of Probabilistic Computation
+
+We study structural aspects of randomized parameterized computation. We introduce a new class ${\sf W[P]}$-${\sf PFPT}$ as a natural parameterized analogue of ${\sf PP}$. Our definition uses the machine based characterization of the parameterized complexity class ${\sf W[P]}$ obtained by Chen et.al [TCS 2005]. We translate most of the structural properties and characterizations of the class ${\sf PP}$ to the new class ${W[P]}$-${\sf PFPT}$.
+  We study a parameterization of the polynomial identity testing problem based on the degree of the polynomial computed by the arithmetic circuit. We obtain a parameterized analogue of the well known Schwartz-Zippel lemma [Schwartz, JACM 80 and Zippel, EUROSAM 79].
+  Additionally, we introduce a parameterized variant of permanent, and prove its $\#W[1]$ completeness.

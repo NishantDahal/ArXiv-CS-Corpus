@@ -1,0 +1,3 @@
+Clique cycle-transversals in distance-hereditary graphs
+
+A cycle-transversal of a graph G is a subset T of V(G) such that T intersects every cycle of G. A clique cycle-transversal, or cct for short, is a cycle-transversal which is a clique. Recognizing graphs which admit a cct can be done in polynomial time; however, no structural characterization of such graphs is known. We characterize distance-hereditary graphs admitting a cct in terms of forbidden induced subgraphs. This extends similar results for chordal graphs and cographs.

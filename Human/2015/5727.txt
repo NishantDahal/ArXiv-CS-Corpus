@@ -1,0 +1,5 @@
+Counting Branches in Trees Using Games
+
+We study finite automata running over infinite binary trees. A run of such an automaton is usually said to be accepting if all its branches are accepting. In this article, we relax the notion of accepting run by allowing a certain quantity of rejecting branches.
+  More precisely we study the following criteria for a run to be accepting: - it contains at most finitely (resp countably) many rejecting branches; - it contains infinitely (resp uncountably) many accepting branches; - the set of accepting branches is topologically "big".
+  In all situations we provide a simple acceptance game that later permits to prove that the languages accepted by automata with cardinality constraints are always $ω$-regular. In the case (ii) where one counts accepting branches it leads to new proofs (without appealing to logic) of an old result of Beauquier and Niwinski.

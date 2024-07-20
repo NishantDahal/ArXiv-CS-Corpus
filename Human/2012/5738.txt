@@ -1,0 +1,3 @@
+Fusing image representations for classification using support vector machines
+
+In order to improve classification accuracy different image representations are usually combined. This can be done by using two different fusing schemes. In feature level fusion schemes, image representations are combined before the classification process. In classifier fusion, the decisions taken separately based on individual representations are fused to make a decision. In this paper the main methods derived for both strategies are evaluated. Our experimental results show that classifier fusion performs better. Specifically Bayes belief integration is the best performing strategy for image classification task.

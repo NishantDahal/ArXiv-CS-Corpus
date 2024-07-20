@@ -1,0 +1,3 @@
+Sentence Segmentation for Classical Chinese Based on LSTM with Radical Embedding
+
+In this paper, we develop a low than character feature embedding called radical embedding, and apply it on LSTM model for sentence segmentation of pre modern Chinese texts. The datasets includes over 150 classical Chinese books from 3 different dynasties and contains different literary styles. LSTM CRF model is a state of art method for the sequence labeling problem. Our new model adds a component of radical embedding, which leads to improved performances. Experimental results based on the aforementioned Chinese books demonstrates a better accuracy than earlier methods on sentence segmentation, especial in Tang Epitaph texts.

@@ -1,0 +1,3 @@
+An Improved Variable Step-size Zero-point Attracting Projection Algorithm
+
+This paper proposes an improved variable step-size (VSS) scheme for zero-point attracting projection (ZAP) algorithm. The proposed VSS is proportional to the sparseness difference between filter coefficients and the true impulse response. Meanwhile, it works for both sparse and non-sparse system identification, and simulation results demonstrate that the proposed algorithm could provide both faster convergence rate and better tracking ability than previous ones.

@@ -1,0 +1,3 @@
+A Support Tensor Train Machine
+
+There has been growing interest in extending traditional vector-based machine learning techniques to their tensor forms. An example is the support tensor machine (STM) that utilizes a rank-one tensor to capture the data structure, thereby alleviating the overfitting and curse of dimensionality problems in the conventional support vector machine (SVM). However, the expressive power of a rank-one tensor is restrictive for many real-world data. To overcome this limitation, we introduce a support tensor train machine (STTM) by replacing the rank-one tensor in an STM with a tensor train. Experiments validate and confirm the superiority of an STTM over the SVM and STM.

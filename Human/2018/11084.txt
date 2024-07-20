@@ -1,0 +1,3 @@
+Use of symmetric kernels for convolutional neural networks
+
+At this work we introduce horizontally symmetric convolutional kernels for CNNs which make the network output invariant to horizontal flips of the image. We also study other types of symmetric kernels which lead to vertical flip invariance, and approximate rotational invariance. We show that usage of such kernels acts as regularizer, and improves generalization of the convolutional neural networks at the cost of more complicated training process.

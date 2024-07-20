@@ -1,0 +1,3 @@
+Understanding Aesthetics in Photography using Deep Convolutional Neural Networks
+
+Evaluating aesthetic value of digital photographs is a challenging task, mainly due to numerous factors that need to be taken into account and subjective manner of this process. In this paper, we propose to approach this problem using deep convolutional neural networks. Using a dataset of over 1.7 million photos collected from Flickr, we train and evaluate a deep learning model whose goal is to classify input images by analysing their aesthetic value. The result of this work is a publicly available Web-based application that can be used in several real-life applications, e.g. to improve the workflow of professional photographers by pre-selecting the best photos.

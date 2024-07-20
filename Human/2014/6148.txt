@@ -1,0 +1,3 @@
+Quantization of Binary-Input Discrete Memoryless Channels
+
+The quantization of the output of a binary-input discrete memoryless channel to a smaller number of levels is considered. An algorithm which finds an optimal quantizer, in the sense of maximizing mutual information between the channel input and the quantizer output is given. This result holds for arbitrary channels, in contrast to previous results for restricted channels or a restricted number of quantizer outputs. In the worst case, the algorithm complexity is cubic $M^3$ in the number of channel outputs $M$. Optimality is proved using the theorem of Burshtein, Della Pietra, Kanevsky, and Nádas for mappings which minimize average impurity for classification and regression trees.

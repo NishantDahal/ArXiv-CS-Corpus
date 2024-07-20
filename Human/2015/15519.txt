@@ -1,0 +1,3 @@
+Network partition via a bound of the spectral radius
+
+Based on the density of connections between the nodes of high degree, we introduce two bounds of the spectral radius. We use these bounds to split a network into two sets, one of these sets contains the high degree nodes, we refer to this set as the spectral--core. The degree of the nodes of the subnetwork formed by the spectral--core gives an approximation to the top entries of the leading eigenvector of the whole network. We also present some numerical examples showing the dependancy of the spectral--core with the assortativity coefficient, its evaluation in several real networks and how the properties of the spectral--core can be used to reduce the spectral radius.

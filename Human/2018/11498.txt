@@ -1,0 +1,3 @@
+A Compositional Approach to Network Algorithms
+
+We present elements of a typing theory for flow networks, where "types", "typings", and "type inference" are formulated in terms of familiar notions from polyhedral analysis and convex optimization. Based on this typing theory, we develop an alternative approach to the design and analysis of network algorithms, which we illustrate by applying it to the max-flow problem in multiple-source, multiple-sink, capacited directed planar graphs.

@@ -1,0 +1,3 @@
+Robust Chemical Circuits
+
+We introduce a new motif for constructing robust digital logic circuits using input/output chemical reaction networks. These chemical circuits robustly handle perturbations in input signals, initial concentrations, rate constants, and measurements. In particular, we show that all combinatorial circuits and several sequential circuits enjoy this robustness. Our results complement existing literature in the following three ways: (1) our logic gates read their inputs catalytically which make `fanout' gates unnecessary; (2) formal requirements and rigorous proofs of satisfaction are provided for each circuit; and (3) robustness of every circuit is closed under modular composition.

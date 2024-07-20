@@ -1,0 +1,3 @@
+WisenetMD: Motion Detection Using Dynamic Background Region Analysis
+
+Motion detection algorithms that can be applied to surveillance cameras such as CCTV (Closed Circuit Television) have been studied extensively. Motion detection algorithm is mostly based on background subtraction. One main issue in this technique is that false positives of dynamic backgrounds such as wind shaking trees and flowing rivers might occur. In this paper, we proposed a method to search for dynamic background region by analyzing the video and removing false positives by re-checking false positives. The proposed method was evaluated based on CDnet 2012/2014 dataset obtained at "changedetection.net" site. We also compared its processing speed with other algorithms.

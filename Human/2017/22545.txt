@@ -1,0 +1,3 @@
+A deep learning-based method for relative location prediction in CT scan images
+
+Relative location prediction in computed tomography (CT) scan images is a challenging problem. In this paper, a regression model based on one-dimensional convolutional neural networks is proposed to determine the relative location of a CT scan image both robustly and precisely. A public dataset is employed to validate the performance of the study's proposed method using a 5-fold cross validation. Experimental results demonstrate an excellent performance of the proposed model when compared with the state-of-the-art techniques, achieving a median absolute error of 1.04 cm and mean absolute error of 1.69 cm.

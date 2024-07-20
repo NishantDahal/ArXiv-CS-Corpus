@@ -1,0 +1,3 @@
+Ignition: An End-to-End Supervised Model for Training Simulated Self-Driving Vehicles
+
+We introduce Ignition: an end-to-end neural network architecture for training unconstrained self-driving vehicles in simulated environments. The model is a ResNet-18 variant, which is fed in images from the front of a simulated F1 car, and outputs optimal labels for steering, throttle, braking. Importantly, we never explicitly train the model to detect road features like the outline of a track or distance to other cars; instead, we illustrate that these latent features can be automatically encapsulated by the network.

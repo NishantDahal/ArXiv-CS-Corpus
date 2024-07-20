@@ -1,0 +1,10 @@
+Fooling Views: A New Lower Bound Technique for Distributed Computations under Congestion
+
+We introduce a novel lower bound technique for distributed graph algorithms under bandwidth limitations.
+  We define the notion of \emph{fooling views} and exemplify its strength by proving two new lower bounds for triangle membership in the CONGEST(B) model:
+  (i) Any $1$-round algorithm requires $B\geq cΔ\log n$ for a constant $c>0$.
+  (ii) If $B=1$, even in constant-degree graphs any algorithm must take $Ω(\log^* n)$ rounds.
+  The implication of the former is the first proven separation between the LOCAL and the CONGEST models for deterministic triangle membership.
+  The latter result is the first non-trivial lower bound on the number of rounds required, even for \emph{triangle detection}, under limited bandwidth.
+  All previous known techniques are provably incapable of giving these bounds.
+  We hope that our approach may pave the way for proving lower bounds for additional problems in various settings of distributed computing for which previous techniques do not suffice.

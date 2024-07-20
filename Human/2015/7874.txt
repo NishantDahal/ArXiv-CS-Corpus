@@ -1,0 +1,3 @@
+High Dynamic Range Imaging by Perceptual Logarithmic Exposure Merging
+
+In this paper we emphasize a similarity between the Logarithmic-Type Image Processing (LTIP) model and the Naka-Rushton model of the Human Visual System (HVS). LTIP is a derivation of the Logarithmic Image Processing (LIP), which further replaces the logarithmic function with a ratio of polynomial functions. Based on this similarity, we show that it is possible to present an unifying framework for the High Dynamic Range (HDR) imaging problem, namely that performing exposure merging under the LTIP model is equivalent to standard irradiance map fusion. The resulting HDR algorithm is shown to provide high quality in both subjective and objective evaluations.

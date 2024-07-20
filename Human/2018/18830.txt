@@ -1,0 +1,3 @@
+A Structured Prediction Approach for Label Ranking
+
+We propose to solve a label ranking problem as a structured output regression task. We adopt a least square surrogate loss approach that solves a supervised learning problem in two steps: the regression step in a well-chosen feature space and the pre-image step. We use specific feature maps/embeddings for ranking data, which convert any ranking/permutation into a vector representation. These embeddings are all well-tailored for our approach, either by resulting in consistent estimators, or by solving trivially the pre-image problem which is often the bottleneck in structured prediction. We also propose their natural extension to the case of partial rankings and prove their efficiency on real-world datasets.

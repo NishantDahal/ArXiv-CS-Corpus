@@ -1,0 +1,3 @@
+Formalization in Constructive Type Theory of the Standardization Theorem for the Lambda Calculus using Multiple Substitution
+
+We present a full formalization in Martin-Löf's Constructive Type Theory of the Standardization Theorem for the Lambda Calculus using first-order syntax with one sort of names for both free and bound variables and Stoughton's multiple substitution. Our formalization is based on a proof by Ryo Kashima, in which a notion of beta-reducibility with a standard sequence is captured by an inductive relation. The proof uses only structural induction over the syntax and the relations defined, which is possible due to the specific formulation of substitution that we employ. The whole development has been machine-checked using the system Agda.

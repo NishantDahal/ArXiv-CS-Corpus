@@ -1,0 +1,3 @@
+Design of CMOS-memristor Circuits for LSTM architecture
+
+Long Short-Term memory (LSTM) architecture is a well-known approach for building recurrent neural networks (RNN) useful in sequential processing of data in application to natural language processing. The near-sensor hardware implementation of LSTM is challenged due to large parallelism and complexity. We propose a 0.18 m CMOS, GST memristor LSTM hardware architecture for near-sensor processing. The proposed system is validated in a forecasting problem based on Keras model.

@@ -1,0 +1,3 @@
+Frame Coalescing in Dual-Mode EEE
+
+The IEEE has recently released the 802.3bj standard that defines two different low power operating modes for high speed Energy Efficient Ethernet physical interfaces (PHYs) working at 40 and 100 Gb/s. In this paper, we propose the use of the well-known frame coalescing algorithm to manage them and provide an analytical model to evaluate the influence of coalescing parameters and PHY characteristics on their power consumption.

@@ -1,0 +1,3 @@
+Ranking and Selection as Stochastic Control
+
+Under a Bayesian framework, we formulate the fully sequential sampling and selection decision in statistical ranking and selection as a stochastic control problem, and derive the associated Bellman equation. Using value function approximation, we derive an approximately optimal allocation policy. We show that this policy is not only computationally efficient but also possesses both one-step-ahead and asymptotic optimality for independent normal sampling distributions. Moreover, the proposed allocation policy is easily generalizable in the approximate dynamic programming paradigm.

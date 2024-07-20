@@ -1,0 +1,3 @@
+An O(n^{2.75}) algorithm for online topological ordering
+
+We present a simple algorithm which maintains the topological order of a directed acyclic graph with n nodes under an online edge insertion sequence in O(n^{2.75}) time, independent of the number of edges m inserted. For dense DAGs, this is an improvement over the previous best result of O(min(m^{3/2} log(n), m^{3/2} + n^2 log(n)) by Katriel and Bodlaender. We also provide an empirical comparison of our algorithm with other algorithms for online topological sorting. Our implementation outperforms them on certain hard instances while it is still competitive on random edge insertion sequences leading to complete DAGs.

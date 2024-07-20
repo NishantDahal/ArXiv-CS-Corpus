@@ -1,0 +1,3 @@
+On the Herbrand content of LK
+
+We present a structural representation of the Herbrand content of LK-proofs with cuts of complexity prenex Sigma-2/Pi-2. The representation takes the form of a typed non-deterministic tree grammar of order 2 which generates a finite language of first-order terms that appear in the Herbrand expansions obtained through cut-elimination. In particular, for every Gentzen-style reduction between LK-proofs we study the induced grammars and classify the cases in which language equality and inclusion hold.

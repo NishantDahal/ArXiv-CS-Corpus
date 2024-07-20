@@ -1,0 +1,3 @@
+A Probabilistic Extension of Action Language BC+
+
+We present a probabilistic extension of action language BC+. Just like BC+ is defined as a high-level notation of answer set programs for describing transition systems, the proposed language, which we call pBC+, is defined as a high-level notation of LPMLN programs---a probabilistic extension of answer set programs. We show how probabilistic reasoning about transition systems, such as prediction, postdiction, and planning problems, as well as probabilistic diagnosis for dynamic domains, can be modeled in pBC+ and computed using an implementation of LPMLN.

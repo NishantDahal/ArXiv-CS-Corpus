@@ -1,0 +1,3 @@
+A Small PRG for Polynomial Threshold Functions of Gaussians
+
+We develop a pseudo-random generator to fool degree-$d$ polynomial threshold functions with respect to the Gaussian distribution. For $c>0$ any constant, we construct a pseudo-random generator that fools such functions to within $ε$ and has seed length $\log(n) 2^{O(d)} ε^{-4-c}$.

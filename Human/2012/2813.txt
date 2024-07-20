@@ -1,0 +1,3 @@
+Secure Comparison Without Explicit XOR
+
+We propose an efficient protocol for secure comparison of integers when both integers are shared between two parties. Such protocols are useful for implementing secure auctions. The proposed protocol's computational complexity is roughly half the complexity of the best known efficient protocol. The efficiency of the proposed protocol stems from the removal of the XOR computation which is a time consuming operation.

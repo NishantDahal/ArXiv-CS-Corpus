@@ -1,0 +1,3 @@
+Synthesis of Linear Nearest Neighbor Quantum Circuits
+
+This paper presents models for transforming standard reversible circuits into Linear Nearest Neighbor (LNN) architecture without inserting SWAP gates. Templates to optimize the transformed LNN circuits are proposed. All minimal LNN circuits for all 3-qubit functions have been generated to serve as benchmarks to evaluate heuristic optimization algorithms. The minimal results generated are compared with optimized LNN circuits obtained from the post synthesis algorithm --- template matching with LNN templates. Experiments show that the suggested synthesis flow significantly improves the quantum cost of circuits.

@@ -1,0 +1,3 @@
+Modifying Optimal SAT-based Approach to Multi-agent Path-finding Problem to Suboptimal Variants
+
+In multi-agent path finding (MAPF) the task is to find non-conflicting paths for multiple agents. In this paper we focus on finding suboptimal solutions for MAPF for the sum-of-costs variant. Recently, a SAT-based approached was developed to solve this problem and proved beneficial in many cases when compared to other search-based solvers. In this paper, we present SAT-based unbounded- and bounded-suboptimal algorithms and compare them to relevant algorithms. Experimental results show that in many case the SAT-based solver significantly outperforms the search-based solvers.

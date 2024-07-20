@@ -1,0 +1,3 @@
+Visualising Large Datasets in TOPCAT v4
+
+TOPCAT is a widely used desktop application for manipulation of astronomical catalogues and other tables, which has long provided fast interactive visualisation features including 1, 2 and 3-d plots, multiple datasets, linked views, color coding, transparency and more. In Version 4 a new plotting library has been written from scratch to deliver new and enhanced visualisation capabilities. This paper describes some of the considerations in the design and implementation, particularly in regard to providing comprehensible interactive visualisation for multi-million point datasets.

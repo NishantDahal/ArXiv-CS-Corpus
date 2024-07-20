@@ -1,0 +1,3 @@
+List decoding of repeated codes
+
+Assuming that we have a soft-decision list decoding algorithm of a linear code, a new hard-decision list decoding algorithm of its repeated code is proposed in this article. Although repeated codes are not used for encoding data, due to their parameters, we show that they have a good performance with this algorithm. We compare, by computer simulations, our algorithm for the repeated code of a Reed-Solomon code against a decoding algorithm of a Reed-Solomon code. Finally, we estimate the decoding capability of the algorithm for Reed-Solomon codes and show that performance is somewhat better than our estimates.

@@ -1,0 +1,6 @@
+Counting Shortest Two Disjoint Paths in Cubic Planar Graphs with an NC Algorithm
+
+Given an undirected graph and two disjoint vertex pairs $s_1,t_1$ and $s_2,t_2$, the Shortest two disjoint paths problem (S2DP) asks for the minimum total length of two vertex disjoint paths connecting $s_1$ with $t_1$, and $s_2$ with $t_2$, respectively.
+  We show that for cubic planar graphs there are NC algorithms, uniform circuits of polynomial size and polylogarithmic depth, that compute the S2DP and moreover also output the number of such minimum length path pairs.
+  Previously, to the best of our knowledge, no deterministic polynomial time algorithm was known for S2DP in cubic planar graphs with arbitrary placement of the terminals. In contrast, the randomized polynomial time algorithm by Björklund and Husfeldt, ICALP 2014, for general graphs is much slower, is serial in nature, and cannot count the solutions.
+  Our results are built on an approach by Hirai and Namba, Algorithmica 2017, for a generalisation of S2DP, and fast algorithms for counting perfect matchings in planar graphs.

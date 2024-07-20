@@ -1,0 +1,3 @@
+Probabilistic Programming for Malware Analysis
+
+Constructing lineages of malware is an important cyber-defense task. Performing this task is difficult, however, due to the amount of malware data and obfuscation techniques by the authors. In this work, we formulate the lineage task as a probabilistic model, and use a novel probabilistic programming solution to jointly infer the lineage and creation times of families of malware.

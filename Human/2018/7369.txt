@@ -1,0 +1,3 @@
+ΔBreakpad: Diversified Binary Crash Reporting
+
+This paper introduces ΔBreakpad. It extends the Breakpad crash reporting system to handle software diversity effectively and efficiently by replicating and patching the debug information of diversified software versions. Simple adaptations to existing open source compiler tools are presented that on the one hand introduce significant amounts of diversification in the code and stack layout of ARMv7 binaries to mitigate the widespread deployment of code injection and code reuse attacks, while on the other hand still supporting accurate crash reporting. An evaluation on SPEC2006 benchmarks demonstrates that the corresponding computational, storage, and communication overheads are small.

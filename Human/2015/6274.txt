@@ -1,0 +1,3 @@
+Learning to Search for Dependencies
+
+We demonstrate that a dependency parser can be built using a credit assignment compiler which removes the burden of worrying about low-level machine learning details from the parser implementation. The result is a simple parser which robustly applies to many languages that provides similar statistical and computational performance with best-to-date transition-based parsing approaches, while avoiding various downsides including randomization, extra feature requirements, and custom learning algorithms.

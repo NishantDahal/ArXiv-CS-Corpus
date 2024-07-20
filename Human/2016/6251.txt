@@ -1,0 +1,3 @@
+S-Packing Colorings of Cubic Graphs
+
+Given a non-decreasing sequence $S=(s\_1,s\_2, \ldots, s\_k)$ of positive integers, an {\em $S$-packing coloring} of a graph $G$ is a mapping $c$ from $V(G)$ to $\{s\_1,s\_2, \ldots, s\_k\}$ such that any two vertices with color $s\_i$ are at mutual distance greater than $s\_i$, $1\le i\le k$. This paper studies $S$-packing colorings of (sub)cubic graphs. We prove that subcubic graphs are $(1,2,2,2,2,2,2)$-packing colorable and $(1,1,2,2,3)$-packing colorable. For subdivisions of subcubic graphs we derive sharper bounds, and we provide an example of a cubic graph of order $38$ which is not $(1,2,\ldots,12)$-packing colorable.

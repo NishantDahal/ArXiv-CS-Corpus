@@ -1,0 +1,5 @@
+On decoding of digital data sent over a noisy MIMO channel
+
+The transmission of digital data is one of the principal tasks in modern wireless communication. Classically, the communication channel consists of one transmitter and one receiver; however, due to the constantly increasing demand in higher transmission rates, the popularity of using several receivers and transmitters has been rapidly growing.
+  In this paper, we combine a number of fairly standard techniques from numerical linear algebra and probability to develop several (apparently novel) randomized schemes for the decoding of digital messages sent over a noisy multivariate Gaussian channel.
+  We use a popular mathematical model for such channels to illustrate the performance of our schemes via numerical experiments.

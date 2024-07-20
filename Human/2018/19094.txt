@@ -1,0 +1,3 @@
+On Runtime Enforcement via Suppressions
+
+Runtime enforcement is a dynamic analysis technique that uses monitors to enforce the behaviour specified by some correctness property on an executing system. The enforceability of a logic captures the extent to which the properties expressible via the logic can be enforced at runtime. We study the enforceability of Hennessy-Milner Logic with Recursion (muHML) with respect to suppression enforcement. We develop an operational framework for enforcement which we then use to formalise when a monitor enforces a muHML property. We also show that the safety syntactic fragment of the logic, sHML, is enforceable by providing an automated synthesis function that generates correct suppression monitors from sHML formulas.

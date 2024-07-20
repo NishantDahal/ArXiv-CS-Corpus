@@ -1,0 +1,3 @@
+An Optimal Algorithm for Changing from Latitudinal to Longitudinal Formation of Autonomous Aircraft Squadrons
+
+This work presents an algorithm for changing from latitudinal to longitudinal formation of autonomous aircraft squadrons. The maneuvers are defined dynamically by using a predefined set of 3D basic maneuvers. This formation changing is necessary when the squadron has to perform tasks which demand both formations, such as lift off, georeferencing, obstacle avoidance and landing. Simulations show that the formation changing is made without collision. The time complexity analysis of the transformation algorithm reveals that its efficiency is optimal, and the proof of correction ensures its longitudinal formation features.

@@ -1,0 +1,3 @@
+Longest Unbordered Factor in Quasilinear Time
+
+A border u of a word w is a proper factor of w occurring both as a prefix and as a suffix. The maximal unbordered factor of w is the longest factor of w which does not have a border. Here an O(n log n)-time with high probability (or O(n log n log^2 log n)-time deterministic) algorithm to compute the Longest Unbordered Factor Array of w for general alphabets is presented, where n is the length of w. This array specifies the length of the maximal unbordered factor starting at each position of w. This is a major improvement on the running time of the currently best worst-case algorithm working in O(n^{1.5} ) time for integer alphabets [Gawrychowski et al., 2015].

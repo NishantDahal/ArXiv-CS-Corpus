@@ -1,0 +1,3 @@
+Squash 2: A Hierarchical Scalable Quantum Mapper Considering Ancilla Sharing
+
+We present a multi-core reconfigurable quantum processor architecture, called Requp, which supports a hierarchical approach to mapping a quantum algorithm while sharing physical and logical ancilla qubits. Each core is capable of performing any quantum instruction. Moreover, we introduce a scalable quantum mapper, called Squash 2, which divides a given quantum circuit into a number of quantum modules---each module is divided into k parts such that each part will run on one of k available cores. Experimental results demonstrate that Squash~2 can handle large-scale quantum algorithms while providing an effective mechanism for sharing ancilla qubits.

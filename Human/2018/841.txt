@@ -1,0 +1,3 @@
+Leapfrogging for parallelism in deep neural networks
+
+We present a technique, which we term leapfrogging, to parallelize back- propagation in deep neural networks. We show that this technique yields a savings of $1-1/k$ of a dominant term in backpropagation, where k is the number of threads (or gpus).

@@ -1,0 +1,3 @@
+Distinguishing humans from computers in the game of go: a complex network approach
+
+We compare complex networks built from the game of go and obtained from databases of human-played games with those obtained from computer-played games. Our investigations show that statistical features of the human-based networks and the computer-based networks differ, and that these differences can be statistically significant on a relatively small number of games using specific estimators. We show that the deterministic or stochastic nature of the computer algorithm playing the game can also be distinguished from these quantities. This can be seen as tool to implement a Turing-like test for go simulators.

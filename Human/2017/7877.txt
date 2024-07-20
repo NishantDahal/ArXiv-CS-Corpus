@@ -1,0 +1,3 @@
+Efficiently Inferring Pairwise Subtree Prune-and-Regraft Adjacencies between Phylogenetic Trees
+
+We develop a time-optimal $O(mn^2)$-time algorithm to construct the subtree prune-regraft (SPR) graph on a collection of m phylogenetic trees with n leaves. This improves on the previous bound of $O(mn^3)$. Such graphs are used to better understand the behaviour of phylogenetic methods and recommend parameter choices and diagnostic criteria. The limiting factor in these analyses has been the difficulty in constructing such graphs for large numbers of trees. We also develop the first efficient algorithms for constructing the nearest-neighbor interchange (NNI) and tree bisection-and-reconnection (TBR) graphs

@@ -1,0 +1,3 @@
+Learning Multi-Relational Semantics Using Neural-Embedding Models
+
+In this paper we present a unified framework for modeling multi-relational representations, scoring, and learning, and conduct an empirical study of several recent multi-relational embedding models under the framework. We investigate the different choices of relation operators based on linear and bilinear transformations, and also the effects of entity representations by incorporating unsupervised vectors pre-trained on extra textual resources. Our results show several interesting findings, enabling the design of a simple embedding model that achieves the new state-of-the-art performance on a popular knowledge base completion task evaluated on Freebase.

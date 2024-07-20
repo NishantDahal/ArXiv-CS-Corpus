@@ -1,0 +1,3 @@
+Toward a Better Understanding of Leaderboard
+
+The leaderboard in machine learning competitions is a tool to show the performance of various participants and to compare them. However, the leaderboard quickly becomes no longer accurate, due to hack or overfitting. This article gives two pieces of advice to prevent easy hack or overfitting. By following these advice, we reach the conclusion that something like the Ladder leaderboard introduced in [blum2015ladder] is inevitable. With this understanding, we naturally simplify Ladder by eliminating its redundant computation and explain how to choose the parameter and interpret it. We also prove that the sample complexity is cubic to the desired precision of the leaderboard.

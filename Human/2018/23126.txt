@@ -1,0 +1,5 @@
+Bidding Games and Efficient Allocations
+
+Richman games are zero-sum games, where in each turn players bid in order to determine who will play next [Lazarus et al.'99]. We extend the theory to impartial general-sum two player games called \emph{bidding games}, showing the existence of pure subgame-perfect equilibria (PSPE). In particular, we show that PSPEs form a semilattice, with a unique and natural \emph{Bottom Equilibrium}.
+  Our main result shows that if only two actions available to the players in each node, then the Bottom Equilibrium has additional properties: (a) utilities are monotone in budget; (b) every outcome is Pareto-efficient; and (c) any Pareto-efficient outcome is attained for some budget.
+  In the context of combinatorial bargaining, we show that a player with a fraction of X% of the total budget prefers her allocation to X% of the possible allocations. In addition, we provide a polynomial-time algorithm to compute the Bottom Equilibrium of a binary bidding game.

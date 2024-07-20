@@ -1,0 +1,3 @@
+Graph-based denoising for time-varying point clouds
+
+Noisy 3D point clouds arise in many applications. They may be due to errors when constructing a 3D model from images or simply to imprecise depth sensors. Point clouds can be given geometrical structure using graphs created from the similarity information between points. This paper introduces a technique that uses this graph structure and convex optimization methods to denoise 3D point clouds. A short discussion presents how those methods naturally generalize to time-varying inputs such as 3D point cloud time series.

@@ -1,0 +1,10 @@
+Geometric Complexity Theory V: Efficient algorithms for Noether Normalization
+
+We study a basic algorithmic problem in algebraic geometry, which we call NNL, of constructing a normalizing map as per Noether's Normalization Lemma. For general explicit varieties, as formally defined in this paper, we give a randomized polynomial-time Monte Carlo algorithm for this problem. For some interesting cases of explicit varieties, we give deterministic quasi-polynomial time algorithms. These may be contrasted with the standard EXPSPACE-algorithms for these problems in computational algebraic geometry.
+  In particular, we show that:
+  (1) The categorical quotient for any finite dimensional representation $V$ of $SL_m$, with constant $m$, is explicit in characteristic zero.
+  (2) NNL for this categorical quotient can be solved deterministically in time quasi-polynomial in the dimension of $V$.
+  (3) The categorical quotient of the space of $r$-tuples of $m \times m$ matrices by the simultaneous conjugation action of $SL_m$ is explicit in any characteristic.
+  (4) NNL for this categorical quotient can be solved deterministically in time quasi-polynomial in $m$ and $r$ in any characteristic $p$ not in $[2,\ m/2]$.
+  (5) NNL for every explicit variety in zero or large enough characteristic can be solved deterministically in quasi-polynomial time, assuming the hardness hypothesis for the permanent in geometric complexity theory.
+  The last result leads to a geometric complexity theory approach to put NNL for every explicit variety in P.

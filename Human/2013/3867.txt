@@ -1,0 +1,3 @@
+Uniform generation of RNA pseudoknot structures with genus filtration
+
+In this paper we present a sampling framework for RNA structures of fixed topological genus. We introduce a novel, linear time, uniform sampling algorithm for RNA structures of fixed topological genus $g$, for arbitrary $g>0$. Furthermore we develop a linear time sampling algorithm for RNA structures of fixed topological genus $g$ that are weighted by a simplified, loop-based energy functional. For this process the partition function of the energy functional has to be computed once, which has $O(n^2)$ time complexity.

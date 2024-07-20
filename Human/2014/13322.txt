@@ -1,0 +1,3 @@
+An ADMM algorithm for solving a proximal bound-constrained quadratic program
+
+We consider a proximal operator given by a quadratic function subject to bound constraints and give an optimization algorithm using the alternating direction method of multipliers (ADMM). The algorithm is particularly efficient to solve a collection of proximal operators that share the same quadratic form, or if the quadratic program is the relaxation of a binary quadratic problem.

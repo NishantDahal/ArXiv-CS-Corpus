@@ -1,0 +1,3 @@
+Efficient Identity-Based and Authenticated Key Agreement Protocol
+
+Several identity based and implicitly authenticated key agreement protocols have been proposed in recent years and none of them has achieved all required security properties. In this paper, we propose an efficient identity-based and authenticated key agreement protocol IDAK using Weil/Tate pairing. The security of IDAK is proved in Bellare-Rogaway model. Several required properties for key agreement protocols are not implied by the Bellare-Rogaway model. We proved these properties for IDAK separately.

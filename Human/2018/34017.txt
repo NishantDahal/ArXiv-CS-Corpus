@@ -1,0 +1,3 @@
+Representation Learning for Spatial Graphs
+
+Recently, the topic of graph representation learning has received plenty of attention. Existing approaches usually focus on structural properties only and thus they are not sufficient for those spatial graphs where the nodes are associated with some spatial information. In this paper, we present the first deep learning approach called s2vec for learning spatial graph representations, which is based on denoising autoencoders framework (DAF). We evaluate the learned representations on real datasets and the results verified the effectiveness of s2vec when used for spatial clustering.

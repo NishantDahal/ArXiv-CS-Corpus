@@ -1,0 +1,3 @@
+The state complexity of random DFAs
+
+The state complexity of a Deterministic Finite-state automaton (DFA) is the number of states in its minimal equivalent DFA. We study the state complexity of random $n$-state DFAs over a $k$-symbol alphabet, drawn uniformly from the set $[n]^{[n]\times[k]}\times2^{[n]}$ of all such automata. We show that, with high probability, the latter is $α_k n + O(\sqrt n\log n)$ for a certain explicit constant $α_k$.

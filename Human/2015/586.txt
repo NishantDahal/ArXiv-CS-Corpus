@@ -1,0 +1,3 @@
+On Vulnerabilities of the Security Association in the IEEE 802.15.6 Standard
+
+Wireless Body Area Networks (WBAN) support a variety of real-time health monitoring and consumer electronics applications. The latest international standard for WBAN is the IEEE 802.15.6. The security association in this standard includes four elliptic curve-based key agreement protocols that are used for generating a master key. In this paper, we challenge the security of the IEEE 802.15.6 standard by showing vulnerabilities of those four protocols to several attacks. We perform a security analysis on the protocols, and show that they all have security problems, and are vulnerable to different attacks.

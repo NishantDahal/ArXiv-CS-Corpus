@@ -1,0 +1,3 @@
+Multiplicative weights in monotropic games
+
+We introduce a new class of population games that we call monotropic; these are games characterized by the presence of a unique globally neutrally stable Nash equilibrium. Monotropic games generalize strictly concave potential games and zero sum games with a unique minimax solution. Within the class of monotropic games, we study a multiplicative weights dynamic. We show that, depending on a parameter called the learning rate, multiplicative weights are interior globally convergent to the unique equilibrium of monotropic games, but may also induce chaotic behavior if the learning rate is not carefully chosen.

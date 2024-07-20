@@ -1,0 +1,6 @@
+Fast Access to Columnar, Hierarchically Nested Data via Code Transformation
+
+Big Data query systems represent data in a columnar format for fast, selective access, and in some cases (e.g. Apache Drill), perform calculations directly on the columnar data without row materialization, avoiding runtime costs.
+  However, many analysis procedures cannot be easily or efficiently expressed as SQL. In High Energy Physics, the majority of data processing requires nested loops with complex dependencies. When faced with tasks like these, the conventional approach is to convert the columnar data back into an object form, usually with a performance price.
+  This paper describes a new technique to transform procedural code so that it operates on hierarchically nested, columnar data natively, without row materialization. It can be viewed as a compiler pass on the typed abstract syntax tree, rewriting references to objects as columnar array lookups.
+  We will also present performance comparisons between transformed code and conventional object-oriented code in a High Energy Physics context.

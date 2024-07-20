@@ -1,0 +1,3 @@
+Optical Neural Networks
+
+We develop a novel optical neural network (ONN) framework which introduces a degree of scalar invariance to image classification estima- tion. Taking a hint from the human eye, which has higher resolution near the center of the retina, images are broken out into multiple levels of varying zoom based on a focal point. Each level is passed through an identical convolutional neural network (CNN) in a Siamese fashion, and the results are recombined to produce a high accuracy estimate of the object class. ONNs act as a wrapper around existing CNNs, and can thus be applied to many existing algorithms to produce notable accuracy improvements without having to change the underlying architecture.

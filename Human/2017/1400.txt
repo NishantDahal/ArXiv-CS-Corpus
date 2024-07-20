@@ -1,0 +1,3 @@
+A statistical model of tristimulus measurements within and between OLED displays
+
+We present an empirical model for noises in color measurements from OLED displays. According to measured data the noise is not isotropic in the XYZ space, instead most of the noise is along an axis that is parallel to a vector from origin to measured XYZ vector. The presented empirical model is simple and depends only on the measured XYZ values. Our tests show that the variations between multiple panels of the same type have similar distribution as the temporal noise in measurements from a single panel, but a larger magnitude.

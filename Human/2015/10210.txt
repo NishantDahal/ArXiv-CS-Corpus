@@ -1,0 +1,5 @@
+Computational complexity of distance edge labeling
+
+The problem of Distance Edge Labeling is a variant of Distance Vertex Labeling (also known as $L_{2,1}$ labeling) that has been studied for more than twenty years and has many applications, such as frequency assignment.
+  The Distance Edge Labeling problem asks whether the edges of a given graph can be labeled such that the labels of adjacent edges differ by at least two and the labels of edges of distance two differ by at least one. Labels are chosen from the set $\{0,1,\dots,λ\}$ for $λ$ fixed.
+  We present a full classification of its computational complexity - a dichotomy between the polynomially solvable cases and the remaining cases which are NP-complete. We characterise graphs with $λ\le 4$ which leads to a polynomial-time algorithm recognizing the class and we show NP-completeness for $λ\ge 5$ by several reductions from Monotone Not All Equal 3-SAT.

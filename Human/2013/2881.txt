@@ -1,0 +1,3 @@
+Empirical Probabilities in Monadic Deductive Databases
+
+We address the problem of supporting empirical probabilities in monadic logic databases. Though the semantics of multivalued logic programs has been studied extensively, the treatment of probabilities as results of statistical findings has not been studied in logic programming/deductive databases.  We develop a model-theoretic characterization of logic databases that facilitates such a treatment.  We present an algorithm for checking consistency of such databases and prove its total correctness.  We develop a sound and complete query processing procedure for handling queries to such databases.

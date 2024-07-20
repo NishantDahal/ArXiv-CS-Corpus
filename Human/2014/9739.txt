@@ -1,0 +1,4 @@
+Similarity-based matching meets Malware Diversity
+
+Similarity metrics, e.g., signatures as used by anti-virus products, are the dominant technique to detect if a given binary is malware. The underlying assumption of this approach is that all instances of a malware (or even malware family) will be similar to each other.
+  Software diversification is a probabilistic technique that uses code and data randomization and expressiveness in the target instruction set to generate large amounts of functionally equivalent but different binaries. Malware diversity builds on software diversity and ensures that any two diversified instances of the same malware have low similarity (according to a set of similarity metrics). An LLVM-based prototype implementation diversifies both code and data of binaries and our evaluation shows that signatures based on similarity only match one or few instances in a pool of diversified binaries generated from the same source code.

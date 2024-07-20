@@ -1,0 +1,3 @@
+Compiling LATEX to computer algebra-enabled HTML5
+
+This document explains how to create or modify an existing LATEX document with commands enabling computations in the HTML5 output: when the reader opens the HTML5 output, he can run a computation in his browser, or modify the command to be executed and run it. This is done by combining different softwares: hevea for compilation to HTML5, giac.js for the CAS computing kernel (itself compiled from the C++ Giac library with emscripten), and a modified version of itex2MML for fast and nice rendering in MathML in browsers that support MathML.

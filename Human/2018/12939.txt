@@ -1,0 +1,3 @@
+Towards Dependable Deep Convolutional Neural Networks (CNNs) with Out-distribution Learning
+
+Detection and rejection of adversarial examples in security sensitive and safety-critical systems using deep CNNs is essential. In this paper, we propose an approach to augment CNNs with out-distribution learning in order to reduce misclassification rate by rejecting adversarial examples. We empirically show that our augmented CNNs can either reject or classify correctly most adversarial examples generated using well-known methods ( >95% for MNIST and >75% for CIFAR-10 on average). Furthermore, we achieve this without requiring to train using any specific type of adversarial examples and without sacrificing the accuracy of models on clean samples significantly (< 4%).

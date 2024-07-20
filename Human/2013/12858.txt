@@ -1,0 +1,7 @@
+A Game Semantics for Generic Polymorphism
+
+Genericity is the idea that the same program can work at many different data types. Longo, Milstead and Soloviev proposed to capture the inability of generic programs to probe the structure of their instances by the following equational principle: if two generic programs, viewed as terms of type $\forall X. \, A[X]$, are equal at any given instance $A[T]$, then they are equal at all instances. They proved that this rule is admissible in a certain extension of System F, but finding a semantically motivated model satisfying this principle remained an open problem.
+  In the present paper, we construct a categorical model of polymorphism, based on game semantics, which contains a large collection of generic types. This model builds on two novel constructions:
+  -- A direct interpretation of variable types as games, with a natural notion of substitution of games. This allows moves in games A[T] to be decomposed into the generic part from A, and the part pertaining to the instance T. This leads to a simple and natural notion of generic strategy.
+  -- A "relative polymorphic product" which expresses quantification over the type variable X in the variable type A with respect to a "universe'" which is explicitly given as an additional parameter B. We then solve a recursive equation involving this relative product to obtain a universe in a suitably "absolute" sense.
+  Full Completeness for ML types (universal closures of quantifier-free types) is proved for this model.

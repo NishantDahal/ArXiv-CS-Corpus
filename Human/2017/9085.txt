@@ -1,0 +1,3 @@
+Discovering Multiple Truths with a Hybrid Model
+
+Many data management applications require integrating information from multiple sources. The sources may not be accurate and provide erroneous values. We thus have to identify the true values from conflicting observations made by the sources. The problem is further complicated when there may exist multiple truths (e.g., a book written by several authors). In this paper we propose a model called Hybrid that jointly makes two decisions: how many truths there are, and what they are. It considers the conflicts between values as important evidence for ruling out wrong values, while keeps the flexibility of allowing multiple truths. In this way, Hybrid is able to achieve both high precision and high recall.

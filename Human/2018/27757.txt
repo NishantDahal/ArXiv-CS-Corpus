@@ -1,0 +1,3 @@
+Taming the Cross Entropy Loss
+
+We present the Tamed Cross Entropy (TCE) loss function, a robust derivative of the standard Cross Entropy (CE) loss used in deep learning for classification tasks. However, unlike other robust losses, the TCE loss is designed to exhibit the same training properties than the CE loss in noiseless scenarios. Therefore, the TCE loss requires no modification on the training regime compared to the CE loss and, in consequence, can be applied in all applications where the CE loss is currently used. We evaluate the TCE loss using the ResNet architecture on four image datasets that we artificially contaminated with various levels of label noise. The TCE loss outperforms the CE loss in every tested scenario.

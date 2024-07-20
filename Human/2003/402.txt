@@ -1,0 +1,5 @@
+Augernome & XtremWeb: Monte Carlos computation on a global computing platform
+
+In this paper, we present XtremWeb, a Global Computing platform used to generate monte carlos showers in Auger, an HEP experiment to study the highest energy cosmic rays at Mallargue-Mendoza, Argentina.
+  XtremWeb main goal, as a Global Computing platform, is to compute distributed applications using idle time of widely interconnected machines. It is especially dedicated to -but not limited to- multi-parameters applications such as monte carlos computations; its security mechanisms ensuring not only hosts integrity but also results certification and its fault tolerant features, encouraged us to test it and, finally, to deploy it as to support our CPU needs to simulate showers.
+  We first introduce Auger computing needs and how Global Computing could help. We then detail XtremWeb architecture and goals. The fourth and last part presents the profits we have gained to choose this platform. We conclude on what could be done next.

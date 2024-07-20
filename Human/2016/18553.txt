@@ -1,0 +1,3 @@
+A Note on Markov Normalized Magnetic Eigenmaps
+
+We note that building a magnetic Laplacian from the Markov transition matrix, rather than the graph adjacency matrix, yields several benefits for the magnetic eigenmaps algorithm. The two largest benefits are that the embedding becomes more stable as a function of the rotation parameter g, and the principal eigenvector of the magnetic Laplacian now converges to the page rank of the network as a function of diffusion time. We show empirically that this normalization improves the phase and real/imaginary embeddings of the low-frequency eigenvectors of the magnetic Laplacian.

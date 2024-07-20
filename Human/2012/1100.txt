@@ -1,0 +1,3 @@
+Active Bayesian Optimization: Minimizing Minimizer Entropy
+
+The ultimate goal of optimization is to find the minimizer of a target function.However, typical criteria for active optimization often ignore the uncertainty about the minimizer. We propose a novel criterion for global optimization and an associated sequential active learning strategy using Gaussian processes.Our criterion is the reduction of uncertainty in the posterior distribution of the function minimizer. It can also flexibly incorporate multiple global minimizers. We implement a tractable approximation of the criterion and demonstrate that it obtains the global minimizer accurately compared to conventional Bayesian optimization criteria.

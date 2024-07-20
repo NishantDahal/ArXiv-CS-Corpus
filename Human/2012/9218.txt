@@ -1,0 +1,3 @@
+Static Analysis of Lockless Microcontroller C Programs
+
+Concurrently accessing shared data without locking is usually a subject to race conditions resulting in inconsistent or corrupted data. However, there are programs operating correctly without locking by exploiting the atomicity of certain operations on a specific hardware. In this paper, we describe how to precisely analyze lockless microcontroller C programs with interrupts by taking the hardware architecture into account. We evaluate this technique in an octagon-based value range analysis using access-based localization to increase efficiency.

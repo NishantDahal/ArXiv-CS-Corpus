@@ -1,0 +1,4 @@
+Lightweight Contention Management for Efficient Compare-and-Swap Operations
+
+Many concurrent data-structure implementations use the well-known compare-and-swap (CAS) operation, supported in hardware by most modern multiprocessor architectures for inter-thread synchronization. A key weakness of the CAS operation is the degradation in its performance in the presence of memory contention.
+  In this work we study the following question: can software-based contention management improve the efficiency of hardware-provided CAS operations? Our performance evaluation establishes that lightweight contention management support can greatly improve performance under medium and high contention levels while typically incurring only small overhead when contention is low.

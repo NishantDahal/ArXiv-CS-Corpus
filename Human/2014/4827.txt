@@ -1,0 +1,3 @@
+Robust Estimates of Covariance Matrices in the Large Dimensional Regime
+
+This article studies the limiting behavior of a class of robust population covariance matrix estimators, originally due to Maronna in 1976, in the regime where both the number of available samples and the population size grow large. Using tools from random matrix theory, we prove that, for sample vectors made of independent entries having some moment conditions, the difference between the sample covariance matrix and (a scaled version of) such robust estimator tends to zero in spectral norm, almost surely. This result can be applied to various statistical methods arising from random matrix theory that can be made robust without altering their first order behavior.

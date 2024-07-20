@@ -1,0 +1,3 @@
+Unsupervised Segmentation of Overlapping Cervical Cell Cytoplasm
+
+Overlapping of cervical cells and poor contrast of cell cytoplasm are the major issues in accurate detection and segmentation of cervical cells. An unsupervised cell segmentation approach is presented here. Cell clump segmentation was carried out using the extended depth of field (EDF) image created from the images of different focal planes. A modified Otsu method with prior class weights is proposed for accurate segmentation of nuclei from the cell clumps. The cell cytoplasm was further segmented from cell clump depending upon the number of nucleus detected in that cell clump. Level set model was used for cytoplasm segmentation.

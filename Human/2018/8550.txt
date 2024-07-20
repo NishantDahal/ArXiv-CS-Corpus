@@ -1,0 +1,3 @@
+On Computing the Total Variation Distance of Hidden Markov Models
+
+We prove results on the decidability and complexity of computing the total variation distance (equivalently, the $L_1$-distance) of hidden Markov models (equivalently, labelled Markov chains). This distance measures the difference between the distributions on words that two hidden Markov models induce. The main results are: (1) it is undecidable whether the distance is greater than a given threshold; (2) approximation is #P-hard and in PSPACE.

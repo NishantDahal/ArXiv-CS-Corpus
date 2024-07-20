@@ -1,0 +1,4 @@
+On the Accuracy of Point Localisation in a Circular Camera-Array
+
+Although many advances have been made in light-field and camera-array image processing, there is still a lack of thorough analysis of the localisation accuracy of different multi-camera systems. By considering the problem from a frame-quantisation perspective, we are able to quantify the point localisation error of circular camera configurations. Specifically, we obtain closed form expressions bounding the localisation error in terms of the parameters describing the acquisition setup.
+  These theoretical results are independent of the localisation algorithm and thus provide fundamental limits on performance. Furthermore, the new frame-quantisation perspective is general enough to be extended to more complex camera configurations.

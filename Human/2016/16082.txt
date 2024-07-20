@@ -1,0 +1,3 @@
+Model Based In Situ Calibration of Six Axis Force Torque Sensors
+
+This paper proposes and validates an in situ calibration method to calibrate six axis force torque (F/T) sensors once they are mounted on the system. This procedure takes advantage of the knowledge of the model of the robot to generate the expected wrenches of the sensors during some arbitrary motions. It then uses this information to train and validate new calibration matrices, taking into account the calibration matrix obtained with a classical Workbench calibration. The proposed calibration algorithm is validated on the F/T sensors mounted on the iCub humanoid robot legs.

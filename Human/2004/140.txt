@@ -1,0 +1,3 @@
+Search Efficiency in Indexing Structures for Similarity Searching
+
+Similarity searching finds application in a wide variety of domains including multilingual databases, computational biology, pattern recognition and text retrieval. Similarity is measured in terms of a distance function, edit distance, in general metric spaces, which is expensive to compute. Indexing techniques can be used reduce the number of distance computations. We present an analysis of various existing similarity indexing structures for the same. The performance obtained using the index structures studied was found to be unsatisfactory . We propose an indexing technique that combines the features of clustering with M tree(MTB) and the results indicate that this gives better performance.

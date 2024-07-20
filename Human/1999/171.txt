@@ -1,0 +1,3 @@
+Weak length induction and slow growing depth boolean circuits
+
+We define a hierarchy of circuit complexity classes LD^i, whose depth are the inverse of a function in Ackermann hierarchy. Then we introduce extremely weak versions of length induction and construct a bounded arithmetic theory L^i_2 whose provably total functions exactly correspond to functions computable by LD^i circuits. Finally, we prove a non-conservation result between L^i_2 and a weaker theory AC^0CA which corresponds to the class AC^0. Our proof utilizes KPT witnessing theorem.

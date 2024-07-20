@@ -1,0 +1,3 @@
+Ensemble of Neural Classifiers for Scoring Knowledge Base Triples
+
+This paper describes our approach for the triple scoring task at the WSDM Cup 2017. The task required participants to assign a relevance score for each pair of entities and their types in a knowledge base in order to enhance the ranking results in entity retrieval tasks. We propose an approach wherein the outputs of multiple neural network classifiers are combined using a supervised machine learning model. The experimental results showed that our proposed method achieved the best performance in one out of three measures (i.e., Kendall's tau), and performed competitively in the other two measures (i.e., accuracy and average score difference).

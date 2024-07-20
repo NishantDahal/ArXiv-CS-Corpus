@@ -1,0 +1,3 @@
+An Extension of Interactive Scores for Multimedia Scenarios with Temporal Relations for Micro and Macro Controls
+
+Software to design multimedia scenarios is usually based either on a fixed timeline or on cue lists, but both models are unrelated temporally. On the contrary, the formalism of interactive scores can describe multimedia scenarios with flexible and fixed temporal relations among the objects of the scenario, but cannot express neither temporal relations for micro controls nor signal processing. We extend interactive scores with such relations and with sound processing. We show some applications and we describe how they can be implemented in Pure Data. Our implementation has low average relative jitter even under high cpu load.

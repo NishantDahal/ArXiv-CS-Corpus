@@ -1,0 +1,3 @@
+An Optimization Framework to Improve 4D-Var Data Assimilation System Performance
+
+This paper develops a computational framework for optimizing the parameters of data assimilation systems in order to improve their performance. The approach formulates a continuous meta-optimization problem for parameters; the meta-optimization is constrained by the original data assimilation problem. The numerical solution process employs adjoint models and iterative solvers. The proposed framework is applied to optimize observation values, data weighting coefficients, and the location of sensors for a test problem. The ability to optimize a distributed measurement network is crucial for cutting down operating costs and detecting malfunctions.

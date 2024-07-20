@@ -1,0 +1,3 @@
+Stretching Stretch
+
+We give a generalized definition of stretch that simplifies the efficient construction of low-stretch embeddings suitable for graph algorithms. The generalization, based on discounting highly stretched edges by taking their $p$-th power for some $0 < p < 1$, is directly related to performances of existing algorithms. This discounting of high-stretch edges allows us to treat many classes of edges with coarser granularity. It leads to a two-pass approach that combines bottom-up clustering and top-down decompositions to construct these embeddings in $\mathcal{O}(m\log\log{n})$ time. Our algorithm parallelizes readily and can also produce generalizations of low-stretch subgraphs.

@@ -1,0 +1,4 @@
+Automorphism Groups of Comparability Graphs
+
+Comparability graphs are graphs which have transitive orientations. The dimension of a poset is the least number of linear orders whose intersection gives this poset. The dimension ${\rm dim}(X)$ of a comparability graph $X$ is the dimension of any transitive orientation of X, and by $k$-DIM we denote the class of comparability graphs $X$ with ${\rm dim}(X) \le k$. It is known that the complements of comparability graphs are exactly function graphs and permutation graphs equal 2-DIM.
+  In this paper, we characterize the automorphism groups of permutation graphs similarly to Jordan's characterization for trees (1869). For permutation graphs, there is an extra operation, so there are some extra groups not realized by trees. For $k \ge 4$, we show that every finite group can be realized as the automorphism group of some graph in $k$-DIM, and testing graph isomorphism for $k$-DIM is GI-complete.

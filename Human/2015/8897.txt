@@ -1,0 +1,4 @@
+Classical Cryptographic Protocols in a Quantum World
+
+Cryptographic protocols, such as protocols for secure function evaluation (SFE), have played a crucial role in the development of modern cryptography. The extensive theory of these protocols, however, deals almost exclusively with classical attackers. If we accept that quantum information processing is the most realistic model of physically feasible computation, then we must ask: what classical protocols remain secure against quantum attackers?
+  Our main contribution is showing the existence of classical two-party protocols for the secure evaluation of any polynomial-time function under reasonable computational assumptions (for example, it suffices that the learning with errors problem be hard for quantum polynomial time). Our result shows that the basic two-party feasibility picture from classical cryptography remains unchanged in a quantum world.

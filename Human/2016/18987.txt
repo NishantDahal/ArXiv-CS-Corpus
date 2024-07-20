@@ -1,0 +1,3 @@
+FogGIS: Fog Computing for Geospatial Big Data Analytics
+
+Cloud Geographic Information Systems (GIS) has emerged as a tool for analysis, processing and transmission of geospatial data. The Fog computing is a paradigm where Fog devices help to increase throughput and reduce latency at the edge of the client. This paper developed a Fog-based framework named Fog GIS for mining analytics from geospatial data. We built a prototype using Intel Edison, an embedded microprocessor. We validated the FogGIS by doing preliminary analysis. including compression, and overlay analysis. Results showed that Fog computing hold a great promise for analysis of geospatial data. We used several open source compression techniques for reducing the transmission to the cloud.

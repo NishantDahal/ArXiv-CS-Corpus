@@ -1,0 +1,4 @@
+Amending Choreographies
+
+Choreographies are global descriptions of system behaviors, from which the local behavior of each endpoint entity can be obtained automatically through projection.  To guarantee that its projection is correct, i.e. it has the same behaviors of the original choreography, a choreography usually has to respect some coherency conditions. This restricts the set of choreographies that can be projected.
+  In this paper, we present a transformation for amending choreographies that do not respect common syntactic conditions for projection correctness.  Specifically, our transformation automatically reduces the amount of concurrency, and it infers and adds hidden communications that make the resulting choreography respect the desired conditions, while preserving its behavior.

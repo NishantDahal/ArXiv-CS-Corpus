@@ -1,0 +1,3 @@
+MediaWiki Grammar Recovery
+
+The paper describes in detail the recovery effort of one of the official MediaWiki grammars. Over two hundred grammar transformation steps are reported and annotated, leading to delivery of a level 2 grammar, semi-automatically extracted from a community created semi-formal text using at least five different syntactic notations, several non-enforced naming conventions, multiple misspellings, obsolete parsing technology idiosyncrasies and other problems commonly encountered in grammars that were not engineered properly. Having a quality grammar will allow to test and validate it further, without alienating the community with a separately developed grammar.

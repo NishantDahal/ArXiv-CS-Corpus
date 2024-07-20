@@ -1,0 +1,3 @@
+Fuzzy cellular model for on-line traffic simulation
+
+This paper introduces a fuzzy cellular model of road traffic that was intended for on-line applications in traffic control. The presented model uses fuzzy sets theory to deal with uncertainty of both input data and simulation results. Vehicles are modelled individually, thus various classes of them can be taken into consideration. In the proposed approach, all parameters of vehicles are described by means of fuzzy numbers. The model was implemented in a simulation of vehicles queue discharge process. Changes of the queue length were analysed in this experiment and compared to the results of NaSch cellular automata model.

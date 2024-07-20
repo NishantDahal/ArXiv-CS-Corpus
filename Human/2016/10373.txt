@@ -1,0 +1,3 @@
+Prior-based Coregistration and Cosegmentation
+
+We propose a modular and scalable framework for dense coregistration and cosegmentation with two key characteristics: first, we substitute ground truth data with the semantic map output of a classifier; second, we combine this output with population deformable registration to improve both alignment and segmentation. Our approach deforms all volumes towards consensus, taking into account image similarities and label consistency. Our pipeline can incorporate any classifier and similarity metric. Results on two datasets, containing annotations of challenging brain structures, demonstrate the potential of our method.

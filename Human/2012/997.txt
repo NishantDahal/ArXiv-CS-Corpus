@@ -1,0 +1,6 @@
+Communication-Optimal Parallel Algorithm for Strassen's Matrix Multiplication
+
+Parallel matrix multiplication is one of the most studied fundamental problems in distributed and high performance computing. We obtain a new parallel algorithm that is based on Strassen's fast matrix multiplication and minimizes communication. The algorithm outperforms all known parallel matrix multiplication algorithms, classical and Strassen-based, both asymptotically and in practice.
+  A critical bottleneck in parallelizing Strassen's algorithm is the communication between the processors. Ballard, Demmel, Holtz, and Schwartz (SPAA'11) prove lower bounds on these communication costs, using expansion properties of the underlying computation graph. Our algorithm matches these lower bounds, and so is communication-optimal. It exhibits perfect strong scaling within the maximum possible range.
+  Benchmarking our implementation on a Cray XT4, we obtain speedups over classical and Strassen-based algorithms ranging from 24% to 184% for a fixed matrix dimension n=94080, where the number of nodes ranges from 49 to 7203.
+  Our parallelization approach generalizes to other fast matrix multiplication algorithms.

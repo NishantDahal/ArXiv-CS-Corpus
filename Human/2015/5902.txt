@@ -1,0 +1,4 @@
+Automating change of representation for proofs in discrete mathematics
+
+Representation determines how we can reason about a specific problem. Sometimes one representation helps us find a proof more easily than others. Most current automated reasoning tools focus on reasoning within one representation. There is, therefore, a need for the development of better tools to mechanise and automate formal and logically sound changes of representation.
+  In this paper we look at examples of representational transformations in discrete mathematics, and show how we have used Isabelle's Transfer tool to automate the use of these transformations in proofs. We give a brief overview of a general theory of transformations that we consider appropriate for thinking about the matter, and we explain how it relates to the Transfer package. We show our progress towards developing a general tactic that incorporates the automatic search for representation within the proving process.

@@ -1,0 +1,3 @@
+PaMpeR: Proof Method Recommendation System for Isabelle/HOL
+
+Deciding which sub-tool to use for a given proof state requires expertise specific to each ITP. To mitigate this problem, we present PaMpeR, a Proof Method Recommendation system for Isabelle/HOL. Given a proof state, PaMpeR recommends proof methods to discharge the proof goal and provides qualitative explanations as to why it suggests these methods. PaMpeR generates these recommendations based on existing hand-written proof corpora, thus transferring experienced users' expertise to new users. Our evaluation shows that PaMpeR correctly predicts experienced users' proof methods invocation especially when it comes to special purpose proof methods.

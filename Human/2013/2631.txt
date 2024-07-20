@@ -1,0 +1,3 @@
+The stack calculus
+
+We introduce a functional calculus with simple syntax and operational semantics in which the calculi introduced so far in the Curry-Howard correspondence for Classical Logic can be faithfully encoded. Our calculus enjoys confluence without any restriction. Its type system enforces strong normalization of expressions and it is a sound and complete system for full implicational Classical Logic. We give a very simple denotational semantics which allows easy calculations of the interpretation of expressions.

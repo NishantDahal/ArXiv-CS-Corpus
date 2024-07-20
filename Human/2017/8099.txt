@@ -1,0 +1,3 @@
+The Vectorial $λ$-Calculus
+
+We describe a type system for the linear-algebraic $λ$-calculus. The type system accounts for the linear-algebraic aspects of this extension of $λ$-calculus: it is able to statically describe the linear combinations of terms that will be obtained when reducing the programs. This gives rise to an original type theory where types, in the same way as terms, can be superposed into linear combinations. We prove that the resulting typed $λ$-calculus is strongly normalising and features weak subject reduction. Finally, we show how to naturally encode matrices and vectors in this typed calculus.

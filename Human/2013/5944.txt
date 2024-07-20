@@ -1,0 +1,3 @@
+Extended Subspace Error Localization for Rate-Adaptive Distributed Source Coding
+
+A subspace-based approach for rate-adaptive distributed source coding (DSC) based on discrete Fourier transform (DFT) codes is developed. Punctured DFT codes can be used to implement rate-adaptive source coding, however they perform poorly after even moderate puncturing since the performance of the subspace error localization degrades severely. The proposed subspace-based error localization extends and improves the existing one, based on additional syndrome, and is naturally suitable for rate-adaptive distributed source coding architecture.

@@ -1,0 +1,4 @@
+Abstract versus Concrete Computation on Metric Partial Algebras
+
+A model of computation is abstract if, when applied to any algebra, the resulting programs for computable functions and sets on that algebra are invariant under isomorphisms, and hence do not depend on a representation for the algebra. Otherwise it is concrete. Intuitively, concrete models depend on the implementation of the algebra.
+  The difference is particularly striking in the case of topological partial algebras, and notably in algebras over the reals. We investigate the relationship between abstract and concrete models of partial metric algebras. In the course of this investigation, interesting aspects of continuity, extensionality and non-determinism are uncovered.

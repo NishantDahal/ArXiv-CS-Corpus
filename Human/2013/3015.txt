@@ -1,0 +1,3 @@
+StegTorrent: a Steganographic Method for the P2P File Sharing Service
+
+The paper proposes StegTorrent a new network steganographic method for the popular P2P file transfer service-BitTorrent. It is based on modifying the order of data packets in the peer-peer data exchange protocol. Unlike other existing steganographic methods that modify the packets' order it does not require any synchronization. Experimental results acquired from prototype implementation proved that it provides high steganographic bandwidth of up to 270 b/s while introducing little transmission distortion and providing difficult detectability.

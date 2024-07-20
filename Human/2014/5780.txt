@@ -1,0 +1,3 @@
+Faster Transaction Commit even when Nodes Crash
+
+Atomic broadcasts play a central role in serialisable in-memory transactions. Best performing ones block, when a node crashes, until a new view is installed. We augment a new protocol for uninterrupted progress in the interim period.

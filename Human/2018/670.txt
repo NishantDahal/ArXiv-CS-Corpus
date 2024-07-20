@@ -1,0 +1,3 @@
+rcss: Subgradient and duality approach for dynamic programming
+
+This short paper gives an introduction to the \emph{rcss} package. The R package \emph{rcss} provides users with a tool to approximate the value functions in the Bellman recursion using convex piecewise linear functions formed using operations on tangents. A pathwise method is then used to gauge the quality of the numerical results.

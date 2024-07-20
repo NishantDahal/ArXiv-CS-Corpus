@@ -1,0 +1,3 @@
+Notes on Growing a Tree in a Graph
+
+We study the height of a spanning tree $T$ of a graph $G$ obtained by starting with a single vertex of $G$ and repeatedly selecting, uniformly at random, an edge of $G$ with exactly one endpoint in $T$ and adding this edge to $T$.

@@ -1,0 +1,7 @@
+Hardness of almost embedding simplicial complexes in $\mathbb R^d$
+
+A map $f\colon K\to \mathbb R^d$ of a simplicial complex is an almost embedding if $f(σ)\cap f(τ)=\emptyset$ whenever $σ,τ$ are disjoint simplices of $K$.
+  Theorem. Fix integers $d,k\ge2$ such that $d=\frac{3k}2+1$.
+  (a) Assume that $P\ne NP$. Then there exists a finite $k$-dimensional complex $K$ that does not admit an almost embedding in $\mathbb R^d$ but for which there exists an equivariant map $\tilde K\to S^{d-1}$.
+  (b) The algorithmic problem of recognition almost embeddability of finite $k$-dimensional complexes in $\mathbb R^d$ is NP hard.
+  The proof is based on the technique from the Matoušek-Tancer-Wagner paper (proving an analogous result for embeddings), and on singular versions of the higher-dimensional Borromean rings lemma and a generalized van Kampen--Flores theorem.

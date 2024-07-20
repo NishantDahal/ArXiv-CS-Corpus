@@ -1,0 +1,4 @@
+Streaming Periodicity with Mismatches
+
+We study the problem of finding all $k$-periods of a length-$n$ string $S$, presented as a data stream. $S$ is said to have $k$-period $p$ if its prefix of length $n-p$ differs from its suffix of length $n-p$ in at most $k$ locations.
+  We give a one-pass streaming algorithm that computes the $k$-periods of a string $S$ using $\text{poly}(k, \log n)$ bits of space, for $k$-periods of length at most $\frac{n}{2}$. We also present a two-pass streaming algorithm that computes $k$-periods of $S$ using $\text{poly}(k, \log n)$ bits of space, regardless of period length. We complement these results with comparable lower bounds.

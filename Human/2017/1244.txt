@@ -1,0 +1,3 @@
+A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems
+
+We propose a general dual ascent framework for Lagrangean decomposition of combinatorial problems. Although methods of this type have shown their efficiency for a number of problems, so far there was no general algorithm applicable to multiple problem types. In his work, we propose such a general algorithm. It depends on several parameters, which can be used to optimize its performance in each particular setting. We demonstrate efficacy of our method on graph matching and multicut problems, where it outperforms state-of-the-art solvers including those based on subgradient optimization and off-the-shelf linear programming solvers.

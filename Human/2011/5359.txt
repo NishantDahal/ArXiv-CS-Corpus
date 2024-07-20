@@ -1,0 +1,3 @@
+A distributed optimization-based approach for hierarchical model predictive control of large-scale systems with coupled dynamics and constraints
+
+We present a hierarchical model predictive control approach for large-scale systems based on dual decomposition. The proposed scheme allows coupling in both dynamics and constraints between the subsystems and generates a primal feasible solution within a finite number of iterations, using primal averaging and a constraint tightening approach. The primal update is performed in a distributed way and does not require exact solutions, while the dual problem uses an approximate subgradient method. Stability of the scheme is established using bounded suboptimality.

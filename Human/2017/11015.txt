@@ -1,0 +1,3 @@
+Alignment Elimination from Adams' Grammars
+
+Adams' extension of parsing expression grammars enables specifying indentation sensitivity using two non-standard grammar constructs --- indentation by a binary relation and alignment. This paper proposes a step-by-step transformation of well-formed Adams' grammars for elimination of the alignment construct from the grammar. The idea that alignment could be avoided was suggested by Adams but no process for achieving this aim has been described before.

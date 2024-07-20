@@ -1,0 +1,3 @@
+Probabilistic Constructions of Computable Objects and a Computable Version of Lovász Local Lemma
+
+A nonconstructive proof can be used to prove the existence of an object with some properties without providing an explicit example of such an object. A special case is a probabilistic proof where we show that an object with required properties appears with some positive probability in some random process. Can we use such arguments to prove the existence of a computable infinite object? Sometimes yes: following [8], we show how the notion of a layerwise computable mapping can be used to prove a computable version of Lovász local lemma. (A survey of Moser-Tardos proof is included to make the paper self-contained.)

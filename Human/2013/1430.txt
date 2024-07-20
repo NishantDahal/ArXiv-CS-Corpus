@@ -1,0 +1,3 @@
+Assembling the Proofs of Ordered Model Transformations
+
+In model-driven development, an ordered model transformation is a nested set of transformations between source and target classes, in which each transformation is governed by its own pre and post- conditions, but structurally dependent on its parent. Following the proofs-as-model-transformations approach, in this paper we consider a formalisation in Constructive Type Theory of the concepts of model and model transformation, and show how the correctness proofs of potentially large ordered model transformations can be systematically assembled from the proofs of the specifications of their parts, making them easier to derive.

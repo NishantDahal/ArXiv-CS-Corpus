@@ -1,0 +1,3 @@
+A Methodology for Optimizing Multithreaded System Scalability on Multi-cores
+
+We show how to quantify scalability with the Universal Scalability Law (USL) by applying it to performance measurements of memcached, J2EE, and Weblogic on multi-core platforms. Since commercial multicores are essentially black-boxes, the accessible performance gains are primarily available at the application level. We also demonstrate how our methodology can identify the most significant performance tuning opportunities to optimize application scalability, as well as providing an easy means for exploring other aspects of the multi-core system design space.

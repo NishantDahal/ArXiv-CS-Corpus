@@ -1,0 +1,3 @@
+Iterative Detection for Compressive Sensing:Turbo CS
+
+We consider compressive sensing as a source coding method for signal transmission. We concatenate a convolutional coding system with 1-bit compressive sensing to obtain a serial concatenated system model for sparse signal transmission over an AWGN channel. The proposed source/channel decoder, which we refer to as turbo CS, is robust against channel noise and its signal reconstruction performance at the receiver increases considerably through iterations. We show 12 dB improvement with six turbo CS iterations compared to a non-iterative concatenated source/channel decoder.

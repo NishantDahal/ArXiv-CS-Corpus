@@ -1,0 +1,3 @@
+Counting Roots of Polynomials over $\mathbb{Z}/p^2\mathbb{Z}$
+
+Until recently, the only known method of finding the roots of polynomials over prime power rings, other than fields, was brute force. One reason for this is the lack of a division algorithm, obstructing the use of greatest common divisors. Fix a prime $p \in \mathbb{Z}$ and $f \in ( \mathbb{Z}/p^n \mathbb{Z} ) [x]$ any nonzero polynomial of degree $d$ whose coefficients are not all divisible by $p$. For the case $n=2$, we prove a new efficient algorithm to count the roots of $f$ in $\mathbb{Z}/p^2\mathbb{Z}$ within time polynomial in $(d+\operatorname{size}(f)+\log{p})$, and record a concise formula for the number of roots, formulated by Cheng, Gao, Rojas, and Wan.

@@ -1,0 +1,3 @@
+Hierarchical Evidence Accumulation in the Pseiki System and Experiments in Model-Driven Mobile Robot Navigation
+
+In this paper, we will review the process of evidence accumulation in the PSEIKI system for expectation-driven interpretation of images of 3-D scenes.  Expectations are presented to PSEIKI as a geometrical hierarchy of abstractions.  PSEIKI's job is then to construct abstraction hierarchies in the perceived image taking cues from the abstraction hierarchies in the expectations.  The Dempster-Shafer formalism is used for associating belief values with the different possible labels for the constructed abstractions in the perceived image.  This system has been used successfully for autonomous navigation of a mobile robot in indoor environments.

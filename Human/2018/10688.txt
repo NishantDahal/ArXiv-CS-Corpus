@@ -1,0 +1,4 @@
+Beyond admissibility: Dominance between chains of strategies
+
+Admissible strategies, i.e. those that are not dominated by any other strategy, are a typical rationality notion in game theory. In many classes of games this is justified by results showing that any strategy is admissible or dominated by an admissible strategy. However, in games played on finite graphs with quantitative objectives (as used for reactive synthesis), this is not the case.
+  We consider increasing chains of strategies instead to recover a satisfactory rationality notion based on dominance in such games. We start with some order-theoretic considerations establishing sufficient criteria for this to work. We then turn our attention to generalised safety/reachability games as a particular application. We propose the notion of maximal uniform chain as the desired dominance-based rationality concept in these games. Decidability of some fundamental questions about uniform chains is established.

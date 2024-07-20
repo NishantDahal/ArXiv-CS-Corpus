@@ -1,0 +1,3 @@
+Optimal Quantization for Distribution Synthesis
+
+Finite precision approximations of discrete probability distributions are considered, applicable for distribution synthesis, e.g., probabilistic shaping. Two algorithms are presented that find the optimal $M$-type approximation $Q$ of a distribution $P$ in terms of the variational distance $| Q-P|_1$ and the informational divergence $\mathbb{D}(Q| P)$. Bounds on the approximation errors are derived and shown to be asymptotically tight. Several examples illustrate that the variational distance optimal approximation can be quite different from the informational divergence optimal approximation.

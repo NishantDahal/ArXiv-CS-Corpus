@@ -1,0 +1,3 @@
+Stable Marriage Problem with Ties and Incomplete bounded length preference list under social stability
+
+We consider a variant of socially stable marriage problem where preference lists may be incomplete, may contain ties and may have bounded length. In real world application like NRMP and Scottish medical matching scheme such restrictions arise very frequently where set of agents (man/woman) is very large and providing a complete and strict order preference list is practically in-feasible. In presence of ties in preference lists, the most common solution is weakly socially stable matching. It is a fact that in an instance, weakly stable matching can have different sizes. This motivates the problem of finding a maximum cardinality weakly socially stable matching.

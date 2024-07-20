@@ -1,0 +1,3 @@
+Semantics for Locking Specifications
+
+To prevent concurrency errors, programmers need to obey a locking discipline. Annotations that specify that discipline, such as Java's @GuardedBy, are already widely used. Unfortunately, their semantics is expressed informally and is consequently ambiguous. This article highlights such ambiguities and formalizes the semantics of @GuardedBy in two alternative ways, building on an operational semantics for a small concurrent fragment of a Java-like language. It also identifies when such annotations are actual guarantees against data races. Our work aids in understanding the annotations and supports the development of sound formal tools that verify or infer such annotations.

@@ -1,0 +1,3 @@
+An optical solution for the set splitting problem
+
+We describe here an optical device, based on time-delays, for solving the set splitting problem which is well-known NP-complete problem. The device has a graph-like structure and the light is traversing it from a start node to a destination node. All possible (potential) paths in the graph are generated and at the destination we will check which one satisfies completely the problem's constrains.

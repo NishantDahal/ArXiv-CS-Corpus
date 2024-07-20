@@ -1,0 +1,4 @@
+Unit Testing in ASPIDE
+
+Answer Set Programming (ASP) is a declarative logic programming formalism, which is employed nowadays in both academic and industrial real-world applications. Although some tools for supporting the development of ASP programs have been proposed in the last few years, the crucial task of testing ASP programs received less attention, and is an Achilles' heel of the available programming environments.
+  In this paper we present a language for specifying and running unit tests on ASP programs. The testing language has been implemented in ASPIDE, a comprehensive IDE for ASP, which supports the entire life-cycle of ASP development with a collection of user-friendly graphical tools for program composition, testing, debugging, profiling, solver execution configuration, and output-handling.

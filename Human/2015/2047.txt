@@ -1,0 +1,4 @@
+Multi-sources Randomness Extraction over Finite Fields and Elliptic Curve
+
+This work is based on the proposal of a deterministic randomness extractor of a random Diffie-Hellman element defined over two prime order multiplicative subgroups of a finite fields $\mathbb{F}_{p^n}$, $G_1$ and $G_2$. We show that the least significant bits of a random element in $G_1*G_2$, are indistinguishable from a uniform bit-string of the same length.
+ One of the main application of this extractor is to replace the use of hash functions in pairing by the use of a good deterministic randomness extractor.

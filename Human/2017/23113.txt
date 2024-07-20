@@ -1,0 +1,3 @@
+WMRB: Learning to Rank in a Scalable Batch Training Approach
+
+We propose a new learning to rank algorithm, named Weighted Margin-Rank Batch loss (WMRB), to extend the popular Weighted Approximate-Rank Pairwise loss (WARP). WMRB uses a new rank estimator and an efficient batch training algorithm. The approach allows more accurate item rank approximation and explicit utilization of parallel computation to accelerate training. In three item recommendation tasks, WMRB consistently outperforms WARP and other baselines. Moreover, WMRB shows clear time efficiency advantages as data scale increases.

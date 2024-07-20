@@ -1,0 +1,4 @@
+Computation of the Marcum Q-function
+
+Methods and an algorithm for computing the generalized Marcum $Q-$function ($Q_μ(x,y)$) and the complementary function ($P_μ(x,y)$) are described. These functions appear in problems of different technical and scientific areas such as, for example, radar detection and communications, statistics and probability theory, where they are called the non-central chi-square or the non central gamma cumulative distribution functions.
+  The algorithm for computing the Marcum functions combines different methods of evaluation in different regions: series expansions, integral representations, asymptotic expansions, and use of three-term homogeneous recurrence relations. A relative accuracy close to $10^{-12}$ can be obtained in the parameter region $(x,y,μ) \in [0,\,A]\times [0,\,A]\times [1,\,A]$, $A=200$, while for larger parameters the accuracy decreases (close to $10^{-11}$ for $A=1000$ and close to $5\times 10^{-11}$ for $A=10000$).

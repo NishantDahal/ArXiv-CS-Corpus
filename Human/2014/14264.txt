@@ -1,0 +1,3 @@
+Precision of Pulse-Coupled Oscillator Synchronization on FPGA-Based Radios
+
+The precision of synchronization algorithms based on the theory of pulse-coupled oscillators is evaluated on FPGA-based radios for the first time. Measurements show that such algorithms can reach precision in the low microsecond range when being implemented in the physical layer. Furthermore, we propose an algorithm extension accounting for phase rate deviations of the hardware and show that an improved precision below one microsecond is possible with this extension in the given setup. The resulting algorithm can thus be applied in ad hoc wireless systems for fully distributed synchronization of transmission slots or sleep cycles, in particular, if centralized synchronization is impossible.

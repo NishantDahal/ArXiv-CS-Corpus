@@ -1,0 +1,3 @@
+An Alternating Qubit Protocol and Its Correctness Checking
+
+In this paper, a quantum version of classical alternating bit protocol is proposed. This protocol provides a reliable method to transmit the secret quantum data via a noisy quantum channel while the entanglement between particles is not broken. Our protocol is based on quantum teleportation and superdense coding. By assuming that the participants can distinguish the alternating qubit from other messages and also the assumption that data can be resent unlimited times, an abstraction of this protocol can be derived. Using the quantum process algebra \textit{full} $qACP$, we show that the proposed protocol is correct, so the desired external behaviour of the protocol is guaranteed.

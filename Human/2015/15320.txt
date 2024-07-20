@@ -1,0 +1,3 @@
+On the Relation between two Rotation Metrics
+
+In their work "Global Optimization through Rotation Space Search", Richard Hartley and Fredrik Kahl introduce a global optimization strategy for problems in geometric computer vision, based on rotation space search using a branch-and-bound algorithm. In its core, Lemma 2 of their publication is the important foundation for a class of global optimization algorithms, which is adopted over a wide range of problems in subsequent publications. This lemma relates a metric on rotations represented by rotation matrices with a metric on rotations in axis-angle representation. This work focuses on a proof for this relationship, which is based on Rodrigues' Rotation Theorem for the composition of rotations in axis-angle representation.

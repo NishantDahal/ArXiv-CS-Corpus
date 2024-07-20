@@ -1,0 +1,3 @@
+Controling the number of focal elements
+
+A basic belief assignment can have up to 2^n focal elements, and combining them with a simple conjunctive operator will need O(2^2n) operations. This article proposes some techniques to limit the size of the focal sets of the bbas to be combined while preserving a large part of the information they carry. The first section revisits some well-known definitions with an algorithmic point of vue. The second section proposes a matrix way of building the least committed isopignistic, and extends it to some other bodies of evidence. The third section adapts the k-means algorithm for an unsupervized clustering of the focal elements of a given bba.

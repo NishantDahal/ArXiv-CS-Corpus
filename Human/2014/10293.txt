@@ -1,0 +1,3 @@
+Black-box Integration of Heterogeneous Modeling Languages for Cyber-Physical Systems
+
+Robots belong to a class of Cyber-Physical Systems where complex software as a mobile device has to full tasks in a complex environment. Modeling robotics applications for analysis and code generation requires modeling languages for the logical software architecture and the system behavior. The MontiArcAutomaton modeling framework integrates six independently developed modeling languages to model robotics applications: a component & connector architecture description language, automata, I/O tables, class diagrams, OCL, and a Java DSL. We describe how we integrated these languages into MontiArcAutomaton a-posteriori in a black-box integration fashion.

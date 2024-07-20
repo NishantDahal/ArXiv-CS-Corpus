@@ -1,0 +1,3 @@
+Faster-than-fast NMF using random projections and Nesterov iterations
+
+Random projections have been recently implemented in Nonnegative Matrix Factorization (NMF) to speed-up the NMF computations, with a negligible loss of performance. In this paper, we investigate the effects of such projections when the NMF technique uses the fast Nesterov gradient descent (NeNMF). We experimentally show the randomized subspace iteration to significantly speed-up NeNMF.

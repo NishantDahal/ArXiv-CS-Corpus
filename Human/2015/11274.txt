@@ -1,0 +1,3 @@
+Key Exchange Protocol in the Trusted Data Servers Context
+
+The aim of this technical report is to complement the work in [To et al. 2014] by proposing a Group Key Exchange protocol so that the Querier and TDSs (and TDSs themselves) can securely create and exchange the shared key. Then, the security of this protocol is formally proved using the game-based model. Finally, we perform the comparison between this protocol and other related works.

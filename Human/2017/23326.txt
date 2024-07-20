@@ -1,0 +1,3 @@
+Convolutional Neural Network Steganalysis's Application to Steganography
+
+This paper presents a novel approach to increase the performance bounds of image steganography under the criteria of minimizing distortion. The proposed approach utilizes a steganalysis convolutional neural network (CNN) framework to understand an image's model and embed in less detectable regions to preserve the model. In other word, the trained steganalysis CNN is used to calculate derivatives of the statistical model of an image with respect to embedding changes. The experimental results show that the proposed algorithm outperforms previous state-of-the-art methods in a wide range of low relative payloads when compared with HUGO, S-UNIWARD, and HILL by the state-of-the-art steganalysis.

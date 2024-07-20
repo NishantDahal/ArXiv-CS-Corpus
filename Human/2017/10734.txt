@@ -1,0 +1,3 @@
+Dynamic Load Balancing for PIC code using Eulerian/Lagrangian partitioning
+
+This document presents an analysis of different load balance strategies for a Plasma physics code that models high energy particle beams with PIC method. A comparison of different load balancing algorithms is given: static or dynamic ones. Lagrangian and Eulerian partitioning techniques have been investigated.

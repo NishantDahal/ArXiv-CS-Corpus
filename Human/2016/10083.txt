@@ -1,0 +1,3 @@
+Rumours spread slowly in a small world spatial network
+
+Rumour spreading is a protocol for modelling the spread of information through a network via user-to-user interaction. The Spatial Preferred Attachment (SPA) model is a random graph model for complex networks: vertices are placed in a metric space, and the link probability depends on the metric distance between vertices, and on their degree. We show that the SPA model typically produces graphs that have small effective diameter, i.e. $O(\log^2 n)$, while rumour spreading is relatively slow, namely polynomial in $n$.

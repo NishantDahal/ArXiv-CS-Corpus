@@ -1,0 +1,3 @@
+Flexible Length Polar Codes through Graph Based Augmentation
+
+The structure of polar codes inherently requires block lengths to be powers of two. In this paper, we investigate how different block lengths can be realized by coupling of several short-length polar codes. For this, we first analyze "code augmentation" to better protect the semipolarized channels, improving the BER performance under belief propagation decoding. Several serial and parallel augmentation schemes are discussed. A coding gain of $0.3$ dB at a BER of $10^{-5}$ can be observed for the same total rate and length. Further, we extend this approach towards coupling of several "sub-polar codes", leading to a reduced computational complexity and enabling the construction of flexible length polar codes.

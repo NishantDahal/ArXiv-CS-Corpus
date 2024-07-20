@@ -1,0 +1,3 @@
+Multi-Resolution Networks for Semantic Segmentation in Whole Slide Images
+
+Digital pathology provides an excellent opportunity for applying fully convolutional networks (FCNs) to tasks, such as semantic segmentation of whole slide images (WSIs). However, standard FCNs face challenges with respect to multi-resolution, inherited from the pyramid arrangement of WSIs. As a result, networks specifically designed to learn and aggregate information at different levels are desired. In this paper, we propose two novel multi-resolution networks based on the popular `U-Net' architecture, which are evaluated on a benchmark dataset for binary semantic segmentation in WSIs. The proposed methods outperform the U-Net, demonstrating superior learning and generalization capabilities.

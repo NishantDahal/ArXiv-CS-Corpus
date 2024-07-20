@@ -1,0 +1,3 @@
+Phaseless Rcovery using Gauss-Newton Method
+
+In this paper, we develop a concrete algorithm for phase retrieval, which we refer to as Gauss-Newton algorithm. In short, this algorithm starts with a good initial estimation, which is obtained by a modified spectral method, and then update the iteration point by a Gauss-Newton iteration step. We prove that a re-sampled version of this algorithm quadratically converges to the solution for the real case with the number of random measurements being nearly minimal. Numerical experiments also show that Gauss-Newton method has better performance over the other algorithms.

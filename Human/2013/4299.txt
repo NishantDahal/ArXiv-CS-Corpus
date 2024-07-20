@@ -1,0 +1,3 @@
+A notion of graph likelihood and an infinite monkey theorem
+
+We play with a graph-theoretic analogue of the folklore infinite monkey theorem. We define a notion of graph likelihood as the probability that a given graph is constructed by a monkey in a number of time steps equal to the number of vertices. We present an algorithm to compute this graph invariant and closed formulas for some infinite classes. We have to leave the computational complexity of the likelihood as an open problem.

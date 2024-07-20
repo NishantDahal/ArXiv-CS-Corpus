@@ -1,0 +1,3 @@
+Robust 3D Localization and Tracking of Sound Sources Using Beamforming and Particle Filtering
+
+In this paper we present a new robust sound source localization and tracking method using an array of eight microphones (US patent pending) . The method uses a steered beamformer based on the reliability-weighted phase transform (RWPHAT) along with a particle filter-based tracking algorithm. The proposed system is able to estimate both the direction and the distance of the sources. In a videoconferencing context, the direction was estimated with an accuracy better than one degree while the distance was accurate within 10% RMS. Tracking of up to three simultaneous moving speakers is demonstrated in a noisy environment.

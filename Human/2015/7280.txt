@@ -1,0 +1,3 @@
+Indefinite waitings in MIRELA systems
+
+MIRELA is a high-level language and a rapid prototyping framework dedicated to systems where virtual and digital objects coexist in the same environment and interact in real time. Its semantics is given in the form of networks of timed automata, which can be checked using symbolic methods.  This paper shows how to detect various kinds of indefinite waitings in the components of such systems. The method is experimented using the PRISM model checker.

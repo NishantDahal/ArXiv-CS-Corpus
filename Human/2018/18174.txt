@@ -1,0 +1,3 @@
+Variational Inference: A Unified Framework of Generative Models and Some Revelations
+
+We reinterpreting the variational inference in a new perspective. Via this way, we can easily prove that EM algorithm, VAE, GAN, AAE, ALI(BiGAN) are all special cases of variational inference. The proof also reveals the loss of standard GAN is incomplete and it explains why we need to train GAN cautiously. From that, we find out a regularization term to improve stability of GAN training.

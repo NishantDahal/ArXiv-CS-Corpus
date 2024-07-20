@@ -1,0 +1,3 @@
+Formal Safety and Security Assessment of an Avionic Architecture with Alloy
+
+We propose an approach based on Alloy to formally model and assess a  system architecture with respect to safety and security  requirements. We illustrate this approach by considering as a case  study an avionic system developed by Thales, which provides guidance  to aircraft. We show how to define in Alloy a metamodel of avionic  architectures with a focus on failure propagations. We then express the specific architecture of the case study in Alloy. Finally, we express and check properties that refer to the robustness of the architecture to failures and attacks.

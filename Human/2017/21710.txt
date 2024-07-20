@@ -1,0 +1,5 @@
+Crossing Number for Graphs With Bounded Pathwidth
+
+The crossing number is the smallest number of pairwise edge-crossings when drawing a graph into the plane. There are only very few graph classes for which the exact crossing number is known or for which there at least exist constant approximation ratios. Furthermore, up to now, general crossing number computations have never been successfully tackled using bounded width of graph decompositions, like treewidth or pathwidth.
+  In this paper, we for the first time show that crossing number is tractable (even in linear time) for maximal graphs of bounded pathwidth~3. The technique also shows that the crossing number and the rectilinear (a.k.a. straight-line) crossing number are identical for this graph class, and that we require only an $O(n)\times O(n)$-grid to achieve such a drawing.
+  Our techniques can further be extended to devise a 2-approximation for general graphs with pathwidth 3, and a $4w^3$-approximation for maximal graphs of pathwidth $w$. This is a constant approximation for bounded pathwidth graphs.

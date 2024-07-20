@@ -1,0 +1,3 @@
+Optimized projections for compressed sensing via rank-constrained nearest correlation matrix
+
+Optimizing the acquisition matrix is useful for compressed sensing of signals that are sparse in overcomplete dictionaries, because the acquisition matrix can be adapted to the particular correlations of the dictionary atoms. In this paper a novel formulation of the optimization problem is proposed, in the form of a rank-constrained nearest correlation matrix problem. Furthermore, improvements for three existing optimization algorithms are introduced, which are shown to be particular instances of the proposed formulation. Simulation results show notable improvements and superior robustness in sparse signal recovery.

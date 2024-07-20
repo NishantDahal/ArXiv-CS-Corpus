@@ -1,0 +1,3 @@
+Efficient method for estimating the number of communities in a network
+
+While there exist a wide range of effective methods for community detection in networks, most of them require one to know in advance how many communities one is looking for. Here we present a method for estimating the number of communities in a network using a combination of Bayesian inference with a novel prior and an efficient Monte Carlo sampling scheme. We test the method extensively on both real and computer-generated networks, showing that it performs accurately and consistently, even in cases where groups are widely varying in size or structure.

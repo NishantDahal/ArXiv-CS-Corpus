@@ -1,0 +1,3 @@
+Time complexity of concurrent programs
+
+We study the problem of automatically computing the time complexity of concurrent object-oriented programs. To determine this complexity we use intermediate abstract descriptions that record relevant information for the time analysis (cost of statements, creations of objects, and concurrent operations), called behavioural types. Then, we define a translation function that takes behavioural types and makes the parallelism explicit into so-called cost equations, which are fed to an automatic off-the-shelf solver for obtaining the time complexity.

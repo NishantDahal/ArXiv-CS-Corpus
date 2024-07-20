@@ -1,0 +1,3 @@
+Information Theoretic Limits for Linear Prediction with Graph-Structured Sparsity
+
+We analyze the necessary number of samples for sparse vector recovery in a noisy linear prediction setup. This model includes problems such as linear regression and classification. We focus on structured graph models. In particular, we prove that sufficient number of samples for the weighted graph model proposed by Hegde and others is also necessary. We use the Fano's inequality on well constructed ensembles as our main tool in establishing information theoretic lower bounds.

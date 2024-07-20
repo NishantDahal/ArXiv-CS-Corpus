@@ -1,0 +1,3 @@
+Nonlinear Metric Learning through Geodesic Interpolation within Lie Groups
+
+In this paper, we propose a nonlinear distance metric learning scheme based on the fusion of component linear metrics. Instead of merging displacements at each data point, our model calculates the velocities induced by the component transformations, via a geodesic interpolation on a Lie transfor- mation group. Such velocities are later summed up to produce a global transformation that is guaranteed to be diffeomorphic. Consequently, pair-wise distances computed this way conform to a smooth and spatially varying metric, which can greatly benefit k-NN classification. Experiments on synthetic and real datasets demonstrate the effectiveness of our model.

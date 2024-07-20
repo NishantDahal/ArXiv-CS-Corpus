@@ -1,0 +1,3 @@
+On a New Notion of Partial Refinement
+
+Formal specification techniques allow expressing idealized specifications, which abstract from restrictions that may arise in implementations. However, partial implementations are universal in software development due to practical limitations. Our goal is to contribute to a method of program refinement that allows for partial implementations. For programs with a normal and an exceptional exit, we propose a new notion of partial refinement which allows an implementation to terminate exceptionally if the desired results cannot be achieved, provided the initial state is maintained. Partial refinement leads to a systematic method of developing programs with exception handling.

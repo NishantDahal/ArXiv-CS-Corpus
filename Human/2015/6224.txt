@@ -1,0 +1,3 @@
+Denoise in the pseudopolar grid Fourier space using exact inverse pseudopolar Fourier transform
+
+In this paper I show a matrix method to calculate the exact inverse pseudopolar grid Fourier transform, and use this transform to do noise removals in the k space of pseudopolar grids. I apply the Gaussian filter to this pseudopolar grid and find the advantages of the noise removals are very excellent by using pseudopolar grid, and finally I show the Cartesian grid denoise for comparisons. The results present the signal to noise ratio and the variance are much better when doing noise removals in the pseudopolar grid than the Cartesian grid. The noise removals of pseudopolar grid or Cartesian grid are both in the k space, and all these noises are added in the real space.

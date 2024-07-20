@@ -1,0 +1,3 @@
+Extreme Scaling of Lattice Quantum Chromodynamics
+
+As the complexity and size of challenges in science and engineering are continually increasing, it is highly important that applications are able to scale strongly to very large numbers of cores (>100,000 cores) to enable HPC systems to be utilised efficiently. This paper presents results of strong scaling tests performed with an MPI only and a hybrid MPI + OpenMP version of the Lattice QCD application BQCD on the European Tier-0 system SuperMUC at LRZ.

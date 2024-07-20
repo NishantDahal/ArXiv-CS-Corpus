@@ -1,0 +1,3 @@
+Efficient First-Order Temporal Logic for Infinite-State Systems
+
+In this paper we consider the specification and verification of infinite-state systems using temporal logic. In particular, we describe parameterised systems using a new variety of first-order temporal logic that is both powerful enough for this form of specification and tractable enough for practical deductive verification. Importantly, the power of the temporal language allows us to describe (and verify) asynchronous systems, communication delays and more complex properties such as liveness and fairness properties. These aspects appear difficult for many other approaches to infinite-state verification.

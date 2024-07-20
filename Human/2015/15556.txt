@@ -1,0 +1,3 @@
+The Maximum Scatter TSP on a Regular Grid
+
+In the maximum scatter traveling salesman problem the objective is to find a tour that maximizes the shortest distance between any two consecutive nodes. This model can be applied to manufacturing processes, particularly laser melting processes. We extend an algorithm by Arkin et al. that yields optimal solutions for nodes on a line to a regular $m \times n$-grid. The new algorithm $\textsc{Weave}(m,n)$ takes linear time to compute an optimal tour in some cases. It is asymptotically optimal and a $\frac{\sqrt{10}}{5}$-approximation for the $3\times 4$-grid, which is the worst case.

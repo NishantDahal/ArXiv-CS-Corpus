@@ -1,0 +1,3 @@
+Moving-target Defense against Botnet Reconnaissance and an Adversarial Coupon-Collection Model
+
+We consider a cloud based multiserver system consisting of a set of replica application servers behind a set of proxy (indirection) servers which interact directly with clients over the Internet. We study a proactive moving-target defense to thwart a DDoS attacker's reconnaissance phase and consequently reduce the attack's impact. The defense is effectively a moving-target (motag) technique in which the proxies dynamically change. The system is evaluated using an AWS prototype of HTTP redirection and by numerical evaluations of an adversarial coupon-collector mathematical model, the latter allowing larger-scale extrapolations.

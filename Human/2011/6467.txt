@@ -1,0 +1,3 @@
+Falsification and future performance
+
+We information-theoretically reformulate two measures of capacity from statistical learning theory: empirical VC-entropy and empirical Rademacher complexity. We show these capacity measures count the number of hypotheses about a dataset that a learning algorithm falsifies when it finds the classifier in its repertoire minimizing empirical risk. It then follows from that the future performance of predictors on unseen data is controlled in part by how many hypotheses the learner falsifies. As a corollary we show that empirical VC-entropy quantifies the message length of the true hypothesis in the optimal code of a particular probability distribution, the so-called actual repertoire.

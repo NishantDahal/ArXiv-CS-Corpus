@@ -1,0 +1,3 @@
+Exploring epoch-dependent stochastic residual networks
+
+The recently proposed stochastic residual networks selectively activate or bypass the layers during training, based on independent stochastic choices, each of which following a probability distribution that is fixed in advance. In this paper we present a first exploration on the use of an epoch-dependent distribution, starting with a higher probability of bypassing deeper layers and then activating them more frequently as training progresses. Preliminary results are mixed, yet they show some potential of adding an epoch-dependent management of distributions, worth of further investigation.

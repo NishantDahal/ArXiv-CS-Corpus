@@ -1,0 +1,4 @@
+Multisets in Type Theory
+
+A multiset consists of elements, but the notion of a multiset is distinguished from that of a set by carrying information of how many times each element occurs in a given multiset. In this work we will investigate the notion of iterative multisets, where multisets are iteratively built up from other multisets, in the context Martin-Löf Type Theory, in the presence of Voevodsky's Univalence Axiom.
+  Aczel 1978 introduced a model of constructive set theory in type theory, using a W-type quantifying over a universe, and an inductively defined equivalence relation on it. Our investigation takes this W-type and instead considers the identity type on it, which can be computed from the Univalence Axiom. Our thesis is that this gives a model of multisets. In order to demonstrate this, we adapt axioms of constructive set theory to multisets, and show that they hold for our model.

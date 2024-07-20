@@ -1,0 +1,3 @@
+The Recursion Theorem from a Different Angle
+
+This paper is about computability. I claim the likely existence of a program DoesHalt(Program, Input) such that DoesHalt( HaltsOnItself, AntiSelf ) halts with resounding 'NO'. HaltsOnItself( Program ) is simply DoesHalt( Program, Program ). AntiSelf() is a self-referential self-contradictory program that loops when HaltsOnItself() returns 'YES' and halts when HaltsOnItself() returns 'NO'.

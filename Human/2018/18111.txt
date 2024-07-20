@@ -1,0 +1,3 @@
+Genetic algorithms in Forth
+
+A method for automatically finding a program (bytecode) realizing the given algorithm is developed. The algorithm is specified as a set of tests (input\_data) $ \rightarrow $ (output\_data). Genetic methods made it possible to find the implementation of relatively complex algorithms: sorting, decimal digits, GCD, LCM, factorial, prime divisors, binomial coefficients, and others. The algorithms are implemented on a highly simplified version of Forth language.

@@ -1,0 +1,3 @@
+Evaluating Cache Coherent Shared Virtual Memory for Heterogeneous Multicore Chips
+
+The trend in industry is towards heterogeneous multicore processors (HMCs), including chips with CPUs and massively-threaded throughput-oriented processors (MTTOPs) such as GPUs. Although current homogeneous chips tightly couple the cores with cache-coherent shared virtual memory (CCSVM), this is not the communication paradigm used by any current HMC. In this paper, we present a CCSVM design for a CPU/MTTOP chip, as well as an extension of the pthreads programming model, called xthreads, for programming this HMC. Our goal is to evaluate the potential performance benefits of tightly coupling heterogeneous cores with CCSVM.

@@ -1,0 +1,3 @@
+Stochastic Block Model for Hypergraphs: Statistical limits and a semidefinite programming approach
+
+We study the problem of community detection in a random hypergraph model which we call the stochastic block model for $k$-uniform hypergraphs ($k$-SBM). We investigate the exact recovery problem in $k$-SBM and show that a sharp phase transition occurs around a threshold: below the threshold it is impossible to recover the communities with non-vanishing probability, yet above the threshold there is an estimator which recovers the communities almost asymptotically surely. We also consider a simple, efficient algorithm for the exact recovery problem which is based on a semidefinite relaxation technique.

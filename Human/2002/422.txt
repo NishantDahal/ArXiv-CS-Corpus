@@ -1,0 +1,3 @@
+Implicit Simulations using Messaging Protocols
+
+A novel algorithm for performing parallel, distributed computer simulations on the Internet using IP control messages is introduced. The algorithm employs carefully constructed ICMP packets which enable the required computations to be completed as part of the standard IP communication protocol. After providing a detailed description of the algorithm, experimental applications in the areas of stochastic neural networks and deterministic cellular automata are discussed. As an example of the algorithms potential power, a simulation of a deterministic cellular automaton involving 10^5 Internet connected devices was performed.

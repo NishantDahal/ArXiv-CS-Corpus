@@ -1,0 +1,3 @@
+Artifact reduction in multichannel pervasive EEG using hybrid WPT-ICA and WPT-EMD signal decomposition techniques
+
+In order to reduce the muscle artifacts in multi-channel pervasive Electroencephalogram (EEG) signals, we here propose and compare two hybrid algorithms by combining the concept of wavelet packet transform (WPT), empirical mode decomposition (EMD) and Independent Component Analysis (ICA). The signal cleaning performances of WPT-EMD and WPT-ICA algorithms have been compared using a signal-to-noise ratio (SNR)-like criterion for artifacts. The algorithms have been tested on multiple trials of four different artifact cases viz. eye-blinking and muscle artifacts including left and right hand movement and head-shaking.

@@ -1,0 +1,3 @@
+Faster Quantum Number Factoring via Circuit Synthesis
+
+A major obstacle to implementing Shor's quantum number-factoring algorithm is the large size of modular-exponentiation circuits. We reduce this bottleneck by customizing reversible circuits for modular multiplication to individual runs of Shor's algorithm. Our circuit-synthesis procedure exploits spectral properties of multiplication operators and constructs optimized circuits from the traces of the execution of an appropriate GCD algorithm. Empirically, gate counts are reduced by 4-5 times, and circuit latency is reduced by larger factors.

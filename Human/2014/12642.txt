@@ -1,0 +1,3 @@
+Measuring the impact of input data on energy consumption of software
+
+The amount of energy consumed during the execution of software, and the ability to predict future consumption, is an important factor in the design of embedded electronic systems. In this technical report I examine factors in the execution of software that can affect energy consumption. Taking a simple embedded software benchmark I measure to what extent input data can affect energy consumption, and propose a method for reflecting this in software energy models.

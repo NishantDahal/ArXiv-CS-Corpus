@@ -1,0 +1,3 @@
+An Improved Combinatorial Polynomial Algorithm for the Linear Arrow-Debreu Market
+
+We present an improved combinatorial algorithm for the computation of equilibrium prices in the linear Arrow-Debreu model. For a market with $n$ agents and integral utilities bounded by $U$, the algorithm runs in $O(n^7 \log^3 (nU))$ time. This improves upon the previously best algorithm of Ye by a factor of $\tOmega(n)$. The algorithm refines the algorithm described by Duan and Mehlhorn and improves it by a factor of $\tOmega(n^3)$. The improvement comes from a better understanding of the iterative price adjustment process, the improved balanced flow computation for nondegenerate instances, and a novel perturbation technique for achieving nondegeneracy.

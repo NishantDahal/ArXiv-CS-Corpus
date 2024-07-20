@@ -1,0 +1,4 @@
+MIS in the Congested Clique Model in $O(\log \log Δ)$ Rounds
+
+We give a maximal independent set (MIS) algorithm that runs in $O(\log \log Δ)$ rounds in the congested clique model, where $Δ$ is the maximum degree of the input graph. This improves upon the $O(\frac{\log(Δ) \cdot \log \log Δ}{\sqrt{\log n}} + \log \log Δ)$ rounds algorithm of [Ghaffari, PODC '17], where $n$ is the number of vertices of the input graph.
+  In the first stage of our algorithm, we simulate the first $O(\frac{n}{\text{poly} \log n})$ iterations of the sequential random order Greedy algorithm for MIS in the congested clique model in $O(\log \log Δ)$ rounds. This thins out the input graph relatively quickly: After this stage, the maximum degree of the residual graph is poly-logarithmic. In the second stage, we run the MIS algorithm of [Ghaffari, PODC '17] on the residual graph, which completes in $O(\log \log Δ)$ rounds on graphs of poly-logarithmic degree.

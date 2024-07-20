@@ -1,0 +1,5 @@
+On the randomised query complexity of composition
+
+Let $f\subseteq\{0,1\}^n\timesΞ$ be a relation and $g:\{0,1\}^m\to\{0,1,*\}$ be a promise function. This work investigates the randomised query complexity of the relation $f\circ g^n\subseteq\{0,1\}^{m\cdot n}\timesΞ$, which can be viewed as one of the most general cases of composition in the query model (letting $g$ be a relation seems to result in a rather unnatural definition of $f\circ g^n$).
+  We show that for every such $f$ and $g$, $$\mathcal R(f\circ g^n) \in Ω(\mathcal R(f)\cdot\sqrt{\mathcal R(g)}),$$ where $\mathcal R$ denotes the randomised query complexity. On the other hand, we demonstrate a relation $f_0$ and a promise function $g_0$, such that $\mathcal R(f_0)\inΘ(\sqrt n)$, $\mathcal R(g_0)\inΘ(n)$ and $\mathcal R(f_0\circ g_0^n)\inΘ(n)$ $-$ that is, our composition statement is tight.
+  To the best of our knowledge, there was no known composition theorem for the randomised query complexity of relations or promise functions (and for the special case of total functions our lower bound gives multiplicative improvement of $\sqrt{\log n}$).

@@ -1,0 +1,3 @@
+SWIFT: Fast algorithms for multi-resolution SPH on multi-core architectures
+
+This paper describes a novel approach to neighbour-finding in Smoothed Particle Hydrodynamics (SPH) simulations with large dynamic range in smoothing length. This approach is based on hierarchical cell decompositions, sorted interactions, and a task-based formulation. It is shown to be faster than traditional tree-based codes, and to scale better than domain decomposition-based approaches on shared-memory parallel architectures such as multi-cores.

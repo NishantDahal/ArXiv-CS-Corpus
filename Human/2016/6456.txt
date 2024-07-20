@@ -1,0 +1,3 @@
+Induced Minor Free Graphs: Isomorphism and Clique-width
+
+Given two graphs $G$ and $H$, we say that $G$ contains $H$ as an induced minor if a graph isomorphic to $H$ can be obtained from $G$ by a sequence of vertex deletions and edge contractions. We study the complexity of Graph Isomorphism on graphs that exclude a fixed graph as an induced minor. More precisely, we determine for every graph $H$ that Graph Isomorphism is polynomial-time solvable on $H$-induced-minor-free graphs or that it is GI-complete. Additionally, we classify those graphs $H$ for which $H$-induced-minor-free graphs have bounded clique-width. These two results complement similar dichotomies for graphs that exclude a fixed graph as an induced subgraph, minor, or subgraph.

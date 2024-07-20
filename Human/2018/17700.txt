@@ -1,0 +1,6 @@
+Batch Sparse Recovery, or How to Leverage the Average Sparsity
+
+We introduce a \emph{batch} version of sparse recovery, where the goal is to report a sequence of vectors $A_1',\ldots,A_m' \in \mathbb{R}^n$ that estimate unknown signals $A_1,\ldots,A_m \in \mathbb{R}^n$ using a few linear measurements, each involving exactly one signal vector, under an assumption of \emph{average sparsity}. More precisely, we want to have \newline
+  $(1) \;\;\; \sum_{j \in [m]}{\|A_j- A_j'\|_p^p} \le C \cdot \min \Big\{ \sum_{j \in [m]}{\|A_j - A_j^*\|_p^p} \Big\}$
+  for predetermined constants $C \ge 1$ and $p$, where the minimum is over all $A_1^*,\ldots,A_m^*\in\mathbb{R}^n$ that are $k$-sparse on average. We assume $k$ is given as input, and ask for the minimal number of measurements required to satisfy $(1)$. The special case $m=1$ is known as stable sparse recovery and has been studied extensively.
+  We resolve the question for $p =1$ up to polylogarithmic factors, by presenting a randomized adaptive scheme that performs $\tilde{O}(km)$ measurements and with high probability has output satisfying $(1)$, for arbitrarily small $C > 1$. Finally, we show that adaptivity is necessary for every non-trivial scheme.

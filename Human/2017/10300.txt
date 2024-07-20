@@ -1,0 +1,3 @@
+A Quantum Approach to the Unique Sink Orientation Problem
+
+We consider quantum algorithms for the unique sink orientation problem on cubes. This problem is widely considered to be of intermediate computational complexity. This is because there no known polynomial algorithm (classical or quantum) from the problem and yet it arrises as part of a series of problems for which it being intractable would imply complexity theoretic collapses. We give a reduction which proves that if one can efficiently evaluate the kth power of the unique sink orientation outmap, then there exists a polynomial time quantum algorithm for the unique sink orientation problem on cubes.

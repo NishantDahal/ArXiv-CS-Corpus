@@ -1,0 +1,3 @@
+A Maximum Edge-Weight Clique Extraction Algorithm Based on Branch-and-Bound
+
+The maximum edge-weight clique problem is to find a clique whose sum of edge-weight is the maximum for a given edge-weighted undirected graph. The problem is NP-hard and some branch-and-bound algorithms have been proposed. In this paper, we propose a new exact algorithm based on branch-and-bound. It assigns edge-weights to vertices and calculates upper bounds using vertex coloring. By some computational experiments, we confirmed our algorithm is faster than previous algorithms.

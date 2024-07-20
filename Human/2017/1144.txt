@@ -1,0 +1,4 @@
+Proving Non-Deterministic Computations in Agda
+
+We investigate proving properties of Curry programs using Agda. First, we address the functional correctness of Curry functions that, apart from some syntactic and semantic differences, are in the intersection of the two languages.  Second, we use Agda to model non-deterministic functions with two distinct and competitive approaches incorporating the non-determinism.  The first approach eliminates non-determinism by considering the set of all non-deterministic values produced by an application.  The second approach encodes every non-deterministic choice that the application could perform.  We consider our initial experiment a success.  Although proving properties of programs is a notoriously difficult task, the functional logic paradigm does not seem to add any significant layer of difficulty or complexity to the task.
+

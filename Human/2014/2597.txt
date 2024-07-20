@@ -1,0 +1,3 @@
+A sparse Kaczmarz solver and a linearized Bregman method for online compressed sensing
+
+An algorithmic framework to compute sparse or minimal-TV solutions of linear systems is proposed. The framework includes both the Kaczmarz method and the linearized Bregman method as special cases and also several new methods such as a sparse Kaczmarz solver. The algorithmic framework has a variety of applications and is especially useful for problems in which the linear measurements are slow and expensive to obtain. We present examples for online compressed sensing, TV tomographic reconstruction and radio interferometry.

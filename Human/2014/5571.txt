@@ -1,0 +1,3 @@
+Keeping a Crowd Safe: On the Complexity of Parameterized Verification (Corrected version)
+
+We survey some results on the automatic verification of parameterized programs without identities. These are systems composed of arbitrarily many components, all of them running exactly the same finite-state program. We discuss the complexity of deciding that no component reaches an unsafe state. The note is addressed at theoretical computer scientists in general.

@@ -1,0 +1,3 @@
+Group Theoretical Formulation of Quantum Partial Search Algorithm
+
+Searching and sorting used as a subroutine in many important algorithms. Quantum algorithm can find a target item in a database faster than any classical algorithm. One can trade accuracy for speed and find a part of the database (a block) containing the target item even faster, this is partial search. An example is the following: exact address of the target item is given by a sequence of many bits, but we need to know only some of them. More generally partial search considers the following problem: a database is separated into several blocks. We want to find a block with the target item, not the target item itself. In this paper we reformulate quantum partial search algorithm in terms of group theory.

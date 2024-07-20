@@ -1,0 +1,4 @@
+Quick HyperVolume
+
+We present a new algorithm to calculate exact hypervolumes. Given a set of $d$-dimensional points, it computes the hypervolume of the dominated space. Determining this value is an important subroutine of Multiobjective Evolutionary Algorithms (MOEAs). We analyze the "Quick Hypervolume" (QHV) algorithm theoretically and experimentally. The theoretical results are a significant contribution to the current state of the art. Moreover the experimental performance is also very competitive, compared with existing exact hypervolume algorithms.
+  A full description of the algorithm is currently submitted to IEEE Transactions on Evolutionary Computation.

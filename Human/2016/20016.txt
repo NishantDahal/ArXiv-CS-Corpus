@@ -1,0 +1,3 @@
+Implicit Modeling -- A Generalization of Discriminative and Generative Approaches
+
+We propose a new modeling approach that is a generalization of generative and discriminative models. The core idea is to use an implicit parameterization of a joint probability distribution by specifying only the conditional distributions. The proposed scheme combines the advantages of both worlds -- it can use powerful complex discriminative models as its parts, having at the same time better generalization capabilities. We thoroughly evaluate the proposed method for a simple classification task with artificial data and illustrate its advantages for real-word scenarios on a semantic image segmentation problem.

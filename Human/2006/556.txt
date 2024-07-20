@@ -1,0 +1,3 @@
+A Scalable Algorithm for Minimal Unsatisfiable Core Extraction
+
+We propose a new algorithm for minimal unsatisfiable core extraction, based on a deeper exploration of resolution-refutation properties. We provide experimental results on formal verification benchmarks confirming that our algorithm finds smaller cores than suboptimal algorithms; and that it runs faster than those algorithms that guarantee minimality of the core.

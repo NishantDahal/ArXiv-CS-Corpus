@@ -1,0 +1,4 @@
+Tapping the sensorimotor trajectory
+
+In this paper, we propose the concept of sensorimotor tappings, a new graphical technique that explicitly represents relations between the time steps of an agent's sensorimotor loop and a single training step of an adaptive internal model. In the simplest case this is a relation linking two time steps. In realistic cases these relations can extend over several time steps and over different sensory channels. The aim is to capture the footprint of information intake relative to the agent's current time step. We argue that this view allows us to make prior considerations explicit and then use them in implementations without modification once they are established.
+  Here we explain the basic idea, provide example tappings for standard configurations used in developmental models, and show how tappings can be applied to problems in related fields.

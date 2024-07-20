@@ -1,0 +1,3 @@
+A Logic for Reasoning about Digital Rights
+
+We present a logic for reasoning about licenses, which are ``terms of use'' for digital resources. The logic provides a language for writing both properties of licenses and specifications that govern a client's actions. We discuss the complexity of checking properties and specifications written in our logic and propose a technique for verification. A key feature of our approach is that it is essentially parameterized by the language in which the licenses are written, provided that this language can be given a trace-based semantics. We consider two license languages to illustrate this flexibility.

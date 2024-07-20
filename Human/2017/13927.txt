@@ -1,0 +1,3 @@
+Variational Inference via Transformations on Distributions
+
+Variational inference methods often focus on the problem of efficient model optimization, with little emphasis on the choice of the approximating posterior. In this paper, we review and implement the various methods that enable us to develop a rich family of approximating posteriors. We show that one particular method employing transformations on distributions results in developing very rich and complex posterior approximation. We analyze its performance on the MNIST dataset by implementing with a Variational Autoencoder and demonstrate its effectiveness in learning better posterior distributions.

@@ -1,0 +1,3 @@
+Exact quantum algorithms have advantage for almost all Boolean functions
+
+It has been proved that almost all $n$-bit Boolean functions have exact classical query complexity $n$. However, the situation seemed to be very different when we deal with exact quantum query complexity. In this paper, we prove that almost all $n$-bit Boolean functions can be computed by an exact quantum algorithm with less than $n$ queries. More exactly, we prove that ${AND}_n$ is the only $n$-bit Boolean function, up to isomorphism, that requires $n$ queries.

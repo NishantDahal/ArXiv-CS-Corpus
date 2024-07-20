@@ -1,0 +1,3 @@
+A New Multifocus Image Fusion Method Using Contourlet Transform
+
+A new multifocus image fusion approach is presented in this paper. First the contourlet transform is used to decompose the source images into different components. Then, some salient features are extracted from components. In order to extract salient features, spatial frequency is used. Subsequently, the best coefficients from the components are selected by the maximum selection rule. Finally, the inverse contourlet transform is applied to the selected coefficients. Experiments show the superiority of the proposed method.

@@ -1,0 +1,3 @@
+On Discrete Conformal Seamless Similarity Maps
+
+An algorithm for the computation of global discrete conformal parametrizations with prescribed global holonomy signatures for triangle meshes was recently described in [Campen and Zorin 2017]. In this paper we provide a detailed analysis of convergence and correctness of this algorithm. We generalize and extend ideas of [Springborn et al. 2008] to show a connection of the algorithm to Newton's algorithm applied to solving the system of constraints on angles in the parametric domain, and demonstrate that this system can be obtained as a gradient of a convex energy.

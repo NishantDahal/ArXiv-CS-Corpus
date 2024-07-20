@@ -1,0 +1,3 @@
+Segmentation of Expository Texts by Hierarchical Agglomerative Clustering
+
+We propose a method for segmentation of expository texts based on hierarchical agglomerative clustering. The method uses paragraphs as the basic segments for identifying hierarchical discourse structure in the text, applying lexical similarity between them as the proximity test. Linear segmentation can be induced from the identified structure through application of two simple rules. However the hierarchy can be used also for intelligent exploration of the text. The proposed segmentation algorithm is evaluated against an accepted linear segmentation method and shows comparable results.

@@ -1,0 +1,4 @@
+On Leader Green Election
+
+We investigate the number of survivors in the Leader Green Election (LGE) algorithm introduced by P. Jacquet, D. Milioris and P. Muhlethaler in 2013. Our method is based on the Rice method and gives quite precise formulas. We derive upper bounds on the number of survivors in this algorithm and we propose a proper use of LGE.
+  Finally, we discuss one property of a general urns and balls problem and show a lower bound for a required number of rounds for a large class of distributed leader election protocols.

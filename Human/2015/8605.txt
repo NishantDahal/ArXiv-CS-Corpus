@@ -1,0 +1,4 @@
+Complexity and Compilation of GZ-Aggregates in Answer Set Programming
+
+Gelfond and Zhang recently proposed a new stable model semantics based on Vicious Circle Principle in order to improve the interpretation of logic programs with aggregates. The paper focuses on this proposal, and analyzes the complexity of both coherence testing and cautious reasoning under the new semantics. Some surprising results highlight similarities and differences versus mainstream stable model semantics for aggregates. Moreover, the paper reports on the design of compilation techniques for implementing the new semantics on top of existing ASP solvers, which eventually lead to realize a prototype system that allows for experimenting with Gelfond-Zhang's aggregates.
+  To appear in Theory and Practice of Logic Programming (TPLP), Proceedings of ICLP 2015.

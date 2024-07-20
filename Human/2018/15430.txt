@@ -1,0 +1,3 @@
+Algorithms and Training for Weighted Multiset Automata and Regular Expressions
+
+Multiset automata are a class of automata for which the symbols can be read in any order and obtain the same result. We investigate weighted multiset automata and show how to construct them from weighted regular expressions. We present training methods to learn the weights for weighted regular expressions and for general multiset automata from data. Finally, we examine situations in which inside weights can be computed more efficiently.

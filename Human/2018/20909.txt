@@ -1,0 +1,3 @@
+On Reachability Mixed Arborescence Packing
+
+As a generalization of the Edmonds arborescence packing theorem, Kamiyama--Katoh--Takizawa (2009) gave a good characterization of directed graphs that contain arc-disjoint arborescences spanning the set of vertices reachable from each root. Fortier--Király--Léonard--Szigeti--Talon (2018) asked whether the result can be extended to mixed graphs by allowing both directed arcs and undirected edges. In this paper, we solve this question by developing a polynomial-time algorithm for finding a collection of edge and arc-disjoint arborescences spanning the set of vertices reachable from each root in a given mixed graph.

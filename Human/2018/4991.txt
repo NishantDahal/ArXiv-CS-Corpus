@@ -1,0 +1,5 @@
+Are There Functionally Similar Code Clones in Practice?
+
+Having similar code fragments, also called clones, in software systems can lead to unnecessary comprehension, review and change efforts. Syntactically similar clones can often be encountered in practice. The same is not clear for only functionally similar clones (FSC).
+  We conducted an exploratory survey among developers to investigate whether they encounter functionally similar clones in practice and whether there is a difference in their inclination to remove them to syntactically similar clones.
+  Of the 34 developers answering the survey, 31 have experienced FSC in their professional work, and 24 have experienced problems caused by FSCs. We found no difference in the inclination and reasoning for removing FSCs and syntactically similar clones. FSCs exist in practice and should be investigated to bring clone detectors to the same quality as for syntactically similar clones, because being able to detect them allows developers to manage and potentially remove them.

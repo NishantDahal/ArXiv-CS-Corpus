@@ -1,0 +1,3 @@
+Limitations of PLL simulation: hidden oscillations in MatLab and SPICE
+
+Nonlinear analysis of the phase-locked loop (PLL) based circuits is a challenging task, thus in modern engineering literature simplified mathematical models and simulation are widely used for their study. In this work the limitations of numerical approach is discussed and it is shown that, e.g. hidden oscillations may not be found by simulation. Corresponding examples in SPICE and MatLab, which may lead to wrong conclusions concerning the operability of PLL-based circuits, are presented.

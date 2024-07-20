@@ -1,0 +1,3 @@
+A Deterministic Distributed $2$-Approximation for Weighted Vertex Cover in $O(\log n\logΔ/ \log^2\logΔ)$ Rounds
+
+We present a deterministic distributed $2$-approximation algorithm for the Minimum Weight Vertex Cover problem in the CONGEST model whose round complexity is $O(\log n \log Δ/ \log^2 \log Δ)$. This improves over the currently best known deterministic 2-approximation implied by [KVY94]. Our solution generalizes the $(2+ε)$-approximation algorithm of [BCS17], improving the dependency on $ε^{-1}$ from linear to logarithmic. In addition, for every $ε=(\log Δ)^{-c}$, where $c\geq 1$ is a constant, our algorithm computes a $(2+ε)$-approximation in $O(\log Δ/ \log \log Δ)$~rounds (which is asymptotically optimal).

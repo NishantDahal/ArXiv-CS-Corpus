@@ -1,0 +1,3 @@
+Robust Binary Fused Compressive Sensing using Adaptive Outlier Pursuit
+
+We propose a new method, {\it robust binary fused compressive sensing} (RoBFCS), to recover sparse piece-wise smooth signals from 1-bit compressive measurements. The proposed method is a modification of our previous {\it binary fused compressive sensing} (BFCS) algorithm, which is based on the {\it binary iterative hard thresholding} (BIHT) algorithm. As in BIHT, the data term of the objective function is a one-sided $\ell_1$ (or $\ell_2$) norm. Experiments show that the proposed algorithm is able to take advantage of the piece-wise smoothness of the original signal and detect sign flips and correct them, achieving more accurate recovery than BFCS and BIHT.

@@ -1,0 +1,3 @@
+Soft lambda-calculus: a language for polynomial time computation
+
+Soft linear logic ([Lafont02]) is a subsystem of linear logic characterizing the class PTIME. We introduce Soft lambda-calculus as a calculus typable in the intuitionistic and affine variant of this logic. We prove that the (untyped) terms of this calculus are reducible in polynomial time. We then extend the type system of Soft logic with recursive types. This allows us to consider non-standard types for representing lists. Using these datatypes we examine the concrete expressivity of Soft lambda-calculus with the example of the insertion sort algorithm.

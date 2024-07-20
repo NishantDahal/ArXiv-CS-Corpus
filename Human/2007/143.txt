@@ -1,0 +1,3 @@
+The Dichotomy of Conjunctive Queries on Probabilistic Structures
+
+We show that for every conjunctive query, the complexity of evaluating it on a probabilistic database is either \PTIME or #¶-complete, and we give an algorithm for deciding whether a given conjunctive query is \PTIME or #¶-complete. The dichotomy property is a fundamental result on query evaluation on probabilistic databases and it gives a complete classification of the complexity of conjunctive queries.

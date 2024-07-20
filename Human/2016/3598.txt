@@ -1,0 +1,3 @@
+Subsampling for Graph Power Spectrum Estimation
+
+In this paper we focus on subsampling stationary random processes that reside on the vertices of undirected graphs. Second-order stationary graph signals are obtained by filtering white noise and they admit a well-defined power spectrum. Estimating the graph power spectrum forms a central component of stationary graph signal processing and related inference tasks. We show that by sampling a significantly smaller subset of vertices and using simple least squares, we can reconstruct the power spectrum of the graph signal from the subsampled observations, without any spectral priors. In addition, a near-optimal greedy algorithm is developed to design the subsampling scheme.

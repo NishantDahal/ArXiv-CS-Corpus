@@ -1,0 +1,3 @@
+The Outer Product Structure of Neural Network Derivatives
+
+In this paper, we show that feedforward and recurrent neural networks exhibit an outer product derivative structure but that convolutional neural networks do not. This structure makes it possible to use higher-order information without needing approximations or infeasibly large amounts of memory, and it may also provide insights into the geometry of neural network optima. The ability to easily access these derivatives also suggests a new, geometric approach to regularization. We then discuss how this structure could be used to improve training methods, increase network robustness and generalizability, and inform network compression methods.

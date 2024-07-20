@@ -1,0 +1,4 @@
+LWB and FS-LWB implementation for Sky platform using Contiki
+
+The low-power wireless bus (LWB) is a highly efficient communication protocol for wireless sensor networks (WSN). However, a lack of open implementation for this protocol prompted the implementation of the protocol for the most common platform of WSN related research, the sky nodes using the Contiki operating system. This document provides the detailed description of the implementation.
+  A forwarder-selection mechanism is developed to improve energy-efficiency of LWB in data collection scenario. The implementation also consists the forwarder selection mechanism. One can either use the original features of LWB or enforce the forwarder selection mechanism.

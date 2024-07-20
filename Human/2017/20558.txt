@@ -1,0 +1,3 @@
+Game-Theoretic Pricing and Selection with Fading Channels
+
+We consider pricing and selection with fading channels in a Stackelberg game framework. A channel server decides the channel prices and a client chooses which channel to use based on the remote estimation quality. We prove the existence of an optimal deterministic and Markovian policy for the client, and show that the optimal policies of both the server and the client have threshold structures when the time horizon is finite. Value iteration algorithm is applied to obtain the optimal solutions for both the server and client, and numerical simulations and examples are given to demonstrate the developed result.

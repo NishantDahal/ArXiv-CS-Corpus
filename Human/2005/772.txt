@@ -1,0 +1,6 @@
+A Note on Shared Randomness and Shared Entanglement in Communication
+
+We consider several models of 1-round classical and quantum communication, some of these models have not been defined before. We "almost separate" the models of simultaneous quantum message passing with shared entanglement and the model of simultaneous quantum message passing with shared randomness. We define a relation which can be efficiently exactly solved in the first model but cannot be solved efficiently, either exactly or in 0-error setup in the second model. In fact, our relation is exactly solvable even in a more restricted model of simultaneous classical message passing with shared entanglement.
+  As our second contribution we strengthen a result by Yao that a "very short" protocol from the model of simultaneous classical message passing with shared randomness can be simulated in the model of simultaneous quantum message passing: for a boolean function f, QII(f) \in exp(O(RIIp(f))) log n.
+  We show a similar result for protocols from a (stronger) model of 1-way classical message passing with shared randomness: QII(f) \in exp(O(RIp(f))) log n.
+  We demonstrate a problem whose efficient solution in the model of simultaneous quantum message passing follows from our result but not from Yao's.

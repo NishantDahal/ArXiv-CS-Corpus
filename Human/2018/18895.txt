@@ -1,0 +1,4 @@
+Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products
+
+Grocery stores have thousands of products that are usually identified using barcodes with a human in the loop. For automated checkout systems, it is necessary to count and classify the groceries efficiently and robustly. One possibility is to use a deep learning algorithm for instance-aware semantic segmentation. Such methods achieve high accuracies but require a large amount of annotated training data.
+  We propose a system to generate the training annotations in a weakly supervised manner, drastically reducing the labeling effort. We assume that for each training image, only the object class is known. The system automatically segments the corresponding object from the background. The obtained training data is augmented to simulate variations similar to those seen in real-world setups.

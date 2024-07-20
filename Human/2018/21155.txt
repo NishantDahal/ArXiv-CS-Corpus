@@ -1,0 +1,3 @@
+Impact of Link Failures on the Performance of MapReduce in Data Center Networks
+
+In this paper, we utilize Mixed Integer Linear Programming (MILP) models to determine the impact of link failures on the performance of shuffling operations in MapReduce when different data center network (DCN) topologies are used. For a set of non-fatal single and multi-links failures, the results indicate that different DCNs experience different completion time degradations ranging between 5% and 40%. The best performance under links failures is achieved by a server-centric PON-based DCN.

@@ -1,0 +1,3 @@
+Quantitative Evaluation of Chaotic CBC Mode of Operation
+
+The cipher block chaining (CBC) block cipher mode of operation presents a very popular way of encrypting which is used in various applications. In previous research work, we have mathematically proven that, under some conditions, this mode of operation can admit a chaotic behavior according to Devaney. Proving that CBC mode is chaotic is only the beginning of the study of its security. The next step, which is the purpose of this paper, is to develop the quantitative study of the chaotic CBC mode of operation by evaluating the level of sensibility and expansivity for this mode.

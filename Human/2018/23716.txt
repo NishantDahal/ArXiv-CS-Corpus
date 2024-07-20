@@ -1,0 +1,3 @@
+Optimizing a Generalized Gini Index in Stable Marriage Problems: NP-Hardness, Approximation and a Polynomial Time Special Case
+
+This paper deals with fairness in stable marriage problems. The idea studied here is to achieve fairness thanks to a Generalized Gini Index (GGI), a well-known criterion in inequality measurement, that includes both the egalitarian and utilitarian criteria as special cases. We show that determining a stable marriage optimizing a GGI criterion of agents' disutilities is an NP-hard problem. We then provide a polynomial time 2-approximation algorithm in the general case, as well as an exact algorithm which is polynomial time in the case of a constant number of non-zero weights parametrizing the GGI criterion.

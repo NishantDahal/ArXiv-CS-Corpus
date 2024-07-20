@@ -1,0 +1,7 @@
+Functional lower bounds for arithmetic circuits and connections to boolean circuit complexity
+
+We say that a circuit $C$ over a field $F$ functionally computes an $n$-variate polynomial $P$ if for every $x \in \{0,1\}^n$ we have that $C(x) = P(x)$. This is in contrast to syntactically computing $P$, when $C \equiv P$ as formal polynomials. In this paper, we study the question of proving lower bounds for homogeneous depth-$3$ and depth-$4$ arithmetic circuits for functional computation. We prove the following results :
+  1. Exponential lower bounds homogeneous depth-$3$ arithmetic circuits for a polynomial in $VNP$.
+  2. Exponential lower bounds for homogeneous depth-$4$ arithmetic circuits with bounded individual degree for a polynomial in $VNP$.
+  Our main motivation for this line of research comes from our observation that strong enough functional lower bounds for even very special depth-$4$ arithmetic circuits for the Permanent imply a separation between ${\#}P$ and $ACC$. Thus, improving the second result to get rid of the bounded individual degree condition could lead to substantial progress in boolean circuit complexity. Besides, it is known from a recent result of Kumar and Saptharishi [KS15] that over constant sized finite fields, strong enough average case functional lower bounds for homogeneous depth-$4$ circuits imply superpolynomial lower bounds for homogeneous depth-$5$ circuits.
+  Our proofs are based on a family of new complexity measures called shifted evaluation dimension, and might be of independent interest.

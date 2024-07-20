@@ -1,0 +1,3 @@
+Role of Matrix Factorization Model in Collaborative Filtering Algorithm: A Survey
+
+Recommendation Systems apply Information Retrieval techniques to select the online information relevant to a given user. Collaborative Filtering is currently most widely used approach to build Recommendation System. CF techniques uses the user behavior in form of user item ratings as their information source for prediction. There are major challenges like sparsity of rating matrix and growing nature of data which is faced by CF algorithms. These challenges are been well taken care by Matrix Factorization. In this paper we attempt to present an overview on the role of different MF model to address the challenges of CF algorithms, which can be served as a roadmap for research in this area.

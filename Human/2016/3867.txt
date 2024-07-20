@@ -1,0 +1,3 @@
+Finding best possible constant for a polynomial inequality
+
+Given a multi-variant polynomial inequality with a parameter, how to find the best possible value of this parameter that satisfies the inequality? For instance, find the greatest number $k$ that satisfies $ a^3+b^3+c^3+ k(a^2b+b^2c+c^2a)-(k+1)(ab^2+bc^2+ca^2)\geq 0 $ for all nonnegative real numbers $ a,b,c $. Analogues problems often appeared in studies of inequalities and were dealt with by various methods. In this paper, a general algorithm is proposed for finding the required best possible constant. The algorithm can be easily implemented by computer algebra tools such as Maple.

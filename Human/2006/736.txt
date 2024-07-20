@@ -1,0 +1,3 @@
+A Chaotic Cipher Mmohocc and Its Security Analysis
+
+In this paper we introduce a new chaotic stream cipher Mmohocc which utilizes the fundamental chaos characteristics. The designs of the major components of the cipher are given. Its cryptographic properties of period, auto- and cross-correlations, and the mixture of Markov processes and spatiotemporal effects are investigated. The cipher is resistant to the related-key-IV attacks, Time/Memory/Data tradeoff attacks, algebraic attacks, and chosen-text attacks. The keystreams successfully passed two batteries of statistical tests and the encryption speed is comparable with RC4.

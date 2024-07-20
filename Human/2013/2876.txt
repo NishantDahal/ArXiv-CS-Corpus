@@ -1,0 +1,3 @@
+Guess-And-Verify Heuristics for Reducing Uncertainties in Expert Classification Systems
+
+An expert classification system having statistical information about the prior probabilities of the different classes should be able to use this knowledge to reduce the amount of additional information that it must collect, e.g., through questions, in order to make a correct classification.  This paper examines how best to use such prior information and additional information-collection opportunities to reduce uncertainty about the class to which a case belongs, thus minimizing the average cost or effort required to correctly classify new cases.

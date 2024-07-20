@@ -1,0 +1,3 @@
+It was the training data pruning too!
+
+We study the current best model (KDG) for question answering on tabular data evaluated over the WikiTableQuestions dataset. Previous ablation studies performed against this model attributed the model's performance to certain aspects of its architecture. In this paper, we find that the model's performance also crucially depends on a certain pruning of the data used to train the model. Disabling the pruning step drops the accuracy of the model from 43.3% to 36.3%. The large impact on the performance of the KDG model suggests that the pruning may be a useful pre-processing step in training other semantic parsers as well.

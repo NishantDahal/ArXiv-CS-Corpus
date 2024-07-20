@@ -1,0 +1,3 @@
+A note on Beckett-Gray codes and the relationship of Gray codes to data structures
+
+In this paper we introduce a natural mathematical structure derived from Samuel Beckett's play "Quad". We call this structure a binary Beckett-Gray code. We enumerate all codes for $n \leq 6$ and give examples for $n=7,8$. Beckett-Gray codes can be realized as successive states of a queue data structure. We show that the binary reflected Gray code can be realized as successive states of two stack data structures.

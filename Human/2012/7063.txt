@@ -1,0 +1,3 @@
+Access Graphs Results for LRU versus FIFO under Relative Worst Order Analysis
+
+Access graphs, which have been used previously in connection with competitive analysis to model locality of reference in paging, are considered in connection with relative worst order analysis. In this model, FWF is shown to be strictly worse than both LRU and FIFO on any access graph. LRU is shown to be strictly better than FIFO on paths and cycles, but they are incomparable on some families of graphs which grow with the length of the sequences.

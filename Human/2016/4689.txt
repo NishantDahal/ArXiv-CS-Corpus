@@ -1,0 +1,3 @@
+Feedback-based Approach to Introduce Freshness in Recommendations
+
+Recommender systems usually face the problem of serving the same recommendations across multiple sessions regardless of whether the user is interested in them or not, thereby reducing their effectiveness. To add freshness to the recommended products, we introduce a feedback loop where the set of recommended products in the current session depend on the user's interaction with the previously recommended sets. We also describe ways of addressing freshness when there is little or even no direct user interaction. We define a metric to quantify freshness by reducing the problem to measuring temporal diversity.

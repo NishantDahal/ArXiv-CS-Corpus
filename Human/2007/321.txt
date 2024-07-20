@@ -1,0 +1,3 @@
+A Fixed-Parameter Algorithm for #SAT with Parameter Incidence Treewidth
+
+We present an efficient fixed-parameter algorithm for #SAT parameterized by the incidence treewidth, i.e., the treewidth of the bipartite graph whose vertices are the variables and clauses of the given CNF formula; a variable and a clause are joined by an edge if and only if the variable occurs in the clause. Our algorithm runs in time O(4^k k l N), where k denotes the incidence treewidth, l denotes the size of a largest clause, and N denotes the number of nodes of the tree-decomposition.

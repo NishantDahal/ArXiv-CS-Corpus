@@ -1,0 +1,3 @@
+A note on Probably Certifiably Correct algorithms
+
+Many optimization problems of interest are known to be intractable, and while there are often heuristics that are known to work on typical instances, it is usually not easy to determine a posteriori whether the optimal solution was found. In this short note, we discuss algorithms that not only solve the problem on typical instances, but also provide a posteriori certificates of optimality, probably certifiably correct (PCC) algorithms. As an illustrative example, we present a fast PCC algorithm for minimum bisection under the stochastic block model and briefly discuss other examples.

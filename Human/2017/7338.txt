@@ -1,0 +1,3 @@
+A Message-Passing Algorithm for Graph Isomorphism
+
+A message-passing procedure for solving the graph isomorphism problem is proposed. The procedure resembles the belief-propagation algorithm in the context of graphical models inference and LDPC decoding. To enable the algorithm, the input graphs are transformed into intermediate canonical representations of bipartite graphs. The matching procedure injects specially designed input patterns to the canonical graphs and runs a message-passing algorithm to generate two output fingerprints that are matched if and only if the input graphs are isomorphic.

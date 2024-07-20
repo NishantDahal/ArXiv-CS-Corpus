@@ -1,0 +1,3 @@
+Weakening the Detecting Capability of CNN-based Steganalysis
+
+Recently, the application of deep learning in steganalysis has drawn many researchers' attention. Most of the proposed steganalytic deep learning models are derived from neural networks applied in computer vision. These kinds of neural networks have distinguished performance. However, all these kinds of back-propagation based neural networks may be cheated by forging input named the adversarial example. In this paper we propose a method to generate steganographic adversarial example in order to enhance the steganographic security of existing algorithms. These adversarial examples can increase the detection error of steganalytic CNN. The experiments prove the effectiveness of the proposed method.

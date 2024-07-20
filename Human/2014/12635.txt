@@ -1,0 +1,3 @@
+Statistical distributions of pyrosequencing
+
+Pyrosequencing is emerging as one of the important next-generation sequencing technologies. We derive the statistical distributions of this technique in terms of nucleotide probabilities of the target sequences. We give exact distributions both for fixed number of flow cycles and for fixed sequence length. Explicit formulas are derived for the mean and variance of these distributions. In both cases, the distributions can be approximated accurately by normal distributions with the same mean and variance. The statistical distributions will be useful for instrument and software development for pyrosequencing platforms.

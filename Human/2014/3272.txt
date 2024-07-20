@@ -1,0 +1,3 @@
+Some mathematical remarks on the polynomial selection in NFS
+
+In this work, we consider the proportion of smooth (free of large prime factors) values of a binary form $F(X_1,X_2)\in\Z[X_1,X_2]$. In a particular case, we give an asymptotic equivalent for this proportion which depends on $F$. This is related to Murphy's $α$ function, which is known in the cryptographic community, but which has not been studied before from a mathematical point of view. Our result proves that, when $α(F)$ is small, $F$ has a high proportion of smooth values. This has consequences on the first step, called polynomial selection, of the Number Field Sieve, the fastest algorithm of integer factorization.

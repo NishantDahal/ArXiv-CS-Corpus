@@ -1,0 +1,3 @@
+Iterative evaluation of LSTM cells
+
+In this work we present a modification in the conventional flow of information through a LSTM network, which we consider well suited for RNNs in general. The modification leads to a iterative scheme where the computations performed by the LSTM cell are repeated over a constant input and cell state values, while updating the hidden state a finite number of times. We provide theoretical and empirical evidence to support the augmented capabilities of the iterative scheme and show examples related to language modeling. The modification yields an enhancement in the model performance comparable with the original model augmented more than 3 times in terms of the total amount of parameters.

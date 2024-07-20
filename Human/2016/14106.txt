@@ -1,0 +1,3 @@
+Enabling Soft Vertical Handover for MIPv6 in OMNeT++
+
+Switching connectivity over multiple wireless interfaces of a mobile node is essential when performing handover between heterogeneous networks. In such a communication scenario, session continuity as experienced by the user can be enhanced if soft handover is enabled through the concept of make-before-break. However, some of the available networking protocols need to be modified to support this feature. This work gives an insight into the supplementary modules we implemented and the modification conducted in MIPv6 model of OMNeT++ to facilitate soft handover and data offloading for mobile nodes.

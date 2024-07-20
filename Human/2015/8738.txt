@@ -1,0 +1,3 @@
+Lazy Explanation-Based Approximation for Probabilistic Logic Programming
+
+We introduce a lazy approach to the explanation-based approximation of probabilistic logic programs. It uses only the most significant part of the program when searching for explanations. The result is a fast and anytime approximate inference algorithm which returns hard lower and upper bounds on the exact probability. We experimentally show that this method outperforms state-of-the-art approximate inference.

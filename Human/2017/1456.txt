@@ -1,0 +1,4 @@
+Proof Diagrams for Multiplicative Linear Logic
+
+The original idea of proof nets can be formulated by means of interaction nets syntax. Additional machinery as switching, jumps and graph connectivity is needed in order to ensure correspondence between a proof structure and a correct proof in sequent calculus.
+  In this paper we give an interpretation of proof nets in the syntax of string diagrams. Even though we lose standard proof equivalence, our construction allows to define a framework where soundness and well-typeness of a diagram can be verified in linear time.

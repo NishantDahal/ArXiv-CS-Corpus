@@ -1,0 +1,6 @@
+Chip-firing may be much faster than you think
+
+A new bound (Theorem \ref{thm:main}) for the duration of the chip-firing game with $N$ chips on a $n$-vertex graph is obtained, by a careful analysis of the pseudo-inverse of the discrete Laplacian matrix of the graph. This new bound is expressed in terms of the entries of the pseudo-inverse.
+  It is shown (Section 5) to be always better than the classic bound due to Bj{ö}rner, Lovász and Shor. In some cases the improvement is dramatic.
+  For instance: for strongly regular graphs the classic and the new bounds reduce to $O(nN)$ and $O(n+N)$, respectively. For dense regular graphs - $d=(\frac{1}{2}+ε)n$ - the classic and the new bounds reduce to $O(N)$ and $O(n)$, respectively.
+  This is a snapshot of a work in progress, so further results in this vein are in the works.

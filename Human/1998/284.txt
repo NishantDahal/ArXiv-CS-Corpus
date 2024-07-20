@@ -1,0 +1,3 @@
+Quantum simulations of classical random walks and undirected graph connectivity
+
+It is not currently known if quantum Turing machines can efficiently simulate probabilistic computations in the space-bounded case. In this paper we show that space-bounded quantum Turing machines can efficiently simulate a limited class of random processes: random walks on undirected graphs. By means of such simulations, it is demonstrated that the undirected graph connectivity problem for regular graphs can be solved by one-sided error quantum Turing machines that run in logspace and halt absolutely. It follows that symmetric logspace is contained in the quantum analogue of randomized logspace.

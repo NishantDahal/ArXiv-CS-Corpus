@@ -1,0 +1,3 @@
+Training Generative Adversarial Networks Via Turing Test
+
+In this article, we introduce a new mode for training Generative Adversarial Networks (GANs). Rather than minimizing the distance of evidence distribution $\tilde{p}(x)$ and the generative distribution $q(x)$, we minimize the distance of $\tilde{p}(x_r)q(x_f)$ and $\tilde{p}(x_f)q(x_r)$. This adversarial pattern can be interpreted as a Turing test in GANs. It allows us to use information of real samples during training generator and accelerates the whole training procedure. We even find that just proportionally increasing the size of discriminator and generator, it succeeds on 256x256 resolution without adjusting hyperparameters carefully.

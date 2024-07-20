@@ -1,0 +1,4 @@
+Towards Algorithmic Synthesis of Synchronization for Shared-Memory Concurrent Programs
+
+We present a framework that takes a concurrent program composed of unsynchronized processes, along with a temporal specification of their global concurrent behaviour, and automatically generates a concurrent program with synchronization ensuring correct global behaviour. Our methodology supports finite-state concurrent programs composed of processes that may have local and shared variables, may be straight-line or branching programs, may be ongoing or terminating, and may have program-initialized or user-initialized variables. The specification language is an extension of propositional Computation Tree Logic (CTL) that enables easy specification of safety and liveness properties over control and data variables. The framework also supports synthesis of synchronization at different levels of abstraction and granularity.
+

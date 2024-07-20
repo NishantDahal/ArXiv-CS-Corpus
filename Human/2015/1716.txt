@@ -1,0 +1,3 @@
+On Synchronous and Asynchronous Monitor Instrumentation for Actor-based systems
+
+We study the impact of synchronous and asynchronous monitoring instrumentation on runtime overheads in the context of a runtime verification framework for actor-based systems. We show that, in such a context, asynchronous monitoring incurs substantially lower overhead costs. We also show how, for certain properties that require synchronous monitoring, a hybrid approach can be used that ensures timely violation detections for the important events while, at the same time, incurring lower overhead costs that are closer to those of an asynchronous instrumentation.

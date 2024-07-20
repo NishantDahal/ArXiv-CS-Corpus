@@ -1,0 +1,4 @@
+An Oblivious Password Cracking Server
+
+Building a password cracking server that preserves the privacy of the queries made to the server is a problem that has not yet been solved. Such a server could acquire practical relevance in the future: for instance, the tables used to crack the passwords could be calculated, stored and hosted in cloud-computing services, and could be queried from devices with limited computing power.
+  In this paper we present a method to preserve the confidentiality of a password cracker---wherein the tables used to crack the passwords are stored by a third party---by combining Hellman tables and Private Information Retrieval (PIR) protocols. We provide the technical details of this method, analyze its complexity, and show the experimental results obtained with our implementation.

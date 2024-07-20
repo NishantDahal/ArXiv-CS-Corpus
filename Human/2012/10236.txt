@@ -1,0 +1,3 @@
+Secure CDMA Sequences
+
+Single sequences like Legendre have high linear complexity. Known CDMA families of sequences all have low complexities. We present a new method of constructing CDMA sequence sets with the complexity of the Legendre from new frequency hop patterns, and compare them with known sequences. These are the first families whose normalized linear complexities do not asymptote to 0, verified for lengths up to 6x108. The new constructions in array format are also useful in watermarking images. We present a conjecture regarding the recursion polynomials. We also have a method to reverse the process, and from small Kasami/No-Kumar sequences we obtain a new family of 2n doubly periodic (2n+1)x(2n-1) frequency hop patterns with correlation 2.

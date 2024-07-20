@@ -1,0 +1,3 @@
+Real Time Speckle Image De-Noising
+
+The paper presents real time speckle de-noising based on activity computation algorithm and wavelet transform. Speckles arise in an image when laser light is reflected from an illuminated surface. The process involves detection of speckles in an image by obtaining a number of frames of the same object under different illumination or angle and comparing the frames for the granular computation and de-noising the same on presence of greater activity index. The project can be implemented in FPGA (Field Programmable Gate Array) technology. The results can be shown that the used activity computation algorithm and wavelet transform has better accuracy in the process of speckle detection and de-noising.

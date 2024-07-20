@@ -1,0 +1,4 @@
+New upper bound on block sensitivity and certificate complexity in terms of sensitivity
+
+Sensitivity \cite{CD82,CDR86} and block sensitivity \cite{Nisan91} are two important complexity measures of Boolean functions. A longstanding open problem in decision tree complexity, the "Sensitivity versus Block Sensitivity" question, proposed by Nisan and Szegedy \cite{Nisan94} in 1992, is whether these two complexity measures are polynomially related, i.e., whether $bs(f)=O(s(f)^{O(1)})$.
+  We prove an new upper bound on block sensitivity in terms of sensitivity: $bs(f) \leq 2^{s(f)-1} s(f)$. Previously, the best upper bound on block sensitivity was $bs(f) \leq (\frac{e}{\sqrt{2π}}) e^{s(f)} \sqrt{s(f)}$ by Kenyon and Kutin \cite{KK}. We also prove that if $\min\{s_0(f),s_1(f)\}$ is a constant, then sensitivity and block sensitivity are linearly related, i.e. $bs(f)=O(s(f))$.

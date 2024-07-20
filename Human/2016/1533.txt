@@ -1,0 +1,3 @@
+A Note on Modeling Self-Suspending Time as Blocking Time in Real-Time Systems
+
+This report presents a proof to support the correctness of the schedulability test for self-suspending real-time task systems proposed by Jane W. S. Liu in her book titled "Real-Time Systems" (Pages 164-165). The same concept was also implicitly used by Rajkumar, Sha, and Lehoczky in RTSS 1988 (Page 267) for analyzing self-suspending behaviour due to synchronization protocols in multiprocessor systems.

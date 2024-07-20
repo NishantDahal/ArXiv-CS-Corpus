@@ -1,0 +1,3 @@
+Correlation Clustering with Noisy Partial Information
+
+In this paper, we propose and study a semi-random model for the Correlation Clustering problem on arbitrary graphs G. We give two approximation algorithms for Correlation Clustering instances from this model. The first algorithm finds a solution of value $(1+ δ) optcost + O_δ(n\log^3 n)$ with high probability, where $optcost$ is the value of the optimal solution (for every $δ> 0$). The second algorithm finds the ground truth clustering with an arbitrarily small classification error $η$ (under some additional assumptions on the instance).

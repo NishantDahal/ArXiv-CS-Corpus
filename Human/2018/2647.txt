@@ -1,0 +1,3 @@
+Comparative study of finite element methods using the Time-Accuracy-Size (TAS) spectrum analysis
+
+We present a performance analysis appropriate for comparing algorithms using different numerical discretizations. By taking into account the total time-to-solution, numerical accuracy with respect to an error norm, and the computation rate, a cost-benefit analysis can be performed to determine which algorithm and discretization are particularly suited for an application. This work extends the performance spectrum model in Chang et. al. 2017 for interpretation of hardware and algorithmic tradeoffs in numerical PDE simulation. As a proof-of-concept, popular finite element software packages are used to illustrate this analysis for Poisson's equation.

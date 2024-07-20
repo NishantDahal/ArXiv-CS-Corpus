@@ -1,0 +1,3 @@
+Noise Limited Computational Speed
+
+In modern transistor based logic gates, the impact of noise on computation has become increasingly relevant since the voltage scaling strategy, aimed at decreasing the dissipated power, has increased the probability of error due to the reduced switching threshold voltages. In this paper we discuss the role of noise in a two state model that mimic the dynamics of standard logic gates and show that the presence of the noise sets a fundamental limit to the computing speed. An optimal idle time interval that minimizes the error probability, is derived.

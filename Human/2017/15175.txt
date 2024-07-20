@@ -1,0 +1,3 @@
+Pix2face: Direct 3D Face Model Estimation
+
+An efficient, fully automatic method for 3D face shape and pose estimation in unconstrained 2D imagery is presented. The proposed method jointly estimates a dense set of 3D landmarks and facial geometry using a single pass of a modified version of the popular "U-Net" neural network architecture. Additionally, we propose a method for directly estimating a set of 3D Morphable Model (3DMM) parameters, using the estimated 3D landmarks and geometry as constraints in a simple linear system. Qualitative modeling results are presented, as well as quantitative evaluation of predicted 3D face landmarks in unconstrained video sequences.

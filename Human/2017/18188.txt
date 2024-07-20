@@ -1,0 +1,3 @@
+Channel Access Method Classification For Cognitive Radio Applications
+
+Motivated by improved detection and prediction of temporal holes, we propose a two stage algorithm to classify the channel access method used by a primary network. The first stage extends an existing fourth-order cumulant-based modulation classifier to distinguish between TDMA, OFDMA, and CDMA. The second stage proposes a novel collision detector using the sample variance of the same cumulant to detect contention-based channel access methods. Our proposed method is blind and independent of the received SNR. Simulations show that our classification of TDMA, OFDMA, and CDMA is robust to network load while detection of contention outperforms existing methods.

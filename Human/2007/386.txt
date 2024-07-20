@@ -1,0 +1,4 @@
+Practical Identity-Based Encryption (IBE) in Multiple PKG Environments and Its Applications
+
+In this paper, we present a new identity-based encryption (IBE) scheme using bilinear pairings. Our IBE scheme enjoys the same \textsf{Key Extraction} and \textsf{Decryption} algorithms with the famous IBE scheme of Boneh and Franklin (BF-IBE for short), while differs from the latter in that it has modified \textsf{Setup} and \textsf{Encryption} algorithms.
+  Compared with BF-IBE, we show that ours are more practical in a multiple private key generator (PKG) environment, mainly due to that the session secret $g_{ID}$ could be pre-computed \emph{before} any interaction, and the sender could encrypt a message using $g_{ID}$ prior to negotiating with the intended recipient(s). As an application of our IBE scheme, we also derive an escrowed ElGamal scheme which possesses certain good properties in practice.

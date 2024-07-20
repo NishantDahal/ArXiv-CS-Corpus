@@ -1,0 +1,14 @@
+A computer algebra user interface manifesto
+
+Many computer algebra systems have more than 1000 built-in functions, making expertise difficult. Using mock dialog boxes, this article describes a proposed interactive general-purpose wizard for organizing optional transformations and allowing easy fine grain control over the form of the result even by amateurs. This wizard integrates ideas including:
+  * flexible subexpression selection;
+  * complete control over the ordering of variables and commutative operands, with well-chosen defaults;
+  * interleaving the choice of successively less main variables with applicable function choices to provide detailed control without incurring a combinatorial number of applicable alternatives at any one level;
+  * quick applicability tests to reduce the listing of inapplicable transformations;
+  * using an organizing principle to order the alternatives in a helpful manner;
+  * labeling quickly-computed alternatives in dialog boxes with a preview of their results,
+  * using ellipsis elisions if necessary or helpful;
+  * allowing the user to retreat from a sequence of choices to explore other branches of the tree of alternatives or to return quickly to branches already visited;
+  * allowing the user to accumulate more than one of the alternative forms;
+  * integrating direct manipulation into the wizard; and
+  * supporting not only the usual input-result pair mode, but also the useful alternative derivational and in situ replacement modes in a unified window.

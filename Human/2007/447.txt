@@ -1,0 +1,6 @@
+Counting preimages of TCP reordering patterns
+
+Packet reordering is an important property of network traffic that should be captured by analytical models of the Transmission Control Protocol (TCP). We study a combinatorial problem motivated by RESTORED, a TCP modeling methodology that incorporates information about packet dynamics. A significant component of this model is a many-to-one mapping B that transforms sequences of packet IDs into buffer sequences, in a manner that is compatible with TCP semantics. We show that the following hold:
+  1. There exists a linear time algorithm that, given a buffer sequence W of length n, decides whether there exists a permutation A of 1,2,..., n such that $A\in B^{-1}(W)$ (and constructs such a permutation, when it exists).
+  2. The problem of counting the number of permutations in $B^{-1}(W)$ has a polynomial time algorithm.
+  We also show how to extend these results to sequences of IDs that contain repeated packets.

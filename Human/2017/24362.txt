@@ -1,0 +1,4 @@
+Dual-Pivot Quicksort: Optimality, Analysis and Zeros of Associated Lattice Paths
+
+We present an average case analysis of a variant of dual-pivot quicksort. We show that the used algorithmic partitioning strategy is optimal, i.e., it minimizes the expected number of key comparisons. For the analysis, we calculate the expected number of comparisons exactly as well as asymptotically, in particular, we provide exact expressions for the linear, logarithmic, and constant terms.
+  An essential step is the analysis of zeros of lattice paths in a certain probability model. Along the way a combinatorial identity is proven.

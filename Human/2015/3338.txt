@@ -1,0 +1,3 @@
+Stable Cluster Core Detection in Correlated Hashtag Graph
+
+Hashtags in twitter are used to track events, topics and activities. Correlated hashtag graph represents contextual relationships among these hashtags. Maximum clusters in the correlated hashtag graph can be contextually meaningful hashtag groups. In order to track the changes of the clusters and understand these hashtag groups, the hashtags in a cluster are categorized into two types: stable core and temporary members which are subject to change. Some initial studies are done in this project and 3 algorithms are designed, implemented and experimented to test them.

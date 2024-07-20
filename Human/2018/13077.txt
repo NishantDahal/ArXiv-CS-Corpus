@@ -1,0 +1,3 @@
+Multiplicative Updates for Convolutional NMF Under $β$-Divergence
+
+In this letter, we generalize the convolutional NMF by taking the $β$-divergence as the contrast function and present the correct multiplicative updates for its factors in closed form. The new updates unify the $β$-NMF and the convolutional NMF. We state why almost all of the existing updates are inexact and approximative w.r.t. the convolutional data model. We show that our updates are stable and that their convergence performance is consistent across the most common values of $β$.

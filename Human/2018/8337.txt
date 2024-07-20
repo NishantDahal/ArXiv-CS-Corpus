@@ -1,0 +1,3 @@
+Metaclasses and Reflection in Smalltalk
+
+Many Object Oriented Programming Languages provide reflective features which may be used to control the interpretive mechanism of the language. Often these features are defined with respect to a golden braid consisting of objects classes and meta-classes. This report reviews the Smalltalk golden braid and generalize it for multiple inheritance leading to choices between many different inheritance strategies. The reflective features of Smalltalk cannot affect the basic mechanisms of inheritance and so an arbitrary choice must be made for multiple inheritance. A language is described in which the reflective features of Smalltalk are extended so as to allow programmer defined inheritance strategies.

@@ -1,0 +1,3 @@
+Orchestrate: Infrastructure for Enabling Parallelism during Hyperparameter Optimization
+
+Two key factors dominate the development of effective production grade machine learning models. First, it requires a local software implementation and iteration process. Second, it requires distributed infrastructure to efficiently conduct training and hyperparameter optimization. While modern machine learning frameworks are very effective at the former, practitioners are often left building ad hoc frameworks for the latter. We present SigOpt Orchestrate, a library for such simultaneous training in a cloud environment. We describe the motivating factors and resulting design of this library, feedback from initial testing, and future goals.

@@ -1,0 +1,3 @@
+Exploring Design Tradeoffs Of A Distributed Algorithm For Cosmic Ray Event Detection
+
+Many sensor networks, including large particle detector arrays measuring high-energy cosmic-ray air showers, traditionally rely on centralised trigger algorithms to find spatial and temporal coincidences of individual nodes. Such schemes suffer from scalability problems, especially if the nodes communicate wirelessly or have bandwidth limitations. However, nodes which instead communicate with each other can, in principle, use a distributed algorithm to find coincident events themselves without communication with a central node. We present such an algorithm and consider various design tradeoffs involved, in the context of a potential trigger for the Auger Engineering Radio Array (AERA).

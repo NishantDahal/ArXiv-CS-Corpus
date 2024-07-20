@@ -1,0 +1,3 @@
+DMTCP Checkpoint/Restart of MPI Programs via Proxies
+
+MPI accomplishes portable, standardized message-passing between processes by exposing a standard API that hides the implementation of the underlying mechanism for message passing. Until now, checkpointing an MPI program required knowledge of these underlying mechanisms. Through the addition of a proxy, we demonstrate that MPI programs can be checkpointed and restarted regardless of the MPI implementation utilized. Further, proxies may enable MPI programs to be checkpointed on one MPI implementation, and restarted on another.

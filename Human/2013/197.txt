@@ -1,0 +1,4 @@
+Extremal antipodal polygons and polytopes
+
+Let $S$ be a set of $2n$ points on a circle such that for each point $p \in S$ also its antipodal (mirrored with respect to the circle center) point $p'$ belongs to $S$. A polygon $P$ of size $n$ is called \emph{antipodal} if it consists of precisely one point of each antipodal pair $(p,p')$ of $S$.
+  We provide a complete characterization of antipodal polygons which maximize (minimize, respectively) the area among all antipodal polygons of $S$. Based on this characterization, a simple linear time algorithm is presented for computing extremal antipodal polygons. Moreover, for the generalization of antipodal polygons to higher dimensions we show that a similar characterization does not exist.

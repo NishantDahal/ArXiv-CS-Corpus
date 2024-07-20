@@ -1,0 +1,3 @@
+Computing zeta functions of sparse nondegenerate hypersurfaces
+
+Using the cohomology theory of Dwork, as developed by Adolphson and Sperber, we exhibit a deterministic algorithm to compute the zeta function of a nondegenerate hypersurface defined over a finite field. This algorithm is particularly well-suited to work with polynomials in small characteristic that have few monomials (relative to their dimension). Our method covers toric, affine, and projective hypersurfaces and also can be used to compute the L-function of an exponential sum.

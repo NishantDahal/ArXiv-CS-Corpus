@@ -1,0 +1,3 @@
+Recognizing Union-Find trees built up using union-by-rank strategy is NP-complete
+
+Disjoint-Set forests, consisting of Union-Find trees, are data structures having a widespread practical application due to their efficiency. Despite them being well-known, no exact structural characterization of these trees is known (such a characterization exists for Union trees which are constructed without using path compression) for the case assuming union-by-rank strategy for merging. In this paper we provide such a characterization by means of a simple push operation and show that the decision problem whether a given tree (along with the rank info of its nodes) is a Union-Find tree is NP-complete, complementing our earlier similar result for the union-by-size strategy.

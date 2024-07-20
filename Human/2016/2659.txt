@@ -1,0 +1,3 @@
+Optimally Confident UCB: Improved Regret for Finite-Armed Bandits
+
+I present the first algorithm for stochastic finite-armed bandits that simultaneously enjoys order-optimal problem-dependent regret and worst-case regret. Besides the theoretical results, the new algorithm is simple, efficient and empirically superb. The approach is based on UCB, but with a carefully chosen confidence parameter that optimally balances the risk of failing confidence intervals against the cost of excessive optimism.

@@ -1,0 +1,3 @@
+Slot Games for Detecting Timing Leaks of Programs
+
+In this paper we describe a method for verifying secure information flow of programs, where apart from direct and indirect flows a secret information can be leaked through covert timing channels. That is, no two computations of a program that differ only on high-security inputs can be distinguished by low-security outputs and timing differences. We attack this problem by using slot-game semantics for a quantitative analysis of programs. We show how slot-games model can be used for performing a precise security analysis of programs, that takes into account both extensional and intensional properties of programs. The practicality of this approach for automated verification is also shown.

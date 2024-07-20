@@ -1,0 +1,3 @@
+The effective entropy of next/previous larger/smaller value queries
+
+We study the problem of storing the minimum number of bits required to answer next/previous larger/smaller value queries on an array $A$ of $n$ numbers, without storing $A$. We show that these queries can be answered by storing at most $3.701 n$ bits. Our result improves the result of Jo and Satti [TCS 2016] that gives an upper bound of $4.088n$ bits for this problem.

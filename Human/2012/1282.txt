@@ -1,0 +1,3 @@
+Iterative Mode-Dropping for the Sum Capacity of MIMO-MAC with Per-Antenna Power Constraint
+
+We propose an iterative mode-dropping algorithm that optimizes input signals to achieve the sum capacity of the MIMO-MAC with per-antenna power constraint. The algorithm successively optimizes each user's input covariance matrix by applying mode-dropping to the equivalent single-user MIMO rate maximization problem. Both analysis and simulation show fast convergence. We then use the algorithm to briefly highlight the difference in MIMO-MAC capacities under sum and per-antenna power constraints.

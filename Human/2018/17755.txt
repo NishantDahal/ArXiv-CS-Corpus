@@ -1,0 +1,3 @@
+Analysis of Logarithmic Amortised Complexity
+
+We introduce a novel amortised resource analysis based on a potential-based type system. This type system gives rise to logarithmic and polynomial bounds on the runtime complexity and is the first such system to exhibit logarithmic amortised complexity. We relate the thus obtained automatable amortised resource analysis to manual amortised analyses of self-adjusting data structures, like splay trees, that can be found in the literature.

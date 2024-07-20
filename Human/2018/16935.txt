@@ -1,0 +1,4 @@
+Computability in Basic Quantum Mechanics
+
+The basic notions of quantum mechanics are formulated in terms of separable infinite dimensional Hilbert space $\mathcal{H}$. In terms of the Hilbert lattice $\mathcal{L}$ of closed linear subspaces of $\mathcal{H}$ the notions of state and observable can be formulated as kinds of measures as in [21]. The aim of this paper is to show that there is a good notion of computability for these data structures in the sense of Weihrauch's Type Two Effectivity (TTE) [26].
+  Instead of explicitly exhibiting admissible representations for the data types under consideration we show that they do live within the category $\mathbf{QCB}_0$ which is equivalent to the category $\mathbf{AdmRep}$ of admissible representations and continuously realizable maps between them. For this purpose in case of observables we have to replace measures by valuations which allows us to prove an effective version of von Neumann's Spectral Theorem.

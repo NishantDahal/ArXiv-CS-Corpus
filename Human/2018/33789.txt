@@ -1,0 +1,4 @@
+Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels
+
+A pruned variant of polar coding is reinvented for all binary erasure channels. For small $\varepsilon>0$, we construct codes with block length $\varepsilon^{-5}$, code rate $\text{Capacity}-\varepsilon$, error probability $\varepsilon$, and encoding and decoding time complexity $O(N\log|\log\varepsilon|)$ per block, equivalently $O(\log|\log\varepsilon|)$ per information bit (Propositions 5 to 8).
+  This result also follows if one applies systematic polar coding [Arıkan 10.1109/LCOMM.2011.061611.110862] with simplified successive cancelation decoding [Alamdar-Yazdi-Kschischang 10.1109/LCOMM.2011.101811.111480], and then analyzes the performance using [Guruswami-Xia arXiv:1304.4321] or [Mondelli-Hassani-Urbanke arXiv:1501.02444].

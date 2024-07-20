@@ -1,0 +1,3 @@
+Strategy Derivation for Small Progress Measures
+
+Small Progress Measures is one of the most efficient parity game solving algorithms. The original algorithm provides the full solution (winning regions and strategies) in $O(dm \cdot (n/\lceil d / 2 \rceil)^{\lceil d/2 \rceil})$ time, and requires a re-run of the algorithm on one of the winning regions. We provide a novel operational interpretation of progress measures, and modify the algorithm so that it derives the winning strategies for both players in one pass. This reduces the upper bound on strategy derivation for SPM to $O(dm \cdot (n/\lfloor d / 2 \rfloor)^{\lfloor d/2 \rfloor})$.

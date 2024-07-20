@@ -1,0 +1,3 @@
+Constructing Locally Dense Point Clouds Using OpenSfM and ORB-SLAM2
+
+This paper aims at finding a method to register two different point clouds constructed by ORB-SLAM2 and OpenSfM. To do this, we post some tags with unique textures in the scene and take videos and photos of that area. Then we take short videos of only the tags to extract their features. By matching the ORB feature of the tags with their corresponding features in the scene, it is then possible to localize the position of these tags both in point clouds constructed by ORB-SLAM2 and OpenSfM. Thus, the best transformation matrix between two point clouds can be calculated, and the two point clouds can be aligned.

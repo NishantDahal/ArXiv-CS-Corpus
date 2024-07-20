@@ -1,0 +1,3 @@
+Discrete Network Dynamics. Part 1: Operator Theory
+
+An operator algebra implementation of Markov chain Monte Carlo algorithms for simulating Markov random fields is proposed. It allows the dynamics of networks whose nodes have discrete state spaces to be specified by the action of an update operator that is composed of creation and annihilation operators. This formulation of discrete network dynamics has properties that are similar to those of a quantum field theory of bosons, which allows reuse of many conceptual and theoretical structures from QFT. The equilibrium behaviour of one of these generalised MRFs and of the adaptive cluster expansion network (ACEnet) are shown to be equivalent, which provides a way of unifying these two theories.

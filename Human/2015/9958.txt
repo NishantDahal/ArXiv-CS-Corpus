@@ -1,0 +1,4 @@
+Constructing Linear-Sized Spectral Sparsification in Almost-Linear Time
+
+We present the first almost-linear time algorithm for constructing linear-sized spectral sparsification for graphs. This improves all previous constructions of linear-sized spectral sparsification, which requires $Ω(n^2)$ time.
+  A key ingredient in our algorithm is a novel combination of two techniques used in literature for constructing spectral sparsification: Random sampling by effective resistance, and adaptive constructions based on barrier functions.

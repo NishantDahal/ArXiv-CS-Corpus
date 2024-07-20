@@ -1,0 +1,5 @@
+Infinite games with finite knowledge gaps
+
+Infinite games where several players seek to coordinate under imperfect information are deemed to be undecidable, unless the information is hierarchically ordered among the players.
+  We identify a class of games for which joint winning strategies can be constructed effectively without restricting the direction of information flow. Instead, our condition requires that the players attain common knowledge about the actual state of the game over and over again along every play.
+  We show that it is decidable whether a given game satisfies the condition, and prove tight complexity bounds for the strategy synthesis problem under $ω$-regular winning conditions given by parity automata.

@@ -1,0 +1,3 @@
+Improving grasp performance using in-hand proximity and contact sensing
+
+We describe the grasping and manipulation strategy that we employed at the autonomous track of the Robotic Grasping and Manipulation Competition at IROS 2016. A salient feature of our architecture is the tight coupling between visual (Asus Xtion) and tactile perception (Robotic Materials), to reduce the uncertainty in sensing and actuation. We demonstrate the importance of tactile sensing and reactive control during the final stages of grasping using a Kinova Robotic arm. The set of tools and algorithms for object grasping presented here have been integrated into the open-source Robot Operating System (ROS).

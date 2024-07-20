@@ -1,0 +1,3 @@
+Minimum Dilation Stars
+
+The dilation of a Euclidean graph is defined as the ratio of distance in the graph divided by distance in R^d. In this paper we consider the problem of positioning the root of a star such that the dilation of the resulting star is minimal. We present a deterministic O(n log n)-time algorithm for evaluating the dilation of a given star; a randomized O(n log n) expected-time algorithm for finding an optimal center in R^d; and for the case d=2, a randomized O(n 2^(alpha(n)) log^2 n) expected-time algorithm for finding an optimal center among the input points.

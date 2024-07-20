@@ -1,0 +1,3 @@
+Towards Efficient Exact Synthesis for Linear Hybrid Systems
+
+We study the problem of automatically computing the controllable region of a Linear Hybrid Automaton, with respect to a safety objective.  We describe the techniques that are needed to effectively and efficiently implement a recently-proposed solution procedure, based on polyhedral abstractions of the state space. Supporting experimental results are presented, based on an implementation of the proposed techniques on top of the tool PHAVer.

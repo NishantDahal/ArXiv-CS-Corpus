@@ -1,0 +1,3 @@
+LAMP: Prompt Layer 7 Attack Mitigation with Programmable Data Planes
+
+While there are various methods to detect application layer attacks or intrusion attempts on an individual end host, it is not efficient to provide all end hosts in the network with heavy-duty defense systems or software firewalls. In this work, we leverage a new concept of programmable data planes, to directly react on alerts raised by a victim and prevent further attacks on the whole network by blocking the attack at the network edge. We call our design LAMP, Layer 7 Attack Mitigation with Programmable data planes. We implemented LAMP using the P4 data plane programming language and evaluated its effectiveness and efficiency in the Behavioral Model (bmv2) environment.

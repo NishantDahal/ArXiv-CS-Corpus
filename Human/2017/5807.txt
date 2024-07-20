@@ -1,0 +1,5 @@
+Competitive and Penalized Clustering Auto-encoder
+
+The paper has been withdrawn since more effective experiments should be completed.
+
+Auto-encoders (AE) has been widely applied in different fields of machine learning. However, as a deep model, there are a large amount of learnable parameters in the AE, which would cause over-fitting and slow learning speed in practice. Many researchers have been study the intrinsic structure of AE and showed different useful methods to regularize those parameters. In this paper, we present a novel regularization method based on a clustering algorithm which is able to classify the parameters into different groups. With this regularization, parameters in a given group have approximate equivalent values and over-fitting problem could be alleviated. Moreover, due to the competitive behavior of clustering algorithm, this model also overcomes some intrinsic problems of clustering algorithms like the determination of number of clusters. Experiments on handwritten digits recognition verify the effectiveness of our novel model.

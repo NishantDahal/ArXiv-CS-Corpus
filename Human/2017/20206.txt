@@ -1,0 +1,3 @@
+A Multi-Bit Neuromorphic Weight Cell using Ferroelectric FETs, suitable for SoC Integration
+
+A multi-bit digital weight cell for high-performance, inference-only non-GPU-like neuromorphic accelerators is presented. The cell is designed with simplicity of peripheral circuitry in mind. Non-volatile storage of weights which eliminates the need for DRAM access is based on FeFETs and is purely digital. The Multiply-and-Accumulate operation is performed using passive resistors, gated by FeFETs. The resulting weight cell offers a high degree of linearity and a large ON/OFF ratio. The key performance tradeoffs are investigated, and the device requirements are elucidated.

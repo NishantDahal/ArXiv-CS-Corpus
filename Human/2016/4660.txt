@@ -1,0 +1,3 @@
+The Systematic Normal Form of Lattices
+
+We introduce a new canonical form of lattices called the systematic normal form (SNF). We show that for every lattice there is an efficiently computable "nearby" SNF lattice, such that for any lattice one can solve lattice problems on its "nearby" SNF lattice, and translate the solutions back efficiently to the original lattice. The SNF provides direct connections between arbitrary lattices, and various lattice related problems like the Shortest-Integer-Solution, Approximate Greatest Common Divisor. As our main application of SNF we derive a new set of worst-to-average case lattice reductions that deviate significantly from the template of Ajtai and improve upon previous reductions in terms of simplicity.

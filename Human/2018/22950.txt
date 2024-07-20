@@ -1,0 +1,3 @@
+Edge Erasures and Chordal Graphs
+
+We prove several results about chordal graphs and weighted chordal graphs by focusing on exposed edges. These are edges that are properly contained in a single maximal complete subgraph. This leads to a characterization of chordal graphs via deletions of a sequence of exposed edges from a complete graph. Most interesting is that in this context the connected components of the edge-induced subgraph of exposed edges are 2-edge connected. We use this latter fact in the weighted case to give a modified version of Kruskal's second algorithm for finding a minimum spanning tree in a weighted chordal graph. This modified algorithm benefits from being local in an important sense.

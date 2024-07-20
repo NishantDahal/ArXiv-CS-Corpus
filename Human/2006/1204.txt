@@ -1,0 +1,3 @@
+Message passing for vertex covers
+
+Constructing a minimal vertex cover of a graph can be seen as a prototype for a combinatorial optimization problem under hard constraints. In this paper, we develop and analyze message passing techniques, namely warning and survey propagation, which serve as efficient heuristic algorithms for solving these computational hard problems. We show also, how previously obtained results on the typical-case behavior of vertex covers of random graphs can be recovered starting from the message passing equations, and how they can be extended.

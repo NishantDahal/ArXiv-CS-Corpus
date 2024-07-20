@@ -1,0 +1,3 @@
+Model Checking : A Co-algebraic Approach
+
+State explosion problem is the main obstacle of model checking. In this paper, we try to solve this problem from a coalgebraic approach. We establish an effective method to prove uniformly the existence of the smallest Kripke structure with respect to bisimilarity, which describes all behaviors of the Kripke structures and no redundancy. We show then this smallest Kripke structure generates a concrete smallest one for each given finite Kripke structure and some kind of infinite ones. This method is based on the existence of the final coalgebra of a suitable endofunctor and can be generalized smoothly to other coalgebraic structures. A naive implementation of this method is developed in Ocaml.

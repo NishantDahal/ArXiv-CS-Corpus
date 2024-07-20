@@ -1,0 +1,3 @@
+A Fast Iterative Bayesian Inference Algorithm for Sparse Channel Estimation
+
+In this paper, we present a Bayesian channel estimation algorithm for multicarrier receivers based on pilot symbol observations. The inherent sparse nature of wireless multipath channels is exploited by modeling the prior distribution of multipath components' gains with a hierarchical representation of the Bessel K probability density function; a highly efficient, fast iterative Bayesian inference method is then applied to the proposed model. The resulting estimator outperforms other state-of-the-art Bayesian and non-Bayesian estimators, either by yielding lower mean squared estimation error or by attaining the same accuracy with improved convergence rate, as shown in our numerical evaluation.

@@ -1,0 +1,3 @@
+Dual-label Deep LSTM Dereverberation For Speaker Verification
+
+In this paper, we present a reverberation removal approach for speaker verification, utilizing dual-label deep neural networks (DNNs). The networks perform feature mapping between the spectral features of reverberant and clean speech. Long short term memory recurrent neural networks (LSTMs) are trained to map corrupted Mel filterbank (MFB) features to two sets of labels: i) the clean MFB features, and ii) either estimated pitch tracks or the fast Fourier transform (FFT) spectrogram of clean speech. The performance of reverberation removal is evaluated by equal error rates (EERs) of speaker verification experiments.

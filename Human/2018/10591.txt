@@ -1,0 +1,3 @@
+Better Metrics for Ranking SE Researchers
+
+This paper studies how SE researchers are ranked using a variety of metrics and data from 35,406 authors of 35,391 papers from 34 top SE venues in the period 1992-2016. Based on that analysis, we: deprecate the widely used "h-index", favoring instead an alternate Weighted Page Rank(PR_W) metric that is somewhat analogous to the PageRank(PR) metric developed at Google. Unlike the h-index, PR_W rewards not just citation counts but also how often authors collaborate. Using PR_W, we offer a ranking of the top 20 SE authors in the last decade.

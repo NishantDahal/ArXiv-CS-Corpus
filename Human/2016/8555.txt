@@ -1,0 +1,3 @@
+First Class Call Stacks: Exploring Head Reduction
+
+Weak-head normalization is inconsistent with functional extensionality in the call-by-name $λ$-calculus. We explore this problem from a new angle via the conflict between extensionality and effects. Leveraging ideas from work on the $λ$-calculus with control, we derive and justify alternative operational semantics and a sequence of abstract machines for performing head reduction. Head reduction avoids the problems with weak-head reduction and extensionality, while our operational semantics and associated abstract machines show us how to retain weak-head reduction's ease of implementation.

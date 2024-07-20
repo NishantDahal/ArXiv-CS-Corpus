@@ -1,0 +1,3 @@
+Implementing a Cloud Platform for Autonomous Driving
+
+Autonomous driving clouds provide essential services to support autonomous vehicles. Today these services include but not limited to distributed simulation tests for new algorithm deployment, offline deep learning model training, and High-Definition (HD) map generation. These services require infrastructure support including distributed computing, distributed storage, as well as heterogeneous computing. In this paper, we present the details of how we implement a unified autonomous driving cloud infrastructure, and how we support these services on top of this infrastructure.

@@ -1,0 +1,4 @@
+Solving the TTC 2011 Compiler Optimization Task with metatools
+
+The authors' "metatools" are a collection of tools for generic programming. This includes generating Java sources from mathematically well-founded specifications, as well as the creation of strictly typed document object models for XML encoded texts. In this context, almost every computer-internal structure is  treated as a "model", and every computation is a kind of model  transformation.
+  This concept differs significantly from "classical model  transformation" executed by specialized tools and languages. Therefore it seemed promising  to the organizers of the  TTC 2011, as well as to the authors, to apply metatools to one of the challenges, namely to the "compiler optimization task". This is a report on the resulting experiences.

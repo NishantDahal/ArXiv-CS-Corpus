@@ -1,0 +1,3 @@
+Treatment of Unicode canoncal decomposition among operating systems
+
+This article shows how the text characters that have multiple representations under the Unicode standard are treated by popular operating systems. Whilst most characters have a unique representation in Unicode, some characters such as the accented European letters, can have multiple representations due to a feature of Unicode called normalization. These characters are treated differently by popular operating systems, leading to additional challenges during interoperability of computer programs.

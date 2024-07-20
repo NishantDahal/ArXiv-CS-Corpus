@@ -1,0 +1,9 @@
+Making Code Voting Secure against Insider Threats using Unconditionally Secure MIX Schemes and Human PSMT Protocols
+
+Code voting was introduced by Chaum as a solution for using a possibly infected-by-malware device to cast a vote in an electronic voting application. Chaum's work on code voting assumed voting codes are physically delivered to voters using the mail system, implicitly requiring to trust the mail system. This is not necessarily a valid assumption to make - especially if the mail system cannot be trusted. When conspiring with the recipient of the cast ballots, privacy is broken.
+  It is clear to the public that when it comes to privacy, computers and "secure" communication over the Internet cannot fully be trusted. This emphasizes the importance of using: (1) Unconditional security for secure network communication. (2) Reduce reliance on untrusted computers.
+  In this paper we explore how to remove the mail system trust assumption in code voting. We use PSMT protocols (SCN 2012) where with the help of visual aids, humans can carry out $\mod 10$ addition correctly with a 99\% degree of accuracy. We introduce an unconditionally secure MIX based on the combinatorics of set systems.
+  Given that end users of our proposed voting scheme construction are humans we \emph{cannot use} classical Secure Multi Party Computation protocols.
+  Our solutions are for both single and multi-seat elections achieving: \begin{enumerate}[i)]
+  \item An anonymous and perfectly secure communication network secure against a $t$-bounded passive adversary used to deliver voting,
+  \item The end step of the protocol can be handled by a human to evade the threat of malware. \end{enumerate} We do not focus on active adversaries.

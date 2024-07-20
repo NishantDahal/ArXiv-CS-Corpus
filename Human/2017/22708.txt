@@ -1,0 +1,3 @@
+Segmenting Brain Tumors with Symmetry
+
+We explore encoding brain symmetry into a neural network for a brain tumor segmentation task. A healthy human brain is symmetric at a high level of abstraction, and the high-level asymmetric parts are more likely to be tumor regions. Paying more attention to asymmetries has the potential to boost the performance in brain tumor segmentation. We propose a method to encode brain symmetry into existing neural networks and apply the method to a state-of-the-art neural network for medical imaging segmentation. We evaluate our symmetry-encoded network on the dataset from a brain tumor segmentation challenge and verify that the new model extracts information in the training images more efficiently than the original model.

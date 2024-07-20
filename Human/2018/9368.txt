@@ -1,0 +1,3 @@
+Explanations of model predictions with live and breakDown packages
+
+Complex models are commonly used in predictive modeling. In this paper we present R packages that can be used to explain predictions from complex black box models and attribute parts of these predictions to input features. We introduce two new approaches and corresponding packages for such attribution, namely live and breakDown. We also compare their results with existing implementations of state of the art solutions, namely lime that implements Locally Interpretable Model-agnostic Explanations and ShapleyR that implements Shapley values.

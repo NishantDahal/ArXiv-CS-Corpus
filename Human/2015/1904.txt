@@ -1,0 +1,3 @@
+Lower Bounds for Monotone Counting Circuits
+
+A {+,x}-circuit counts a given multivariate polynomial f, if its values on 0-1 inputs are the same as those of f; on other inputs the circuit may output arbitrary values. Such a circuit counts the number of monomials of f evaluated to 1 by a given 0-1 input vector (with multiplicities given by their coefficients). A circuit decides $f$ if it has the same 0-1 roots as f. We first show that some multilinear polynomials can be exponentially easier to count than to compute them, and can be exponentially easier to decide than to count them. Then we give general lower bounds on the size of counting circuits.

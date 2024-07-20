@@ -1,0 +1,3 @@
+A greedy algorithm for the minimization of a ratio of same-index element sums from two positive arrays
+
+Consider two ordered positive real number arrays of equal size. The problem is to find such set of indices of given size that the ratio of the sums of the array elements with those indices is minimized. In this work, in order to mitigate the exponential complexity of the brute force search, we present a greedy algorithm applied to the search of such an index set. The main result of the paper is the theorem that states that the algorithm eliminates from candidates all index sets that do not contain any elements from the greedily selected set. We additionally prove exactness for a particular case of a ratio of the sums of only two elements.

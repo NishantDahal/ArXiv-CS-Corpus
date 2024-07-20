@@ -1,0 +1,4 @@
+Improved User-Private Information Retrieval via Finite Geometry
+
+In a User-Private Information Retrieval (UPIR) scheme, a set of users collaborate to retrieve files from a database without revealing to observers which participant in the scheme requested the file. Protocols have been proposed based on pairwise balanced designs and symmetric designs. Wepropose a new class of UPIR schemes based on generalised quadrangles (GQ).
+  We prove that while the privacy of users in the previously proposed schemes could be compromised by a single user, the new GQ-UPIR schemes proposed in this paper maintain privacy with high probability even when up to $O(n^{1/4 - ε})$ users collude, where $n$ is the total number of users in the scheme.

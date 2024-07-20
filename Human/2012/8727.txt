@@ -1,0 +1,3 @@
+ASP modulo CSP: The clingcon system
+
+We present the hybrid ASP solver clingcon, combining the simple modeling language and the high performance Boolean solving capacities of Answer Set Programming (ASP) with techniques for using non-Boolean constraints from the area of Constraint Programming (CP). The new clingcon system features an extended syntax supporting global constraints and optimize statements for constraint variables. The major technical innovation improves the interaction between ASP and CP solver through elaborated learning techniques based on irreducible inconsistent sets. A broad empirical evaluation shows that these techniques yield a performance improvement of an order of magnitude. To appear in Theory and Practice of Logic Programming

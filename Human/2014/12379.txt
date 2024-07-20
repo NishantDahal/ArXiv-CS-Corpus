@@ -1,0 +1,3 @@
+A Complete Refinement Procedure for Regular Separability of Context-Free Languages
+
+Often, when analyzing the behaviour of systems modelled as context-free languages, we wish to know if two languages overlap. To this end, we present an effective semi-decision procedure for regular separability of context-free languages, based on counter-example guided abstraction refinement. We propose two refinement methods, one inexpensive but incomplete, and the other complete but more expensive. We provide an experimental evaluation of this procedure, and demonstrate its practicality on a range of verification and language-theoretic instances.

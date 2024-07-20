@@ -1,0 +1,3 @@
+Using LDAP Directories for Management of PKI Processes
+
+We present a framework for extending the functionality of LDAP servers from their typical use as a public directory in public key infrastructures. In this framework the LDAP servers are used for administrating infrastructure processes. One application of this framework is a method for providing proof-of-possession, especially in the case of encryption keys. Another one is the secure delivery of software personal security environments.

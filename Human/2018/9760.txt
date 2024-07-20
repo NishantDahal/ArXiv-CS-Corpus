@@ -1,0 +1,3 @@
+A Game Theoretic Approach to DSRC and WiFi Coexistence
+
+We model the coexistence of DSRC and WiFi networks as a strategic form game with the networks as the players. Nodes in a DSRC network must support messaging of status updates that are time sensitive. Such nodes would like to achieve a small age of information of status updates. In contrast, nodes in a WiFi network would like to achieve large throughputs. Each network chooses a medium access probability to be used by all its nodes. We investigate Nash and Stackelberg equilibrium strategies.

@@ -1,0 +1,3 @@
+Choreographies for Automatic Recovery
+
+We propose a choreographic model of reversible computations based on a conservative extension of global graphs and communicating finite-state machines. The main advantage of our approach is that does not require to instrument models in order to control reversibility but for a minor decoration of branches. We show that our models are conservative extensions of existing ones and that the reversible semantics guarantees causal consistency.

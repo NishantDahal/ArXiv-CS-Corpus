@@ -1,0 +1,3 @@
+Semantic See-Through Rendering on Light Fields
+
+We present a novel semantic light field (LF) refocusing technique that can achieve unprecedented see-through quality. Different from prior art, our semantic see-through (SST) differentiates rays in their semantic meaning and depth. Specifically, we combine deep learning and stereo matching to provide each ray a semantic label. We then design tailored weighting schemes for blending the rays. Although simple, our solution can effectively remove foreground residues when focusing on the background. At the same time, SST maintains smooth transitions in varying focal depths. Comprehensive experiments on synthetic and new real indoor and outdoor datasets demonstrate the effectiveness and usefulness of our technique.

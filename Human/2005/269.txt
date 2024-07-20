@@ -1,0 +1,3 @@
+Programming and Verifying Subgame Perfect Mechanisms
+
+An extension of the WHILE-language is developed for programming game-theoretic mechanisms involving multiple agents. Examples of such mechanisms include auctions, voting procedures, and negotiation protocols. A structured operational semantics is provided in terms of extensive games of almost perfect information. Hoare-style partial correctness assertions are proposed to reason about the correctness of these mechanisms, where correctness is interpreted as the existence of a subgame perfect equilibrium. Using an extensional approach to pre- and postconditions, we show that an extension of Hoare's original calculus is sound and complete for reasoning about subgame perfect equilibria in game-theoretic mechanisms.

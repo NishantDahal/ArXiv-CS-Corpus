@@ -1,0 +1,3 @@
+Elimination for generic sparse polynomial systems
+
+We present a new probabilistic symbolic algorithm that, given a variety defined in an n-dimensional affine space by a generic sparse system with fixed supports, computes the Zariski closure of its projection to an l-dimensional coordinate affine space with l < n. The complexity of the algorithm depends polynomially on combinatorial invariants associated to the supports.

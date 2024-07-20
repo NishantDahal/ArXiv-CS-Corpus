@@ -1,0 +1,3 @@
+FocusST Solution for Analysis of Cryptographic Properties
+
+To analyse cryptographic properties of distributed systems in a systematic way, a formal theory is required. In this paper, we present a theory that allows (1) to specify distributed systems formally, (2) to verify their cryptographic wrt. composition properties, and (3) to demonstrate the correctness of syntactic interfaces for specified system components automatically. To demonstrate the feasibility of the approach we use a typical example from the domain of crypto-based systems: a variant of the Internet security protocol TLS. A security flaw in the initial version of TLS specification was revealed using a semi-automatic theorem prover, Isabelle/HOL.

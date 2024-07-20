@@ -1,0 +1,3 @@
+Segmentation of real algebraic plane curves
+
+In this article we give an implementation of the standard algorithm to segment a real algebraic plane curve defined implicitly. Our implementation is efficient and simpler than previous. We use global information to count the number of half-branches at a critical point.

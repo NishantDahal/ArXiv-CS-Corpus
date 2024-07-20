@@ -1,0 +1,3 @@
+Binary Space Partitioning as Intrinsic Reward
+
+An autonomous agent embodied in a humanoid robot, in order to learn from the overwhelming flow of raw and noisy sensory, has to effectively reduce the high spatial-temporal data dimensionality. In this paper we propose a novel method of unsupervised feature extraction and selection with binary space partitioning, followed by a computation of information gain that is interpreted as intrinsic reward, then applied as immediate-reward signal for the reinforcement-learning. The space partitioning is executed by tiny codelets running on a simulated Turing Machine. The features are represented by concept nodes arranged in a hierarchy, in which those of a lower level become the input vectors of a higher level.

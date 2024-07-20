@@ -1,0 +1,3 @@
+General Caching Is Hard: Even with Small Pages
+
+Caching (also known as paging) is a classical problem concerning page replacement policies in two-level memory systems. General caching is the variant with pages of different sizes and fault costs. We give the first NP-hardness result for general caching with small pages: General caching is (strongly) NP-hard even when page sizes are limited to {1, 2, 3}. It holds already in the fault model (each page has unit fault cost) as well as in the bit model (each page has the same fault cost as size). We also give a very short proof of the strong NP-hardness of general caching with page sizes restricted to {1, 2, 3} and arbitrary costs.

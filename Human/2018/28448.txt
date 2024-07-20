@@ -1,0 +1,5 @@
+Sketching, Streaming, and Fine-Grained Complexity of (Weighted) LCS
+
+We study sketching and streaming algorithms for the Longest Common Subsequence problem (LCS) on strings of small alphabet size $|Σ|$. For the problem of deciding whether the LCS of strings $x,y$ has length at least $L$, we obtain a sketch size and streaming space usage of $\mathcal{O}(L^{|Σ| - 1} \log L)$.
+  We also prove matching unconditional lower bounds.
+  As an application, we study a variant of LCS where each alphabet symbol is equipped with a weight that is given as input, and the task is to compute a common subsequence of maximum total weight. Using our sketching algorithm, we obtain an $\mathcal{O}(\textrm{min}\{nm, n + m^{\lvert Σ\rvert}\})$-time algorithm for this problem, on strings $x,y$ of length $n,m$, with $n \ge m$. We prove optimality of this running time up to lower order factors, assuming the Strong Exponential Time Hypothesis.

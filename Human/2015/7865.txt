@@ -1,0 +1,3 @@
+AGREE -- Algebraic Graph Rewriting with Controlled Embedding (Long Version)
+
+The several algebraic approaches to graph transformation proposed in the literature all ensure that if an item is preserved by a rule, so are its connections with the context graph where it is embedded. But there are applications in which it is desirable, for example when cloning an item, to specify different embeddings for the original and for the copy. Therefore we propose a conservative extension of these approaches where a rule can specify how the embedding of a preserved item should be changed, typically by removing certain connections.

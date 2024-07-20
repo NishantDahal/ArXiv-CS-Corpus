@@ -1,0 +1,3 @@
+Nonlinear Unknown Input and State Estimation Algorithm in Mobile Robots
+
+This technical report provides the description and the derivation of a novel nonlinear unknown input and state estimation algorithm (NUISE) for mobile robots. The algorithm is designed for real-world robots with nonlinear dynamic models and subject to stochastic noises on sensing and actuation. Leveraging sensor readings and planned control commands, the algorithm detects and quantifies anomalies on both sensors and actuators. Later, we elaborate the dynamic models of two distinctive mobile robots for the purpose of demonstrating the application of NUISE. This report serves as a supplementary document for [1].

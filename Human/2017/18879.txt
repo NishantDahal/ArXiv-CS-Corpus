@@ -1,0 +1,3 @@
+Fine-tuning deep CNN models on specific MS COCO categories
+
+Fine-tuning of a deep convolutional neural network (CNN) is often desired. This paper provides an overview of our publicly available py-faster-rcnn-ft software library that can be used to fine-tune the VGG_CNN_M_1024 model on custom subsets of the Microsoft Common Objects in Context (MS COCO) dataset. For example, we improved the procedure so that the user does not have to look for suitable image files in the dataset by hand which can then be used in the demo program. Our implementation randomly selects images that contain at least one object of the categories on which the model is fine-tuned.

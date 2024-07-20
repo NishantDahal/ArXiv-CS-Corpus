@@ -1,0 +1,3 @@
+A decision procedure for well-formed linear quantum cellular automata
+
+In this paper we introduce a new quantum computation model, the linear quantum cellular automaton. Well-formedness is an essential property for any quantum computing device since it enables us to define the probability of a configuration in an observation as the squared magnitude of its amplitude. We give an efficient algorithm which decides if a linear quantum cellular automaton is well-formed. The complexity of the algorithm is $O(n^2)$ in the algebraic model of computation if the input automaton has continuous neighborhood.

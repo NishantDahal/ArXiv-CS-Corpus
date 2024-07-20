@@ -1,0 +1,3 @@
+Reactive Programming in Standard ML
+
+Reactive systems are systems that maintain an ongoing interaction with their environment, activated by receiving input events from the environment and producing output events in response. Modern programming languages designed to program such systems use a paradigm based on the notions of instants and activations. We describe a library for Standard ML that provides basic primitives for programming reactive systems. The library is a low-level system upon which more sophisticated reactive behaviors can be built, which provides a convenient framework for prototyping extensions to existing reactive languages.

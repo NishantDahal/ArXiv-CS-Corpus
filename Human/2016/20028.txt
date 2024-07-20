@@ -1,0 +1,3 @@
+Point Pair Feature based Object Detection for Random Bin Picking
+
+Point pair features are a popular representation for free form 3D object detection and pose estimation. In this paper, their performance in an industrial random bin picking context is investigated. A new method to generate representative synthetic datasets is proposed. This allows to investigate the influence of a high degree of clutter and the presence of self similar features, which are typical to our application. We provide an overview of solutions proposed in literature and discuss their strengths and weaknesses. A simple heuristic method to drastically reduce the computational complexity is introduced, which results in improved robustness, speed and accuracy compared to the naive approach.

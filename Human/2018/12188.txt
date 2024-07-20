@@ -1,0 +1,4 @@
+Labelling as an unsupervised learning problem
+
+Unravelling hidden patterns in datasets is a classical problem with many potential applications. In this paper, we present a challenge whose objective is to discover nonlinear relationships in noisy cloud of points. If a set of point satisfies a nonlinear relationship that is unlikely to be due to randomness, we will label the set with this relationship. Since points can satisfy one, many or no such nonlinear relationships, cloud of points will typically have one, multiple or no labels at all. This introduces the labelling problem that will be studied in this paper.
+  The objective of this paper is to develop a framework for the labelling problem. We introduce a precise notion of a label, and we propose an algorithm to discover such labels in a given dataset, which is then tested in synthetic datasets. We also analyse, using tools from random matrix theory, the problem of discovering false labels in the dataset.

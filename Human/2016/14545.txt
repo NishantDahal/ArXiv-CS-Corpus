@@ -1,0 +1,3 @@
+Towards Automated Melanoma Screening: Exploring Transfer Learning Schemes
+
+Deep learning is the current bet for image classification. Its greed for huge amounts of annotated data limits its usage in medical imaging context. In this scenario transfer learning appears as a prominent solution. In this report we aim to clarify how transfer learning schemes may influence classification results. We are particularly focused in the automated melanoma screening problem, a case of medical imaging in which transfer learning is still not widely used. We explored transfer with and without fine-tuning, sequential transfers and usage of pre-trained models in general and specific datasets. Although some issues remain open, our findings may drive future researches.

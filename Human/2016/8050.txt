@@ -1,0 +1,4 @@
+Self-Stabilizing Repeated Balls-into-Bins
+
+We study the following synchronous process that we call "repeated balls-into-bins". The process is started by assigning $n$ balls to $n$ bins in an arbitrary way. In every subsequent round, from each non-empty bin one ball is chosen according to some fixed strategy (random, FIFO, etc), and re-assigned to one of the $n$ bins uniformly at random.
+  We define a configuration "legitimate" if its maximum load is $\mathcal{O}(\log n)$. We prove that, starting from any configuration, the process will converge to a legitimate configuration in linear time and then it will only take on legitimate configurations over a period of length bounded by any polynomial in $n$, with high probability (w.h.p.). This implies that the process is self-stabilizing and that every ball traverses all bins in $\mathcal{O}(n \log^2 n)$ rounds, w.h.p.

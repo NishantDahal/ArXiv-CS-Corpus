@@ -1,0 +1,3 @@
+From Total Assignment Enumeration to Modern SAT Solver
+
+A new framework for presenting and analyzing the functionality of a modern DLL-based SAT solver is proposed. Our approach exploits the inherent relation between backtracking and resolution. We show how to derive the algorithm of a modern SAT solver from DLL step-by-step. We analyze the inference power of Boolean Constraint Propagation, Non-Chronological Backtracking and 1UIP-based Conflict-Directed Backjumping. Our work can serve as an introduction to a modern SAT solver functionality and as a basis for future work on the inference power of a modern SAT solver and on practical SAT solver design.

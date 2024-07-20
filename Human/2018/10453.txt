@@ -1,0 +1,3 @@
+Simple set cardinality estimation through random sampling
+
+We present a simple algorithm that estimates the cardinality $n$ of a set $V$ when allowed to sample elements of $V$ uniformly and independently at random. Our algorithm with probability $(1-δ)$ returns a $(1\pmε)-$approximation of $n$ drawing $O\big(\sqrt{n} \cdot ε^{-1}\sqrt{\log(δ^{-1})}\big)$ samples (for $ε^{-1}\sqrt{\log(δ^{-1})} = O(\sqrt{n})$).

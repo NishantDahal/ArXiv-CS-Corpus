@@ -1,0 +1,3 @@
+Longest Common Subsequence in at Least $k$ Length Order-Isomorphic Substrings
+
+We consider the longest common subsequence (LCS) problem with the restriction that the common subsequence is required to consist of at least $k$ length substrings. First, we show an $O(mn)$ time algorithm for the problem which gives a better worst-case running time than existing algorithms, where $m$ and $n$ are lengths of the input strings. Furthermore, we mainly consider the LCS in at least $k$ length order-isomorphic substrings problem. We show that the problem can also be solved in $O(mn)$ worst-case time by an easy-to-implement algorithm.

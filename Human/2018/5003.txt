@@ -1,0 +1,3 @@
+Continuous-time integral dynamics for Aggregative Game equilibrium seeking
+
+In this paper, we consider continuous-time semi-decentralized dynamics for the equilibrium computation in a class of aggregative games. Specifically, we propose a scheme where decentralized projected-gradient dynamics are driven by an integral control law. To prove global exponential convergence of the proposed dynamics to an aggregative equilibrium, we adopt a quadratic Lyapunov function argument. We derive a sufficient condition for global convergence that we position within the recent literature on aggregative games, and in particular we show that it improves on established results.

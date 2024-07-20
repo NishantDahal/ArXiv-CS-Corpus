@@ -1,0 +1,3 @@
+Elimination of ISI Using Improved LMS Based Decision Feedback Equalizer
+
+This paper deals with the implementation of Least Mean Square (LMS) algorithm in Decision Feedback Equalizer (DFE) for removal of Inter Symbol Interference (ISI) at the receiver. The channel disrupts the transmitted signal by spreading it in time. Although, the LMS algorithm is robust and reliable, it is slow in convergence. In order to increase the speed of convergence, modifications have been made in the algorithm where the weights get updated depending on the severity of disturbance.

@@ -1,0 +1,3 @@
+Towards Integrated Modelling of Dynamic Access Control with UML and Event-B
+
+Role-Based Access Control (RBAC) is a popular authorization model used to manage data-access constraints in a wide range of systems. RBAC usually defines the static view on the access rights. However, to ensure dependability of a system, it is often necessary to model and verify state-dependent access rights. Such a modelling allows us to explicitly define the dependencies between the system states and permissions to access and modify certain data. In this paper, we present a work-in-progress on combining graphical and formal modelling to specify and verify dynamic access control. The approach is illustrated by a case study -- a reporting management system.

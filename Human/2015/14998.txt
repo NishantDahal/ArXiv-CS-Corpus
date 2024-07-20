@@ -1,0 +1,3 @@
+A Context-Oriented Extension of F#
+
+Context-Oriented programming languages provide us with primitive constructs to adapt program behaviour depending on the evolution of their operational environment, namely the context. In previous work we proposed ML_CoDa, a context-oriented language with two-components: a declarative constituent for programming the context and a functional one for computing. This paper describes the implementation of ML_CoDa as an extension of F#.

@@ -1,0 +1,3 @@
+Data clustering using stochastic block models
+
+It has been shown that community detection algorithms work better for clustering tasks than other, more popular methods, such as k-means. In fact, network analysis based methods often outperform more widely used methods and do not suffer from some of the drawbacks we notice elsewhere e.g. the number of clusters k usually has to be known in advance. However, stochastic block models which are known to perform well for community detection, have not yet been tested for this task. We discuss why these models cannot be directly applied to this problem and test the performance of a generalization of stochastic block models which work on weighted graphs and compare them to other clustering techniques.

@@ -1,0 +1,3 @@
+Attention Span For Personalisation
+
+A click on an item is arguably the most widely used feature in recommender systems. However, a click is one out of 174 events a browser can trigger. This paper presents a framework to effectively collect and store data from event streams. A set of mining methods is provided to extract user engagement features such as: attention span, scrolling depth and visible impressions. In this work, we present an experiment where recommendations based on attention span drove 340% higher click-through-rate than clicks.

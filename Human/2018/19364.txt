@@ -1,0 +1,3 @@
+Accelerated Randomized Coordinate Descent Algorithms for Stochastic Optimization and Online Learning
+
+We propose accelerated randomized coordinate descent algorithms for stochastic optimization and online learning. Our algorithms have significantly less per-iteration complexity than the known accelerated gradient algorithms. The proposed algorithms for online learning have better regret performance than the known randomized online coordinate descent algorithms. Furthermore, the proposed algorithms for stochastic optimization exhibit as good convergence rates as the best known randomized coordinate descent algorithms. We also show simulation results to demonstrate performance of the proposed algorithms.

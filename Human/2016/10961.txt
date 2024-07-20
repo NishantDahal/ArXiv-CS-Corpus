@@ -1,0 +1,5 @@
+Hybrid Information Flow Analysis for Programs with Arrays
+
+Information flow analysis checks whether certain pieces of (confidential) data may affect the results of computations in unwanted ways and thus leak information. Dynamic information flow analysis adds instrumentation code to the target software to track flows at run time and raise alarms if a flow policy is violated; hybrid analyses combine this with preliminary static analysis.
+  Using a subset of C as the target language, we extend previous work on hybrid information flow analysis that handled pointers to scalars. Our extended formulation handles arrays, pointers to array elements, and pointer arithmetic. Information flow through arrays of pointers is tracked precisely while arrays of non-pointer types are summarized efficiently.
+  A prototype of our approach is implemented using the Frama-C program analysis and transformation framework. Work on a full machine-checked proof of the correctness of our approach using Isabelle/HOL is well underway; we present the existing parts and sketch the rest of the correctness argument.

@@ -1,0 +1,3 @@
+Iterated local search and very large neighborhoods for the parallel-machines total tardiness problem
+
+We present computational results with a heuristic algorithm for the parallel machines total weighted tardiness problem. The algorithm combines generalized pairwise interchange neighborhoods, dynasearch optimization and a new machine-based neighborhood whose size is non-polynomial in the number of machines. The computational results significantly improve over the current state of the art for this problem.

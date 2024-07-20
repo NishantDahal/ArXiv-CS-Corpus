@@ -1,0 +1,3 @@
+Techniques Enabling Generator Refactoring
+
+This paper presents our approach to use refactoring techniques together with code generation. Refactoring is particularly useful if not only the generated classes but also the generator itself can be adapted in an automatic fashion. We have developed a simple demonstration prototype to illustrate this. The demonstration is based on a special technique where the template for the code generation is defined as compilable source code. The directives to ll out this template prototype to the actual classes are embedded in the source as comments.

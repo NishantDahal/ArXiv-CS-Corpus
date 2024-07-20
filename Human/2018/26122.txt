@@ -1,0 +1,3 @@
+A Channel-Based Perspective on Conjugate Priors
+
+A desired closure property in Bayesian probability is that an updated posterior distribution be in the same class of distributions --- say Gaussians --- as the prior distribution. When the updating takes place via a statistical model, one calls the class of prior distributions the `conjugate priors' of the model. This paper gives (1) an abstract formulation of this notion of conjugate prior, using channels, in a graphical language, (2) a simple abstract proof that such conjugate priors yield Bayesian inversions, and (3) a logical description of conjugate priors that highlights the required closure of the priors under updating. The theory is illustrated with several standard examples, also covering multiple updating.

@@ -1,0 +1,3 @@
+Fast multi-output relevance vector regression
+
+This paper aims to decrease the time complexity of multi-output relevance vector regression from O(VM^3) to O(V^3+M^3), where V is the number of output dimensions, M is the number of basis functions, and V<M. The experimental results demonstrate that the proposed method is more competitive than the existing method, with regard to computation time. MATLAB codes are available at http://www.mathworks.com/matlabcentral/fileexchange/49131.

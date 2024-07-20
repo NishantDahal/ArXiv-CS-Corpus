@@ -1,0 +1,4 @@
+Unsupervised Semantic Action Discovery from Video Collections
+
+Human communication takes many forms, including speech, text and instructional videos. It typically has an underlying structure, with a starting point, ending, and certain objective steps between them. In this paper, we consider instructional videos where there are tens of millions of them on the Internet.
+  We propose a method for parsing a video into such semantic steps in an unsupervised way. Our method is capable of providing a semantic "storyline" of the video composed of its objective steps. We accomplish this using both visual and language cues in a joint generative model. Our method can also provide a textual description for each of the identified semantic steps and video segments. We evaluate our method on a large number of complex YouTube videos and show that our method discovers semantically correct instructions for a variety of tasks.

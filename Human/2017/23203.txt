@@ -1,0 +1,3 @@
+h: A Plank for Higher-order Attribute Contraction Schemes
+
+We present and formalize h, a core (or "plank") calculus that can serve as the foundation for several compiler specification languages, notably CRSX (Combinatory Reductions Systems with eXtensions), HACS (Higher-order Attribute Contraction Schemes), and TransScript. We discuss how the h typing and formation rules introduce the necessary restrictions to ensure that rewriting is well-defined, even in the presence of h's powerful extensions for manipulating free variables and environments as first class elements (including in pattern matching).

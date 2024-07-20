@@ -1,0 +1,3 @@
+Trustware: A Device-based Protocol for Verifying Client Legitimacy
+
+Online services commonly attempt to verify the legitimacy of users with CAPTCHAs. However, CAPTCHAs are annoying for users, often difficult for users to solve, and can be defeated using cheap labor or, increasingly, with improved algorithms. We propose a new protocol for clients to prove their legitimacy, allowing the client's devices to vouch for the client. The client's devices, and those in close proximity, provide a one-time passcode that is verified by the device manufacturer. This verification proves that the client has physical access to expensive and trusted devices, vouching for the client's legitimacy.

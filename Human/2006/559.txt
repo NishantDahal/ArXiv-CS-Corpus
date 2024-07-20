@@ -1,0 +1,3 @@
+Efficient algorithm for computing the Euler-Poincaré characteristic of a semi-algebraic set defined by few quadratic inequalities
+
+We present an algorithm which takes as input a closed semi-algebraic set, $S \subset \R^k$, defined by \[ P_1 \leq 0, ..., P_\ell \leq 0, P_i \in \R[X_1,...,X_k], °(P_i) \leq 2, \] and computes the Euler-Poincaré characteristic of $S$. The complexity of the algorithm is $k^{O(\ell)}$.

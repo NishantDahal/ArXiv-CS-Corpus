@@ -1,0 +1,3 @@
+The Availability and Security Implications of Glue in the Domain Name System
+
+The Domain Name System (DNS) is one of the most fundamental components of the Internet. While glue is widely used and heavily relied on in DNS operations, there is little thinking about the necessity, complexity, and venerability of such prevalent configuration. This work is the first to provide extensive and systematic analysis of DNS glue. It discusses the availability implications of glue and proposes the minimum glue records in terms of availability. It also identifies the security vulnerabilities of glue as well as the limitations of current countermeasures. Measurements show the wide occurrences of glue redundancies and glue vulnerabilities.

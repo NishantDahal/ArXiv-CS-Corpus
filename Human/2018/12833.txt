@@ -1,0 +1,3 @@
+Decision Tree Design for Classification in Crowdsourcing Systems
+
+In this paper, we present a novel sequential paradigm for classification in crowdsourcing systems. Considering that workers are unreliable and they perform the tests with errors, we study the construction of decision trees so as to minimize the probability of mis-classification. By exploiting the connection between probability of mis-classification and entropy at each level of the decision tree, we propose two algorithms for decision tree design. Furthermore, the worker assignment problem is studied when workers can be assigned to different tests of the decision tree to provide a trade-off between classification cost and resulting error performance. Numerical results are presented for illustration.

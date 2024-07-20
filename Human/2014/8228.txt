@@ -1,0 +1,8 @@
+On asymptotic structure in compressed sensing
+
+This paper demonstrates how new principles of compressed sensing, namely asymptotic incoherence, asymptotic sparsity and multilevel sampling, can be utilised to better understand underlying phenomena in practical compressed sensing and improve results in real-world applications. The contribution of the paper is fourfold:
+  First, it explains how the sampling strategy depends not only on the signal sparsity but also on its structure, and shows how to design effective sampling strategies utilising this.
+  Second, it demonstrates that the optimal sampling strategy and the efficiency of compressed sensing also depends on the resolution of the problem, and shows how this phenomenon markedly affects compressed sensing results and how to exploit it.
+  Third, as the new framework also fits analog (infinite dimensional) models that govern many inverse problems in practice, the paper describes how it can be used to yield substantial improvements.
+  Fourth, by using multilevel sampling, which exploits the structure of the signal, the paper explains how one can outperform random Gaussian/Bernoulli sampling even when the classical $l^1$ recovery algorithm is replaced by modified algorithms which aim to exploit structure such as model based or Bayesian compressed sensing or approximate message passaging. This final observation raises the question whether universality is desirable even when such matrices are applicable.
+  Examples of practical applications investigated in this paper include Magnetic Resonance Imaging (MRI), Electron Microscopy (EM), Compressive Imaging (CI) and Fluorescence Microscopy (FM). For the latter, a new compressed sensing approach is also presented.

@@ -1,0 +1,4 @@
+Monocular Navigation in Large Scale Dynamic Environments
+
+We present a processing technique for a robust reconstruction of motion properties for single points in large scale, dynamic environments. We assume that the acquisition camera is moving and that there are other independently moving agents in a large environment, like road scenarios. The separation of direction and magnitude of the reconstructed motion allows for robust reconstruction of the dynamic state of the objects in situations, where conventional binocular systems fail due to a small signal (disparity) from the images due to a constant detection error, and where structure from motion approaches fail due to unobserved motion of other agents between the camera frames.
+  We present the mathematical framework and the sensitivity analysis for the resulting system.

@@ -1,0 +1,3 @@
+Bootstrapping Face Detection with Hard Negative Examples
+
+Recently significant performance improvement in face detection was made possible by deeply trained convolutional networks. In this report, a novel approach for training state-of-the-art face detector is described. The key is to exploit the idea of hard negative mining and iteratively update the Faster R-CNN based face detector with the hard negatives harvested from a large set of background examples. We demonstrate that our face detector outperforms state-of-the-art detectors on the FDDB dataset, which is the de facto standard for evaluating face detection algorithms.

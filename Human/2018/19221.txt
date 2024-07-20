@@ -1,0 +1,3 @@
+Framework for the hybrid parallelisation of simulation codes
+
+Writing efficient hybrid parallel code is tedious, error-prone, and requires good knowledge of both parallel programming and multithreading such as MPI and OpenMP, resp. Therefore, we present a framework which is based on a job model that allows the user to incorporate his sequential code with manageable effort and code modifications in order to be executed in parallel on clusters or supercomputers built from modern multi-core CPUs. The primary application domain of this framework are simulation codes from engineering disciplines as those are in many cases still sequential and due to their memory and runtime demands prominent candidates for parallelisation.

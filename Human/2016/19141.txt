@@ -1,0 +1,3 @@
+Audio-based Distributional Semantic Models for Music Auto-tagging and Similarity Measurement
+
+The recent development of Audio-based Distributional Semantic Models (ADSMs) enables the computation of audio and lexical vector representations in a joint acoustic-semantic space. In this work, these joint representations are applied to the problem of automatic tag generation. The predicted tags together with their corresponding acoustic representation are exploited for the construction of acoustic-semantic clip embeddings. The proposed algorithms are evaluated on the task of similarity measurement between music clips. Acoustic-semantic models are shown to outperform the state-of-the-art for this task and produce high quality tags for audio/music clips.

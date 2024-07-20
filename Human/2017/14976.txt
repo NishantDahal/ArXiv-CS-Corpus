@@ -1,0 +1,3 @@
+Secure Multi-Party Computation with a Helper
+
+A client wishes to outsource computation on confidential data to a network of parties. He does not trust a single party but believes that multiple parties do not collude. To solve this problem, we use the idea of treating one of the parties as a helper. A helper assists computation only. Often using more parties ensures confidentiality despite more corrupted parties. This does not hold for adding a helper. But a helper can in some cases lower the amount of communication asymptotically to the theoretical minimum of one bit per AND gate, improving significantly on schemes without a helper. It can also allow for very efficient computations of certain functions, as we show for the exponential function with public base.

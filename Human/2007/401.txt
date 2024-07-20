@@ -1,0 +1,3 @@
+The Octagon Abstract Domain
+
+This article presents a new numerical abstract domain for static analysis by abstract interpretation. It extends a former numerical abstract domain based on Difference-Bound Matrices and allows us to represent invariants of the form (+/-x+/-y<=c), where x and y are program variables and c is a real constant. We focus on giving an efficient representation based on Difference-Bound Matrices - O(n2) memory cost, where n is the number of variables - and graph-based algorithms for all common abstract operators - O(n3) time cost. This includes a normal form algorithm to test equivalence of representation and a widening operator to compute least fixpoint approximations.

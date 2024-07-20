@@ -1,0 +1,3 @@
+A formally verified proof of the prime number theorem
+
+The prime number theorem, established by Hadamard and de la Vall'ee Poussin independently in 1896, asserts that the density of primes in the positive integers is asymptotic to 1 / ln x. Whereas their proofs made serious use of the methods of complex analysis, elementary proofs were provided by Selberg and Erd"os in 1948. We describe a formally verified version of Selberg's proof, obtained using the Isabelle proof assistant.

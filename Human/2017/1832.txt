@@ -1,0 +1,6 @@
+Detecting Heavy Flows in the SDN Match and Action Model
+
+Efficient algorithms and techniques to detect and identify large flows in a high throughput traffic stream in the SDN match-and-action model are presented. This is in contrast to previous work that either deviated from the match and action model by requiring additional switch level capabilities or did not exploit the SDN data plane. Our construction has two parts; (a) how to sample in an SDN match and action model, (b) how to detect large flows efficiently and in a scalable way, in the SDN model.
+  Our large flow detection methods provide high accuracy and present a good and practical tradeoff between switch - controller traffic, and the number of entries required in the switch flow table. Based on different parameters, we differentiate between heavy flows, elephant flows and bulky flows and present efficient algorithms to detect flows of the different types.
+  Additionally, as part of our heavy flow detection scheme, we present sampling methods to sample packets with arbitrary probability $p$ per packet or per byte that traverses an SDN switch.
+  Finally, we show how our algorithms can be adapted to a distributed monitoring SDN setting with multiple switches, and easily scale with the number of monitoring switches.

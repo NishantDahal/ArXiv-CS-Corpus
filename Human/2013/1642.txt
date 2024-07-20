@@ -1,0 +1,5 @@
+Silent Transitions in Automata with Storage
+
+We consider the computational power of silent transitions in one-way automata with storage. Specifically, we ask which storage mechanisms admit a transformation of a given automaton into one that accepts the same language and reads at least one input symbol in each step.
+  We study this question using the model of valence automata. Here, a finite automaton is equipped with a storage mechanism that is given by a monoid.
+  This work presents generalizations of known results on silent transitions. For two classes of monoids, it provides characterizations of those monoids that allow the removal of λ-transitions. Both classes are defined by graph products of copies of the bicyclic monoid and the group of integers. The first class contains pushdown storages as well as the blind counters while the second class contains the blind and the partially blind counters.

@@ -1,0 +1,3 @@
+Step size adaptation in first-order method for stochastic strongly convex programming
+
+We propose a first-order method for stochastic strongly convex optimization that attains $O(1/n)$ rate of convergence, analysis show that the proposed method is simple, easily to implement, and in worst case, asymptotically four times faster than its peers. We derive this method from several intuitive observations that are generalized from existing first order optimization methods.

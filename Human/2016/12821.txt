@@ -1,0 +1,5 @@
+Efficient Algebraic Effect Handlers for Prolog
+
+Recent work has provided delimited control for Prolog to dynamically manipulate the program control-flow, and to implement a wide range of control-flow and dataflow effects on top of. Unfortunately, delimited control is a rather primitive language feature that is not easy to use.
+  As a remedy, this work introduces algebraic effect handlers for Prolog, as a high-level and structured way of defining new side-effects in a modular fashion. We illustrate the expressive power of the feature and provide an implementation by means of elaboration into the delimited control primitives.
+  The latter add a non-negligible performance overhead when used extensively. To address this issue, we present an optimised compilation approach that combines partial evaluation with dedicated rewrite rules. The rewrite rules are driven by a lightweight effect inference that analyses what effect operations may be called by a goal. We illustrate the effectiveness of this approach on a range of benchmarks. This article is under consideration for acceptance in TPLP.

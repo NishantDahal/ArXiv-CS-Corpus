@@ -1,0 +1,3 @@
+Maximum Entropy Interval Aggregations
+
+Given a probability distribution ${\bf p} = (p_1, \dots, p_n)$ and an integer $1\leq m < n$, we say that ${\bf q} = (q_1, \dots, q_m)$ is a contiguous $m$-aggregation of ${\bf p}$ if there exist indices $0=i_0 < i_1 < \cdots < i_{m-1} < i_m = n$ such that for each $j = 1, \dots, m$ it holds that $q_j = \sum_{k=i_{j-1}+1}^{i_j} p_k.$ In this paper, we consider the problem of efficiently finding the contiguous $m$-aggregation of maximum entropy. We design a dynamic programming algorithm that solves the problem exactly, and two more time-efficient greedy algorithms that provide slightly sub-optimal solutions. We also discuss a few scenarios where our problem matters.

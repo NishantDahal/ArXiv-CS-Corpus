@@ -1,0 +1,3 @@
+Design Patterns which Facilitate Message Digest Collision Attacks on Blockchains
+
+Message digest algorithms are one of the underlying building blocks of blockchain platforms such as Ethereum. This paper analyses situations in which the message digest collision resistance property can be exploited by attackers. Two mitigations for possible attacks are described: longer message digest sizes make attacks more difficult; and, including timeliness properties limits the amount of time an attacker has to determine a hash collision.

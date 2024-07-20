@@ -1,0 +1,3 @@
+A Formulation of the Simple Theory of Types (for Isabelle)
+
+Simple type theory is formulated for use with the generic theorem prover Isabelle. This requires explicit type inference rules. There are function, product, and subset types, which may be empty. Descriptions (the eta-operator) introduce the Axiom of Choice. Higher-order logic is obtained through reflection between formulae and terms of type bool. Recursive types and functions can be formally constructed. Isabelle proof procedures are described. The logic appears suitable for general mathematics as well as computational problems.

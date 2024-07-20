@@ -1,0 +1,3 @@
+Convolutional capsule network for classification of breast cancer histology images
+
+Automatization of the diagnosis of any kind of disease is of great importance and it's gaining speed as more and more deep learning solutions are applied to different problems. One of such computer aided systems could be a decision support too able to accurately differentiate between different types of breast cancer histological images - normal tissue or carcinoma. In this paper authors present a deep learning solution, based on convolutional capsule network for classification of four types of images of breast tissue biopsy when hematoxylin and eusin staining is applied. The cross-validation accuracy was achieved to be 0.87 with equaly high sensitivity.

@@ -1,0 +1,3 @@
+Optimizing PID parameters with machine learning
+
+This paper examines the Evolutionary programming (EP) method for optimizing PID parameters. PID is the most common type of regulator within control theory, partly because it's relatively simple and yields stable results for most applications. The p, i and d parameters vary for each application; therefore, choosing the right parameters is crucial for obtaining good results but also somewhat difficult. EP is a derivative-free optimization algorithm which makes it suitable for PID optimization. The experiments in this paper demonstrate the power of EP to solve the problem of optimizing PID parameters without getting stuck in local minimums.

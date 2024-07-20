@@ -1,0 +1,3 @@
+Portable Ontological Expressions in NoSQL Queries
+
+A significant barrier to the portability of queries across di- verse physical implementations of large data stores, espe- cially NoSQL data stores, is that the queries reference the physical storage attributes, such as the table and column names. In this paper, we describe a technique for embed- ding ontological expressions called Address Expressions, or A-Expressions, in NoSQL queries to improve their portability across diverse physical implementations. We discuss an implementation of such queries over a MongoDB data store of the Enron email corpus with examples, and conduct a preliminary performance assessment.

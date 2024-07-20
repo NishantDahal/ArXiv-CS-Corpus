@@ -1,0 +1,3 @@
+Approximating Constraint Propagation in Datalog
+
+We present a technique exploiting Datalog with aggregates to improve the performance of programs with arithmetic (in)equalities. Our approach employs a source-to-source program transformation which approximates the propagation technique from Constraint Programming. The experimental evaluation of the approach shows good run time speed-ups on a range of non-recursive as well as recursive programs. Furthermore, our technique improves upon the previously reported in the literature constraint magic set transformation approach.

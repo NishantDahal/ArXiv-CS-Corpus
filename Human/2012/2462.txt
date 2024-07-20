@@ -1,0 +1,3 @@
+An Eclipse Plugin to Support Code Smells Detection
+
+Eradication of code smells is often pointed out as a way to improve readability, extensibility and design in existing software. However, code smell detection in large systems remains time consuming and error-prone, partly due to the inherent subjectivity of the detection processes presently available. In view of mitigating the subjectivity problem, this paper presents a tool that automates a technique for the detection and assessment of code smells in Java source code, developed as an Eclipse plug-in. The technique is based upon a Binary Logistic Regression model and calibrated by expert's knowledge. A short overview of the technique is provided and the tool is described.

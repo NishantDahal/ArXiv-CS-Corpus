@@ -1,0 +1,3 @@
+Deep Learning Hyperspectral Image Classification Using Multiple Class-based Denoising Autoencoders, Mixed Pixel Training Augmentation, and Morphological Operations
+
+Herein, we present a system for hyperspectral image segmentation that utilizes multiple class--based denoising autoencoders which are efficiently trained. Moreover, we present a novel hyperspectral data augmentation method for labelled HSI data using linear mixtures of pixels from each class, which helps the system with edge pixels which are almost always mixed pixels. Finally, we utilize a deep neural network and morphological hole-filling to provide robust image classification. Results run on the Salinas dataset verify the high performance of the proposed algorithm.

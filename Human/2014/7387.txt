@@ -1,0 +1,3 @@
+Strategic Port Graph Rewriting: An Interactive Modelling and Analysis Framework
+
+We present strategic portgraph rewriting as a basis for the implementation of visual modelling and analysis tools. The goal is to facilitate the specification, analysis and simulation of complex systems, using port graphs.  A system is represented by an initial graph and a collection of graph rewriting rules, together with a user-defined strategy to control the application of rules.   The strategy language includes constructs to deal with  graph traversal and management of rewriting positions in the graph. We give a small-step operational semantics for the language, and describe its implementation in the graph transformation and visualisation tool PORGY.

@@ -1,0 +1,3 @@
+Leaf Identification Using a Deep Convolutional Neural Network
+
+Convolutional neural networks (CNNs) have become popular especially in computer vision in the last few years because they achieved outstanding performance on different tasks, such as image classifications. We propose a nine-layer CNN for leaf identification using the famous Flavia and Foliage datasets. Usually the supervised learning of deep CNNs requires huge datasets for training. However, the used datasets contain only a few examples per plant species. Therefore, we apply data augmentation and transfer learning to prevent our network from overfitting. The trained CNNs achieve recognition rates above 99% on the Flavia and Foliage datasets, and slightly outperform current methods for leaf classification.

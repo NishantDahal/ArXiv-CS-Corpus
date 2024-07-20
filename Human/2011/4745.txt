@@ -1,0 +1,3 @@
+Sparse Recovery with Graph Constraints: Fundamental Limits and Measurement Construction
+
+This paper addresses the problem of sparse recovery with graph constraints in the sense that we can take additive measurements over nodes only if they induce a connected subgraph. We provide explicit measurement constructions for several special graphs. A general measurement construction algorithm is also proposed and evaluated. For any given graph $G$ with $n$ nodes, we derive order optimal upper bounds of the minimum number of measurements needed to recover any $k$-sparse vector over $G$ ($M^G_{k,n}$). Our study suggests that $M^G_{k,n}$ may serve as a graph connectivity metric.

@@ -1,0 +1,3 @@
+Tensor Train Neighborhood Preserving Embedding
+
+In this paper, we propose a Tensor Train Neighborhood Preserving Embedding (TTNPE) to embed multi-dimensional tensor data into low dimensional tensor subspace. Novel approaches to solve the optimization problem in TTNPE are proposed. For this embedding, we evaluate novel trade-off gain among classification, computation, and dimensionality reduction (storage) for supervised learning. It is shown that compared to the state-of-the-arts tensor embedding methods, TTNPE achieves superior trade-off in classification, computation, and dimensionality reduction in MNIST handwritten digits and Weizmann face datasets.

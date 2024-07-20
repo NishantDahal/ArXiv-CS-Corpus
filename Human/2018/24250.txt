@@ -1,0 +1,3 @@
+Ensemble Clustering for Graphs
+
+We propose an ensemble clustering algorithm for graphs (ECG), which is based on the Louvain algorithm and the concept of consensus clustering. We validate our approach by replicating a recently published study comparing graph clustering algorithms over artificial networks, showing that ECG outperforms the leading algorithms from that study. We also illustrate how the ensemble obtained with ECG can be used to quantify the presence of community structure in the graph.

@@ -1,0 +1,3 @@
+DroidGen: Constraint-based and Data-Driven Policy Generation for Android
+
+We present DroidGen a tool for automatic anti-malware policy inference. DroidGen employs a data-driven approach: it uses a training set of malware and benign applications and makes call to a constraint solver to generate a policy under which a maximum of malware is excluded and a maximum of benign applications is allowed. Preliminary results are encouraging. We are able to automatically generate a policy which filters out 91% of the tested Android malware. Moreover, compared to black-box machine learning classifiers, our method has the advantage of generating policies in a declarative readable format. We illustrate our approach, describe its implementation and report on the preliminary results.

@@ -1,0 +1,3 @@
+Semantically Guided Evolution of $\mathcal{SHI}$ ABoxes
+
+This paper presents a method for the evolution of SHI ABoxes which is based on a compilation technique of the knowledge base. For this the ABox is regarded as an interpretation of the TBox which is close to a model. It is shown, that the ABox can be used for a semantically guided transformation resulting in an equisatisfiable knowledge base. We use the result of this transformation to efficiently delete assertions from the ABox. Furthermore, insertion of assertions as well as repair of inconsistent ABoxes is addressed. For the computation of the necessary actions for deletion, insertion and repair, the E-KRHyper theorem prover is used.

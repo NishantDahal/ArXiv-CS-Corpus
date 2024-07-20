@@ -1,0 +1,3 @@
+Planar Ramsey graphs
+
+We say that a graph $H$ is planar unavoidable if there is a planar graph $G$ such that any red/blue coloring of the edges of $G$ contains a monochromatic copy of $H$, otherwise we say that $H$ is planar avoidable. I.e., $H$ is planar unavoidable if there is a Ramsey graph for $H$ that is planar. It follows from the Four-Color Theorem and a result of Gonçalves that if a graph is planar unavoidable then it is bipartite and outerplanar. We prove that the cycle on $4$ vertices and any path are planar unavoidable. In addition, we prove that all trees of radius at most $2$ are planar unavoidable and there are trees of radius $3$ that are planar avoidable. We also address the planar unavoidable notion in more than two colors.

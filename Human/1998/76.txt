@@ -1,0 +1,6 @@
+Letter to Sound Rules for Accented Lexicon Compression
+
+This paper presents trainable methods for generating letter to sound rules from a given lexicon for use in pronouncing out-of-vocabulary words and as a method for lexicon compression.
+  As the relationship between a string of letters and a string of phonemes representing its pronunciation for many languages is not trivial, we discuss two alignment procedures, one fully automatic and one hand-seeded which produce reasonable alignments of letters to phones.
+  Top Down Induction Tree models are trained on the aligned entries. We show how combined phoneme/stress prediction is better than separate prediction processes, and still better when including in the model the last phonemes transcribed and part of speech information. For the lexicons we have tested, our models have a word accuracy (including stress) of 78% for OALD, 62% for CMU and 94% for BRULEX. The extremely high scores on the training sets allow substantial size reductions (more than 1/20).
+  WWW site: http://tcts.fpms.ac.be/synthesis/mbrdico

@@ -1,0 +1,3 @@
+Anti-commutative Dual Complex Numbers and 2D Rigid Transformation
+
+We introduce a new presentation of the two dimensional rigid transformation which is more concise and efficient than the standard matrix presentation. By modifying the ordinary dual number construction for the complex numbers, we define the ring of the anti-commutative dual complex numbers, which parametrizes two dimensional rotation and translation all together. With this presentation, one can easily interpolate or blend two or more rigid transformations at a low computational cost. We developed a library for C++ with the MIT-licensed source code and demonstrate its facility by an interactive deformation tool developed for iPad.

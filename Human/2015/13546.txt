@@ -1,0 +1,3 @@
+Fixed-charge transportation problems on trees
+
+We consider a class of fixed-charge transportation problems over graphs. We show that this problem is strongly NP-hard, but solvable in pseudo-polynomial time over trees using dynamic programming. We also show that the LP formulation associated to the dynamic program can be obtained from extended formulations of single-node flow polytopes. Given these results, we present a unary expansion-based formulation for general graphs that is computationally advantageous when compared to a standard formulation, even if its LP relaxation is not stronger.

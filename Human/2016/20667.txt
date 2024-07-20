@@ -1,0 +1,3 @@
+On Negotiation as Concurrency Primitive II: Deterministic Cyclic Negotiations
+
+We continue our study of negotations, a concurrency model with multiparty negotiation as primitive. In a previous paper (arXiv:13072145) we have provided a correct and complete set of reduction rules for sound, acyclic, and (weakly) deterministic negotiations. In this paper we extend this result to all deterministic negotiations, including cyclic ones. We also show that this set of rules allows one to decide soundness and to summarize negotiations in polynomial time.

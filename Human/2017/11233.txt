@@ -1,0 +1,3 @@
+SUT System Description for NIST SRE 2016
+
+This paper describes the submission to fixed condition of NIST SRE 2016 by Sharif University of Technology (SUT) team. We provide a full description of the systems that were included in our submission. We start with an overview of the datasets that were used for training and development. It is followed by describing front-ends which contain different VAD and feature types. UBM and i-vector extractor training are the next details in this paper. As one of the important steps in system preparation, preconditioning the i-vectors are explained in more details. Then, we describe the classifier and score normalization methods. And finally, some results on SRE16 evaluation dataset are reported and analyzed.

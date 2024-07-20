@@ -1,0 +1,3 @@
+Parallelizing Stream with Future
+
+Stream is re-interpreted in terms of a Lazy monad. Future is substituted for Lazy in the obtained construct, resulting in possible parallelization of any algorithm expressible as a Stream computation. The principle is tested against two example algorithms. Performance is evaluated, and a way to improve it briefly discussed.

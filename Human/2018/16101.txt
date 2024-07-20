@@ -1,0 +1,3 @@
+A Proposal for Loop-Transformation Pragmas
+
+Pragmas for loop transformations, such as unrolling, are implemented in most mainstream compilers. They are used by application programmers because of their ease of use compared to directly modifying the source code of the relevant loops. We propose additional pragmas for common loop transformations that go far beyond the transformations today's compilers provide and should make most source rewriting for the sake of loop optimization unnecessary. To encourage compilers to implement these pragmas, and to avoid a diversity of incompatible syntaxes, we would like to spark a discussion about an inclusion to the OpenMP standard.

@@ -1,0 +1,3 @@
+GUBS Upper Bound Solver (Extended Abstract)
+
+In this extended abstract we present the GUBS Upper Bound Solver. GUBS is a dedicated constraint solver over the naturals for inequalities formed over uninterpreted function symbols and standard arithmetic operations. GUBS now forms the backbone of HoSA, a tool for analysing space and time complexity of higher-order functional programs automatically. We give insights about the implemen- tation and report different case studies.

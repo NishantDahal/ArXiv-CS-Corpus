@@ -1,0 +1,3 @@
+Suggest an Aspect-Oriented Design Approach for UML Communication Diagram
+
+More and more works are done on the design of the Unified Modeling Language (UML) which is designed to help us for modeling effective object oriented software, Existing Object-Oriented design methods are not mature enough to capture non-functional requirement such as concurrency, fault tolerance, distribution and persistence of a software approach. Our approach proposed to use aspect-oriented software development (AOSD) mechanisms to solve the issues for interactions of the communication diagram in UML that support only the Object-Oriented mechanisms,thus AOSD allow to design programs that are out of reach of strict Object-Orientation and could possibly improve the structures and implementations.

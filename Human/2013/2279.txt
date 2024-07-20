@@ -1,0 +1,5 @@
+A Family of Encodings for Translating Pseudo-Boolean Constraints into SAT
+
+A Pseudo-Boolean (PB) constraint is a linear arithmetic constraint over Boolean variables. PB constraints are convenient and widely used in expressing NP-complete problems.
+  We introduce a new, two step, method for transforming PB constraints to propositional CNF formulas. The first step involves re-writing each PB constraint as a conjunction of PB-Mod constraints. The advantage is that PB-Mod constraints are easier to transform to CNF. In the second step, we translate each PB-Mod constraints, obtained in the previous step, into CNF. The resulting CNF formulas are small, and unit propagation can derive facts that it cannot derive using in the CNF formulas obtained by other commonly-used transformations.
+  We also characterize the constraints for which one can expect the SAT solvers to perform well on the produced CNF. We show that there are many constraints for which the proposed encoding has a good performance.

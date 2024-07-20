@@ -1,0 +1,3 @@
+Face Detection using Deep Learning: An Improved Faster RCNN Approach
+
+In this report, we present a new face detection scheme using deep learning and achieve the state-of-the-art detection performance on the well-known FDDB face detetion benchmark evaluation. In particular, we improve the state-of-the-art faster RCNN framework by combining a number of strategies, including feature concatenation, hard negative mining, multi-scale training, model pretraining, and proper calibration of key parameters. As a consequence, the proposed scheme obtained the state-of-the-art face detection performance, making it the best model in terms of ROC curves among all the published methods on the FDDB benchmark.

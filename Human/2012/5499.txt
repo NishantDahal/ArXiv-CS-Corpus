@@ -1,0 +1,3 @@
+The total irregularity of a graph
+
+In this note a new measure of irregularity of a simple undirected graph $G$ is introduced. It is named the total irregularity of a graph and is defined as $\irr_t(G) = 1/2\sum_{u,v \in V(G)} |d_G(u)-d_G(v)|$, where $d_G(u)$ denotes the degree of a vertex $u \in V(G)$. The graphs with maximal total irregularity are determined. It is also shown that among all trees of same order the star graph has the maximal total irregularity.

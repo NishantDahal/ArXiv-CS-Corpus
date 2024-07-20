@@ -1,0 +1,3 @@
+Existential Assertions for Voting Protocols
+
+In earlier work, we extend the Dolev-Yao model with assertions. We build on that work and add existential abstraction to the language, which allows us to translate common constructs used in voting protocols into proof properties. We also give an equivalence-based definition of anonymity in this model, and prove anonymity for the FOO voting protocol.

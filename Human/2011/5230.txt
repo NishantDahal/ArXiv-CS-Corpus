@@ -1,0 +1,3 @@
+Lossless data compression on GPGPU architectures
+
+Modern graphics processors provide exceptional computa- tional power, but only for certain computational models. While they have revolutionized computation in many fields, compression has been largely unnaffected. This paper aims to explain the current issues and possibili- ties in GPGPU compression. This is done by a high level overview of the GPGPU computational model in the context of compression algorithms; along with a more in-depth analysis of how one would implement bzip2 on a GPGPU architecture.

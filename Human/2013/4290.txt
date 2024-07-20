@@ -1,0 +1,4 @@
+On topological changes in the Delaunay triangulation of moving points
+
+Let $P$ be a collection of $n$ points moving along pseudo-algebraic trajectories in the plane. One of the hardest open problems in combinatorial and computational geometry is to obtain a nearly quadratic upper bound, or at least a subcubic bound, on the maximum number of discrete changes that the Delaunay triangulation $\DT(P)$ of $P$ experiences during the motion of the points of $P$.
+  In this paper we obtain an upper bound of $O(n^{2+\eps})$, for any $\eps>0$, under the assumptions that (i) any four points can be co-circular at most twice, and (ii) either no triple of points can be collinear more than twice, or no ordered triple of points can be collinear more than once.

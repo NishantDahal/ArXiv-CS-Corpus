@@ -1,0 +1,3 @@
+On Coreset Constructions for the Fuzzy $K$-Means Problem
+
+The fuzzy $K$-means problem is a popular generalization of the well-known $K$-means problem to soft clusterings. We present the first coresets for fuzzy $K$-means with size linear in the dimension, polynomial in the number of clusters, and poly-logarithmic in the number of points. We show that these coresets can be employed in the computation of a $(1+ε)$-approximation for fuzzy $K$-means, improving previously presented results. We further show that our coresets can be maintained in an insertion-only streaming setting, where data points arrive one-by-one.

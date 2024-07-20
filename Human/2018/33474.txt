@@ -1,0 +1,3 @@
+SIAN: software for structural identifiability analysis of ODE models
+
+Biological processes are often modeled by ordinary differential equations with unknown parameters. The unknown parameters are usually estimated from experimental data. In some cases, due to the structure of the model, this estimation problem does not have a unique solution even in the case of continuous noise-free data. It is therefore desirable to check the uniqueness a priori before carrying out actual experiments. We present a new software SIAN (Structural Identifiability ANalyser) that does this. Our software can tackle problems that could not be tackled by previously developed packages.

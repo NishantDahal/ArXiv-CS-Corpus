@@ -1,0 +1,3 @@
+Max-Cut Parameterized Above the Edwards-Erdős Bound
+
+We study the boundary of tractability for the Max-Cut problem in graphs. Our main result shows that Max-Cut above the Edwards-Erdős bound is fixed-parameter tractable: we give an algorithm that for any connected graph with n vertices and m edges finds a cut of size m/2 + (n-1)/4 + k in time 2^O(k)n^4, or decides that no such cut exists. This answers a long-standing open question from parameterized complexity that has been posed several times over the past 15 years. Our algorithm is asymptotically optimal, under the Exponential Time Hypothesis, and is strengthened by a polynomial-time computable kernel of polynomial size.

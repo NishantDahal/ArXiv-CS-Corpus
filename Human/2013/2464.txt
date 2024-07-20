@@ -1,0 +1,3 @@
+A Temporal Logic for Uncertain Events and An Outline of A Possible Implementation in An Extension of PROLOG
+
+There is uncertainty associated with the occurrence of many events in real life. In this paper we develop a temporal logic to deal with such uncertain events and outline a possible implementation in an extension of PROLOG. Events are represented as fuzzy sets with the membership function giving the possibility of occurrence of the event in a given interval of time. The developed temporal logic is simple but powerful. It can determine effectively the various temporal relations between uncertain events or their combinations. PROLOG provides a uniform substrate on which to effectively implement such a temporal logic for uncertain events

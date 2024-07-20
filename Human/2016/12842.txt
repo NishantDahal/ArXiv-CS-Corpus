@@ -1,0 +1,4 @@
+Rational Solutions of Underdetermined Polynomial Equations
+
+In this paper we report on an application of computer algebra in which mathematical puzzles are generated of a type that had been widely used in mathematics contests by a large number of participants worldwide.
+  The algorithmic aspect of our work provides a method to compute rational solutions of single polynomial equations that are typically large with $10^2 \ldots 10^5$ terms and that are heavily underdetermined. This functionality was obtained by adding modules for a new type of splitting of equations to the existing package CRACK that is normally used to solve polynomial algebraic and differential systems.

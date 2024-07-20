@@ -1,0 +1,3 @@
+Computing stable models: worst-case performance estimates
+
+We study algorithms for computing stable models of propositional logic programs and derive estimates on their worst-case performance that are asymptotically better than the trivial bound of O(m 2^n), where m is the size of an input program and n is the number of its atoms. For instance, for programs, whose clauses consist of at most two literals (counting the head) we design an algorithm to compute stable models that works in time O(m\times 1.44225^n). We present similar results for several broader classes of programs, as well.

@@ -1,0 +1,3 @@
+Analysis of Multiple Flows using Different High Speed TCP protocols on a General Network
+
+We develop analytical tools for performance analysis of multiple TCP flows (which could be using TCP CUBIC, TCP Compound, TCP New Reno) passing through a multi-hop network. We first compute average window size for a single TCP connection (using CUBIC or Compound TCP) under random losses. We then consider two techniques to compute steady state throughput for different TCP flows in a multi-hop network. In the first technique, we approximate the queues as M/G/1 queues. In the second technique, we use an optimization program whose solution approximates the steady state throughput of the different flows. Our results match well with ns2 simulations.

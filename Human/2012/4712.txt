@@ -1,0 +1,5 @@
+Approximation Algorithm for Non-Boolean MAX k-CSP
+
+In this paper, we present a randomized polynomial-time approximation algorithm for k-CSPd. In k-CSPd, we are given a set of predicates of arity k over an alphabet of size d. Our goal is to find an assignment that maximizes the number of satisfied constraints.
+  Our algorithm has approximation factor Omega(kd/d^k) (when k > Ω(log d)). This bound is asymptotically optimal assuming the Unique Games Conjecture. The best previously known algorithm has approximation factor Omega(k log d/d^k).
+  We also give an approximation algorithm for the boolean MAX k-CSP2 problem with a slightly improved approximation guarantee.

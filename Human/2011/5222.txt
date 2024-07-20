@@ -1,0 +1,3 @@
+Stratified Static Analysis Based on Variable Dependencies
+
+In static analysis by abstract interpretation, one often uses widening operators in order to enforce convergence within finite time to an inductive invariant. Certain widening operators, including the classical one over finite polyhedra, exhibit an unintuitive behavior: analyzing the program over a subset of its variables may lead a more precise result than analyzing the original program! In this article, we present simple workarounds for such behavior.

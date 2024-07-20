@@ -1,0 +1,3 @@
+Parameter Synthesis for Markov Models: Faster Than Ever
+
+We propose a simple technique for verifying probabilistic models whose transition probabilities are parametric. The key is to replace parametric transitions by nondeterministic choices of extremal values. Analysing the resulting parameter-free model using off-the-shelf means yields (refinable) lower and upper bounds on probabilities of regions in the parameter space. The technique outperforms the existing analysis of parametric Markov chains by several orders of magnitude regarding both run-time and scalability. Its beauty is its applicability to various probabilistic models. It in particular provides the first sound and feasible method for performing parameter synthesis of Markov decision processes.

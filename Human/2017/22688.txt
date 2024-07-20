@@ -1,0 +1,3 @@
+A Genetic Algorithm-Based Solver for Very Large Jigsaw Puzzles
+
+In this paper we propose the first effective automated, genetic algorithm (GA)-based jigsaw puzzle solver. We introduce a novel procedure of merging two "parent" solutions to an improved "child" solution by detecting, extracting, and combining correctly assembled puzzle segments. The solver proposed exhibits state-of-the-art performance solving previously attempted puzzles faster and far more accurately, and also puzzles of size never before attempted. Other contributions include the creation of a benchmark of large images, previously unavailable. We share the data sets and all of our results for future testing and comparative evaluation of jigsaw puzzle solvers.

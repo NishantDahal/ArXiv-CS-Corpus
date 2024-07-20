@@ -1,0 +1,3 @@
+Key exchange with the help of a public ledger
+
+Blockchains and other public ledger structures promise a new way to create globally consistent event logs and other records. We make use of this consistency property to detect and prevent man-in-the-middle attacks in a key exchange such as Diffie-Hellman or ECDH. Essentially, the MitM attack creates an inconsistency in the world views of the two honest parties, and they can detect it with the help of the ledger. Thus, there is no need for prior knowledge or trusted third parties apart from the distributed ledger. To prevent impersonation attacks, we require user interaction. It appears that, in some applications, the required user interaction is reduced in comparison to other user-assisted key-exchange protocols.

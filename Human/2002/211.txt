@@ -1,0 +1,5 @@
+Randomized Rounding without Solving the Linear Program
+
+Randomized rounding is a standard method, based on the probabilistic method, for designing combinatorial approximation algorithms. In Raghavan's seminal paper introducing the method (1988), he writes: "The time taken to solve the linear program relaxations of the integer programs dominates the net running time theoretically (and, most likely, in practice as well)."
+  This paper explores how this bottleneck can be avoided for randomized rounding algorithms for packing and covering problems (linear programs, or mixed integer linear programs, having no negative coefficients). The resulting algorithms are greedy algorithms, and are faster and simpler to implement than standard randomized-rounding algorithms.
+  This approach can also be used to understand Lagrangian-relaxation algorithms for packing/covering linear programs: such algorithms can be viewed as as (derandomized) randomized-rounding schemes.

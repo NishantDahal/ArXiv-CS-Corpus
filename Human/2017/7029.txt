@@ -1,0 +1,5 @@
+Much Faster Algorithms for Matrix Scaling
+
+We develop several efficient algorithms for the classical \emph{Matrix Scaling} problem, which is used in many diverse areas, from preconditioning linear systems to approximation of the permanent. On an input $n\times n$ matrix $A$, this problem asks to find diagonal (scaling) matrices $X$ and $Y$ (if they exist), so that $X A Y$ $\varepsilon$-approximates a doubly stochastic, or more generally a matrix with prescribed row and column sums.
+  We address the general scaling problem as well as some important special cases. In particular, if $A$ has $m$ nonzero entries, and if there exist $X$ and $Y$ with polynomially large entries such that $X A Y$ is doubly stochastic, then we can solve the problem in total complexity $\tilde{O}(m + n^{4/3})$. This greatly improves on the best known previous results, which were either $\tilde{O}(n^4)$ or $O(m n^{1/2}/\varepsilon)$.
+  Our algorithms are based on tailor-made first and second order techniques, combined with other recent advances in continuous optimization, which may be of independent interest for solving similar problems.

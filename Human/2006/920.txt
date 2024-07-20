@@ -1,0 +1,3 @@
+A Measure of Space for Computing over the Reals
+
+We propose a new complexity measure of space for the BSS model of computation. We define LOGSPACE\_W and PSPACE\_W complexity classes over the reals. We prove that LOGSPACE\_W is included in NC^2\_R and in P\_W, i.e. is small enough for being relevant. We prove that the Real Circuit Decision Problem is P\_R-complete under LOGSPACE\_W reductions, i.e. that LOGSPACE\_W is large enough for containing natural algorithms. We also prove that PSPACE\_W is included in PAR\_R.

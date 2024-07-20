@@ -1,0 +1,3 @@
+Color Homography Color Correction
+
+Homographies -- a mathematical formalism for relating image points across different camera viewpoints -- are at the foundations of geometric methods in computer vision and are used in geometric camera calibration, image registration, and stereo vision and other tasks. In this paper, we show the surprising result that colors across a change in viewing condition (changing light color, shading and camera) are also related by a homography. We propose a new color correction method based on color homography. Experiments demonstrate that solving the color homography problem leads to more accurate calibration.

@@ -1,0 +1,3 @@
+A parallel implementation of the covariance matrix adaptation evolution strategy
+
+In many practical optimization problems, the derivatives of the functions to be optimized are unavailable or unreliable. Such optimization problems are solved using derivative-free optimization techniques. One of the state-of-the-art techniques for derivative-free optimization is the covariance matrix adaptation evolution strategy (CMA-ES) algorithm. However, the complexity of CMA-ES algorithm makes it undesirable for tasks where fast optimization is needed. To reduce the execution time of CMA-ES, a parallel implementation is proposed, and its performance is analyzed using the benchmark problems in PythOPT optimization environment.

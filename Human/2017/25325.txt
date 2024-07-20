@@ -1,0 +1,3 @@
+The microarchitecture of a multi-threaded RISC-V compliant processing core family for IoT end-nodes
+
+Internet-of-Things end-nodes demand low power processing platforms characterized by heterogeneous dedicated units, controlled by a processor core running concurrent control threads. Such architecture scheme fits one of the main target application domain of the RISC-V instruction set. We present an open-source processing core compliant with RISC-V on the software side and with the popular Pulpino processor platform on the hardware side, while supporting interleaved multi-threading for IoT applications. The latter feature is a novel contribution in this application domain. We report details about the microarchitecture design along with performance data.

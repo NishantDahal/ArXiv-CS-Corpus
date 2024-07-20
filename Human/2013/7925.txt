@@ -1,0 +1,3 @@
+Optimizing Abstract Abstract Machines
+
+The technique of abstracting abstract machines (AAM) provides a systematic approach for deriving computable approximations of evaluators that are easily proved sound. This article contributes a complementary step-by-step process for subsequently going from a naive analyzer derived under the AAM approach, to an efficient and correct implementation. The end result of the process is a two to three order-of-magnitude improvement over the systematically derived analyzer, making it competitive with hand-optimized implementations that compute fundamentally less precise results.

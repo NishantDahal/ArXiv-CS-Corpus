@@ -1,0 +1,3 @@
+A Simple Policy for Multiple Queues with Size-Independent Service Times
+
+We consider a service system with two Poisson arrival queues. A server chooses which queue to serve at each moment. Once a queue is served, all the customers will be served within a fixed amount of time. This model is useful in studying airport shuttling or certain online computing systems. We propose a simple yet optimal state-independent policy for this problem which is not only easy to implement, but also performs very well.

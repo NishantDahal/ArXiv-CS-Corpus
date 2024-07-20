@@ -1,0 +1,8 @@
+Sum-of-Squares Certificates for Maxima of Random Tensors on the Sphere
+
+For an $n$-variate order-$d$ tensor $A$, define $ A_{\max} := \sup_{\| x \|_2 = 1} \langle A , x^{\otimes d} \rangle$ to be the maximum value taken by the tensor on the unit sphere. It is known that for a random tensor with i.i.d $\pm 1$ entries, $A_{\max} \lesssim \sqrt{n\cdot d\cdot\log d}$ w.h.p. We study the problem of efficiently certifying upper bounds on $A_{\max}$ via the natural relaxation from the Sum of Squares (SoS) hierarchy. Our results include:
+  - When $A$ is a random order-$q$ tensor, we prove that $q$ levels of SoS certifies an upper bound $B$ on $A_{\max}$ that satisfies \[ B ~~~~\leq~~
+  A_{\max} \cdot \biggl(\frac{n}{q^{\,1-o(1)}}\biggr)^{q/4-1/2} \quad \text{w.h.p.} \] Our upper bound improves a result of Montanari and Richard (NIPS 2014) when $q$ is large.
+  - We show the above bound is the best possible up to lower order terms, namely the optimum of the level-$q$ SoS relaxation is at least \[ A_{\max} \cdot \biggl(\frac{n}{q^{\,1+o(1)}}\biggr)^{q/4-1/2} \ . \]
+  - When $A$ is a random order-$d$ tensor, we prove that $q$ levels of SoS certifies an upper bound $B$ on $A_{\max}$ that satisfies \[
+  B ~~\leq ~~ A_{\max} \cdot \biggl(\frac{\widetilde{O}(n)}{q}\biggr)^{d/4 - 1/2} \quad \text{w.h.p.} \] For growing $q$, this improves upon the bound certified by constant levels of SoS. This answers in part, a question posed by Hopkins, Shi, and Steurer (COLT 2015), who established the tight characterization for constant levels of SoS.

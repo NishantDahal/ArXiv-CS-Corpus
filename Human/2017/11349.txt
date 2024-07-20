@@ -1,0 +1,3 @@
+Predicting Research that will be Cited in Policy Documents
+
+Scientific publications and other genres of research output are increasingly being cited in policy documents. Citations in documents of this nature could be considered a critical indicator of the significance and societal impact of the research output. In this study, we built classification models that predict whether a particular research work is likely to be cited in a public policy document based on the attention it received online, primarily on social media platforms. We evaluated the classifiers based on their accuracy, precision, and recall values. We found that Random Forest and Multinomial Naive Bayes classifiers performed better overall.

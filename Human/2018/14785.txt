@@ -1,0 +1,3 @@
+Numerical Evaluation of Elliptic Functions, Elliptic Integrals and Modular Forms
+
+We describe algorithms to compute elliptic functions and their relatives (Jacobi theta functions, modular forms, elliptic integrals, and the arithmetic-geometric mean) numerically to arbitrary precision with rigorous error bounds for arbitrary complex variables. Implementations in ball arithmetic are available in the open source Arb library. We discuss the algorithms from a concrete implementation point of view, with focus on performance at tens to thousands of digits of precision.

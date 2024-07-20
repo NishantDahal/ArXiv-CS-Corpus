@@ -1,0 +1,4 @@
+Recognizing k-equistable graphs in FPT time
+
+A graph $G = (V,E)$ is called equistable if there exist a positive integer $t$ and a weight function $w : V \to \mathbb{N}$ such that $S \subseteq V$ is a maximal stable set of $G$ if and only if $w(S) = t$. Such a function $w$ is called an equistable function of $G$. For a positive integer $k$, a graph $G = (V,E)$ is said to be $k$-equistable if it admits an equistable function which is bounded by $k$.
+  We prove that the problem of recognizing $k$-equistable graphs is fixed parameter tractable when parameterized by $k$, affirmatively answering a question of Levit et al. In fact, the problem admits an $O(k^5)$-vertex kernel that can be computed in linear time.

@@ -1,0 +1,6 @@
+Rainbow Colouring of Split and Threshold Graphs
+
+A rainbow colouring of a connected graph is a colouring of the edges of the graph, such that every pair of vertices is connected by at least one path in which no two edges are coloured the same. Such a colouring using minimum possible number of colours is called an optimal rainbow colouring, and the minimum number of colours required is called the rainbow connection number of the graph. In this article, we show the following:
+  1. The problem of deciding whether a graph can be rainbow coloured using 3 colours remains NP-complete even when restricted to the class of split graphs. However, any split graph can be rainbow coloured in linear time using at most one more colour than the optimum.
+  2. For every integer k larger than 2, the problem of deciding whether a graph can be rainbow coloured using k colours remains NP-complete even when restricted to the class of chordal graphs.
+  3. For every positive integer k, threshold graphs with rainbow connection number k can be characterised based on their degree sequence alone. Further, we can optimally rainbow colour a threshold graph in linear time.

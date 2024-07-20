@@ -1,0 +1,3 @@
+ACR: a cluster-based routing protocol for VANET
+
+Clustering is a technique used in network routing to enhance the performance and conserve the network resources. This paper presents a cluster-based routing protocol for VANET utilizing a new addressing scheme in which each node gets an address according to its mobility pattern. Hamming distance technique is used then to partition the network in an address-centric manner. The simulation results show that this protocol enhances routing reachability, whereas reduces routing end-to-end delay and traffic received comparing with two benchmarks namely AODV and DSDV.

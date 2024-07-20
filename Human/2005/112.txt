@@ -1,0 +1,3 @@
+Bidimensionality, Map Graphs, and Grid Minors
+
+In this paper we extend the theory of bidimensionality to two families of graphs that do not exclude fixed minors: map graphs and power graphs. In both cases we prove a polynomial relation between the treewidth of a graph in the family and the size of the largest grid minor. These bounds improve the running times of a broad class of fixed-parameter algorithms. Our novel technique of using approximate max-min relations between treewidth and size of grid minors is powerful, and we show how it can also be used, e.g., to prove a linear relation between the treewidth of a bounded-genus graph and the treewidth of its dual.

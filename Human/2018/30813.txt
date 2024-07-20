@@ -1,0 +1,3 @@
+Mathematical Analysis of Adversarial Attacks
+
+In this paper, we analyze efficacy of the fast gradient sign method (FGSM) and the Carlini-Wagner's L2 (CW-L2) attack. We prove that, within a certain regime, the untargeted FGSM can fool any convolutional neural nets (CNNs) with ReLU activation; the targeted FGSM can mislead any CNNs with ReLU activation to classify any given image into any prescribed class. For a special two-layer neural network: a linear layer followed by the softmax output activation, we show that the CW-L2 attack increases the ratio of the classification probability between the target and ground truth classes. Moreover, we provide numerical results to verify all our theoretical results.

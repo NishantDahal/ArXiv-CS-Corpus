@@ -1,0 +1,3 @@
+Computing the number of induced copies of a fixed graph in a bounded degree graph
+
+In this paper we show that for any graph $H$ of order $m$ and any graph $G$ of order $n$ and maximum degree $Δ$ one can compute the number of subsets $S$ of $V(G)$ that induces a graph isomorphic to $H $in time $O(c^m\cdot n)$ for some constant $c = c(Δ) > 0$. This is essentially best possible.

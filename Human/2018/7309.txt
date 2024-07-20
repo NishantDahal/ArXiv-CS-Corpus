@@ -1,0 +1,3 @@
+Penalizing Unfairness in Binary Classification
+
+We present a new approach for mitigating unfairness in learned classifiers. In particular, we focus on binary classification tasks over individuals from two populations, where, as our criterion for fairness, we wish to achieve similar false positive rates in both populations, and similar false negative rates in both populations. As a proof of concept, we implement our approach and empirically evaluate its ability to achieve both fairness and accuracy, using datasets from the fields of criminal risk assessment, credit, lending, and college admissions.

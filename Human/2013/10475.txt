@@ -1,0 +1,3 @@
+Finding the Largest Disk Containing a Query Point in Logarithmic Time with Linear Storage
+
+Let D be a set of n disks in the plane. We present a data structure of size O(n) that can compute, for any query point q, the largest disk in D that contains q, in O(log n) time. The structure can be constructed in O(n log^3 n) time. The optimal storage and query time of the structure improve several recent solutions by Augustine et al. and by Kaplan and Sharir.

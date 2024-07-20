@@ -1,0 +1,5 @@
+Locally Testable Codes and Cayley Graphs
+
+We give two new characterizations of ($\F_2$-linear) locally testable error-correcting codes in terms of Cayley graphs over $\F_2^h$:
+  \begin{enumerate} \item A locally testable code is equivalent to a Cayley graph over $\F_2^h$ whose set of generators is significantly larger than $h$ and has no short linear dependencies, but yields a shortest-path metric that embeds into $\ell_1$ with constant distortion. This extends and gives a converse to a result of Khot and Naor (2006), which showed that codes with large dual distance imply Cayley graphs that have no low-distortion embeddings into $\ell_1$.
+  \item A locally testable code is equivalent to a Cayley graph over $\F_2^h$ that has significantly more than $h$ eigenvalues near 1, which have no short linear dependencies among them and which "explain" all of the large eigenvalues. This extends and gives a converse to a recent construction of Barak et al. (2012), which showed that locally testable codes imply Cayley graphs that are small-set expanders but have many large eigenvalues. \end{enumerate}

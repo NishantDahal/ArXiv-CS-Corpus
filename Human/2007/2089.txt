@@ -1,0 +1,3 @@
+Cryptanalysis of an MPEG-Video Encryption Scheme Based on Secret Huffman Tables
+
+This paper studies the security of a recently-proposed MPEG-video encryption scheme based on secret Huffman tables. Our cryptanalysis shows that: 1) the key space of the encryption scheme is not sufficiently large against divide-and-conquer (DAC) attack and known-plaintext attack; 2) it is possible to decrypt a cipher-video with a partially-known key, thus dramatically reducing the complexity of the DAC brute-force attack in some cases; 3) its security against the chosen-plaintext attack is very weak. Some experimental results are included to support the cryptanalytic results with a brief discuss on how to improve this MPEG-video encryption scheme.

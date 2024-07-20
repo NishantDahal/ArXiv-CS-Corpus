@@ -1,0 +1,3 @@
+On Binary de Bruijn Sequences from LFSRs with Arbitrary Characteristic Polynomials
+
+We propose a construction of de Bruijn sequences by the cycle joining method from linear feedback shift registers (LFSRs) with arbitrary characteristic polynomial $f(x)$. We study in detail the cycle structure of the set $Ω(f(x))$ that contains all sequences produced by a specific LFSR on distinct inputs and provide a fast way to find a state of each cycle. This leads to an efficient algorithm to find all conjugate pairs between any two cycles, yielding the adjacency graph. The approach is practical to generate a large class of de Bruijn sequences up to order $n \approx 20$. Many previously proposed constructions of de Bruijn sequences are shown to be special cases of our construction.

@@ -1,0 +1,3 @@
+Solving the Steiner Tree Problem in graphs with Variable Neighborhood Descent
+
+The Steiner Tree Problem (STP) in graphs is an important problem with various applications in many areas such as design of integrated circuits, evolution theory, networking, etc. In this paper, we propose an algorithm to solve the STP. The algorithm includes a reducer and a solver using Variable Neighborhood Descent (VND), interacting with each other during the search. New constructive heuristics and a vertex score system for intensification purpose are proposed. The algorithm is tested on a set of benchmarks which shows encouraging results.

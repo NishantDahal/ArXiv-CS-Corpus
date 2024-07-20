@@ -1,0 +1,3 @@
+The emergent algebraic structure of RNNs and embeddings in NLP
+
+We examine the algebraic and geometric properties of a uni-directional GRU and word embeddings trained end-to-end on a text classification task. A hyperparameter search over word embedding dimension, GRU hidden dimension, and a linear combination of the GRU outputs is performed. We conclude that words naturally embed themselves in a Lie group and that RNNs form a nonlinear representation of the group. Appealing to these results, we propose a novel class of recurrent-like neural networks and a word embedding scheme.

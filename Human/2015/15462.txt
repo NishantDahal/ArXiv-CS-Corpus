@@ -1,0 +1,3 @@
+A token-passing net implementation of optimal reduction with embedded read-back
+
+In this paper, we introduce a new interaction net implementation of optimal reduction for pure untyped lambda calculus. Unlike others, our implementation allows to reach normal form regardless of interaction net reduction strategy using the approach of so-called token-passing nets. Another new feature is the read-back mechanism also implemented without leaving the formalism of interaction nets.

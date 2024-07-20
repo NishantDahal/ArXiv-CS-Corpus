@@ -1,0 +1,4 @@
+Anonymized Local Privacy
+
+In this paper, we introduce the family of Anonymized Local Privacy mechanisms. These mechanisms have an output space of three values "Yes", "No", or "$\perp$" (not participating) and leverage the law of large numbers to generate linear noise in the number of data owners to protect privacy both before and after aggregation yet preserve accuracy.
+  We describe the suitability in a distributed on-demand network and evaluate over a real dataset as we scale the population.

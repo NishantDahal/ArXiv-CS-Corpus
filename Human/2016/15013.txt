@@ -1,0 +1,3 @@
+Performance of 1-D and 2-D Lattice Boltzmann (LB) in Solution of the Shock Tube Problem
+
+In this paper we presented a lattice Boltzmann with square grid for compressible flow problems. Triple level velocity is considered for each cell. Migration step use discrete velocity but continuous parameters are utilized to calculate density, velocity, and energy. So, we called this semi-discrete method. To evaluate the performance of the method the well-known shock tube problem is solved, using 1-D and 2-D version of the lattice Boltzmann method. The results of these versions are compared with each other and with the results of the analytical solution.

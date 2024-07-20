@@ -1,0 +1,3 @@
+Sorting a Low-Entropy Sequence
+
+We give the first sorting algorithm with bounds in terms of higher-order entropies: let $S$ be a sequence of length $m$ containing $n$ distinct elements and let (H_\ell (S)) be the $\ell$th-order empirical entropy of $S$, with (n^{\ell + 1} \log n \in O (m)); our algorithm sorts $S$ using ((H_\ell (S) + O (1)) m) comparisons.

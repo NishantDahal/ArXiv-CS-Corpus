@@ -1,0 +1,3 @@
+Fuzzy Fibers: Uncertainty in dMRI Tractography
+
+Fiber tracking based on diffusion weighted Magnetic Resonance Imaging (dMRI) allows for noninvasive reconstruction of fiber bundles in the human brain. In this chapter, we discuss sources of error and uncertainty in this technique, and review strategies that afford a more reliable interpretation of the results. This includes methods for computing and rendering probabilistic tractograms, which estimate precision in the face of measurement noise and artifacts. However, we also address aspects that have received less attention so far, such as model selection, partial voluming, and the impact of parameters, both in preprocessing and in fiber tracking itself. We conclude by giving impulses for future research.

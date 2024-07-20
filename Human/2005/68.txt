@@ -1,0 +1,3 @@
+A Time-Optimal Delaunay Refinement Algorithm in Two Dimensions
+
+We propose a new refinement algorithm to generate size-optimal quality-guaranteed Delaunay triangulations in the plane. The algorithm takes $O(n \log n + m)$ time, where $n$ is the input size and $m$ is the output size. This is the first time-optimal Delaunay refinement algorithm.

@@ -1,0 +1,3 @@
+Summarized Network Behavior Prediction
+
+This work studies the entity-wise topical behavior from massive network logs. Both the temporal and the spatial relationships of the behavior are explored with the learning architectures combing the recurrent neural network (RNN) and the convolutional neural network (CNN). To make the behavioral data appropriate for the spatial learning in CNN, several reduction steps are taken to form the topical metrics and place them homogeneously like pixels in the images. The experimental result shows both the temporal- and the spatial- gains when compared to a multilayer perceptron (MLP) network. A new learning framework called spatially connected convolutional networks (SCCN) is introduced to more efficiently predict the behavior.

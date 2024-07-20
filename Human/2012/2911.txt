@@ -1,0 +1,3 @@
+A New Reduction from Search SVP to Optimization SVP
+
+It is well known that search SVP is equivalent to optimization SVP. However, the former reduction from search SVP to optimization SVP by Kannan needs polynomial times calls to the oracle that solves the optimization SVP. In this paper, a new rank-preserving reduction is presented with only one call to the optimization SVP oracle. It is obvious that the new reduction needs the least calls, and improves Kannan's classical result. What's more, the idea also leads a similar direct reduction from search CVP to optimization CVP with only one call to the oracle.

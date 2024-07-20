@@ -1,0 +1,3 @@
+Asymmetric Unification and Disunification
+
+We compare two kinds of unification problems: Asymmetric Unification and Disunification, which are variants of Equational Unification. Asymmetric Unification is a type of Equational Unification where the right-hand sides of the equations are in normal form with respect to the given term rewriting system. In Disunification we solve equations and disequations with respect to an equational theory for the case with free constants. We contrast the time complexities of both and show that the two problems are incomparable: there are theories where one can be solved in Polynomial time while the other is NP-hard. This goes both ways. The time complexity also varies based on the termination ordering used in the term rewriting system.

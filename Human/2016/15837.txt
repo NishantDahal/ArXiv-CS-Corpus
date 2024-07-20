@@ -1,0 +1,3 @@
+Probabilistic Safety Programs
+
+Achieving safe control under uncertainty is a key problem that needs to be tackled for enabling real-world autonomous robots and cyber-physical systems. This paper introduces Probabilistic Safety Programs (PSP) that embed both the uncertainty in the environment as well as invariants that determine safety parameters. The goal of these PSPs is to evaluate future actions or trajectories and determine how likely it is that the system will stay safe under uncertainty. We propose to perform these evaluations by first compiling the PSP to a graphical model then using a fast variational inference algorithm. We highlight the efficacy of the framework on the task of safe control of quadrotors and autonomous vehicles in dynamic environments.

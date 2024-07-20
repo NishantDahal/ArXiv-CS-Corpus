@@ -1,0 +1,3 @@
+Sampling from a log-concave distribution with Projected Langevin Monte Carlo
+
+We extend the Langevin Monte Carlo (LMC) algorithm to compactly supported measures via a projection step, akin to projected Stochastic Gradient Descent (SGD). We show that (projected) LMC allows to sample in polynomial time from a log-concave distribution with smooth potential. This gives a new Markov chain to sample from a log-concave distribution. Our main result shows in particular that when the target distribution is uniform, LMC mixes in $\tilde{O}(n^7)$ steps (where $n$ is the dimension). We also provide preliminary experimental evidence that LMC performs at least as well as hit-and-run, for which a better mixing time of $\tilde{O}(n^4)$ was proved by Lov{á}sz and Vempala.

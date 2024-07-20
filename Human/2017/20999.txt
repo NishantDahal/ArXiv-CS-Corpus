@@ -1,0 +1,3 @@
+Video Denoising and Enhancement via Dynamic Video Layering
+
+Video denoising refers to the problem of removing "noise" from a video sequence. Here the term "noise" is used in a broad sense to refer to any corruption or outlier or interference that is not the quantity of interest. In this work, we develop a novel approach to video denoising that is based on the idea that many noisy or corrupted videos can be split into three parts - the "low-rank layer", the "sparse layer", and a small residual (which is small and bounded). We show, using extensive experiments, that our denoising approach outperforms the state-of-the-art denoising algorithms.

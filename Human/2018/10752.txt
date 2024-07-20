@@ -1,0 +1,3 @@
+Succinct data structure for dynamic trees with faster queries
+
+Navarro and Sadakane [TALG 2014] gave a dynamic succinct data structure for storing an ordinal tree. The structure supports tree queries in either $O(\log n/\log\log n)$ or $O(\log n)$ time, and insertion or deletion of a single node in $O(\log n)$ time. In this paper we improve the result of Navarro and Sadakane by reducing the time complexities of some queries (e.g.\ degree and level\_ancestor) from $O(\log n)$ to $O(\log n/\log\log n)$.

@@ -1,0 +1,3 @@
+Zap: Making Predictions Based on Online User Behavior
+
+This paper introduces Zap, a generic machine learning pipeline for making predictions based on online user behavior. Zap combines well known techniques for processing sequential data with more obscure techniques such as Bloom filters, bucketing, and model calibration into an end-to-end solution. The pipeline creates website- and task-specific models without knowing anything about the structure of the website. It is designed to minimize the amount of website-specific code, which is realized by factoring all website-specific logic into example generators. New example generators can typically be written up in a few lines of code.

@@ -1,0 +1,3 @@
+A Necessary Condition for Byzantine $k$-Set Agreement
+
+This short paper presents a necessary condition for Byzantine $k$-set agreement in (synchronous or asynchronous) message-passing systems and asynchronous shared memory systems where the processes communicate through atomic single-writer multi-reader registers. It gives a proof, which is particularly simple, that $k$-set agreement cannot be solved $t$-resiliently in an $n$-process system when $n \leq 2t + \frac{t}{k}$. This bound is tight for the case $k=1$ (Byzantine consensus) in synchronous message-passing systems.

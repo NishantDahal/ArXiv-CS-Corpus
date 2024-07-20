@@ -1,0 +1,3 @@
+Hypothesis Elimination in Kleene Semirings
+
+A Kleene semiring is an algebraic structure satisfying the axioms of Kleene algebra, minus the annihilation axioms (x.0 = 0 = 0.x). We show that Kleene semirings (like Kleene algebras) admit the efficient elimination of various kinds of equational hypotheses, in particular Hoare formulas (t=0, where t is an arbitrary term). Our method is purely proof-theoretic, and can be used to eliminate Horn hypotheses in any suitable Horn-equational theory. Moreover, it gives a simple condition under which hypotheses eliminations can be combined.

@@ -1,0 +1,3 @@
+Programming Without Refining
+
+To derive a program for a given specification R means to find an artifact P that satisfies two conditions: P is executable in some programming language; and P is correct with respect to R. Refinement-based program derivation achieves this goal in a stepwise manner by enhancing executability while preserving correctness until we achieve complete executability. In this paper, we argue that it is possible to invert these properties, and to derive a program by enhancing correctness while preserving executability (proceeding from one executable program to another) until we achieve absolute correctness. Of course, this latter process is possible only if we know how to enhance correctness.

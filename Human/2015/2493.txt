@@ -1,0 +1,3 @@
+Active Model Aggregation via Stochastic Mirror Descent
+
+We consider the problem of learning convex aggregation of models, that is as good as the best convex aggregation, for the binary classification problem. Working in the stream based active learning setting, where the active learner has to make a decision on-the-fly, if it wants to query for the label of the point currently seen in the stream, we propose a stochastic-mirror descent algorithm, called SMD-AMA, with entropy regularization. We establish an excess risk bounds for the loss of the convex aggregate returned by SMD-AMA to be of the order of $O\left(\sqrt{\frac{\log(M)}{T^{1-μ}}}\right)$, where $μ\in [0,1)$ is an algorithm dependent parameter, that trades-off the number of labels queried, and excess risk.

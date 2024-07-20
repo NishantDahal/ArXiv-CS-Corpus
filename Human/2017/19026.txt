@@ -1,0 +1,3 @@
+On Identifiability of Nonnegative Matrix Factorization
+
+In this letter, we propose a new identification criterion that guarantees the recovery of the low-rank latent factors in the nonnegative matrix factorization (NMF) model, under mild conditions. Specifically, using the proposed criterion, it suffices to identify the latent factors if the rows of one factor are \emph{sufficiently scattered} over the nonnegative orthant, while no structural assumption is imposed on the other factor except being full-rank. This is by far the mildest condition under which the latent factors are provably identifiable from the NMF model.

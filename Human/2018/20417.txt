@@ -1,0 +1,3 @@
+Memory Consistency Models using Constraints
+
+Memory consistency models (MCMs) are at the heart of concurrent programming. They represent the behaviour of concurrent programs at the chip level. To test these models small program snippets called litmus test are generated, which show allowed or forbidden behaviour of different MCMs. This paper is showcasing the use of constraint programming to automate the generation and testing of litmus tests for memory consistency models. We produce a few exemplary case studies for two MCMs, namely Sequential Consistency and Total Store Order. These studies demonstrate the flexibility of constrains programming in this context and lay foundation to the direct verification of MCMs against the software facing cache coherence protocols.

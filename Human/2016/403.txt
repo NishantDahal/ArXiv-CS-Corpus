@@ -1,0 +1,3 @@
+Fusion of Array Operations at Runtime
+
+We address the problem of fusing array operations based on criteria such as shape compatibility, data reusability, and communication. We formulate the problem as a graph partition problem that is general enough to handle loop fusion, combinator fusion, and other types of subroutines.

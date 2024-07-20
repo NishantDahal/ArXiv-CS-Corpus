@@ -1,0 +1,3 @@
+A $4/5$ - Approximation Algorithm for the Maximum Traveling Salesman Problem
+
+In the maximum traveling salesman problem (Max TSP) we are given a complete undirected graph with nonnegative weights on the edges and we wish to compute a traveling salesman tour of maximum weight. We present a fast combinatorial $\frac 45$ - approximation algorithm for Max TSP. The previous best approximation for this problem was $\frac 79$. The new algorithm is based on a novel technique of eliminating difficult subgraphs via half-edges, a new method of edge coloring and a technique of exchanging edges. A half-edge of edge $e=(u,v)$ is informally speaking "a half of $e$ containing either $u$ or $v$".

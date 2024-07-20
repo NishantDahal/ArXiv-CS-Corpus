@@ -1,0 +1,5 @@
+Finding Hidden Cliques of Size \sqrt{N/e} in Nearly Linear Time
+
+Consider an Erdös-Renyi random graph in which each edge is present independently with probability 1/2, except for a subset $\sC_N$ of the vertices that form a clique (a completely connected subgraph). We consider the problem of identifying the clique, given a realization of such a random graph.
+  The best known algorithm provably finds the clique in linear time with high probability, provided $|\sC_N|\ge 1.261\sqrt{N}$ \cite{dekel2011finding}. Spectral methods can be shown to fail on cliques smaller than $\sqrt{N}$. In this paper we describe a nearly linear time algorithm that succeeds with high probability for $|\sC_N|\ge (1+\eps)\sqrt{N/e}$ for any $\eps>0$. This is the first algorithm that provably improves over spectral methods.
+  We further generalize the hidden clique problem to other background graphs (the standard case corresponding to the complete graph on $N$ vertices). For large girth regular graphs of degree $(Δ+1)$ we prove that `local' algorithms succeed if $|\sC_N|\ge (1+\eps)N/\sqrt{eΔ}$ and fail if $|\sC_N|\le(1-\eps)N/\sqrt{eΔ}$.

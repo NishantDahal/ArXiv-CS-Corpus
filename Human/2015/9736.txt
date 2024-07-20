@@ -1,0 +1,3 @@
+nanopub-java: A Java Library for Nanopublications
+
+The concept of nanopublications was first proposed about six years ago, but it lacked openly available implementations. The library presented here is the first one that has become an official implementation of the nanopublication community. Its core features are stable, but it also contains unofficial and experimental extensions: for publishing to a decentralized server network, for defining sets of nanopublications with indexes, for informal assertions, and for digitally signing nanopublications. Most of the features of the library can also be accessed via an online validator interface.

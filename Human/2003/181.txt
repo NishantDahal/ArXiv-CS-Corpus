@@ -1,0 +1,3 @@
+The Virtual Monte Carlo
+
+The concept of Virtual Monte Carlo (VMC) has been developed by the ALICE Software Project to allow different Monte Carlo simulation programs to run without changing the user code, such as the geometry definition, the detector response simulation or input and output formats. Recently, the VMC classes have been integrated into the ROOT framework, and the other relevant packages have been separated from the AliRoot framework and can be used individually by any other HEP project. The general concept of the VMC and its set of base classes provided in ROOT will be presented. Existing implementations for Geant3, Geant4 and FLUKA and simple examples of usage will be described.

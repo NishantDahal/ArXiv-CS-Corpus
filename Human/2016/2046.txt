@@ -1,0 +1,3 @@
+The Case for Data Plane Timestamping in SDN
+
+This paper presents the case for Data Plane Timestamping (DPT). We argue that in the unique environment of Software-Defined Networks (SDN), attaching a timestamp to the header of all packets is a powerful feature that can be leveraged by various diverse SDN applications. We analyze three key use cases that demonstrate the advantages of using DPT, and show that SDN applications can benefit even from using as little as one bit for the timestamp field.

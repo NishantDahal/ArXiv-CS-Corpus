@@ -1,0 +1,3 @@
+FITS Foreign File Encapsulation Convention
+
+This document describes a FITS convention developed by the IRAF Group (D. Tody, R. Seaman, and N. Zarate) at the National Optical Astronomical Observatory (NOAO). This convention is implemented by the fgread/fgwrite tasks in the IRAF fitsutil package. It was first used in May 1999 to encapsulate preview PNG-format graphics files into FITS files in the NOAO High Performance Pipeline System. A FITS extension of type 'FOREIGN' provides a mechanism for storing an arbitrary file or tree of files in FITS, allowing it to be restored to disk at a later time.

@@ -1,0 +1,3 @@
+SkyDe: a Skype-based Steganographic Method
+
+This paper introduces SkyDe (Skype Hide), a new steganographic method that utilizes Skype encrypted packets with silence to provide the means for clandestine communication. It is possible to reuse packets that do not carry voice signals for steganographic purposes because Skype does not use any silence suppression mechanism. The method's proof-of-concept implementation and first experimental results are presented. They prove that the method is feasible and offers steganographic bandwidth as high as 2.8 kbps.

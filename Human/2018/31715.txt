@@ -1,0 +1,7 @@
+Towards a Unified Theory of Sparsification for Matching Problems
+
+In this paper, we present a construction of a `matching sparsifier', that is, a sparse subgraph of the given graph that preserves large matchings approximately and is robust to modifications of the graph. We use this matching sparsifier to obtain several new algorithmic results for the maximum matching problem:
+  * An almost $(3/2)$-approximation one-way communication protocol for the maximum matching problem, significantly simplifying the $(3/2)$-approximation protocol of Goel, Kapralov, and Khanna (SODA 2012) and extending it from bipartite graphs to general graphs.
+  * An almost $(3/2)$-approximation algorithm for the stochastic matching problem, improving upon and significantly simplifying the previous $1.999$-approximation algorithm of Assadi, Khanna, and Li (EC 2017).
+  * An almost $(3/2)$-approximation algorithm for the fault-tolerant matching problem, which, to our knowledge, is the first non-trivial algorithm for this problem.
+  Our matching sparsifier is obtained by proving new properties of the edge-degree constrained subgraph (EDCS) of Bernstein and Stein (ICALP 2015; SODA 2016)---designed in the context of maintaining matchings in dynamic graphs---that identifies EDCS as an excellent choice for a matching sparsifier. This leads to surprisingly simple and non-technical proofs of the above results in a unified way. Along the way, we also provide a much simpler proof of the fact that an EDCS is guaranteed to contain a large matching, which may be of independent interest.

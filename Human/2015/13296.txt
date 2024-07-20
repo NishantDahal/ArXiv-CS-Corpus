@@ -1,0 +1,3 @@
+Approaches for Synthesis Conjectures in an SMT Solver
+
+This report describes several approaches for handling synthesis conjectures within an Satisfiability Modulo Theories (SMT) solver. We describe approaches that primarily focus on determining the unsatisfiability of the negated form of synthesis conjectures using new techniques for quantifier instantiation.

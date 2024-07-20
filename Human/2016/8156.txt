@@ -1,0 +1,3 @@
+A Topological Lowpass Filter for Quasiperiodic Signals
+
+This article presents a two-stage topological algorithm for recovering an estimate of a quasiperiodic function from a set of noisy measurements. The first stage of the algorithm is a topological phase estimator, which detects the quasiperiodic structure of the function without placing additional restrictions on the function. By respecting this phase estimate, the algorithm avoids creating distortion even when it uses a large number of samples for the estimate of the function.

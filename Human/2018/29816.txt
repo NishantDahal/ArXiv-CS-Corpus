@@ -1,0 +1,3 @@
+Approximate Schedules for Non-Migratory Parallel Jobs in Speed-Scaled Multiprocessor Systems
+
+We consider a problem of scheduling rigid parallel jobs on variable speed processors so as to minimize the total energy consumption. Each job is specified by its processing volume and the required number of processors. We propose new constant factor approximation algorithms for the non-migratory cases when all jobs have a common release time and/or a common deadline.

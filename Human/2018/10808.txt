@@ -1,0 +1,3 @@
+Hierarchical clustering with deep Q-learning
+
+The reconstruction and analyzation of high energy particle physics data is just as important as the analyzation of the structure in real world networks. In a previous study it was explored how hierarchical clustering algorithms can be combined with kt cluster algorithms to provide a more generic clusterization method. Building on that, this paper explores the possibilities to involve deep learning in the process of cluster computation, by applying reinforcement learning techniques. The result is a model, that by learning on a modest dataset of 10; 000 nodes during 70 epochs can reach 83; 77% precision in predicting the appropriate clusters.

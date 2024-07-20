@@ -1,0 +1,3 @@
+Channel capacity of polar coding with a given polar mismatched successive cancellation decoder
+
+Arıkan's polar coding, is by now a well studied technique that allows achieving the symmetric capacity of binary input memoryless channels with low complexity encoding and decoding, provided that the polar decoding architecture is used and the decoding metric is matched to the true channel. In this paper, we analyze communication rates that are achievable when the polar coding/decoding architecture is used with the decoder using an incorrect model of the channel. We define the `polar mismatched capacity' as an analogue of the classical mismatched capacity, give an expression for it, and derive bounds on it.

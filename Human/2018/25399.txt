@@ -1,0 +1,3 @@
+Shortest Paths with Ordinal Weights
+
+We investigate the single-source-single-destination "shortest" paths problem in acyclic graphs with ordinal weighted arc costs. We define the concepts of ordinal dominance and efficiency for paths and their associated ordinal levels, respectively. Further, we show that the number of ordinally non-dominated paths vectors from the source node to every other node in the graph is polynomially bounded and we propose a polynomial time labeling algorithm for solving the problem of finding the set of ordinally non-dominated paths vectors from source to sink.

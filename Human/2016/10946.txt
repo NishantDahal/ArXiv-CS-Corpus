@@ -1,0 +1,3 @@
+Rates of DNA Sequence Profiles for Practical Values of Read Lengths
+
+A recent study by one of the authors has demonstrated the importance of profile vectors in DNA-based data storage. We provide exact values and lower bounds on the number of profile vectors for finite values of alphabet size $q$, read length $\ell$, and word length $n$.Consequently, we demonstrate that for $q\ge 2$ and $n\le q^{\ell/2-1}$, the number of profile vectors is at least $q^{κn}$ with $κ$ very close to one.In addition to enumeration results, we provide a set of efficient encoding and decoding algorithms for each of two particular families of profile vectors.

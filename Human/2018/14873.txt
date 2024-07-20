@@ -1,0 +1,3 @@
+Meta-learning: searching in the model space
+
+There is no free lunch, no single learning algorithm that will outperform other algorithms on all data. In practice different approaches are tried and the best algorithm selected. An alternative solution is to build new algorithms on demand by creating a framework that accommodates many algorithms. The best combination of parameters and procedures is searched here in the space of all possible models belonging to the framework of Similarity-Based Methods (SBMs). Such meta-learning approach gives a chance to find the best method in all cases. Issues related to the meta-learning and first tests of this approach are presented.

@@ -1,0 +1,3 @@
+Adaptive Search over Sorted Sets
+
+We revisit the classical algorithms for searching over sorted sets to introduce an algorithm refinement, called Adaptive Search, that combines the good features of Interpolation search and those of Binary search. W.r.t. Interpolation search, only a constant number of extra comparisons is introduced. Yet, under diverse input data distributions our algorithm shows costs comparable to that of Interpolation search, i.e., O(log log n) while the worst-case cost is always in O(log n), as with Binary search. On benchmarks drawn from large datasets, both synthetic and real-life, Adaptive search scores better times and lesser memory accesses even than Santoro and Sidney's Interpolation-Binary search.

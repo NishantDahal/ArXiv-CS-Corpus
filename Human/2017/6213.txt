@@ -1,0 +1,3 @@
+Minimal Controllability of Conjunctive Boolean Networks is NP-Complete
+
+Given a conjunctive Boolean network (CBN) with $n$ state-variables, we consider the problem of finding a minimal set of state-variables to directly affect with an input so that the resulting conjunctive Boolean control network (CBCN) is controllable. We give a necessary and sufficient condition for controllability of a CBCN; an $O(n^2)$-time algorithm for testing controllability; and prove that nonetheless the minimal controllability problem for CBNs is NP-hard.

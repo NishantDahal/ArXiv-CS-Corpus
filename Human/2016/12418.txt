@@ -1,0 +1,3 @@
+Perceptual Reward Functions
+
+Reinforcement learning problems are often described through rewards that indicate if an agent has completed some task. This specification can yield desirable behavior, however many problems are difficult to specify in this manner, as one often needs to know the proper configuration for the agent. When humans are learning to solve tasks, we often learn from visual instructions composed of images or videos. Such representations motivate our development of Perceptual Reward Functions, which provide a mechanism for creating visual task descriptions. We show that this approach allows an agent to learn from rewards that are based on raw pixels rather than internal parameters.

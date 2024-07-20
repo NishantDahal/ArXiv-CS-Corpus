@@ -1,0 +1,5 @@
+Mathematical modeling of thermal stabilization of vertical wells on high performance computing systems
+
+Temperature stabilization of oil and gas wells is used to ensure stability and prevent deformation of a subgrade estuary zone. In this work, we consider the numerical simulation of thermal stabilization using vertical seasonal freezing columns.
+  A mathematical model of such problems is described by a time-dependent temperature equation with phase transitions from water to ice. The resulting equation is a standard nonlinear parabolic equation.
+  Numerical implementation is based on the finite element method using the package Fenics. After standard purely implicit approximation in time and simple linearization, we obtain a system of linear algebraic equations. Because the size of freezing columns are substantially less than the size of the modeled area, we obtain mesh refinement near columns. Due to this, we get a large system of equations which are solved using high performance computing systems.

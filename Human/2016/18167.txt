@@ -1,0 +1,4 @@
+Extending Two-Variable Logic on Trees
+
+The finite satisfiability problem for the two-variable fragment of first-order logic interpreted over trees was recently shown to be ExpSpace-complete. We consider two extensions of this logic. We show that adding either additional binary symbols or counting quantifiers to the logic does not affect the complexity of the finite satisfiability problem. However, combining the two extensions and adding both binary symbols and counting quantifiers leads to an explosion of this complexity.
+  We also compare the expressive power of the two-variable fragment over trees with its extension with counting quantifiers. It turns out that the two logics are equally expressive, although counting quantifiers do add expressive power in the restricted case of unordered trees.

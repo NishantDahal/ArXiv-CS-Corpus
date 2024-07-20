@@ -1,0 +1,3 @@
+Foundational Extensible Corecursion
+
+This paper presents a formalized framework for defining corecursive functions safely in a total setting, based on corecursion up-to and relational parametricity. The end product is a general corecursor that allows corecursive (and even recursive) calls under well-behaved operations, including constructors. Corecursive functions that are well behaved can be registered as such, thereby increasing the corecursor's expressiveness. The metatheory is formalized in the Isabelle proof assistant and forms the core of a prototype tool. The corecursor is derived from first principles, without requiring new axioms or extensions of the logic.

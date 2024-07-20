@@ -1,0 +1,3 @@
+Data Poisoning: Lightweight Soft Fault Injection for Python
+
+This paper introduces and explores the idea of data poisoning, a light-weight peer-architecture technique to inject faults into Python programs. This method requires very small modification to the original program, which facilitates evaluation of sensitivity of systems that are prototyped or modeled in Python. We propose different fault scenarios that can be injected to programs using data poisoning. We use Dijkstra's Self Stabilizing Ring Algorithm to illustrate the approach.

@@ -1,0 +1,3 @@
+Tight bounds for popping algorithms
+
+We sharpen run-time analysis for algorithms under the partial rejection sampling framework. Our method yields improved bounds for: the cluster-popping algorithm for approximating all-terminal network reliability; the cycle-popping algorithm for sampling rooted spanning trees; the sink-popping algorithm for sampling sink-free orientations. In all three applications, our bounds are not only tight in order, but also optimal in constants.

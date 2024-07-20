@@ -1,0 +1,4 @@
+An Asymptotically Tight Bound on the Number of Relevant Variables in a Bounded Degree Boolean Function
+
+We prove that there is a constant $C\leq 6.614$ such that every Boolean function of degree at most $d$ (as a polynomial over $\mathbb{R}$) is a $C\cdot 2^d$-junta, i.e. it depends on at most $C\cdot 2^d$ variables. This improves the $d\cdot 2^{d-1}$ upper bound of Nisan and Szegedy [Computational Complexity 4 (1994)]. Our proof uses a new weighting scheme where we assign weights to variables based on the highest degree monomial they appear on.
+  The bound of $C\cdot 2^d$ is tight up to the constant $C$ as a lower bound of $2^d-1$ is achieved by a read-once decision tree of depth $d$. We slightly improve the lower bound by constructing, for each positive integer $d$, a function of degree $d$ with $3\cdot 2^{d-1}-2$ relevant variables. A similar construction was independently observed by Shinkar and Tal.

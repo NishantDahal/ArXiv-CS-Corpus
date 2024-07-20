@@ -1,0 +1,3 @@
+Automatically Selecting Useful Phrases for Dialogue Act Tagging
+
+We present an empirical investigation of various ways to automatically identify phrases in a tagged corpus that are useful for dialogue act tagging. We found that a new method (which measures a phrase's deviation from an optimally-predictive phrase), enhanced with a lexical filtering mechanism, produces significantly better cues than manually-selected cue phrases, the exhaustive set of phrases in a training corpus, and phrases chosen by traditional metrics, like mutual information and information gain.

@@ -1,0 +1,3 @@
+On infinite words avoiding a finite set of squares
+
+Building an infinite square-free word by appending one letter at a time while simultaneously avoiding the creation of squares is most likely to fail. When the alphabet has two letters this approach is impossible. When the alphabet has three or more letters, one will most probably create a word in which the addition of any letter invariably creates a square. When one restricts the set of undesired squares to a finite one, this can be possible. We study the constraints on the alphabet and the set of squares which permit this approach to work.

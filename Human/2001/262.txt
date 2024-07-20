@@ -1,0 +1,3 @@
+Enhancing Constraint Propagation with Composition Operators
+
+Constraint propagation is a general algorithmic approach for pruning the search space of a CSP. In a uniform way, K. R. Apt has defined a computation as an iteration of reduction functions over a domain. He has also demonstrated the need for integrating static properties of reduction functions (commutativity and semi-commutativity) to design specialized algorithms such as AC3 and DAC. We introduce here a set of operators for modeling compositions of reduction functions. Two of the major goals are to tackle parallel computations, and dynamic behaviours (such as slow convergence).

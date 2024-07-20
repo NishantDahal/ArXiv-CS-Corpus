@@ -1,0 +1,8 @@
+Generic and Efficient Program Monitoring by trace analysis
+
+Program execution monitoring consists of checking whole executions for given properties in order to collect global run-time information.
+  Monitoring is very useful to maintain programs. However, application developers face the following dilemma: either they use existing tools which never exactly fit their needs, or they invest a lot of effort to implement monitoring code.
+  In this article we argue that, when an event-oriented tracer exists, the compiler developers can enable the application developers to easily code their own, relevant, monitors which will run efficiently.
+  We propose a high-level operator, called foldt, which operates on execution traces. One of the key advantages of our approach is that it allows a clean separation of concerns; the definition of monitors is neither intertwined in the user source code nor in the language compiler.
+  We give a number of applications of the foldt operator to compute monitors for Mercury program executions: execution profiles, graphical abstract views, and two test coverage measurements. Each example is implemented by a few simple lines of Mercury.
+  Detailed measurements show acceptable performance of the basic mechanism of foldt for executions of several millions of execution events.

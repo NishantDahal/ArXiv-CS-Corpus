@@ -1,0 +1,3 @@
+Algorithms for the solution of systems of linear equations in commutative ring
+
+Solution methods for linear equation systems in a commutative ring are discussed. Four methods are compared, in the setting of several different rings: Dodgson's method [1], Bareiss's method [2] and two methods of the author - method by forward and back-up procedures [3] and a one-pass method [4]. We show that for the number of coefficient operations, or for the number of operations in the finite rings, or for modular computation in the polynomial rings the one-pass method [4] is the best. The method of forward and back-up procedures [3] is the best for the polynomial rings when we make use of classical algorithms for polynomial operations.

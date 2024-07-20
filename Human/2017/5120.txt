@@ -1,0 +1,6 @@
+Change Detection under Global Viewpoint Uncertainty
+
+This paper addresses the problem of change detection from a novel perspective of long-term map learning. We are particularly interested in designing an approach that can scale to large maps and that can function under global uncertainty in the viewpoint (i.e., GPS-denied situations). Our approach, which utilizes a compact bag-of-words (BoW) scene model, makes several contributions to the problem:
+  1) Two kinds of prior information are extracted from the view sequence map and used for change detection. Further, we propose a novel type of prior, called motion prior, to predict the relative motions of stationary objects and anomaly ego-motion detection. The proposed prior is also useful for distinguishing stationary from non-stationary objects.
+  2) A small set of good reference images (e.g., 10) are efficiently retrieved from the view sequence map by employing the recently developed Bag-of-Local-Convolutional-Features (BoLCF) scene model.
+  3) Change detection is reformulated as a scene retrieval over these reference images to find changed objects using a novel spatial Bag-of-Words (SBoW) scene model. Evaluations conducted of individual techniques and also their combinations on a challenging dataset of highly dynamic scenes in the publicly available Malaga dataset verify their efficacy.

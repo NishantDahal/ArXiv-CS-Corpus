@@ -1,0 +1,6 @@
+Harmonious Coloring of Trees with Large Maximum Degree
+
+A harmonious coloring of $G$ is a proper vertex coloring of $G$ such that every pair of colors appears on at most one pair of adjacent vertices. The harmonious chromatic number of $G$, $h(G)$, is the minimum number of colors needed for a harmonious coloring of $G$. We show that if $T$ is a forest of order $n$ with maximum degree $Δ(T)\geq \frac{n+2}{3}$, then $$h(T)=
+  Δ(T)+2, & if $T$ has non-adjacent vertices of degree $Δ(T)$;
+  Δ(T)+1, & otherwise.
+  $$ Moreover, the proof yields a polynomial-time algorithm for an optimal harmonious coloring of such a forest.

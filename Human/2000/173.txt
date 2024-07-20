@@ -1,0 +1,3 @@
+C++ programming language for an abstract massively parallel SIMD architecture
+
+The aim of this work is to define and implement an extended C++ language to support the SIMD programming paradigm. The C++ programming language has been extended to express all the potentiality of an abstract SIMD machine consisting of a central Control Processor and a N-dimensional toroidal array of Numeric Processors. Very few extensions have been added to the standard C++ with the goal of minimising the effort for the programmer in learning a new language and to keep very high the performance of the compiled code. The proposed language has been implemented as a porting of the GNU C++ Compiler on a SIMD supercomputer.

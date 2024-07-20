@@ -1,0 +1,3 @@
+How to share a cake with a secret agent
+
+In this note we study a problem of fair division in the absence of full information. We give an algorithm which solves the following problem: n $\ge$ 2 persons want to cut a cake into n shares so that each person will get at least 1/n of the cake for his or her own measure, furthermore the preferences of one person are secret. How can we construct such shares? Our algorithm is a slight modification of the Even-Paz algorithm and allows to give a connected part to each agent. Moreover, the number of cuts used during the algorithm is optimal: O (n log(n)) .

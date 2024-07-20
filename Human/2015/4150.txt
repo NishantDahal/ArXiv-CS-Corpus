@@ -1,0 +1,6 @@
+On the complexity of computing prime tables
+
+Many large arithmetic computations rely on tables of all primes less than $n$. For example, the fastest algorithms for computing $n!$ takes time $O(M(n\log n) + P(n))$, where $M(n)$ is the time to multiply two $n$-bit numbers, and $P(n)$ is the time to compute a prime table up to $n$. The fastest algorithm to compute $\binom{n}{n/2}$ also uses a prime table. We show that it takes time $O(M(n) + P(n))$.
+  In various models, the best bound on $P(n)$ is greater than $M(n\log n)$, given advances in the complexity of multiplication \cite{Furer07,De08}. In this paper, we give two algorithms to computing prime tables and analyze their complexity on a multitape Turing machine, one of the standard models for analyzing such algorithms. These two algorithms run in time $O(M(n\log n))$ and $O(n\log^2 n/\log \log n)$, respectively. We achieve our results by speeding up Atkin's sieve.
+  Given that the current best bound on $M(n)$ is $n\log n 2^{O(\log^*n)}$, the second algorithm is faster and improves on the previous best algorithm by a factor of $\log^2\log n$. Our fast prime-table algorithms speed up both the computation of $n!$ and $\binom{n}{n/2}$.
+  Finally, we show that computing the factorial takes $Ω(M(n \log^{4/7 - ε} n))$ for any constant $ε> 0$ assuming only multiplication is allowed.

@@ -1,0 +1,3 @@
+Limited Feedback in MISO Systems with Finite-Bit ADCs
+
+We analyze limited feedback in systems where a multiple-antenna transmitter sends signals to single-antenna receivers with finite-bit ADCs. If channel state information (CSI) is not available with high resolution at the transmitter and the precoding is not well designed, the inter-user interference is a big decoding challenge for receivers with low-resolution quantization. In this paper, we derive achievable rates with finite-bit ADCs and finite-bit CSI feedback. The performance loss compared to the case with perfect CSI is then analyzed. The results show that the number of bits per feedback should increase linearly with the ADC resolution to restrict the loss.

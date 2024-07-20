@@ -1,0 +1,3 @@
+A note on the Declarative reading(s) of Logic Programming
+
+This paper analyses the declarative readings of logic programming. Logic programming - and negation as failure - has no unique declarative reading. One common view is that logic programming is a logic for default reasoning, a sub-formalism of default logic or autoepistemic logic. In this view, negation as failure is a modal operator. In an alternative view, a logic program is interpreted as a definition. In this view, negation as failure is classical objective negation. From a commonsense point of view, there is definitely a difference between these views. Surprisingly though, both types of declarative readings lead to grosso modo the same model semantics. This note investigates the causes for this.

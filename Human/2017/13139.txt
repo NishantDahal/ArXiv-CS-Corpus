@@ -1,0 +1,3 @@
+Computing via material topology optimisation
+
+We construct logical gates via topology optimisation (aimed to solve a station problem of heat conduction) of a conductive material layout. Values of logical variables are represented high and low values of a temperature at given sites. Logical functions are implemented via the formation of an optimum layout of conductive material between the sites with loading conditions. We implement AND and XOR gates and a one-bit binary half-adder.

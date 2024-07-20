@@ -1,0 +1,3 @@
+Certification of Confluence Proofs using CeTA
+
+CeTA was originally developed as a tool for certifying termination proofs which have to be provided as certificates in the CPF-format. Its soundness is proven as part of IsaFoR, the Isabelle Formalization of Rewriting. By now, CeTA can also be used for certifying confluence and non-confluence proofs. In this system description, we give a short overview on what kind of proofs are supported, and what information has to be given in the certificates. As we will see, only a small amount of information is required and so we hope that CSI will not stay the only confluence tool which can produce certificates.

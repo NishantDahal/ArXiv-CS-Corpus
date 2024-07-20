@@ -1,0 +1,3 @@
+Recurrent Online Clustering as a Spatio-Temporal Feature Extractor in DeSTIN
+
+This paper presents a basic enhancement to the DeSTIN deep learning architecture by replacing the explicitly calculated transition tables that are used to capture temporal features with a simpler, more scalable mechanism. This mechanism uses feedback of state information to cluster over a space comprised of both the spatial input and the current state. The resulting architecture achieves state-of-the-art results on the MNIST classification benchmark.

@@ -1,0 +1,3 @@
+Sharper Upper Bounds for Unbalanced Uniquely Decodable Code Pairs
+
+Two sets $A, B \subseteq \{0, 1\}^n$ form a Uniquely Decodable Code Pair (UDCP) if every pair $a \in A$, $b \in B$ yields a distinct sum $a+b$, where the addition is over $\mathbb{Z}^n$. We show that every UDCP $A, B$, with $|A| = 2^{(1-ε)n}$ and $|B| = 2^{βn}$, satisfies $β\leq 0.4228 +\sqrtε$. For sufficiently small $ε$, this bound significantly improves previous bounds by Urbanke and Li~[Information Theory Workshop '98] and Ordentlich and Shayevitz~[2014, arXiv:1412.8415], which upper bound $β$ by $0.4921$ and $0.4798$, respectively, as $ε$ approaches $0$.

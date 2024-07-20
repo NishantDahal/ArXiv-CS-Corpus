@@ -1,0 +1,3 @@
+Wikipedia Edit Number Prediction based on Temporal Dynamics Only
+
+In this paper, we describe our approach to the Wikipedia Participation Challenge which aims to predict the number of edits a Wikipedia editor will make in the next 5 months. The best submission from our team, "zeditor", achieved 41.7% improvement over WMF's baseline predictive model and the final rank of 3rd place among 96 teams. An interesting characteristic of our approach is that only temporal dynamics features (i.e., how the number of edits changes in recent periods, etc.) are used in a self-supervised learning framework, which makes it easy to be generalised to other application domains.

@@ -1,0 +1,3 @@
+vsgoftest: An Package for Goodness-of-Fit Testing Based on Kullback-Leibler Divergence
+
+The R-package vsgoftest performs goodness-of-fit (GOF) tests, based on Shannon entropy and Kullback-Leibler divergence, developed by Vasicek (1976) and Song (2002), of various classical families of distributions. The theoretical framework of the so-called Vasicek-Song (VS) tests is summarized and followed by a detailed description of the different features of the package. The power and computational time performances of VS tests are studied through their comparison with other GOF tests. Application to real datasets illustrates the easy-to-use functionalities of the vsgoftest package.

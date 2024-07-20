@@ -1,0 +1,3 @@
+Liquid Intersection Types
+
+We present a new type system combining refinement types and the expressiveness of intersection type discipline. The use of such features makes it possible to derive more precise types than in the original refinement system. We have been able to prove several interesting properties for our system (including subject reduction)  and developed an inference algorithm, which we proved to be sound. 

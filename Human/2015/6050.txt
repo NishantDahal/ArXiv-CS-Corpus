@@ -1,0 +1,3 @@
+Mitigating Hardware Cyber-Security Risks in Error Correcting Decoders
+
+This paper investigates hardware cyber-security risks associated with channel decoders, which are commonly acquired as a black box in semiconductor industry. It is shown that channel decoders are potentially attractive targets for hardware cyber-security attacks and can be easily embedded with malicious blocks. Several attack scenarios are considered in this work and suitable methods for mitigating the risks are proposed. These methods are based on randomizing the inputs of the channel decoder to obstruct the communications between attackers and the malicious blocks, ideally without changing the decoding performance.

@@ -1,0 +1,3 @@
+Recovering a Clipped Signal in Sparseland
+
+In many data acquisition systems it is common to observe signals whose amplitudes have been clipped. We present two new algorithms for recovering a clipped signal by leveraging the model assumption that the underlying signal is sparse in the frequency domain. Both algorithms employ ideas commonly used in the field of Compressive Sensing; the first is a modified version of Reweighted $\ell_1$ minimization, and the second is a modification of a simple greedy algorithm known as Trivial Pursuit. An empirical investigation shows that both approaches can recover signals with significant levels of clipping

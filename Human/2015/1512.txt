@@ -1,0 +1,5 @@
+Observationally Cooperative Multithreading
+
+Despite widespread interest in multicore computing, concur- rency models in mainstream languages often lead to subtle, error-prone code.
+  Observationally Cooperative Multithreading (OCM) is a new approach to shared-memory parallelism. Programmers write code using the well-understood cooperative (i.e., nonpreemptive) multithreading model for uniprocessors. OCM then allows threads to run in parallel, so long as results remain consistent with the cooperative model.
+  Programmers benefit because they can reason largely sequentially. Remaining interthread interactions are far less chaotic than in other models, permitting easier reasoning and debugging. Programmers can also defer the choice of concurrency-control mechanism (e.g., locks or transactions) until after they have written their programs, at which point they can compare concurrency-control strategies and choose the one that offers the best performance. Implementers and researchers also benefit from the agnostic nature of OCM -- it provides a level of abstraction to investigate, compare, and combine a variety of interesting concurrency-control techniques.

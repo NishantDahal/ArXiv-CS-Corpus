@@ -1,0 +1,4 @@
+PIDE for Asynchronous Interaction with Coq
+
+This paper describes the initial progress towards integrating the Coq proof assistant with the PIDE architecture initially developed for Isabelle. The architecture is aimed at asynchronous, parallel interaction with proof assistants, and is tied in heavily with a plugin that allows the jEdit editor to work with Isabelle.
+  We have made some generalizations to the PIDE architecture to accommodate for more provers than just Isabelle, and adapted Coq to understand the core protocol: this delivered a working system in about two man-months.

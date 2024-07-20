@@ -1,0 +1,3 @@
+Resiliency in Distributed Sensor Networks for PHM of the Monitoring Targets
+
+In condition-based maintenance, real-time observations are crucial for on-line health assessment. When the monitoring system is a wireless sensor network, data loss becomes highly probable and this affects the quality of the remaining useful life prediction. In this paper, we present a fully distributed algorithm that ensures fault tolerance and recovers data loss in wireless sensor networks. We first theoretically analyze the algorithm and give correctness proofs, then provide simulation results and show that the algorithm is (i) able to ensure data recovery with a low failure rate and (ii) preserves the overall energy for dense networks.

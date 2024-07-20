@@ -1,0 +1,5 @@
+Monte Carlo Methods for the Game Kingdomino
+
+Kingdomino is introduced as an interesting game for studying game playing: the game is multiplayer (4 independent players per game); it has a limited game depth (13 moves per player); and it has limited but not insignificant interaction among players.
+  Several strategies based on locally greedy players, Monte Carlo Evaluation (MCE), and Monte Carlo Tree Search (MCTS) are presented with variants. We examine a variation of UCT called progressive win bias and a playout policy (Player-greedy) focused on selecting good moves for the player. A thorough evaluation is done showing how the strategies perform and how to choose parameters given specific time constraints. The evaluation shows that surprisingly MCE is stronger than MCTS for a game like Kingdomino.
+  All experiments use a cloud-native design, with a game server in a Docker container, and agents communicating using a REST-style JSON protocol. This enables a multi-language approach to separating the game state, the strategy implementations, and the coordination layer.

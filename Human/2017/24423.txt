@@ -1,0 +1,3 @@
+Reconstructing a Bounded-Degree Directed Tree Using Path Queries
+
+We present a randomized algorithm for reconstructing directed rooted trees of $n$ nodes and node degree at most $d$, by asking at most $O(dn\log^2 n)$ path queries. Each path query takes as input an origin node and a target node, and answers whether there is a directed path from the origin to the target. Regarding lower bounds, we show that any randomized algorithm requires at least $Ω(n\log n)$ queries, while any deterministic algorithm requires at least $Ω(dn)$ queries. Additionally, we present a $O(dn\log^3 n)$ randomized algorithm for noisy queries, and a $O(dn\log^2 n)$ randomized algorithm for additive queries on weighted trees.

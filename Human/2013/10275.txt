@@ -1,0 +1,3 @@
+Parameterized Algorithms for Finding Square Roots
+
+We show that the following two problems are fixed-parameter tractable with parameter k: testing whether a connected n-vertex graph with m edges has a square root with at most n-1+k edges and testing whether such a graph has a square root with at least m-k edges. Our first result implies that squares of graphs obtained from trees by adding at most k edges can be recognized in polynomial time for every fixed k>=0; previously this result was known only for k=0. Our second result is equivalent to stating that deciding whether a graph can be modified into a square root of itself by at most k edge deletions is fixed-parameter tractable with parameter k.

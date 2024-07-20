@@ -1,0 +1,3 @@
+Compliant Conditions for Polynomial Time Approximation of Operator Counts
+
+In this paper, we develop a computationally simpler version of the operator count heuristic for a particular class of domains. The contribution of this abstract is threefold, we (1) propose an efficient closed form approximation to the operator count heuristic using the Lagrangian dual; (2) leverage compressed sensing techniques to obtain an integer approximation for operator counts in polynomial time; and (3) discuss the relationship of the proposed formulation to existing heuristics and investigate properties of domains where such approaches appear to be useful.

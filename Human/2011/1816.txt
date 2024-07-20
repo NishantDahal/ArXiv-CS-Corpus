@@ -1,0 +1,4 @@
+Symbolic Computation of Recursion Operators for Nonlinear Differential-Difference equations
+
+An algorithm for the symbolic computation of recursion operators for systems of nonlinear differential-difference equations (DDEs) is presented. Recursion operators allow one to generate an infinite sequence of generalized symmetries. The existence of a recursion operator therefore guarantees the complete integrability of the DDE. The algo-rithm is based in part on the concept of dilation invariance and uses our earlier algorithms for the symbolic computation of conservation laws and generalized symmetries.
+  The algorithm has been applied to a number of well-known DDEs, including the Kac-van Moerbeke (Volterra), Toda, and Ablowitz-Ladik lattices, for which recursion opera-tors are shown. The algorithm has been implemented in Mathematica, a leading com-puter algebra system. The package DDERecursionOperator.m is briefly discussed.

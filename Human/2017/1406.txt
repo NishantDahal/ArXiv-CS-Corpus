@@ -1,0 +1,3 @@
+Efficient non-anonymous composition operator for modeling complex dependable systems
+
+A new model composer is proposed to automatically generate non-anonymous model replicas in the context of performability and dependability evaluation. It is a state-sharing composer that extends the standard anonymous replication composer in order to share the state of a replica among a set of other specific replicas or among the eplica and another external model. This new composition operator aims to improve expressiveness and performance with respect to the standard anonymous replicator, namely the one adopted by the M{ö}bius modeling framework.

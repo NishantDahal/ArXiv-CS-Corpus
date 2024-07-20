@@ -1,0 +1,6 @@
+Genetic and Memetic Algorithm with Diversity Equilibrium based on Greedy Diversification
+
+The lack of diversity in a genetic algorithm's population may lead to a bad performance of the genetic operators since there is not an equilibrium between exploration and exploitation. In those cases, genetic algorithms present a fast and unsuitable convergence.
+  In this paper we develop a novel hybrid genetic algorithm which attempts to obtain a balance between exploration and exploitation. It confronts the diversity problem using the named greedy diversification operator. Furthermore, the proposed algorithm applies a competition between parent and children so as to exploit the high quality visited solutions. These operators are complemented by a simple selection mechanism designed to preserve and take advantage of the population diversity.
+  Additionally, we extend our proposal to the field of memetic algorithms, obtaining an improved model with outstanding results in practice.
+  The experimental study shows the validity of the approach as well as how important is taking into account the exploration and exploitation concepts when designing an evolutionary algorithm.

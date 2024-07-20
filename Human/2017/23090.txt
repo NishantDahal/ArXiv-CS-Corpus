@@ -1,0 +1,3 @@
+Deep Residual Text Detection Network for Scene Text
+
+Scene text detection is a challenging problem in computer vision. In this paper, we propose a novel text detection network based on prevalent object detection frameworks. In order to obtain stronger semantic feature, we adopt ResNet as feature extraction layers and exploit multi-level feature by combining hierarchical convolutional networks. A vertical proposal mechanism is utilized to avoid proposal classification, while regression layer remains working to improve localization accuracy. Our approach evaluated on ICDAR2013 dataset achieves F-measure of 0.91, which outperforms previous state-of-the-art results in scene text detection.

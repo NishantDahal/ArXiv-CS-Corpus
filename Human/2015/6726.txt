@@ -1,0 +1,3 @@
+A geometric alternative to Nesterov's accelerated gradient descent
+
+We propose a new method for unconstrained optimization of a smooth and strongly convex function, which attains the optimal rate of convergence of Nesterov's accelerated gradient descent. The new algorithm has a simple geometric interpretation, loosely inspired by the ellipsoid method. We provide some numerical evidence that the new method can be superior to Nesterov's accelerated gradient descent.

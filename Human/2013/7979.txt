@@ -1,0 +1,5 @@
+Near-Optimal Online Multiselection in Internal and External Memory
+
+We introduce an online version of the multiselection problem, in which q selection queries are requested on an unsorted array of n elements. We provide the first online algorithm that is 1-competitive with Kaligosi et al. [ICALP 2005] in terms of comparison complexity. Our algorithm also supports online search queries efficiently.
+  We then extend our algorithm to the dynamic setting, while retaining online functionality, by supporting arbitrary insertions and deletions on the array. Assuming that the insertion of an element is immediately preceded by a search for that element, we show that our dynamic online algorithm performs an optimal number of comparisons, up to lower order terms and an additive O(n) term.
+  For the external memory model, we describe the first online multiselection algorithm that is O(1)-competitive. This result improves upon the work of Sibeyn [Journal of Algorithms 2006] when q > m, where m is the number of blocks that can be stored in main memory. We also extend it to support searches, insertions, and deletions of elements efficiently.

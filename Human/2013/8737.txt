@@ -1,0 +1,3 @@
+Empirical Evidence of Large-Scale Diversity in API Usage of Object-Oriented Software
+
+In this paper, we study how object-oriented classes are used across thousands of software packages. We concentrate on "usage diversity'", defined as the different statically observable combinations of methods called on the same object. We present empirical evidence that there is a significant usage diversity for many classes. For instance, we observe in our dataset that Java's String is used in 2460 manners. We discuss the reasons of this observed diversity and the consequences on software engineering knowledge and research.

@@ -1,0 +1,4 @@
+A Note on Degree vs Gap of Min-Rep Label Cover and Improved Inapproximability for Connectivity Problems
+
+This note concerns the trade-off between the degree of the constraint graph and the gap in hardness of approximating the Min-Rep variant of Label Cover (aka Projection Game). We make a very simple observation that, for NP-hardness with gap $g$, the degree can be made as small as $O(g \log g)$, which improves upon the previous $\tilde{O}(g^{1/2})$ bound from a work of Laekhanukit (SODA'14). Note that our bound is optimal up to a logarithmic factor since there is a trivial $Δ$-approximation for Min-Rep where $Δ$ is the maximum degree of the constraint graph.
+  Thanks to known reductions, this improvement implies better hardness of approximation results for Rooted $k$-Connectivity, Vertex-Connectivity Survivable Network Design and Vertex-Connectivity $k$-Route Cut.

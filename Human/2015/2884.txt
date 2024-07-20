@@ -1,0 +1,5 @@
+Typing Classes and Mixins with Intersection Types
+
+We study an assignment system of intersection types for a lambda-calculus with records and a record-merge operator, where types are preserved both under subject reduction and expansion. The calculus is expressive enough to naturally represent mixins as functions over recursively defined classes, whose fixed points,  the objects,  are recursive records. In spite of the double recursion that is involved in their definition, classes and mixins can be meaningfully typed without resorting to neither recursive nor F-bounded polymorphic types. 
+  We then adapt mixin construct and composition to Java and C#, relying solely on existing features in such a way that the resulting code remains typable in the respective type systems. We exhibit some example code, and study its typings in the intersection type system via interpretation into the lambda-calculus with records we have proposed.
+

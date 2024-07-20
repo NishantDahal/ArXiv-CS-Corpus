@@ -1,0 +1,3 @@
+A Credal Extension of Independent Choice Logic
+
+We propose an extension of Poole's independent choice logic based on a relaxation of the underlying independence assumptions. A credal semantics involving multiple joint probability mass functions over the possible worlds is adopted. This represents a conservative approach to probabilistic logic programming achieved by considering all the mass functions consistent with the probabilistic facts. This allows to model tasks for which independence among some probabilistic choices cannot be assumed, and a specific dependence model cannot be assessed. Preliminary tests on an object ranking application show that, despite the loose underlying assumptions, informative inferences can be extracted.

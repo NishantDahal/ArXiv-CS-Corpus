@@ -1,0 +1,3 @@
+Sparse Diffusion-Convolutional Neural Networks
+
+The predictive power and overall computational efficiency of Diffusion-convolutional neural networks make them an attractive choice for node classification tasks. However, a naive dense-tensor-based implementation of DCNNs leads to $\mathcal{O}(N^2)$ memory complexity which is prohibitive for large graphs. In this paper, we introduce a simple method for thresholding input graphs that provably reduces memory requirements of DCNNs to O(N) (i.e. linear in the number of nodes in the input) without significantly affecting predictive performance.

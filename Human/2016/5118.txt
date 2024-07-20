@@ -1,0 +1,3 @@
+Public key cryptography based on some extensions of group
+
+Bogopolski, Martino and Ventura in [BMV10] introduced a general criteria to construct groups extensions with unsolvable conjugacy problem using short exact sequences. We prove that such extensions have always solvable word problem. This makes the proposed construction a systematic way to obtain finitely presented groups with solvable word problem and unsolvable conjugacy problem. It is believed that such groups are important in cryptography. For this, and as an example, we provide an explicit construction of an extension of Thompson group F and we propose it as a base for a public key cryptography protocol.

@@ -1,0 +1,3 @@
+Algebraic Foundations of Proof Refinement
+
+We contribute a general apparatus for dependent tactic-based proof refinement in the LCF tradition, in which the statements of subgoals may express a dependency on the proofs of other subgoals; this form of dependency is extremely useful and can serve as an algorithmic alternative to extensions of LCF based on non-local instantiation of schematic variables. Additionally, we introduce a novel behavioral distinction between refinement rules and tactics based on naturality. Our framework, called Dependent LCF, is already deployed in the nascent RedPRL proof assistant for computational cubical type theory.

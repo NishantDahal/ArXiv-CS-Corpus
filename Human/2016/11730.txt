@@ -1,0 +1,3 @@
+Online Algorithms for Factorization-Based Structure from Motion
+
+We present a family of online algorithms for real-time factorization-based structure from motion, leveraging a relationship between incremental singular value decomposition and recently proposed methods for online matrix completion. Our methods are orders of magnitude faster than previous state of the art, can handle missing data and a variable number of feature points, and are robust to noise and sparse outliers. We demonstrate our methods on both real and synthetic sequences and show that they perform well in both online and batch settings. We also provide an implementation which is able to produce 3D models in real time using a laptop with a webcam.

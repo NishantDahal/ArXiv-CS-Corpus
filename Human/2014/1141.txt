@@ -1,0 +1,3 @@
+The role of logical interpretations in program development
+
+Stepwise refinement of algebraic specifications is a well known formal methodology for program development. However, traditional notions of refinement based on signature morphisms are often too rigid to capture a number of relevant transformations in the context of software design, reuse, and adaptation. This paper proposes a new approach to refinement in which signature morphisms are replaced by logical interpretations as a means to witness refinements. The approach is first presented in the context of equational logic, and later generalised to deductive systems of arbitrary dimension. This allows, for example, refining sentential into equational specifications and the latter into modal ones.

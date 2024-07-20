@@ -1,0 +1,3 @@
+Avalanche Effect in Improperly Initialized CAESAR Candidates
+
+Cryptoprimitives rely on thorough theoretical background, but often lack basic usability features making them prone to unintentional misuse by developers. We argue that this is true even for the state-of-the-art designs. Analyzing 52 candidates of the current CAESAR competition has shown none of them have an avalanche effect in authentication tag strong enough to work properly when partially misconfigured. Although not directly decreasing their security profile, this hints at their security usability being less than perfect. Paper details available at crcs.cz/papers/memics2016

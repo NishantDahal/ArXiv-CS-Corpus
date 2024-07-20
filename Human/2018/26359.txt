@@ -1,0 +1,3 @@
+Weighted vertex cover on graphs with maximum degree 3
+
+We give a parameterized algorithm for weighted vertex cover on graphs with maximum degree 3 whose time complexity is $O^*(1.402^t)$, where $t$ is the minimum size of a vertex cover of the input graph.

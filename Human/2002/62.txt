@@ -1,0 +1,3 @@
+The Deductive Database System LDL++
+
+This paper describes the LDL++ system and the research advances that have enabled its design and development. We begin by discussing the new nonmonotonic and nondeterministic constructs that extend the functionality of the LDL++ language, while preserving its model-theoretic and fixpoint semantics. Then, we describe the execution model and the open architecture designed to support these new constructs and to facilitate the integration with existing DBMSs and applications. Finally, we describe the lessons learned by using LDL++ on various tested applications, such as middleware and datamining.

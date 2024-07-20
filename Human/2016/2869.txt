@@ -1,0 +1,3 @@
+Exact Recovery of Sparse Signals via Orthogonal Matching Pursuit: How Many Iterations Do We Need?
+
+Orthogonal matching pursuit (OMP) is a greedy algorithm widely used for the recovery of sparse signals from compressed measurements. In this paper, we analyze the number of iterations required for the OMP algorithm to perform exact recovery of sparse signals. Our analysis shows that OMP can accurately recover all $K$-sparse signals within $\lceil 2.8 K \rceil$ iterations when the measurement matrix satisfies a restricted isometry property (RIP). Our result improves upon the recent result of Zhang and also bridges the gap between Zhang's result and the fundamental limit of OMP at which exact recovery of $K$-sparse signals cannot be uniformly guaranteed.

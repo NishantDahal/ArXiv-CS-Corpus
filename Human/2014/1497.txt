@@ -1,0 +1,3 @@
+Points defining triangles with distinct circumradii
+
+Paul Erdos asked if, among sufficiently many points in general position, there are always $k$ points such that all the circles through $3$ of these $k$ points have different radii. He later proved that this is indeed the case. However, he overlooked a non-trivial case in his proof. In this note we deal with this case using Bézout's Theorem on the number of intersection points of two curves and obtain a polynomial bound for the needed number of points.

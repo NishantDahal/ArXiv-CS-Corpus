@@ -1,0 +1,4 @@
+Quasi-PTAS for Scheduling with Precedences using LP Hierarchies
+
+A central problem in scheduling is to schedule $n$ unit size jobs with precedence constraints on $m$ identical machines so as to minimize the makespan. For $m=3$, it is not even known if the problem is NP-hard and this is one of the last open problems from the book of Garey and Johnson.
+  We show that for fixed $m$ and $ε$, $(\log n)^{O(1)}$ rounds of Sherali-Adams hierarchy applied to a natural LP of the problem provides a $(1+ε)$-approximation algorithm running in quasi-polynomial time. This improves over the recent result of Levey and Rothvoss, who used $r=(\log n)^{O(\log \log n)}$ rounds of Sherali-Adams in order to get a $(1+ε)$-approximation algorithm with a running time of $n^{O(r)}$.

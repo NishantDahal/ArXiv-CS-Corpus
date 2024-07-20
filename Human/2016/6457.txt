@@ -1,0 +1,5 @@
+Maximum Semidefinite and Linear Extension Complexity of Families of Polytopes
+
+We relate the maximum semidefinite and linear extension complexity of a family of polytopes to the cardinality of this family and the minimum pairwise Hausdorff distance of its members. This result directly implies a known lower bound on the maximum semidefinite extension complexity of 0/1-polytopes. We further show how our result can be used to improve on the corresponding bounds known for polygons with integer vertices.
+  Our geometric proof builds upon nothing else than a simple well-known property of maximum volume inscribed ellipsoids of convex bodies. In particular, it does not rely on factorizations over the semidefinite cone and thus avoids involved procedures of balancing them as required, e.g., in [Briet, Dadush & Pokutta 2015]. We hope that revealing the geometry behind the phenomenon opens doors for further results.
+  Moreover, we show that the linear extension complexity of every d-dimensional 0/1-polytope is bounded from above by O(2^d / d).

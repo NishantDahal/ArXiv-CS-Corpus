@@ -1,0 +1,3 @@
+Algebraic Model Counting
+
+Weighted model counting (WMC) is a well-known inference task on knowledge bases, used for probabilistic inference in graphical models. We introduce algebraic model counting (AMC), a generalization of WMC to a semiring structure. We show that AMC generalizes many well-known tasks in a variety of domains such as probabilistic inference, soft constraints and network and database analysis. Furthermore, we investigate AMC from a knowledge compilation perspective and show that all AMC tasks can be evaluated using sd-DNNF circuits. We identify further characteristics of AMC instances that allow for the use of even more succinct circuits.

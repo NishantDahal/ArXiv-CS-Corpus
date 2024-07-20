@@ -1,0 +1,3 @@
+Exact Byzantine Consensus Under Local-Broadcast Model
+
+This paper considers the problem of achieving exact Byzantine consensus in a synchronous system under a local-broadcast communication model. The nodes communicate with each other via message-passing. The communication network is modeled as an undirected graph, with each vertex representing a node in the system. Under the local-broadcast communication model, when any node transmits a message, all its neighbors in the communication graph receive the message reliably. This communication model is motivated by wireless networks. In this work, we present necessary and sufficient conditions on the underlying communication graph to achieve exact Byzantine consensus under the local-broadcast communication model.

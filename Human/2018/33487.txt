@@ -1,0 +1,3 @@
+Sequence to Sequence Learning for Query Expansion
+
+Using sequence to sequence algorithms for query expansion has not been explored yet in Information Retrieval literature nor in Question-Answering's. We tried to fill this gap in the literature with a custom Query Expansion engine trained and tested on open datasets. Starting from open datasets, we built a Query Expansion training set using sentence-embeddings-based Keyword Extraction. We therefore assessed the ability of the Sequence to Sequence neural networks to capture expanding relations in the words embeddings' space.

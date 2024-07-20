@@ -1,0 +1,3 @@
+A benchmark library for parametric timed model checking
+
+Verification of real-time systems involving hard timing constraints and concurrency is of utmost importance. Parametric timed model checking allows for formal verification in the presence of unknown timing constants or uncertainty (e.g. imprecision for periods). With the recent development of several techniques and tools to improve the efficiency of parametric timed model checking, there is a growing need for proper benchmarks to test and compare fairly these tools. We present here a benchmark library for parametric timed model checking made of benchmarks accumulated over the years. Our benchmarks include academic benchmarks, industrial case studies and examples unsolvable using existing techniques.

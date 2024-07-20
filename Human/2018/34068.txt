@@ -1,0 +1,3 @@
+Optimal Regular Expressions for Permutations
+
+The permutation language $P_n$ consists of all words that are permutations of a fixed alphabet of size $n$. Using divide-and-conquer, we construct a regular expression $R_n$ that specifies $P_n$. We then give explicit bounds for the length of $R_n$, which we find to be $4^n n^{-(\lg n)/4+Θ(1)}$, and use these bounds to show that $R_n$ has minimum size over all regular expressions specifying $P_n$.

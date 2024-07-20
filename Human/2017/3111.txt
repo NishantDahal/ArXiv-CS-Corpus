@@ -1,0 +1,3 @@
+Limits in Categories of Vietoris Coalgebras
+
+Motivated by the need to reason about hybrid systems, we study limits in categories of coalgebras whose underlying functor is a Vietoris polynomial one - intuitively, the topological analogue of a Kripke polynomial functor. Among other results, we prove that every Vietoris polynomial functor admits a final coalgebra if it respects certain conditions concerning separation axioms and compactness. When the functor is restricted to some of the categories induced by these conditions the resulting categories of coalgebras are even complete. As a practical application, we use these developments in the specification and analysis of non-deterministic hybrid systems, in particular to obtain suitable notions of stability, and behaviour.

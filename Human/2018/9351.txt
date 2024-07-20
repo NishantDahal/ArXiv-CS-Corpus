@@ -1,0 +1,3 @@
+Closed-form detector for solid sub-pixel targets in multivariate t-distributed background clutter
+
+The generalized likelihood ratio test (GLRT) is used to derive a detector for solid sub-pixel targets in hyperspectral imagery. A closed-form solution is obtained that optimizes the replacement target model when the background is a fat-tailed elliptically-contoured multivariate t-distribution. This generalizes GLRT-based detectors that have previously been derived for the replacement target model with Gaussian background, and for the additive target model with an elliptically-contoured background. Experiments with simulated hyperspectral data illustrate the performance of this detector in various parameter regimes.

@@ -1,0 +1,3 @@
+Notes on hierarchical ensemble methods for DAG-structured taxonomies
+
+Several real problems ranging from text classification to computational biology are characterized by hierarchical multi-label classification tasks. Most of the methods presented in literature focused on tree-structured taxonomies, but only few on taxonomies structured according to a Directed Acyclic Graph (DAG). In this contribution novel classification ensemble algorithms for DAG-structured taxonomies are introduced. In particular Hierarchical Top-Down (HTD-DAG) and True Path Rule (TPR-DAG) for DAGs are presented and discussed.

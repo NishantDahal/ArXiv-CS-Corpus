@@ -1,0 +1,3 @@
+Multi-threaded ASP Solving with clasp
+
+We present the new multi-threaded version of the state-of-the-art answer set solver clasp. We detail its component and communication architecture and illustrate how they support the principal functionalities of clasp. Also, we provide some insights into the data representation used for different constraint types handled by clasp. All this is accompanied by an extensive experimental analysis of the major features related to multi-threading in clasp.

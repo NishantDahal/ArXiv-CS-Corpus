@@ -1,0 +1,3 @@
+Free-hand Sketch Synthesis with Deformable Stroke Models
+
+We present a generative model which can automatically summarize the stroke composition of free-hand sketches of a given category. When our model is fit to a collection of sketches with similar poses, it discovers and learns the structure and appearance of a set of coherent parts, with each part represented by a group of strokes. It represents both consistent (topology) as well as diverse aspects (structure and appearance variations) of each sketch category. Key to the success of our model are important insights learned from a comprehensive study performed on human stroke data. By fitting this model to images, we are able to synthesize visually similar and pleasant free-hand sketches.

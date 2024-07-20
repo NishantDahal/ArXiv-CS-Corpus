@@ -1,0 +1,3 @@
+Compressed Representations of Permutations, and Applications
+
+We explore various techniques to compress a permutation $π$ over n integers, taking advantage of ordered subsequences in $π$, while supporting its application $π$(i) and the application of its inverse $π^{-1}(i)$ in small time. Our compression schemes yield several interesting byproducts, in many cases matching, improving or extending the best existing results on applications such as the encoding of a permutation in order to support iterated applications $π^k(i)$ of it, of integer functions, and of inverted lists and suffix arrays.

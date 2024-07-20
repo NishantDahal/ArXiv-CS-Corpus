@@ -1,0 +1,4 @@
+A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum
+
+Given a multiset $S$ of $n$ positive integers and a target integer $t$, the Subset Sum problem asks to determine whether there exists a subset of $S$ that sums up to $t$. The current best deterministic algorithm, by Koiliaris and Xu [SODA'17], runs in $\tilde O(\sqrt{n}t)$ time, where $\tilde O$ hides poly-logarithm factors. Bringmann [SODA'17] later gave a randomized $\tilde O(n + t)$ time algorithm using two-stage color-coding. The $\tilde O(n+t)$ running time is believed to be near-optimal.
+  In this paper, we present a simple and elegant randomized algorithm for Subset Sum in $\tilde O(n + t)$ time. Our new algorithm actually solves its counting version modulo prime $p>t$, by manipulating generating functions using FFT.

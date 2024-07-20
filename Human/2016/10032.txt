@@ -1,0 +1,3 @@
+An optimal representation for the trace zero subgroup
+
+We give an optimal-size representation for the elements of the trace zero subgroup of the Picard group of an elliptic or hyperelliptic curve of any genus, with respect to a field extension of any prime degree. The representation is via the coefficients of a rational function, and it is compatible with scalar multiplication of points. We provide efficient compression and decompression algorithms, and complement them with implementation results. We discuss in detail the practically relevant cases of small genus and extension degree, and compare with the other known compression methods.

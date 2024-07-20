@@ -1,0 +1,3 @@
+TARDIS: Timestamp based Coherence Algorithm for Distributed Shared Memory
+
+A new memory coherence protocol, Tardis, is proposed. Tardis uses timestamp counters representing logical time as well as physical time to order memory operations and enforce sequential consistency in any type of shared memory system. Tardis is unique in that as compared to the widely-adopted directory coherence protocol, and its variants, it completely avoids multicasting and only requires O(log N) storage per cache block for an N-core system rather than O(N) sharer information. Tardis is simpler and easier to reason about, yet achieves similar performance to directory protocols on a wide range of benchmarks run on 16, 64 and 256 cores.

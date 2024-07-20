@@ -1,0 +1,3 @@
+A Curious Case of Curbed Condition
+
+In computer aided geometric design a polynomial is usually represented in Bernstein form. The de Casteljau algorithm is the most well-known algorithm for evaluating a polynomial in this form. Evaluation via the de Casteljau algorithm has relative forward error proportional to the condition number of evaluation. However, for a particular family of polynomials, a curious phenomenon occurs: the observed error is much smaller than the expected error bound. We examine this family and prove a much stronger error bound than the one that applies to the general case. Then we provide a few examples to demonstrate the difference in rounding.

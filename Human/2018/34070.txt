@@ -1,0 +1,4 @@
+A Note on a Picture-Hanging Puzzle
+
+In the picture-hanging puzzle we are to hang a picture so that the string loops around $n$ nails and the removal of any nail results in a fall of the picture. We show that the length of a sequence representing an element in the free group with $n$ generators that corresponds to a solution of the picture-hanging puzzle must be at least $n2^{\sqrt{\log_2 n}}$.
+  In other words, this is a lower bound on the length of a sequence representing a non-trivial element in the free group with $n$ generators such that if we replace any of the generators by the identity the sequence becomes trivial.

@@ -1,0 +1,3 @@
+Generating an equidistributed net on a unit n-sphere using random rotations
+
+We develop a randomized algorithm (that succeeds with high probability) for generating an $ε$-net in a sphere of dimension n. The basic scheme is to pick $O(n \ln(1/n) + \ln(1/δ))$ random rotations and take all possible words of length $O(n \ln(1/ε))$ in the same alphabet and act them on a fixed point. We show this set of points is equidistributed at a scale of $ε$. Our main application is to approximate integration of Lipschitz functions over an n-sphere.

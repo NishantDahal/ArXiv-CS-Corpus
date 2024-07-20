@@ -1,0 +1,3 @@
+On the I/O Costs of Some Repair Schemes for Full-Length Reed-Solomon Codes
+
+Network transfer and disk read are the most time consuming operations in the repair process for node failures in erasure-code-based distributed storage systems. Recent developments on Reed-Solomon codes, the most widely used erasure codes in practical storage systems, have shown that efficient repair schemes specifically tailored to these codes can significantly reduce the network bandwidth spent to recover single failures. However, the I/O cost, that is, the number of disk reads performed in these repair schemes remains largely unknown. We take the first step to address this gap in the literature by investigating the I/O costs of some existing repair schemes for full-length Reed-Solomon codes.

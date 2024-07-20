@@ -1,0 +1,3 @@
+Interactive Hatching and Stippling by Example
+
+We describe a system that lets a designer interactively draw patterns of strokes in the picture plane, then guide the synthesis of similar patterns over new picture regions. Synthesis is based on an initial user-assisted analysis phase in which the system recognizes distinct types of strokes (hatching and stippling) and organizes them according to perceptual grouping criteria. The synthesized strokes are produced by combining properties (eg. length, orientation, parallelism, proximity) of the stroke groups extracted from the input examples. We illustrate our technique with a drawing application that allows the control of attributes and scale-dependent reproduction of the synthesized patterns.

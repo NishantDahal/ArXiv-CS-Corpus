@@ -1,0 +1,3 @@
+Music Recommendation System for Million Song Dataset Challenge
+
+In this paper a system that took 8th place in Million Song Dataset challenge is described. Given full listening history for 1 million of users and half of listening history for 110000 users participatints should predict the missing half. The system proposed here uses memory-based collaborative filtering approach and user-based similarity. MAP@500 score of 0.15037 was achieved.

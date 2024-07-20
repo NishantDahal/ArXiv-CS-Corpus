@@ -1,0 +1,3 @@
+A Straightforward Approach to Morphological Analysis and Synthesis
+
+In this paper we present a lexicon-based approach to the problem of morphological processing. Full-form words, lemmas and grammatical tags are interconnected in a DAWG. Thus, the process of analysis/synthesis is reduced to a search in the graph, which is very fast and can be performed even if several pieces of information are missing from the input. The contents of the DAWG are updated using an on-line incremental process. The proposed approach is language independent and it does not utilize any morphophonetic rules or any other special linguistic information.

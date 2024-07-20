@@ -1,0 +1,3 @@
+$L_1$ Shortest Path Queries in Simple Polygons
+
+Let $P$ be a simple polygon of $n$ vertices. We consider two-point $L_1$ shortest path queries in $P$. We build a data structure of $O(n)$ size in $O(n)$ time such that given any two query points $s$ and $t$, the length of an $L_1$ shortest path from $s$ to $t$ in $P$ can be computed in $O(\log n)$ time, or in $O(1)$ time if both $s$ and $t$ are vertices of $P$, and an actual shortest path can be output in additional linear time in the number of edges of the path. To achieve the result, we propose a mountain decomposition of simple polygons, which may be interesting in its own right. Most importantly, our approach is much simpler than the previous work on this problem.

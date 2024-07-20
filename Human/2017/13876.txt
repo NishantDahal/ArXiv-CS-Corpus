@@ -1,0 +1,3 @@
+Power domination on triangular grids
+
+The concept of power domination emerged from the problem of monitoring electrical systems. Given a graph G and a set S $\subseteq$ V (G), a set M of monitored vertices is built as follows: at first, M contains only the vertices of S and their direct neighbors, and then each time a vertex in M has exactly one neighbor not in M, this neighbor is added to M. The power domination number of a graph G is the minimum size of a set S such that this process ends up with the set M containing every vertex of G. We here show that the power domination number of a triangular grid T\_k with hexagonal-shape border of length k -- 1 is exactly $\lceil k/3 \rceil.

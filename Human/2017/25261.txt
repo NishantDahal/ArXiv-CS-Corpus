@@ -1,0 +1,3 @@
+Techniques for Constructing Efficient Lock-free Data Structures
+
+Building a library of concurrent data structures is an essential way to simplify the difficult task of developing concurrent software. Lock-free data structures, in which processes can help one another to complete operations, offer the following progress guarantee: If processes take infinitely many steps, then infinitely many operations are performed. Handcrafted lock-free data structures can be very efficient, but are notoriously difficult to implement. We introduce numerous tools that support the development of efficient lock-free data structures, and especially trees.

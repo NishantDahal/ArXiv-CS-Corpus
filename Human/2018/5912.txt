@@ -1,0 +1,3 @@
+Analysis of Nonautonomous Adversarial Systems
+
+Generative adversarial networks are used to generate images but still their convergence properties are not well understood. There have been a few studies who intended to investigate the stability properties of GANs as a dynamical system. This short writing can be seen in that direction. Among the proposed methods for stabilizing training of GANs, ß-GAN was the first who proposed a complete annealing strategy to change high-level conditions of the GAN objective. In this note, we show by a simple example how annealing strategy works in GANs. The theoretical analysis is supported by simple simulations.

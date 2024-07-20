@@ -1,0 +1,3 @@
+Running genetic algorithms on Hadoop for solving high dimensional optimization problems
+
+Hadoop is a popular MapReduce framework for developing parallel applications in distributed environments. Several advantages of MapReduce such as programming ease and ability to use commodity hardware make the applicability of soft computing methods for parallel and distributed systems easier than before. In this paper, we present the results of an experimental study on running soft computing algorithms using Hadoop. This study shows how a simple genetic algorithm running on Hadoop can be used to produce solutions for high dimensional optimization problems. In addition, a simple but effective technique, which did not need MapReduce chains, has been proposed.

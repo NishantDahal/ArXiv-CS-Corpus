@@ -1,0 +1,3 @@
+Reconciliation of a Quantum-Distributed Gaussian Key
+
+Two parties, Alice and Bob, wish to distill a binary secret key out of a list of correlated variables that they share after running a quantum key distribution protocol based on continuous-spectrum quantum carriers. We present a novel construction that allows the legitimate parties to get equal bit strings out of correlated variables by using a classical channel, with as few leaked information as possible. This opens the way to securely correcting non-binary key elements. In particular, the construction is refined to the case of Gaussian variables as it applies directly to recent continuous-variable protocols for quantum key distribution.

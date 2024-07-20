@@ -1,0 +1,3 @@
+Parameterizing Region Covariance: An Efficient Way To Apply Sparse Codes On Second Order Statistics
+
+Sparse representations have been successfully applied to signal processing, computer vision and machine learning. Currently there is a trend to learn sparse models directly on structure data, such as region covariance. However, such methods when combined with region covariance often require complex computation. We present an approach to transform a structured sparse model learning problem to a traditional vectorized sparse modeling problem by constructing a Euclidean space representation for region covariance matrices. Our new representation has multiple advantages. Experiments on several vision tasks demonstrate competitive performance with the state-of-the-art methods.

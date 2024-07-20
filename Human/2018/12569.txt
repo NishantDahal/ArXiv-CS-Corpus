@@ -1,0 +1,4 @@
+Generalised Dining Philosophers as Feedback Control
+
+We revisit the Generalised Dining Philosophers problem through the perspective of feedback control. The result is a modular development of the solution using the notions of system and system composition (the latter due to Tabuada) in a formal setting that employs simple equational reasoning. The modular approach separates the solution architecture from the algorithmic minutiae and has the benefit of simplifying the design and correctness proofs.
+  Three variants of the problem are considered: N=1, and N>1 with centralised and distributed topology. The base case (N=1) reveals important insights into the problem specification and the architecture of the solution. In each case, solving the Generalised Dining Philosophers reduces to designing an appropriate feedback controller.

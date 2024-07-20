@@ -1,0 +1,6 @@
+Learning to recognize touch gestures: recurrent vs. convolutional features and dynamic sampling
+
+We propose a fully automatic method for learning gestures on big touch devices in a potentially multi-user context. The goal is to learn general models capable of adapting to different gestures, user styles and hardware variations (e.g. device sizes, sampling frequencies and regularities).
+  Based on deep neural networks, our method features a novel dynamic sampling and temporal normalization component, transforming variable length gestures into fixed length representations while preserving finger/surface contact transitions, that is, the topology of the signal. This sequential representation is then processed with a convolutional model capable, unlike recurrent networks, of learning hierarchical representations with different levels of abstraction.
+  To demonstrate the interest of the proposed method, we introduce a new touch gestures dataset with 6591 gestures performed by 27 people, which is, up to our knowledge, the first of its kind: a publicly available multi-touch gesture dataset for interaction.
+  We also tested our method on a standard dataset of symbolic touch gesture recognition, the MMG dataset, outperforming the state of the art and reporting close to perfect performance.

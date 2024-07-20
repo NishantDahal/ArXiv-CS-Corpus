@@ -1,0 +1,3 @@
+Robust Sparse Blind Source Separation
+
+Blind Source Separation is a widely used technique to analyze multichannel data. In many real-world applications, its results can be significantly hampered by the presence of unknown outliers. In this paper, a novel algorithm coined rGMCA (robust Generalized Morphological Component Analysis) is introduced to retrieve sparse sources in the presence of outliers. It explicitly estimates the sources, the mixing matrix, and the outliers. It also takes advantage of the estimation of the outliers to further implement a weighting scheme, which provides a highly robust separation procedure. Numerical experiments demonstrate the efficiency of rGMCA to estimate the mixing matrix in comparison with standard BSS techniques.

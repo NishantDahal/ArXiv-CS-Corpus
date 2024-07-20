@@ -1,0 +1,3 @@
+Measured Multiseries and Integration
+
+A paper by Bruno Salvy and the author introduced measured multiseries and gave an algorithm to compute these for a large class of elementary functions, modulo a zero-equivalence method for constants. This gave a theoretical background for the implementation that Salvy was developing at that time. The main result of the present article is an algorithm to calculate measured multiseries for integrals of functions of the form h*sin G, where h and G belong to a Hardy field. The process can reiterated with the resulting algebra, and also applied to solutions of a second order differential equation of a particular form.

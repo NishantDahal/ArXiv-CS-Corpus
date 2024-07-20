@@ -1,0 +1,4 @@
+Purchasing a C_4 online
+
+Let $G$ be a graph with edge set $(e_1,e_2,...e_N)$. We independently associate to each edge $e_i$ of $G$ a cost ${x}_i$ that is drawn from a Uniform [0, 1] distribution. Suppose $\mathcal{F}$ is a set of targeted structures that consists of subgraphs of $G$. We would like to buy a subset of $\mathcal{F}$ at small cost, however we do not know a priori the values of the random variables ${x}_1,...,{x}_N$. Instead, we inspect the random variables $x_i$ one at a time. As soon as we inspect the random variable associated with the cost of an edge we have to decide whether we want to buy that edge or reject it for ever.
+  In the present paper we consider the case where $G$ is the complete graph on $n$ vertices and $\mathcal{F}$ is the set of all $C_4$ -cycles on 4 vertices- out of which we want to buy one.

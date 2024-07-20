@@ -1,0 +1,3 @@
+Retractable state-finite automata without outputs
+
+A homomorphism of an automaton ${\bf A}$ without outputs onto a subautomaton ${\bf B}$ of ${\bf A}$ is called a retract homomorphism if it leaves the elements of $B$ fixed. An automaton ${\bf A}$ is called a retractable automaton if, for every subautomaton ${\bf B}$ of ${\bf A}$, there is a retract homomorphism of ${\bf A}$ onto ${\bf B}$. In [1] and [3], special retractable automata are examined. The purpose of this paper is to give a complete description of state-finite retractable automata without outputs.

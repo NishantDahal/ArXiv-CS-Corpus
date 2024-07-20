@@ -1,0 +1,3 @@
+Cryptanalysis of Song's advanced smart card based password authentication protocol
+
+Song \cite{Song10} proposed very recently a password-based authentication and key establishment protocol using smart cards which attempts to solve some weaknesses found in a previous scheme suggested by Xu, Zhu, and Feng \cite{XZF09}. In this paper, we present attacks on the improved protocol, showing that it fails to achieve the claimed security goals.

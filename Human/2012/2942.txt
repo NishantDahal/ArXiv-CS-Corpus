@@ -1,0 +1,3 @@
+A Non-Triviality Certificate for Scalars and its application to Linear Systems
+
+We present an approach of taking a linear weighted Average of N given scalars, such that this Average is zero, if and only if, all N scalars are zero. The weights for the scalars in this Average vary asymptotically with respect to a large positive real. We use this approach with a previous result on Asymptotic Linear Programming, to develop an O(M^4) Algorithm that decides whether or not a system of M Linear Inequalities is feasible, and, whether or not any desired subset of the variables in this system, is permitted to have a non-trivial solution.

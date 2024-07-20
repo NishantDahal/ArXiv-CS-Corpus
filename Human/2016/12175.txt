@@ -1,0 +1,4 @@
+On Joining Graphs
+
+In the graph database literature the term "join" does not refer to an operator used to merge two graphs. In particular, a counterpart of the relational join is not present in existing graph query languages, and consequently no efficient algorithms have been developed for this operator.
+  This paper provides two main contributions. First, we define a binary graph join operator that acts on the vertices as a standard relational join and combines the edges according to a user-defined semantics. Then we propose the "CoGrouped Graph Conjunctive $θ$-Join" algorithm running over data indexed in secondary memory. Our implementation outperforms the execution of the same operation in Cypher and SPARQL on major existing graph database management systems by at least one order of magnitude, also including indexing and loading time.

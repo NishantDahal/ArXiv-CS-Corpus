@@ -1,0 +1,3 @@
+Unveiling Bias Compensation in Turbo-Based Algorithms for (Discrete) Compressed Sensing
+
+In Compressed Sensing, a real-valued sparse vector has to be recovered from an underdetermined system of linear equations. In many applications, however, the elements of the sparse vector are drawn from a finite set. Adapted algorithms incorporating this additional knowledge are required for the discrete-valued setup. In this paper, turbo-based algorithms for both cases are elucidated and analyzed from a communications engineering perspective, leading to a deeper understanding of the algorithm. In particular, we gain the intriguing insight that the calculation of extrinsic values is equal to the unbiasing of a biased estimate and present an improved algorithm.

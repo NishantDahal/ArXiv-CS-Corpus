@@ -1,0 +1,5 @@
+Using Memory-Protection to Simplify Zero-copy Operations
+
+High performance networks (e.g. Infiniband) rely on zero-copy operations for performance. Zero-copy operations, as the name implies, avoid copying buffers for sending and receiving data. Instead, hardware devices directly read and write to application specified areas of memory. Since these networks can send and receive at nearly the same speed as the memory bus inside machines, zero-copy operations are necessary to achieve peak performance for many applications.
+  Unfortunately, programming with zero-copy APIs is a *giant pain*. Users must carefully avoid using buffers that may be accessed by a device. Typically this either results in spaghetti code (where every access to a buffer is checked before usage), or blocking operations (which pretty much defeat the whole point of zero-copy).
+  We show that by abusing memory protection hardware, we can offer the best of both worlds: a simple zero-copy mechanism which allows for non-blocking send and receives while protecting against incorrect accesses.

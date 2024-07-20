@@ -1,0 +1,3 @@
+Robust Model Predictive Control for Autonomous Vehicles/Self Driving Cars
+
+A robust Model Predictive Control (MPC) approach for controlling front steering of an autonomous vehicle is presented in this paper. We present various approaches to increase the robustness of model predictive control by using weight tuning, a successive on-line linearization of a nonlinear vehicle model to track position error and successive on-line linearization to track velocity error. Results of the effectiveness of each method in terms of accuracy and computational load are discussed.

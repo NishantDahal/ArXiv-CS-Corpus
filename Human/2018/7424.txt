@@ -1,0 +1,3 @@
+An Improved Lower Bound for General Position Subset Selection
+
+In the General Position Subset Selection (GPSS) problem, the goal is to find the largest possible subset of a set of points such that no three of its members are collinear. If $s_{\mathrm{GPSS}}$ is the size of the optimal solution, $\sqrt{s_{\mathrm{GPSS}}}$ is the current best guarantee for the size of the solution obtained using a polynomial time algorithm. In this paper we present an algorithm for GPSS to improve this bound based on the number of collinear pairs of points. We experimentally evaluate this and few other GPSS algorithms; the result of these experiments suggests further opportunities for obtaining tighter lower bounds for GPSS.

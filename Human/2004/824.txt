@@ -1,0 +1,3 @@
+Partitioning Regular Polygons into Circular Pieces II:Nonconvex Partitions
+
+We explore optimal circular nonconvex partitions of regular k-gons. The circularity of a polygon is measured by its aspect ratio: the ratio of the radii of the smallest circumscribing circle to the largest inscribed disk. An optimal circular partition minimizes the maximum ratio over all pieces in the partition. We show that the equilateral triangle has an optimal 4-piece nonconvex partition, the square an optimal 13-piece nonconvex partition, and the pentagon has an optimal nonconvex partition with more than 20 thousand pieces. For hexagons and beyond, we provide a general algorithm that approaches optimality, but does not achieve it.

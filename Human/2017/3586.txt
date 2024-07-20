@@ -1,0 +1,3 @@
+A level set based method for fixing overhangs in 3D printing
+
+3D printers based on the Fused Decomposition Modeling create objects layer-by-layer dropping fused material. As a consequence, strong overhangs cannot be printed because the new-come material does not find a suitable support over the last deposed layer. In these cases, one can add some support structures (scaffolds) which make the object printable, to be removed at the end. In this paper we propose a level set method to create object-dependent support structures, specifically conceived to reduce both the amount of additional material and the printing time. We also review some open problems about 3D printing which can be of interests for the mathematical community.

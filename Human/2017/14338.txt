@@ -1,0 +1,3 @@
+SUNNY-CP and the MiniZinc Challenge
+
+In Constraint Programming (CP) a portfolio solver combines a variety of different constraint solvers for solving a given problem. This fairly recent approach enables to significantly boost the performance of single solvers, especially when multicore architectures are exploited. In this work we give a brief overview of the portfolio solver sunny-cp, and we discuss its performance in the MiniZinc Challenge---the annual international competition for CP solvers---where it won two gold medals in 2015 and 2016. Under consideration in Theory and Practice of Logic Programming (TPLP)

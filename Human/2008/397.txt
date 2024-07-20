@@ -1,0 +1,3 @@
+On Dynamic Breadth-First Search in External-Memory
+
+We provide the first non-trivial result on dynamic breadth-first search (BFS) in external-memory: For general sparse undirected graphs of initially $n$ nodes and O(n) edges and monotone update sequences of either $Θ(n)$ edge insertions or $Θ(n)$ edge deletions, we prove an amortized high-probability bound of $O(n/B^{2/3}+\sort(n)\cdot \log B)$ I/Os per update. In contrast, the currently best approach for static BFS on sparse undirected graphs requires $Ω(n/B^{1/2}+\sort(n))$ I/Os.

@@ -1,0 +1,3 @@
+Partial Derivative Automaton for Regular Expressions with Shuffle
+
+We generalize the partial derivative automaton to regular expressions with shuffle and study its size in the worst and in the average case. The number of states of the partial derivative automata is in the worst case at most 2^m, where m is the number of letters in the expression, while asymptotically and on average it is no more than (4/3)^m.

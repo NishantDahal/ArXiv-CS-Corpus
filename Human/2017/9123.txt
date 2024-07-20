@@ -1,0 +1,3 @@
+Proof Mining with Dependent Types
+
+Several approaches exist to data-mining big corpora of formal proofs. Some of these approaches are based on statistical machine learning, and some -- on theory exploration. However, most are developed for either untyped or simply-typed theorem provers. In this paper, we present a method that combines statistical data mining and theory exploration in order to analyse and automate proofs in dependently typed language of Coq.

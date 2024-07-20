@@ -1,0 +1,3 @@
+Aggressive Deep Driving: Model Predictive Control with a CNN Cost Model
+
+We present a framework for vision-based model predictive control (MPC) for the task of aggressive, high-speed autonomous driving. Our approach uses deep convolutional neural networks to predict cost functions from input video which are directly suitable for online trajectory optimization with MPC. We demonstrate the method in a high speed autonomous driving scenario, where we use a single monocular camera and a deep convolutional neural network to predict a cost map of the track in front of the vehicle. Results are demonstrated on a 1:5 scale autonomous vehicle given the task of high speed, aggressive driving.

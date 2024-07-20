@@ -1,0 +1,3 @@
+Inner Product and Set Disjointness: Beyond Logarithmically Many Parties
+
+A basic goal in complexity theory is to understand the communication complexity of number-on-the-forehead problems $f\colon(\{0,1\}^n)^{k}\to\{0,1\}$ with $k\gg\log n$ parties. We study the problems of inner product and set disjointness and determine their randomized communication complexity for every $k\geq\log n$, showing in both cases that $Θ(1+\lceil\log n\rceil/\log\lceil1+k/\log n\rceil)$ bits are necessary and sufficient. In particular, these problems admit constant-cost protocols if and only if the number of parties is $k\geq n^ε$ for some constant $ε>0.$

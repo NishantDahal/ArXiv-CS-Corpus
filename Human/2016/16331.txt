@@ -1,0 +1,3 @@
+Vision-based Control of a Soft Robot for Maskless Head and Neck Cancer Radiotherapy
+
+This work presents an on-going investigation of the control of a pneumatic soft-robot actuator addressing accurate patient positioning systems in maskless head and neck cancer radiotherapy. We employ two RGB-D sensors in a sensor fusion scheme to better estimate a patient's head pitch motion. A system identification prediction error model is used to obtain a linear time invariant state space model. We then use the model to design a linear quadratic Gaussian feedback controller to manipulate the patient head position based on sensed head pitch motion. Experiments demonstrate the success of our approach.

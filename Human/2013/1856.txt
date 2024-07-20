@@ -1,0 +1,3 @@
+A new compressive video sensing framework for mobile broadcast
+
+A new video coding method based on compressive sampling is proposed. In this method, a video is coded using compressive measurements on video cubes. Video reconstruction is performed by minimization of total variation (TV) of the pixelwise DCT coefficients along the temporal direction. A new reconstruction algorithm is developed from TVAL3, an efficient TV minimization algorithm based on the alternating minimization and augmented Lagrangian methods. Video coding with this method is inherently scalable, and has applications in mobile broadcast.

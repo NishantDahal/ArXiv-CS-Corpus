@@ -1,0 +1,3 @@
+Voronoi Diagrams for a Moderate-Sized Point-Set in a Simple Polygon
+
+Given a set of sites in a simple polygon, a geodesic Voronoi diagram of the sites partitions the polygon into regions based on distances to sites under the geodesic metric. We present algorithms for computing the geodesic nearest-point, higher-order and farthest-point Voronoi diagrams of m point sites in a simple n-gon, which improve the best known ones for m <= n/ polylog n. Moreover, the algorithms for the geodesic nearest-point and farthest-point Voronoi diagrams are optimal for m <= n/ polylog n. This partially answers a question posed by Mitchell in the Handbook of Computational Geometry.

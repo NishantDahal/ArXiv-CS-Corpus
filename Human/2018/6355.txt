@@ -1,0 +1,3 @@
+Rigid Point Registration with Expectation Conditional Maximization
+
+This paper addresses the issue of matching rigid 3D object points with 2D image points through point registration based on maximum likelihood principle in computer simulated images. Perspective projection is necessary when transforming 3D coordinate into 2D. The problem then recasts into a missing data framework where unknown correspondences are handled via mixture models. Adopting the Expectation Conditional Maximization for Point Registration (ECMPR), two different rotation and translation optimization algorithms are compared in this paper. We analyze in detail the associated consequences in terms of estimation of the registration parameters theoretically and experimentally.

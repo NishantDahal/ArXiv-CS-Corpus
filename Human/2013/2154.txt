@@ -1,0 +1,3 @@
+Anomalous Vacillatory Learning
+
+In 1986, Osherson, Stob and Weinstein asked whether two variants of anomalous vacillatory learning, TxtFex^*_* and TxtFext^*_*, could be distinguished. In both, a machine is permitted to vacillate between a finite number of hypotheses and to make a finite number of errors. TxtFext^*_*-learning requires that hypotheses output infinitely often must describe the same finite variant of the correct set, while TxtFex^*_*-learning permits the learner to vacillate between finitely many different finite variants of the correct set. In this paper we show that TxtFex^*_* \neq TxtFext^*_*, thereby answering the question posed by Osherson, \textit{et al}. We prove this in a strong way by exhibiting a family in TxtFex^*_2 \setminus {TxtFext}^*_*.

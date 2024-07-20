@@ -1,0 +1,3 @@
+A partisan districting protocol with provably nonpartisan outcomes
+
+We design and analyze a protocol for dividing a state into districts, where parties take turns proposing a division, and freezing a district from the other party's proposed division. We show that our protocol has predictable and provable guarantees for both the number of districts in which each party has a majority of supporters, and the extent to which either party has the power to pack a specific population into a single district.

@@ -1,0 +1,3 @@
+Optimal Augmentation for Bipartite Componentwise Biconnectivity in Linear Time
+
+A graph is componentwise biconnected if every connected component either is an isolated vertex or is biconnected. We present a linear-time algorithm for the problem of adding the smallest number of edges to make a bipartite graph componentwise biconnected while preserving its bipartiteness. This algorithm has immediate applications for protecting sensitive information in statistical tables.

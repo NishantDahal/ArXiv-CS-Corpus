@@ -1,0 +1,3 @@
+The Hybrid Bootstrap: A Drop-in Replacement for Dropout
+
+Regularization is an important component of predictive model building. The hybrid bootstrap is a regularization technique that functions similarly to dropout except that features are resampled from other training points rather than replaced with zeros. We show that the hybrid bootstrap offers superior performance to dropout. We also present a sampling based technique to simplify hyperparameter choice. Next, we provide an alternative sampling technique for convolutional neural networks. Finally, we demonstrate the efficacy of the hybrid bootstrap on non-image tasks using tree-based models.

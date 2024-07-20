@@ -1,0 +1,10 @@
+Inapproximability of Maximum Biclique Problems, Minimum $k$-Cut and Densest At-Least-$k$-Subgraph from the Small Set Expansion Hypothesis
+
+The Small Set Expansion Hypothesis (SSEH) is a conjecture which roughly states that it is NP-hard to distinguish between a graph with a small subset of vertices whose edge expansion is almost zero and one in which all small subsets of vertices have expansion almost one. In this work, we prove inapproximability results for the following graph problems based on this hypothesis:
+  - Maximum Edge Biclique (MEB): given a bipartite graph $G$, find a complete bipartite subgraph of $G$ with maximum number of edges.
+  - Maximum Balanced Biclique (MBB): given a bipartite graph $G$, find a balanced complete bipartite subgraph of $G$ with maximum number of vertices.
+  - Minimum $k$-Cut: given a weighted graph $G$, find a set of edges with minimum total weight whose removal partitions $G$ into $k$ connected components.
+  - Densest At-Least-$k$-Subgraph (DAL$k$S): given a weighted graph $G$, find a set $S$ of at least $k$ vertices such that the induced subgraph on $S$ has maximum density (the ratio between the total weight of edges and the number of vertices).
+  We show that, assuming SSEH and NP $\nsubseteq$ BPP, no polynomial time algorithm gives $n^{1 - \varepsilon}$-approximation for MEB or MBB for every constant $\varepsilon > 0$. Moreover, assuming SSEH, we show that it is NP-hard to approximate Minimum $k$-Cut and DAL$k$S to within $(2 - \varepsilon)$ factor of the optimum for every constant $\varepsilon > 0$.
+  The ratios in our results are essentially tight since trivial algorithms give $n$-approximation to both MEB and MBB and efficient $2$-approximation algorithms are known for Minimum $k$-Cut [SV95] and DAL$k$S [And07, KS09].
+  Our first result is proved by combining a technique developed by Raghavendra et al. [RST12] to avoid locality of gadget reductions with a generalization of Bansal and Khot's long code test [BK09] whereas our second result is shown via elementary reductions.

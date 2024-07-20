@@ -1,0 +1,3 @@
+Restructuring expression dags for efficient parallelization
+
+In the field of robust geometric computation it is often necessary to make exact decisions based on inexact floating-point arithmetic. One common approach is to store the computation history in an arithmetic expression dag and to re-evaluate the expression with increasing precision until an exact decision can be made. We show that exact-decisions number types based on expression dags can be evaluated faster in practice through parallelization on multiple cores. We compare the impact of several restructuring methods for the expression dag on its running time in a parallel environment.

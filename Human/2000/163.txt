@@ -1,0 +1,3 @@
+Smoothness and decay properties of the limiting Quicksort density function
+
+Using Fourier analysis, we prove that the limiting distribution of the standardized random number of comparisons used by Quicksort to sort an array of n numbers has an everywhere positive and infinitely differentiable density f, and that each derivative f^{(k)} enjoys superpolynomial decay at plus and minus infinity. In particular, each f^{(k)} is bounded. Our method is sufficiently computational to prove, for example, that f is bounded by 16.

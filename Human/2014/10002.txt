@@ -1,0 +1,3 @@
+Fast and deterministic computation of the determinant of a polynomial matrix
+
+Given a square, nonsingular matrix of univariate polynomials $\mathbf{F}\in\mathbb{K}[x]^{n\times n}$ over a field $\mathbb{K}$, we give a deterministic algorithm for finding the determinant of $\mathbf{F}$. The complexity of the algorithm is $\bigO \left(n^ωs\right)$ field operations where $s$ is the average column degree or the average row degree of $\mathbf{F}$. Here $\bigO$ notation is Big-$O$ with log factors omitted and $ω$ is the exponent of matrix multiplication.

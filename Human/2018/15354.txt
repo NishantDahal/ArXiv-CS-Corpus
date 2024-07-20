@@ -1,0 +1,3 @@
+Neural Disease Named Entity Extraction with Character-based BiLSTM+CRF in Japanese Medical Text
+
+We propose an 'end-to-end' character-based recurrent neural network that extracts disease named entities from a Japanese medical text and simultaneously judges its modality as either positive or negative; i.e., the mentioned disease or symptom is affirmed or negated. The motivation to adopt neural networks is to learn effective lexical and structural representation features for Entity Recognition and also for Positive/Negative classification from an annotated corpora without explicitly providing any rule-based or manual feature sets. We confirmed the superiority of our method over previous char-based CRF or SVM methods in the results.

@@ -1,0 +1,5 @@
+On Fast and Robust Information Spreading in the Vertex-Congest Model
+
+This paper initiates the study of the impact of failures on the fundamental problem of \emph{information spreading} in the Vertex-Congest model, in which in every round, each of the $n$ nodes sends the same $O(\log{n})$-bit message to all of its neighbors.
+  Our contribution to coping with failures is twofold. First, we prove that the randomized algorithm which chooses uniformly at random the next message to forward is slow, requiring $Ω(n/\sqrt{k})$ rounds on some graphs, which we denote by $G_{n,k}$, where $k$ is the vertex-connectivity.
+  Second, we design a randomized algorithm that makes dynamic message choices, with probabilities that change over the execution. We prove that for $G_{n,k}$ it requires only a near-optimal number of $O(n\log^3{n}/k)$ rounds, despite a rate of $q=O(k/n\log^3{n})$ failures per round. Our technique of choosing probabilities that change according to the execution is of independent interest.

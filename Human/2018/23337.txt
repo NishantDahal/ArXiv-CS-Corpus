@@ -1,0 +1,3 @@
+Performance of MPI sends of non-contiguous data
+
+We present an experimental investigation of the performance of MPI derived datatypes. For messages up to the megabyte range most schemes perform comparably to each other and to manual copying into a regular send buffer. However, for large messages the internal buffering of MPI causes differences in efficiency. The optimal scheme is a combination of packing and derived types.

@@ -1,0 +1,3 @@
+Stream-based aggregation of unreliable heterogeneous network links
+
+Last mile link is often a bottleneck for end user. However, users typically have multiple ways of accessing the Internet (cellular, ADSL, public Wifi). This observation led to creation of protocols like mTCP or R-MTP. Current bandwidth aggregation protocols are packet based. However, this is not always practical - for example, non-TCP protocols are often blocked on firewalls. Moreover, a lot of effort was devoted over the years into making single-path TCP work well over various types of links. In this paper we introduce protocol which uses multiple TCP streams to establish single reliable connection attempting to maximize bandwidth and minimize latency.

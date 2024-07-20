@@ -1,0 +1,4 @@
+One-sided epsilon-approximants
+
+Given a finite point set $P\subset\mathbb{R}^d$, we call a multiset $A$ a one-sided weak $\varepsilon$-approximant for $P$ (with respect to convex sets), if $|P\cap C|/|P|-|A\cap C|/|A|\leq\varepsilon$ for every convex set $C$.
+  We show that, in contrast with the usual (two-sided) weak $\varepsilon$-approximants, for every set $P\subset \mathbb{R}^d$ there exists a one-sided weak $\varepsilon$-approximant of size bounded by a function of $\varepsilon$ and $d$.

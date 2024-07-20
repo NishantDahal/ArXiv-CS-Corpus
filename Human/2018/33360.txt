@@ -1,0 +1,3 @@
+Above guarantee parameterization for vertex cover on graphs with maximum degree 4
+
+In the vertex cover problem, the input is a graph $G$ and an integer $k$, and the goal is to decide whether there is a set of vertices $S$ of size at most $k$ such that every edge of $G$ is incident on at least one vertex in $S$. We study the vertex cover problem on graphs with maximum degree 4 and minimum degree at least 2, parameterized by $r = k-n/3$. We give an algorithm for this problem whose running time is $O^*(1.6253^r)$. As a corollary, we obtain an $O^*(1.2403^k)$-time algorithm for vertex cover on graphs with maximum degree 4.

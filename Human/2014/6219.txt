@@ -1,0 +1,3 @@
+Speedup of Micromagnetic Simulations with C++ AMP On Graphics Processing Units
+
+A finite-difference Micromagnetic solver is presented utilizing the C++ Accelerated Massive Parallelism (C++ AMP). The high speed performance of a single Graphics Processing Unit (GPU) is demonstrated compared to a typical CPU-based solver. The speed-up of GPU to CPU is shown to be greater than 100 for problems with larger sizes. This solver is based on C++ AMP and can run on GPUs from various hardware vendors, such as NVIDIA, AMD and Intel, regardless of whether it is dedicated or integrated graphics processor.

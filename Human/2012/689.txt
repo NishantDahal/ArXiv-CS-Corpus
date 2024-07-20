@@ -1,0 +1,3 @@
+Technique detection software for Sparse Matrices
+
+Sparse storage formats are techniques for storing and processing the sparse matrix data efficiently. The performance of these storage formats depend upon the distribution of non-zeros, within the matrix in different dimensions. In order to have better results we need a technique that suits best the organization of data in a particular matrix. So the decision of selecting a better technique is the main step towards improving the system's results otherwise the efficiency can be decreased. The purpose of this research is to help identify the best storage format in case of reduced storage size and high processing efficiency for a sparse matrix.

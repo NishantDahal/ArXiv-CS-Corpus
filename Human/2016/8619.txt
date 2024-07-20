@@ -1,0 +1,3 @@
+Towards the Integration of an Intuitionistic First-Order Prover into Coq
+
+An efficient intuitionistic first-order prover integrated into Coq is useful to replay proofs found by external automated theorem provers. We propose a two-phase approach: An intuitionistic prover generates a certificate based on the matrix characterization of intuitionistic first-order logic; the certificate is then translated into a sequent-style proof.

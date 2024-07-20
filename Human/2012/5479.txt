@@ -1,0 +1,3 @@
+Least periods of k-automatic sequences
+
+Currie and Saari initiated the study of least periods of infinite words, and they showed that every integer n >= 1 is a least period of the Thue-Morse sequence. We generalize this result to show that the characteristic sequence of least periods of a k-automatic sequence is (effectively) k-automatic. Through an implementation of our construction, we confirm the result of Currie and Saari, and we obtain similar results for the period-doubling sequence, the Rudin-Shapiro sequence, and the paperfolding sequence.

@@ -1,0 +1,3 @@
+Stochastic Zeroth-order Optimization in High Dimensions
+
+We consider the problem of optimizing a high-dimensional convex function using stochastic zeroth-order queries. Under sparsity assumptions on the gradients or function values, we present two algorithms: a successive component/feature selection algorithm and a noisy mirror descent algorithm using Lasso gradient estimates, and show that both algorithms have convergence rates that de- pend only logarithmically on the ambient dimension of the problem. Empirical results confirm our theoretical findings and show that the algorithms we design outperform classical zeroth-order optimization methods in the high-dimensional setting.

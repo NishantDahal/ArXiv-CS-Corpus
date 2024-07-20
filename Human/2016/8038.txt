@@ -1,0 +1,4 @@
+Maximizing Monotone Submodular Functions over the Integer Lattice
+
+The problem of maximizing non-negative monotone submodular functions under a certain constraint has been intensively studied in the last decade. In this paper, we address the problem for functions defined over the integer lattice.
+  Suppose that a non-negative monotone submodular function $f:\mathbb{Z}_+^n \to \mathbb{R}_+$ is given via an evaluation oracle. Assume further that $f$ satisfies the diminishing return property, which is not an immediate consequence of submodularity when the domain is the integer lattice. Given this, we design polynomial-time $(1-1/e-ε)$-approximation algorithms for a cardinality constraint, a polymatroid constraint, and a knapsack constraint. For a cardinality constraint, we also provide a $(1-1/e-ε)$-approximation algorithm with slightly worse time complexity that does not rely on the diminishing return property.

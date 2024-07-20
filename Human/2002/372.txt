@@ -1,0 +1,3 @@
+Towards Efficient Calculation of Information Measures for Reordering of Binary Decision Diagrams
+
+This paper introduces new technique for efficient calculation of different Shannon information measures which operates Binary Decision Diagrams (BDDs). We offer an algorithm of BDD reordering which demonstrates the improvement of the obtaining outcomes over the existing reordering approaches. The technique and the reordering algorithm have been implemented, and the results on circuits' benchmarks are analyzed. We point out that the results are quite promising, the algorithm is very fast, and it is easy to implement. Finally, we show that our approach to BDD reordering can yield to reduction in the power dissipation for the circuits derived from BDDs.

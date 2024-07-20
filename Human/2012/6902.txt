@@ -1,0 +1,3 @@
+Image encryption schemes for JPEG and GIF formats based on 3D baker with compound chaotic sequence generator
+
+This paper proposed several methods to transplant the compound chaotic image encryption scheme with permutation based on 3D baker into image formats as Joint Photographic Experts Group (JPEG) and Graphics Interchange Format (GIF). The new method averts the lossy Discrete Cosine Transform and quantization and can encrypt and decrypt JPEG images lossless. Our proposed method for GIF keeps the property of animation successfully. The security test results indicate the proposed methods have high security. Since JPEG and GIF image formats are popular contemporarily, this paper shows that the prospect of chaotic image encryption is promising.

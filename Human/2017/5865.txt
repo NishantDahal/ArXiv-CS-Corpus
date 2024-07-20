@@ -1,0 +1,5 @@
+DTKI: a new formalized PKI with no trusted parties
+
+The security of public key validation protocols for web-based applications has recently attracted attention because of weaknesses in the certificate authority model, and consequent attacks.
+  Recent proposals using public logs have succeeded in making certificate management more transparent and verifiable. However, those proposals involve a fixed set of authorities. This means an oligopoly is created. Another problem with current log-based system is their heavy reliance on trusted parties that monitor the logs.
+  We propose a distributed transparent key infrastructure (DTKI), which greatly reduces the oligopoly of service providers and allows verification of the behaviour of trusted parties. In addition, this paper formalises the public log data structure and provides a formal analysis of the security that DTKI guarantees.

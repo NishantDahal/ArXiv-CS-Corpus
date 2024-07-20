@@ -1,0 +1,4 @@
+Tight Sum-of-Squares lower bounds for binary polynomial optimization problems
+
+We give two results concerning the power of the Sum-of-Squares(SoS)/Lasserre hierarchy. For binary polynomial optimization problems of degree $2d$ and an odd number of variables $n$, we prove that $\frac{n+2d-1}{2}$ levels of the SoS/Lasserre hierarchy are necessary to provide the exact optimal value. This matches the recent upper bound result by Sakaue, Takeda, Kim and Ito.
+  Additionally, we study a conjecture by Laurent, who considered the linear representation of a set with no integral points. She showed that the Sherali-Adams hierarchy requires $n$ levels to detect the empty integer hull, and conjectured that the SoS/Lasserre rank for the same problem is $n-1$. We disprove this conjecture and derive lower and upper bounds for the rank.

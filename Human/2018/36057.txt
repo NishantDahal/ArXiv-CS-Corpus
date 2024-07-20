@@ -1,0 +1,3 @@
+The Dead Cryptographers Society Problem
+
+This paper defines The Dead Cryptographers Society Problem - DCS (where several great cryptographers created many polynomial-time Deterministic Turing Machines (DTMs) of a specific type, ran them on their proper descriptions concatenated with some arbitrary strings, deleted them and left only the results from those running, after they died: if those DTMs only permute and sometimes invert the bits on input, is it possible to decide the language formed by such resulting strings within polynomial time?), proves some facts about its computational complexity, and discusses some possible uses on Cryptography, such as into distance keys distribution, online reverse auction and secure communication.

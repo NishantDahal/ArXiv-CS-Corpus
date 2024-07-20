@@ -1,0 +1,3 @@
+Generating 56-bit passwords using Markov Models (and Charles Dickens)
+
+We describe a password generation scheme based on Markov models built from English text (specifically, Charles Dickens' *A Tale Of Two Cities*). We show a (linear-running-time) bijection between random bitstrings of any desired length and generated text, ensuring that all passwords are generated with equal probability. We observe that the generated passwords appear to strike a reasonable balance between memorability and security. Using the system, we get 56-bit passwords like 'The cusay is wither?" t', rather than passwords like 'tQ$%Xc4Ef'.

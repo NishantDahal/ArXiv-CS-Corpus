@@ -1,0 +1,4 @@
+Simple, Fast and Practicable Algorithms for Cholesky, LU and QR Decomposition Using Fast Rectangular Matrix Multiplication
+
+This note presents fast Cholesky/LU/QR decomposition algorithms with $O(n^{2.529})$ time complexity when using the fastest known matrix multiplication. The algorithms have potential application, since a quickly made implementation using Strassen multiplication has lesser execution time than the employed by the GNU Scientific Library for the same task in at least a few examples.
+  The underlaying ideas are very simple. Despite this, I have been unable to find these methods in the literature.

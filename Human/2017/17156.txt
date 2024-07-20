@@ -1,0 +1,3 @@
+Private Information Retrieval from Coded Databases with Colluding Servers
+
+We present a general framework for Private Information Retrieval (PIR) from arbitrary coded databases, that allows one to adjust the rate of the scheme according to the suspected number of colluding servers. If the storage code is a generalized Reed-Solomon code of length n and dimension k, we design PIR schemes which simultaneously protect against t colluding servers and provide PIR rate 1-(k+t-1)/n, for all t between 1 and n-k. This interpolates between the previously studied cases of t=1 and k=1 and asymptotically achieves the known capacity bounds in both of these cases, as the size of the database grows.

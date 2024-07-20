@@ -1,0 +1,4 @@
+New Equations for Neutral Terms: A Sound and Complete Decision Procedure, Formalized
+
+The definitional equality of an intensional type theory is its test of type compatibility. Today's systems rely on ordinary evaluation semantics to compare expressions in types, frustrating users with type errors arising when evaluation fails to identify two `obviously' equal terms. If only the machine could decide a richer theory! We propose a way to decide theories which supplement evaluation with `$ν$-rules', rearranging the neutral parts of normal forms, and report a successful initial experiment.
+  We study a simple -calculus with primitive fold, map and append operations on lists and develop in Agda a sound and complete decision procedure for an equational theory enriched with monoid, functor and fusion laws.

@@ -1,0 +1,3 @@
+Segmentation of Head and Neck Organs at Risk Using CNN with Batch Dice Loss
+
+This paper deals with segmentation of organs at risk (OAR) in head and neck area in CT images which is a crucial step for reliable intensity modulated radiotherapy treatment. We introduce a convolution neural network with encoder-decoder architecture and a new loss function, the batch soft Dice loss function, used to train the network. The resulting model produces segmentations of every OAR in the public MICCAI 2015 Head And Neck Auto-Segmentation Challenge dataset. Despite the heavy class imbalance in the data, we improve accuracy of current state-of-the-art methods by 0.33 mm in terms of average surface distance and by 0.11 in terms of Dice overlap coefficient on average.

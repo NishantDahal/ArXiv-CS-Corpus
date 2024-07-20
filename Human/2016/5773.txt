@@ -1,0 +1,3 @@
+A 2.542-Approximation for Precedence Constrained Single Machine Scheduling with Release Dates and Total Weighted Completion Time Objective
+
+We present a $\sqrt{e}/(\sqrt{e}-1)$-approximation algorithm for the nonpreemptive scheduling problem to minimize the total weighted completion time of jobs on a single machine subject to release dates and precedence constraints. The previously best known approximation algorithm dates back to 1997; its performance guarantee can be made arbitrarily close to the Euler constant $e$.

@@ -1,0 +1,3 @@
+Improved Performance of Unsupervised Method by Renovated K-Means
+
+Clustering is a separation of data into groups of similar objects. Every group called cluster consists of objects that are similar to one another and dissimilar to objects of other groups. In this paper, the K-Means algorithm is implemented by three distance functions and to identify the optimal distance function for clustering methods. The proposed K-Means algorithm is compared with K-Means, Static Weighted K-Means (SWK-Means) and Dynamic Weighted K-Means (DWK-Means) algorithm by using Davis Bouldin index, Execution Time and Iteration count methods. Experimental results show that the proposed K-Means algorithm performed better on Iris and Wine dataset when compared with other three clustering methods.

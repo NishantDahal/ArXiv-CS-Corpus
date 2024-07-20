@@ -1,0 +1,3 @@
+A Novel Approach for Computing Dynamic Slices of Aspect-Oriented Programs
+
+We propose a dynamic slicing algorithm to compute the slices of aspect-oriented programs. We use a dependence based intermediate program representation called Aspect System Dependence Graph (AOSG) to represent aspect-oriented programs. Then, we propose the dynamic slicing algorithm for AOPs, which is an extended version of EMDS algorithm for object-oriented programs. Our algorithm is based on marking and unmarking of the edges of AOSG appropriately during runtime.

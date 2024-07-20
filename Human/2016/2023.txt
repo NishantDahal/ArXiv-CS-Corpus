@@ -1,0 +1,4 @@
+Broadcast and aggregation in BBC
+
+In distributed systems, where multi-party communication is essential, two communication paradigms are ever present: (1) one-to-many, commonly denoted as broadcast; and (2) many-to-one denoted as aggregation or collection.
+  In this paper we present the BBC process calculus, which inherently models the broadcast and aggregation communication modes. We then apply this process calculus to reason on hierarchical network structure and provide examples on its expressive power. 

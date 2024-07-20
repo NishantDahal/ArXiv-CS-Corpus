@@ -1,0 +1,3 @@
+It is undecidable if two regular tree languages can be separated by a deterministic tree-walking automaton
+
+The following problem is shown undecidable: given regular languages L,K of finite trees, decide if there exists a deterministic tree-walking automaton which accepts all trees in L and rejects all trees in K. The proof uses a technique of Kopczyński from LICS 2016.

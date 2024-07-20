@@ -1,0 +1,3 @@
+Towards Large Scale Training Of Autoencoders For Collaborative Filtering
+
+In this paper, we apply a mini-batch based negative sampling method to efficiently train a latent factor autoencoder model on large scale and sparse data for implicit feedback collaborative filtering. We compare our work against a state-of-the-art baseline model on different experimental datasets and show that this method can lead to a good and fast approximation of the baseline model performance. The source code is available in https://github.com/amoussawi/recoder .

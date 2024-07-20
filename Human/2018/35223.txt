@@ -1,0 +1,3 @@
+Clustering Player Strategies from Variable-Length Game Logs in Dominion
+
+We present a method for encoding game logs as numeric features in the card game Dominion. We then run the manifold learning algorithm t-SNE on these encodings to visualize the landscape of player strategies. By quantifying game states as the relative prevalence of cards in a player's deck, we create visualizations that capture qualitative differences in player strategies. Different ways of deviating from the starting game state appear as different rays in the visualization, giving it an intuitive explanation. This is a promising new direction for understanding player strategies across games that vary in length.

@@ -1,0 +1,3 @@
+Distributed Parametric and Statistical Model Checking
+
+Statistical Model Checking (SMC) is a trade-off between testing and formal verification. The core idea of the approach is to conduct some simulations of the system and verify if they satisfy some given property. In this paper we show that SMC is easily parallelizable on a master/slaves architecture by introducing a series of algorithms that scale almost linearly with respect to the number of slave computers. Our approach has been implemented in the UPPAAL SMC toolset and applied on non-trivial case studies.

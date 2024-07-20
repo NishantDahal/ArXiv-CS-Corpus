@@ -1,0 +1,3 @@
+Application Software Structure Enables Nif Operations Kirby W. Fong
+
+The NIF Integrated Computer Control System (ICCS) application software uses a set of service frameworks that assures uniform behavior spanning the front-end processors (FEPs) and supervisor programs. This uniformity is visible both in the way each program employs shared services and in the flexibility it affords for attaching graphical user interfaces (GUIs). Uniformity of structure across applications is desired for the benefit of programmers who will be maintaining the many programs that constitute the ICCS. In this paper, the framework components that have the greatest impact on the application structure are discussed.

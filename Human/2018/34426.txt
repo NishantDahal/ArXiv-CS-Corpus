@@ -1,0 +1,3 @@
+A Non-iterative Parallelizable Eigenbasis Algorithm for Johnson Graphs
+
+We present a new $O(k^2 \binom{n}{k}^2)$ method for generating an orthogonal basis of eigenvectors for the Johnson graph $J(n,k)$. Unlike standard methods for computing a full eigenbasis of sparse symmetric matrices, the algorithm presented here is non-iterative, and produces exact results under an infinite-precision computation model. In addition, our method is highly parallelizable; given access to unlimited parallel processors, the eigenbasis can be constructed in only $O(n)$ time given n and k. We also present an algorithm for computing projections onto the eigenspaces of $J(n,k)$ in parallel time $O(n)$.

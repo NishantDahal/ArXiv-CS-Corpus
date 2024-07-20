@@ -1,0 +1,3 @@
+Some Coxeter Groups in Reversible and Quantum Compuation
+
+In this article we show how the structure of Coxeter groups are present in gate sets of reversible and quantum computing. These groups have efficient word problems which means that circuits built from these gates have potential to be shortened efficiently. This is especially useful in the case of quantum computing when one does not have the timescale to perform a long series of gates and so one must and a gate scheduling that minimizes circuit depth. As the main example we consider the oracle for 3SAT.

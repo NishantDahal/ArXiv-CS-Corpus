@@ -1,0 +1,6 @@
+Spanning Trees in Multipartite Geometric Graphs
+
+Let $R$ and $B$ be two disjoint sets of points in the plane where the points of $R$ are colored red and the points of $B$ are colored blue, and let $n=|R\cup B|$. A bichromatic spanning tree is a spanning tree in the complete bipartite geometric graph with bipartition $(R,B)$. The minimum (respectively maximum) bichromatic spanning tree problem is the problem of computing a bichromatic spanning tree of minimum (respectively maximum) total edge length.
+  1. We present a simple algorithm that solves the minimum bichromatic spanning tree problem in $O(n\log^3 n)$ time. This algorithm can easily be extended to solve the maximum bichromatic spanning tree problem within the same time bound. It also can easily be generalized to multicolored point sets.
+  2. We present $Θ(n\log n)$-time algorithms that solve the minimum and the maximum bichromatic spanning tree problems.
+  3. We extend the bichromatic spanning tree algorithms and solve the multicolored version of these problems in $O(n\log n\log k)$ time, where $k$ is the number of different colors (or the size of the multipartition in a complete multipartite geometric graph).

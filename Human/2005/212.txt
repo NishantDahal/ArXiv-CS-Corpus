@@ -1,0 +1,3 @@
+Integrity Constraints in Trust Management
+
+We introduce the use, monitoring, and enforcement of integrity constraints in trust management-style authorization systems. We consider what portions of the policy state must be monitored to detect violations of integrity constraints. Then we address the fact that not all participants in a trust management system can be trusted to assist in such monitoring, and show how many integrity constraints can be monitored in a conservative manner so that trusted participants detect and report if the system enters a policy state from which evolution in unmonitored portions of the policy could lead to a constraint violation.

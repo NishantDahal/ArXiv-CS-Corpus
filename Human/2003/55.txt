@@ -1,0 +1,5 @@
+Defeasible Logic Programming: An Argumentative Approach
+
+The work reported here introduces Defeasible Logic Programming (DeLP), a formalism that combines results of Logic Programming and Defeasible Argumentation. DeLP provides the possibility of representing information in the form of weak rules in a declarative manner, and a defeasible argumentation inference mechanism for warranting the entailed conclusions.
+  In DeLP an argumentation formalism will be used for deciding between contradictory goals. Queries will be supported by arguments that could be defeated by other arguments. A query q will succeed when there is an argument A for q that is warranted, ie, the argument A that supports q is found undefeated by a warrant procedure that implements a dialectical analysis.
+  The defeasible argumentation basis of DeLP allows to build applications that deal with incomplete and contradictory information in dynamic domains. Thus, the resulting approach is suitable for representing agent's knowledge and for providing an argumentation based reasoning mechanism to agents.

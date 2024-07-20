@@ -1,0 +1,3 @@
+Collective evolution of weights in wide neural networks
+
+We derive a nonlinear integro-differential transport equation describing collective evolution of weights under gradient descent in large-width neural-network-like models. We characterize stationary points of the evolution and analyze several scenarios where the transport equation can be solved approximately. We test our general method in the special case of linear free-knot splines, and find good agreement between theory and experiment in observations of global optima, stability of stationary points, and convergence rates.

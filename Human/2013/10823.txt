@@ -1,0 +1,3 @@
+Implicit Resolution
+
+Let Ωbe a set of unsatisfiable clauses, an implicit resolution refutation of Ωis a circuit βwith a resolution proof α of the statement "βdescribes a correct tree-like resolution refutation of Ω". We show that such system is p-equivalent to Extended Frege. More generally, let τ be a tautology, a [P, Q]-proof of τ is a pair (α,β) s.t. αis a P-proof of the statement "βis a circuit describing a correct Q-proof of τ". We prove that [EF,P] \leq p [R,P] for arbitrary Cook-Reckhow proof system P.

@@ -1,0 +1,3 @@
+Fast, large-scale hologram calculation in wavelet domain
+
+We propose a large-scale hologram calculation using WAvelet ShrinkAge-Based superpositIon (WASABI), a wavelet transform-based algorithm. An image-type hologram calculated using the WASABI method is printed on a glass substrate with the resolution of $65,536 \times 65,536$ pixels and a pixel pitch of $1 μ$m. The hologram calculation time amounts to approximately 354 s on a commercial CPU, which is approximately 30 times faster than conventional methods.

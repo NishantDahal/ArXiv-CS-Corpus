@@ -1,0 +1,3 @@
+An Investigation of the Laws of Traversals
+
+Traversals of data structures are ubiquitous in programming. Consequently, it is important to be able to characterise those structures that are traversable and understand their algebraic properties. Traversable functors have been characterised by McBride and Paterson as those equipped with a distributive law over arbitrary applicative functors; however, laws that fully capture the intuition behind traversals are missing. This article is an attempt to remedy this situation by proposing laws for characterising traversals that capture the intuition behind them. To support our claims, we prove that finitary containers are traversable in our sense and argue that elements in a traversable structure are visited exactly once.

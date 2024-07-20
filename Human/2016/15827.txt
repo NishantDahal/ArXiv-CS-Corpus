@@ -1,0 +1,3 @@
+Fair Representation and a Linear Shapley Rule
+
+When delegations to an assembly or council represent differently sized constituencies, they are often allocated voting weights which increase in population numbers (EU Council, US Electoral College, etc.). The Penrose square root rule (PSRR) is the main benchmark for fair representation of all bottom-tier voters in the top-tier decision making body, but rests on the restrictive assumption of independent binary decisions. We consider intervals of alternatives with single-peaked preferences instead, and presume positive correlation of local voters. This calls for a replacement of the PSRR by a linear Shapley rule: representation is fair if the Shapley value of the delegates is proportional to their constituency sizes.

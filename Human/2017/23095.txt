@@ -1,0 +1,5 @@
+Recommender Systems with Random Walks: A Survey
+
+Recommender engines have become an integral component in today's e-commerce systems. From recommending books in Amazon to finding friends in social networks such as Facebook, they have become omnipresent.
+  Generally, recommender systems can be classified into two main categories: content based and collaborative filtering based models. Both these models build relationships between users and items to provide recommendations. Content based systems achieve this task by utilizing features extracted from the context available, whereas collaborative systems use shared interests between user-item subsets.
+  There is another relatively unexplored approach for providing recommendations that utilizes a stochastic process named random walks. This study is a survey exploring use cases of random walks in recommender systems and an attempt at classifying them.

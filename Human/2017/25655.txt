@@ -1,0 +1,5 @@
+Sets of Stochastic Matrices with Converging Products: Bounds and Complexity
+
+An SIA matrix is a stochastic matrix whose sequence of powers converges to a rank-one matrix. This convergence is desirable in various applications making use of stochastic matrices, such as consensus, distributed optimization and Markov chains. We study the shortest SIA products of sets of matrices. We observe that the shortest SIA product of a set of matrices is usually very short and we provide a first upper bound on the length of the shortest SIA product (if one exists) of any set of stochastic matrices. We also provide an algorithm that decides the existence of an SIA product.
+  When particularized to automata, the problem becomes that of finding periodic synchronizing words, and we develop the consequences of our results in relation with the celebrated Cerny conjecture in automata theory.
+  We also investigate links with the related notions of positive-column, Sarymsakov, and scrambling matrices.

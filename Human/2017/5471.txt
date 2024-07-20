@@ -1,0 +1,5 @@
+Classifying unavoidable Tverberg partitions
+
+Let $T(d,r) = (r-1)(d+1)+1$ be the parameter in Tverberg's theorem, and call a partition $\mathcal I$ of $\{1,2,\ldots,T(d,r)\}$ into $r$ parts a "Tverberg type". We say that $\mathcal I$ "occurs" in an ordered point sequence $P$ if $P$ contains a subsequence $P'$ of $T(d,r)$ points such that the partition of $P'$ that is order-isomorphic to $\mathcal I$ is a Tverberg partition. We say that $\mathcal I$ is "unavoidable" if it occurs in every sufficiently long point sequence.
+  In this paper we study the problem of determining which Tverberg types are unavoidable. We conjecture a complete characterization of the unavoidable Tverberg types, and we prove some cases of our conjecture for $d\le 4$. Along the way, we study the avoidability of many other geometric predicates.
+  Our techniques also yield a large family of $T(d,r)$-point sets for which the number of Tverberg partitions is exactly $(r-1)!^d$. This lends further support for Sierksma's conjecture on the number of Tverberg partitions.

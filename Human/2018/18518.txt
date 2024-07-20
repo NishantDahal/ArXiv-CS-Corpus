@@ -1,0 +1,3 @@
+Testing Global Constraints
+
+Every Constraint Programming (CP) solver exposes a library of constraints for solving combinatorial problems. In order to be useful, CP solvers need to be bug-free. Therefore the testing of the solver is crucial to make developers and users confident. We present a Java library allowing any JVM based solver to test that the implementations of the individual constraints are correct. The library can be used in a test suite executed in a continuous integration tool or it can also be used to discover minimalist instances violating some properties (arc-consistency, etc) in order to help the developer to identify the origin of the problem using standard debuggers.

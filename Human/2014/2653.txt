@@ -1,0 +1,3 @@
+Optimizing large applications
+
+Both uppermost open source compilers, GCC and LLVM, are mature enough to link-time optimize large applications. In case of large applications, we must take into account, except standard speed efficiency and memory consumption, different aspects. We focus on size of the code, cold start-up time, etc. Developers of applications often come up with ad-hoc solutions such as Elfhack utility, start-up of an application via a pre-loading utility and dlopen; prelinking and variety of different tools that reorder functions to fit the order of execution. The goal of the thesis is to analyse all existing techniques of optimization, evaluate their efficiency and design new solutions based on the link-time optimization platform.

@@ -1,0 +1,3 @@
+Full abstraction for fair testing in CCS (expanded version)
+
+In previous work with Pous, we defined a semantics for CCS which may both be viewed as an innocent form of presheaf semantics and as a concurrent form of game semantics. We define in this setting an analogue of fair testing equivalence, which we prove fully abstract w.r.t. standard fair testing equivalence. The proof relies on a new algebraic notion called playground, which represents the `rule of the game'. From any playground, we derive two languages equipped with labelled transition systems, as well as a strong, functional bisimulation between them.

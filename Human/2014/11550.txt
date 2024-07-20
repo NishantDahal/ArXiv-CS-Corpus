@@ -1,0 +1,3 @@
+Sampling and Galerkin reconstruction in reproducing kernel spaces
+
+In this paper, we consider sampling in a reproducing kernel subspace of $L^p$. We introduce a pre-reconstruction operator associated with a sampling scheme and propose a Galerkin reconstruction in general Banach space setting. We show that the proposed Galerkin method provides a quasi-optimal approximation, and the corresponding Galerkin equations could be solved by an iterative approximation-projection algorithm. We also present detailed analysis and numerical simulations of the Galerkin method for reconstructing signals with finite rate of innovation.

@@ -1,0 +1,3 @@
+Improved Recovery of Analysis Sparse Vectors in Presence of Prior Information
+
+In this work, we consider the problem of recovering analysis-sparse signals from under-sampled measurements when some prior information about the support is available. We incorporate such information in the recovery stage by suitably tuning the weights in a weighted $\ell_1$ analysis optimization problem. Indeed, we try to set the weights such that the method succeeds with minimum number of measurements. For this purpose, we exploit the upper-bound on the statistical dimension of a certain cone to determine the weights. Our numerical simulations confirm that the introduced method with tuned weights outperforms the standard $\ell_1$ analysis technique.

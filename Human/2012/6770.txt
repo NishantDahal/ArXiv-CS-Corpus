@@ -1,0 +1,4 @@
+On existence of Budaghyan-Carlet APN hexanomials
+
+Budaghyan and Carlet constructed a family of almost perfect nonlinear (APN) hexanomials over a field with r^2 elements, and with terms of degrees r+1, s+1, rs+1, rs+r, rs+s, and r+s, where r = 2^m and s = 2^n with GCD(m,n)=1. The construction requires a technical condition, which was verified empirically in a finite number of examples. Bracken, Tan, and Tan (arXiv:1110.3177 [cs.it]) proved the condition holds when m = 2 or 4 (mod 6). In this article, we prove that the construction of Budaghyan and Carlet produces APN polynomials for all m and n.
+  In the case where GCD(m,n) = k >= 1, Budaghyan and Carlet showed that the nonzero derivatives of the hexanomials are 2^k-to-one maps from F_{r^2} to F_{r^2}, provided the same technical condition holds. We prove their construction produces hexanomials with this differential property for all m and n.

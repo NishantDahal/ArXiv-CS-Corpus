@@ -1,0 +1,3 @@
+Fast Generation of Spatially Embedded Random Networks
+
+Spatially Embedded Random Networks such as the Waxman random graph have been used in a variety of settings for synthesizing networks. However, little thought has been put into fast generation of these networks. Existing techniques are $O(n^2)$ where $n$ is the number of nodes in the graph. In this paper we present an $O(n + e)$ algorithm, where $e$ is the number of edges.

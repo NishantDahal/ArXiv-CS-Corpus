@@ -1,0 +1,3 @@
+Predicting the large-scale evolution of tag systems
+
+We present a method for predicting the large-scale evolution of a tag system from its production rules. A tag system's evolution is first divided into stages called `epochs' in which the tag system evolves monotonously. The distribution of symbols in the queue at the beginning of each epoch determines the tag system's large-scale properties, including growth rate and string densities, during that epoch. We derive the symbol distribution for the next epoch from the distribution for the current one, using this to make predictions over multiple successive epochs. Finally, we compare predictions that were obtained with this method to computer simulations and find that it retains great accuracy over several epochs.

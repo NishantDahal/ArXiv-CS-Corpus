@@ -1,0 +1,3 @@
+Lipschitz Properties for Deep Convolutional Networks
+
+In this paper we discuss the stability properties of convolutional neural networks. Convolutional neural networks are widely used in machine learning. In classification they are mainly used as feature extractors. Ideally, we expect similar features when the inputs are from the same class. That is, we hope to see a small change in the feature vector with respect to a deformation on the input signal. This can be established mathematically, and the key step is to derive the Lipschitz properties. Further, we establish that the stability results can be extended for more general networks. We give a formula for computing the Lipschitz bound, and compare it with other methods to show it is closer to the optimal value.

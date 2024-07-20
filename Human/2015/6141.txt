@@ -1,0 +1,3 @@
+Proving Looping and Non-Looping Non-Termination by Finite Automata
+
+A new technique is presented to prove non-termination of term rewriting. The basic idea is to find a non-empty regular language of terms that is closed under rewriting and does not contain normal forms. It is automated by representing the language by a tree automaton with a fixed number of states, and expressing the mentioned requirements in a SAT formula. Satisfiability of this formula implies non-termination. Our approach succeeds for many examples where all earlier techniques fail, for instance for the S-rule from combinatory logic.

@@ -1,0 +1,3 @@
+Cooperative Localization for Mobile Networks: A Distributed Belief Propagation - Mean Field Message Passing Algorithm
+
+We propose a hybrid message passing method for distributed cooperative localization and tracking of mobile agents. Belief propagation and mean field message passing are employed for, respectively, the motion-related and measurement-related part of the factor graph. Using a Gaussian belief approximation, only three real values per message passing iteration have to be broadcast to neighboring agents. Despite these very low communication requirements, the estimation accuracy can be comparable to that of particle-based belief propagation.

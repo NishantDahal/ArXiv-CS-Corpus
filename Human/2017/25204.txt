@@ -1,0 +1,3 @@
+On reproduction of On the regularization of Wasserstein GANs
+
+This report has several purposes. First, our report is written to investigate the reproducibility of the submitted paper On the regularization of Wasserstein GANs (2018). Second, among the experiments performed in the submitted paper, five aspects were emphasized and reproduced: learning speed, stability, robustness against hyperparameter, estimating the Wasserstein distance, and various sampling method. Finally, we identify which parts of the contribution can be reproduced, and at what cost in terms of resources. All source code for reproduction is open to the public.

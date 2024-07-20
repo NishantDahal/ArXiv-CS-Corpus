@@ -1,0 +1,3 @@
+On Resilient Graph Spanners
+
+We introduce and investigate a new notion of resilience in graph spanners. Let $S$ be a spanner of a graph $G$. Roughly speaking, we say that a spanner $S$ is resilient if all its point-to-point distances are resilient to edge failures. Namely, whenever any edge in $G$ fails, then as a consequence of this failure all distances do not degrade in $S$ substantially more than in $G$ (i.e., the relative distance increases in $S$ are very close to those in the underlying graph $G$). In this paper we show that sparse resilient spanners exist, and that they can be computed efficiently.

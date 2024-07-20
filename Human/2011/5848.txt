@@ -1,0 +1,3 @@
+Optimal Final Carry Propagate Adder Design for Parallel Multipliers
+
+Based on the ASIC layout level simulation of 7 types of adder structures each of four different sizes, i.e. a total of 28 adders, we propose expressions for the width of each of the three regions of the final Carry Propagate Adder (CPA) to be used in parallel multipliers. We also propose the types of adders to be used in each region that would lead to the optimal performance of the hybrid final adders in parallel multipliers. This work evaluates the complete performance of the analyzed designs in terms of delay, area, power through custom design and layout in 0.18 um CMOS process technology.

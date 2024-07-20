@@ -1,0 +1,3 @@
+Convex Hull Calculations: a Matlab Implementation and Correctness Proofs for the lrs-Algorithm
+
+This paper provides full \Matlab-code and informal correctness proofs for the lexicographic reverse search algorithm for convex hull calculations. The implementation was tested on a 1993 486-PC for various small and some larger, partially highly degenerate combinatorial polytopes, one of which (a certain 13-dimensional 24 vertex polyhedron) occurs naturally in the study of a well known problem posed by Professor Graciano de Oliveira: see end of section 1.

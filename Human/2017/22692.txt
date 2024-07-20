@@ -1,0 +1,6 @@
+A Two-Phase Genetic Algorithm for Image Registration
+
+Image Registration (IR) is the process of aligning two (or more) images of the same scene taken at different times, different viewpoints and/or by different sensors. It is an important, crucial step in various image analysis tasks where multiple data sources are integrated/fused, in order to extract high-level information.
+  Registration methods usually assume a relevant transformation model for a given problem domain. The goal is to search for the "optimal" instance of the transformation model assumed with respect to a similarity measure in question.
+  In this paper we present a novel genetic algorithm (GA)-based approach for IR. Since GA performs effective search in various optimization problems, it could prove useful also for IR. Indeed, various GAs have been proposed for IR. However, most of them assume certain constraints, which simplify the transformation model, restrict the search space or make additional preprocessing requirements. In contrast, we present a generalized GA-based solution for an almost fully affine transformation model, which achieves competitive results without such limitations using a two-phase method and a multi-objective optimization (MOO) approach.
+  We present good results for multiple dataset and demonstrate the robustness of our method in the presence of noisy data.

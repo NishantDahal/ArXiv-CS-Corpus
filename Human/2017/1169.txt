@@ -1,0 +1,5 @@
+Truthful Facility Location with Additive Errors
+
+We address the problem of locating facilities on the $[0,1]$ interval based on reports from strategic agents. The cost of each agent is her distance to the closest facility, and the global objective is to minimize either the maximum cost of an agent or the social cost.
+  As opposed to the extensive literature on facility location which considers the multiplicative error, we focus on minimizing the worst-case additive error. Minimizing the additive error incentivizes mechanisms to adapt to the size of the instance. I.e., mechanisms can sacrifice little efficiency in small instances (location profiles in which all agents are relatively close to one another), in order to gain more [absolute] efficiency in large instances. We argue that this measure is better suited for many manifestations of the facility location problem in various domains.
+  We present tight bounds for mechanisms locating a single facility in both deterministic and randomized cases. We further provide several extensions for locating multiple facilities.

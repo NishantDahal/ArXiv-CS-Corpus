@@ -1,0 +1,3 @@
+Secret key generation from Gaussian sources using lattice hashing
+
+We propose a simple yet complete lattice-based scheme for secret key generation from Gaussian sources in the presence of an eavesdropper, and show that it achieves strong secret key rates up to 1/2 nat from the optimal in the case of "degraded" source models. The novel ingredient of our scheme is a lattice-hashing technique, based on the notions of flatness factor and channel intrinsic randomness. The proposed scheme does not require dithering.

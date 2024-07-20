@@ -1,0 +1,3 @@
+Memetic Multilevel Hypergraph Partitioning
+
+Hypergraph partitioning has a wide range of important applications such as VLSI design or scientific computing. With focus on solution quality, we develop the first multilevel memetic algorithm to tackle the problem. Key components of our contribution are new effective multilevel recombination and mutation operations that provide a large amount of diversity. We perform a wide range of experiments on a benchmark set containing instances from application areas such VLSI, SAT solving, social networks, and scientific computing. Compared to the state-of-the-art hypergraph partitioning tools hMetis, PaToH, and KaHyPar, our new algorithm computes the best result on almost all instances.

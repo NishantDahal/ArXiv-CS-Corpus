@@ -1,0 +1,3 @@
+Distributed Dominating Sets on Grids
+
+This paper presents a distributed algorithm for finding near optimal dominating sets on grids. The basis for this algorithm is an existing centralized algorithm that constructs dominating sets on grids. The size of the dominating set provided by this centralized algorithm is upper-bounded by $\lceil\frac{(m+2)(n+2)}{5}\rceil$ for $m\times n$ grids and its difference from the optimal domination number of the grid is upper-bounded by five. Both the centralized and distributed algorithms are generalized for the $k$-distance dominating set problem, where all grid vertices are within distance $k$ of the vertices in the dominating set.

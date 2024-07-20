@@ -1,0 +1,3 @@
+General Upper Bounds for Gate Complexity and Depth of Reversible Circuits Consisting of NOT, CNOT and 2-CNOT Gates
+
+The paper discusses the gate complexity and the depth of reversible circuits consisting of NOT, CNOT and 2-CNOT gates in the case, when the number of additional inputs is limited. We study Shannon's gate complexity function $L(n, q)$ and depth function $D(n, q)$ for a reversible circuit implementing a Boolean transformation $f\colon \mathbb Z_2^n \to \mathbb Z_2^n$ with $8n < q \lesssim n2^{n-o(n)}$ additional inputs. The general upper bounds $L(n,q) \lesssim 2^n + 8n2^n \mathop / (\log_2 (q-4n) - \log_2 n - 2)$ and $D(n,q) \lesssim 2^{n+1}(2,5 + \log_2 n - \log_2 (\log_2 (q - 4n) - \log_2 n - 2))$ are proved for this case.

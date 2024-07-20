@@ -1,0 +1,3 @@
+Normalized Maximum Likelihood with Luckiness for Multivariate Normal Distributions
+
+The normalized maximum likelihood (NML) is one of the most important distribution in coding theory and statistics. NML is the unique solution (if exists) to the pointwise minimax regret problem. However, NML is not defined even for simple family of distributions such as the normal distributions. Since there does not exist any meaningful minimax-regret distribution for such case, it is pointed out that NML with luckiness (LNML) can be employed as an alternative to NML. In this paper, we develop the closed form of LNMLs for multivariate normal distributions.

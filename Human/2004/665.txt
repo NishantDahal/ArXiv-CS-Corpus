@@ -1,0 +1,3 @@
+Comment on A dynamic ID-based Remote User Authentication Scheme
+
+Since 1981, when Lamport introduced the remote user authentication scheme using table, a plenty of schemes had been proposed with tables or without table using. Recently Das et al. proposed a dynamic id-based remote user authentication scheme. They claimed that their scheme is secure against ID-theft, and can resist the reply attacks, forgery attacks, insider attacks an so on. In this paper we show that Das et al's scheme is completly insecure and using of this scheme is like an open server access without password.

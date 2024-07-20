@@ -1,0 +1,3 @@
+Multi-Gbps HTTP Traffic Analysis in Commodity Hardware Based on Local Knowledge of TCP Streams
+
+In this paper we propose and implement novel techniques for performance evaluation of web traffic (response time, response code, etc.), with no reassembly of the underlying TCP connection, which severely restricts the traffic analysis throughput. Furthermore, our proposed software for HTTP traffic analysis runs in standard hardware, which is very cost-effective. Besides, we present sub-TCP connection load balancing techniques that significantly increase throughput at the expense of losing very few HTTP transactions. Such techniques provide performance evaluation statistics which are indistinguishable from the single-threaded alternative with full TCP connection reassembly.

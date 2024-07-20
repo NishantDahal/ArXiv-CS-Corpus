@@ -1,0 +1,3 @@
+Kinetic Reverse $k$-Nearest Neighbor Problem
+
+This paper provides the first solution to the kinetic reverse $k$-nearest neighbor (\rknn) problem in $\mathbb{R}^d$, which is defined as follows: Given a set $P$ of $n$ moving points in arbitrary but fixed dimension $d$, an integer $k$, and a query point $q\notin P$ at any time $t$, report all the points $p\in P$ for which $q$ is one of the $k$-nearest neighbors of $p$.

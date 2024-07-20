@@ -1,0 +1,3 @@
+Lattice Simulations using OpenACC compilers
+
+OpenACC compilers allow one to use Graphics Processing Units without having to write explicit CUDA codes. Programs can be modified incrementally using OpenMP like directives which causes the compiler to generate CUDA kernels to be run on the GPUs. In this article we look at the performance gain in lattice simulations with dynamical fermions using OpenACC compilers.

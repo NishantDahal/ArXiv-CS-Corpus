@@ -1,0 +1,3 @@
+Deep End-to-end Fingerprint Denoising and Inpainting
+
+This work describes our winning solution for the Chalearn LAP In-painting Competition Track 3 - Fingerprint Denoising and In-painting. The objective of this competition is to reduce noise, remove the background pattern and replace missing parts of fingerprint images in order to simplify the verification made by humans or third-party software. In this paper, we use a U-Net like CNN model that performs all those steps end-to-end after being trained on the competition data in a fully supervised way. This architecture and training procedure achieved the best results on all three metrics of the competition.

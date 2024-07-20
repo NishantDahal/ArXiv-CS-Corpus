@@ -1,0 +1,3 @@
+Higher-order Spatial Accuracy in Diffeomorphic Image Registration
+
+We discretize a cost functional for image registration problems by deriving Taylor expansions for the matching term. Minima of the discretized cost functionals can be computed with no spatial discretization error, and the optimal solutions are equivalent to minimal energy curves in the space of $k$-jets. We show that the solutions convergence to optimal solutions of the original cost functional as the number of particles increases with a convergence rate of $O(h^{d+k})$ where $h$ is a resolution parameter. The effect of this approach over traditional particle methods is illustrated on synthetic examples and real images.

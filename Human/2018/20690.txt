@@ -1,0 +1,3 @@
+An Approach For Stitching Satellite Images In A Bigdata Mapreduce Framework
+
+In this study we present a two-step map/reduce framework to stitch satellite mosaic images. The proposed system enable recognition and extraction of objects whose parts falling in separate satellite mosaic images. However this is a time and resource consuming process. The major aim of the study is improving the performance of the image stitching processes by utilizing big data framework. To realize this, we first convert the images into bitmaps (first mapper) and then String formats in the forms of 255s and 0s (second mapper), and finally, find the best possible matching position of the images by a reduce function.

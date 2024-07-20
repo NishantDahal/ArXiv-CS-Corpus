@@ -1,0 +1,4 @@
+Adversary Lower Bound for the Orthogonal Array Problem
+
+We prove a quantum query lower bound Ω(n^{(d+1)/(d+2)}) for the problem of deciding whether an input string of size n contains a k-tuple which belongs to a fixed orthogonal array on k factors of strength d<=k-1 and index 1, provided that the alphabet size is sufficiently large. Our lower bound is tight when d=k-1.
+  The orthogonal array problem includes the following problems as special cases: k-sum problem with d=k-1, k-distinctness problem with d=1, k-pattern problem with d=0, (d-1)-degree problem with 1<=d<=k-1, unordered search with d=0 and k=1, and graph collision with d=0 and k=2.

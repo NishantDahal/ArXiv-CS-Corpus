@@ -1,0 +1,3 @@
+On Concise Encodings of Preferred Extensions
+
+Much work on argument systems has focussed on preferred extensions which define the maximal collectively defensible subsets. Identification and enumeration of these subsets is (under the usual assumptions) computationally demanding. We consider approaches to deciding if a subset S is a preferred extension which query a representations encoding all such extensions, so that the computational effort is invested once only (for the initial enumeration) rather than for each separate query.

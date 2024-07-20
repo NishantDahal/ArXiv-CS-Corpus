@@ -1,0 +1,3 @@
+Minimax redundancy for Markov chains with large state space
+
+For any Markov source, there exist universal codes whose normalized codelength approaches the Shannon limit asymptotically as the number of samples goes to infinity. This paper investigates how fast the gap between the normalized codelength of the "best" universal compressor and the Shannon limit (i.e. the compression redundancy) vanishes non-asymptotically in terms of the alphabet size and mixing time of the Markov source. We show that, for Markov sources whose relaxation time is at least $1 + \frac{(2+c)}{\sqrt{k}}$, where $k$ is the state space size (and $c>0$ is a constant), the phase transition for the number of samples required to achieve vanishing compression redundancy is precisely $Θ(k^2)$.

@@ -1,0 +1,3 @@
+Post-Route Refinement for High-Frequency PCBs Considering Meander Segment Alleviation
+
+In this paper, we propose a post-processing framework which iteratively refines the routing results from an existing PCB router by removing dense meander segments. By swapping and detouring dense meander segments the proposed method can effectively alleviate accumulating crosstalk noise, while respecting pre-defined area constraints. Experimental results show more than 85% reduction of the meander segments and hence the noise cost.

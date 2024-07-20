@@ -1,0 +1,3 @@
+Expanding a robot's life: Low power object recognition via FPGA-based DCNN deployment
+
+FPGAs are commonly used to accelerate domain-specific algorithmic implementations, as they can achieve impressive performance boosts, are reprogrammable and exhibit minimal power consumption. In this work, the SqueezeNet DCNN is accelerated using an SoC FPGA in order for the offered object recognition resource to be employed in a robotic application. Experiments are conducted to investigate the performance and power consumption of the implementation in comparison to deployment on other widely-used computational systems.

@@ -1,0 +1,3 @@
+Optimal User Pairing for Achieving Rate Fairness in Downlink NOMA Networks
+
+In this paper, a downlink non-orthogonal multiple access (NOMA) network is studied. We investigate the problem of jointly optimizing user pairing and beamforming design to maximize the minimum rate among all users. The considered problem belongs to a difficult class of mixed-integer nonconvex optimization programming. We first relax the binary constraints and adopt sequential convex approximation method to solve the relaxed problem, which is guaranteed to converge at least to a locally optimal solution. Numerical results show that the proposed method attains higher rate fairness among users, compared with traditional beamforming solutions, i.e., random pairing NOMA and beamforming systems.

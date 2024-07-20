@@ -1,0 +1,5 @@
+Formalizing typical crosscutting concerns
+
+We present a consistent system for referring crosscutting functionality, relating crosscutting concerns to specific implementation idioms, and formalizing their underlying relations through queries. The system is based on generic crosscutting concerns that we organize and describe in a catalog.
+  We have designed and implemented a tool support for querying source code for instances of the proposed generic concerns and organizing them in composite concern models. The composite concern model adds a new dimension to the dominant decomposition of the system for describing and making explicit source code relations specific to crosscutting concerns implementations.
+  We use the proposed approach to describe crosscutting concerns in design patterns and apply the tool to an opensource system (JHotDraw).

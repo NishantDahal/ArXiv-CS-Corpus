@@ -1,0 +1,3 @@
+Routing and Forwarding in nTorrent using ndnSIM
+
+BitTorrent is a popular communication protocol for peer-to-peer file sharing. It uses a data-centric approach, wherein the data is decentralized and peers request each other for pieces of the file(s). Aspects of this process is similar to the Named Data Networking (NDN) architecture, but is realized completely at the application level on top of TCP/IP networking. nTorrent is a peer-to-peer file sharing application that is based on NDN. The goal of this project is to port the application onto ndnSIM and illustrate the effects of routing and forwarding.

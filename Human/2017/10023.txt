@@ -1,0 +1,3 @@
+How to Quantize $n$ Outputs of a Binary Symmetric Channel to $n-1$ Bits?
+
+Suppose that $Y^n$ is obtained by observing a uniform Bernoulli random vector $X^n$ through a binary symmetric channel with crossover probability $α$. The "most informative Boolean function" conjecture postulates that the maximal mutual information between $Y^n$ and any Boolean function $\mathrm{b}(X^n)$ is attained by a dictator function. In this paper, we consider the "complementary" case in which the Boolean function is replaced by $f:\left\{0,1\right\}^n\to\left\{0,1\right\}^{n-1}$, namely, an $n-1$ bit quantizer, and show that $I(f(X^n);Y^n)\leq (n-1)\cdot\left(1-h(α)\right)$ for any such $f$. Thus, in this case, the optimal function is of the form $f(x^n)=(x_1,\ldots,x_{n-1})$.

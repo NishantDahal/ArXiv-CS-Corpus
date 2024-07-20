@@ -1,0 +1,3 @@
+DUCT: An Interactive Define-Use Chain Navigation Tool for Relative Debugging
+
+This paper describes an interactive tool that facilitates following define-use chains in large codes. The motivation for the work is to support relative debugging, where it is necessary to iteratively refine a set of asser-tions between different versions of a program. DUCT is novel because it exploits the Microsoft Intermediate Language (MSIL) that underpins the .NET Framework. Accordingly, it works on a wide range of programming languages without any modification. The paper describes the design and implementation of DUCT, and then illustrates its use with a small case study.

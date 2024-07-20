@@ -1,0 +1,4 @@
+On Deletion in Delaunay Triangulation
+
+This paper presents how the space of spheres and shelling may be used to delete a point from a $d$-dimensional triangulation efficiently. In dimension two, if k is the degree of the deleted vertex, the complexity is O(k log k), but we notice that this number only applies to low cost operations, while time consuming computations are only done a linear number of times.
+  This algorithm may be viewed as a variation of Heller's algorithm, which is popular in the geographic information system community. Unfortunately, Heller algorithm is false, as explained in this paper.

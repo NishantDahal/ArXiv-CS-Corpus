@@ -1,0 +1,4 @@
+The MMT API: A Generic MKM System
+
+The MMT language has been developed as a scalable representation and interchange language for formal mathematical knowledge. It permits natural representations of the syntax and semantics of virtually all declarative languages while making MMT-based MKM services easy to implement. It is foundationally unconstrained and can be instantiated with specific formal languages.
+  The MMT API implements the MMT language along with multiple backends for persistent storage and frontends for machine and user access. Moreover, it implements a wide variety of MMT-based knowledge management services. The API and all services are generic and can be applied to any language represented in MMT. A plugin interface permits injecting syntactic and semantic idiosyncrasies of individual formal languages.

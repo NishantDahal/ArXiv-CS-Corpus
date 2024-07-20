@@ -1,0 +1,3 @@
+A Constructor-Based Reachability Logic for Rewrite Theories
+
+Reachability logic has been applied to $\mathbb{K}$ rewrite-rule-based language definitions as a language-generic logic of programs. To be able to verify not just code but also distributed system designs, a new rewrite-theory-generic reachability logic is presented and proved sound for a wide class of rewrite theories. The logic's automation is increased by means of constructor-based semantic unification, matching, and satisfiability procedures. New methods for proving invariants of possibly never terminating distributed systems are developed, and experiments with a prototype implementation illustrating the new proof methods are presented.

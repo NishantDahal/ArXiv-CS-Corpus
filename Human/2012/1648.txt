@@ -1,0 +1,4 @@
+Bound Analysis of Imperative Programs with the Size-change Abstraction (extended version)
+
+The size-change abstraction (SCA) is an important program abstraction for termination analysis, which has been successfully implemented in many tools for functional and logic programs. In this paper, we demonstrate that SCA is also a highly effective abstract domain for the bound analysis of imperative programs.
+  We have implemented a bound analysis tool based on SCA for imperative programs. We abstract programs in a pathwise and context dependent manner, which enables our tool to analyze real-world programs effectively. Our work shows that SCA captures many of the essential ideas of previous termination and bound analysis and goes beyond in a conceptually simpler framework.

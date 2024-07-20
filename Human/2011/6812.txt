@@ -1,0 +1,3 @@
+Universal MMSE Filtering With Logarithmic Adaptive Regret
+
+We consider the problem of online estimation of a real-valued signal corrupted by oblivious zero-mean noise using linear estimators. The estimator is required to iteratively predict the underlying signal based on the current and several last noisy observations, and its performance is measured by the mean-square-error. We describe and analyze an algorithm for this task which: 1. Achieves logarithmic adaptive regret against the best linear filter in hindsight. This bound is assyptotically tight, and resolves the question of Moon and Weissman [1]. 2. Runs in linear time in terms of the number of filter coefficients. Previous constructions required at least quadratic time.

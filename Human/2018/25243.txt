@@ -1,0 +1,3 @@
+Formal Verification of a Geometry Algorithm: A Quest for Abstract Views and Symmetry in Coq Proofs
+
+This extended abstract is about an effort to build a formal description of a triangulation algorithm starting with a naive description of the algorithm where triangles, edges, and triangulations are simply given as sets and the most complex notions are those of boundary and separating edges. When performing proofs about this algorithm, questions of symmetry appear and this exposition attempts to give an account of how these symmetries can be handled. All this work relies on formal developments made with Coq and the mathematical components library.

@@ -1,0 +1,3 @@
+Can machine learning identify interesting mathematics? An exploration using empirically observed laws
+
+We explore the possibility of using machine learning to identify interesting mathematical structures by using certain quantities that serve as fingerprints. In particular, we extract features from integer sequences using two empirical laws: Benford's law and Taylor's law and experiment with various classifiers to identify whether a sequence is, for example, nice, important, multiplicative, easy to compute or related to primes or palindromes.

@@ -1,0 +1,3 @@
+Unpredictability and Computational Irreducibility
+
+We explore several concepts for analyzing the intuitive notion of computational irreducibility and we propose a robust formal definition, first in the field of cellular automata and then in the general field of any computable function f from N to N. We prove that, through a robust definition of what means "to be unable to compute the nth step without having to follow the same path than simulating the automaton or the function", this implies genuinely, as intuitively expected, that if the behavior of an object is computationally irreducible, no computation of its nth state can be faster than the simulation itself.

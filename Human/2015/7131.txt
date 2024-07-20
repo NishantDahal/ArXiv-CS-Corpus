@@ -1,0 +1,3 @@
+Coding Side-Information for Implementing Cubic Transformation
+
+This paper considers the implementation of the cubic public-key transformation, a public-key cryptographic scheme that requires sending of additional side-information. A coding scheme for the side-information, based on the residue number system, is presented. In the conventional one-to-one encryption mapping also, such coding can be used to send additional like that of watermarking, which could be used to detect man-in-the-middle attacks or used for authentication.

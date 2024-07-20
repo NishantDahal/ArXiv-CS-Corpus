@@ -1,0 +1,4 @@
+Simulator Semantics for System Level Formal Verification
+
+Many simulation based Bounded Model Checking approaches to System Level Formal Verification (SLFV) have been devised. Typically such approaches exploit the capability of simulators to save computation time by saving and restoring the state of the system under simulation. However, even though such approaches aim to (bounded) formal verification, as a matter of fact, the simulator behaviour is not formally modelled and the proof of correctness of the proposed approaches basically relies on the intuitive notion of simulator behaviour. This gap makes it hard to check if the optimisations introduced to speed up the simulation do not actually omit checking relevant behaviours of the system under verification.
+  The aim of this paper is to fill the above gap by presenting a formal semantics for simulators.

@@ -1,0 +1,3 @@
+Local Graph Coloring and Index Coding
+
+We present a novel upper bound for the optimal index coding rate. Our bound uses a graph theoretic quantity called the local chromatic number. We show how a good local coloring can be used to create a good index code. The local coloring is used as an alignment guide to assign index coding vectors from a general position MDS code. We further show that a natural LP relaxation yields an even stronger index code. Our bounds provably outperform the state of the art on index coding but at most by a constant factor.

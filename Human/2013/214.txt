@@ -1,0 +1,3 @@
+Delay Minimization in Varying-Bandwidth Direct Multicast with Side Information
+
+We study the delay minimization in a direct multicast communication scheme where a base station wishes to transmit a set of original packets to a group of clients. Each of the clients already has in its cache a subset of the original packets, and requests for all the remaining packets. The base station communicates directly with the clients by broadcasting information to them. Assume that bandwidths vary between the station and different clients. We propose a method to minimize the total delay required for the base station to satisfy requests from all clients.

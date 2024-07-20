@@ -1,0 +1,3 @@
+Kernelization and Parameterized Algorithms for 3-Path Vertex Cover
+
+A 3-path vertex cover in a graph is a vertex subset $C$ such that every path of three vertices contains at least one vertex from $C$. The parameterized 3-path vertex cover problem asks whether a graph has a 3-path vertex cover of size at most $k$. In this paper, we give a kernel of $5k$ vertices and an $O^*(1.7485^k)$-time and polynomial-space algorithm for this problem, both new results improve previous known bounds.

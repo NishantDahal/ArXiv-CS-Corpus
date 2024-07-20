@@ -1,0 +1,4 @@
+Greedy is as Good as Delaunay (Almost)
+
+Let S be a planar point set. Krznaric and Levcopoulos proved that given the Delaunay triangulation DT(S) for S, one can find the greedy triangulation GT(S) in linear time. We provide a (partial) converse of this result: given GT(S), it is possible to compute DT(S) in linear expected time. Thus, these structures are basically equivalent.
+  To obtain our result, we generalize another algorithm by Krznaric and Levcopoulos to find a hierarchical clustering for S in linear time, once DT(S) is known. We show that their algorithm remains (almost) correct for any triangulation of bounded dilation, i.e., any triangulation in which the shortest path distance between any two points approximates their Euclidean distance. In general, however, the resulting running time may be superlinear. Nonetheless, we can show that the properties of the greedy triangulation suffice to guarantee a linear time bound.

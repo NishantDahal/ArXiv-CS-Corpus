@@ -1,0 +1,4 @@
+Well-Supported versus Approximate Nash Equilibria: Query Complexity of Large Games
+
+We study the randomized query complexity of approximate Nash equilibria (ANE) in large games. We prove that, for some constant $ε>0$, any randomized oracle algorithm that computes an $ε$-ANE in a binary-action, $n$-player game must make $2^{Ω(n/\log n)}$ payoff queries. For the stronger solution concept of well-supported Nash equilibria (WSNE), Babichenko previously gave an exponential $2^{Ω(n)}$ lower bound for the randomized query complexity of $ε$-WSNE, for some constant $ε>0$; the same lower bound was shown to hold for $ε$-ANE, but only when $ε=O(1/n)$.
+  Our result answers an open problem posed by Hart and Nisan and Babichenko and is very close to the trivial upper bound of $2^n$. Our proof relies on a generic reduction from the problem of finding an $ε$-WSNE to the problem of finding an $ε/(4α)$-ANE, in large games with $α$ actions, which might be of independent interest.

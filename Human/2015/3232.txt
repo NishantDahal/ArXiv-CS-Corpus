@@ -1,0 +1,3 @@
+Modelling the Semantic Web using a Type System
+
+We present an approach for modeling the Semantic Web as a type system. By using a type system, we can use symbolic representation for representing linked data. Objects with only data properties and references to external resources are represented as terms in the type system. Triples are represented symbolically using type constructors as the predicates. In our type system, we allow users to add analytics that utilize machine learning or knowledge discovery to perform inductive reasoning over data. These analytics can be used by the inference engine when performing reasoning to answer a query. Furthermore, our type system defines a means to resolve semantic heterogeneity on-the-fly.

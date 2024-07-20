@@ -1,0 +1,3 @@
+Randomly coloring simple hypergraphs with fewer colors
+
+We study the problem of constructing a (near) uniform random proper $q$-coloring of a simple $k$-uniform hypergraph with $n$ vertices and maximum degree $Δ$. (Proper in that no edge is mono-colored and simple in that two edges have maximum intersection of size one). We show that if $q\geq \max\{C_k\log n,500k^3Δ^{1/(k-1)}\}$ then the Glauber Dynamics will become close to uniform in $O(n\log n)$ time, given a random (improper) start. This improves on the results in Frieze and Melsted [5].

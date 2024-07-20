@@ -1,0 +1,3 @@
+Contact modelling and tactile data processing for robot skin
+
+Tactile sensing is a key enabling technology to develop complex behaviours for robots interacting with humans or the environment. This paper discusses computational aspects playing a significant role when extracting information about contact events. Considering a large-scale, capacitance-based robot skin technology we developed in the past few years, we analyse the classical Boussinesq-Cerruti's solution and the Love's approach for solving a distributed inverse contact problem, both from a qualitative and a computational perspective. Our contribution is the characterisation of algorithms performance using a freely available dataset and data originating from surfaces provided with robot skin.

@@ -1,0 +1,3 @@
+Robustness Analysis for Value-Freezing Signal Temporal Logic
+
+In our previous work we have introduced the logic STL*, an extension of Signal Temporal Logic (STL) that allows value freezing. In this paper, we define robustness measures for STL* by adapting the robustness measures previously introduced for Metric Temporal Logic (MTL). Furthermore, we present an algorithm for STL* robustness computation, which is implemented in the tool Parasim. Application of STL* robustness analysis is demonstrated on case studies.

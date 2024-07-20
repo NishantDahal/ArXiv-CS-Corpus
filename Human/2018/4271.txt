@@ -1,0 +1,3 @@
+On classes of graphs with strongly sublinear separators
+
+For real numbers c,epsilon>0, let G_{c,epsilon} denote the class of graphs G such that each subgraph H of G has a balanced separator of order at most c|V(H)|^{1-epsilon}. A class of graphs has strongly sublinear separators if it is a subclass of G_{c,epsilon} for some c,epsilon>0. We investigate properties of such graph classes, leading in particular to an approximate algorithm to determine membership in G_{c,epsilon}: there exist c'>0 such that for each input graph G, this algorithm in polynomial time determines either that G belongs to G_{c',epsilon^2/160}, or that G does not belong to G_{c,epsilon}.

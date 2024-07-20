@@ -1,0 +1,3 @@
+Bounding the trellis state complexity of algebraic geometric codes
+
+Let C be an algebraic geometric code of dimension k and length n constructed on a curve X over $F_q$. Let s(C) be the state complexity of C and set w(C):=min{k,n-k}, the Wolf upper bound on s(C). We introduce a numerical function R that depends on the gonality sequence of X and show that s(C)\geq w(C)-R(2g-2), where g is the genus of X. As a matter of fact, R(2g-2)\leq g-(γ_2-2) with γ_2 being the gonality over F_q of X, and thus in particular we have that s(C)\geq w(C)-g+γ_2-2.

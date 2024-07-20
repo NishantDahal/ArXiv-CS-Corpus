@@ -1,0 +1,5 @@
+Improved bounds for reduction to depth 4 and depth 3
+
+Koiran showed that if a $n$-variate polynomial of degree $d$ (with $d=n^{O(1)}$) is computed by a circuit of size $s$, then it is also computed by a homogeneous circuit of depth four and of size $2^{O(\sqrt{d}\log(d)\log(s))}$. Using this result, Gupta, Kamath, Kayal and Saptharishi gave a $\exp(O(\sqrt{d\log(d)\log(n)\log(s)}))$ upper bound for the size of the smallest depth three circuit computing a $n$-variate polynomial of degree $d=n^{O(1)}$ given by a circuit of size $s$.
+  We improve here Koiran's bound. Indeed, we show that if we reduce an arithmetic circuit to depth four, then the size becomes $\exp(O(\sqrt{d\log(ds)\log(n)}))$. Mimicking Gupta, Kamath, Kayal and Saptharishi's proof, it also implies the same upper bound for depth three circuits.
+  This new bound is not far from optimal in the sense that Gupta, Kamath, Kayal and Saptharishi also showed a $2^{Ω(\sqrt{d})}$ lower bound for the size of homogeneous depth four circuits such that gates at the bottom have fan-in at most $\sqrt{d}$. Finally, we show that this last lower bound also holds if the fan-in is at least $\sqrt{d}$.

@@ -1,0 +1,3 @@
+Small-Area Orthogonal Drawings of 3-Connected Graphs
+
+It is well-known that every graph with maximum degree 4 has an orthogonal drawing with area at most $\frac{49}{64} n^2+O(n) \approx 0.76n^2$. In this paper, we show that if the graph is 3-connected, then the area can be reduced even further to $\frac{9}{16}n^2+O(n) \approx 0.56n^2$. The drawing uses the 3-canonical order for (not necessarily planar) 3-connected graphs, which is a special Mondshein sequence and can hence be computed in linear time. To our knowledge, this is the first application of a Mondshein sequence in graph drawing.

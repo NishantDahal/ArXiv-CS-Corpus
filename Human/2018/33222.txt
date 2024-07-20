@@ -1,0 +1,3 @@
+A dataset of 40K naturalistic 6-degree-of-freedom robotic grasp demonstrations
+
+Modern approaches to grasp planning often involve deep learning. However, there are only a few large datasets of labelled grasping examples on physical robots, and available datasets involve relatively simple planar grasps with two-fingered grippers. Here we present: 1) a new human grasp demonstration method that facilitates rapid collection of naturalistic grasp examples, with full six-degree-of-freedom gripper positioning; and 2) a dataset of roughly forty thousand successful grasps on 109 different rigid objects with the RightHand Robotics three-fingered ReFlex gripper.

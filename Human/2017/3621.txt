@@ -1,0 +1,4 @@
+A simulated annealing approach to optimal storing in a multi-level warehouse
+
+We propose a simulated annealing algorithm specifically tailored to optimise total retrieval times in a multi-level warehouse under complex pre-batched picking constraints. Experiments on real data from a picker-to-parts order picking process in the warehouse of a European manufacturer show that optimal storage assignments do not necessarily display features presumed in heuristics, such as clustering of positively correlated items or ordering of items by picking frequency.
+  In an experiment run on more than 4000 batched orders with 1 to 150 items per batch, the storage assignment suggested by the algorithm produces a 21\% reduction in the total retrieval time with respect to a frequency-based storage assignment.

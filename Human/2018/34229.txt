@@ -1,0 +1,3 @@
+On the Differences between L2-Boosting and the Lasso
+
+We prove that L2-Boosting lacks a theoretical property which is central to the behaviour of l1-penalized methods such as basis pursuit and the Lasso: Whereas l1-penalized methods are guaranteed to recover the sparse parameter vector in a high-dimensional linear model under an appropriate restricted nullspace property, L2-Boosting is not guaranteed to do so. Hence, L2-Boosting behaves quite differently from l1-penalized methods when it comes to parameter recovery/estimation in high-dimensional linear models.

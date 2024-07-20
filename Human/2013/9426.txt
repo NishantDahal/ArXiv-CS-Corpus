@@ -1,0 +1,3 @@
+Progressive Compression of 3D Objects with an Adaptive Quantization
+
+This paper presents a new progressive compression method for triangular meshes. This method, in fact, is based on a schema of irregular multi-resolution analysis and is centered on the optimization of the rate-distortion trade-off. The quantization precision is adapted to each vertex during the encoding / decoding process to optimize the rate-distortion compromise. The Optimization of the treated mesh geometry improves the approximation quality and the compression ratio at each level of resolution. The experimental results show that the proposed algorithm gives competitive results compared to the previous works dealing with the rate-distortion compromise.

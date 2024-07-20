@@ -1,0 +1,3 @@
+Optimal Partition of a Tree with Social Distance
+
+We study the problem to find a partition of \textcolor{black}{a} graph $G$ with maximum social welfare based on social distance between vertices in $G$, called MaxSWP. This problem is known to be NP-hard in general. In this paper, we first give a complete characterization of optimal partitions of trees with small diameters. Then, by utilizing these results, we show that MaxSWP can be solved in linear time for trees. Moreover, we show that MaxSWP is NP-hard even for 4-regular graphs.

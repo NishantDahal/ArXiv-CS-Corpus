@@ -1,0 +1,3 @@
+Message-Passing Protocols for Real-World Parsing -- An Object-Oriented Model and its Preliminary Evaluation
+
+We argue for a performance-based design of natural language grammars and their associated parsers in order to meet the constraints imposed by real-world NLP. Our approach incorporates declarative and procedural knowledge about language and language use within an object-oriented specification framework. We discuss several message-passing protocols for parsing and provide reasons for sacrificing completeness of the parse in favor of efficiency based on a preliminary empirical evaluation.

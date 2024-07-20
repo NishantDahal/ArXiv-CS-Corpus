@@ -1,0 +1,5 @@
+New Results for Adaptive and Approximate Counting of Inversions
+
+Counting inversions is a classic and important problem in databases. The number of inversions, $K^*$, in a list $L=(L(1),L(2),\ldots,L(n))$ is defined as the number of pairs $i < j$ with $L(i) > L(j)$. In this paper, new results for this problem are presented:
+  (1) In the I/O-model, an adaptive algorithm is presented for calculating $K^{*}$. The algorithm performs $O(\frac{N}{B}+ \frac{N}{B}\log_{M/B}(\frac{K^*}{NB}))$ I/Os. When $K^{*}=O(NM)$, then the algorithm takes only $O(\frac{N}{B})$ I/Os. This algorithm can be modified to match the state of the art for the comparison based model and the RAM model.
+  (2) In the RAM model, a linear-time algorithm is presented to obtain a tight estimate of $K^*$; specifically, a value which lies with high probability in the range $[(1-\frac{\log N}{N^{1/4}})K^*,(1+\frac{\log N}{N^{1/4}})K^*]$. The state of the art linear-time algorithm works for the special case where $L$ is a permutation, i.e., each $L(i)$ is a distinct integer in the range $[1,N]$. In this paper, we handle a general case where each $L(i)$ is a real number.

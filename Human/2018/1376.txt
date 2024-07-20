@@ -1,0 +1,3 @@
+SmartTennisTV: Automatic indexing of tennis videos
+
+In this paper, we demonstrate a score based indexing approach for tennis videos. Given a broadcast tennis video (BTV), we index all the video segments with their scores to create a navigable and searchable match. Our approach temporally segments the rallies in the video and then recognizes the scores from each of the segments, before refining the scores using the knowledge of the tennis scoring system. We finally build an interface to effortlessly retrieve and view the relevant video segments by also automatically tagging the segmented rallies with human accessible tags such as 'fault' and 'deuce'. The efficiency of our approach is demonstrated on BTV's from two major tennis tournaments.

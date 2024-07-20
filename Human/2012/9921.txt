@@ -1,0 +1,3 @@
+A Note on "On the Construction of Boolean Functions with Optimal Algebraic Immunity"
+
+In this note, we go further on the "basis exchange" idea presented in \cite{LiNa1} by using Mobious inversion. We show that the matrix $S_1(f)S_0(f)^{-1}$ has a nice form when $f$ is chosen to be the majority function, where $S_1(f)$ is the matrix with row vectors $\upsilon_k(α)$ for all $α\in 1_f$ and $S_0(f)=S_1(f\oplus1)$. And an exact counting for Boolean functions with maximum algebraic immunity by exchanging one point in on-set with one point in off-set of the majority function is given. Furthermore, we present a necessary condition according to weight distribution for Boolean functions to achieve algebraic immunity not less than a given number.

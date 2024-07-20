@@ -1,0 +1,3 @@
+Numerical Model of Shallow Water: the Use of NVIDIA CUDA Graphics Processors
+
+In the paper we discuss the main features of the software package for numerical simulations of the surface water dynamics. We consider an approximation of the shallow water equations together with the parallel technologies for NVIDIA CUDA graphics processors. The numerical hydrodynamic code is based on the combined Lagrangian-Euler method~(CSPH-TVD). We focused on the features of the parallel implementation of Tesla line of graphics processors: C2070, K20, K40, K80. By using hierarchical grid systems at different spatial scales we increase the efficiency of the computing resources usage and speed up our simulations of a various flooding problems.

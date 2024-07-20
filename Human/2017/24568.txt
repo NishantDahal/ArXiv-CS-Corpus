@@ -1,0 +1,3 @@
+Multi-Objective Vehicle Routing Problem Applied to Large Scale Post Office Deliveries
+
+The number of optimization techniques in the combinatorial domain is large and diversified. Nevertheless, real-world based benchmarks for testing algorithms are few. This work creates an extensible real-world mail delivery benchmark to the Vehicle Routing Problem (VRP) in a planar graph embedded in the 2D Euclidean space. Such problem is multi-objective on a roadmap with up to 25 vehicles and 30,000 deliveries per day. Each instance models one generic day of mail delivery, allowing both comparison and validation of optimization algorithms for routing problems. The benchmark may be extended to model other scenarios.

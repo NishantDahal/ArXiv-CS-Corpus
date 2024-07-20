@@ -1,0 +1,3 @@
+Variational Grid Setting Network
+
+We propose a new neural network architecture for automatic generation of missing characters in a Chinese font set. We call the neural network architecture the Variational Grid Setting Network which is based on the variational autoencoder (VAE) with some tweaks. The neural network model is able to generate missing characters relatively large in size ($256 \times 256$ pixels). Moreover, we show that one can use very few samples for training data set, and get a satisfied result.

@@ -1,0 +1,4 @@
+Line-Recovery by Programmable Particles
+
+Shape formation has been recently studied in distributed systems of programmable particles. In this paper we consider the shape recovery problem of restoring the shape when $f$ of the $n$ particles have crashed. We focus on the basic line shape, used as a tool for the construction of more complex configurations.
+  We present a solution to the line recovery problem by the non-faulty anonymous particles; the solution works regardless of the initial distribution and number $f<n-4$ of faults, of the local orientations of the non-faulty entities, and of the number of non-faulty entities activated in each round (i.e., semi-synchronous adversarial scheduler).

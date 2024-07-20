@@ -1,0 +1,3 @@
+Computing Optimal Cycle Mean in Parallel on CUDA
+
+Computation of optimal cycle mean in a directed weighted graph has many applications in program analysis, performance verification in particular. In this paper we propose a data-parallel algorithmic solution to the problem and show how the computation of optimal cycle mean can be efficiently accelerated by means of CUDA technology. We show how the problem of computation of optimal cycle mean is decomposed into a sequence of data-parallel graph computation primitives and show how these primitives can be implemented and optimized for CUDA computation. Finally, we report a fivefold experimental speed up on graphs representing models of distributed systems when compared to best sequential algorithms.

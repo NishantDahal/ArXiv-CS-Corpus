@@ -1,0 +1,3 @@
+DimensionApp : android app to estimate object dimensions
+
+In this project, we develop an android app that uses on computer vision techniques to estimate an object dimension present in field of view. The app while having compact size, is accurate upto +/- 5 mm and robust towards touch inputs. We use single-view metrology to compute accurate measurement. Unlike previous approaches, our technique does not rely on line detection and can be generalize to any object shape easily.

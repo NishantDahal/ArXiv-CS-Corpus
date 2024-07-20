@@ -1,0 +1,6 @@
+A duality principle for selection games
+
+A dinner table seats k guests and holds n discrete morsels of food. Guests select morsels in turn until all are consumed. Each guest has a ranking of the morsels according to how much he would enjoy eating them; these rankings are commonly known.
+  A gallant knight always prefers one food division over another if it provides strictly more enjoyable collections of food to one or more other players (without giving a less enjoyable collection to any other player) even if it makes his own collection less enjoyable. A boorish lout always selects the morsel that gives him the most enjoyment on the current turn, regardless of future consumption by himself and others.
+  We show the way the food is divided when all guests are gallant knights is the same as when all guests are boorish louts but turn order is reversed. This implies and generalizes a classical result of Kohler and Chandrasekaran (1971) about two players strategically maximizing their own enjoyments. We also treat the case that the table contains a mixture of boorish louts and gallant knights.
+  Our main result can also be formulated in terms of games in which selections are made by groups. In this formulation, the surprising fact is that a group can always find a selection that is simultaneously optimal for each member of the group.

@@ -1,0 +1,3 @@
+Classical verification of quantum circuits containing few basis changes
+
+We consider the task of verifying the correctness of quantum computation for a restricted class of circuits which contain at most two basis changes. This contains circuits giving rise to the second level of the Fourier Hierarchy, the lowest level for which there is an established quantum advantage. We show that, when the circuit has an outcome with probability at least the inverse of some polynomial in the circuit size, the outcome can be checked in polynomial time with bounded error by a completely classical verifier. This verification procedure is based on random sampling of computational paths and is only possible given knowledge of the likely outcome.

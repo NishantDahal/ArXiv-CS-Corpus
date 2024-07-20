@@ -1,0 +1,3 @@
+Definability Equals Recognizability for $k$-Outerplanar Graphs
+
+One of the most famous algorithmic meta-theorems states that every graph property that can be defined by a sentence in counting monadic second order logic (CMSOL) can be checked in linear time for graphs of bounded treewidth, which is known as Courcelle's Theorem. These algorithms are constructed as finite state tree automata, and hence every CMSOL-definable graph property is recognizable. Courcelle also conjectured that the converse holds, i.e. every recognizable graph property is definable in CMSOL for graphs of bounded treewidth. We prove this conjecture for $k$-outerplanar graphs, which are known to have treewidth at most $3k-1$.

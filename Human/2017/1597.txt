@@ -1,0 +1,5 @@
+Complexity and Approximability of Parameterized MAX-CSPs
+
+We study the optimization version of constraint satisfaction problems (Max-CSPs) in the framework of parameterized complexity; the goal is to compute the maximum fraction of constraints that can be satisfied simultaneously. In standard CSPs, we want to decide whether this fraction equals one. The parameters we investigate are structural measures, such as the treewidth or the clique-width of the variable-constraint incidence graph of the CSP instance.
+  We consider Max-CSPs with the constraint types AND, OR, PARITY, and MAJORITY, and with various parameters k, and we attempt to fully classify them into the following three cases: 1. The exact optimum can be computed in FPT time. 2. It is W[1]-hard to compute the exact optimum, but there is a randomized FPT approximation scheme (FPTAS), which computes a $(1-ε)$-approximation in time $f(k,ε)\cdot poly(n)$. 3. There is no FPTAS unless FPT=W[1].
+  For the corresponding standard CSPs, we establish FPT vs. W[1]-hardness results.

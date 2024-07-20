@@ -1,0 +1,3 @@
+Playing Games in the Baire Space
+
+We solve a generalized version of Church's Synthesis Problem where a play is given by a sequence of natural numbers rather than a sequence of bits; so a play is an element of the Baire space rather than of the Cantor space. Two players Input and Output choose natural numbers in alternation to generate a play. We present a natural model of automata ("N-memory automata") equipped with the parity acceptance condition, and we introduce also the corresponding model of "N-memory transducers". We show that solvability of games specified by N-memory automata (i.e., existence of a winning strategy for player Output) is decidable, and that in this case an N-memory transducer can be constructed that implements a winning strategy for player Output.

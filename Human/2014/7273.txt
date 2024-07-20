@@ -1,0 +1,3 @@
+Decidability of Weak Simulation on One-counter Nets
+
+One-counter nets (OCN) are Petri nets with exactly one unbounded place. They are equivalent to a subclass of one-counter automata with only a weak test for zero. We show that weak simulation preorder is decidable for OCN and that weak simulation approximants do not converge at level omega, but only at omega^2. In contrast, other semantic relations like weak bisimulation are undecidable for OCN, and so are weak (and strong) trace inclusion.

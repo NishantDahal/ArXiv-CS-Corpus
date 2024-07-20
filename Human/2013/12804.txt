@@ -1,0 +1,6 @@
+Upper semicomputable sumtests for lower semicomputable semimeasures
+
+A sumtest for a discrete semimeasure $P$ is a function $f$ mapping bitstrings to non-negative rational numbers such that \[
+  \sum P(x)f(x) \le 1 \,.
+  \] Sumtests are the discrete analogue of Martin-Löf tests. The behavior of sumtests for computable $P$ seems well understood, but for some applications lower semicomputable $P$ seem more appropriate. In the case of tests for independence, it is natural to consider upper semicomputable tests (see [B.Bauwens and S.Terwijn, Theory of Computing Systems 48.2 (2011): 247-268]).
+  In this paper, we characterize upper semicomputable sumtests relative to any lower semicomputable semimeasures using Kolmogorov complexity. It is studied to what extend such tests are pathological: can upper semicomputable sumtests for $m(x)$ be large? It is shown that the logarithm of such tests does not exceed $\log |x| + O(\log^{(2)} |x|)$ (where $|x|$ denotes the length of $x$ and $\log^{(2)} = \log\log$) and that this bound is tight, i.e. there is a test whose logarithm exceeds $\log |x| - O(\log^{(2)} |x|$) infinitely often. Finally, it is shown that for each such test $e$ the mutual information of a string with the Halting problem is at least $\log e(x)-O(1)$; thus $e$ can only be large for ``exotic'' strings.

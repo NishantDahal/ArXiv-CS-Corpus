@@ -1,0 +1,3 @@
+Reversible Barbed Congruence on Configuration Structures
+
+A standard contextual equivalence for process algebras is strong barbed congruence. Configuration structures are a denotational semantics for processes in which one can define equivalences that are more discriminating, i.e. that distinguish the denotation of terms equated by barbed congruence. Hereditary history preserving bisimulation (HHPB) is such a relation. We define a strong back and forth barbed congruence using a reversible process algebra and show that the relation induced by the back and forth congruence is equivalent to HHPB, providing a contextual characterization of HHPB.

@@ -1,0 +1,3 @@
+THORS: An Efficient Approach for Making Classifiers Cost-sensitive
+
+In this paper, we propose an effective THresholding method based on ORder Statistic, called THORS, to convert an arbitrary scoring-type classifier, which can induce a continuous cumulative distribution function of the score, into a cost-sensitive one. The procedure, uses order statistic to find an optimal threshold for classification, requiring almost no knowledge of classifiers itself. Unlike common data-driven methods, we analytically show that THORS has theoretical guaranteed performance, theoretical bounds for the costs and lower time complexity. Coupled with empirical results on several real-world data sets, we argue that THORS is the preferred cost-sensitive technique.

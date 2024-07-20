@@ -1,0 +1,3 @@
+Dependability Analysis of Control Systems using SystemC and Statistical Model Checking
+
+Stochastic Petri nets are commonly used for modeling distributed systems in order to study their performance and dependability. This paper proposes a realization of stochastic Petri nets in SystemC for modeling large embedded control systems. Then statistical model checking is used to analyze the dependability of the constructed model. Our verification framework allows users to express a wide range of useful properties to be verified which is illustrated through a case study.

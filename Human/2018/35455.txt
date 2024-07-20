@@ -1,0 +1,3 @@
+Spoofing PRNU Patterns of Iris Sensors while Preserving Iris Recognition
+
+The principle of Photo Response Non-Uniformity (PRNU) is used to link an image with its source, i.e., the sensor that produced it. In this work, we investigate if it is possible to modify an iris image acquired using one sensor in order to spoof the PRNU noise pattern of a different sensor. In this regard, we develop an image perturbation routine that iteratively modifies blocks of pixels in the original iris image such that its PRNU pattern approaches that of a target sensor. Experiments indicate the efficacy of the proposed perturbation method in spoofing PRNU patterns present in an iris image whilst still retaining its biometric content.

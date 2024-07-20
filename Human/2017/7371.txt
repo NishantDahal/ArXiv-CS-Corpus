@@ -1,0 +1,3 @@
+Inverse Fractional Knapsack Problem with Profits and Costs Modification
+
+We address in this paper the problem of modifying both profits and costs of a fractional knapsack problem optimally such that a prespecified solution becomes an optimal solution with prespect to new parameters. This problem is called the inverse fractional knapsack problem. Concerning the $l_1$-norm, we first prove that the problem is NP-hard. The problem can be however solved in quadratic time if we only modify profit parameters. Additionally, we develop a quadratic-time algorithm that solves the inverse fractional knapsack problem under $l_\infty$-norm.

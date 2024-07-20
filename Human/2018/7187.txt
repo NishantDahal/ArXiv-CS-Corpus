@@ -1,0 +1,3 @@
+Stock-out Prediction in Multi-echelon Networks
+
+In multi-echelon inventory systems the performance of a given node is affected by events that occur at many other nodes and in many other time periods. For example, a supply disruption upstream will have an effect on downstream, customer-facing nodes several periods later as the disruption "cascades" through the system. There is very little research on stock-out prediction in single-echelon systems and (to the best of our knowledge) none on multi-echelon systems. However, in real the world, it is clear that there is significant interest in techniques for this sort of stock-out prediction. Therefore, our research aims to fill this gap by using deep neural networks (DNN) to predict stock-outs in multi-echelon supply chains.

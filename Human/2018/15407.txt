@@ -1,0 +1,3 @@
+Utility-Energy Efficiency Oriented User Association with Power Control in Heterogeneous Networks
+
+This letter investigates optimizing utility-energy efficiency (UEE), defined as the achieved network utility when consuming a unit of power, rather than a typical energy efficiency metric, in a heterogeneous network (HetNet). To tackle the nonconvexity of the problem due to integer constraints and coupled variables, we devise an alternating optimization algorithm. It applies Lagrangian dual analysis with auxiliary variables, which successfully transforms each subproblem to a convex one with efficient solutions. The proposed algorithm is consequently guaranteed to converge to a local optimum with noticeable performance gain via simulation verifications.

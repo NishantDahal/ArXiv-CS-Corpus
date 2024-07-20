@@ -1,0 +1,3 @@
+Computing the Depth of a Flat
+
+We give algorithms for computing the regression depth of a k-flat for a set of n points in R^d. The running time is O(n^(d-2) + n log n) when 0 < k < d-1, faster than the best time bound for hyperplane regression or for data depth.

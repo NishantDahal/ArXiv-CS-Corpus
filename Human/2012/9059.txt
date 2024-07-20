@@ -1,0 +1,3 @@
+Root finding with threshold circuits
+
+We show that for any constant d, complex roots of degree d univariate rational (or Gaussian rational) polynomials---given by a list of coefficients in binary---can be computed to a given accuracy by a uniform TC^0 algorithm (a uniform family of constant-depth polynomial-size threshold circuits). The basic idea is to compute the inverse function of the polynomial by a power series. We also discuss an application to the theory VTC^0 of bounded arithmetic.

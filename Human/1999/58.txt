@@ -1,0 +1,3 @@
+Perpetual Adaptation of Software to Hardware: An Extensible Architecture for Providing Code Optimization as a Central System Service
+
+We present an open architecture for just-in-time code generation and dynamic code optimization that is flexible, customizable, and extensible. While previous research has primarily investigated functional aspects of such a system, architectural aspects have so far remained unexplored. In this paper, we argue that these properties are important to generate optimal code for a variety of hardware architectures and different processor generations within processor families. These properties are also important to make system-level code generation useful in practice.

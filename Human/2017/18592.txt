@@ -1,0 +1,4 @@
+Trading Bounds for Memory in Games with Counters
+
+We study two-player games with counters, where the objective of the first player is that the counter values remain bounded. We investigate the existence of a trade-off between the size of the memory and the bound achieved on the counters, which has been conjectured by Colcombet and Loeding.
+  We show that unfortunately this conjecture does not hold: there is no trade-off between bounds and memory, even for finite arenas. On the positive side, we prove the existence of a trade-off for the special case of thin tree arenas. This allows to extend the theory of regular cost functions over thin trees, and obtain as a corollary the decidability of cost monadic second-order logic over thin trees.

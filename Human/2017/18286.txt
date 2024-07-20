@@ -1,0 +1,4 @@
+5-DoF Monocular Visual Localization Over Grid Based Floor
+
+Reliable localization is one of the most important parts of an MAV system. Localization in an indoor GPS-denied environment is a relatively difficult problem. Current vision based algorithms track optical features to calculate odometry. We present a novel localization method which can be applied in an environment having orthogonal sets of equally spaced lines to form a grid. With the help of a monocular camera and using the properties of the grid-lines below, the MAV is localized inside each sub-cell of the grid and consequently over the entire grid for a relative localization over the grid.
+  We demonstrate the effectiveness of our system onboard a customized MAV platform. The experimental results show that our method provides accurate 5-DoF localization over grid lines and it can be performed in real-time.

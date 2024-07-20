@@ -1,0 +1,3 @@
+A Framework for Estimating Stream Expression Cardinalities
+
+Given $m$ distributed data streams $A_1, \dots, A_m$, we consider the problem of estimating the number of unique identifiers in streams defined by set expressions over $A_1, \dots, A_m$. We identify a broad class of algorithms for solving this problem, and show that the estimators output by any algorithm in this class are perfectly unbiased and satisfy strong variance bounds. Our analysis unifies and generalizes a variety of earlier results in the literature. To demonstrate its generality, we describe several novel sampling algorithms in our class, and show that they achieve a novel tradeoff between accuracy, space usage, update speed, and applicability.

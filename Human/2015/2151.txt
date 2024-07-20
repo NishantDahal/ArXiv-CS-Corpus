@@ -1,0 +1,3 @@
+An Algorithm for Online K-Means Clustering
+
+This paper shows that one can be competitive with the k-means objective while operating online. In this model, the algorithm receives vectors v_1,...,v_n one by one in an arbitrary order. For each vector the algorithm outputs a cluster identifier before receiving the next one. Our online algorithm generates ~O(k) clusters whose k-means cost is ~O(W*). Here, W* is the optimal k-means cost using k clusters and ~O suppresses poly-logarithmic factors. We also show that, experimentally, it is not much worse than k-means++ while operating in a strictly more constrained computational model.

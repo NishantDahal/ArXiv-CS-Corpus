@@ -1,0 +1,3 @@
+Gaussian Affine Feature Detector
+
+A new method is proposed to get image features' geometric information. Using Gaussian as an input signal, a theoretical optimal solution to calculate feature's affine shape is proposed. Based on analytic result of a feature model, the method is different from conventional iterative approaches. From the model, feature's parameters such as position, orientation, background luminance, contrast, area and aspect ratio can be extracted. Tested with synthesized and benchmark data, the method achieves or outperforms existing approaches in term of accuracy, speed and stability. The method can detect small, long or thin objects precisely, and works well under general conditions, such as for low contrast, blurred or noisy images.

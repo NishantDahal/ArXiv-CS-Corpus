@@ -1,0 +1,3 @@
+Meta SOS - A Maude Based SOS Meta-Theory Framework
+
+Meta SOS is a software framework designed to integrate the results from the meta-theory of structural operational semantics (SOS). These results include deriving semantic properties of language constructs just by syntactically analyzing their rule-based definition, as well as automatically deriving sound and ground-complete axiomatizations for languages, when considering a notion of behavioural equivalence. This paper describes the Meta SOS framework by blending aspects from the meta-theory of SOS, details on their implementation in Maude, and running examples.

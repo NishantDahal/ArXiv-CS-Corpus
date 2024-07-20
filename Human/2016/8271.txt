@@ -1,0 +1,3 @@
+Inferring Covariances for Probabilistic Programs
+
+We study weakest precondition reasoning about the (co)variance of outcomes and the variance of run-times of probabilistic programs with conditioning. For outcomes, we show that approximating (co)variances is computationally more difficult than approximating expected values. In particular, we prove that computing both lower and upper bounds for (co)variances is $Σ^{0}_{2}$-complete. As a consequence, neither lower nor upper bounds are computably enumerable. We therefore present invariant-based techniques that do enable enumeration of both upper and lower bounds, once appropriate invariants are found. Finally, we extend this approach to reasoning about run-time variances.

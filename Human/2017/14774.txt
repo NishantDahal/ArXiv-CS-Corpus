@@ -1,0 +1,3 @@
+Reweighted Low-Rank Tensor Completion and its Applications in Video Recovery
+
+This paper focus on recovering multi-dimensional data called tensor from randomly corrupted incomplete observation. Inspired by reweighted $l_1$ norm minimization for sparsity enhancement, this paper proposes a reweighted singular value enhancement scheme to improve tensor low tubular rank in the tensor completion process. An efficient iterative decomposition scheme based on t-SVD is proposed which improves low-rank signal recovery significantly. The effectiveness of the proposed method is established by applying to video completion problem, and experimental results reveal that the algorithm outperforms its counterparts.

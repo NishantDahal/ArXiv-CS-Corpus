@@ -1,0 +1,3 @@
+Comparison of Reinforcement Learning algorithms applied to the Cart Pole problem
+
+Designing optimal controllers continues to be challenging as systems are becoming complex and are inherently nonlinear. The principal advantage of reinforcement learning (RL) is its ability to learn from the interaction with the environment and provide optimal control strategy. In this paper, RL is explored in the context of control of the benchmark cartpole dynamical system with no prior knowledge of the dynamics. RL algorithms such as temporal-difference, policy gradient actor-critic, and value function approximation are compared in this context with the standard LQR solution. Further, we propose a novel approach to integrate RL and swing-up controllers.

@@ -1,0 +1,3 @@
+Optimality of Linear Sketching under Modular Updates
+
+We study the relation between streaming algorithms and linear sketching algorithms, in the context of binary updates. We show that for inputs in $n$ dimensions, the existence of efficient streaming algorithms which can process $Ω(n^2)$ updates implies efficient linear sketching algorithms with comparable cost. This improves upon the previous work of Li, Nguyen and Woodruff [LNW14] and Ai, Hu, Li and Woodruff [AHLW16] which required a triple-exponential number of updates to achieve a similar result for updates over integers. We extend our results to updates modulo $p$ for integers $p \ge 2$, and to approximation instead of exact computation.

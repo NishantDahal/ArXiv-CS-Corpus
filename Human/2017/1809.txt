@@ -1,0 +1,3 @@
+Beyond-Regular Typestate
+
+We present an extension for regular typestates, called Beyond- Regular Typestate(BR-Typestate), which is expressive enough to model non-regular properties of programs and protocols over data. We model the BR-Typestate system over a dependently typed, state based, impera- tive core language, and we prove its soundness and tractability. We have implemented a prototype typechecker for the language, and we show how several important, real world non-regular properties of programs and protocols can be verified.

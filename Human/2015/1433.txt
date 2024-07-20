@@ -1,0 +1,3 @@
+A provably convergent alternating minimization method for mean field inference
+
+Mean-Field is an efficient way to approximate a posterior distribution in complex graphical models and constitutes the most popular class of Bayesian variational approximation methods. In most applications, the mean field distribution parameters are computed using an alternate coordinate minimization. However, the convergence properties of this algorithm remain unclear. In this paper, we show how, by adding an appropriate penalization term, we can guarantee convergence to a critical point, while keeping a closed form update at each step. A convergence rate estimate can also be derived based on recent results in non-convex optimization.

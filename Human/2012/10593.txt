@@ -1,0 +1,3 @@
+Multiclass Diffuse Interface Models for Semi-Supervised Learning on Graphs
+
+We present a graph-based variational algorithm for multiclass classification of high-dimensional data, motivated by total variation techniques. The energy functional is based on a diffuse interface model with a periodic potential. We augment the model by introducing an alternative measure of smoothness that preserves symmetry among the class labels. Through this modification of the standard Laplacian, we construct an efficient multiclass method that allows for sharp transitions between classes. The experimental results demonstrate that our approach is competitive with the state of the art among other graph-based algorithms.

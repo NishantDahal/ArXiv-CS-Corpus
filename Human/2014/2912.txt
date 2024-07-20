@@ -1,0 +1,3 @@
+Saving Energy in Mobile Devices for On-Demand Multimedia Streaming -- A Cross-Layer Approach
+
+This paper proposes a novel energy-efficient multimedia delivery system called EStreamer. First, we study the relationship between buffer size at the client, burst-shaped TCP-based multimedia traffic, and energy consumption of wireless network interfaces in smartphones. Based on the study, we design and implement EStreamer for constant bit rate and rate-adaptive streaming. EStreamer can improve battery lifetime by 3x, 1.5x and 2x while streaming over Wi-Fi, 3G and 4G respectively.

@@ -1,0 +1,5 @@
+3D model silhouette-based tracking in depth images for puppet suit dynamic video-mapping
+
+Video-mapping is the process of coherent video-projection of images, animations or movies on static objects or buildings for shows. This paper focuses on the dynamic video-mapping of the suit of a puppet being moved by its puppeteer on the theater stage. This may allow changing the costume dynamically and simulate light interaction and more.
+  Contrary to common video-mapping, the image warping cannot be done once, offline, before the show. It must be done in real-time, and considering a non-flat projection surface, so that the video-projected suit always maps perfectly the puppet, automatically.
+  Hence, we propose a new visual tracking method of articulated object, for the puppet tracking, exploiting the silhouette of a 3D model of it, in the depth images of a Kinect v2. Then, considering the precise calibration between the latter and the video-projector, that we propose, coherent dynamic video-mapping is made possible as the presented results show.

@@ -1,0 +1,4 @@
+Local Optimality Certificates for LP Decoding of Tanner Codes
+
+We present a new combinatorial characterization for local optimality of a codeword in an irregular Tanner code. The main novelty in this characterization is that it is based on a linear combination of subtrees in the computation trees. These subtrees may have any degree in the local code nodes and may have any height (even greater than the girth). We expect this new characterization to lead to improvements in bounds for successful decoding.
+  We prove that local optimality in this new characterization implies ML-optimality and LP-optimality, as one would expect. Finally, we show that is possible to compute efficiently a certificate for the local optimality of a codeword given an LLR vector.

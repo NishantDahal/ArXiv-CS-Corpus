@@ -1,0 +1,3 @@
+Efficiently Retrieving Function Dependencies in the Linux Kernel Using XSB
+
+In this paper we investigate XSB-Prolog as a static analysis engine for data represented by medium-sized graphs. We use XSB-Prolog to automatically identify function dependencies in the Linux Kernel---queries that are difficult to implement efficiently in a commodity database and that developers often have to identify manually. This project illustrates that Prolog systems are ideal for building tools for use in other disciplines that require sophisticated inferences, because Prolog is both declarative and can efficiently implement complex problem specifications through tabling and indexing.

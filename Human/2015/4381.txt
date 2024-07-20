@@ -1,0 +1,3 @@
+Tractable Query Answering and Optimization for Extensions of Weakly-Sticky Datalog+-
+
+We consider a semantic class, weakly-chase-sticky (WChS), and a syntactic subclass, jointly-weakly-sticky (JWS), of Datalog+- programs. Both extend that of weakly-sticky (WS) programs, which appear in our applications to data quality. For WChS programs we propose a practical, polynomial-time query answering algorithm (QAA). We establish that the two classes are closed under magic-sets rewritings. As a consequence, QAA can be applied to the optimized programs. QAA takes as inputs the program (including the query) and semantic information about the "finiteness" of predicate positions. For the syntactic subclasses JWS and WS of WChS, this additional information is computable.

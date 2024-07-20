@@ -1,0 +1,3 @@
+Efficient linear feedback shift registers with maximal period
+
+We introduce and analyze an efficient family of linear feedback shift registers (LFSR's) with maximal period. This family is word-oriented and is suitable for implementation in software, thus provides a solution to a recent challenge posed in FSE '94. The classical theory of LFSR's is extended to provide efficient algorithms for generation of irreducible and primitive LFSR's of this new type.

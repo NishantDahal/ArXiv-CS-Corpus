@@ -1,0 +1,3 @@
+Numerically robust computation of circular visibility
+
+We address the question of whether a point inside a domain bounded by a simple closed arc spline is circularly visible from a specified arc from the boundary. We provide a simple and numerically stable linear time algorithm that solves this problem. In particular, we present an easy-to-check criterion that implies that a point is not visible from a specified boundary arc.

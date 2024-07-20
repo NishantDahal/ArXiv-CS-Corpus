@@ -1,0 +1,3 @@
+Perceptual audio loss function for deep learning
+
+PESQ and POLQA , are standards are standards for automated assessment of voice quality of speech as experienced by human beings. The predictions of those objective measures should come as close as possible to subjective quality scores as obtained in subjective listening tests. Wavenet is a deep neural network originally developed as a deep generative model of raw audio wave-forms. Wavenet architecture is based on dilated causal convolutions, which exhibit very large receptive fields. In this short paper we suggest using the Wavenet architecture, in particular its large receptive filed in order to learn PESQ algorithm. By doing so we can use it as a differentiable loss function for speech enhancement.

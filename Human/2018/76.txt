@@ -1,0 +1,3 @@
+Links: A High-Dimensional Online Clustering Method
+
+We present a novel algorithm, called Links, designed to perform online clustering on unit vectors in a high-dimensional Euclidean space. The algorithm is appropriate when it is necessary to cluster data efficiently as it streams in, and is to be contrasted with traditional batch clustering algorithms that have access to all data at once. For example, Links has been successfully applied to embedding vectors generated from face images or voice recordings for the purpose of recognizing people, thereby providing real-time identification during video or audio capture.

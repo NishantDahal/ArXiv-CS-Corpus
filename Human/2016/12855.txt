@@ -1,0 +1,3 @@
+Two-Buffer Simulation Games
+
+We consider simulation games played between Spoiler and Duplicator on two Buchi automata in which the choices made by Spoiler can be buffered by Duplicator in two different buffers before she executes them on her structure. Previous work on such games using a single buffer has shown that they are useful to approximate language inclusion problems. We study the decidability and complexity and show that games with two buffers can be used to approximate corresponding problems on finite transducers, i.e. the inclusion problem for rational relations over infinite words.

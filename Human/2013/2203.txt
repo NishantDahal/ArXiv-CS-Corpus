@@ -1,0 +1,3 @@
+Optimal Dynamic Sequence Representations
+
+We describe a data structure that supports access, rank and select queries, as well as symbol insertions and deletions, on a string $S[1,n]$ over alphabet $[1..σ]$ in time $O(\lg n/\lg\lg n)$, which is optimal even on binary sequences and in the amortized sense. Our time is worst-case for the queries and amortized for the updates. This complexity is better than the best previous ones by a $Θ(1+\lgσ/\lg\lg n)$ factor. We also design a variant where times are worst-case, yet rank and updates take $O(\lg n)$ time. Our structure uses $nH_0(S)+o(n\lgσ) + O(σ\lg n)$ bits, where $H_0(S)$ is the zero-order entropy of $S$. Finally, we pursue various extensions and applications of the result.

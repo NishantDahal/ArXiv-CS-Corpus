@@ -1,0 +1,5 @@
+Unbiased Black-Box Complexities of Jump Functions
+
+We analyze the unbiased black-box complexity of jump functions with small, medium, and large sizes of the fitness plateau surrounding the optimal solution.
+  Among other results, we show that when the jump size is $(1/2 - \varepsilon)n$, that is, only a small constant fraction of the fitness values is visible, then the unbiased black-box complexities for arities $3$ and higher are of the same order as those for the simple \textsc{OneMax} function. Even for the extreme jump function, in which all but the two fitness values $n/2$ and $n$ are blanked out, polynomial-time mutation-based (i.e., unary unbiased) black-box optimization algorithms exist. This is quite surprising given that for the extreme jump function almost the whole search space (all but a $Θ(n^{-1/2})$ fraction) is a plateau of constant fitness.
+  To prove these results, we introduce new tools for the analysis of unbiased black-box complexities, for example, selecting the new parent individual not by comparing the fitnesses of the competing search points, but also by taking into account the (empirical) expected fitnesses of their offspring.

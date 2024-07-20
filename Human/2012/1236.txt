@@ -1,0 +1,3 @@
+A Compression Algorithm Using Mis-aligned Side-information
+
+We study the problem of compressing a source sequence in the presence of side-information that is related to the source via insertions, deletions and substitutions. We propose a simple algorithm to compress the source sequence when the side-information is present at both the encoder and decoder. A key attribute of the algorithm is that it encodes the edits contained in runs of different extents separately. For small insertion and deletion probabilities, the compression rate of the algorithm is shown to be asymptotically optimal.

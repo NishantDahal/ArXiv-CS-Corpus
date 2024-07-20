@@ -1,0 +1,3 @@
+Path Throughput Importance Weights
+
+Many Monte Carlo light transport simulations use multiple importance sampling (MIS) to weight between different path sampling strategies. We propose to use the path throughput to compute the MIS weights instead of the commonly used probability density per area measure. This new formulation is equivalent to the previous approach and results in the same weights as well as implementation. However, it is more intuitive and can help in understanding the effects of modifications to the weight function. We show some examples of required modifications which are often neglected in implementations. Also, our new perspective might help to derive MIS strategies for new samplers in the future.

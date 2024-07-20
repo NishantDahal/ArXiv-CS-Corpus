@@ -1,0 +1,3 @@
+Super-resolving multiresolution images with band-independant geometry of multispectral pixels
+
+A new resolution enhancement method is presented for multispectral and multi-resolution images, such as these provided by the Sentinel-2 satellites. Starting from the highest resolution bands, band-dependent information (reflectance) is separated from information that is common to all bands (geometry of scene elements). This model is then applied to unmix low-resolution bands, preserving their reflectance, while propagating band-independent information to preserve the sub-pixel details. A reference implementation is provided, with an application example for super-resolving Sentinel-2 data.

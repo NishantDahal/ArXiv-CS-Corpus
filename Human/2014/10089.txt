@@ -1,0 +1,3 @@
+Improving files availability for BitTorrent using a diffusion model
+
+The BitTorrent mechanism effectively spreads file fragments by copying the rarest fragments first. We propose to apply a mathematical model for the diffusion of fragments on a P2P in order to take into account both the effects of peer distances and the changing availability of peers while time goes on. Moreover, we manage to provide a forecast on the availability of a torrent thanks to a neural network that models the behaviour of peers on the P2P system. The combination of the mathematical model and the neural network provides a solution for choosing file fragments that need to be copied first, in order to ensure their continuous availability, counteracting possible disconnections by some peers.

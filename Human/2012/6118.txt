@@ -1,0 +1,3 @@
+Generation of Efficient Key Bit-Streams Using Sparse Matrix-Vector Multiplication
+
+The contribution of Stream ciphers to cryptography is immense. For fast encryption, stream ciphers are preferred to block ciphers due to their XORing operation, which is easier and faster to implement. In this paper we present a matrix based stream cipher, in which a m x n binary matrix single handedly performs the work of m parallel LFSRs. The resistivity of the proposed stream cipher to various possible attacks are analyzed. Interestingly the output of the matrix multiplication can otherwise be used as a parallel bit/byte generator, useful for encrypting video streams.

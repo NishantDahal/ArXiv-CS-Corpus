@@ -1,0 +1,3 @@
+Convex Language Semantics for Nondeterministic Probabilistic Automata
+
+We explore language semantics for automata combining probabilistic and nondeterministic behavior. We first show that there are precisely two natural semantics for probabilistic automata with nondeterminism. For both choices, we show that these automata are strictly more expressive than deterministic probabilistic automata, and we prove that the problem of checking language equivalence is undecidable by reduction from the threshold problem. However, we provide a discounted metric that can be computed to arbitrarily high precision.

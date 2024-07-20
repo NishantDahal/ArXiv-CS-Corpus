@@ -1,0 +1,3 @@
+On Streaming Algorithms for the Steiner Cycle and Path Cover Problem on Interval Graphs and Falling Platforms in Video Games
+
+We introduce a simplified model for platform game levels with falling platforms based on interval graphs and show that solvability of such levels corresponds to finding Steiner cycles or Steiner paths in the corresponding graphs. Linear time algorithms are obtained for both of these problems. We also study these algorithms as streaming algorithms and analyze the necessary memory with respect to the maximum number of intervals contained in another interval. This corresponds to understanding which parts of a level have to be visible at each point to allow the player to make optimal deterministic decisions.

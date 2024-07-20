@@ -1,0 +1,3 @@
+Faster Approximation for Maximum Independent Set on Unit Disk Graph
+
+Maximum independent set from a given set $D$ of unit disks intersecting a horizontal line can be solved in $O(n^2)$ time and $O(n^2)$ space. As a corollary, we design a factor 2 approximation algorithm for the maximum independent set problem on unit disk graph which takes both time and space of $O(n^2)$. The best known factor 2 approximation algorithm for this problem runs in $O(n^2 \log n)$ time and takes $O(n^2)$ space [Jallu and Das 2016, Das et al. 2016].

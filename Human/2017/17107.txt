@@ -1,0 +1,4 @@
+A Note on Logarithmic Space Stream Algorithms for Matchings in Low Arboricity Graphs
+
+We present a data stream algorithm for estimating the size of the maximum matching of a low arboricity graph. Recall that a graph has arboricity $α$ if its edges can be partitioned into at most $α$ forests and that a planar graph has arboricity $α=3$. Estimating the size of the maximum matching in such graphs has been a focus of recent data stream research.
+  A surprising result on this problem was recently proved by Cormode et al. They designed an ingenious algorithm that returned a $(22.5α+6)(1+ε)$ approximation using a single pass over the edges of the graph (ordered arbitrarily) and $O(ε^{-2}α\cdot \log n \cdot \log_{1+ε} n)$ space. In this note, we improve the approximation factor to $(α+2)(1+ε)$ via a tighter analysis and show that, with a modification of their algorithm, the space required can be reduced to $O(ε^{-2} \log n)$.

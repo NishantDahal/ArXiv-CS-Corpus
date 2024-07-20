@@ -1,0 +1,3 @@
+A Generic Analysis Environment for Curry Programs
+
+We present CurryBrowser, a generic analysis environment for the declarative multi-paradigm language Curry. CurryBrowser supports browsing through the program code of an application written in Curry, i.e., the main module and all directly or indirectly imported modules. Each module can be shown in different formats (e.g., source code, interface, intermediate code) and, inside each module, various properties of functions defined in this module can be analyzed. In order to support the integration of various program analyses, CurryBrowser has a generic interface to connect local and global analyses implemented in Curry. CurryBrowser is completely implemented in Curry using libraries for GUI programming and meta-programming.

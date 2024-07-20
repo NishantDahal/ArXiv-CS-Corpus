@@ -1,0 +1,3 @@
+Checkbochs: Use Hardware to Check Software
+
+In this paper, we present a system called Checkbochs, a machine simulator that checks rules about its guest operating system and applications at the hardware level. The properties to be checked can be implemented as `plugins' in the Checkbochs simulator. Some of the properties that were checked using Checkbochs include null-pointer checks, format-string vulnerabilities, user/kernel pointer checks, and race-conditions. On implementing these checks, we were able to uncover previously-unknown bugs in widely used Linux distributions. We also tested our tools on undergraduate coursework, and found numerous bugs.

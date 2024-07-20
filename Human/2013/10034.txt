@@ -1,0 +1,3 @@
+Stanley-Wilf limits are typically exponential
+
+For a permutation $π$, let $S_{n}(π)$ be the number of permutations on $n$ letters avoiding $π$. Marcus and Tardos proved the celebrated Stanley-Wilf conjecture that $L(π)= \lim_{n \to \infty} S_n(π)^{1/n}$ exists and is finite. Backed by numerical evidence, it has been conjectured by many researchers over the years that $L(π)=Θ(k^2)$ for every permutation $π$ on $k$ letters. We disprove this conjecture, showing that $L(π)=2^{k^{Θ(1)}}$ for almost all permutations $π$ on $k$ letters.

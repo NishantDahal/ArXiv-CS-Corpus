@@ -1,0 +1,7 @@
+Java Modular Extension for Operator Overloading
+
+The paper introduces a modular extension (plugin) for Java language compilers and Integrated Development Environments (IDE) which adds operator overloading feature to Java language while preserving backward compatibility.
+  The extension use the idea of library-based language extensibility similar to SugarJ. But unlike most language extensions, it works directly inside the compiler and does not have any external preprocessors. This gives much faster compilation, better language compatibility and support of native developer tools (IDE, build tools).
+  The extension plugs into javac and Eclipse Java compilers as well as in all tools whose use the compilers such as IDEs (Netbeans, Eclipse, IntelliJ IDEA), build tools (ant, maven, gradle), etc. No compiler, IDE, build tools modification needed. Just add a jar library to classpath and/or install a plugin to your IDE.
+  The paper also discuss on how to build such Java compiler extensions.
+  The extension source code is open on http://amelentev.github.io/java-oo/

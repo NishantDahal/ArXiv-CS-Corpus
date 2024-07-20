@@ -1,0 +1,3 @@
+Detecting Useless Transitions in Pushdown Automata
+
+Pushdown automata may contain transitions that are never used in any accepting run of the automaton. We present an algorithm for detecting such useless transitions. A finite automaton that captures the possible stack content during runs of the pushdown automaton, is first constructed in a forward procedure to determine which transitions are reachable, and then employed in a backward procedure to determine which of these transitions can lead to a final stat

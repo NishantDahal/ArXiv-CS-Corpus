@@ -1,0 +1,3 @@
+Endgame Analysis of Dou Shou Qi
+
+Dou Shou Qi is a game in which two players control a number of pieces, each of them aiming to move one of their pieces onto a given square. We implemented an engine for analyzing the game. Moreover, we created a series of endgame tablebases containing all configurations with up to four pieces. These tablebases are the first steps towards theoretically solving the game. Finally, we constructed decision trees based on the endgame tablebases. In this note we report on some interesting patterns.

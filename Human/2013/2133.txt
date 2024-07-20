@@ -1,0 +1,3 @@
+Counting CTL
+
+This paper presents a range of quantitative extensions for the temporal logic CTL. We enhance temporal modalities with the ability to constrain the number of states satisfying certain sub-formulas along paths. By selecting the combinations of Boolean and arithmetic operations allowed in constraints, one obtains several distinct logics generalizing CTL. We provide a thorough analysis of their expressiveness and succinctness, and of the complexity of their model-checking and satisfiability problems (ranging from P-complete to undecidable). Finally, we present two alternative logics with similar features and provide a comparative study of the properties of both variants.

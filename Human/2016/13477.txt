@@ -1,0 +1,3 @@
+Keyless authentication in the presence of a simultaneously transmitting adversary
+
+If Alice must communicate with Bob over a channel shared with the adversarial Eve, then Bob must be able to validate the authenticity of the message. In particular we consider the model where Alice and Eve share a discrete memoryless multiple access channel with Bob, thus allowing simultaneous transmissions from Alice and Eve. By traditional random coding arguments, we demonstrate an inner bound on the rate at which Alice may transmit, while still granting Bob the ability to authenticate. Furthermore this is accomplished in spite of Alice and Bob lacking a pre-shared key, as well as allowing Eve prior knowledge of both the codebook Alice and Bob share and the messages Alice transmits.

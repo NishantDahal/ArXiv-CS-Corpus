@@ -1,0 +1,3 @@
+Automatic skin lesion segmentation on dermoscopic images by the means of superpixel merging
+
+We present a superpixel-based strategy for segmenting skin lesion on dermoscopic images. The segmentation is carried out by over-segmenting the original image using the SLIC algorithm, and then merge the resulting superpixels into two regions: healthy skin and lesion. The mean RGB color of each superpixel was used as merging criterion. The presented method is capable of dealing with segmentation problems commonly found in dermoscopic images such as hair removal, oil bubbles, changes in illumination, and reflections images without any additional steps. The method was evaluated on the PH2 and ISIC 2017 dataset with results comparable to the state-of-art.

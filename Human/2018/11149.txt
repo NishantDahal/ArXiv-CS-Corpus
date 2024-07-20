@@ -1,0 +1,3 @@
+Active Inference for Adaptive BCI: application to the P300 Speller
+
+Adaptive Brain-Computer interfaces (BCIs) have shown to improve performance, however a general and flexible framework to implement adaptive features is still lacking. We appeal to a generic Bayesian approach, called Active Inference (AI), to infer user's intentions or states and act in a way that optimizes performance. In realistic P300-speller simulations, AI outperforms traditional algorithms with an increase in bit rate between 18% and 59%, while offering a possibility of unifying various adaptive implementations within one generic framework.

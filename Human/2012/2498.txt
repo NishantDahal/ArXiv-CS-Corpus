@@ -1,0 +1,3 @@
+Optimizing I/O for Big Array Analytics
+
+Big array analytics is becoming indispensable in answering important scientific and business questions. Most analysis tasks consist of multiple steps, each making one or multiple passes over the arrays to be analyzed and generating intermediate results. In the big data setting, I/O optimization is a key to efficient analytics. In this paper, we develop a framework and techniques for capturing a broad range of analysis tasks expressible in nested-loop forms, representing them in a declarative way, and optimizing their I/O by identifying sharing opportunities. Experiment results show that our optimizer is capable of finding execution plans that exploit nontrivial I/O sharing opportunities with significant savings.

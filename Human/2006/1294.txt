@@ -1,0 +1,3 @@
+A type-based termination criterion for dependently-typed higher-order rewrite systems
+
+Several authors devised type-based termination criteria for ML-like languages allowing non-structural recursive calls. We extend these works to general rewriting and dependent types, hence providing a powerful termination criterion for the combination of rewriting and beta-reduction in the Calculus of Constructions.

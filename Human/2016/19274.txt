@@ -1,0 +1,3 @@
+Supercritical Space-Width Trade-offs for Resolution
+
+We show that there are CNF formulas which can be refuted in resolution in both small space and small width, but for which any small-width proof must have space exceeding by far the linear worst-case upper bound. This significantly strengthens the space-width trade-offs in [Ben-Sasson '09]}, and provides one more example of trade-offs in the "supercritical" regime above worst case recently identified by [Razborov '16]. We obtain our results by using Razborov's new hardness condensation technique and combining it with the space lower bounds in [Ben-Sasson and Nordstrom '08].

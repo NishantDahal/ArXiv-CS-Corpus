@@ -1,0 +1,3 @@
+Graph Subsumption in Abstract State Space Exploration
+
+In this paper we present the extension of an existing method for abstract graph-based state space exploration, called neighbourhood abstraction, with a reduction technique based on subsumption. Basically, one abstract state subsumes another when it covers more concrete states; in such a case, the subsumed state need not be included in the state space, thus giving a reduction. We explain the theory and especially also report on a number of experiments, which show that subsumption indeed drastically reduces both the state space and the resources (time and memory) needed to compute it.

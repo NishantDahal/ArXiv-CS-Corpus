@@ -1,0 +1,3 @@
+An Extension of Averaged-Operator-Based Algorithms
+
+Many of the algorithms used to solve minimization problems with sparsity-inducing regularizers are generic in the sense that they do not take into account the sparsity of the solution in any particular way. However, algorithms known as semismooth Newton are able to take advantage of this sparsity to accelerate their convergence. We show how to extend these algorithms in different directions, and study the convergence of the resulting algorithms by showing that they are a particular case of an extension of the well-known Krasnosel'skiĭ--Mann scheme.

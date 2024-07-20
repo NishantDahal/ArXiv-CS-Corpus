@@ -1,0 +1,3 @@
+On-the-fly Fast Mean-Field Model-Checking: Extended Version
+
+A novel, scalable, on-the-fly model-checking procedure is presented to verify bounded PCTL properties of selected individuals in the context of very large systems of independent interacting objects. The proposed procedure combines on-the-fly model checking techniques with deterministic mean-field approximation in discrete time. The asymptotic correctness of the procedure is shown and some results of the application of a prototype implementation of the FlyFast model-checker are presented.

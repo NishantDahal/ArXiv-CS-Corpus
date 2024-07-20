@@ -1,0 +1,7 @@
+Classification with High-Dimensional Sparse Samples
+
+The task of the binary classification problem is to determine which of two distributions has generated a length-$n$ test sequence. The two distributions are unknown; two training sequences of length $N$, one from each distribution, are observed. The distributions share an alphabet of size $m$, which is significantly larger than $n$ and $N$. How does $N,n,m$ affect the probability of classification error? We characterize the achievable error rate in a high-dimensional setting in which $N,n,m$ all tend to infinity, under the assumption that probability of any symbol is $O(m^{-1})$. The results are:
+  1. There exists an asymptotically consistent classifier if and only if $m=o(\min\{N^2,Nn\})$. This extends the previous consistency result in [1] to the case $N\neq n$.
+  2. For the sparse sample case where $\max\{n,N\}=o(m)$, finer results are obtained: The best achievable probability of error decays as $-\log(P_e)=J \min\{N^2, Nn\}(1+o(1))/m$ with $J>0$.
+  3. A weighted coincidence-based classifier has non-zero generalized error exponent $J$.
+  4. The $\ell_2$-norm based classifier has J=0.

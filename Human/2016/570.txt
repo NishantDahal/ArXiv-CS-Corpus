@@ -1,0 +1,3 @@
+Compressing combinatorial objects
+
+Most of the world's digital data is currently encoded in a sequential form, and compression methods for sequences have been studied extensively. However, there are many types of non-sequential data for which good compression techniques are still largely unexplored. This paper contributes insights and concrete techniques for compressing various kinds of non-sequential data via arithmetic coding, and derives re-usable probabilistic data models from fairly generic structural assumptions. Near-optimal compression methods are described for certain types of permutations, combinations and multisets; and the conditions for optimality are made explicit for each method.

@@ -1,0 +1,3 @@
+Partial Redundancy Elimination for Multi-threaded Programs
+
+Multi-threaded programs have many applications which are widely used such as operating systems. Analyzing multi-threaded programs differs from sequential ones; the main feature is that many threads execute at the same time. The effect of all other running threads must be taken in account. Partial redundancy elimination is among the most powerful compiler optimizations: it performs loop-invariant code motion and common subexpression elimination. We present a type system with optimization component which performs partial redundancy elimination for multi-threaded programs.

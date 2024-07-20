@@ -1,0 +1,4 @@
+A 3D Sweep Hull Algorithm for computing Convex Hulls and Delaunay Triangulation
+
+This paper presents a new O(nlog(n)) algorithm for computing the convex hull of a set of 3 dimensional points. The algorithm first sorts the point in (x,y,z) then incrementally adds sorted points to the convex hull using the constraint that each new point added to the hull can 'see' at least one facet touching the last point added. The reduces the search time for adding new points. The algorithm belongs to the family of swept hull algorithms.
+  While slower than q-hull for the general case it significantly outperforms q-hull for the pathological case where all of the points are on the 3D hull (as is the case for Delaunay triangulation). The algorithm has been named the 'Newton Apple Wrapper algorithm' and has been released under GPL in C++. keywords: Delaunay triangulation, 3D convex hull.

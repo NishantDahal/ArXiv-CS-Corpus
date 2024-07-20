@@ -1,0 +1,6 @@
+One-Way Trail Orientations
+
+Given a graph, does there exist an orientation of the edges such that the resulting directed graph is strongly connected?
+  Robbins' theorem [Robbins, Am. Math. Monthly, 1939] states that such an orientation exists if and only if the graph is $2$-edge connected. A natural extension of this problem is the following: Suppose that the edges of the graph is partitioned into trails. Can we orient the trails such that the resulting directed graph is strongly connected?
+  We show that $2$-edge connectivity is again a sufficient condition and we provide a linear time algorithm for finding such an orientation, which is both optimal and the first polynomial time algorithm for deciding this problem.
+  The generalised Robbins' theorem [Boesch, Am. Math. Monthly, 1980] for mixed multigraphs states that the undirected edges of a mixed multigraph can be oriented making the resulting directed graph strongly connected exactly when the mixed graph is connected and the underlying graph is bridgeless. We show that as long as all cuts have at least $2$ undirected edges or directed edges both ways, then there exists an orientation making the resulting directed graph strongly connected. This provides the first polynomial time algorithm for this problem and a very simple polynomial time algorithm to the previous problem.

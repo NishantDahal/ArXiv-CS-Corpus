@@ -1,0 +1,3 @@
+Fast calculation of inverse square root with the use of magic constant $-$ analytical approach
+
+We present a mathematical analysis of transformations used in fast calculation of inverse square root for single-precision floating-point numbers. Optimal values of the so called magic constants are derived in a systematic way, minimizing either absolute or relative errors at subsequent stages of the discussed algorithm.

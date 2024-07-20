@@ -1,0 +1,3 @@
+Hierarchical Video Understanding
+
+We introduce a hierarchical architecture for video understanding that exploits the structure of real world actions by capturing targets at different levels of granularity. We design the model such that it first learns simpler coarse-grained tasks, and then moves on to learn more fine-grained targets. The model is trained with a joint loss on different granularity levels. We demonstrate empirical results on the recent release of Something-Something dataset, which provides a hierarchy of targets, namely coarse-grained action groups, fine-grained action categories, and captions. Experiments suggest that models that exploit targets at different levels of granularity achieve better performance on all levels.

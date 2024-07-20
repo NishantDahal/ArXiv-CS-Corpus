@@ -1,0 +1,3 @@
+Multi-Hypothesis Compressed Video Sensing Technique
+
+In this paper, we present a compressive sampling and Multi-Hypothesis (MH) reconstruction strategy for video sequences which has a rather simple encoder, while the decoding system is not that complex. We introduce a convex cost function that incorporates the MH technique with the sparsity constraint and the Tikhonov regularization. Consequently, we derive a new iterative algorithm based on these criteria. This algorithm surpasses its counterparts (Elasticnet and Tikhonov) in the recovery performance. Besides it is computationally much faster than the Elasticnet and comparable to the Tikhonov. Our extensive simulation results confirm these claims.

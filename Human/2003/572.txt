@@ -1,0 +1,5 @@
+Reliable and Efficient Inference of Bayesian Networks from Sparse Data by Statistical Learning Theory
+
+To learn (statistical) dependencies among random variables requires exponentially large sample size in the number of observed random variables if any arbitrary joint probability distribution can occur.
+  We consider the case that sparse data strongly suggest that the probabilities can be described by a simple Bayesian network, i.e., by a graph with small in-degree Δ. Then this simple law will also explain further data with high confidence. This is shown by calculating bounds on the VC dimension of the set of those probability measures that correspond to simple graphs. This allows to select networks by structural risk minimization and gives reliability bounds on the error of the estimated joint measure without (in contrast to a previous paper) any prior assumptions on the set of possible joint measures.
+  The complexity for searching the optimal Bayesian networks of in-degree Δincreases only polynomially in the number of random varibales for constant Δand the optimal joint measure associated with a given graph can be found by convex optimization.

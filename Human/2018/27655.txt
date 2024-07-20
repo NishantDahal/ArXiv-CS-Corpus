@@ -1,0 +1,3 @@
+Image Super-Resolution Using VDSR-ResNeXt and SRCGAN
+
+Over the past decade, many Super Resolution techniques have been developed using deep learning. Among those, generative adversarial networks (GAN) and very deep convolutional networks (VDSR) have shown promising results in terms of HR image quality and computational speed. In this paper, we propose two approaches based on these two algorithms: VDSR-ResNeXt, which is a deep multi-branch convolutional network inspired by VDSR and ResNeXt; and SRCGAN, which is a conditional GAN that explicitly passes class labels as input to the GAN. The two methods were implemented on common SR benchmark datasets for both quantitative and qualitative assessment.

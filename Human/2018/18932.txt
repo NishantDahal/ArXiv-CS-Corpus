@@ -1,0 +1,3 @@
+Practical and Scalable Security Verification of Secure Architectures
+
+We present a new and practical framework for security verification of secure architectures. Specifically, we break the verification task into external verification and internal verification. External verification considers the external protocols, i.e. interactions between users, compute servers, network entities, etc. Meanwhile, internal verification considers the interactions between hardware and software components within each server. This verification framework is general-purpose and can be applied to a stand-alone server, or a large-scale distributed system. We evaluate our verification method on the CloudMonatt and HyperWall architectures as examples.

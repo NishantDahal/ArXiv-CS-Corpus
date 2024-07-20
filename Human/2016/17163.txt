@@ -1,0 +1,4 @@
+Dynamic Reductions for Model Checking Concurrent Software
+
+Symbolic model checking of parallel programs stands and falls with effective methods of dealing with the explosion of interleavings. We propose a dynamic reduction technique to avoid unnecessary interleavings. By extending Lipton's original work with a notion of bisimilarity, we accommodate dynamic transactions, and thereby reduce dependence on the accuracy of static analysis, which is a severe bottleneck in other reduction techniques.
+  The combination of symbolic model checking and dynamic reduction techniques has proven to be challenging in the past. Our generic reduction theorem nonetheless enables us to derive an efficient symbolic encoding, which we implemented for IC3 and BMC. The experiments demonstrate the power of dynamic reduction on several case studies and a large set of SVCOMP benchmarks.

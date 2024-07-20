@@ -1,0 +1,3 @@
+Analysis and Diversion of Duqu's Driver
+
+The propagation techniques and the payload of Duqu have been closely studied over the past year and it has been said that Duqu shared functionalities with Stuxnet. We focused on the driver used by Duqu during the infection, our contribution consists in reverse-engineering the driver: we rebuilt its source code and analyzed the mechanisms it uses to execute the payload while avoiding detection. Then we diverted the driver into a defensive version capable of detecting injections in Windows binaries, thus preventing further attacks. We specifically show how Duqu's modified driver would have detected Duqu.

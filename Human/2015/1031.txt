@@ -1,0 +1,6 @@
+Upper Tail Estimates with Combinatorial Proofs
+
+We study generalisations of a simple, combinatorial proof of a Chernoff bound similar to the one by Impagliazzo and Kabanets (RANDOM, 2010).
+  In particular, we prove a randomized version of the hitting property of expander random walks and apply it to obtain a concentration bound for expander random walks which is essentially optimal for small deviations and a large number of steps. At the same time, we present a simpler proof that still yields a "right" bound settling a question asked by Impagliazzo and Kabanets.
+  Next, we obtain a simple upper tail bound for polynomials with input variables in $[0, 1]$ which are not necessarily independent, but obey a certain condition inspired by Impagliazzo and Kabanets. The resulting bound is used by Holenstein and Sinha (FOCS, 2012) in the proof of a lower bound for the number of calls in a black-box construction of a pseudorandom generator from a one-way function.
+  We then show that the same technique yields the upper tail bound for the number of copies of a fixed graph in an Erdős-Rényi random graph, matching the one given by Janson, Oleszkiewicz and Ruciński (Israel J. Math, 2002).

@@ -1,0 +1,3 @@
+Ultra-Reliable and Low-Latency Vehicular Transmission: An Extreme Value Theory Approach
+
+Considering a Manhattan mobility model in vehicle-to-vehicle networks, this work studies a power minimization problem subject to second-order statistical constraints on latency and reliability, captured by a network-wide maximal data queue length. We invoke results in extreme value theory to characterize statistics of extreme events in terms of the maximal queue length. Subsequently, leveraging Lyapunov stochastic optimization to deal with network dynamics, we propose two queue-aware power allocation solutions. In contrast with the baseline, our approaches achieve lower mean and variance of the maximal queue length.

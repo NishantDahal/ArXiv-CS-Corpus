@@ -1,0 +1,3 @@
+A Formal Model of a Virtual Filesystem Switch
+
+This work presents a formal model that is part of our effort to construct a verified file system for Flash memory. To modularize the verification we factor out generic aspects into a common component that is inspired by the Linux Virtual Filesystem Switch (VFS) and provides POSIX compatible operations. It relies on an abstract specification of its internal interface to concrete file system implementations (AFS). We proved that preconditions of AFS are respected and that the state is kept consistent. The model can be made executable and mounted into the Linux directory tree using FUSE.

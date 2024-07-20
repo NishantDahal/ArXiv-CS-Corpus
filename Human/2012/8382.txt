@@ -1,0 +1,3 @@
+Secure Abstraction with Code Capabilities
+
+We propose embedding executable code fragments in cryptographically protected capabilities to enable flexible discretionary access control in cloud-like computing infrastructures. We are developing this as part of a sports analytics application that runs on a federation of public and enterprise clouds. The capability mechanism is implemented completely in user space. Using a novel combination of X.509 certificates and Javscript code, the capabilities support restricted delegation, confinement, revocation, and rights amplification for secure abstraction.

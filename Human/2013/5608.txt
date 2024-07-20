@@ -1,0 +1,5 @@
+A Syntactic-Semantic Approach to Incremental Verification
+
+Software verification of evolving systems is challenging mainstream methodologies and tools. Formal verification techniques often conflict with the time constraints imposed by change management practices for evolving systems. Since changes in these systems are often local to restricted parts, an incremental verification approach could be beneficial.
+  This paper introduces SiDECAR, a general framework for the definition of verification procedures, which are made incremental by the framework itself. Verification procedures are driven by the syntactic structure (defined by a grammar) of the system and encoded as semantic attributes associated with the grammar. Incrementality is achieved by coupling the evaluation of semantic attributes with an incremental parsing technique.
+  We show the application of SiDECAR to the definition of two verification procedures: probabilistic verification of reliability requirements and verification of safety properties.

@@ -1,0 +1,3 @@
+Efficiently Correcting Matrix Products
+
+We study the problem of efficiently correcting an erroneous product of two $n\times n$ matrices over a ring. Among other things, we provide a randomized algorithm for correcting a matrix product with at most $k$ erroneous entries running in $\tilde{O}(n^2+kn)$ time and a deterministic $\tilde{O}(kn^2)$-time algorithm for this problem (where the notation $\tilde{O}$ suppresses polylogarithmic terms in $n$ and $k$).

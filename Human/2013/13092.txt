@@ -1,0 +1,4 @@
+The Case for Explicit Coupling Constraints
+
+A software element defined in one place is typically used in many places. When it is changed, all its occurrences may need to be changed too, which can severely hinder software evolution. This has led to the support of encapsulation in modern programming languages. Unfortunately, as is shown in this paper, this is not enough to express all the constraints that are needed to decouple programming elements that evolve at different paces.
+  In this paper we show that: a language can be defined to easily express very general coupling constraints; violations to these constraints can be detected automatically. We then demonstrate several places where the need for coupling constraints arose in open-source Java projects. These constraints were expressed in comments when explicit constraints would have enabled automatic treatment.

@@ -1,0 +1,3 @@
+The RedPRL Proof Assistant (Invited Paper)
+
+RedPRL is an experimental proof assistant based on Cartesian cubical computational type theory, a new type theory for higher-dimensional constructions inspired by homotopy type theory. In the style of Nuprl, RedPRL users employ tactics to establish behavioral properties of cubical functional programs embodying the constructive content of proofs. Notably, RedPRL implements a two-level type theory, allowing an extensional, proof-irrelevant notion of exact equality to coexist with a higher-dimensional proof-relevant notion of paths.

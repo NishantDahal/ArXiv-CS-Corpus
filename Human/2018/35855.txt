@@ -1,0 +1,3 @@
+RF-Based Direction Finding of UAVs Using DNN
+
+This paper presents a sparse denoising autoencoder (SDAE)-based deep neural network (DNN) for the direction finding (DF) of small unmanned aerial vehicles (UAVs). It is motivated by the practical challenges associated with classical DF algorithms such as MUSIC and ESPRIT. The proposed DF scheme is practical and low-complex in the sense that a phase synchronization mechanism, an antenna calibration mechanism, and the analytical model of the antenna radiation pattern are not essential. Also, the proposed DF method can be implemented using a single-channel RF receiver. The paper validates the proposed method experimentally as well.

@@ -1,0 +1,3 @@
+New lower bounds for the border rank of matrix multiplication
+
+The border rank of the matrix multiplication operator for n by n matrices is a standard measure of its complexity. Using techniques from algebraic geometry and representation theory, we show the border rank is at least 2n^2-n. Our bounds are better than the previous lower bound (due to Lickteig in 1985) of 3/2 n^2+ n/2 -1 for all n>2. The bounds are obtained by finding new equations that bilinear maps of small border rank must satisfy, i.e., new equations for secant varieties of triple Segre products, that matrix multiplication fails to satisfy.

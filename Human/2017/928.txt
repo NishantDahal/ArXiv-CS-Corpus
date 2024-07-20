@@ -1,0 +1,7 @@
+Database Engines: Evolution of Greenness
+
+Context: Information Technology consumes up to 10\% of the world's electricity generation, contributing to CO2 emissions and high energy costs. Data centers, particularly databases, use up to 23% of this energy. Therefore, building an energy-efficient (green) database engine could reduce energy consumption and CO2 emissions.
+  Goal: To understand the factors driving databases' energy consumption and execution time throughout their evolution.
+  Method: We conducted an empirical case study of energy consumption by two MySQL database engines, InnoDB and MyISAM, across 40 releases. We examined the relationships of four software metrics to energy consumption and execution time to determine which metrics reflect the greenness and performance of a database.
+  Results: Our analysis shows that database engines' energy consumption and execution time increase as databases evolve. Moreover, the Lines of Code metric is correlated moderately to strongly with energy consumption and execution time in 88% of cases.
+  Conclusions: Our findings provide insights to both practitioners and researchers. Database administrators may use them to select a fast, green release of the MySQL database engine. MySQL database-engine developers may use the software metric to assess products' greenness and performance. Researchers may use our findings to further develop new hypotheses or build models to predict greenness and performance of databases.

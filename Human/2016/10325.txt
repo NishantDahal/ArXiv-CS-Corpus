@@ -1,0 +1,3 @@
+A Sugiyama-like decoding algorithm for convolutional codes
+
+We propose a decoding algorithm for a class of convolutional codes called skew BCH convolutional codes. These are convolutional codes of designed Hamming distance endowed with a cyclic structure yielding a left ideal of a non-commutative ring (a quotient of a skew polynomial ring). In this setting, right and left division algorithms exist, so our algorithm follows the guidelines of the Sugiyama's procedure for finding the error locator and error evaluator polynomials for BCH block codes.

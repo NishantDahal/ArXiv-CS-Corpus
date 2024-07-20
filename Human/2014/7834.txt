@@ -1,0 +1,3 @@
+On r-dynamic Coloring of Grids
+
+An \textit{$r$-dynamic $k$-coloring} of a graph $G$ is a proper $k$-coloring of $G$ such that every vertex in $V(G)$ has neighbors in at least $\min\{d(v),r\}$ different color classes. The \textit{$r$-dynamic chromatic number} of a graph $G$, written $χ_r(G)$, is the least $k$ such that $G$ has such a coloring. Proving a conjecture of Jahanbekam, Kim, O, and West, we show that the $m$-by-$n$ grid has no $3$-dynamic $4$-coloring when $mn\equiv2\mod 4$. This completes the determination of the $r$-dynamic chromatic number of the $m$-by-$n$ grid for all $r,m,n$.

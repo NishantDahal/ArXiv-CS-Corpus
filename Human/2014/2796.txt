@@ -1,0 +1,3 @@
+Transverse Contraction Criteria for Stability of Nonlinear Hybrid Limit Cycles
+
+In this paper, we derive differential conditions guaranteeing the orbital stability of nonlinear hybrid limit cycles. These conditions are represented as a series of pointwise linear matrix inequalities (LMI), enabling the search for stability certificates via convex optimization tools such as sum-of-squares programming. Unlike traditional Lyapunov-based methods, the transverse contraction framework developed in this paper enables proof of stability for hybrid systems, without prior knowledge of the exact location of the stable limit cycle in state space. This methodology is illustrated on a dynamic walking example.

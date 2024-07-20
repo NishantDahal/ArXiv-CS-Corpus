@@ -1,0 +1,3 @@
+A Waterfilling Algorithm for Multiple Access Point Connectivity with Constrained Backhaul Network
+
+The 4G/5G paradigm offers User Equipment (UE) simultaneous connectivity to a plurality of wireless Access Points (APs). We consider a UE communicating with its destination through multiple uplinks operating on orthogonal wireless channels with unequal bandwidth. The APs are connected via a tree-like backhaul network with destination at the root and non-ideal link capacities. We develop a power allocation scheme that achieves a near-optimal rate without explicit knowledge of the backhaul network topology at transmitter side. The proposed algorithm waterfills a dynamic subset of uplinks using a low-overhead backhaul load feedback.

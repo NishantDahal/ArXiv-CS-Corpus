@@ -1,0 +1,6 @@
+Fast Prefix Adders for Non-Uniform Input Arrival Times
+
+We consider the problem of constructing fast and small parallel prefix adders for non-uniform input arrival times. This problem arises whenever the adder is embedded into a more complex circuit, e. g. a multiplier.
+  Most previous results are based on representing binary carry-propagate adders as so-called parallel prefix graphs, in which pairs of generate and propagate signals are combined using complex gates known as prefix gates. Adders constructed in this model usually minimize the delay in terms of these prefix gates. However, the delay in terms of logic gates can be worse by a factor of two.
+  In contrast, we aim to minimize the delay of the underlying logic circuit directly. We prove a lower bound on the delay of a carry bit computation achievable by any prefix carry bit circuit and develop an algorithm that computes a prefix carry bit circuit with optimum delay up to a small additive constant. Furthermore, we use this algorithm to construct a small parallel prefix adder.
+  Compared to existing algorithms we simultaneously improve the delay and size guarantee, as well as the running time for constructing prefix carry bit and adder circuits.

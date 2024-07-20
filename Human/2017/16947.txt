@@ -1,0 +1,3 @@
+Position-based Content Attention for Time Series Forecasting with Sequence-to-sequence RNNs
+
+We propose here an extended attention model for sequence-to-sequence recurrent neural networks (RNNs) designed to capture (pseudo-)periods in time series. This extended attention model can be deployed on top of any RNN and is shown to yield state-of-the-art performance for time series forecasting on several univariate and multivariate time series.

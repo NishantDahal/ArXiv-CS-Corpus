@@ -1,0 +1,5 @@
+Optimal Placement of Valves in a Water Distribution Network with CLP(FD)
+
+This paper presents a new application of logic programming to a real-life problem in hydraulic engineering. The work is developed as a collaboration of computer scientists and hydraulic engineers, and applies Constraint Logic Programming to solve a hard combinatorial problem. This application deals with one aspect of the design of a water distribution network, i.e., the valve isolation system design.
+  We take the formulation of the problem by Giustolisi and Savic (2008) and show how, thanks to constraint propagation, we can get better solutions than the best solution known in the literature for the Apulian distribution network.
+  We believe that the area of the so-called hydroinformatics can benefit from the techniques developed in Constraint Logic Programming and possibly from other areas of logic programming, such as Answer Set Programming.

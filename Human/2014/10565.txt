@@ -1,0 +1,3 @@
+Faster construction of asymptotically good unit-cost error correcting codes in the RAM model
+
+Assuming we are in a Word-RAM model with word size $w$, we show that we can construct in $o(w)$ time an error correcting code with a constant relative positive distance that maps numbers of $w$ bits into $Θ(w)$-bit numbers, and such that the application of the error-correcting code on any given number $x\in[0,2^w-1]$ takes constant time. Our result improves on a previously proposed error-correcting code with the same properties whose construction time was exponential in $w$.

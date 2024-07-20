@@ -1,0 +1,3 @@
+An Equivalence of Fully Connected Layer and Convolutional Layer
+
+This article demonstrates that convolutional operation can be converted to matrix multiplication, which has the same calculation way with fully connected layer. The article is helpful for the beginners of the neural network to understand how fully connected layer and the convolutional layer work in the backend. To be concise and to make the article more readable, we only consider the linear case. It can be extended to the non-linear case easily through plugging in a non-linear encapsulation to the values like this $σ(x)$ denoted as $x^{\prime}$.

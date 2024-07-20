@@ -1,0 +1,3 @@
+Analyzing and Interpreting Convolutional Neural Networks in NLP
+
+Convolutional neural networks have been successfully applied to various NLP tasks. However, it is not obvious whether they model different linguistic patterns such as negation, intensification, and clause compositionality to help the decision-making process. In this paper, we apply visualization techniques to observe how the model can capture different linguistic features and how these features can affect the performance of the model. Later on, we try to identify the model errors and their sources. We believe that interpreting CNNs is the first step to understand the underlying semantic features which can raise awareness to further improve the performance and explainability of CNN models.

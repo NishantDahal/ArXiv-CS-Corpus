@@ -1,0 +1,3 @@
+Misfortunes of a mathematicians' trio using Computer Algebra Systems: Can we trust?
+
+Computer algebra systems are a great help for mathematical research but sometimes unexpected errors in the software can also badly affect it. As an example, we show how we have detected an error of Mathematica computing determinants of matrices of integer numbers: not only it computes the determinants wrongly, but also it produces different results if one evaluates the same determinant twice.

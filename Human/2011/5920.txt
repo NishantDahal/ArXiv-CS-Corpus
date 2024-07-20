@@ -1,0 +1,5 @@
+Semantic Matchmaking as Non-Monotonic Reasoning: A Description Logic Approach
+
+Matchmaking arises when supply and demand meet in an electronic marketplace, or when agents search for a web service to perform some task, or even when recruiting agencies match curricula and job profiles.  In such open environments, the objective of a matchmaking process is to discover best available offers to a given request.
+We address the problem of matchmaking from a knowledge representation perspective, with a formalization based on Description Logics. We devise Concept Abduction and Concept Contraction as non-monotonic inferences in Description Logics suitable for modeling matchmaking in a logical framework, and prove some related complexity results.  We also present reasonable algorithms for semantic matchmaking based on the devised inferences, and prove that they obey to some commonsense properties.
+Finally, we report on the implementation of the proposed matchmaking framework, which has been used both as a mediator in e-marketplaces and for semantic web services discovery.

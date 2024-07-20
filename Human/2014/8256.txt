@@ -1,0 +1,3 @@
+Alternative Algorithms for Lyndon Factorization
+
+We present two variations of Duval's algorithm for computing the Lyndon factorization of a word. The first algorithm is designed for the case of small alphabets and is able to skip a significant portion of the characters of the string, for strings containing runs of the smallest character in the alphabet. Experimental results show that it is faster than Duval's original algorithm, more than ten times in the case of long DNA strings. The second algorithm computes, given a run-length encoded string $R$ of length $ρ$, the Lyndon factorization of $R$ in $O(ρ)$ time and constant space.

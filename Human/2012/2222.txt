@@ -1,0 +1,4 @@
+Iterative Approximate Byzantine Consensus in Arbitrary Directed Graphs - Part II: Synchronous and Asynchronous Systems
+
+This report contains two related sets of results with different assumptions on synchrony. The first part is about iterative algorithms in synchronous systems. Following our previous work on synchronous iterative approximate Byzantine consensus (IABC) algorithms, we provide a more intuitive tight necessary and sufficient condition for the existence of such algorithms in synchronous networks1. We believe this condition and the previous results also hold in partially asynchronous algorithmic model.
+  In the second part of the report, we explore the problem in asynchronous networks. While the traditional Byzantine consensus is not solvable in asynchronous systems, approximate Byzantine consensus can be solved using iterative algorithms.

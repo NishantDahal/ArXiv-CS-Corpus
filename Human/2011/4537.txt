@@ -1,0 +1,3 @@
+Axiomatizing GSOS with Predicates
+
+In this paper, we introduce an extension of the GSOS rule format with predicates such as termination, convergence and divergence. For this format we generalize the technique proposed by Aceto, Bloom and Vaandrager for the automatic generation of ground-complete axiomatizations of bisimilarity over GSOS systems. Our procedure is implemented in a tool that receives SOS specifications as input and derives the corresponding axiomatizations automatically. This paves the way to checking strong bisimilarity over process terms by means of theorem-proving techniques.

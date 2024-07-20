@@ -1,0 +1,3 @@
+Faster integer and polynomial multiplication using cyclotomic coefficient rings
+
+We present an algorithm that computes the product of two n-bit integers in O(n log n (4\sqrt 2)^{log^* n}) bit operations. Previously, the best known bound was O(n log n 6^{log^* n}). We also prove that for a fixed prime p, polynomials in F_p[X] of degree n may be multiplied in O(n log n 4^{log^* n}) bit operations; the previous best bound was O(n log n 8^{log^* n}).

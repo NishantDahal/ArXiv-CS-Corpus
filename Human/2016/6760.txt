@@ -1,0 +1,3 @@
+Computation of the Similarity Class of the p-Curvature
+
+The $p$-curvature of a system of linear differential equations in positive characteristic $p$ is a matrix that measures how far the system is from having a basis of polynomial solutions. We show that the similarity class of the $p$-curvature can be determined without computing the $p$-curvature itself. More precisely, we design an algorithm that computes the invariant factors of the $p$-curvature in time quasi-linear in $\sqrt p$. This is much less than the size of the $p$-curvature, which is generally linear in $p$. The new algorithm allows to answer a question originating from the study of the Ising model in statistical physics.

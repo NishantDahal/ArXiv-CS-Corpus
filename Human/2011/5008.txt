@@ -1,0 +1,3 @@
+PDDL2.1 - The Art of the Possible? Commentary on Fox and Long
+
+PDDL2.1 was designed to push the envelope of what planning algorithms can do, and it has succeeded. It adds two important features: durative actions,which take time (and may have continuous effects); and objective functions for measuring the quality of plans. The concept of durative actions is flawed; and the treatment of their semantics reveals too strong an attachment to the way many contemporary planners work. Future PDDL innovators should focus on producing a clean semantics for additions to the language, and let planner implementers worry about coupling their algorithms to problems expressed in the latest version of the language.

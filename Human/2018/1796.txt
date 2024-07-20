@@ -1,0 +1,3 @@
+Learning Universal Adversarial Perturbations with Generative Models
+
+Neural networks are known to be vulnerable to adversarial examples, inputs that have been intentionally perturbed to remain visually similar to the source input, but cause a misclassification. It was recently shown that given a dataset and classifier, there exists so called universal adversarial perturbations, a single perturbation that causes a misclassification when applied to any input. In this work, we introduce universal adversarial networks, a generative network that is capable of fooling a target classifier when it's generated output is added to a clean sample from a dataset. We show that this technique improves on known universal adversarial attacks.

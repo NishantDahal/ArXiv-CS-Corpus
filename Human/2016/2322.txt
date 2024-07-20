@@ -1,0 +1,3 @@
+Compositional Algorithms for Succinct Safety Games
+
+We study the synthesis of circuits for succinct safety specifications given in the AIG format. We show how AIG safety specifications can be decomposed automatically into sub specifications. Then we propose symbolic compositional algorithms to solve the synthesis problem compositionally starting for the sub-specifications. We have evaluated the compositional algorithms on a set of benchmarks including those proposed for the first synthesis competition organised in 2014 by the Synthesis Workshop affiliated to the CAV conference. We show that a large number of benchmarks can be decomposed automatically and solved more efficiently with the compositional algorithms that we propose in this paper.

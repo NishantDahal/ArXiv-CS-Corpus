@@ -1,0 +1,3 @@
+Cache-Oblivious Persistence
+
+Partial persistence is a general transformation that takes a data structure and allows queries to be executed on any past state of the structure. The cache-oblivious model is the leading model of a modern multi-level memory hierarchy.We present the first general transformation for making cache-oblivious model data structures partially persistent.

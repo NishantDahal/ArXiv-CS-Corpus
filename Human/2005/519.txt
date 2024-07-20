@@ -1,0 +1,3 @@
+The Workshop - Implementing Well Structured Enterprise Applications
+
+We specify an abstraction layer to be used between an enterprise application and the utilized enterprise framework (like J2EE or .NET). This specification is called the Workshop. It provides an intuitive metaphor supporting the programmer in designing easy understandable code. We present an implementation of this specification. It is based upon the J2EE framework and is called the JWorkshop. As a proof of concept we implement a special certification authority called the Key Authority based upon the JWorkshop. The mentioned certification authority runs very successfully in a variety of different real world projects.

@@ -1,0 +1,5 @@
+Cops, Robber and Medianwidth Parameters
+
+In previous work, we introduced median decompositions, a generalisation of tree decompositions where a graph can be modelled after any median graph, along with a hierarchy of $i$-medianwidth parameters $(mw_i)_{i\geq 1}$ starting from treewidth and converging to the clique number.
+  We introduce another graph parameter based on the concept of median decompositions, to be called $i$-latticewidth and denoted by $lw_i$, for which we restrict the modelling median graph of a decomposition to be isometrically embeddable into the Cartesian product of $i$ paths. The sequence $(lw_i)_{i\geq 1}$ gives rise to a hierarchy of parameters starting from pathwidth and converging to the clique number. We characterise the $i$-latticewidth of a graph in terms of maximal intersections of bags of $i$ path decompositions of the graph.
+  We study a generalisation of the classical Cops and Robber game, where the robber plays against not just one, but $i$ cop players. Depending on whether the robber is visible or not, we show a direct connection to $i$-medianwidth or $i$-latticewidth, respectively.

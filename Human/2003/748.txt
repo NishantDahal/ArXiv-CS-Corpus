@@ -1,0 +1,3 @@
+Part-of-Speech Tagging with Minimal Lexicalization
+
+We use a Dynamic Bayesian Network to represent compactly a variety of sublexical and contextual features relevant to Part-of-Speech (PoS) tagging. The outcome is a flexible tagger (LegoTag) with state-of-the-art performance (3.6% error on a benchmark corpus). We explore the effect of eliminating redundancy and radically reducing the size of feature vocabularies. We find that a small but linguistically motivated set of suffixes results in improved cross-corpora generalization. We also show that a minimal lexicon limited to function words is sufficient to ensure reasonable performance.

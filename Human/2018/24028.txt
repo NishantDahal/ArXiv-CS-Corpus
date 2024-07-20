@@ -1,0 +1,3 @@
+Towards Abstraction in ASP with an Application on Reasoning about Agent Policies
+
+ASP programs are a convenient tool for problem solving, whereas with large problem instances the size of the state space can be prohibitive. We consider abstraction as a means of over-approximation and introduce a method to automatically abstract (possibly non-ground) ASP programs that preserves their structure, while reducing the size of the problem. One particular application case is the problem of defining declarative policies for reactive agents and reasoning about them, which we illustrate on examples.

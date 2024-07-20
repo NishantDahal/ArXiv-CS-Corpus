@@ -1,0 +1,3 @@
+From Discrepancy to Majority
+
+We show how to select an item with the majority color from $n$ two-colored items, given access to the items only through an oracle that returns the discrepancy of subsets of $k$ items. We use $n/\lfloor\tfrac{k}{2}\rfloor+O(k)$ queries, improving a previous method by De Marco and Kranakis that used $n-k+k^2/2$ queries. We also prove a lower bound of $n/(k-1)-O(n^{1/3})$ on the number of queries needed, improving a lower bound of $\lfloor n/k\rfloor$ by De Marco and Kranakis.

@@ -1,0 +1,3 @@
+On Puncturing Strategies for Polar Codes
+
+This paper introduces a class of specific puncturing patterns, called symmetric puncturing patterns, which can be characterized and generated from the rows of the generator matrix $G_N$. They are first shown to be non-equivalent, then a low-complexity method to generate symmetric puncturing patterns is proposed, which performs a search tree algorithm with limited depth, over the rows of $G_N$. Symmetric patterns are further optimized by density evolution, and shown to yield better performance than state-of-the-art rate compatible code constructions, relying on either puncturing or shortening techniques.

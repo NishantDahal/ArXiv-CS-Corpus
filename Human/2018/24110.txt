@@ -1,0 +1,3 @@
+Player Experience Extraction from Gameplay Video
+
+The ability to extract the sequence of game events for a given player's play-through has traditionally required access to the game's engine or source code. This serves as a barrier to researchers, developers, and hobbyists who might otherwise benefit from these game logs. In this paper we present two approaches to derive game logs from game video via convolutional neural networks and transfer learning. We evaluate the approaches in a Super Mario Bros. clone, Mega Man and Skyrim. Our results demonstrate our approach outperforms random forest and other transfer baselines.

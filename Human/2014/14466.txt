@@ -1,0 +1,3 @@
+Programming in logic without Prolog
+
+Logic can be made useful for programming and for databases independently of logic programming. To be useful in this way, logic has to provide a mechanism for the definition of new functions and new relations on the basis of those given in the interpretation of a logical theory. We provide this mechanism by creating a compositional semantics on top of the classical semantics. In this approach verification of computational results relies on a correspondence between logic interpretations and a class definition in languages like Java or C++. The advantage of this approach is the combination of an expressive medium for the programmer with, in the case of C++, optimal use of computer resources.

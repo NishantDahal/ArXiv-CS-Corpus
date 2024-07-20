@@ -1,0 +1,5 @@
+Formula Slicing: Inductive Invariants from Preconditions
+
+We propose a "formula slicing" method for finding inductive invariants. It is based on the observation that many loops in the program affect only a small part of the memory, and many invariants which were valid before a loop are still valid after.
+  Given a precondition of the loop, obtained from the preceding program fragment, we weaken it until it becomes inductive. The weakening procedure is guided by counterexamples-to-induction given by an SMT solver. Our algorithm applies to programs with arbitrary loop structure, and it computes the strongest invariant in an abstract domain of weakenings of preconditions. We call this algorithm "formula slicing", as it effectively performs "slicing" on formulas derived from symbolic execution.
+  We evaluate our algorithm on the device driver benchmarks from the International Competition on Software Verification (SV-COMP), and we show that it is competitive with the state-of-the-art verification techniques.

@@ -1,0 +1,3 @@
+Asymptotic and exact results on the complexity of the Novelli-Pak-Stoyanovskii algorithm
+
+The Novelli-Pak-Stoyanovskii algorithm is a sorting algorithm for Young tableaux of a fixed shape that was originally devised to give a bijective proof of the hook-length formula. We obtain new asymptotic results on the average case and worst case complexity of this algorithm as the underlying shape tends to a fixed limit curve. Furthermore, using the summation package Sigma we prove an exact formula for the average case complexity when the underlying shape consists of only two rows. We thereby answer questions posed by Krattenthaler and Müller.

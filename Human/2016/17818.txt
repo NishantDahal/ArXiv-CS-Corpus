@@ -1,0 +1,3 @@
+Rate of convergence of major cost incurred in the in-situ permutation algorithm
+
+The in-situ permutation algorithm due to MacLeod replaces $(x_{1},\cdots,x_{n})$ by $(x_{p(1)},\cdots,x_{p(n)})$ where $π=(p(1),\cdots,p(n))$ is a permutation of $\{1,2,\cdots,n\}$ using at most $O(1)$ space. Kirshenhofer, Prodinger and Tichy have shown that the major cost incurred in the algorithm satisfies a recurrence similar to sequence of the number of key comparisons needed by the Quicksort algorithm to sort an array of $n$ randomly permuted items. Further, Hwang has proved that the normalized cost converges in distribution. Here, following Neininger and Rüschendorf, we prove the that rate of convergence to be of the order $Θ(\ln(n)/n)$ in the Zolotarev metric.

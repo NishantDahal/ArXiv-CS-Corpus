@@ -1,0 +1,3 @@
+Staircase Codes: FEC for 100 Gb/s OTN
+
+Staircase codes, a new class of forward-error-correction (FEC) codes suitable for high-speed optical communications, are introduced. An ITU-T G.709-compatible staircase code with rate R=239/255 is proposed, and FPGA-based simulation results are presented, exhibiting a net coding gain (NCG) of 9.41 dB at an output error rate of 1E-15, an improvement of 0.42 dB relative to the best code from the ITU-T G.975.1 recommendation. An error floor analysis technique is presented, and the proposed code is shown to have an error floor at 4.0E-21.

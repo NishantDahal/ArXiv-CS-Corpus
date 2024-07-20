@@ -1,0 +1,7 @@
+A type system for PSPACE derived from light linear logic
+
+We present a polymorphic type system for lambda calculus ensuring that well-typed programs can be executed in polynomial space: dual light affine logic with booleans (DLALB).
+  To build DLALB we start from DLAL (which has a simple type language with a linear and an intuitionistic type arrow, as well as one modality) which characterizes FPTIME functions. In order to extend its expressiveness we add two boolean constants and a conditional constructor in the same way as with the system STAB.
+  We show that the value of a well-typed term can be computed by an alternating machine in polynomial time, thus such a term represents a program of PSPACE (given that PSPACE = APTIME).
+  We also prove that all polynomial space decision functions can be represented in DLALB.
+  Therefore DLALB characterizes PSPACE predicates.

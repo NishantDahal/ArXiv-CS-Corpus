@@ -1,0 +1,3 @@
+Positional Cartesian Genetic Programming
+
+Cartesian Genetic Programming (CGP) has many modifications across a variety of implementations, such as recursive connections and node weights. Alternative genetic operators have also been proposed for CGP, but have not been fully studied. In this work, we present a new form of genetic programming based on a floating point representation. In this new form of CGP, called Positional CGP, node positions are evolved. This allows for the evaluation of many different genetic operators while allowing for previous CGP improvements like recurrency. Using nine benchmark problems from three different classes, we evaluate the optimal parameters for CGP and PCGP, including novel genetic operators.

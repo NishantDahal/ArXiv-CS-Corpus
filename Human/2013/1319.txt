@@ -1,0 +1,4 @@
+Variant-Frequency Semantics for Green Futures
+
+This paper describes an operational semantics for futures, with the primary target on energy efficiency. The work in progress is built around an insight that different threads can coordinate by running at different "paces," so that the time for synchronization and the resulting wasteful energy consumption can be reduced. We exploit several inherent characteristics of futures to determine how the paces of involving threads can be coordinated. The semantics is inspired by recent advances in computer architectures, where the frequencies of CPU cores can be adjusted dynamically. The work is a first-step toward a direction where variant frequencies are directly modeled as an essential semantic feature in concurrent programming languages.
+

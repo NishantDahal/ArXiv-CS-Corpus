@@ -1,0 +1,3 @@
+Reducing the Complexity of the Linear Programming Decoding
+
+In this paper we show how the complexity of Linear Programming (LP) decoder can decrease. We use the degree 3 check equation to model all variation check degrees. The complexity of LP decoding is directed relative to the number of constraint. Number of constraint for original LP decoder is O(n*(2^n)). Our method decrease the number of the constraint to O(n).

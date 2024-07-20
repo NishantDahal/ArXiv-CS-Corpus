@@ -1,0 +1,4 @@
+A $o(d) \cdot \text{polylog}~n$ Monotonicity Tester for Boolean Functions over the Hypergrid $[n]^d$
+
+We study monotonicity testing of Boolean functions over the hypergrid $[n]^d$ and design a non-adaptive tester with $1$-sided error whose query complexity is $\tilde{O}(d^{5/6})\cdot \text{poly}(\log n,1/ε)$. Previous to our work, the best known testers had query complexity linear in $d$ but independent of $n$. We improve upon these testers as long as $n = 2^{d^{o(1)}}$.
+  To obtain our results, we work with what we call the augmented hypergrid, which adds extra edges to the hypergrid. Our main technical contribution is a Margulis-style isoperimetric result for the augmented hypergrid, and our tester, like previous testers for the hypercube domain, performs directed random walks on this structure.

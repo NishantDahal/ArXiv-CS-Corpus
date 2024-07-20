@@ -1,0 +1,3 @@
+A Short Note on Collecting Dependently Typed Values
+
+Within dependently typed languages, such as Idris, types can depend on values. This dependency, however, can limit the collection of items in standard containers: all elements must have the same type, and as such their types must contain the same values. We present two dependently typed data structures for collecting dependent types: \texttt{DList} and \texttt{PList}. Use of these new data structures allow for the creation of single succinct inductive ADT whose constructions were previously verbose and split across many data structures.

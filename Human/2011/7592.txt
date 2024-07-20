@@ -1,0 +1,3 @@
+Exponential Complexity of the Quantum Adiabatic Algorithm for certain Satisfiability Problems
+
+We determine the complexity of several constraint satisfaction problems using the quantum adiabatic algorithm in its simplest implementation. We do so by studying the size dependence of the gap to the first excited state of "typical" instances. We find that at large sizes N, the complexity increases exponentially for all models that we study. We also compare our results against the complexity of the analogous classical algorithm WalkSAT and show that the harder the problem is for the classical algorithm the harder it is also for the quantum adiabatic algorithm.

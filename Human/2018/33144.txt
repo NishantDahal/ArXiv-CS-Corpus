@@ -1,0 +1,3 @@
+AIDA: Associative DNN Inference Accelerator
+
+We propose AIDA, an inference engine for accelerating fully-connected (FC) layers of Deep Neural Network (DNN). AIDA is an associative in-memory processor, where the bulk of data never leaves the confines of the memory arrays, and processing is performed in-situ. AIDA area and energy efficiency strongly benefit from sparsity and lower arithmetic precision. We show that AIDA outperforms the state of art inference accelerator, EIE, by 14.5x (peak performance) and 2.5x (throughput).

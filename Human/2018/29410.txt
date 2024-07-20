@@ -1,0 +1,3 @@
+Generation and analysis of lamplighter programs
+
+We consider a programming language based on the lamplighter group that uses only composition and iteration as control structures. We derive generating functions and counting formulas for this language and special subsets of it, establishing lower and upper bounds on the growth rate of semantically distinct programs. Finally, we show how to sample random programs and analyze the distribution of runtimes induced by such sampling.

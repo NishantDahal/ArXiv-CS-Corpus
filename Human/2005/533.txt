@@ -1,0 +1,3 @@
+Fast Recompilation of Object Oriented Modules
+
+Once a program file is modified, the recompilation time should be minimized, without sacrificing execution speed or high level object oriented features. The recompilation time is often a problem for the large graphical interactive distributed applications tackled by modern OO languages. A compilation server and fast code generator were developed and integrated with the SRC Modula-3 compiler and Linux ELF dynamic linker. The resulting compilation and recompilation speedups are impressive. The impact of different language features, processor speed, and application size are discussed.

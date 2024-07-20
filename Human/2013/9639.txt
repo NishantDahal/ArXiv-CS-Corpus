@@ -1,0 +1,4 @@
+How to Obtain Computational Completeness in P Systems with One Catalyst
+
+Whether P systems with only one catalyst can already be computationally complete, is still an open problem. Here we establish computational completeness by using specific variants of additional control mechanisms. At each step using only multiset rewriting rules from one set of a finite number of sets of multiset rewriting rules allows for obtaining computational completeness with one catalyst and only one membrane. If the targets are used for choosing the multiset of rules to be applied, for getting computational completeness with only one catalyst more than one membrane is needed. If the available sets of rules change periodically with time, computational completeness can be obtained with one catalyst in one membrane. Moreover, we also improve existing computational completeness results for P systems with mobile catalysts and for P systems with membrane creation.
+

@@ -1,0 +1,6 @@
+On the Number of Minimal Separators in Graphs
+
+We consider the largest number of minimal separators a graph on n vertices can have at most.
+  We give a new proof that this number is in $O( ((1+\sqrt{5})/2)^n n )$.
+  We prove that this number is in $ω( 1.4521^n )$, improving on the previous best lower bound of $Ω(3^{n/3}) \subseteq ω( 1.4422^n )$.
+  This gives also an improved lower bound on the number of potential maximal cliques in a graph. We would like to emphasize that our proofs are short, simple, and elementary.

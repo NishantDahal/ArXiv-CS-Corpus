@@ -1,0 +1,5 @@
+Computoser - rule-based, probability-driven algorithmic music composition
+
+This paper presents the Computoser hybrid probability/rule based algorithm for music composition (http://computoser.com) and provides a reference implementation. It addresses the issues of unpleasantness and lack of variation exhibited by many existing approaches by combining the two methods (basing the parameters of the rules on data obtained from preliminary analysis).
+  A sample of 500+ musical pieces was analyzed to derive probabilities for musical characteristics and events (e.g. scale, tempo, intervals). The algorithm was constructed to produce musical pieces using the derived probabilities combined with a large set of composition rules, which were obtained and structured after studying established composition practices. Generated pieces were published on the Computoser website where evaluation was performed by listeners. The feedback was positive (58.4% approval), asserting the merits of the undertaken approach.
+  The paper compares this hybrid approach to other approaches to algorithmic composition and presents a survey of the pleasantness of the resulting music.

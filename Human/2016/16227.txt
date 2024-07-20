@@ -1,0 +1,3 @@
+Causally consistent dynamic slicing
+
+We offer a lattice-theoretic account of dynamic slicing for π-calculus, building on prior work in the sequential setting. For any run of a concurrent program, we exhibit a Galois connection relating forward slices of the start configuration to backward slices of the end configuration. We prove that, up to lattice isomorphism, the same Galois connection arises for any causally equivalent execution, allowing an efficient concurrent implementation of slicing via a standard interleaving semantics. Our approach has been formalised in the dependently-typed language Agda.

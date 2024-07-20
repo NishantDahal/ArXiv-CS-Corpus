@@ -1,0 +1,3 @@
+Multi-Merge Budget Maintenance for Stochastic Gradient Descent SVM Training
+
+Budgeted Stochastic Gradient Descent (BSGD) is a state-of-the-art technique for training large-scale kernelized support vector machines. The budget constraint is maintained incrementally by merging two points whenever the pre-defined budget is exceeded. The process of finding suitable merge partners is costly; it can account for up to 45% of the total training time. In this paper we investigate computationally more efficient schemes that merge more than two points at once. We obtain significant speed-ups without sacrificing accuracy.

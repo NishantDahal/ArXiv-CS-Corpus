@@ -1,0 +1,3 @@
+ECG Segmentation by Neural Networks: Errors and Correction
+
+In this study we examined the question of how error correction occurs in an ensemble of deep convolutional networks, trained for an important applied problem: segmentation of Electrocardiograms(ECG). We also explore the possibility of using the information about ensemble errors to evaluate a quality of data representation, built by the network. This possibility arises from the effect of distillation of outliers, which was demonstarted for the ensemble, described in this paper.

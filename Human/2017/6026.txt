@@ -1,0 +1,5 @@
+Non-Uniform Attacks Against Pseudoentropy
+
+De, Trevisan and Tulsiani [CRYPTO 2010] show that every distribution over $n$-bit strings which has constant statistical distance to uniform (e.g., the output of a pseudorandom generator mapping $n-1$ to $n$ bit strings), can be distinguished from the uniform distribution with advantage $ε$ by a circuit of size $O( 2^nε^2)$.
+  We generalize this result, showing that a distribution which has less than $k$ bits of min-entropy, can be distinguished from any distribution with $k$ bits of $δ$-smooth min-entropy with advantage $ε$ by a circuit of size $O(2^kε^2/δ^2)$. As a special case, this implies that any distribution with support at most $2^k$ (e.g., the output of a pseudoentropy generator mapping $k$ to $n$ bit strings) can be distinguished from any given distribution with min-entropy $k+1$ with advantage $ε$ by a circuit of size $O(2^kε^2)$.
+  Our result thus shows that pseudoentropy distributions face basically the same non-uniform attacks as pseudorandom distributions.

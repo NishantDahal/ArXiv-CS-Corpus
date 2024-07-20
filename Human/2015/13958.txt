@@ -1,0 +1,3 @@
+Bin Packing with Multiple Colors
+
+In the Colored Bin Packing problem a set of items with varying weights and colors must be packed into bins of uniform weight limit such that no two items of the same color may be packed adjacently within a bin. We solve this problem for the case where there are two or more colors when the items have zero weight and when the items have unit weight. Our algorithms are optimal and run in linear time. Since our algorithms apply for two or more colors, they demonstrate that the problem does not get harder as the number of colors increases. We also provide closed-form expressions for the optimal number of bins.

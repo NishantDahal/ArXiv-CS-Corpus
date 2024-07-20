@@ -1,0 +1,3 @@
+Predicting Chroma from Luma in AV1
+
+Chroma from luma (CfL) prediction is a new and promising chroma-only intra predictor that models chroma pixels as a linear function of the coincident reconstructed luma pixels. In this paper, we present the CfL predictor adopted in Alliance Video 1 (AV1), a royalty-free video codec developed by the Alliance for Open Media (AOM). The proposed CfL distinguishes itself from prior art not only by reducing decoder complexity, but also by producing more accurate predictions. On average, CfL reduces the BD-rate, when measured with CIEDE2000, by 5% for still images and 2% for video sequences.

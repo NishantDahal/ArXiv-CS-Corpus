@@ -1,0 +1,3 @@
+Novel Sparse Recovery Algorithms for 3D Debris Localization using Rotating Point Spread Function Imagery
+
+An optical imager that exploits off-center image rotation to encode both the lateral and depth coordinates of point sources in a single snapshot can perform 3D localization and tracking of space debris. When actively illuminated, unresolved space debris, which can be regarded as a swarm of point sources, can scatter a fraction of laser irradiance back into the imaging sensor. Determining the source locations and fluxes is a large-scale sparse 3D inverse problem, for which we have developed efficient and effective algorithms based on sparse recovery using non-convex optimization. Numerical simulations illustrate the efficiency and stability of the algorithms.

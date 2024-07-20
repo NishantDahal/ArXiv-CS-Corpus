@@ -1,0 +1,3 @@
+Loop-Back Interference Suppression for OFDM Signals via Sampled-Data Control
+
+In this article, we consider the problem of loop-back interference suppression for orthogonal frequency division multiplexing (OFDM) signals in amplify-and-forward single-frequency full-duplex relay stations. The loop-back interference makes the system a closed-loop system, and hence it is important not only to suppress the interference but also to stabilize the system. For this purpose, we propose sampled-data $H^{\infty}$ design of digital filters that ensure the stability of the system and suppress the continuous-time effect of interference at the same time. Simulation results are shown to illustrate the effectiveness of the proposed method.

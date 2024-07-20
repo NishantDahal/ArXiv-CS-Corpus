@@ -1,0 +1,4 @@
+Parallel Monitors for Self-adaptive Sessions
+
+The paper presents a data-driven  model  of self-adaptivity for multiparty sessions. System choreography is prescribed by a global type. Participants  are incarnated by processes associated with monitors, which control their behaviour. Each participant can access and modify a set of global data, which are able to trigger adaptations in the presence of critical changes of values.
+  The use of the parallel composition for building global types, monitors and processes enables a significant degree of flexibility: an adaptation step can dynamically reconfigure a set of participants only, without altering the remaining participants, even if the two groups communicate.

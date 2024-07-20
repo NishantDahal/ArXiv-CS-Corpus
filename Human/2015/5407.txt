@@ -1,0 +1,3 @@
+Analysis of GPU Parallel Computing based on Matlab
+
+Matlab is very widely used in scientific computing, but Matlab computational efficiency is lower than C language program. In order to improve the computing speed, some toolbox can use GPU to accelerate the computation. This paper describes GPU working principle, our experiments and results analysis of parallel computing by using GPU based on Matlab. Experimental results show that for parallel operations, GPU computing speed is faster than CPU, for the logical instructions, GPU computing speed is slower than CPU.

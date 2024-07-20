@@ -1,0 +1,3 @@
+Parallel and sequential reclaiming in multicore real-time global scheduling
+
+When integrating hard, soft and non-real-time tasks in general purpose operating systems, it is necessary to provide temporal isolation so that the timing properties of one task do not depend on the behaviour of the others. However, strict budget enforcement can lead to inefficient use of the computational resources in the presence of tasks with variable workload. Many resource reclaiming algorithms have been proposed in the literature for single processor scheduling, but not enough work exists for global scheduling in multiprocessor systems. In this report, we propose two reclaiming algorithms for multiprocessor global scheduling and we prove their correctness.

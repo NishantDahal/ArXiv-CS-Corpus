@@ -1,0 +1,5 @@
+Design and Implementation of rowe, a Web-Friendly Communication Library
+
+The INDES project-team of Inria has been developing HOP, a multi-tier language for Web programming.  As part of the RAPP FP7 European project, the team has set out to use HOP as the lingua franca of the robotics applications developed within that project.  Part of the challenge lies in the integration of existing robotics code, written using ROS or custom libraries, with HOP-based application.
+
+This document reports on the implementation of rowe, a communication library designed the fill the gap between low-level robotics C components on one hand, and other C, C++, ROS, or HOP components on the other.  The library aims to be a lightweight, high-performance, "Web-friendly" communication library.  It implements a socket-like interface that allows programs to exchange JSON objects over WebSockets.  We describe the rationale, design, and implementation of rowe.

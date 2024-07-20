@@ -1,0 +1,3 @@
+Efficient Quantum Algorithms for Estimating Gauss Sums
+
+We present an efficient quantum algorithm for estimating Gauss sums over finite fields and finite rings. This is a natural problem as the description of a Gauss sum can be done without reference to a black box function. With a reduction from the discrete logarithm problem to Gauss sum estimation we also give evidence that this problem is hard for classical algorithms. The workings of the quantum algorithm rely on the interaction between the additive characters of the Fourier transform and the multiplicative characters of the Gauss sum.

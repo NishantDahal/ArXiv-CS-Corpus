@@ -1,0 +1,3 @@
+Theoretical Evaluation of Li et al.'s Approach for Improving a Binary Watermark-Based Scheme in Remote Sensing Data Communications
+
+This letter is about a principal weakness of the published article by Li et al. in 2014. It seems that the mentioned work has a terrible conceptual mistake while presenting its theoretical approach. In fact, the work has tried to design a new attack and its effective solution for a basic watermarking algorithm by Zhu et al. published in 2013, however in practice, we show the Li et al.'s approach is not correct to obtain the aim. For disproof of the incorrect approach, we only apply a numerical example as the counterexample of the Li et al.'s approach.

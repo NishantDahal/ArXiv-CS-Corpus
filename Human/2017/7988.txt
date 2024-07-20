@@ -1,0 +1,3 @@
+Search-to-Decision Reductions for Lattice Problems with Approximation Factors (Slightly) Greater Than One
+
+We show the first dimension-preserving search-to-decision reductions for approximate SVP and CVP. In particular, for any $γ\leq 1 + O(\log n/n)$, we obtain an efficient dimension-preserving reduction from $γ^{O(n/\log n)}$-SVP to $γ$-GapSVP and an efficient dimension-preserving reduction from $γ^{O(n)}$-CVP to $γ$-GapCVP. These results generalize the known equivalences of the search and decision versions of these problems in the exact case when $γ= 1$. For SVP, we actually obtain something slightly stronger than a search-to-decision reduction---we reduce $γ^{O(n/\log n)}$-SVP to $γ$-unique SVP, a potentially easier problem than $γ$-GapSVP.

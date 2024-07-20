@@ -1,0 +1,3 @@
+Different Issues in the Design of a Lemmatizer/Tagger for Basque
+
+This paper presents relevant issues that have been considered in the design of a general purpose lemmatizer/tagger for Basque (EUSLEM). The lemmatizer/tagger is conceived as a basic tool necessary for other linguistic applications. It uses the lexical data base and the morphological analyzer previously developed and implemented. Due to the characteristics of the language, the tagset here proposed in structured in for levels, so that each level is a refinement of the previous one in the sense that it adds more detailed information. We will focus on the problems found in designing this tagset and on the strategies for morphological disambiguation that will be used.

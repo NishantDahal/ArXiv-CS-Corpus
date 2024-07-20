@@ -1,0 +1,3 @@
+Compilation for QCSP
+
+We propose in this article a framework for compilation of quantified constraint satisfaction problems (QCSP). We establish the semantics of this formalism by an interpretation to a QCSP. We specify an algorithm to compile a QCSP embedded into a search algorithm and based on the inductive semantics of QCSP. We introduce an optimality property and demonstrate the optimality of the interpretation of the compiled QCSP.

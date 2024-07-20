@@ -1,0 +1,3 @@
+Finding a Maximum-Weight Convex Set in a Chordal Graph
+
+We consider a natural combinatorial optimization problem on chordal graphs, the class of graphs with no induced cycle of length four or more. A subset of vertices of a chordal graph is (monophonically) convex if it contains the vertices of all chordless paths between any two vertices of the set. The problem is to find a maximum-weight convex subset of a given vertex-weighted chordal graph. It generalizes previously studied special cases in trees and split graphs. It also happens to be closely related to the closure problem in partially ordered sets and directed graphs. We give the first polynomial-time algorithm for the problem.

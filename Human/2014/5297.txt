@@ -1,0 +1,3 @@
+A Framework for Bottom-Up Simulation of SLD-Resolution
+
+This paper introduces a framework for the bottom-up simulation of SLD-resolution based on partial evaluation. The main idea is to use database facts to represent a set of SLD goals. For deductive databases it is natural to assume that the rules defining derived predicates are known at "compile time", whereas the database predicates are known only later at runtime. The framework is inspired by the author's own SLDMagic method, and a variant of Earley deduction recently introduced by Heike Stephan and the author. However, it opens a much broader perspective. [To appear in Theory and Practice of Logic Programming (TPLP)]

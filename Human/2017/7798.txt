@@ -1,0 +1,3 @@
+Closed-Form Expressions for the n-Queens Problem and Related Problems
+
+In this paper, we derive simple closed-form expressions for the $n$-queens problem and three related problems in terms of permanents of $(0,1)$ matrices. These formulas are the first of their kind. Moreover, they provide the first method for solving these problems with polynomial space that has a nontrivial time complexity bound. We then show how a closed-form for the number of Latin squares of order $n$ follows from our method. Finally, we prove lower bounds. In particular, we show that the permanent of Schur's complex valued matrix is a lower bound for the toroidal semi-queens problem, or equivalently, the number of transversals in a cyclic Latin square.

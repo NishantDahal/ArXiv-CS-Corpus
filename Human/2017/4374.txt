@@ -1,0 +1,3 @@
+Recursive List Decoding for Reed-Muller Codes
+
+We consider recursive decoding for Reed-Muller (RM) codes and their subcodes. Two new recursive techniques are described. We analyze asymptotic properties of these algorithms and show that they substantially outperform other decoding algorithms with nonexponential complexity known for RM codes. Decoding performance is further enhanced by using intermediate code lists and permutation procedures. For moderate lengths up to 512, near-optimum decoding with feasible complexity is obtained.

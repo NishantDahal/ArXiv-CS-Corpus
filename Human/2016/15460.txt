@@ -1,0 +1,3 @@
+Static Analysis Using the Cloud
+
+In this paper we describe our experience of using Microsoft Azure cloud computing platform for static analysis. We start by extending Static Driver Verifier to operate in the Microsoft Azure cloud with significant improvements in performance and scalability. We present our results of using SDV on single drivers and driver suites using various configurations of the cloud relative to a local machine. Finally, we describe the Static Module Verifier platform, a highly extensible and configurable platform for static analysis of generic modules, where we have integrated support for verification using a cloud services provider (Microsoft Azure in this case).

@@ -1,0 +1,3 @@
+Isabelle/jEdit as IDE for Domain-specific Formal Languages and Informal Text Documents
+
+Isabelle/jEdit is the main application of the Prover IDE (PIDE) framework and the default user-interface of Isabelle, but it is not limited to theorem proving. This paper explores possibilities to use it as a general IDE for formal languages that are defined in user-space, and embedded into informal text documents. It covers overall document structure with auxiliary files and document antiquotations, formal text delimiters and markers for interpretation (via control symbols). The ultimate question behind this: How far can we stretch a plain text editor like jEdit in order to support semantic text processing, with support by the underlying PIDE framework?

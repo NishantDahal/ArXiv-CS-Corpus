@@ -1,0 +1,3 @@
+gcodeml: A Grid-enabled Tool for Detecting Positive Selection in Biological Evolution
+
+One of the important questions in biological evolution is to know if certain changes along protein coding genes have contributed to the adaptation of species. This problem is known to be biologically complex and computationally very expensive. It, therefore, requires efficient Grid or cluster solutions to overcome the computational challenge. We have developed a Grid-enabled tool (gcodeml) that relies on the PAML (codeml) package to help analyse large phylogenetic datasets on both Grids and computational clusters. Although we report on results for gcodeml, our approach is applicable and customisable to related problems in biology or other scientific domains.

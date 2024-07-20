@@ -1,0 +1,3 @@
+Model Checking Paxos in Spin
+
+We present a formal model of a distributed consensus algorithm in the executable specification language Promela extended with a new type of guards, called counting guards, needed to implement transitions that depend  on majority voting. Our formalization exploits abstractions that follow from reduction theorems applied to the specific case-study. We apply the model checker Spin to automatically validate finite instances of the model and to  extract preconditions on the size of quorums used in the election phases of the protocol.

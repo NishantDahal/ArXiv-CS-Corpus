@@ -1,0 +1,3 @@
+VOI-aware MCTS
+
+UCT, a state-of-the art algorithm for Monte Carlo tree search (MCTS) in games and Markov decision processes, is based on UCB1, a sampling policy for the Multi-armed Bandit problem (MAB) that minimizes the cumulative regret. However, search differs from MAB in that in MCTS it is usually only the final "arm pull" (the actual move selection) that collects a reward, rather than all "arm pulls". In this paper, an MCTS sampling policy based on Value of Information (VOI) estimates of rollouts is suggested. Empirical evaluation of the policy and comparison to UCB1 and UCT is performed on random MAB instances as well as on Computer Go.

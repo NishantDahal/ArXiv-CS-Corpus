@@ -1,0 +1,3 @@
+An Architecture for Making Object-Oriented Systems Available from Prolog
+
+It is next to impossible to develop real-life applications in just pure Prolog. With XPCE we realised a mechanism for integrating Prolog with an external object-oriented system that turns this OO system into a natural extension to Prolog. We describe the design and how it can be applied to other external OO systems.

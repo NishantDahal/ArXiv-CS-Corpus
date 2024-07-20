@@ -1,0 +1,5 @@
+Search by quantum walks on two-dimensional grid without amplitude amplification
+
+We study search by quantum walk on a finite two dimensional grid. The algorithm of Ambainis, Kempe, Rivosh (quant-ph/0402107) takes O(\sqrt{N log N}) steps and finds a marked location with probability O(1/log N) for grid of size \sqrt{N} * \sqrt{N}. This probability is small, thus amplitude amplification is needed to achieve Θ(1) success probability. The amplitude amplification adds an additional O(\sqrt{log N}) factor to the number of steps, making it O(\sqrt{N} log N).
+  In this paper, we show that despite a small probability to find a marked location, the probability to be within an O(\sqrt{N}) neighbourhood (at an O(\sqrt[4]{N}) distance) of the marked location is Θ(1). This allows to skip amplitude amplification step and leads to an O(\sqrt{log N}) speed-up.
+  We describe the results of numerical experiments supporting this idea, and we prove this fact analytically.

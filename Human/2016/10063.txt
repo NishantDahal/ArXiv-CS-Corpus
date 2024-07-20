@@ -1,0 +1,3 @@
+The Complexity of Controlling Candidate-Sequential Elections
+
+Candidate control of elections is the study of how adding or removing candidates can affect the outcome. However, the traditional study of the complexity of candidate control is in the model in which all candidates and votes are known up front. This paper develops a model for studying online control for elections where the structure is sequential with respect to the candidates, and in which the decision regarding adding and deleting must be irrevocably made at the moment the candidate is presented. We show that great complexity---PSPACE-completeness---can occur in this setting, but we also provide within this setting polynomial-time algorithms for the most important of election systems, plurality.

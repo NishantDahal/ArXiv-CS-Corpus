@@ -1,0 +1,3 @@
+On model selection and the disability of neural networks to decompose tasks
+
+A neural network with fixed topology can be regarded as a parametrization of functions, which decides on the correlations between functional variations when parameters are adapted. We propose an analysis, based on a differential geometry point of view, that allows to calculate these correlations. In practise, this describes how one response is unlearned while another is trained. Concerning conventional feed-forward neural networks we find that they generically introduce strong correlations, are predisposed to forgetting, and inappropriate for task decomposition. Perspectives to solve these problems are discussed.

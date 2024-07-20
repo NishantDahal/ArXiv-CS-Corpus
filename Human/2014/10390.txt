@@ -1,0 +1,3 @@
+Generalization of Mrs. Gerber's Lemma
+
+Mrs. Gerber's Lemma (MGL) hinges on the convexity of $H(p*H^{-1}(u))$, where $H(u)$ is the binary entropy function. In this work, we prove that $H(p*f(u))$ is convex in $u$ for every $p\in [0,1]$ provided $H(f(u))$ is convex in $u$, where $f(u) : (a, b) \to [0, \frac12]$. Moreover, our result subsumes MGL and simplifies the original proof. We show that the generalized MGL can be applied in binary broadcast channel to simplify some discussion.

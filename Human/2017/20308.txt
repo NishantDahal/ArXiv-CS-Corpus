@@ -1,0 +1,3 @@
+Power Plant Performance Modeling with Concept Drift
+
+Power plant is a complex and nonstationary system for which the traditional machine learning modeling approaches fall short of expectations. The ensemble-based online learning methods provide an effective way to continuously learn from the dynamic environment and autonomously update models to respond to environmental changes. This paper proposes such an online ensemble regression approach to model power plant performance, which is critically important for operation optimization. The experimental results on both simulated and real data show that the proposed method can achieve performance with less than 1% mean average percentage error, which meets the general expectations in field operations.

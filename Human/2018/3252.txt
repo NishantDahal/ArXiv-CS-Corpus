@@ -1,0 +1,3 @@
+GeoMFree3D: An Under-Development Meshfree Software Package for Geomechanics
+
+This paper briefly reports the GeoMFree3D, a meshfree / meshless software package designed for analyzing the problems of large deformations and crack propagations of rock and soil masses in geotechnics. The GeoMFree3D is developed based on the meshfree RPIM, and accelerated by exploiting the parallel computing on multi-core CPU and many-core GPU. The GeoMFree3D is currently being under intensive developments. To demonstrate the correctness and effectiveness of the GeoMFree3D, several simple verification examples are presented in this paper. Moreover, future work on the development of the GeoMFree3D is introduced.

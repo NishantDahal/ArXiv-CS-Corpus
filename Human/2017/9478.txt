@@ -1,0 +1,3 @@
+An Algebra of Actors Based on True Concurrency
+
+An algebra of actors $\textrm{A}π$ fully captures the properties of actors based on asynchronous $π$-calculus, but, it is based on the interleaving bisimulation semantics. We adjust $\textrm{A}π$ to $\textrm{A}π_{tc}$ to make $\textrm{A}π$ having a truly concurrent semantics. We give the syntax and operational semantics of $\textrm{A}π_{tc}$, and also the truly concurrent semantics model and algebraic laws of $\textrm{A}π_{tc}$.

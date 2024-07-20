@@ -1,0 +1,4 @@
+The robustness of democratic consensus
+
+In linear models of consensus dynamics, the state of the various agents converges to a value which is a convex combination of the agents' initial states. We call it democratic if in the large scale limit (number of agents going to infinity) the vector of convex weights converges to 0 uniformly.
+  Democracy is a relevant property which naturally shows up when we deal with opinion dynamic models and cooperative algorithms such as consensus over a network: it says that each agent's measure/opinion is going to play a negligeable role in the asymptotic behavior of the global system. It can be seen as a relaxation of average consensus, where all agents have exactly the same weight in the final value, which becomes negligible for a large number of agents.

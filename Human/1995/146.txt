@@ -1,0 +1,3 @@
+An Approach to Proper Name Tagging for German
+
+This paper presents an incremental method for the tagging of proper names in German newspaper texts. The tagging is performed by the analysis of the syntactic and textual contexts of proper names together with a morphological analysis. The proper names selected by this process supply new contexts which can be used for finding new proper names, and so on. This procedure was applied to a small German corpus (50,000 words) and correctly disambiguated 65% of the capitalized words, which should improve when it is applied to a very large corpus.

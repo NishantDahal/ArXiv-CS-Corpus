@@ -1,0 +1,3 @@
+Contextual equivalences in configuration structures and reversibility
+
+Contextual equivalence equate terms that have the same observable behaviour in any context. A standard contextual equivalence for CCS is the strong barbed congruence. Configuration structures are a denotational semantics for processes in which one define equivalences that are more discriminating, i.e. that distinguish the denotation of terms equated by barbed congruence. Hereditary history preserving bisimulation (HHPB) is such a relation. We define a strong back-and-forth barbed congruence on RCCS, a reversible variant of CCS. We show that the relation induced by the back-and-forth congruence on configuration structures is equivalent to HHPB, thus providing a contextual characterization of HHPB.

@@ -1,0 +1,5 @@
+eXamine: a Cytoscape app for exploring annotated modules in networks
+
+Background. Biological networks have growing importance for the interpretation of high-throughput "omics" data. Statistical and combinatorial methods allow to obtain mechanistic insights through the extraction of smaller subnetwork modules. Further enrichment analyses provide set-based annotations of these modules.
+  Results. We present eXamine, a set-oriented visual analysis approach for annotated modules that displays set membership as contours on top of a node-link layout. Our approach extends upon Self Organizing Maps to simultaneously lay out nodes, links, and set contours.
+  Conclusions. We implemented eXamine as a freely available Cytoscape app. Using eXamine we study a module that is activated by the virally-encoded G-protein coupled receptor US28 and formulate a novel hypothesis about its functioning.

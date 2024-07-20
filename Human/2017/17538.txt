@@ -1,0 +1,3 @@
+Image Space Potential Fields: Constant Size Environment Representation for Vision-based Subsumption Control Architectures
+
+This technical report presents an environment representation for use in vision-based navigation. The representation has two useful properties: 1) it has constant size, which can enable strong run-time guarantees to be made for control algorithms using it, and 2) it is structurally similar to a camera image space, which effectively allows control to operate in the sensor space rather than employing difficult, and often inaccurate, projections into a structurally different control space (e.g. Euclidean). The presented representation is intended to form the basis of a vision-based subsumption control architecture.

@@ -1,0 +1,3 @@
+A Real-Time Spatial Index for In-Vehicle Units
+
+We construct a spatial indexing solution for the highly constrained environment of an in-vehicle unit in a distributed vehicle tolling scheme based on satellite navigation (GNSS). We show that an immutable, purely functional implementation of a high-fanout quadtree is a simple, practical solution that satisfies all the requirements of such a system.

@@ -1,0 +1,3 @@
+Parallelizing Bisection Root-Finding: A Case for Accelerating Serial Algorithms in Multicore Substrates
+
+Multicore architectures dominate today's processor market. Even though the number of cores and threads are pretty high and continues to grow, inherently serial algorithms do not benefit from the abundance of cores and threads. In this paper, we propose Runahead Computing, a technique which uses idle threads in a multi-threaded architecture for accelerating the execution time of serial algorithms. Through detailed evaluations targeting both CPU and GPU platforms and a specific serial algorithm, our approach reduces the execution latency up to 9x in our experiments.

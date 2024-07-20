@@ -1,0 +1,3 @@
+Community detection based on "clumpiness" matrix in complex networks
+
+The "clumpiness" matrix of a network is used to develop a method to identify its community structure. A "projection space" is constructed from the eigenvectors of the clumpiness matrix and a border line is defined using some kind of angular distance in this space. The community structure of the network is identified using this borderline and/or hierarchical clustering methods. The performance of our algorithm is tested on some computer-generated and real-world networks. The accuracy of the results is checked using normalized mutual information. The effect of community size heterogeneity on the accuracy of the method is also discussed.

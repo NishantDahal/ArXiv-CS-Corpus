@@ -1,0 +1,4 @@
+Improved Bounds for Universal One-Bit Compressive Sensing
+
+Unlike compressive sensing where the measurement outputs are assumed to be real-valued and have infinite precision, in "one-bit compressive sensing", measurements are quantized to one bit, their signs. In this work, we show how to recover the support of sparse high-dimensional vectors in the one-bit compressive sensing framework with an asymptotically near-optimal number of measurements. We also improve the bounds on the number of measurements for approximately recovering vectors from one-bit compressive sensing measurements. Our results are universal, namely the same measurement scheme works simultaneously for all sparse vectors.
+  Our proof of optimality for support recovery is obtained by showing an equivalence between the task of support recovery using 1-bit compressive sensing and a well-studied combinatorial object known as Union Free Families.

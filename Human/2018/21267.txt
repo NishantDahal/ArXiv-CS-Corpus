@@ -1,0 +1,3 @@
+Non-iterative Joint Detection-Decoding Receiver for LDPC-Coded MIMO Systems Based on SDR
+
+Semi-definite relaxation (SDR) detector has been demonstrated to be successful in approaching maximum likelihood (ML) performance while the time complexity is only polynomial. We propose a new receiver jointly utilizing the forward error correction (FEC) code information in the SDR detection process. Strengthened by the code constraints, the joint SDR detector provides soft information of much improved reliability to downstream decoder and therefore outperforms existing receivers with substantial gain.

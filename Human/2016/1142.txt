@@ -1,0 +1,4 @@
+Diffusion tensor imaging with deterministic error bounds
+
+Errors in the data and the forward operator of an inverse problem can be handily modelled using partial order in Banach lattices. We present some existing results of the theory of regularisation in this novel framework, where errors are represented as bounds by means of the appropriate partial order.
+  We apply the theory to Diffusion Tensor Imaging, where correct noise modelling is challenging: it involves the Rician distribution and the nonlinear Stejskal-Tanner equation. Linearisation of the latter in the statistical framework would complicate the noise model even further. We avoid this using the error bounds approach, which preserves simple error structure under monotone transformations.

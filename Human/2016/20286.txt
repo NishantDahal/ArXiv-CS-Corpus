@@ -1,0 +1,3 @@
+The HoTT Library: A formalization of homotopy type theory in Coq
+
+We report on the development of the HoTT library, a formalization of homotopy type theory in the Coq proof assistant. It formalizes most of basic homotopy type theory, including univalence, higher inductive types, and significant amounts of synthetic homotopy theory, as well as category theory and modalities. The library has been used as a basis for several independent developments. We discuss the decisions that led to the design of the library, and we comment on the interaction of homotopy type theory with recently introduced features of Coq, such as universe polymorphism and private inductive types.

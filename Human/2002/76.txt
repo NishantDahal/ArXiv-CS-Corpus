@@ -1,0 +1,3 @@
+The Algorithms of Updating Sequential Patterns
+
+Because the data being mined in the temporal database will evolve with time, many researchers have focused on the incremental mining of frequent sequences in temporal database. In this paper, we propose an algorithm called IUS, using the frequent and negative border sequences in the original database for incremental sequence mining. To deal with the case where some data need to be updated from the original database, we present an algorithm called DUS to maintain sequential patterns in the updated database. We also define the negative border sequence threshold: Min_nbd_supp to control the number of sequences in the negative border.

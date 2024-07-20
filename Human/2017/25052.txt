@@ -1,0 +1,3 @@
+A Faster Drop-in Implementation for Leaf-wise Exact Greedy Induction of Decision Tree Using Pre-sorted Deque
+
+This short article presents a new implementation for decision trees. By introducing pre-sorted deques, the leaf-wise greedy tree growing strategy no longer needs to re-sort data at each node, and takes O(kn) time and O(1) extra memory locating the best split and branching. The consistent, superior performance - plus its simplicity and guarantee in producing the same classification results as the standard decision trees - makes the new implementation a drop-in replacement for depth-wise tree induction with strong performance.

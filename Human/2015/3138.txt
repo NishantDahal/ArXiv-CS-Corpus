@@ -1,0 +1,3 @@
+Detecting Incompleteness, Conflicting and Unreachability XACML Policies using Answer Set Programming
+
+Recently, XACML is a popular access control policy language that is used widely in many applications. Policies in XACML are built based on many components over distributed resources. Due to the expressiveness of XACML, it is not trivial for policy administrators to understand the overall effect and consequences of XACML policies they have written. In this paper we show a mechanism and a tool how to analyses big access control policies sets such as (i) incompleteness policies, (ii) conflicting policies, and (iii) unreachable policies. To detect these problems we present a method using Answer Set Programming (ASP) in the context of XACML 3.0.

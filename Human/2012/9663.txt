@@ -1,0 +1,3 @@
+Use of PSO in Parameter Estimation of Robot Dynamics; Part Two: Robustness
+
+In this paper, we analyze the robustness of the PSO-based approach to parameter estimation of robot dynamics presented in Part One. We have made attempts to make the PSO method more robust by experimenting with potential cost functions. The simulated system is a cylindrical robot; through simulation, the robot is excited, samples are taken, error is added to the samples, and the noisy samples are used for estimating the robot parameters through the presented method. Comparisons are made with the least squares, total least squares, and robust least squares methods of estimation.

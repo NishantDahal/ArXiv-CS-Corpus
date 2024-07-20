@@ -1,0 +1,3 @@
+One-bit compressed sensing with partial Gaussian circulant matrices
+
+In this paper we consider memoryless one-bit compressed sensing with randomly subsampled Gaussian circulant matrices. We show that in a small sparsity regime and for small enough accuracy $δ$, $m\sim δ^{-4} s\log(N/sδ)$ measurements suffice to reconstruct the direction of any $s$-sparse vector up to accuracy $δ$ via an efficient program. We derive this result by proving that partial Gaussian circulant matrices satisfy an $\ell_1/\ell_2$ RIP-property. Under a slightly worse dependence on $δ$, we establish stability with respect to approximate sparsity, as well as full vector recovery results.

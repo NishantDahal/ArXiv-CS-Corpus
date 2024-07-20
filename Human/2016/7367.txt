@@ -1,0 +1,5 @@
+A Many Antenna High Rate Wireless System
+
+We describe a TDD MIMO wireless system designed to operate at high bandwidth and low SNR. Signals are transmitted as a direct sequence. In the uplink (Multiple Access Channel), signal detection is done by a space-time whitening filter followed by a matched filter. In the downlink (Broadcast Channel), precoding is done by the transpose of these filters.
+  We further describe an implementation of this system that uses an array of 32 antennas to communicate with 32 single-antenna clients simultaneously on the same frequencies between 512-608 and 614-698 MHz. At close range, all 32 links achieve the full PHY data rate, both uplink and downlink, with less than 1\% Block Error Rate on each link. The total system rate is 3.8 Gb/s. The system spectral efficiency is 21.7 b/s/Hz for both uplink and downlink.
+  We close with some projections to the not-to-distant future.

@@ -1,0 +1,3 @@
+Equivalence-based Security for Querying Encrypted Databases: Theory and Application to Privacy Policy Audits
+
+Motivated by the problem of simultaneously preserving confidentiality and usability of data outsourced to third-party clouds, we present two different database encryption schemes that largely hide data but reveal enough information to support a wide-range of relational queries. We provide a security definition for database encryption that captures confidentiality based on a notion of equivalence of databases from the adversary's perspective. As a specific application, we adapt an existing algorithm for finding violations of privacy policies to run on logs encrypted under our schemes and observe low to moderate overheads.

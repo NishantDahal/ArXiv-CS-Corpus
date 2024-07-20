@@ -1,0 +1,3 @@
+Case Study: Explaining Diabetic Retinopathy Detection Deep CNNs via Integrated Gradients
+
+In this report, we applied integrated gradients to explaining a neural network for diabetic retinopathy detection. The integrated gradient is an attribution method which measures the contributions of input to the quantity of interest. We explored some new ways for applying this method such as explaining intermediate layers, filtering out unimportant units by their attribution value and generating contrary samples. Moreover, the visualization results extend the use of diabetic retinopathy detection model from merely predicting to assisting finding potential lesions.

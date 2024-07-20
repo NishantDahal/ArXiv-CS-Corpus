@@ -1,0 +1,3 @@
+Amalgam width of matroids
+
+We introduce a new matroid width parameter based on the operation of matroid amalgamation, which we call amalgam-width. The parameter is linearly related to branch-width on finitely representable matroids (which is not possible for branch-width). In particular, any property expressible in the monadic second order logic can be decided in linear time for matroids with bounded amalgam-width. We also prove that the Tutte polynomial can be computed in polynomial time for matroids with bounded amalgam width.

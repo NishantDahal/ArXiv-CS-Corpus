@@ -1,0 +1,3 @@
+Context-Aware D2D Peer Selection for Load Distribution in LTE Networks
+
+In this paper we propose a novel context-aware approach for resource allocation in device to device (D2D) communication networks which exploits context information about the users velocity and size of their demanded data to decide whether their traffic load can be transferred to D2D tier and which D2D users should be paired. The problem is modeled as a matching game with externalities and a novel algorithm is proposed to solve the game which converges to a stable matching between the D2D users. Simulation results demonstrate the effectiveness of our model in offloading the cellular networks traffic to the D2D tier.

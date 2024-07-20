@@ -1,0 +1,3 @@
+Ultra-Low Power Crypto-Engine Based on Simon 32/64 for Energy- and Area-Constrained Integrated Systems
+
+This paper proposes an ultra-low power crypto-engine achieving sub-pJ/bit energy and sub-1K$μ$$m^2$ in 40nm CMOS, based on the Simon cryptographic algorithm. Energy and area efficiency are pursued via microarchitectural exploration, ultra-low voltage operation with high resiliency via latch-based pipelines, and power reduction techniques via multi-bit sequential elements. Overall, the comparison with the state of the art shows best-in-class energy efficiency and area. This makes it well suited for ubiquitous security in tightly-constrained platforms, e.g. RFIDs, low-end sensor nodes.

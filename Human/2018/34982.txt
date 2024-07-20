@@ -1,0 +1,3 @@
+Parallel-tempered Stochastic Gradient Hamiltonian Monte Carlo for Approximate Multimodal Posterior Sampling
+
+We propose a new sampler that integrates the protocol of parallel tempering with the Nosé-Hoover (NH) dynamics. The proposed method can efficiently draw representative samples from complex posterior distributions with multiple isolated modes in the presence of noise arising from stochastic gradient. It potentially facilitates deep Bayesian learning on large datasets where complex multimodal posteriors and mini-batch gradient are encountered.

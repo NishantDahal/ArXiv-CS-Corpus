@@ -1,0 +1,3 @@
+tym: Typed Matlab
+
+Although, many scientists and engineers use Octave or MATLAB as their preferred programming language, dynamic nature of these languages can lead to slower running-time of programs written in these languages compared to programs written in languages which are not as dynamic, like C, C++ and Fortran. In this work we developed a translator for a new programming language (tym) which tries to address performance issues, common in scientific programs, by adding new constructs to a subset of Octave/MATLAB language. Our translator compiles programs written in tym, to efficient C++ code.

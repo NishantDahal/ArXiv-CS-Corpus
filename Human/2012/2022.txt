@@ -1,0 +1,3 @@
+A Hybrid Image Cryptosystem Based On OMFLIP Permutation Cipher
+
+The protection of confidential image data from unauthorized access is an important area of research in network communication. This paper presents a high-level security encryption scheme for gray scale images. The gray level image is first decomposed into binary images using bit scale decomposition. Each binary image is then compressed by selecting a good scanning path that minimizes the total number of bits needed to encode the bit sequence along the scanning path using two dimensional run encoding. The compressed bit string is then scrambled iteratively using a pseudo-random number generator and finally encrypted using a bit level permutation OMFLIP. The performance is tested, illustrated and discussed.

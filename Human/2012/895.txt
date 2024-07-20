@@ -1,0 +1,3 @@
+Iterated risk measures for risk-sensitive Markov decision processes with discounted cost
+
+We demonstrate a limitation of discounted expected utility, a standard approach for representing the preference to risk when future cost is discounted. Specifically, we provide an example of the preference of a decision maker that appears to be rational but cannot be represented with any discounted expected utility. A straightforward modification to discounted expected utility leads to inconsistent decision making over time. We will show that an iterated risk measure can represent the preference that cannot be represented by any discounted expected utility and that the decisions based on the iterated risk measure are consistent over time.

@@ -1,0 +1,6 @@
+Monotone Projection Lower Bounds from Extended Formulation Lower Bounds
+
+In this short note, we reduce lower bounds on monotone projections of polynomials to lower bounds on extended formulations of polytopes. Applying our reduction to the seminal extended formulation lower bounds of Fiorini, Massar, Pokutta, Tiwari, & de Wolf (STOC 2012; J. ACM, 2015) and Rothvoss (STOC 2014; J. ACM, 2017), we obtain the following interesting consequences.
+  1. The Hamiltonian Cycle polynomial is not a monotone subexponential-size projection of the permanent; this both rules out a natural attempt at a monotone lower bound on the Boolean permanent, and shows that the permanent is not complete for non-negative polynomials in VNP$_{\mathbb R}$ under monotone p-projections.
+  2. The cut polynomials and the perfect matching polynomial (or "unsigned Pfaffian") are not monotone p-projections of the permanent. The latter, over the Boolean and-or semi-ring, rules out monotone reductions in one of the natural approaches to reducing perfect matchings in general graphs to perfect matchings in bipartite graphs.
+  As the permanent is universal for monotone formulas, these results also imply exponential lower bounds on the monotone formula size and monotone circuit size of these polynomials.

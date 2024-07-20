@@ -1,0 +1,3 @@
+Associative Memory For Reversible Programming and Charge Recovery
+
+Presented below is an interesting type of associative memory called toggle memory based on the concept of T flip flops, as opposed to D flip flops. Toggle memory supports both reversible programming and charge recovery. Circuits designed using the principles delineated below permit matchlines to charge and discharge with near zero energy dissipation. The resulting lethargy is compensated by the massive parallelism of associative memory. Simulation indicates over 33x reduction in energy dissipation using a sinusoidal power supply at 2 MHz, assuming realistic 50 nm MOSFET models.

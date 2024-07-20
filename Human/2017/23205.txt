@@ -1,0 +1,3 @@
+Cons-free Programming with Immutable Functions
+
+We investigate the power of non-determinism in purely functional programming languages with higher-order types. Specifically, we set out to characterise the hierarchy NP $\subseteq$ NEXP $\subseteq$ NEXP$^{(2)}$ $\subseteq \cdots \subseteq$ NEXP$^{(k)}$ $\subseteq \cdots$ solely in terms of higher-typed, purely functional programs. Although the work is incomplete, we present an initial approach using cons-free programs with immutable functions.

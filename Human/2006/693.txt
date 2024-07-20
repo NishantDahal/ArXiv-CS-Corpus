@@ -1,0 +1,3 @@
+Uniform Random Sampling of Traces in Very Large Models
+
+This paper presents some first results on how to perform uniform random walks (where every trace has the same probability to occur) in very large models. The models considered here are described in a succinct way as a set of communicating reactive modules. The method relies upon techniques for counting and drawing uniformly at random words in regular languages. Each module is considered as an automaton defining such a language. It is shown how it is possible to combine local uniform drawings of traces, and to obtain some global uniform random sampling, without construction of the global model.

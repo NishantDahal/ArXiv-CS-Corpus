@@ -1,0 +1,3 @@
+Signal Reconstruction via H-infinity Sampled-Data Control Theory: Beyond the Shannon Paradigm
+
+This paper presents a new method for signal reconstruction by leveraging sampled-data control theory. We formulate the signal reconstruction problem in terms of an analog performance optimization problem using a stable discrete-time filter. The proposed H-infinity performance criterion naturally takes intersample behavior into account, reflecting the energy distributions of the signal. We present methods for computing optimal solutions which are guaranteed to be stable and causal. Detailed comparisons to alternative methods are provided. We discuss some applications in sound and image reconstruction.

@@ -1,0 +1,3 @@
+Multilinear Subspace Clustering
+
+In this paper we present a new model and an algorithm for unsupervised clustering of 2-D data such as images. We assume that the data comes from a union of multilinear subspaces (UOMS) model, which is a specific structured case of the much studied union of subspaces (UOS) model. For segmentation under this model, we develop Multilinear Subspace Clustering (MSC) algorithm and evaluate its performance on the YaleB and Olivietti image data sets. We show that MSC is highly competitive with existing algorithms employing the UOS model in terms of clustering performance while enjoying improvement in computational complexity.

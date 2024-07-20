@@ -1,0 +1,3 @@
+Autonomous collision attack on OCSP services
+
+The paper describes two important design flaws in Online Certificate Status Protocol (OCSP), a protocol widely used in PKI environments for managing digital certificates' credibility in real time. The flaws significantly reduce the security capabilities of the protocol, and can be exploited by a malicious third party to generate forged signed certificate statuses and, in the worst scenario, forged certificates. Description of the flaws, along with expected exploitation routes, consequences for consuming application layer protocols, and proposed countermeasures, is given.

@@ -1,0 +1,3 @@
+Entropy estimation of symbol sequences
+
+We discuss algorithms for estimating the Shannon entropy h of finite symbol sequences with long range correlations. In particular, we consider algorithms which estimate h from the code lengths produced by some compression algorithm. Our interest is in describing their convergence with sequence length, assuming no limits for the space and time complexities of the compression algorithms. A scaling law is proposed for extrapolation from finite sample lengths. This is applied to sequences of dynamical systems in non-trivial chaotic regimes, a 1-D cellular automaton, and to written English texts.

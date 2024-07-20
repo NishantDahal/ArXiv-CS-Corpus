@@ -1,0 +1,3 @@
+Comments on "Capacity with explicit delay guarantees for generic sources over correlated Rayleigh channel"
+
+We address a major flaw in the abovementioned paper, which proposes to calculate effective capacity of random channels by the use of central limit theorem. We analytically show that the authors are incorrect in finding the effective capacity by first taking the limit of cumulative random process rather than taking the limit of moment generating function of the same process. We later quantify our results over a correlated ON-OFF process.

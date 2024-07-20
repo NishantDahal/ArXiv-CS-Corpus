@@ -1,0 +1,7 @@
+Lower Bounds for Tolerant Junta and Unateness Testing via Rejection Sampling of Graphs
+
+We introduce a new model for testing graph properties which we call the \emph{rejection sampling model}. We show that testing bipartiteness of $n$-nodes graphs using rejection sampling queries requires complexity $\widetildeΩ(n^2)$. Via reductions from the rejection sampling model, we give three new lower bounds for tolerant testing of Boolean functions of the form $f\colon\{0,1\}^n\to \{0,1\}$:
+  $\bullet$Tolerant $k$-junta testing with \emph{non-adaptive} queries requires $\widetildeΩ(k^2)$ queries.
+  $\bullet$Tolerant unateness testing requires $\widetildeΩ(n)$ queries.
+  $\bullet$Tolerant unateness testing with \emph{non-adaptive} queries requires $\widetildeΩ(n^{3/2})$ queries.
+  Given the $\widetilde{O}(k^{3/2})$-query non-adaptive junta tester of Blais \cite{B08}, we conclude that non-adaptive tolerant junta testing requires more queries than non-tolerant junta testing. In addition, given the $\widetilde{O}(n^{3/4})$-query unateness tester of Chen, Waingarten, and Xie \cite{CWX17b} and the $\widetilde{O}(n)$-query non-adaptive unateness tester of Baleshzar, Chakrabarty, Pallavoor, Raskhodnikova, and Seshadhri \cite{BCPRS17}, we conclude that tolerant unateness testing requires more queries than non-tolerant unateness testing, in both adaptive and non-adaptive settings. These lower bounds provide the first separation between tolerant and non-tolerant testing for a natural property of Boolean functions.

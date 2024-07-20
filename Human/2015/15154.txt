@@ -1,0 +1,4 @@
+Modeling Colors of Single Attribute Variations with Application to Food Appearance
+
+This paper considers the intra-image color-space of an object or a scene when these are subject to a dominant single-source of variation. The source of variation can be intrinsic or extrinsic (i.e., imaging conditions) to the object. We observe that the quantized colors for such objects typically lie on a planar subspace of RGB, and in some cases linear or polynomial curves on this plane are effective in capturing these color variations. We also observe that the inter-image color sub-spaces are robust as long as drastic illumination change is not involved.
+  We illustrate the use of this analysis for: discriminating between shading-change and reflectance-change for patches, and object detection, segmentation and recognition based on a single exemplar. We focus on images of food items to illustrate the effectiveness of the proposed approach.

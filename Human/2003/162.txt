@@ -1,0 +1,5 @@
+Commitment Capacity of Discrete Memoryless Channels
+
+In extension of the bit commitment task and following work initiated by Crepeau and Kilian, we introduce and solve the problem of characterising the optimal rate at which a discrete memoryless channel can be used for bit commitment. It turns out that the answer is very intuitive: it is the maximum equivocation of the channel (after removing trivial redundancy), even when unlimited noiseless bidirectional side communication is allowed.
+  By a well-known reduction, this result provides a lower bound on the channel's capacity for implementing coin tossing, which we conjecture to be an equality.
+  The method of proving this relates the problem to Wyner's wire--tap channel in an amusing way. We also discuss extensions to quantum channels.

@@ -1,0 +1,3 @@
+Parity to Safety in Polynomial Time for Pushdown and Collapsible Pushdown Systems
+
+We give a direct polynomial-time reduction from parity games played over the configuration graphs of collapsible pushdown systems to safety games played over the same class of graphs. That a polynomial-time reduction would exist was known since both problems are complete for the same complexity class. Coming up with a direct reduction, however, has been an open problem. Our solution to the puzzle brings together a number of techniques for pushdown games and adds three new ones. This work contributes to a recent trend of liveness to safety reductions which allow the advanced state-of-the-art in safety checking to be used for more expressive specifications.

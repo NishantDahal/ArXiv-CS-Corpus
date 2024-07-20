@@ -1,0 +1,3 @@
+Some Turing-Complete Extensions of First-Order Logic
+
+We introduce a natural Turing-complete extension of first-order logic FO. The extension adds two novel features to FO. The first one of these is the capacity to add new points to models and new tuples to relations. The second one is the possibility of recursive looping when a formula is evaluated using a semantic game. We first define a game-theoretic semantics for the logic and then prove that the expressive power of the logic corresponds in a canonical way to the recognition capacity of Turing machines. Finally, we show how to incorporate generalized quantifiers into the logic and argue for a highly natural connection between oracles and generalized quantifiers.

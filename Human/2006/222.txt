@@ -1,0 +1,3 @@
+The logic of interactive Turing reduction
+
+The paper gives a soundness and completeness proof for the implicative fragment of intuitionistic calculus with respect to the semantics of computability logic, which understands intuitionistic implication as interactive algorithmic reduction. This concept -- more precisely, the associated concept of reducibility -- is a generalization of Turing reducibility from the traditional, input/output sorts of problems to computational tasks of arbitrary degrees of interactivity. See http://www.cis.upenn.edu/~giorgi/cl.html for a comprehensive online source on computability logic.

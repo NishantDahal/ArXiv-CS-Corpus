@@ -1,0 +1,3 @@
+Bisimilarity Distances for Approximate Differential Privacy
+
+Differential privacy is a widely studied notion of privacy for various models of computation. Technically, it is based on measuring differences between probability distributions. We study $ε,δ$-differential privacy in the setting of labelled Markov chains. While the exact differences relevant to $ε,δ$-differential privacy are not computable in this framework, we propose a computable bisimilarity distance that yields a sound technique for measuring $δ$, the parameter that quantifies deviation from pure differential privacy. We show this bisimilarity distance is always rational, the associated threshold problem is in NP, and the distance can be computed exactly with polynomially many calls to an NP oracle.

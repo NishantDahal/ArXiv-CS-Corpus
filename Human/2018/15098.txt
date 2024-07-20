@@ -1,0 +1,3 @@
+$O(n \log n)$-time text compression by LZ-style longest first substitution
+
+Mauer et al. [A Lempel-Ziv-style Compression Method for Repetitive Texts, PSC 2017] proposed a hybrid text compression method called LZ-LFS which has both features of Lempel-Ziv 77 factorization and longest first substitution. They showed that LZ-LFS can achieve better compression ratio for repetitive texts, compared to some state-of-the-art compression algorithms. The drawback of Mauer et al.'s method is that their LZ-LFS compression algorithm takes $O(n^2)$ time on an input string of length $n$. In this paper, we show a faster LZ-LFS compression algorithm that works in $O(n \log n)$ time. We also propose a simpler version of LZ-LFS that can be computed in $O(n)$ time.

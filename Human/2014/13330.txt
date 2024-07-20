@@ -1,0 +1,4 @@
+The random matrix regime of Maronna's M-estimator for observations corrupted by elliptical noises
+
+This article studies the behavior of the Maronna robust scatter estimator $\hat{C}_N\in \mathbb{C}^{N\times N}$ of a sequence of observations $y_1,...,y_n$ which is composed of a $K$ dimensional signal drown in a heavy tailed noise, i.e $y_i=A_N s_i+x_i$ where $A_N \in \mathbb{C}^{N\times K}$ and $x_i$ is drawn from elliptical distribution.
+  In particular, we prove that as the population dimension $N$, the number of observations $n$ and the rank of $A_N$ grow to infinity at the same pace and under some mild assumptions, the robust scatter matrix can be characterized by a random matrix $\hat{S}_N$ that follows a standard random model. Our analysis can be very useful for many applications of the fields of statistical inference and signal processing.

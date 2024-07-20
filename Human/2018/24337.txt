@@ -1,0 +1,3 @@
+Computer Vision-aided Atom Tracking in STEM Imaging
+
+To address the SMC'17 data challenge -- "Data mining atomically resolved images for material properties", we first used the classic "blob detection" algorithms developed in computer vision to identify all atom centers in each STEM image frame. With the help of nearest neighbor analysis, we then found and labeled every atom center common to all the STEM frames and tracked their movements through the given time interval for both Molybdenum or Selenium atoms.

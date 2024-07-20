@@ -1,0 +1,3 @@
+Low Precision RNNs: Quantizing RNNs Without Losing Accuracy
+
+Similar to convolution neural networks, recurrent neural networks (RNNs) typically suffer from over-parameterization. Quantizing bit-widths of weights and activations results in runtime efficiency on hardware, yet it often comes at the cost of reduced accuracy. This paper proposes a quantization approach that increases model size with bit-width reduction. This approach will allow networks to perform at their baseline accuracy while still maintaining the benefits of reduced precision and overall model size reduction.

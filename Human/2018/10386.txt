@@ -1,0 +1,3 @@
+Synthesis of Tongue Motion and Acoustics from Text using a Multimodal Articulatory Database
+
+We present an end-to-end text-to-speech (TTS) synthesis system that generates audio and synchronized tongue motion directly from text. This is achieved by adapting a 3D model of the tongue surface to an articulatory dataset and training a statistical parametric speech synthesis system directly on the tongue model parameters. We evaluate the model at every step by comparing the spatial coordinates of predicted articulatory movements against the reference data. The results indicate a global mean Euclidean distance of less than 2.8 mm, and our approach can be adapted to add an articulatory modality to conventional TTS applications without the need for extra data.

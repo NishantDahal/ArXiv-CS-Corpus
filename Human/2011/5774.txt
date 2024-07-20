@@ -1,0 +1,3 @@
+Bit-Blasting ACL2 Theorems
+
+Interactive theorem proving requires a lot of human guidance.  Proving a property involves (1) figuring out why it holds, then (2) coaxing the theorem prover into believing it.  Both steps can take a long time.  We explain how to use GL, a framework for proving finite ACL2 theorems with BDD- or SAT-based reasoning.  This approach makes it unnecessary to deeply understand why a property is true, and automates the process of admitting it as a theorem.  We use GL at Centaur Technology to verify execution units for x86 integer, MMX, SSE, and floating-point arithmetic.

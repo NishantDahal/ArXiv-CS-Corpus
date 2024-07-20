@@ -1,0 +1,3 @@
+Robust Watertight Manifold Surface Generation Method for ShapeNet Models
+
+In this paper, we describe a robust algorithm for 2-Manifold generation of various kinds of ShapeNet Models. The input of our pipeline is a triangle mesh, with a set of vertices and triangular faces. The output of our pipeline is a 2-Manifold with vertices roughly uniformly distributed on the geometry surface. Our algorithm uses an octree to represent the original mesh, and construct the surface by isosurface extraction. Finally, we project the vertices to the original mesh to achieve high precision. As a result, our method can be adopted efficiently to all ShapeNet models with the guarantee of correct 2-Manifold topology.

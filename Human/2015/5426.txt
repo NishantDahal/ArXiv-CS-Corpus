@@ -1,0 +1,3 @@
+A Proof of Correctness for the Tardis Cache Coherence Protocol
+
+We prove the correctness of a recently-proposed cache coherence protocol, Tardis, which is simple, yet scalable to high processor counts, because it only requires O(logN) storage per cacheline for an N-processor system. We prove that Tardis follows the sequential consistency model and is both deadlock- and livelock-free. Our proof is based on simple and intuitive invariants of the system and thus applies to any system scale and many variants of Tardis.

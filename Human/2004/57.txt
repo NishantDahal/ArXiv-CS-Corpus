@@ -1,0 +1,3 @@
+Parameter-less Optimization with the Extended Compact Genetic Algorithm and Iterated Local Search
+
+This paper presents a parameter-less optimization framework that uses the extended compact genetic algorithm (ECGA) and iterated local search (ILS), but is not restricted to these algorithms. The presented optimization algorithm (ILS+ECGA) comes as an extension of the parameter-less genetic algorithm (GA), where the parameters of a selecto-recombinative GA are eliminated. The approach that we propose is tested on several well known problems. In the absence of domain knowledge, it is shown that ILS+ECGA is a robust and easy-to-use optimization method.

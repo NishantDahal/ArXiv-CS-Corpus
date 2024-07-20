@@ -1,0 +1,3 @@
+SweetRS: Dataset for a recommender systems of sweets
+
+Benchmarking recommender system and matrix completion algorithms could be greatly simplified if the entire matrix was known. We built a \url{sweetrs.org} platform with $77$ candies and sweets to rank. Over $2000$ users submitted over $44000$ grades resulting in a matrix with $28\%$ coverage. In this report, we give the full description of the environment and we benchmark the \textsc{Soft-Impute} algorithm on the dataset.

@@ -1,0 +1,4 @@
+Why Software Effort Estimation Needs SBSE
+
+Industrial practitioners now face a bewildering array of possible configurations for effort estimation. How to select the best one for a particular dataset?
+  This paper introduces OIL (short for optimized learning), a novel configuration tool for effort estimation based on differential evolution. When tested on 945 software projects, OIL significantly improved effort estimations, after exploring just a few configurations (just a few dozen). Further OIL's results are far better than two methods in widespread use: estimation-via-analogy and a recent state-of-the-art baseline published at TOSEM'15 by Whigham et al. Given that the computational cost of this approach is so low, and the observed improvements are so large, we conclude that SBSE should be a standard component of software effort estimation.

@@ -1,0 +1,3 @@
+Divide-and-Conquer 3D Convex Hulls on the GPU
+
+We describe a pure divide-and-conquer parallel algorithm for computing 3D convex hulls. We implement that algorithm on GPU hardware, and find a significant speedup over comparable CPU implementations.

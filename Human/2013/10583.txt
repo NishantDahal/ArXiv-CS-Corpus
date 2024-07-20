@@ -1,0 +1,3 @@
+An Event Structure Model for Probabilistic Concurrent Kleene Algebra
+
+We give a new true-concurrent model for probabilistic concurrent Kleene algebra. The model is based on probabilistic event structures, which combines ideas from Katoen's work on probabilistic concurrency and Varacca's probabilistic prime event structures. The event structures are compared with a true-concurrent version of Segala's probabilistic simulation. Finally, the algebraic properties of the model are summarised to the extent that they can be used to derive techniques such as probabilistic rely/guarantee inference rules.

@@ -1,0 +1,4 @@
+Multi-view pattern matching
+
+We introduce the \textit{multi-view pattern matching} problem, where a text can have multiple views. Each view is a string of the same size and drawn from disjoint alphabets. The pattern is drawn from the union of all alphabets.
+  The algorithm we present is an extension of the Horspool algorithm, and in our experiments on synthetic data it shows an $3 \times$ improvement over the naive baseline.

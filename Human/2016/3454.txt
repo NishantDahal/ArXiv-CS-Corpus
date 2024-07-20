@@ -1,0 +1,3 @@
+Distributed Newest Vertex Bisection
+
+Distributed adaptive conforming refinement requires multiple iterations of the serial refinement algorithm and global communication as the refinement can be propagated over several processor boundaries. We show bounds on the maximum number of iterations. The algorithm is implemented within the software package DUNE-ALUGrid.

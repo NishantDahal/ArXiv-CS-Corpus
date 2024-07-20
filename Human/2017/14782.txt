@@ -1,0 +1,3 @@
+Inferring Network Structure from Cascades
+
+Many physical, biological, and social phenomena can be described by cascades taking place on a network. Often, the activity can be empirically observed, but not the underlying network of interactions. In this paper we offer three topological methods to infer the structure of any directed network given a set of cascade arrival times. Our formulas hold for a very general class of models where the activation probability of a node is a generic function of its degree and the number of its active neighbors. We report high success rates for synthetic and real networks, for several different cascade models.

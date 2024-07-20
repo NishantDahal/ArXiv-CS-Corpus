@@ -1,0 +1,4 @@
+Robust Reductions
+
+We continue the study of robust reductions initiated by Gavalda and Balcazar. In particular, a 1991 paper of Gavalda and Balcazar claimed an optimal separation between the power of robust and nondeterministic strong reductions. Unfortunately, their proof is invalid. We re-establish their theorem.
+  Generalizing robust reductions, we note that robustly strong reductions are built from two restrictions, robust underproductivity and robust overproductivity, both of which have been separately studied before in other contexts. By systematically analyzing the power of these reductions, we explore the extent to which each restriction weakens the power of reductions. We show that one of these reductions yields a new, strong form of the Karp-Lipton Theorem.

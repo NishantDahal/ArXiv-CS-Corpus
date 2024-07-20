@@ -1,0 +1,5 @@
+Making I/O Virtualization Easy with Device Files
+
+Personal computers have diverse and fast-evolving I/O devices, making their I/O virtualization different from that of servers and data centers. In this paper, we present our recent endeavors in simplifying I/O virtualization for personal computers. Our key insight is that many operating systems, including Unix-like ones, abstract I/O devices as device files. There is a small and stable set of operations on device files, therefore, I/O virtualization at the device file boundary requires a one-time effort to support various I/O devices. 
+
+We present devirtualization, our design of I/O virtualization at the device file boundary and its implementation for Linux/x86 systems. We are able to virtualize various GPUs, input devices, cameras, and audio devices with fewer than 4900 LoC, of which only about 300 are specific to I/O device classes. Our measurements show that devirtualized devices achieve interactive performance indistinguishable from native ones by human users, even when running 3D HD games.

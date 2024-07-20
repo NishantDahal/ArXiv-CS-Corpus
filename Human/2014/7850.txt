@@ -1,0 +1,3 @@
+Even faster integer multiplication
+
+We give a new proof of Fürer's bound for the cost of multiplying n-bit integers in the bit complexity model. Unlike Fürer, our method does not require constructing special coefficient rings with "fast" roots of unity. Moreover, we prove the more explicit bound O(n log n K^(log^* n))$ with K = 8. We show that an optimised variant of Fürer's algorithm achieves only K = 16, suggesting that the new algorithm is faster than Fürer's by a factor of 2^(log^* n). Assuming standard conjectures about the distribution of Mersenne primes, we give yet another algorithm that achieves K = 4.

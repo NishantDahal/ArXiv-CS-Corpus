@@ -1,0 +1,3 @@
+Quickest Search over Brownian Channels
+
+In this paper we resolve an open problem proposed by Lai, Poor, Xin, and Georgiadis (2011, IEEE Transactions on Information Theory). Consider a sequence of Brownian Motions with unknown drift equal to one or zero, which we may be observed one at a time. We give a procedure for finding, as quickly as possible, a process which is a Brownian Motion with nonzero drift. This original quickest search problem, in which the filtration itself is dependent on the observation strategy, is reduced to a single filtration impulse control and optimal stopping problem, which is in turn reduced to an optimal stopping problem for a reflected diffusion, which can be explicitly solved.

@@ -1,0 +1,3 @@
+The Lax-Milgram Theorem. A detailed proof to be formalized in Coq
+
+To obtain the highest confidence on the correction of numerical simulation programs implementing the finite element method, one has to formalize the mathematical notions and results that allow to establish the soundness of the method. The Lax-Milgram theorem may be seen as one of those theoretical cornerstones: under some completeness and coercivity assumptions, it states existence and uniqueness of the solution to the weak formulation of some boundary value problems. The purpose of this document is to provide the formal proof community with a very detailed pen-and-paper proof of the Lax-Milgram theorem.

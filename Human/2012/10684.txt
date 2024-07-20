@@ -1,0 +1,3 @@
+State Evolution for General Approximate Message Passing Algorithms, with Applications to Spatial Coupling
+
+We consider a class of approximated message passing (AMP) algorithms and characterize their high-dimensional behavior in terms of a suitable state evolution recursion. Our proof applies to Gaussian matrices with independent but not necessarily identically distributed entries. It covers --in particular-- the analysis of generalized AMP, introduced by Rangan, and of AMP reconstruction in compressed sensing with spatially coupled sensing matrices. The proof technique builds on the one of [BM11], while simplifying and generalizing several steps.

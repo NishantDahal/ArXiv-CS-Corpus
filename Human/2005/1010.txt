@@ -1,0 +1,3 @@
+Semantics and simulation of communication in quantum programming
+
+We present the quantum programming language cQPL which is an extended version of QPL [P. Selinger, Math. Struct. in Comp. Sci. 14(4):527-586, 2004]. It is capable of quantum communication and it can be used to formulate all possible quantum algorithms. Additionally, it possesses a denotational semantics based on a partial order of superoperators and uses fixed points on a generalised Hilbert space to formalise (in addition to all standard features expected from a quantum programming language) the exchange of classical and quantum data between an arbitrary number of participants. Additionally, we present the implementation of a cQPL compiler which generates code for a quantum simulator.

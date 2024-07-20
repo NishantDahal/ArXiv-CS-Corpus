@@ -1,0 +1,3 @@
+miniAdapton: A Minimal Implementation of Incremental Computation in Scheme
+
+We describe a complete Scheme implementation of miniAdapton, which implements the core functionality of the Adapton system for incremental computation (also known as self-adjusting computation). Like Adapton, miniAdapton allows programmers to safely combine mutation and memoization. miniAdapton is built on top of an even simpler system, microAdapton. Both miniAdapton and microAdapton are designed to be easy to understand, extend, and port to host languages other than Scheme. We also present adapton variables, a new interface in Adapton for variables intended to represent expressions.

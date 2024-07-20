@@ -1,0 +1,4 @@
+Optimal Aggregation Algorithms for Middleware
+
+Let D be a database of N objects where each object has m fields. The objects are given in m sorted lists (where the ith list is sorted according to the ith field). Our goal is to find the top k objects according to a monotone aggregation function t, while minimizing access to the lists. The problem arises in several contexts. In particular Fagin (JCSS 1999) considered it for the purpose of aggregating information in a multimedia database system.
+  We are interested in instance optimality, i.e. that our algorithm will be as good as any other (correct) algorithm on any instance. We provide and analyze several instance optimal algorithms for the task, with various access costs and models.

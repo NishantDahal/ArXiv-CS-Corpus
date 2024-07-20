@@ -1,0 +1,3 @@
+Image Segmentation to Distinguish Between Overlapping Human Chromosomes
+
+In medicine, visualizing chromosomes is important for medical diagnostics, drug development, and biomedical research. Unfortunately, chromosomes often overlap and it is necessary to identify and distinguish between the overlapping chromosomes. A segmentation solution that is fast and automated will enable scaling of cost effective medicine and biomedical research. We apply neural network-based image segmentation to the problem of distinguishing between partially overlapping DNA chromosomes. A convolutional neural network is customized for this problem. The results achieved intersection over union (IOU) scores of 94.7% for the overlapping region and 88-94% on the non-overlapping chromosome regions.

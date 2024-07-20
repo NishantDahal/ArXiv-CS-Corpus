@@ -1,0 +1,3 @@
+On the Precision to Sort Line-Quadric Intersections
+
+To support exactly tracking a neutron moving along a given line segment through a CAD model with quadric surfaces, this paper considers the arithmetic precision required to compute the order of intersection points of two quadrics along the line segment. When the orders of all but one pair of intersections are known, we show that a resultant can resolve the order of the remaining pair using only half the precision that may be required to eliminate radicals by repeated squaring. We compare the time and accuracy of our technique with converting to extended precision to calculate roots.

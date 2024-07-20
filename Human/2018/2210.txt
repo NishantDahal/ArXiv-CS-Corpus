@@ -1,0 +1,3 @@
+Solving the Course-timetabling Problem of Cairo University Using Max-SAT
+
+Due to the good performance of current SAT (satisfiability) and Max-SAT (maximum ssatisfiability) solvers, many real-life optimization problems such as scheduling can be solved by encoding them into Max-SAT. In this paper we tackle the course timetabling problem of the department of mathematics, Cairo University by encoding it into Max-SAT. Generating timetables for the department by hand has proven to be cumbersome and the generated timetable almost always contains conflicts. We show how the constraints can be modelled as a Max-SAT instance.

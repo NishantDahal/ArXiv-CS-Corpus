@@ -1,0 +1,4 @@
+Colimits of Monads
+
+The category of all monads over many-sorted sets (and over other "set-like" categories) is proved to have coequalizers and strong cointersections. And a general diagram has a colimit whenever all the monads involved preserve monomorphisms and have arbitrarily large joint pre-fixpoints. In contrast, coequalizers fail to exist e.g. for monads over the (presheaf) category of graphs.
+  For more general categories we extend the results on coproducts of monads from [2]. We call a monad separated if, when restricted to monomorphisms, its unit has a complement. We prove that every collection of separated monads with arbitrarily large joint pre-fixpoints has a coproduct. And a concrete formula for these coproducts is presented.

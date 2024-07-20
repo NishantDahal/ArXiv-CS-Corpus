@@ -1,0 +1,6 @@
+Erasure Correcting Codes by Using Shift Operation and Exclusive OR
+
+This paper proposes an erasure correcting code and its systematic form for the distributed storage system.
+  The proposed codes are encoded by exclusive OR and bit-level shift operation.
+  By the shift operation, the encoded packets are slightly longer than the source packets.
+  This paper evaluates the extra length of encoded packets, called overhead, and shows that the proposed codes have smaller overheads than the zigzag decodable code, which is an existing code using exclusive OR and bit-level shift operation.

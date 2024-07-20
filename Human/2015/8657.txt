@@ -1,0 +1,3 @@
+Deadline-aware Power Management in Data Centers
+
+We study the dynamic power optimization problem in data centers. We formulate and solve the following offline problem: in which slot which server has to be assigned to which job; and in which slot which server has to be switched ON or OFF so that the total power is optimal for some time horizon. We show that the offline problem is a new version of generalized assignment problem including new constraints issuing from deadline characteristics of jobs and difference of activation energy of servers. We propose an online algorithm that solves the problem heuristically and compare it to randomized routing.

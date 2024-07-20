@@ -1,0 +1,3 @@
+Anveshak - A Groundtruth Generation Tool for Foreground Regions of Document Images
+
+We propose a graphical user interface based groundtruth generation tool in this paper. Here, annotation of an input document image is done based on the foreground pixels. Foreground pixels are grouped together with user interaction to form labeling units. These units are then labeled by the user with the user defined labels. The output produced by the tool is an image with an XML file containing its metadata information. This annotated data can be further used in different applications of document image analysis.

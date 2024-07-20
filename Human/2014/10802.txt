@@ -1,0 +1,4 @@
+Algorithms for Tolerant Tverberg Partitions
+
+Let $P$ be a $d$-dimensional $n$-point set. A partition $T$ of $P$ is called a Tverberg partition if the convex hulls of all sets in $T$ intersect in at least one point. We say $T$ is $t$-tolerant if it remains a Tverberg partition after deleting any $t$ points from $P$. Soberón and Strausz proved that there is always a $t$-tolerant Tverberg partition with $\lceil n / (d+1)(t+1) \rceil$ sets. However, so far no nontrivial algorithms for computing or approximating such partitions have been presented.
+  For $d \leq 2$, we show that the Soberón-Strausz bound can be improved, and we show how the corresponding partitions can be found in polynomial time. For $d \geq 3$, we give the first polynomial-time approximation algorithm by presenting a reduction to the Tverberg problem with no tolerance. Finally, we show that it is coNP-complete to determine whether a given Tverberg partition is t-tolerant.

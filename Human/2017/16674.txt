@@ -1,0 +1,3 @@
+Vertex Deletion Problems on Chordal Graphs
+
+Containing many classic optimization problems, the family of vertex deletion problems has an important position in algorithm and complexity study. The celebrated result of Lewis and Yannakakis gives a complete dichotomy of their complexity. It however has nothing to say about the case when the input graph is also special. This paper initiates a systematic study of vertex deletion problems from one subclass of chordal graphs to another. We give polynomial-time algorithms or proofs of NP-completeness for most of the problems. In particular, we show that the vertex deletion problem from chordal graphs to interval graphs is NP-complete.

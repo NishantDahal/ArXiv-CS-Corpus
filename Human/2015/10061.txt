@@ -1,0 +1,3 @@
+Feature Learning for Interaction Activity Recognition in RGBD Videos
+
+This paper proposes a human activity recognition method which is based on features learned from 3D video data without incorporating domain knowledge. The experiments on data collected by RGBD cameras produce results outperforming other techniques. Our feature encoding method follows the bag-of-visual-word model, then we use a SVM classifier to recognise the activities. We do not use skeleton or tracking information and the same technique is applied on color and depth data.

@@ -1,0 +1,4 @@
+Splitting full matrix algebras over algebraic number fields
+
+Let K be an algebraic number field of degree d and discriminant D over Q. Let A be an associative algebra over K given by structure constants such that A is isomorphic to the algebra M_n(K) of n by n matrices over K for some positive integer n. Suppose that d, n and D are bounded. Then an isomorphism of A with M_n(K) can be constructed by a polynomial time ff-algorithm. (An ff-algorithm is a deterministic procedure which is allowed to call oracles for factoring integers and factoring univariate polynomials over finite fields.)
+  As a consequence, we obtain a polynomial time ff-algorithm to compute isomorphisms of central simple algebras of bounded degree over K.

@@ -1,0 +1,3 @@
+Convex Optimization of Real Time SoC
+
+Convex optimization methods are employed to optimize a real-time (RT) system-on-chip (SoC) under a variety of physical resource-driven constraints, demonstrated on an industry MPEG2 encoder SoC. The power optimization is compared to conventional performance-optimization framework, showing a factor of two and a half saving in power. Convex optimization is shown to be very efficient in a high-level early stage design exploration, guiding computer architects as to the choice of area, voltage, and frequency of the individual components of the Chip Multiprocessor (CMP).

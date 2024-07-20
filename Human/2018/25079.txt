@@ -1,0 +1,3 @@
+Towards quantitative methods to assess network generative models
+
+Assessing generative models is not an easy task. Generative models should synthesize graphs which are not replicates of real networks but show topological features similar to real graphs. We introduce an approach for assessing graph generative models using graph classifiers. The inability of an established graph classifier for distinguishing real and synthesized graphs could be considered as a performance measurement for graph generators.

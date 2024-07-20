@@ -1,0 +1,3 @@
+Automata and Graph Compression
+
+We present a theoretical framework for the compression of automata, which are widely used in speech processing and other natural language processing tasks. The framework extends to graph compression. Similar to stationary ergodic processes, we formulate a probabilistic process of graph and automata generation that captures real world phenomena and provide a universal compression scheme LZA for this probabilistic model. Further, we show that LZA significantly outperforms other compression techniques such as gzip and the UNIX compress command for several synthetic and real data sets.

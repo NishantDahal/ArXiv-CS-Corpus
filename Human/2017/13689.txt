@@ -1,0 +1,3 @@
+Asymptotic Optimality of Rapidly Exploring Random Tree
+
+In this paper we investigate the asymptotic optimality property of a randomized sampling based motion planner, namely RRT. We prove that a RRT planner is not an asymptotically optimal motion planner. Our result, while being consistent with similar results which exist in the literature, however, brings out an important characteristics of a RRT planner. We show that the degree distribution of the tree vertices follows a power law in an asymptotic sense. A simulation result is presented to support the theoretical claim. Based on these results we also try to establish a simple necessary condition for sampling based motion planners to be asymptotically optimal.

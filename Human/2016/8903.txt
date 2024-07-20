@@ -1,0 +1,4 @@
+On degeneration of tensors and algebras
+
+An important building block in all current asymptotically fast algorithms for matrix multiplication are tensors with low border rank, that is, tensors whose border rank is equal or very close to their size. To find new asymptotically fast algorithms for matrix multiplication, it seems to be important to understand those tensors whose border rank is as small as possible, so called tensors of minimal border rank.
+  We investigate the connection between degenerations of associative algebras and degenerations of their structure tensors in the sense of Strassen. It allows us to describe an open subset of $n \times n \times n$ tensors of minimal border rank in terms of smoothability of commutative algebras. We describe the smoothable algebra associated to the Coppersmith-Winograd tensor and prove a lower bound for the border rank of the tensor used in the "easy construction" of Coppersmith and Winograd.

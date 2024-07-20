@@ -1,0 +1,3 @@
+Improving search order for reachability testing in timed automata
+
+Standard algorithms for reachability analysis of timed automata are sensitive to the order in which the transitions of the automata are taken. To tackle this problem, we propose a ranking system and a waiting strategy. This paper discusses the reason why the search order matters and shows how a ranking system and a waiting strategy can be integrated into the standard reachability algorithm to alleviate and prevent the problem respectively. Experiments show that the combination of the two approaches gives optimal search order on standard benchmarks except for one example. This suggests that it should be used instead of the standard BFS algorithm for reachability analysis of timed automata.

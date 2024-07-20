@@ -1,0 +1,4 @@
+A Simple Java Code Generator for ACL2 Based on a Deep Embedding of ACL2 in Java
+
+AIJ (ACL2 In Java) is a deep embedding in Java of an executable, side-effect-free, non-stobj-accessing subset of the ACL2 language without guards. ATJ (ACL2 To Java) is a simple Java code generator that turns ACL2 functions into AIJ representations that are evaluated by the AIJ interpreter. AIJ and ATJ enable possibly verified ACL2 code to run as, and interoperate with, Java code, without much of the ACL2 framework or any of the Lisp runtime. The current speed of the resulting Java code may be adequate to some applications.
+

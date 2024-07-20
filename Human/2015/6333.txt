@@ -1,0 +1,3 @@
+On-line list colouring of random graphs
+
+In this paper, the on-line list colouring of binomial random graphs G(n,p) is studied. We show that the on-line choice number of G(n,p) is asymptotically almost surely asymptotic to the chromatic number of G(n,p), provided that the average degree d=p(n-1) tends to infinity faster than (log log n)^1/3(log n)^2n^(2/3). For sparser graphs, we are slightly less successful; we show that if d>(log n)^(2+epsilon) for some epsilon>0, then the on-line choice number is larger than the chromatic number by at most a multiplicative factor of C, where C in [2,4], depending on the range of d. Also, for d=O(1), the on-line choice number is by at most a multiplicative constant factor larger than the chromatic number.

@@ -1,0 +1,3 @@
+Visual Estimation of Building Condition with Patch-level ConvNets
+
+The condition of a building is an important factor for real estate valuation. Currently, the estimation of condition is determined by real estate appraisers which makes it subjective to a certain degree. We propose a novel vision-based approach for the assessment of the building condition from exterior views of the building. To this end, we develop a multi-scale patch-based pattern extraction approach and combine it with convolutional neural networks to estimate building condition from visual clues. Our evaluation shows that visually estimated building condition can serve as a proxy for condition estimates by appraisers.

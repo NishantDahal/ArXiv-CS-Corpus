@@ -1,0 +1,3 @@
+Head Automata for Speech Translation
+
+This paper presents statistical language and translation models based on collections of small finite state machines we call ``head automata''. The models are intended to capture the lexical sensitivity of N-gram models and direct statistical translation models, while at the same time taking account of the hierarchical phrasal structure of language. Two types of head automata are defined: relational head automata suitable for translation by transfer of dependency trees, and head transducers suitable for direct recursive lexical translation.

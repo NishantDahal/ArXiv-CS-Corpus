@@ -1,0 +1,3 @@
+Quantum Private Information Retrieval with Sublinear Communication Complexity
+
+This note presents a quantum protocol for private information retrieval, in the single-server case and with information-theoretical privacy, that has O(\sqrt{n})-qubit communication complexity, where n denotes the size of the database. In comparison, it is known that any classical protocol must use Ω(n) bits of communication in this setting.

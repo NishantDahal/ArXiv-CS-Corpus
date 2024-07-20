@@ -1,0 +1,3 @@
+On testing substitutability
+
+The papers~\cite{hatfimmokomi11} and~\cite{azizbrilharr13} propose algorithms for testing whether the choice function induced by a (strict) preference list of length $N$ over a universe $U$ is substitutable. The running time of these algorithms is $O(|U|^3\cdot N^3)$, respectively $O(|U|^2\cdot N^3)$. In this note we present an algorithm with running time $O(|U|^2\cdot N^2)$. Note that $N$ may be exponential in the size $|U|$ of the universe.

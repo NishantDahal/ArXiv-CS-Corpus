@@ -1,0 +1,3 @@
+Math Indexer and Searcher Web Interface: Towards Fulfillment of Mathematicians' Information Needs
+
+We are designing and developing a web user interface for digital mathematics libraries called WebMIaS. It allows queries to be expressed by mathematicians through a faceted search interface. Users can combine standard textual autocompleted keywords with keywords in the form of mathematical formulae in LaTeX or MathML formats. Formulae are shown rendered by the web browser on-the-fly for users' feedback. We describe WebMIaS design principles and our experiences deploying in the European Digital Mathematics Library (EuDML). We further describe the issues addressed by formulae canonicalization and by extending the MIaS indexing engine with Content MathML support.

@@ -1,0 +1,3 @@
+Energy-efficient Routing of Hybrid Vehicles
+
+We consider a constrained shortest path problem with two resources. These two resources can be converted into each other in a particular manner. Our practical application is the energy optimal routing of hybrid vehicles. Due to the possibility of converting fuel into electric energy this setting adds new characteristics and new combinatorial possibilities to the common constrained shortest path problem (CSP). We formulate the resulting problem as a generalization of CSP. We show that optimal paths in this model may contain cycles and we state conditions to prevent them. The main contribution is a polynomial-time approximation scheme and a simpler approximation algorithm for computing energy-optimal paths in graphs.

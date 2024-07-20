@@ -1,0 +1,3 @@
+A Bird's eye view of Matrix Distributed Processing
+
+We present Matrix Distributed Processing, a C++ library for fast development of efficient parallel algorithms. MDP is based on MPI and consists of a collection of C++ classes and functions such as lattice, site and field. Once an algorithm is written using these components the algorithm is automatically parallel and no explicit call to communication functions is required. MDP is particularly suitable for implementing parallel solvers for multi-dimensional differential equations and mesh-like problems.

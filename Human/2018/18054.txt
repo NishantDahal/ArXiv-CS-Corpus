@@ -1,0 +1,3 @@
+Jensen: An Easily-Extensible C++ Toolkit for Production-Level Machine Learning and Convex Optimization
+
+This paper introduces Jensen, an easily extensible and scalable toolkit for production-level machine learning and convex optimization. Jensen implements a framework of convex (or loss) functions, convex optimization algorithms (including Gradient Descent, L-BFGS, Stochastic Gradient Descent, Conjugate Gradient, etc.), and a family of machine learning classifiers and regressors (Logistic Regression, SVMs, Least Square Regression, etc.). This framework makes it possible to deploy and train models with a few lines of code, and also extend and build upon this by integrating new loss functions and optimization algorithms.

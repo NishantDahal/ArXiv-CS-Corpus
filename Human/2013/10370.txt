@@ -1,0 +1,4 @@
+Arbitrary Sequence RAMs
+
+It is known that in some cases a Random Access Machine (RAM) benefits from having an additional input that is an arbitrary number, satisfying only the criterion of being sufficiently large. This is known as the ARAM model. We introduce a new type of RAM, which we refer to as the Arbitrary Sequence RAM (ASRAM), that generalises the ARAM by allowing the generation of additional arbitrary large numbers at will during execution time. We characterise the power contribution of this ability under several RAM variants.
+  In particular, we demonstrate that an arithmetic ASRAM is more powerful than an arithmetic ARAM, that a sufficiently equipped ASRAM can recognise any language in the arithmetic hierarchy in constant time (and more, if it is given more time), and that, on the other hand, in some cases the ASRAM is no more powerful than its underlying RAM.

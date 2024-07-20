@@ -1,0 +1,6 @@
+A Combination of Testability and Decodability by Tensor Products
+
+Ben-Sasson and Sudan (RSA 2006) showed that repeated tensor products of linear codes with a very large distance are locally testable. Due to the requirement of a very large distance the associated tensor products could be applied only over sufficiently large fields. Then Meir (SICOMP 2009) used this result (as a black box) to present a combinatorial construction of locally testable codes that match best known parameters. As a consequence, this construction was obtained over sufficiently large fields.
+  In this paper we improve the result of Ben-Sasson and Sudan and show that for \emph{any} linear codes the associated tensor products are locally testable. Consequently, the construction of Meir can be taken over any field, including the binary field.
+  Moreover, a combination of our result with the result of Spielman (IEEE IT, 1996) implies a construction of linear codes (over any field) that combine the following properties: have constant rate and constant relative distance; have blocklength $n$ and testable with $n^ε$ queries, for any constant $ε> 0$; linear time encodable and linear-time decodable from a constant fraction of errors. 
+  Furthermore, a combination of our result with the result of Guruswami et al. (STOC 2009) implies a similar corollary regarding the list-decodable codes.

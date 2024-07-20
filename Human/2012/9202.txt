@@ -1,0 +1,3 @@
+Increasing the failure recovery probability of atomic replacement approaches
+
+Web processes are made up of services as their units of functionality. The services are represented as a graph and compose a synergy of service. The composite service is prone to failure due to various causes. However, the end-user should receive a smooth and non-interrupted execution. Atomic replacement of a failed Web service to recover the system is a straightforward approach. Nevertheless, finding a similar service is not reliable. In order to increase the probability of the recovery of a failed composite service, a set of services is replaced with another similar set.

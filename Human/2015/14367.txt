@@ -1,0 +1,4 @@
+Cell identification in whole-brain multiview images of neural activation
+
+We present a scalable method for brain cell identification in multiview confocal light sheet microscopy images. Our algorithmic pipeline includes a hierarchical registration approach and a novel multiview version of semantic deconvolution that simultaneously enhance visibility of fluorescent cell bodies, equalize their contrast, and fuses adjacent views into a single 3D images on which cell identification is performed with mean shift.
+  We present empirical results on a whole-brain image of an adult Arc-dVenus mouse acquired at 4micron resolution. Based on an annotated test volume containing 3278 cells, our algorithm achieves an $F_1$ measure of 0.89.

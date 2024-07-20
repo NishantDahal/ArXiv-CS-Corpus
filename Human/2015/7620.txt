@@ -1,0 +1,3 @@
+CCNCheck: Enabling Checkpointed Distributed Applications in Content Centric Networks
+
+We consider the problem of checkpointing a distributed application efficiently in Content Centric Networks so that it can withstand transient failures. We present CCNCheck, a system which enables a sender optimized way of checkpointing distributed applications in CCN's and provides an efficient mechanism for failure recovery in such applications. CCNCheck's checkpointing mechanism is a fork of DMTCP repository CCNCheck is capable of running any distributed application written in C/C++ language.

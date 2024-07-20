@@ -1,0 +1,3 @@
+Compiling Relational Database Schemata into Probabilistic Graphical Models
+
+Instead of requiring a domain expert to specify the probabilistic dependencies of the data, in this work we present an approach that uses the relational DB schema to automatically construct a Bayesian graphical model for a database. This resulting model contains customized distributions for columns, latent variables that cluster the data, and factors that reflect and represent the foreign key links. Experiments demonstrate the accuracy of the model and the scalability of inference on synthetic and real-world data.

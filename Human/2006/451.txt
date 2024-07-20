@@ -1,0 +1,3 @@
+APHRODITE: an Anomaly-based Architecture for False Positive Reduction
+
+We present APHRODITE, an architecture designed to reduce false positives in network intrusion detection systems. APHRODITE works by detecting anomalies in the output traffic, and by correlating them with the alerts raised by the NIDS working on the input traffic. Benchmarks show a substantial reduction of false positives and that APHRODITE is effective also after a "quick setup", i.e. in the realistic case in which it has not been "trained" and set up optimally

@@ -1,0 +1,3 @@
+List Decoding of Locally Repairable Codes
+
+We show that locally repairable codes (LRCs) can be list decoded efficiently beyond the Johnson radius for a large range of parameters by utilizing the local error correction capabilities. The new decoding radius is derived and the asymptotic behavior is analyzed. We give a general list decoding algorithm for LRCs that achieves this radius along with an explicit realization for a class of LRCs based on Reed-Solomon codes (Tamo-Barg LRCs). Further, a probabilistic algorithm for unique decoding of low complexity is given and its success probability analyzed.

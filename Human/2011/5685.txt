@@ -1,0 +1,3 @@
+Deciding of HMM parameters based on number of critical points for gesture recognition from motion capture data
+
+This paper presents a method of choosing number of states of a HMM based on number of critical points of the motion capture data. The choice of Hidden Markov Models(HMM) parameters is crucial for recognizer's performance as it is the first step of the training and cannot be corrected automatically within HMM. In this article we define predictor of number of states based on number of critical points of the sequence and test its effectiveness against sample data.

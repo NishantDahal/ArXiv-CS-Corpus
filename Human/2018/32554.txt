@@ -1,0 +1,3 @@
+Unsupervised Attention-guided Image to Image Translation
+
+Current unsupervised image-to-image translation techniques struggle to focus their attention on individual objects without altering the background or the way multiple objects interact within a scene. Motivated by the important role of attention in human perception, we tackle this limitation by introducing unsupervised attention mechanisms that are jointly adversarialy trained with the generators and discriminators. We demonstrate qualitatively and quantitatively that our approach is able to attend to relevant regions in the image without requiring supervision, and that by doing so it achieves more realistic mappings compared to recent approaches.

@@ -1,0 +1,6 @@
+Functions that preserve p-randomness
+
+We show that polynomial-time randomness (p-randomness) is preserved under a variety of familiar operations, including addition and multiplication by a nonzero polynomial-time computable real number. These results follow from a general theorem: If $I$ is an open interval in the reals, $f$ is a function mapping $I$ into the reals, and $r$ in $I$ is p-random, then $f(r)$ is p-random provided
+  1. $f$ is p-computable on the dyadic rational points in $I$, and
+  2. $f$ varies sufficiently at $r$, i.e., there exists a real constant $C > 0$ such that either (a) $(f(x) - f(r))/(x-r) > C$ for all $x$ in $I$ with $x \ne r$, or (b) $(f(x) - f(r))(x-r) < -C$ for all $x$ in $I$ with $x \ne r$.
+  Our theorem implies in particular that any analytic function about a p-computable point whose power series has uniformly p-computable coefficients preserves p-randomness in its open interval of absolute convergence. Such functions include all the familiar functions from first-year calculus.

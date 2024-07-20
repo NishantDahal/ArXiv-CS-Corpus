@@ -1,0 +1,3 @@
+The Independence of Markov's Principle in Type Theory
+
+In this paper, we show that Markov's principle is not derivable in dependent type theory with natural numbers and one universe. One way to prove this would be to remark that Markov's principle does not hold in a sheaf model of type theory over Cantor space, since Markov's principle does not hold for the generic point of this model. Instead we design an extension of type theory, which intuitively extends type theory by the addition of a generic point of Cantor space. We then show the consistency of this extension by a normalization argument. Markov's principle does not hold in this extension, and it follows that it cannot be proved in type theory.

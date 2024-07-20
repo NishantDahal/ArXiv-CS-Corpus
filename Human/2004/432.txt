@@ -1,0 +1,4 @@
+Preferred Answer Sets for Ordered Logic Programs
+
+We extend answer set semantics to deal with inconsistent programs (containing classical negation), by finding a ``best'' answer set. Within the context of inconsistent programs, it is natural to have a partial order on rules, representing a preference for satisfying certain rules, possibly at the cost of violating less important ones. We show that such a rule order induces a natural order on extended answer sets, the minimal elements of which we call preferred answer sets. We characterize the expressiveness of the resulting semantics and show that it can simulate negation as failure, disjunction and some other formalisms such as logic programs with ordered disjunction. The approach is shown to be useful in several application areas, e.g. repairing database, where minimal repairs correspond to preferred answer sets.
+  To appear in Theory and Practice of Logic Programming (TPLP).

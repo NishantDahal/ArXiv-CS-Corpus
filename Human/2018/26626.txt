@@ -1,0 +1,3 @@
+On the Equivalence of Convolutional and Hadamard Networks using DFT
+
+In this paper we introduce activation functions that move the entire computation of Convolutional Networks into the frequency domain, where they are actually Hadamard Networks. To achieve this result we employ the properties of Discrete Fourier Transform. We present some implementation details and experimental results, as well as some insights into why convolutional networks perform well in learning use cases.

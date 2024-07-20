@@ -1,0 +1,3 @@
+On the Coordinator's Rule for Fast Paxos
+
+Fast Paxos is an algorithm for consensus that works by a succession of rounds, where each round tries to decide a value $v$ that is consistent with all past rounds. Rounds are started by a coordinator process and consistency is guaranteed by the rule used by this process for the selection of $v$ and by the properties of process sets called quorums. We show a simplified version of this rule for the specific case where the quorums are defined by the cardinality of these process sets. This rule is of special interest for implementors of the algorithm.

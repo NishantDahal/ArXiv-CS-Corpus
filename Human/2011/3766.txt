@@ -1,0 +1,4 @@
+A computability challenge: asymptotic bounds and isolated error-correcting codes
+
+Consider the set of all error--correcting block codes over a fixed alphabet with $q$ letters. It determines a recursively enumerable set of points in the unit square with coordinates $(R,δ)$:= {\it (relative transmission rate, relative minimal distance).} Limit points of this set form a closed subset, defined by $R\le α_q(δ)$, where $α_q(δ)$ is a continuous decreasing function called {\it asymptotic bound.} Its existence was proved by the author in 1981, but all attempts to find an explicit formula for it so far failed.
+  In this note I consider the question whether this function is computable in the sense of constructive mathematics, and discuss some arguments suggesting that the answer might be negative.

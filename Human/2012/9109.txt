@@ -1,0 +1,3 @@
+OpenCL/OpenGL approach for studying active Brownian motion
+
+This work presents a methodology for studying active Brownian dynamics on ratchet potentials using interoperating OpenCL and OpenGL frameworks. Programing details along with optimization issues are discussed, followed by a com- parison of performance on different devices. Time of visualization using OpenGL sharing buffer with OpenCL has been tested against another technique which, while using OpenGL, does not share memory buffer with OpenCL. Both methods have been compared with visualizing data to an external software - gnuplot. OpenCL/OpenGL interoperating method has been found the most appropriate to visualize any large set of data for which calculation itself is not very long.

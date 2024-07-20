@@ -1,0 +1,3 @@
+A Note On Boneh-Gentry-Waters Broadcast Encryption Scheme and Its Like
+
+Key establishment is any process whereby a shared secret key becomes available to two or more parties, for subsequent cryptographic use such as symmetric-key encryption. Though it is widely known that the primitive of encryption is different from key establishment, we find some researchers have confused the two primitives. In this note, we shall clarify the fundamental difference between the two primitives, and point out that the Boneh-Gentry-Waters broadcast encryption scheme and its like are key establishment schemes, not encryption schemes.

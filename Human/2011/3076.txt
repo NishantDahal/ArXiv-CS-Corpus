@@ -1,0 +1,4 @@
+Perspicuity and Granularity in Refinement
+
+This paper reconsiders refinements which introduce actions on the concrete level which were not present at the abstract level. It draws a distinction between concrete actions which are "perspicuous" at the abstract level, and changes of granularity of actions between different levels of abstraction.
+  The main contribution of this paper is in exploring the relation between these different methods of "action refinement", and the basic refinement relation that is used. In particular, it shows how the "refining skip" method is incompatible with failures-based refinement relations, and consequently some decisions in designing Event-B refinement are entangled.

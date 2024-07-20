@@ -1,0 +1,5 @@
+Computing downward closures for stacked counter automata
+
+The downward closure of a language $L$ of words is the set of all (not necessarily contiguous) subwords of members of $L$. It is well known that the downward closure of any language is regular. Although the downward closure seems to be a promising abstraction, there are only few language classes for which an automaton for the downward closure is known to be computable.
+  It is shown here that for stacked counter automata, the downward closure is computable. Stacked counter automata are finite automata with a storage mechanism obtained by \emph{adding blind counters} and \emph{building stacks}. Hence, they generalize pushdown and blind counter automata.
+  The class of languages accepted by these automata are precisely those in the hierarchy obtained from the context-free languages by alternating two closure operators: imposing semilinear constraints and taking the algebraic extension. The main tool for computing downward closures is the new concept of Parikh annotations. As a second application of Parikh annotations, it is shown that the hierarchy above is strict at every level.

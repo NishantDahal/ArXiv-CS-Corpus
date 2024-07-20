@@ -1,0 +1,3 @@
+Data-stationary Architecture to Execute Quantum Algorithms Classically
+
+This paper presents a data stationary architecture in which each word has an attached address field. Address fields massively update in parallel to record data interchanges. Words do not move until memory is read for post processing. A sea of such cells can test large-scale quantum algorithms, although other programming is possible.

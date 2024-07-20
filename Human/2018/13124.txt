@@ -1,0 +1,3 @@
+Blockchain Abstract Data Type
+
+The presented work continues the line of recent distributed computing communityefforts dedicated to the theoretical aspects of blockchains. This paper is the rst tospecify blockchains as a composition of abstract data types all together with a hierarchyof consistency criteria that formally characterizes the histories admissible for distributedprograms that use them. Our work is based on an original oracle-based constructionthat, along with new consistency deffnitions, captures the eventual convergence processin blockchain systems. The paper presents as well some results on implementability ofthe presented abstractions and a mapping of representative existing blockchains fromboth academia and industry in our framework.

@@ -1,0 +1,3 @@
+Waring's Theorem for Binary Powers
+
+A natural number is a binary $k$'th power if its binary representation consists of $k$ consecutive identical blocks. We prove an analogue of Waring's theorem for sums of binary $k$'th powers. More precisely, we show that for each integer $k \geq 2$, there exists a positive integer $W(k)$ such that every sufficiently large multiple of $E_k := \gcd(2^k - 1, k)$ is the sum of at most $W(k)$ binary $k$'th powers. (The hypothesis of being a multiple of $E_k$ cannot be omitted, since we show that the $\gcd$ of the binary $k$'th powers is $E_k$.) Also, we explain how our results can be extended to arbitrary integer bases $b > 2$.

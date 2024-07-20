@@ -1,0 +1,3 @@
+Estimating seed sensitivity on homogeneous alignments
+
+We address the problem of estimating the sensitivity of seed-based similarity search algorithms. In contrast to approaches based on Markov models [18, 6, 3, 4, 10], we study the estimation based on homogeneous alignments. We describe an algorithm for counting and random generation of those alignments and an algorithm for exact computation of the sensitivity for a broad class of seed strategies. We provide experimental results demonstrating a bias introduced by ignoring the homogeneousness condition.

@@ -1,0 +1,3 @@
+Lightweight Lempel-Ziv Parsing
+
+We introduce a new approach to LZ77 factorization that uses O(n/d) words of working space and O(dn) time for any d >= 1 (for polylogarithmic alphabet sizes). We also describe carefully engineered implementations of alternative approaches to lightweight LZ77 factorization. Extensive experiments show that the new algorithm is superior in most cases, particularly at the lowest memory levels and for highly repetitive data. As a part of the algorithm, we describe new methods for computing matching statistics which may be of independent interest.

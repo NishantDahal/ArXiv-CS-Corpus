@@ -1,0 +1,3 @@
+Simplifying Contract-Violating Traces
+
+Contract conformance is hard to determine statically, prior to the deployment of large pieces of software. A scalable alternative is to monitor for contract violations post-deployment: once a violation is detected, the trace characterising the offending execution is analysed to pinpoint the source of the offence. A major drawback with this technique is that, often, contract violations take time to surface, resulting in long traces that are hard to analyse. This paper proposes a methodology together with an accompanying tool for simplifying traces and assisting contract-violation debugging.

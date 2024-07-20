@@ -1,0 +1,3 @@
+Accelerating the Couveignes Rostovtsev Stolbunov key exchange protocol
+
+We study a key exchange protocol based on isogenies between ordinary elliptic curves over a finite field, first mentioned by Couveignes and investigated by Rostovtsev and Stolbunov. After presenting the fundamental notions about elliptic curves, we present the theory of complex multiplication which is the theoretical basis of this cryptosystem. Modular curves, which are an essential tool in the computations, are also introduced. We then present the protocol itself and original ideas to boost its practical performances. Finally, we discuss our implementation and practical results.

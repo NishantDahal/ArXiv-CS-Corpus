@@ -1,0 +1,3 @@
+Event-Triggered State Observers for Sparse Sensor Noise/Attacks
+
+This paper describes two algorithms for state reconstruction from sensor measurements that are corrupted with sparse, but otherwise arbitrary, "noise". These results are motivated by the need to secure cyber-physical systems against a malicious adversary that can arbitrarily corrupt sensor measurements. The first algorithm reconstructs the state from a batch of sensor measurements while the second algorithm is able to incorporate new measurements as they become available, in the spirit of a Luenberger observer. A distinguishing point of these algorithms is the use of event-triggered techniques to improve the computational performance of the proposed algorithms.

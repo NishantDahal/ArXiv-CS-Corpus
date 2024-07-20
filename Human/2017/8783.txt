@@ -1,0 +1,3 @@
+Using a Hamiltonian cycle problem algorithm to assist in solving difficult instances of Traveling Salesman Problem
+
+We describe a hybrid procedure for solving the traveling salesman problem (TSP) to provable optimality. We first sparsify the instance, and then use a hybrid algorithm that combines a branch-and-cut TSP solver with a Hamiltonian cycle problem solver. We demonstrate that this procedure enables us to solve difficult instances to optimality, including one which had remained unsolved since its construction in 2002.

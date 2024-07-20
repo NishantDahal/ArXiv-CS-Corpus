@@ -1,0 +1,3 @@
+Finding the vertices of the convex hull, even unordered, takes Omega(n log n) time -- a proof by reduction from epsilon-closeness
+
+We consider the problem of computing, given a set S of n points in the plane, which points of S are vertices of the convex hull of S. For certain variations of this problem, different proofs exist that the complexity of this problem in the algebraic decision tree model is Omega(n log n). This paper provides a relatively simple proof by reduction from epsilon-closeness.

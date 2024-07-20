@@ -1,0 +1,3 @@
+Compensating Demand Response Participants Via Their Shapley Values
+
+Designing fair compensation mechanisms for demand response (DR) is challenging. This paper models the problem in a game theoretic setting and designs a payment distribution mechanism based on the Shapley Value. As exact computation of the Shapley Value is in general intractable, we propose estimating it using a reinforcement learning algorithm that approximates optimal stratified sampling. We apply this algorithm to two DR programs that utilize the Shapley Value for payments and quantify the accuracy of the resulting estimates.

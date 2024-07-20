@@ -1,0 +1,3 @@
+Multi-Dimensional Hash Chains and Application to Micropayment Schemes
+
+One-way hash chains have been used in many micropayment schemes due to their simplicity and efficiency. In this paper we introduce the notion of multi-dimensional hash chains, which is a new generalization of traditional one-way hash chains. We show that this construction has storage-computational complexity of O(logN) per chain element, which is comparable with the best result reported in recent literature. Based on multi-dimensional hash chains, we then propose two cash-like micropayment schemes, which have a number of advantages in terms of efficiency and security. We also point out some possible improvements to PayWord and similar schemes by using multi-dimensional hash chains

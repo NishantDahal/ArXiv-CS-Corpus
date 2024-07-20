@@ -1,0 +1,4 @@
+Local Lexing
+
+We introduce a novel parsing concept called local lexing. It integrates the classically separated stages of lexing and parsing by allowing lexing to be dependent upon the parsing progress and by providing a simple mechanism for constraining lexical ambiguity. This makes it possible for language design to be composable not only at the level of context-free grammars, but also at the lexical level. It also makes it possible to include lightweight error-handling directly as part of the language specification instead of leaving it up to the implementation.
+  We present a high-level algorithm for local lexing, which is an extension of Earley's algorithm. We have formally verified the correctness of our algorithm with respect to its local lexing semantics in Isabelle/HOL.

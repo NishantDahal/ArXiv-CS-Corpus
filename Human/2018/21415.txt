@@ -1,0 +1,5 @@
+A topological characterization of Gauss codes
+
+A (smooth) embedding of a closed curve on the plane with finitely many intersections is said to be generic if each point of self-intersection is crossed exactly twice and at non-tangent angles. A finite word $ω$ where each character occurs twice is a Gauss code if it can be obtained as the sequence of traversed self-intersections of a generic plane embedding of a close curved $γ$. Then $γ$ is said to realize $ω$.
+  We present a characterization of Gauss codes using Seifert cycles. The characterization is given by an algorithm that, given a Gauss code $ω$ as input, it outputs a combinatorial plane embedding of closed curve in linear time with respect to the number of characters of the word. The algorithm allows to find all the (combinatorial) embeddings of a closed curve in the plane that realize $ω$.
+  The characterization involve two functions between graphs embedded on orientable surfaces, invertible of each other. One produces an embedding of the Seifert graph of the word (or paragraph), and the other is its inverse operation. These operations might be of independent interest.

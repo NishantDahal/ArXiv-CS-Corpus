@@ -1,0 +1,3 @@
+Block Interpolation: A Framework for Tight Exponential-Time Counting Complexity
+
+We devise a framework for proving tight lower bounds under the counting exponential-time hypothesis #ETH introduced by Dell et al. (ACM Transactions on Algorithms, 2014). Our framework allows us to convert classical #P-hardness results for counting problems into tight lower bounds under #ETH, thus ruling out algorithms with running time $2^{o(n)}$ on graphs with $n$ vertices and $O(n)$ edges. As exemplary applications of this framework, we obtain tight lower bounds under #ETH for the evaluation of the zero-one permanent, the matching polynomial, and the Tutte polynomial on all non-easy points except for one line. This remaining line was settled very recently by Brand et al. (IPEC 2016).

@@ -1,0 +1,3 @@
+Further analysis of the binary Euclidean algorithm
+
+The binary Euclidean algorithm is a variant of the classical Euclidean algorithm. It avoids multiplications and divisions, except by powers of two, so is potentially faster than the classical algorithm on a binary machine. We describe the binary algorithm and consider its average case behaviour. In particular, we correct some errors in the literature, discuss some results of Vallée, and describe a numerical computation which supports a conjecture of Vallée.

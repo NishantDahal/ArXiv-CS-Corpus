@@ -1,0 +1,3 @@
+Weakly Mutually Uncorrelated Codes
+
+We introduce the notion of weakly mutually uncorrelated (WMU) sequences, motivated by applications in DNA-based storage systems and synchronization protocols. WMU sequences are characterized by the property that no sufficiently long suffix of one sequence is the prefix of the same or another sequence. In addition, WMU sequences used in DNA-based storage systems are required to have balanced compositions of symbols and to be at large mutual Hamming distance from each other. We present a number of constructions for balanced, error-correcting WMU codes using Dyck paths, Knuth's balancing principle, prefix synchronized and cyclic codes.

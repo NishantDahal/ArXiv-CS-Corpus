@@ -1,0 +1,3 @@
+On-line construction of position heaps
+
+We propose a simple linear-time on-line algorithm for constructing a position heap for a string [Ehrenfeucht et al, 2011]. Our definition of position heap differs slightly from the one proposed in [Ehrenfeucht et al, 2011] in that it considers the suffixes ordered from left to right. Our construction is based on classic suffix pointers and resembles the Ukkonen's algorithm for suffix trees [Ukkonen, 1995]. Using suffix pointers, the position heap can be extended into the augmented position heap that allows for a linear-time string matching algorithm [Ehrenfeucht et al, 2011].

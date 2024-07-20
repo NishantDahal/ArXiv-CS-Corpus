@@ -1,0 +1,3 @@
+Reasoning about Graph Programs
+
+GP 2 is a non-deterministic programming language for computing by graph transformation. One of the design goals for GP 2 is syntactic and semantic simplicity, to facilitate formal reasoning about programs. In this paper, we demonstrate with four case studies how programmers can prove termination and partial correctness of their solutions. We argue that GP 2's graph transformation rules, together with induction on the length of program executions, provide a convenient framework for program verification.

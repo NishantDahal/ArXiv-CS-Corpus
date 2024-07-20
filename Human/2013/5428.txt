@@ -1,0 +1,3 @@
+Improving Diffusion-Based Molecular Communication with Unanchored Enzymes
+
+In this paper, we propose adding enzymes to the propagation environment of a diffusive molecular communication system as a strategy for mitigating intersymbol interference. The enzymes form reaction intermediates with information molecules and then degrade them so that they have a smaller chance of interfering with future transmissions. We present the reaction-diffusion dynamics of this proposed system and derive a lower bound expression for the expected number of molecules observed at the receiver. We justify a particle-based simulation framework, and present simulation results that show both the accuracy of our expression and the potential for enzymes to improve communication performance.

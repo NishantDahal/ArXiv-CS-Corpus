@@ -1,0 +1,3 @@
+A Polynomial Time MCMC Method for Sampling from Continuous DPPs
+
+We study the Gibbs sampling algorithm for continuous determinantal point processes. We show that, given a warm start, the Gibbs sampler generates a random sample from a continuous $k$-DPP defined on a $d$-dimensional domain by only taking $\text{poly}(k)$ number of steps. As an application, we design an algorithm to generate random samples from $k$-DPPs defined by a spherical Gaussian kernel on a unit sphere in $d$-dimensions, $\mathbb{S}^{d-1}$ in time polynomial in $k,d$.

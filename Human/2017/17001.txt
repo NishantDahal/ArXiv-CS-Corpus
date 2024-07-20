@@ -1,0 +1,3 @@
+Certificate Transparency with Privacy
+
+Certificate transparency (CT) is an elegant mechanism designed to detect when a certificate authority (CA) has issued a certificate incorrectly. Many CAs now support CT and it is being actively deployed in browsers. However, a number of privacy-related challenges remain. In this paper we propose practical solutions to two issues. First, we develop a mechanism that enables web browsers to audit a CT log without violating user privacy. Second, we extend CT to support non-public subdomains.

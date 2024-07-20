@@ -1,0 +1,3 @@
+The iisignature library: efficient calculation of iterated-integral signatures and log signatures
+
+Iterated-integral signatures and log signatures are vectors calculated from a path that characterise its shape. They come from the theory of differential equations driven by rough paths, and also have applications in statistics and machine learning. We present algorithms for efficiently calculating these signatures, and benchmark their performance. We release the methods as a Python package.

@@ -1,0 +1,3 @@
+Learning Efficient Correlated Equilibria
+
+The majority of distributed learning literature focuses on convergence to Nash equilibria. Correlated equilibria, on the other hand, can often characterize more efficient collective behavior than even the best Nash equilibrium. However, there are no existing distributed learning algorithms that converge to specific correlated equilibria. In this paper, we provide one such algorithm which guarantees that the agents' collective joint strategy will constitute an efficient correlated equilibrium with high probability. The key to attaining efficient correlated behavior through distributed learning involves incorporating a common random signal into the learning environment.

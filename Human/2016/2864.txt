@@ -1,0 +1,3 @@
+The VC-Dimension of Graphs with Respect to k-Connected Subgraphs
+
+We study the VC-dimension of the set system on the vertex set of some graph which is induced by the family of its $k$-connected subgraphs. In particular, we give tight upper and lower bounds for the VC-dimension. Moreover, we show that computing the VC-dimension is $\mathsf{NP}$-complete and that it remains $\mathsf{NP}$-complete for split graphs and for some subclasses of planar bipartite graphs in the cases $k = 1$ and $k = 2$. On the positive side, we observe it can be decided in linear time for graphs of bounded clique-width.

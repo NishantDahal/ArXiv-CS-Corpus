@@ -1,0 +1,7 @@
+A polynomial-time approximation algorithm for the number of k-matchings in bipartite graphs
+
+We show that the number of $k$-matching in a given undirected graph
+ $G$ is equal to the number of perfect matching of the corresponding graph
+ $G_k$ on an even number of vertices divided by a suitable factor.
+ If $G$ is bipartite then one can construct a bipartite $G_k$.
+ For bipartite graphs this result implies that the number of $k$-matching has a polynomial-time approximation algorithm. The above results are extended to permanents and hafnians of corresponding matrices.

@@ -1,0 +1,6 @@
+Noncooperative algorithms in self-assembly
+
+We show the first non-trivial positive algorithmic results (i.e. programs whose output is larger than their size), in a model of self-assembly that has so far resisted many attempts of formal analysis or programming: the planar non-cooperative variant of Winfree's abstract Tile Assembly Model.
+  This model has been the center of several open problems and conjectures in the last fifteen years, and the first fully general results on its computational power were only proven recently (SODA 2014). These results, as well as ours, exemplify the intricate connections between computation and geometry that can occur in self-assembly.
+  In this model, tiles can stick to an existing assembly as soon as one of their sides matches the existing assembly. This feature contrasts with the general cooperative model, where it can be required that tiles match on \emph{several} of their sides in order to bind.
+  In order to describe our algorithms, we also introduce a generalization of regular expressions called Baggins expressions. Finally, we compare this model to other automata-theoretic models.

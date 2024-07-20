@@ -1,0 +1,3 @@
+Theorem of three circles in Coq
+
+The theorem of three circles in real algebraic geometry guarantees the termination and correctness of an algorithm of isolating real roots of a univariate polynomial. The main idea of its proof is to consider polynomials whose roots belong to a certain area of the complex plane delimited by straight lines. After applying a transformation involving inversion this area is mapped to an area delimited by circles. We provide a formalisation of this rather geometric proof in Ssreflect, an extension of the proof assistant Coq, providing versatile algebraic tools. They allow us to formalise the proof from an algebraic point of view.

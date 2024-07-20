@@ -1,0 +1,3 @@
+Adaptive Gray World-Based Color Normalization of Thin Blood Film Images
+
+This paper presents an effective color normalization method for thin blood film images of peripheral blood specimens. Thin blood film images can easily be separated to foreground (cell) and background (plasma) parts. The color of the plasma region is used to estimate and reduce the differences arising from different illumination conditions. A second stage normalization based on the database-gray world algorithm transforms the color of the foreground objects to match a reference color character. The quantitative experiments demonstrate the effectiveness of the method and its advantages against two other general purpose color correction methods: simple gray world and Retinex.

@@ -1,0 +1,3 @@
+On OBDDs for CNFs of bounded treewidth
+
+In this paper we show that a CNF cannot be compiled into an Ordered Binary Decision Diagram (OBDD) of fixed-parameter size parameterized by the primal graph treewidth of the CNF. Thus we provide a parameterized separation between OBDDs and Sentential Decision Diagrams (SDDs) for which such fixed-parameter compilation is possible. In fact, we demonstrate that the proposed lower bound also yields a classical (non-parameterized) separation of OBDDs and SDDs. We also show that the best existing parameterized upper bound for OBDDs in fact holds for incidence graph treewidth parameterization.

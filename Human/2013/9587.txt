@@ -1,0 +1,3 @@
+Experiences from Software Engineering of Large Scale AMR Multiphysics Code Frameworks
+
+Among the present generation of multiphysics HPC simulation codes there are many that are built upon general infrastructural frameworks. This is especially true of the codes that make use of structured adaptive mesh refinement (SAMR) because of unique demands placed on the housekeeping aspects of the code. They have varying degrees of abstractions between the infrastructure such as mesh management and IO and the numerics of the physics solvers. In this experience report we summarize the experiences and lessons learned from two of such major software efforts, FLASH and Chombo.

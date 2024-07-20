@@ -1,0 +1,3 @@
+Extrinsic camera calibration method and its performance evaluation
+
+This paper presents a method for extrinsic camera calibration (estimation of camera rotation and translation matrices) from a sequence of images. It is assumed camera intrinsic matrix and distortion coefficients are known and fixed during the entire sequence. %This allows to decrease a number of pairs of corresponding keypoints between images needed to estimate epipolar geometry compared to uncalibrated case. Performance of the presented method is evaluated on a number of multi-view stereo test datasets. Presented algorithm can be used as a first stage in a dense stereo reconstruction system.

@@ -1,0 +1,3 @@
+Multiobjective Reinforcement Learning for Reconfigurable Adaptive Optimal Control of Manufacturing Processes
+
+In industrial applications of adaptive optimal control often multiple contrary objectives have to be considered. The weights (relative importance) of the objectives are often not known during the design of the control and can change with changing production conditions and requirements. In this work a novel model-free multiobjective reinforcement learning approach for adaptive optimal control of manufacturing processes is proposed. The approach enables sample-efficient learning in sequences of control configurations, given by particular objective weights.

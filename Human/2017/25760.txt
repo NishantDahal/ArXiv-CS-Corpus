@@ -1,0 +1,6 @@
+Approaching the Ad Placement Problem with Online Linear Classification: The winning solution to the NIPS'17 Ad Placement Challenge
+
+The task of computational advertising is to select the most suitable advertisement candidate from a set of possible options. The candidate is selected in such a way that the user is most likely to positively react to it: click and perform certain actions afterwards.
+  Choosing the best option is done by a "policy" -- an algorithm which learns from historical data and then is used for future actions. This way the policy should deliver better targeted content with higher chances of interactions.
+  Constructing the policy is a difficult problem and many researches and practitioners from both the industry and the academia are concerned with it. To advance the collaboration in this area, the organizers of NIPS'17 Workshop on Causal Inference and Machine Learning challenged the community to develop the best policy algorithm. The challenge is based on the data generously provided by Criteo from the logs of their production system.
+  In this report we describe the winning approach to the challenge: our team was able to achieve the IPS of 55.6 and secured the first position. Our solution is made available on GitHub.

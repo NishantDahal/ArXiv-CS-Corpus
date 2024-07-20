@@ -1,0 +1,3 @@
+On the use of BGP communities for fine-grained inbound traffic engineering
+
+In the context of Border Gateway Protocol (BGP), inbound inter-domain traffic engineering (TE) remains a difficult problem without panacea. Each of previously investigated method solves a part of the problem. In this study, we try to complement the map by exploring the use of BGP communities. With BGP community based polices enabled in transit provider networks, we are able to manipulate incoming traffic for stub Autonomous System (AS) in a finer granularity than known techniques by customizing the AS-paths perceived by remote networks. We analyze the constraints using this technique, along with its effectiveness and granularity.

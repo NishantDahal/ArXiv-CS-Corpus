@@ -1,0 +1,3 @@
+WiFi-Direct Simulation for INET in OMNeT++
+
+Wi-Fi Direct is a popular wireless technology which is integrated in most of today's smartphones and tablets. This technology allows a set of devices to dynamically negotiate and select a group owner which plays the role access point. This important feature is the strength of Wi-Fi Direct and makes it more and more widely used in telecommunications networks. In this paper, we present the implementation of Wi-Fi Direct in the INET framework of OMNeT++. We have implemented the main procedures of Wi-Fi Direct such as discovery, negotiation and group formation. The implementation has been validated by two test scenarios which show the conformity of the implementation to the protocol specification.

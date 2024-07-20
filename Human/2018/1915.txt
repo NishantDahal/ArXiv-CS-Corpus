@@ -1,0 +1,5 @@
+Constrained Submodular Maximization via Greedy Local Search
+
+We present a simple combinatorial $\frac{1 -e^{-2}}{2}$-approximation algorithm for maximizing a monotone submodular function subject to a knapsack and a matroid constraint.
+  This classic problem is known to be hard to approximate within factor better than $1 - 1/e$. We show that the algorithm can be extended to yield a ratio of $\frac{1 - e^{-(k+1)}}{k+1}$ for the problem with a single knapsack and the intersection of $k$ matroid constraints, for any fixed $k > 1$.
+  Our algorithms, which combine the greedy algorithm of [Khuller, Moss and Naor, 1999] and [Sviridenko, 2004] with local search, show the power of this natural framework in submodular maximization with combined constraints.

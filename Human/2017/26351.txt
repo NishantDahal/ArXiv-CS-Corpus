@@ -1,0 +1,5 @@
+Default Logic and Bounded Treewidth
+
+In this paper, we study Reiter's propositional default logic when the treewidth of a certain graph representation (semi-primal graph) of the input theory is bounded. We establish a dynamic programming algorithm on tree decompositions that decides whether a theory has a consistent stable extension (Ext). Our algorithm can even be used to enumerate all generating defaults (ExtEnum) that lead to stable extensions.
+  We show that our algorithm decides Ext in linear time in the input theory and triple exponential time in the treewidth (so-called fixed-parameter linear algorithm).
+  Further, our algorithm solves ExtEnum with a pre-computation step that is linear in the input theory and triple exponential in the treewidth followed by a linear delay to output solutions.

@@ -1,0 +1,4 @@
+Fooling Sets and the Spanning Tree Polytope
+
+In the study of extensions of polytopes of combinatorial optimization problems, a notorious open question is that for the size of the smallest extended formulation of the Minimum Spanning Tree problem on a complete graph with $n$ nodes. The best known lower bound is $Ω(n^2)$, the best known upper bound is $O(n^3)$.
+  In this note we show that the venerable fooling set method cannot be used to improve the lower bound: every fooling set for the Spanning Tree polytope has size $O(n^2)$.

@@ -1,0 +1,3 @@
+On the use of FHT, its modification for practical applications and the structure of Hough image
+
+This work focuses on the Fast Hough Transform (FHT) algorithm proposed by M.L. Brady. We propose how to modify the standard FHT to calculate sums along lines within any given range of their inclination angles. We also describe a new way to visualise Hough-image based on regrouping of accumulator space around its center. Finally, we prove that using Brady parameterization transforms any line into a figure of type "angle".

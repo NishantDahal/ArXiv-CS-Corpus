@@ -1,0 +1,3 @@
+Disparity Image Segmentation For ADAS
+
+We present a simple solution for segmenting grayscale images using existing Connected Component Labeling (CCL) algorithms (which are generally applied to binary images), which was efficient enough to be implemented in a constrained (embedded automotive) architecture. Our solution customizes the region growing and merging approach, and is primarily targeted for stereoscopic disparity images where nearer objects carry more relevance. We provide results from a standard OpenCV implementation for some basic cases and an image from the Tsukuba stereo-pair dataset.

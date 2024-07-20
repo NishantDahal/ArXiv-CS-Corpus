@@ -1,0 +1,3 @@
+A PDE-based log-agnostic illumination correction algorithm
+
+This report presents the results of a partial differential equation (PDE)-based image enhancement algorithm, for dynamic range compression and illumination correction in the absence of the logarithmic function. The proposed algorithm combines forward and reverse flows in a PDE-based formulation. The experimental results are compared with algorithms from the literature and indicate comparable performance in most cases.

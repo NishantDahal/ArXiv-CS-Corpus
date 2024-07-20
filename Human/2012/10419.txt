@@ -1,0 +1,3 @@
+Linear Time Lempel-Ziv Factorization: Simple, Fast, Small
+
+Computing the LZ factorization (or LZ77 parsing) of a string is a computational bottleneck in many diverse applications, including data compression, text indexing, and pattern discovery. We describe new linear time LZ factorization algorithms, some of which require only 2n log n + O(log n) bits of working space to factorize a string of length n. These are the most space efficient linear time algorithms to date, using n log n bits less space than any previous linear time algorithm. The algorithms are also practical, simple to implement, and very fast in practice.

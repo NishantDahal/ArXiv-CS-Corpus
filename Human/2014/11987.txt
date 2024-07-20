@@ -1,0 +1,3 @@
+Efficient and Robust Persistent Homology for Measures
+
+We extend the notion of the distance to a measure from Euclidean space to probability measures on general metric spaces as a way to do topological data analysis in a way that is robust to noise and outliers. We then give an efficient way to approximate the sub-level sets of this function by a union of metric balls and extend previous results on sparse Rips filtrations to this setting. This robust and efficient approach to topological data analysis is illustrated with several examples from an implementation.

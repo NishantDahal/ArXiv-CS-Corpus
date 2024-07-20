@@ -1,0 +1,3 @@
+MAGAN: Margin Adaptation for Generative Adversarial Networks
+
+We propose the Margin Adaptation for Generative Adversarial Networks (MAGANs) algorithm, a novel training procedure for GANs to improve stability and performance by using an adaptive hinge loss function. We estimate the appropriate hinge loss margin with the expected energy of the target distribution, and derive principled criteria for when to update the margin. We prove that our method converges to its global optimum under certain assumptions. Evaluated on the task of unsupervised image generation, the proposed training procedure is simple yet robust on a diverse set of data, and achieves qualitative and quantitative improvements compared to the state-of-the-art.

@@ -1,0 +1,3 @@
+Interleaver Design for Turbo Codes
+
+The performance of a Turbo code with short block length depends critically on the interleaver design. There are two major criteria in the design of an interleaver: the distance spectrum of the code and the correlation between the information input data and the soft output of each decoder corresponding to its parity bits. This paper describes a new interleaver design for Turbo codes with short block length based on these two criteria. A deterministic interleaver suitable for Turbo codes is also described. Simulation results compare the new interleaver design to different existing interleavers.

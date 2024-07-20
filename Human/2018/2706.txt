@@ -1,0 +1,3 @@
+Direct Learning to Rank and Rerank
+
+Learning-to-rank techniques have proven to be extremely useful for prioritization problems, where we rank items in order of their estimated probabilities, and dedicate our limited resources to the top-ranked items. This work exposes a serious problem with the state of learning-to-rank algorithms, which is that they are based on convex proxies that lead to poor approximations. We then discuss the possibility of "exact" reranking algorithms based on mathematical programming. We prove that a relaxed version of the "exact" problem has the same optimal solution, and provide an empirical analysis.

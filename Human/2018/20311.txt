@@ -1,0 +1,3 @@
+Directed Exploration in PAC Model-Free Reinforcement Learning
+
+We study an exploration method for model-free RL that generalizes the counter-based exploration bonus methods and takes into account long term exploratory value of actions rather than a single step look-ahead. We propose a model-free RL method that modifies Delayed Q-learning and utilizes the long-term exploration bonus with provable efficiency. We show that our proposed method finds a near-optimal policy in polynomial time (PAC-MDP), and also provide experimental evidence that our proposed algorithm is an efficient exploration method.

@@ -1,0 +1,3 @@
+Solving Shift Register Problems over Skew Polynomial Rings using Module Minimisation
+
+For many algebraic codes the main part of decoding can be reduced to a shift register synthesis problem. In this paper we present an approach for solving generalised shift register problems over skew polynomial rings which occur in error and erasure decoding of $\ell$-Interleaved Gabidulin codes. The algorithm is based on module minimisation and has time complexity $O(\ell μ^2)$ where $μ$ measures the size of the input problem.

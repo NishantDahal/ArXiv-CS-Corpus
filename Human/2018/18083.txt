@@ -1,0 +1,3 @@
+Improving the "Correct Eventual Consistency" Tool
+
+Preserving invariants while designing distributed applications under weak consistency models is difficult. The CEC (Correct Eventual Consistency Tool) is meant to aid the application designer in this task. It provides information about the errors during concurrent operations and suggestions on how and where to synchronize operations. This report presents two features of the tool: providing a counterexample for debugging and concurrency control suggestions.

@@ -1,0 +1,3 @@
+Feature Based Potential Field for Low-level Active Visual Navigation
+
+This paper proposes a novel solution for improving visual localization in an active fashion. The solution, based on artificial potential field, associates each feature in the current image frame with an attractive or neutral potential energy. The resultant action drives the vehicle towards the goal, while still favoring feature rich areas. Experimental results with a mini quadrotor equipped with a downward looking camera assess the performance of the proposed method.

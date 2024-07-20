@@ -1,0 +1,3 @@
+Rambrain - a library for virtually extending physical memory
+
+We introduce Rambrain, a user space library that manages memory consumption of your code. Using Rambrain you can overcommit memory over the size of physical memory present in the system. Rambrain takes care of temporarily swapping out data to disk and can handle multiples of the physical memory size present. Rambrain is thread-safe, OpenMP and MPI compatible and supports Asynchronous IO. The library was designed to require minimal changes to existing programs and to be easy to use.

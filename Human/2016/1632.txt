@@ -1,0 +1,3 @@
+Refinement types in Jolie
+
+Jolie is the first language for microservices and it is currently dynamically type checked. This paper considers the opportunity to integrate dynamic and static type checking with the introduction of refinement types, verified via SMT solver. The integration of the two aspects allows a scenario where the static verification of internal services and the dynamic verification of (potentially malicious) external services cooperates in order to reduce testing effort and enhancing security.

@@ -1,0 +1,3 @@
+TLA+ Proofs
+
+TLA+ is a specification language based on standard set theory and temporal logic that has constructs for hierarchical proofs. We describe how to write TLA+ proofs and check them with TLAPS, the TLA+ Proof System. We use Peterson's mutual exclusion algorithm as a simple example to describe the features of TLAPS and show how it and the Toolbox (an IDE for TLA+) help users to manage large, complex proofs.

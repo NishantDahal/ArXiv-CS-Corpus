@@ -1,0 +1,3 @@
+Geometric transformations of multidimensional color images based on NASS
+
+We present quantum algorithms to realize geometric transformations (two-point swappings, symmetric flips, local flips, orthogonal rotations, and translations) based on an $n$-qubit normal arbitrary superposition state (NASS). These transformations are implemented using quantum circuits consisting of basic quantum gates, which are constructed with polynomial numbers of single-qubit and two-qubit gates. Complexity analysis shows that the global operators (symmetric flips, local flips, orthogonal rotations) can be implemented with $O(n)$ gates. The proposed geometric transformations are used to facilitate applications of quantum images with low complexity.

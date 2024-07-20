@@ -1,0 +1,3 @@
+Optimizing quantization for Lasso recovery
+
+This letter is focused on quantized Compressed Sensing, assuming that Lasso is used for signal estimation. Leveraging recent work, we provide a framework to optimize the quantization function and show that the recovered signal converges to the actual signal at a quadratic rate as a function of the quantization level. We show that when the number of observations is high, this method of quantization gives a significantly better recovery rate than standard Lloyd-Max quantization. We support our theoretical analysis with numerical simulations.

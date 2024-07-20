@@ -1,0 +1,5 @@
+Precise Complexity Guarantees for Pointer Analysis via Datalog with Extensions
+
+Pointer analysis is a fundamental static program analysis for computing the set of objects that an expression can refer to. Decades of research has gone into developing methods of varying precision and efficiency for pointer analysis for programs that use different language features, but determining precisely how efficient a particular method is has been a challenge in itself.
+  For programs that use different language features, we consider methods for pointer analysis using Datalog and extensions to Datalog. When the rules are in Datalog, we present the calculation of precise time complexities from the rules using a new algorithm for decomposing rules for obtaining the best complexities. When extensions such as function symbols and universal quantification are used, we describe algorithms for efficiently implementing the extensions and the complexities of the algorithms.
+  This paper is under consideration for acceptance in TPLP.

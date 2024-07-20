@@ -1,0 +1,3 @@
+Reliability Models for Highly Fault-tolerant Storage Systems
+
+We found that a reliability model commonly used to estimate Mean-Time-To-Data-Loss (MTTDL), while suitable for modeling RAID 0 and RAID 5, fails to accurately model systems having a fault-tolerance greater than 1. Therefore, to model the reliability of RAID 6, Triple-Replication, or k-of-n systems requires an alternate technique. In this paper, we explore some alternatives, and evaluate their efficacy by comparing their predictions to simulations. Our main result is a new formula which more accurately models storage system reliability.

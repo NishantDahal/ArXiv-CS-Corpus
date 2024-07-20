@@ -1,0 +1,3 @@
+Lanczos $τ$-method optimal algorithm in APS for approximating the mathematical functions
+
+A new procedure is constructed by means of APS in APLAN language. The procedure solves the initial-value problem for linear differential equations of order $k$ with polynomial coefficients and regular singularity in the initialization point in the interval $[a, b]$ and computes the algebraic polynomial $y_n$ of given order $n$. A new algorithm of Lanczos $τ$-method is built for this procedure, the solution existence $y_n$ of the initial-value problem proved on this algorithm and also is proved the optimality by precision of order $k$ derivative of the initial-value problem solution.

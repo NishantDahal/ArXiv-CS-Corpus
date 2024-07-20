@@ -1,0 +1,3 @@
+Relative compression of trajectories
+
+We present RCT, a new compact data structure to represent trajectories of objects. It is based on a relative compression technique called Relative Lempel-Ziv (RLZ), which compresses sequences by applying an LZ77 encoding with respect to an artificial reference. Combined with $O(z)$-sized data structures on the sequence of phrases that allows to solve trajectory and spatio-temporal queries efficiently. We plan that RCT improves in compression and time performance the previous compressed representations in the state of the art.

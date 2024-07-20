@@ -1,0 +1,3 @@
+Adaptive Row-grouped CSR Format for Storing of Sparse Matrices on GPU
+
+We present new adaptive format for storing sparse matrices on GPU. We compare it with several other formats including CUSPARSE which is today probably the best choice for processing of sparse matrices on GPU in CUDA. Contrary to CUSPARSE which works with common CSR format, our new format requires conversion. However, multiplication of sparse-matrix and vector is significantly faster for many atrices. We demonstrate it on set of 1 600 matrices and we show for what types of matrices our format is profitable.

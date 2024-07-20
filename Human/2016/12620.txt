@@ -1,0 +1,3 @@
+Delta Epsilon Alpha Star: A PAC-Admissible Search Algorithm
+
+Delta Epsilon Alpha Star is a minimal coverage, real-time robotic search algorithm that yields a moderately aggressive search path with minimal backtracking. Search performance is bounded by a placing a combinatorial bound, epsilon and delta, on the maximum deviation from the theoretical shortest path and the probability at which further deviations can occur. Additionally, we formally define the notion of PAC-admissibility -- a relaxed admissibility criteria for algorithms, and show that PAC-admissible algorithms are better suited to robotic search situations than epsilon-admissible or strict algorithms.

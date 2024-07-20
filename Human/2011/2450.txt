@@ -1,0 +1,3 @@
+Link prediction in complex networks: a local naïve Bayes model
+
+Common-neighbor-based method is simple yet effective to predict missing links, which assume that two nodes are more likely to be connected if they have more common neighbors. In such method, each common neighbor of two nodes contributes equally to the connection likelihood. In this Letter, we argue that different common neighbors may play different roles and thus lead to different contributions, and propose a local naïve Bayes model accordingly. Extensive experiments were carried out on eight real networks. Compared with the common-neighbor-based methods, the present method can provide more accurate predictions. Finally, we gave a detailed case study on the US air transportation network.

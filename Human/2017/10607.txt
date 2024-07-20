@@ -1,0 +1,3 @@
+CDCL-inspired Word-level Learning for Bit-vector Constraint Solving
+
+The theory of quantifier-free bit-vectors (QF_BV) is of paramount importance in software verification. The standard approach for satisfiability checking reduces the bit-vector problem to a Boolean problem, leveraging the powerful SAT solving techniques and their conflict-driven clause learning (CDCL) mechanisms. Yet, this bit-level approach loses the structure of the initial bit-vector problem. We propose a conflict-driven, word-level, combinable constraints learning for the theory of quantifier-free bit-vectors. This work paves the way to truly word-level decision procedures for bit-vectors, taking full advantage of word-level propagations recently designed in CP and SMT communities.

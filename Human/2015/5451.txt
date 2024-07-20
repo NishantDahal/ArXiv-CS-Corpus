@@ -1,0 +1,3 @@
+Time Robustness in MTL and Expressivity in Hybrid System Falsification (Extended Version)
+
+Building on the work by Fainekos and Pappas and the one by Donze and Maler, we introduce AvSTL, an extension of metric interval temporal logic by averaged temporal operators. Its expressivity in capturing both space and time robustness helps solving falsification problems, (i.e. searching for a critical path in hybrid system models); it does so by communicating a designer's intention more faithfully to the stochastic optimization engine employed in a falsification solver. We also introduce a sliding window-like algorithm that keeps the cost of computing truth/robustness values tractable.

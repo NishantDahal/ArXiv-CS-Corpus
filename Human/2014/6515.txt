@@ -1,0 +1,3 @@
+On MITL and alternating timed automata over infinite words
+
+One clock alternating timed automata (OCATA) have been introduced as natural extension of (one clock) timed automata to express the semantics of MTL. In this paper, we consider the application of OCATA to the problems of model-checking and satisfiability for MITL (a syntactic fragment of MTL), interpreted over infinite words. Our approach is based on the interval semantics (recently introduced in [BEG13] in the case of finite words) extended to infinite words. We propose region-based and zone-based algorithms, based on this semantics, for MITL model-checking and satisfiability. We report on the performance of a prototype tool implementing those algorithms.

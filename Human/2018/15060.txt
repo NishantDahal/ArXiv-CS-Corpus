@@ -1,0 +1,5 @@
+Parameter-Independent Strategies for pMDPs via POMDPs
+
+Markov Decision Processes (MDPs) are a popular class of models suitable for solving control decision problems in probabilistic reactive systems. We consider parametric MDPs (pMDPs) that include parameters in some of the transition probabilities to account for stochastic uncertainties of the environment such as noise or input disturbances.
+  We study pMDPs with reachability objectives where the parameter values are unknown and impossible to measure directly during execution, but there is a probability distribution known over the parameter values. We study for the first time computing parameter-independent strategies that are expectation optimal, i.e., optimize the expected reachability probability under the probability distribution over the parameters. We present an encoding of our problem to partially observable MDPs (POMDPs), i.e., a reduction of our problem to computing optimal strategies in POMDPs.
+  We evaluate our method experimentally on several benchmarks: a motivating (repeated) learner model; a series of benchmarks of varying configurations of a robot moving on a grid; and a consensus protocol.

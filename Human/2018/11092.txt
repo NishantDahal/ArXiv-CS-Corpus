@@ -1,0 +1,4 @@
+The unified higher-order dependency pair framework
+
+In recent years, two higher-order extensions of the powerful dependency pair approach for termination analysis of first-order term rewriting have been defined: the static and the dynamic approach. Both approaches offer distinct advantages and disadvantages. However, a grand unifying theory is thus far missing, and both approaches lack the modularity present in the dependency pair framework commonly used in first-order rewriting. Moreover, neither approach can be used to prove non-termination.
+  In this paper, we aim to address this gap by defining a higher-order dependency pair framework, integrating both approaches into a shared formal setup. The framework has been implemented in the (fully automatic) higher-order termination tool WANDA.

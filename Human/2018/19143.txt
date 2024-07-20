@@ -1,0 +1,3 @@
+Path Finding for the Coalition of Co-operative Agents Acting in the Environment with Destructible Obstacles
+
+The problem of planning a set of paths for the coalition of robots (agents) with different capabilities is considered in the paper. Some agents can modify the environment by destructing the obstacles thus allowing the other ones to shorten their paths to the goal. As a result the mutual solution of lower cost, e.g. time to completion, may be acquired. We suggest an original procedure to identify the obstacles for further removal that can be embedded into almost any heuristic search planner (we use Theta*) and evaluate it empirically. Results of the evaluation show that time-to-complete the mission can be decreased up to 9-12 % by utilizing the proposed technique.

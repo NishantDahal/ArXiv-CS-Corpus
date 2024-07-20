@@ -1,0 +1,3 @@
+Proving correctness of Timed Concurrent Constraint Programs
+
+A temporal logic is presented for reasoning about the correctness of timed concurrent constraint programs. The logic is based on modalities which allow one to specify what a process produces as a reaction to what its environment inputs. These modalities provide an assumption/commitment style of specification which allows a sound and complete compositional axiomatization of the reactive behavior of timed concurrent constraint programs.

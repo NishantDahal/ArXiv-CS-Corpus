@@ -1,0 +1,3 @@
+Robust Low-Complexity Randomized Methods for Locating Outliers in Large Matrices
+
+This paper examines the problem of locating outlier columns in a large, otherwise low-rank matrix, in settings where {}{the data} are noisy, or where the overall matrix has missing elements. We propose a randomized two-step inference framework, and establish sufficient conditions on the required sample complexities under which these methods succeed (with high probability) in accurately locating the outliers for each task. Comprehensive numerical experimental results are provided to verify the theoretical bounds and demonstrate the computational efficiency of the proposed algorithm.

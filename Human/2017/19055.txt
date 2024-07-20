@@ -1,0 +1,3 @@
+Drawing Dynamic Graphs Without Timeslices
+
+Timeslices are often used to draw and visualize dynamic graphs. While timeslices are a natural way to think about dynamic graphs, they are routinely imposed on continuous data. Often, it is unclear how many timeslices to select: too few timeslices can miss temporal features such as causality or even graph structure while too many timeslices slows the drawing computation. We present a model for dynamic graphs which is not based on timeslices, and a dynamic graph drawing algorithm, DynNoSlice, to draw graphs in this model. In our evaluation, we demonstrate the advantages of this approach over timeslicing on continuous data sets.

@@ -1,0 +1,3 @@
+The Polylingual Labeled Topic Model
+
+In this paper, we present the Polylingual Labeled Topic Model, a model which combines the characteristics of the existing Polylingual Topic Model and Labeled LDA. The model accounts for multiple languages with separate topic distributions for each language while restricting the permitted topics of a document to a set of predefined labels. We explore the properties of the model in a two-language setting on a dataset from the social science domain. Our experiments show that our model outperforms LDA and Labeled LDA in terms of their held-out perplexity and that it produces semantically coherent topics which are well interpretable by human subjects.

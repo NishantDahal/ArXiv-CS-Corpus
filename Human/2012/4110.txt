@@ -1,0 +1,5 @@
+Upper bounds for centerlines
+
+In 2008, Bukh, Matousek, and Nivasch conjectured that for every n-point set S in R^d and every k, 0 <= k <= d-1, there exists a k-flat f in R^d (a "centerflat") that lies at "depth" (k+1) n / (k+d+1) - O(1) in S, in the sense that every halfspace that contains f contains at least that many points of S. This claim is true and tight for k=0 (this is Rado's centerpoint theorem), as well as for k = d-1 (trivial). Bukh et al. showed the existence of a (d-2)-flat at depth (d-1) n / (2d-1) - O(1) (the case k = d-2).
+  In this paper we concentrate on the case k=1 (the case of "centerlines"), in which the conjectured value for the leading constant is 2/(d+2). We prove that 2/(d+2) is an *upper bound* for the leading constant. Specifically, we show that for every fixed d and every n there exists an n-point set in R^d for which no line in R^d lies at depth larger than 2n/(d+2) + o(n). This point set is the "stretched grid"---a set which has been previously used by Bukh et al. for other related purposes.
+  Hence, in particular, the conjecture is now settled for R^3.

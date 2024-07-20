@@ -1,0 +1,4 @@
+Ultimate approximations in nonmonotonic knowledge representation systems
+
+We study fixpoints of operators on lattices. To this end we introduce the notion of an approximation of an operator. We order approximations by means of a precision ordering. We show that each lattice operator O has a unique most precise or ultimate approximation. We demonstrate that fixpoints of this ultimate approximation provide useful insights into fixpoints of the operator O.
+  We apply our theory to logic programming and introduce the ultimate Kripke-Kleene, well-founded and stable semantics. We show that the ultimate Kripke-Kleene and well-founded semantics are more precise then their standard counterparts We argue that ultimate semantics for logic programming have attractive epistemological properties and that, while in general they are computationally more complex than the standard semantics, for many classes of theories, their complexity is no worse.

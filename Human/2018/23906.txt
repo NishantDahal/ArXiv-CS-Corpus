@@ -1,0 +1,3 @@
+Distances for WiFi Based Topological Indoor Mapping
+
+For localization and mapping of indoor environments through WiFi signals, locations are often represented as likelihoods of the received signal strength indicator. In this work we compare various measures of distance between such likelihoods in combination with different methods for estimation and representation. In particular, we show that among the considered distance measures the Earth Mover's Distance seems the most beneficial for the localization task. Combined with kernel density estimation we were able to retain the topological structure of rooms in a real-world office scenario.

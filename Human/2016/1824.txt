@@ -1,0 +1,3 @@
+An Approach for Noise Removal on Depth Images
+
+Image based rendering is a fundamental problem in computer vision and graphics. Modern techniques often rely on depth image for the 3D construction. However for most of the existing depth cameras, the large and unpredictable noises can be problematic, which can cause noticeable artifacts in the rendered results. In this paper, we proposed an efficacious method for depth image noise removal that can be applied for most RGBD systems. The proposed solution will benefit many subsequent vision problems such as 3D reconstruction, novel view rendering, object recognition. Our experimental results demonstrate the efficacy and accuracy.

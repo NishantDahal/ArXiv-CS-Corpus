@@ -1,0 +1,3 @@
+On the NP-Completeness of Some Graph Cluster Measures
+
+Graph clustering is the problem of identifying sparsely connected dense subgraphs (clusters) in a given graph. Proposed clustering algorithms usually optimize various fitness functions that measure the quality of a cluster within the graph. Examples of such cluster measures include the conductance, the local and relative densities, and single cluster editing. We prove that the decision problems associated with the optimization tasks of finding the clusters that are optimal with respect to these fitness measures are NP-complete.

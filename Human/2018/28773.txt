@@ -1,0 +1,3 @@
+Adapting control policies from simulation to reality using a pairwise loss
+
+This paper proposes an approach to domain transfer based on a pairwise loss function that helps transfer control policies learned in simulation onto a real robot. We explore the idea in the context of a 'category level' manipulation task where a control policy is learned that enables a robot to perform a mating task involving novel objects. We explore the case where depth images are used as the main form of sensor input. Our experimental results demonstrate that proposed method consistently outperforms baseline methods that train only in simulation or that combine real and simulated data in a naive way.

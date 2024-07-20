@@ -1,0 +1,3 @@
+On a New Method of Storing a Variable Size Array
+
+This paper introduces a new data structure, log_vector, with the following properties: constant time random access to individual elements; constant time element addition to the end; constant time element removal from the end; constant time empty data structure creation; amortized constant space per individual elements; constant additional space used.

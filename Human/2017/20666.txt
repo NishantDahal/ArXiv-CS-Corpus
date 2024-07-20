@@ -1,0 +1,3 @@
+Average Stack Cost of Buechi Pushdown Automata
+
+We study the average stack cost of Buechi pushdown automata (Buechi PDA). We associate a non-negative price with each stack symbol and define the cost of a stack as the sum of costs of all its elements. We introduce and study the average stack cost problem (ASC), which asks whether there exists an accepting run of a given Buechi PDA such that the long-run average of stack costs is below some given threshold. The ASC problem generalizes mean-payoff objective and can be used to express quantitative properties of pushdown systems. In particular, we can compute the average response time using the ASC problem. We show that the ASC problem can be solved in polynomial time.

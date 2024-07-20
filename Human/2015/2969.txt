@@ -1,0 +1,4 @@
+Algorithms and complexity for Turaev-Viro invariants
+
+The Turaev-Viro invariants are a powerful family of topological invariants for distinguishing between different 3-manifolds. They are invaluable for mathematical software, but current algorithms to compute them require exponential time.
+  The invariants are parameterised by an integer $r \geq 3$. We resolve the question of complexity for $r=3$ and $r=4$, giving simple proofs that computing Turaev-Viro invariants for $r=3$ is polynomial time, but for $r=4$ is \#P-hard. Moreover, we give an explicit fixed-parameter tractable algorithm for arbitrary $r$, and show through concrete implementation and experimentation that this algorithm is practical---and indeed preferable---to the prior state of the art for real computation.

@@ -1,0 +1,3 @@
+CR-precis: A deterministic summary structure for update data streams
+
+We present the \crprecis structure, that is a general-purpose, deterministic and sub-linear data structure for summarizing \emph{update} data streams. The \crprecis structure yields the \emph{first deterministic sub-linear space/time algorithms for update streams} for answering a variety of fundamental stream queries, such as, (a) point queries, (b) range queries, (c) finding approximate frequent items, (d) finding approximate quantiles, (e) finding approximate hierarchical heavy hitters, (f) estimating inner-products, (g) near-optimal $B$-bucket histograms, etc..

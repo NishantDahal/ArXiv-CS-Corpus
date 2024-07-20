@@ -1,0 +1,3 @@
+The use of Ethernet in the DataFlow of the ATLAS Trigger & DAQ
+
+The article analyzes a proposed network topology for the ATLAS DAQ DataFlow, and identifies the Ethernet features required for a proper operation of the network: MAC address table size, switch performance in terms of throughput and latency, the use of Flow Control, Virtual LANs and Quality of Service. We investigate these features on some Ethernet switches, and conclude on their usefulness for the ATLAS DataFlow network.

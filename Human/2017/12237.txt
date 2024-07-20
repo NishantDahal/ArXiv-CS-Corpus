@@ -1,0 +1,3 @@
+A Resistive CAM Processing-in-Storage Architecture for DNA Sequence Alignment
+
+A novel processing-in-storage (PRinS) architecture based on Resistive CAM (ReCAM) is described and proposed for Smith-Waterman (S-W) sequence alignment. The ReCAM massively-parallel compare operation finds matching base-pairs in a fixed number of cycles, regardless of sequence length. The ReCAM PRinS S-W algorithm is simulated and compared to FPGA, Xeon Phi and GPU-based implementations, showing at least 4.7x higher throughput and at least 15x lower power dissipation.

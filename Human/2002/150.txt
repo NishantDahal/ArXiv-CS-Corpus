@@ -1,0 +1,4 @@
+Design Patterns for Functional Strategic Programming
+
+In previous work, we introduced the fundamentals and a supporting combinator library for \emph{strategic programming}. This an idiom for generic programming based on the notion of a \emph{functional strategy}: a first-class generic function that cannot only be applied to terms of any type, but which also allows generic traversal into subterms and can be customized with type-specific behaviour.
+  This paper seeks to provide practicing functional programmers with pragmatic guidance in crafting their own strategic programs. We present the fundamentals and the support from a user's perspective, and we initiate a catalogue of \emph{strategy design patterns}. These design patterns aim at consolidating strategic programming expertise in accessible form.

@@ -1,0 +1,3 @@
+Domain Specific Language for Modular Knitting Pattern Definitions: Purl
+
+Purl is a language to be used for modular definition and verification of knitting patterns. The syntax is similar to the standard knitting pattern notation provided by the Craft Yarn Council. Purl provides constructs not available in the standard notation to allow reuse of segments of patterns. This report describes the basics of knitting and hand-knitting patterns. A knitting pattern language more terse than the standard notation is presented with the implementation of a compiler to this standard.

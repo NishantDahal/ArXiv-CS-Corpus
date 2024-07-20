@@ -1,0 +1,4 @@
+Routing Symmetric Demands in Directed Minor-Free Graphs with Constant Congestion
+
+The problem of routing in graphs using node-disjoint paths has received a lot of attention and a polylogarithmic approximation algorithm with constant congestion is known for undirected graphs [Chuzhoy and Li 2016] and [Chekuri and Ene 2013]. However, the problem is hard to approximate within polynomial factors on directed graphs, for any constant congestion [Chuzhoy, Kim and Li 2016].
+  Recently, [Chekuri, Ene and Pilipczuk 2016] have obtained a polylogarithmic approximation with constant congestion on directed planar graphs, for the special case of symmetric demands. We extend their result by obtaining a polylogarithmic approximation with constant congestion on arbitrary directed minor-free graphs, for the case of symmetric demands.

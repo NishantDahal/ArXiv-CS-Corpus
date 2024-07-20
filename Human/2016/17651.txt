@@ -1,0 +1,3 @@
+Robust and Scalable Column/Row Sampling from Corrupted Big Data
+
+Conventional sampling techniques fall short of drawing descriptive sketches of the data when the data is grossly corrupted as such corruptions break the low rank structure required for them to perform satisfactorily. In this paper, we present new sampling algorithms which can locate the informative columns in presence of severe data corruptions. In addition, we develop new scalable randomized designs of the proposed algorithms. The proposed approach is simultaneously robust to sparse corruption and outliers and substantially outperforms the state-of-the-art robust sampling algorithms as demonstrated by experiments conducted using both real and synthetic data.

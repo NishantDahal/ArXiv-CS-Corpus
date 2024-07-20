@@ -1,0 +1,13 @@
+On Practical Regular Expressions
+
+We report on simulation, hierarchy, and decidability results for Practical Regular Expressions (PRE), which may include back references in addition to the standard operations union, concatenation, and star.
+  The following results are obtained:
+  PRE can be simulated by the classical model of nondeterministic finite automata with sensing one-way heads. The number of heads depends on the number of different variables in the expressions.
+  A space bound O(n log m) for matching a text of length m with a PRE with n variables based on the previous simulation. This improves the bound O(nm) from (Câmpeanu and Santean 2009).
+  PRE cannot be simulated by deterministic finite automata with at most three sensing one-way heads or deterministic finite automata with any number of non-sensing one-way heads.
+  PRE with a bounded number of occurrences of variables in any match can be simulated by nondeterministic finite automata with one-way heads.
+  There is a tight hierarchy of PRE with a growing number of non-nested variables over a fixed alphabet. A previously known hierarchy was based on nested variables and growing alphabets (Larsen 1998).
+  Matching of PRE without star over a single-letter alphabet is NP-complete. This strengthens the corresponding result for expressions over larger alphabets and with star (Aho 1990).
+  Inequivalence of PRE without closure operators is Sigma^P_2-complete.
+  The decidability of universality of PRE over a single letter alphabet is linked to the existence of Fermat Primes.
+  Greibach's Theorem applies to languages characterized by PRE.

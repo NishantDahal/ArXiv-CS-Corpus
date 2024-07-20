@@ -1,0 +1,3 @@
+On the Security of the Yi-Tan-Siew Chaos-Based Cipher
+
+This paper presents a comprehensive analysis on the security of the Yi-Tan-Siew chaotic cipher proposed in [IEEE TCAS-I 49(12):1826-1829 (2002)]. A differential chosen-plaintext attack and a differential chosen-ciphertext attack are suggested to break the sub-key K, under the assumption that the time stamp can be altered by the attacker, which is reasonable in such attacks. Also, some security Problems about the sub-keys $α$ and $β$ are clarified, from both theoretical and experimental points of view. Further analysis shows that the security of this cipher is independent of the use of the chaotic tent map, once the sub-key $K$ is removed via the proposed suggested differential chosen-plaintext attack.

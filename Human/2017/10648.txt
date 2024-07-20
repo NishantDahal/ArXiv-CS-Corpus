@@ -1,0 +1,4 @@
+Unsupervised Feature Selection Based on Space Filling Concept
+
+The paper deals with the adaptation of a new measure for the unsupervised feature selection problems. The proposed measure is based on space filling concept and is called the coverage measure. This measure was used for judging the quality of an experimental space filling design. In the present work, the coverage measure is adapted for selecting the smallest informative subset of variables by reducing redundancy in data. This paper proposes a simple analogy to apply this measure. It is implemented in a filter algorithm for unsupervised feature selection problems.
+  The proposed filter algorithm is robust with high dimensional data and can be implemented without extra parameters. Further, it is tested with simulated data and real world case studies including environmental data and hyperspectral image. Finally, the results are evaluated by using random forest algorithm.

@@ -1,0 +1,3 @@
+Linear-Time Fitting of a $k$-Step Function
+
+Given a set of $n$ weighted points on the $x$-$y$ plane, we want to find a step function consisting of $k$ horizontal steps such that the maximum vertical weighted distance from any point to a step is minimized. We solve this problem in $O(n)$ time when $k$ is a constant. Our approach relies on the prune-and-search technique, and can be adapted to design similar linear time algorithms to solve the line-constrained k-center problem and the size-$k$ histogram construction problem as well.

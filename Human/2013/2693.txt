@@ -1,0 +1,3 @@
+The performance of locality-aware topologies for peer-to-peer live streaming
+
+This paper is concerned with the effect of overlay network topology on the performance of live streaming peer-to-peer systems. The paper focuses on the evaluation of topologies which are aware of the delays experienced between different peers on the network. Metrics are defined which assess the topologies in terms of delay, bandwidth usage and resilience to peer drop-out. Several topology creation algorithms are tested and the metrics are measured in a simple simulation testbed. This gives an assessment of the type of gains which might be expected from locality awareness in peer-to-peer networks.

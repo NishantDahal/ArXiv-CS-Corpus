@@ -1,0 +1,3 @@
+Approximation hardness of Shortest Common Superstring variants
+
+The shortest common superstring (SCS) problem has been studied at great length because of its connections to the de novo assembly problem in computational genomics. The base problem is APX-complete, but several generalizations of the problem have also been studied. In particular, previous results include that SCS with Negative strings (SCSN) is in Log-APX (though there is no known hardness result) and SCS with Wildcards (SCSW) is Poly-APX-hard. Here, we prove two new hardness results: (1) SCSN is Log-APX-hard (and therefore Log-APX-complete) by a reduction from Minimum Set Cover and (2) SCS with Negative strings and Wildcards (SCSNW) is NPOPB-hard by a reduction from Minimum Ones 3SAT.

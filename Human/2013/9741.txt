@@ -1,0 +1,3 @@
+Scalable Probabilistic Entity-Topic Modeling
+
+We present an LDA approach to entity disambiguation. Each topic is associated with a Wikipedia article and topics generate either content words or entity mentions. Training such models is challenging because of the topic and vocabulary size, both in the millions. We tackle these problems using a novel distributed inference and representation framework based on a parallel Gibbs sampler guided by the Wikipedia link graph, and pipelines of MapReduce allowing fast and memory-frugal processing of large datasets. We report state-of-the-art performance on a public dataset.

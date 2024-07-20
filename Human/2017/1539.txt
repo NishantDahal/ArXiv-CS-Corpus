@@ -1,0 +1,3 @@
+SimOutUtils - Utilities for analyzing time series simulation output
+
+SimOutUtils is a suite of MATLAB/Octave functions for studying and analyzing time series-like output from stochastic simulation models. More specifically, SimOutUtils allows modelers to study and visualize simulation output dynamics, perform distributional analysis of output statistical summaries, as well as compare these summaries in order to assert the statistical equivalence of two or more model implementations. Additionally, the provided functions are able to produce publication quality figures and tables showcasing results from the specified simulation output studies.

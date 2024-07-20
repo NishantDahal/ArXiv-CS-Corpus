@@ -1,0 +1,3 @@
+Carving Parameterized Unit Tests
+
+We present a method to automatically extract ("carve") parameterized unit tests from system executions. The unit tests execute the same functions as the system tests they are carved from, but can do so much faster as they call functions directly; furthermore, being parameterized, they can execute the functions with a large variety of randomly selected input values. If a unit-level test fails, we lift it to the system level to ensure the failure can be reproduced there. Our method thus allows to focus testing efforts on selected modules while still avoiding false alarms: In our experiments, running parameterized unit tests for individual functions was, on average, 30~times faster than running the system tests they were carved from.

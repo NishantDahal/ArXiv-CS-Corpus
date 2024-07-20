@@ -1,0 +1,3 @@
+Lower-Cost epsilon-Private Information Retrieval
+
+Private Information Retrieval (PIR), despite being well studied, is computationally costly and arduous to scale. We explore lower-cost relaxations of information-theoretic PIR, based on dummy queries, sparse vectors, and compositions with an anonymity system. We prove the security of each scheme using a flexible differentially private definition for private queries that can capture notions of imperfect privacy. We show that basic schemes are weak, but some of them can be made arbitrarily safe by composing them with large anonymity systems.

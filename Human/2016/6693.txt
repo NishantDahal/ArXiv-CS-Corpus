@@ -1,0 +1,4 @@
+Vulnerable GPU Memory Management: Towards Recovering Raw Data from GPU
+
+In this paper, we present that security threats coming with existing GPU memory management strategy are overlooked, which opens a back door for adversaries to freely break the memory isolation: they enable adversaries without any privilege in a computer to recover the raw memory data left by previous processes directly. More importantly, such attacks can work on not only normal multi-user operating systems, but also cloud computing platforms.
+  To demonstrate the seriousness of such attacks, we recovered original data directly from GPU memory residues left by exited commodity applications, including Google Chrome, Adobe Reader, GIMP, Matlab. The results show that, because of the vulnerable memory management strategy, commodity applications in our experiments are all affected.

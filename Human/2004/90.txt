@@ -1,0 +1,3 @@
+Encapsulation for Practical Simplification Procedures
+
+ACL2 was used to prove properties of two simplification procedures. The procedures differ in complexity but solve the same programming problem that arises in the context of a resolution/paramodulation theorem proving system. Term rewriting is at the core of the two procedures, but details of the rewriting procedure itself are irrelevant. The ACL2 encapsulate construct was used to assert the existence of the rewriting function and to state some of its properties. Termination, irreducibility, and soundness properties were established for each procedure. The availability of the encapsulation mechanism in ACL2 is considered essential to rapid and efficient verification of this kind of algorithm.

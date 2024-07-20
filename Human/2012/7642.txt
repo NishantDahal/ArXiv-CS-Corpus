@@ -1,0 +1,3 @@
+Multimodal diffusion geometry by joint diagonalization of Laplacians
+
+We construct an extension of diffusion geometry to multiple modalities through joint approximate diagonalization of Laplacian matrices. This naturally extends classical data analysis tools based on spectral geometry, such as diffusion maps and spectral clustering. We provide several synthetic and real examples of manifold learning, retrieval, and clustering demonstrating that the joint diffusion geometry frequently better captures the inherent structure of multi-modal data. We also show that many previous attempts to construct multimodal spectral clustering can be seen as particular cases of joint approximate diagonalization of the Laplacians.

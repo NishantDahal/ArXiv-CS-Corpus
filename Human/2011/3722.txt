@@ -1,0 +1,3 @@
+AWRP: Adaptive Weight Ranking Policy for Improving Cache Performance
+
+Due to the huge difference in performance between the computer memory and processor, the virtual memory management plays a vital role in system performance.  A Cache memory is the fast memory which is used to compensate the speed difference between the memory and processor. This paper gives an adaptive replacement policy over the traditional policy which has low overhead, better performance and is easy to implement. Simulations show that our algorithm performs better than Least-Recently-Used (LRU), First-In-First-Out (FIFO) and Clock with Adaptive Replacement (CAR).

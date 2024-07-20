@@ -1,0 +1,3 @@
+A novel code generation methodology for block diagram modeler and simulators Scicos and VSS
+
+Block operations during simulation in Scicos and VSS environments can naturally be described as Nsp functions. But the direct use of Nsp functions for simulation leads to poor performance since the Nsp language is interpreted, not compiled. The methodology presented in this paper is used to develop a tool for generating efficient compilable code, such as C and ADA, for Scicos and VSS models from these block Nsp functions. Operator overloading and partial evaluation are the key elements of this novel approach. This methodology may be used in other simulation environments such as Matlab/Simulink.

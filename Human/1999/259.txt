@@ -1,0 +1,4 @@
+Two-way finite automata with quantum and classical states
+
+We introduce 2-way finite automata with quantum and classical states (2qcfa's). This is a variant on the 2-way quantum finite automata (2qfa) model which may be simpler to implement than unrestricted 2qfa's; the internal state of a 2qcfa may include a quantum part that may be in a (mixed) quantum state, but the tape head position is required to be classical.
+  We show two languages for which 2qcfa's are better than classical 2-way automata. First, 2qcfa's can recognize palindromes, a language that cannot be recognized by 2-way deterministic or probabilistic finite automata. Second, in polynomial time 2qcfa's can recognize {a^n b^n | n>=0}, a language that can be recognized classically by a 2-way probabilistic automaton but only in exponential time.

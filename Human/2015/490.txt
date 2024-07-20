@@ -1,0 +1,3 @@
+Secrecy Through Synchronization Errors
+
+In this paper, we propose a transmission scheme that achieves information theoretic security, without making assumptions on the eavesdropper's channel. This is achieved by a transmitter that deliberately introduces synchronization errors (insertions and/or deletions) based on a shared source of randomness. The intended receiver, having access to the same shared source of randomness as the transmitter, can resynchronize the received sequence. On the other hand, the eavesdropper's channel remains a synchronization error channel. We prove a secrecy capacity theorem, provide a lower bound on the secrecy capacity, and propose numerical methods to evaluate it.

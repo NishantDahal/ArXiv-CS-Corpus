@@ -1,0 +1,3 @@
+Mixing Oscillators for Phase Noise Reduction
+
+The output of oscillators is usually not stable over time. In particular, phase variations---or \emph{phase noise}---corrupts the oscillations. In this letter, we describe a circuit that designed to average the phase noise processes and frequency offsets in frequency-matched oscillators. The basic circuit uses the independence of 2 phase noise processes to provide a cleaner oscillating output with lower phase noise variance. We describe extensions of the circuit designed to average out more than 2 oscillators, as well as a single one through delay elements. In all the examples covered, we provide a theoretical analysis of the resulting phase noise process when the input phase noise processes follow a Wiener model.

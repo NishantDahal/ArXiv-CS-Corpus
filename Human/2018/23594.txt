@@ -1,0 +1,4 @@
+Power and Energy-efficiency Roofline Model for GPUs
+
+Energy consumption has been a great deal of concern in recent years and developers need to take energy-efficiency into account when they design algorithms. Their design needs to be energy-efficient and low-power while it tries to achieve attainable performance provided by underlying hardware. However, different optimization techniques have different effects on power and energy-efficiency and a visual model would assist in the selection process.
+  In this paper, we extended the roofline model and provided a visual representation of optimization strategies for power consumption. Our model is composed of various ceilings regarding each strategy we included in our models. One roofline model for computational performance and one for memory performance is introduced. We assembled our models based on some optimization strategies for two widespread GPUs from NVIDIA: Geforce GTX 970 and Tesla K80.

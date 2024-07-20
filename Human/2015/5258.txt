@@ -1,0 +1,3 @@
+Improving Time Estimation by Blind Deconvolution: with Applications to TOFD and Backscatter Sizing
+
+In this paper we present a blind deconvolution scheme based on statistical wavelet estimation. We assume no prior knowledge of the wavelet, and do not select a reflector from the signal. Instead, the wavelet (ultrasound pulse) is statistically estimated from the signal itself by a kurtosis-based metric. This wavelet is then used to deconvolve the RF (radiofrequency) signal through Wiener filtering, and the resultant zero phase trace is subjected to spectral broadening by Autoregressive Spectral Extrapolation (ASE). These steps increase the time resolution of diffraction techniques. Results on synthetic and real cases show the robustness of the proposed method.

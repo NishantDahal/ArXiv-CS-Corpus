@@ -1,0 +1,3 @@
+Data Infrastructure and Approaches for Ontology-Based Drug Repurposing
+
+We report development of a data infrastructure for drug repurposing that takes advantage of two currently available chemical ontologies. The data infrastructure includes a database of compound- target associations augmented with molecular ontological labels. It also contains two computational tools for prediction of new associations. We describe two drug-repurposing systems: one, Nascent Ontological Information Retrieval for Drug Repurposing (NOIR-DR), based on an information retrieval strategy, and another, based on non-negative matrix factorization together with compound similarity, that was inspired by recommender systems. We report the performance of both tools on a drug-repurposing task.

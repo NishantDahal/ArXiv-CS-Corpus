@@ -1,0 +1,3 @@
+A decidable weakening of Compass Logic based on cone-shaped cardinal directions
+
+We introduce a modal logic, called Cone Logic, whose formulas describe properties of points in the plane and spatial relationships between them. Points are labelled by proposition letters and spatial relations are induced by the four cone-shaped cardinal directions. Cone Logic can be seen as a weakening of Venema's Compass Logic. We prove that, unlike Compass Logic and other projection-based spatial logics, its satisfiability problem is decidable (precisely, PSPACE-complete). We also show that it is expressive enough to capture meaningful interval temporal logics - in particular, the interval temporal logic of Allen's relations "Begins", "During", and "Later", and their transposes. 

@@ -1,0 +1,5 @@
+Interactive Communication with Unknown Noise Rate
+
+Alice and Bob want to run a protocol over a noisy channel, where a certain number of bits are flipped adversarially. Several results take a protocol requiring $L$ bits of noise-free communication and make it robust over such a channel. In a recent breakthrough result, Haeupler described an algorithm that sends a number of bits that is conjectured to be near optimal in such a model. However, his algorithm critically requires $a \ priori$ knowledge of the number of bits that will be flipped by the adversary.
+  We describe an algorithm requiring no such knowledge. If an adversary flips $T$ bits, our algorithm sends $L + O\left(\sqrt{L(T+1)\log L} + T\right)$ bits in expectation and succeeds with high probability in $L$. It does so without any $a \ priori$ knowledge of $T$. Assuming a conjectured lower bound by Haeupler, our result is optimal up to logarithmic factors.
+  Our algorithm critically relies on the assumption of a private channel. We show that privacy is necessary when the amount of noise is unknown.

@@ -1,0 +1,3 @@
+Mobility and Energy Conscious Clustering Protocol for Wireless Networks
+
+In this paper we present a distributed clustering protocol for mobile wireless sensor networks. A large majority of research in clustering and routing algorithms for WSNs assume a static network and hence are rendered inefficient in cases of highly mobile sensor networks, which is an aspect addressed here. MECP is an energy efficient, mobility aware protocol and utilizes information about movement of sensor nodes and residual energy as attributes in network formation. It also provides a mechanism for fault tolerance to decrease packet data loss in case of cluster head failures.

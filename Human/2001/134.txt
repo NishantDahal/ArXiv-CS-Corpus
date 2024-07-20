@@ -1,0 +1,3 @@
+Quantum Clock Synchronization with one qubit
+
+The clock synchronization problem is to determine the time difference T between two spatially separated parties. We improve on I. Chuang's quantum clock synchronization algorithm and show that it is possible to obtain T to n bits of accuracy while communicating only one qubit in one direction and using an O(2^n) frequency range. We also prove a quantum lower bound of Ω(2^n) for the product of the transmitted qubits and the range of frequencies, thus showing that our algorithm is optimal.

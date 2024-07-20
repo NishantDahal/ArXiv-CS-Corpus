@@ -1,0 +1,3 @@
+Comparative computational results for some vertex and facet enumeration codes
+
+We report some computational results comparing parallel and sequential codes for vertex/facet enumeration problems for convex polyhedra. The problems chosen span the range from simple to highly degenerate polytopes. We tested one code (lrs) based on pivoting and four codes (cddr+, ppl, normaliz, PORTA) based on the double description method. normaliz employs parallelization as do the codes plrs and mplrs which are based on lrs. We tested these codes using various hardware configurations with up to 1200 cores. Major speedups were obtained by parallelization, particularly by the code mplrs which uses MPI and can operate on clusters of machines.

@@ -1,0 +1,3 @@
+A practical Single Source Shortest Path algorithm for random directed graphs with arbitrary weight in expecting linear time
+
+In this paper, I present an algorithm called Raffica algorithm for Single-Source Shortest Path(SSSP). On random graph, this algorithm has linear time complexity(in expect). More precisely, the random graph uses configuration model, and the weights are distributed mostly positively. It is also linear for random grid graphs. Despite I made an assumption on the weights of the random graph, this algorithm is able to solve SSSP with arbitrary weights; when a negative cycle exists, this algorithm can find it out once traversed. The algorithm has a lot of appliances.

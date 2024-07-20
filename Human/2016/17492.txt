@@ -1,0 +1,3 @@
+A Simple Power Analysis Attack on the Twofish Key Schedule
+
+This paper introduces an SPA power attack on the 8-bit implementation of the Twofish block cipher. The attack is able to unequivocally recover the secret key even under substantial amounts of error. An initial algorithm is described using exhaustive search on error free data. An error resistant algorithm is later described. It employs several threshold preprocessing stages followed by a combined approach of least mean squares and an optimized Hamming mask search. Further analysis of 32 and 64-bit Twofish implementations reveals that they are similarly vulnerable to the described SPA attack.

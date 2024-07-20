@@ -1,0 +1,3 @@
+Impact of the Temperature and Humidity Variations on Link Quality of xm1000 Mote Sensors
+
+The core motivations of deploying a sensor network for a specific application come from the autonomy of sensors, their reduced size, and their capabilities for computing and communicating in a short range. However, many challenges for sensor networks still exist: minimizing energy consumption, and ensuring the performance of communication that may be affected by many parameters. The work described in this paper covers mainly the analysis of the impact of the temperature and humidity variations on link quality of XM1000 operating under TinyOS. Two-way ANOVA test has been applied and the obtained results show that both the temperature and humidity variations impact RSSI.

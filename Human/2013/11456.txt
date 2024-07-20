@@ -1,0 +1,3 @@
+HS06 Benchmark for an ARM Server
+
+We benchmarked an ARM cortex-A9 based server system with a four-core CPU running at 1.1 GHz. The system used Ubuntu 12.04 as operating system and the HEPSPEC 2006 (HS06) benchmarking suite was compiled natively with gcc-4.4 on the system. The benchmark was run for various settings of the relevant gcc compiler options. We did not find significant influence from the compiler options on the benchmark result. The final HS06 benchmark result is 10.4.

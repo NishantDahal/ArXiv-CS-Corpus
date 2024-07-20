@@ -1,0 +1,3 @@
+Bounded Model Checking for Probabilistic Programs
+
+In this paper we investigate the applicability of standard model checking approaches to verifying properties in probabilistic programming. As the operational model for a standard probabilistic program is a potentially infinite parametric Markov decision process, no direct adaption of existing techniques is possible. Therefore, we propose an on-the-fly approach where the operational model is successively created and verified via a step-wise execution of the program. This approach enables to take key features of many probabilistic programs into account: nondeterminism and conditioning. We discuss the restrictions and demonstrate the scalability on several benchmarks.

@@ -1,0 +1,3 @@
+On the Worst-Case Approximability of Sparse PCA
+
+It is well known that Sparse PCA (Sparse Principal Component Analysis) is NP-hard to solve exactly on worst-case instances. What is the complexity of solving Sparse PCA approximately? Our contributions include: 1) a simple and efficient algorithm that achieves an $n^{-1/3}$-approximation; 2) NP-hardness of approximation to within $(1-\varepsilon)$, for some small constant $\varepsilon > 0$; 3) SSE-hardness of approximation to within any constant factor; and 4) an $\exp\exp\left(Ω\left(\sqrt{\log \log n}\right)\right)$ ("quasi-quasi-polynomial") gap for the standard semidefinite program.

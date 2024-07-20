@@ -1,0 +1,3 @@
+Synchrony vs Causality in the Asynchronous Pi-Calculus
+
+We study the relation between process calculi that differ in their either synchronous or asynchronous interaction mechanism. Concretely, we are interested in the conditions under which synchronous interaction can be implemented using just asynchronous interactions in the pi-calculus.  We assume a number of minimal conditions referring to the work of Gorla: a "good" encoding must be compositional and preserve and reflect computations, deadlocks, divergence, and success. Under these conditions, we show that it is not possible to encode synchronous interactions without introducing additional causal dependencies in the translation.

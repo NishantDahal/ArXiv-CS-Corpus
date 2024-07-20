@@ -1,0 +1,3 @@
+Randomized Incremental Construction of Net-Trees
+
+Net-trees are a general purpose data structure for metric data that have been used to solve a wide range of algorithmic problems. We give a simple randomized algorithm to construct net-trees on doubling metrics using $O(n\log n)$ time in expectation. Along the way, we define a new, linear-size net-tree variant that simplifies the analyses and algorithms. We show a connection between these trees and approximate Voronoi diagrams and use this to simplify the point location necessary in net-tree construction. Our analysis uses a novel backwards analysis that may be of independent interest.

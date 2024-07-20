@@ -1,0 +1,5 @@
+Randomized query complexity of sabotaged and composed functions
+
+We study the composition question for bounded-error randomized query complexity: Is R(f o g) = Omega(R(f) R(g)) for all Boolean functions f and g? We show that inserting a simple Boolean function h, whose query complexity is only Theta(log R(g)), in between f and g allows us to prove R(f o h o g) = Omega(R(f) R(h) R(g)).
+  We prove this using a new lower bound measure for randomized query complexity we call randomized sabotage complexity, RS(f). Randomized sabotage complexity has several desirable properties, such as a perfect composition theorem, RS(f o g) >= RS(f) RS(g), and a composition theorem with randomized query complexity, R(f o g) = Omega(R(f) RS(g)). It is also a quadratically tight lower bound for total functions and can be quadratically superior to the partition bound, the best known general lower bound for randomized query complexity.
+  Using this technique we also show implications for lifting theorems in communication complexity. We show that a general lifting theorem for zero-error randomized protocols implies a general lifting theorem for bounded-error protocols.

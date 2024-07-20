@@ -1,0 +1,3 @@
+On the importance of nonlinear modeling in computer performance prediction
+
+Computers are nonlinear dynamical systems that exhibit complex and sometimes even chaotic behavior. The models used in the computer systems community, however, are linear. This paper is an exploration of that disconnect: when linear models are adequate for predicting computer performance and when they are not. Specifically, we build linear and nonlinear models of the processor load of an Intel i7-based computer as it executes a range of different programs. We then use those models to predict the processor loads forward in time and compare those forecasts to the true continuations of the time series

@@ -1,0 +1,3 @@
+Gadgets and Anti-Gadgets Leading to a Complexity Dichotomy
+
+We introduce an idea called anti-gadgets in complexity reductions. These combinatorial gadgets have the effect of erasing the presence of some other graph fragment, as if we had managed to include a negative copy of a graph gadget. We use this idea to prove a complexity dichotomy theorem for the partition function $Z(G)$ on 3-regular directed graphs $G$, where each edge is given a complex-valued binary function $f: \{0,1\}^2 \rightarrow \mathbb{C}$. We show that \[Z(G) = \sum_{σ: V(G) \to \{0,1\}} \prod_{(u,v) \in E(G)} f(σ(u), σ(v)),\] is either computable in polynomial time or #P-hard, depending explicitly on $f$.

@@ -1,0 +1,3 @@
+A Convergent Algorithm for Bi-orthogonal Nonnegative Matrix Tri-Factorization
+
+A convergent algorithm for nonnegative matrix factorization with orthogonality constraints imposed on both factors is proposed in this paper. This factorization concept was first introduced by Ding et al. with intent to further improve clustering capability of NMF. However, as the original algorithm was developed based on multiplicative update rules, the convergence of the algorithm cannot be guaranteed. In this paper, we utilize the technique presented in our previous work to develop the algorithm and prove that it converges to a stationary point inside the solution space.

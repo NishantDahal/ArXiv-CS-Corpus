@@ -1,0 +1,3 @@
+A Probabilistic Ant-based Heuristic for the Longest Simple Cycle Problem in Complex Networks
+
+We propose a new probabilistic ant-based heuristic (ANTH-LS) for the longest simple cycle problem. This NP-hard problem has numerous real-world applications in complex networks, including efficient construction of graph layouts, analysis of social networks or bioinformatics. Our algorithm is based on reinforcing the probability of traversing the edges, which have not been present in the long cycles found so far. Experimental results are presented for a set of social networks, protein-protein interation networks, network science graphs and DIMACS graphs. For 6 out of our 22 real-world network test instances, ANTH-LS has obtained an improvement on the longest cycle ever found.

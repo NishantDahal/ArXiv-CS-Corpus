@@ -1,0 +1,3 @@
+Formalising Mathematics In Simple Type Theory
+
+Despite the considerable interest in new dependent type theories, simple type theory (which dates from 1940) is sufficient to formalise serious topics in mathematics. This point is seen by examining formal proofs of a theorem about stereographic projections. A formalisation using the HOL Light proof assistant is contrasted with one using Isabelle/HOL. Harrison's technique for formalising Euclidean spaces is contrasted with an approach using Isabelle/HOL's axiomatic type classes. However, every formal system can be outgrown, and mathematics should be formalised with a view that it will eventually migrate to a new formalism.

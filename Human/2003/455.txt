@@ -1,0 +1,3 @@
+State complexes for metamorphic robots
+
+A metamorphic robotic system is an aggregate of homogeneous robot units which can individually and selectively locomote in such a way as to change the global shape of the system. We introduce a mathematical framework for defining and analyzing general metamorphic robots. This formal structure, combined with ideas from geometric group theory, leads to a natural extension of a configuration space for metamorphic robots -- the state complex -- which is especially adapted to parallelization. We present an algorithm for optimizing reconfiguration sequences with respect to elapsed time. A universal geometric property of state complexes -- non-positive curvature -- is the key to proving convergence to the globally time-optimal solution.

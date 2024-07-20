@@ -1,0 +1,3 @@
+Simple Load Balancing
+
+We consider the following load balancing process for $m$ tokens distributed arbitrarily among $n$ nodes connected by a complete graph: In each time step a pair of nodes is selected uniformly at random. Let $\ell_1$ and $\ell_2$ be their respective number of tokens. The two nodes exchange tokens such that they have $\lceil(\ell_1 + \ell_2)/2\rceil$ and $\lfloor(\ell_1 + \ell_2)/2\rfloor$ tokens, respectively. We provide a simple analysis showing that this process reaches almost perfect balance within $O(n\log{n} + n \logΔ)$ steps, where $Δ$ is the maximal initial load difference between any two nodes.

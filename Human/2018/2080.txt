@@ -1,0 +1,3 @@
+A Variation on Chip-Firing: the diffusion game
+
+We introduce a natural variant of the parallel chip-firing game, called the diffusion game. Chips are initially assigned to vertices of a graph. At every step, all vertices simultaneously send one chip to each neighbour with fewer chips. As the dynamics of the parallel chip-firing game occur on a finite set the process is inherently periodic. However the diffusion game is not obviously periodic: even if $2|E(G)|$ chips are assigned to vertices of graph G, there may exist time steps where some vertices have a negative number of chips. We investigate the process, prove periodicity for a number of graph classes, and pose some questions for future research.

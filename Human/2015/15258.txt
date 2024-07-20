@@ -1,0 +1,3 @@
+Declarative, Secure, Convergent Edge Computation
+
+Eventual consistency is a more natural model than strong consistency for a distributed system, since it is closer to the underlying physical reality. Therefore, we propose that it is important to find a programming model that is both congenial to developers and supports eventual consistency. In particular, we consider that a crucial test for such a model is that it should support edge computation in a both natural and secure way. We present a preliminary work report with an initial solution, called Lasp, which resembles a concurrent functional language while naturally supporting an eventually consistent coordination-free distribution model.

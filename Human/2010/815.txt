@@ -1,0 +1,3 @@
+Shape-Adaptive Motion Estimation Algorithm for MPEG-4 Video Coding
+
+This paper presents a gradient based motion estimation algorithm based on shape-motion prediction, which takes advantage of the correlation between neighboring Binary Alpha Blocks (BABs), to match with the Mpeg-4 shape coding case and speed up the estimation process. The PSNR and computation time achieved by the proposed algorithm seem to be better than those obtained by most popular motion estimation techniques.

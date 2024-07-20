@@ -1,0 +1,3 @@
+Reversible Multiparty Sessions with Checkpoints
+
+Reversible interactions model different scenarios, like biochemical systems and human as well as automatic negotiations.  We abstract interactions via multiparty sessions enriched with named checkpoints.  Computations can either go forward or roll back to some checkpoints, where possibly different choices may be taken.  In this way communications can be undone and different conversations may be tried.  Interactions are typed with global types, which control also rollbacks.  Typeability of session participants in agreement with global types ensures session fidelity and progress of reversible communications.

@@ -1,0 +1,6 @@
+Common Knowledge in a Logic of Gossips
+
+Gossip protocols aim at arriving, by means of point-to-point or group communications, at a situation in which all the agents know each other secrets. Recently a number of authors studied distributed epistemic gossip protocols. These protocols use as guards formulas from a simple epistemic logic, which makes their analysis and verification substantially easier. 
+  We study here common knowledge in the context of such a logic. First, we analyze when it can be reduced to iterated knowledge. Then we show that the semantics and truth for formulas without nested common knowledge operator are decidable. This implies that implementability, partial correctness and termination of distributed epistemic gossip protocols that use non-nested common knowledge operator is decidable, as well. Given that common knowledge is equivalent to an infinite conjunction of nested knowledge, these results are non-trivial generalizations of the corresponding decidability results for the original epistemic logic, established in (Apt & Wojtczak, 2016). 
+  K. R. Apt & D. Wojtczak (2016): On Decidability of a Logic of Gossips. In Proc. of JELIA 2016, pp. 18-33, doi:10.1007/ 978-3-319-48758-8_2.
+

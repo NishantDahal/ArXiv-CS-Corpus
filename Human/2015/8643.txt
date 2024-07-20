@@ -1,0 +1,3 @@
+Presentation of Classical Propositional Tableaux on Program Design Premises
+
+We propose a presentation of classical propositional tableaux elaborated by application of methods that are noteworthy in program design, namely program derivation with separation of concerns. We start by deriving from a straightforward specification an algorithm given as a set of recursive equations for computing all models of a finite set of formulae. Thereafter we discuss the employment of data structures, mainly with regard to an easily traceable manual execution of the algorithm. This leads to the kinds of trees given usually as constituting the tableaux. The whole development strives at avoiding gaps, both of logical and motivational nature.

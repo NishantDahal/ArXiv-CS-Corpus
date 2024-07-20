@@ -1,0 +1,3 @@
+Learning Model Predictive Control for iterative tasks. A Data-Driven Control Framework
+
+A Learning Model Predictive Controller (LMPC) for iterative tasks is presented. The controller is reference-free and is able to improve its performance by learning from previous iterations. A safe set and a terminal cost function are used in order to guarantee recursive feasibility and non-increasing performance at each iteration. The paper presents the control design approach, and shows how to recursively construct terminal set and terminal cost from state and input trajectories of previous iterations. Simulation results show the effectiveness of the proposed control logic.

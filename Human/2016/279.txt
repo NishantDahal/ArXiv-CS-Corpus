@@ -1,0 +1,7 @@
+Fortuitous sequences of flips of the top of a stack of n burnt pancakes for all n>24
+
+Burnt pancakes problem was defined by Gates and Papadimitriou in 1979. A stack S of pancakes with a burnt side must be sorted by size, the smallest on top, and each pancake with burnt side down. Only operation allowed is to split stack in two parts and flip upper part. g(S) is the minimal number of flips needed to sort stack S. Stack S may be -In when pancakes are in right order but upside down or -f_n when all pancakes are right side up but sorted in reverse order. Gates et al. proved that g(-f_n)>=3n/2-1.
+  In 1995 Cohen and Blum proved that g(-I_n)=g(-f_n)+1>=3n/2.
+  In 1997 Heydari and Sudborough proved that g(-I_n)<= 3(n+1)/2 whenever some fortuitous sequence of flips exists. They gave fortuitous sequences for n=3, 15, 27 and 31. They showed that two fortuitous sequences S_n and S_n' may combine into another fortuitous sequence S_n'' with n''=n+n'-3. So a fortuitous sequence S_n gives a fortuitous sequence S_{n+12}. This proves that g(-I_n)<=3(n+1)/2 if n is congruent to 3 modulo 4 and n>=23.
+  In 2011 Josef Cibulka enhanced Gates and Papadimitriou's lower bound thanks to a potential function. He got so g(-I_n)>=3n/2+1 if n>1 proving thereby, that g(-I_n)=3(n+1)/2 if n is congruent to 3 modulo 4 and n>=23.
+  This paper explains how to build generalized fortuitous sequences for every n>=25 proving thereby that g(-I_n)=ceiling(3n/2)+1 for every n>=25.

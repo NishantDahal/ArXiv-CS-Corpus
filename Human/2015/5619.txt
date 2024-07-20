@@ -1,0 +1,4 @@
+Graph Partitioning via Parallel Submodular Approximation to Accelerate Distributed Machine Learning
+
+Distributed computing excels at processing large scale data, but the communication cost for synchronizing the shared parameters may slow down the overall performance. Fortunately, the interactions between parameter and data in many problems are sparse, which admits efficient partition in order to reduce the communication overhead.
+  In this paper, we formulate data placement as a graph partitioning problem. We propose a distributed partitioning algorithm. We give both theoretical guarantees and a highly efficient implementation. We also provide a highly efficient implementation of the algorithm and demonstrate its promising results on both text datasets and social networks. We show that the proposed algorithm leads to 1.6x speedup of a state-of-the-start distributed machine learning system by eliminating 90\% of the network communication.

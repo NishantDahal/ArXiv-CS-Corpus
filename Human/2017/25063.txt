@@ -1,0 +1,3 @@
+Bipartite Graph Matching for Keyframe Summary Evaluation
+
+A keyframe summary, or "static storyboard", is a collection of frames from a video designed to summarise its semantic content. Many algorithms have been proposed to extract such summaries automatically. How best to evaluate these outputs is an important but little-discussed question. We review the current methods for matching frames between two summaries in the formalism of graph theory. Our analysis revealed different behaviours of these methods, which we illustrate with a number of case studies. Based on the results, we recommend a greedy matching algorithm due to Kannappan et al.

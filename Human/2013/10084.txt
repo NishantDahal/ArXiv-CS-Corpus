@@ -1,0 +1,5 @@
+Deadlock detection in linear recursive programs
+
+Deadlock detection in recursive programs that admit dynamic resource creation is extremely complex and solutions either give imprecise answers or do not scale.
+  We define an algorithm for detecting deadlocks of "linear recursive programs" of a basic model. The theory that underpins the algorithm is a generalization of the theory of permutations of names to so-called "mutations", which transform tuples by introducing duplicates and fresh names.
+  Our algorithm realizes the back-end of deadlock analyzers for object-oriented programming languages, once the association programs/basic-model-programs has been defined as front-end.

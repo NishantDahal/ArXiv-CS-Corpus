@@ -1,0 +1,3 @@
+Identitas: A Better Way To Be Meaningless
+
+It is often recommended that identifiers for ontology terms should be semantics-free or meaningless. In practice, ontology developers tend to use numeric identifiers, starting at 1 and working upwards. In this paper we present a critique of current ontology semantics-free identifiers; monotonically increasing numbers have a number of significant usability flaws which make them unsuitable as a default option, and we present a series of alternatives. We have provide an implementation of these alternatives which can be freely combined.

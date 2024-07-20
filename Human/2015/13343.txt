@@ -1,0 +1,5 @@
+Constrained Expressions and their Derivatives
+
+This paper proposes an extension to classical regular expressions by the addition of two operators allowing the inclusion of boolean formulae from the zeroth order logic. These expressions are called constrained expressions. The associated language is defined thanks to the notion of interpretation and of realization.
+  We show that the language associated when both interpretation and realization are fixed is stricly regular and can be not regular otherwise.
+  Furthermore, we use an extension of Antimirov partial derivatives in order to solve the membership test in the general case. Finally, we show that once the interpretation is fixed, the membership test of a word in the language denoted by a constrained expression can be undecidable whereas it is always decidable when the interpretation is not fixed.

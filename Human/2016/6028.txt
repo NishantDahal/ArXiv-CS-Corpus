@@ -1,0 +1,3 @@
+Type-Based Analysis for Session Inference
+
+We propose a type-based analysis to infer the session protocols of channels in an ML-like concurrent functional language. Combining and extending well-known techniques, we develop a type-checking system that separates the underlying ML type system from the typing of sessions. Without using linearity, our system guarantees communication safety and partial lock freedom. It also supports provably complete session inference for finite sessions with no programmer annotations. We exhibit the usefulness of our system with interesting examples, including one which is not typable in substructural type systems.

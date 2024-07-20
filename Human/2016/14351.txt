@@ -1,0 +1,3 @@
+Optimal Speed Scaling with a Solar Cell
+
+We consider the setting of a sensor that consists of a speed-scalable processor, a battery, and a solar cell that harvests energy from its environment at a time-invariant recharge rate. The processor must process a collection of jobs of various sizes. Jobs arrive at different times and have different deadlines. The objective is to minimize the *recharge rate*, which is the rate at which the device has to harvest energy in order to feasibly schedule all jobs. The main result is a polynomial-time combinatorial algorithm for processors with a natural set of discrete speed/power pairs.

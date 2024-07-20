@@ -1,0 +1,3 @@
+Prototype Filter Design for FBMC in Massive MIMO Channels
+
+We perform an asymptotic study on the performance of filter bank multicarrier (FBMC) in the context of massive multi-input multi-output (MIMO). We show that the signal-to-interference-plus-noise ratio (SINR) cannot grow unboundedly by increasing the number of base station (BS) antennas, and is upper bounded by a certain deterministic value. This is a result of the correlation between the multi-antenna combining tap values and the channel impulse responses between the terminals and the BS antennas. To solve this problem, we introduce a simple FBMC prototype filter design method that removes this correlation, enabling us to achieve arbitrarily large SINR values by increasing the number of BS antennas.

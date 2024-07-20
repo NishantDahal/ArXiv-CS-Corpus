@@ -1,0 +1,3 @@
+Reed-Muller Codes Achieve Capacity on the Binary Erasure Channel under MAP Decoding
+
+We show that Reed-Muller codes achieve capacity under maximum a posteriori bit decoding for transmission over the binary erasure channel for all rates $0 < R < 1$. The proof is generic and applies to other codes with sufficient amount of symmetry as well. The main idea is to combine the following observations: (i) monotone functions experience a sharp threshold behavior, (ii) the extrinsic information transfer (EXIT) functions are monotone, (iii) Reed--Muller codes are 2-transitive and thus the EXIT functions associated with their codeword bits are all equal, and (iv) therefore the Area Theorem for the average EXIT functions implies that RM codes' threshold is at channel capacity.

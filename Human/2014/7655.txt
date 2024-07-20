@@ -1,0 +1,4 @@
+Certifying the Existence of Epipolar Matrices
+
+Given a set of point correspondences in two images, the existence of a fundamental matrix is a necessary condition for the points to be the images of a 3-dimensional scene imaged with two pinhole cameras. If the camera calibration is known then one requires the existence of an essential matrix.
+  We present an efficient algorithm, using exact linear algebra, for testing the existence of a fundamental matrix. The input is any number of point correspondences. For essential matrices, we characterize the solvability of the Demazure polynomials. In both scenarios, we determine which linear subspaces intersect a fixed set defined by non-linear polynomials. The conditions we derive are polynomials stated purely in terms of image coordinates. They represent a new class of two-view invariants, free of fundamental (resp.~essential)~matrices.

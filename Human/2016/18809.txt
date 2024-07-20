@@ -1,0 +1,3 @@
+The Fixed Initial Credit Problem for Partial-Observation Energy Games is Ack-complete
+
+In this paper we study two-player games with asymmetric partial observation and an energy objective. Such games are played on a weighted automaton by Eve, choosing actions, and Adam, choosing a transition labelled with the given action. Eve attempts to maintain the sum of the weights (of the transitions taken) non-negative while Adam tries to do the opposite. Eve does not know the exact state of the game, she is only given an equivalence class of states which contains it. In contrast, Adam has full observation. We show the fixed initial credit problem for these games is Ack-complete.

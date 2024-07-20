@@ -1,0 +1,3 @@
+Solving the Minimum Common String Partition Problem with the Help of Ants
+
+In this paper, we consider the problem of finding a minimum common partition of two strings. The problem has its application in genome comparison. As it is an NP-hard, discrete combinatorial optimization problem, we employ a metaheuristic technique, namely, MAX-MIN ant system to solve this problem. To achieve better efficiency we first map the problem instance into a special kind of graph. Subsequently, we employ a MAX-MIN ant system to achieve high quality solutions for the problem. Experimental results show the superiority of our algorithm in comparison with the state of art algorithm in the literature. The improvement achieved is also justified by standard statistical test.

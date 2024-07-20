@@ -1,0 +1,3 @@
+The exact chromatic number of the convex segment disjointness graph
+
+Let $P$ be a set of $n$ points in strictly convex position in the plane. Let $D_n$ be the graph whose vertex set is the set of all line segments with endpoints in $P$, where disjoint segments are adjacent. The chromatic number of this graph was first studied by Araujo, Dumitrescu, Hurtado, Noy, and Urrutia [2005] and then by Dujmović and Wood [2007]. Improving on their estimates, we prove the following exact formula: $$χ(D_n) = n - \left\lfloor \sqrt{2n + \tfrac{1}{4}} - \tfrac{1}{2}\right\rfloor.$$

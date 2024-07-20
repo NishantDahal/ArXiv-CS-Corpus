@@ -1,0 +1,4 @@
+Compiling with Continuations and LLVM
+
+LLVM is an infrastructure for code generation and low-level optimizations, which has been gaining popularity as a backend for both research and industrial compilers, including many compilers for functional languages. While LLVM provides a relatively easy path to high-quality native code, its design is based on a traditional runtime model which is not well suited to alternative compilation strategies used in high-level language compilers, such as the use of heap-allocated continuation closures.
+  This paper describes a new LLVM-based backend that supports heap-allocated continuation closures, which enables constant-time callcc and very-lightweight multithreading. The backend has been implemented in the Parallel ML compiler, which is part of the Manticore system, but the results should be useful for other compilers, such as Standard ML of New Jersey, that use heap-allocated continuation closures.

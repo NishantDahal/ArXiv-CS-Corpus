@@ -1,0 +1,3 @@
+Encoding CSP into CCS
+
+We study encodings from CSP into asynchronous CCS with name passing and matching, so in fact, the asynchronous pi-calculus. By doing so, we discuss two different ways to map the multi-way synchronisation mechanism of CSP into the two-way synchronisation mechanism of CCS. Both encodings satisfy the criteria of Gorla except for compositionality, as both use an additional top-level context. Following the work of Parrow and Sjödin, the first encoding uses a centralised coordinator and establishes a variant of weak bisimilarity between source terms and their translations. The second encoding is decentralised, and thus more efficient, but ensures only a form of coupled similarity between source terms and their translations.

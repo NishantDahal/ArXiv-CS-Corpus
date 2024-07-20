@@ -1,0 +1,3 @@
+Steganography - coding and intercepting the information from encoded pictures in the absence of any initial information
+
+The work includes implementation and extraction algorithms capabilities test, without any additional data (starting position, the number of bits used, gap between the amount of data encoded) information from encoded files (mostly images). The software is written using OpenMP standard [1], which allowed them to run on parallel computers. Performance tests were carried out on computers, Blue Gene/P [2], Blue Gene/Q [3] and the system consisting of four AMD Opteron 6272 [4]. Source code is available under GNU GPL v3 license and are available in a repository OLib [5].

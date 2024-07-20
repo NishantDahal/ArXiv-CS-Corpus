@@ -1,0 +1,3 @@
+Weighted Automata in Text and Speech Processing
+
+Finite-state automata are a very effective tool in natural language processing. However, in a variety of applications and especially in speech precessing, it is necessary to consider more general machines in which arcs are assigned weights or costs. We briefly describe some of the main theoretical and algorithmic aspects of these machines. In particular, we describe an efficient composition algorithm for weighted transducers, and give examples illustrating the value of determinization and minimization algorithms for weighted automata.

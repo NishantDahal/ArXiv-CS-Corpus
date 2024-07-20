@@ -1,0 +1,3 @@
+The game theoretic p-Laplacian and semi-supervised learning with few labels
+
+We study the game theoretic p-Laplacian for semi-supervised learning on graphs, and show that it is well-posed in the limit of finite labeled data and infinite unlabeled data. In particular, we show that the continuum limit of graph-based semi-supervised learning with the game theoretic p-Laplacian is a weighted version of the continuous p-Laplace equation. We also prove that solutions to the graph p-Laplace equation are approximately Holder continuous with high probability. Our proof uses the viscosity solution machinery and the maximum principle on a graph.

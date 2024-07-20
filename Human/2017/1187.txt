@@ -1,0 +1,3 @@
+Warehousing complex data from the Web
+
+The data warehousing and OLAP technologies are now moving onto handling complex data that mostly originate from the Web. However, intagrating such data into a decision-support process requires their representation under a form processable by OLAP and/or data mining techniques. We present in this paper a complex data warehousing methodology that exploits XML as a pivot language. Our approach includes the integration of complex data in an ODS, under the form of XML documents; their dimensional modeling and storage in an XML data warehouse; and their analysis with combined OLAP and data mining techniques. We also address the crucial issue of performance in XML warehouses.

@@ -1,0 +1,3 @@
+A Faster Algorithm to Recognize Even-Hole-Free Graphs
+
+We study the problem of determining whether an $n$-node graph $G$ has an even hole, i.e., an induced simple cycle consisting of an even number of nodes. Conforti, Cornuéjols, Kapoor, and Vušković gave the first polynomial-time algorithm for the problem, which runs in $O(n^{40})$ time. Later, Chudnovsky, Kawarabayashi, and Seymour reduced the running time to $O(n^{31})$. The best previously known algorithm for the problem, due to da Silva and Vušković, runs in $O(n^{19})$ time. In this paper, we solve the problem in $O(n^{11})$ time. Moreover, if $G$ has even holes, our algorithm also outputs an even hole of $G$ in $O(n^{11})$ time.

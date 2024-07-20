@@ -1,0 +1,3 @@
+Lambda Calculus with Explicit Read-back
+
+This paper introduces a new term rewriting system that is similar to the embedded read-back mechanism for interaction nets presented in our previous work, but is easier to follow than in the original setting and thus to analyze its properties. Namely, we verify that it correctly represents the lambda calculus. Further, we show that there is exactly one reduction sequence that starts with any term in our term rewriting system. Finally, we represent the leftmost strategy which is known to be normalizing.

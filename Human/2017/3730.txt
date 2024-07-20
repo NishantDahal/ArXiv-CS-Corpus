@@ -1,0 +1,3 @@
+Novel Structured Low-rank algorithm to recover spatially smooth exponential image time series
+
+We propose a structured low rank matrix completion algorithm to recover a time series of images consisting of linear combination of exponential parameters at every pixel, from under-sampled Fourier measurements. The spatial smoothness of these parameters is exploited along with the exponential structure of the time series at every pixel, to derive an annihilation relation in the $k-t$ domain. This annihilation relation translates into a structured low rank matrix formed from the $k-t$ samples. We demonstrate the algorithm in the parameter mapping setting and show significant improvement over state of the art methods.

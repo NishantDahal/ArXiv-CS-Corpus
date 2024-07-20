@@ -1,0 +1,3 @@
+Exponential Separation of Quantum and Classical One-Way Communication Complexity for a Boolean Function
+
+We give an exponential separation between one-way quantum and classical communication complexity for a Boolean function. Earlier such a separation was known only for a relation. A very similar result was obtained earlier but independently by Kerenidis and Raz [KR06]. Our version of the result gives an example in the bounded storage model of cryptography, where the key is secure if the adversary has a certain amount of classical storage, but is completely insecure if he has a similar amount of quantum storage.

@@ -1,0 +1,5 @@
+The (minimum) rank of typical fooling set matrices
+
+A fooling-set matrix has nonzero diagonal, but at least one in every pair of diagonally opposite entries is 0. Dietzfelbinger et al. '96 proved that the rank of such a matrix is at least $\sqrt n$. It is known that the bound is tight (up to a multiplicative constant).
+  We ask for the "typical" minimum rank of a fooling-set matrix: For a fooling-set zero-nonzero pattern chosen at random, is the minimum rank of a matrix with that zero-nonzero pattern over a field $\mathbb F$ closer to its lower bound $\sqrt{n}$ or to its upper bound $n$? We study random patterns with a given density $p$, and prove an $Ω(n)$ bound for the cases when: (a) $p$ tends to $0$ quickly enough, (b) $p$ tends to $0$ slowly, and $|\mathbb F|=O(1)$, (c) $p\in(0,1]$ is a constant.
+  We have to leave open the case when $p\to 0$ slowly and $\mathbb F$ is a large or infinite field (e.g., $\mathbb F=GF(2^n)$, $F=\mathbb{R}$).

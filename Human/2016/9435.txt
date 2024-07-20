@@ -1,0 +1,3 @@
+Hardware Decoders for Polar Codes: An Overview
+
+Polar codes are an exciting new class of error correcting codes that achieve the symmetric capacity of memoryless channels. Many decoding algorithms were developed and implemented, addressing various application requirements: from error-correction performance rivaling that of LDPC codes to very high throughput or low-complexity decoders. In this work, we review the state of the art in polar decoders implementing the successive-cancellation, belief propagation, and list decoding algorithms, illustrating their advantages.

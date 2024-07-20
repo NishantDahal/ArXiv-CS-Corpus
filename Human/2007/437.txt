@@ -1,0 +1,4 @@
+Constructing Optimal Highways
+
+For two points $p$ and $q$ in the plane, a straight line $h$, called a highway, and a real $v>1$, we define the \emph{travel time} (also known as the \emph{city distance}) from $p$ and $q$ to be the time needed to traverse a quickest path from $p$ to $q$, where the distance is measured with speed $v$ on $h$ and with speed 1 in the underlying metric elsewhere.
+  Given a set $S$ of $n$ points in the plane and a highway speed $v$, we consider the problem of finding a \emph{highway} that minimizes the maximum travel time over all pairs of points in $S$. If the orientation of the highway is fixed, the optimal highway can be computed in linear time, both for the $L_1$- and the Euclidean metric as the underlying metric. If arbitrary orientations are allowed, then the optimal highway can be computed in $O(n^{2} \log n)$ time. We also consider the problem of computing an optimal pair of highways, one being horizontal, one vertical.

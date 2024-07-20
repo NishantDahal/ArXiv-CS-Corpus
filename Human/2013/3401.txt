@@ -1,0 +1,3 @@
+Space-Efficient Las Vegas Algorithms for K-SUM
+
+Using hashing techniques, this paper develops a family of space-efficient Las Vegas randomized algorithms for $k$-SUM problems. This family includes an algorithm that can solve 3-SUM in $O(n^2)$ time and $O(\sqrt{n})$ space. It also establishes a new time-space upper bound for SUBSET-SUM, which can be solved by a Las Vegas algorithm in $O^*(2^{(1-\sqrt{\8/9β})n})$ time and $O^*(2^{βn})$ space, for any $β\in [0, \9/32]$.

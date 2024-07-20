@@ -1,0 +1,3 @@
+A Distributed TDMA Slot Assignment Algorithm for Wireless Sensor Networks
+
+Wireless sensor networks benefit from communication protocols that reduce power requirements by avoiding frame collision. Time Division Media Access methods schedule transmission in slots to avoid collision, however these methods often lack scalability when implemented in \emph{ad hoc} networks subject to node failures and dynamic topology. This paper reports a distributed algorithm for TDMA slot assignment that is self-stabilizing to transient faults and dynamic topology change. The expected local convergence time is O(1) for any size network satisfying a constant bound on the size of a node neighborhood.

@@ -1,0 +1,3 @@
+Non-catastrophic Encoders and Encoder Inverses for Quantum Convolutional Codes
+
+We present an algorithm to construct quantum circuits for encoding and inverse encoding of quantum convolutional codes. We show that any quantum convolutional code contains a subcode of finite index which has a non-catastrophic encoding circuit. Our work generalizes the conditions for non-catastrophic encoders derived in a paper by Ollivier and Tillich (quant-ph/0401134) which are applicable only for a restricted class of quantum convolutional codes. We also show that the encoders and their inverses constructed by our method naturally can be applied online, i.e., qubits can be sent and received with constant delay.

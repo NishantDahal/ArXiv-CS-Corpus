@@ -1,0 +1,3 @@
+Randomized selection with tripartitioning
+
+We show that several versions of Floyd and Rivest's algorithm Select [Comm.\ ACM {\bf 18} (1975) 173] for finding the $k$th smallest of $n$ elements require at most $n+\min\{k,n-k\}+o(n)$ comparisons on average, even when equal elements occur. This parallels our recent analysis of another variant due to Floyd and Rivest [Comm. ACM {\bf 18} (1975) 165--172]. Our computational results suggest that both variants perform well in practice, and may compete with other selection methods, such as Hoare's Find or quickselect with median-of-3 pivots.

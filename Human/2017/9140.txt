@@ -1,0 +1,4 @@
+Cloud-based Fault Detection and Classification for Oil & Gas Industry
+
+Oil & Gas industry relies on automated, mission-critical equipment and complex systems built upon their interaction and cooperation. To assure continuous operation and avoid any supervision, architects embed Distributed Control Systems (DCS), a.k.a. Supervisory Control and Data Acquisition (SCADA) systems, on top of their equipment to generate data, monitor state and make critical online & offline decisions.
+  In this paper, we propose a new Lambda architecture for oil & gas industry for unified data and analytical processing on data received from DCS, discuss cloud integration issues and share our experiences with the implementation of sensor fault-detection and classification modules inside the proposed architecture.

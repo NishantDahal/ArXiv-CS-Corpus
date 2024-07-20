@@ -1,0 +1,3 @@
+Communication Bottlenecks in Scale-Free Networks
+
+We consider the effects of network topology on the optimality of packet routing quantified by $γ_c$, the rate of packet insertion beyond which congestion and queue growth occurs. The key result of this paper is to show that for any network, there exists an absolute upper bound, expressed in terms of vertex separators, for the scaling of $γ_c$ with network size $N$, irrespective of the routing algorithm used. We then derive an estimate to this upper bound for scale-free networks, and introduce a novel static routing protocol which is superior to shortest path routing under intense packet insertion rates.

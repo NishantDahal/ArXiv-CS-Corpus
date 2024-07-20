@@ -1,0 +1,4 @@
+Parameterized complexity of length-bounded cuts and multi-cuts
+
+We show that the Minimal Length-Bounded L-But problem can be computed in linear time with respect to L and the tree-width of the input graph as parameters. In this problem the task is to find a set of edges of a graph such that after removal of this set, the shortest path between two prescribed vertices is at least L long. We derive an FPT algorithm for a more general multi-commodity length bounded cut problem when parameterized by the number of terminals also.
+  For the former problem we show a W[1]-hardness result when the parameterization is done by the path-width only (instead of the tree-width) and that this problem does not admit polynomial kernel when parameterized by tree-width and L. We also derive an FPT algorithm for the Minimal Length-Bounded Cut problem when parameterized by the tree-depth. Thus showing an interesting paradigm for this problem and parameters tree-depth and path-width.

@@ -1,0 +1,3 @@
+Finite Element Model Updating Using Fish School Search Optimization Method
+
+A recent nature inspired optimization algorithm, Fish School Search (FSS) is applied to the finite element model (FEM) updating problem. This method is tested on a GARTEUR SM-AG19 aeroplane structure. The results of this algorithm are compared with two other metaheuristic algorithms; Genetic Algorithm (GA) and Particle Swarm Optimization (PSO). It is observed that on average, the FSS and PSO algorithms give more accurate results than the GA. A minor modification to the FSS is proposed. This modification improves the performance of FSS on the FEM updating problem which has a constrained search space.

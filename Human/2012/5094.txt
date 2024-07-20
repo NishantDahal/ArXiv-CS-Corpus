@@ -1,0 +1,3 @@
+A simplified and generalized treatment of DES related ciphers
+
+This work is a study of DES-like ciphers where the bitwise exclusive-or (XOR) operation in the underlying Feistel network is replaced by an arbitrary group operation. We construct a two round simplified version of DES that contains all the DES components and show that its set of encryption permutations is not a group under functional composition, it is not a pure cipher and its set of encryption permutations does not generate the alternating group. We present a non-computational proof that for n\leq6 the set of n-round Feistel permutations over an arbitrary group do not constitute a group under functional composition.

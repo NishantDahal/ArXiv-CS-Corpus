@@ -1,0 +1,3 @@
+Polynomial Time Nondimensionalisation of Ordinary Differential Equations via their Lie Point Symmetries
+
+Lie group theory states that knowledge of a $m$-parameters solvable group of symmetries of a system of ordinary differential equations allows to reduce by $m$ the number of equation. We apply this principle by finding dilatations and translations that are Lie point symmetries of considered ordinary differential system. By rewriting original problem in an invariant coordinates set for these symmetries, one can reduce the involved number of parameters. This process is classically call nondimensionalisation in dimensional analysis. We present an algorithm based on this standpoint and show that its arithmetic complexity is polynomial in input's size.

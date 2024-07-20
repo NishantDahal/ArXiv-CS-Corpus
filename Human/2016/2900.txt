@@ -1,0 +1,4 @@
+S-hull: a fast radial sweep-hull routine for Delaunay triangulation
+
+A new O(nlog(n)) algorithm is presented for performing Delaunay triangulation of sets of 2D points. The novel component of the algorithm is a radially propagating \emph{sweep-hull} (sequentially created from the radially sorted set of 2D points, giving a non-overlapping triangulation), paired with a final triangle flipping step to give the Delaunay triangluation.
+  In empirical tests the algorithm runs in approximately half the time of q-hull for 2D Delaunay triangulation on randomly generated point sets.

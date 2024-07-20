@@ -1,0 +1,3 @@
+Proof-of-Concept Examples of Performance-Transparent Programming Models
+
+Machine-specific optimizations command the machine to behave in a specific way. As current programming models largely leave machine details unexposed, they cannot accommodate direct encoding of such commands. In previous work we have proposed the design of performance-transparent programming models to facilitate this use-case; this report contains proof-of-concept examples of such programming models. We demonstrate how programming model abstractions may reveal the memory footprint, vector unit utilization and data reuse of an application, with prediction accuracy ranging from 0 to 25 \%.

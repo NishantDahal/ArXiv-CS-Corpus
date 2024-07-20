@@ -1,0 +1,6 @@
+Acyclic orientations with degree constraints
+
+In this note we study the complexity of some generalizations of the notion of $st$-numbering.
+  Suppose that given some functions $f$ and $g$, we want to order the vertices of a graph such that every vertex $v$ is preceded by at least $f(v)$ of its neighbors and succeeded by at least $g(v)$ of its neighbors.
+  We prove that this problem is solvable in polynomial time if $fg\equiv 0$, but it becomes NP-complete for $f\equiv g \equiv 2$.
+  This answers a question of the first author posed in 2009.

@@ -1,0 +1,3 @@
+Complexity of Single-Swap Heuristics for Metric Facility Location and Related Problem
+
+Metric facility location and $K$-means are well-known problems of combinatorial optimization. Both admit a fairly simple heuristic called single-swap, which adds, drops or swaps open facilities until it reaches a local optimum. For both problems, it is known that this algorithm produces a solution that is at most a constant factor worse than the respective global optimum. In this paper, we show that single-swap applied to the weighted metric uncapacitated facility location and weighted discrete $K$-means problem is tightly PLS-complete and hence has exponential worst-case running time.

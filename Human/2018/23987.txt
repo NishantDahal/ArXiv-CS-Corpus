@@ -1,0 +1,3 @@
+Finding cliques using few probes
+
+Consider algorithms with unbounded computation time that probe the entries of the adjacency matrix of an $n$ vertex graph, and need to output a clique. We show that if the input graph is drawn at random from $G_{n,\frac{1}{2}}$ (and hence is likely to have a clique of size roughly $2\log n$), then for every $δ< 2$ and constant $\ell$, there is an $α< 2$ (that may depend on $δ$ and $\ell$) such that no algorithm that makes $n^δ$ probes in $\ell$ rounds is likely (over the choice of the random graph) to output a clique of size larger than $α\log n$.

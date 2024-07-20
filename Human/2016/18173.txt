@@ -1,0 +1,3 @@
+Reinforcement Learning Approach for Parallelization in Filters Aggregation Based Feature Selection Algorithms
+
+One of the classical problems in machine learning and data mining is feature selection. A feature selection algorithm is expected to be quick, and at the same time it should show high performance. MeLiF algorithm effectively solves this problem using ensembles of ranking filters. This article describes two different ways to improve MeLiF algorithm performance with parallelization. Experiments show that proposed schemes significantly improves algorithm performance and increase feature selection quality.

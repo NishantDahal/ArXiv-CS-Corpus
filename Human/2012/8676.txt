@@ -1,0 +1,3 @@
+AI in arbitrary world
+
+In order to build AI we have to create a program which copes well in an arbitrary world. In this paper we will restrict our attention on one concrete world, which represents the game Tick-Tack-Toe. This world is a very simple one but it is sufficiently complicated for our task because most people cannot manage with it. The main difficulty in this world is that the player cannot see the entire internal state of the world so he has to build a model in order to understand the world. The model which we will offer will consist of final automata and first order formulas.
